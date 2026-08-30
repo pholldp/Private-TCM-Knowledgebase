@@ -1,0 +1,73 @@
+# Xiao Ban Xia Jia Fu Ling Tang (小半夏加茯苓汤)
+**English Name**: Minor Pinellia Decoction plus Poria  
+**Category**: Phlegm-resolving formulas, Dampness-drying and Phlegm-transforming formulas  
+**Dynasty/Source**: Jin Gui Yao Lue (金匮要略, Essential Prescriptions from the Golden Cabinet) by Zhang Zhongjing  
+**Temperature**: Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A simple classical formula used to stop nausea and vomiting caused by fluid accumulation in the digestive area. It is especially suited for people who experience sudden vomiting along with a feeling of fullness in the upper belly, dizziness, and heart palpitations, all resulting from retained water and phlegm in the middle body.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Harmonizes the Stomach and Stops Vomiting, Descends Qi, Dries Dampness and Transforms Phlegm, Promotes Urination and Drains Dampness, Supplements Earth to Control Water
+- **Therapeutic Focus**: Nausea and Vomiting Relief, Digestive Health, Dizziness and Vertigo, Morning Sickness
+- **Target Organs**: Spleen, Stomach, Lungs
+- **Patterns Addressed**: 
+- **Conditions Treated**: Morning Sickness, Meniere's Disease, Epigastric Fullness And Pain Relieved By Vomiting, Nausea, Dizziness, Palpitations, Gastritis, Acid Reflux, Motion Sickness
+- **Other Names**: Ban Xia Fu Ling Tang (半夏茯苓汤), Fu Ling Ban Xia Tang (茯苓半夏汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ban Xia** | Pinellia rhizome | *King* | 12 - 18g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs | The principal herb, Ban Xia dries Dampness, transforms Phlegm, causes rebellious Stomach Qi to descend, and is a primary anti-emetic. It directly addresses the core pathology of retained fluid and Phlegm obstructing the middle burner, and its warm, acrid nature disperses the accumulated pathogenic water. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Deputy* | 10 - 18g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Known classically as the 'sage herb for vomiting' (呕家圣药), Sheng Jiang warms the middle burner, disperses cold and water accumulation, and powerfully stops vomiting. It reinforces Ban Xia's anti-emetic and fluid-dispersing action while also moderating Ban Xia's toxicity. The pairing of Ban Xia and Sheng Jiang is the fundamental anti-vomiting combination in Chinese medicine. |
+| **Fu Ling** | Poria | *Deputy* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Fu Ling promotes urination and drains Dampness downward, giving the retained water an exit route through the lower body. It also strengthens the Spleen to prevent further fluid accumulation and calms the Heart to address palpitations. Its addition to the base Xiao Ban Xia Tang transforms a simple anti-emetic into a formula that also resolves the underlying water pathology causing dizziness and palpitations. |
+
+---
+
+## Scientific Research
+
+1. [Systematic review and meta-analysis: Efficacy and safety of Xiao-Ban-Xia-Tang in chemotherapy-induced nausea and vomiting (2024)](https://doi.org/10.3389/fphar.2024.1393597) (*Li L, Jia S, Yu C, Shi S, Peng F. Frontiers in Pharmacology, 2024, Volume 15, Article 1393597.*)
+> This systematic review pooled data from 16 randomized controlled trials involving 1,246 cancer patients. It found that Xiao Ban Xia Tang combined with standard antiemetic drugs was significantly more effective than antiemetics alone in reducing both nausea and vomiting, improving eating ability, and improving quality of life. The combination showed a vomiting relief improvement with a risk ratio of 1.35 (95% CI: 1.25-1.46). Most included trials had low or unclear risk of bias, though all were conducted in China.
+2. [Preclinical study: Antiemetic effect of Xiao-Ban-Xia-Tang on cisplatin-induced emesis via NLRP3 inflammasome inhibition in rats (2020)](https://doi.org/10.1155/2020/5497078) (*Meng Q, Cheng Q, Feng X, Chen S, Li Y, Zhang G, et al. Evidence-Based Complementary and Alternative Medicine, 2020, Volume 2020, Article 5497078.*)
+> Using a cisplatin-induced rat pica model (where rats consume kaolin clay as a proxy for vomiting), this study demonstrated that Xiao Ban Xia Tang significantly reduced kaolin consumption. The mechanism was linked to suppression of the NLRP3 inflammasome pathway, with reduced levels of inflammatory markers (IL-1β, IL-18) and reactive oxygen species in gastrointestinal tissue. This suggests the formula's antiemetic action involves anti-inflammatory effects beyond simple receptor blockade.
+3. [Preclinical study: Xiao-Ban-Xia Decoction alleviates CINV by inhibiting ferroptosis via the Nrf2/SLC7A11/GPX4 pathway (2024)](https://doi.org/10.1002/adbi.202400323) (*Liang W, Ren Y, Wang Y, Chen W, Mo Z, Yang C, Nie K. Advanced Biology, 2024, Volume 8, Article 2400323.*)
+> This preclinical study found that the formula significantly reduced cisplatin-induced emesis-like behavior in rats by inhibiting ferroptosis (a form of iron-dependent cell death) in gastrointestinal tissue. The formula activated the Nrf2/SLC7A11/GPX4 signaling pathway, improved iron deposition, reduced oxidative stress, and corrected mitochondrial abnormalities in the stomach and intestine, revealing a novel mechanism underlying its antiemetic effects.
+4. [Preclinical study: Antiemetic effect of Xiao-Ban-Xia-Tang on cisplatin-induced acute and delayed emesis in minks (2010)](https://doi.org/10.1016/j.jep.2010.01.039) (*Liu C et al. Journal of Ethnopharmacology, 2010.*)
+> This animal study tested the formula in minks, which can vomit like humans. The formula significantly reduced both acute (0-24h) and delayed (24-72h) retching and vomiting induced by cisplatin in a dose-dependent manner. Western blot analysis showed the formula downregulated NK1 receptor expression in the area postrema (a brain region involved in the vomiting reflex) and ileum, suggesting it acts on the substance P/NK1 receptor pathway.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Ban Xia (Pinellia) is traditionally classified among substances to be used cautiously in pregnancy (妊娠慎用药) due to its potential to be overly drying and its downward-directing Qi action. However, this formula has a long history of use for treating severe morning sickness (pregnancy vomiting, 妊娠恶阻) when it fits the pattern of phlegm-fluid retention with vomiting. In classical practice, it is considered appropriate for pregnancy nausea when clear fluid retention is the clear cause. Modern practitioners commonly use it for hyperemesis gravidarum under professional supervision, typically with processed Ban Xia (Zhi Ban Xia) rather than raw. A qualified practitioner should assess the pattern carefully before prescribing, and dosage should be conservative.
+
+### Breastfeeding
+Generally considered compatible with breastfeeding when used short-term and at standard dosages under professional guidance. Ban Xia (Pinellia) and Sheng Jiang (fresh ginger) are common culinary and medicinal substances with a long history of use postpartum. Fu Ling (Poria) is a mild, food-grade herb. There are no specific classical or modern warnings regarding transfer of harmful substances through breast milk. However, the drying nature of the formula should be considered if the mother has low milk supply, as excessive drying may theoretically reduce lactation. If milk production is a concern, the formula should be used briefly and the situation monitored.
+
+### Children
+This formula can be used in children with appropriate dosage reduction based on age and weight. As a general guideline: children under 3 years should receive roughly one-quarter of the adult dose; ages 3-6 about one-third; ages 6-12 about one-half. Ban Xia should always be used in its processed form (Zhi Ban Xia) for pediatric patients to minimize any potential irritation. Fresh ginger (Sheng Jiang) is generally well-tolerated by children. The formula may be considered for pediatric vomiting due to fluid retention, but a practitioner should confirm the pattern before use. The taste may be difficult for young children; mixing with a small amount of honey (for children over 1 year) or diluting may improve palatability.
+
+### Drug Interactions
+Antiemetic drugs (5-HT3 receptor antagonists such as ondansetron, granisetron): Research suggests that Xiao Ban Xia Tang may have additive or synergistic effects when combined with these drugs, as its active components (gingerols from Sheng Jiang, alkaloids from Ban Xia) appear to act on overlapping pathways including 5-HT3 receptors. While this combination has been studied favorably in clinical trials for chemotherapy-induced vomiting, concurrent use should be coordinated with the treating oncologist.
+Diuretics: Fu Ling (Poria) has mild diuretic properties. In patients already taking pharmaceutical diuretics, the combination may theoretically enhance fluid loss. Monitor hydration and electrolyte status, especially potassium levels.
+Anticoagulants and antiplatelet agents: Sheng Jiang (fresh ginger) in high doses has been reported to have mild antiplatelet effects. While the amounts in this formula are unlikely to pose significant risk, patients on warfarin, heparin, or other blood thinners should inform their prescribing physician.
+Hypoglycemic agents: Ginger may have mild blood sugar-lowering effects. Diabetic patients on insulin or oral hypoglycemics should monitor blood glucose when starting the formula.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: 30 minutes before meals, taken warm in two divided doses per day. For severe nausea or vomiting, may be sipped in small frequent amounts throughout the day rather than taken in full doses.
+- **Typical Duration**: Acute use: 3-7 days for sudden vomiting or nausea episodes; may be extended to 1-2 weeks for persistent conditions like morning sickness or post-chemotherapy nausea, reassessed by a practitioner.
+- **Dietary Advice**: Avoid cold and raw foods (including salads, iced drinks, ice cream, and raw fruit) while taking this formula, as cold foods impair the Spleen's ability to transform fluids and can worsen fluid accumulation. Avoid greasy, oily, and rich foods that generate dampness and phlegm. The classical text specifically notes to avoid lamb broth (忌羊肉汤). Dairy products, sweets, and sticky glutinous foods should also be minimized as they tend to produce dampness. Favor warm, easily digestible foods such as congee (rice porridge), lightly cooked vegetables, and clear soups. Small, frequent meals are preferable to large ones when nausea is present.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/xiao-ban-xia-jia-fu-ling-tang](https://www.meandqi.com/knowledge-base/formulas/xiao-ban-xia-jia-fu-ling-tang)*

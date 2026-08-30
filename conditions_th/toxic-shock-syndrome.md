@@ -1,0 +1,223 @@
+# กลุ่มอาการช็อกที่เป็นพิษ (毒性休克综合征)
+**คำอ่านพินอิน**: dú xìng xiū kè zōng hé zhēng | **ประเภท**: Condition | **หมวดหมู่**: พิษและเกี่ยวข้องกับแอลกอฮอล์, โรคติดเชื้อ  
+**ชื่อเรียกอื่นๆ**:  | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ใน TCM การลุกลามของกลุ่มอาการช็อกจากสารพิษ ตั้งแต่ไข้สูง ผื่นสีม่วง ไปจนถึงอาการอ่อนเพลีย เป็นแผนที่แสดงให้เห็นว่าความร้อนที่เป็นพิษเคลื่อนจากพื้นผิวของร่างกายไปยังชั้นที่ลึกที่สุดได้อย่างไร ที...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Toxic Shock Syndrome is a rare but serious condition caused by bacterial toxins - most commonly from Staphylococcus aureus or group A Streptococcus - entering the bloodstream. It triggers a sudden, overwhelming inflammatory response that leads to high fever, a sunburn-like rash, dangerously low blood pressure, and rapid multi-organ failure. Diagnosis is made clinically based on a set of criteria including fever, hypotension, rash, and evidence of organ involvement, confirmed by lab tests. Immediate intensive care is essential.
+
+### การรักษาหลัก (Treatments)
+Standard treatment requires immediate hospitalization, intravenous antibiotics to stop toxin production, aggressive fluid resuscitation, and medications to support blood pressure. Patients often need intensive care monitoring, and in severe cases surgery to remove infected tissue. The goal is to stabilize vital functions and prevent permanent organ damage.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM views Toxic Shock Syndrome as an invasion of “toxic heat” (dú huǒ) - an extreme pathogenic factor that penetrates deeply and rapidly disrupts the body's normal functions. This heat toxin attacks the body's defensive Qi, scorches the blood, and obstructs the flow of Qi in the organs. The result is a cascade of damage that mirrors the Western understanding of systemic inflammation, but is described through the lens of heat, blood stasis, and Qi stagnation.
+The primary organ systems involved are the Heart, which houses the mind and governs the blood; the Lung, which controls the defensive Wei Qi at the surface; the Spleen and Stomach, which manage digestion and energy production; and the Large Intestine, which must keep Qi descending. When toxic heat overwhelms these systems, the patient develops high fever, confusion, a red rash, abdominal bloating, and a rapid drop in blood pressure.
+Because each person’s constitution is different, and the disease progresses through stages, TCM identifies several distinct patterns. In the early, explosive stage, pure Toxic-Heat dominates with a bright red tongue and full pulse. As the heat scorches the blood, it congeals and creates Blood Stagnation with Heat - a dark purplish rash and choppy pulse. If the bowels seize up, Large Intestine Qi Stagnation emerges with bloating and constipation.
+And after the crisis, many are left with a profound Qi and Yin Deficiency - extreme fatigue, dry mouth, and a weak pulse. These patterns are not separate illnesses but snapshots of a single dangerous process, guiding treatment at every step.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner first looks at the fever, skin, and overall severity. In the Toxic-Heat pattern, the illness hits hard and fast: extremely high fever, a bright red tongue with a thick yellow coat, and a rapid, slippery pulse. The skin may show a diffuse red rash, and the person feels intensely hot and restless. This pattern dominates the early, explosive stage of toxic shock syndrome.
+If the rash turns purplish or bruise-like, and the tongue becomes dark purple with stasis spots, the picture shifts to Blood Stagnation with Heat. The pulse feels choppy or wiry, and there may be sharp, fixed pain or purplish discoloration in the limbs. This pattern signals that heat toxins have damaged the blood vessels and are now obstructing normal circulation, worsening tissue damage.
+When abdominal bloating, constipation, or a feeling of chest oppression appears, a practitioner suspects Large Intestine Qi Stagnation. The tongue body remains light red with a thin white coating, and the pulse turns wiry. This pattern reflects the way severe infection can paralyze gut motility, trapping turbid qi and worsening the overall toxic burden on the body.
+Later in the illness, or in someone who was already constitutionally weak, signs of Qi and Yin Deficiency emerge. The fever may be lower, but profound fatigue, shortness of breath, and a pale tongue with little or no coat take over. The pulse is weak and thready. This pattern shows that the body’s vital energy and fluids have been severely drained, and recovery depends on rebuilding them.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「入血就恐耗血动血，直须凉血散血」
+> 
+> **คำแปลภาษาอังกฤษ**: "When heat enters the blood level, one must fear it will consume the blood and stir reckless bleeding; the treatment is to cool the blood and disperse stasis."
+> 
+> — แหล่งที่มา: *Wen Re Lun (Treatise on Warm Heat Diseases)  ,  Discussion of Blood-Level Heat 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Toxic-Heat
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/toxic-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: High fever with a burning sensation, Red, swollen, hot, painful skin rash or sore throat, Intense thirst with desire for cold drinks, Restlessness and irritability, Dark, scanty urine, Flushed face
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, greasy, or fried foods, Hot, stuffy rooms, Overexertion, Emotional stress or anger
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool, quiet environment, Applying cool compresses to skin, Drinking plenty of cool water or herbal teas
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When a powerful external toxin invades the body, it creates intense Heat that spreads rapidly through the blood. This Heat-Toxin damages the Qi and Blood, causing high fever, red skin eruptions, and a sudden drop in blood pressure as the body's vital energy is overwhelmed. The Heat also scorches the throat and mouth, leading to swelling, pain, and intense thirst.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with prickly raised papillae ('thorns'), dry yellow coating. Pulse: rapid (shu), forceful, and full (shi) or overflowing (hong).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Toxic-Heat is an intense Fire pathogen that consumes body fluids and agitates the mind. Heat, spicy foods, and emotional stress further fan the flames, worsening the fever and rash. Cooling measures and rest help the body clear the toxin and preserve Yin, allowing the immune response to calm down.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Sip cool, clear fluids like chrysanthemum tea or mung bean soup to help clear heat. Avoid spicy, fried, and rich foods that add internal heat. Rest completely in a cool, quiet room to conserve energy for healing.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shuang Huang Lian Tang](https://www.meandqi.com/knowledge-base/formulas/shuang-huang-lian-tang)** | Honeysuckle, Scutellaria and Forsythia Formula &#xB7; Modern era (People&#x27;s Republic of China), circa 1970s | Cold, Disperses Wind-Heat, Clears Heat and Resolves Toxicity, Benefits the Throat | A classic heat-clearing, toxin-resolving formula for early-stage toxic shock with high fever and sore throat. |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | Disperses wind-heat and resolves toxin, especially when skin rash and throat symptoms first appear. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears heat and resolves toxin, a key herb for febrile illnesses with skin eruptions. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears heat and dries dampness, reduces inflammation in the throat and skin. |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit |  | Clears heat and resolves toxin, helps bring down swelling and fever. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Clears heat and relieves the exterior, helps bring down fever. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Cools the blood and clears heat, especially for skin eruptions. |
+| **DU-14** | [Dazhui DU-14](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/dazhui-du-14) | D&#xE0; Chu&#xED; | Clears Wind-Heat, Releases the Exterior | The meeting point of all Yang channels, strongly clears heat and toxin. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the body&#x27;s ability to fight off the toxin and supports recovery. |
+
+---
+
+### Blood Stagnation with Heat
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/blood-stagnation-with-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fixed stabbing pain, Pain worsens at night, Dark purplish rash or bruising, Restlessness and irritability, Thirst with desire to rinse mouth but not swallow
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Alcohol and spicy food, Emotional stress and anger, Heat and hot environments, Prolonged inactivity
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods and drinks, Gentle movement, Rest in a cool environment
+- **กลไกการเกิดอาการ (Why this happens)**:
+  As the intense heat of the infection scorches the blood, it thickens and congeals, creating a state of blood stasis. This stuck, heated blood then blocks the fine vessels of the skin and organs. The result is the characteristic dark purplish rash, bruising, and a deep, stabbing pain that feels fixed and worsens with pressure or at night.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: reddish-purple body with stasis spots and distended sublingual veins, thin dry yellow coat. Pulse: choppy (涩 sè) and rapid (数 shuò), often wiry at the left Guan position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Heat congeals the blood, so cooling foods and environments thin the blood and ease stasis. Gentle movement keeps Qi and blood flowing, preventing further stagnation. Stress and anger stir up Liver Qi and fan the flames of heat, while alcohol and spicy foods add fuel to the fire, worsening the stabbing pain and dark rash.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat cooling foods that gently move blood, such as eggplant, peach, and hawthorn berry. Avoid alcohol, spicy foods, and fried items that add heat. Gentle walking or stretching can help prevent blood from pooling, but rest when pain is severe.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The primary formula to invigorate blood, dispel stasis, and clear heat from the blood level. |
+| **[Tao Hong Si Wu Tang](https://www.meandqi.com/knowledge-base/formulas/tao-hong-si-wu-tang)** | Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE | Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation | A classic blood-moving formula that can be modified with heat-clearing herbs to address the combined pattern. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Invigorates blood and cools the heat, easing stasis without causing dryness. |
+| **[Chi Shao](https://www.meandqi.com/knowledge-base/herbs/chi-shao)** | Red peony root |  | Cools the blood, resolves stasis, and reduces the dark purplish rash. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood, directly invigorates blood circulation and clears heat from the blood. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates blood and moves stasis, especially in the lower abdomen and skin. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Clears heat from the body and cools the blood to reduce the rash and restlessness. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Moves Liver Qi and blood, alleviating pain and irritability. |
+
+---
+
+### Large Intestine Qi Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/large-intestine-qi-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Abdominal distension and bloating, Cramping pain that moves location, Constipation or small, fragmented stools, Feeling of incomplete bowel evacuation, Excessive gas, belching, and rumbling, Symptoms worsen with emotional stress
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress or anger, Heavy, greasy, or cold foods, Prolonged inactivity, Pressure on the abdomen
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Passing gas or having a bowel movement, Gentle abdominal massage, Warm liquids and light meals, Stress reduction and rest
+- **กลไกการเกิดอาการ (Why this happens)**:
+  In Toxic Shock Syndrome, the body's Qi mechanism becomes disrupted by overwhelming heat and toxins. This can cause the Large Intestine's Qi to stall, leading to a functional obstruction. When the Qi cannot descend properly, gas, stool, and pressure build up, producing the hallmark bloating, cramping, and constipation seen in this pattern.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal light red body with a thin white coating. Pulse: wiry (弦 xián), especially at the left middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Stress and anger cause Liver Qi to stagnate and then 'invade' the Spleen and Stomach, directly jamming the Large Intestine's downward movement. Warmth and gentle motion help unblock stuck Qi, while heavy or cold foods demand more digestive effort and further stall an already sluggish system. Movement, both physical and through massage, physically and energetically coaxes the Qi to flow again.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat small, light, warm meals-think soups and congees-and avoid cold, raw, or greasy foods that bog down digestion. Gentle abdominal massage in a clockwise direction can encourage movement. Daily walking or gentle stretching helps keep Qi flowing and eases stress that tightens the gut.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Mu Xiang Bing Lang Wan](https://www.meandqi.com/knowledge-base/formulas/mu-xiang-bing-lang-wan)** | Aucklandia and Betel Nut Pill &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), ~1228 CE | Cool, Moves Qi and Resolves Stagnation, Purges Heat and Unblocks the Bowels, Clears Heat and dries Dampness | This formula promotes Qi movement in the Large Intestine, breaks up stagnation, and guides stuck Qi downward to relieve bloating and constipation. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Mu Xiang](https://www.meandqi.com/knowledge-base/herbs/mu-xiang)** | Costus root |  | Warms and moves Qi in the intestines, relieving distension and pain. |
+| **[Bing Lang](https://www.meandqi.com/knowledge-base/herbs/bing-lang)** | Areca seed (Betel nut) |  | Drives Qi downward and breaks through stagnation, easing constipation. |
+| **[Zhi Shi](https://www.meandqi.com/knowledge-base/herbs/zhi-shi)** | Immature Bitter Orange Fruit |  | Breaks up stagnant Qi and phlegm in the chest and abdomen, helping to unblock the bowels. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front-Mu point of the Large Intestine; directly regulates intestinal Qi and relieves bloating. |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | Lower He-Sea point of the Large Intestine; specifically treats abdominal pain and constipation. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Smooths Liver Qi stagnation, which often underlies intestinal Qi stagnation, especially when stress is a trigger. |
+
+---
+
+### Qi and Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Profound fatigue and weakness that persists after the acute illness, Shortness of breath worsened by the slightest exertion, Dry mouth and throat with little desire to drink, Night sweats and a warm sensation in the palms, soles, and chest, Heart palpitations and dizziness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overexertion or prolonged standing, Stress and emotional upset, Spicy, fried, or drying foods, Insufficient sleep, Excessive sweating
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and sleep, Warm, nourishing fluids like broth or congee, Gentle, slow movement, Acupuncture and herbal tonics
+- **กลไกการเกิดอาการ (Why this happens)**:
+  During Toxic Shock Syndrome, the intense fever and toxin damage consume the body's Qi and Yin fluids. Once the acute crisis subsides, or in someone who was already constitutionally weak, this leaves a profound depletion of both energy and moisture. The lack of Qi causes overwhelming fatigue and breathlessness, while the Yin deficiency creates internal dryness and heat, leading to night sweats, a dry mouth, and a thin, weak pulse.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red or pale-red body with a thin or absent coating, possibly cracked and dry. Pulse: fine (thin) and weak, often rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: After a severe toxic shock, the body's Qi and Yin are deeply depleted. Rest and nourishing foods gently replenish these foundational resources, while overexertion, stress, and spicy foods further drain them, slowing recovery. Gentle movement encourages circulation without consuming energy, while acupuncture and herbs directly reinforce the body's ability to generate Qi and preserve moisture.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat small, frequent meals of easily digested, nourishing foods like congee, steamed vegetables, and bone broth. Avoid spicy, fried, or drying foods that further consume Yin. Prioritize rest and gentle activities like walking or qigong, never pushing into exhaustion. Keep warm and avoid drafts.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Sheng Mai San](https://www.meandqi.com/knowledge-base/formulas/sheng-mai-san)** | Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE | Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin | The classic formula to tonify Qi and nourish Yin after a severe febrile illness, restoring energy and fluids. |
+| **[Shuang Huang Lian Tang](https://www.meandqi.com/knowledge-base/formulas/shuang-huang-lian-tang)** | Honeysuckle, Scutellaria and Forsythia Formula &#xB7; Modern era (People&#x27;s Republic of China), circa 1970s | Cold, Disperses Wind-Heat, Clears Heat and Resolves Toxicity, Benefits the Throat | A widely used modern Chinese herbal formula for treating the common cold and respiratory infections caused by Wind-Heat. It helps reduce fever, relieve sore throat, and ease cough. The formula combines three cooling, Heat-clearing herbs and is best suited for infections with pronounced Heat signs rather than Cold-type illnesses. |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Tao Hong Si Wu Tang](https://www.meandqi.com/knowledge-base/formulas/tao-hong-si-wu-tang)** | Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE | Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation | A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation. |
+| **[Mu Xiang Bing Lang Wan](https://www.meandqi.com/knowledge-base/formulas/mu-xiang-bing-lang-wan)** | Aucklandia and Betel Nut Pill &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), ~1228 CE | Cool, Moves Qi and Resolves Stagnation, Purges Heat and Unblocks the Bowels, Clears Heat and dries Dampness | A classical formula used to relieve severe digestive blockage, abdominal bloating and pain, constipation, and dysentery caused by food stagnation combined with internal dampness and heat. It works by strongly moving Qi, clearing accumulated heat, and promoting bowel movement. This is a powerful formula suited for robust constitutions with significant intestinal congestion, not for everyday mild indigestion. |
+| **[Sheng Mai San](https://www.meandqi.com/knowledge-base/formulas/sheng-mai-san)** | Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE | Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin | A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root |  | Powerfully tonifies the original Qi to rebuild strength. |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Nourishes the Yin of the Heart and Lungs, relieving dryness and palpitations. |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry |  | Astringes Yin and stops night sweats, preventing further fluid loss. |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower | Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit | Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[Chi Shao](https://www.meandqi.com/knowledge-base/herbs/chi-shao)** | Red peony root | Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire |  |
+| **[Mu Xiang](https://www.meandqi.com/knowledge-base/herbs/mu-xiang)** | Costus root | Warm, Moves Qi and Alleviates Pain, Strengthens the Spleen and Promotes Digestion, Regulates Qi Flow in the Chest, Abdomen and Lower Body |  |
+| **[Bing Lang](https://www.meandqi.com/knowledge-base/herbs/bing-lang)** | Areca seed (Betel nut) | Warm, Expels Parasites, Promotes Digestion and Resolves Food Stagnation, Moves Qi |  |
+| **[Zhi Shi](https://www.meandqi.com/knowledge-base/herbs/zhi-shi)** | Immature Bitter Orange Fruit | Slightly Cool, Breaks Qi and Eliminates Focal Distention, Promotes Digestion and Resolves Food Stagnation, Transforms Phlegm and Dissipates Nodules |  |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs |  |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root | Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability |  |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry | Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Qi and strengthens the Spleen to support energy production. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Yin and harmonizes the Spleen, Liver, and Kidneys. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Tonifies Qi and anchors Yang, helping to lift energy and stop sweating. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Nourishes Kidney Yin to cool the body and moisten dryness. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM treat Toxic Shock Syndrome on its own?
+No. Toxic Shock Syndrome is a medical emergency that requires immediate Western hospital care, including intravenous antibiotics and intensive support. TCM is used only as a complementary therapy alongside standard treatment, never as a replacement. Attempting to treat TSS solely with herbs or acupuncture could be fatal.
+
+### How does acupuncture help during recovery from TSS?
+Acupuncture can be very helpful once the acute crisis is over. It is used to rebuild energy, improve digestion, and relieve lingering pain or numbness. Points like Zusanli (ST-36) and Qihai (REN-6) are commonly chosen to tonify Qi and Yin, supporting the body's gradual return to strength. Treatment is gentle and adapted to the patient's fragile condition.
+
+### Can TCM help with post-sepsis fatigue and brain fog?
+Yes, this is one of the areas where TCM shines. The profound exhaustion and mental cloudiness that often follow TSS correspond to the Qi and Yin Deficiency pattern. Herbal formulas like Sheng Mai San, combined with acupuncture and dietary therapy, can gradually restore energy and clarity. Many patients report noticeable improvement within 4-6 weeks, though full recovery may take several months.
+
+### Is it safe to take Chinese herbs while on antibiotics?
+It can be safe, but only under the supervision of both your TCM practitioner and your medical doctor. Some herbs may interact with antibiotics or affect how the body metabolizes medications. In particular, blood-moving herbs like Dan Shen (Salvia) could increase bleeding risk if you are on anticoagulants. Always provide a complete list of everything you are taking to both healthcare providers.
+
+### What TCM dietary advice is recommended after recovering from TSS?
+The focus should be on warm, easily digestible foods that nourish Qi and Yin without taxing the weakened digestive system. Think congee, bone broths, steamed vegetables, and small amounts of lean protein. Avoid cold, raw, spicy, and greasy foods, which can create dampness and further exhaust the Spleen. Sipping warm water or ginger tea throughout the day also supports digestion.
+
+### How soon after TSS can I start TCM treatment?
+TCM can often begin while you are still in the hospital, with the ICU team's consent. Gentle acupuncture or herbal formulas may be used to support organ function and reduce inflammation. Once you are stable and discharged, a more comprehensive recovery plan - including weekly acupuncture and daily herbs - can be implemented to rebuild your strength.
+
+### Are there any acupressure points I can use at home to support recovery?
+Only after the acute crisis has fully passed. Gentle, circular massage on Zusanli (ST-36), located four finger-widths below the kneecap and one finger-width toward the outside of the shin, can help boost energy. Qihai (REN-6), two finger-widths below the navel, is also good for gently strengthening Qi. Press lightly for a minute or two each day; never cause pain.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/toxic-shock-syndrome)*

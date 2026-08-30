@@ -1,0 +1,64 @@
+# Fu Yuan Huo Xue Tang (复元活血汤)
+**English Name**: Revive Health by Invigorating the Blood Decoction  
+**Category**: Blood-invigorating and stasis-resolving formulas  
+**Dynasty/Source**: Yi Xue Fa Ming (《医学发明》, Medical Innovations), Volume 3, by Li Gao (Li Dongyuan)  
+**Temperature**: Cool | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical formula originally designed for injuries from falls or blows that leave severe pain, swelling, and bruising in the rib and chest area. It works by vigorously clearing out trapped, stagnant Blood while restoring healthy circulation through the injured region. The formula is particularly suited to acute traumatic injuries of the torso where pain is intense, fixed in location, and worsens with pressure.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Invigorates Blood and dispels Blood stasis, Courses the Liver and unblocks the collaterals, Promotes the movement of Qi, Reduces swelling and alleviates pain
+- **Therapeutic Focus**: Injury recovery, Pain relief, Chest and rib health, Trauma rehabilitation
+- **Target Organs**: Liver, Gallbladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Chest Trauma, Intercostal Neuralgia, Rib Fracture, Costochondritis, Breast Lumps, Soft Tissue Injury, Post-Surgical Pain
+- **Other Names**: Fu Yuan Huo Xue Tang (复原活血汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Da Huang** | Rhubarb root and rhizome | *King* | 15 - 30g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Used in large dose and wine-prepared, Da Huang is the primary force in this formula. It powerfully purges stagnant Blood, drives congealed clots downward, and promotes the renewal of healthy Blood and tissue. Wine preparation enhances its ability to enter the Blood level and invigorate circulation rather than simply purging the bowels. |
+| **Chai Hu** | Bupleurum root | *King* | 9 - 15g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Gallbladder, Lungs | Chai Hu serves as co-King by coursing the Liver and regulating Qi flow in the hypochondriac region. It guides the other herbs into the Liver channel where the injury resides. Working with Da Huang, it creates a complementary ascending-descending dynamic that disperses Blood stasis lodged beneath the ribs. |
+| **Tao Ren** | Peach kernel | *Deputy* | 9 - 15g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Large Intestine | A key Blood-invigorating herb that breaks up clots and promotes the generation of new Blood. It reinforces Da Huang's stasis-dispelling action while being gentler and more nourishing, helping resolve swelling and relieve pain in the injured area. |
+| **Hong Hua** | Safflower flower | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver | Partners with Tao Ren to invigorate Blood and dispel stasis. Hong Hua excels at unblocking the channels and collaterals, reducing swelling, and alleviating pain from traumatic injury. |
+| **Chuan Shan Jia** | Pangolin scales | *Deputy* | 3 - 6g | Temp: Slightly Cool<br>Taste: Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Liver, Stomach | A powerful substance for breaking through Blood stasis and penetrating obstructed collaterals. It disperses accumulations and reduces swelling, reaching into the deep network vessels where stagnant Blood is lodged after trauma. |
+| **Dang Gui** | Chinese Angelica root | *Assistant* | 6 - 9g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Nourishes and invigorates the Blood simultaneously. While the Kings and Deputies focus on breaking stasis, Dang Gui ensures that healthy Blood is replenished, preventing the aggressive stasis-dispelling herbs from depleting the body's Blood resources. |
+| **Tian Hua Fen** | Trichosanthes root | *Assistant* | 6 - 9g | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Classically noted for its ability to heal broken tissue and disperse traumatic Blood stasis. It enters the Blood level to help resolve clots and nodules, while also moistening dryness, which prevents the many warm, drying, Blood-moving herbs from injuring Yin fluids. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes all the herbs in the formula, moderates their intensity, and provides its own pain-relieving action by relaxing tension and spasm. It also protects the Stomach from the harsh purgative action of Da Huang. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated. This formula is explicitly prohibited during pregnancy (孕妇忌服). It contains multiple strong Blood-moving and stasis-breaking herbs: Da Huang (rhubarb) is a potent purgative that stimulates uterine contractions and is classified as a pregnancy-prohibited substance in TCM; Tao Ren (peach kernel) and Hong Hua (safflower) are well-known emmenagogues that can cause uterine stimulation and risk miscarriage; and the historical inclusion of Chuan Shan Jia (pangolin scales) further intensifies the Blood-breaking action. The formula also uses wine in preparation, which adds to its Blood-moving potency. Under no circumstances should this formula be used during pregnancy.
+
+### Breastfeeding
+Not recommended during breastfeeding without professional supervision. The formula contains Da Huang (rhubarb), which has anthraquinone compounds that can transfer into breast milk and may cause loose stools or colic in nursing infants. Tao Ren (peach kernel) contains trace amounts of amygdalin, a cyanogenic glycoside, and its safety in breast milk has not been established. The formula also traditionally uses wine in preparation, which is not advisable during breastfeeding. If a nursing mother requires treatment for Blood stasis following traumatic injury, a practitioner should consider alternative approaches or carefully adjust the formula.
+
+### Children
+This formula is generally not suitable for young children. Its strong Blood-moving and purgative properties make it a powerful attacking formula designed for acute traumatic injury in adults. For older children and adolescents (roughly 12 years and above) who have sustained significant blunt trauma to the chest or flank area with clear signs of Blood stasis, a practitioner may consider using this formula at a substantially reduced dosage (typically one-third to one-half of the adult dose), for a very short course, and under close supervision. The Da Huang (rhubarb) dose in particular should be significantly reduced to avoid excessive purging. For children under 12, gentler Blood-moving approaches are generally preferred.
+
+### Drug Interactions
+Anticoagulants and antiplatelet agents: This formula has demonstrated anticoagulant and anti-thrombotic effects in animal studies, including prolonged clotting time, decreased blood viscosity, and inhibition of thrombus formation. Concurrent use with warfarin, heparin, dabigatran, rivaroxaban, aspirin, clopidogrel, or similar drugs may significantly increase bleeding risk.
+Gan Cao (Licorice) interactions: Glycyrrhizin in Gan Cao may cause pseudoaldosteronism (potassium loss, sodium retention, elevated blood pressure). It may interact with antihypertensives, diuretics, cardiac glycosides (e.g. digoxin), and corticosteroids. Patients on these medications should be monitored.
+Da Huang (Rhubarb) interactions: As a stimulant laxative containing anthraquinones, Da Huang may reduce absorption of orally administered medications if taken concurrently. Chronic use can cause potassium depletion, which is dangerous when combined with cardiac glycosides or thiazide diuretics.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: On an empty stomach, before meals (食前), as specified in the original text. Typically taken once or twice daily.
+- **Typical Duration**: Acute use only: typically 3–7 days, stopped as soon as pain improves and bowel movements occur (以利为度). Reassess before continuing.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods, as these can congeal Blood and counteract the formula's Blood-moving action. Avoid greasy, heavy, or fried foods that may burden the Spleen and Stomach, since the formula already contains the purgative Da Huang. Light, easily digestible meals are recommended. Since the formula traditionally includes wine in its preparation, additional alcohol consumption should be avoided. Warming, gently Blood-nourishing foods such as congee with a small amount of brown sugar or red dates can support recovery after the acute phase has passed.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/fu-yuan-huo-xue-tang](https://www.meandqi.com/knowledge-base/formulas/fu-yuan-huo-xue-tang)*

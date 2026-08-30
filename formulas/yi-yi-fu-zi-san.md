@@ -1,0 +1,61 @@
+# Yi Yi Fu Zi San (薏苡附子散)
+**English Name**: Coix and Aconite Powder  
+**Category**: Cold-Phlegm warming and transforming formulas, Formulas that treat chest painful obstruction (Xiong Bi)  
+**Dynasty/Source**: Jin Gui Yao Lue (Essential Prescriptions from the Golden Cabinet) by Zhang Zhongjing, Chapter 9: Xiong Bi Xin Tong Duan Qi Bing Mai Zheng Zhi (胸痹心痛短气病脉证治第九)  
+**Temperature**: Warm | **Form**: Powder (San)
+
+---
+
+## Summary
+A simple two-herb classical formula used to relieve chest pain and tightness caused by cold and dampness blocking the chest. It warms Yang and removes dampness to open up the chest, and was originally designed for episodes of chest pain that come and go with varying intensity.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Warms Yang and Disperses Cold, Dispels Dampness and Unblocks Painful Obstruction, Softens and Relaxes the Sinews, Unblocks Yang in the Chest
+- **Therapeutic Focus**: Heart health, Chest Pain Relief, Bone and Joint Health
+- **Target Organs**: Heart, Lungs, Spleen, Kidneys
+- **Patterns Addressed**: 
+- **Conditions Treated**: Chest Pain, Moving Pain, Palpitations, Frozen Shoulder, Sciatica
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Yi Yi Ren** | Job&#x27;s Tears seed | *King* | 15 - 30g | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Spleen, Stomach, Lungs | As the King herb used in a large dose (roughly three-quarters of the formula by weight), Yi Yi Ren resolves dampness from the chest, relaxes the sinews, and opens painful obstruction. According to the Shen Nong Ben Cao Jing, it treats 'sinew spasm and contracture, inability to flex and extend, wind-damp painful obstruction.' In this formula, it eliminates the damp turbidity that blocks chest Yang and leads turbid Yin downward, relieving the chest fullness and tightness. |
+| **Zhi Fu Zi** | Prepared Aconite Root | *Deputy* | 6 - 15g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Kidneys, Spleen | Fu Zi (processed/roasted) warms the interior, restores Yang, disperses cold, and unblocks Yang Qi in the chest. It counteracts the slightly cold nature of Yi Yi Ren, preventing it from worsening the cold obstruction. Together, they form a complementary warm-cool pair: Fu Zi warms Yang and dispels cold while Yi Yi Ren drains dampness and relaxes the sinews. Fu Zi's mobile, dispersing nature also helps drive the formula's actions throughout the channels and chest. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. Fu Zi (Aconiti Lateralis Radix Praeparata) contains aconitine alkaloids classified as toxic in the Chinese Pharmacopoeia. It has traditionally been listed among the pregnancy-prohibited herbs (妊娠禁忌药) due to its potential to harm fetal development and stimulate uterine activity. Although Zhang Zhongjing himself used Fu Zi in pregnancy in exceptional circumstances under the principle of "when there is a pathological condition, there is no harm" (有故无殒), this requires expert clinical judgment and is not applicable to general use. This formula should not be used during pregnancy.
+
+### Breastfeeding
+Not recommended during breastfeeding without professional supervision. Fu Zi (Aconiti Lateralis Radix Praeparata) contains aconitine alkaloids, which are potentially toxic. There is no published data confirming whether these alkaloids transfer into breast milk, but given the known toxicity profile of aconitine (which can affect cardiac rhythm and the nervous system even in small amounts), the precautionary principle applies. If use is clinically necessary, it should only be under the direct supervision of a qualified practitioner experienced with Fu Zi, using properly processed (pao zhi) material and adequate decoction time to minimize alkaloid content. The infant should be monitored for any signs of irritability, feeding changes, or cardiovascular symptoms.
+
+### Children
+This formula is generally not appropriate for young children. Fu Zi is a potent, inherently toxic herb requiring careful dosing even in adults, and children are far more susceptible to aconitine toxicity due to their lower body weight and immature liver and kidney function. If use is deemed essential by an experienced pediatric TCM practitioner for an older child, the dosage must be drastically reduced (typically to one-quarter to one-third of adult dosing, adjusted by age and weight), and the Fu Zi must be properly blast-processed (pao zhi) and decocted for at least 30 to 60 minutes before use. Close monitoring is required. Avoid use in infants and toddlers.
+
+### Drug Interactions
+Fu Zi (Aconiti Lateralis Radix Praeparata) is the primary safety concern for drug interactions in this formula:
+- Cardiac glycosides (digoxin): Fu Zi's aconitine alkaloids have significant effects on cardiac ion channels (particularly sodium channels) and can cause arrhythmias. Concurrent use with digoxin or other cardiac glycosides may produce additive cardiotoxic effects and dangerous rhythm disturbances.
+- Antiarrhythmic drugs (amiodarone, flecainide, propafenone, etc.): Aconitine's proarrhythmic potential can unpredictably interact with antiarrhythmic medications, potentially causing paradoxical arrhythmias or conduction disturbances.
+- Beta-blockers and calcium channel blockers: Additive effects on heart rate and conduction are possible. Patients on these medications should not take this formula without medical oversight.
+- Anticoagulants (warfarin, heparin): While not a primary concern for this specific formula, any formula containing Fu Zi warrants awareness of potential interactions that could alter drug metabolism.
+Yi Yi Ren (Coicis Semen) is generally considered safe with low interaction potential, though its mild diuretic action could theoretically affect the clearance of renally-excreted drugs. Any patient on cardiovascular medications should consult both their prescribing physician and an experienced TCM practitioner before taking this formula.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Three times daily between meals, as indicated in the original text (日三服). Taking between meals optimizes absorption of the powder form.
+- **Typical Duration**: Acute use: 3-7 days for episodic chest pain flares; may be extended to 2-4 weeks for chronic Cold-Dampness Bi patterns under practitioner supervision. Reassess frequently.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods (salads, iced drinks, raw fruits in excess, sashimi) as these can worsen Cold-Dampness accumulation and counteract the warming action of the formula. Greasy, heavy, and overly rich foods should also be minimized as they generate Dampness and Phlegm. Favor warm, easily digestible foods such as congee, cooked grains, soups, lightly cooked vegetables, and warming spices like ginger and cinnamon in modest amounts. Avoid alcohol, which generates Damp-Heat and can interact unpredictably with Fu Zi's alkaloids.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/yi-yi-fu-zi-san](https://www.meandqi.com/knowledge-base/formulas/yi-yi-fu-zi-san)*

@@ -1,0 +1,135 @@
+# Qian jin zi shuang (千金子霜)
+**English Name**: Caper Spurge Seed Frost  
+**Category**: Harsh expellants (峻下逐水药), Blood-breaking and mass-dispersing herbs (破血消癥药), Toxic herbs requiring caution (有毒药)  
+**Scientific Name**: Euphorbia lathyris L.  
+**Pharmaceutical Name**: Euphorbiae Semen Pulveratum  
+**Toxicity**: Toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Liver, Kidneys, Large Intestine  
+**Parts Used**: Processed / Derived product (加工品 jiā gōng pǐn)  
+
+---
+
+## Summary
+Qian Jin Zi Shuang is the defatted seed powder of the Caper Spurge plant, processed to reduce toxicity. It is a potent purgative used to drive out excess water from the body in cases of severe edema or ascites and to break up blood stasis that causes obstructed menstruation. Due to its toxic nature, it must be used in small doses under professional guidance, and is contraindicated during pregnancy.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Water retention and edema, Constipation and abdominal bloating, Skin warts and fungal infections, Menstrual disorders (amenorrhea)
+- **TCM Actions**: Drains downward and expels water (泻下逐水), Breaks blood and disperses masses (破血消癥), External use to treat tinea and warts (外用疗癣蚀疣)
+
+### How these actions work
+Drains downward and expels water: This means the herb acts as a powerful purgative, forcing excess fluids out of the body through the stool and urinary tract. It is used for intense water retention that does not respond to gentler diuretics—think of it like an emergency valve that rapidly relieves pressure from ascites or whole-body edema.
+Breaks blood and disperses masses: The herb moves blood with considerable force, dissolving static blood that has congealed into masses or blocked the menstrual flow. This action is indicated when palpable abdominal lumps, severe clotting, or amenorrhea are caused by stasis rather than deficiency.
+External use to treat tinea and warts: Applied locally as a paste, the herb’s acrid, dispersing, and mildly toxic properties kill skin parasites and erode abnormal growths. It can help shrink stubborn warts and clear ringworm lesions.
+
+---
+
+## Patterns Addressed
+### Oedema
+- **Explanation**: Qian Jin Zi Shuang drains downward and expels water. Its acrid and warm nature enters the Kidney and Large Intestine channels, forcefully purging accumulated fluids through the bowels and urine. This addresses the core mechanism of Oedema where water overflows into the tissues due to impaired fluid metabolism.
+- **Clinical Signs & Symptoms**:
+
+### Blood Stagnation
+- **Explanation**: The herb breaks blood and disperses masses. Its warm, acrid quality invigorates blood and scours out stasis in the lower burner. It is indicated for Blood Stagnation patterns where congealed blood obstructs the channels, leading to amenorrhea or palpable abdominal masses.
+- **Clinical Signs & Symptoms**:
+  - **Abdominal Lumps**: fixed, hard masses in the lower abdomen
+  - **Dark Menstrual Clots**: history of dark, clotted menses when periods occur
+
+### Phlegm-Fluids in the Stomach and Small intestine
+- **Explanation**: Qian Jin Zi Shuang expels phlegm-fluids from the middle burner through its strong purgative action. It drives down stagnation, relieves distension, and opens the bowels, addressing the accumulation of turbid fluids and food matter that characterizes this pattern.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.5–1 g per dose, taken as a prepared pill or powder. Not used in decoction.
+- **Maximum Dosage**: Do not exceed 1 g per dose. Even at the upper limit, this is a toxic dose that must be administered only under strict professional supervision and for a severely indicated condition.
+- **Dosage Notes**: Qian Jin Zi Shuang is exclusively administered as a pill or powder; it is not boiled. The dose range is narrow (0.5–1 g) and must be strictly observed. For external use, a suitable amount of powder is applied directly to the lesion. Treatment duration is usually short due to the herb's toxic nature.
+- **Preparation**: Qian Jin Zi Shuang is a ready-processed powder. It is added to pill formulations or divided into powders for direct oral intake. It is never decocted. For external treatment, the powder is applied directly to the affected skin in an appropriate amount.
+
+---
+
+## Processing Methods
+### Qi&#x101;n J&#x12B;n Z&#x1D0; Shu&#x101;ng (&#x5343;&#x91D1;&#x5B50;&#x971C;)
+- **Processing Method**: Seeds are decorticated to remove the outer shell. The clean kernels are pounded into a paste, wrapped, steamed, and repeatedly pressed to express the fatty oil. The resulting cake is then ground into a fine, loose powder.
+- **How it Changes Properties**: The raw seed is strongly hot, acrid, and violently purgative. Removing most of the fatty oil (from ~48% down to 18–20%) reduces its toxicity and moderates the drastic downward-draining action, while preserving its ability to expel water and break blood stasis.
+- **When to Use**: This processed form is used when a controlled, less drastic purgative and anti-blood-stasis effect is required, particularly in pill or powder form for internal use, and for patients who cannot tolerate the raw seed.
+
+---
+
+## Common Herb Pairs
+### Qian Niu Zi (Ratio: 1:1 (Qian Jin Zi Shuang 1g : Qian Niu Zi 1g, both in powder form))
+- **Description**: Creates a potent water-driving, stool-moving synergy. Qian Jin Zi Shuang scours out deep fluid retention and breaks blood stasis, while Qian Niu Zi guides water downward through the urine and stool.
+- **When to Use**: For severe generalized edema, ascites, or constipated fluid accumulation with abdominal distension and scanty urine.
+
+---
+
+## Key Formulas
+Zi Jin Ding
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Toxic
+Raw Qian Jin Zi seeds contain about 48–50% fatty oil rich in diterpene esters (e.g., euphorbia sterol, ingenol esters), which are strong irritants to the gastrointestinal mucosa. Acute poisoning causes severe nausea, vomiting, watery diarrhea, abdominal pain, dehydration, electrolyte imbalance, and in extreme cases, hypotension and shock. Processing into frost reduces the oil content to 18–20% (Chinese Pharmacopoeia standard), which significantly lowers the purgative toxicity while retaining therapeutic efficacy. Even the processed form must never exceed the prescribed dose, and it is contraindicated in vulnerable populations.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Absolute contraindication. The Chinese Pharmacopoeia explicitly lists Qian Jin Zi Shuang as pregnancy-disabled (禁用). Its strong blood-breaking and drastic purgative actions can induce uterine contractions, placental transfer of toxic components, and potentially lead to miscarriage or fetal poisoning.
+- **Breastfeeding**: Absolute contraindication. Toxic diterpene esters can pass into breast milk and may cause severe diarrhea and dehydration in a nursing infant. The herb should not be used at any point during lactation.
+- **Children**: Absolutely contraindicated in children. The herb's extreme gastrointestinal irritancy and risk of profound fluid and electrolyte loss outweigh any potential benefit. Safer alternatives must always be sought.
+
+### Drug Interactions
+Strong purgatives and harsh herbs: Combining with other drastic purgatives (e.g., Ba Dou, Gan Sui, Da Huang in large doses) greatly increases the risk of severe diarrhea and electrolyte imbalance.
+Diuretics and antihypertensives (especially ACE inhibitors): The purgative effect may cause hypokalemia and volume depletion, potentiating hypotension and dangerous electrolyte disturbances; close monitoring is essential if concurrent use cannot be avoided.
+Corticosteroids and drugs causing potassium loss: Additive potassium depletion is possible.
+Other toxic TCM materials: Should not be combined with strong irritants/carcinogens such as Ma Qian Zi (Strychnos) or arsenic-containing minerals.
+
+### Dietary Advice
+During treatment, avoid spicy, greasy, fried, or irritating foods and alcohol, as these can aggravate gastrointestinal irritation. Favor bland, easily digestible liquids such as rice congee. Since the herb can cause fluid loss, maintain adequate hydration under a practitioner's guidance.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+The source plant, Qian Jin Zi (续随子, Euphorbia lathyris L.), is a biennial herb growing up to 1 m tall, with a white latex sap. Stems are stout and branched. Leaves are opposite, sessile, linear-lanceolate to broadly lanceolate, 5–12 cm long, with a V-shaped clasping base and entire margins. The terminal inflorescence is a cyathium (cup-like) with 2–4 rayed branches; flowers are unisexual and lack a perianth. Fruits are nearly spherical capsules. Seeds are ellipsoid or obovoid, about 5 mm long, gray-brown with network wrinkles and dark spots, with a longitudinal groove (raphe) on one side. The plant grows on sunny slopes in wild or cultivated settings across central, southern, and northeastern China.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Southern China: mid to late July; northern China: early August to early September, when the fruits turn dark brown.
+- **Primary Growing Regions**: The best-quality (道地药材) source material comes from Henan and Zhejiang provinces. The product is distributed nationally and exported. Sichuan, Hebei, Jilin, and Liaoning also produce smaller quantities for local use.
+- **Quality Indicators**: Good-quality Qian Jin Zi Shuang is a uniform, loose, light yellow powder with a slightly oily feel and a spicy, pungent taste. The fat oil content must be 18.0–20.0% per Chinese Pharmacopoeia specification. Avoid samples that are clumped, darkened, or have a rancid smell. The original seeds used for processing should be plump, with a white kernel and ample oiliness.
+
+### Identity & Adulterants
+The processed frost powder may be adulterated with inert starches or other plant powders. Authentic Qian Jin Zi Shuang can be verified by its fat oil content (18.0–20.0%) and the characteristic microscopic features of the original seed (thick-walled palisade cells, brown contents, and reticulate epidermal cells). The raw seed (千金子) is sometimes confused with other Euphorbia species, but the correct seed is ellipsoid, 5 mm long, with fine network wrinkles and a longitudinal groove.
+
+---
+
+## References
+### Historical Context
+The source plant was first recorded as 续随子 (Xù Suí Zǐ) in the Song Dynasty Kai Bao Ben Cao. The name 千金子 ("Thousand Gold Seed") reflects its high therapeutic value for severe fluid retention and blood stasis disorders. The traditional frost-processing (制霜) method was developed centuries ago to remove harsh irritant oils, thus reducing toxicity while preserving its water-expelling and anti-tumor actions. This innovation made the herb safer for internal use in pills and powders, and it remains an important preparation in modern TCM for carefully selected clinical emergencies.
+
+### Modern Scientific Research
+1. **[Investigation of the purgative effects of raw Qian Jin Zi and different oil-content frost powders and their principal constituent (2010)](http://dianda.cqvip.com/Qikan/Article/Detail?id=35543503)**
+   *Journal: 宋卫国, 孙付军, 张敏, 虞慧娟, 李英霞. 千金子和千金子霜及其主要成分泻下作用研究. 中药药理与临床, 2010, 26(4): 40-42.*
+   Using a constipation model in mice, the study found that raw Qian Jin Zi and frost powders with varying oil content accelerated small intestinal transit. The diterpene ester compound Euphorbia lathyris diterpene alcohol diacetate benzoate significantly increased fecal water content in constipated mice. Processing into frost moderated the purgative effect without eliminating it.
+
+2. **[Comparison of acute toxicity of raw Qian Jin Zi and frost powders with different oil contents (2011)](https://zgywjj.magtechjournal.com/CN/abstract/abstract538.shtml)**
+   *Journal: 孙付军, 宋卫国, 李英霞. 千金子及不同含油量千金子霜急性毒性比较. 中国药物警戒, 2011, 8(1): 20-22.*
+   In this acute toxicity study, mice were given oral doses of raw seeds, frost powders at 22.3%, 25.0%, and 28.4% oil, and isolated fatty oil. No LD50 could be determined because mice survived the maximum administrable doses. However, mice receiving higher oil-content frost showed earlier onset and more severe signs of toxicity (lethargy, piloerection, diarrhea). Toxicity is attributed to the fatty oil, and death is avoidable by adhering to the prescribed oil content range (18–20%).
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/qian-jin-zi-shuang](https://www.meandqi.com/knowledge-base/herbs/qian-jin-zi-shuang)*

@@ -1,0 +1,173 @@
+# Xiao Hui Xiang (小茴香)
+**English Name**: Fennel fruit  
+**Category**: Interior-warming herbs (温里药)  
+**Scientific Name**: Foeniculum vulgare Mill.  
+**Pharmaceutical Name**: Fructus Foeniculi  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Liver, Kidneys, Spleen, Stomach  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Fennel fruit is a gentle warming spice used in Chinese medicine to relieve cold-related pain in the lower belly, groin, and digestive tract. It is commonly recommended for cramping abdominal pain that feels better with warmth, menstrual cramps aggravated by cold, and bloating or poor appetite from a sluggish digestive system.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Menstrual Pain Relief, Abdominal Pain Relief, Men's Reproductive Health
+- **TCM Actions**: Dispels Cold and Alleviates Pain, Regulates Qi and Harmonizes the Middle Burner, Warms the Liver and Kidneys, Warms the Lower Burner and Dispels Cold
+
+### How these actions work
+'Disperses Cold and stops pain' is the primary action of Xiǎo Huí Xiāng. Its warm, pungent nature allows it to penetrate the Liver and Kidney channels, driving out Cold that has settled in the lower abdomen and groin area. This is why it is considered a lead herb for cold-type hernia pain (known as "cold shan" or hán shàn 寒疝), where Cold congeals in the Liver channel and causes cramping pain in the lower belly that may radiate to the testicles. The same warming, pain-relieving action applies to menstrual pain caused by Cold in the uterus.
+'Regulates Qi and harmonizes the Stomach' refers to the herb's aromatic quality, which stimulates the movement of Qi in the digestive system. When the Stomach and Spleen are sluggish from Cold, food sits undigested, causing bloating, nausea, poor appetite, or loose stools. Xiǎo Huí Xiāng gently warms the middle, gets Qi flowing again, and relieves abdominal distension. This is the reason it has long been used as a culinary spice to aid digestion.
+'Warms the Liver and Kidneys' describes how this herb specifically targets the lower body's organ systems. The Liver channel wraps around the genitals, and the Kidneys govern the lower back and reproductive function. When Cold invades these channels, symptoms like testicular pain, lower back ache, or cold sensations in the lower abdomen appear. Xiǎo Huí Xiāng's warmth enters these channels directly, restoring warmth and normal function to the lower body.
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: When Cold congeals Blood in the lower abdomen, it creates fixed, stabbing pain that worsens with cold and improves with warmth, along with dark menstrual blood containing clots. Xiǎo Huí Xiāng addresses this pattern not by directly moving Blood (it is not a Blood-invigorating herb), but by warming the channels so that Blood can flow freely again. Cold makes Blood congeal the same way cold temperatures cause water to freeze. By restoring warmth to the Liver channel and lower abdomen, Xiǎo Huí Xiāng removes the underlying cause of the stagnation. This is why it appears in Shǎo Fù Zhú Yū Tāng alongside true Blood-moving herbs.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Amenorrhea
+- **Arises from**: Blood Stagnation
+- **TCM Interpretation**: TCM understands menstrual pain primarily through the principle 'where there is no free flow, there is pain' (bù tōng zé tòng 不通则痛). In cold-type dysmenorrhea, Cold pathogen invades the uterus and the Liver channel (which governs the smooth flow of Qi and is closely connected to menstruation). Cold causes both Qi and Blood to contract and stagnate, leading to cramping pain before or during the period, often with dark or clotted menstrual blood. Key signs pointing to Cold as the root cause include pain that worsens with cold exposure and improves with a heating pad, a preference for warm drinks, cold hands and feet during the period, and a pale tongue with a white coating.
+- **Why it Helps**: Xiǎo Huí Xiāng directly enters the Liver channel with its warm, pungent nature, dispersing the Cold that is causing Blood and Qi to congeal in the uterus. By warming the Liver channel and lower abdomen, it removes the root cause of the stagnation, allowing menstrual blood to flow freely and pain to resolve. Its Qi-regulating action also helps relieve the cramping and distension that accompany the pain. In clinical practice, it is often paired with herbs like Dāng Guī (to nourish and move Blood) and Ròu Guì (to warm the Kidneys and uterus), as seen in formulas such as Shǎo Fù Zhú Yū Tāng.
+
+### Hernia
+- **TCM Interpretation**: In TCM, inguinal hernia (shàn qì 疝气) is closely linked to the Liver channel, which passes through the groin and genital area. A classical teaching states that 'all hernias belong to the Liver channel' (zhū shàn jiē guī gān jīng 诸疝皆归肝经). When Cold pathogen invades this channel, Qi becomes blocked and constricted, causing pain in the lower abdomen that pulls toward the testicles, with possible swelling or a sensation of heaviness. The condition is typically worse in cold weather and better with warmth.
+- **Why it Helps**: Xiǎo Huí Xiāng is one of the most important herbs for cold-type hernia because it simultaneously warms the Liver channel to dispel Cold and moves Qi to relieve the constriction causing pain. Its specific affinity for the Liver and Kidney channels means it targets exactly the anatomical region where hernia pain manifests. This is why it appears as a key ingredient in Tiān Tái Wū Yào Sǎn, the classical formula for cold hernia pain, where it works alongside Wū Yào and Gāo Liáng Jiāng to warm and move Qi through the affected area.
+
+### Abdominal Pain
+- **TCM Interpretation**: TCM views bloating as a sign that Qi is not moving properly through the digestive system. When Cold affects the Spleen and Stomach, their ability to transform food and transport nutrients slows down. Undigested food and fluids accumulate, and Qi stagnates, producing fullness, distension, and discomfort in the upper or middle abdomen. Associated signs include a preference for warm food and drinks, worsening after eating cold or raw foods, and a pale tongue with a white, sometimes greasy coating.
+- **Why it Helps**: Xiǎo Huí Xiāng's aromatic, warm nature makes it particularly effective at moving stagnant Qi in the digestive tract. Its volatile oils stimulate digestive function, helping to break up the gas and distension that accumulate when Cold slows digestion. Unlike purely Qi-moving herbs, it also warms the Spleen and Stomach, addressing the root Cold that caused the stagnation in the first place. This dual action (warming plus Qi-moving) is why fennel has been used as both a medicine and a culinary spice for digestive comfort across many cultures.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-6g
+- **Maximum Dosage**: Up to 10g per day for short-term therapeutic use. Some clinical sources for blood-fluke disease used equivalent doses of 4.5-13.4g daily in divided doses for 15-20 day courses, but this requires professional supervision.
+- **Dosage Notes**: Standard decoction dosage is 3-6g. Salt-processed fennel (Yan Xiao Hui Xiang) is preferred when the therapeutic goal is to direct the herb's action to the Kidney channel for conditions like cold-type hernia or testicular pain. Dry-fried fennel (Chao Xiao Hui Xiang) enhances the aromatic, Stomach-warming properties and is preferred for digestive complaints like cold abdominal pain and poor appetite. For external use as a warm compress or poultice for localized cold pain, the amount can be adjusted as needed. When used in powder or pill form rather than decoction, smaller amounts are effective due to better preservation of volatile oils.
+- **Preparation**: No special decoction handling is required for standard use. However, because the therapeutic volatile oils are easily lost with prolonged boiling, it is best to add Xiao Hui Xiang during the last 5-10 minutes of decoction (hou xia, 后下, "add near end") to preserve the aromatic compounds. When used externally, the seeds can be dry-fried until warm and wrapped in cloth for application as a hot compress to the affected area.
+
+---
+
+## Processing Methods
+### Y&#xE1;n Xi&#x1CE;o Hu&#xED; Xi&#x101;ng (&#x76D0;&#x5C0F;&#x8334;&#x9999;)
+- **Processing Method**: Clean fennel fruit is stir-fried over low heat until the surface turns deep yellow with a toasted aroma, then sprinkled with salt water while still hot and dried. Alternatively, the fruit is mixed with salt water, allowed to absorb briefly, then stir-fried over low heat until light yellow. The standard ratio is about 2 kg salt per 100 kg of fennel fruit.
+- **How it Changes Properties**: Salt processing enhances the herb's downward-directing action and strengthens its affinity for the Kidney channel. The thermal nature remains Warm but the salt draws the herb's action more strongly into the lower body (Kidneys and lower abdomen). The Qi-regulating action for the Stomach is somewhat reduced, while the Kidney-warming, Cold-dispersing, pain-relieving action is significantly enhanced.
+- **When to Use**: Preferred when the primary treatment goal is warming the Kidneys and dispersing Cold from the lower body, such as in cold hernia pain with testicular swelling, cold-type menstrual pain from Kidney deficiency, or lower abdominal cold pain. The Chinese Pharmacopoeia specifically indicates salt-processed fennel for cold hernia pain, testicular swelling, and menstrual cold pain.
+
+### Ch&#x1CE;o Xi&#x1CE;o Hu&#xED; Xi&#x101;ng (&#x7092;&#x5C0F;&#x8334;&#x9999;)
+- **Processing Method**: Clean fennel fruit is dry stir-fried over low heat until the surface turns light yellow with some scorched spots and the aromatic scent intensifies.
+- **How it Changes Properties**: Dry-frying moderately warms the herb's nature and enhances its aromatic quality, making it slightly more effective at moving Qi and harmonizing the Stomach. The thermal nature remains Warm. The volatile oils are partially activated by the heat, increasing the herb's carminative effect.
+- **When to Use**: Used when the primary treatment goal is regulating Qi and harmonizing the Stomach for digestive complaints like bloating, poor appetite, or nausea. Also commonly used in formula preparations as a gentler alternative to the salt-processed form.
+
+---
+
+## Common Herb Pairs
+### Wu Yao (Ratio: 1:1 (e.g. Xi&#x1CE;o Hu&#xED; Xi&#x101;ng 6g : W&#x16B; Y&#xE0;o 6g))
+- **Description**: Xiǎo Huí Xiāng warms the Liver and Kidneys to dispel Cold, while Wū Yào is a powerful Qi-mover that enters the Lung, Spleen, and Kidney channels to scatter Cold and relieve pain through Qi circulation. Together, their Cold-dispersing and pain-relieving effects are significantly stronger than either herb alone, creating a comprehensive approach that addresses both the Cold pathogen and the Qi stagnation it causes.
+- **When to Use**: Cold-type hernia pain (hán shàn) with lower abdominal cramping radiating to the groin or testicles, where both Cold accumulation and Qi stagnation are present. Also for cold menstrual pain.
+
+### Ju He (Ratio: 1:2 (e.g. Xi&#x1CE;o Hu&#xED; Xi&#x101;ng 6g : J&#xFA; H&#xE9; 12g))
+- **Description**: Xiǎo Huí Xiāng warms the Liver channel and disperses Cold, while Jú Hé (tangerine seed) enters the Liver channel to move Qi, dissolve hard masses, and stop pain. The combination is more targeted for Liver Qi stagnation with Cold congealing in the inguinal area, especially when there is palpable swelling or nodularity alongside pain.
+- **When to Use**: Liver Qi stagnation with Cold causing testicular swelling, inguinal hernia with hard masses, or painful nodules in the groin area.
+
+### Rou Gui (Ratio: 2:1 (e.g. Xi&#x1CE;o Hu&#xED; Xi&#x101;ng 6g : R&#xF2;u Gu&#xEC; 3g))
+- **Description**: Xiǎo Huí Xiāng warms the Liver channel and moves Qi, while Ròu Guì (cinnamon bark) powerfully warms Kidney Yang and the Gate of Life Fire, providing deep warmth to the lower body. Together they warm both the Liver and Kidneys simultaneously, addressing deficiency-Cold at its root while also moving the Qi stagnation that Cold produces.
+- **When to Use**: Liver-Kidney deficiency Cold with symptoms like testicular coldness and pain, cold lower abdomen, cold uterus with menstrual pain, or lower back pain from Kidney Yang deficiency. This is the core pairing in Nuǎn Gān Jiān.
+
+### Gao Liang Jiang (Ratio: 1:1 (e.g. Xi&#x1CE;o Hu&#xED; Xi&#x101;ng 6g : G&#x101;o Li&#xE1;ng Ji&#x101;ng 6g))
+- **Description**: Both herbs are warm and pungent, but they target different regions. Xiǎo Huí Xiāng primarily warms the Liver channel and lower abdomen, while Gāo Liáng Jiāng (galangal) primarily warms the Stomach and middle burner. Together they warm the entire abdomen from the epigastrium down to the lower belly, dispersing Cold and stopping pain throughout.
+- **When to Use**: Cold pain affecting both the upper and lower abdomen, such as stomach cramping together with lower belly pain, or when Stomach Cold and Liver channel Cold coexist.
+
+### Bu Gu Zhi (Ratio: 1:1 to 1:2 (e.g. Xi&#x1CE;o Hu&#xED; Xi&#x101;ng 6g : B&#x1D4; G&#x1D4; Zh&#x12B; 9g))
+- **Description**: Xiǎo Huí Xiāng warms the Liver and Kidneys while moving Qi, whereas Bǔ Gǔ Zhī (psoralea fruit) is a Kidney Yang tonic that also warms the Spleen. Together they provide both warming and tonifying actions in the lower body, strengthening Kidney Yang while dispersing Cold. Xiǎo Huí Xiāng contributes the Qi-moving component that Bǔ Gǔ Zhī lacks.
+- **When to Use**: Spleen-Kidney Yang deficiency with symptoms like frequent urination, nocturnal enuresis, dawn diarrhea, poor appetite, and cold lower abdomen or low back.
+
+---
+
+## Key Formulas
+Tian Tai Wu Yao San, Nuan Gan Jian, Shao Fu Zhu Yu Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Xiao Hui Xiang is classified as non-toxic in the Chinese Pharmacopoeia and has a long history of safe use as both food and medicine. Its essential oil contains trans-anethole (the primary aromatic component, 50-60%), fenchone, and estragole. Estragole has been identified as a genotoxic hepatocarcinogen in rodent studies at high doses, though its relevance to human use at normal dietary and medicinal levels remains debated. The European Medicines Agency limits estragole content in fennel preparations, and advises that prolonged high-dose use should be avoided. At standard medicinal dosages (3-6g in decoction), no significant toxicity has been reported. Some sources note that excessive use may impair vision, and daily intake should not exceed about 10g for food-therapeutic purposes.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. One animal study found that fennel essential oil reduced the intensity of oxytocin-induced and prostaglandin-induced uterine contractions in isolated rat uterus, suggesting it has uterine-relaxing properties. However, fennel also contains compounds with estrogenic activity (notably trans-anethole and its metabolites), which may theoretically influence hormonal balance during pregnancy. Classical Chinese sources note that fennel preparations for blood-fluke disease were contraindicated in pregnant women (孕妇忌服). While standard culinary doses are unlikely to pose risk, medicinal doses should be avoided or used only under professional guidance during pregnancy.
+- **Breastfeeding**: Fennel has traditionally been used as a galactagogue (milk-promoting agent) across many cultures, and it is one of the most commonly used herbs to support lactation. A clinical trial using a combination herbal tea containing chamomile, fennel, and lemon balm showed improvement in colicky symptoms in breastfed infants. However, the estrogenic compounds in fennel (particularly trans-anethole) may theoretically transfer into breast milk. While short-term use at standard doses appears safe, prolonged high-dose use during breastfeeding should be avoided. Some cases of premature breast development (thelarche) in infants have been anecdotally linked to maternal fennel tea consumption, though causality has not been established.
+- **Children**: Fennel has a long history of use for infantile colic in Western herbal medicine, and clinical trials have studied fennel-containing preparations in breastfed colicky infants with positive results. In TCM practice, pediatric doses are typically reduced to one-third to one-half of the adult dose depending on age and body weight. Fennel tea at very dilute concentrations has been used traditionally for infant digestive discomfort. However, due to the presence of estragole (a potentially genotoxic compound) and estrogenic components, the European Medicines Agency advises against use of fennel preparations in children under 4 years without professional supervision. For older children, short-term use at reduced doses is generally considered acceptable.
+
+### Drug Interactions
+Ciprofloxacin and fluoroquinolone antibiotics: An animal study found that oral administration of fennel altered the absorption and disposition of ciprofloxacin in rats. Until more data is available, concurrent use with fluoroquinolone antibiotics should be monitored.
+Anticoagulant and antiplatelet drugs: Some research suggests fennel may have mild antiplatelet and anticoagulant properties. Patients taking warfarin, heparin, or similar medications should use fennel cautiously and have their clotting parameters monitored.
+Estrogenic medications: Fennel contains compounds with demonstrated estrogenic activity (notably trans-anethole metabolites). It may theoretically interact with hormone-sensitive medications, including oral contraceptives, hormone replacement therapy, or tamoxifen. Use with caution in patients on such therapies.
+Diabetes medications: Some animal studies suggest fennel may have hypoglycaemic effects. Patients on insulin or oral hypoglycaemic agents should monitor blood sugar levels if using fennel medicinally.
+
+### Dietary Advice
+While taking Xiao Hui Xiang for cold-pattern conditions, avoid cold and raw foods (ice cream, cold salads, chilled beverages) as these oppose the warming therapeutic intent of the herb. Warming, easily digestible foods such as congee, soups, and cooked vegetables support its effects. Avoid excessively spicy or greasy foods if the herb is being used for digestive complaints, as these can generate further Dampness or Heat in the Stomach. For those taking it for hernia or lower abdominal cold pain, warm foods and beverages are recommended to complement the herb's action.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Foeniculum vulgare Mill. is a hardy perennial herb of the Apiaceae (Umbelliferae) family, originally native to the Mediterranean region and now cultivated worldwide. The plant grows 0.6 to 2 metres tall, with erect, branching stems that are ridged and covered in a waxy bloom (powdery frost). The entire plant has a strong, distinctive anise-like aroma.
+The leaves are alternate and finely divided (2 to 4 times pinnately dissected), with thread-like terminal segments about 0.5 mm wide, giving the foliage a soft, feathery appearance. Lower leaves have long stalks with sheath-like bases that clasp the stem. Bright golden-yellow flowers are borne in large compound umbels (umbrella-shaped clusters) at the stem tips, blooming from June to July. The fruit is a schizocarp (splitting fruit composed of two mericarps), oblong in shape with sharp ridges, maturing around October.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (August to October), when the fruits are beginning to ripen and turn yellowish-green with faint dark longitudinal lines. The entire above-ground plant is cut, sun-dried, and the fruits are threshed out.
+- **Primary Growing Regions**: Originally native to the Mediterranean region. In China, it is cultivated widely, with the best quality (dao di) material historically coming from Inner Mongolia and Shanxi provinces. Other major producing regions include Gansu, Liaoning, and Ningxia. The Ben Cao Gang Mu noted that fennel from Ningxia was considered the finest (今惟以宁夏出者第一). Ningxia lists Xiao Hui Xiang as one of its key cultivated medicinal crops.
+- **Quality Indicators**: Good quality Xiao Hui Xiang fruits are cylindrical, 4-8 mm long and 1.5-2.5 mm in diameter, with a yellowish-green to pale yellow surface colour. The two ends are slightly pointed, with a yellowish-brown remnant of the flower style at the tip. When split, each mericarp shows 5 prominent raised ridges on the back and a flat, broad joining surface. The cross-section is roughly pentagonal. The most important quality marker is the distinctive, strong anise-like fragrance, which should be pronounced and pleasant. The taste should be slightly sweet and pungent. Avoid fruits that are dull grey-brown, lacking aroma, or heavily mixed with stems and debris. The Chinese Pharmacopoeia requires a minimum volatile oil content of 1.5% (ml/g).
+
+### Identity & Adulterants
+Xiao Hui Xiang is sometimes confused with or substituted by two main adulterants: (1) Shi Luo (莳萝, Dill, Anethum graveolens L.) — the fruits are wider and flatter (elliptical, 3-5mm long, 2-3mm wide), with lateral ridges that extend into thin wings, unlike the cylindrical shape of true fennel. This substitution occurs particularly in northeastern and northwestern China. (2) Tian Ye Hao (田葉蒿, Carum buriaticum Turcz.) — used in Shanxi province under the local name "mountain small fennel" (山小茴). Both adulterants have different essential oil profiles and therapeutic actions. Authentic Xiao Hui Xiang can be distinguished by its cylindrical shape, five prominent but not winged ridges, and its characteristic strong anise fragrance dominated by trans-anethole. Da Hui Xiang (大茴香, star anise, Illicium verum) is an entirely different plant and easily distinguished by its star-shaped fruit, but both are sometimes loosely called "fennel" in English, so care is needed in translation.
+
+---
+
+## References
+### Classical Texts
+#### 《开宝本草》(Kai Bao Ben Cao)
+- **Original**: 主膀胱、肾间冷气及盲肠气，调中止痛，呕吐。
+- **Translation**: "Governs Cold Qi between the Bladder and Kidneys, as well as intestinal Qi [disorders]. Regulates the Middle [Burner] and stops pain and vomiting."
+
+### Historical Context
+Fennel has a remarkably long history of use across civilizations. It was first recorded as a medicinal in the Tang dynasty text Xin Xiu Ben Cao (新修本草, Newly Revised Materta Medica, 659 CE) under the name Hui Xiang Zi (蘹香子). The name "Hui Xiang" (茴香, meaning "returning fragrance") is said to reflect the herb's strong aromatic quality. Some folk etymologies suggest the character 茴 ("return") alludes to its ability to "return" or restore the flow of Qi in the abdomen, though the Ben Cao Tu Jing notes that "Hui" (茴) and "Hui" (蘹) were simply close in pronunciation.
+Li Shizhen's Ben Cao Gang Mu (1578) provided detailed differentiation between Xiao Hui Xiang (small fennel, from Foeniculum vulgare) and Da Hui Xiang (large fennel, star anise from Illicium verum), noting that the foreign (imported) version came in eight-petalled star-shaped fruits, quite different in form but similar in aroma. This distinction remains important today, as the two herbs belong to entirely different plant families. Fennel has long been valued as both a food and a medicine, used widely in northern Chinese cooking as a spice for dumplings, braised meats, and baked goods. Its dual role as a culinary and medicinal herb is recognized in China's official list of food-medicine dual-use substances.
+The herb became closely associated with the treatment of hernia and testicular pain (疝气), and many classical formulas for these conditions feature it as a key ingredient, including the famous Tian Tai Wu Yao San (天台乌药散) from the Yi Xue Fa Ming and Nuan Gan Tang (暖肝汤) from the Jing Yue Quan Shu.
+
+### Modern Scientific Research
+1. **[Systematic review and meta-analysis: Effect of fennel on primary dysmenorrhea (2021)](https://pubmed.ncbi.nlm.nih.gov/34187122/)**
+   *Journal: Shahrahmani H, Ghazanfarpour M, Shahrahmani N, Abdi F, Sewell RDE, Rafieian-Kopaei M. Journal of Complementary and Integrative Medicine, 2021, 18(2):261-269.*
+   A meta-analysis of 12 randomized controlled trials found that fennel significantly reduced the intensity of menstrual pain compared to placebo, with an effect comparable to NSAIDs like mefenamic acid. The authors concluded fennel may be a viable herbal alternative for women with primary dysmenorrhea.
+
+2. **[Systematic review and meta-analysis: Fennel for reducing pain in primary dysmenorrhea (2020)](https://pubmed.ncbi.nlm.nih.gov/33182553/)**
+   *Journal: Lee HW, Ang L, Lee MS, Alimoradi Z, Kim E. Nutrients, 2020, 12(11):3438.*
+   This review of 12 RCTs across 20 databases found that fennel's effect on menstrual pain was similar to that of conventional drug therapies (no significant difference). The authors suggested fennel could serve as an alternative for women preferring herbal approaches to pain management.
+
+3. **[Comprehensive pharmacological review: Foeniculum vulgare Mill. — Botany, Phytochemistry, Pharmacology, and Toxicology (2014)]()**
+   *Journal: Badgujar SB, Patel VV, Bandivdekar AH. BioMed Research International, 2014, 2014:842674.*
+   A major review covering over 40 traditional therapeutic uses of fennel. The paper summarized evidence for anti-inflammatory, antioxidant, antispasmodic, estrogenic, diuretic, and antimicrobial activities. Toxicity studies in animals showed no significant signs of toxicity at standard doses, supporting fennel's long history of safe use.
+
+4. **[Systematic review and meta-analysis: Fennel for management of menopausal women's health (2021)](https://pubmed.ncbi.nlm.nih.gov/33725577/)**
+   *Journal: Lee HW, Ang L, Kim E, Lee MS. Complementary Therapies in Clinical Practice, 2021, 43:101360.*
+   A review of 7 RCTs found that fennel significantly improved menopausal symptoms compared to placebo (based on 2 pooled RCTs). However, evidence for improvement in sexual function, quality of life, and psychological health was insufficient. No serious adverse events were reported.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)*

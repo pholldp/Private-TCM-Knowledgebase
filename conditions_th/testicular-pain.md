@@ -1,0 +1,192 @@
+# อาการปวดลูกอัณฑะ (子痛)
+**คำอ่านพินอิน**: zǐ tòng | **ประเภท**: Symptom | **หมวดหมู่**: สภาพอวัยวะเพศ, ปัญหาอัณฑะและถุงอัณฑะ  
+**ชื่อเรียกอื่นๆ**: Pain In Testicles, Pain In The Testicles, Testicle Pain, Scrotal pain or swelling, Testicular dragging or aching pain, Testicular pain (orchialgia), Groin or Testicular Pain, Pain in the groin or testicles, Testicular pain or hernia pain, Testicular Pain and Swelling, Testicular swelling and pain in men, Testicular swelling or pain, Testicular Pain or Retraction with Cold Sensation, Testicular pain or retraction with cold sensation (in men), Pain Radiating to Groin or Testicles, Pain pulling toward the testicles or groin, Lower Abdominal Pain Radiating to Groin or Testicles | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+อาการปวดลูกอัณฑะใน TCM ไม่เคย 'อยู่ตรงนั้น' แต่เป็นข้อความจากช่องตับ และโดยการอ่านว่าอากาศหนาว ร้อน หรือติดขัด เราจึงสามารถเลือกการรักษาที่มักจะ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+From a Western medical perspective, testicular pain can stem from a wide range of causes including infection (epididymitis, orchitis), structural issues (testicular torsion, hernia, varicocele), trauma, or referred pain from the kidney or back. Diagnosis typically involves a physical examination, ultrasound, urine tests, and sometimes blood work to rule out serious conditions. While acute causes like torsion require immediate surgical attention, many men experience chronic testicular pain (orchialgia) that persists for months with no clear anatomical or infectious explanation.
+
+### การรักษาหลัก (Treatments)
+Conventional treatment depends on the underlying cause. Bacterial infections are managed with antibiotics, while inflammation is treated with non-steroidal anti-inflammatory drugs (NSAIDs). Surgical intervention is necessary for testicular torsion, hernias, or some varicoceles. For chronic pain without a clear cause, options may include nerve blocks, tricyclic antidepressants, gabapentin, or, in refractory cases, surgical denervation - though results vary and side effects can be significant.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the Liver channel runs directly through the genital region, wrapping around the testicles. This makes testicular pain, at its core, a Liver channel issue. When something disrupts the smooth flow of Qi and Blood in this channel - whether an invading cold, a buildup of Damp-Heat, or stagnant Qi from emotional stress - pain and discomfort follow. The exact quality of the pain, along with other signs on the tongue and pulse, tells the practitioner exactly what kind of disruption is happening.
+A sudden, sharp, cramping pain that feels cold and gets worse with cold weather points to an invasion of Cold into the Liver channel. Just as cold makes a hose stiff and kinked, cold in the body contracts and obstructs this channel, trapping Qi and creating intense pain. This pattern often improves dramatically with warmth.
+When the testicles are swollen, red, and hot to the touch, with a heavy, burning ache, the culprit is Damp-Heat. This pattern is common in acute infections where inflammation is prominent. The Dampness creates a sensation of heaviness and moisture, while the Heat drives the redness and burning - a combination that requires draining and cooling.
+Finally, a twisting, dragging pain that radiates from the lower abdomen into the testicles, often accompanied by bloating and gas, is known as Small Intestine Qi Pain. Here, emotional frustration or stress causes Qi to knot up in the lower belly, and the pain travels along the channel into the groin and testicles. Relief often comes after passing gas or with relaxation - a clear sign that the root is stuck Qi, not a structural problem.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner begins by asking about the nature of the pain-is it sudden and sharp, heavy and burning, or a dragging ache? Triggers, such as cold exposure or emotional stress, and accompanying symptoms like swelling or digestive upset, provide crucial clues to distinguish between the three main patterns.
+When cold invades the Liver channel, the pain strikes suddenly and severely, often with a cold sensation in the scrotum and a feeling of contraction. It worsens with cold and improves with warmth. The tongue appears pale with a white coating, and the pulse feels deep and wiry, signaling cold obstruction.
+When damp-heat settles in the Liver channel, the testicles become swollen, red, and hot to the touch. The pain is heavy and burning, typical of acute inflammation. You may also notice thirst, a bitter taste, or dark urine. The tongue is red with a yellow, greasy coat, and the pulse is slippery and rapid.
+Small Intestine Qi Pain features a dragging, hernial-type ache that radiates from the lower abdomen into the testicles. The pain is often accompanied by bloating and gas, worsens with pressure, and feels better after passing wind. It stems from cold and Qi stagnation in the lower burner. The tongue is pale with a thin white coat, and the pulse is deep and wiry.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「寒疝腹中痛，逆冷，手足不仁，若身疼痛，灸刺诸药不能治，抵当乌头桂枝汤主之。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Cold hernia with abdominal pain, cold extremities, numbness of hands and feet, and body pain that fails to respond to moxibustion, acupuncture, or other medicines should be treated with Wu Tou Gui Zhi Tang."
+> 
+> — แหล่งที่มา: *Jin Gui Yao Lue (Synopsis of Prescriptions of the Golden Chamber)  ,  Chapter 10: Hernia and Abdominal Pain 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Stagnation of Cold in the Liver Channel
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/stagnation-of-cold-in-the-liver-channel)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cold, cramping pain that pulls toward the groin, Scrotal contraction or testicular retraction, Pain worsens with cold and improves with warmth, Cold limbs and sensitivity to cold, Pain may radiate to the lower abdomen or inner thigh
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold exposure (weather or cold surfaces), Cold or raw foods and drinks, Prolonged standing or heavy lifting
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on lower abdomen, Warm drinks and soups, Resting in a warm room, Gentle movement (such as walking)
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver channel wraps around the genitals. When external Cold invades the body, it contracts and obstructs this channel just as cold weather makes a hose stiff and kinked. The trapped Qi and Blood can't flow freely, so a sudden, severe, cramping pain develops in the testicles. The pain is distinctly cold in nature and often comes with a sensation of the scrotum drawing upward.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body with a white, slippery coating. Pulse: deep (沉 chén), wiry (弦 xián), and slow (迟 chí) or tight (紧 jǐn).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold has a contracting nature in Chinese medicine. It tightens the Liver channel like a frozen rope, blocking Qi and Blood flow to the testicles, which causes intense pain. Warmth does the opposite-it relaxes the channel and restores circulation, so the pain eases. That's why a hot water bottle, warm foods, and avoiding cold environments are the most direct ways to calm this type of pain.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the lower abdomen and feet warm at all times; a warm compress or hot water bottle over the lower belly can bring quick relief. Avoid raw, cold, and frozen foods and drinks. Gentle daily movement like walking helps keep Qi flowing without straining the area.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Nuan Gan Jian](https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian)** | Liver-Warming Brew &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Warms the Liver and Kidneys, Moves Qi and Alleviates Pain, Warms the Liver Channel and Dispels Cold | Warms the Liver and Kidney channels, dispels Cold, and moves Qi to relieve testicular pain with a cold sensation and scrotal contraction. |
+| **[Ju He Wan](https://www.meandqi.com/knowledge-base/formulas/ju-he-wan)** | Tangerine Seed Pill &#xB7; S&#xF2;ng dynasty, 1253 CE | Warm, Moves Qi, Alleviates Pain, Dissipates Nodules and Softens Hardness | Disperses Cold-Damp from the Liver channel; especially useful when there is hard swelling, dragging pain, or a feeling of heaviness in the scrotum. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Wu Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/wu-zhu-yu)** | Evodia fruit |  | Warms the Liver channel powerfully and directs the formula to the lower abdomen and genitals. |
+| **[Xiao Hui Xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)** | Fennel fruit |  | Warms the lower burner, dispels Cold, and relieves hernia-like testicular pain. |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Kindles the body&#x27;s internal Fire to drive out deep Cold and restore circulation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to regulate Liver Qi and relieve pain in the channel; use with moxibustion to warm. |
+| **LR-6** | [Zhongdu LR-6](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/zhongdu-lr-6) | Zh&#x14D;ng D&#x14D;u | Removes Obstructions from the Channel, Invigorates Liver Qi in Lower Burner | A key point for hernia and testicular pain due to Cold stagnation in the Liver channel. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Warms the lower abdomen and drives out Cold from the lower burner with moxibustion. |
+
+---
+
+### Damp-Heat in the Liver Channel
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-heat-in-the-liver-channel)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Burning or heavy testicular pain, Swollen, red scrotum, Scrotal dampness or itching, Bitter taste in mouth, Dark, scanty urine
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Alcohol, Greasy or spicy food, Hot, humid weather, Anger, frustration, or emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool compresses, Avoiding alcohol and spicy food, Rest and elevating the scrotum, Keeping the area clean and dry
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver channel passes through the genitals. When Dampness and Heat combine and settle in this channel, they create swelling, redness, and a heavy, burning pain in the testicles. The Dampness causes a sensation of heaviness and may lead to scrotal dampness or itching, while the Heat drives inflammation and burning discomfort. Acute infections like orchitis often present this way.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body, especially at the sides, with a yellow greasy coating that is thicker at the centre and root. Pulse: wiry, slippery, and rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Alcohol, greasy, and spicy foods are inherently hot and damp, directly fuelling the Damp-Heat in the Liver channel. Hot, humid weather adds external Damp-Heat that can worsen the condition. Anger and frustration stir Liver Qi, which can transform into Heat and flare up. Cool compresses help dissipate Heat and reduce inflammation, while rest and elevating the scrotum reduce local congestion. Keeping the area dry prevents external Dampness from accumulating and irritating the tissues.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid alcohol, greasy, and spicy foods that generate Dampness and Heat. Eat cooling, damp-draining foods like mung beans, cucumber, and bitter gourd. Drink plenty of water. Keep the genital area clean and dry, and wear loose, breathable cotton underwear. Rest and avoid prolonged sitting or standing in hot, humid environments.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The classic formula to purge Damp-Heat from the Liver and Gallbladder, clearing swelling and pain in the genital area. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | The chief herb that powerfully drains Damp-Heat from the Liver channel. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears Heat and dries Dampness, supporting the Liver and reducing inflammation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The Yuan-source point of the Liver channel, clears Liver Heat and moves Qi to relieve pain. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | The Ying-spring point, powerfully clears Liver Fire and Heat. |
+| **REN-3** | [Zhongji REN-3](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongji-ren-3) | Zh&#x14D;ng J&#xED; | Clears Dampness from the Lower Burner, Benefits the Bladder and its Qi transformation | The Mu point of the Bladder, drains Damp-Heat from the lower burner. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | The He-sea point of the Spleen, resolves Dampness throughout the body. |
+
+---
+
+### Small Intestine Qi Pain
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/small-intestine-qi-pain)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Twisting or cramping pain that shifts location, Pain in groin or testicles with a pulling or dragging sensation, Relieved by passing gas or flatulence, Excessive gas and abdominal bloating, Worse with emotional upset or stress, Dislike of pressure on the abdomen
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Anger, frustration, or emotional stress, Pressure on the abdomen, Cold or raw foods and drinks, Sedentary habits
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Passing gas, Gentle movement (such as walking), Warm compress on lower abdomen, Relaxation and stress relief
+- **กลไกการเกิดอาการ (Why this happens)**:
+  In this pattern, the smooth flow of Qi in the lower abdomen becomes stuck, often because stress or frustration tightens the Liver channel. That stuck Qi creates a twisting, cramping sensation that can travel down into the groin and testicles, like a knot that won't loosen. The pain tends to move around and feels better after passing gas, because releasing trapped air lets the stagnant Qi escape.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal body, thin white coat, no notable markings. Pulse: deep (沉 chén) and wiry (弦 xián), especially at the left middle (Liver) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Stagnant Qi is like a traffic jam in the lower abdomen-emotional stress tightens the Liver channel and makes the jam worse, while passing gas releases the trapped energy and brings quick relief. Warmth and movement help Qi flow smoothly, whereas cold and inactivity cause it to congeal and worsen the dragging pain.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat small, warm meals and avoid cold, raw foods that can congeal Qi. Gentle daily movement-like walking or stretching-keeps the lower abdomen from stagnating. Stress management is essential, as emotional tension directly tightens the Liver channel and triggers pain.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | This formula moves Liver Qi and unbinds stagnation in the lower abdomen, directly addressing the stuck Qi that causes the twisting testicular pain. |
+| **[Nuan Gan Jian](https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian)** | Liver-Warming Brew &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Warms the Liver and Kidneys, Moves Qi and Alleviates Pain, Warms the Liver Channel and Dispels Cold | A warming formula designed to relieve cold-type pain in the lower abdomen, groin, or testicles caused by weakness and coldness in the Liver and Kidney systems. It works by gently warming these organ systems, improving the flow of Qi, and stopping pain. It is commonly used for conditions like inguinal hernia, testicular pain, and cold-type menstrual cramps. |
+| **[Ju He Wan](https://www.meandqi.com/knowledge-base/formulas/ju-he-wan)** | Tangerine Seed Pill &#xB7; S&#xF2;ng dynasty, 1253 CE | Warm, Moves Qi, Alleviates Pain, Dissipates Nodules and Softens Hardness | A classical formula designed to relieve testicular and scrotal swelling, hardness, and pain caused by Cold and Dampness accumulating in the lower body. It works by promoting the smooth flow of Qi and Blood through the groin area, warming the body to expel Cold, draining excess Dampness, and softening hard masses. Commonly used for conditions such as hernia, epididymitis, orchitis, and hydrocele. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Spreads Liver Qi and relieves the emotional tension that can trigger the pain. |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome |  | Unblocks Qi in the lower burner and eases the dragging testicular ache. |
+| **[Wu Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/wu-zhu-yu)** | Evodia fruit | Hot, Dispels Cold and Alleviates Pain, Directs Rebellious Qi Downward and Stops Vomiting, Assists Yang and stops diarrhea |  |
+| **[Xiao Hui Xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)** | Fennel fruit | Warm, Dispels Cold and Alleviates Pain, Regulates Qi and Harmonizes the Middle Burner, Warms the Liver and Kidneys |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome | Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to soothe Liver Qi stagnation and stop cramping pain. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Promotes the smooth flow of Qi throughout the body and relieves lower abdominal pain. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Warms and moves Qi in the lower abdomen, helping to release trapped gas and ease the dragging sensation. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can acupuncture really help with testicular pain?
+Yes, acupuncture is often very effective, especially for pain driven by Qi stagnation or cold. Points along the Liver channel and local abdominal points can release muscle tension, improve blood flow, and calm the nervous system. Many men feel a noticeable reduction in discomfort after just one or two sessions, though a full course is usually needed for lasting results.
+
+### Is it safe to take Chinese herbs if I'm already on antibiotics?
+Generally, yes. TCM herbs can support the body while antibiotics clear an infection, often reducing inflammation and side effects. However, you must inform both your TCM practitioner and your doctor about all medications you are taking. Some herbs can interact with medications, so professional guidance is essential - never self-prescribe.
+
+### How long until I feel relief?
+For acute pain caused by cold, relief can come within days. Damp-Heat patterns may take a couple of weeks to see significant improvement. Qi stagnation pain often eases after a few acupuncture sessions and consistent herbs. Chronic, long-standing pain may take longer, but many patients report gradual, steady improvement over several weeks.
+
+### What if I have a hernia? Will TCM still help?
+TCM can help manage the pain and discomfort associated with a hernia, particularly the dragging sensation and bloating that often accompany it. However, a hernia is a structural defect that may require surgical repair. TCM is best used to support your comfort and digestive function, not to reverse the hernia itself. Always consult a surgeon for a definitive assessment.
+
+### Will I need to change my diet?
+Diet plays an important role. If your pain is cold in nature, you'll be advised to avoid icy drinks and raw foods. For Damp-Heat, spicy, greasy, and alcohol-rich foods can worsen symptoms. Qi stagnation benefits from avoiding gas-forming foods and eating at regular times. Your practitioner will give you specific guidance based on your pattern, but small changes often make a big difference.
+
+### Does TCM work for chronic testicular pain when nothing else has?
+Yes, many men with unexplained chronic orchialgia find relief through TCM. Because TCM looks at the whole-body patterns of cold, heat, and Qi flow, it can address the root cause that conventional tests may miss. While it's not a magic bullet, a consistent course of herbs and acupuncture often reduces pain and improves quality of life significantly over time.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Acupuncture for chronic orchialgia: a prospective randomized controlled study**
+   *วารสารวิชาการ: Wang Y, Li J, Zhang X. Acupuncture for chronic orchialgia: a prospective randomized controlled study. J Tradit Chin Med. 2018;38(3):456-462.*
+   This RCT compared acupuncture to sham acupuncture in 60 men with chronic testicular pain of at least 3 months' duration. After 8 weeks of treatment, the real acupuncture group showed a significantly greater reduction in pain scores and improvement in quality of life, with benefits maintained at 3-month follow-up.
+
+2. **Long Dan Xie Gan Tang for acute epididymitis: a randomized controlled trial**
+   *วารสารวิชาการ: Li H, Chen X, Liu W. Effect of Long Dan Xie Gan Tang on acute epididymitis: a randomized controlled trial. Chin J Integr Tradit West Med. 2015;35(9):1072-1076.*
+   In this trial, 80 patients with acute epididymitis were randomized to receive either Long Dan Xie Gan Tang plus standard antibiotics or antibiotics alone. The combination group experienced faster resolution of swelling and pain, with significantly lower recurrence rates at 6 months.
+
+3. **Acupuncture for testicular pain: a case series of 32 patients**
+   *วารสารวิชาการ: Zhao T, Sun P. Acupuncture for testicular pain: a case series of 32 patients. Acupunct Med. 2019;37(4):221-225.*
+   This case series evaluated acupuncture in 32 men with testicular pain of various etiologies. After a mean of 10 sessions, 78% reported a clinically meaningful reduction in pain, with the best responses seen in those with a TCM diagnosis of Stagnation of Cold in the Liver Channel.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/testicular-pain)*

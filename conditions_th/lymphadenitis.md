@@ -1,0 +1,232 @@
+# ต่อมน้ำเหลืองอักเสบ (瘰疬)
+**คำอ่านพินอิน**: luǒ lì | **ประเภท**: Condition | **หมวดหมู่**: ปัญหาน้ำเหลือง  
+**ชื่อเรียกอื่นๆ**: Adenitis, Inflamed Lymph Glands, Inflamed Lymph Nodes, Inflammation In The Lymph Glands, Inflammation Of Lymph Glands, Lymph Gland Inflammation, Lymphadenditis, Lymphadenopathy, Lymphatic Inflammation, Polyadenitis, Inflamed Lymphatic Vessels, Lymph Node And Vessels Inflammation, Acute lymphadenitis | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+โหนดที่ตึงเครียดและกระตุ้นความเครียดและโหนดสีแดง ร้อน และเจ็บปวดเป็นสองเงื่อนไขที่แตกต่างกันโดยสิ้นเชิงใน TCM และแต่ละโหนดตอบสนองต่อกลยุทธ์สมุนไพรและการฝังเข็มที่แตกต่างกันของ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Lymphadenitis refers to inflammation of one or more lymph nodes, usually in response to a bacterial, viral, or fungal infection. The affected nodes become swollen, tender, and sometimes warm to the touch. Common sites include the neck, armpits, and groin. Diagnosis is typically made through physical examination, and may be confirmed with blood tests, ultrasound, or a biopsy if the cause is unclear.
+While most cases resolve with treatment of the underlying infection, some become chronic or recurrent. In those instances, the swelling may persist even after the infection clears, or flare up without an obvious trigger.
+
+### การรักษาหลัก (Treatments)
+Treatment depends on the cause. Bacterial infections are managed with antibiotics, while viral cases usually require only rest and symptom relief. Warm compresses and over-the-counter pain relievers can ease discomfort. If an abscess forms, it may need to be drained surgically. For chronic or idiopathic lymphadenitis, treatment focuses on managing symptoms and monitoring for changes.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM views swollen lymph nodes as a form of "phlegm nodulation" (痰核, tán hé), often rooted in the Liver and Spleen. Emotional stress knots the Liver Qi, which then disrupts the Spleen's ability to process fluids. Those fluids thicken into phlegm that can congeal along the neck, forming the firm, painless lumps of the Qi-Phlegm pattern. This is the most common early stage, and it explains why stress so often precedes a flare-up.
+If the stagnation persists, it can generate Heat, which intensifies into Toxic-Heat. The node becomes red, hot, and intensely painful, sometimes forming pus. This pattern corresponds to an acute flare-up, often with fever. The body is essentially fighting a localized "toxic fire," and the treatment must drain that fire while still addressing the underlying phlegm.
+When lymphadenitis lingers or keeps returning, it can deplete the body's Yin, the cooling and moistening foundation. The result is Empty-Heat - a low-grade fever, night sweats, and a node that is dusky red rather than bright red. In the late or recovery stage, the Spleen may be too weak to produce enough Qi and Blood, leaving the node slow to heal with thin discharge and profound fatigue. This progression shows why one Western diagnosis can have several distinct TCM faces, each demanding a different strategy.
+Because the channels of the Liver, Gallbladder, and San Jiao pass through the neck and axilla, blockages in these pathways often manifest as swollen nodes. Treatment therefore targets not just the lump but the entire system of Qi flow and fluid metabolism.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+When someone comes in with swollen lymph nodes - what Chinese medicine calls scrofula (瘰疬, luǒ lì) - a practitioner looks well beyond the lump. The first question is what the nodule feels like and whether it is hot or painful. The answers quickly point toward one of four main patterns that reflect different stages and underlying imbalances.
+If the nodule feels firm and rubbery, moves freely under the skin, and is neither red nor warm, the picture is usually Qi-Phlegm stagnation. This early stage often comes with a feeling of fullness in the chest or moodiness, a greasy tongue coating, and a wiry or slippery pulse. The body is essentially struggling with stuck energy and congealed fluids.
+When the area becomes red, warm, and tender, and especially if pus starts to form, Toxic-Heat Stagnation has taken hold. The tongue now looks red with a thick yellow coat, and the pulse is rapid. The practitioner will ask about fever, thirst, and any throbbing pain, because this pattern signals that inflammation has intensified and the body is trying to wall off an infection.
+In more lingering cases, a person may complain of low-grade afternoon fever, night sweats, a dry mouth, and a sensation of heat in the palms and soles. These are hallmarks of Empty-Heat from Yin Deficiency. Here the tongue is red with little or no coating, and the pulse feels thin and rapid. The nodule may be less angry-looking but the person feels worn down, as if the body’s cooling reserves have been drained.
+Late in the course, or after a long illness, the nodule may discharge thin, watery fluid and heal poorly, leaving a sinus tract that refuses to close. This points to Qi and Blood Deficiency. The person is often pale, deeply fatigued, and has lost weight. A pale tongue and a weak, thready pulse confirm that the body’s building materials are depleted and it cannot repair itself.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「瘰疬者，皆由寒热之毒气，客于经络，与血气相搏，结聚而成也。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Scrofula is always caused by toxic Qi of cold or heat lodging in the channels and collaterals, struggling with the Blood and Qi, and congealing to form masses."
+> 
+> — แหล่งที่มา: *Zhu Bing Yuan Hou Lun (General Treatise on Causes and Manifestations of All Diseases)  ,  Chapter on Scrofula 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Qi-Phlegm
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-phlegm)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Firm, mobile, painless nodules in the neck, Sensation of a lump in the throat that cannot be swallowed or coughed up, Chest stuffiness and upper abdominal fullness, Symptoms worsen with emotional stress, Frequent sighing and irritability
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress and frustration, Greasy, fried, or rich foods, Dairy and cold raw foods, Sedentary lifestyle
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Calm, low-stress environment, Gentle exercise like walking or stretching, Warm, lightly cooked meals, Deep breathing or meditation
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Emotional stress or frustration knots the Liver Qi, which normally keeps everything flowing smoothly. When that flow stalls, the Spleen's ability to process fluids weakens, and those fluids thicken into a sticky phlegm. This phlegm then drifts upward and congeals along the neck, forming the firm, movable lumps that are the hallmark of early lymphadenitis.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal-coloured body, possibly slightly swollen, with a white greasy or slippery coating. Pulse: wiry (弦 xián) and slippery (滑 huá).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress directly knots the Liver Qi, which is the first step in creating the phlegm that forms the lumps, so calming activities and stress reduction are essential. Greasy, fried, and cold foods burden the Spleen and generate more dampness and phlegm, while warm, light meals support digestion and prevent phlegm buildup. Gentle movement keeps Qi and fluids circulating, stopping them from stagnating and congealing.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep meals light and warm; avoid greasy, fried, and dairy-heavy foods that create dampness and phlegm. Gentle daily movement like walking or yoga helps Qi flow. Prioritise stress management through breathing or calming hobbies, as emotional tension is the main trigger.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | Soothes the Liver and strengthens the Spleen to address the root of Qi stagnation and phlegm production. |
+| **[Xiao Luo Wan](https://www.meandqi.com/knowledge-base/formulas/xiao-luo-wan)** | Scrofula-Dissolving Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Clears Heat and nourishes Yin, Transforms Phlegm, Softens hardness and dissipates nodules | Specifically softens and disperses phlegm nodules in the neck, reducing the lumps. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Spreads Liver Qi and relieves the emotional constraint that drives this pattern. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries dampness and transforms phlegm, reducing the sticky congealed masses. |
+| **[Zhe Bei Mu](https://www.meandqi.com/knowledge-base/herbs/zhe-bei-mu)** | Zhejiang Fritillary bulb |  | Clears heat and dissolves phlegm nodules, especially in the neck. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to smooth Liver Qi and release emotional tension. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point to transform phlegm and clear it from the channels. |
+| **SJ-10** | [Tianjing SJ-10](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/tianjing-sj-10) | Ti&#x101;n J&#x1D0;ng | Removes Dampness and Phlegm, Subdues Rebellious Qi | A classic point for scrofula, clears the Triple Burner channel and reduces neck lumps. |
+
+---
+
+### Toxic-Heat Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/toxic-heat-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Red, hot, swollen lymph nodes, Severe throbbing pain at the node, High fever with intense thirst, Pus formation or discharge, Restlessness and irritability
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, greasy foods, Emotional stress, Overwork, Heat exposure
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool compresses, Rest and calm, Drinking mung bean soup, Avoiding spicy food
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Qi and Phlegm stagnation in the lymph nodes is not resolved, it can generate internal Heat. This Heat intensifies into Toxic-Heat, which attacks the local tissues, causing the node to become red, swollen, and intensely painful. The Heat eventually liquefies tissue, leading to pus formation, and the body's attempt to expel this toxin results in the abscess stage of lymphadenitis.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: deep red or crimson body with prickly papillae and a thick, dry yellow coating. Pulse: rapid (shu) and forceful (shi), possibly overflowing (hong).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Toxic-Heat is a fiery, aggressive pathogen. Spicy, greasy foods, emotional frustration, and overwork all add more Heat to the body, stoking the fire. Cool compresses and cooling foods like mung bean directly counteract Heat, while rest prevents the body from generating additional internal warmth, allowing the toxic inflammation to subside.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, greasy, and deep-fried foods that add Heat. Drink cooling fluids like mung bean soup or chrysanthemum tea. Rest in a cool, quiet environment and apply a cool, clean cloth to the swollen area for comfort. Keep the neck area dry and clean.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Luo Wan](https://www.meandqi.com/knowledge-base/formulas/xiao-luo-wan)** | Scrofula-Dissolving Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Clears Heat and nourishes Yin, Transforms Phlegm, Softens hardness and dissipates nodules | Softens and disperses phlegm-heat nodules in the neck, a classic for scrofula. |
+| **[Tou Nong San](https://www.meandqi.com/knowledge-base/formulas/tou-nong-san)** | Discharge Pus Powder &#xB7; Ming dynasty, 1617 CE | Warm, Tonifies Qi, Nourishes Blood, Expels toxins | Promotes the discharge of pus and clears toxic heat from suppurating abscesses. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears Heat and resolves Toxin, especially for suppurative skin and lymph node infections. |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit |  | Disperses clumped Heat and reduces swollen lymph nodes. |
+| **[Pu Gong Ying](https://www.meandqi.com/knowledge-base/herbs/pu-gong-ying)** | Dandelion |  | Strongly clears Toxic-Heat and reduces abscess formation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | The command point of the face and neck, clears Heat and alleviates pain. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Cools the Blood and resolves Toxic-Heat, especially for inflamed skin and nodes. |
+| **DU-14** | [Dazhui DU-14](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/dazhui-du-14) | D&#xE0; Chu&#xED; | Clears Wind-Heat, Releases the Exterior | Reduces fever and clears Heat from all Yang channels. |
+| **SJ-10** | [Tianjing SJ-10](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/tianjing-sj-10) | Ti&#x101;n J&#x1D0;ng | Removes Dampness and Phlegm, Subdues Rebellious Qi | A key point for resolving phlegm and nodules in the neck, traditionally used for scrofula. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Low-grade afternoon fever or feeling of heat, Night sweats, Dry mouth and throat, worse at night, Swollen nodes that enlarge slowly, skin dark red, Restlessness and difficulty sleeping, Heat sensation in palms, soles, and chest
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and staying up late, Spicy, fried, or heating foods, Prolonged stress and frustration
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool, quiet environment, Going to bed early, Moistening foods (pear, lily bulb)
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Lymphadenitis that lingers or keeps returning gradually depletes the body's Yin, the cooling and moistening foundation. When Yin runs low, it can no longer anchor the body's warmth, so a subtle, restless heat rises-especially in the afternoon and at night. This empty heat keeps the lymph nodes in a low-grade, smoldering inflammation: the nodes enlarge slowly, the overlying skin may turn a dusky red, and the area feels warm but never forms the thick pus of a full-blown toxic-heat abscess.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin, and dry, often with cracks and little or no coating. Pulse: fine (thready) and rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Yin is the body's cooling reserve, and it is easily consumed by late nights, overwork, and emotional heat. Spicy and fried foods add external warmth that the depleted Yin cannot balance, making the smoldering inflammation worse. Rest, early sleep, and moistening foods allow Yin to be restored, which naturally cools the empty heat and calms the nodes.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Prioritize rest and avoid staying up late, because nighttime is when Yin rebuilds. Eat cooling, moist foods like pear, lily bulb, and cucumber, and steer clear of spicy, fried, or overly heating dishes. Gentle movement such as walking or qigong can help, but avoid sweating heavily, which further depletes fluids.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Liu Wei Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/liu-wei-di-huang-wan)** | Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE | Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow | Nourishes Kidney Yin to anchor the empty heat and stop the gradual fluid loss. |
+| **[Qing Gu San](https://www.meandqi.com/knowledge-base/formulas/qing-gu-san)** | Cool the Bones Powder &#xB7; M&#xED;ng dynasty, 1602 CE | Cool, Clears Deficiency Heat, Clears Deficiency Heat and Reduces Steaming Bone Disorder, Nourishes Yin and Subdues Yang | Clears deficiency heat from the deeper layers, easing the low-grade fever and night sweats. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Di Gu Pi](https://www.meandqi.com/knowledge-base/herbs/di-gu-pi)** | Chinese Wolfberry Root Bark |  | Lycium bark gently clears empty heat without injuring Yin, relieving the afternoon fever and bone-deep warmth. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonifies Yin and harmonizes the Spleen and Kidney to support fluid production. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Clears deficiency heat and soothes the throat, especially useful when dryness is prominent. |
+| **GB-21** | [Jianjing GB-21](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/jianjing-gb-21) | Ji&#x101;n J&#x1D0;ng | Removes Obstructions from the Channel, Promotes lactation | Local point to move Qi and reduce stagnation in the neck, helping to shrink the lingering nodes. |
+
+---
+
+### Qi and Blood Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Persistent fatigue and weakness, Pale complexion and lips, Poor appetite, Thin, watery discharge from lymph nodes, Slow healing of sinus tracts, Dizziness or palpitations
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and exhaustion, Exposure to cold, Raw and cold foods, Excessive sweating, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate rest and sleep, Warm, nourishing meals, Gentle walking or qigong, Moxibustion on ST36 and CV4
+- **กลไกการเกิดอาการ (Why this happens)**:
+  In the late or recovery stage of lymphadenitis, the body's reserves of Qi and Blood become drained. The Spleen, which makes Qi and Blood from food, is too weak to sustain the healing process. Without enough Qi to move fluids and enough Blood to nourish tissues, the swollen nodes fail to resolve. Instead they may ooze a thin, watery discharge and any sinus tracts heal very slowly.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine (thin) and weak, may feel empty.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Qi and Blood are the body's building blocks and motive force. Rest and warm, cooked foods replenish them, while overwork, cold, and raw foods drain them further. Gentle movement encourages circulation without depleting reserves, and moxibustion delivers a deep, warming boost to the Spleen and Kidney energies that fuel recovery.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked, easily digestible foods like congee, stews, and soups with nourishing ingredients such as beef, chicken, dates, and goji berries. Avoid raw, cold, and greasy foods that tax the Spleen. Gentle daily movement like walking or qigong helps build Qi gradually without exhausting it.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | A classical formula for people who feel stressed, emotionally tense, or irritable, especially when accompanied by fatigue, poor appetite, digestive upset, or menstrual irregularity. It works by gently restoring the smooth flow of Liver Qi while nourishing the blood and strengthening digestion. One of the most widely used formulas in traditional Chinese medicine, it is often described as helping a person feel &#x27;free and easy&#x27; again. |
+| **[Xiao Luo Wan](https://www.meandqi.com/knowledge-base/formulas/xiao-luo-wan)** | Scrofula-Dissolving Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Clears Heat and nourishes Yin, Transforms Phlegm, Softens hardness and dissipates nodules | A classical three-herb formula used to dissolve lumps and nodules in the neck and elsewhere in the body. It works by nourishing the body&#x27;s fluids, clearing excess heat, and softening hardened masses caused by the accumulation of phlegm and fire. Commonly applied for thyroid nodules, enlarged lymph nodes, and breast lumps. |
+| **[Tou Nong San](https://www.meandqi.com/knowledge-base/formulas/tou-nong-san)** | Discharge Pus Powder &#xB7; Ming dynasty, 1617 CE | Warm, Tonifies Qi, Nourishes Blood, Expels toxins | A classical surgical formula used to help the body expel pus from abscesses and boils that have formed internally but cannot break through on their own. It works by strengthening the body&#x27;s Qi and Blood while actively promoting the discharge of pus, making it a key formula for sores and infections that are &#x27;ripe&#x27; but stuck. |
+| **[Liu Wei Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/liu-wei-di-huang-wan)** | Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE | Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow | A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency. |
+| **[Qing Gu San](https://www.meandqi.com/knowledge-base/formulas/qing-gu-san)** | Cool the Bones Powder &#xB7; M&#xED;ng dynasty, 1602 CE | Cool, Clears Deficiency Heat, Clears Deficiency Heat and Reduces Steaming Bone Disorder, Nourishes Yin and Subdues Yang | A classical formula used to clear lingering low-grade fever and internal heat caused by depletion of the body&#x27;s nourishing fluids. It is commonly used for conditions like persistent afternoon fevers, night sweats, and the wasting heat associated with chronic illnesses such as tuberculosis or menopause. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Qi and supports tissue repair, helping the body close stubborn sinus tracts. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and invigorates circulation to bring healing resources to the nodes. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens the Spleen to produce more Qi and dry up lingering dampness. |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Zhe Bei Mu](https://www.meandqi.com/knowledge-base/herbs/zhe-bei-mu)** | Zhejiang Fritillary bulb | Cold, Clears Heat and Transforms Phlegm, Stops Cough, Clears toxins and disperses abscesses |  |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower | Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery |  |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit | Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat |  |
+| **[Pu Gong Ying](https://www.meandqi.com/knowledge-base/herbs/pu-gong-ying)** | Dandelion | Cold, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Promotes Urination and Relieves Stranguria |  |
+| **[Di Gu Pi](https://www.meandqi.com/knowledge-base/herbs/di-gu-pi)** | Chinese Wolfberry Root Bark | Cold, Nourishes Yin and Clears Deficiency Heat, Clears Lung Heat and Drains Lung Fire, Cools the Blood and Stops Bleeding |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | The master point for tonifying Qi and Blood and strengthening the Spleen and Stomach. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Nourishes essence and Blood, and warms the body&#x27;s core to support recovery. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Warms and tonifies the root of vitality, especially when there is deep fatigue. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonifies Blood, supports the Spleen, and calms the mind when dizziness or palpitations are present. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM help if my swollen lymph nodes are caused by an infection?
+Yes, but it depends on the pattern. If the infection leads to Toxic-Heat with redness, pain, and fever, TCM herbs and acupuncture can help clear heat and resolve the swelling alongside conventional antibiotics if needed. Always inform your doctor about any herbs you are taking.
+
+### How does acupuncture work for swollen lymph nodes?
+Acupuncture helps by unblocking the flow of Qi and fluids in the channels that pass through the affected area. Points on the San Jiao, Stomach, and Liver channels are commonly used to reduce stagnation and phlegm. The needles are not inserted directly into the swollen node but into nearby points that influence the region.
+
+### Will the lumps go away completely with TCM?
+In many cases, yes. Qi-Phlegm nodes that are still soft and movable often resolve completely with herbs and acupuncture. If the node has become chronically hard or scarred, it may shrink but not disappear entirely. The goal is always to eliminate the underlying imbalance so that new nodes do not form.
+
+### Can I combine TCM with antibiotics?
+Generally, yes. TCM can complement antibiotic treatment by reducing inflammation and supporting the immune system. However, some herbs may interact with medications, so it is essential to tell both your TCM practitioner and your doctor about everything you are taking. Never stop prescribed antibiotics without medical advice.
+
+### How long does it take to see results?
+It varies by pattern. Acute Toxic-Heat may improve within days. Qi-Phlegm often takes 2-4 weeks. Empty-Heat and Qi and Blood Deficiency are slower, typically 4-8 weeks or longer. Consistency with herbs and weekly acupuncture is key.
+
+### Are there foods I should avoid if I have swollen lymph nodes?
+Yes. In general, avoid foods that create dampness and phlegm, such as dairy, sugar, fried foods, and excessive cold or raw foods. Spicy and greasy foods can worsen heat patterns. Focus on warm, lightly cooked meals, soups, and plenty of vegetables. For specific dietary advice based on your pattern, see the treatment section.
+
+### When should I see a doctor instead of a TCM practitioner?
+If you experience any of the following, seek immediate medical attention: a lymph node that is hard, fixed, and rapidly enlarging; high fever with chills; difficulty breathing or swallowing; red streaks spreading from the node; or unexplained weight loss and night sweats. For a full list, see the Safety section on this page.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Traditional Chinese medicine composition for treating cervical abscess type lymph node tuberculosis** ([ลิงก์](https://www.goveda.com/patent/CN-116135216-B))
+   *วารสารวิชาการ: Inventors not specified. Traditional Chinese medicine composition for treating cervical abscess type lymph node tuberculosis. China Patent CN-116135216-B. 2023.*
+   This patent describes an herbal formula containing Astragalus, Angelica sinensis, Atractylodes, Adenophora, Spina gleditsiae, honeysuckle, calcined oyster, and Ligusticum wallichii. It is indicated for cervical abscess-type tuberculous lymphadenitis with symptoms such as dry mouth, weakness, shortness of breath, night sweats, and bitter taste. The composition aims to tonify Qi, nourish Blood, transform phlegm, and resolve toxicity.
+
+2. **Study on the mechanism of Ginseng-Gegen for mesenteric lymphadenitis based on network pharmacology**
+   *วารสารวิชาการ: Zheng et al. Study on the mechanism of Ginseng-Gegen for mesenteric lymphadenitis based on network pharmacology. Translational Pediatrics. 2022.*
+   This network pharmacology study investigated the potential mechanisms of Ginseng (Ren Shen) and Gegen (Pueraria) in treating mesenteric lymphadenitis. The analysis identified multiple active compounds and target pathways involved in anti-inflammation and immune modulation, providing a theoretical basis for the herb pair’s traditional use in resolving dampness, strengthening the Spleen, and alleviating abdominal pain associated with lymphadenitis.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/lymphadenitis)*

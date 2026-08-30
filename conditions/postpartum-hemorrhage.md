@@ -1,0 +1,187 @@
+# Postpartum Hemorrhage (产后血崩)
+**Pinyin**: chǎn hòu xuè bēng | **Kind**: Condition | **Category**: Postpartum & Breastfeeding, Bleeding & Hemorrhage  
+**Synonyms**: Bleeding After Childbirth, Excessive Bleeding After Childbirth, Excessive Postnatal Bleeding, Postnatal Bleeding, Postnatal Hemorrhage, Postpartum Bleeding, Postpartum Haemorrhage, Sudden Postpartum Uterus Bleeding, Postpartum Hemorrhage And Bleeding | **Body Regions**: 
+
+---
+
+## Preview Summary
+The color of the blood and the presence or absence of clots tells the TCM practitioner everything - bright-red gushing blood points to Qi collapse, dark clotted blood with cramping...
+
+---
+
+## Conventional Medicine View
+### Description
+Postpartum hemorrhage is defined as excessive bleeding - typically more than 500 milliliters for a vaginal delivery or 1000 milliliters for a cesarean - within the first 24 hours after childbirth. It is one of the leading causes of maternal mortality worldwide. The most common cause is uterine atony, where the uterus fails to contract adequately after delivery. Other causes include retained placental tissue, lacerations of the birth canal, and clotting disorders. Symptoms include heavy vaginal bleeding, often with clots, along with signs of blood loss such as dizziness, weakness, pallor, and a rapid heart rate.
+
+### Treatments
+Conventional management of postpartum hemorrhage follows a stepwise approach depending on severity. First-line measures include uterine massage and uterotonic medications like oxytocin to stimulate contractions. If bleeding continues, additional medications such as misoprostol or tranexamic acid may be used. For retained placental tissue, manual removal or surgical evacuation may be necessary. In severe cases, procedures like uterine balloon tamponade, uterine artery embolization, or even hysterectomy may be required. After the acute episode, treatment focuses on iron supplementation for anemia and monitoring for complications.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+TCM understands postpartum hemorrhage primarily through the lens of Qi and its relationship with Blood. Qi has a critical function called 'governing Blood' (统血, tǒng xuè) - it is the force that holds blood inside the vessels. Childbirth places an enormous demand on Qi. When the Spleen and Stomach Qi are already weak, they can become so exhausted that they can no longer perform this holding function. The result is a sudden, profuse gush of bright-red bleeding, often accompanied by extreme fatigue, pallor, and cold limbs.
+But Qi collapse is only one part of the story. Sometimes the uterus does not contract well after delivery, or residual tissue remains. In TCM terms, this causes blood to pool and congeal into clots. These clots block the vessels, preventing blood from returning to its proper channels. The bleeding continues, but now the blood is dark and clotted, and it is accompanied by a stabbing lower belly pain that eases once the clots pass. This is a Blood Stagnation pattern, and it requires moving the stasis, not just stopping the bleeding.
+A third pattern arises from direct birth trauma - lacerations or uterine injury that damage blood vessels. This causes acute and continuous blood loss that depletes both Qi and Blood simultaneously. With Qi too weak to hold blood in the vessels, the bleeding persists, leaving the body in a state of severe Qi and Blood Deficiency. This is why one Western diagnosis of postpartum hemorrhage can have three completely different TCM causes - and why the treatment must match the underlying pattern, not just the symptom of bleeding.
+
+### Practitioner Diagnosis
+A TCM practitioner begins by asking about the timing, color, and volume of the bleeding, and whether there is any abdominal pain. The answers immediately point toward one pattern or another, because each underlying imbalance creates a distinct picture.
+If the bleeding is sudden, profuse, and bright red, accompanied by extreme exhaustion, a pale face, dizziness, and cold limbs, the pattern is likely Qi Collapsing or Qi Sinking. Here the body’s Qi is so depleted that it can no longer hold the Blood inside the vessels. The tongue is pale, and the pulse feels weak and rapid.
+When the bleeding is dark or contains large clots, and there is lower abdominal pain that eases noticeably after a clot passes, the pattern is Blood Stagnation in the Directing and Penetrating Vessels. The pain and the clotty quality are the key clues. The tongue may be dark with stasis spots, and the pulse feels deep and rough.
+If there is a known birth injury, such as a tear, and the bleeding is continuous and bright red with a pale face and a thready, rapid pulse, the pattern is Qi and Blood Deficiency from direct trauma. The history of a difficult delivery and the unremitting nature of the loss point to this less common but serious picture.
+
+### Classical Reference
+> **Original**: 「生化汤为产后第一方。」
+> 
+> **Translation**: "Sheng Hua Tang is the foremost formula for the postpartum period."
+> 
+> — Source: *Fu Qing Zhu Nu Ke (Fu Qingzhu's Obstetrics and Gynecology)  ,  Chapter on Postpartum Diseases 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Qi Collapsing or Qi Sinking
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-collapsing-or-qi-sinking)*
+
+- **Clinical Signs & Symptoms**: Sudden gush of bright-red blood, often within 24 hours of delivery, Pale face and lips, Severe fatigue, weakness, and a low, unwilling voice, Cold limbs and clammy sweating, Dizziness or lightheadedness, Little or no abdominal pain
+- **Worse with**: Standing or walking too soon after delivery, Cold or raw foods and drinks, Emotional shock or fear, Overexertion of any kind
+- **Better with**: Lying flat and resting completely, Warmth on the lower abdomen, Sipping warm broths and soups, Gentle moxibustion on the lower belly
+- **Why this happens (Mechanism)**:
+  Childbirth places an enormous demand on Qi. When the Spleen and Stomach Qi are already weak, they become exhausted and can no longer perform their job of holding Blood inside the vessels. This is called 'Qi failing to govern Blood' (气不摄血, qì bù shè xuè). The result is a sudden, profuse gush of bright-red bleeding - the blood simply leaks out because the 'container' has lost its grip. The acute loss of blood then causes the classic signs of collapse: pallor, dizziness, cold limbs, and a hollow, weak pulse.
+- **Tongue & Pulse**: Tongue: Pale, puffy body with teeth marks and a thin white coat. Pulse: Weak, thready, and hollow (芤) - felt with light pressure but disappearing under heavy pressure, especially at the right Guan position.
+- **Triggers & Relief Explanation**: Qi that is already collapsing downward needs to be conserved and raised. Rest and warmth stop further Qi leakage and help the Spleen's lifting function recover. Cold, raw foods, and physical exertion demand Qi that the body does not have to spare, making the sinking and bleeding worse. Emotional shock scatters Qi, which is the last thing a depleted system can afford.
+- **Diet & Lifestyle**: Absolute rest is essential - do not stand or walk until bleeding is controlled. Keep warm, especially the lower abdomen and feet. Sip warm, easily digestible broths like bone broth with a little ginger and red dates (大枣, dà zǎo). Avoid all cold, raw, and hard-to-digest foods; they demand too much Spleen Qi. Small, frequent, warm meals help rebuild Qi steadily without overwhelming digestion.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Du Shen Tang](https://www.meandqi.com/knowledge-base/formulas/du-shen-tang)** | Unaccompanied Ginseng Decoction &#xB7; Yu&#xE1;n dynasty, 1348 CE | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Stabilizes the Exterior and Rescues Collapse | A single-herb emergency formula of ginseng to powerfully rescue collapsed Qi and stop bleeding when the woman is in a state of severe collapse. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root |  | Powerfully tonifies the original Qi, rescues collapse, and helps the body hold onto Blood. |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Raises Spleen Qi upward and strengthens the &#x27;container&#x27; function that governs blood, directly addressing the Qi-sinking mechanism. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes blood and helps restore what was lost, while its gentle moving nature prevents stasis from the sudden blood loss. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Moxibustion or gentle tonifying technique. Raises sinking Qi to the head, helping the body&#x27;s lifting energy recover. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxibustion strongly recommended. Warms and tonifies the uterus and the body&#x27;s root Qi to stop bleeding. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonifies the Spleen, builds blood, and stops uterine bleeding. Essential for Qi and Blood deficiency patterns. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | The master point for replenishing Spleen and Stomach Qi, supporting the production of new blood. |
+
+---
+
+### Blood Stagnation in the Directing and Penetrating Vessels
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/blood-stagnation-in-the-directing-and-penetrating-vessels)*
+
+- **Clinical Signs & Symptoms**: Dark purplish blood with many clots, Fixed, stabbing lower abdominal pain that improves after passing clots, Pain worsens with pressure on the lower abdomen, Dark purple tongue with stasis spots, engorged veins under the tongue
+- **Worse with**: Cold foods and drinks, Prolonged bed rest, Anger or frustration, Heavy lifting
+- **Better with**: Passing blood clots, Gentle abdominal massage, Warm compress on lower abdomen, Light walking
+- **Why this happens (Mechanism)**:
+  After childbirth, blood should flow out smoothly as lochia. When the uterus does not contract well or residual tissue remains, blood pools and congeals into clots. These clots block the vessels, preventing blood from returning to the channels, so heavy bleeding continues with dark, clotted blood and sharp lower abdominal pain.
+- **Tongue & Pulse**: Tongue: dark purple or dusky body, possible purple spots, engorged sublingual veins, thin white coat. Pulse: choppy (涩 sè) and wiry (弦 xián).
+- **Triggers & Relief Explanation**: Blood stasis means the flow is obstructed by clots and stagnant blood. Warmth and gentle movement help move blood, easing pain and allowing the uterus to contract properly. Cold and inactivity congeal blood further, making stasis worse. Emotional upsets like anger cause Qi to stagnate, which then leads to more blood stasis, aggravating the bleeding and pain.
+- **Diet & Lifestyle**: Keep the lower abdomen warm and avoid cold drinks and raw foods. Gentle walking once safe helps move blood. Rest, but shift positions often to prevent stagnation. Eat warm, cooked foods like ginger, black pepper, and small amounts of lean protein to support circulation.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Shao Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/shao-fu-zhu-yu-tang)** | Drive Out Stasis from the Lower Abdomen Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Warm, Invigorates Blood and Dispels Stasis, Warms the Channels and Disperses Cold, Moves Qi and Alleviates Pain | Warms the uterus and invigorates blood to dispel stasis in the lower abdomen, stopping the hemorrhage by removing the blockage. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Pu Huang](https://www.meandqi.com/knowledge-base/herbs/pu-huang)** | Cattail pollen |  | Stops bleeding and resolves stasis, especially effective for postpartum bleeding with clots. |
+| **[Yi Mu Cao](https://www.meandqi.com/knowledge-base/herbs/yi-mu-cao)** | Chinese motherwort |  | Invigorates blood and promotes lochia discharge, reducing stasis and pain. |
+| **[San Qi](https://www.meandqi.com/knowledge-base/herbs/san-qi)** | Notoginseng root |  | Stops bleeding while dissolving clots, a key herb for traumatic and stasis-related bleeding. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Invigorates blood, regulates the uterus, and relieves lower abdominal pain. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood, resolves blood stasis and stops bleeding. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Moves Liver Qi and blood to relieve stasis and pain. |
+| **EX-CA-1** | [Zigong EX-CA-1](https://www.meandqi.com/knowledge-base/acupuncture/zigong-ex-ca-1) | Z&#x1D0; G&#x14D;ng | Lifts and regulates Qi, Regulates menstruation and reduce pain | Directly benefits the uterus, expels clots, and stops hemorrhage. |
+
+---
+
+### Qi and Blood Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-and-blood-deficiency)*
+
+- **Clinical Signs & Symptoms**: Continuous bright-red vaginal bleeding, History of difficult labor or birth canal lacerations, Extreme pallor of face and lips, Severe dizziness and blurred vision, Heart palpitations and shortness of breath, Profound fatigue and cold limbs
+- **Worse with**: Getting up too soon, Cold foods and drinks, Standing for long periods, Emotional stress or fright
+- **Better with**: Complete bed rest, Warmth on the abdomen, Warm nourishing soups and congees, Moxibustion
+- **Why this happens (Mechanism)**:
+  Childbirth trauma-such as lacerations or uterine injury-directly damages blood vessels, causing acute and continuous blood loss. This sudden hemorrhage depletes both Qi and Blood. With Qi too weak to hold blood in the vessels, the bleeding persists, leaving the body in a state of severe Qi and Blood deficiency.
+- **Tongue & Pulse**: Tongue: pale body, thin white coating. Pulse: thready (fine) and weak, often rapid.
+- **Triggers & Relief Explanation**: After traumatic blood loss, the body is severely depleted of Qi and Blood. Rest and warmth conserve the little Qi that remains, while warm, nutrient-dense foods and moxibustion help rebuild Blood and Yang. Any exertion or cold further drains Qi and slows recovery, risking more bleeding.
+- **Diet & Lifestyle**: Complete bed rest is essential. Eat small, frequent meals of warm, easily digested foods-congee with red dates, goji berries, and a little ginger, or slow-cooked bone broth. Avoid all cold, raw, or greasy foods. Gentle moxibustion over the lower abdomen at home can support recovery.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Mu Li San](https://www.meandqi.com/knowledge-base/formulas/mu-li-san)** | Oyster Shell Powder &#xB7; S&#xF2;ng dynasty, 1107 CE | Neutral, Astringes to Stop Sweating, Secures the Exterior, Tonifies Qi | Tonifies Qi, nourishes Blood, and secures the channels to stop bleeding and promote healing of birth injuries. |
+| **[Du Shen Tang](https://www.meandqi.com/knowledge-base/formulas/du-shen-tang)** | Unaccompanied Ginseng Decoction &#xB7; Yu&#xE1;n dynasty, 1348 CE | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Stabilizes the Exterior and Rescues Collapse | An emergency rescue formula consisting of a single herb, Ginseng (Ren Shen), used at high dosage to powerfully restore the body&#x27;s vital Qi when it is on the verge of collapse. It is traditionally used in critical, life-threatening situations involving severe blood loss, shock, or extreme exhaustion where the pulse is barely detectable and consciousness is fading. |
+| **[Shao Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/shao-fu-zhu-yu-tang)** | Drive Out Stasis from the Lower Abdomen Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Warm, Invigorates Blood and Dispels Stasis, Warms the Channels and Disperses Cold, Moves Qi and Alleviates Pain | A classical formula designed to warm the lower abdomen, improve Blood circulation, and relieve pain. It is particularly well suited for women experiencing menstrual cramps, irregular periods, or fertility difficulties linked to Cold and Blood stasis in the pelvic area. The formula combines warming herbs with Blood-moving herbs to address both the underlying Cold and the resulting stagnation. |
+| **[Mu Li San](https://www.meandqi.com/knowledge-base/formulas/mu-li-san)** | Oyster Shell Powder &#xB7; S&#xF2;ng dynasty, 1107 CE | Neutral, Astringes to Stop Sweating, Secures the Exterior, Tonifies Qi | A classical formula for excessive sweating caused by body weakness, whether it occurs during the day (spontaneous sweating) or at night (night sweats). It works by strengthening the body&#x27;s surface defense while directly closing the pores and anchoring the body&#x27;s fluids. Commonly used after illness, surgery, or childbirth, or for chronic sweating from general debility. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and invigorates circulation to help restore blood volume and heal damaged vessels. |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root |  | Powerfully tonifies Original Qi to lift the collapse and help Qi hold blood within the vessels. |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Enriches Yin and Blood to replenish what was lost and anchor the spirit. |
+| **[Mu Li Ke](https://www.meandqi.com/knowledge-base/herbs/mu-li-ke)** | Oyster shell |  | Calcined oyster shell astringes and secures, directly helping to stop bleeding. |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Pu Huang](https://www.meandqi.com/knowledge-base/herbs/pu-huang)** | Cattail pollen | Neutral, Stops Bleeding, Invigorates Blood and Dispels Stasis, Promotes Urination and Relieves Stranguria |  |
+| **[Yi Mu Cao](https://www.meandqi.com/knowledge-base/herbs/yi-mu-cao)** | Chinese motherwort | Slightly Cool, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Dispels Stasis, Promotes Urination and Reduces Edema |  |
+| **[San Qi](https://www.meandqi.com/knowledge-base/herbs/san-qi)** | Notoginseng root | Warm, Dispels Stasis and Stops Bleeding, Invigorates Blood and Dispels Stasis, Reduces Swelling and Alleviates Pain |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Mu Li Ke](https://www.meandqi.com/knowledge-base/herbs/mu-li-ke)** | Oyster shell | Slightly Cool, Calms the Liver and Subdues Yang, Anchors and Calms the Spirit, Nourishes Yin |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Moxa. Strengthens the Spleen, nourishes Blood, and helps stop uterine bleeding. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Moxa. Tonifies Qi and Blood at the root, supporting the Spleen and Stomach. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Moxa. Fortifies Qi and stabilizes the lower burner to hold blood. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa. Nourishes Blood and warms the uterus, aiding contraction and hemostasis. |
+
+---
+
+## Frequently Asked Questions
+### Can Chinese herbs stop postpartum bleeding?
+Yes, certain Chinese herbal formulas are specifically designed to stop postpartum bleeding - but only when matched to the correct pattern. Qi collapse patterns respond to strong tonifying formulas with Ren Shen and Huang Qi that restore the body's ability to hold blood. Blood stasis patterns need formulas that gently move clots and allow blood to return to the channels. However, postpartum hemorrhage is a medical emergency. Herbs should only be used under professional supervision and after the acute situation has been assessed by a doctor.
+
+### How soon after delivery can I start TCM treatment?
+TCM treatment can begin very soon after delivery, often within the first few days, once any acute emergency has been stabilized. In fact, many TCM practitioners recommend starting herbal soups or teas within the first week to support uterine contraction, promote healthy lochia flow, and begin rebuilding Qi and Blood. Acupuncture can also be started early, though points are chosen carefully to avoid overstimulation during this delicate recovery period.
+
+### Will TCM help with my energy levels after heavy bleeding?
+Yes - rebuilding Qi and Blood is one of the greatest strengths of TCM postpartum care. Heavy blood loss depletes both Qi and Blood, leaving new mothers exhausted, pale, dizzy, and slow to recover. Herbal formulas that combine Qi tonics like Huang Qi with Blood nourishers like Dang Gui and Shu Di Huang are specifically designed to address this. Most women notice a gradual improvement in energy within 2-4 weeks of consistent herbal treatment, though full recovery from severe hemorrhage may take several months.
+
+### Are there foods I should eat or avoid after postpartum bleeding?
+Warm, nourishing, easily digestible foods are the foundation of postpartum recovery. Bone broths, congees, slow-cooked stews, and soups help rebuild Qi and Blood without taxing the digestive system. Foods like eggs, liver, dark leafy greens, black sesame, and goji berries are particularly beneficial. Avoid cold, raw foods and icy drinks, which can shock the digestive system and slow recovery. Also avoid spicy, greasy, or overly processed foods that create dampness and burden the Spleen.
+
+### Can acupuncture help my uterus contract after birth?
+Yes, acupuncture can be very helpful for promoting uterine contraction and reducing postpartum bleeding. Points like Sanyinjiao (SP-6), Guanyuan (REN-4), and Zusanli (ST-36) are commonly used to support uterine involution and stop bleeding. Moxibustion - the warming of acupuncture points with a dried herb - is particularly effective for Qi collapse patterns where warmth and tonification are needed. Treatment is gentle and tailored to the new mother's condition.
+
+### Is it safe to take Chinese herbs while breastfeeding?
+Most Chinese herbs used for postpartum recovery are considered safe during breastfeeding, and many - like Dang Gui and Huang Qi - are traditionally used to support milk production as well as recovery. However, not all herbs are safe. Blood-moving herbs used for stasis patterns must be used carefully and only under professional guidance. Always inform your TCM practitioner that you are breastfeeding, and let your doctor know about any herbs you are taking.
+
+---
+
+## Modern Scientific Research
+1. **Shenghua decoction for postpartum hemorrhage attributed to uterine atony: An observational study** ([Link](https://doi.org/10.1097/MD.0000000000039234))
+   *Journal/Publication: Wang Y, et al. Shenghua decoction for postpartum hemorrhage attributed to uterine atony: An observational study. Medicine (Baltimore). 2024;103(32):e39234.*
+   This observational study evaluated Shenghua decoction as an adjunct to standard oxytocin for postpartum hemorrhage due to uterine atony. The herbal group had significantly lower blood loss and faster uterine involution compared to controls. The study suggests Shenghua decoction may enhance uterine contraction and reduce bleeding, though randomized trials are needed.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/postpartum-hemorrhage](https://www.meandqi.com/knowledge-base/conditions/postpartum-hemorrhage)*

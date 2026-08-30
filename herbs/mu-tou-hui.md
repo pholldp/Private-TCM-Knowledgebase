@@ -1,0 +1,165 @@
+# Mu Tou Hui (墓头回)
+**English Name**: Golden Rain Tree root  
+**Category**: Herbs that clear Heat and resolve Toxicity (清热解毒药), Stabilizing and binding herbs (收涩药)  
+**Scientific Name**: Patrinia heterophylla Bunge / Patrinia scabra Bunge  
+**Pharmaceutical Name**: Radix Patriniae Heterophyllae  
+**Toxicity**: Non-toxic  
+**Temperature**: Cool | **Taste**: Bitter (苦 kǔ), Sour (酸 suān), Astringent (涩 sè)  
+**Channels Entered**: Heart, Liver  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+Mù Tóu Huí is a root used in Chinese medicine primarily for women's health concerns, especially abnormal vaginal discharge and heavy menstrual or uterine bleeding. It works by drying excess moisture in the lower body, cooling heat in the blood, and gently tightening tissues to stop leaking. It also has traditional uses for dysentery, jaundice, and malaria, and modern interest in its potential supportive role in certain cancers.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Women's Health, Uterine Bleeding Support, Vaginal Discharge Support, Digestive Health
+- **TCM Actions**: Secures the Kidneys and Stops Vaginal Discharge, Astringes and Stops Bleeding, Clears Heat and Resolves Toxicity, Checks Malaria, Invigorates Blood and Dispels Stasis
+
+### How these actions work
+'Dries Dampness and stops vaginal discharge' means Mù Tóu Huí helps the body eliminate excess moisture that has accumulated in the lower pelvic region, which in TCM is seen as the root cause of abnormal vaginal discharge. Its bitter taste has a natural drying effect on pathological fluids, while its astringent quality helps tighten and restrain the leaking. This is the herb's most well-known use, and it appears in several standard Chinese patent medicines for this purpose.
+'Astringes and stops bleeding' means the herb's sour and astringent properties help contain Blood within the vessels. This is especially relevant for heavy menstrual bleeding or uterine bleeding (called 崩漏 in Chinese medicine). Unlike purely astringent herbs, Mù Tóu Huí also has a mild Blood-moving quality, so it stops bleeding without completely trapping old Blood inside the body.
+'Clears Heat and resolves toxins' refers to its ability to counteract inflammatory and infectious conditions. In TCM terms, when Heat toxins accumulate, they cause redness, swelling, pain, and pus formation. Mù Tóu Huí's cool nature helps clear this Heat, which is why it has traditionally been used for intestinal abscesses, toxic sores, and dysentery. Modern research has explored its anti-tumour properties, particularly for cervical and gastric cancers.
+'Interrupts malaria' is a traditional use where the herb was taken before a malarial episode to prevent or reduce the cycling fever and chills characteristic of malaria.
+
+---
+
+## Patterns Addressed
+### Damp-Heat
+- **Explanation**: Mù Tóu Huí is bitter, slightly sour and astringent, and cool in nature, entering the Heart and Liver channels. Its bitter flavour dries Dampness while its cool nature clears Heat, making it well suited for patterns where Damp-Heat pours downward into the Lower Burner. The herb's astringent quality helps consolidate and restrain abnormal vaginal discharge, while its Dampness-drying action addresses the root cause of excessive, foul-smelling leukorrhea. Its affinity for the Liver channel is especially relevant since the Liver channel encircles the genitalia.
+- **Clinical Signs & Symptoms**:
+
+### Toxic-Heat
+- **Explanation**: Mù Tóu Huí's bitter and cool properties allow it to clear Heat and resolve toxins. The herb has demonstrated effects against toxic swellings, intestinal abscesses (肠痈), and sores. Its ability to clear Toxic Heat while simultaneously having some Blood-moving quality helps it address both the heat toxin and the resultant tissue damage. Modern research has also explored its use in supporting treatment of certain Heat-toxin related tumours.
+- **Clinical Signs & Symptoms**:
+  - **Periappendiceal Abscess**: Intestinal abscess (&#x80A0;&#x75C8;)
+  - **Sore**: Sores and toxic swellings
+
+---
+
+## Commonly Used For
+### Thin Vaginal Discharge
+- **Arises from**: Damp-Heat
+- **TCM Interpretation**: In TCM, abnormal vaginal discharge (带下病) is primarily understood as a failure of the Spleen to transform and transport fluids, combined with Dampness accumulating in the Lower Burner. When this Dampness combines with Heat, the discharge becomes yellow, foul-smelling, or tinged with blood. The Liver channel, which encircles the genitalia, and the Dai Mai (Belt Vessel), which binds the lower body, are both involved. When Damp-Heat lodges in these channels, the body loses its ability to restrain normal vaginal secretions.
+- **Why it Helps**: Mù Tóu Huí directly addresses this mechanism through several complementary actions. Its bitter and cool nature dries Dampness and clears Heat from the Lower Burner. Its astringent quality helps restrain and consolidate the leaking discharge, addressing the symptom while the Dampness-clearing action treats the root. Because it enters the Liver channel, it reaches the pelvic region where the pathology resides. This is why Mù Tóu Huí is the primary ingredient in several well-known Chinese patent medicines for vaginal discharge, including Zhì Dài Piàn and Fù Fāng Bái Dài Wán.
+
+### Bleeding
+- **TCM Interpretation**: Abnormal uterine bleeding (崩漏) in TCM is understood as a disruption of the Chong Mai (Thoroughfare Vessel) and Ren Mai (Conception Vessel), the two extraordinary channels most responsible for governing menstruation. When Heat enters the Blood level, it agitates Blood and damages vessel walls, causing Blood to overflow recklessly. The Liver, which stores Blood, and the Heart, which governs Blood, are both implicated. The condition may present as sudden heavy flooding (崩) or persistent spotting (漏).
+- **Why it Helps**: Mù Tóu Huí's cool nature clears Heat from the Blood level while its sour and astringent taste astringe and contain the Blood, stopping the bleeding. Its dual entry into the Heart and Liver channels means it directly reaches the two organ systems most involved in Blood governance. Classical formulas pair it with Hóng Huā (safflower) in small amounts to prevent stagnation while stopping bleeding, recognizing that Blood Heat bleeding often involves some degree of Blood stasis. This combination of cooling, astringing, and mild Blood-moving makes Mù Tóu Huí particularly well suited for this condition.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–15g
+- **Maximum Dosage**: Up to 30–45g in specific clinical situations (e.g. treating uterine bleeding or cervical conditions), under practitioner supervision only.
+- **Dosage Notes**: Standard decoction dosage is 9–15g for general use. Higher doses of 30–45g have been used in folk medicine formulas for severe uterine bleeding (崩漏) and in anti-tumour protocols, always under practitioner supervision. For vaginal discharge (白带), it is commonly combined with Jin Ying Zi (Cherokee Rose fruit), Ku Shen (Sophora root), and Zhi Mu. The charcoal-processed form (墓头回炭) has enhanced astringent and hemostatic properties and is preferred for active bleeding. For external use (e.g. trichomonas vaginitis), the powdered herb is applied topically at 0.5–0.8g per application.
+- **Preparation**: No special decoction handling is required. The herb is simply decocted in the standard manner. For enhanced hemostatic effect, the charcoal-processed form (Mu Tou Hui Tan) may be used, which is made by stir-frying the sliced herb over medium heat until the surface is charred black and the interior is dark brown, then sprinkling with a small amount of water to extinguish any sparks.
+
+---
+
+## Processing Methods
+### M&#xF9; T&#xF3;u Hu&#xED; T&#xE0;n (&#x5893;&#x5934;&#x56DE;&#x70AD;)
+- **Processing Method**: The cleaned and sliced herb is stir-fried over medium heat until the surface turns charred black and the interior becomes dark brown. A small amount of clean water is sprinkled on to extinguish any remaining sparks, then the herb is removed and allowed to cool completely.
+- **How it Changes Properties**: Charring strengthens the herb's astringent and hemostatic (止血) properties significantly. The cooling and Heat-clearing actions are somewhat reduced, while the ability to contain Blood within the vessels is enhanced. The bitter taste becomes less prominent and the charred form is more focused on stopping bleeding than on clearing Heat or drying Dampness.
+- **When to Use**: Use the charred form when stopping bleeding is the primary goal, especially for acute or heavy uterine bleeding (崩漏) where rapid hemostasis is needed. The raw form is preferred when Damp-Heat clearing and discharge-stopping are the main therapeutic objectives.
+
+---
+
+## Common Herb Pairs
+### Hong Hua (Ratio: M&#xF9; T&#xF3;u Hu&#xED; one handful : H&#xF3;ng Hu&#x101; a small pinch (classical ratio from D&#x1D2;ng B&#x1D0;ng J&#xED; Y&#xE0;n F&#x101;ng))
+- **Description**: Mù Tóu Huí astringes Blood and stops bleeding while Hóng Huā invigorates Blood and dispels stasis. Together they stop uterine bleeding without trapping stasis, addressing both the symptom (bleeding) and the underlying stagnation that often accompanies Blood Heat patterns.
+- **When to Use**: For uterine bleeding (崩漏) with Blood stasis, where there is heavy bleeding accompanied by dark clots, lower abdominal pain, or a history of irregular menses.
+
+### Jin Ying Zi (Ratio: 1:1)
+- **Description**: Both herbs are astringent, but Jīn Yīng Zǐ focuses on securing the Kidneys and restraining essence, while Mù Tóu Huí dries Dampness and clears Heat from the Liver channel. Together they powerfully consolidate the Lower Burner and stop vaginal discharge from multiple angles.
+- **When to Use**: For chronic white vaginal discharge (白带) with Kidney deficiency and Damp-Heat, where the discharge is persistent and accompanied by lower back soreness.
+
+### Ku Shen (Ratio: 1:1)
+- **Description**: Kǔ Shēn strongly clears Heat and dries Dampness, especially in the Lower Burner, while Mù Tóu Huí adds astringent and Blood-level cooling actions. Together they provide a comprehensive approach to Damp-Heat vaginal discharge with stronger clearing and drying power than either herb alone.
+- **When to Use**: For yellow, foul-smelling vaginal discharge with itching, or for Damp-Heat dysentery with blood and mucus in the stool.
+
+---
+
+## Key Formulas
+Zhi Dai Fang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Mu Tou Hui is generally considered non-toxic at standard dosages. The root contains volatile oils (including beta-caryophyllene, alpha-humulene, and cubebol), iridoid glycosides, triterpenoid saponins, flavonoids, and lignans. The volatile oil fraction has a sedative effect at moderate doses in animal studies. No significant toxicity or adverse reactions have been reported in the classical literature or modern pharmacological studies at recommended doses. The characteristic foul odour (similar to valerian) is due to volatile oil components and is not an indicator of toxicity.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy safety data is available in classical or modern sources. However, Mu Tou Hui has blood-moving and blood-stasis-resolving properties (noted in the Guangxi Zhong Yao Zhi as being able to dispel stasis), and its primary clinical use involves treating uterine bleeding conditions. Given these properties, it should be used with caution during pregnancy. Pregnant women should avoid this herb unless specifically prescribed by a qualified practitioner.
+- **Breastfeeding**: No specific safety data regarding breastfeeding is available in classical texts or modern pharmacological literature. The herb's volatile oil components could theoretically pass into breast milk. Given the lack of evidence, nursing mothers should exercise caution and consult a qualified practitioner before use.
+- **Children**: No specific paediatric dosage guidelines are documented in classical or modern sources. As a folk medicine primarily used for gynaecological conditions (uterine bleeding, vaginal discharge), it has limited paediatric application. If used in children, dosage should be reduced proportionally based on age and body weight, and should only be prescribed by a qualified practitioner.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Mu Tou Hui. However, given its hemostatic (blood-stopping) and blood-stasis-resolving properties, theoretical caution is warranted when combining with:
+- Anticoagulant or antiplatelet medications (e.g. warfarin, heparin, aspirin, clopidogrel): the herb's dual action of stopping bleeding while also moving stasis could unpredictably affect coagulation parameters.
+The herb's volatile oils have demonstrated sedative effects in animal studies, so theoretical potentiation of CNS depressants (sedatives, benzodiazepines, barbiturates) is possible, though this has not been clinically confirmed.
+
+### Dietary Advice
+When taking Mu Tou Hui for bleeding conditions or vaginal discharge, avoid cold and raw foods, spicy and overly greasy foods, and alcohol, as these can aggravate Dampness-Heat or destabilise blood flow. Favour warm, easily digestible foods that support the Spleen, such as cooked grains, root vegetables, and mild soups.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Mu Tou Hui is derived from two closely related species in the Patrinia genus (Valerianaceae/Caprifoliaceae family):
+Scabrous Patrinia (Patrinia scabra): A perennial herb growing 20–40 cm tall with clustered stems that branch in the upper portions. The leaves are opposite, leathery, and pinnately divided with lance-shaped lobes bearing toothed margins. Both leaf surfaces and margins are hairy. Small yellow flowers form terminal cyme-like corymbs. The fruit is winged, ovate, thin and papery (about 6 mm across) with net-like veining. It grows wild on sunny slopes and deep-soiled embankments, especially in Hebei, Shanxi, Henan, and northeast China.
+Diverseleaf Patrinia (Patrinia heterophylla): A taller perennial reaching up to 1 metre, with a creeping yellowish-white rhizome and sparse fibrous roots. The basal leaves are ovate or three-lobed with long stalks, while stem leaves are highly variable, ranging from three-lobed to fully pinnately divided. Small yellow flowers appear in panicle-like cymes in autumn (September to October). It grows on relatively dry mountain slopes and is distributed across most of China except Tibet, Qinghai, and Xinjiang. Both species emit a distinctive foul odour, especially from the roots.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn, when the roots are dug up, cleaned of stems, leaves, and soil, then used fresh or dried in the sun.
+- **Primary Growing Regions**: Scabrous Patrinia (P. scabra): Primarily found in Hebei, Henan, Shanxi, and the northeast provinces (Liaoning, Jilin, Heilongjiang), especially on sunny slopes with deep soil.
+Diverseleaf Patrinia (P. heterophylla): Widely distributed across most of China (except Tibet, Qinghai, and Xinjiang), including Liaoning, Hebei, Shanxi, Henan, Shaanxi, Gansu, Shandong, Anhui, Zhejiang, and Guangxi. Grows on relatively dry mountain slopes at elevations of 300–2,600 metres.
+Shanxi province (particularly around Wutai Mountain) and Henan are traditionally regarded as notable producing regions.
+- **Quality Indicators**: Good quality Mu Tou Hui root should be long, plump, and firm. For Scabrous Patrinia (P. scabra): the root is irregularly cylindrical with a rough, brownish-brown surface that is wrinkled and may have nodular protrusions. The bark peels off easily, revealing yellowish colour beneath. The cross-section shows fibrous texture with radial fissures. It is light in weight with a loose texture. For Diverseleaf Patrinia (P. heterophylla): the root is thinner and cylindrical with branching, yellowish-brown surface with fine longitudinal wrinkles and dot-like root scar marks. It is harder, with a yellowish-white, fractured cross-section. Both types should have a characteristic strong valerian-like foul smell and a slightly bitter taste. The best quality roots are described as long, fleshy, and brownish-brown in colour.
+
+### Identity & Adulterants
+In Jiangsu province, the dried whole plant of the Asteraceae species Ixeris sonchifolia (苦荬菜, Ku Mai Cai) is sometimes sold as Mu Tou Hui. This is a completely different plant from a different family with different therapeutic properties. The authentic Mu Tou Hui should come from Patrinia species (Valerianaceae) and can be distinguished by its characteristic strong foul valerian-like odour from the roots, which the Asteraceae substitute lacks.
+Mu Tou Hui may also be confused with the more commonly used Bai Jiang Cao (败酱草, Herba Patriniae), which comes from the yellow-flowered Patrinia scabiosaefolia or white-flowered Patrinia villosa. Although they belong to the same genus, Bai Jiang Cao has different therapeutic actions (primarily clearing Heat-toxin, draining abscesses, and dispelling blood stasis), while Mu Tou Hui is specifically valued for its astringent, hemostatic, and damp-drying properties focused on gynaecological conditions.
+
+---
+
+## References
+### Classical Texts
+#### 《本草原始》(Ben Cao Yuan Shi)
+- **Original**: 墓头回根色黑，气臭，用此草干久益善。
+- **Translation**: The root of Mu Tou Hui is black in colour with a foul smell. This herb improves with long drying.
+
+### Historical Context
+The name "Mu Tou Hui" (墓头回, literally "return from the grave") has a famous folk origin story. According to legend, during the Song Dynasty a travelling physician encountered a funeral procession and noticed fresh blood seeping from the coffin. He deduced the woman inside was not truly dead but suffering from severe uterine haemorrhage. He had the coffin opened, gathered a local herb growing near the grave, decocted it, and administered it to the woman, who revived. Because the patient was "brought back from the grave," the herb was named Mu Tou Hui. This story appears in many regional versions across China, sometimes featuring different historical physicians.
+The herb first appeared in classical records under the name "Di Hua Cai" (地花菜) in the Ming Dynasty text Jiu Huang Ben Cao (《救荒本草》). Li Shizhen included it in Ben Cao Gang Mu (《本草纲目》), citing the Dong Bing Ji Yan Fang formula for treating uterine flooding and vaginal discharge. The Ben Cao Yuan Shi (《本草原始》) further documented its properties, noting its black roots and foul smell. Su Dongpo (Song Dynasty) is also said to have written about this herb. Over time, Mu Tou Hui became a valued folk medicine for gynaecological conditions, and in modern times has attracted research interest for its potential anti-tumour properties. In Japan, related Patrinia species are poetically called "Ominaeshi" (女郎花, "maiden flower"), linked to a tragic legend of a faithful woman.
+
+### Modern Scientific Research
+1. **[Cytotoxic iridoids from the roots of Patrinia scabra (Phytochemistry study, 2012)](https://pubmed.ncbi.nlm.nih.gov/23002924/)**
+   *Journal: Li N, Di L, Gao WC, Wang KJ, Zu LB. Journal of Natural Products, 2012, 75(10), 1723-1728.*
+   Researchers isolated seven new iridoid compounds and twelve known ones from Patrinia scabra roots. Several compounds showed cytotoxic activity against human gastric carcinoma (MNK-45) cells, with IC50 values ranging from 8.7 to 30.9 micromolar, and one compound was active against cervical carcinoma (HeLa) cells.
+
+2. **[Iridoids from the Roots of Patrinia scabra and Their Inhibitory Potential on LPS-Induced Nitric Oxide Production (Phytochemistry study, 2018)](https://pubmed.ncbi.nlm.nih.gov/29799195/)**
+   *Journal: Lee HH, Shin JS, Kang SY, et al. Journal of Natural Products, 2018, 81(6), 1468-1473.*
+   Five new iridoid compounds (patriscabrins A-E) and thirteen known compounds were isolated from Patrinia scabra roots. Several showed significant anti-inflammatory activity by inhibiting LPS-induced nitric oxide production in macrophage cells, with IC50 values of 14.7 to 17.8 micromolar.
+
+3. **[Non-glycosidic iridoids from the roots of Patrinia scabra and their nitric oxide production inhibitory effects (Phytochemistry study, 2019)](https://pubmed.ncbi.nlm.nih.gov/30721453/)**
+   *Journal: Lee DH, Shin JS, Lee JS, Kang SY, et al. Archives of Pharmacal Research, 2019, 42(9), 766-772.*
+   Five new non-glycosidic iridoids (patriscabrins F-J) were isolated from Patrinia scabra roots and tested for anti-inflammatory activity. Patriscabrin F showed the most potent inhibition of nitric oxide production with an IC50 of 14.1 micromolar in RAW 264.7 macrophage cells.
+
+4. **[Optimization for ultrasonic-microwave synergetic extraction of total iridoid glycosides and screening of analgesic and anti-inflammatory active fractions from Patrinia scabra (Preclinical study, 2022)](https://pubmed.ncbi.nlm.nih.gov/34983472/)**
+   *Journal: Ma Q, Lu Y, Deng Y, Hu X, Li W, Jia H, Guo Y, Shi X. BMC Complementary Medicine and Therapies, 2022, 22(1), 7.*
+   This study optimized extraction of iridoid glycosides from Patrinia scabra and tested the resulting fractions in animal models. The 30% and 50% ethanol elution fractions demonstrated significant analgesic and anti-inflammatory effects in acetic acid-induced writhing, formalin-induced pain, carrageenan-induced paw oedema, and xylene-induced ear oedema tests in mice.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/mu-tou-hui](https://www.meandqi.com/knowledge-base/herbs/mu-tou-hui)*

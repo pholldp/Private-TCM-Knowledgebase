@@ -1,0 +1,171 @@
+# Huai Hua (槐花)
+**English Name**: Japanese Pagoda Tree Flower  
+**Category**: Hemostatic herbs (止血药), Herbs that cool the Blood and stop bleeding (凉血止血药)  
+**Scientific Name**: Styphnolobium japonicum (L.) Schott  
+**Pharmaceutical Name**: Flos Sophorae  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Liver, Large Intestine  
+**Parts Used**: Flower (花 huā)  
+
+---
+
+## Summary
+Pagoda tree flower is a cooling herb best known for stopping bleeding caused by excess internal Heat, especially hemorrhoidal bleeding and blood in the stool. It also calms the Liver, making it useful for Heat-related headaches, red eyes, and high blood pressure. It is one of the most commonly used herbs in the "Blood-cooling and bleeding-stopping" category of Chinese medicine.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Hemorrhoid Support, Intestinal Bleeding Support, Blood Pressure Support, Eye Health and Vision
+- **TCM Actions**: Cools the Blood and Stops Bleeding, Clears Liver Fire, Clears Heat and Stops Diarrhea
+
+### How these actions work
+'Cools the Blood and stops bleeding' means Huái Huā reduces excessive Heat in the Blood that forces blood out of the vessels, causing abnormal bleeding. When Heat enters the Blood level, it can make the blood reckless, leading to bleeding from the intestines, rectum, uterus, nose, or gums. Huái Huā's bitter, cool nature directly counteracts this Heat, helping blood return to its normal pathways. It is particularly effective for bleeding in the lower body, especially hemorrhoidal bleeding and blood in the stool, because it enters the Large Intestine channel and its descending nature directs its action downward.
+'Clears Liver Fire' means Huái Huā can reduce excessive Heat that has built up in the Liver system. When the Liver generates too much Fire, it flares upward, producing red painful eyes, throbbing headaches, dizziness, and irritability. Because Huái Huā enters the Liver channel and has a bitter, cooling quality, it drains this upward-surging Fire and calms these symptoms. This is why it is often used alongside chrysanthemum (Jú Huā) or selfheal spike (Xià Kū Cǎo) for people with high blood pressure accompanied by flushed face and headache.
+'Clears Heat in the Large Intestine' refers to Huái Huā's special affinity for the Large Intestine channel, where it can resolve Damp-Heat that accumulates in the bowels. This is clinically relevant for conditions like bloody dysentery, inflammatory bowel conditions with blood in the stool, and hemorrhoids aggravated by internal Heat. It both addresses the root cause (clearing the Heat) and the symptom (stopping the bleeding).
+
+---
+
+## Patterns Addressed
+### Liver Fire Blazing
+- **Explanation**: Huái Huā enters the Liver channel with a bitter, cooling quality that drains Liver Fire. When Liver Fire flares upward, it produces headaches, red swollen eyes, dizziness, and irritability. Huái Huā's bitter taste has a natural descending and draining action that redirects this uprising Fire downward, calming these upper-body symptoms. This is distinct from its Blood-cooling action and represents its secondary but clinically important function of clearing Liver Fire directly.
+- **Clinical Signs & Symptoms**:
+  - **High Blood Pressure**: High blood pressure with Liver Fire signs
+
+### Damp-Heat in the Large Intestine
+- **Explanation**: Huái Huā has a special affinity for the Large Intestine channel, where it clears Damp-Heat that has accumulated in the bowels and damaged the blood vessels of the intestinal lining. When Damp-Heat lodges in the intestines, it causes bloody dysentery, hemorrhoidal swelling and bleeding, or mucus and blood in the stool. Huái Huā addresses both the Heat component (through its cooling nature) and the resulting bleeding (through its hemostatic action), making it especially suited for intestinal bleeding driven by Damp-Heat.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Hemorrhoids
+- **Arises from**: Damp-Heat in the Large Intestine
+- **TCM Interpretation**: In TCM, hemorrhoids are most commonly understood as a result of Damp-Heat accumulating in the Large Intestine and rectum. This pathogenic Heat damages the local blood vessels, causing them to swell and bleed. Contributing factors include a diet rich in spicy, greasy, or alcohol-heavy foods, prolonged sitting, emotional stress generating internal Heat, and constitutional tendencies toward Damp-Heat. The Liver channel also passes through the rectal area, so Liver Fire or Liver Qi stagnation generating Heat can worsen the condition.
+- **Why it Helps**: Huái Huā directly enters the Large Intestine channel with a cool, bitter nature that clears the Damp-Heat lodged in the bowels and rectum. It cools the Blood to stop the hemorrhoidal bleeding while addressing the underlying Heat that is causing the blood vessels to swell and rupture. Classical texts describe it as having a particular strength for treating lower-body bleeding, and it has been the principal herb in the famous Huái Huā Sǎn formula for intestinal and hemorrhoidal bleeding since the Song dynasty. Its additional ability to clear Liver Fire is relevant because Liver Heat often contributes to hemorrhoidal flare-ups.
+
+### Dark Blood In Stool
+- **Arises from**: Liver Fire Blazing
+- **TCM Interpretation**: In TCM, certain presentations of high blood pressure correspond to Liver Fire or Liver Yang Rising patterns. The Liver governs the smooth flow of Qi, and when it generates excess Fire, this Heat surges upward to the head, producing headache, dizziness, red face, red eyes, and irritability. These symptoms closely overlap with what biomedical practice recognises as hypertension with end-organ effects. TCM approaches this by draining the excess Liver Fire and calming the upward-moving Yang.
+- **Why it Helps**: Huái Huā enters the Liver channel and has a bitter, descending nature that drains Liver Fire, directly addressing the upward-surging Heat that drives many hypertension symptoms. Modern pharmacological research has found that its key constituents, rutin and quercetin, can reduce capillary fragility, lower vascular permeability, and exert a blood pressure-lowering effect. In clinical use, it is often combined with Xià Kū Cǎo (selfheal spike) and Jú Huā (chrysanthemum) for sustained blood pressure support. The famous physician Shī Jīn Mò frequently paired Huái Huā with Huáng Qín (Scutellaria) for primary hypertension.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5-10g
+- **Maximum Dosage**: Up to 15g in decoction for acute bleeding conditions due to Blood-Heat, under practitioner supervision. Do not exceed this without clinical justification.
+- **Dosage Notes**: Use the lower range (5g) for mild cases or when combining with other cooling hemostatic herbs. Use higher doses (9 to 10g) for more acute Blood-Heat bleeding such as hemorrhoidal bleeding or bloody dysentery. Raw (unprocessed) Huai Hua is stronger for clearing Liver Fire and cooling Blood, and is preferred for treating headache, red eyes, and hypertension. Stir-fried Huai Hua (炒槐花) is milder on the Stomach and used when the patient's digestion is somewhat weak. Charred Huai Hua (槐花炭) has the strongest hemostatic action but the weakest Heat-clearing effect, and is preferred for straightforward bleeding control. The charring process converts rutin into tannins, which increase the astringent hemostatic effect.
+- **Preparation**: No special decoction handling is required. Huai Hua is simply decocted with other herbs in the standard manner. However, the choice of processing form matters clinically: raw Huai Hua (生槐花) is used for clearing Heat and purging Liver Fire; stir-fried Huai Hua (炒槐花) moderates the cold nature; and charred Huai Hua (槐花炭) maximizes hemostatic action. Specify the desired form when prescribing.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o Hu&#xE1;i Hu&#x101; (&#x7092;&#x69D0;&#x82B1;)
+- **Processing Method**: The raw flowers or buds are stir-fried over low heat (文火) until they turn deep yellow, then removed and cooled.
+- **How it Changes Properties**: Stir-frying moderates Huái Huā's bitter, cool nature so it is less likely to harm the Spleen and Stomach. It also destroys enzymes that would break down the active compound rutin during storage, preserving potency. The Blood-cooling and Heat-clearing action becomes milder compared to the raw form, while the hemostatic (bleeding-stopping) action becomes somewhat stronger. The temperature shifts from slightly cool to closer to neutral.
+- **When to Use**: Preferred when the patient has a weaker digestive system (Spleen-Stomach deficiency) but still needs bleeding control. Also used in most classical bleeding formulas where long-term use is anticipated, to avoid the raw herb's cold nature damaging digestion over time.
+
+### Hu&#xE1;i Hu&#x101; T&#xE0;n (&#x69D0;&#x82B1;&#x70AD;)
+- **Processing Method**: The raw flowers or buds are stir-fried over medium heat (中火) until they turn dark brown or charred, then a small amount of water is sprinkled to extinguish any sparks, and the product is dried and cooled.
+- **How it Changes Properties**: Charring drastically reduces the Blood-cooling and Heat-clearing actions while greatly enhancing the astringent, hemostatic (bleeding-stopping) effect. Research shows tannin content increases up to 4-6 times after charring (as rutin converts to tannins), which accounts for the stronger hemostatic action. The herb becomes nearly neutral in temperature with an astringent taste.
+- **When to Use**: Used when the primary goal is to stop active bleeding regardless of the Heat component, such as profuse hemorrhoidal bleeding, nosebleed, hemoptysis, or uterine bleeding. This is the strongest hemostatic form but has minimal Heat-clearing capacity, so it is less appropriate when the underlying Heat must also be addressed.
+
+---
+
+## Common Herb Pairs
+### Di Yu (Ratio: 1:1 (e.g. 10g : 10g))
+- **Description**: Both herbs are cool and bitter with an affinity for the Large Intestine. Huái Huā primarily cools the Blood to stop bleeding while Dì Yú adds astringent, Heat-draining power. Together they create a stronger synergy for clearing intestinal Heat and stopping lower-body bleeding than either herb alone.
+- **When to Use**: Hemorrhoidal bleeding, bloody stool, or rectal bleeding due to Blood Heat or Damp-Heat in the Large Intestine.
+
+### Ce Bai Ye (Ratio: 1:1 (e.g. 12g : 12g))
+- **Description**: Huái Huā cools the Blood and clears Large Intestine Heat, while Cè Bǎi Yè (Platycladus leaf) cools the Blood, enters the Blood level, and nourishes Yin while drying Dampness. The combination strengthens the overall Blood-cooling and bleeding-stopping effect and broadens coverage to both upper and lower body bleeding.
+- **When to Use**: Blood Heat causing bleeding in multiple locations, including hemoptysis, nosebleed, bloody stool, or hemorrhoidal bleeding. This is the core pairing within Huái Huā Sǎn.
+
+### Jing Jie (Ratio: 2:1 Hu&#xE1;i Hu&#x101; to J&#x12B;ng Ji&#xE8; Su&#xEC; (e.g. 12g : 6g))
+- **Description**: Huái Huā cools the Blood and clears intestinal Heat, while Jīng Jiè Suì (Schizonepeta spike, charred form) disperses Wind from the Blood level and enters the Blood to stop bleeding. The cool herb addresses the Heat root while the warm-natured but non-drying Jīng Jiè disperses the Wind component that often accompanies intestinal bleeding patterns.
+- **When to Use**: Intestinal Wind bleeding (肠风下血) where Wind-Heat damages the intestinal blood vessels, producing bright red blood in the stool. This pair is the foundation of the classical Jīng Fáng-style approach to hemorrhoidal and intestinal bleeding.
+
+### Zhi Zi (Ratio: 1:1 (e.g. 15g : 15g))
+- **Description**: Huái Huā cools the Blood and stops bleeding while Zhī Zǐ (Gardenia fruit) clears Heat, resolves Dampness, and purges Fire. Together they provide a dual mechanism of clearing intestinal Heat and toxins while simultaneously cooling the Blood to arrest bleeding.
+- **When to Use**: Blood in the stool due to Heat toxins or Damp-Heat in the intestines, especially when the bleeding is accompanied by foul-smelling stools or a sensation of burning in the rectum.
+
+---
+
+## Key Formulas
+Huai Hua San, Huai Jiao Wan, Li Zhong Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Huai Hua (the flower and flower bud) is classified as non-toxic in the Chinese Pharmacopoeia and classical sources. The Ri Hua Zi Ben Cao explicitly states it is "non-toxic" (无毒). A comprehensive USP safety review (2022) found no serious adverse events or toxicity in clinical or animal studies. The main active compounds (rutin and quercetin) are generally regarded as having low intrinsic toxicity. However, note that other parts of the same tree (particularly the seeds and pods, i.e. Huai Jiao) contain alkaloids such as cytisine that are toxic in larger amounts. It is important not to confuse the flower/bud with these other plant parts. At standard decoction doses (5 to 10g), the flower and bud have an excellent safety profile.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Huai Hua's cold nature and Blood-cooling properties may theoretically affect uterine blood flow and coagulation. Classical sources caution pregnant women, and modern Chinese clinical guidelines recommend avoidance. The USP safety review (2022) specifically noted that no safety data are available for pregnant women and recommended consulting a healthcare professional. Additionally, a related compound (hydroxyethyl rutoside, derived from rutin) was associated with a possible higher risk of certain congenital anomalies in one case-control study when used in early pregnancy, though this involved a processed derivative at high doses, not the crude herb. Out of an abundance of caution, pregnant women should avoid Huai Hua unless prescribed by a qualified practitioner for a specific clinical need.
+- **Breastfeeding**: No specific safety data exist on the use of Huai Hua during breastfeeding. The USP 2022 safety review explicitly noted that no data are available for breastfeeding women. While the herb's flavonoid compounds (rutin, quercetin) are common in the general diet, concentrated medicinal doses could theoretically transfer through breast milk. Given the lack of evidence, breastfeeding mothers should avoid medicinal doses unless specifically prescribed by a qualified practitioner. Brief use as a mild tea is likely low-risk but should still be discussed with a healthcare provider.
+- **Children**: Huai Hua can be used in children at appropriately reduced doses, typically one-third to one-half of the adult dose depending on the child's age and weight. Its cold nature means it should be used cautiously in children with weak digestion or a tendency to loose stools. Short-term use for clear Heat-pattern bleeding (such as bloody stools from intestinal Heat) is most appropriate. Prolonged use in children is not recommended due to the risk of injuring the Spleen and Stomach. Always use under practitioner guidance.
+
+### Drug Interactions
+Anticoagulants and antiplatelet drugs (e.g. warfarin, heparin, clopidogrel, aspirin): The flavonoids in Huai Hua, particularly quercetin and related compounds, have demonstrated anti-platelet activity in laboratory studies. A human pharmacokinetic study found that rutin altered warfarin metabolism, reducing its anticoagulant effect by approximately 31% and shortening S-warfarin half-life. This interaction could be clinically significant in either direction (increased bleeding risk from additive platelet effects, or reduced anticoagulant efficacy from enzyme modulation). Patients on blood thinners should not take Huai Hua without medical oversight.
+Antihypertensive medications: Huai Hua and its flavonoid constituents have documented blood-pressure-lowering effects. Concurrent use with antihypertensive drugs may cause excessive reduction in blood pressure. Monitoring is advisable.
+Cytochrome P450 substrates: Quercetin and rutin are known to modulate certain cytochrome P450 enzymes and drug transporters in vitro. This raises a theoretical concern for altered metabolism of drugs processed through these pathways, including some chemotherapy agents, immunosuppressants, and statins. However, no specific drug interactions have been confirmed for the whole herb at standard decoction doses.
+
+### Dietary Advice
+While taking Huai Hua, it is advisable to avoid excessively spicy, greasy, or heating foods (such as deep-fried food, strong alcohol, chili peppers, and lamb), as these can generate Heat in the Blood and counteract the herb's cooling and hemostatic actions. Favour a light, easily digestible diet with adequate vegetables. Since Huai Hua is cold in nature, those with weaker digestion should avoid consuming it alongside large quantities of cold or raw foods (such as iced drinks, raw salads, or chilled fruit) to prevent excessive cold accumulation in the Spleen and Stomach.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Styphnolobium japonicum (syn. Sophora japonica), commonly known as the Chinese scholar tree or Japanese pagoda tree, is a large deciduous tree in the Fabaceae (legume) family, native to China. It typically grows 15 to 25 metres tall, forming a broad, rounded crown. The bark is greyish-brown with shallow fissures on mature trees. The leaves are alternate, pinnately compound, with 9 to 21 oval to oblong leaflets that are dark green above and paler beneath.
+The tree flowers in mid to late summer (July to August), producing abundant pendulous clusters (panicles) up to 30 cm long of small, creamy-white to pale yellow, pea-shaped flowers. These give way to distinctive bead-like (moniliform) seed pods that remain on the tree into winter. The medicinal parts are the dried flowers (槐花 Huái Huā) and the unopened flower buds (槐米 Huái Mǐ), which are collected in summer and dried promptly. It should not be confused with Robinia pseudoacacia (the "false acacia" or "black locust"), an American species also called "locust tree" which has fragrant white flowers, thorns, and flat seed pods.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer (July to August), when the flower buds have formed but have not yet opened (for Huai Mi / 槐米) or when the flowers first open (for Huai Hua / 槐花). Harvested material is dried promptly on the same day.
+- **Primary Growing Regions**: Huai Hua is produced widely across China, but the main production areas and best-quality sources include Hebei, Shandong, Henan, Shanxi, Shaanxi, Jiangsu, Anhui, Guangdong, Guangxi, and Liaoning provinces. The North China Plain and the Loess Plateau (particularly Hebei, Shandong, and Henan) are traditionally considered the primary producing regions. In southern China, Chongqing and Guilin (Guangxi) have developed large-scale cultivation. The tree grows on hillsides, plains, and in courtyards across most of temperate China.
+- **Quality Indicators**: For Huai Hua (open flowers): Good quality pieces are intact in a bird-wing shape, about 1.5 cm across, with yellow to pale yellow petals and a yellowish-green calyx. They should be light in weight, without a strong odour, and have a slightly bitter taste. Avoid material that is brown, excessively fragmented, or contaminated with stems and twigs.
+For Huai Mi (flower buds, generally considered the superior medicinal form): Good quality buds are plump and oval-shaped, 2 to 6 mm long, with a thick yellowish-green calyx and yellowish-white unexpanded petals visible at the top. They should be light, crumble easily when rubbed, have minimal odour, and a slightly bitter and astringent taste. The best buds are large, tightly closed, deeply green in the calyx, and free of stalks or leaf debris. Rutin content should be no less than 20% in the buds per Chinese Pharmacopoeia standards (compared to 8% minimum in the open flowers).
+
+### Identity & Adulterants
+The most important distinction is between Guo Huai (国槐, Sophora japonica / Styphnolobium japonicum) and Yang Huai (洋槐 / 刺槐, Robinia pseudoacacia, the black locust or "false acacia"). Robinia pseudoacacia flowers are white, fragrant, and sweet, blooming in April to May. They are commonly eaten as food but are not the correct medicinal material. The true medicinal Huai Hua comes from the Chinese scholar tree, which has pale yellow flowers with little fragrance, blooming in July to August. Key distinguishing features: the true Huai tree has no thorns (Robinia has thorns), its leaflets are pointed (Robinia leaflets are rounded), and its fruit pods are bead-shaped (Robinia has flat pods). Chemically, the true Huai Hua is rich in rutin and quercetin, while Robinia flowers contain different compounds (robinin, acacia glycosides). Sophora japonica flower extract is also sometimes used as an adulterant of Ginkgo biloba extracts to fraudulently inflate flavonoid content, but this is a problem in the supplement industry rather than in traditional Chinese herb markets.
+
+---
+
+## References
+### Classical Texts
+#### Rì Huá Zǐ Běn Cǎo (《日华子本草》, Five Dynasties period)
+- **Original**: 味苦、平、无毒。治五痔、心痛、眼赤，杀腹藏虫及热，治皮肤风，并肠风泻血、赤白痢，并炒研服。
+- **Translation**: Bitter in taste, neutral, non-toxic. Treats five types of hemorrhoids, heart pain, red eyes; kills intestinal parasites and clears Heat; treats skin wind conditions, intestinal wind with bloody diarrhea, and dysentery with blood or pus. To be taken roasted and ground.
+
+### Historical Context
+Huai Hua has an interesting history: the Huai tree (槐, Sophora japonica) itself has deep cultural roots in China stretching back thousands of years, but the medicinal use of its flowers came relatively late. The earliest pharmacological text, the Shen Nong Ben Cao Jing, records only the fruit (槐角 Huái Jiǎo), with no mention of the flower. The Tang Dynasty Ben Cao Shi Yi (本草拾遗) by Chen Cangqi noted only that the flower "can be used to dye yellow" (花堪染黄), treating it purely as a dye material. It was not until the late Tang and Five Dynasties period that the Ri Hua Zi Ben Cao (日华子本草) first recorded Huai Hua as a medicine, describing its ability to treat hemorrhoids, bloody dysentery, and red eyes.
+Culturally, the Huai tree is one of China's most symbolically rich trees. In the Zhou Dynasty, three Huai trees were planted outside the royal court where the Three Dukes (三公: Grand Preceptor, Grand Tutor, Grand Protector) stood during audiences with the Emperor. "Huai" thus became a symbol of high office and scholarly achievement. The term "Huai Shi" (槐市) referred to the marketplace where scholars gathered, "Ta Huai" (踏槐) meant to sit for the imperial examinations, and "Huai Huang" (槐黄) denoted the examination month. The famous saying "槐花黄，举子忙" ("When the pagoda flowers turn yellow, the examination candidates are busy") captures how the tree's summer blooming coincided with the imperial exam season. The Huai tree also carries deep associations with ancestral memory, as in the famous pilgrimage site of the Great Huai Tree of Hongdong, Shanxi (洪洞大槐树).
+In the Ming Dynasty, Li Shizhen's Ben Cao Gang Mu clarified that the unopened flower buds (槐米) are of superior quality, and that aged material and stir-fried processing are preferred for medicinal use. Modern pharmacological validation of its rutin and quercetin content has confirmed the classical understanding of its vascular-protective and hemostatic properties.
+
+### Modern Scientific Research
+1. **[USP Comprehensive Safety Review of Styphnolobium japonicum Flower and Flower Bud (Systematic Review, 2022)]()**
+   *Journal: Madden E, McLachlan C, Oketch-Rabah H, Calderón AI. Phytotherapy Research, 2022, 36(5), 2061-2071.*
+   This United States Pharmacopeia safety review examined all available clinical and preclinical data on Sophora japonica flower and flower bud. The authors found no serious adverse events or toxicity in any of the studies reviewed. While isolated studies on rutin or quercetin suggested potential for drug interactions, none were specifically identified for the whole flower or bud. The review concluded that the herb is not associated with serious health risks when used appropriately and has been admitted to the USP monograph development process. The authors noted a lack of safety data for pregnant and breastfeeding women.
+
+2. **[Anti-Platelet Effects of Flavonoids and Flavonoid-Glycosides from Sophora japonica (In Vitro Study, 2008)]()**
+   *Journal: Kim JM, Yun-Choi HS. Archives of Pharmacal Research, 2008, 31(7), 886-890.*
+   Researchers isolated ten flavonoid compounds from Sophora japonica and tested them against platelet aggregation. Several compounds, including biochanin A, genistein, and tectoridin, showed 2.5 to 6.5 times greater inhibitory effects on platelet aggregation induced by arachidonic acid and U46619 compared to aspirin. One compound (irisolidone) was approximately 22 to 40 times more potent than aspirin. These findings provide pharmacological support for the herb's traditional hemostatic and Blood-moving indications.
+
+3. **[Effects of Sophora japonica Flowers (Huaihua) on Cerebral Infarction (Review, 2010)](https://pubmed.ncbi.nlm.nih.gov/20953391/)**
+   *Journal: Lao CJ, Lin JG, Kuo WW, Chiang SY, Cheng CY, Su SY, Tang NY, Lee EJ, Hsieh CL. Evidence-Based Complementary and Alternative Medicine, 2010, 2012, 1-6.*
+   This review examined evidence from preclinical studies on Sophora japonica's effects on stroke. Previous studies found the herb reduced cerebral infarction size and neurological deficits in ischemia-reperfusion injured rats. The mechanism appeared to involve inhibition of microglial activation, reduced release of the pro-inflammatory cytokine IL-1 beta, and decreased apoptosis. The authors attributed these effects partly to the anti-oxidative and anti-inflammatory activities of the herb's flavonoid constituents.
+
+4. **[Styphnolobium japonicum Flower Extract Alleviates Oxidative Stress and Inflammatory Factors in the Adjuvant-Induced Arthritis Rat Model (Preclinical Study, 2021)]()**
+   *Journal: Published in Evidence-Based Complementary and Alternative Medicine, 2021.*
+   This animal study evaluated Sophora japonica flower extract (150 or 300 mg/kg/day) in rats with adjuvant-induced arthritis. The extract reduced paw edema, arthritic scores, and pain sensitivity. It also lowered inflammatory cytokines (IL-6, TNF-alpha, IFN-gamma, IL-1 beta), reduced oxidative stress markers, and restored antioxidant enzyme levels. The higher dose showed effects comparable to the NSAID celecoxib, supporting the herb's traditional use for inflammatory conditions.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/huai-hua](https://www.meandqi.com/knowledge-base/herbs/huai-hua)*

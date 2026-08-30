@@ -1,0 +1,67 @@
+# Liu Mo Tang (六磨汤)
+**English Name**: Six Milled-Herb Decoction  
+**Category**: Qi-regulating formulas  
+**Dynasty/Source**: 《世医得效方》 (Shì Yī Dé Xiào Fāng, Effective Prescription Handed Down for Generations of Physicians)  
+**Temperature**: Slightly Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical formula that strongly moves Qi, clears heat, and unblocks the bowels. It is used for conditions where stress and emotional tension cause the digestive Qi to become stuck, leading to abdominal bloating, pain, and severe constipation with a sense of heat. By restoring the downward movement of Qi, Liu Mo Tang relieves pressure in the abdomen and helps normal bowel function return.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Promotes Qi movement, Breaks Qi stagnation, Unblocks the bowels, Clears Heat, Alleviates abdominal distension
+- **Therapeutic Focus**: Digestive health, Constipation relief, Abdominal bloating, Stress and digestion
+- **Target Organs**: Large Intestine, Stomach, Liver, Spleen
+- **Patterns Addressed**: 
+- **Conditions Treated**: Irritable Bowel Syndrome (IBS), Constipation, Abdominal Distention
+- **Other Names**: Liu Mo Yin Zi (六磨饮子, Six Milled-Herb Drink)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Chen Xiang** | Agarwood | *King* | 3 - 6g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Kidneys | Descends rebellious Qi, relieves chest and abdominal distension, and warmly promotes Qi movement. |
+| **Bing Lang** | Areca seed (Betel nut) | *King* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Stomach, Large Intestine | Powerfully breaks Qi stagnation, promotes bowel movement, and drives down accumulated Qi. |
+| **Wu Yao** | Lindera root | *Deputy* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Kidneys, Urinary Bladder | Warms and disperses Qi in the middle and lower burner, relieving abdominal pain and distension. |
+| **Mu Xiang** | Costus root | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder | Strengthens Qi movement in the Spleen and Stomach, alleviating bloating and nausea. |
+| **Zhi Ke** | Bitter orange fruit | *Assistant* | 6 - 10g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Expands the chest and epigastrium, moves Qi downward, and supports the opening of the bowels. |
+| **Da Huang** | Rhubarb root and rhizome | *Assistant* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges heat and accumulation, unblocks the bowels, and clears stagnant heat in the intestines. |
+
+---
+
+## Scientific Research
+
+1. [Clinical Research of Liu Mo Tang Decoction Combined with Ultrasound Transdermal Drug Delivery in Treating Constipation-Predominant Irritable Bowel Syndrome (RCT, 2019)](https://doi.org/10.3969/j.issn.1671-038X.2019.05.05) (*文慧华, 甄杰武. 六磨汤加减联合超声离子导入治疗便秘型肠易激综合征的临床研究[J]. 中国中西医结合消化杂志, 2019, 27(5): 833-836.*)
+> A randomized controlled trial of 100 IBS-C patients. The treatment group received modified Liu Mo Tang combined with ultrasound iontophoresis; the control group received lactulose. After 2 weeks, the treatment group showed significantly better improvement in abdominal pain, bloating, and defecation frequency (P<0.01). The study concluded that Liu Mo Tang combined with external therapy is more effective than lactulose for IBS-C.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated. The formula contains 大黄 (Dahuang, Rhubarb), 枳壳 (Zhiqiao, Bitter Orange), and 槟榔 (Binglang, Areca Seed), which have strong downward-pushing and Qi-breaking actions that may stimulate uterine contractions and risk miscarriage. No safe dosage can be established during pregnancy.
+
+### Breastfeeding
+Not recommended during breastfeeding. The strong purgative action may affect the mother's fluid balance and milk supply. No specific data on herbal components passing into breast milk exist, but the draining nature of the formula could potentially cause diarrhea in the nursing infant. Use only under close professional supervision if absolutely necessary.
+
+### Children
+Not routinely used in children due to its strong Qi-breaking and purgative nature, which can easily damage the immature Spleen and Stomach. If prescribed for older children with robust constitution and severe Qi-stagnation constipation, the dosage must be substantially reduced (one-third to one-half of the adult dose) and used only for 1–3 days under strict professional monitoring. The related commercial preparation 四磨汤口服液 (Si Mo Tang Oral Liquid, a milder modification) is occasionally used in infants for food stagnation, but that differs significantly from the original Liu Mo Tang.
+
+### Drug Interactions
+大黄 (Rhubarb) may cause potassium loss and enhance the effects of cardiac glycosides (e.g., digoxin), antiarrhythmics, and diuretics; electrolyte monitoring is advised. 枳壳 (Bitter Orange) may interact with cytochrome P450 enzymes (especially CYP3A4), potentially altering blood levels of certain statins, calcium channel blockers, and immunosuppressants. Caution is warranted if combined with anticoagulants or antiplatelet drugs, as the Qi-moving and Blood-invigorating actions may theoretically increase bleeding tendency. No well-documented interaction studies exist for the complete formula; consult a healthcare provider before concurrent use with prescription medications.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: After meals, typically divided into 3 doses per day. Taking after food reduces the chance of stomach irritation from the harsh herbs.
+- **Typical Duration**: Short-term use only: 3–7 days, until constipation and distension are relieved. Discontinue once symptoms improve; not intended for prolonged therapy due to the strong Qi-breaking and purgative action.
+- **Dietary Advice**: Avoid cold, raw, and greasy foods that can obstruct the Qi mechanism. Refrain from spicy, heating foods and alcohol that may aggravate internal heat. Eat warm, light, and easily digestible meals, such as congee, steamed vegetables, and moderate amounts of cooked grains, to support the intestines while the formula works.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/liu-mo-tang](https://www.meandqi.com/knowledge-base/formulas/liu-mo-tang)*

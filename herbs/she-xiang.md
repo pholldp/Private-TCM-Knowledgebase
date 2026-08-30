@@ -1,0 +1,186 @@
+# She Xiang (麝香)
+**English Name**: Musk  
+**Category**: Aromatic substances that open the orifices (开窍药)  
+**Scientific Name**: Moschus berezovskii Flerov, Moschus sifanicus Przewalski, Moschus moschiferus Linnaeus  
+**Pharmaceutical Name**: Moschus  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Aromatic (芳香 fāng xiāng)  
+**Channels Entered**: Heart, Liver, Spleen  
+**Parts Used**: Animal — secretion (动物分泌物 dòng wù fēn mì wù)  
+
+---
+
+## Summary
+She Xiang (Musk) is one of the most intensely aromatic and penetrating substances in Chinese medicine, prized for its ability to restore consciousness in emergencies such as stroke and high-fever delirium. It also powerfully moves stagnant Blood and relieves pain, making it useful for traumatic injuries, chronic headaches, and abscesses. Because of its strong action, it is used in tiny doses (0.03 to 0.1 grams) and is strictly forbidden during pregnancy.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Neurological Emergencies, Injury and Trauma Recovery, Cardiovascular Health, Abscess Support
+- **TCM Actions**: Opens the Orifices and Revives Consciousness, Invigorates Blood and Unblocks the Channels and Collaterals, Reduces Swelling and Alleviates Pain, Resolves Toxicity and Dissipates Nodules, Facilitates delivery and expels stillbirth
+
+### How these actions work
+'Opens the orifices and revives consciousness' is the primary and most celebrated action of She Xiang. In TCM, when pathogenic factors such as Heat, Phlegm, or Cold block the Heart orifices, the person loses consciousness or becomes delirious. She Xiang's intensely aromatic, penetrating nature can cut through this blockage and restore awareness. It is considered the strongest orifice-opening substance in the entire materia medica, and is the key ingredient in famous emergency formulas for both heat-type and cold-type loss of consciousness (such as stroke, high fever with delirium, or sudden collapse).
+'Invigorates Blood and unblocks the channels' means She Xiang can powerfully move stagnant Blood and open blocked meridian pathways. This makes it useful for conditions caused by Blood stasis, including missed periods (amenorrhea), chronic headaches, chest pain resembling angina, abdominal masses, and traumatic injuries with pain and swelling. Its penetrating nature allows it to reach areas that other Blood-moving herbs cannot easily access, especially the fine vessels of the head, face, and sensory organs.
+'Reduces swelling and alleviates pain' refers to She Xiang's ability to disperse accumulations of Blood and toxic material at sites of infection or injury. It is used both internally and applied externally for abscesses, carbuncles, swollen sore throat, and traumatic swelling. It also helps promote healing of damaged tissues and can reduce inflammation around fractures and sprains.
+'Dissipates nodules and toxins' describes its action against hard lumps, swollen lymph nodes (scrofula), and Phlegm nodules. Its strongly mobile, scattering nature breaks up stagnation that has solidified into palpable masses.
+'Facilitates delivery and expels stillbirth' reflects its traditional use in obstetric emergencies where labour has stalled or the fetus has died in the womb. Its powerful moving action on the uterus can restart contractions. For this same reason, She Xiang is strictly contraindicated during pregnancy, as it can induce miscarriage.
+
+---
+
+## Patterns Addressed
+### Phlegm Fire harassing the Pericardium
+- **Explanation**: When Heat and Phlegm combine to block the Heart orifices (the Pericardium acting as the Heart's protective envelope), the person falls into unconsciousness with high fever and delirium. She Xiang's acrid, warm, intensely aromatic nature gives it the strongest orifice-opening power in the materia medica. It cuts directly through the Phlegm and turbidity that are sealing off the Heart's connection to consciousness. Although She Xiang is warm, its primary mechanism here is aromatic penetration rather than thermal warming, so it can be combined with cold, Heat-clearing herbs (like Niu Huang and Huang Lian) to address heat-type closed disorders. It enters the Heart channel directly, making it the ideal substance to reach and unblock the seat of consciousness.
+- **Clinical Signs & Symptoms**:
+  - **Excessive Phlegm**: Rattling phlegm sound in throat
+
+### Phlegm
+- **Explanation**: When Cold and turbid Phlegm obstruct the Heart orifices, the person suddenly collapses with loss of consciousness, clenched jaw, cold limbs, and a pale face. She Xiang is especially suited for this cold-type closed disorder because it is warm in nature and powerfully aromatic, enabling it to cut through cold, congealed Phlegm that has sealed off the sensory orifices. Its acrid taste disperses the Cold obstruction while its penetrating aroma reaches the innermost channels. In this pattern it is combined with other warm aromatic substances like Su He Xiang (Styrax) and An Xi Xiang (Benzoin) to warm and open simultaneously.
+- **Clinical Signs & Symptoms**:
+  - **Cold Limbs**: Cold extremities and pale complexion
+  - **Lockjaw**: Clenched jaw, unable to open mouth
+
+### Blood Stagnation
+- **Explanation**: She Xiang's strongly penetrating, channel-opening nature makes it exceptionally effective at moving stagnant Blood through blocked meridians. Its acrid taste disperses accumulations, while its ability to 'scurry through' all twelve channels means it can reach areas of deep or stubborn Blood stasis that ordinary Blood-moving herbs cannot access. It enters the Liver channel (the organ that stores and regulates Blood) and the Heart channel (which governs Blood circulation), directly targeting the organs most involved in Blood flow. This makes it a key ingredient for Blood stasis in the head and face, amenorrhea from Blood stasis, traumatic injuries, and abdominal masses.
+- **Clinical Signs & Symptoms**:
+
+### Toxic-Heat Stagnation
+- **Explanation**: When toxic Heat combines with Blood stasis and Phlegm to form abscesses, carbuncles, or swollen sore throats, She Xiang's ability to move Blood, reduce swelling, dissipate nodules, and penetrate deeply into tissues makes it a powerful treatment. Its acrid, aromatic nature disperses the toxic accumulation from inside out, while its Blood-invigorating action helps clear the stagnant material that allows infection to fester. It is used both internally and applied topically in formulas for severe infections.
+- **Clinical Signs & Symptoms**:
+  - **Periappendiceal Abscess**: Deep-seated abscesses and carbuncles
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.03–0.1g (30–100mg)
+- **Maximum Dosage**: Do not exceed 0.1g (100mg) per dose in pills or powder. Some sources cite up to 1g as an absolute ceiling in extreme emergency situations, but standard practice should not exceed 100mg.
+- **Dosage Notes**: She Xiang is extremely potent and is always used in very small quantities. The standard range of 0.03–0.1g (30–100mg) is for inclusion in pills and powders. It should NOT be decocted in standard herbal formulas, as its aromatic volatile compounds would be destroyed by prolonged boiling. For opening orifices and reviving consciousness in emergencies, it is typically dissolved in warm water or wine for rapid administration. For chronic conditions involving Blood stasis (e.g. stubborn headaches, channel obstruction), it is used at the lower end of the dosage range as a 'guide drug' (引经药) within pill formulas. External use (in plasters, ointments, or powders applied to sores and abscesses) has no fixed dosage limit but should use appropriate amounts.
+- **Preparation**: She Xiang must NEVER be decocted in a standard herbal formula. Its therapeutic potency depends on volatile aromatic compounds (primarily muscone) that would be lost through boiling. It is always taken as pills (丸) or powder (散), or dissolved in a pre-strained decoction liquid or warm water/wine just before administration. For topical use, it can be blended into ointments, plasters, or insufflated (blown) into the nose or throat. When used alongside a decoction formula, the strained liquid should be prepared first, and the musk powder stirred in at the end (冲服, chong fu). Store in airtight, light-proof containers to preserve the aromatic compounds.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Niu Huang (Ratio: She Xiang 7.5g : Niu Huang 30g (as in An Gong Niu Huang Wan))
+- **Description**: She Xiang opens the orifices and revives consciousness with its intensely aromatic, penetrating action, while Niu Huang clears Heart Heat, resolves toxins, and calms the spirit. Together they form the core orifice-opening and Heat-clearing pair: She Xiang breaks through the blockage, and Niu Huang clears the Heat that caused it. This pairing is the heart of the 'cool opening' (liáng kāi) strategy.
+- **When to Use**: Heat-type closed disorders with loss of consciousness, high fever, delirium, and convulsions, such as in encephalitis, meningitis, or heat-type stroke.
+
+### Bing Pian (Ratio: 1:1 (equal parts, typically 7.5g each in classical pill formulas))
+- **Description**: Both are acrid, aromatic orifice-openers, but She Xiang is warm and more powerful at opening orifices and moving Blood, while Bing Pian is cool and better at clearing Heat constraint and relieving pain. Combined, they open the orifices from both warm and cool angles, creating a balanced penetrating action that is effective for both heat-closed and cold-closed presentations.
+- **When to Use**: Loss of consciousness and delirium in febrile diseases, Wind-Stroke, swollen sores due to Heat toxin, and severe sore throat.
+
+### Su He Xiang (Ratio: She Xiang 60g : Su He Xiang 30g (as in Su He Xiang Wan))
+- **Description**: Both are acrid, warm, and aromatic orifice-openers. She Xiang is stronger at opening the orifices and moving Blood and Qi stagnation, while Su He Xiang is better at expelling turbid Phlegm and warming the interior. Combined, they create the most powerful warm-opening pair for cold-type closed disorders where thick Phlegm and Cold have sealed off consciousness.
+- **When to Use**: Cold-type closed disorders: sudden collapse with loss of consciousness, clenched jaw, cold limbs, and pale face caused by Cold-Phlegm obstruction, as well as chest impediment (angina) from Cold stagnation.
+
+### Ru Xiang (Ratio: She Xiang 0.4g : Ru Xiang 4g (as in Qi Li San, where She Xiang is used in very small amounts))
+- **Description**: She Xiang powerfully penetrates and moves stagnant Blood while Ru Xiang (Frankincense) invigorates Blood, moves Qi, relaxes the sinews, and relieves pain. Together they create a synergistic pain-relieving and swelling-reducing combination for traumatic injuries, reaching deep into damaged tissues to disperse stagnation and promote healing.
+- **When to Use**: Traumatic injuries with swelling and pain, fractures, sprains, contusions, and abscesses or carbuncles.
+
+---
+
+## Key Formulas
+An Gong Niu Huang Wan, Su He Xiang Wan, Tong Qiao Huo Xue Tang, Qi Li San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+She Xiang and its principal active compound muscone both have very low acute toxicity. In animal studies, the LD50 of musk water extract via intraperitoneal injection in mice is approximately 331 mg/kg, and via intravenous injection approximately 848 mg/kg. Rats given oral musk at 60 mg/kg daily for 15 days showed no abnormalities in body weight, blood, liver, or kidney function. Dogs injected intramuscularly with synthetic muscone at 400–800 mg/kg daily for 14 days showed no adverse effects.
+At very high doses, muscone can cause tremors, limb weakness, eye closure, and respiratory depression in mice. It also has well-documented uterine-stimulating effects that increase with the dose and stage of pregnancy, which is the basis for its absolute prohibition in pregnancy rather than classical toxicity.
+The Chinese Pharmacopoeia does not assign a toxicity classification to She Xiang, effectively treating it as non-toxic at standard dosages. However, the extremely potent aromatic and penetrating nature of the substance means it should always be used in very small amounts and only for appropriate indications.
+
+### Contraindications
+- **[Caution]** Qi or Blood deficiency without excess patterns: She Xiang is a strongly dispersing aromatic substance. Zhu Danxi (朱丹溪) warned that in women with Blood deficiency, and in cases of nosebleed from Yin excess and Yang deficiency, dispersing aromatic agents like musk should not be used as they further scatter the already depleted Qi and Blood.
+- **[Caution]** Yin deficiency with internal Heat: The warm, dispersing, and penetrating nature of She Xiang can further damage Yin fluids and aggravate deficiency Heat. Use with caution in Yin-deficient patients.
+- **[Caution]** Absence of Blood stasis or orifice obstruction: As a strongly penetrating and Blood-invigorating substance, She Xiang should not be used when there are no signs of blockage or stasis. Li Gao (李杲) cautioned that using it for wind conditions in the superficial muscle layer could paradoxically draw pathogenic wind deeper into the bone.
+
+### Classical Incompatibilities
+She Xiang does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists.
+
+### Special Populations
+- **Pregnancy**: Absolutely contraindicated during pregnancy, both for internal and topical use. She Xiang has a powerful stimulating effect on the uterus, markedly increasing contraction frequency and intensity. The pregnant uterus is particularly sensitive to this effect. Pharmacological research has demonstrated that muscone (the primary active compound) possesses anti-implantation and anti-early pregnancy activity, with these effects becoming more pronounced as pregnancy progresses. Zebrafish embryo studies have also shown concentration-dependent embryotoxicity. Classically, She Xiang was intentionally used to expel dead fetuses and retained placenta, precisely because of its ability to stimulate uterine contractions. The Chinese Pharmacopoeia explicitly states: "Pregnant women prohibited" (孕妇禁用).
+- **Breastfeeding**: She Xiang should be used with great caution during breastfeeding. Its strongly penetrating, aromatic, and Blood-invigorating properties mean active compounds including muscone (which is highly lipophilic) could potentially transfer into breast milk. While specific clinical data on breast milk transfer is lacking, given the substance's powerful pharmacological effects on the central nervous system, cardiovascular system, and uterus, and its extremely low therapeutic dosage (which reflects high potency), it is generally advised to avoid use during lactation. If use is clinically essential, breastfeeding should be temporarily suspended.
+- **Children**: She Xiang has been used historically in pediatric emergency formulas, particularly for childhood convulsions and seizures. Classical texts record using a single grain (当门子, 'dang men zi') dissolved in warm water for infantile fright and convulsions. Dosage should be proportionally reduced based on age and body weight, and use should be limited to acute episodes under the guidance of a qualified practitioner. Prolonged use in children is not recommended due to its strongly dispersing nature and the vulnerability of children's immature Qi. She Xiang appears in several established pediatric patent medicines (e.g. within An Gong Niu Huang Wan for high fever with impaired consciousness).
+
+### Drug Interactions
+Anticoagulants and antiplatelet agents: She Xiang has demonstrated Blood-invigorating and anti-thrombotic properties. Concurrent use with warfarin, heparin, clopidogrel, aspirin, or other anticoagulant/antiplatelet medications may increase the risk of bleeding. Close monitoring of coagulation parameters is advised if combined use is clinically necessary.
+CNS-active medications: She Xiang and muscone have bidirectional effects on the central nervous system (stimulatory at low doses, inhibitory at high doses). One study suggested that muscone may affect the anesthetic effect of ketamine. Caution is warranted when combining with sedatives, anesthetics, or other CNS depressants/stimulants.
+Oxytocics and uterine-stimulating drugs: Given its powerful uterine-stimulating effects, She Xiang could theoretically potentiate the action of oxytocin or other uterotonic medications, increasing the risk of uterine hyperstimulation.
+Cardiovascular medications: She Xiang has demonstrated cardiac-stimulating and blood-pressure-raising effects. Caution is advised in patients taking antihypertensives, cardiac glycosides, or anti-arrhythmics, as unpredictable interactions are possible.
+Note: Formal clinical drug interaction studies on She Xiang are very limited. The above interactions are inferred from its known pharmacological properties. More research is needed.
+
+### Dietary Advice
+No specific strict dietary restrictions apply to She Xiang use. However, since it is typically employed for acute emergency or Blood-stasis conditions, general TCM principles apply: avoid cold and raw foods that could impede circulation, and avoid greasy, heavy foods that generate Dampness and Phlegm. When used for opening orifices in acute conditions, dietary considerations are generally secondary to the clinical emergency. Alcohol was traditionally used as a vehicle for She Xiang administration (to enhance its dispersing action), but this should only be done under practitioner guidance.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+She Xiang is not a plant-based herb but an animal-derived medicinal substance. It is the dried secretion from the musk gland (香囊, xiāng náng) located between the navel and genitals of mature male musk deer. Three species are recognized as official sources in the Chinese Pharmacopoeia (2020 edition): the Forest Musk Deer (Moschus berezovskii Flerov), the Alpine Musk Deer (Moschus sifanicus Przewalski), and the Siberian Musk Deer (Moschus moschiferus Linnaeus).
+These small, solitary, crepuscular animals resemble small deer without antlers, standing about 50–55 cm at the shoulder and weighing 8–15 kg. Males possess elongated upper canine teeth (tusks) that protrude below the lip. Their coats are dark brown to greyish-brown, with lighter spotted patterns along the back. They inhabit mountainous forests, typically in coniferous or mixed forest zones at elevations of 2,000–4,000 metres, and are agile climbers on steep, rocky terrain. The male's musk gland is a pouch-like structure about 3–7 cm in diameter that produces a strongly aromatic secretion used to attract mates.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Winter through early spring (冬季至次春). Farmed musk deer are typically harvested once annually in winter-spring, though some facilities harvest twice per year (March–April and July–August).
+- **Primary Growing Regions**: The primary producing regions in China are Sichuan, Tibet (Xizang), Yunnan, Shaanxi, and Gansu provinces. Inner Mongolia also produces significant quantities. Additional production comes from parts of the northeast (Heilongjiang, Jilin), as well as Hubei, Guizhou, Guangxi, Qinghai, Henan, and Anhui.
+Historically, four famous regional musk types were recognized: Shaanxi (陕南) musk, Tibetan musk, Qinghai musk, and Sichuan musk. Sichuan's mountainous forests, particularly in the western highlands, have traditionally been considered the premier terroir (道地产区) for musk deer, producing the Forest Musk Deer variety highly valued for its muscone content. Today, most commercial musk comes from farmed deer, with Sichuan and Shaanxi being leading centres of captive breeding programs.
+- **Quality Indicators**: Whole musk pods (毛壳麝香): Should be round or slightly flattened, 3–7 cm in diameter, weighing about 30 g. The outer surface should be brownish with greyish-white fur and show an opening pore about 3 mm in diameter. The pod should feel elastic when pressed.
+Musk grains (麝香仁/当门子): The highest quality form. Grains should be irregular round or granular, purplish-black in colour, smooth, oily, and lustrous, with a fine network pattern (麻纹) visible on the surface. The cross-section should be deep brown to yellowish-brown.
+Key authentication tests: (1) 'Mounding test' (冒槽): When a probe is inserted into the pod and grains are scooped out, they should visibly swell and rise above the probe's surface. (2) 'Hand-rolling test': Moistened musk powder, when rolled between the palms, should form a ball, then easily crumble when rubbed with fingers, without sticking, staining the hand, or resisting pressure. (3) 'Fire test': When sprinkled on a hot crucible, authentic musk should first crackle, then melt and swell into bead-like bubbles releasing intensely fragrant smoke, with no smell of burnt hair or meat, no flame or sparks. Ash residue should be white to greyish-white.
+The Chinese Pharmacopoeia (2020 edition) requires that the muscone content must be no less than 2.0% by dry weight. The aroma should be intensely fragrant, distinctive, and lingering. The taste should be slightly spicy, slightly bitter, and somewhat salty.
+
+### Identity & Adulterants
+Due to the extreme rarity and high cost of natural musk (one of the most expensive medicinal substances in TCM), adulteration is a significant problem. Common adulterants and substitutes include:
+1. Artificial musk (人工麝香): Developed in China in 1994 and now used in over 99% of musk-containing patent medicines. It contains synthetic muscone and other bioactive compounds but lacks muscopyridine and 3-methylcyclotridecanone found in natural musk, and does not show the microscopic structure of gland tissue. It is a legitimate substitute, not a fraudulent one.
+2. Adulterated musk pods: Pods may be injected with foreign materials such as dried blood, ground meat, plant powders, mineral oil, or lead shot to increase weight. Authentic musk should pass the hand-rolling, mounding, and fire tests described in quality indicators.
+3. Synthetic muscone alone: Since muscone can be chemically synthesized, some products may contain only synthetic muscone mixed with fillers, lacking the full spectrum of peptides, steroids, and other components present in genuine musk.
+4. Other animal musks: Muskrat secretions or civet (灵猫香) secretions are sometimes fraudulently sold as musk deer musk. These lack the same chemical composition and therapeutic profile.
+DNA barcoding and electronic nose technology are emerging methods for authenticating genuine musk.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+She Xiang is one of the most storied medicinal substances in Chinese history. The character '麝' (shè) appears in oracle bone inscriptions dating back over 3,000 years, and the animal is mentioned in the Shan Hai Jing (Classic of Mountains and Seas) and Er Ya (earliest Chinese dictionary). The Eastern Han scholar Xu Shen wrote in Shuowen Jiezi: "The musk deer is like a small elk, with fragrance at its navel." Li Shizhen explained the etymology in the Ben Cao Gang Mu: "The musk deer's fragrance shoots far, hence it is called 'she' (射, to shoot). Or perhaps it means that the musk father's fragrance comes shooting forth."
+The Shen Nong Ben Cao Jing classified She Xiang as an 'upper grade' medicine, indicating early recognition of its safety and therapeutic value. However, notably, it does not appear in any surviving Han-dynasty medical texts such as Zhang Zhongjing's works or the Mawangdui medical manuscripts. It was Tao Hongjing (陶弘景, 456–536 CE) during the Wei-Jin period who significantly expanded understanding of its medicinal uses through his annotations on the Ben Cao Jing, adding indications for difficult labour, abdominal pain, and wind-toxin. By the Tang and Song dynasties, musk had become an important ingredient in famous formulas such as Su He Xiang Wan, An Gong Niu Huang Wan, and Zi Xue Dan, and was a major commodity on the Silk Road, exported in large quantities to Persia and the Arabian world. The Qing-dynasty Ben Cao Shu Gou Yuan declared it "the foremost medicine for opening the orifices," effective for both cold-closure and heat-closure patterns.
+Musk deer are now endangered. All musk deer species are listed under CITES, and China has classified the Forest Musk Deer as a Class I protected animal. Since 1994, China has used an artificial musk substitute (人工麝香) in over 99% of musk-containing patent medicines, reserving natural musk for only six specially designated formulas. Modern captive breeding programs also allow non-lethal harvesting by extracting secretions from living animals.
+
+### Modern Scientific Research
+1. **[Comprehensive review: Zoology, chemical composition, pharmacology, quality control and future perspective of Musk (Moschus) (2021)]()**
+   *Journal: Liu K, Xie L, Deng M, Zhang X, Luo J, Li X. Chinese Medicine. 2021;16(1):46.*
+   This review covered the zoology of musk deer, the chemical composition of musk (macrocyclic ketones, pyridines, steroids, fatty acids, amino acids, peptides), and summarized its pharmacological effects including anti-inflammatory, neuroprotective, anti-cancer, and antioxidant activities. Muscone was confirmed as the main active ingredient with multiple mechanisms of action.
+
+2. **[Protective effect of muscone on acute cerebral ischemia-reperfusion injury in rats (Preclinical study, 2023)]()**
+   *Journal: Zhang P, You S, Ding X, Luan P, Xu J, Cui Q, Wang F, Li R, Zhu Y, Zhang J. Journal of Ethnopharmacology. 2023;308:116287.*
+   In a rat model of transient middle cerebral artery occlusion, muscone significantly reduced infarct size and tissue damage. It also elevated expression of neurotrophic and angiogenesis-related factors. In cell models, muscone increased cell viability and inhibited apoptosis via the Bax/Bcl-2/Caspase-3 pathway, suggesting potential as a neuroprotective and pro-angiogenic agent for ischemic stroke.
+
+3. **[Beneficial effects of muscone on cardiac remodeling in a mouse model of myocardial infarction (Preclinical study, 2014)]()**
+   *Journal: Wang X, Meng H, Chen P, Yang N, Lu X, Wang ZM, Gao W, Zhou N, Zhang M, Xu Z, Chen B, Tao Z, Wang L, Yang Z, Zhu T. International Journal of Molecular Medicine. 2014;34(1):103-111.*
+   In mice with experimentally induced myocardial infarction, 3 weeks of muscone treatment (2 mg/kg/day) significantly improved cardiac function and exercise tolerance, reduced myocardial fibrosis and collagen deposition, and attenuated inflammation and apoptosis through the Akt/eNOS signaling pathway.
+
+4. **[Chemical compositions and pharmacological activities of natural musk (Moschus) and artificial musk: A review (2022)]()**
+   *Journal: Lv S, Lei Z, Yan G, Shah SA, Ahmed S, Sun T. Journal of Ethnopharmacology. 2022;284:114799.*
+   This review compared the chemical ingredients, pharmacological activities, and mechanisms of action of natural versus artificial musk. Key active constituents including polypeptides, muscone, steroids, and muscopyridine demonstrated therapeutic properties against inflammation, immune disorders, neurological conditions, and cardiovascular disease.
+
+5. **[Muscone ameliorates LPS-induced depressive-like behaviors and inhibits neuroinflammation in prefrontal cortex of mice (Preclinical study, 2020)]()**
+   *Journal: He MC, Shi Z, Qin M, Sha NN, Li Y, Liao DF, Lin FH, Shu B, Sun YL, Yuan TF, Wang YJ, Zhang Y. American Journal of Chinese Medicine. 2020;48(3):559-577.*
+   Pre-treatment with muscone reversed LPS-induced body weight loss and depressive-like behaviors in mice. The mechanism involved suppression of microglial activation and reduction of inflammatory cytokines in the prefrontal cortex via the TLR4 pathway and renin-angiotensin system cascade.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/she-xiang](https://www.meandqi.com/knowledge-base/herbs/she-xiang)*

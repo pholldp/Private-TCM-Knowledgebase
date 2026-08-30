@@ -1,0 +1,244 @@
+# ความทึบของกระจกตา (目翳)
+**คำอ่านพินอิน**: mù yì | **ประเภท**: Condition | **หมวดหมู่**: ปัญหาสายตาและการมองเห็น  
+**ชื่อเรียกอื่นๆ**: Superficial visual obstruction, Eye nebula, White opacity of the eye, Visual opacity | **บริเวณร่างกาย**: Face — Periorbital
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+A sudden red, painful corneal opacity triggered by anger is Liver Fire - treatable with cooling herbs and often improving within weeks. A slow, dry, painless clouding with backache...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, corneal opacity refers to a loss of the cornea's normal transparency. It can result from infection (such as herpes simplex keratitis), injury, chemical burns, vitamin A deficiency, or complications from contact lens wear. The cornea becomes scarred or cloudy, leading to blurred vision, glare, halos around lights, and in severe cases, vision loss. Diagnosis is made through a slit-lamp examination, and treatment depends on the underlying cause and severity.
+
+### การรักษาหลัก (Treatments)
+Mild opacities may be managed with lubricating eye drops or antibiotic/antiviral medications if infection is present. Corticosteroid eye drops can reduce inflammation and scarring in some cases. For persistent or dense opacities that impair vision, surgical options such as phototherapeutic keratectomy (PTK) or corneal transplantation may be considered. However, these treatments focus on managing the corneal lesion itself rather than addressing systemic factors that may contribute to recurrence or poor healing.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the eyes are the sensory orifice of the Liver, and their clarity depends on the nourishment of Liver Blood and Kidney Essence. The cornea - the transparent front layer - is seen as an extension of the body's internal terrain. When that terrain is disturbed by heat, dampness, deficiency, or stagnation, the cornea loses its crystal clarity. This is why a single Western diagnosis of corneal opacity can have multiple TCM roots: a sudden, red, painful clouding after an emotional outburst points to Liver Fire blazing upward, while a slow, painless fogging with dry eyes and backache suggests Kidney and Liver Yin Deficiency.
+The Liver channel travels directly to the eyes, so any disruption in Liver function - whether excess Fire or stagnant Qi - can manifest there. The Kidneys store Essence, which generates marrow and nourishes the brain and eyes; when Essence is depleted, the eyes grow dry and dim. The Spleen and Stomach produce Qi and Blood that rise to brighten the vision; if they are weak, the cornea becomes undernourished and cloudy. Phlegm-Dampness, a byproduct of a sluggish Spleen, can rise like mist to veil the eyes, while long-term Qi and Blood Stagnation can fix an opacity in place and prevent it from resolving.
+Practitioners distinguish these patterns by the speed of onset, the eye sensations, and the whole-body signs. A red, painful eye with a bitter taste and short temper is Liver Fire. A dry, gritty eye with a sore back and poor sleep is Yin Deficiency. A pale, tired person with a slow, painless clouding has Qi and Blood Deficiency. A heavy, foggy sensation with a greasy tongue coating points to Phlegm-Dampness. And a fixed, unchanging opacity with a purplish tongue signals Stagnation. Each pattern calls for a fundamentally different treatment strategy.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+To figure out which pattern is behind a corneal opacity (目翳, mù yì), a TCM practitioner asks about the speed of onset, the eye sensations, and the whole-body signs that accompany it. Each pattern leaves its own fingerprint, and the tongue and pulse help confirm the picture.
+When vision fades slowly and the eyes feel persistently dry, a practitioner suspects Kidney and Liver Yin Deficiency. Accompanying signs like dizziness, tinnitus, and a sore lower back confirm that the eyes lack nourishment from Yin and Essence. The tongue is red with scant coating, and the pulse feels thin and rapid.
+A sudden onset of redness, sharp pain, and light sensitivity points to Liver Fire Blazing. The person may feel irritable, notice a bitter taste in the mouth, and have a dry throat. The tongue is red with a yellow coating, and the pulse is wiry and rapid, reflecting heat surging upward.
+If vision declines gradually and the person looks pale, tires easily, and has heart palpitations, Qi and Blood Deficiency is the likely root. The tongue is pale with a thin white coat, and the pulse is thin and weak. The eyes simply are not receiving enough vital nourishment.
+When the world looks foggy and the head feels heavy, Phlegm-Dampness in the Middle-Burner is obstructing clear Yang from reaching the eyes. Chest tightness, a feeling of mucus in the throat, and a greasy tongue coating with a slippery pulse further support this pattern.
+A fixed dark spot or opacity that does not change, along with a long-standing history, suggests Qi and Blood Stagnation. The tongue may be dark or have purple spots, and the pulse feels choppy. Stagnation prevents the corneal lesion from healing properly.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「肝热上冲，黑睛生白翳，如云如雾。」
+> 
+> **คำแปลภาษาอังกฤษ**: "When Liver heat rushes upward, the black of the eye develops a white nebula, like a cloud or mist."
+> 
+> — แหล่งที่มา: *银海精微 (Yin Hai Jing Wei, Essential Subtleties on the Silver Sea)  ,  Chapter on Superficial Visual Obstruction (目翳) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Kidney and Liver Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-and-liver-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Dry, gritty sensation in the eyes, Gradual, painless loss of visual clarity, Dizziness and ringing in the ears, Soreness and weakness of the lower back and knees, Night sweats with heat in the palms, soles, and chest
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and late nights, Spicy, fried, or greasy foods, Excessive screen time, Emotional stress and frustration, Dry, windy weather
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate sleep and rest, Cool, humidified environment, Moistening foods (pear, goji berry, black sesame), Gentle eye exercises and palming
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver opens into the eyes, and the Kidney stores Essence that generates marrow to nourish them. When Yin and Essence run low, the eyes lose their lubrication and clarity. Dryness sets in, vision blurs, and a thin, cloud-like opacity gradually forms as deficiency heat further damages the delicate fluids of the eye.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine, rapid, and wiry; weak at the left Chi (Kidney) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Yin is the body's cooling, moistening reserve. Late nights, overwork, and spicy foods burn through Yin like a flame under a drying pot, leaving the eyes parched and cloudy. Rest, cooling and moistening foods, and gentle activity help preserve and replenish Yin. When Liver and Kidney Yin are restored, the eyes receive proper nourishment and the opacity may gradually clear.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat black sesame, goji berries, mulberries, and dark leafy greens. Avoid spicy, fried, and drying foods like coffee and alcohol. Prioritize sleep before 11pm and rest your eyes frequently. Warm compresses can soothe dryness, and gentle exercises like tai chi help preserve Yin.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Qi Ju Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/qi-ju-di-huang-wan)** | Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;) | Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat | The classic formula to nourish Liver and Kidney Yin and brighten the eyes, especially when vision is cloudy and eyes are dry. |
+| **[Shi Hu Ye Guang Wan](https://www.meandqi.com/knowledge-base/formulas/shi-hu-ye-guang-wan)** | Dendrobium Night Vision Pill &#xB7; Yu&#xE1;n dynasty, 1326 CE (original as Y&#xE8; Gu&#x101;ng W&#xE1;n); renamed 1370 CE | Cool, Nourishes Liver and Kidney Yin, Clears Liver Heat, Brightens the Eyes | A comprehensive Yin-nourishing formula specifically designed for declining vision, cataracts, and corneal opacities due to Yin deficiency. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit |  | Sweet and neutral, it enriches Liver and Kidney Yin and directly improves vision. |
+| **[Ju Hua](https://www.meandqi.com/knowledge-base/herbs/ju-hua)** | Chrysanthemum flower |  | Cool and acrid, it clears deficiency heat from the Liver channel and brightens the eyes. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel, used with reinforcing technique to nourish Kidney Yin. |
+| **BL-18** | [Ganshu BL-18](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18) | G&#x101;n Sh&#x16B; | Resolves Damp-Heat, Invigorates Liver Qi and Blood | The Back-Shu point of the Liver, tonifies Liver Yin and benefits the eyes. |
+| **BL-1** | [Jingming BL-1](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/jingming-bl-1) | J&#x12B;ng M&#xED;ng | Expels Wind, Clears Heat | The master local point for all eye disorders, brings Qi and blood directly to the eyes. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates the Spleen, Liver, and Kidney, supporting Yin production and fluid distribution. |
+
+---
+
+### Liver Fire Blazing
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-fire-blazing)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Red, painful, burning eyes, Sudden onset after anger or stress, Bitter taste in mouth, Intense irritability and short temper
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Anger and frustration, Spicy, fried, or greasy foods, Alcohol, Excessive screen time, Hot, stuffy environments
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool compresses on eyes, Chrysanthemum tea, Rest and eye breaks, Calming activities
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When anger, frustration, or prolonged stress go unresolved, Liver Qi stagnates and eventually ignites into Fire. This Fire has a natural tendency to flare upward along the Liver channel, which opens into the eyes. The intense heat scorches the delicate tissues of the cornea, causing sudden redness, pain, and a cloudy opacity.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with redder sides, dry yellow coating; possible red prickles. Pulse: wiry, rapid, and forceful, especially at the left Guan position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Anger and frustration are the emotional states that directly stagnate Liver Qi and generate Fire, so they rapidly worsen the condition. Spicy and greasy foods add internal heat, while alcohol and hot environments further fuel the Fire. Cooling foods and compresses help clear heat, and rest prevents the Qi from being consumed, allowing the eyes to recover.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid alcohol, coffee, spicy foods, and fried or greasy meals, which add heat. Drink chrysanthemum tea or peppermint tea to cool the Liver. Practice stress management-anger is the key trigger. Rest your eyes frequently and use a cool compress for relief.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The classic formula to drain Liver Fire and clear damp-heat, directly addressing the upward surge that inflames the eyes. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | Specifically drains excess Fire from the Liver and Gallbladder, targeting the root of the eye inflammation. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears heat from the upper body and dries dampness, helping to reduce redness and swelling. |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike |  | Clears Liver Fire and brightens the eyes, traditionally used for red, painful, swollen eyes. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to subdue rising Liver Yang and clear Liver Fire. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | The Fire point of the Liver channel; strongly drains excess Heat from the Liver. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Dispels wind and clears heat from the head and eyes. |
+| **EX-HN-5** | [Taiyang EX-HN-5](https://www.meandqi.com/knowledge-base/acupuncture/taiyang-ex-hn-5) | T&#xE0;i Y&#xE1;ng | Subdues Liver Yang Rising, Brightens the eyes | Local point to relieve eye pain and redness. |
+
+---
+
+### Qi and Blood Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Gradual, painless clouding of vision, Pale or sallow complexion, Persistent fatigue and lack of energy, Heart palpitations and dizziness, Poor appetite and loose stools
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and mental strain, Skipping meals or irregular eating, Raw and cold foods, Excessive screen time
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate sleep and rest, Warm, nourishing meals, Gentle walking
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The eyes rely on Qi and Blood to stay clear and sharp. When Qi and Blood are both deficient, the Spleen can no longer generate enough nourishment to send upward. Over time the cornea loses its transparency because the tissues simply aren't being fed, and a slow, painless clouding sets in.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body, may be thin or show teeth marks, thin white coating. Pulse: fine (thin) and weak, especially in the right Spleen position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Qi and Blood are produced by the Spleen from the food we eat and are replenished during rest. Overwork and poor eating directly deplete them, leaving the eyes starved. Nourishing food and rest rebuild the raw materials, while gentle movement helps circulate what is there without draining reserves.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals with moderate amounts of red dates, goji berries, yam, and dark leafy greens. Avoid raw, cold, and greasy foods that weaken the Spleen. Rest your eyes regularly, especially during prolonged screen use, and get gentle daily movement like walking to support Qi flow without exhausting yourself.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ba Zhen Tang](https://www.meandqi.com/knowledge-base/formulas/ba-zhen-tang)** | Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | The classic formula to tonify both Qi and Blood, nourishing the eyes from the root. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and invigorates circulation to the eyes. |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Strongly boosts Qi to help generate Blood and lift clear Yang upward. |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Replenishes Blood and Essence to moisten and brighten the cornea. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Spleen and Stomach to build Qi and Blood. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Nourishes and invigorates Blood, especially beneficial for the eyes. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Strengthens the Spleen&#x27;s ability to transform food into usable Qi and Blood. |
+
+---
+
+### Phlegm-Dampness in the Middle-Burner
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-dampness-in-the-middle-burner)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Foggy or veiled vision, as if looking through mist, Heavy sensation in the head, as if wrapped in cloth, Chest oppression, nausea, or a queasy feeling, Poor appetite and bloating after eating, Thick, greasy white tongue coating
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Greasy, heavy foods, Damp, humid weather, Overeating or irregular meals, Sedentary lifestyle, Raw and cold foods
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Light, easily digested meals, Gentle walking, Warm, dry weather, Rest after eating
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Spleen is weak, it fails to transform and transport fluids. These fluids accumulate into Dampness, which then thickens into Phlegm. This cloudy Phlegm-Dampness sits in the Middle Burner, blocking the clear Yang Qi that should rise to nourish and brighten the eyes. The result is vision that feels veiled or foggy, as if you are looking through a mist.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale and swollen, often with teeth marks on the sides; the coating is thick, white, and greasy, particularly in the centre and root. Pulse: slippery (滑 huá) and soggy (濡 rú), especially at the right guan position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Greasy, sweet, and cold foods, along with damp environments, overwhelm the Spleen's ability to transform fluids, directly generating the Phlegm-Dampness that clouds the eyes. Light, warm meals and gentle movement support the Spleen and Stomach, helping to dry the internal dampness and allow clear Yang to ascend, which literally lifts the fog from the vision.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid greasy, sweet, and heavy foods that create more Dampness, such as fried foods, dairy, and refined sugar. Eat light, warm, easily digested meals like congee, steamed vegetables, and barley. Gentle daily movement like walking helps Qi circulate and dries internal dampness. Do not overeat, and try to rest briefly after meals to support the Spleen.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/wen-dan-tang)** | Warm the Gallbladder Decoction &#xB7; Southern S&#xF2;ng dynasty, 1174 CE | Neutral, Regulates Qi and Transforms Phlegm, Clears Gallbladder and Stomach Heat, Dries Dampness | Transforms Phlegm, drains Dampness, and clears the Middle Burner, lifting the mist that clouds the eyes. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | The chief herb for drying Dampness and transforming Phlegm, directly clearing the turbid obstruction. |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel |  | Regulates Qi and dries Dampness, helping the Spleen to function and preventing further Phlegm formation. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Gently drains Dampness and strengthens the Spleen, supporting the upward movement of clear Yang to the eyes. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The master point for Phlegm; transforms and expels the cloudy Phlegm mist. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Drains Dampness from the body, especially from the Middle and Lower Burners. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach to prevent the production of new Dampness and Phlegm. |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | The Front-Mu point of the Stomach, harmonizes the Middle Burner and resolves food stagnation and Phlegm. |
+
+---
+
+### Qi And Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fixed, stabbing pain around the eye, Dark, fixed spots or shadows in vision, Long-standing, slow to heal, Irritability and mood swings, Purplish complexion or dark lips
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress and frustration, Cold weather, Sedentary lifestyle, Greasy, heavy foods
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on eyes, Gentle walking, Stress reduction, Warm, nourishing meals
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Qi and Blood stagnate, the tiny vessels that nourish the cornea become blocked. This prevents the eye from clearing away old lesions, so opacities linger and become fixed. The stagnation also creates a sensation of dark, unmoving shadows in the vision.
+Because the stagnation is deep and long-standing, the cornea cannot repair itself easily. The opacity tends to be chronic and resistant to simple rest, often accompanied by a stabbing ache around the eye.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: dark purple body with stasis spots, distended sublingual veins, and a thin white coat. Pulse: wiry (弦 xián) and choppy (涩 sè), like a knife scraping bamboo.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Stress and frustration knot the Liver Qi, which is the root of blood stasis, so calming the mind eases the stagnation. Cold congeals blood, making the vessels in the eye even more sluggish. Gentle movement and warmth, on the other hand, encourage Qi and Blood to flow, gradually clearing the opacities. Warm, cooked foods support the Spleen and prevent the dampness and cold that can worsen stagnation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods that gently move blood, such as hawthorn, turmeric, black vinegar, and small amounts of peach kernel. Avoid cold, raw foods and greasy meals that congeal blood and create dampness.
+Gentle daily movement like walking or tai chi keeps Qi and Blood flowing. Protect your eyes from wind and cold, and take breaks from screens to prevent eye strain.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The primary formula to invigorate Qi and Blood, dispel stasis, and clear the eye collaterals. |
+| **[Qi Ju Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/qi-ju-di-huang-wan)** | Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;) | Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat | A classical formula that nourishes the Liver and Kidneys to support eye health and clear vision. It is used for blurred vision, dry eyes, sensitivity to light, excessive tearing in wind, dizziness, and ringing in the ears caused by Liver and Kidney Yin deficiency. Built on the famous Liu Wei Di Huang Wan (Six-Ingredient Rehmannia Pill) with the addition of goji berry and chrysanthemum flower for their vision-supporting properties. |
+| **[Shi Hu Ye Guang Wan](https://www.meandqi.com/knowledge-base/formulas/shi-hu-ye-guang-wan)** | Dendrobium Night Vision Pill &#xB7; Yu&#xE1;n dynasty, 1326 CE (original as Y&#xE8; Gu&#x101;ng W&#xE1;n); renamed 1370 CE | Cool, Nourishes Liver and Kidney Yin, Clears Liver Heat, Brightens the Eyes | A classical formula for eye health, designed to nourish the Liver and Kidneys, clear deficiency Heat, and brighten the eyes. It is commonly used for blurred vision, early-stage cataracts, glaucoma, and other eye conditions caused by chronic depletion of the body&#x27;s nourishing fluids, particularly in middle-aged and older adults. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Ba Zhen Tang](https://www.meandqi.com/knowledge-base/formulas/ba-zhen-tang)** | Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood. |
+| **[Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/wen-dan-tang)** | Warm the Gallbladder Decoction &#xB7; Southern S&#xF2;ng dynasty, 1174 CE | Neutral, Regulates Qi and Transforms Phlegm, Clears Gallbladder and Stomach Heat, Dries Dampness | A classical formula used to clear Phlegm and restore harmony between the Gallbladder and Stomach. It is commonly used for people experiencing insomnia, anxiety, restless sleep with vivid dreams, dizziness, nausea, or heart palpitations caused by Phlegm and stagnant Qi disturbing the mind. Despite its name (&quot;Warm the Gallbladder&quot;), the formula&#x27;s overall effect is gently clearing and calming rather than warming. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel |  | Breaks up blood stasis and improves circulation to the eye. |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower |  | Invigorates blood and opens the tiny collaterals, helping to fade opacities. |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit | Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes |  |
+| **[Ju Hua](https://www.meandqi.com/knowledge-base/herbs/ju-hua)** | Chrysanthemum flower | Slightly Cool, Disperses Wind-Heat, Calms the Liver and Subdues Yang, Clears Liver Heat and Brightens the Eyes |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike | Cold, Clears Liver Fire and drains Fire, Brightens the Eyes, Disperses stagnation and reduces nodules |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel | Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel | Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing |  |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower | Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-17** | [Geshu BL-17](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17) | G&#xE9; Sh&#x16B; | Invigorates Blood, Cools Blood Heat and stops bleeding | The meeting point of blood, dispels stasis and nourishes the eye. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Moves Qi powerfully, promoting blood flow to the face and eyes. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Smooths Liver Qi and activates blood, addressing the root of stagnation. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can acupuncture really help with corneal opacity?
+Yes, acupuncture is a valuable part of TCM treatment for corneal opacity, though it is almost always combined with herbal medicine. Acupuncture works by stimulating specific points to move Qi and Blood, clear heat, and nourish deficiency. Points around the eye like Jingming BL-1 are used cautiously by experienced practitioners to bring local healing, while distal points like Taichong LR-3 and Zusanli ST-36 address the underlying organ imbalance. Most patients report a feeling of relaxation and improved eye comfort after sessions, and over time, acupuncture supports the gradual clearing of the cornea.
+
+### How do TCM herbs treat corneal opacity?
+Herbal formulas don't just target the eye - they correct the internal pattern that allowed the opacity to form. For Liver Fire, cooling herbs like Long Dan Cao (Gentian) drain heat downward. For Yin Deficiency, herbs like Gou Qi Zi (Goji Berry) and Shu Di Huang (Rehmannia) deeply nourish the Kidneys and Liver. For Qi and Blood Deficiency, Dang Gui (Angelica) and Huang Qi (Astragalus) build the Blood and Qi that rise to brighten the eyes. The herbs are usually taken as a decoction or in pill form twice daily, and they work gradually to restore the cornea's transparency from the inside out.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/corneal-opacity)*

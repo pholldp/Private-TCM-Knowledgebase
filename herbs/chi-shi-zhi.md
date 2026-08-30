@@ -1,0 +1,158 @@
+# Chi Shi Zhi (赤石脂)
+**English Name**: Halloysite clay  
+**Category**: Stabilizing and binding herbs (收涩药), Herbs that astringe the Lungs and bind the intestines (敛肺涩肠药)  
+**Scientific Name**: Halloysite (hydrated aluminum silicate mineral, Al₄(Si₄O₁₀)(OH)₈·4H₂O)  
+**Pharmaceutical Name**: Halloysitum Rubrum  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Sweet (甘 gān), Sour (酸 suān), Astringent (涩 sè)  
+**Channels Entered**: Large Intestine, Stomach  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Red Halloysite is a natural mineral clay used in Chinese medicine primarily for chronic diarrhea and intestinal bleeding that have not responded to other treatments. It works by physically binding and protecting the intestinal lining, making it especially helpful when the digestive tract has become weakened from prolonged illness. It can also be applied externally to help heal stubborn wounds and skin ulcers.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Bleeding Disorders, Skin and Wound Care, Women's Health
+- **TCM Actions**: Astringes the Intestines and Stops Diarrhea, Astringes and Stops Bleeding, Promotes Tissue Regeneration and Heals Sores, Astringes to Stop Vaginal Discharge
+
+### How these actions work
+'Binds the intestines and stops diarrhea' (涩肠止泻) is the primary action of this mineral. Its heavy, astringent quality allows it to settle directly into the lower digestive tract. It physically coats and protects the intestinal lining, absorbing excess fluid and inflammatory secretions. This makes it a key remedy for chronic, long-standing diarrhea or dysentery that has become uncontrollable (called 'slippery desertion' in TCM), especially when the stool contains mucus or blood with a dull, dark colour. It is only appropriate when the acute phase has passed and the underlying cause is weakness rather than active infection or Damp-Heat.
+'Astringes to stop bleeding' (收敛止血) refers to its ability to draw tissues together and halt bleeding. Because it is heavy and sinks downward, it is especially suited for bleeding in the lower body: blood in the stool from chronic conditions, uterine bleeding (heavy periods or spotting between periods), and hemorrhoidal bleeding. It works by its physical astringent action rather than by cooling the Blood.
+'Generates flesh and heals sores' (生肌敛疮) is used when the herb is applied externally as a fine powder. It absorbs moisture from wound surfaces, protects raw tissue, and promotes the closure and healing of chronic ulcers, weeping eczema, and wounds that refuse to heal. It can be combined with other wound-healing powders like calcined Dragon Bone and Frankincense.
+'Astringes leukorrhea' describes its use for chronic vaginal discharge that persists due to underlying deficiency. Its warm, binding nature helps consolidate the lower body and reduce thin, watery discharge, particularly when the root cause is Kidney deficiency or weakness of the Belt Channel (Dai Mai).
+
+---
+
+## Patterns Addressed
+### Small Intestine Deficient and Cold
+- **Explanation**: When the Large Intestine becomes chronically cold and weak, it loses its ability to hold and transform stool, leading to persistent, uncontrollable diarrhea or dysentery. Chì Shí Zhī is warm in nature and astringent in taste, allowing it to warm the intestines while physically binding the bowel. Its heavy, mineral quality carries it directly to the lower digestive tract. The sweet taste gently tonifies, while the sour and astringent tastes provide the strong holding action needed to stop the 'slippery desertion' (滑脱) characteristic of this pattern.
+- **Clinical Signs & Symptoms**:
+  - **Mucus in Stool**: Stool containing mucus or dark blood
+
+### Spleen not controlling Blood
+- **Explanation**: When the Spleen is too weak to hold Blood within the vessels, bleeding occurs in the lower body: blood in the stool, uterine bleeding, or heavy menstruation. Chì Shí Zhī addresses this through its powerful astringent action. Its heavy, sinking quality directs it to the lower burner where the bleeding occurs, and its warm nature supports the weakened Spleen Yang. Its red colour is classically associated with entering the Blood level, making it especially suited to stop bleeding due to deficiency rather than Heat.
+- **Clinical Signs & Symptoms**:
+  - **Postmenstrual Bleeding**: Uterine bleeding (&#x5D29;&#x6F0F;) that persists over time
+
+### Kidney Qi Deficiency
+- **Explanation**: When Kidney deficiency leads to failure of the Belt Channel (Dai Mai) to restrain discharge, chronic vaginal discharge (leukorrhea) results. Chì Shí Zhī's warm, astringent nature consolidates the lower body and helps the Kidneys' holding function. It binds the discharge while its warmth addresses the underlying cold. It is typically combined with other Kidney-warming and astringent substances like Deer Antler Glue residue (Lù Jiǎo Shuāng) and Euryale seed (Qiàn Shí) for this purpose.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-15g (some sources extend to 20g)
+- **Maximum Dosage**: Up to 20g in decoction for severe chronic diarrhea, under practitioner supervision. External use: appropriate amount as needed.
+- **Dosage Notes**: For chronic diarrhea and dysentery: 9-15g in decoction, crushed and decocted first (先煎). For hemostasis (bleeding from the intestines or uterus): 10-15g, often used in its calcined form (煅赤石脂) to enhance astringency. For external use on non-healing ulcers, wounds, or eczema: grind into fine powder and apply directly to the affected area, or mix with other powdered herbs. The calcined form (processed with vinegar and then calcined until red) is preferred for internal use as it has enhanced astringent properties. Lower doses (9-12g) are typical for mild cases; higher doses (15-20g) for more severe chronic conditions.
+- **Preparation**: Should be crushed (打碎) and decocted first (先煎) for 15-20 minutes before adding other herbs, as it is a heavy mineral that requires longer decoction time to release its active components. Alternatively, it may be ground into fine powder using water-flying technique (水飞) for both internal powder preparations and external application. For the calcined form (煅赤石脂), the powder is mixed with vinegar, formed into sticks, dried, then calcined until red-hot. The calcined form has enhanced astringent properties and is generally preferred for internal use.
+
+---
+
+## Processing Methods
+### Du&#xE0;n Ch&#xEC; Sh&#xED; Zh&#x12B; (&#x7145;&#x8D64;&#x77F3;&#x8102;)
+- **Processing Method**: The raw mineral is ground into fine powder, mixed with vinegar to form a paste, shaped into strips, cut into segments, dried, and then calcined (煅) in a kiln or crucible at high heat until glowing red throughout. After cooling it is crushed for use.
+- **How it Changes Properties**: Calcination significantly enhances the astringent properties. The thermal nature remains warm. The processed form has stronger intestine-binding, bleeding-stopping, and wound-healing actions. The vinegar processing may also help direct the herb's action and increase its ability to absorb fluids.
+- **When to Use**: Preferred for internal use when strong astringent action is needed, such as severe chronic diarrhea with slippery desertion, heavy uterine bleeding, or chronic blood in the stool. Also the preferred form for external application on chronic wounds and ulcers.
+
+---
+
+## Common Herb Pairs
+### Yu Yu Liang (Ratio: 1:1 (equal parts, classically 1 j&#x12B;n each in the Shang Han Lun formula))
+- **Description**: The most classical pairing for this herb. Both are heavy minerals with strong astringent properties that bind the intestines and stop diarrhea. Together they are significantly more effective than either alone, creating a powerful 'sealing' action in the lower digestive tract. Yǔ Yú Liáng adds extra weight and settling power, while Chì Shí Zhī contributes warmth and an affinity for the Blood level.
+- **When to Use**: Chronic diarrhea or dysentery that has become uncontrollable ('slippery desertion'), where the stool passes many times daily without the patient being able to hold it. Also useful for chronic rectal prolapse from prolonged diarrhea.
+
+### Gan Jiang (Ratio: Ch&#xEC; Sh&#xED; Zh&#x12B; 30g : G&#x101;n Ji&#x101;ng 3-6g (in T&#xE1;o Hu&#x101; T&#x101;ng, the original ratio is approximately 16:1 by weight))
+- **Description**: Chì Shí Zhī binds the intestines and stops bleeding through astringency, while Gān Jiāng (dried ginger) warms the interior and dispels cold. Together they address both the symptom (uncontrolled diarrhea with blood) and the root cause (cold in the Spleen and intestines). Gān Jiāng provides the warming and dispersing action that Chì Shí Zhī lacks.
+- **When to Use**: Deficiency-cold dysentery with blood and mucus in the stool, abdominal pain relieved by warmth and pressure, pale tongue with white coating. This is the core pairing in the classical formula Táo Huā Tāng (Peach Blossom Decoction).
+
+### Hai Piao Shao (Ratio: 1:1 (equal parts, typically 10-15g each))
+- **Description**: Both herbs are astringent and stop bleeding, but they work through complementary mechanisms. Hǎi Piāo Xiāo (Cuttlefish Bone) is slightly warm and specialises in restraining uterine bleeding and vaginal discharge, while Chì Shí Zhī adds its heavy, sinking action to reach the lower body and its Blood-level affinity. Together they provide a strong dual-action to stop gynaecological bleeding.
+- **When to Use**: Chronic uterine bleeding (崩漏) or persistent leukorrhea due to deficiency, especially when combined with herbs like Cè Bǎi Yè (Biota Leaf) for a three-herb astringent combination.
+
+### Long Gu (Ratio: 1:1 (equal parts))
+- **Description**: Lóng Gǔ (Dragon Bone) is heavy and astringent, calming the spirit and anchoring floating Yang. Combined with Chì Shí Zhī, the two heavy minerals create a powerful fixing and binding effect. Lóng Gǔ adds spirit-calming properties and extra fixation, while Chì Shí Zhī contributes warmth and specialised intestinal binding. Used externally together, they strongly promote wound healing.
+- **When to Use**: Chronic non-healing wounds and ulcers (external application as combined powder). Internally, for chronic diarrhea with anxiety or restlessness, or for spermatorrhea and urinary incontinence from lower body weakness.
+
+---
+
+## Key Formulas
+Tao Hua Tang, Chi Shi Zhi Yu Yu Liang Tang, Zhi Shi Dao Zhi Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Chi Shi Zhi is classified as non-toxic in both classical texts (the Bie Lu states 无毒, 'non-toxic') and the modern Chinese Pharmacopoeia. As a clay mineral (hydrated aluminum silicate), it is chemically inert and not systemically absorbed when taken orally at standard doses. However, excessive or prolonged use may theoretically contribute to aluminum accumulation. The main safety concern is not toxicity but rather its strong adsorptive properties: it can bind nutrients, enzymes, and co-administered medications in the gastrointestinal tract, potentially reducing their effectiveness. It may also cause constipation if overused.
+
+### Contraindications
+- **[Caution]** Pregnancy. Chi Shi Zhi is classified as 'use with caution' (慎用) during pregnancy. Its heavy, descending, and astringent nature may affect the fetus.
+- **[Caution]** Concurrent use with Rou Gui (Cinnamomum cassia bark / Cortex Cinnamomi). Chi Shi Zhi and Guan Gui (official cinnamon / Rou Gui) are listed as a pair in the classical Nineteen Mutual Fears (十九畏). Practitioners generally avoid combining them unless there is specific clinical justification.
+- **[Caution]** Concurrent use with pharmaceutical medications taken orally. As a clay mineral with strong adsorptive properties, Chi Shi Zhi can bind to and reduce the absorption of other drugs. Administration should be separated by at least two hours.
+
+### Classical Incompatibilities
+Guan Gui / Rou Gui (官桂/肉桂, Cinnamomum cassia bark) fears Chi Shi Zhi. This is one of the classical Nineteen Mutual Fears (十九畏) pairs: "官桂善能调冷气，若逢石脂便相欺" (Official cinnamon excels at regulating cold Qi, but when it meets Shi Zhi, it is undermined). In practice, some experienced physicians (notably Li Ke and others) have used this pair together in specific clinical situations for Cold-type diarrhea with good results, suggesting the incompatibility is relative rather than absolute. However, standard practice advises against combining them without specific clinical justification.
+
+### Special Populations
+- **Pregnancy**: Classified as 'use with caution' (慎用) during pregnancy in classical and modern Chinese Materia Medica sources. Chi Shi Zhi is a heavy, downward-directing mineral substance with strong astringent properties. While it is not a uterine stimulant or blood-moving herb, its heavy and descending nature could theoretically affect fetal positioning or uterine dynamics. Classical sources note it was traditionally used to aid delivery of a retained placenta (胞衣不出), suggesting it has some influence on uterine function. Pregnant women should avoid this herb unless specifically prescribed by a qualified practitioner.
+- **Breastfeeding**: No specific classical or modern contraindication during breastfeeding has been documented. As an inorganic mineral (hydrated aluminum silicate), Chi Shi Zhi is poorly absorbed systemically, which limits the potential for transfer through breast milk. However, the aluminum content of the mineral warrants general caution with prolonged or high-dose use during lactation. Use at standard doses for short courses is generally considered low-risk, but a qualified practitioner should supervise.
+- **Children**: Chi Shi Zhi has been used in pediatric formulas historically (e.g., Chi Shi Zhi San from Yan Shi Xiao Er Fang Lun for pediatric post-dysentery rectal prolapse). Dosage should be proportionally reduced according to the child's age and weight, typically one-third to one-half of the adult dose. As with adults, it should only be used for chronic deficiency-type diarrhea in children, never for acute infectious diarrhea. Modern pediatric guidelines suggest that kaolin-type adsorbents are not first-line treatments for childhood diarrhea and should not replace proper rehydration therapy.
+
+### Drug Interactions
+Chi Shi Zhi is a potent adsorbent mineral (similar to pharmaceutical kaolin). When taken orally, it can bind to co-administered medications in the gastrointestinal tract and significantly reduce their absorption. This interaction is pharmacologically well-established for kaolin-group minerals and applies broadly to most oral medications, including but not limited to:
+- Antibiotics: Kaolin minerals have been shown to reduce the bioavailability of co-trimoxazole and quinolone antibiotics.
+- Quinidine and cardiac medications: Studies have demonstrated decreased bioavailability of quinidine sulfate when co-administered with kaolin adsorbents.
+- Anticoagulants and other narrow therapeutic index drugs: Any drug where reduced absorption could be clinically significant.
+To minimize this interaction, oral medications should be taken at least 2 hours before or after Chi Shi Zhi administration.
+
+### Dietary Advice
+When taking Chi Shi Zhi for chronic diarrhea or dysentery, avoid cold, raw, greasy, and hard-to-digest foods, which can aggravate the underlying Spleen deficiency and counteract the herb's astringent effects. Warm, easily digestible foods such as congee (rice porridge), cooked vegetables, and mild soups are recommended. Spicy or stimulating foods should be eaten in moderation. Avoid excessive intake of dairy products if lactose intolerance is contributing to the diarrhea.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Chi Shi Zhi (赤石脂, Halloysitum Rubrum) is not a plant but a naturally occurring clay mineral. It belongs to the halloysite group of the silicate mineral family (多水高岭石族), with the chemical formula Al4(Si4O10)(OH)8·4H2O (hydrated aluminum silicate). Its red coloration comes from a significant iron oxide content, alongside alumina and silica, plus trace elements including titanium, nickel, strontium, and barium.
+In its natural state, Chi Shi Zhi occurs as irregular block-shaped masses within mountain rock formations. The surface color ranges from pinkish-red to deep purplish-red, sometimes showing red and white banding patterns. The texture is fine-grained, soft, and smooth, with a greasy, waxy lustre on broken surfaces. It is notably hygroscopic, and a distinctive quality test is that when touched to the tongue, it adheres strongly. It has a faint earthy smell and a bland taste with no grittiness when chewed.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be mined year-round (全年均可采挖). After extraction, the red, smooth, fat-like pieces are selected and impurities such as stones and soil are removed.
+- **Primary Growing Regions**: Chi Shi Zhi is mined across several provinces in China. The major producing regions include Fujian (especially Yongchun and Dehua), Henan (Yuzhou and Jiyuan), Jiangsu (Wuxi), Shaanxi (Yan'an), Shanxi, Hubei (Xiaogan), and Anhui. Among these, Fujian, Henan, and Shanxi are traditionally considered the primary sources of high-quality material.
+- **Quality Indicators**: High-quality Chi Shi Zhi should be bright red to deep pinkish-red in color, with a smooth, greasy surface and a fine, dense texture. The cross-section should show a waxy lustre with fine, even grain and no visible grit or sand. When touched to the tongue, it should adhere strongly (strong hygroscopic property, a key quality test). It should be soft and easy to break, and when chewed, should feel smooth with no sandy or gritty sensation. The earthy smell should be mild. Avoid pieces that are dull-colored, coarse, gritty, crumbly, or mixed with non-red mineral material.
+
+### Identity & Adulterants
+Chi Shi Zhi can be confused with or adulterated by ordinary red clay or lower-grade kaolin minerals that lack the characteristic smooth, greasy texture and strong hygroscopic properties of genuine Halloysitum Rubrum. Authentic Chi Shi Zhi should feel like soft grease when rubbed between the fingers and should adhere firmly to the tongue when licked. Adulterants are typically coarser, less hygroscopic, may contain sand or grit, and lack the waxy lustre on cross-section. A modern quality test involves measuring moisture absorption rate (吸湿度), which is significantly higher in genuine Chi Shi Zhi compared to substitutes. It should also not be confused with Bai Shi Zhi (白石脂, White Halloysite), which is a related but distinct mineral with somewhat different clinical applications in classical literature.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Chi Shi Zhi is one of five colored mineral fats (五色石脂) recorded in the earliest Chinese pharmacopoeia, the Shen Nong Ben Cao Jing (circa 1st-2nd century CE), where it was classified as a middle-grade substance. The name literally means 'red stone fat' (赤 = red, 石 = stone, 脂 = fat/grease), a reference to its smooth, greasy texture and reddish color. Classical aliases include Chi Fu (赤符, 'red talisman') from the Wu Pu Ben Cao.
+The herb's most iconic classical use comes from Zhang Zhongjing's Shang Han Lun (c. 200 CE), where it appears in two important formulas: Tao Hua Tang (Peach Blossom Decoction) for chronic cold-type dysentery with pus and blood in the stool, and Chi Shi Zhi Yu Yu Liang Tang for intractable diarrhea that does not respond to other treatments. In the Jin Gui Yao Lue, it also appears in Chi Shi Zhi Wan for heart pain radiating to the back from deep cold. Li Gao (Li Dongyuan) of the Jin Dynasty noted its dual ability: "securing the intestines and stomach through its astringent power, and bringing down the placenta without harsh force." Over time, understanding of its channel entry evolved: early sources emphasized the Stomach and Large Intestine, while later commentators such as those in the Ben Cao Jing Shu added the Hand and Foot Shaoyin (Heart and Kidney) channels, reflecting its use in conditions involving the lower burner blood level.
+
+### Modern Scientific Research
+1. **[Prospective Randomized Controlled Study of Hemostatic Efficacy with Kaolin-Impregnated Dressings in Diabetic Foot Ulcers (RCT, 2019)](https://pubmed.ncbi.nlm.nih.gov/31828167/)**
+   *Journal: Hwang YG, Lee JW, Won EA, Han SH. J Diabetes Res. 2019;2019:9316380.*
+   This clinical trial studied kaolin-impregnated wound dressings in diabetic patients on anticoagulants undergoing foot ulcer debridement. The kaolin dressings were found to be safe and effective for achieving hemostasis in these high-risk patients, supporting the traditional hemostatic use of kaolin-group minerals like Chi Shi Zhi.
+
+2. **[New Kaolin-Based Haemostatic Bandage Compared with Manual Compression for Bleeding Control After Percutaneous Coronary Procedures (RCT, 2011)](https://pubmed.ncbi.nlm.nih.gov/21533864/)**
+   *Journal: Trabattoni D, Montorsi P, Fabbiocchi F, Lualdi A, Gatto P, Bartorelli AL. Eur Radiol. 2011;21(8):1687-91.*
+   This randomized trial compared a kaolin-based hemostatic bandage with manual compression after coronary catheterization. The kaolin bandage significantly improved hemostasis time and was found to be a safe and effective alternative to standard compression, demonstrating the procoagulant potential of kaolin minerals.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/chi-shi-zhi](https://www.meandqi.com/knowledge-base/herbs/chi-shi-zhi)*

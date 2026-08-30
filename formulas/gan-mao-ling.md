@@ -1,0 +1,61 @@
+# Gan Mao Ling (感冒灵)
+**English Name**: Cold Relief Formula  
+**Category**: Heat-clearing and toxin-resolving formulas, Exterior-releasing formulas  
+**Dynasty/Source**: Modern proprietary formula (现代中成药), originally developed in Taiwan and first manufactured in mainland China by United Pharmaceutical Manufactory (联合制药厂), Guangzhou, circa 1988  
+**Temperature**: Cool | **Form**: Tablet (Pian)
+
+---
+
+## Summary
+A modern Chinese herbal formula used at the earliest signs of a cold or flu to help the body fight off infection. It works by clearing heat and toxins while dispersing wind from the body's surface, making it especially useful for colds that come with sore throat, mild fever, and nasal congestion.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Clears Heat, Resolves Toxicity, Disperses Wind-Heat, Releases the Exterior, Unblocks the Nasal Passages, Benefits the Throat
+- **Therapeutic Focus**: Cold and Flu Relief, Immune Support, Sore Throat Relief, Respiratory Health
+- **Target Organs**: Lungs, Liver, Stomach
+- **Patterns Addressed**: 
+- **Conditions Treated**: Common Cold, Influenza, Sore Throat, Tonsillitis, Sinusitis, Skin Infection, Viral Conjunctivitis, Upper Respiratory Tract Infections, Measles
+- **Other Names**: 999 Gan Mao Ling (999感冒灵, 999 Cold Relief), Ganmaoling Keli (感冒灵颗粒, Cold Relief Granules), Gan Mao Ling Jiaonang (感冒灵胶囊, Cold Relief Capsules)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Mao Dong Qing** | Pubescent holly root | *King* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Heart, Lungs, Liver, Large Intestine | The primary herb in the formula, comprising the largest proportion. Clears heat, resolves toxins, invigorates Blood, and benefits the throat and Lungs. Its strong heat-clearing and detoxifying actions target the viral and inflammatory aspects of upper respiratory infections. It also has a mild action of tonifying Lung Qi and supporting the body's defensive function. |
+| **San Cha Ku** | Thin Evodia Twig and Leaf | *King* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Lungs, Stomach | Works alongside Gang Mei Gen as a co-King herb. Cold and bitter in nature, it powerfully clears heat and fire, resolves toxins, and dispels wind-dampness. Particularly effective against respiratory viruses and sore throat. Despite being in the Evodia family, it is cold (not warm) and has no relation to the warming herb Wu Zhu Yu. |
+| **Ban Lan Gen** | Isatis root | *Deputy* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Stomach | Reinforces the heat-clearing and toxin-resolving action of the King herbs. Bitter and cold, it drains heat, cools the Blood, and strongly benefits the throat. Well-established in modern Chinese medicine for its broad antiviral activity. Particularly effective for sore, swollen throat and early-stage febrile illness. |
+| **Ye Ju Hua** | Wild chrysanthemum flower | *Assistant* | 6 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart | Wild chrysanthemum flower disperses wind-heat from the exterior and clears Liver fire. It has a stronger heat-clearing and toxin-resolving action than cultivated chrysanthemum (Ju Hua), making it more suitable for toxic heat conditions. Helps with red, irritated eyes and headache accompanying wind-heat invasion. |
+| **Man Jing Zi** | Vitex fruit | *Assistant* | 6 - 9g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Urinary Bladder, Liver, Stomach | Disperses wind-heat, particularly from the head and face. Clears and lightens the head, relieves headache, and benefits the eyes. Helps address the upper body symptoms of wind-heat invasion such as frontal headache, sinus congestion, and red eyes. |
+| **Jin Yin Hua** | Honeysuckle flower | *Assistant* | 6 - 9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Heart, Stomach, Large Intestine | Clears heat and resolves toxins while also venting and dispersing externally contracted wind-heat from the surface. Complements the interior-focused toxin-clearing of the King herbs by adding a surface-releasing component, helping to push the pathogen outward while clearing heat. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. Multiple manufacturers and clinical references explicitly advise against use in pregnancy. The formula contains several bitter-cold herbs (Ban Lan Gen, Ye Ju Hua) that could potentially harm the fetus or upset the mother's digestive function. Mao Dong Qing (Ilex root) has Blood-invigorating properties that raise additional concern. Pregnant women experiencing cold or flu symptoms should consult a qualified practitioner for safer alternatives.
+
+### Breastfeeding
+Use with caution during breastfeeding. While the pure herbal version does not contain known lactation-suppressing ingredients, the formula's cold nature could theoretically affect the nursing infant's digestion through breast milk, potentially causing loose stools. The Blood-invigorating properties of Mao Dong Qing (Ilex root) also warrant caution. If a breastfeeding mother needs to take Gan Mao Ling for an acute cold, short-term use of a few days under practitioner guidance is likely acceptable, but prolonged use should be avoided. Note that versions containing pharmaceutical additives (acetaminophen, chlorpheniramine, caffeine) carry additional concerns and should not be used while breastfeeding without medical advice.
+
+### Children
+Gan Mao Ling tablets can be given to children who are old enough to swallow pills, typically around age 6 and above. Dosage is usually halved for children: approximately 2 tablets three times daily, compared to the adult dose of 3-4 tablets. For very young children (under 6), the formula is generally not recommended in tablet form. Some liquid extract versions are available and may be more appropriate for younger children with the guidance of a qualified practitioner. The cold nature of the herbs means that children with weak digestion should be monitored for stomach upset or loose stools. Duration should be kept short (3-5 days maximum). Always ensure the product used is the pure herbal version and does not contain pharmaceutical additives, which have separate pediatric dosing concerns.
+
+### Drug Interactions
+Critical warning regarding combination products: Many versions of Gan Mao Ling manufactured in China contain acetaminophen (paracetamol), chlorpheniramine maleate, and caffeine. These must never be combined with other acetaminophen-containing drugs due to the risk of liver toxicity. They also interact with warfarin and other blood thinners, sedatives, tranquilizers, and alcohol.
+For the pure herbal formula: Mao Dong Qing (Ilex root) has mild Blood-invigorating properties and should be used with caution alongside anticoagulant or antiplatelet medications (warfarin, heparin, aspirin, clopidogrel), as it may theoretically increase bleeding risk. Ban Lan Gen (Isatis root) has demonstrated immunomodulatory activity in pharmacological studies, so caution is warranted for patients on immunosuppressive therapy. Jin Yin Hua (Honeysuckle flower) may interact with drugs metabolized by cytochrome P450 enzymes, though clinical significance has not been well established. As with all herbal products, patients taking pharmaceutical medications should inform both their prescribing physician and their herbalist.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Every 2-4 hours at first onset of symptoms with warm water, then reduce to 3 times daily as symptoms improve. Best taken between meals.
+- **Typical Duration**: Acute use only: 1-7 days, starting at the very first signs of illness. Discontinue once symptoms resolve or if no improvement after 3 days.
+- **Dietary Advice**: While taking Gan Mao Ling, avoid cold and raw foods (ice cream, cold drinks, raw salads), greasy and fried foods, and dairy products, all of which can generate Phlegm-Dampness and impede the formula's ability to clear Heat and vent the exterior. Avoid alcohol, spicy or heavily seasoned food, and rich meats. Instead, favor light, easily digestible foods such as rice porridge (congee), steamed vegetables, and warm soups. Drinking plenty of warm water helps support the body's natural fever-clearing process. Avoid tonifying or nourishing herbal supplements while taking this formula, as they can trap the pathogen inside the body.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/gan-mao-ling](https://www.meandqi.com/knowledge-base/formulas/gan-mao-ling)*

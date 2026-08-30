@@ -1,0 +1,172 @@
+# Chang Shan (常山)
+**English Name**: Dichroa root  
+**Category**: Emetic herbs (涌吐药)  
+**Scientific Name**: Dichroa febrifuga Lour.  
+**Pharmaceutical Name**: Radix Dichroae  
+**Toxicity**: Toxic  
+**Temperature**: Cold | **Taste**: Bitter (苦 kǔ), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Lungs, Liver, Heart  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+Chang Shan is a powerful and toxic herb that has been used for over two thousand years as China's premier anti-malarial remedy. Its alkaloids are among the most potent natural anti-malarial substances ever discovered. Because it can cause strong nausea and vomiting, it is used with caution, typically in processed form and only in robust patients, never in the weak or elderly.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Malaria Support, Respiratory phlegm conditions, Fever Management
+- **TCM Actions**: Checks Malaria, Induces Vomiting to Expel Phlegm, Clears Heat
+
+### How these actions work
+'Intercepts malaria' (截疟 jié nüè) is the primary and most famous action of Chang Shan. 'Intercepting' means forcefully halting the cyclical pattern of alternating chills and fever characteristic of malaria. In TCM, malaria is understood as a pathogen lodged between the body's interior and exterior (the 'half-exterior, half-interior' level), often entangled with accumulated phlegm. Chang Shan disrupts this cycle by expelling the pathogenic factor and clearing the phlegm that fuels recurrent attacks. This action has been validated by modern pharmacological research showing that its alkaloids (particularly febrifugine/dichroine) have potent anti-malarial activity far exceeding that of quinine.
+'Expels phlegm by inducing vomiting' (涌吐痰涎 yǒng tù tán xián) means that Chang Shan, especially in its raw (unprocessed) form, has a strong upward-driving quality that forcefully pushes accumulated phlegm and fluid out of the chest through vomiting. This was traditionally used for thick, stubborn phlegm lodged in the chest and diaphragm causing fullness, nausea, and inability to eat. This emetic action is powerful and can be harsh on the body, which is why the raw form is rarely used today and wine-processed or vinegar-processed forms are preferred. Pairing with Gan Cao (licorice root) actually intensifies the vomiting effect rather than moderating it.
+'Clears Heat' reflects Chang Shan's cold nature. It can bring down fever, which is particularly relevant in the context of malarial fevers. Modern studies confirm it has significant antipyretic activity. However, because of its toxicity, it is not used as a general Heat-clearing herb and is reserved specifically for malaria and related conditions.
+
+---
+
+## Patterns Addressed
+### Phlegm
+- **Explanation**: In TCM, malaria is classically understood as a pathogen lodged in the Shao Yang (half-exterior, half-interior) level, entangled with accumulated phlegm-fluid. The cyclical alternation of chills and fever reflects the pathogen oscillating between the exterior and interior. Chang Shan's bitter, pungent, and cold nature enables it to penetrate this half-exterior, half-interior zone, forcefully expel the accumulated phlegm that harbors the pathogen, and clear the Heat driving the febrile episodes. Its pungent taste disperses and opens what is blocked, while its bitter taste descends and drains, and its cold nature directly counters the Heat component. This is why it is the premier 'malaria-intercepting' herb in the entire Materia Medica.
+- **Clinical Signs & Symptoms**:
+  - **Excessive Phlegm**: Thick phlegm accumulation in the chest
+  - **Intermittent Fever That Worsens Upon Exertion**: Fever recurring every day, every other day, or every third day
+
+---
+
+## Commonly Used For
+### Malaria
+- **Arises from**: Phlegm
+- **TCM Interpretation**: TCM has recognized malaria (疟疾 nüè jí) for over two thousand years, describing it as a disease caused by a specific malarial pathogen (疟邪) that lodges in the space between the body's interior and exterior. The pathogen interacts with accumulated phlegm and fluid in the body, and the cyclical alternation of chills and fever reflects the struggle between the body's defensive Qi and the pathogen as it oscillates between interior and exterior. When the pathogen moves outward, it conflicts with defensive Qi at the surface, causing chills; when it turns inward, it generates Heat, causing fever. Phlegm accumulation in the chest and Spleen is considered a key factor that allows the disease to persist and recur.
+- **Why it Helps**: Chang Shan directly addresses the core pathomechanism of malaria in TCM. Its cold nature counters the Heat generated during febrile episodes. Its pungent taste disperses and drives the pathogen out from its hiding place between interior and exterior. Its bitter taste drains and expels the accumulated phlegm that harbors the malarial pathogen and perpetuates the cycle. Modern research has confirmed that its alkaloids (febrifugine, isofebrifugine) have extremely potent anti-plasmodial activity, with some alkaloid fractions showing activity up to 100-150 times that of quinine in animal malaria models. Chang Shan is typically combined with herbs like Cao Guo (Tsaoko fruit), Bing Lang (betel nut husk), and Qing Hao (sweet wormwood) to enhance the anti-malarial effect while managing side effects.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5-9g
+- **Maximum Dosage**: Do not exceed 9g in standard decoction. Zhang Xichun historically used up to 15-18g (五六钱) for severe malaria, divided into 5-6 small doses taken gradually, but this requires expert supervision and is not standard practice.
+- **Dosage Notes**: Raw (unprocessed) Chang Shan has the strongest emetic and antimalarial action but also the highest toxicity. Wine-processed (酒常山) or vinegar-processed (醋常山) forms have reduced toxicity and emetic side effects, and are preferred for antimalarial use, though their efficacy is also reduced. For phlegm accumulation with chest oppression, smaller doses (around 3-5g) may be combined with Gan Cao and honey to induce controlled vomiting (an older technique now rarely used). For malaria (截疟), the standard approach uses the processed form at 5-9g, often in combination with Zhi Mu, Bei Mu, Cao Guo, and Bing Lang in the classic formula Chang Shan Yin. Zhang Xichun recommended dividing the total dose into multiple small servings taken gradually (徐徐温饮) to avoid emesis while maintaining efficacy.
+- **Preparation**: When used in decoction for malaria, Chang Shan is traditionally soaked in wine overnight before decocting, or the finished decoction has a spoonful of aged wine (陈酒) added near the end of cooking. This wine preparation helps moderate the emetic action. The decoction is classically taken cold or at room temperature, often the morning before meals, and traditionally left out overnight under the stars (露星月一宿) before drinking — a ritual associated with malaria formulas. When used raw for its emetic action (涌吐), it is simply decocted without special processing.
+
+---
+
+## Processing Methods
+### Ji&#x1D4; Ch&#xE1;ng Sh&#x101;n (&#x9152;&#x5E38;&#x5C71;)
+- **Processing Method**: Chang Shan slices are mixed with rice wine (huangjiu), allowed to soak until the wine is absorbed, then stir-fried over low heat until dry. Standard ratio: 10kg rice wine per 100kg of herb slices.
+- **How it Changes Properties**: Wine processing moderates the herb's harshly ascending, emetic quality. The thermal nature remains cold but the action becomes somewhat milder. The upward-driving, vomit-inducing force is reduced, while the malaria-intercepting action is preserved. Toxicity is also reduced compared to the raw form. Alkaloid content decreases (approximately 1.4-1.9 times lower than raw), so larger doses may be needed.
+- **When to Use**: The preferred form when the goal is malaria treatment (intercepting malaria) rather than inducing vomiting. This is the most commonly used processed form in clinical practice. Used in formulas like Jie Nue Qi Bao Yin.
+
+### C&#xF9; Ch&#xE1;ng Sh&#x101;n (&#x918B;&#x5E38;&#x5C71;)
+- **Processing Method**: Chang Shan slices are mixed with rice vinegar and stir-fried in the same manner as wine processing. Standard ratio: 10-20kg rice vinegar per 100kg of herb slices.
+- **How it Changes Properties**: Vinegar processing reduces the emetic effect and redirects the herb's action toward resolving masses and stagnation (化痞). As classical sources note, vinegar-processed Chang Shan 'resolves masses without causing vomiting.' The vinegar also helps constrain the herb's ascending tendency and guides it toward the Liver channel.
+- **When to Use**: Used when the clinical focus is on resolving phlegm masses and stagnation (痞结) rather than intercepting malaria or inducing vomiting. Appropriate for cases where the patient cannot tolerate the raw herb's emetic effect.
+
+### Ch&#x1CE;o Ch&#xE1;ng Sh&#x101;n (&#x7092;&#x5E38;&#x5C71;)
+- **Processing Method**: Raw Chang Shan slices are dry-fried over low heat until the color deepens, then removed and cooled.
+- **How it Changes Properties**: Dry-frying reduces both the toxicity and the emetic side effect. Among all processing methods, dry-frying produces the lowest alkaloid content and the greatest reduction in toxicity (5.5-7.5 times less toxic than raw), but also the greatest reduction in therapeutic potency.
+- **When to Use**: Used when a milder preparation is needed for weaker patients who are still robust enough to tolerate the herb, or when a less aggressive anti-malarial effect is acceptable.
+
+---
+
+## Common Herb Pairs
+### Bing Lang (Ratio: 1:1 (equal parts))
+- **Description**: Chang Shan expels phlegm upward and intercepts the malarial cycle, while Bing Lang drives downward to break up food stagnation and phlegm accumulation in the Spleen. Together, they address phlegm from both above and below, preventing the phlegm from simply being driven in one direction. Bing Lang's descending nature also helps counteract Chang Shan's tendency to cause vomiting.
+- **When to Use**: Malaria with significant phlegm accumulation, particularly in formulas like Jie Nue Qi Bao Yin. Used when there is chest fullness, nausea, and cyclical fevers.
+
+### Cao Guo (Ratio: 1:1 (equal parts))
+- **Description**: Chang Shan is cold and targets hot phlegm and heat-type malaria, while Cao Guo is warm, aromatic, and powerfully dries dampness and dispels cold. Together they cover both the heat and dampness aspects of malarial illness and can treat a wider range of malaria types, including damp-cold malaria and miasmic (瘴) malaria.
+- **When to Use**: Malaria with both heat and dampness components, or malarial fevers in tropical/subtropical environments where dampness is a major factor. This pair forms the core of Jie Nue Qi Bao Yin.
+
+### Bie Jia (Ratio: 1:1 (Chang Shan 30g : Bie Jia 30g))
+- **Description**: Chang Shan clears Heat, expels phlegm, and intercepts malaria, while Bie Jia (soft-shelled turtle shell) nourishes Yin, subdues Yang, and softens hardness. Together, they address chronic malaria that has formed a 'malaria mother' (疟母), a palpable abdominal mass resulting from long-standing disease with Yin deficiency and blood stasis combined with phlegm accumulation.
+- **When to Use**: Chronic, long-standing malaria that has not resolved, with palpable masses under the ribs (splenomegaly), Yin deficiency signs, and lingering low-grade fevers.
+
+### Gan Cao (Ratio: 8:1 (Chang Shan 120g : Gan Cao 15g, as per the Bu Que Zhou Hou Fang))
+- **Description**: Paradoxically, this pairing intensifies rather than moderates Chang Shan's emetic action. Together they forcefully induce vomiting to expel stubborn phlegm and fluid accumulated in the chest. This is a classical emetic (涌吐) combination rather than a harmonizing one.
+- **When to Use**: When the therapeutic goal is specifically to induce vomiting to clear thick phlegm blocking the chest and diaphragm. This is an older application that is rarely used in modern practice.
+
+---
+
+## Key Formulas
+Jie Nue Qi Bao Yin, Sheng Bai Wan, Dan Shen Yin
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Toxic
+The principal toxic constituents are the quinazolinone alkaloids: dichroine alpha (常山碱甲), dichroine beta/febrifugine (常山碱乙), and dichroine gamma/isofebrifugine (常山碱丙). These alkaloids stimulate vagal and sympathetic nerve endings in the gastrointestinal tract, reflexively inducing severe nausea and vomiting. Ingestion of as little as 10g of the dried root can cause toxicity.
+Toxicity symptoms include: nausea, vomiting, abdominal pain, diarrhea, bloody stool, gastrointestinal mucosal hemorrhage, palpitations, cardiac arrhythmia, hypotension, cyanosis, and in severe cases circulatory collapse and death. Chronic administration causes liver degeneration and kidney damage in animal models. The oral LD50 of dichroine beta in mice is approximately 6.57 mg/kg, roughly 150 times more toxic than quinine.
+Processing with wine (酒制) or vinegar (醋制) reduces the alkaloid content and toxicity by 5.5 to 7.5 times compared to the raw herb, though it also reduces antimalarial efficacy. Zhang Xichun advocated using small raw doses divided into multiple servings rather than relying on processing, as this preserved efficacy while limiting emesis.
+
+### Contraindications
+- **[Caution]** Spleen and Stomach deficiency with poor digestion. Chang Shan's bitter-cold nature and strong emetic properties can severely aggravate nausea, vomiting, and gastrointestinal distress in patients with weak digestion.
+- **[Caution]** Use with Gan Cao (licorice root). Classical sources note that combining Chang Shan with Gan Cao invariably induces vomiting.
+- **[Caution]** Children. Due to its toxicity and strong emetic action, use in children requires extreme caution and significantly reduced dosage under strict practitioner supervision.
+- **[Caution]** Excessive or prolonged use. Even in otherwise appropriate patients, large doses or extended courses increase the risk of gastrointestinal mucosal damage, bleeding, hypotension, and cardiac arrhythmia.
+
+### Classical Incompatibilities
+Chang Shan does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, classical dietary prohibitions state that Chang Shan should not be taken with scallions (葱) or Chinese cabbage (菘菜). Additionally, combining it with Gan Cao (甘草, licorice) is noted to invariably cause vomiting, though this is a clinical caution rather than a formal incompatibility listing.
+
+### Special Populations
+- **Pregnancy**: Contraindicated. Pharmacological studies show that Chang Shan alkaloids (dichroine alpha, beta, and gamma) stimulate uterine contractions in pregnant rabbits and rats. The effect on pregnant uterus is comparable to equivalent doses of quinine. The herb's strong emetic action and gastrointestinal toxicity pose additional risks during pregnancy. All classical and modern Chinese materia medica sources list pregnancy as a contraindication (孕妇忌用).
+- **Breastfeeding**: No specific safety data exists for the use of Chang Shan during breastfeeding. Given the herb's known toxicity, the presence of alkaloids that are rapidly absorbed and distributed to multiple organs, and the lack of data on transfer into breast milk, it should be avoided during breastfeeding. The strong emetic and gastrointestinal effects in the mother also make it unsuitable during this period.
+- **Children**: Chang Shan is generally not recommended for children due to its toxicity and strong emetic action. If used under strict practitioner supervision for severe conditions, dosage must be substantially reduced according to the child's age and weight. Classical sources specifically warn against use in those with weak constitutions, which includes most young children.
+
+### Drug Interactions
+Antihypertensive medications: Chang Shan alkaloids lower blood pressure through vasodilation and cardiac suppression in animal studies. Concurrent use with antihypertensive drugs may cause excessive hypotension.
+Cardiac glycosides and antiarrhythmic drugs: The herb's alkaloids can suppress cardiac function and cause arrhythmia. Combined use with drugs such as digoxin or antiarrhythmic agents may increase the risk of cardiac adverse effects.
+Anticoagulant and antiplatelet medications: At toxic doses, Chang Shan can cause gastrointestinal mucosal hemorrhage. Patients on warfarin, heparin, or antiplatelet drugs face increased bleeding risk.
+Hepatotoxic and nephrotoxic drugs: Given the herb's potential for liver and kidney damage, concurrent use with other hepatotoxic or nephrotoxic medications should be avoided.
+
+### Dietary Advice
+Classical dietary prohibitions specify that scallions (葱) and Chinese cabbage (菘菜, Song Cai) should be avoided while taking Chang Shan. Hot tea should also be avoided on the day of taking the herb, particularly when used for malaria. Warm rice porridge (温粥) is recommended at midday after taking the medicine. In general, cold, raw, greasy, and hard-to-digest foods should be avoided to reduce gastrointestinal irritation, given the herb's inherent tendency to cause nausea and vomiting.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Dichroa febrifuga Lour. is a deciduous shrub in the Hydrangeaceae (formerly placed in Saxifragaceae) family, growing 0.4 to 2 meters tall. The stems are erect, round, and green, sometimes tinged purple, with short yellowish hairs when young and prominent nodes. The branches are cylindrical or slightly four-angled, becoming hairless with age. The leaves are opposite, elliptic to obovate, with serrate margins.
+The plant bears small light-blue to purple flowers in terminal or axillary cymes, followed by blue-colored berries. The medicinal root is thick, cylindrical, often curved and twisted (described classically as resembling chicken bones), woody, with greyish-brown to yellowish-brown bark and a yellow cross-section. It grows naturally in shaded, moist mountain forests, along streams, and in ravines at elevations of 900 to 2,400 meters, and is also cultivated under forest canopy.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (秋季). The roots are dug up, cleared of fibrous rootlets, washed, and sun-dried.
+- **Primary Growing Regions**: The best quality (dao di yao cai) Chang Shan comes from Sichuan (四川) and Guizhou (贵州) provinces. It is also produced in Hunan, Hubei, Guangxi, Yunnan, Jiangxi, Fujian, Guangdong, Shaanxi, and Anhui provinces. The plant is distributed more broadly across southern China and parts of Southeast Asia (Vietnam, Myanmar, India, the Philippines), but the Sichuan and Guizhou sources are traditionally considered superior.
+- **Quality Indicators**: Good quality Chang Shan root is cylindrical, often curved and twisted, with a form classically described as resembling chicken bones (hence the alias Ji Gu Chang Shan, 鸡骨常山). The outer bark should be brownish-yellow with fine vertical striations. The root should be hard and firm, not easily broken. When snapped, it produces a clean break with powdery dust. The cross-section should be yellowish-white with clearly visible whitish radial ray lines in a spoke-like pattern. It should be virtually odorless, with a slightly bitter taste. Roots that are firm, solid (not hollow), and show a pale yellow cross-section are considered superior quality. Material listed in the Chinese Pharmacopoeia should meet standards for morphological identification and tissue powder characteristics.
+
+### Identity & Adulterants
+Chang Shan (常山, Dichroa febrifuga) should not be confused with Hai Zhou Chang Shan (海州常山, Clerodendrum trichotomum), which belongs to an entirely different plant family (Lamiaceae/Verbenaceae). Hai Zhou Chang Shan is used to treat hypertension and has completely different chemistry and indications. The two share the name "Chang Shan" but are unrelated botanically and pharmacologically. Authentic Chang Shan can be identified by its characteristic chicken-bone-like twisted root morphology, hard woody texture with powdery fracture, and yellowish-white cross-section with distinct radial lines. Shu Qi (蜀漆), the leaf and young branch of the same plant, is a related but distinct medicinal product with stronger emetic properties.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 常山，味苦，寒。主伤寒寒热，温疟，鬼毒，胸中痰结，吐逆。一名互草。生川谷。
+- **Translation**: Chang Shan is bitter in flavor and cold in nature. It governs Cold Damage with alternating cold and heat, warm malaria, malign toxins, phlegm accumulation in the chest, and vomiting. It has the alternate name Hu Cao. It grows in river valleys.
+
+### Historical Context
+Chang Shan is one of the oldest recorded antimalarial herbs in Chinese medicine. It was first documented in the Shen Nong Ben Cao Jing (circa 1st–2nd century CE), where it was classified as a "lower grade" (下品) herb — indicating potent but potentially dangerous therapeutic action. Its species name febrifuga, coined by the Portuguese Jesuit naturalist João de Loureiro in his 1790 Flora Cochinchinensis, literally means "fever-dispelling," reflecting its principal use. According to one traditional account, the herb was named after a monk from Changshan who discovered its medicinal properties.
+The leaf of the same plant, known as Shu Qi (蜀漆), has been used interchangeably with the root since ancient times, though classically considered somewhat stronger in emetic action. In the 1940s, Chinese pharmacologists Jang Chong-su and colleagues at the National Medical College of Shanghai isolated the active alkaloids (dichroines/febrifugine) and demonstrated their potent antimalarial effects, making this one of the earliest instances of modern pharmacological validation of a classical Chinese herb. This research paralleled the wartime search for antimalarial agents and drew international scientific attention. The synthetic derivative halofuginone, developed in the 1960s, has since found wide application in veterinary medicine and is under investigation for cancer, fibrosis, and autoimmune diseases.
+
+### Modern Scientific Research
+1. **[Molecular mechanism study: Halofuginone and other febrifugine derivatives inhibit prolyl-tRNA synthetase (2012)](https://pubmed.ncbi.nlm.nih.gov/22327401/)**
+   *Journal: Keller TL, Zocber D, Dubber E, et al. Nature Chemical Biology, 2012, 8(3): 311-317.*
+   This landmark study revealed the molecular target of febrifugine and its derivative halofuginone for the first time. The researchers showed that these compounds bind to glutamyl-prolyl-tRNA synthetase (EPRS), inhibiting its prolyl-tRNA synthetase activity. This inhibition activates the amino acid response (AAR) pathway, which underlies the broad bioactivities of this compound family, including anti-inflammatory and antimalarial effects. The inhibition could be reversed by adding exogenous proline.
+
+2. **[Review: Dichroa febrifuga Lour. — botany, traditional use, phytochemistry, pharmacological activities, toxicology, and progress in reducing toxicity (2024)](https://pubmed.ncbi.nlm.nih.gov/38537842/)**
+   *Journal: Journal of Ethnopharmacology, 2024, 328: 118057.*
+   This comprehensive review summarized current knowledge on Chang Shan, identifying over 30 chemical compounds (alkaloids, terpenoids, flavonoids). It confirmed that the alkaloids are both the basis of efficacy and the source of toxicity, capable of causing multiple organ damage including liver, kidney, and heart. Methods to reduce toxicity include structural modification, traditional processing, and dosage form changes.
+
+3. **[Review: Prospects of halofuginone as an antiprotozoal drug scaffold (2022)](https://pubmed.ncbi.nlm.nih.gov/35636724/)**
+   *Journal: Wu J, Hollinger J, Bonanno E, Jiang F, Yao P. Cells, 2023, 13(1): 35.*
+   This review examined halofuginone, the synthetic derivative of febrifugine from Chang Shan, as an antiprotozoal agent. Halofuginone has reduced toxic side effects compared to the parent compound and has progressed to commercial veterinary use and human clinical trials for tumors and fibrosis. The review covers its mechanism of action through inhibition of prolyl-tRNA synthetase and its efficacy against malaria, coccidiosis, cryptosporidiosis, toxoplasmosis, and leishmaniasis.
+
+4. **[Review: The chemistry and biology of febrifugine and halofuginone (2014)](https://pubmed.ncbi.nlm.nih.gov/24650700/)**
+   *Journal: McLaughlin NP, Evans P, Pines M. Bioorganic & Medicinal Chemistry, 2014, 22(7): 1993-2004.*
+   This review traced the history of febrifugine from its isolation from Dichroa febrifuga through to structural elucidation and the synthesis of halofuginone. It summarized the antimalarial structure-activity relationships of various febrifugine analogues and detailed halofuginone's anti-fibrotic activity through inhibition of Smad3 phosphorylation downstream of the TGF-beta signaling pathway.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/chang-shan](https://www.meandqi.com/knowledge-base/herbs/chang-shan)*

@@ -1,0 +1,211 @@
+# ภาวะนอนไม่หลับมากเกินไป (多寐)
+**คำอ่านพินอิน**: duō mèi | **ประเภท**: Condition | **หมวดหมู่**: ความเหนื่อยล้าและพลังงานต่ำ, ปัญหาการนอนหลับ  
+**ชื่อเรียกอื่นๆ**: Somnolence, Excessive Sleepiness, Desire To Sleep, Sleepiness, Sleepy, Urge To Sleep, Feeling Sleepy, Lethargic And Withdrawn State, Lethargy, Drowsiness and desire to sleep constantly, Drowsiness and excessive sleepiness, Drowsiness and excessive sleeping, Drowsiness or excessive desire to sleep, Drowsiness or excessive sleepiness, Fatigue and Drowsiness, Desire to sleep constantly or drowsiness, Fatigue And Desire To Sleep, Tiredness and drowsiness, Desire to Lie Down and Sleep, Constant desire to sleep or drowsiness, Low energy and desire to sleep, Yawning and Drowsiness, Drowsiness and Mental Cloudiness, Drowsiness or mental cloudiness, Muzzy or drowsy feeling, Excessive sleepiness or mental fogginess, Sleepiness and mental sluggishness | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ประเภทของการง่วงนอนที่คุณรู้สึกเป็นสัญญาณบ่งบอกถึงความไม่สมดุลที่ซ่อนอยู่ อาการง่วงนอนที่หนักหน่วงและมีหมอกหนาชี้ไปที่ความชื้น ในขณะที่อาการอ่อนเพลียอย่างหนาวจัดบ่งบอกถึงการขาดหยาง ความชื้นผ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Western medicine defines hypersomnia as excessive daytime sleepiness despite adequate nighttime sleep, or prolonged sleep duration with difficulty waking. It can be primary (idiopathic hypersomnia, narcolepsy) or secondary to conditions like sleep apnea, depression, or medication side effects. Diagnosis typically involves sleep studies, the Epworth Sleepiness Scale, and ruling out other disorders.
+
+### การรักษาหลัก (Treatments)
+Conventional treatment often involves stimulant medications such as modafinil, methylphenidate, or amphetamines to promote wakefulness. Lifestyle modifications, scheduled naps, and treating underlying conditions (like CPAP for sleep apnea) are also standard. However, these approaches primarily manage symptoms rather than addressing why sleepiness occurs in the first place.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, alertness depends on clear Yang rising to the head and invigorating the mind. When that ascent is blocked - by a fog of dampness and phlegm, or by a deep cold that dims the body's internal fire - the result is a heavy, irresistible desire to sleep. The organs most involved are the Spleen, Heart, and Kidney, and the problem is rarely just "being tired." It's a sign that the body's lifting, warming, and clarifying functions have stalled.
+The Spleen is meant to transform food and fluids into clear Qi that rises to the brain. When the Spleen is weak or overwhelmed by rich, damp-producing foods, turbid dampness collects like a wet blanket in the middle burner. This fog presses upward, causing a heavy head, mental cloudiness, and a constant urge to close the eyes. The tongue becomes swollen with a greasy coating, and the pulse feels slippery - classic signs of Turbid Dampness obstructing the Middle Burner.
+When the sleepiness is less about heaviness and more about a deep, cold exhaustion, the root lies in Yang deficiency. Heart Yang is the warm, active force that keeps the spirit alert; Kidney Yang is the pilot light for the entire body. If either grows weak, the mind feels unlit and the body cold.
+Heart Yang Deficiency brings mental fog and palpitations, while Kidney Yang Deficiency adds sore lower back and knees. In the most extreme case, Lesser Yin Cold Transformation, the body's foundational warmth is nearly exhausted, and the person curls up in a profound, bone-chilling sleep.
+This is why one Western diagnosis of hypersomnia can have multiple TCM causes. The same symptom - excessive sleepiness - can arise from dampness clogging the system, from a failing Heart fire, or from a deep Kidney cold. Each requires a fundamentally different treatment strategy, which is why a TCM practitioner will spend so much time understanding the exact quality of your tiredness, your temperature, your digestion, and your tongue.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A practitioner first asks whether the sleepiness feels heavy and foggy, like a wet blanket over the head, or more like a deep, cold exhaustion that no amount of rest can fix. The quality of the tiredness and the presence of coldness or digestive trouble are the first clues that separate dampness patterns from Yang deficiency patterns.
+If the main complaint is a heavy, muzzy head, a sticky mouth, and a sense of fullness in the chest or belly, the picture points to Turbid Dampness obstructing the Middle Burner. The tongue will be swollen with a thick, greasy coating, and the pulse will feel slippery. These signs confirm that phlegm and dampness are clouding the Spleen’s ability to raise clear Qi to the head.
+When the sleepiness comes with a cold body, mental fog, and a feeling that the heart is not quite “switched on,” Heart Yang Deficiency is likely. The person may feel palpitations or shortness of breath on mild exertion. The tongue looks pale and puffy, and the pulse is weak and slow, especially at the left front position where the Heart is felt.
+If the whole body feels drained, cold, and the lower back and knees ache, Kidney Yang Deficiency is the root. This pattern often brings frequent, clear urination and a deep, weak pulse that feels almost hidden.
+The most severe cold pattern, Lesser Yin Cold Transformation, looks similar but more extreme: the person is listless, lies curled up, and has a profound desire just to sleep. Here the tongue is pale and moist, and the pulse is deep and faint.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「湿胜则濡泻，甚则水闭胕肿，湿气胜者为著痹，湿胜则阳微，故多卧。」
+> 
+> **คำแปลภาษาอังกฤษ**: "When dampness prevails, it causes soggy diarrhea, and in severe cases, water retention and swelling. Dampness prevailing causes fixed bi-syndrome; when dampness prevails, yang becomes faint, hence the tendency to sleep a lot."
+> 
+> — แหล่งที่มา: *Huang Di Nei Jing (Su Wen)  ,  Chapter 23 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Turbid Dampness obstructing the Middle Burner
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/turbid-dampness-obstructing-the-middle-burner)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Head feels heavy or wrapped in a fog, Body feels heavy and limbs are tired, Poor appetite with a sticky taste in the mouth, Thick, greasy white coating on the tongue, Stuffy and full sensation in the upper belly
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Damp or rainy weather, Overeating or heavy meals, Greasy, sweet, or dairy-rich foods, Raw, cold foods and iced drinks, Sedentary lifestyle
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm, dry weather, Gentle movement or light exercise, Warm, cooked foods and meals, Warm ginger tea, Avoiding heavy, greasy foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen is meant to transform food and fluids into clear, uplifting Qi that keeps the mind alert. When it weakens under the weight of dampness, that process stalls. Turbid dampness then collects like a thick fog in the middle burner, clogging the body and clouding the head.
+This heaviness presses downward, making the limbs feel like lead and the head feel wrapped in cotton. The mind becomes dull and drowsy, and the urge to sleep becomes overwhelming, especially after meals or in humid weather.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen body with teeth marks; thick, white, greasy coating, especially in the centre. Pulse: soggy (Ru) and moderate (Huan), possibly slippery (Hua).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Dampness is a heavy, sticky pathogen that thrives in cold, wet environments and feeds on rich, hard-to-digest foods. When it accumulates, it smothers the Spleen’s ability to transform and transport, creating a fog that weighs down the body and mind. Warmth, dryness, and gentle movement help to evaporate and move this dampness, while cold, stillness, and damp-producing foods allow it to pool and thicken. By keeping the internal environment warm and active, the Spleen can resume its job of lifting clear Qi to the head, restoring alertness.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid damp-producing foods: dairy, greasy or fried items, sweets, and cold or raw foods. Eat warm, cooked, easily digestible meals like congee, soups, and steamed vegetables. Incorporate barley, adzuki beans, and a little fresh ginger to help dry dampness. Gentle daily movement like walking or stretching is essential to keep Qi moving and prevent dampness from settling. Avoid lying down immediately after eating.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ping Wei San](https://www.meandqi.com/knowledge-base/formulas/ping-wei-san)** | Calm the Stomach Powder &#xB7; S&#xF2;ng dynasty, ~1051 CE | Warm, Dries Dampness, Strengthens the Spleen, Moves Qi | The primary formula to dry dampness, strengthen the Spleen, and clear the turbid obstruction from the middle burner. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Powerfully dries dampness and strengthens the Spleen, targeting the root of the turbid accumulation. |
+| **[Hou Po](https://www.meandqi.com/knowledge-base/herbs/hou-pu)** | Magnolia bark |  | Moves Qi and relieves the epigastric stuffiness and bloating caused by dampness. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Leaches out dampness through urination and supports the Spleen&#x27;s transforming function. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Front Mu point of the Stomach, harmonizes the middle burner and resolves dampness. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach, boosting the body&#x27;s ability to transform dampness. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Sea point of the Spleen, a key point to drain dampness from the body. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | Luo-connecting point of the Stomach, transforms phlegm and clears turbid dampness from the head. |
+
+---
+
+### Heart Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/heart-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Constant desire to sleep yet not refreshed by it, Mental cloudiness and listlessness, Palpitations that worsen with exertion, Cold hands and feet, feeling chilly, Bright pale face and possibly purplish lips, Shortness of breath on activity
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold weather or exposure to cold, Overexertion or heavy physical work, Raw, cold foods and iced drinks, Emotional shock or prolonged worry
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth and cozy environment, Gentle movement or light exercise, Warm, cooked foods and meals, Rest and avoiding overexertion
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Heart Yang is the warm, active force that keeps the spirit alert and the mind clear. When it becomes deficient, the Heart can no longer rouse the mind, so a person feels mentally foggy, listless, and constantly drawn to sleep. At the same time, the chest feels stuffy and the body turns cold because Yang is too weak to circulate blood and warmth.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with teeth marks and a white slippery coating. Pulse: deep and weak, especially faint at the left cun (Heart) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold consumes Yang, so a warm environment and warm foods directly support the Heart’s dwindling fire. Overexertion and heavy exercise further deplete the already weak Yang, while gentle movement and rest conserve it. Emotional shocks and chronic worry scatter the Heart Qi, making the spirit even more unsettled and prone to retreat into sleep.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Emphasize warm, cooked foods like soups, stews, and congees. Add gentle warming spices such as cinnamon, ginger, and a little black pepper. Avoid raw, cold, and icy foods and drinks, which further drain Yang. Gentle daily movement like walking or tai chi helps circulate Qi without exhausting the Heart.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | Warms Heart Yang, anchors the spirit, and calms palpitations while gently dispelling internal cold. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms and unblocks Heart Yang to dispel cold and invigorate the spirit. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Strongly tonifies Yang and restores the Heart&#x2019;s warming function in deeper deficiency. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the spirit and directly supports the Heart in maintaining alertness. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Regulates Heart Qi and relieves chest stuffiness. |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Lifts clear Yang to the head to clear mental fog. |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Tonifies Heart Yang and strengthens the Heart&#x2019;s ability to house the mind. |
+
+---
+
+### Kidney Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Feeling cold all over, worse in the lower body, Cold and aching lower back and knees, Frequent urination, especially at night, Low energy and desire to sleep, Pale or dark complexion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold weather or exposure to cold, Raw, cold foods and iced drinks, Overexertion or heavy physical work, Prolonged standing, Excessive sexual activity
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Applying warmth to the lower back, Warm, cooked foods and meals, Moxibustion, Rest and avoiding overexertion, Gentle movement or light exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Kidney Yang is the body's pilot light - the root of all warmth, drive, and vitality. When it runs low, the whole system goes into a kind of hibernation: you feel cold to the bone, your energy sinks, and an overwhelming desire to sleep takes over. The spirit (Shen) isn't being fired up, so mental fog and lethargy set in. Nighttime urination further fragments sleep, leaving you exhausted all day.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with teeth marks, wet white coating. Pulse: deep, slow, and weak, especially at the Chi (Kidney) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Yang is like a dwindling flame - cold environments, cold foods, and overwork snuff it out further, deepening the chill and fatigue. Warmth, moxibustion, and cooked foods gently feed that fire, while rest and gentle movement preserve the little Yang you have, preventing it from burning out completely.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep your lower back and abdomen warm at all times, and favor warm, cooked foods like soups and stews. Avoid cold, raw, or frozen foods and drinks. Gentle daily movement - a short walk, not a marathon - helps keep Qi flowing without draining your reserves. Prioritize rest and avoid overwork, especially late at night.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[You Gui Wan](https://www.meandqi.com/knowledge-base/formulas/you-gui-wan)** | Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire | The primary formula to warm and tonify Kidney Yang, restoring the body&#x27;s vital fire and dispelling internal cold. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Warms the Gate of Life and ignites the body&#x27;s fire. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Strongly warms Kidney Yang and dispels deep cold. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Yang; use with moxibustion. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Warms the Gate of Life and strengthens the body&#x27;s core fire; moxibustion is essential. |
+
+---
+
+### Lesser Yin Cold Transformation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/lesser-yin-cold-transformation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Constant desire to sleep or drowsiness, Ice-cold hands and feet, Severe chills with curling up in bed, Diarrhea with undigested food, No thirst, preference for warm drinks
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold weather or exposure to cold, Raw, cold foods and iced drinks, Overexertion or heavy physical work, Emotional shock or prolonged worry
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth on the abdomen, Warm, cooked foods and meals, Rest and avoiding overexertion, Moxibustion, Warm ginger tea
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Lesser Yin stage represents a deep, interior cold state where the body's foundational Yang is nearly exhausted. Without enough Yang to rise and invigorate the mind, the person feels an overwhelming, constant desire to sleep, often curling up to conserve heat. This is not simple tiredness but a profound shutdown of the body’s warming and activating energy, leaving the spirit dim and the limbs ice-cold.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with tooth marks and a white slippery coating. Pulse: fine (细 xì), faint (微 wēi), deep (沉 chén) and slow (迟 chí).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: This pattern is a profound Yang deficiency with interior Cold. Cold exposure and raw foods further deplete the already weak Yang, deepening the cold and worsening sleepiness. Warmth, warm foods, and rest conserve the body's last reserves of Yang, allowing it to slowly rise and invigorate the spirit. Moxibustion directly adds Yang Qi to the body, countering the deep cold.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat only warm, cooked foods; avoid raw, cold, or iced items entirely. Add warming spices like ginger, cinnamon, and cloves to meals. Keep the body warm, especially the lower back and abdomen, and consider using a hot water bottle. Gentle moxibustion at home on the lower abdomen can help restore Yang. Avoid overexertion; rest is essential to conserve the little Yang that remains.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Si Ni Tang](https://www.meandqi.com/knowledge-base/formulas/si-ni-tang)** | Frigid Extremities Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Kidney Yang | The classic formula for Lesser Yin Cold Transformation, it rescues devastated Yang and expels interior Cold. |
+| **[Ping Wei San](https://www.meandqi.com/knowledge-base/formulas/ping-wei-san)** | Calm the Stomach Powder &#xB7; S&#xF2;ng dynasty, ~1051 CE | Warm, Dries Dampness, Strengthens the Spleen, Moves Qi | A foundational formula for resolving dampness that has accumulated in the digestive system. It is used when dampness obstructs the Spleen and Stomach, causing bloating, loss of appetite, nausea, a bland taste in the mouth, heavy limbs, fatigue, and loose stools. It works by drying dampness, restoring the Spleen&#x27;s digestive function, and promoting the smooth flow of Qi in the abdomen. |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | A classical formula for people experiencing anxiety, palpitations, excessive sweating, insomnia with vivid dreams, or urinary issues stemming from a general state of depletion where the body can no longer properly contain its vital substances. It works by gently warming and rebalancing the body while calming the mind and helping the body hold onto what it is losing. |
+| **[You Gui Wan](https://www.meandqi.com/knowledge-base/formulas/you-gui-wan)** | Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire | A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation. |
+| **[Si Ni Tang](https://www.meandqi.com/knowledge-base/formulas/si-ni-tang)** | Frigid Extremities Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Kidney Yang | A classical emergency formula used to rescue failing Yang and reverse dangerous cold in the body. It is designed for situations where the body&#x27;s warming function has severely declined, causing ice-cold limbs, extreme fatigue, watery diarrhea, and a barely detectable pulse. In modern practice, it is applied alongside conventional care for conditions like shock and heart failure when there are clear signs of Yang collapse. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome |  | Warms the Spleen and Stomach, dispels Cold, and stops diarrhea with undigested food. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Strongly warms the body&#x27;s Yang, rescues devastated Yang, and dispels interior Cold. |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+| **[Hou Po](https://www.meandqi.com/knowledge-base/herbs/hou-pu)** | Magnolia bark | Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig | Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi |  |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome | Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Moxa. Tonifies Kidney Yang and expels Cold. |
+| **REN-8** | [Shenque REN-8](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/shenque-ren-8) | Sh&#xE9;n Qu&#x113; | Warms and rescues the Yang, Strengthens the Spleen | Moxa with salt. Warms the center, restores Yang, and stops diarrhea. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa. Strengthens original Yang and dispels interior Cold. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### How does acupuncture help with excessive sleepiness?
+Acupuncture works by stimulating specific points that either drain dampness and phlegm or strengthen Yang energy. For dampness patterns, points like Fenglong ST-40 and Yinlingquan SP-9 help clear the fog; for Yang deficiency, moxibustion on Mingmen DU-4 or Shenque REN-8 adds warmth to the body's core. Most patients feel a subtle but noticeable increase in mental clarity after the first few sessions.
+
+### Can I take Chinese herbs with my stimulant medication?
+It's generally possible, but you must coordinate with both your TCM practitioner and prescribing doctor. Some herbs that warm Yang (like Fu Zi) can potentially interact with stimulants or affect blood pressure. Never stop your medication abruptly - if your energy improves, your doctor can guide a gradual taper. Always bring a full list of medications to your TCM consultation.
+
+### I've been sleepy my whole life - can TCM still help?
+Yes. Lifelong sleepiness often points to a constitutional weakness in the Spleen or Kidney Yang, which TCM is particularly good at strengthening over time. While the change may be gradual, many patients find that after a few months of consistent herbs and dietary adjustments, they no longer need naps to get through the day and feel a genuine sense of vitality they've never experienced before.
+
+### What foods should I avoid if I have hypersomnia?
+The main culprits are damp-producing foods: dairy, sugar, cold or raw foods, and greasy, fried items. These weigh down the Spleen and create more internal fog. Instead, favor warm, cooked meals like soups and stews with ginger, and avoid eating within two hours of bedtime to prevent overnight stagnation.
+
+### Is there a difference between feeling sleepy after eating and being sleepy all day?
+Yes, and it's a crucial clue. Post-meal sleepiness often indicates Spleen Qi deficiency with dampness, because the Spleen is overwhelmed by the digestive load. All-day sleepiness that feels heavy suggests dampness, while all-day sleepiness with coldness suggests Yang deficiency. A TCM practitioner will use this detail alongside your tongue and pulse to pinpoint the pattern.
+
+### Can TCM help if my hypersomnia is caused by a medical condition like sleep apnea?
+TCM can address the constitutional patterns that make someone prone to dampness and phlegm, which are often at the root of conditions like sleep apnea. While CPAP or other treatments manage the physical obstruction, herbs and acupuncture can strengthen the Spleen and reduce phlegm production, potentially improving overall energy and reducing the severity of the underlying condition.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/hypersomnia)*

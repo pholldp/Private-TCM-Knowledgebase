@@ -1,0 +1,85 @@
+# Er Xian Tang (二仙汤)
+**ชื่อภาษาไทย**: ยาต้มอมตะสองอัน  
+**ชื่อภาษาอังกฤษ (English Name)**: Two Immortals Decoction  
+**หมวดหมู่ตำรับยา (Category)**: สูตรหยินและหยาง สูตรปรับสมดุลไต  
+**ราชวงศ์/คัมภีร์อ้างอิง (Source)**: Zhōng Yī Fāng Jì Lín Chuáng Shǒu Cè (《中医方剂临床手册》, Clinical Manual of TCM Formulas), Shanghai Shuguang Hospital  
+**คุณสมบัติอุณหภูมิ (Temperature)**: อุ่นเล็กน้อย | **รูปแบบยา (Form)**: ยาต้ม (ถัง / Tang)
+
+---
+
+## บทสรุปตำรับยา (Summary)
+สูตรสมัยใหม่ที่ออกแบบมาเพื่อจัดการกับการเปลี่ยนแปลงของฮอร์โมนและโครงสร้างที่เกิดขึ้นในช่วงวัยหมดประจำเดือน รวมถึงอาการร้อนวูบวาบ การเปลี่ยนแปลงอารมณ์ นอนไม่หลับ ความเหนื่อยล้า และแขนขาเย็น มันทำงานโดยการอุ่นและบำรุงไตไปพร้อมๆ กัน ในขณะเดียวกันก็ช่วยขจัดความร้อนส่วนเกินที่เป็นผลมาจากความไม่สมดุลภายใน แม้ว่าเดิมทีจะพัฒนาขึ้นสำหรับผู้หญิง แต่ก็ยังใช้สำหรับผู้ชายที่ประสบกับการเปลี่ยนแปลงที่เกี่ยวข้องกับอายุที่คล้ายคลึงกัน
+
+---
+
+## ข้อมูลสำคัญทางแพทย์แผนจีน (TCM Metadata)
+- **การออกฤทธิ์ทางแพทย์แผนจีน (TCM Actions)**: บำรุงไตหยาง บำรุงไต ขับเสมหะ บำรุงหลอดเลือดช่องและเหริน บำรุงเลือด
+- **จุดประสงค์การรักษา (Therapeutic Focus)**: การดูแลวัยหมดประจำเดือน อนามัยการเจริญพันธุ์ สุขภาพกระดูกและข้อ สุขภาพไต สมดุลของฮอร์โมน
+- **อวัยวะเป้าหมาย (Target Organs)**: ไต, ตับ, มดลูก
+- **กลุ่มอาการที่รักษา (Patterns Addressed)**: 
+- **โรค/อาการร่วมที่รักษา (Conditions Treated)**: อาการวัยหมดประจำเดือน, โรคกระดูกพรุน, มีบุตรยาก, ความดันโลหิตสูง, รังไข่ล้มเหลวก่อนวัยอันควร, ประจำเดือนมาไม่ปกติ, ประจำเดือน, นอนไม่หลับ, การติดเชื้อทางเดินปัสสาวะ, โรคไตอักเสบเรื้อรัง
+- **ชื่อเรียกอื่นๆ (Other Names)**: Two Fairy Decoction, Er Xian Decoction
+
+---
+
+## ส่วนประกอบตำรับยา (Ingredients Composition)
+| ชื่อสมุนไพรจีน (Herb Pinyin) | ชื่อภาษาไทย/อังกฤษ (Translated Name) | บทบาทในตำรับ (Role) | ปริมาณยา (Dosage) | คุณสมบัติ & เส้นลมปราณที่เข้า (Properties) | คำอธิบายบทบาท (Role Summary) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Xian Mao** | เหง้าเคอร์คูลิโก | *ราชา (King)* | 9 - 15g | อุณหภูมิ: ร้อน<br>รสชาติ: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>เข้าเส้นลมปราณ: ไต, ตับ, ม้าม | เพิ่มพลังให้ Kidney Yang อย่างทรงพลัง บำรุงไตให้แข็งแรง และช่วยควบคุมเรือที่ทะลุทะลวงและควบคุม เนื่องจากเป็นสมุนไพรหลักที่ให้ความอบอุ่นแก่หยาง จึงช่วยแก้ปัญหาการขาดธาตุไตของรากได้โดยตรง |
+| **Yin Yang Huo** | ใบเอพิมีเดียม | *ราชา (King)* | 9 - 15g | อุณหภูมิ: อุ่น<br>รสชาติ: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>เข้าเส้นลมปราณ: ตับ, ไต | ทำงานร่วมกับเซียนเหมาเพื่ออุ่นไตหยางและบำรุงไตให้แข็งแรง ยังช่วยควบคุมและจัดการกับไฟที่ขาดจากประตูแห่งพลัง และปลดบล็อกการไหลของหยางฉี |
+| **Ba Ji Tian** | รากโมรินดา | *ขุนนาง (Deputy)* | 9 - 12g | อุณหภูมิ: อุ่นเล็กน้อย<br>รสชาติ: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>เข้าเส้นลมปราณ: ไต, ตับ | เสริมสมุนไพรราชาในการอุ่นและบำรุงไตหยาง เสริมสร้างเส้นเอ็นและกระดูก ธรรมชาติของมันจะอ่อนโยนและชุ่มชื้นมากกว่ารุนแรงและแห้ง ซึ่งช่วยเสริมฤทธิ์อุ่นที่เข้มข้นกว่าของสมุนไพรกษัตริย์ทั้งสองโดยไม่สร้างความแห้งจนเกินไป |
+| **Dang Gui** | ราก Angelica จีน | *ขุนนาง (Deputy)* | 9g | อุณหภูมิ: อุ่น<br>รสชาติ: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>เข้าเส้นลมปราณ: ตับ, หัวใจ, ม้าม | บำรุงและเติมพลังให้กับเลือดอย่างอ่อนโยน เพิ่มความชุ่มชื้นให้กับความแห้ง และควบคุมเรือที่เจาะทะลุ (ชงใหม่) และเรือปกครอง (เหรินใหม่) ด้วยการเสริมสร้างเลือดและบำรุงตับ ช่วยสนับสนุนระบบสืบพันธุ์และช่วยควบคุมรอบประจำเดือน |
+| **Huang Bo** | เปลือกไม้เฟลโลเดนดรอน | *ผู้ช่วย (Assistant)* | 4.5 - 9g | อุณหภูมิ: หนาวเย็น<br>รสชาติ: Bitter (&#x82E6; k&#x1D4;)<br>เข้าเส้นลมปราณ: ไต, กระเพาะปัสสาวะ | แก้อาการขาดความร้อนและระบายไฟไต สิ่งสำคัญอย่างยิ่งคือช่วยบรรเทาความร้อนที่แห้งของสมุนไพรราชา (เซียนเหมาและหยินหยางฮั่ว) เพื่อป้องกันไม่ให้เกิดความร้อนมากเกินไป ยังช่วยชี้นำไฟรัฐมนตรีกลับลงสู่แหล่งที่ต่ำกว่า |
+| **Zhi Mu** | เหง้า Anemarrhena | *ผู้ช่วย (Assistant)* | 4.5 - 9g | อุณหภูมิ: หนาวเย็น<br>รสชาติ: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>เข้าเส้นลมปราณ: ปอด, กระเพาะอาหาร, ไต | เสริมสร้างหยินไต ดับความร้อน ทำให้ผิวแห้ง ชุ่มชื้น และสร้างของเหลว ทำงานร่วมกับหวงไป๋ดับไฟขาดและบำรุงหยิน ปรับสมดุลสมุนไพรอุ่นในสูตรป้องกันไฟเกิน |
+
+---
+
+## ข้อควรระวัง & ความปลอดภัยในกลุ่มพิเศษ (Special Populations & Safety)
+### สตรีมีครรภ์ (Pregnancy)
+มีข้อห้ามในระหว่างตั้งครรภ์ Xian Mao (เหง้า Curculigo) จัดอยู่ในประเภทเป็นพิษเล็กน้อย (有小毒) ในตำรับยาจีน และเป็นสิ่งต้องห้ามตามประเพณีสำหรับสตรีมีครรภ์ ประกอบด้วยซาโปนินและอัลคาลอยด์ (รวมถึงไลโครีน) ที่ก่อให้เกิดความเสี่ยงต่อความเป็นพิษต่อตับและระบบสืบพันธุ์ หยินหยางฮั่ว (Epimedium) เป็นยาบำรุงไตหยางที่มีศักยภาพพร้อมคุณสมบัติการปรับฮอร์โมนที่ทำให้ไม่เหมาะสมในระหว่างตั้งครรภ์ ดังกุย ( Chinese Angelica ) ส่งเสริมการไหลเวียนโลหิตและสามารถกระตุ้นการทำงานของมดลูก ลักษณะความร้อนและการไหลเวียนของเลือดโดยรวมของสูตรทำให้เกิดความเสี่ยงที่ยอมรับไม่ได้ในระหว่างตั้งครรภ์ อย่าใช้.
+
+### สตรีให้นมบุตร (Breastfeeding)
+ไม่แนะนำในระหว่างการให้นมบุตรโดยไม่ได้รับการดูแลจากผู้เชี่ยวชาญ Xian Mao (Curculigo) จัดอยู่ในประเภทเป็นพิษเล็กน้อย และได้รับการระบุไว้โดยเฉพาะว่าเป็นข้อห้ามสำหรับสตรีให้นมบุตร ในการอ้างอิงทางเภสัชวิทยาของจีน เนื่องจากมีความกังวลเกี่ยวกับการถ่ายโอนสารประกอบซาโปนินและอัลคาลอยด์ผ่านทางน้ำนมแม่ ผลการปรับฮอร์โมนของสูตร (ประกอบด้วยสารประกอบไฟโตเอสโตรเจนที่ออกฤทธิ์ต่อตัวรับเอสโตรเจน) ยังทำให้เกิดความกังวลเกี่ยวกับอิทธิพลที่อาจเกิดขึ้นต่อการให้นมบุตรและการสัมผัสฮอร์โมนของทารก หากสตรีให้นมบุตรมีข้อบ่งชี้ที่ชัดเจนสำหรับสูตรนี้ แพทย์ที่มีคุณสมบัติเหมาะสมควรชั่งน้ำหนักคุณประโยชน์อย่างรอบคอบ และพิจารณาการปรับเปลี่ยนหรือสูตรอื่น
+
+### เด็ก (Children)
+Er Xian Tang ไม่เหมาะสำหรับเด็ก สูตรนี้ได้รับการออกแบบมาโดยเฉพาะสำหรับสภาวะที่เกี่ยวข้องกับการลดลงของไตหยินและหยางตามอายุ โดยเฉพาะกลุ่มอาการวัยหมดประจำเดือนและวัยหมดประจำเดือน โรคเหล่านี้ไม่เกิดขึ้นในผู้ป่วยเด็ก นอกจากนี้ Xian Mao (Curculigo) ยังมีพิษเล็กน้อย และทั้ง Xian Mao และ Yin Yang Huo (Epimedium) มีคุณสมบัติการปรับฮอร์โมน (ผลกระทบของแอนโดรเจนและฮอร์โมนเอสโตรเจน) ที่อาจรบกวนพัฒนาการของเด็กตามปกติและวัยแรกรุ่น ข้อมูลอ้างอิงทางเภสัชวิทยาของจีนระบุอย่างชัดเจนว่าเด็กเป็นประชากรที่มีข้อห้ามสำหรับซีอานเหมา ไม่ควรใช้สูตรนี้ในผู้ป่วยเด็ก
+
+## ปฏิกิริยากับยาแผนปัจจุบัน (Drug Interactions)
+การบำบัดด้วยฮอร์โมนทดแทน (HRT) และยาคุมกำเนิด: Er Xian Tang มีสารประกอบไฟโตเอสโตรเจน (โดยเฉพาะจาก Yin Yang Huo/Epimedium ซึ่งมีอิคาริอิน) ซึ่งออกฤทธิ์ต่อตัวรับฮอร์โมนเอสโตรเจน การใช้ร่วมกันกับฮอร์โมนเอสโตรเจนหรือโปรเจสเตอโรนจากภายนอกอาจทำให้เกิดผลของฮอร์โมนเพิ่มเติมหรือคาดเดาไม่ได้ รับประกันการตรวจสอบอย่างใกล้ชิดหากใช้ร่วมกัน
+Selective Estrogen Receptor Modulators (SERM) เช่น Tamoxifen และ Raloxifene: การวิจัยพรีคลินิกแสดงให้เห็นว่า EXD สามารถโต้ตอบกับ SERM เพื่อปรับระดับเอสตราไดออลในซีรัม FSH และออสทีโอแคลซินได้ การศึกษาชิ้นหนึ่งพบว่า EXD ไม่ได้ทำให้ผลการป้องกันกระดูกของ SERM ลดลง และอาจลดผลข้างเคียงของมดลูกด้วยซ้ำ อย่างไรก็ตาม เนื่องจากความซับซ้อนของการโต้ตอบนี้ การใช้พร้อมกันควรเกิดขึ้นภายใต้การดูแลของผู้เชี่ยวชาญอย่างระมัดระวังเท่านั้น
+ยาต้านการแข็งตัวของเลือดและยาต้านเกล็ดเลือด (เช่น วาร์ฟาริน แอสไพริน): Dang Gui (Angelica sinensis) มีคุณสมบัติในการกระตุ้นเลือดที่ได้รับการบันทึกไว้เป็นอย่างดี และมีคูมารินที่อาจกระตุ้นผลของยาต้านการแข็งตัวของเลือด และเพิ่มความเสี่ยงต่อการตกเลือด
+ยาลดความดันโลหิต: เดิมทีสูตรนี้ออกแบบมาเพื่อรักษาความดันโลหิตสูงในวัยหมดประจำเดือนและมีผลในการลดความดันโลหิต การใช้ร่วมกับยาลดความดันโลหิตอาจส่งผลให้ความดันโลหิตลดลงมากเกินไป ควรติดตามความดันโลหิตอย่างใกล้ชิด
+ยารักษาโรคเบาหวาน: ส่วนประกอบบางอย่าง (โดยเฉพาะ Xian Mao) แสดงให้เห็นว่ามีฤทธิ์ลดน้ำตาลในเลือดในการศึกษาในสัตว์ทดลอง ผู้ป่วยที่ใช้อินซูลินหรือยาลดน้ำตาลในช่องปากควรตรวจสอบระดับน้ำตาลในเลือดหากใช้สูตรนี้
+
+## Usage & Dosage Guidance (คำแนะนำการใช้งาน & ปริมาณยา)
+- **เวลาที่ดีที่สุดในการรับประทาน**: วันละสองครั้ง เช้าและเย็น รับประทานอุ่นหลังอาหาร เพื่อลดการระคายเคืองต่อทางเดินอาหารที่อาจเกิดขึ้นจากเซียนเหมา
+- **ระยะเวลาการใช้ยาโดยทั่วไป**: โดยทั่วไปจะดำเนินการในหลักสูตร 20 วัน (หนึ่งรอบการรักษา) มักจะดำเนินต่อไปเป็นเวลา 2-3 เดือน โดยมีการประเมินใหม่เป็นระยะโดยผู้ประกอบวิชาชีพ การใช้งานระยะยาวเกิน 3 เดือนควรรวมถึงการตรวจสอบการทำงานของตับและไตด้วย
+- **ข้อแนะนำเรื่องอาหารร่วมกับการใช้ยา**: 
+หลีกเลี่ยงอาหารและเครื่องดื่มที่เย็นจัด ดิบ และเป็นน้ำแข็งมากเกินไป เนื่องจากสิ่งเหล่านี้อาจทำให้การอุ่นของสูตรต่อไตหยางลดลงได้ หลีกเลี่ยงอาหารและเครื่องดื่มแอลกอฮอล์ที่มีรสเผ็ดจัด มันเยิ้ม หรือทอดลึก ซึ่งทำให้เกิดความร้อนและอาจทำให้องค์ประกอบอาการขาดไฟรุนแรงขึ้น
+อาหารที่บำรุงไตอย่างอ่อนโยนมีประโยชน์: งาดำ วอลนัท โกจิเบอร์รี่ (ในปริมาณที่พอเหมาะ) ถั่วดำ และซุปอุ่นๆ พร้อมน้ำซุปเนื้อแกะหรือกระดูก ปริมาณผลิตภัณฑ์จากถั่วเหลืองในระดับปานกลางเป็นที่ยอมรับได้ แต่ไม่ควรมากเกินไปเนื่องจากคุณสมบัติไฟโตเอสโตรเจนของสูตร
+ในระหว่างการรักษา ให้รักษาสมดุลทางอารมณ์และหลีกเลี่ยงความเครียดที่มากเกินไป ควรหลีกเลี่ยงการสูบบุหรี่ หลักเกณฑ์ทางคลินิกเดิมระบุไว้โดยเฉพาะ: หลีกเลี่ยงยาสูบ แอลกอฮอล์ และอาหารฉุน/ระคายเคืองในระหว่างระยะเวลาการรักษา
+
+## งานวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **[Randomized, Double-Blind, Controlled Trial of Er-Xian Decoction for Menopausal Symptoms in Perimenopausal Women (RCT, 2013)]()**
+   *วารสารวิชาการ: Zhong LLD, Tong Y, Tang GW, Zhang ZJ, Choi WK, Cheng KL, Sze SC, Wai K, Liu Q, Yu BX. Menopause, 2013, 20(7): 767-776.*
+   This rigorous trial enrolled 108 perimenopausal women in Hong Kong for a 12-week intervention. EXD was found to be significantly better than placebo at reducing the frequency and severity of hot flushes and improving overall menopausal quality-of-life scores. No serious adverse events were noted, and liver and kidney function tests remained normal throughout.
+
+2. **[Treatment of Menopausal Symptoms with Er-Xian Decoction: A Systematic Review (Systematic Review/Meta-analysis, 2008)](https://pubmed.ncbi.nlm.nih.gov/18457358/)**
+   *วารสารวิชาการ: Chen HY, Cho WC, Sze SC, Tong Y. American Journal of Chinese Medicine, 2008, 36(2): 233-244.*
+   A systematic review of 5 RCTs involving 677 participants found that EXD significantly relieved menopausal symptoms compared to controls. The efficacy of EXD was comparable to hormone replacement therapy and superior to non-hormonal treatments. However, the authors noted the generally low quality of included studies and called for more rigorous trials.
+
+3. **[Er-Xian Decoction for Menopausal Syndrome: An Updated Systematic Review (Systematic Review, 2019)]()**
+   *วารสารวิชาการ: Wang Y, Lou XT, Shi YH, Tong Q, Zheng GQ. Journal of Ethnopharmacology, 2019, 234: 8-20.*
+   An updated systematic review evaluating RCTs of EXD for menopausal syndrome. While the findings were suggestive of benefit, the authors concluded that low-quality studies limited the strength of evidence and that further rigorous RCTs were needed before definitive recommendations could be made.
+
+4. **[Water Extract of Er-Xian Decoction Selectively Exerts Estrogenic Activities and Interacts with SERMs in Estrogen-Sensitive Tissues (Preclinical, 2021)]()**
+   *วารสารวิชาการ: Wong KY, Zhou L, Yu W, Poon CCW, Xiao H, Chan CO, Mok DKW, Wong MS. Journal of Ethnopharmacology, 2021, 275: 114096.*
+   This preclinical study in ovariectomized rats found that EXD exerted tissue-selective estrogenic activity (protective in bone and brain, without stimulating breast or uterine tissue). When combined with SERMs (tamoxifen, raloxifene), EXD did not impair their bone-protective effects and appeared to moderate their uterotrophic side effects, suggesting potential safety in combined use.
+
+5. **[Therapeutic Potential of Erxian Decoction and Its Special Chemical Markers in Depression: A Review (Review, 2024)]()**
+   *วารสารวิชาการ: Published in PMC, 2024.*
+   A comprehensive review of clinical and preclinical studies on EXD for depression. Clinical studies showed EXD reduced depression scores and improved quality of life with limited side effects. Preclinical work revealed multiple mechanisms including modulation of monoamine neurotransmitters, inhibition of neuroinflammation, promotion of neurogenesis, and regulation of the HPA axis.
+
+
+---
+*ลิงก์ต้นฉบับภาษาอังกฤษ: [Me & Qi Formulas](https://www.meandqi.com/knowledge-base/formulas/er-xian-tang)*

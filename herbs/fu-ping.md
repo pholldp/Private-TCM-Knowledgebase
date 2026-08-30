@@ -1,0 +1,144 @@
+# Fu Ping (浮萍)
+**English Name**: Duckweed  
+**Category**: Cool, acrid herbs that release the Exterior (辛凉解表药), Herbs that clear Heat and resolve Toxicity (清热解毒药), Dampness-draining herbs (利水渗湿药)  
+**Scientific Name**: Spirodela polyrrhiza (L.) Schleid.  
+**Pharmaceutical Name**: Herba Spirodelae  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Lungs, Urinary Bladder  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Duckweed (Fu Ping) is a cooling surface-releasing herb that gently disperses wind-heat, encourages sweating, brings out rashes, stops itching, and helps eliminate excess fluid through urination. It is commonly used for early-stage wind-heat common cold, measles with incomplete eruption, hives, and acute edema.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Colds & Flu, Skin Rashes & Itching, Edema & Fluid Retention
+- **TCM Actions**: Releases the exterior and promotes sweating, Promotes measles eruption, Dispels wind and relieves itching, Promotes urination and reduces edema, Clears heat and resolves toxin
+
+### How these actions work
+Releases the exterior and promotes sweating: Fu Ping's acrid and cooling nature disperses wind-heat from the surface, making it useful for the early stages of wind-heat common cold with fever, mild chills, and absence of sweating. It provides a gentle but effective diaphoresis.
+Promotes measles eruption: Fu Ping encourages the outward expression of rashes when they are slow to appear, which prevents deeper complications. It is a classic remedy for measles where the rash is not surfacing fully.
+Dispels wind and relieves itching: Its light, floating quality reaches the skin to relieve itching from wind-heat or damp-heat conditions such as urticaria, eczema, and pruritus.
+Promotes urination and reduces edema: By entering the Lung and Urinary Bladder channels, it helps regulate water metabolism. It reduces acute edema, especially when swelling occurs suddenly with wind-heat exterior symptoms.
+Clears heat and resolves toxin: Applied topically or taken internally, Fu Ping clears heat and toxins for sores, boils, erysipelas, and burns in their early stages when redness and swelling predominate.
+
+---
+
+## Patterns Addressed
+### Exterior-Heat
+- **Explanation**: Fú Píng's acrid-cold nature releases the exterior and clears heat, directly addressing wind-heat invading the surface. Its light, floating property promotes sweating without harshly dispersing, relieving fever, headache, and absence of sweating that characterize this pattern. It also benefits the throat and eyes.
+- **Clinical Signs & Symptoms**:
+  - **Anhidrosis**: Absence of sweating
+
+### Oedema
+- **Explanation**: Fú Píng drains dampness and promotes urination, and by diffusing the Lung Qi it helps regulate water passageways. This makes it particularly effective for acute edema with a wind-heat exterior component, where the face and limbs swell suddenly and urination is scanty. It vents the external wind that obstructs the Lung's dispersing function, allowing water to drain.
+- **Clinical Signs & Symptoms**:
+  - **Acute Edema**: Acute onset edema
+
+### Toxic-Heat Stagnation
+- **Explanation**: Fú Píng's cold nature clears heat and resolves toxin, and its acrid taste disperses stagnation. Applied topically or taken internally, it reduces redness, swelling, and pain in early-stage sores, boils, and erysipelas by venting toxic heat from the skin. It is often used for external swellings that are still in the superficial stage.
+- **Clinical Signs & Symptoms**:
+  - **Skin Ulcer**: Early-stage boils and sores
+
+---
+
+## Commonly Used For
+### Urticaria
+- **Arises from**: Exterior-Heat
+- **TCM Interpretation**: Urticaria, especially acute episodes with red, raised wheals and intense itching, is seen as wind-heat invading the skin. The pores become obstructed, and the wind fighting in the superficial layers produces redness and itchiness. If dampness is mixed in, the wheals may be more swollen and exudative.
+- **Why it Helps**: Fú Píng's acrid-cold nature dispels wind-heat from the exterior, while its light, floating quality guides it to the skin. It opens the pores, promoting sweating, which vents the wind pathogen and stops the itching. Its diuretic action also clears damp-heat that can accompany the rash.
+
+### Measles
+- **Arises from**: Exterior-Heat
+- **TCM Interpretation**: Measles is a childhood rash disease caused by seasonal epidemic heat toxin. The typical progression involves fever, cough, and then a red papular rash spreading from behind the ears downward. If the rash does not surface adequately, the toxin may invade deeper, causing complications such as pneumonia or encephalitis.
+- **Why it Helps**: Fú Píng strongly promotes eruption, encouraging the rash to emerge fully. Its acrid-cool property vents heat from the exterior without over-cooling the body, allowing the pathogen to be released rather than suppressed. It is especially useful in the early febrile stage when sweating is absent.
+
+### Eczema
+- **Arises from**: Oedema
+- **TCM Interpretation**: Acute nephritis following a streptococcal infection is often viewed in TCM as wind-heat or wind-cold invading the Lung and disrupting the Lung's ability to disperse and descend, which in turn affects the Bladder's water metabolism. This leads to sudden edema, oliguria, and often proteinuria.
+- **Why it Helps**: Fú Píng releases the exterior wind, restores the Lung's diffusing function, and directly promotes urination to reduce edema. It is particularly suited when facial edema and scanty urine appear together with exterior symptoms like chills and fever.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 6–12 g dried (15–30 g fresh)
+- **Maximum Dosage**: Dried herb: up to 15 g in certain acute presentations under close clinical supervision. Fresh herb: up to 30 g. Higher doses are sometimes used temporarily for severe wind-heat urticaria or acute nephritic edema with exterior symptoms, but only by experienced practitioners.
+- **Dosage Notes**: Lower doses (3–6 g) are often sufficient for promoting rash eruption and releasing mild exterior heat. Higher doses (9–12 g, or up to 15 g) are used for stronger diaphoretic and diuretic effects in acute edematous states with a concurrent exterior pattern. Because the herb's action is light and dispersing, prolonged high-dose use is generally avoided.
+- **Preparation**: Add near the end of decoction (后下, hòu xià) and simmer briefly, as prolonged boiling may dissipate its light, volatile constituents responsible for releasing the exterior and venting rashes. For topical use, it is often decocted and applied as a wash or pounded fresh into a paste.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Niu Bang Zi (Ratio: 1:1)
+- **Description**: Fu Ping and Niu Bang Zi both disperse wind-heat and promote eruption; together they strongly encourage measles to surface and relieve itching, while Niu Bang Zi additionally benefits the throat and clears heat.
+- **When to Use**: Wind-heat exterior pattern with fever, sore throat, and sluggish measles eruption or itchy rash.
+
+### Bo He (Ratio: 1:1)
+- **Description**: Both are acrid-cool exterior-releasing herbs. Bo He's aromatic nature clears the head and eyes, while Fu Ping's floating nature promotes sweating. Together they relieve wind-heat headache, fever, and early-stage measles.
+- **When to Use**: Wind-heat common cold with fever, headache, red eyes, and slight chills.
+
+### Chan Tui (Ratio: Fu Ping 6g : Chan Tui 3&#x2013;6g)
+- **Description**: Both facilitate eruption of the measles rash and calm itching. Chan Tui also clears wind-heat from the eyes and throat, while Fu Ping strengthens diaphoresis.
+- **When to Use**: Measles with inadequate eruption, pruritic rash, and sore throat.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+The herb is classified as non-toxic in all major monographs. Fresh plants may contain trace cyanogenic glycosides and other secondary metabolites; long-term excessive consumption of unprepared fresh material could theoretically cause mild gastrointestinal upset or skin irritation. Properly dried and decocted material is considered safe. No human fatalities or severe poisoning events have been recorded.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated. Fu Ping's strong blood-moving and dispersing properties may disturb the fetus by affecting placental blood flow. Its use in pregnancy is generally avoided in traditional practice.
+- **Breastfeeding**: Not recommended during breastfeeding. Although no specific lactation studies exist, the herb's active constituents may be passed to the infant through breast milk, and its cold, dispersing nature is generally considered unsuitable for postpartum women and nursing infants.
+- **Children**: Fu Ping is used in children, especially to promote eruption in measles when the rash is slow to surface. Because the herb is cold and strongly dispersing, and because robust pediatric safety data are lacking, it should only be given under the guidance of a qualified practitioner and not for prolonged periods. Dosages are typically at the lower end of the adult range, adjusted by weight.
+
+### Drug Interactions
+
+
+### Dietary Advice
+While taking Fu Ping for wind-heat or edema with exterior symptoms, avoid cold, raw, and greasy foods that can obstruct the exterior and interfere with the herb's dispersing and diaphoretic action.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Fu Ping is an extremely small, free-floating aquatic plant consisting of a flat, leaf-like frond (thallus) 3–6 mm long and 2–4 mm wide, green on the upper surface and sometimes purple underneath, with 1–5 fine parallel veins. A single delicate root 2–5 cm long dangles from the underside. The plant reproduces rapidly both vegetatively by budding from a basal pouch and sexually via tiny unisexual flowers. It forms dense green mats on still or slow-moving fresh water — ponds, rice paddies, ditches, and lakes — throughout temperate and tropical regions.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: June to September (summer to early autumn), when the plants are most abundant and have achieved full vegetative growth.
+- **Primary Growing Regions**: Widespread across China, thriving in freshwater ponds, rice paddies, ditches, and still-water lakes. It is not associated with a specific *daodi* (道地药材) terroir; rather, good-quality material is collected wherever the plant grows densely in clean water.
+- **Quality Indicators**: Good-quality Fu Ping consists of dry, whole, unbroken fronds that are greenish-brown, crisp, and free from mud, other aquatic weeds, and mold. It should have a faint, clean herbal odor. A stale, musty smell or a softened, discolored appearance indicates poor storage or deterioration.
+
+### Identity & Adulterants
+Sometimes confused with Dà Fú Píng (大浮萍), which is the larger aquatic plant Pistia stratiotes (water lettuce). Da Fu Ping has much larger, thicker, spongy leaves and multiple roots, whereas authentic Fu Ping is tiny (3–6 mm) and possesses only a single slender root. The two species have different medicinal properties and are not interchangeable.
+
+---
+
+## References
+### Historical Context
+The name 浮萍 (floating duckweed) vividly captures the herb's habit of drifting on the water's surface. First recorded in the Shen Nong Ben Cao Jing as a medium-grade drug, it was valued for its ability to vent heat, water, and wind from the body. During the Jin-Yuan period, the influential physician Zhu Danxi famously declared that its diaphoretic power exceeded that of Ma Huang (Ephedra), a remarkable comparison given Ephedra's reputation as the strongest external-release agent. Li Shizhen later consolidated its expansive clinical uses, noting its efficacy for a wide range of skin, musculoskeletal, and mucosal conditions. In modern times, Fu Ping remains a first-line herb for childhood measles with inadequate eruption and for urticarial itching due to wind-heat, carrying a legacy that bridges classical and contemporary practice.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/fu-ping](https://www.meandqi.com/knowledge-base/herbs/fu-ping)*

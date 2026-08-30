@@ -1,0 +1,152 @@
+# Zhang Nao (樟脑)
+**English Name**: Camphor  
+**Category**: Aromatic substances that open the orifices (开窍药), Substances for external application (外用药)  
+**Scientific Name**: Cinnamomum camphora (L.) Presl.  
+**Pharmaceutical Name**: Camphora  
+**Toxicity**: Slightly toxic  
+**Temperature**: Hot | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Heart, Spleen  
+**Parts Used**: Processed / Derived product (加工品 jiā gōng pǐn)  
+
+---
+
+## Summary
+Camphor is a strongly aromatic crystalline substance extracted from the camphor tree. It is primarily used as a topical remedy for itchy skin conditions like scabies and ringworm, for pain from injuries and toothache, and for frostbite. In emergencies, tiny internal doses have traditionally been used to revive consciousness during fainting or heatstroke, though it is slightly toxic and internal use requires strict medical supervision.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Skin Health, Pain Management, Emergency Care, Digestive Health
+- **TCM Actions**: Clears Heat and Resolves Phlegm from the Orifices, Moves Qi and Resolves Stagnation, Kills Parasites and Stops Itching, Reduces Swelling and Alleviates Pain, Warms the Middle Burner and Stops Pain, Drains Dampness
+
+### How these actions work
+'Opens the orifices and dispels turbidity' (通关窍, 辟秽浊) means Zhang Nao has a strong, penetrating aromatic quality that can revive consciousness. Its pungent, volatile nature allows it to reach the Heart, which in TCM houses the mind and spirit. This action is relevant in emergencies such as sudden fainting, loss of consciousness from heatstroke, or exposure to foul, turbid environmental influences. The aromatic vapour can help clear the sensory pathways and restore alertness.
+'Moves Qi and relieves stagnation' (利滞气) refers to Zhang Nao's ability to unblock stagnant Qi in the chest and abdomen. Its hot, pungent nature drives movement, which is why it has traditionally been used for sudden abdominal pain, bloating, vomiting, and diarrhea caused by Summer-Heat, dampness, or exposure to foul environmental influences.
+'Kills parasites and stops itching' (杀虫止痒) describes Zhang Nao's most common modern use as a topical agent. Applied externally, it treats scabies, ringworm, fungal infections, and other itchy skin conditions. Its volatile compounds have demonstrated insecticidal and antifungal properties.
+'Reduces swelling and relieves pain' (消肿止痛) is applied when Zhang Nao is used topically for traumatic injuries, sprains, toothache, or frostbite. It produces a mild local numbing and warming effect on the skin that helps relieve pain, while also promoting local circulation to reduce swelling.
+
+---
+
+## Patterns Addressed
+### Turbid Phlegm Blocks Orifices
+- **Explanation**: Zhang Nao's intensely aromatic, pungent, and hot nature gives it a powerful ability to penetrate and open blocked orifices. When turbid Phlegm or foul Qi obstructs the Heart orifice, consciousness becomes clouded, leading to sudden fainting or delirium. Zhang Nao enters the Heart channel and uses its volatile, dispersing quality to cut through the obstruction, revive the spirit, and restore mental clarity. This is an emergency application, not a long-term treatment.
+- **Clinical Signs & Symptoms**:
+
+### Wind-Damp
+- **Explanation**: Externally, Zhang Nao's pungent and hot properties enable it to kill parasites, dispel Wind-Dampness lodged in the skin, and stop itching. Wind and Dampness in the skin layer can produce scabies, ringworm, chronic ulcers, and intense itching. Zhang Nao is ground into powder or dissolved in oil and applied topically to penetrate the skin, eliminate parasites and fungi, and relieve the itching and inflammation.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.06–0.15g (internal, in pill or powder form only; never in decoction)
+- **Maximum Dosage**: Do not exceed 0.2g internally per dose. Oral ingestion of approximately 2g can cause toxic symptoms in adults; 4g may be lethal.
+- **Dosage Notes**: Camphor is never used in decoction (煎剂) because it is volatile and would evaporate during boiling, losing its therapeutic effect. Internal use is strictly limited to pills (丸) and powders (散), or dissolved in alcohol (酒剂), at very small doses of 0.06–0.15g per dose. For external use, there is no fixed upper limit, but it should be applied in appropriate amounts as powder, dissolved in alcohol, or mixed into ointments. For acute conditions like cholera-like abdominal pain with vomiting, the classical method is to dissolve approximately 10g of camphor in 50ml of high-proof spirits and take 1ml per dose. Dosage should always be carefully controlled due to the narrow margin between therapeutic and toxic doses.
+- **Preparation**: Must NOT be added to decoctions — camphor is highly volatile (sublimes at room temperature) and would evaporate during boiling. For internal use, it is incorporated into pills (丸) or powders (散), or dissolved in alcohol. For external use, it is ground into fine powder and applied directly, dissolved in alcohol or oil for liniments, or mixed into ointments with lard or other bases. When refining camphor, classical methods describe sublimation using covered bowls sealed with wet paper and clay, heated gently over a slow fire.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Ru Xiang (Ratio: Zhang Nao 1 : Ru Xiang 3)
+- **Description**: Zhang Nao combined with Ru Xiang (Frankincense) creates a powerful pain-relieving and anti-swelling pair. Zhang Nao opens the orifices and disperses stagnant Qi with its volatile pungent nature, while Ru Xiang invigorates Blood and relaxes the sinews. Together they address both Qi stagnation and Blood stasis simultaneously, providing stronger analgesic and anti-inflammatory effects than either herb alone.
+- **When to Use**: For acute abdominal pain from turbid obstruction (traditionally called 'sha' disorders), traumatic injuries with pain and swelling, or chronic sores that are slow to heal.
+
+### Liu Huang (Ratio: Zhang Nao 8 : Liu Huang 1.5 (with alum and Sichuan pepper added))
+- **Description**: Zhang Nao combined with Liu Huang (Sulfur) creates a potent antiparasitic and antifungal topical pair. Zhang Nao penetrates the skin with its volatile, warming nature and stops itching, while Liu Huang is a classic antiparasitic that kills scabies mites and fungal organisms. Together they provide stronger parasite-killing action and more effective itch relief.
+- **When to Use**: For scabies with purulent lesions, stubborn ringworm, or chronic fungal skin infections applied as a topical paste.
+
+### Xiong Huang (Ratio: 1:1)
+- **Description**: Zhang Nao paired with Xiong Huang (Realgar) combines two strongly toxic-dispersing substances for stubborn, ulcerated sores. Zhang Nao's volatility carries the pair's effects deep into damaged tissue, while Xiong Huang resolves toxins and dries dampness. Together they are more effective against chronic ulcerated scrofula and non-healing skin lesions than either substance alone.
+- **When to Use**: For chronic ulcerated scrofula (lymph node infections) or other stubborn skin ulcers that have failed to heal over long periods.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+The active compound camphor (C₁₀H₁₆O) is a bicyclic monoterpene ketone that is both the therapeutic agent and the toxic component. Toxic effects appear after oral ingestion of approximately 2g in adults (lethal dose approximately 4g); in children, as little as 1g can be fatal. Camphor is rapidly absorbed from the gastrointestinal tract and readily crosses the blood-brain barrier.
+Symptoms of poisoning follow a characteristic two-phase pattern: an initial excitatory phase with nausea, vomiting, abdominal pain, anxiety, agitation, delirium, and convulsions, followed by central nervous system depression that can progress to coma, respiratory failure, and death. Seizures are the hallmark of camphor toxicity and can occur suddenly, sometimes within minutes of ingestion. Liver and kidney damage may also occur.
+Safety is ensured by: (1) using only in extremely small internal doses (0.06–0.15g), never in decoction; (2) primarily using externally, where systemic absorption is limited; (3) using refined, pharmaceutical-grade natural camphor rather than synthetic or impure products; (4) camphor is rapidly metabolized in the liver by oxidation to camphorol, then conjugated with glucuronic acid and excreted in urine.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated in pregnancy. Camphor crosses the placenta and is directly toxic to the fetus. It has been historically used as an abortifacient, and case reports document camphor ingestion causing fetal death. Even topical application of camphor-containing products in large amounts during pregnancy carries risk, as camphor is readily absorbed through the skin. Classical Chinese medical texts explicitly state that pregnant women must not take camphor (孕妇禁服). Both internal and extensive external use should be strictly avoided during pregnancy.
+- **Breastfeeding**: Camphor should be avoided during breastfeeding. It is lipophilic and can transfer through breast milk to the nursing infant. Given that infants have immature liver enzyme systems and cannot efficiently metabolize camphor, even small amounts passed through breast milk could potentially cause toxicity in the infant, including irritability, vomiting, and in severe cases, seizures. External use of camphor products should also be avoided on or near the breast area, as direct skin contact and inhalation by the infant could lead to absorption.
+- **Children**: Camphor is extremely dangerous for children and should generally be avoided in pediatric use. Children are far more susceptible to camphor toxicity than adults due to their lower body weight, immature hepatic metabolism, and developing nervous system. The potentially lethal dose in children is as low as 1g (approximately 30 mg/kg). Topical camphor products should not be used on children under 2 years of age. For older children, if topical use is considered essential, only low-concentration preparations (no more than 4.7–5.3%) should be used on small areas of intact skin under close supervision. Internal use in children is not recommended.
+
+### Drug Interactions
+Based on current pharmacological databases, camphor (used topically as a single agent) has no well-documented significant drug interactions. However, several theoretical considerations merit attention:
+- CNS depressants: Because camphor affects the central nervous system (initially stimulatory, then depressant at higher doses), concurrent use with sedatives, barbiturates, benzodiazepines, or other CNS-active drugs could theoretically produce unpredictable effects. This is primarily a concern with internal use or significant systemic absorption.
+- Hepatotoxic drugs: Since camphor is metabolized by the liver and can cause hepatotoxicity at higher doses, caution is warranted when combined with other hepatotoxic medications.
+- Anticonvulsants: Camphor is a known proconvulsant at moderate-to-high doses. It could theoretically counteract the effects of antiepileptic medications.
+- Combination topical products: Products containing camphor combined with menthol and methyl salicylate may have interactions attributable to the salicylate component rather than camphor itself.
+
+### Dietary Advice
+When taking camphor internally (which should only be done under strict professional supervision), avoid cold, raw foods and chilled beverages, as camphor's therapeutic action in acute abdominal conditions relies on its warming, Qi-moving properties, and cold foods would counteract this. Alcohol is the traditional vehicle for dissolving camphor for internal use, but excessive alcohol intake beyond the medicinal dose should be avoided. No specific food incompatibilities are classically documented, but given camphor's hot nature, patients with Heat conditions or Yin deficiency should avoid spicy, pungent, or drying foods that could intensify internal Heat.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Cinnamomum camphora (L.) Presl. is a large evergreen tree of the Lauraceae (laurel) family that can grow up to 30 metres tall. The bark is greyish-yellow-brown with vertical fissures. The leaves are alternate, thin and leathery, ovate to ovate-elliptical, 6–12 cm long and 2.5–5.5 cm wide, bright green and glossy on the upper surface and grey-green below. A distinctive feature is the prominent basal triple-veining pattern, with clearly visible gland pits at vein junctions on the leaf underside. All parts of the tree, including bark, branches, and leaves, emit the characteristic camphor aroma.
+The tree produces small greenish-white or yellowish-green bisexual flowers in axillary panicles of 3.5–7 cm, blooming in April to May. The fruit is a nearly spherical drupe, 6–8 mm in diameter, turning purplish-black when ripe between August and November. The camphor tree thrives in warm, humid subtropical climates and is widely distributed across southern China, Taiwan, Japan, and Southeast Asia. Trees must be at least 50 years old for optimal camphor yield; younger trees produce significantly less.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: September to December, from old trees ideally over 50 years of age. Leaves may be harvested year-round except from Chunfen (spring equinox) to Lixia (start of summer), when oil content is lowest.
+- **Primary Growing Regions**: Camphor is produced primarily in southern China. Taiwan has historically been the world's most important source of natural camphor and remains renowned for its high quality and abundant yield. Other major producing regions include Fujian, Jiangxi, Guizhou, Guangxi, Guangdong, Sichuan, Zhejiang, Yunnan, Hunan, and Anhui provinces. Among these, Taiwan, Fujian, and Jiangxi are traditionally considered the premier sources (dao di yao cai). The camphor tree from Shaozhou (modern Guangdong) and Zhangzhou (Fujian) was specifically noted by Li Shizhen in the Ben Cao Gang Mu.
+- **Quality Indicators**: High-quality medicinal camphor (Zhang Nao) should be snow-white, crystalline, and fully transparent when in block form, or appear as a pure white crystalline powder. It should be completely dry with no oily residue or impurities. The aroma should be intensely fragrant and penetrating, distinctly recognizable as camphor. When tasted, it should initially feel acrid (pungent) and then produce a cool, refreshing sensation. It should sublime readily at room temperature, indicating purity. When ignited, it should burn with a bright flame producing black smoke. Inferior quality camphor appears yellowish, feels greasy, contains moisture, or smells of impurities. Avoid products that may be adulterated with synthetic camphor or naphthalene-based mothballs.
+
+### Identity & Adulterants
+The most clinically important distinction is between natural medicinal camphor (天然樟脑, from Cinnamomum camphora) and synthetic camphor (合成樟脑, made from turpentine). Natural camphor is dextrorotatory (right-handed optical rotation +41° to +43°) with higher purity, while synthetic camphor is racemic. For medicinal use, natural camphor is preferred.
+A dangerous confusion exists between medicinal camphor and naphthalene mothballs (卫生球/臭丸). Naphthalene is toxic to the blood and liver and must never be used medicinally. They can be distinguished by smell (camphor has a distinctive aromatic scent, naphthalene has a harsh chemical odour) and by placing in water (camphor floats, naphthalene sinks).
+Camphor may also be confused with Bing Pian (冰片, borneol/Long Nao Xiang 龙脑香). Li Shizhen himself noted that refined camphor was sometimes fraudulently sold as the more expensive borneol. While both are aromatic, penetrating substances used to open the orifices, they have different properties: borneol is cool in nature while camphor is hot.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Gang Mu (本草纲目) — Li Shizhen
+- **Original**: 「通关窍，利滞气，治邪气，霍乱，心腹痛，寒湿脚气，疥癣，风瘙，龋齿，杀虫辟蠹。着鞋中，去脚气。」
+- **Translation**: "Opens the sensory orifices, frees stagnant Qi, treats pathogenic influences, cholera-like disorders, heart and abdominal pain, cold-damp leg Qi [beriberi], scabies and tinea, wind-itch, tooth decay, kills parasites and repels moths. Placed in shoes, it eliminates foot odour."
+
+### Historical Context
+Camphor (Zhang Nao, 樟脑) was first recorded as a medicinal substance in the Pin Hui Jing Yao (品汇精要), compiled during the Ming Dynasty. It also has the aliases Shao Nao (韶脑, named after Shaozhou where it was produced), Chao Nao (潮脑), Nao Zi (脑子), and Shu Nao (树脑). The name "Zhang Nao" literally means "camphor brain" — "nao" (脑) being used for crystalline aromatic substances that were considered the refined "essence" of a plant, similar to the naming convention for Bing Pian (冰片, borneol), which was also called "Long Nao" (龙脑, "dragon brain").
+Li Shizhen provided a detailed account of camphor extraction in the Ben Cao Gang Mu, describing how fresh camphor wood was sliced, soaked in well water for three days, then boiled in a pot while stirring with willow wood. When the liquid was reduced by half, white frost would appear on the stirring stick. The liquid was then strained and poured into an earthen basin, where it crystallized overnight. He also recorded a sublimation refinement process using layered earthen bowls, noting that the purified product could even be passed off as the far more expensive Long Nao Xiang (borneol) — a common adulteration practice of the era. Li Shizhen described camphor's nature as "purely Yang" (纯阳), comparing it to saltpetre in its ability to generate fire in water.
+Taiwan became the world's largest producer of natural camphor in the 19th and early 20th centuries, and camphor was one of its most valuable export commodities during the Qing Dynasty and Japanese colonial period. The development of synthetic camphor in the 20th century gradually reduced dependence on natural sources, though natural camphor remains preferred for medicinal use due to its higher purity and specific optical rotation.
+
+### Modern Scientific Research
+1. **[Camphor Poisoning: an Evidence-Based Practice Guideline for Out-of-Hospital Management (Expert Consensus Guideline, 2006)]()**
+   *Journal: Manoguerra AS, Erdman AR, Wax PM, et al. Clinical Toxicology (Philadelphia). 2006;44(4):357-370.*
+   An expert consensus panel from the American Association of Poison Control Centers reviewed all available literature on camphor poisoning. They found approximately 10,000 annual ingestion exposures to camphor-containing products in the US. The guideline recommended emergency referral for patients who ingested more than 30 mg/kg or showed moderate-to-severe symptoms such as convulsions, lethargy, or severe vomiting.
+
+2. **[Sub-lethal Camphor Exposure Triggers Oxidative Stress, Cardiotoxicity, and Cardiac Physiology Alterations in Zebrafish Embryos (Preclinical Study, 2021)]()**
+   *Journal: Du ZC, Xia ZS, Zhang MZ, et al. Cardiovascular Toxicology. 2021;21(11):901-913.*
+   This preclinical study using zebrafish embryos found that sub-lethal doses of camphor reduced hatching rates and body length, increased malformation rates, and triggered cardiotoxicity. Biochemical analysis showed camphor inhibited total superoxide dismutase (SOD) activity while increasing reactive oxygen species (ROS) and malondialdehyde (MDA), suggesting oxidative stress as a key mechanism of camphor toxicity.
+
+3. **[Camphor's Therapeutic Uses and Potential Hazards: An In-Depth Review of Its Medicinal Applications (Comprehensive Review, 2025)](https://pubmed.ncbi.nlm.nih.gov/41752424/)**
+   *Journal: Published in a peer-reviewed journal indexed in PubMed, 2025.*
+   This comprehensive review examined approximately 450 publications on camphor's biological activities. It confirmed camphor exhibits antimicrobial, antiviral, anticancer, antinociceptive, and antitussive effects. The review emphasized the integration of traditional knowledge with modern pharmacological research, noting camphor's potential in preventing and treating serious diseases including cancer and diabetes.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/zhang-nao](https://www.meandqi.com/knowledge-base/herbs/zhang-nao)*

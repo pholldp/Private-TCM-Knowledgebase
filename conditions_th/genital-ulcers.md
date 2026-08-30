@@ -1,0 +1,265 @@
+# Genital Ulcers (下疳)
+**คำอ่านพินอิน**: xià gān | **ประเภท**: Symptom | **หมวดหมู่**: สภาพอวัยวะเพศ, แผลพุพองและแผลเปิด  
+**ชื่อเรียกอื่นๆ**: Genitalia ulcers, Scrotum ulcers, Vulvar Sores, Sores On The Vulva, Vulval Ulcers | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+แผลพุพองสีแดง ก้อนเนื้อแข็ง และแผลที่หายช้าสีซีดมีสามรูปแบบที่แตกต่างกัน และแต่ละรูปแบบตอบสนองต่อกลยุทธ์การใช้สมุนไพรที่แตกต่างกัน เมื่อรูปแบบที่ฉัน...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, genital ulcers are sores or open lesions on the genitals or surrounding area. They can result from infections - such as herpes simplex virus, syphilis, chancroid, or lymphogranuloma venereum - as well as from autoimmune conditions like Behçet's disease, trauma, or certain medications. Diagnosis typically involves a physical exam, swab cultures, blood tests, and sometimes biopsy to determine the underlying cause. Treatment is then targeted at the specific pathogen or inflammatory process.
+
+### การรักษาหลัก (Treatments)
+Conventional treatment depends on the cause: antiviral medications for herpes, antibiotics for bacterial infections like syphilis or chancroid, and corticosteroids or immunosuppressants for autoimmune ulcers. Pain relief, sitz baths, and topical anesthetics are often used to manage symptoms while healing occurs.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, a genital ulcer is never just a local sore. It is a visible sign of an internal imbalance, most often involving the Liver, Spleen, and Kidney organ systems and the lower burner - the body's pelvic basin. The Liver channel wraps around the genitals, so when Heat, Dampness, or stagnation accumulates in this channel, it can erupt as a lesion.
+The Spleen is responsible for transforming fluids; when it is weak, dampness gathers and can pour downward. The Kidneys govern the body's fundamental Yin and Yang, and their depletion can lead to deficiency patterns where ulcers fail to heal.
+Because different imbalances produce different types of ulcers, TCM distinguishes several patterns. A red, moist, weeping ulcer with yellow discharge points to Damp-Heat - a combination of pathogenic moisture and Heat that has settled in the lower body. A hard, stubborn ulcer with swollen lymph nodes signals Toxic-Heat, a more intense, fiery toxicity.
+When the ulcer is dark, fixed, and stabbing, Heat has entered the Blood level and caused stagnation. A pale, nodular, heavy-feeling ulcer suggests Phlegm - congealed dampness that has become cold and stuck. And a shallow, pale sore that just won't heal reflects Qi and Blood Deficiency, where the body lacks the vital energy and nourishment to repair tissue.
+This is why two people with genital ulcers can receive completely different herbal formulas and acupuncture point prescriptions from a TCM practitioner. The treatment matches the pattern, not just the symptom. The tongue and pulse provide critical clues: a red tongue with greasy yellow coating and a slippery rapid pulse confirm Damp-Heat, while a pale tongue with a weak pulse points to deficiency. By reading these signs, the practitioner can choose the right strategy - whether to clear Heat and drain Dampness, resolve toxicity, move Blood, transform Phlegm, or nourish Qi and Blood.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+When you see a TCM practitioner for a genital ulcer, they start by looking closely at the sore itself - its color, whether it is weeping or dry, how deep it is, and what the surrounding skin looks like. These local clues, combined with your overall energy and comfort, help them identify which pattern is driving the problem.
+If the ulcer is red, swollen, and moist with a yellowish discharge, the main culprit is usually Damp-Heat in the Lower Burner. Your tongue will often appear red with a thick, greasy yellow coating, and your pulse feels slippery and rapid. This pattern is very common in the early stages and reflects dampness and heat pouring downward to the genital area.
+When the sore is firm, stubbornly refuses to heal, and nearby lymph nodes are swollen and tender, Toxic-Heat has taken hold. The tongue coating is thick and yellow, and the pulse is rapid and forceful. This pattern may arise on its own or develop from unresolved Damp-Heat, signaling a deeper, more intense heat toxicity that needs strong clearing.
+If the ulcer is deep, dark, and intensely painful, and your tongue looks purplish with a choppy pulse, Heat has moved into the Blood level and caused stagnation. This Heat and Blood Stagnation in the Lower Burner pattern often appears when the condition has been lingering or is particularly severe, and it requires both cooling the blood and moving stasis.
+In longer-standing cases, the sore may feel hard or nodular, and your tongue coating is sticky and greasy while the pulse is slippery or choppy. This points to Phlegm in the Lower Burner, where dampness and heat have congealed into a more stubborn, phlegm-like blockage that is difficult to resolve.
+Finally, if the ulcer looks pale, shallow, and fails to close up despite treatment, and you feel generally drained with a pale tongue and a weak, thready pulse, your body’s Qi and Blood are depleted. This Qi and Blood Deficiency pattern is more common in late or recurrent cases, where the body simply lacks the nourishment to repair the tissue.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「下疳者，邪淫欲火郁滞而成。其形如粟米，或如豆粒，渐渐腐烂，疼痛难忍，甚则寒热交作。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Xia Gan (genital chancre) arises from the stagnation of pathogenic lustful fire. It begins as a millet-sized or bean-sized lesion, gradually ulcerates, causing unbearable pain, and in severe cases, alternating chills and fever."
+> 
+> — แหล่งที่มา: *Wai Ke Zheng Zong (外科正宗)  ,  Volume 4, Section on Xia Gan (下疳) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Damp-Heat in the Lower Burner
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-heat-in-the-lower-burner)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Moist, oozing ulcer with yellow discharge, Burning pain and redness around the ulcer, Foul-smelling discharge from the sore, Heavy sensation in the groin or legs, Dark, scanty urine
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Greasy, spicy, or fried foods, Alcohol and coffee, Hot, humid weather, Sedentary habits or prolonged sitting
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling, light foods, Keeping the area dry, Gentle exercise or walking, Rest and adequate sleep
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Dampness and Heat can accumulate in the lower part of the body when the body fails to properly transform and drain fluids. This stagnant mixture then pours downward into the genital area, creating the perfect environment for redness, swelling, and erosion. The dampness makes the ulcer moist and oozing with a yellow, foul discharge, while the heat gives it a burning, painful quality.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with a yellow greasy coating that is thickest at the root. Pulse: slippery (滑 huá) and rapid (数 shuò), more pronounced at the rear positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Damp-Heat thrives on moisture and heat; greasy, spicy foods and alcohol generate internal Damp-Heat, while hot, humid weather adds external dampness. Keeping the area dry and eating cooling foods reduces the damp and heat load. Gentle movement helps Qi circulate and drain Dampness, while rest allows the body to heal without overstraining.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid greasy, fried, and spicy foods as well as alcohol, which create more Damp-Heat. Keep the genital area clean and dry, and wear loose, breathable clothing. Gentle movement like walking helps circulate Qi and drain Dampness, but avoid overexertion.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The classic formula to drain Damp-Heat from the Liver and Gallbladder channels, specifically targeting the lower burner to resolve genital ulcers and discharge. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | Drains Damp-Heat from the Liver and Gallbladder, directly targeting the lower burner to clear infection and reduce ulceration. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears Heat and dries Dampness, helping to reduce inflammation and oozing. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Resolves Damp-Heat in the lower burner and regulates the genitourinary system. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Clears Liver Heat and promotes smooth Qi flow to reduce local inflammation. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Drains Dampness from the lower body, relieving heaviness and discharge. |
+
+---
+
+### Toxic-Heat
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/toxic-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Firm, indurated ulcer that heals poorly, Redness, heat, and swelling around the sore, Swollen, tender lymph nodes in the groin, Fever or a sensation of body heat, Intense thirst, especially for cold drinks, Restlessness and irritability
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Greasy, spicy, or fried foods, Alcohol and coffee, Emotional stress and anger, Overwork and exhaustion, Hot, humid weather
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling, light foods, Cool or cold compresses, Plenty of water, Rest and adequate sleep
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Toxic-Heat is an intense, concentrated form of Heat that can settle in the lower body and damage the tissues of the genitals. When external pathogens invade or internal Heat from diet and emotions builds up, it can turn into a toxic fire that creates a hard, red, swollen ulcer that resists healing.
+This pattern often develops when milder Damp-Heat is not cleared, allowing the Heat to deepen and become toxic. The firm, non-healing sore and nearby swollen lymph nodes are signs that the body is locked in a strong battle with a powerful pathogenic factor.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with prickly thorns and a dry yellow coating. Pulse: rapid (数 shuò) and forceful (有力 yǒu lì), often full (实 shí) or overflowing (洪 hóng).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Toxic-Heat is a fire-like pathogen that damages tissue and creates inflammation. Cooling foods and cold compresses directly counteract this Heat, helping to calm the ulcer. Spicy foods, alcohol, and emotional stress all generate more internal Heat, which feeds the toxic fire and makes the sore worse. Rest conserves the body's resources so they can be used to clear the pathogen rather than being burned up by overwork.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add more Heat to the body. Eat plenty of cooling foods like cucumber, watermelon, mung beans, and leafy greens. Drink enough water to help flush toxins. Keep the genital area clean and dry, and get adequate rest to support the body's fight against the pathogen. Cold compresses can soothe local discomfort.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Wu Wei Xiao Du Yin](https://www.meandqi.com/knowledge-base/formulas/wu-wei-xiao-du-yin)** | Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE | Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules | The classic formula to clear Toxic-Heat, reduce swelling, and promote healing of hard, inflamed sores. |
+| **[Huang Lian Jie Du Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-jie-du-tang)** | Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao) | Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners | A strong Heat-clearing and Toxin-resolving formula used when systemic signs like fever and restlessness are prominent. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears Heat and resolves Toxin; especially effective for hot, swollen skin lesions. |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit |  | Clears Heat and dissipates clumps, helping to shrink swollen lymph nodes. |
+| **[Pu Gong Ying](https://www.meandqi.com/knowledge-base/herbs/pu-gong-ying)** | Dandelion |  | Strongly clears Toxic-Heat and reduces abscesses and ulceration. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Clears Heat and toxins from the whole body and relieves pain. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Cools the Blood and clears Heat, reducing local swelling and inflammation. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Clears Liver Heat, which often underlies Toxic-Heat in the genital area. |
+
+---
+
+### Heat and Blood Stagnation in the Lower Burner
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/heat-and-blood-stagnation-in-the-lower-burner)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Deep, fixed, stabbing or cutting pain at the ulcer, Ulcer base appears dark or purplish, Lower abdominal hardness and tenderness that worsens with pressure, Restlessness and irritability, Fever that worsens at night, Dark or purplish menstrual blood with clots (in women)
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress and anger, Greasy, spicy, or fried foods, Sedentary habits or prolonged sitting, Hot weather or saunas
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Gentle exercise or walking, Cool or cold compresses, Rest and adequate sleep, Cooling, light foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Heat penetrates deep into the Blood level of the lower burner, it scorches the fluids and thickens the blood, causing it to congeal and stagnate. This stagnant, heated blood obstructs the local channels around the genitals, leading to a deep, fixed, and intensely painful ulcer. The dark purplish color of the sore and the mental agitation are direct signs of Heat harassing the Blood and the mind.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: reddish-purple body with dark stasis spots, distended sublingual veins, and a dry yellow coating. Pulse: deep (Chen), choppy/rough (Se), and often rapid (Shu).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress and anger stir up Liver Qi, which can transform into Fire and drive Heat deeper into the Blood, intensifying stasis and pain. Spicy and greasy foods directly add Heat to the body, thickening the blood and worsening the dark, fixed ulcer. Rest, gentle movement, and cooling foods help to clear Heat, calm the mind, and promote the free flow of Blood, which eases pain and supports healing.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, greasy, and grilled foods that generate Heat. Eat cooling, blood-moving foods like spinach, eggplant, mung beans, and a little fresh ginger. Gentle daily walking helps Qi and Blood flow without overheating the body. Keep the mind calm with meditation or quiet rest; emotional upset stirs up Heat and worsens stasis.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | Invigorates Blood, dispels stasis, and clears Heat from the Blood level, with additions like Jin Yin Hua and Dan Shen to target the lower burner. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears Heat and resolves toxicity, especially in genital sores. |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Vitalizes Blood and breaks up stasis without damaging the Blood; cools the Heart and calms the mind. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Reduce. Cools Blood, invigorates stasis, and clears Heat from the lower burner. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Reduce. Moves Liver Qi and Blood, relieving pain and mental agitation. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Even method. Harmonizes Blood, calms the mind, and supports the lower abdomen. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Moxibustion or even method. Moves Qi in the lower burner to help dispel stasis. |
+
+---
+
+### Phlegm in the Lower Burner
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-in-the-lower-burner)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Hard, nodular ulcer base, Sticky, turbid discharge from the ulcer, Heavy, dragging sensation in the lower abdomen, Feeling of coldness in the lower abdomen, Lack of appetite, nausea, Cloudy or turbid urine
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, raw foods, Damp weather, Sedentary habits or prolonged sitting, Overwork and exhaustion
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on lower abdomen, Gentle exercise or walking, Warm, nourishing foods, Dry, warm environment
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's Qi fails to transform fluids in the lower burner, Dampness accumulates and congeals into cold, sticky Phlegm. This Phlegm settles in the genital tissues, creating a hard, indurated ulcer that feels heavy and is slow to heal. The ulcer often has a pale, nodular base with a sticky or turbid discharge, reflecting the underlying Phlegm-Damp stagnation.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, swollen body with teeth marks, thick white greasy coating especially at the root, wet surface. Pulse: Deep (沉, chén), slippery (滑, huá), and often slow, especially in the Chi (rear) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold and damp foods or environments congeal body fluids into Phlegm, worsening the stagnation in the lower burner. Warmth and gentle movement help Qi transform and transport fluids, reducing Phlegm accumulation and easing the heavy sensation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw, and greasy foods that produce Dampness; favor warm, cooked meals with barley, adzuki beans, and a little ginger. Keep the lower abdomen warm and dry. Gentle daily walking helps Qi move and transforms fluids.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/er-chen-tang)** | Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE | Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting | The classic formula to dry Dampness and transform Phlegm, often modified with herbs that target the lower burner. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries Phlegm and transforms Dampness, the key herb for this pattern. |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel |  | Regulates Qi and dries Dampness, helping to break up Phlegm stagnation. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Leaches out Dampness and strengthens the Spleen to prevent further Phlegm formation. |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed |  | Resolves Dampness and clears Phlegm from the lower burner. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point to transform Phlegm and Dampness throughout the body. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates the Spleen and resolves Dampness in the lower burner. |
+| **REN-3** | [Zhongji REN-3](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongji-ren-3) | Zh&#x14D;ng J&#xED; | Clears Dampness from the Lower Burner, Benefits the Bladder and its Qi transformation | Local point to move Qi and resolve stagnation in the genital area. |
+
+---
+
+### Qi and Blood Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Pale, shallow ulcer with little or no discharge, Chronic or recurrent ulcers that heal very slowly, Overwhelming fatigue and lack of energy, Pale face, lips, and nail beds, Dizziness or lightheadedness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and exhaustion, Skipping meals or poor nutrition, Emotional stress and worry, Cold weather or drafts
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and adequate sleep, Warm, nourishing foods, Gentle exercise or walking
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Qi and Blood are both depleted, the body lacks the vital resources to nourish and repair tissues. A genital ulcer in this pattern is pale, shallow, and slow to heal because there is simply not enough Qi to drive the healing process or enough Blood to provide the building blocks for new tissue. This is a deficiency condition, so the ulcer tends to be chronic or recurrent, without the redness, heat, or thick discharge seen in excess patterns.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body, may be thin or show teeth marks on the edges, with a thin white coating. Pulse: fine (thin) and weak, or empty and slow.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Qi and Blood are produced from the food we eat and restored by rest, so a nourishing diet and adequate sleep directly replenish what is missing. Overwork, poor nutrition, and emotional strain consume Qi and Blood, making the deficiency worse and slowing healing even further. Cold constricts and weakens the already sluggish Qi and Blood, so keeping warm helps maintain whatever circulation is available to the ulcer.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Focus on warm, cooked, nutrient-dense foods like chicken soup, congee with red dates and goji berries, and steamed vegetables. Avoid raw, cold foods and excessive spicy or greasy foods that tax the Spleen. Prioritize rest and gentle movement like tai chi or walking; avoid overwork and stress, which deplete Qi and Blood.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ba Zhen Tang](https://www.meandqi.com/knowledge-base/formulas/ba-zhen-tang)** | Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | The premier formula to tonify both Qi and Blood, improving the body&#x27;s ability to repair ulcers and regenerate tissue. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Wu Wei Xiao Du Yin](https://www.meandqi.com/knowledge-base/formulas/wu-wei-xiao-du-yin)** | Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE | Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules | A classical formula that uses five potent heat-clearing herbs to fight infections and inflammation, especially boils, abscesses, and other skin infections that present with redness, swelling, heat, and pain. It is one of TCM&#x27;s most direct and powerful formulas for clearing toxic heat from the body. |
+| **[Huang Lian Jie Du Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-jie-du-tang)** | Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao) | Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners | A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/er-chen-tang)** | Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE | Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting | A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged. |
+| **[Ba Zhen Tang](https://www.meandqi.com/knowledge-base/formulas/ba-zhen-tang)** | Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and invigorates circulation to bring nourishment to the ulcer site. |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Qi and promotes tissue regeneration, supporting wound healing. |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower | Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery |  |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit | Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat |  |
+| **[Pu Gong Ying](https://www.meandqi.com/knowledge-base/herbs/pu-gong-ying)** | Dandelion | Cold, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Promotes Urination and Relieves Stranguria |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel | Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed | Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | The master point for tonifying Qi and Blood, strengthening the Spleen and Stomach to support healing. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Blood and Yin, harmonizes the lower burner where the ulcer is located. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Sea of Qi; tonifies original Qi to support tissue repair. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM cure genital ulcers?
+TCM can help resolve many types of genital ulcers by addressing the underlying imbalance that allowed them to develop. However, if the ulcer is caused by an infection like syphilis or herpes, TCM should be used alongside conventional medical treatment, not as a replacement. Always get a proper diagnosis first.
+
+### How long does it take for acupuncture and herbs to work?
+Many people notice less pain and discharge within the first week. Complete healing depends on the pattern: acute heat patterns may resolve in 2-4 weeks, while chronic or deficiency-related ulcers can take 2-3 months. Your practitioner will monitor progress and adjust the formula as the ulcer changes.
+
+### Can I use TCM together with antibiotics or antivirals?
+Yes, TCM is often used alongside conventional medications. Herbs can support the body's healing and reduce side effects. However, always inform both your TCM practitioner and your medical doctor about all treatments you are using. Some herbs may interact with medications, so coordination is essential.
+
+### What should I eat to help heal a genital ulcer?
+In general, avoid spicy, greasy, and overly sweet foods, as they create Dampness and Heat. Focus on cooling, light foods like cucumber, mung beans, and leafy greens. Drink plenty of water. If your ulcer is pale and slow-healing (deficiency pattern), your practitioner may recommend warming, nourishing foods instead.
+
+### Is it safe to use TCM for genital ulcers during pregnancy?
+Pregnancy requires special caution. Some herbs that move Blood or clear Heat are contraindicated. Always tell your practitioner if you are pregnant or trying to conceive. Acupuncture can be safe when performed by a trained professional who avoids certain points. For any genital ulcer during pregnancy, consult your obstetrician first.
+
+### Will the ulcer come back after TCM treatment?
+TCM aims to correct the root imbalance, so recurrence is less likely once the pattern is resolved. However, if the underlying triggers - such as poor diet, chronic stress, or a weak constitution - return, the ulcer could reappear. Your practitioner will give you lifestyle and dietary advice to maintain balance.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Clinical observation of Long Dan Xie Gan Tang in the treatment of recurrent genital herpes**
+   *วารสารวิชาการ: Wang H, Liu J, Zhang Y. Clinical observation of Long Dan Xie Gan Tang in the treatment of recurrent genital herpes. Chinese Journal of Dermatovenereology. 2006;20(5):299-300.*
+   This randomized controlled trial compared Long Dan Xie Gan Tang with oral acyclovir in 60 patients. The herbal group showed a comparable reduction in healing time and significantly lower recurrence rate at 6-month follow-up, supporting its use for Damp-Heat pattern genital ulcers.
+
+2. **Chinese herbal medicine for Behçet's disease: a systematic review of randomized controlled trials**
+   *วารสารวิชาการ: Zhang Y, Li X, Chen M. Chinese herbal medicine for Behçet's disease: a systematic review of randomized controlled trials. Chinese Journal of Integrative Medicine. 2013;19(6):459-465.*
+   This systematic review analyzed 12 RCTs involving 892 patients. Combination therapy with Chinese herbs and conventional treatment improved ulcer healing and reduced recurrence compared to conventional treatment alone, though the overall evidence quality was moderate.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/genital-ulcers)*

@@ -1,0 +1,164 @@
+# Ban Zhi Lian (半枝莲)
+**English Name**: Barbat Skullcap Herb  
+**Category**: Herbs that clear Heat and resolve Toxicity (清热解毒药)  
+**Scientific Name**: Scutellaria barbata D. Don  
+**Pharmaceutical Name**: Herba Scutellariae Barbatae  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Lungs, Liver, Kidneys  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Ban Zhi Lian is a cooling, detoxifying herb best known in Chinese medicine for clearing internal heat and toxins. It is one of the most commonly used herbs for cancer support in TCM clinical practice, often paired with Bai Hua She She Cao. It also treats infections, abscesses, snakebite, and urinary difficulty.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Cancer Support, Detoxification, Liver Health, Urinary Health, Immune Support
+- **TCM Actions**: Clears Heat and Resolves Toxicity, Resolves Fire toxins (especially tumors and sores), Invigorates Blood and Dispels Stasis, Stops Bleeding, Promotes Urination and Reduces Edema, Reduces Swelling and Alleviates Pain
+
+### How these actions work
+'Clears Heat and resolves toxins' is the primary action of Ban Zhi Lian. Its cold nature and bitter taste give it a strong ability to drain pathological Heat and neutralise toxins that accumulate in the body. In practice, this is applied to conditions like boils, abscesses, sore throat, snakebite, and lung abscess. The herb can be taken internally or applied externally as a poultice for toxic swellings.
+'Resolves Fire toxins (especially tumors and sores)' refers to the herb's particular strength in addressing severe, deep-seated toxic accumulations. In modern clinical practice, Ban Zhi Lian is one of the most widely used herbs for adjunctive cancer support, especially for tumors of the lung, liver, and gastrointestinal tract. From a TCM perspective, many tumors are understood as accumulations of toxic Heat, Blood stasis, and Phlegm, and Ban Zhi Lian's cold, toxin-clearing nature directly addresses the Heat-toxin component.
+'Disperses Blood stasis' means the herb has a mild ability to move stagnant Blood and break up localised congestion. This is why it is used for traumatic injuries and for conditions where Blood stasis and toxic Heat combine, such as in tumor masses. Its acrid taste gives it the ability to move and disperse, complementing its bitter, cold, clearing properties.
+'Stops bleeding' is a secondary action. Ban Zhi Lian can address bleeding caused by Heat in the Blood, such as vomiting blood, nosebleeds, or blood in the urine. By clearing the Heat that forces Blood out of the vessels, it helps to control the bleeding at its root.
+'Promotes urination and reduces edema' reflects the herb's ability to open the water passages and drain excess fluid. This action is used for oedema, ascites, and urinary difficulty, particularly when these are accompanied by Heat.
+
+---
+
+## Patterns Addressed
+### Damp-Heat
+- **Explanation**: Ban Zhi Lian's cold nature clears Heat while its ability to promote urination helps drain Dampness through the urine. When Damp-Heat accumulates in the body, it can cause jaundice, oedema, urinary difficulty, or dysentery. The herb enters the Kidney channel, supporting its ability to open the water passages and resolve fluid retention. Its bitter taste dries Dampness, and its acrid quality helps move stagnant fluids.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Lung Cancer
+- **TCM Interpretation**: Lung cancer in TCM is often attributed to toxic Heat or Phlegm-Heat lodging in the Lungs, combined with underlying deficiency of Lung Yin. Chronic exposure to external pathogenic factors (such as smoke or environmental toxins) injures the Lung's delicate tissue, allowing Heat toxin to accumulate. Over time, this toxic accumulation combined with Qi stagnation and Phlegm produces masses within the Lung.
+- **Why it Helps**: Ban Zhi Lian enters the Lung channel and has strong Heat-clearing and toxin-resolving properties, directly addressing the toxic Heat that TCM considers a driving factor in lung tumors. Clinical observations of lung cancer patients using Ban Zhi Lian-based formulas have shown improvement of symptoms such as coughing and breathing difficulty, though it is used as complementary support rather than a standalone treatment. It is commonly combined with Yu Xing Cao (Houttuynia) and other Lung-directed herbs to enhance its effect.
+
+### Hepatitis
+- **Arises from**: Damp-Heat
+- **TCM Interpretation**: Hepatitis is understood in TCM primarily as Damp-Heat invading the Liver and Gallbladder. This pathogenic combination impairs the Liver's function of ensuring smooth Qi flow, leads to Bile overflow producing jaundice, and causes symptoms like fatigue, poor appetite, nausea, and pain in the rib area. The Damp component makes the condition lingering and difficult to resolve, while the Heat component drives inflammation and tissue damage.
+- **Why it Helps**: Ban Zhi Lian's cold nature directly clears Heat from the Liver, while its bitter taste helps dry Dampness and its diuretic action provides a drainage pathway. Its toxin-resolving properties address the viral pathogen (understood as a form of toxic Heat in TCM). Modern pharmacological studies have confirmed hepatoprotective effects, showing that Ban Zhi Lian extracts can reduce liver enzyme elevation and protect liver cells from damage. For hepatitis, it is traditionally taken fresh (25g) with red dates decocted in water.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 15-30g
+- **Maximum Dosage**: Up to 60g of dried herb (or 60-120g of fresh herb) in acute conditions such as snakebite or severe toxic Heat patterns, under practitioner supervision. Some folk cancer treatment protocols use up to 30-60g daily in decoction.
+- **Dosage Notes**: Standard decoction dose is 15-30g of dried herb. Fresh herb is used at double the dose (30-60g or more), especially for external application or acute conditions like snakebite. For cancer-supportive formulas, the herb is commonly used at the higher end of the range (30g) in combination with Bai Hua She She Cao (Hedyotis diffusa). When used for urinary conditions or mild Heat patterns, the lower range (15g) is appropriate. The herb's cold, bitter nature means that lower doses should be used in patients with any tendency toward Spleen deficiency, and it is often combined with Spleen-supporting herbs to offset its cooling effect on digestion.
+- **Preparation**: No special decoction handling is required. The dried herb is simply cut into segments (切段) and decocted normally. Fresh herb may be crushed and the juice extracted directly for topical application or internal use in acute conditions such as snakebite.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Bai Hua She She Cao (Ratio: 1:2 (Ban Zhi Lian 15g : Bai Hua She She Cao 30g), or 1:1 at 15-30g each)
+- **Description**: The most famous herb pair for cancer support in TCM. Both herbs clear Heat and resolve toxins, but they work through different mechanisms: Ban Zhi Lian also disperses Blood stasis and enters the Liver and Kidney channels, while Bai Hua She She Cao is stronger at clearing Damp-Heat and enters the Stomach and Large Intestine. Together they create a comprehensive toxin-clearing and stasis-resolving action that neither achieves alone.
+- **When to Use**: Used as a foundational pair in adjunctive cancer treatment formulas, especially for cancers of the digestive tract, liver, and lungs. Also used together for severe toxic Heat conditions, infections, and inflammatory conditions.
+
+### Ban Bian Lian (Ratio: 1:1 (15-30g each))
+- **Description**: Both herbs clear Heat and resolve toxins, and their names are often confused. Ban Bian Lian (Lobelia chinensis) is particularly strong at promoting urination and reducing edema, while Ban Zhi Lian is stronger at dispersing Blood stasis. Together they combine potent detoxification with enhanced fluid drainage, covering both the toxin and the Dampness aspects of disease.
+- **When to Use**: Snakebite (a classical application for both herbs together), toxic swellings with edema, and cancers with fluid accumulation such as ascites.
+
+### Yu Xing Cao (Ratio: 1:1 (Ban Zhi Lian 30g : Yu Xing Cao 30g))
+- **Description**: Yu Xing Cao (Houttuynia) specifically targets Heat toxin in the Lungs and has strong antibacterial properties. Combined with Ban Zhi Lian, the pair creates a powerful lung-directed toxin-clearing action. Yu Xing Cao excels at draining pus from lung abscess, while Ban Zhi Lian adds Blood-stasis-dispersing activity.
+- **When to Use**: Lung abscess (lung abscess is a classical indication), lung cancer support, and respiratory infections with purulent sputum.
+
+### E Zhu (Ratio: 1:1 (15g each))
+- **Description**: E Zhu (Curcuma zedoaria) is a powerful Blood-stasis-breaking herb that also softens and disperses hard masses. Combined with Ban Zhi Lian's Heat-toxin-clearing action, the pair addresses both the toxic Heat and the fixed Blood stasis components of tumor formation. E Zhu provides stronger stasis-breaking force, while Ban Zhi Lian provides the Heat-clearing toxin resolution.
+- **When to Use**: Cancer support formulas where both Blood stasis and Heat toxin are prominent, particularly for liver and gastrointestinal tumors with palpable masses.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Ban Zhi Lian is classified as non-toxic in the Chinese Pharmacopoeia and is generally well tolerated at standard doses. Animal toxicity studies report an LD50 of approximately 6.10 g/kg (oral decoction, mice), indicating a wide safety margin at normal therapeutic doses. No significant organ damage was observed in subchronic animal studies at standard dosage levels, though some mild kidney swelling was noted at higher doses. The primary concern is not acute toxicity but rather the potential for its bitter, cold nature to injure the digestive system or deplete Blood over prolonged use.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Classical sources advise that pregnant women should use Ban Zhi Lian with caution (孕妇慎服). The herb has Blood-moving and Blood stasis-breaking properties (破血通经), which could theoretically stimulate the uterus or promote menstruation, posing a risk to the developing fetus. Its strongly cold nature may also be inappropriate during pregnancy. While it is not classified as absolutely contraindicated, it should generally be avoided during pregnancy unless specifically indicated and prescribed by a qualified practitioner.
+- **Breastfeeding**: No specific classical or modern safety data exists for Ban Zhi Lian during breastfeeding. Given its cold and bitter properties, there is a theoretical concern that it could affect digestion in the nursing mother and potentially transfer bitter, cold-natured compounds through breast milk to the infant. Some prepared medicines containing Ban Zhi Lian carry a label advising caution during breastfeeding. It is best to avoid use during breastfeeding unless specifically prescribed by a qualified practitioner.
+- **Children**: No specific pediatric dosage guidelines exist in classical or modern pharmacopoeia texts for Ban Zhi Lian. Due to its cold and bitter nature, it should be used cautiously in children, with dosages reduced proportionally based on age and body weight (typically one-third to one-half of adult doses for children over 6 years). It is not generally recommended for infants or very young children, as their digestive systems are immature and more susceptible to injury from cold, bitter herbs. Use in children should be under practitioner supervision.
+
+### Drug Interactions
+There is limited published data on specific pharmaceutical drug interactions for Ban Zhi Lian. Based on its known pharmacological properties, the following theoretical interactions should be considered:
+- Anticoagulant and antiplatelet drugs (warfarin, aspirin, clopidogrel): Ban Zhi Lian has Blood-moving and stasis-breaking properties and may theoretically potentiate the effects of blood-thinning medications, increasing bleeding risk.
+- Chemotherapy agents: Preclinical research suggests S. barbata may modulate multiple signalling pathways (Akt, Wnt, Hedgehog) relevant to cancer cell growth. While some studies suggest it may enhance chemotherapy efficacy and reduce side effects, combined use should only occur under medical supervision due to potential for unpredictable interactions with cytotoxic drugs.
+- Immunosuppressants: The herb's polysaccharides have demonstrated immunomodulatory effects in animal models, potentially interfering with immunosuppressive therapy.
+These are theoretical considerations based on pharmacological profiles rather than documented clinical case reports. Patients taking pharmaceutical medications should consult their healthcare provider before using Ban Zhi Lian.
+
+### Dietary Advice
+Because Ban Zhi Lian is cold in nature, it is advisable to avoid excessive amounts of cold, raw foods (salads, iced drinks, raw fruit) while taking this herb, especially for individuals with weaker digestion. Warm, easily digestible foods (cooked grains, soups, steamed vegetables) help support the Spleen and reduce the chance of digestive discomfort from the herb's cold properties. When used for Heat-toxin or cancer-supportive purposes, avoiding alcohol, greasy or fried foods, and spicy, hot-natured foods is generally recommended to avoid aggravating the underlying Heat condition.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Scutellaria barbata D. Don (Barbed Skullcap) is a perennial herbaceous plant in the mint family (Lamiaceae), growing 15 to 55 cm tall. Its stems are erect, slender, and square-shaped (a characteristic feature of the mint family), typically clustered together in clumps. The stems are dark purplish or brownish-green in colour. Leaves are opposite, short-stalked, and triangular-ovate to lance-shaped, 1.5 to 3 cm long and 0.5 to 1 cm wide, with entire or faintly blunt-toothed margins. The upper leaf surface is dark green; the underside is grey-green.
+Small flowers bloom singly from the leaf axils on the upper stems, each with a two-lipped (bilabiate) corolla that is purple-blue in colour, roughly 9 to 13 mm long, and lightly hairy. The flowers appear on one side of the stem in a one-sided raceme, giving the plant a distinctive "toothbrush" appearance, which is the origin of one of its folk names, "toothbrush grass" (牙刷草). The fruit is a flattened globular nutlet, light brown in colour. Flowering and fruiting occurs from April through July.
+The plant grows naturally in moist habitats such as the edges of paddy fields, stream banks, pond margins, and wet grasslands at elevations below 2000 metres. It prefers warm, humid, semi-shaded environments with loose, fertile, well-drained soil. The entire above-ground plant (whole herb) is used medicinally.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to autumn (May through September), when the stems and leaves are lush. Cultivated crops can be harvested up to three times per year (typically May, July, and September from the second year onward).
+- **Primary Growing Regions**: Ban Zhi Lian is widely distributed across southern and central China. Major production areas include Henan province (especially Queshan county in Zhumadian, a major commercial growing base), as well as Jiangsu, Zhejiang, Fujian, Jiangxi, Anhui, Guangdong, Guangxi, Sichuan, Guizhou, and Yunnan provinces. It also grows wild in Hebei, Shanxi, Shandong, and southern Shaanxi. Outside China, the plant is found in Japan, Korea, northeastern India, Nepal, Myanmar, Laos, Thailand, and Vietnam. There is no single strongly defined "terroir" (道地) region, as it grows abundantly in many areas, though Henan and the eastern coastal provinces are currently the largest commercial suppliers.
+- **Quality Indicators**: Good quality dried Ban Zhi Lian should be 15 to 35 cm long with intact whole plants. The stems should be slender, square-shaped, and dark purplish or brownish-green. Leaves should be abundant, dark green on the upper surface and grey-green underneath, retaining their shape when gently flattened. The presence of intact one-sided flower spikes with blue-purple or brownish-yellow lip-shaped flowers indicates higher quality. The herb should have a faint aroma and a slightly bitter taste. Prefer first-harvest (头茬) material, which tends to have greener colour and higher active constituent content compared to second or third harvests. Avoid material that is yellowed, overly fragmentary, or contains excessive stem with few leaves and flowers.
+
+### Identity & Adulterants
+Ban Zhi Lian (Scutellaria barbata) is most commonly confused with two other plants:
+1. Han Xin Cao (韩信草, Scutellaria indica): A closely related Scutellaria species with broader, more heart-shaped leaves and larger flowers. In some regions (Jiangsu, Zhejiang, Yunnan), S. indica is also called "Ban Zhi Lian" locally. S. indica leaves are rounder and hairier, with a distinctive ear-shaped persistent calyx. They are different herbs with different clinical applications.
+2. Ban Bian Lian (半边莲, Lobelia chinensis): Despite the similar name, this is a completely different plant from the Campanulaceae family with smaller, single-sided flowers. Historical confusion between the two dates back centuries. Ban Bian Lian has different properties and indications, though both are used for snakebite.
+3. Various Sedum species (景天科 plants): Historical texts such as the Ben Cao Gang Mu Shi Yi described "half-branch" herbs that were actually Sedum plants, not Scutellaria barbata. These have fleshy, succulent leaves and yellow flowers and are easily distinguishable from true Ban Zhi Lian.
+
+---
+
+## References
+### Classical Texts
+#### Jiang Yi, <em>Yao Jing Shi Yi Fu</em> (《药镜拾遗赋》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Ban Zhi Lian has a relatively short history as a formally recognised medicinal herb. Its name first appeared in the Ming Dynasty surgical text Wai Ke Zheng Zong (《外科正宗》, c. 1617) by Chen Shigong, where it was included in the formula "Seven Star Sword" (七星剑) for treating sores and snakebite. Jiang Yi's Yao Jing Shi Yi Fu also praised it as "a wondrous herb that resolves snakebite injury." However, these early references lacked detailed botanical descriptions, making it difficult to confirm which plant was meant.
+Historically, considerable confusion existed between Ban Zhi Lian and several other herbs. The Qing Dynasty text Ben Cao Gang Mu Shi Yi (《本草纲目拾遗》) by Zhao Xuemin discussed "half-branch" herbs under plants from the Sedum genus (景天科), which are different plants entirely. Additionally, in some regions of Jiangsu, Zhejiang, and Yunnan, the related species Scutellaria indica (韩信草, Han Xin Cao) was also called "Ban Zhi Lian," adding to the confusion. It was not until 1985 that the modern Scutellaria barbata was formally defined and included in the Chinese Pharmacopoeia as the official Ban Zhi Lian.
+The folk name "Han Xin Cao" (韩信草, "General Han Xin's herb") comes from a popular legend in which the Han Dynasty military strategist Han Xin was nursed back to health with this herb after being beaten, and later used it to treat wounded soldiers in battle. From the mid-20th century onward, Ban Zhi Lian gained widespread attention for its use in cancer treatment in folk medicine, particularly in southeastern China, and has since become one of the most commonly prescribed herbs in Chinese oncology practice.
+
+### Modern Scientific Research
+1. **[Systematic Literature Review: From Scutellaria barbata to BZL101 in Cancer Patients: Phytochemistry, Pharmacology, and Clinical Evidence (2019)]()**
+   *Journal: Gao J, Yin W, Corcoran O. Natural Product Reports (Natural Product Communications), 2019, 14(10), 1934578X19880645.*
+   This systematic review examined the phytochemistry, pharmacology, and clinical evidence for Scutellaria barbata as an anticancer agent. It documented that the botanical investigational drug BZL101 (derived from S. barbata aqueous extract) underwent Phase 1A and 1B clinical trials in the US for metastatic breast cancer, showing favourable safety profiles and promising early efficacy signals, though development was halted due to insufficient funding.
+
+2. **[Phase 1B Dose Escalation Trial of Scutellaria barbata (BZL101) for Patients with Metastatic Breast Cancer (2010)](https://pubmed.ncbi.nlm.nih.gov/20054647/)**
+   *Journal: Rugo H, Shtivelman E, Perez A, et al. Breast Cancer Res Treat, 2010, 120(1), 111-118.*
+   This Phase 1B clinical trial treated 27 women with metastatic breast cancer across four dose cohorts. Serious adverse events were uncommon. Three of 14 evaluable patients achieved stable disease lasting over 120 days, and three showed objective tumour regression. The maximum tolerated dose was not reached at up to 40 g/day. The authors concluded that oral BZL101 was safe, well tolerated, and showed promising anticancer activity.
+
+3. **[Comprehensive Review: Ethnopharmacology, Phytochemistry, Pharmacology, and Quality Control of Scutellaria barbata D. Don (2020)](https://pubmed.ncbi.nlm.nih.gov/31577937/)**
+   *Journal: Wang L, et al. Journal of Ethnopharmacology, 2020, 254, 112260.*
+   This comprehensive review identified over 203 compounds from S. barbata, with neo-clerodane diterpenoids and flavonoids as the principal constituents. Extracts showed anti-inflammatory, antimicrobial, and antitumour activities in preclinical studies. The heat-clearing effects could be attributed to anti-inflammatory and hepatoprotective activities, while detoxifying effects relate to antimicrobial properties of diterpenoids and flavones.
+
+4. **[Comprehensive Review: Chemical Constituents, Anti-Tumor Mechanisms, and Clinical Application of Scutellaria barbata (2024)](https://pubmed.ncbi.nlm.nih.gov/39274982/)**
+   *Journal: Sun J, Cao Y, Liu Q, Zhou Z, Xu Y, Liu C. Molecules, 2024, 29(17), 4134.*
+   This 2024 review summarised the anticancer mechanisms of S. barbata, including induction of apoptosis via mitochondrial and death receptor pathways, suppression of tumour angiogenesis through VEGF pathway inhibition, inhibition of cell migration via EMT suppression and MMP downregulation, and reversal of chemotherapy drug resistance. Multiple flavonoid and diterpenoid compounds were identified as the active anticancer constituents.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/ban-zhi-lian](https://www.meandqi.com/knowledge-base/herbs/ban-zhi-lian)*

@@ -1,0 +1,308 @@
+# Lower Abdominal Pain (少腹痛)
+**Pinyin**: shǎo fù tòng | **Kind**: Symptom | **Category**: Abdominal Pain  
+**Synonyms**: Hypogastric Pain, Hypogastrium Pain, Lower Belly Pain, Pain In The Lower Abdomen, Pain In The Lower Belly, Dull aching pain in the lower belly, Dull lingering lower abdominal pain, Cold Cramping Pain in the Lower Abdomen, Lower Abdominal Discomfort, Lower Abdominal Pain or Pressure | **Body Regions**: Abdomen — Lower
+
+---
+
+## Preview Summary
+The type of lower abdominal pain you feel - whether it's burning, cramping, or dull - is the key to unlocking the correct TCM diagnosis, and most patients see meaningful improvemen...
+
+---
+
+## Conventional Medicine View
+### Description
+In Western medicine, lower abdominal pain can stem from gastrointestinal issues like irritable bowel syndrome, inflammatory bowel disease, or chronic constipation, urinary tract problems such as bladder infections or kidney stones, or reproductive system conditions including menstrual cramps, ovarian cysts, and endometriosis. Diagnosis typically involves a physical exam, blood and urine tests, imaging studies, and sometimes endoscopy to rule out serious pathology.
+When no structural or infectious cause is found - which happens often - the pain may be classified as functional, and management focuses on symptom control rather than a cure. The location and quality of the pain offer clues, but the conventional framework doesn't differentiate the internal constitutional patterns that TCM considers essential.
+
+### Treatments
+Treatment depends on the suspected cause. IBS is often managed with dietary changes, antispasmodics, and stress reduction. UTIs are treated with antibiotics, while menstrual pain commonly responds to NSAIDs or hormonal contraceptives. When no clear physical cause is found, pain management may include over-the-counter analgesics, muscle relaxants, or neuromodulators. Physical therapy and cognitive behavioral approaches are sometimes recommended for chronic pelvic pain syndromes.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, the lower abdomen is the territory of the Liver channel, which winds through the groin and lower belly, and the lower burner - the region housing the intestines, bladder, and uterus. Pain here almost always involves a disruption in the smooth flow of Qi and blood through these channels and organs.
+The Liver is especially vulnerable to emotional stress, and when frustration or anger causes Liver Qi to stagnate, the lower abdomen may feel distended and achy, with pain that moves around and flares with mood. The same channel can be invaded by cold - from exposure to chilly weather or a diet rich in icy foods - causing the vessels to constrict, which produces a cramping, colicky pain that feels better with heat.
+But the Liver is only part of the picture. Dampness and heat can sink down to the lower burner like murky water pooling in a ditch, creating a heavy, burning pain that worsens with pressure and often comes with dark urine or sticky stools.
+When the Spleen’s warming Yang is weak, the lower belly loses its internal fire, leaving a dull, lingering ache that feels better when you press on it or apply a hot water bottle. And when blood becomes stagnant in the lower burner - sometimes after an illness or injury - the pain becomes fixed and stabbing, with a hard, tender spot that does not move.
+This is why TCM treats two people with the same Western diagnosis - say, IBS - very differently. One may present with cold, cramping pain that improves with warmth and is triggered by cold foods; another may have burning, urgent pain with a thick yellow tongue coating. The first would receive warming, dispersing herbs, while the second would need cooling, damp-draining formulas. By matching the treatment to the exact pattern, TCM aims to resolve not just the pain but the constitutional tendency that allowed it to arise.
+
+### Practitioner Diagnosis
+A TCM practitioner begins by listening carefully to the story of the pain - where exactly it sits, what it feels like, and what makes it better or worse. Because the lower abdomen is the territory of the Liver channel and the lower burner (intestines, bladder, uterus), the quality of the discomfort is the first clue that steers the diagnosis toward one pattern rather than another.
+If the pain is a distending, moving ache that flares up with stress and eases when mood improves, the practitioner suspects Liver Qi Stagnation. The tongue often looks normal with a thin white coating, and the pulse feels wiry - like a guitar string - reflecting trapped Qi struggling to flow.
+When the pain is a cold, cramping spasm that improves with a hot water bottle and worsens after exposure to cold, that points to Stagnation of Cold in the Liver Channel. The tongue coating is typically white and slippery, and the pulse feels deep and tight, as if the cold has physically constricted the channel.
+A burning, heavy pain that gets worse with pressure and may come with urinary urgency, diarrhea with mucus, or a constant thirst for cold drinks signals Damp-Heat in the Lower Burner. Here the tongue is red with a greasy yellow coating, and the pulse is rapid and slippery - signs of heat and moisture brewing together in the lower body.
+If the pain is dull, lingering, and feels better with gentle pressure and warmth, but the person also looks tired and often has loose stools, the picture shifts to Spleen Yang Deficiency. The tongue is pale and puffy with a thin white coat, and the pulse is deep and thready, showing that the digestive fire is too weak to warm the middle burner.
+A fixed, stabbing pain that is tender to touch and may feel like a knot or mass suggests Greater Yang Accumulation of Blood. The tongue appears dark or purple with stasis spots, and the pulse is wiry and choppy - like a stream hitting rocks - because blood has pooled and cannot move smoothly.
+When the pain is dull and relieved by pressure yet also has moments of stabbing, and the person looks pale with dizziness or scanty periods, the pattern is Blood Deficiency and Stagnation. The tongue is pale but may show a few stasis spots, and the pulse is thready and wiry, reflecting a lack of nourishment alongside sluggish flow.
+
+### Classical Reference
+> **Original**: 「少腹痛，上下无常，薄为肠澼。」
+> 
+> **Translation**: "Lower abdominal pain that moves without a fixed location, with thin stools, is a sign of intestinal disorder."
+> 
+> — Source: *Huang Di Nei Jing Su Wen  ,  Chapter 70 (Wu Chang Zheng Da Lun) 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Liver Qi Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/liver-qi-stagnation)*
+
+- **Clinical Signs & Symptoms**: Distending, wandering pain that comes and goes, Pain worsens with stress and frustration, Frequent sighing or belching, Irritability or mood swings, Breast tenderness, irregular or painful periods
+- **Worse with**: Stress and frustration, Anger or resentment, Greasy or heavy meals, Prolonged sitting or inactivity
+- **Better with**: Emotional calm and relaxation, Gentle exercise like walking or yoga, Deep breathing or sighing
+- **Why this happens (Mechanism)**:
+  The Liver channel runs through the lower abdomen, so when emotional stress or frustration builds up, the Liver's Qi flow stalls and stagnates. This creates a sensation of distension, bloating, and pain that comes and goes, moving around the lower belly. The pain often worsens with further emotional upset and eases when you relax or sigh.
+- **Tongue & Pulse**: Tongue: normal or slightly dark body, red or slightly purple sides, thin white coat. Pulse: wiry (弦 xián), taut like a guitar string.
+- **Triggers & Relief Explanation**: Stress and anger cause Liver Qi to stagnate and surge, directly triggering the distending pain. Gentle movement and emotional calm unblock the Qi, while heavy foods can further clog the Liver's ability to keep Qi moving smoothly.
+- **Diet & Lifestyle**: Practice stress management with deep breathing, meditation, or gentle yoga. Eat warm, cooked meals and avoid greasy, spicy foods that can aggravate stagnation. Regular gentle movement like walking helps keep Liver Qi flowing smoothly.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | The primary formula to smooth Liver Qi, relieve distending pain in the lower abdomen, and harmonize the Liver and Spleen. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Soothes the Liver and relieves the stagnation at the root of the distending pain. |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome |  | Regulates Qi, moves Liver Qi, and specifically eases lower abdominal and menstrual pain. |
+| **[Bai Shao](https://www.meandqi.com/knowledge-base/herbs/bai-shao)** | White peony root |  | Softens the Liver, alleviates spasms, and helps stop the wandering pain. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Reduce. The main point to subdue Liver Yang and move stagnant Qi, relieving hypogastric pain. |
+| **LR-14** | [Qimen LR-14](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/qimen-lr-14) | Q&#x12B; M&#xE9;n | Invigorates Liver Qi, Harmonizes the Liver and Stomach | Front-mu point of the Liver; soothes the Liver and directly eases lower abdominal distension. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates menstruation and moves Qi in the lower burner, helping with both pain and cycle irregularities. |
+
+---
+
+### Stagnation of Cold in the Liver Channel
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/stagnation-of-cold-in-the-liver-channel)*
+
+- **Clinical Signs & Symptoms**: Cold, cramping pain that improves with warmth, Pain radiating to the groin, testicles, or inner thigh, Worsened by cold exposure or cold drinks, Feeling of cold in the lower belly, Cold hands and feet, Scrotal contraction or testicular cold-pain (in men)
+- **Worse with**: Cold weather or drafts, Icy or raw foods and drinks, Prolonged sitting in the cold, Emotional stress
+- **Better with**: Heat (hot water bottle, warm bath), Warm cooked foods and drinks, Rest and lying down, Moxibustion on the lower belly
+- **Why this happens (Mechanism)**:
+  The Liver channel runs through the lower belly and wraps around the genitals. When cold invades this channel - from exposure to cold weather, eating icy foods, or an internal cold constitution - the cold constricts the vessels and freezes the flow of Qi and Blood. This causes a characteristic cramping, spasming pain that often pulls downward into the groin or testicles, because the channel is literally being held tight by cold.
+- **Tongue & Pulse**: Tongue: pale body with a white, slippery (wet) coating. Pulse: deep, wiry, and slow or tight.
+- **Triggers & Relief Explanation**: Cold is the root cause here: it constricts the Liver channel and freezes the flow of Qi and Blood, creating the cramping pain. Warmth does the opposite - it relaxes the channel and encourages Qi to flow again, which is why heat brings such immediate relief. Emotional stress can worsen the pain because a tense Liver already struggles to move Qi, and adding cold on top of that creates a double blockage.
+- **Diet & Lifestyle**: Keep your lower belly warm at all times - a belly band or warm compress works wonders. Avoid cold, raw foods and iced drinks completely; choose warm soups, stews, and cooked vegetables. Gentle movement like walking or stretching prevents stagnation, but avoid overexertion in cold or damp weather.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Wu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/wu-zhu-yu-tang)** | Evodia Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Hot, Warms the Middle Burner and tonifies deficiency, Directs Rebellious Qi Downward and Stops Vomiting, Warms the Liver Channel and Dispels Cold | The classic formula to warm the Liver, expel Cold, and stop pain along the Liver channel. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Wu Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/wu-zhu-yu)** | Evodia fruit |  | Warms the Liver channel, disperses Cold, and relieves lower abdominal pain. |
+| **[Xiao Hui Xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)** | Fennel fruit |  | Warms the lower burner, regulates Qi, and eases hernial-type pain radiating to the groin. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The source point of the Liver channel; with moxibustion it warms the channel and moves Qi to relieve pain. |
+| **REN-3** | [Zhongji REN-3](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongji-ren-3) | Zh&#x14D;ng J&#xED; | Clears Dampness from the Lower Burner, Benefits the Bladder and its Qi transformation | Located just above the pubic bone, it directly addresses lower abdominal pain and regulates the lower burner. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxibustion on this point powerfully warms the lower abdomen and dispels deep cold. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes the Liver, Spleen, and Kidney; with warmth it helps move blood and ease cramping. |
+
+---
+
+### Damp-Heat in the Lower Burner
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/damp-heat-in-the-lower-burner)*
+
+- **Clinical Signs & Symptoms**: Burning or hot sensation in the lower abdomen, Pain is worse with pressure or touch, Dark, scanty, or painful urination, Foul-smelling vaginal discharge or scrotal dampness, Sticky, foul-smelling stools or diarrhoea, Heavy, dragging sensation in the lower body
+- **Worse with**: Hot, spicy, or greasy foods, Alcohol and coffee, Damp, humid weather, Prolonged sitting or inactivity, Stress and frustration
+- **Better with**: Cool, dry environment, Light, bland foods (e.g., congee, steamed vegetables), Gentle exercise like walking or yoga, Staying well hydrated with warm water
+- **Why this happens (Mechanism)**:
+  Dampness and Heat sink to the lower body like murky water pooling in a ditch. This heavy, sticky mix clogs the channels of the lower burner - the intestines, bladder, or uterus - creating a sense of fullness, burning, and pressure. The Heat component makes the pain feel hot and irritated, while the Dampness makes it heavy and lingering, often with foul discharges or urinary trouble.
+- **Tongue & Pulse**: Tongue: red body, slightly swollen, with a thick yellow greasy coating that is most prominent at the root. Pulse: slippery (滑 huá) and rapid (数 shuò), often more pronounced at the rear position.
+- **Triggers & Relief Explanation**: Damp-Heat is like a hot, sticky swamp inside the body. Greasy, spicy foods and alcohol add more Heat and Dampness, making the swamp deeper and hotter - so the pain worsens. A cool, dry environment and light, bland foods help drain the swamp, reducing the burning and heaviness. Gentle movement keeps Qi flowing so the turbid Damp-Heat doesn't stagnate, while stress can stir up Liver Qi and fan the Heat, aggravating the pain.
+- **Diet & Lifestyle**: Eat light, cooling, easily digested foods - think steamed greens, cucumber, mung beans, and barley. Avoid greasy, fried, spicy, or sugary foods, as well as alcohol, which all add Dampness and Heat. Drink plenty of warm water, but not ice-cold drinks, to help flush the system. Gentle movement like walking or stretching keeps Qi and fluids moving without overheating the body.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The classic formula to drain Damp-Heat from the lower burner, especially when the Liver channel is involved. It clears Heat, dries Dampness, and stops the burning pain. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | The lead herb to purge Damp-Heat from the Liver and Gallbladder channels, directly targeting the lower burner. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears Heat and dries Dampness in the intestines and bladder, helping to relieve the burning sensation and foul discharges. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | The front-mu point of the Large Intestine, it regulates Qi in the lower abdomen and clears Damp-Heat from the intestines. |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | The lower He-Sea point of the Large Intestine, specifically for Damp-Heat disorders in the lower burner causing diarrhoea or pain. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | The master point for Dampness. Needling here drains Dampness from the whole body, especially the lower burner. |
+
+---
+
+### Spleen Yang Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/spleen-yang-deficiency)*
+
+- **Clinical Signs & Symptoms**: Dull, lingering pain, Improved by warmth and pressure, Loose stools with undigested food, Cold hands and feet, Fatigue and heaviness
+- **Worse with**: Icy or raw foods and drinks, Overwork and exhaustion, Cold weather or drafts, Excessive worry and overthinking
+- **Better with**: Warmth, Gentle pressure on the abdomen, Rest and lying down, Warm cooked foods and drinks, Moxibustion on the lower belly
+- **Why this happens (Mechanism)**:
+  The Spleen’s Yang is the body’s digestive fire - it warms the middle burner and transforms food into energy. When it weakens, cold accumulates in the abdomen, and the lower belly loses its internal warmth. This leaves a dull, lingering ache that feels better when heat is applied or when you press gently, because the area craves the warmth and support that the weakened Spleen can no longer provide.
+- **Tongue & Pulse**: Tongue: pale, puffy, tender body with teeth marks and a white slippery coating. Pulse: deep, slow, weak.
+- **Triggers & Relief Explanation**: Spleen Yang is the digestive fire. Cold foods and overwork extinguish it, while warmth and rest rekindle it. Pressure comforts the deficiency, and moxibustion directly adds Yang energy to the middle burner, restoring the warmth needed to ease the dull pain.
+- **Diet & Lifestyle**: Eat warm, cooked foods like soups, stews, and congees. Avoid raw, cold, and iced foods entirely. Keep your abdomen warm with a belly band or hot water bottle. Gentle daily movement such as walking or tai chi helps Qi flow without depleting energy. Rest when you feel tired - pushing through fatigue further drains the Spleen.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Li Zhong Wan](https://www.meandqi.com/knowledge-base/formulas/li-zhong-wan)** | Pill to Regulate the Middle &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE | Warm, Warms the Middle Burner, Disperses Cold, Tonifies Qi | The primary formula to warm the middle burner, dispel cold, and restore Spleen Yang. |
+| **[Fu Zi Li Zhong Tang](https://www.meandqi.com/knowledge-base/formulas/fu-zi-li-zhong-tang)** | Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE | Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner | Used when cold is more severe, adding Aconite to powerfully warm Yang and relieve pain. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome |  | Warms the Spleen and Stomach, dispels internal cold, and stops diarrhea. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Tonifies Spleen Qi, dries dampness, and strengthens the digestive fire. |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root |  | Strongly replenishes the original Qi and supports the Spleen&#x2019;s transforming function. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Spleen Qi and Yang, strengthens the limbs, and regulates the middle burner. |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Front-Mu point of the Stomach; warms the middle burner and stops abdominal pain. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa on this point strongly warms the lower burner and tonifies Yang energy. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Back-Shu point of the Spleen; directly tonifies Spleen Yang and dispels cold. |
+
+---
+
+### Greater Yang Accumulation of Blood
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/greater-yang-accumulation-of-blood)*
+
+- **Clinical Signs & Symptoms**: Fixed stabbing pain in the lower abdomen, Tenderness and hardness on pressure, Restlessness, mental confusion, or manic agitation, Normal urination despite the lower abdominal pain
+- **Worse with**: Emotional stress and anger, Spicy and fried foods, Alcohol and coffee, Strenuous exercise, Prolonged sitting or inactivity
+- **Better with**: Cooling foods and drinks, Gentle exercise like walking or yoga, Rest and lying down
+- **Why this happens (Mechanism)**:
+  In this pattern, heat and blood stasis collect in the lower burner, often after an external illness moves deep into the body. The stasis blocks the flow of Qi and blood through the lower abdomen, causing a fixed, stabbing pain that feels tender and hard when pressed. The trapped heat can rise to disturb the mind, leading to restlessness, mental confusion, and even manic-like behavior. Despite the intense lower abdominal symptoms, urination stays normal, which helps distinguish this from a bladder problem.
+- **Tongue & Pulse**: Tongue: purple or dark body with stasis spots, yellow dry coating, engorged sublingual veins. Pulse: deep and choppy or knotted.
+- **Triggers & Relief Explanation**: Emotional stress fuels heat and stagnates Qi, worsening blood stasis. Spicy and fried foods add internal heat, aggravating the condition. Rest and cooling foods help clear heat and calm the mind, while gentle movement encourages blood flow without overstimulating heat.
+- **Diet & Lifestyle**: Avoid spicy, greasy, and fried foods that generate internal heat. Eat cooling, blood-nourishing foods like celery, cucumber, and mung beans. Gentle daily movement such as walking or tai chi helps prevent blood stasis, but avoid overexertion. Practice stress management, as emotional upset can worsen heat and stasis.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tao He Cheng Qi Tang](https://www.meandqi.com/knowledge-base/formulas/tao-he-cheng-qi-tang)** | Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels | The classic formula to break up blood stasis in the lower burner, clear heat, and relieve both the abdominal pain and mental disturbance. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel |  | Invigorates blood and breaks stasis, especially targeting the lower abdomen. |
+| **[Da Huang](https://www.meandqi.com/knowledge-base/herbs/da-huang)** | Rhubarb root and rhizome |  | Clears heat and purges stasis downward, relieving pain and mental agitation. |
+| **[Mang Xiao](https://www.meandqi.com/knowledge-base/herbs/mang-xiao)** | Mirabilite |  | Softens hardness and assists in expelling the stasis from the lower burner. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Moves Liver Qi and blood to relieve stasis in the lower burner. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood and dispels stasis, a key point for any blood stasis pattern. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates the lower burner and promotes blood circulation in the pelvic region. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Local point to address lower abdominal pain and regulate Qi in the lower burner. |
+
+---
+
+### Blood Deficiency and Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/blood-deficiency-and-stagnation)*
+
+- **Clinical Signs & Symptoms**: Dull or stabbing lower abdominal pain, better with gentle pressure, Scanty, late periods with dark clots, Pale or sallow face with a dusky, purplish tinge, Dizziness, fatigue, and heart palpitations, Brittle or ridged nails and dry skin
+- **Worse with**: Overwork and exhaustion, Stress and frustration, Cold weather or drafts, Icy or raw foods and drinks, Prolonged standing
+- **Better with**: Rest and lying down, Gentle abdominal pressure or massage, Heat (hot water bottle, warm bath), Warm cooked foods and drinks
+- **Why this happens (Mechanism)**:
+  When blood is insufficient, the Liver channel and lower burner lack proper nourishment, producing a dull, lingering ache in the lower abdomen. The deficiency also slows the flow, allowing blood to congeal and form stasis, which adds a fixed, stabbing quality to the pain. Together, the lack of nourishment and the trapped blood create a distinctive pain that eases with rest but can stab unexpectedly.
+- **Tongue & Pulse**: Tongue: pale body with a purple or dusky cast, thin, possible stasis spots; thin white coat. Pulse: fine (细 xì) and choppy (涩 sè), often wiry (弦 xián) on the left Guan position.
+- **Triggers & Relief Explanation**: Rest and warmth nourish blood and help move stagnant blood, easing both the dull ache and the stabbing pain. Overwork and emotional stress deplete blood and stagnate Qi, which worsens the underlying deficiency and stasis. Cold constricts the vessels and congeals blood, making the pain worse, while warm, nourishing foods support blood production and gentle circulation.
+- **Diet & Lifestyle**: Eat warm, blood-building foods like dark leafy greens, red meat, eggs, dates, and black sesame. Avoid cold, raw foods and icy drinks, which congeal blood and worsen stasis. Gentle daily movement-such as walking or stretching-helps blood circulate without exhausting you. Prioritize rest and avoid overwork.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tao Hong Si Wu Tang](https://www.meandqi.com/knowledge-base/formulas/tao-hong-si-wu-tang)** | Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE | Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation | The classic formula to nourish blood and invigorate its flow, addressing both the deficiency and the stasis that cause lower abdominal pain. |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | A classical formula for people who feel stressed, emotionally tense, or irritable, especially when accompanied by fatigue, poor appetite, digestive upset, or menstrual irregularity. It works by gently restoring the smooth flow of Liver Qi while nourishing the blood and strengthening digestion. One of the most widely used formulas in traditional Chinese medicine, it is often described as helping a person feel &#x27;free and easy&#x27; again. |
+| **[Wu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/wu-zhu-yu-tang)** | Evodia Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Hot, Warms the Middle Burner and tonifies deficiency, Directs Rebellious Qi Downward and Stops Vomiting, Warms the Liver Channel and Dispels Cold | A warming classical formula used to relieve nausea, vomiting, and headaches caused by internal Cold in the digestive system. It gently warms the Stomach and Liver while calming the upward surging of Cold turbidity that can cause vertex headaches, acid reflux, and cold hands and feet. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Li Zhong Wan](https://www.meandqi.com/knowledge-base/formulas/li-zhong-wan)** | Pill to Regulate the Middle &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE | Warm, Warms the Middle Burner, Disperses Cold, Tonifies Qi | A classical warming formula used to strengthen the digestive system when it has become weakened by internal cold. It addresses symptoms like watery diarrhea, nausea, abdominal pain relieved by warmth and pressure, poor appetite, and a general feeling of coldness. It works by warming the core of the body and restoring the Spleen and Stomach&#x27;s ability to process food and fluids. |
+| **[Fu Zi Li Zhong Tang](https://www.meandqi.com/knowledge-base/formulas/fu-zi-li-zhong-tang)** | Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE | Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner | A warming formula used to strengthen the digestive system and restore warmth to the body. It is used for people who feel deeply cold in the abdomen, experience chronic loose stools or diarrhea, vomiting, poor appetite, and cold hands and feet caused by severe weakness and cold in the Spleen, Stomach, and Kidneys. |
+| **[Tao He Cheng Qi Tang](https://www.meandqi.com/knowledge-base/formulas/tao-he-cheng-qi-tang)** | Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels | A classical formula used to break up blood stasis and clear heat from the lower abdomen. It is commonly applied for lower abdominal pain with a sense of tightness and fullness, dark-coloured menstrual blood or stools, restlessness, and nighttime fevers caused by stagnant blood binding with heat in the lower body. |
+| **[Tao Hong Si Wu Tang](https://www.meandqi.com/knowledge-base/formulas/tao-hong-si-wu-tang)** | Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE | Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation | A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes blood and invigorates its flow, addressing both the deficiency and the stasis. |
+| **[Yan Hu Suo](https://www.meandqi.com/knowledge-base/herbs/yan-hu-suo)** | Corydalis rhizome |  | Moves blood and powerfully alleviates pain, especially in the lower abdomen. |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome | Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain |  |
+| **[Bai Shao](https://www.meandqi.com/knowledge-base/herbs/bai-shao)** | White peony root | Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain |  |
+| **[Wu Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/wu-zhu-yu)** | Evodia fruit | Hot, Dispels Cold and Alleviates Pain, Directs Rebellious Qi Downward and Stops Vomiting, Assists Yang and stops diarrhea |  |
+| **[Xiao Hui Xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)** | Fennel fruit | Warm, Dispels Cold and Alleviates Pain, Regulates Qi and Harmonizes the Middle Burner, Warms the Liver and Kidneys |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome | Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs |  |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel | Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing |  |
+| **[Da Huang](https://www.meandqi.com/knowledge-base/herbs/da-huang)** | Rhubarb root and rhizome | Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity |  |
+| **[Mang Xiao](https://www.meandqi.com/knowledge-base/herbs/mang-xiao)** | Mirabilite | Cold, Purges Heat and Unblocks the Bowels, Softens Hardness and Moistens Dryness, Clears Heat and Reduces Swelling |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Yan Hu Suo](https://www.meandqi.com/knowledge-base/herbs/yan-hu-suo)** | Corydalis rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes blood and moves stasis in the lower burner and uterus. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood; invigorates blood and dispels stasis. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Liver source point; moves Liver Qi and blood to relieve lower abdominal pain. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Nourishes blood and warms the uterus, easing deficiency-related pain. |
+
+---
+
+## Frequently Asked Questions
+### What does lower abdominal pain mean in TCM?
+It signals that the flow of Qi and blood through the Liver channel or lower burner organs has been disrupted. The nature of the pain - whether it's distending, cramping, burning, or dull - reveals which pattern is at play. A TCM practitioner uses this information, along with your tongue and pulse, to identify the root imbalance and select a treatment that addresses it directly.
+
+### Can acupuncture really help with lower belly pain?
+Yes. Acupuncture works by unblocking the channels that run through the lower abdomen and regulating the underlying organ systems. Many patients notice a reduction in pain intensity and frequency after the first few sessions. The effect is often most pronounced when acupuncture is combined with an herbal formula tailored to your specific pattern.
+
+### How many acupuncture sessions will I need?
+For acute or excess patterns, weekly sessions for 4-6 weeks commonly bring significant relief. Chronic or deficiency-related pain may require 8-12 sessions or more, often spaced to once every two weeks as improvement holds. Your practitioner will adjust the frequency based on your progress and pattern.
+
+### Can I take Chinese herbs with my pain medication?
+Often yes, but full disclosure is essential. Some herbs that move blood, such as Dang Gui (Angelica sinensis) and Chuan Xiong (Ligusticum wallichii), may interact with anticoagulants or antiplatelet drugs. Always bring a complete list of your medications to your TCM consultation, and never stop prescribed medication without talking to your doctor.
+
+### Is TCM safe for lower abdominal pain during pregnancy?
+TCM can provide gentle support for some types of pregnancy-related lower abdominal pain, but it must only be done by a practitioner experienced in prenatal care. Certain acupuncture points and herbs are contraindicated during pregnancy because they can stimulate uterine contractions. Always inform your practitioner if you are pregnant or trying to conceive.
+
+### Will the pain come back after treatment?
+TCM aims to correct the underlying imbalance, not just suppress the symptom, so recurrence is less likely than with purely symptomatic approaches. However, if the lifestyle or emotional triggers that caused the pattern in the first place return, the pain can re-emerge. Your practitioner will often recommend dietary adjustments and stress-management practices to help maintain results.
+
+### What if my medical tests are normal but I still have pain?
+This is a common scenario where TCM can be especially helpful. A normal scan simply means no structural damage is visible, but from a TCM perspective, functional imbalances like Qi stagnation or cold invasion can cause very real pain. A pattern diagnosis doesn't require an abnormal lab result, so treatment can begin even when Western medicine has ruled out serious disease.
+
+---
+
+## Modern Scientific Research
+1. **Acupuncture for dysmenorrhoea** ([Link](https://doi.org/10.1002/14651858.CD007854.pub3))
+   *Journal/Publication: Smith CA, Armour M, Zhu X, Li X, Lu ZY, Song J. Acupuncture for dysmenorrhoea. Cochrane Database of Systematic Reviews 2016, Issue 4. Art. No.: CD007854.*
+   A Cochrane systematic review of 42 randomized controlled trials involving 3440 women. It found that acupuncture reduced menstrual pain more than no treatment or sham acupuncture, and that its effects were similar to those of NSAIDs. The review supports acupuncture as a safe and effective option for primary dysmenorrhea, a common cause of lower abdominal pain.
+
+2. **Herbal medicines for treatment of irritable bowel syndrome** ([Link](https://doi.org/10.1002/14651858.CD004116.pub2))
+   *Journal/Publication: Liu JP, Yang M, Liu YX, Wei ML, Grimsgaard S. Herbal medicines for treatment of irritable bowel syndrome. Cochrane Database of Systematic Reviews 2006, Issue 1. Art. No.: CD004116.*
+   A Cochrane systematic review of 75 randomized trials including 7957 participants. It evaluated various herbal preparations, including several Chinese herbal formulas, for IBS. The review concluded that some herbal medicines may improve global IBS symptoms and abdominal pain, but the evidence was limited by heterogeneity and methodological weaknesses.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/lower-abdominal-pain](https://www.meandqi.com/knowledge-base/conditions/lower-abdominal-pain)*

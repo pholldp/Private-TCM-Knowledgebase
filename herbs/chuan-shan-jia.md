@@ -1,0 +1,149 @@
+# Chuan Shan Jia (穿山甲)
+**English Name**: Pangolin scales  
+**Category**: Blood-invigorating and stasis-dispelling herbs (活血化瘀药)  
+**Scientific Name**: Manis pentadactyla Linnaeus  
+**Pharmaceutical Name**: Squama Manitis  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Salty (咸 xián)  
+**Channels Entered**: Liver, Stomach  
+**Parts Used**: Shell (壳 ké / 甲 jiǎ)  
+
+---
+
+## Summary
+Pangolin scale was historically one of the most valued substances in Chinese medicine for its powerful penetrating and unblocking actions, used to promote lactation, drain abscesses, and relieve joint pain. It has been removed from the Chinese Pharmacopoeia (2020 edition) due to the critically endangered status of the pangolin, and plant-based or other animal substitutes are now recommended in its place.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Women's health, Skin and wound healing, Joint and muscle health
+- **TCM Actions**: Invigorates Blood and disperses stasis, Unblocks the menses and promotes lactation, Reduces swelling and promotes the discharge of pus, Expels Wind-Dampness and unblocks the channels and collaterals
+
+### How these actions work
+'Invigorates Blood and disperses stasis' refers to this substance's strong ability to break through areas where Blood has become stuck or clotted. In TCM, when Blood stops flowing smoothly, it pools and creates masses, pain, or blockages. Chuān Shān Jiǎ has an intensely penetrating quality, described classically as being able to 'reach everywhere without obstruction,' making it effective for stubborn Blood stasis conditions such as abdominal masses or chronic pain.
+'Unblocks the menses and promotes lactation' means it can restart menstrual flow that has stopped due to Blood stasis, and open the milk ducts in new mothers who cannot produce enough breast milk. A famous folk saying goes: 'Chuān Shān Jiǎ and Wáng Bù Liú Xíng, after taking them a woman's milk flows freely.' This reflects its traditional reputation as a powerful unblocking agent for the breast and uterine channels.
+'Reduces swelling and promotes the discharge of pus' describes its use in treating boils, abscesses, and infected sores. In surgical (external medicine) traditions of TCM, this substance was considered indispensable: if an abscess had not yet formed pus, it could help resolve the swelling; if pus had already formed, it could help it drain. The classical text Yi Xue Zhong Zhong Can Xi Lu (医学衷中参西录) praised its ability to 'penetrate the viscera, course through the channels, and open all passages.'
+'Expels Wind-Dampness and unblocks the channels' means it can relieve joint pain, numbness, and stiffness caused by Wind-Dampness lodging in the body's channels. Its penetrating nature allows it to reach deep into muscles, tendons, and joints where other herbs may not be effective.
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: Chuān Shān Jiǎ's salty taste and slightly cool nature allow it to enter the Blood level of the Liver channel, where it powerfully disperses congealed Blood. Its unique penetrating quality, often described as 'reaching everywhere without obstruction,' makes it especially effective against stubborn Blood stasis that causes masses, pain, and menstrual blockage. The Liver stores Blood and governs the free flow of Qi, so when Blood stagnates in the Liver channel, menstruation ceases and painful masses may form. This substance's strong moving nature directly breaks through such stagnation.
+- **Clinical Signs & Symptoms**:
+
+### Toxic-Heat
+- **Explanation**: When Toxic Heat accumulates in the flesh and causes abscesses or boils, Chuān Shān Jiǎ's penetrating nature and slightly cool temperature work together to break through the stagnation of Qi, Blood, and pus at the site of infection. While it does not strongly clear Heat itself, its ability to 'pierce through' blockages allows pus to discharge and the abscess to resolve. It enters the Stomach channel, which governs the flesh, making it particularly relevant for skin and subcutaneous infections. This is why it was called an indispensable substance in Chinese surgical (external medicine) traditions.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5–10g (as per the 2015 Chinese Pharmacopoeia). Always used in processed form.
+- **Maximum Dosage**: Up to 15g in severe cases of deep-seated abscess or stubborn Blood stasis, under experienced practitioner supervision. Historically used in powdered form at 1–1.5g per dose when taken as ground powder rather than in decoction.
+- **Dosage Notes**: The standard dose range of 5–10g applies to the processed scale (炮山甲 or 醋山甲) used in decoction. When ground into powder and taken directly (swallowed with warm water or wine), much smaller doses of 1–1.5g per dose are used because absorption is more direct. For promoting lactation, it was traditionally paired with Wang Bu Liu Xing at moderate doses (5–9g). For treating deep abscesses and expelling pus, higher doses (up to 9–15g) were sometimes used. The vinegar-quenched form (醋山甲) was preferred for treating Blood stagnation and pain, while the plain sand-fried form (炮山甲) was used more broadly.
+- **Preparation**: Pangolin scales must always be processed before use — they are never used raw. The standard method is sand-frying (砂烫): clean scales are sorted by size, then stir-fried with hot sand until they puff up and turn golden-yellow, after which the sand is sieved out. For vinegar-quenched scales (醋山甲), the puffed scales are immediately plunged into rice vinegar while still hot, then rinsed and dried. After processing, the scales become brittle and are crushed or ground before adding to decoctions. When used in decoction, crushed processed scales should be decocted first (先煎) for 20–30 minutes before adding other herbs, as they require extended cooking to extract active compounds.
+
+---
+
+## Processing Methods
+### P&#xE0;o Sh&#x101;n Ji&#x1CE; (&#x70AE;&#x5C71;&#x7532;)
+- **Processing Method**: Sand-fried (砂烫): pre-heated sand is placed in a wok at high temperature, then the raw pangolin scales are added and stir-fried until they puff up, curl, and turn golden yellow. The sand is then sieved out.
+- **How it Changes Properties**: Raw pangolin scales are extremely hard and almost impossible to grind into powder. Sand-frying makes them brittle and easy to pulverize, dramatically increasing the extraction rate of active compounds. The thermal nature remains slightly cool but becomes somewhat moderated. The penetrating and channel-coursing actions are enhanced because the processed form is more readily absorbed.
+- **When to Use**: This is the standard clinical form. Virtually all historical and modern use of Chuān Shān Jiǎ involves processed scales. As noted in the Ben Cao Gang Mu: there is no record of raw scales being used in formulas.
+
+### C&#xF9; Sh&#x101;n Ji&#x1CE; (&#x918B;&#x5C71;&#x7532;)
+- **Processing Method**: Vinegar-quenched (醋淬): scales are first sand-fried until puffed and golden, then immediately immersed in rice vinegar while still hot. They are then removed, washed, and dried.
+- **How it Changes Properties**: Vinegar processing enhances the substance's ability to enter the Liver channel and strengthens its Blood-invigorating and pain-relieving properties. The sour taste of vinegar has a converging quality that helps direct the substance to the Liver, while the quenching process further improves friability. The slightly cool nature is maintained.
+- **When to Use**: Preferred when the primary goal is invigorating Blood, treating amenorrhea, dispersing abdominal masses, or addressing Liver channel conditions. The vinegar-enhanced Liver tropism makes this form more targeted for gynecological Blood stasis.
+
+---
+
+## Common Herb Pairs
+### Wang Bu Liu Xing (Ratio: 1:1 (Chu&#x101;n Sh&#x101;n Ji&#x1CE; 6g : W&#xE1;ng B&#xF9; Li&#xFA; X&#xED;ng 6g))
+- **Description**: Together they form the most famous lactation-promoting pair in TCM. Chuān Shān Jiǎ powerfully penetrates and unblocks the channels running through the breast, while Wáng Bù Liú Xíng invigorates Blood and promotes downward movement through the Liver and Stomach channels. Their combined action is far stronger than either alone for opening the milk ducts.
+- **When to Use**: Postpartum insufficient lactation when the breast feels distended and painful, indicating channel blockage rather than Blood deficiency.
+
+### Zao Jiao Ci (Ratio: 1:1 (Chu&#x101;n Sh&#x101;n Ji&#x1CE; 6g : Z&#xE0;o Ji&#x1CE;o C&#xEC; 6g))
+- **Description**: Chuān Shān Jiǎ's penetrating nature courses through channels and breaks open blockages, while Zào Jiǎo Cì excels at draining pus and expelling toxins. Together they create a powerful synergy for resolving abscesses: Chuān Shān Jiǎ opens the pathway, and Zào Jiǎo Cì drives the toxic material out. This pair was considered the backbone of surgical (external medicine) treatment for boils and carbuncles.
+- **When to Use**: Abscesses, boils, and carbuncles that are slow to resolve, or where pus has formed but cannot drain spontaneously.
+
+### Dang Gui (Ratio: 2:1 (D&#x101;ng Gu&#x12B; 9g : Chu&#x101;n Sh&#x101;n Ji&#x1CE; 5g))
+- **Description**: Dāng Guī nourishes and invigorates Blood, while Chuān Shān Jiǎ penetrates channels and disperses stasis. Together they address both the stasis itself and the underlying Blood supply, ensuring that breaking up stagnation does not leave the channels depleted. This pair is effective for Blood stasis causing menstrual blockage or painful masses.
+- **When to Use**: Blood stasis amenorrhea or dysmenorrhea, especially when there is also some degree of Blood deficiency alongside the stasis.
+
+### Huang Qi (Ratio: 4:1 (Hu&#xE1;ng Q&#xED; 12g : Chu&#x101;n Sh&#x101;n Ji&#x1CE; 3g))
+- **Description**: Huáng Qí powerfully tonifies Qi and supports the body's ability to push toxins outward (a process called 'supporting the righteous to expel the pathogen'). Chuān Shān Jiǎ penetrates to the site of the abscess and opens the pathway for discharge. Together they form the core strategy of Tòu Nóng Sǎn: Huáng Qí provides the driving force while Chuān Shān Jiǎ provides the pathway.
+- **When to Use**: Abscesses that have formed pus but the body lacks sufficient Qi to expel it, causing the abscess to linger without rupturing.
+
+---
+
+## Key Formulas
+Xian Fang Huo Ming Yin, Tou Nong San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Pangolin scales are classified as non-toxic in traditional pharmacopoeia texts. However, some classical sources such as the Yao Xing Lun (《药性论》) describe them as having 'great toxicity' (有大毒), likely referring to their powerful Blood-moving action rather than chemical toxicity in the modern sense. The scales are composed primarily of keratin (over 90% protein), along with cholesterol, fatty acid amides, cyclic dipeptides, free amino acids, and trace elements. They are never used raw — traditional processing (sand-frying until puffed and golden, or sand-frying then quenching in vinegar) is essential to make the hard, elastic scales brittle enough to grind and to improve extraction of active components. Case reports of adverse reactions include allergic responses such as dizziness, chills, shortness of breath, itching, and skin rashes, suggesting possible anaphylaxis in sensitive individuals. Illegally sourced pangolins may also carry injected sedatives, stimulants, or heavy metals used during trafficking, posing additional health risks.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated in pregnancy. Chuan Shan Jia is a powerful Blood-invigorating and channel-penetrating substance with a strong downward-moving and dispersing action. These properties can stimulate uterine contractions and promote the movement of Blood in the lower abdomen, posing a risk of miscarriage, premature labor, or excessive uterine bleeding. The 2015 Chinese Pharmacopoeia explicitly states 'pregnant women should use with caution' (孕妇慎用), but in clinical practice this is treated as an absolute contraindication.
+- **Breastfeeding**: Paradoxically, one of the classical indications of Chuan Shan Jia is to promote lactation (通经下乳) in women with insufficient milk flow due to Qi and Blood stagnation. However, the herb's strong Blood-moving and dispersing properties raise concerns about potential transfer of bioactive compounds through breast milk, and there is no modern safety data on its use during breastfeeding. Given that the herb is now effectively unavailable and that safer galactagogue alternatives exist (such as Wang Bu Liu Xing or Lu Lu Tong), it should be avoided during breastfeeding.
+- **Children**: Classical texts such as the Xiao Er Wei Sheng Zong Wei Lun Fang include pangolin scales in pediatric formulas for treating carbuncles and scrofula, typically at reduced doses (one-third to one-half of adult doses). However, given the herb's powerful Blood-moving nature, the critically endangered status of the species, its removal from the pharmacopoeia, and the availability of safer alternatives, use in children is not recommended under any circumstances today.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Pangolin scales have demonstrated anticoagulant activity in pharmacological studies, including prolonging clotting time and reducing blood viscosity in animal models. Concurrent use with warfarin, heparin, aspirin, clopidogrel, or other blood-thinning drugs could theoretically increase bleeding risk.
+No other well-documented drug interactions exist in the published literature. Given that pangolin scales have been removed from the pharmacopoeia and their clinical use is now extremely rare, systematic pharmacokinetic interaction studies have never been conducted.
+
+### Dietary Advice
+When taking this herb for Blood stasis or abscess conditions, avoid cold and raw foods that might impede Blood circulation. Warm, easily digestible foods are preferred. Alcohol (particularly warm rice wine) was traditionally used as a vehicle to enhance the herb's channel-penetrating properties. Greasy and rich foods should be moderated during treatment to avoid generating Dampness that could impede the herb's dispersing action.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Note: Chuan Shan Jia is not a plant but an animal product. It is the dried scale (鳞甲) of the Chinese pangolin, Manis pentadactyla Linnaeus, belonging to the family Manidae (鲮鲤科).
+The Chinese pangolin is a mammal with a narrow, elongated body measuring 50–100 cm in length with a flattened tail of 10–30 cm. Its body is covered in overlapping keratinous scales arranged in a tile-like pattern, dark brown to grey-brown in color, with sparse coarse hairs interspersed between the scales. The ventral surface is scaleless and covered in sparse brownish hair. The animal has a conical head, small eyes, a pointed snout with no teeth, and a very long sticky tongue used for catching ants and termites. Its four limbs are short and stout, each bearing five toes with strong, sharp claws adapted for digging. Pangolins are solitary, nocturnal burrowing animals that inhabit humid forests, hillsides, and scrubland. When threatened, they curl into a tight ball using their scales as armor.
+The Chinese pangolin is now classified as Critically Endangered by the IUCN. Wild populations have declined by over 90% since the 1970s due to habitat destruction and extreme poaching pressure driven by demand for their scales and meat.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Historically captured year-round, with no specific seasonal preference. After capture, the animal was killed and placed in boiling water to loosen the scales, which were then collected, washed, and sun-dried.
+- **Primary Growing Regions**: The Chinese pangolin (Manis pentadactyla) was historically distributed across provinces south of the Yangtze River in China, including Guangdong, Guangxi, Yunnan, Guizhou, Hunan, Fujian, Zhejiang, Jiangxi, Taiwan, and Hainan. As a 'Guang Yao' (Southern medicine), it was considered finest when sourced from Guangxi and Guangdong. The main commercial supply came from Guangxi, Yunnan, and Guizhou. Imported scales historically came from Vietnam, Myanmar, and Indonesia. Today, wild populations in China are functionally extinct. The species is Critically Endangered and no legitimate new harvest occurs.
+- **Quality Indicators**: Good quality scales (historically) are even in size, dark blue-black (青黑色) in color on the outer surface with clearly visible longitudinal ridges and several transverse lines along the base edge. The inner surface is lighter with a prominent arched horizontal ridge line in the center. The scales should be horn-like in texture, slightly translucent, tough and elastic yet difficult to break. They should have a faint fishy smell and a bland taste. The best scales are uniform in size, free of attached skin or flesh, and without a strong rank odor. Imported scales were traditionally graded: small brownish scales ('iron scales,' 铁甲片) were considered superior to larger greyish-yellow ones ('copper scales,' 铜甲片). Tail scales (尾甲) were traditionally considered the most potent. After processing (sand-frying), quality scales puff up and turn golden-yellow, becoming crisp and easy to crush.
+
+### Identity & Adulterants
+Due to severe scarcity and extremely high black-market prices, pangolin scales are frequently adulterated or substituted. Common adulterants include plastic imitations, scales from other species of armadillo or reptile, and processed pig or buffalo hoof material shaped to resemble pangolin scales. Authentic scales can be distinguished by their characteristic horn-like translucency, internal arched ridge line, and orderly longitudinal striations. Pig nail (猪蹄甲, Zhu Ti Jia) is the most widely recognized clinical substitute, with amino acid profiles largely overlapping those of pangolin scales. Wang Bu Liu Xing (Vaccariae Semen) is often used as a plant-based alternative for lactation and Blood-moving indications. Other substitutes in clinical practice include combinations of Zao Jiao Ci (Gleditsia thorn), San Leng, E Zhu, and Wu Gong (centipede) for the penetrating and stasis-breaking actions.
+
+---
+
+## References
+### Classical Texts
+#### 《名医别录》(Ming Yi Bie Lu, Supplementary Records of Famous Physicians)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Chuan Shan Jia first appeared in the medical literature under the name 'Ling Li Jia' (鲮鲤甲) in the Ming Yi Bie Lu (名医别录), compiled by Tao Hongjing during the Southern Qi dynasty (around 480 CE). The name 'Chuan Shan Jia' (穿山甲), meaning 'scales that penetrate mountains,' came into use during the Song dynasty via the Ben Cao Tu Jing (本草图经). This vivid name reflects both the animal's powerful digging ability and the herb's therapeutic logic in TCM: just as the animal can bore through mountains, its scales were thought to penetrate obstructions within the body's channels and tissues.
+Li Shizhen (1518–1593) devoted significant attention to the pangolin in the Ben Cao Gang Mu. He personally followed hunters to observe and dissect pangolins, correcting earlier texts that claimed the animal used its scales to lure ants, noting instead that it catches them with its tongue. Li also recorded the folk saying 'Chuan Shan Jia, Wang Bu Liu, fu ren fu le ru chang liu' (穿山甲、王不留，妇人服了乳长流) — 'Pangolin scales and Vaccariae seed, once a woman takes them, milk flows freely' — highlighting its prized role in promoting lactation. Zhang Xichun, in his early 20th-century Yi Xue Zhong Zhong Can Xi Lu, championed a broader view of the herb's uses, arguing it could serve as a guide drug for any condition involving Blood stagnation, numbness, or obstruction. In 2020, pangolin scales were removed as a standalone raw ingredient from the Chinese Pharmacopoeia amid growing conservation pressure. In 2025, pangolin-based formulas were also removed from the official pharmacopoeia, marking a major regulatory shift.
+
+### Modern Scientific Research
+1. **[Evidence for the medicinal value of Squama Manitis (pangolin scale): A systematic review (2020)](https://pubmed.ncbi.nlm.nih.gov/32837905/)**
+   *Journal: Jin X, Chua HZ, Wang K, Li N, Zheng W, Pang W, Yang F, Pang B, Zhang M, Zhang J. Integrative Medicine Research, 2021, 10(1): 100486.*
+   This systematic review searched six databases and found only 15 clinical studies (4 RCTs, 1 case-control study, 3 case series, 7 case reports) spanning 15 different diseases. Two RCTs suggested possible benefit when pangolin scales were added to herbal decoctions for postpartum low milk supply and mesenteric lymphadenitis, but these had serious methodological flaws. Two other RCTs showed negative results. The authors concluded there is no reliable evidence supporting the clinical value of pangolin scales, and that the removal from the Pharmacopoeia was rational. They also noted reports of allergic reactions including anaphylaxis.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/chuan-shan-jia](https://www.meandqi.com/knowledge-base/herbs/chuan-shan-jia)*

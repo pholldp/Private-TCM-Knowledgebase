@@ -1,0 +1,185 @@
+# Huang Qi (黄芪)
+**English Name**: Astragalus root  
+**Category**: Qi-tonifying herbs (补气药)  
+**Scientific Name**: Astragalus membranaceus (Fisch.) Bge.  
+**Pharmaceutical Name**: Radix Astragali  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Warm | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Spleen, Lungs  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+One of the most widely used herbs in Chinese medicine, Astragalus root strengthens the body's Qi and supports the immune system. It is commonly used for fatigue, frequent colds, poor digestion, spontaneous sweating, and slow wound healing. It is also valued for its ability to reduce fluid retention and support recovery after illness.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Immune Support, Digestive Health, Fatigue and Low Energy, Skin and Wound Care, Fluid Retention and Edema
+- **TCM Actions**: Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema, Promotes tissue regeneration and expels pus, Tonifies Qi and Generates Blood, Unblocks stagnation in Qi deficiency
+
+### How these actions work
+'Tonifies Qi and raises Yang' is the primary action of Huang Qi. It strengthens Spleen and Lung Qi, addressing fatigue, poor appetite, loose stools, and shortness of breath. Its ascending nature lifts the body's Qi upward, which is why it is used for conditions where organs or tissues sag or prolapse (such as rectal prolapse, uterine prolapse, or chronic diarrhea). This upward-lifting quality is called 'raising Yang' (升阳举陷).
+'Consolidates the exterior and stops sweating' means Huang Qi strengthens the body's outermost layer of defence, known as Wei Qi (protective Qi). When the Lung and Spleen Qi are weak, this defensive barrier becomes porous, and sweat leaks out spontaneously. Huang Qi fortifies this barrier from the inside, stopping unwanted sweating and making the body more resistant to catching colds. This is why it is the lead herb in the famous Yu Ping Feng San (Jade Windscreen Powder).
+'Promotes urination and reduces edema' describes how Huang Qi helps the body process and eliminate excess fluid. By strengthening the Spleen's ability to transport and transform fluids and by supporting the Lung's role in regulating the water passages, it gently promotes urination. It is especially useful for edema that arises from Qi deficiency, where the body lacks the driving force to move water properly.
+'Promotes tissue regeneration and expels pus' (often translated as 'supports toxin expulsion and generates flesh') refers to its use in chronic, non-healing wounds or abscesses. When the body's Qi is too weak to mount an adequate inflammatory response, sores may fail to come to a head, or wounds may refuse to close. Huang Qi provides the Qi needed for the body to push out infection (expel pus) and rebuild tissue. This earned it the title 'the sage herb for sores and wounds' (疮家圣药).
+'Tonifies Qi to generate Blood' reflects a core TCM principle: Blood is produced and moved by Qi. When Qi is profoundly deficient, Blood production falters. Huang Qi addresses this root cause by massively boosting Qi, thereby fuelling the generation of new Blood. This principle is demonstrated in Dang Gui Bu Xue Tang, where Huang Qi is used at five times the dose of Dang Gui.
+
+---
+
+## Patterns Addressed
+### Spleen Qi Deficiency
+- **Explanation**: Huang Qi is sweet in taste and slightly warm in temperature, entering the Spleen channel directly. Its sweet flavour tonifies and nourishes (甘能补), making it ideally suited to replenish the deficient Spleen Qi that lies at the heart of this pattern. By strengthening the Spleen's capacity to transform food and fluids, Huang Qi addresses the digestive weakness, poor appetite, and loose stools that define Spleen Qi Deficiency. Its gently warming nature counteracts the tendency toward cold that accompanies Qi depletion in the middle burner.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Reduced desire to eat due to weak Spleen transformation
+  - **Loose Stools**: Chronic soft or unformed stools from impaired fluid metabolism
+  - **Post-Surgical Constipation And Bloating**: Abdominal distension especially after eating
+
+### Lung Qi Deficiency
+- **Explanation**: Huang Qi enters the Lung channel and tonifies Lung Qi, which governs the body's surface defence (Wei Qi). When Lung Qi is deficient, the skin's protective barrier weakens, leading to spontaneous sweating and vulnerability to wind-cold invasion. Huang Qi's ability to 'consolidate the exterior' (固表) strengthens this defensive layer, stopping unwanted sweating and reducing susceptibility to frequent colds. The Spleen is the mother of the Lung in Five Phase theory, so Huang Qi's concurrent Spleen Qi tonification supports Lung Qi production at its source.
+- **Clinical Signs & Symptoms**:
+  - **Spontaneous Sweat**: Sweating without exertion due to weak surface defence
+  - **Recurrent Colds**: Recurrent upper respiratory infections from Wei Qi deficiency
+
+### Qi and Blood Deficiency
+- **Explanation**: In TCM, Qi is the commander of Blood: it drives Blood production and keeps it circulating within the vessels. When Qi is profoundly deficient, Blood production stalls. Huang Qi treats this pattern at its root by massively tonifying Qi to generate Blood, embodying the classical principle 'formless Qi should be urgently reinforced so that tangible Blood may be gradually restored.' Its sweet, warm properties nourish the Spleen's transformative capacity, which is the fundamental source of both Qi and Blood.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Eye Fatigue
+- **Arises from**: Spleen Qi Deficiency, Qi and Blood Deficiency
+- **TCM Interpretation**: TCM understands chronic fatigue primarily as a failure of the Spleen and Lung to produce and distribute sufficient Qi. The Spleen extracts Qi from food, and the Lungs distribute it throughout the body. When either organ is weakened, the body runs low on the vital force needed to power daily activity. Contributing factors include irregular eating, excessive worry, overwork, and chronic illness, all of which drain the Spleen. Over time, Qi deficiency may also lead to Blood deficiency, compounding the exhaustion.
+- **Why it Helps**: Huang Qi is the premier Qi-tonifying herb in Chinese medicine. It directly replenishes Spleen and Lung Qi, addressing the two organ systems most responsible for producing and distributing the body's vital force. Its sweet, slightly warm nature gently supports digestion and nutrient absorption, helping the body generate more Qi from food. When fatigue is accompanied by Blood deficiency signs (pallor, dizziness), Huang Qi's ability to 'tonify Qi to generate Blood' treats the underlying cause rather than just the symptom. Modern research suggests Huang Qi polysaccharides may have anti-fatigue and immune-modulating effects.
+
+### Edema
+- **Arises from**: Spleen Qi Deficiency
+- **TCM Interpretation**: TCM views edema as a disorder of fluid metabolism involving three organs: the Lungs regulate the water passages from above, the Spleen transforms and transports fluids in the middle, and the Kidneys govern water from below. When Spleen Qi is deficient, it cannot properly move fluids through the body, causing water to pool in the tissues. This type of edema is often worse in the limbs, accompanied by fatigue, poor appetite, and a pale, puffy appearance. The underlying problem is not excess water but insufficient Qi to drive water metabolism.
+- **Why it Helps**: Huang Qi addresses Qi-deficiency edema at its root by boosting the Spleen and Lung Qi that drive fluid transport. Its action of 'promoting urination and reducing edema' (利水消肿) works not through a harsh diuretic effect but by restoring the body's own capacity to metabolize water. By entering both the Spleen and Lung channels, it supports the two main organs involved in fluid regulation. In the classic formula Fang Ji Huang Qi Tang, Huang Qi is the central herb, pairing Qi tonification with gentle fluid-moving herbs for Qi-deficiency type edema.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–30g
+- **Maximum Dosage**: Up to 60–120g in specific clinical situations such as severe Qi collapse or chronic non-healing sores, but only under close practitioner supervision. Zhang Xichun historically used doses of 60g or more for sinking of chest Qi.
+- **Dosage Notes**: Use lower doses (9–15g) for consolidating the exterior and stopping sweating (as in Yu Ping Feng San). Use moderate doses (15–30g) for general Qi tonification, raising sunken Yang, and promoting urination. Higher doses (30–60g) are used for generating blood (as in Dang Gui Bu Xue Tang, where Huang Qi is used at five times the dose of Dang Gui), for chronic non-healing sores, and for treating Qi collapse. Raw Huang Qi (Sheng Huang Qi) is preferred for consolidating the exterior, promoting urination, and expelling toxins from sores. Honey-prepared Huang Qi (Zhi Huang Qi) has a stronger ability to tonify the Middle Jiao and augment Qi, making it more suitable for Spleen and Lung Qi deficiency with fatigue and poor appetite. Excessive dosage in Yin-deficient patients may cause dry mouth, irritability, and disturbed sleep.
+- **Preparation**: No special decoction handling is required. Huang Qi is decocted normally with other herbs. For stronger tonification, honey-prepared Huang Qi (Zhi Huang Qi) is preferred. Some practitioners recommend soaking the sliced root in cold water for 30 minutes before decocting to improve extraction of active compounds.
+
+---
+
+## Processing Methods
+### Zh&#xEC; Hu&#xE1;ng Q&#xED; (&#x7099;&#x9EC4;&#x82AA;)
+- **Processing Method**: The raw root slices are stir-fried with honey (typically a 1:4 ratio of honey to herb) until the slices turn yellow, become non-sticky to the touch, and develop a sweet aroma.
+- **How it Changes Properties**: Honey-processing shifts the thermal nature from slightly warm to definitively warm. The sweet taste is enhanced. While raw Huang Qi excels at consolidating the exterior, promoting urination, and expelling pus, honey-processed Huang Qi is stronger at tonifying the Middle Burner (Spleen and Stomach Qi) and raising Yang. The exterior-consolidating and water-moving actions are somewhat reduced.
+- **When to Use**: Choose honey-processed Huang Qi (Zhi Huang Qi) when the primary goal is to strongly tonify Spleen Qi, address middle Qi sinking (organ prolapse, chronic diarrhea), or treat Qi deficiency with significant fatigue and poor appetite. It is the form used in Bu Zhong Yi Qi Tang.
+
+---
+
+## Common Herb Pairs
+### Dang Gui (Ratio: 5:1 (Huang Qi 30g : Dang Gui 6g), as in Dang Gui Bu Xue Tang. The heavy emphasis on Huang Qi reflects the principle that &#x27;formless Qi should be urgently reinforced&#x27; so that Blood can be regenerated.)
+- **Description**: Huang Qi powerfully tonifies Qi while Dang Gui nourishes and invigorates Blood. Together they embody the principle that Qi generates Blood: Huang Qi provides the driving force for Blood production, and Dang Gui supplies the Blood-nourishing substance. This pairing simultaneously addresses both Qi and Blood deficiency.
+- **When to Use**: Blood deficiency with underlying Qi deficiency, seen as fatigue with pallor, dizziness, scanty or delayed menstruation, and slow wound healing. Also for postpartum recovery and anaemia.
+
+### Fang Feng (Ratio: 2:1 (Huang Qi 20g : Fang Feng 10g), as in Yu Ping Feng San.)
+- **Description**: Huang Qi consolidates the exterior from the inside, while Fang Feng gently disperses wind pathogens from the surface. The classical teaching states 'Huang Qi's power is greater when it obtains Fang Feng.' Together, they strengthen defence without trapping pathogens and expel wind without depleting Qi, achieving a balance of tonification and dispersal.
+- **When to Use**: Exterior Qi deficiency with spontaneous sweating and susceptibility to wind-cold. Also for patients who catch colds frequently or have allergic rhinitis from Wei Qi weakness.
+
+### Bai Zhu (Ratio: 1:1 to 2:1 (Huang Qi 15-30g : Bai Zhu 10-15g))
+- **Description**: Both herbs tonify Spleen Qi, but through complementary mechanisms. Huang Qi boosts Qi and lifts Yang upward, while Bai Zhu strengthens the Spleen's ability to dry dampness and transform fluids. Together they create a powerful synergy for Spleen Qi deficiency with dampness, addressing both the Qi deficit and the fluid stagnation it causes.
+- **When to Use**: Spleen Qi deficiency presenting with fatigue, loose stools, poor appetite, and abdominal distension. Also for Qi-deficiency edema and spontaneous sweating.
+
+### Sheng Ma (Ratio: 5:1 (Huang Qi 18g : Sheng Ma 3-6g). Sheng Ma is used in small amounts as a lifting guide, not as a main tonifying herb.)
+- **Description**: Huang Qi tonifies Qi at its source while Sheng Ma (Cimicifuga) lifts it upward. Sheng Ma's strong ascending nature guides Huang Qi's tonifying action to raise sunken Qi, making this pair the core mechanism for treating organ prolapse and sinking of middle Qi.
+- **When to Use**: Middle Qi sinking with rectal prolapse, uterine prolapse, gastroptosis, or chronic diarrhea with a bearing-down sensation. A cornerstone pairing in Bu Zhong Yi Qi Tang.
+
+---
+
+## Key Formulas
+Bu Zhong Yi Qi Tang, Yu Ping Feng San, Dang Gui Bu Xue Tang, Bu Yang Huan Wu Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Huang Qi is classified as non-toxic in the Chinese Pharmacopoeia and has an excellent safety profile at standard dosages. It has been approved for inclusion in China's 'dual-use food and medicine' list (药食同源), confirming its general safety for daily consumption. No specific toxic constituents have been identified in the two official species (Astragalus membranaceus and A. membranaceus var. mongholicus). Note: some other Astragalus species (not used in TCM) contain the neurotoxin swainsonine, which causes 'locoweed' poisoning in livestock. These species are not found in commercial Huang Qi products. At very high doses or in inappropriate constitutional types (Yin-deficient or excess Heat), Huang Qi may cause symptoms such as dry mouth, irritability, insomnia, flushing, or elevated blood pressure, but these reflect its warm, ascending properties rather than true toxicity.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Some animal research suggests potential fetal toxicity, though no well-controlled human studies confirm this. In TCM theory, Huang Qi's strong ascending and Qi-moving properties could theoretically cause fetal restlessness (胎动不安) in some cases. However, it is traditionally included in certain pregnancy formulas (such as Dang Gui San) to prevent miscarriage in Qi-deficient constitutions, always under practitioner guidance. Pregnant women should not self-prescribe Huang Qi and should consult a qualified practitioner before use.
+- **Breastfeeding**: There is insufficient research on the safety of Huang Qi during breastfeeding. In traditional Chinese practice, Huang Qi is sometimes used postpartum to help recover Qi and support milk production in mothers with Qi deficiency. However, as with any herb, it should only be taken under the guidance of a qualified practitioner. Its warm, tonifying properties could theoretically be transferred through breast milk and may not be appropriate for all infants, particularly those showing signs of Heat.
+- **Children**: Huang Qi is generally considered safe for children and has traditional use for childhood Qi deficiency conditions. The Shen Nong Ben Cao Jing specifically notes it treats 'the hundred diseases of children.' Dosage should be reduced according to the child's age and body weight: typically one-third to one-half the adult dose for children aged 6–12, and one-quarter to one-third for children under 6. As with all herbs, pediatric use should be under practitioner supervision. It is not recommended for children with excess Heat conditions or acute infections.
+
+### Drug Interactions
+Immunosuppressants (cyclosporine, tacrolimus, corticosteroids): Huang Qi has demonstrated immunostimulant properties that may antagonize immunosuppressive drugs. A clinical case report documented a nearly 50% reduction in tacrolimus blood concentration during concurrent use of an Astragalus-containing herbal formula. This interaction is clinically significant for organ transplant recipients and patients with autoimmune conditions on immunosuppressive therapy.
+Anticoagulants and antiplatelet drugs (warfarin, aspirin): Astragalus and its constituents have shown anticoagulant properties in vitro, which may increase bleeding risk when combined with blood-thinning medications. Clinical significance has not been firmly established, but caution is warranted.
+Antihypertensive medications: Astragalus extract has been shown to lower both systolic and diastolic blood pressure in studies. Concurrent use with antihypertensive drugs may produce additive hypotensive effects, potentially causing blood pressure to drop too low.
+Diuretics: In a small study involving healthy men, Astragalus demonstrated natriuretic (sodium-excreting) effects and may therefore have additive effects with diuretic medications.
+Diabetes medications (insulin, metformin, sulfonylureas): Astragalus may have blood sugar-lowering effects, potentially producing additive hypoglycaemic effects with diabetes medications. Blood glucose should be monitored.
+P-glycoprotein substrates (doxorubicin, etoposide, vincristine): Astragalus polysaccharides may inhibit P-glycoprotein efflux pump function, potentially increasing the intracellular concentration of certain chemotherapy drugs. Clinical relevance is not yet established.
+
+### Dietary Advice
+When taking Huang Qi for Qi tonification, avoid cold, raw foods and iced beverages, which can impair Spleen function and counteract the herb's warming, tonifying effects. Foods that support Spleen Qi such as congee, cooked root vegetables, warm soups, and lean meats are complementary. Avoid excessively greasy or rich foods that may generate Dampness and impede Qi circulation. Turnips and radishes (which are traditionally said to reduce the tonifying effect of Qi-supplementing herbs) are best minimized. If using Huang Qi for its exterior-consolidating function, avoid strong Wind exposure and excessive sweating during the course of treatment.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Astragalus membranaceus (Fisch.) Bge. var. mongholicus (Bge.) Hsiao (Mongolian Astragalus) and Astragalus membranaceus (Fisch.) Bge. (Membranous Astragalus) are perennial herbaceous legumes of the family Fabaceae (Leguminosae). The plants grow 50–150 cm tall with erect, slightly branching stems covered in fine hairs. The leaves are odd-pinnately compound with 12–18 pairs of small, elliptical leaflets. In summer, small pale yellow butterfly-shaped flowers appear in loose racemes arising from the leaf axils.
+The medicinal part is the dried root, which is harvested from plants typically 3–7 years old. The root is long, cylindrical, and can reach 30–90 cm in length, with few lateral branches. Fresh roots are flexible and fibrous. The plant is native to the grasslands, open woodlands, and mountainous regions of northern China and Mongolia, favouring dry, sandy, well-drained soils at elevations of 800–2000 metres. Wild populations have become endangered due to over-harvesting, and the plant is now classified as a nationally protected species (Category III) in China, with most commercial supply coming from cultivation.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (September to November), after the above-ground parts have withered. The roots are dug from plants typically 3 to 7 years old. Traditional sources recommend that longer growth periods produce superior quality.
+- **Primary Growing Regions**: The premier dao di (道地) sources of Huang Qi are Shanxi Province (especially Hunyuan County at the foot of Mount Heng, known for 'Hengshan Huang Qi' or 'Zhengbei Qi') and Inner Mongolia (particularly Guyuan County and surrounding areas). These regions have been considered the primary terroir for high-quality Huang Qi since the Song Dynasty. Historically, the herb from Shanxi's Mianshang region was called 'Xi Huang Qi' (Western Huang Qi) or 'Mian Qi' (Cotton-like Huang Qi) due to its soft, fibrous texture.
+Additional significant growing regions include Gansu Province (particularly the southeastern parts, one of the earliest recorded production areas), Heilongjiang Province, and parts of Shaanxi Province (Zizhou County). The Name Physician's Supplementary Records (Ming Yi Bie Lu) recorded early production areas as Sichuan, Shaanxi, and Gansu.
+- **Quality Indicators**: Good quality Huang Qi root is long (over 30 cm), thick, and relatively straight with few lateral branches. The outer bark should be wrinkled but smooth, light greyish-brown to yellowish-brown in colour. The root should feel firm yet slightly flexible, not woody or brittle. When broken or sliced, the cross-section should show a distinct pattern: the outer bark (cortex) is yellowish-white, and the inner wood (xylem) is pale yellow with clear radial striations and small fissures, traditionally described as a 'chrysanthemum heart' (菊花心) pattern, also poetically called 'golden well, jade railing' (金井玉栏). The root should have a notable sweet taste and a distinctive bean-like (leguminous) aroma when chewed. The texture should be powdery and slightly fibrous, feeling 'cotton-like' when the bark is bent (hence the traditional name 'Mian Huang Qi'). Avoid roots that are hollow, dark-centred, overly woody, insect-damaged, or lacking in sweetness.
+
+### Identity & Adulterants
+Huang Qi is most commonly confused with or substituted by Hong Qi (红芪, Radix Hedysari, from Hedysarum polybotrys), also known as 'Red Astragalus.' Hong Qi has similar but generally weaker therapeutic effects and a different chemical profile. It can be distinguished by its reddish-brown exterior bark and slightly different cross-section pattern. Hong Qi is listed separately in the Chinese Pharmacopoeia and is primarily produced in Gansu Province.
+Li Shizhen noted in the Ben Cao Gang Mu that Huang Qi must be distinguished from 'Mu Qi' (木芪), a related species with woody roots and weaker medicinal properties. Other potential adulterants include roots from various other Astragalus species (such as A. floridus and A. chrysopterus) which have been used as local substitutes historically but are not considered equivalent.
+Authentic Huang Qi should have a clearly sweet taste, a bean-like aroma, a cotton-like fibrous bark, and the characteristic chrysanthemum-heart cross-section pattern. Adulterants often lack the distinctive sweetness and fibrous texture.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 味甘，微温。主痈疽、久败疮，排脓止痛，大风癞疾，五痔鼠瘘，补虚，小儿百病。一名戴糁。
+- **Translation**: Sweet in flavour, slightly warm. It governs abscesses and chronic non-healing sores, expels pus and stops pain, treats severe wind conditions and leprous diseases, the five types of haemorrhoids and scrofula, supplements deficiency, and treats the hundred diseases of children. Also called Dai San.
+
+### Historical Context
+Huang Qi has one of the longest documented histories of any Chinese medicinal herb, with a medicinal record spanning over 2,000 years. Its earliest known appearance is in the Wu Shi Er Bing Fang (Prescriptions for Fifty-Two Diseases), a manuscript excavated from the Mawangdui tomb (sealed in 168 BCE), where it was used in formulas for bone abscesses. It was subsequently listed as an upper-grade (上品) herb in the Shen Nong Ben Cao Jing, signifying it was considered safe for long-term use and fundamentally nourishing.
+The herb was originally written as 黄耆 (Huang Qi). Li Shizhen explained in the Ben Cao Gang Mu that the character 耆 means 'senior' or 'chief,' reflecting Huang Qi's status as the foremost Qi-tonifying herb. A folk legend holds that the name commemorates an elderly physician named Dai San, who had a thin frame and yellowish complexion and was famous for his healing skills. After his death, a useful plant grew beside his grave, and people named it 'Huang Qi' (Yellow Elder) in his honour. The simplified character 芪 replaced 耆 in modern usage.
+A famous historical anecdote from the Jiu Tang Shu (Old Book of Tang) records that physician Xu Yinzong treated a consort of the Chen Dynasty who had lost her ability to speak and could not swallow medicine. He boiled large quantities of Huang Qi and Fang Feng in water and placed the pot beneath her bed, allowing the medicinal steam to permeate her body. She recovered her speech that very night. This story illustrates the ancient understanding of Huang Qi's ability to penetrate the body's surface layers and revive Qi. Li Dongyuan (Jin Dynasty) later championed Huang Qi as the key herb in his landmark formula Bu Zhong Yi Qi Tang (Tonify the Middle and Augment the Qi Decoction), cementing its central role in Spleen-Stomach school medicine. Zhang Xichun in the late Qing further developed its clinical use for the sinking of chest Qi.
+
+### Modern Scientific Research
+1. **[Meta-analysis of Astragalus-based Chinese herbs with platinum-based chemotherapy for advanced non-small-cell lung cancer (2006)](https://pubmed.ncbi.nlm.nih.gov/16421421/)**
+   *Journal: McCulloch M, See C, Shu XJ, et al. Journal of Clinical Oncology, 2006, 24(3): 419-430.*
+   This meta-analysis of 34 randomized trials with 2,815 patients found that adding Astragalus-based herbal formulas to platinum-based chemotherapy for advanced non-small-cell lung cancer was associated with improved survival at 12 months compared to chemotherapy alone. The addition of Astragalus-based herbs also appeared to improve tumour response rates and reduce chemotherapy-related nausea.
+
+2. **[Systematic review and meta-analysis of Astragalus membranaceus as adjunctive therapy for diabetic kidney disease (2019)]()**
+   *Journal: Zhang HW, Shergis JL, Yang L, et al. Journal of Ethnopharmacology, 2019, 239: 111921.*
+   This updated systematic review and meta-analysis assessed Astragalus membranaceus as add-on therapy for diabetic kidney disease. Results suggested potential benefits in reducing proteinuria and improving kidney function markers when added to conventional treatment, though the quality of the included studies was generally low and the authors noted significant heterogeneity.
+
+3. **[Systematic review and meta-analysis of the effect of Astragalus on humoral and cellular immune response in humans (2023)]()**
+   *Journal: Zhang X, Qu X, Zou Y. Complementary Medicine Research, 2023, 30(6): 535-543.*
+   A meta-analysis of 19 clinical studies involving 1,094 participants found that Astragalus demonstrated significant reductions in proinflammatory cytokines and enhancement of cellular immune markers including CD3 T cell levels and CD4/CD8 ratio. However, substantial heterogeneity across studies limited the strength of conclusions.
+
+4. **[Systematic review: Astragalus membranaceus for cancer-related fatigue (2025)]()**
+   *Journal: Sheng X, Yang L, Huang B, et al. Integrative Cancer Therapies, 2025, 24.*
+   This systematic review and meta-analysis of randomized controlled trials found that Astragalus membranaceus (primarily as polysaccharide injection) helped alleviate cancer-related fatigue and improve quality of life with few adverse effects. The authors noted that the evidence was limited by small sample sizes and short intervention durations, and called for more rigorous multi-centre trials.
+
+5. **[Review: Astragalus membranaceus protection against inflammation and gastrointestinal cancers (2016)]()**
+   *Journal: Auyeung KK, Han QB, Ko JK. American Journal of Chinese Medicine, 2016, 44(1): 1-22.*
+   This comprehensive review summarized the pharmacological properties of Astragalus membranaceus, focusing on its polysaccharides, flavonoids, and saponins. The review highlighted immunomodulating, antioxidant, anti-inflammatory, and anticancer effects, and noted that Astragalus-based treatments have shown significant reduction in toxicity from concurrent chemotherapy drugs. The authors discussed novel saponin extracts with specific anticancer signalling mechanisms.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/huang-qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)*

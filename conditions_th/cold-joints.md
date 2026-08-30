@@ -1,0 +1,185 @@
+# ข้อเย็น (寒痹)
+**คำอ่านพินอิน**: hán bì | **ประเภท**: Symptom | **หมวดหมู่**: เงื่อนไขข้อและข้ออักเสบ  
+**ชื่อเรียกอื่นๆ**: Joints feel cold to the touch | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+In TCM, cold joints aren't just a temperature problem - they're a sign of blocked Qi and Blood. With targeted herbs and moxibustion, most people feel lasting warmth return within 4...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, joints that feel cold to the touch or ache in cold weather are often seen as a symptom of underlying conditions like osteoarthritis, rheumatoid arthritis, poor circulation, or Raynaud's phenomenon. The cold sensation may be due to reduced blood flow, inflammation, or nerve sensitivity. Diagnosis typically involves physical examination, imaging such as X-rays or MRI, and blood tests to rule out autoimmune or degenerative joint diseases.
+
+### การรักษาหลัก (Treatments)
+Conventional management focuses on the underlying condition, if identified. For arthritis, treatments include pain relievers (NSAIDs), corticosteroid injections, physical therapy, and in severe cases, joint replacement surgery. Keeping joints warm with heat packs, warm baths, and appropriate clothing is also commonly recommended.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, joints that feel cold are a classic sign of Bi syndrome - a painful obstruction where external pathogenic factors like Cold, Wind, and Dampness invade the body and block the flow of Qi and Blood in the channels and joints. Cold has a contracting, slowing nature; when it lodges in the joints, it freezes the normal circulation, causing intense, fixed pain and a sensation of cold that improves with warmth. The body's Yang Qi, which should be pushing these invaders out, is simply not strong enough.
+But not all cold joints are created equal. A sudden cold invasion after exposure to icy weather or air conditioning produces a sharp, localized pain with a tight pulse and a pale tongue - this is the purest Cold Bi. When Wind and Dampness join the attack, the picture shifts: the pain may wander, the joints feel heavy and swollen, and the tongue coating becomes greasy. This Wind-Cold-Damp obstruction is slower to resolve because Dampness is sticky and lingers.
+For many people, especially as they age, cold joints point to a deeper issue: Kidney Yang deficiency. The Kidneys are the root of all Yang in the body, the internal fire that warms every joint and limb. When this fire dims, the lower back and knees - the regions governed by the Kidneys - feel persistently cold, often accompanied by fatigue, frequent nighttime urination, and a deep, weak pulse. Here, the cold isn't just an invader; it's a sign that the body's own heating system is failing.
+The tongue and pulse provide critical clues to distinguish these patterns. A pale tongue with a thin white coat and a tight pulse suggest external Cold. A puffy tongue with teeth marks and a greasy white coat points to Dampness. A pale, tender tongue with a deep, slow pulse signals Kidney Yang deficiency. By reading these signs, a TCM practitioner can choose the right warming strategy - whether it's expelling Cold, drying Dampness, or stoking the Kidney fire.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+When someone complains of joints that feel cold to the touch or ache in cold weather, a TCM practitioner begins by asking how the cold sensation started, what makes it better or worse, and what other symptoms accompany it. The answers quickly point toward one of three underlying patterns: a direct cold invasion, a mixed wind-cold-damp obstruction, or a deeper Kidney Yang deficiency.
+If the cold joints appeared suddenly after exposure to cold or damp, and the pain is fixed, sharp, and worsens with cold while improving with heat, that suggests a direct Cold Invasion. The tongue is often pale with a thin white coat, and the pulse feels tight (紧, jǐn) like a stretched rope. The person may also have chills and stiff muscles.
+When the joint pain is accompanied by a sensation of heaviness and perhaps moves from joint to joint, the diagnosis leans toward Wind-Cold-Damp Obstruction. This classic bi syndrome combines cold with wind and dampness. The pain improves with warmth but is aggravated by cold and damp weather. The tongue coating is white and greasy, and the pulse is wiry (弦, xián) or slow.
+In older adults or those with long-term fatigue, cold joints that are persistent and accompanied by a deep ache in the low back and knees point to Kidney Yang Deficiency. The cold is internal, not just from external invasion. The person often feels chilly all over, especially in the limbs, and the pain may be worse at night. The tongue is pale and swollen, and the pulse is deep and slow (沉迟, chén chí).
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「风寒湿三气杂至，合而为痹也。寒气胜者为痛痹。」
+> 
+> **คำแปลภาษาอังกฤษ**: "When the three qi of wind, cold, and dampness arrive together and combine, they form bi. When cold qi predominates, it is called pain bi (痛痹)."
+> 
+> — แหล่งที่มา: *Huang Di Nei Jing (Su Wen)  ,  Chapter 43, Bi Lun (On Painful Obstruction) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Cold invading the Channels joints and muscles
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/cold-invading-the-channels-joints-and-muscles)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Intense, fixed joint pain, Joints feel cold to the touch, Pain aggravated by cold, relieved by warmth, Skin over joint not red, normal color
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp, or windy weather, Cold or raw foods and drinks, Sedentary lifestyle or prolonged sitting
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth (heating pad, warm bath, warm clothing), Warm foods and drinks, Gentle movement or stretching, Rest in a warm place
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Cold invades from the outside, it has a contracting, slowing nature that directly blocks the flow of Qi and Blood in the channels, sinews, and joints. This obstruction causes intense, fixed pain and makes the affected area feel cold to the touch. The body's Yang Qi is not strong enough to push the Cold out, so the pain worsens in cold conditions and eases when warmth relaxes the channels.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body, thin white coat, moist surface. Pulse: tight (紧 jǐn) and often wiry (弦 xián); may be floating (浮 fú) in acute onset.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold has a contracting nature that directly blocks the flow of Qi and Blood in the channels, causing intense, fixed pain and stiffness. Heat, whether applied externally or taken as warm food and drink, relaxes this constriction, opens the channels, and restores circulation, which is why the pain improves with warmth. Gentle movement prevents stagnation, while prolonged stillness allows cold to settle deeper into the joints.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep affected joints warm with wraps or heat packs. Eat warming, cooked foods like soups and stews with ginger, cinnamon, and garlic. Avoid cold drinks and raw vegetables. Gentle movement helps keep Qi flowing, but don't overexert.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Wu Tou Tang](https://www.meandqi.com/knowledge-base/formulas/wu-tou-tang)** | Aconite Decoction &#xB7; H&#xE0;n dynasty, ~200 CE | Hot, Warms the Channels and Disperses Cold, Dispels Dampness and Unblocks Painful Obstruction, Relieves pain in the joints and sinews | The classic formula for cold bi, it powerfully warms the channels, dispels cold, and relieves fixed joint pain. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Warms the Kidney Yang and disperses deep cold, the core herb for cold bi pain. |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms the channels and promotes circulation to the joints, alleviating stiffness. |
+| **[Ma Huang](https://www.meandqi.com/knowledge-base/herbs/ma-huang)** | Ephedra stem |  | Opens the exterior and dispels cold, helping release the pathogen from the body surface. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Dispels wind and relieves pain in the upper body. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Warms the channel and benefits the elbow and arm. |
+| **GB-34** | [Yanglingquan GB-34](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34) | Y&#xE1;ng L&#xED;ng Qu&#xE1;n | Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder | Master point for joints, especially for lower limb cold pain. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Moxa to warm Kidney Yang and drive out cold. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa to warm the body&#x27;s core and dispel internal cold. |
+
+---
+
+### Painful Obstruction with Wind-Cold-Damp
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/painful-obstruction-with-wind-cold-damp)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Heaviness or sensation of weight in the limbs, Pain that worsens in cold, damp, or rainy weather, Pain that may shift from joint to joint, Swelling of affected joints without redness or heat, Pain relieved by warmth and gentle movement, Numbness or tingling in the extremities
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp, or windy weather, Cold or raw foods and drinks, Sedentary lifestyle or prolonged sitting, Overwork or exhaustion
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth (heating pad, warm bath, warm clothing), Gentle movement or stretching, Dry, warm weather, Warm foods and drinks, Moxibustion
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's defensive Qi is weak, Wind, Cold, and Dampness can invade the joints and channels. Cold constricts and slows circulation, causing stiffness and pain that feels cold and is worse in cold weather. Dampness creates heaviness, swelling, and a sticky obstruction that lingers. Wind makes the pain move from joint to joint. Together they block Qi and blood flow, making the joints ache and feel cold.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, slightly swollen body with teeth marks, white greasy coating, moist surface. Pulse: Wiry and tight; may be soggy or slow if Dampness predominates.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold and dampness are the primary pathogens in this pattern, so external cold and dampness worsen the obstruction by further constricting the channels and adding heaviness. Warmth and dryness disperse cold and dry dampness, restoring circulation. Gentle movement moves Qi and blood to break up stagnation, while overexertion or prolonged stillness both aggravate stagnation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups and stews with ginger and cinnamon. Avoid raw, cold, and greasy foods that create internal dampness. Keep affected joints warm with clothing or heat packs. Gentle daily movement like tai chi or walking helps keep Qi and blood moving without straining the joints.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi Shao Yao Zhi Mu Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-shao-yao-zhi-mu-tang)** | Cinnamon Twig, Peony, and Anemarrhena Decoction &#xB7; Han dynasty, ~200 CE | Warm, Unblocks Chest Yang and Disperses Bound Knots, Dispels Wind-Dampness, Warms the Channels and Disperses Cold | The classic formula for wind-cold-damp obstruction, it dispels all three pathogens while protecting the joints from damage. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms the channels and dispels cold, guiding other herbs to the joints. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Strongly warms yang and dispels cold to stop severe pain. |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed |  | Drains dampness and eases joint heaviness and swelling. |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Dries dampness and strengthens the Spleen to prevent fluid accumulation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **GB-34** | [Yanglingquan GB-34](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34) | Y&#xE1;ng L&#xED;ng Qu&#xE1;n | Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder | Master point for sinews and joints, dispels wind-damp and eases stiffness. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens Spleen Qi to transform dampness and support overall energy. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Resolves dampness and benefits the joints, especially in the lower body. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa on this point warms Kidney Yang to drive out deep cold. |
+
+---
+
+### Kidney Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Aching cold pain in the lower back and knees, Persistent whole-body chill, worse in the lower body, Frequent urination, especially at night, Profound fatigue and low energy, Loose stools or early morning diarrhea, Swelling in the legs or ankles
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp, or windy weather, Cold or raw foods and drinks, Overwork or exhaustion, Prolonged standing or sitting in cold places, Late nights and inadequate sleep
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest in a warm place, Warm foods and drinks, Gentle movement or stretching, Warmth (heating pad, warm bath, warm clothing), Foot soaks before bed
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Kidneys are the root of the body's Yang, the internal fire that warms every joint and limb. When Kidney Yang is deficient, this vital warmth fades, and the body cannot generate enough heat to keep the joints comfortable. The lower back and knees - the regions governed by the Kidneys - feel persistently cold, aching, and weak. Unlike an acute invasion of external cold, this is a deep, chronic chill that comes from within, often worse with exhaustion and better with sustained warmth.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with teeth marks and a wet white coating. Pulse: deep, slow, and weak, especially at the Chi (rear) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Yang is the body's fundamental warming force. Warmth, rest, and warm foods nourish and conserve this fire, while cold, raw foods, and overwork drain it further. Gentle movement helps circulate Yang Qi without exhausting it, relieving the sensation of cold in the joints.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Emphasize warming foods like lamb, ginger, cinnamon, and walnuts. Avoid raw, cold, and icy foods that dampen the internal fire. Keep the lower back and feet warm, and soak your feet in warm water before bed. Gentle movement like walking or tai chi helps circulate Yang Qi without depleting energy.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[You Gui Wan](https://www.meandqi.com/knowledge-base/formulas/you-gui-wan)** | Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire | The classic formula to deeply warm Kidney Yang and restore the Gate of Life fire, thereby warming the joints from within. |
+| **[Du Huo Ji Sheng Tang](https://www.meandqi.com/knowledge-base/formulas/du-huo-ji-sheng-tang)** | Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE | Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys | Addresses chronic joint pain while tonifying the Liver and Kidneys, ideal when deficiency underlies the cold obstruction. |
+| **[Wu Tou Tang](https://www.meandqi.com/knowledge-base/formulas/wu-tou-tang)** | Aconite Decoction &#xB7; H&#xE0;n dynasty, ~200 CE | Hot, Warms the Channels and Disperses Cold, Dispels Dampness and Unblocks Painful Obstruction, Relieves pain in the joints and sinews | A classical formula for severe joint pain caused by cold and dampness lodged in the body. It powerfully warms the channels, disperses cold, and relieves pain in conditions where joints are stiff, aching, and worsened by cold weather. Due to the inclusion of Aconite root (a potent but toxic herb), this formula requires careful professional preparation and supervision. |
+| **[Gui Zhi Shao Yao Zhi Mu Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-shao-yao-zhi-mu-tang)** | Cinnamon Twig, Peony, and Anemarrhena Decoction &#xB7; Han dynasty, ~200 CE | Warm, Unblocks Chest Yang and Disperses Bound Knots, Dispels Wind-Dampness, Warms the Channels and Disperses Cold | A classical formula from the Han dynasty used to relieve joint pain, swelling, and stiffness caused by Wind, Cold, and Dampness lodged in the body. It is especially suited for chronic joint conditions where the joints are swollen and painful, the body has become weakened, and the feet are particularly swollen. The formula works by warming the channels, dispelling Wind and Dampness, and protecting the body&#x27;s fluids from the drying effects of its warming herbs. |
+| **[You Gui Wan](https://www.meandqi.com/knowledge-base/formulas/you-gui-wan)** | Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire | A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation. |
+| **[Du Huo Ji Sheng Tang](https://www.meandqi.com/knowledge-base/formulas/du-huo-ji-sheng-tang)** | Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE | Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys | A classical formula for chronic joint and lower back pain caused by long-term exposure to cold and dampness, combined with underlying weakness of the Liver, Kidneys, Qi, and Blood. It works on two fronts: expelling cold, wind, and dampness from the joints and sinews while also strengthening the body&#x27;s constitution to prevent recurrence. It is especially suited for older adults or anyone whose pain has persisted for a long time and is accompanied by weakness, stiffness, or numbness in the lower body. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | The most potent herb to warm Kidney Yang and drive deep cold out of the bones and joints. |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Ignites the Gate of Life fire to warm the entire body and dispel internal cold. |
+| **[Du Zhong](https://www.meandqi.com/knowledge-base/herbs/du-zhong)** | Eucommia bark |  | Tonifies the Kidneys and strengthens the lower back and knees, directly relieving the cold aching. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig | Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi |  |
+| **[Ma Huang](https://www.meandqi.com/knowledge-base/herbs/ma-huang)** | Ephedra stem | Warm, Induces Sweating and Releases the Exterior, Disperses Wind-Cold, Descends Lung Qi and Calms Wheezing |  |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed | Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain |  |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Du Zhong](https://www.meandqi.com/knowledge-base/herbs/du-zhong)** | Eucommia bark | Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Moxibustion on this point powerfully warms Kidney Yang and dispels cold from the lower back. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Moxibustion here ignites the Gate of Life fire, the source of all Yang in the body. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxibustion warms the lower burner and strengthens the Kidney&#x27;s ability to heat the limbs. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Why do my joints feel cold all the time?
+In TCM, persistent cold joints usually mean that Cold has invaded the channels and is blocking the flow of Qi and Blood, or that your body's internal warmth (Kidney Yang) is too weak to keep the joints comfortable. The exact cause depends on your other symptoms and tongue/pulse signs, which is why a proper diagnosis is so important.
+
+### Can acupuncture really warm up my joints?
+Yes. Acupuncture stimulates points that restore circulation and activate your body's own warming mechanisms. Many practitioners also use moxibustion - burning a dried herb (mugwort) near or on the skin over the joint - to directly introduce heat into the channels. Patients often feel a pleasant spreading warmth during and after treatment.
+
+### How does moxibustion work for cold joints?
+Moxibustion (艾灸, ài jiǔ) uses the heat of burning mugwort to penetrate deep into the channels, expelling Cold and Dampness. It's especially effective for joints that feel cold to the touch and ache in damp weather. The warmth helps relax muscles, improve blood flow, and relieve pain - and many patients learn to use it safely at home between sessions.
+
+### Will I need to take herbs forever?
+No. Herbal formulas are typically prescribed for a few weeks to a few months, depending on the pattern. Acute cold invasions may need only a short course; chronic Kidney Yang deficiency may require longer, but the goal is always to restore balance so that your body can maintain warmth on its own. Once the pattern is corrected, herbs are discontinued or tapered off.
+
+### Can I still use my heating pad and painkillers?
+Absolutely. Using a heating pad, warm bath, or over-the-counter pain relief won't interfere with TCM treatment - in fact, warmth is encouraged. Just let your TCM practitioner know about any medications you're taking, especially if you're on blood thinners, as some herbs can have mild anticoagulant effects.
+
+### Is cold joints related to arthritis in TCM?
+Yes, it's often a form of what TCM calls Bi syndrome (painful obstruction), which can correspond to various types of arthritis in Western medicine. The key difference is that TCM doesn't treat all arthritis the same way - it tailors the treatment to the specific pattern of Cold, Wind, Dampness, or deficiency involved.
+
+### What can I eat to warm my joints?
+Favor warm, cooked foods like soups, stews, and congees. Ginger tea, cinnamon, cloves, and black pepper are excellent warming spices. Avoid cold, raw foods and icy drinks, which can introduce more Cold into the body. Bone broths are particularly nourishing for the joints and can be a daily staple.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/cold-joints)*

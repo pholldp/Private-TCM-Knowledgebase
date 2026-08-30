@@ -1,0 +1,182 @@
+# Wu Bei Zi (五倍子)
+**English Name**: Chinese Gall  
+**Category**: Stabilizing and binding herbs (收涩药), Herbs that astringe the Lungs and bind the intestines (敛肺涩肠药)  
+**Scientific Name**: Melaphis chinensis (Bell) Baker (on Rhus chinensis Mill.)  
+**Pharmaceutical Name**: Galla Chinensis  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Sour (酸 suān), Astringent (涩 sè), Salty (咸 xián)  
+**Channels Entered**: Lungs, Large Intestine, Kidneys  
+**Parts Used**: Other  
+
+---
+
+## Summary
+Chinese gallnut is a strongly astringent herb used to tighten and contain substances that the body is losing, whether through excessive sweating, chronic diarrhea, persistent cough, or bleeding. It is cold in nature, which also makes it helpful for clearing Heat. Externally, it is widely used as a powder or wash for weeping skin conditions, sores, hemorrhoids, and wound care.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Excessive Sweating, Skin and Wound Care, Urinary Health
+- **TCM Actions**: Clears Lung Heat and Drains Lung Fire, Astringes the Intestines and Stops Diarrhea, Astringes to Stop Sweating, Secures Essence and Stops Seminal Emission, Stops Bleeding, Absorbs Dampness and Heals Sores
+
+### How these actions work
+'Restrains the Lungs and descends Fire' means Wu Bei Zi uses its sour, astringent taste to tighten and contain Lung Qi that is leaking outward, while its cold nature clears floating Heat from the Lungs. This is why it is used for chronic cough due to Lung deficiency or cough with phlegm caused by Lung Heat. The Ben Cao Gang Mu describes it as having the ability to "restrain the Lungs and stop bleeding, transform phlegm, stop thirst, and collect sweat."
+'Astringes the intestines and stops diarrhea' means this herb tightens the intestinal lining and reduces excessive fluid loss through the bowels. It is indicated for prolonged diarrhea or dysentery that has persisted beyond the acute stage, and for rectal prolapse from chronic downward slippage. This action comes from its strong astringent (涩) taste combined with its affinity for the Large Intestine channel.
+'Restrains sweating' refers to Wu Bei Zi's ability to hold body fluids in place and prevent them from leaking out through the skin. It is used for spontaneous sweating (during the day) or night sweats (during sleep). A classical method recorded in the Ben Cao Gang Mu involves grinding Wu Bei Zi into powder, mixing it with saliva, and applying it to the navel before sleep to stop night sweats.
+'Secures essence and stops seminal emission' means it helps the Kidneys hold reproductive essence in storage, preventing involuntary loss. Because it enters the Kidney channel and has a strong binding quality, it is used for conditions like involuntary seminal emission or spermatorrhea due to Kidney insecurity.
+'Stops bleeding' refers to the herb's ability to constrict tissues and promote clotting, both internally and externally. It can be taken for nosebleeds, bloody stool, or uterine bleeding, and applied as powder directly to external wounds. Its high tannin content (over 50%) is largely responsible for this powerful hemostatic effect.
+'Absorbs dampness and closes sores' describes its topical use for weeping skin lesions, eczema, non-healing ulcers, and other conditions where the skin is moist and slow to close. The herb dries up the dampness and draws the wound edges together, promoting healing.
+
+---
+
+## Patterns Addressed
+### Lung Qi Deficiency
+- **Explanation**: When Lung Qi is deficient, it loses the ability to properly descend and contain itself, leading to chronic, lingering cough. Wu Bei Zi's sour and astringent taste directly acts on the Lung channel to bind and restrain leaking Lung Qi, while its cold nature clears any residual Heat that floats upward in the Lungs. This makes it particularly suited for the later stages of a cough where the pathogen has cleared but the Lungs remain weak and unable to hold their Qi, rather than for the initial acute stage.
+- **Clinical Signs & Symptoms**:
+
+### Small Intestine Deficient and Cold
+- **Explanation**: In this pattern, the Large Intestine and Spleen have been weakened by prolonged illness, losing their ability to hold contents in place. The result is chronic, unrelenting diarrhea or dysentery, and in severe cases, rectal prolapse. Wu Bei Zi enters the Large Intestine channel and uses its powerful astringent action to bind the intestinal lining, reduce excessive secretion, and physically contain what is slipping downward. Its cold nature also clears any lingering damp-heat that may be perpetuating the loose stools.
+- **Clinical Signs & Symptoms**:
+
+### Kidney Qi not Firm
+- **Explanation**: When Kidney Qi is insufficient to lock the 'essence gate,' reproductive essence leaks involuntarily. Wu Bei Zi enters the Kidney channel, and its sour, astringent nature helps the Kidneys secure and store essence. It acts as a binding agent that tightens the Kidney's holding function. The classical formula Yu Suo Dan combines Wu Bei Zi with Fu Ling and Long Gu specifically for this pattern of Kidney insecurity with seminal emission.
+- **Clinical Signs & Symptoms**:
+  - **Spermatorrhea**: Involuntary seminal emission, especially at night
+
+---
+
+## Commonly Used For
+### Chronic Diarrhea
+- **Arises from**: Small Intestine Deficient and Cold
+- **TCM Interpretation**: In TCM, chronic diarrhea that persists for weeks or months is rarely about an active pathogen. Instead, it reflects a fundamental weakening of the Spleen and Large Intestine's ability to separate the clear from the turbid and to hold fluids in their proper place. The Spleen Qi has become too weak to 'raise the clear,' while the Large Intestine has lost its ability to reabsorb fluids. In some cases, residual damp-heat may smoulder in the intestines, perpetuating the loose stools even after the initial infection has passed.
+- **Why it Helps**: Wu Bei Zi directly enters the Large Intestine channel and uses its powerfully astringent, sour nature to bind the intestinal lining and reduce the excessive loss of fluids. Its high tannin content (over 50%) creates a physical tightening effect on mucous membranes. Because it is cold in nature, it can simultaneously address residual damp-heat that may be maintaining the diarrhea. However, practitioners use it only after the initial pathogenic factor has been cleared, as using astringent herbs too early would trap the pathogen inside the body.
+
+### Night sweats
+- **Arises from**: Lung Qi Deficiency, Kidney Qi not Firm
+- **TCM Interpretation**: Night sweats in TCM are most commonly understood as a sign that Yin is insufficient. During sleep, Yang retreats inward and Yin should dominate the exterior. When Yin is depleted, deficiency Heat rises and pushes fluids out through the pores. In other cases, the Lung Qi that controls the skin surface is simply too weak to hold the pores shut, and sweat leaks out passively. Either way, the body is losing precious fluids that it cannot afford to lose.
+- **Why it Helps**: Wu Bei Zi addresses night sweats from two angles. Its sour and astringent taste physically tightens the pores and restrains the leakage of fluids, acting like a plug on the body's surface. Its cold nature simultaneously cools the deficiency Heat that is pushing the sweat outward. A well-known classical method involves grinding the herb into powder and applying it to the navel before sleep. The navel connects to interior channels and allows the herb's astringent action to work from the inside out, often stopping the sweating within a single night.
+
+### Hemorrhoids
+- **Arises from**: Small Intestine Deficient and Cold
+- **TCM Interpretation**: TCM views hemorrhoids as a condition involving damp-heat accumulating in the lower body, combined with Qi sinking downward due to Spleen deficiency. The Lung and Large Intestine share an interior-exterior relationship: when the Lung fails to descend and hold Qi properly, the Large Intestine also loses its structural integrity. Blood pools in the anal vessels, and the tissues prolapse or bleed. The condition is worsened by prolonged sitting, straining, or a diet rich in greasy, spicy foods.
+- **Why it Helps**: Wu Bei Zi is widely used externally for hemorrhoids as a sitz bath or topical powder. Its astringent action tightens the swollen, prolapsed tissue and constricts blood vessels to stop bleeding. Its cold nature clears the local damp-heat and reduces inflammation. Internally, it can be combined with other herbs to address the bleeding from the inside. A common method involves decocting Wu Bei Zi with Ming Fan (alum) for a warm sitz bath that both shrinks the hemorrhoids and stops the bleeding.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-6g (decoction); 1.5-6g (powder taken directly)
+- **Maximum Dosage**: Up to 10g in decoction under practitioner supervision; external use in appropriate amounts as needed.
+- **Dosage Notes**: Lower doses (1.5-3g as powder) are typically used for astringing sweating, securing essence, and stopping bleeding. Standard decoction doses of 3-6g are used for chronic cough and chronic diarrhea. The powder form taken directly is often more effective than decoction for astringent purposes, as boiling may reduce the activity of the tannins. For external use (hemorrhoid washes, wound powder, navel applications), the amount is adjusted as needed. Excessive internal use may cause constipation due to its strong astringent effect on the intestines, and may also cause gastric irritation.
+- **Preparation**: Wu Bei Zi is most commonly ground into powder for direct ingestion (1.5-6g) rather than boiled in decoction, as prolonged decoction may reduce the efficacy of its tannin constituents. When used in decoction, it can be added with other herbs and cooked normally. For external use, it is ground to fine powder and applied directly to wounds, mixed with vinegar or egg white as a paste for navel applications, or decocted in water for washes and sitz baths.
+
+---
+
+## Processing Methods
+### C&#xF9; Ch&#x1CE;o W&#x1D4; B&#xE8;i Z&#x1D0; (&#x918B;&#x7092;&#x4E94;&#x500D;&#x5B50;)
+- **Processing Method**: The raw herb is stir-fried with rice vinegar until it becomes dry and non-sticky. Standard vinegar stir-frying method.
+- **How it Changes Properties**: Vinegar processing enhances the herb's astringent and sour properties and directs its action more strongly toward the Liver channel. It reduces some of the harsh coldness of the raw herb and strengthens its ability to bind the intestines. The astringent, hemostatic effect becomes more concentrated.
+- **When to Use**: Preferred for chronic diarrhea and intestinal conditions, and when the raw herb's cold nature is too strong for the patient's constitution. Also used when stronger intestinal astringency is needed.
+
+### B&#x1CE;i Y&#xE0;o Ji&#x101;n (&#x767E;&#x836F;&#x714E;)
+- **Processing Method**: Wu Bei Zi powder is mixed with tea leaves and yeast (wine lees), then sealed and fermented at warm temperatures for 2-3 weeks until white crystalline frost appears on the surface. Regional methods vary (e.g. Zhejiang, Beijing, Wuhan methods use slightly different proportions of tea, alum, or other ingredients).
+- **How it Changes Properties**: Fermentation fundamentally transforms the herb's character. Bai Yao Jian has a milder, less astringent action than raw Wu Bei Zi. It develops the ability to clear Heat and transform Phlegm, generate fluids, and stop cough. It is gentler on the stomach and better tolerated for internal use.
+- **When to Use**: When the goal is to clear Heat from the Lungs, dissolve phlegm, and moisten the throat, rather than to powerfully astringe. Suitable for phlegm-heat cough, dry mouth, and sore throat where raw Wu Bei Zi would be too harsh and drying.
+
+---
+
+## Common Herb Pairs
+### Wu Wei Zi (Ratio: 1:1)
+- **Description**: Wu Bei Zi and Wu Wei Zi both restrain leakage, but they work through different mechanisms. Wu Bei Zi is cold, sour, and astringent, excelling at binding and descending. Wu Wei Zi is warm, sour, and also astringent, excelling at nourishing the Kidneys and generating fluids. Together they powerfully secure essence, stop sweating, restrain the Lungs to stop coughing, and bind the intestines to stop diarrhea, covering both the cold and warm aspects of astringent therapy.
+- **When to Use**: Chronic cough from Lung deficiency, night sweats, spontaneous sweating, prolonged diarrhea, or seminal emission where both astringency and Kidney-Lung nourishment are needed.
+
+### Di Yu (Ratio: 1:1)
+- **Description**: Wu Bei Zi's astringent sour nature tightens tissues and stops bleeding through physical constriction, while Di Yu (Sanguisorba root) cools the Blood and stops bleeding through its bitter, sour, cold nature that descends into the Lower Burner. Together they provide both a mechanical astringent effect and a Blood-cooling hemostatic effect, making them more effective than either herb alone for lower body bleeding.
+- **When to Use**: Bloody stool, hemorrhoidal bleeding, or rectal bleeding from damp-heat or chronic Large Intestine deficiency.
+
+### Fu Ling (Ratio: 2.5:1 (Wu Bei Zi 500g : Fu Ling 120g in Yu Suo Dan))
+- **Description**: Wu Bei Zi astringes and binds to stop leakage, while Fu Ling gently drains dampness and strengthens the Spleen. This 'one binding, one draining' combination allows the body to stop losing fluids without trapping dampness inside. The classical formula Yu Suo Dan pairs Wu Bei Zi with Fu Ling at a 2.5:1 ratio for exactly this purpose.
+- **When to Use**: Seminal emission, vaginal discharge, or chronic diarrhea where both astringency and dampness drainage are needed.
+
+### Ku Fan (Ratio: 1:1)
+- **Description**: Wu Bei Zi absorbs dampness and closes sores from the outside, while Ku Fan (calcined alum) has a strong drying, toxin-clearing, and flesh-regenerating action. Together they powerfully dry weeping lesions, reduce swelling, and promote the closure of chronic wounds and sores.
+- **When to Use**: External use for weeping eczema, scrotal eczema, non-healing ulcers, hemorrhoid prolapse (as a wash), or rectal prolapse.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+The Chinese Pharmacopoeia classifies Wu Bei Zi as non-toxic. Its principal active component is tannin (tannic acid), which accounts for at least 50% of the herb by dry weight. Tannin is metabolized in the body into gallic acid and pyrogallol. At normal therapeutic doses (3-6g), this is well tolerated. However, animal studies show that extremely large doses can cause focal liver cell necrosis. In mice, intraperitoneal injection of concentrated decoction (100% at 0.25ml) was lethal within 12 hours, though a dose reduced to 1/10 caused no observable harm. Guinea pigs tolerated oral doses of 20g/kg without issues, but subcutaneous injection caused local necrosis and death. These findings indicate the herb is safe at standard oral doses but should not be used in excessive amounts or by non-oral routes. Its strong astringency can also cause gastric irritation if taken in large amounts on an empty stomach.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Classical sources include a formula for threatened miscarriage using Wu Bei Zi (the Zhu Shi Ji Yan Yi Fang records Wu Bei Zi powder taken with wine for 'leaking fetus'), suggesting it was considered potentially beneficial rather than harmful in pregnancy. However, given its strongly astringent and cold nature, modern practice generally advises caution. There are no specific studies confirming reproductive safety. Pregnant women should only use Wu Bei Zi under the guidance of a qualified practitioner, and it is not routinely recommended during pregnancy without clear indication.
+- **Breastfeeding**: There are no specific classical contraindications or modern studies addressing Wu Bei Zi use during breastfeeding. The high tannin content could theoretically pass into breast milk and cause astringent effects or digestive discomfort in the infant. Its cold nature may also be a concern for mothers with Spleen-Stomach deficiency. Topical use (such as the traditional navel application for sweating) is unlikely to pose significant risk. Internal use during breastfeeding should only be undertaken under practitioner guidance at standard doses for clear clinical indications.
+- **Children**: Wu Bei Zi has been used in children in classical sources, particularly as a topical navel application (ground powder mixed with saliva or egg white applied to the umbilicus) for night sweating, bedwetting, and night crying. This external method is generally well tolerated in children. For internal use in children, dosages should be proportionally reduced based on body weight and age. Its strong astringent taste may cause poor compliance. For pediatric diarrhea or sweating disorders, the navel application method is often preferred over oral administration. Always use under practitioner supervision.
+
+### Drug Interactions
+Alkaloid-based medications: The high tannin content of Wu Bei Zi forms insoluble precipitates with alkaloids, which can significantly reduce the absorption and effectiveness of alkaloid-containing drugs (such as certain analgesics, antiarrhythmics, and antimalarials). A separation of at least two hours between taking Wu Bei Zi and such medications is recommended.
+Iron supplements and iron-containing medications: Tannins bind strongly to iron ions, forming insoluble iron-tannate complexes. This can reduce the absorption of both the herb and the iron supplement. Avoid concurrent use.
+Oral medications in general: Due to its protein-precipitating and astringent properties, Wu Bei Zi may interfere with the absorption of various orally administered drugs. As a general precaution, take any pharmaceutical medications at least two hours apart from Wu Bei Zi.
+Anticoagulants: Wu Bei Zi has hemostatic (blood-stopping) properties and promotes coagulation through tannin-mediated protein precipitation. This may theoretically counteract the effects of anticoagulant medications such as warfarin or heparin.
+
+### Dietary Advice
+When taking Wu Bei Zi internally, avoid foods rich in iron or mineral supplements, as tannins will bind to these and reduce absorption. Avoid concurrent consumption of strong tea, as tea also contains tannins and may compound the astringent effect. Cold, raw foods should be moderated if the herb is being taken for Spleen-related diarrhea. Rich, greasy, or hard-to-digest foods may reduce the herb's effectiveness for digestive complaints.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Wu Bei Zi (五倍子, Galla Chinensis) is not a plant itself but rather a gall (insect-produced growth) formed on the leaves of trees in the Rhus genus of the Anacardiaceae (sumac) family. The primary host plant is Chinese sumac (Rhus chinensis Mill.), a deciduous shrub or small tree growing up to 10 metres tall, with brownish, downy young branches and odd-pinnate compound leaves bearing 3 to 6 pairs of leaflets with distinctive winged leaf stalks (rachis). The leaflets are oval to oblong, coarsely toothed, dark green above and powdery-green beneath with russet hairs. It produces broad panicles of small white flowers in late summer, followed by small round red drupes.
+The galls form when aphids of the species Melaphis chinensis (Bell) Baker parasitize the young leaves or winged leaf stalks in spring, stimulating abnormal cell growth that encloses the aphids in a hollow, progressively enlarging sac. By autumn, these galls may reach the size of a fist. They are harvested before the aphids mature and escape, then briefly boiled or steamed to kill the insects inside, and dried for medicinal use. The host trees grow naturally in sunny, gravelly mountain slopes, valleys, and forest margins at altitudes of 500 to 2,700 metres across most of China.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (September to October for jiao-bei type; June to August for du-bei type), harvested before the aphids mature and escape the gall.
+- **Primary Growing Regions**: China is the world's dominant producer, accounting for approximately 95% of global output. The six major producing provinces are Sichuan, Guizhou, Hunan, Hubei, Shaanxi, and Yunnan, which together produce about 80% of China's total. Sichuan and Guizhou are traditionally considered the premier sources. Hubei's Wufeng County (五峰) is a noted daodi (terroir) origin. The Song Dynasty Ben Cao Tu Jing noted that Sichuan specimens were considered the finest (以蜀中者为最佳). The host trees grow on sunny mountain slopes and valleys at 500-2,700m elevation in warm, humid climates.
+- **Quality Indicators**: Wu Bei Zi comes in two main commercial grades: du-bei (肚倍, 'belly gall') and jiao-bei (角倍, 'horn gall'). Du-bei is considered the higher quality type. Good quality du-bei is oblong or spindle-shaped, 2.5-9cm long, with a greyish-brown or greyish-tan surface bearing fine downy hairs. The wall should be thick (0.2-0.3cm), hard and brittle, with a glossy, horn-like cross-section. The interior should be smooth with blackish-brown dead aphids and grey powdery excretions visible. The herb has a distinctive smell and a strongly astringent taste. Per Chinese Pharmacopoeia standards, the tannin content must be at least 50% by dry weight. Pieces that are large, intact, thick-walled, greyish-brown in color, and pure (free of debris) are preferred. Thin-walled, broken, or mouldy specimens should be avoided.
+
+### Identity & Adulterants
+Wu Bei Zi is occasionally confused with other types of insect galls from unrelated plant hosts. Adulterants typically resemble the du-bei (belly) form but lack the characteristic fine downy hairs on the surface, may have thinner walls (around 1mm rather than 2-3mm), and may show raised ridges on the inner wall rather than the smooth interior typical of genuine specimens. Authentic Wu Bei Zi must be galls specifically from Rhus chinensis, Rhus potaninii, or Rhus punjabensis var. sinica parasitized by Melaphis chinensis or related aphid species. The commercially processed product Bai Yao Jian (百药煎), made by fermenting Wu Bei Zi powder with tea and yeast, is a distinct preparation with different properties (more oriented toward clearing Heat and transforming phlegm) and should not be substituted for raw Wu Bei Zi.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Gang Mu (《本草纲目》, Li Shizhen, Ming Dynasty)
+- **Original**: 「其味酸咸，能敛肺止血，化痰，止渴，收汗；其气寒，能散热毒疮肿；其性收，能除泄痢湿烂。」
+- **Translation**: "Its sour and salty taste enables it to astringe the Lungs and stop bleeding, transform phlegm, stop thirst, and restrain sweating. Its cold nature can disperse Heat-toxin sores and swellings. Its astringent character can eliminate diarrhea, dysentery, and weeping damp lesions."
+
+### Historical Context
+Wu Bei Zi was first recorded in the Tang Dynasty text Ben Cao Shi Yi (《本草拾遗》) by Chen Cangqi. The Song Dynasty Kai Bao Ben Cao (《开宝本草》) classified it under the grass category, while the Jia You Ben Cao (《嘉祐本草》) later moved it to the wood category. It was Li Shizhen in the Ming Dynasty who correctly identified its true nature as an insect-produced gall rather than a fruit of the tree, and reclassified it under the insect section of the Ben Cao Gang Mu (《本草纲目》). Li wrote that in early summer, tiny ant-like insects feed on the sap of the sumac tree and leave their offspring, which stimulate small balls to form on the leaves, gradually growing hard and reaching the size of a fist.
+The name "Wu Bei Zi" (五倍子, literally "five-times seed") may allude to the gall's rapid growth to many times its original size. Classical aliases include Wen Ha (文蛤), Bai Chong Cang (百虫仓, "hundred-insect warehouse"), and Mu Fu Zi (木附子). Beyond medicine, Wu Bei Zi has been enormously important industrially: its high tannin content made it essential for leather tanning, ink production, and dyeing throughout Chinese history. China remains the world's leading producer of Chinese gallnut tannin, an industry with over a thousand years of history.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Botany, Traditional Uses, Chemical Composition, Pharmacology and Toxicology of Galla Chinensis (2021)](https://pubmed.ncbi.nlm.nih.gov/34052353/)**
+   *Journal: Oladoye SO, Ju Y, Qian H, et al. Journal of Ethnopharmacology, 2021, 281, 114542.*
+   This comprehensive review analyzed research from 1985-2020 on Galla Chinensis. The authors found that its chemical constituents include tannins, phenolic acids, amino acids, and fatty acids, with polyphenol compounds (especially tannins and gallic acid) as the major components. In vitro and in vivo studies demonstrated anti-caries, antibacterial, antiviral, anticancer, and antioxidant effects. The recommended clinical dose per the 2020 Chinese Pharmacopoeia is 3-6g daily.
+
+2. **[Systematic Review: Anti-carious Effects of Galla Chinensis (2015)](https://pubmed.ncbi.nlm.nih.gov/26331796/)**
+   *Journal: Cheng L, Li J, He L, Zhou X. International Journal of Oral Science, 2015, 7(3), 149-154.*
+   This systematic review summarized the body of evidence on Wu Bei Zi's potential as an anti-cavity agent. The crude extract and purified components showed notable efficacy in inhibiting oral bacteria, preventing enamel demineralization, and enhancing remineralization. The review noted the anti-caries mechanism likely involves the synergistic effects of multiple polyphenol compounds working together.
+
+3. **[Chemical Composition and Anticaries Effect of Galla Chinensis Extract on Enamel Demineralization In Vitro (2012)](https://doi.org/10.1038/ijos.2012.44)**
+   *Journal: Huang XL, Liu MD, Li JY, Zhou XD, ten Cate JM. International Journal of Oral Science, 2012, 4, 146-151.*
+   Researchers at Sichuan University and University of Amsterdam analyzed the chemical profile of Galla Chinensis water extract and found that gallic acid accounts for about 71% of its major organic components. In a pH-cycling model using bovine enamel, both the full extract and gallic acid alone were effective at inhibiting enamel demineralization, suggesting gallic acid as a key active anti-cavity compound.
+
+4. **[Comparison of Composition and Anticaries Effect of Galla Chinensis Extracts with Different Isolation Methods (2017)](https://doi.org/10.2174/1874210601711010447)**
+   *Journal: Huang X, Deng M, Liu M, Cheng L, Exterkate RAM, Li J, Zhou X, ten Cate JM. Open Dentistry Journal, 2017, 11, 447-459.*
+   This study compared water extract, ethanol extract, and commercial tannic acid from Galla Chinensis for their compositions and anti-caries effects. Using in vitro pH-cycling and polymicrobial biofilm models, the ethanol extract and tannic acid (rich in medium-molecular-weight gallotannins) showed stronger inhibition of enamel demineralization and biofilm formation than the water extract, suggesting that medium-molecular-weight gallotannins are the most active anti-caries constituents.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/wu-bei-zi](https://www.meandqi.com/knowledge-base/herbs/wu-bei-zi)*

@@ -1,0 +1,94 @@
+# Niu Huang Jie Du Pian (牛黄解毒片)
+**English Name**: Cattle Gallstone Detoxifying Tablet  
+**Category**: Heat-clearing formulas, Heat-clearing and toxin-resolving formulas  
+**Dynasty/Source**: Zhèng Zhì Zhǔn Shéng (《证治准绳》, Standards of Patterns and Treatments) by Wáng Kěn Táng  
+**Temperature**: Cold | **Form**: Tablet (Pian)
+
+---
+
+## Summary
+A widely used traditional formula for clearing excess Heat and toxins from the body. It is commonly taken for sore throats, swollen gums, mouth ulcers, red and painful eyes, and constipation caused by internal Heat buildup. This is a short-term remedy and should not be used for prolonged periods.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Clears Heat and Resolves Toxicity, Drains Fire, Reduces Swelling and Alleviates Pain, Purges Heat and Unblocks the Bowels
+- **Therapeutic Focus**: Oral and Dental Health, Throat Health, Skin Health, Digestive Health
+- **Target Organs**: Heart, Liver, Stomach, Lungs, Large Intestine
+- **Patterns Addressed**: 
+- **Conditions Treated**: Corneal Ulcers, Sore Throat, Acne, Swollen Gums, Tonsillitis, Viral Conjunctivitis, Constipation, Dental Problems, Pharyngitis, Stomatitis, Lumps, Boils
+- **Other Names**: Niuhuang Jiedu Wan (牛黄解毒丸, Cattle Gallstone Detoxifying Pill)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Niu Huang** | Cattle gallstone | *King* | 5g (in full batch of ~780g total) | Temp: Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver | The chief herb of the formula. Bitter in flavor and cool in nature, it enters the Heart and Liver channels. It powerfully clears Heat from the Heart, resolves toxins, and calms the spirit. As the King herb, it directly targets the core pathomechanism of Heat-toxin accumulating internally and flaring upward. |
+| **Shi Gao** | Gypsum | *Deputy* | 200g (in full batch) | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Acrid and very cold, it enters the Lung and Stomach channels. It powerfully clears Stomach and Lung Heat, drains Fire, and relieves thirst and irritability. As the largest ingredient by weight, it provides the main cooling force against blazing Stomach Fire that causes gum swelling and mouth sores. |
+| **Da Huang** | Rhubarb root and rhizome | *Deputy* | 200g (in full batch) | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Bitter and cold, it clears Heat, drains Fire downward, and purges the bowels. By promoting bowel movement, it provides an exit route for Heat-toxin to leave the body through the stool, preventing Heat from continuing to steam upward to the head and face. |
+| **Huang Qin** | Baical skullcap root | *Deputy* | 150g (in full batch) | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Bitter and cold, it clears Heat and dries Dampness, drains Fire, and resolves toxins. It is especially effective at clearing Heat from the Lung and upper body, complementing Shi Gao and Da Huang to address Heat at multiple levels. |
+| **Xiong Huang** | Realgar | *Assistant* | 50g (in full batch) | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Stomach, Large Intestine | Acrid and warm but strongly toxin-resolving, it clears Heat-toxin and reduces swelling. It specifically targets toxic swellings, sores, and abscesses. Despite its warm nature, its powerful detoxifying action reinforces the formula's ability to resolve Fire-toxin in cases of severe swelling and pain. |
+| **Bing Pian** | Borneol | *Assistant* | 25g (in full batch) | Temp: Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Spleen, Lungs | Acrid, bitter, and slightly cold, it clears Heat, relieves pain, reduces swelling, and opens orifices. It has a strong aromatic quality that helps direct the formula's actions to the head, eyes, mouth, and throat, and enhances the pain-relieving effect on inflamed tissues. |
+| **Jie Geng** | Balloon flower root | *Assistant* | 100g (in full batch) | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Bitter and acrid with a neutral thermal nature, it opens and disperses Lung Qi and benefits the throat. It acts as a "boat" herb that directs the formula's medicinal actions upward to the throat and head, where the symptoms of Heat-toxin most commonly manifest. |
+| **Gan Cao** | Licorice root | *Envoy* | 50g (in full batch) | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Sweet and neutral, it harmonizes all the other herbs in the formula, moderates the harsh cold and bitter properties of the other ingredients, and protects the Stomach from damage. It also clears Heat and resolves toxins in its own right, and soothes the throat. |
+
+---
+
+## Scientific Research
+
+1. [Bioaccessibility and excretion of arsenic in Niu Huang Jie Du Pian pills (Pharmacokinetic study, 2007)](https://pubmed.ncbi.nlm.nih.gov/17239412/) (*Lai VW, Sun Y, Ting E, Cullen WR, Reimer KJ. Arsenic speciation in human urine: are we all the same? Toxicol Appl Pharmacol. 2007;222(3):292-298.*)
+> This study analyzed the arsenic content, bioavailability, and urinary excretion after a single ingestion of NHJD pills. Although each pill contained approximately 28 mg total arsenic (from realgar), only about 4% was bioavailable for absorption into the bloodstream. Urinary arsenic excretion showed two distinct peaks, indicating a complex absorption and metabolism pattern. The study demonstrated that realgar-bound arsenic has much lower bioavailability than free inorganic arsenic compounds.
+2. Toxicology Evaluation of Realgar-Containing Niu-Huang-Jie-Du Pian as Compared to Arsenicals in Cell Cultures and in Mice (Preclinical study, 2011) (*Wu J, Shao Y, Liu J, Chen G, Ho PC. The medicinal use of realgar (As4S4) and its recent development as an anticancer agent. J Ethnopharmacol. 2011;135(3):595-602.*)
+> This study compared the toxicity of NHJD tablets with common arsenical compounds in cell cultures and mice. The LC50 for NHJD in cultured cells was 1200 μM, far higher than arsenite (35 μM) or arsenic trioxide (280 μM), demonstrating that realgar in its mineral form within the formula is much less acutely toxic than free arsenic species. In mice, liver and kidney injury was mild after NHJD exposure compared to arsenite or arsenate.
+3. Use status and metabolism of realgar in Chinese patent medicine (Pharmacokinetic/survey study, 2015) (*Li Y, Wang D, Xu Y, Liu B, Zheng Y, Yang B, Fan S, Zhi X, Zheng Q, Sun G. J Ethnopharmacol. 2015;168:165-170.*)
+> This study reviewed all realgar-containing patent medicines in China's database and studied arsenic metabolism in 10 volunteers who took four NHJD pills as directed. Among 191 realgar-containing patent medicines identified, 87% were for oral use. After ingestion, urinary arsenic metabolites confirmed that the body processes realgar-derived arsenic through methylation pathways. The findings support the need for strict dosage and duration controls.
+4. [Safety evaluation of Niuhuang Jiedu tablet (Review article, 2014)](https://pubmed.ncbi.nlm.nih.gov/25532382/) (*Lu YF, Wu Q, Liang SX, Miao JW, Shi JS, Liu J. Evaluation of hepatotoxicity potential of NHJD. China Journal of Chinese Materia Medica. 2014;39(18):3560-3563.*)
+> This review summarized safety research on NHJD and argued that toxicity is dose-dependent and duration-dependent rather than inherent to any single dose. The authors noted that using total arsenic content as the sole safety index is inappropriate because the bioavailable fraction of realgar-bound arsenic is far lower than that of soluble arsenic compounds. The paper recommended rigorous modern scientific evaluation rather than outright removal of realgar from the classical formula.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+CONTRAINDICATED. China's National Medical Products Administration (NMPA) officially mandates that pregnant women must not use Niu Huang Jie Du Pian.
+The primary concerns are:
+1. Xiong Huang (realgar/arsenic disulfide): Arsenic compounds are known teratogens that can cross the placental barrier and harm fetal development.
+2. Da Huang (rhubarb): Has purgative and Blood-moving properties that can stimulate uterine contractions and increase the risk of miscarriage.
+3. Bing Pian (borneol): A strong aromatic substance that promotes circulation, traditionally considered unsafe in pregnancy.
+There is no safe dosage during pregnancy. This formula must be completely avoided throughout all trimesters.
+
+### Breastfeeding
+CONTRAINDICATED. The NMPA explicitly prohibits use during breastfeeding.
+The primary concern is Xiong Huang (realgar), whose arsenic metabolites can be excreted into breast milk and absorbed by the nursing infant. Infants have immature liver and kidney function and cannot effectively process or excrete arsenic, making even small amounts potentially harmful.
+Additionally, Da Huang (rhubarb) contains anthraquinone compounds that pass into breast milk and may cause diarrhea in the nursing infant.
+Breastfeeding mothers who need to clear Heat and resolve toxins should consult a practitioner for safer alternatives that do not contain mineral toxicants or strong purgatives.
+
+### Children
+Infants and toddlers (under 3 years): PROHIBITED. China's NMPA explicitly bans use in this age group.
+Children aged 3 and older: No established pediatric safety data exists. The formula's strongly cold nature can easily damage a child's naturally delicate Spleen and Stomach. If a practitioner determines it is necessary for a child with clear excess-Heat signs, dosage must be significantly reduced (typically one-third to one-half of the adult dose depending on age and weight), and the duration must be kept as short as possible (1-2 days maximum). Close monitoring for diarrhea, abdominal pain, or skin rash is essential.
+The arsenic content from Xiong Huang (realgar) is of particular concern in children because their lower body weight means a higher dose-per-kilogram ratio, and their immature liver and kidney detoxification systems are less capable of processing and excreting arsenic.
+
+### Drug Interactions
+Cardiac glycosides (digoxin, digitoxin): Shi Gao (gypsum) and Niu Huang contain calcium ions that can synergize with cardiac glycosides, increasing myocardial contractility and the risk of digitalis toxicity and arrhythmia. Concurrent use should be avoided.
+Tetracycline antibiotics: Calcium ions from Shi Gao (gypsum) can chelate with tetracyclines to form insoluble complexes in the gut, significantly reducing antibiotic absorption and effectiveness. Separate administration by at least 3 hours.
+Fluoroquinolone antibiotics (norfloxacin, ofloxacin): Calcium from Shi Gao can form chelation complexes with these drugs, reducing their bioavailability and antibacterial efficacy. If both must be used, space them at least 2-3 hours apart.
+Ferrous sulfate and other iron supplements: Xiong Huang (realgar) contains arsenic sulfide, which may react with iron salts to increase arsenic toxicity. Separation of at least 3 hours is advised.
+Phenobarbital and other CNS depressants (morphine, chloral hydrate): Niu Huang (bovine bezoar) has inherent mild sedative properties and may potentiate central nervous system depression when combined with these drugs.
+Enzyme preparations (digestive enzymes): The arsenic compounds in Xiong Huang (realgar) can bind to the active sites of enzyme preparations and inactivate them, reducing their therapeutic effect.
+Sulfonamide antibiotics: Interaction with the mineral components may alter drug metabolism. Concurrent use is not recommended.
+Isoniazid: May interact with the formula's mineral components. Separate by at least 3 hours if both are needed.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: After meals, 2-3 times daily, to reduce gastrointestinal irritation from the formula's cold and purgative nature.
+- **Typical Duration**: Acute use only: 2-3 days, maximum 5-7 days. Stop as soon as symptoms improve ('stop when the condition resolves').
+- **Dietary Advice**: While taking this formula, avoid spicy, fried, greasy, and heavily seasoned foods, as these generate internal Heat and directly oppose the formula's cooling action. Alcohol and tobacco should also be avoided.
+Favor cooling, mild foods such as fresh vegetables, pears, watermelon, mung bean soup, cucumber, and chrysanthemum tea. Drink plenty of warm or room-temperature water to support the body's elimination of Heat.
+Avoid excessively cold or raw foods despite the Heat pattern, as the formula itself is already very cold in nature. Adding large amounts of ice-cold food may further burden the Spleen and Stomach and cause diarrhea.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/niu-huang-jie-du-pian](https://www.meandqi.com/knowledge-base/formulas/niu-huang-jie-du-pian)*

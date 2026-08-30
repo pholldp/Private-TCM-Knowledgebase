@@ -1,0 +1,74 @@
+# Qing Bi Tang (清鼻汤)
+**English Name**: Clear the Nose Decoction  
+**Category**: Exterior-releasing formulas, Exterior-releasing and dampness-resolving formulas  
+**Dynasty/Source**: Yan Fang (驗方, Time-Tested Formulas), author and date unknown  
+**Temperature**: Slightly Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A formula designed to relieve nasal congestion, sinus pressure, and thick yellow nasal discharge caused by a combination of external Wind-Cold trapping the surface and Damp-Heat accumulating internally. It works by releasing the exterior, clearing interior Heat, draining Dampness, and opening the nasal passages.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Releases the Exterior and Disperses Wind-Cold, Clears Interior Heat, Unblocks the Nasal Passages, Drains Dampness and expels pus, Activates Blood in the Head and Alleviates Headache
+- **Therapeutic Focus**: Sinus and Nasal Health, Allergy Support, Respiratory Health
+- **Target Organs**: Lungs, Stomach, Large Intestine
+- **Patterns Addressed**: 
+- **Conditions Treated**: Sinusitis, Allergic Sinusitis, Nasal Congestion, Rhinitis, Headaches, Reduced Sense Of Smell
+- **Other Names**: Pueraria Nasal Combination (清鼻汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Xin Yi Hua** | Magnolia flower bud | *King* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Stomach | The primary herb for opening the nasal passages and unblocking nasal obstruction. Xin Yi Hua has a special affinity for the nose and directly addresses the core complaint of nasal congestion. |
+| **Ge Gen** | Kudzu root | *Deputy* | 9 - 15g | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs | Releases the exterior and muscle layer, generates fluids, and raises clear Yang to the head. Combined with Ma Huang and Sheng Jiang, it forms the exterior-releasing core of the formula derived from Ge Gen Tang. |
+| **Ma Huang** | Ephedra stem | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Urinary Bladder | Opens the Lung Qi, promotes sweating to release exterior Wind-Cold, and assists in opening the nasal passages. Works with Ge Gen to dispel surface pathogens. |
+| **Shi Gao** | Gypsum | *Deputy* | 9 - 15g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clears interior Heat from the Lung and Stomach, directly targeting the Damp-Heat accumulation responsible for yellow, foul-smelling nasal discharge. Its cold nature balances the warm exterior-releasing herbs. |
+| **Da Huang** | Rhubarb root and rhizome | *Assistant* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Clears Heat and reduces swelling by draining accumulated Heat downward through the bowels. Works with Shi Gao to purge interior Damp-Heat that drives the production of thick nasal discharge. |
+| **Yi Yi Ren** | Job&#x27;s Tears seed | *Assistant* | 9 - 15g | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Spleen, Stomach, Lungs | Drains Dampness and helps eliminate pus, directly addressing the turbid, sticky quality of the nasal discharge. Also supports the Spleen in resolving Dampness. |
+| **Jie Geng** | Balloon flower root | *Assistant* | 3 - 6g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Opens and raises Lung Qi, helping to drain Dampness and discharge pus from the nasal passages. Also serves as a guide herb directing the formula's action upward to the head and nose. |
+| **Chuan Xiong** | Sichuan lovage rhizome | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Activates Blood circulation and relieves headaches associated with nasal symptoms. Its ascending, dispersing nature carries the formula's action to the head. |
+| **Rou Gui** | Cinnamon bark | *Assistant* | 1 - 3g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Warms the interior and dispels Cold, moderating the harsh cold properties of Shi Gao and Da Huang to prevent damage to the Spleen and Stomach. Balances the overall temperature of the formula. |
+| **Bai Shao** | White peony root | *Assistant* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Harmonizes the nutritive (Ying) and defensive (Wei) levels, nourishes Blood, and balances the pungent, warm exterior-releasing herbs to prevent them from being too dispersing. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Assistant* | 6 - 9g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Assists Ma Huang in releasing the exterior and warms the middle to protect the Stomach from the cold herbs in the formula. |
+| **Da Zao** | Jujube fruit | *Envoy* | 3 - 4 pieces | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach, Heart | Tonifies the Spleen and harmonizes the formula, working with Gan Cao to moderate the actions of the other herbs and protect the digestive system. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes all the herbs in the formula and protects the Stomach. Moderates the harsh properties of the purgative and cold herbs. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. This formula contains Ma Huang (Ephedra), which stimulates the sympathetic nervous system and may raise blood pressure and heart rate. Da Huang (Rhubarb) is a purgative that can stimulate uterine contractions and promote downward movement of Qi, posing a risk of miscarriage. Both herbs are classified among the traditional pregnancy-prohibited substances. Pregnant women with sinusitis should seek alternative treatment approaches.
+
+### Breastfeeding
+Use with caution during breastfeeding. Ma Huang (Ephedra) contains ephedrine and pseudoephedrine, which can pass into breast milk and may cause irritability, poor sleep, or elevated heart rate in nursing infants. Da Huang (Rhubarb) contains anthraquinones that may transfer to breast milk and cause loose stools or colic in the infant. If a breastfeeding mother requires treatment for sinusitis, a practitioner should consider modifying the formula or using alternative approaches. Short-term use under professional supervision may be acceptable, but extended use should be avoided.
+
+### Children
+Not generally recommended for young children under age 6 without professional guidance. Ma Huang (Ephedra) can cause cardiovascular stimulation and is particularly risky in small children. If prescribed for older children (ages 6 and above), dosages should be reduced to approximately one-third to one-half of the adult dose, depending on the child's weight and constitution. The Da Huang (Rhubarb) dose especially should be minimized or removed to avoid diarrhea. A practitioner experienced in pediatric herbal medicine should supervise any use in children.
+
+### Drug Interactions
+Ma Huang (Ephedra) is the herb of greatest pharmacological concern in this formula. Its active constituent ephedrine may interact with:
+- MAO inhibitors: concurrent use can cause dangerous hypertensive crisis.
+- Stimulant medications (amphetamines, methylphenidate): additive cardiovascular stimulation.
+- Beta-blockers and antihypertensive drugs: Ma Huang may counteract their blood pressure-lowering effect.
+- Cardiac glycosides (digoxin): increased risk of arrhythmia.
+- Theophylline and caffeine: additive stimulant effects and potential for toxicity.
+Da Huang (Rhubarb) is a stimulant laxative that may reduce absorption of orally administered medications by accelerating intestinal transit. It may also potentiate the effects of other laxatives or cause electrolyte imbalance (especially potassium loss) when combined with diuretics or corticosteroids.
+Gan Cao (Licorice) contains glycyrrhizin, which may interact with corticosteroids, antihypertensives, diuretics, and digoxin by promoting potassium excretion and sodium/water retention.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Warm, with meals, to reduce possible digestive discomfort from Shi Gao and Da Huang. Typically taken twice daily, morning and evening.
+- **Typical Duration**: Acute use: 5-10 days for active sinus symptoms, then reassess. Chronic sinusitis may require intermittent courses of 2-4 weeks with practitioner supervision.
+- **Dietary Advice**: Avoid cold and raw foods, iced drinks, and dairy products while taking this formula. Cold foods can impair the Lung's dispersing function and worsen nasal congestion, while dairy tends to increase mucus production. Greasy, fried, and heavily spiced foods should also be limited, as they generate Dampness and Heat. Light, warm, and easily digestible meals are best. Congee with scallions or warm soups can support the formula's Exterior-releasing action. Alcohol should be avoided as it generates Damp-Heat.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/qing-bi-tang](https://www.meandqi.com/knowledge-base/formulas/qing-bi-tang)*

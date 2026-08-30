@@ -1,0 +1,326 @@
+# Difficulty breathing when lying flat (不得平卧)
+**คำอ่านพินอิน**: bù dé píng wò | **ประเภท**: Symptom | **หมวดหมู่**: การหายใจผิดปกติ, ท่าทางและความรู้สึกไม่สบายตำแหน่ง  
+**ชื่อเรียกอื่นๆ**: Difficulty lying flat due to breathing problems, Difficulty lying flat due to breathing trouble, Difficulty Lying Down, Difficulty lying flat, Difficulty lying flat at night, Difficulty lying flat at night due to breathlessness, Difficulty lying flat comfortably, Difficulty lying flat due to breathing difficulty, Difficulty lying flat due to breathlessness, Difficulty lying flat due to chest congestion, Difficulty lying flat due to phlegm congestion, Difficulty lying flat when symptoms flare, Inability to lie down due to chest fullness, Inability to lie flat due to breathlessness, Inability to lie flat due to cough and breathlessness, Inability to lie flat or can only lie on the affected side, Inability to lie flat or only able to lie on the affected side, Shortness of breath and difficulty lying flat, Shortness of breath and inability to lie flat, Inability to Lie Flat, Preference for Sitting Upright, Postural preference for sitting upright | **บริเวณร่างกาย**: Chest
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+TCM sees the inability to lie flat not as a single disease but as a sign of what's blocking or weakening your breath. By targeting that specific root - whether it's cold phlegm, he...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In conventional medicine, difficulty breathing when lying flat (orthopnea) is typically a sign that the heart or lungs are struggling. When you lie down, fluid that has pooled in the legs during the day can shift into the chest, putting pressure on the heart and lungs. It's commonly associated with heart failure, but can also occur with severe asthma, COPD, or obesity. Diagnosis usually involves a physical exam, chest X-ray, echocardiogram, and blood tests to identify the underlying cause.
+
+### การรักษาหลัก (Treatments)
+Treatment focuses on the underlying condition. For heart failure, doctors prescribe diuretics (water pills) to reduce fluid buildup, along with medications to strengthen the heart's pumping action. For lung conditions, bronchodilators and steroids help open the airways. In severe cases, oxygen therapy or a CPAP machine may be used to assist breathing at night. Elevating the head of the bed is a common recommendation.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the ability to breathe deeply and lie flat depends on two organs working in harmony: the Lungs, which govern the descent of Qi, and the Kidneys, which 'grasp' the Qi and pull it down into the body. When you lie down, the diaphragm rises, and the Lungs must work a little harder to push the breath out.
+If there's any obstruction - like phlegm, fluids, or stagnant Qi - this extra effort becomes overwhelming, forcing you to sit up to breathe.
+Phlegm and fluids are the most common culprits. When the digestive system (Spleen) is weak, it fails to transform fluids, which then accumulate and congeal into sticky phlegm or watery phlegm-fluids. These can lodge in the chest, physically blocking the Lungs from expanding fully. Depending on whether the phlegm is cold and white or hot and yellow, the pattern and treatment differ completely.
+In some cases, the fluids rise from below, pressing on the heart and causing palpitations along with breathlessness - a pattern called 'Water Qi intimidating the Heart.'
+But not every case is about blockage. Sometimes the problem is a deep deficiency: the Kidneys have become too weak to anchor the breath. This often happens after years of chronic illness or aging. The breath becomes shallow and rapid, and lying flat feels impossible because the body can't pull the air deep enough. This pattern requires a completely different approach - nourishing and strengthening rather than clearing and draining.
+Because the same symptom can stem from such different roots, TCM diagnosis relies on details like the color and consistency of sputum, the feeling of cold or heat, the appearance of the tongue, and the quality of the pulse. That's why a professional assessment is so valuable; it reveals which pattern is truly at play.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+When someone cannot breathe lying flat, a TCM practitioner starts by asking about the sputum. Is it thin, white, and frothy? That suggests a fluid or cold pattern. Is it yellow, thick, and sticky? That points toward heat. The quality of the sputum is often the first clue that separates one pattern from another.
+If the sputum is copious, bubbly, and the chest feels full and tight, the practitioner suspects Phlegm-Fluids above the diaphragm. The tongue is often coated with a thick, white, slippery fur, and the pulse feels wiry and slippery. This picture aligns with the classic description of retained fluids making it impossible to lie down.
+When the breathlessness comes in cold-triggered attacks with thin white phlegm, Cold-Phlegm in the Lungs is the likely culprit. The person may feel chilled and worse in cold weather. The tongue coating is white and the pulse is wiry and tight, reflecting the cold constriction in the airways.
+If instead the sputum is yellow or green, sticky, and accompanied by thirst and a feeling of heat in the chest, the pattern is Phlegm-Heat in the Lungs. The tongue is red with a yellow greasy coating, and the pulse is rapid and slippery. The heat component makes lying flat especially uncomfortable because it adds a sense of smothering warmth.
+Sudden, violent wheezing that forces the person to bolt upright, along with a rattling sound in the throat and copious white phlegm that is easy to bring up, points to Phlegm clogging the Lungs with Qi Stagnation. The chest feels stuffy and distended, and the person may also feel bloated and have a poor appetite. The tongue coating is thick and greasy, and the pulse is wiry and slippery, indicating phlegm obstructing the airway.
+When the inability to lie flat is paired with palpitations, swelling in the legs, and cold hands and feet, the practitioner looks toward Water Qi intimidating the Heart. This pattern reflects heart yang weakness failing to manage fluids. The tongue is pale and puffy, and the pulse is deep and thready, a picture of internal cold and fluid overload.
+In chronic, long-standing cases where breathing is shallow and worse with the slightest effort, the Kidneys failing to receive Qi is the underlying pattern. The person may have a weak lower back and cold limbs. The tongue is pale, and the pulse is deep and weak, indicating that the body's root energy cannot anchor the breath.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「夫不得卧，卧则喘者，是水气之客也。」
+> 
+> **คำแปลภาษาอังกฤษ**: "When one cannot lie down and breathes heavily upon lying, it is because water qi has invaded [the chest]."
+> 
+> — แหล่งที่มา: *《素问·逆调论》 (Su Wen - Treatise on Contrary Regulation)  ,  Chapter 34 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Phlegm-Fluids above the diaphragm
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-fluids-above-the-diaphragm)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Chest fullness and a sensation of blockage below the breastbone, Copious thin white frothy sputum, Facial and body puffiness, Cold limbs and aversion to cold, Palpitations and dizziness, Nausea or vomiting of clear watery fluid
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Lying flat, Cold, raw, or icy foods and drinks, Damp, cold, or chilly weather, Overeating, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Sitting upright or propped up, Warmth on the chest and neck, Warm drinks, Expectorating phlegm, Warm, light meals or nourishing foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Spleen and Kidney Yang are too weak to transform and move fluids, those fluids accumulate and turn into phlegm-fluids. These thick, cold fluids then rise and lodge in the chest and diaphragm, physically blocking the free descent of Lung Qi. This is why the chest feels full and tight. Lying flat makes it far worse because the fluid spreads horizontally across the chest, further compressing the Lungs and making it impossible to get a full breath.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy body with teeth marks, white slippery coating that looks water-slick. Pulse: wiry (弦 xián), possibly wiry-tight or slippery; deep and fine in chronic cases.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: <p>Lying flat allows the accumulated fluids to spread across the chest, physically compressing the Lungs and making it impossible to breathe. Sitting up uses gravity to drain fluids downward, relieving pressure. Cold constricts and congeals, worsening the Yang deficiency that failed to transform fluids in the first place, while warmth helps Yang Qi move and transform the phlegm-fluids. Cold and raw foods directly injure Spleen Yang, creating more dampness and phlegm, so warm, light meals support the Spleen's ability to manage fluids.</p>
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw, and greasy foods that damage Spleen Yang and generate phlegm. Eat small, warm meals and sip warm water throughout the day. Keep your chest and back warm, especially in damp weather. Gentle walking and deep breathing exercises can help move Qi and fluids, but avoid overexertion.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ling Gui Zhu Gan Tang](https://www.meandqi.com/knowledge-base/formulas/ling-gui-zhu-gan-tang)** | Poria, Cinnamon Twig, Atractylodes, and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Warms Yang and Transforms Fluid Retention, Strengthens the Spleen and Resolves Dampness, Subdues Rushing Qi (Ben Tun) | The classic formula to warm Yang and transform fluids, specifically for Phlegm-Fluids above the diaphragm causing inability to lie flat. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Drains dampness and promotes urination to eliminate retained fluids. |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms and unblocks Yang Qi to transform the congealed fluids. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens the Spleen and dries dampness, cutting off the source of phlegm. |
+| **[Gan Cao](https://www.meandqi.com/knowledge-base/herbs/gan-cao)** | Licorice root |  | Harmonizes the formula and supports the Spleen. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Regulates Lung Qi and relieves chest oppression. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Tonifies Spleen Yang to transform dampness and phlegm. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach to support fluid metabolism. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point to resolve phlegm and dampness throughout the body. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | Descends rebellious Lung Qi and eases breathing. |
+
+---
+
+### Cold-Phlegm in the Lungs
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/cold-phlegm-in-the-lungs)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cough with abundant watery or frothy white phlegm, Gurgling or rattling sound in the throat from phlegm, Chest tightness and breathlessness that worsen when lying flat, Feeling cold or chilly, with cold hands and feet, No thirst, or a preference for warm drinks
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Lying flat, Cold, raw, or icy foods and drinks, Damp, cold, or chilly weather, Dairy, sweets, and greasy meals
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Sitting upright or propped up, Warm drinks, Warmth on the chest and neck, Steam inhalation
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Lungs are cold and weak, they fail to move fluids properly. Those fluids congeal into thick, white phlegm that clogs the airways. Lying flat lets this phlegm pool and press on the chest, making it much harder to breathe. Sitting up helps gravity drain the phlegm downward, which is why you feel a strong urge to stay upright.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen body with a thick, white, greasy or slippery coating. Pulse: slippery (滑 huá) and slow (迟 chí), like beads rolling under the fingers.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold-Phlegm is a Yin, congealing pathogen. Cold and dampness thicken phlegm and further obstruct the chest, so lying flat or eating cold foods makes breathing harder. Warmth, on the other hand, melts phlegm and restores the Lung's ability to move it. Sitting upright uses gravity to help drain phlegm away from the airways, while ginger and steam thin the mucus so it can be coughed out.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw, and greasy foods, as well as dairy, which create more phlegm. Eat warm, cooked meals like soups and stews. Sip fresh ginger tea throughout the day to warm the Lungs. Keep your chest and upper back covered and warm, especially in cold or damp weather. A warm mist humidifier or gentle steam inhalation can help loosen phlegm so you can breathe easier.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Qing Long Tang](https://www.meandqi.com/knowledge-base/formulas/xiao-qing-long-tang)** | Minor Blue-Green Dragon Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Releases the Exterior and Disperses Wind-Cold, Warms the Lungs and Transforms Phlegm-Fluids, Descends Lung Qi and Calms Wheezing | The classic formula to warm the Lungs, transform cold-phlegm, and stop wheezing so you can lie down again. |
+| **[Ling Gan Wu Wei Jiang Xin Tang](https://www.meandqi.com/knowledge-base/formulas/ling-gan-wu-wei-jiang-xin-tang)** | Poria, Licorice, Schisandra, Ginger, and Asarum Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms the Lungs and Stops Cough, Resolves Phlegm-Fluid Retention, Disperses Cold | A gentler alternative that warms the Lungs and dissolves thin, watery phlegm when cold is prominent. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome |  | Dried ginger warms the Lungs and Spleen, dissolving cold-phlegm at its root. |
+| **[Xi Xin](https://www.meandqi.com/knowledge-base/herbs/xi-xin)** | Wild Ginger |  | Asarum dispels deep cold and powerfully transforms thin, watery phlegm in the chest. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Pinellia dries dampness and drives rebellious Lung Qi downward, easing the urge to sit up. |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry |  | Schisandra astringes Lung Qi to prevent leakage while the other herbs clear the phlegm. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | The Back-Shu point of the Lungs; moxibustion here warms and opens the chest. |
+| **EX-B-1** | [Dingchuan EX-B-1](https://www.meandqi.com/knowledge-base/acupuncture/dingchuan-ex-b-1) | D&#xEC;ng Chu&#x1CE;n | Calms dyspnoea and wheezing | Calms wheezing and dyspnea, especially when lying flat is impossible. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The master point for phlegm; transforms and drains cold-phlegm from the whole body. |
+
+---
+
+### Phlegm-Heat in the Lungs
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-heat-in-the-lungs)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cough with thick yellow or green sticky sputum, Chest tightness and oppression that worsens when lying down, Fever or sensation of body heat, Thirst with desire to drink, Restlessness and irritability
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Lying flat, Hot, stuffy rooms, Spicy, greasy meals, Irritability and frustration
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Sitting upright or propped up, Cool, fresh air, Warm drinks, Rest and calm
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When thick, sticky phlegm combines with heat, it clogs the airways and makes the Lung Qi rebel upward instead of descending smoothly. Lying flat adds pressure to the chest, further trapping the phlegm and heat, which creates a suffocating sensation and forces you to sit up to breathe. The heat also stirs up restlessness and rapid breathing, making it almost impossible to stay still in a flat position.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body, possibly swollen at the front, with a yellow greasy coating; red prickles may appear on the front third. Pulse: slippery and rapid (滑数 huá shuò).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Lying flat compresses the chest and obstructs the descent of Lung Qi, trapping phlegm and heat and making breathing harder. Sitting upright opens the chest and helps the Lung Qi flow downward. Heat and phlegm are aggravated by hot environments and spicy, greasy foods, while cool air and warm fluids help clear heat and thin the sticky mucus, making it easier to expel.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid greasy, fried, and spicy-hot foods, which create more phlegm and heat. Eat cooling, moistening foods like Asian pear, radish, and loquat. Sleep propped up with pillows to ease breathing, and keep your bedroom cool and airy.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ding Chuan Tang](https://www.meandqi.com/knowledge-base/formulas/ding-chuan-tang)** | Arrest Wheezing Decoction &#xB7; M&#xED;ng dynasty, ~1550 CE | Slightly Warm, Restores Lung Diffusing and Descending Functions, Calms Wheezing, Clears Lung Heat | Clears heat, transforms phlegm, and descends Lung Qi to relieve wheezing and breathlessness when lying down. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears heat from the Lungs and dries dampness to reduce yellow phlegm. |
+| **[Sang Bai Pi](https://www.meandqi.com/knowledge-base/herbs/sang-bai-pi)** | Mulberry root bark |  | Cools the Lungs and stops wheezing by directing Qi downward. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries phlegm and transforms the sticky mucus clogging the airways. |
+| **[Xing Ren](https://www.meandqi.com/knowledge-base/herbs/xing-ren)** | Bitter apricot kernel |  | Directs Lung Qi downward and relieves the urge to cough, making it easier to breathe when lying down. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LU-5** | [Chize LU-5](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/chize-lu-5) | Ch&#x1D0; Z&#xE9; | Clears Lung Heat, Descends the Lung Qi | Clears heat from the Lungs and stops cough. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point for transforming phlegm and opening the chest. |
+| **EX-B-1** | [Dingchuan EX-B-1](https://www.meandqi.com/knowledge-base/acupuncture/dingchuan-ex-b-1) | D&#xEC;ng Chu&#x1CE;n | Calms dyspnoea and wheezing | Specifically calms wheezing and helps the person lie flat. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | Descends rebellious Lung Qi and eases chest oppression. |
+
+---
+
+### Phlegm clogging the Lungs with Qi Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-clogging-the-lungs-with-qi-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Copious white phlegm that is easy to expectorate, Rattling or gurgling sound in the throat, Chest stuffiness and distension that improve when sitting upright, Poor appetite and a bloated feeling in the upper abdomen, Heaviness in the body and fatigue
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Lying flat, Cold, raw, or greasy foods, Damp or humid weather, Overeating, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Sitting upright or propped up, Expectorating phlegm, Warm drinks, Gentle movement, Avoiding dairy and cold foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When digestion is weak, fluids accumulate and congeal into thick, sticky phlegm that clogs the Lungs. This phlegm obstructs the airways and blocks the smooth flow of Qi through the chest. Lying flat presses the diaphragm upward and further traps the phlegm and stagnant Qi, making it impossible to breathe comfortably. Sitting upright opens the chest and allows gravity to help drain the phlegm, which is why the person cannot tolerate lying down during an attack.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy body with teeth marks and a thick white greasy coating that is excessively moist. Pulse: slippery (滑 huá) like beads rolling under silk, often with a wiry (弦 xián) quality at the right middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Lying flat compresses the chest and traps phlegm and stagnant Qi, while sitting upright opens the ribcage and uses gravity to help drain phlegm downward. Cold, raw, and greasy foods increase phlegm production, and damp weather adds external moisture that thickens internal phlegm. Overeating burdens the Spleen and generates more phlegm, while emotional stress knots the Qi and worsens the chest stagnation. Warm drinks and gentle movement help transform phlegm and move Qi, and expectorating phlegm directly reduces the obstruction.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid dairy, cold drinks, raw vegetables, and greasy or fried foods, which all generate phlegm. Favour warm, cooked meals with a little ginger or cardamom to aid digestion. Gentle daily movement like walking helps Qi flow and prevents phlegm from stagnating in the chest.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[San Zi Yang Qin Tang](https://www.meandqi.com/knowledge-base/formulas/san-zi-yang-qin-tang)** | Three-Seed Decoction to Nourish One&#x27;s Parents &#xB7; Ming dynasty, 1522 CE | Warm, Warms the Lungs and Transforms Phlegm-Fluids, Descends Qi, Stops Cough and Calms Wheezing | This formula uses three seeds to drive phlegm downward, restore the descent of Lung Qi, and relieve the chest oppression that makes lying flat impossible. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zi Su Zi](https://www.meandqi.com/knowledge-base/herbs/zi-su-zi)** | Perilla seed |  | Strongly descends Lung Qi and resolves phlegm, directly addressing the breathlessness and chest fullness. |
+| **[Bai Jie Zi](https://www.meandqi.com/knowledge-base/herbs/bai-jie-zi)** | White mustard seed |  | Warms the Lungs and powerfully cuts through thick, white phlegm lodged in the chest. |
+| **[Lai Fu Zi](https://www.meandqi.com/knowledge-base/herbs/lai-fu-zi)** | Radish seed |  | Reduces food stagnation and transforms phlegm, targeting the digestive root of phlegm production. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LU-5** | [Chize LU-5](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/chize-lu-5) | Ch&#x1D0; Z&#xE9; | Clears Lung Heat, Descends the Lung Qi | Clears phlegm from the Lungs and regulates the descent of Lung Qi to ease breathing. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point for transforming phlegm and draining dampness from the whole body. |
+| **REN-17** | [Shanzhong REN-17](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17) | Sh&#x101;n Zh&#x14D;ng | Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi | Unbinds the chest, moves Qi, and relieves the stuffiness that prevents lying flat. |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Harmonizes the Stomach and resolves phlegm at its source, addressing bloating and poor appetite. |
+
+---
+
+### Water Qi intimidating the Heart
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/water-qi-intimidating-the-heart)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Palpitations or pounding heartbeat, worse when lying down, Cold hands and feet with a general feeling of chilliness, Swelling of the lower legs or whole body, Sensation of something rushing upward from the stomach to the chest, Reduced urination despite fluid retention
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Lying flat, Damp, cold, or chilly weather, Physical overexertion, fatigue, or late nights, Cold, raw, or icy foods and drinks, Emotional shock or prolonged worry
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Sitting upright or propped up, Warmth and cozy environments, Warm, light meals or nourishing foods, Moxibustion on the lower back, Gentle movement
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Heart Yang is too weak to warm and move fluids, water builds up inside the body instead of being processed by the Kidneys. That stagnant water then rises upward like a tide, pressing against the heart and filling the chest. Lying flat makes the fluid shift and compress the heart and lungs even more, creating a terrifying sensation of breathlessness, palpitations, and a feeling that something is surging from the stomach toward the throat.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen, tender body with teeth marks and a white slippery water-slick coating. Pulse: wiry and slippery (弦滑 xián huá) or deep and fine (沉细 chén xì), with weakness at the Heart (left cun) and Kidney (right chi) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: <p>This pattern is driven by a deep Yang deficiency that can no longer warm and move fluids. Cold and dampness-whether from weather, food, or lying flat-further chill the body and make the water stagnate and rise. Sitting upright uses gravity to help pull the water down, while warmth and moxibustion supply the Yang fire needed to transform and expel it. Light meals and gentle movement support the Spleen and Kidney without taxing the weakened Heart, keeping the fluid burden manageable.</p>
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups and stews, and avoid raw, cold, or icy items that dampen the body's fire. Gentle movement such as walking or slow tai chi helps Qi flow, but stop before you feel breathless. Keep your living space warm and dry, and prop yourself up with pillows at night so you never lie completely flat.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhen Wu Tang](https://www.meandqi.com/knowledge-base/formulas/zhen-wu-tang)** | True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness | Warms Kidney Yang to transform water, dispels internal cold, and anchors the rising water qi, relieving heart palpitations and breathlessness. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | The sovereign herb that powerfully warms Heart and Kidney Yang, dispels cold, and transforms retained water. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Drains excess water and calms the heart, easing the sensation of fullness and palpitations. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens the Spleen and dries dampness, supporting fluid metabolism. |
+| **[Bai Shao](https://www.meandqi.com/knowledge-base/herbs/bai-shao)** | White peony root |  | Harmonizes the formula and prevents the drying herbs from injuring Yin. |
+| **[Sheng Jiang](https://www.meandqi.com/knowledge-base/herbs/sheng-jiang)** | Fresh ginger rhizome |  | Warms the middle and assists in transforming fluids, while also moderating the toxicity of Fu Zi. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Warms and strengthens Heart Yang with moxibustion, addressing the root of the palpitations. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Warms Kidney Yang to help the body transform and excrete retained water. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen to support fluid metabolism and drain dampness. |
+| **REN-9** | [Shuifen REN-9](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/shuifen-ren-9) | Shu&#x1D0; F&#xE8;n | Opens water passages and treats Oedema, Harmonies the Intestines | Regulates the water passages and reduces the fluid congestion in the chest and abdomen. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the heart and opens the chest, relieving the oppression and breathlessness. |
+
+---
+
+### Kidneys failing to receive Qi
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidneys-failing-to-receive-qi)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Shortness of breath worse with any activity, Exhaling feels long while inhaling feels short and insufficient, Lower back soreness and weak knees, Quiet voice and mental tiredness, Spontaneous sweating with exertion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Physical overexertion, fatigue, or late nights, Damp, cold, or chilly weather, Lying flat, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and calm, Warmth on the lower back, Sitting upright or propped up, Deep, slow abdominal breathing, Warm, light meals or nourishing foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Kidneys are meant to pull the air you breathe deep into the body and hold it down. When Kidney Qi is chronically depleted, this grasping function weakens. The breath becomes shallow and rapid, and lying flat makes it worse because the Qi sinks downward without being anchored, leaving the chest feeling empty and unsupported. This creates a desperate need to sit up to let gravity assist the downward pull.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, teeth-marked body with a thin white moist coating. Pulse: deep, weak, and especially feeble in the chi (rear) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Physical exertion and overwork drain the already deficient Kidney Qi, making the breath even more shallow. Cold constricts and depletes Yang, which the Kidneys need to grasp Qi, so warmth on the back and warm foods provide direct support. Lying flat is difficult because the Kidneys cannot anchor the Qi downward, so sitting upright uses gravity to assist the descent. Deep breathing trains the Kidneys' grasping function, while rest conserves the precious Qi needed for breathing.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warming, nourishing foods like lamb, walnuts, and ginger to support Kidney Yang. Avoid cold, raw foods and iced drinks that further deplete the internal fire. Conserve your energy by balancing activity with genuine rest, and practice slow, deep abdominal breathing to train the Kidneys to grasp the breath. Keep the lower back warm and avoid overwork and late nights.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ren Shen Ge Jie San](https://www.meandqi.com/knowledge-base/formulas/ren-shen-ge-jie-san)** | Ginseng and Gecko Powder &#xB7; S&#xF2;ng dynasty, 1047 CE | Slightly Warm, Tonifies Lung and Kidney Qi, Stops Cough and Calms Wheezing, Clears Lung Heat | The classic formula to tonify both Lung and Kidney Qi, helping the Kidneys firmly grasp the breath. |
+| **[Du Qi Wan](https://www.meandqi.com/knowledge-base/formulas/du-qi-wan)** | Capital Qi Pill &#xB7; Q&#x12B;ng dynasty, 1682 CE | Slightly Cool, Nourishes Kidney Yin, Aids the Kidneys in Grasping Qi, Astringes the Lungs and Stops Cough | A gentle Kidney-tonifying formula that anchors Qi downward when there is also mild Yin deficiency. |
+| **[Ling Gui Zhu Gan Tang](https://www.meandqi.com/knowledge-base/formulas/ling-gui-zhu-gan-tang)** | Poria, Cinnamon Twig, Atractylodes, and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Warms Yang and Transforms Fluid Retention, Strengthens the Spleen and Resolves Dampness, Subdues Rushing Qi (Ben Tun) | A classical four-herb formula used to address dizziness, heart palpitations, chest fullness, and shortness of breath caused by a weak digestive system failing to properly process fluids. It gently warms the body and helps move excess fluid accumulation, particularly when someone feels heavy, waterlogged, or dizzy upon standing. |
+| **[Xiao Qing Long Tang](https://www.meandqi.com/knowledge-base/formulas/xiao-qing-long-tang)** | Minor Blue-Green Dragon Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Releases the Exterior and Disperses Wind-Cold, Warms the Lungs and Transforms Phlegm-Fluids, Descends Lung Qi and Calms Wheezing | A classical formula for coughs, wheezing, and breathing difficulty caused by catching cold when there is already fluid buildup in the lungs. It works by warming the lungs, clearing accumulated thin watery phlegm, and helping the body expel the cold. Best suited for people with copious thin, watery, or frothy phlegm, chills, and a wet-looking tongue coating. |
+| **[Ling Gan Wu Wei Jiang Xin Tang](https://www.meandqi.com/knowledge-base/formulas/ling-gan-wu-wei-jiang-xin-tang)** | Poria, Licorice, Schisandra, Ginger, and Asarum Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms the Lungs and Stops Cough, Resolves Phlegm-Fluid Retention, Disperses Cold | A classical warming formula used for chronic cough with copious thin, watery, clear or white phlegm, chest stuffiness, and a tendency to spit saliva. It works by warming the Lungs and Spleen to dissolve and drain accumulated cold fluids, and is commonly used for chronic bronchitis, emphysema, and other respiratory conditions where cold-type phlegm retention is the underlying problem. |
+| **[Ding Chuan Tang](https://www.meandqi.com/knowledge-base/formulas/ding-chuan-tang)** | Arrest Wheezing Decoction &#xB7; M&#xED;ng dynasty, ~1550 CE | Slightly Warm, Restores Lung Diffusing and Descending Functions, Calms Wheezing, Clears Lung Heat | A classical formula used to relieve wheezing, coughing, and shortness of breath caused by phlegm-heat congesting the lungs, often triggered by catching a cold. It works by opening the airways, directing Lung Qi downward, clearing heat, and resolving thick, sticky phlegm. Commonly applied for asthma and bronchitis with yellow, difficult-to-expectorate sputum. |
+| **[San Zi Yang Qin Tang](https://www.meandqi.com/knowledge-base/formulas/san-zi-yang-qin-tang)** | Three-Seed Decoction to Nourish One&#x27;s Parents &#xB7; Ming dynasty, 1522 CE | Warm, Warms the Lungs and Transforms Phlegm-Fluids, Descends Qi, Stops Cough and Calms Wheezing | A gentle, three-herb formula made entirely from common plant seeds, originally created to help elderly parents suffering from chronic cough with heavy phlegm, chest congestion, and poor digestion. It works by dissolving accumulated phlegm in the chest, calming rebellious Qi that causes coughing and wheezing, and improving digestion to stop new phlegm from forming. Despite its simplicity, it remains one of the most widely used formulas for phlegm-related respiratory conditions. |
+| **[Zhen Wu Tang](https://www.meandqi.com/knowledge-base/formulas/zhen-wu-tang)** | True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness | A classical formula for people who feel persistently cold, experience swelling or puffiness (especially in the legs), have reduced urine output, and may suffer from dizziness, loose stools, or palpitations. These symptoms arise when the body&#x27;s warming energy is too weak to properly manage fluids, causing water to accumulate where it shouldn&#x27;t. Zhen Wu Tang warms the body&#x27;s core while gently helping it drain excess fluid through urination. |
+| **[Ren Shen Ge Jie San](https://www.meandqi.com/knowledge-base/formulas/ren-shen-ge-jie-san)** | Ginseng and Gecko Powder &#xB7; S&#xF2;ng dynasty, 1047 CE | Slightly Warm, Tonifies Lung and Kidney Qi, Stops Cough and Calms Wheezing, Clears Lung Heat | A classical formula for people with long-standing cough and wheezing caused by weakness of the Lungs and Kidneys, especially when accompanied by thick yellow phlegm, chest irritability, or coughing up blood-streaked sputum. It works by strengthening the body&#x27;s deep respiratory capacity while clearing lingering Heat and dissolving phlegm. |
+| **[Du Qi Wan](https://www.meandqi.com/knowledge-base/formulas/du-qi-wan)** | Capital Qi Pill &#xB7; Q&#x12B;ng dynasty, 1682 CE | Slightly Cool, Nourishes Kidney Yin, Aids the Kidneys in Grasping Qi, Astringes the Lungs and Stops Cough | A classical formula that nourishes the Kidneys and helps the body hold onto its breath. Built on the famous Liu Wei Di Huang Wan with the addition of Schisandra fruit, it is used for chronic cough, shortness of breath, wheezing, and lower back soreness caused by weakness of both the Lungs and Kidneys. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ge Jie](https://www.meandqi.com/knowledge-base/herbs/ge-jie)** | Tokay Gecko |  | The key animal substance that directly strengthens the Kidney&#x27;s ability to receive and hold Qi. |
+| **[Hu Tao Ren](https://www.meandqi.com/knowledge-base/herbs/hu-tao-ren)** | Walnut kernel |  | Warms the Kidneys and helps pull the breath deep into the body. |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry |  | Astringes Lung Qi to prevent its leakage and supports the Kidney&#x27;s grasping function. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig | Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Gan Cao](https://www.meandqi.com/knowledge-base/herbs/gan-cao)** | Licorice root | Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough |  |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome | Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids |  |
+| **[Xi Xin](https://www.meandqi.com/knowledge-base/herbs/xi-xin)** | Wild Ginger | Warm, Disperses Wind-Cold, Dispels Cold and Alleviates Pain, Unblocks the Nasal Passages |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry | Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Sang Bai Pi](https://www.meandqi.com/knowledge-base/herbs/sang-bai-pi)** | Mulberry root bark | Cold, Clears Lung Heat, Stops Cough and Calms Wheezing, Promotes Urination and Reduces Edema |  |
+| **[Xing Ren](https://www.meandqi.com/knowledge-base/herbs/xing-ren)** | Bitter apricot kernel | Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels |  |
+| **[Zi Su Zi](https://www.meandqi.com/knowledge-base/herbs/zi-su-zi)** | Perilla seed | Warm, Descends Qi and Transforms Phlegm, Stops Cough and Calms Wheezing, Moistens the Intestines and Unblocks the Bowels |  |
+| **[Bai Jie Zi](https://www.meandqi.com/knowledge-base/herbs/bai-jie-zi)** | White mustard seed | Warm, Warms the Lungs and Transforms Phlegm-Fluids, Moves Qi and Dissipates Nodules, Unblocks the Channels and Alleviates Pain |  |
+| **[Lai Fu Zi](https://www.meandqi.com/knowledge-base/herbs/lai-fu-zi)** | Radish seed | Neutral, Reduces Food Stagnation and Eliminates Distension, Descends Qi and Transforms Phlegm, Descends Lung Qi and Stops Cough |  |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Bai Shao](https://www.meandqi.com/knowledge-base/herbs/bai-shao)** | White peony root | Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain |  |
+| **[Sheng Jiang](https://www.meandqi.com/knowledge-base/herbs/sheng-jiang)** | Fresh ginger rhizome | Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Warms the Middle Burner and Stops Vomiting, Warms the Lungs and Stops Cough |  |
+| **[Ge Jie](https://www.meandqi.com/knowledge-base/herbs/ge-jie)** | Tokay Gecko | Neutral, Tonifies Lung Qi, Assists Yang, Aids the Kidneys in Grasping Qi |  |
+| **[Hu Tao Ren](https://www.meandqi.com/knowledge-base/herbs/hu-tao-ren)** | Walnut kernel | Warm, Tonifies the Kidneys and Strengthens the Lower Back, Warms the Lungs and calms wheezing, Moistens the Intestines and Unblocks the Bowels |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Qi and strengthens its receiving function. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel, used to reinforce the fundamental Qi of the body. |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Tonifies Lung Qi to improve breathing and helps the Lung descend Qi. |
+| **EX-B-1** | [Dingchuan EX-B-1](https://www.meandqi.com/knowledge-base/acupuncture/dingchuan-ex-b-1) | D&#xEC;ng Chu&#x1CE;n | Calms dyspnoea and wheezing | An empirical point specifically for calming wheezing and breathlessness. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Why can't I breathe when I lie flat?
+In TCM terms, lying flat makes it harder for the Lungs to descend Qi because gravity can no longer help drain phlegm or fluids downward. If there's already an obstruction - like thick phlegm in the chest or water pressing on the diaphragm - the added pressure from the abdominal organs makes breathing feel suffocating. Sitting up relieves this pressure and allows the Lungs to expand more freely.
+
+### Can acupuncture really help me breathe easier?
+Yes, many patients find that acupuncture can quickly relax the airways and reduce the sensation of chest tightness. Points on the back and chest (such as Dingchuan and Feishu) are used to calm the breath and open the Lungs. While the effect may be temporary at first, regular sessions combined with herbs work to resolve the underlying phlegm or deficiency so that relief becomes lasting.
+
+### How soon will I feel better with Chinese herbs?
+For phlegm-dominant patterns, many people notice they can lie a little flatter within 2-4 weeks of consistent herbal treatment. Acute flare-ups may respond even faster. If your pattern is rooted in a long-standing deficiency, such as weak Kidneys, expect a more gradual improvement over 3-6 months as the body's reserves are rebuilt. Your practitioner will adjust the formula as your symptoms change.
+
+### Is it safe to take Chinese herbs with my heart or blood pressure medication?
+Generally, yes, but it's essential that both your TCM practitioner and your medical doctor know exactly what you're taking. Some herbs, like prepared aconite (Fu Zi), have potent effects and require careful monitoring. Never stop or reduce your prescribed heart or blood pressure medications on your own - work with your doctor to adjust dosages only if your condition improves. Bring a complete list of your medications to every TCM consultation.
+
+### What foods should I avoid if I have trouble breathing lying down?
+Foods that create phlegm and dampness are the biggest culprits. Avoid cold and raw foods, dairy products, greasy or fried items, and excessive sweets. Instead, favor warm, cooked meals like soups and stews. Ginger, garlic, radish, and pear can help transform phlegm. If you tend to feel cold, add warming spices like cinnamon and black pepper. Drinking warm water throughout the day also supports healthy fluid metabolism.
+
+### Is this condition serious? When should I go to the ER?
+Some patterns, especially Water Qi intimidating the Heart, can be serious and may accompany heart failure. If your breathlessness comes on suddenly, is severe, or is accompanied by chest pain, blue lips, or confusion, seek emergency medical care immediately. For a full list of red-flag symptoms, see the Safety section below. In non-emergency situations, TCM can safely complement your medical care.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Zhen Wu Decoction for chronic heart failure: a systematic review and meta-analysis**
+   *วารสารวิชาการ: Wang J, et al. Zhen Wu Decoction for chronic heart failure: a systematic review and meta-analysis. Evid Based Complement Alternat Med. 2015.*
+   A meta-analysis of randomized controlled trials found that adding Zhen Wu Tang to standard heart failure therapy significantly improved cardiac function, reduced dyspnea scores, and relieved orthopnea compared to conventional treatment alone. The effect was most pronounced in patients with Yang‑deficiency edema patterns.
+
+2. **Acupuncture for chronic obstructive pulmonary disease: a systematic review**
+   *วารสารวิชาการ: Coyle ME, Shergis JL, Liu S, et al. Acupuncture for chronic obstructive pulmonary disease: a systematic review. Acupunct Med. 2014.*
+   This systematic review evaluated multiple RCTs and concluded that acupuncture, particularly when combined with standard care, improved dyspnea and exercise capacity in COPD patients. The review noted that acupoints such as Feishu BL-13 and Dingchuan EX-B-1 were commonly used and appeared to reduce the sensation of breathlessness when lying flat.
+
+3. **Clinical observation on San Zi Yang Qin Tang for acute bronchitis with phlegm obstruction**
+   *วารสารวิชาการ: Li X, et al. Clinical observation on San Zi Yang Qin Tang for acute bronchitis with phlegm obstruction. J Tradit Chin Med. 2017.*
+   In a randomized controlled trial, patients with acute bronchitis and thick phlegm causing dyspnea received San Zi Yang Qin Tang plus usual care. The herbal group showed faster resolution of cough and orthopnea, with a significant reduction in phlegm volume and chest tightness scores compared to controls.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/difficulty-breathing-when-lying-flat)*

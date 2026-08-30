@@ -1,0 +1,74 @@
+# Qing Xin Lian Zi Yin (清心莲子饮)
+**English Name**: Lotus Seed Drink to Clear the Heart  
+**Category**: Heat-clearing formulas, Qi and Yin tonifying formulas  
+**Dynasty/Source**: Tai Ping Hui Min He Ji Ju Fang (太平惠民和剂局方), Volume 5  
+**Temperature**: Slightly Cool | **Form**: Draft (Yin)
+
+---
+
+## Summary
+A classical formula designed to cool excessive Heart fire while supporting the body's Qi and Yin. It is commonly used for urinary problems such as painful, cloudy, or difficult urination that worsen with overwork, along with irritability, dry mouth, fatigue, and restless sleep. It works by simultaneously clearing internal heat, draining dampness from the lower body, and strengthening the body's underlying vitality.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Clears Heart Fire, Benefits Qi and Nourishes Yin, Clears Damp-Heat, Promotes Urination and Relieves Stranguria, Secures Essence and Stops Leakage
+- **Therapeutic Focus**: Urinary Health, Kidney Health, Stress and Anxiety, Blood Sugar Support
+- **Target Organs**: Heart, Kidneys, Lungs, Spleen, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Urinary Tract Infection, Chronic Nephritis, Insomnia, Chronic Prostatitis, Urethral Syndrome, Diabetes, Leukorrhea, Nocturnal Emission, IgA Nephropathy, Chyluria
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Lian Zi** | Lotus seed | *King* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Spleen, Kidneys, Heart | Clears Heart fire while also nourishing the Spleen and securing essence. It bridges the Heart and Kidney to restore their communication, and drains damp-heat from the lower body. As the core herb, it directly addresses the primary pathomechanism of Heart fire flaring upward with loss of essence downward. |
+| **Huang Qin** | Baical skullcap root | *Deputy* | 6 - 10g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Clears heat from the upper burner, especially the Heart and Lungs. Reinforces the King herb's heat-clearing action, helping to cool the Heart fire that is damaging the Lung's purifying and descending function. |
+| **Di Gu Pi** | Chinese Wolfberry Root Bark | *Deputy* | 6 - 10g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Lungs, Liver, Kidneys | Clears deficiency heat and cools the Kidney and Liver. Works alongside Huang Qin to clear heat at different levels of the body: Huang Qin targets the upper burner while Di Gu Pi addresses the lower burner and deficiency heat. |
+| **Mai Dong** | Ophiopogon root | *Assistant* | 6 - 10g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach | Nourishes Yin and generates fluids, especially benefiting the Heart and Lung. Clears Heart heat while replenishing the fluids damaged by internal fire, and calms the spirit. |
+| **Huang Qi** | Astragalus root | *Assistant* | 9 - 15g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Qi and raises the Yang, strengthening the Spleen and Lung. Helps consolidate the body's holding function to stop leakage of essence and fluids downward, and prevents the floating Yang that causes false heat on the surface. |
+| **Ren Shen** | Ginseng root | *Assistant* | 3 - 6g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Powerfully tonifies the source Qi, generates fluids, and calms the spirit. Works with Huang Qi to address the underlying Qi deficiency and supports the body's transformative functions so that dampness can be properly metabolized. |
+| **Fu Ling** | Poria | *Assistant* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Promotes urination and drains dampness, strengthens the Spleen, and calms the spirit. Provides a pathway for heart fire to exit via the urine, similar in principle to the Dao Chi San (Guide Out the Red Powder) approach. |
+| **Che Qian Zi** | Plantain Seed | *Assistant* | 6 - 10g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Lungs, Small Intestine | Clears heat and promotes urination, helping to separate dampness from heat and guide them out through the bladder. Directly addresses the urinary symptoms of painful and turbid urination. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Tonifies the Spleen Qi, harmonizes all the other herbs in the formula, and moderates the cold nature of the heat-clearing herbs to prevent damage to the Stomach. |
+
+---
+
+## Scientific Research
+
+1. Renoprotective mechanism of Qingxin Lianzi Yin Decoction in db/db mice: network pharmacology and metabolomics study (2024, Preclinical) (*Gao WY, Tian MY, Li ML, Gao SR, Wei XL, Gao C, Zhou YY, Li T, Wang HJ, Bian BL, Si N, Zhao W, Zhao HY. Phytomedicine, 2024, 126:155222.*)
+> This preclinical study used db/db diabetic mice to investigate how Qingxin Lianzi Yin protects the kidneys in diabetic nephropathy. The researchers found that the formula alleviated diabetes-induced kidney pathological changes by correcting disturbances in amino acid metabolism. Network pharmacology analysis identified key targets and metabolic pathways involved in its renoprotective effects.
+2. [Chemical profiling and bioactive constituent identification of Qingxin Lianzi Yin Decoction with network pharmacology for diabetic nephropathy targets (2021, Preclinical/Analytical)](https://pubmed.ncbi.nlm.nih.gov/33609729/) (*Gao WY, Li ML, Gao SR, Tian MY, Wei XL, Zhou YY, Wang HJ, Bian BL, Si N, Zhao HY. Journal of Ethnopharmacology, 2021, 276:114189.*)
+> This study systematically characterized the chemical constituents of Qingxin Lianzi Yin using advanced mass spectrometry, identifying 220 compounds in the formula. In animal experiments, 123 components (74 prototypes and 49 metabolites) were found in rat plasma, urine, bile, and feces. Network pharmacology analysis suggested baicalein, liquiritigenin, succinic acid, formononetin, and wogonin as major bioactive constituents for treating diabetic nephropathy.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Generally considered low-risk, but should be used with caution during pregnancy and only under the guidance of a qualified practitioner. Che Qian Zi (Plantago Seed) promotes urination and has a downward-draining quality, and Huang Qin (Scutellaria), while classically considered a fetus-calming herb, is cold in nature and used here to clear Heat, which may not be appropriate if there is no Heat pattern. Ren Shen (Ginseng) and Huang Qi (Astragalus) are generally safe in pregnancy but may need dose adjustment. No specific abortifacient herbs are present in this formula, but the overall cooling and draining strategy requires careful pattern differentiation before use during pregnancy.
+
+### Breastfeeding
+No specific safety concerns have been identified for breastfeeding. The formula contains mild, commonly used herbs without known toxicity or strong properties that would be expected to adversely affect breast milk or nursing infants. Ren Shen (Ginseng) and Huang Qi (Astragalus) are Qi tonics generally considered compatible with breastfeeding. Huang Qin (Scutellaria) is bitter and cold, and in theory large doses could affect the digestive comfort of a sensitive infant through breast milk, but this is speculative. As with all herbal formulas during breastfeeding, use under the guidance of a qualified practitioner is recommended.
+
+### Children
+This formula has been used in pediatric settings, particularly for functional enuresis (bedwetting) in children. Dosages should be reduced proportionally based on the child's age and body weight, typically to one-third to one-half of the adult dose for school-age children. For very young children (under 5 years), use should be guided by a qualified practitioner with pediatric experience. The herbs in this formula are relatively mild, but the cooling and draining properties should be monitored to avoid over-draining in constitutionally weak children.
+
+### Drug Interactions
+Gan Cao (Licorice Root): The Zhi Gan Cao (honey-prepared licorice) in this formula contains glycyrrhizin, which can cause pseudoaldosteronism (sodium retention, potassium loss, elevated blood pressure) with prolonged use. It may interact with antihypertensive medications (reducing their efficacy), diuretics (particularly potassium-depleting diuretics like furosemide or hydrochlorothiazide, compounding potassium loss), cardiac glycosides such as digoxin (hypokalemia increases the risk of digoxin toxicity), and corticosteroids (additive mineralocorticoid effects).
+Ren Shen (Ginseng): Ginseng has documented interactions with warfarin and other anticoagulants (may reduce anticoagulant effect), hypoglycemic agents and insulin (may potentiate blood sugar lowering, requiring monitoring), and MAO inhibitors (theoretical risk of overstimulation). Huang Qi (Astragalus) may also have mild immunomodulatory effects that could theoretically interact with immunosuppressant medications used in transplant patients or autoimmune conditions.
+Huang Qin (Scutellaria): Contains baicalin and baicalein, which have shown effects on cytochrome P450 enzymes in laboratory studies. This could theoretically affect the metabolism of drugs processed through these pathways, though clinical significance is not well established.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: On an empty stomach, 30 to 60 minutes before meals, ideally morning and evening. The original text specifies taking the decoction cooled in water (水中沉冷) on an empty stomach before food.
+- **Typical Duration**: Typically prescribed for 2 to 4 weeks initially, then reassessed. For chronic conditions like recurrent urinary tract issues or chronic nephritis, courses of 4 to 8 weeks or longer may be used with periodic practitioner review.
+- **Dietary Advice**: Avoid spicy, greasy, fried, and strongly heating foods (such as lamb, chili peppers, and excessive alcohol), as these can aggravate Heart Fire and generate more Damp-Heat, directly working against the formula's therapeutic aims. Also avoid excessively cold and raw foods, which can impair the Spleen's transformative function and worsen Dampness. Favour bland, easily digestible foods such as congee, mung beans, lotus seeds, barley (yi yi ren), winter melon, and cucumber, which gently support the Spleen while helping to clear Heat and drain Dampness. Adequate hydration is important given the formula's diuretic properties. Coffee, strong tea, and other stimulants should be limited as they can aggravate Heart Fire and disturb sleep.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/qing-xin-lian-zi-yin](https://www.meandqi.com/knowledge-base/formulas/qing-xin-lian-zi-yin)*

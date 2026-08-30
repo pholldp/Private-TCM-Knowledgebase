@@ -1,0 +1,135 @@
+# Jin Bo (金箔)
+**English Name**: Gold leaf  
+**Category**: Spirit-calming herbs (安神药), Substances that anchor and calm the Spirit (重镇安神药)  
+**Scientific Name**: Aurum (Au)  
+**Pharmaceutical Name**: Aurum Foliatum  
+**Toxicity**: Slightly toxic  
+**Temperature**: Neutral | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Heart, Liver  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Gold foil is a mineral-based substance used in Chinese medicine primarily as a spirit-calming agent. It has a heavy, settling quality that helps anchor the mind during acute episodes of delirium, seizures, or extreme agitation caused by high fever. It is most commonly used as a coating for emergency pills like An Gong Niu Huang Wan rather than as a standalone medicine.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Emotional Wellbeing, Neurological Health, Skin Conditions
+- **TCM Actions**: Calms the Spirit and Settles Fright, Calms the Heart and settles the ethereal and corporeal souls, Resolves Toxicity, Calms the Liver and Subdues Yang
+
+### How these actions work
+'Settles fright and calms the spirit' means Jin Bo has a heavy, settling quality that anchors the mind during states of extreme agitation, panic, or delirium. In TCM, gold's dense mineral nature gives it a downward-directing force that can 'weigh down' and stabilize a spirit that has been unsettled by fright, intense fever, or phlegm-fire disturbing the Heart. This is why it appears in emergency formulas for high fever with delirium and in pediatric formulas for childhood seizures.
+'Calms the Heart and settles the ethereal and corporeal souls' refers to Jin Bo's ability to stabilize the Heart's function of housing the mind (Shen). When phlegm-fire or external pathogenic heat invades the Heart and Pericardium, patients may experience palpitations, restless anxiety, insomnia, or even manic behavior. Jin Bo's heavy, settling nature helps restore the Heart's normal governance of mental clarity and emotional stability.
+'Resolves toxins' applies both internally and externally. Internally, Jin Bo is combined with other substances to address toxic heat conditions. Externally, classical texts describe grinding gold into fine powder and applying it directly to boils and carbuncles to draw out the toxic root of the sore.
+'Calms the Liver and subdues Yang' describes Jin Bo's ability to settle Liver Wind and control rising Liver Yang. According to five-phase theory, metal controls wood, and gold (metal) can therefore restrain the Liver (wood). This is relevant for conditions like seizures, convulsions, and mania where Liver Wind or Liver fire is flaring upward.
+
+---
+
+## Patterns Addressed
+### Phlegm-Fire harassing the Heart
+- **Explanation**: Jin Bo's heavy, mineral nature gives it a powerful downward-directing and settling force that directly addresses the upward flaring of phlegm-fire that disturbs the Heart's ability to house the spirit (Shen). When phlegm combines with fire and obstructs the Heart orifices, patients develop mania, delirium, or seizures. Jin Bo enters the Heart channel with its acrid and bitter tastes: the bitter taste helps descend and clear, while the acrid taste helps disperse. Its neutral temperature means it can be safely combined with cold-natured heat-clearing substances without adding further cold or heat to the formula. Classical texts like the Hui Yue Yi Jing describe it as able to 'settle phlegm and descend pathogenic fire' (坠痰涎，降邪火).
+- **Clinical Signs & Symptoms**:
+
+### Heat invading the Pericardium
+- **Explanation**: When pathogenic heat from warm-febrile disease (Wen Bing) invades the Pericardium, the patient becomes unconscious, delirious, and may experience convulsions. Jin Bo enters the Heart channel and uses its heavy, settling nature to anchor the spirit while its mild toxin-resolving action assists in clearing the heat toxin. This is the classic context in which Jin Bo serves as the coating for An Gong Niu Huang Wan, where it reinforces the formula's ability to settle the spirit while the other ingredients clear heat and open the orifices. Its role here is supportive rather than primary, adding its calming weight to an urgent clinical picture.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: Typically used as pill coating or in powder form; not decocted. When incorporated into pills or powders, usually 1 to 3 sheets per dose.
+- **Maximum Dosage**: Should not exceed several sheets per dose. Classical sources consistently warn against excessive consumption, even in leaf form.
+- **Dosage Notes**: Jin Bo is not suitable for decoction. It is used exclusively in pill and powder preparations, most commonly as an outer coating for pills (丸药挂衣). In some classical formulas, gold leaf is layered with other powdered medicines and cooked with milk to form a paste. For external use on sores and boils, the leaf is ground to fine powder and applied directly to the affected area. The Ben Jing Feng Yuan notes that some formulas such as Zi Xue Dan use gold leaf boiled in water to extract its properties for subduing the Liver and descending phlegm.
+- **Preparation**: Jin Bo is never decocted directly in water. It is used as a pill coating (金箔为衣), layered into powder formulations, or ground to fine powder for external application. In some classical preparations, gold leaf is layered with other medicinal powders and slowly heated with milk until the liquid evaporates, forming a paste that is then dried and ground. For the Zi Xue formula, gold leaf is boiled in water and the liquid is used as the decoction base.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Zhu Sha (Ratio: Jin Bo as outer coating, Zhu Sha as internal ingredient (dosage varies by formula))
+- **Description**: Both substances are heavy, mineral-based spirit-calmers that enter the Heart channel. Together they create a powerful synergy for anchoring a severely disturbed spirit. Zhu Sha (cinnabar) adds stronger heat-clearing action and is itself a primary Heart-calming mineral, while Jin Bo contributes its Liver-calming and toxin-resolving properties. The pair provides comprehensive spirit-settling from both Heart and Liver aspects.
+- **When to Use**: Severe palpitations, mania, delirium, or childhood seizures where the spirit is extremely agitated by phlegm-fire. Commonly seen together in An Gong Niu Huang Wan and Jin Bo Zhen Xin Wan.
+
+### Niu Huang (Ratio: Formula-dependent; in An Gong Niu Huang Wan, Niu Huang is the King herb while Jin Bo serves as the outer coating)
+- **Description**: Niu Huang (ox gallstone) powerfully clears Heart heat, resolves phlegm, and opens the orifices, while Jin Bo settles and anchors the spirit from below. Together they address both the clearing and the calming needed in acute heat-toxin conditions affecting consciousness. Niu Huang opens what is blocked while Jin Bo stabilizes what is disturbed.
+- **When to Use**: Acute febrile disease with delirium, loss of consciousness, or high fever with convulsions. This is the core pairing in emergency formulas for heat entering the Pericardium.
+
+### Dan Nan Xing (Ratio: Dan Nan Xing 30g : Jin Bo as pill coating (as in Jin Bo Zhen Xin Wan from Shen Shi Zun Sheng Shu))
+- **Description**: Dan Nan Xing (bile-processed Arisaema) clears heat and transforms phlegm, especially phlegm obstructing the Heart orifices in wind-phlegm conditions. Jin Bo settles the spirit and calms Wind. Together they address phlegm-fire epilepsy by both dissolving the phlegm that blocks the orifices and calming the agitated spirit.
+- **When to Use**: Epilepsy, childhood seizures, or mania caused by phlegm-fire with prominent convulsive or wind-like symptoms.
+
+---
+
+## Key Formulas
+An Gong Niu Huang Wan, Zi Xue Dan, Zhi Bao Dan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+Raw, unprocessed gold (生金) is considered toxic in classical TCM, described in the Xin Xiu Ben Cao as able to 'kill people if taken unrefined.' The toxicity of raw gold is attributed to impurities such as other heavy metals (silver, copper, lead) present in unprocessed ore, combined with the heavy, sinking physical nature of bulk gold that can injure the digestive system. Processing into ultra-thin gold leaf (approximately 0.1 micrometres thick) through repeated hammering and refining removes impurities and eliminates the 'heavy, sinking, and injurious to the middle' (重坠伤中) property of bulk gold. Even as gold leaf, classical authorities such as the Hui Yue Yi Jing caution that it should not be taken in excess. Gold leaf is generally considered safe when used in small amounts as pill coating or in powder form within compound prescriptions, but should not be taken long-term or in large doses.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Classical sources list gold among minerals that should be used with caution during pregnancy. While Jin Bo is not specifically listed among the major pregnancy-prohibited substances in classical texts, its heavy, descending nature and the general caution around mineral medicines during pregnancy warrant avoidance unless clearly indicated. The heavy metals potentially present in impure gold preparations pose additional concern. Not recommended during pregnancy without clear clinical necessity and practitioner supervision.
+- **Breastfeeding**: No specific classical guidance exists for Jin Bo use during breastfeeding. Given that gold is a heavy mineral substance with potential for trace amounts of impurities, and that any absorbed metal could theoretically transfer into breast milk, caution is advised. Avoid use during breastfeeding unless specifically prescribed by an experienced practitioner for a serious condition.
+- **Children**: Jin Bo has a long history of use in paediatric medicine, particularly for childhood fright syndromes and epilepsy. It was traditionally used as a pill coating in many paediatric formulas. Dosage should be adjusted according to the child's age and weight, typically using fewer sheets than the adult dose. Classical paediatric formulas such as Jin Bo Wan from the Sheng Hui Fang specify adjusting doses based on the child's size. Use only under practitioner supervision.
+
+### Drug Interactions
+No well-documented pharmacological drug interactions exist for traditional gold leaf (Jin Bo) in the peer-reviewed literature. However, caution is theoretically warranted in the following situations:
+- Chelating agents: Medications such as penicillamine or EDTA used for heavy metal chelation could theoretically interact with gold if any is absorbed systemically.
+- Immunosuppressants: Modern pharmaceutical gold compounds (such as auranofin) are known to have immunomodulatory effects. While traditional gold leaf is chemically inert and poorly absorbed, caution should be exercised when combining with immunosuppressive drugs.
+- Anticoagulants: No specific interaction is documented, but as a general precaution with mineral medicines, monitor for any unexpected effects when combined with blood-thinning medications.
+The extremely low bioavailability of metallic gold leaf means clinically significant drug interactions are unlikely, but the absence of formal pharmacokinetic studies means interactions cannot be ruled out.
+
+### Dietary Advice
+No specific dietary restrictions are classically documented for Jin Bo. General guidance for mineral-type medicines applies: avoid greasy, heavy, or difficult-to-digest foods that may further burden the Spleen and Stomach, as heavy mineral substances can already be taxing on digestion.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Jin Bo (金箔) is not a plant-based herb but a mineral medicinal substance. It is made from native gold (自然金, Aurum) that has been hammered into extremely thin, paper-like sheets. The source mineral, native gold, belongs to the isometric crystal system and typically occurs as granular or dendritic aggregates rather than well-formed octahedral crystals. It has a bright golden-yellow colour with an intense metallic lustre, and is opaque with a hackly (jagged) fracture.
+Native gold has a hardness of 2.5 to 3 on the Mohs scale and a specific gravity of 15.6 to 18.3 (pure gold is 19.3). It is highly malleable and ductile, allowing it to be beaten into leaves approximately 0.1 micrometres thick. Gold is chemically very stable: it does not dissolve in ordinary acids but can be dissolved in aqua regia (a mixture of hydrochloric and nitric acid), and it does not tarnish or corrode in air. In nature, gold occurs in two main forms: vein gold (脉金/山金), found within quartz veins and sulfide ore deposits, and placer gold (砂金), found in alluvial deposits of rivers and valleys where it has been freed from its parent rock by erosion.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Gold is mined year-round. Vein gold is extracted from quartz veins in mountain deposits; placer gold is panned or dredged from river sediments. There is no seasonal restriction on collection.
+- **Primary Growing Regions**: Jin Bo is made from native gold, which is widely distributed across China. The highest-quality vein gold (primary ore deposits) comes from Shandong Province. The most important placer gold (alluvial) deposits are found along the Jinsha River (Gold Sand River), Heilongjiang (Black Dragon River/Amur River), and the Yuan River basin in Hunan Province. The city of Nanjing has historically been the most famous centre for gold leaf production craftsmanship.
+- **Quality Indicators**: Good quality Jin Bo should be complete, intact square sheets with a bright, lustrous golden-yellow colour. The leaves should be extremely thin, light enough to float when released, and should have a strong metallic sheen. The surface should be relatively smooth with only fine, delicate wrinkles. There should be no taste or smell. Avoid sheets that are dull, darkened, or discoloured (suggesting impurities or adulteration with other metals), torn or fragmented, or that feel heavy or thick. When tested with aqua regia, authentic gold leaf should dissolve to produce a clear, bright yellow solution. If a white precipitate forms, this indicates contamination with silver.
+
+### Identity & Adulterants
+Jin Bo may be adulterated with copper-alloy leaf that mimics the golden colour but lacks the medicinal properties and chemical stability of true gold. Copper-based imitations may tarnish or turn greenish over time, while authentic gold leaf remains stable indefinitely. Yin Bo (银箔, silver leaf) has overlapping but distinct indications and is sometimes confused with or substituted for Jin Bo. The Ben Cao Shu notes their functions are 'not far apart,' but Yin Bo is considered cold in nature (大寒) while Jin Bo is neutral (平). The aqua regia dissolution test can confirm authenticity: pure gold leaf dissolves completely to form a bright yellow solution, while adulterated products may leave residue or produce precipitates.
+
+---
+
+## References
+### Classical Texts
+#### 《药性论》(Yào Xìng Lùn, Tang Dynasty)
+- **Original**: 主小儿惊伤，五藏风痫，失志，镇心，安魂魄。
+- **Translation**: Treats childhood fright injuries, wind-epilepsy of the five Zang organs, and loss of mental clarity. Calms the Heart and settles the ethereal and corporeal souls.
+
+### Historical Context
+The medicinal use of gold in China has ancient roots. The earliest pharmacological record appears in the Ming Yi Bie Lu (名医别录, compiled around the 3rd century CE), which describes 'gold flakes' (金屑) as able to 'calm the spirit, strengthen the bone marrow, open the five Zang organs, and expel pathogenic toxins.' During this early period, gold was even associated with immortality, a claim later dropped by Song Dynasty pharmacists who took a more rational view of its therapeutic value.
+The Tang Dynasty Yao Xing Lun (药性论) by Zhen Quan refined the indications, emphasizing gold's role in treating childhood fright and epilepsy. The Song Dynasty Kai Bao Ben Cao (开宝本草) introduced the critical safety principle that gold must be refined and processed into thin leaf form (金箔) before medicinal use, stating that 'refined gold leaf, when boiled in water and the liquid used, is then non-toxic.' This distinction between toxic raw gold (生金) and safe processed gold leaf became a cornerstone of subsequent practice.
+The name 金箔 literally means 'gold leaf' or 'gold foil,' referring to the ultra-thin sheets produced by repeatedly hammering refined gold. The alternate name 金薄 (Jīn Bó) appears in the Yao Xing Lun. Li Shizhen included gold in the Metal Section (金部) of the Ben Cao Gang Mu, recording three related entries: gold (金), gold flakes (金屑), and gold liquid (金浆). He cautioned against the Daoist claims of immortality through gold consumption, writing memorably that those who 'seek life but lose life may be called foolish.' In traditional paediatric medicine, gold leaf became particularly valued as a coating for pills (金箔为衣), both for its purported spirit-calming properties and for practical purposes of preservation.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/jin-bo](https://www.meandqi.com/knowledge-base/herbs/jin-bo)*

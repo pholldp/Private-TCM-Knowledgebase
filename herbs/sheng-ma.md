@@ -1,0 +1,196 @@
+# Sheng Ma (升麻)
+**English Name**: Cimicifuga rhizome  
+**Category**: Cool, acrid herbs that release the Exterior (辛凉解表药), Herbs that clear Heat and resolve Toxicity (清热解毒药)  
+**Scientific Name**: Cimicifuga foetida L., Cimicifuga dahurica (Turcz.) Maxim., Cimicifuga heracleifolia Kom.  
+**Pharmaceutical Name**: Rhizoma Cimicifugae  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Acrid / Pungent (辛 xīn), Sweet (甘 gān)  
+**Channels Entered**: Lungs, Spleen, Stomach, Large Intestine  
+**Parts Used**: Rhizome (根茎 gēn jīng)  
+
+---
+
+## Summary
+Shēng Má is a versatile herb used in Chinese medicine primarily for three purposes: helping skin rashes (like measles) come to the surface properly, clearing inflammatory Heat and toxins from the mouth and throat (such as gum infections and mouth sores), and supporting the body's Qi when it is sinking, which can manifest as organ prolapse or chronic diarrhea. It is a common ingredient in formulas for dental pain, sore throat, and conditions where internal organs have dropped from their normal position.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Oral and Dental Health, Digestive support (prolapse, chronic diarrhea), Skin Conditions, Immune and detoxification support
+- **TCM Actions**: Releases the Exterior and Vents Rashes, Clears Heat and Resolves Toxicity, Lifts Sunken Qi
+
+### How these actions work
+'Releases the exterior and vents rashes' means Shēng Má helps push out pathogenic factors from the body's surface layer. Its most important clinical application in this regard is not ordinary colds (its surface-releasing power is relatively mild) but rather helping measles or other eruptive skin conditions come to the surface properly. When a rash should be appearing but is stuck or incomplete, Shēng Má's light, ascending, dispersing nature helps push it outward. It is classically paired with Gě Gēn (Kudzu root) for this purpose.
+'Clears Heat and resolves toxins' is considered one of Shēng Má's strongest and most distinctive actions. Because it enters the Stomach and Large Intestine channels (both part of the Yáng Míng system), it is particularly effective at clearing toxic Heat from the mouth and face. This is why it is a key herb for conditions like painful, swollen gums, mouth sores, sore throat, and facial skin infections driven by Heat toxin. It is often combined with Huáng Lián (Coptis) and Shí Gāo (Gypsum) for severe Stomach Fire manifesting as toothache and oral ulcers.
+'Raises Yang and lifts sunken Qi' refers to Shēng Má's ability to direct the body's Qi upward. In TCM, certain conditions arise when the Spleen's Qi is too weak to hold organs and functions in their proper place, leading to prolapse (of the rectum, uterus, or stomach), chronic diarrhea, and a heavy, dragging sensation in the abdomen. In small doses (3 to 6g), typically honey-processed, Shēng Má acts as a lifting agent that helps restore the upward movement of clear Qi. In the famous formula Bǔ Zhōng Yì Qì Tāng, it works alongside Chái Hú to lift the Qi that the main tonic herbs (Huáng Qí, Rén Shēn) have replenished.
+
+---
+
+## Patterns Addressed
+### Stomach Fire (Stomach Heat)
+- **Explanation**: Shēng Má enters the Stomach channel and has a slightly cool temperature with Heat-clearing and toxin-resolving properties. This makes it highly effective against Stomach Fire, where excessive Heat accumulates in the Yáng Míng (Stomach) system and flares upward to the gums, mouth, and face. The herb's acrid taste disperses the congested Heat while its cool nature directly clears the Fire. It is considered a 'guiding herb' (引经药) for the Yáng Míng channel, directing other cooling herbs to the area where Stomach Fire manifests most visibly.
+- **Clinical Signs & Symptoms**:
+  - **Sore**: Oral ulcers with hot, foul breath
+
+### Spleen Qi Sinking
+- **Explanation**: When Spleen Qi is severely deficient, it loses its ability to hold organs and substances in place, a condition called 'Qi sinking' or 'central Qi collapse.' Shēng Má has a strong upward-lifting nature that counteracts this downward sinking tendency. In small doses (especially honey-processed), it acts not as a tonic itself but as a 'lifting agent' that restores the proper ascending movement of Spleen and Stomach Qi. Its action is often described as lifting the clear Yang of the Yáng Míng (Stomach) system upward, complementing Chái Hú, which lifts the clear Yang of the Shào Yáng (Liver/Gallbladder) system.
+- **Clinical Signs & Symptoms**:
+
+### Wind-Heat
+- **Explanation**: Shēng Má is acrid and slightly cool, giving it a mild capacity to release Wind-Heat from the exterior. Its surface-releasing power is relatively weak compared to herbs like Bò Hé (mint) or Niú Bàng Zǐ (burdock seed), but it has a special ability to 'vent' rashes outward. When Wind-Heat lodges in the muscle layer and blocks the proper eruption of rashes (particularly measles in its early stages), Shēng Má's ascending, dispersing nature pushes the pathogen and the rash to the surface, allowing proper resolution. It also addresses Wind-Heat headache, sore throat, and fever.
+- **Clinical Signs & Symptoms**:
+
+### Toxic-Heat
+- **Explanation**: Shēng Má's ability to clear Heat and resolve toxins extends beyond ordinary Heat patterns to full-blown toxic Heat conditions, where intense pathogenic Heat produces tissue damage, pus, and severe inflammation. Its slightly cool nature and strong detoxifying action make it useful for conditions such as facial erysipelas (大头瘟), skin abscesses, toxic macules and spots (阳毒发斑), and severe throat infections. In these cases it is typically used raw and at higher doses (up to 15g), combined with other Heat-clearing and toxin-resolving herbs.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Rectal Prolapse
+- **Arises from**: Spleen Qi Sinking
+- **TCM Interpretation**: In TCM, rectal prolapse is understood as a failure of the Spleen's 'lifting and holding' function. The Spleen Qi is responsible for keeping organs and tissues in their proper position. When Qi becomes severely deficient through chronic illness, overwork, poor diet, or prolonged diarrhea, it can no longer support the structures of the lower body. The rectum, lacking the upward support of Qi, descends and protrudes. This is classified as a 'Qi sinking' pattern, often accompanied by fatigue, poor appetite, loose stools, and a general sense of heaviness or bearing-down in the abdomen.
+- **Why it Helps**: Shēng Má directly addresses the sinking tendency of Qi with its powerful upward-lifting nature. It enters the Spleen and Stomach channels, which are the very organ systems whose weakness causes the prolapse. In the classical formula Bǔ Zhōng Yì Qì Tāng, Shēng Má is used in small doses (around 3 to 6g, typically honey-processed) alongside Chái Hú to act as a 'lifting pair' that raises the Qi replenished by the formula's tonic herbs. It does not tonify Qi itself but rather redirects the newly strengthened Qi upward, restoring its holding function and encouraging the prolapsed tissue to return to its normal position.
+
+### Toothache
+- **Arises from**: Stomach Fire (Stomach Heat)
+- **TCM Interpretation**: TCM considers the gums and teeth to be closely connected to the Stomach channel (which passes through the upper and lower gums) and the Kidney system (which governs bone, including the jawbone). Inflammatory toothache with red, swollen, or bleeding gums, foul breath, and a preference for cold drinks is typically attributed to Stomach Fire flaring upward along the channel to the mouth. Dietary excess (spicy food, alcohol), emotional stress, or constitutional Heat can all contribute to this pattern. The upper teeth relate more to the Stomach channel and the lower teeth to the Large Intestine channel, both part of the Yáng Míng system.
+- **Why it Helps**: Shēng Má enters both the Stomach and Large Intestine channels (the Yáng Míng system) and is renowned for clearing Heat and toxins from the mouth and face region. It serves as a guiding herb that directs other cooling medicines into the Yáng Míng channel where the Fire is concentrated. In the classical formula Qīng Wèi Sǎn (Clear the Stomach Powder), Shēng Má works alongside Huáng Lián to clear Stomach Fire, with Shēng Dì Huáng and Mǔ Dān Pí cooling the Blood. Its slightly cool temperature and detoxifying action directly address the inflammatory process in the gums and oral tissues.
+
+### Uterine Prolapse
+- **Arises from**: Spleen Qi Sinking
+- **TCM Interpretation**: Uterine prolapse is understood in TCM as a manifestation of severe Spleen Qi deficiency where the Qi can no longer hold the uterus in its proper position. This commonly develops after multiple childbirths, prolonged physical labour, chronic illness, or in elderly women with declining Qi. The Spleen governs the muscles and connective tissues, so when its Qi is exhausted, the supportive structures weaken and the uterus descends. Associated symptoms often include fatigue, a heavy bearing-down sensation in the lower abdomen, poor appetite, loose stools, and a pale tongue with a weak pulse.
+- **Why it Helps**: Shēng Má's ascending nature directly counteracts the downward displacement of the uterus. By entering the Spleen and Stomach channels and lifting the clear Yang Qi upward, it helps restore the body's internal 'holding' mechanism. It does not work alone for this condition but is used as part of Qi-tonifying and Yang-raising formulas like Bǔ Zhōng Yì Qì Tāng or Jǔ Yuán Jiān, where Huáng Qí and Rén Shēn replenish the depleted Qi while Shēng Má and Chái Hú lift it back to its proper level. Pharmacological research has shown that the combination of Shēng Má and Chái Hú within Bǔ Zhōng Yì Qì Tāng selectively enhances uterine muscle tone.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-9g
+- **Maximum Dosage**: Up to 15g when used raw (生用) for its heat-clearing and toxin-resolving function, under practitioner supervision. Some classical sources (e.g. Ben Cao Xin Bian) describe using up to 15g (五钱) in severe rash conditions with adequate supporting herbs, but this is exceptional. Do not exceed 9g for the Qi-raising indication.
+- **Dosage Notes**: Sheng Ma's therapeutic effect varies significantly with dosage. At small doses (3-6g), typically honey-processed or wine-processed, it primarily raises Yang Qi and is used for organ prolapse, chronic diarrhea, and similar Qi-sinking conditions. At medium doses (6-9g), it disperses the exterior and helps push rashes outward. At larger doses (9-15g), used raw, it focuses on clearing Heat and resolving toxins for conditions like severe toothache, mouth sores, and throat swelling. This dose-dependent shift in action is an important clinical feature. For the Qi-raising function, exceeding the dose paradoxically weakens the lifting effect.
+- **Preparation**: No special decoction handling required for standard use. Sheng Ma is simply sliced and decocted normally with other herbs. However, the choice of processing form matters clinically: raw Sheng Ma (生升麻) is preferred for clearing Heat and toxins; honey-processed Sheng Ma (蜜升麻) is preferred for the gentler, more sustained Qi-raising function and is less irritating to the stomach; charred Sheng Ma (升麻炭) is used specifically for Blood-level dysentery with a mild lifting action.
+
+---
+
+## Processing Methods
+### M&#xEC; Sh&#x113;ng M&#xE1; (&#x871C;&#x5347;&#x9EBB;)
+- **Processing Method**: Refined honey is diluted with a small amount of boiling water, mixed with Shēng Má slices, and allowed to soak in. The mixture is then stir-fried over gentle heat until the pieces are no longer sticky to the touch. Ratio: 25 kg honey per 100 kg herb.
+- **How it Changes Properties**: Honey processing moderates the acrid, dispersing nature of raw Shēng Má. The sweet honey makes the lifting action gentler and more sustained while reducing irritation to the stomach. The herb's exterior-releasing and Heat-clearing actions are weakened, while the Yang-raising action becomes the dominant effect.
+- **When to Use**: Preferred for Qi deficiency with sinking, including organ prolapse (rectal, uterine, gastric), chronic diarrhea from Spleen Qi collapse, and Qi-deficient bleeding (崩漏). This is the standard form used in tonifying and Yang-raising formulas like Bǔ Zhōng Yì Qì Tāng.
+
+### Sh&#x113;ng M&#xE1; T&#xE0;n (&#x5347;&#x9EBB;&#x70AD;)
+- **Processing Method**: Shēng Má slices are stir-fried over high heat until the surface is charred black and the interior is brown. A small amount of water is sprayed on to extinguish any sparks, then the herb is dried.
+- **How it Changes Properties**: Charring greatly reduces the ascending and dispersing properties while introducing an astringent, hemostatic quality. The charred form retains a mild lifting action but gains the ability to stop bleeding.
+- **When to Use**: Used for intestinal bleeding (bloody dysentery) or uterine bleeding where some mild Qi-lifting action is still desired alongside the hemostatic effect.
+
+### Ji&#x1D4; Sh&#x113;ng M&#xE1; (&#x9152;&#x5347;&#x9EBB;)
+- **Processing Method**: Raw Shēng Má slices are mixed with rice wine (20 kg wine per 100 kg herb), allowed to absorb, then stir-fried with wheat bran until slightly yellow.
+- **How it Changes Properties**: Wine processing enhances the ascending and dispersing properties, making the upward-lifting and exterior-releasing actions stronger. Wine also helps the herb reach the upper body and surface more effectively.
+- **When to Use**: Used when a stronger ascending and lifting effect is desired, particularly for raising Yang Qi in cases of severe Qi sinking.
+
+---
+
+## Common Herb Pairs
+### Chai Hu (Ratio: 1:1 (both typically 3-6g in tonifying formulas))
+- **Description**: Shēng Má lifts the clear Yang of the Yáng Míng (Stomach) system on the right side, while Chái Hú lifts the clear Yang of the Shào Yáng (Liver/Gallbladder) on the left side. Together they create a bilateral lifting action that powerfully raises sunken Qi, restoring organs and functions to their proper position. This pair also mutually reinforces exterior-releasing and fever-reducing actions.
+- **When to Use**: Central Qi sinking with organ prolapse (rectal, uterine, gastric), chronic diarrhea from Qi collapse, or Qi-deficient fever. Also used together to guide other herbs upward in ascending formulas.
+
+### Ge Gen (Ratio: 1:1 (typically 9g each))
+- **Description**: Both herbs release the muscle layer and vent rashes outward. Shēng Má excels at dispersing and detoxifying while Gě Gēn excels at generating fluids and relaxing the muscle layer. Together they form the classical combination for promoting the eruption of incomplete rashes and relieving the body surface in early-stage febrile illness.
+- **When to Use**: Measles or eruptive rashes in the early stage that are slow to emerge or incomplete, with fever, headache, and thirst. Also for early-stage Wind-Heat invasion.
+
+### Huang Qi (Ratio: Hu&#xE1;ng Q&#xED; 15-30g : Sh&#x113;ng M&#xE1; 3-6g (Sh&#x113;ng M&#xE1; is used in small dose as a lifting guide))
+- **Description**: Huáng Qí powerfully tonifies Spleen and Lung Qi, while Shēng Má lifts that newly replenished Qi upward. Huáng Qí provides the substance and Shēng Má provides the direction. Together they both replenish deficient Qi and restore its proper upward movement, addressing root and branch simultaneously.
+- **When to Use**: Qi deficiency with sinking, including organ prolapse, chronic diarrhea, uterine bleeding from Qi failing to hold Blood, and general fatigue with a bearing-down sensation.
+
+### Huang Lian (Ratio: 1:1 (typically 6g each, though ratios vary by formula))
+- **Description**: Shēng Má clears and disperses Yáng Míng Heat toxin while guiding other herbs to the Stomach channel. Huáng Lián powerfully drains Fire and dries Dampness with its intense bitter-cold nature. Together they combine dispersing and draining actions to strongly clear Stomach Fire, particularly effective for oral and dental inflammation.
+- **When to Use**: Stomach Fire causing toothache, gum swelling and erosion, mouth sores, or foul breath. The core pair within Qīng Wèi Sǎn (Clear the Stomach Powder).
+
+---
+
+## Key Formulas
+Bu Zhong Yi Qi Tang, Sheng Ma Ge Gen Tang, Qing Wei San, Pu Ji Xiao Du Yin
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Sheng Ma is classified as non-toxic at standard dosage in the Chinese Pharmacopoeia. However, its active triterpene saponins, cimigenol glycosides, and the alkaloid cimicifugine can cause adverse reactions when used in excessive amounts or when the whole plant (rather than just the rhizome) is used. Overdose symptoms include nausea, vomiting, gastrointestinal inflammation, headache, dizziness, tremor, rigid muscle spasms in the limbs, weakness, drop in blood pressure, difficulty breathing, and in severe cases delirium or respiratory paralysis. Only the dried rhizome should be used medicinally. Keeping within the standard 3-9g dosage range and avoiding prolonged unsupervised use are the primary safeguards. Proper processing (honey-roasting for the Qi-lifting function, raw use for heat-clearing) also modulates the herb's activity and reduces the risk of adverse effects.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Sheng Ma should be used with great caution during pregnancy and is generally considered contraindicated. Its strong ascending and dispersing nature may disturb the fetus, and the triterpene saponin compounds it contains have shown potential effects on smooth muscle contraction (including uterine smooth muscle). Some sources report possible teratogenic risk. Classical texts advise against its use in pregnancy unless specifically indicated by a qualified practitioner for a defined clinical purpose at minimal effective dosage.
+- **Breastfeeding**: Safety during breastfeeding has not been well studied. Given that Sheng Ma contains bioactive triterpene saponins and alkaloids that could potentially transfer into breast milk, and given the herb's ascending and dispersing properties, it is generally recommended that breastfeeding women avoid Sheng Ma or use it only under professional guidance at minimal effective dosage for a clearly defined clinical purpose. There is insufficient data to confirm safety for the nursing infant.
+- **Children**: Sheng Ma has a long traditional history of use in pediatric formulas, particularly for helping measles rash emerge properly (as in Sheng Ma Ge Gen Tang). Dosage should be significantly reduced for children, typically to one-third to one-half of the adult dose depending on the child's age and weight. Classical pediatric sources give doses as low as 1.5g for infants. It should only be used under professional guidance, and is contraindicated once the rash has fully erupted. Given its ascending and dispersing properties, it should not be used long-term in children.
+
+### Drug Interactions
+Limited formal drug interaction studies exist for Sheng Ma specifically, but the following considerations apply based on its known pharmacological properties:
+- Antihypertensive medications: Sheng Ma extracts have demonstrated blood pressure-lowering and heart rate-reducing effects in animal studies. Concurrent use with antihypertensive drugs may potentially enhance hypotensive effects.
+- Hepatotoxic drugs: Cimicifuga species have been associated with rare cases of liver injury. Concurrent use with other hepatotoxic drugs (such as acetaminophen/paracetamol at high doses, statins, or certain antibiotics) warrants caution and liver function monitoring.
+- Sedative and CNS-depressant drugs: Animal studies show Sheng Ma extracts have sedative and anticonvulsant properties. Combined use with benzodiazepines, barbiturates, or other CNS depressants could theoretically produce additive sedation.
+- Anticoagulant and antiplatelet drugs: Sheng Ma contains salicylic acid derivatives and has been described as having both anticoagulant and haemostatic properties. Patients on warfarin or similar medications should use Sheng Ma with caution.
+
+### Dietary Advice
+When using Sheng Ma for its Qi-raising function (as in Bu Zhong Yi Qi Tang), avoid cold and raw foods that could further burden the Spleen and counteract the herb's lifting action. When using it for Heat-clearing, avoid excessively spicy and greasy foods that could generate more internal Heat. The herb is slightly cold in nature, so people with cold constitutions using it should ensure adequate warm, cooked foods in the diet.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Sheng Ma comes from the dried rhizome of plants in the Ranunculaceae (buttercup) family. Three species are recognized in the Chinese Pharmacopoeia: Cimicifuga foetida L. (the classic "Chuan Sheng Ma" or Sichuan type), Cimicifuga dahurica (Turcz.) Maxim. (the northern "Bei Sheng Ma"), and Cimicifuga heracleifolia Kom. (the "Guan Sheng Ma" from the northeast).
+C. foetida is a perennial herb growing 1 to 2 metres tall with erect, hollow, branching stems covered in fine hairs. The leaves are large, triangular in outline, and divided two to three times into three-parted pinnate leaflets. The terminal leaflets are rhombic (diamond-shaped) with serrated edges. It produces tall panicles of small whitish or greenish-white flowers from July to September, with the flower stalks densely covered in grayish or rust-coloured glandular hairs. The fruits are oblong follicles bearing 3 to 8 seeds with membranous, scale-like wings. The plant grows naturally in forest understories and mountain slope grasslands at elevations of 1,700 to 2,300 metres.
+The medicinal rhizome is stout, blackish on the surface, irregular in shape with many branches forming a knotty mass. Its most distinctive feature is the round, hollow depressions on the upper surface where old stems once grew, giving it the folk names "ghost-face Sheng Ma" (鬼脸升麻) or "ghost-eye Sheng Ma" (鬼眼升麻).
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn, after the aboveground parts wither. The rhizomes are dug up, cleaned of soil, sun-dried until the rootlets are dry, then the rootlets are singed off or removed, and the rhizome is fully dried.
+- **Primary Growing Regions**: The historically prized terroir region (道地产区) for Sheng Ma is Sichuan province (particularly the Aba/Ngawa region) and the Gansu-Qinghai border area on the southeastern edge of the Tibetan Plateau, producing the classic "Chuan Sheng Ma" (川升麻, C. foetida). Classical texts from the Shen Nong Ben Cao Jing onward note "produced in Yi Zhou" (modern Sichuan), and the Ben Cao Tu Jing states Sichuan-produced herb is superior.
+Major production regions today also include Liaoning, Jilin, and Heilongjiang provinces (for Guan Sheng Ma / C. heracleifolia and Bei Sheng Ma / C. dahurica), as well as Hebei, Shanxi, and Inner Mongolia. Wild-harvested rhizome from mountainous forests at 1,700-2,300m elevation is traditionally considered highest quality.
+- **Quality Indicators**: Good quality Sheng Ma rhizome (especially the Sichuan type, C. foetida) should be compact, hard, and heavy relative to its size, with a dark blackish-brown to dark brown outer surface. The characteristic round, hollow stem-base depressions on the upper surface should show clear netlike (reticulate) grooves on their inner walls. The cross-section should be yellowish-green or pale yellowish-white with visible radial patterns in the wood, and should have a fibrous texture. The smell should be faint, and the taste slightly bitter and astringent. Avoid pieces that are too light (may indicate adulteration or poor development), excessively rootlet-covered, or that have a soft, spongy texture. The best-regarded variety historically is described as "inner white, outer black, and compact" (里白外黑而紧实).
+
+### Identity & Adulterants
+Sheng Ma has several common adulterants and substitutes that should be carefully distinguished:
+1. Guang Dong Sheng Ma (广东升麻): Root of Serratula chinensis (Asteraceae family), used in Guangdong, Guangxi, and Fujian. This is a completely different plant family. It appears as a cylindrical or spindle-shaped root, grayish-yellow on the surface, brittle and easy to break (unlike true Sheng Ma which is hard and fibrous). It should not be used interchangeably.
+2. Hong Sheng Ma (红升麻): Rhizome of Astilbe chinensis (Saxifragaceae family), used in parts of Gansu and Shaanxi. It lacks the characteristic round hollow stem-base cavities and has a white to reddish cross-section rather than yellow-green.
+3. Lü Dou Sheng Ma (绿豆升麻): Rhizome of Actaea asiatica (a related Ranunculaceae species), sometimes mixed in from Sichuan and Hubei. Distinguishable by its smaller rhizome and the production of berry-like fruits (rather than follicles).
+4. Fraudulent weight increase: Some commercial samples have been found adulterated with heavy stone powder to increase weight by up to 30%, which is a serious quality and safety concern.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Sheng Ma was first recorded in the Shen Nong Ben Cao Jing as a "superior grade" (上品) herb, where its primary uses were to ward off toxins and pestilential diseases. The name literally means "ascending hemp" because, as Li Shizhen explained, its leaves resemble hemp and its therapeutic nature is to lift upward. Classical nicknames include "chicken bone Sheng Ma" (鸡骨升麻, referring to fine, dark specimens from Yunnan and Sichuan) and "ghost face Sheng Ma" (鬼脸升麻, referring to the hollow stem-base depressions on the rhizome that look like eyes or a face).
+The understanding of Sheng Ma's functions evolved significantly over the centuries. In the earliest texts through the Tang dynasty, it was primarily valued for clearing Heat and toxins. The pivotal shift came during the Jin-Yuan period (12th-13th century): Zhang Yuansu first proposed that Sheng Ma could "raise Yang" and serve as a guiding herb for the Yangming (Stomach) channel. His student Li Dongyuan (Li Gao) developed this concept fully in his Pi Wei Lun (Treatise on the Spleen and Stomach), using Sheng Ma as a key ingredient in Bu Zhong Yi Qi Tang to lift sunken Spleen Qi. From this point onward, the "Yang-raising" function became so prominent that the original Heat-clearing indication was largely overshadowed. Qing dynasty physicians eventually restored a more balanced view, recognizing Sheng Ma as possessing both ascending and descending properties depending on dosage and context.
+The botanical source of Sheng Ma also evolved historically. Early texts centred on the Sichuan species (C. foetida), but as the herb entered wider use, northeastern species (C. dahurica, C. heracleifolia) were gradually incorporated. The large-leaf species C. heracleifolia only became an official Pharmacopoeia source in the mid-20th century. Importantly, Sheng Ma should not be confused with the Western "black cohosh" (Cimicifuga racemosa), which is a different species used primarily for menopausal symptoms.
+
+### Modern Scientific Research
+1. **[Comprehensive review: Traditional uses, phytochemistry, pharmacology, quality control and clinical studies of Cimicifugae Rhizoma (2024)](https://pubmed.ncbi.nlm.nih.gov/38715120/)**
+   *Journal: Zhang Q, Wei W, Jin X, Lu J, Chen S, Ogaji OD, Wang S, Du K, Chang Y, Li J. Chinese Medicine, 2024, 19(1):66.*
+   This systematic review compiled research from 1993 to 2023 on all three Pharmacopoeia species of Sheng Ma. It documented over 300 chemical constituents (mainly cycloartane triterpenoid saponins, phenylpropanoids, and chromones) and summarized pharmacological effects including anti-inflammatory, anti-tumour, lipid-lowering, neuroprotective, and antiviral activities. The review also covered quality control methods and noted that isoferulic acid content is the current Pharmacopoeia standard marker.
+
+2. **[Cytotoxic cycloartane triterpenoid saponins from the rhizomes of Cimicifuga foetida (Preclinical, 2019)](https://pubmed.ncbi.nlm.nih.gov/31214880/)**
+   *Journal: Lu J, Peng XR, Shi QQ, et al. Natural Products and Bioprospecting, 2019, 9:263-270.*
+   Researchers isolated actein (a key cycloartane triterpenoid) and four new related compounds from C. foetida rhizomes. The new compounds showed moderate broad-spectrum cytotoxicity against five human cancer cell lines (IC50 values of 4 to 16 micromolar). Actein has been shown in other work to suppress breast cancer growth via NF-kB and EGFR pathways, making these compounds of interest for potential anti-cancer drug development.
+
+3. **[Review: From origins, bioactive constituents to clinical outcomes of Cimicifugae Rhizoma (2006)](https://pubmed.ncbi.nlm.nih.gov/17073639/)**
+   *Journal: Li JX, Yu ZY. Current Medicinal Chemistry, 2006, 13(23):2927-2951.*
+   This review catalogued over 200 compounds from Cimicifuga species and summarized evidence for multiple biological activities including anti-HIV, anti-inflammatory, anti-osteoporosis, anti-diabetic, and vasodilatory effects. It particularly highlighted the potential of cycloartane triterpenoids for anti-bone resorption activity relevant to postmenopausal osteoporosis, with detailed structure-activity relationships.
+
+4. **[Traditional uses, phytochemistry, pharmacology and toxicology of the genus Cimicifuga: A review (2017)]()**
+   *Journal: Guo YQ, Yin T, Wang XM, et al. Journal of Ethnopharmacology, 2017, 209:264-282.*
+   A broad review covering seven Cimicifuga species with over 457 identified compounds. It confirmed pharmacological activities including menopausal symptom relief, anti-osteoporosis, antiviral, anti-tumour, and antioxidant effects. The review also addressed safety concerns, noting reported liver, cardiovascular, and nervous system toxicities with Cimicifuga preparations, emphasizing the need for careful dosing.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/sheng-ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)*

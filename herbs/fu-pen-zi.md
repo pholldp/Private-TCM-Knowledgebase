@@ -1,0 +1,177 @@
+# Fu Pen Zi (覆盆子)
+**English Name**: Chinese raspberry fruit  
+**Category**: Stabilizing and binding herbs (收涩药), Herbs that secure Essence and reduce urination (固精缩尿止带药)  
+**Scientific Name**: Rubus chingii Hu  
+**Pharmaceutical Name**: Fructus Rubi  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Warm | **Taste**: Sweet (甘 gān), Sour (酸 suān)  
+**Channels Entered**: Liver, Kidneys, Urinary Bladder  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Chinese raspberry fruit is a gentle Kidney-strengthening herb best known for helping the body hold and consolidate its vital resources. It is most commonly used for urinary issues like frequent urination, bedwetting, and nighttime urination, as well as male reproductive concerns including low fertility, premature ejaculation, and erectile weakness. It also supports eye health when vision problems stem from Kidney and Liver depletion.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Kidney Health, Urinary Health, Men's Reproductive Health, Fertility, Eye Health and Vision
+- **TCM Actions**: Tonifies the Kidneys and Secures Essence, Secures Essence and Stops Enuresis, Secures Essence and Stops Seminal Emission, Nourishes the Liver and Brightens the Eyes
+
+### How these actions work
+'Tonifies the Kidneys and consolidates essence' means Fù Pén Zǐ strengthens the Kidneys' ability to store and hold the body's essential reproductive and vital substances. In TCM, the Kidneys are seen as a vault for 'essence' (Jing), the fundamental substance governing growth, reproduction, and vitality. When the Kidneys are weak, essence leaks out, manifesting as fertility problems, premature aging, or general depletion. Fù Pén Zǐ's sweet taste nourishes the Kidney while its sour taste acts like a lock, keeping essence secure.
+'Reduces urination and stops enuresis' refers to its ability to help the Bladder hold urine properly. The Kidneys control the Bladder's opening and closing, and when Kidney Qi is weak, the Bladder cannot hold urine well. This leads to frequent urination, nocturia, or bedwetting in children. The herb's name literally means 'overturn the chamber pot,' reflecting the traditional belief that it works so well for urine control that the pot is no longer needed.
+'Nourishes the Liver and brightens the eyes' reflects that Fù Pén Zǐ enters the Liver channel and nourishes Liver-Kidney Yin. In TCM, the eyes are the 'opening' of the Liver, and adequate Liver blood and Kidney essence are needed for clear vision. When these are depleted, vision becomes dim or blurry. This action applies to age-related vision decline or eye fatigue from overwork when the underlying cause is Liver-Kidney deficiency.
+
+---
+
+## Patterns Addressed
+### Kidney Qi not Firm
+- **Explanation**: Fù Pén Zǐ directly addresses the failure of the Kidneys to consolidate and hold essence and fluids. Its sweet and sour tastes work together: sweetness tonifies the Kidney, while sourness provides an astringent, binding quality that helps the Kidney 'lock' its stored substances. Its slightly warm nature gently supports Kidney Yang without creating excessive heat. This combination of nourishing and restraining is what makes it effective for conditions where Kidney Qi is too weak to maintain its holding function.
+- **Clinical Signs & Symptoms**:
+
+### Kidney Yang Deficiency
+- **Explanation**: While Fù Pén Zǐ is not a strongly warming Yang tonic, its slightly warm nature and ability to nourish Kidney essence make it a useful supporting herb for mild Kidney Yang insufficiency. Classical texts describe it as able to 'assist Yang and strengthen the will.' It warms gently without creating dryness, making it suitable for Kidney Yang patterns that are not severely cold. It is especially useful when Yang deficiency manifests as reproductive weakness alongside urinary symptoms.
+- **Clinical Signs & Symptoms**:
+
+### Heart and Kidney Yin Deficiency
+- **Explanation**: Fù Pén Zǐ enters both the Liver and Kidney channels, and its sour taste has an affinity for generating Yin fluids. As noted in the classical text Ben Cao Zheng Yi, it is fundamentally a herb that 'nourishes true Yin' and 'collects scattered Yin Qi to generate essence and fluids.' When the Liver and Kidneys are depleted of Yin, the eyes lose their nourishment, producing blurred or dim vision. Fù Pén Zǐ replenishes Liver-Kidney Yin and brightens the eyes.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Frequent Urination
+- **Arises from**: Kidney Qi not Firm
+- **TCM Interpretation**: In TCM, the Kidneys govern water metabolism and control the opening and closing of the Bladder. When Kidney Qi is deficient or insecure, the Bladder loses its ability to hold urine properly, resulting in frequent urination, urgency, or nocturia. This is especially common in older adults or those with constitutional weakness. The Kidney's holding function is closely related to its 'consolidating' capacity, which keeps fluids, essence, and other substances from leaking out.
+- **Why it Helps**: Fù Pén Zǐ directly strengthens the Kidney's ability to consolidate and restrain fluids. Its sweet taste nourishes Kidney Qi, while its sour taste provides an astringent, tightening action that helps the Bladder hold urine. Classical physicians noted that this herb was so effective at reducing urination that one could 'overturn the chamber pot' (the literal meaning of its name, Fù Pén Zǐ). Its slightly warm nature gently supports the Kidney Yang that powers the Bladder's holding function.
+
+### Infertility
+- **Arises from**: Kidney Yang Deficiency, Kidney Qi not Firm
+- **TCM Interpretation**: TCM considers the Kidneys the root of reproduction, storing the 'essence' (Jing) that governs fertility in both men and women. Male infertility is most commonly understood as a Kidney deficiency pattern: insufficient Kidney essence means the body cannot produce robust reproductive material. This may manifest as low sperm count, poor sperm motility, or low libido. The pattern often includes accompanying signs like lower back weakness, fatigue, and diminished vitality.
+- **Why it Helps**: Fù Pén Zǐ has been used for centuries as part of fertility formulas, most famously Wǔ Zǐ Yǎn Zōng Wán (Five Seed Progeny Pill), historically called 'the number one formula for producing offspring.' As a seed-type herb itself, it carries a concentrated form of reproductive vitality. It supplements Kidney essence, consolidates the 'essence gate' to prevent leakage, and gently warms the Kidneys to support reproductive function. Its balanced action, tonifying without being excessively hot or drying, makes it safe for long-term use in fertility support.
+
+### Erectile Dysfunction
+- **Arises from**: Kidney Yang Deficiency
+- **TCM Interpretation**: In TCM, erectile function depends on adequate Kidney Yang to warm, activate, and fill the lower body with Qi and Blood. When Kidney Yang is deficient, the body's 'fire' is too weak to drive reproductive function. This often accompanies other signs of coldness and weakness in the lower body, such as cold lower back and knees, low energy, and a pale tongue.
+- **Why it Helps**: Fù Pén Zǐ gently supports Kidney Yang and essence without the harsh drying effects of stronger Yang tonics. The classical text Ben Cao Tong Xuan describes it as able to 'uplift Yang and treat impotence, consolidate essence, and restrain urination, strengthening the Kidneys without dryness or heat.' This gentle, balanced quality makes it well-suited for long-term use in addressing mild to moderate erectile weakness, often combined with stronger Kidney Yang tonics when needed.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 6-12g
+- **Maximum Dosage**: Up to 15-20g in decoctions for severe Kidney deficiency patterns, under practitioner supervision. Some paediatric enuresis recipes use up to 30g combined with food (e.g. decocted with pork), though this is a folk remedy context.
+- **Dosage Notes**: The standard dose of 6-12g is used for most indications including Kidney deficiency with seminal emission, urinary frequency, or blurred vision. For stronger astringent effects (severe enuresis or spermatorrhoea), dosages toward the higher end (10-12g) are appropriate, often combined with other Kidney-securing herbs such as Sang Piao Xiao, Yi Zhi Ren, or Wu Wei Zi. For nourishing the Liver and improving vision, it pairs well with Gou Qi Zi, Shu Di Huang, and Nu Zhen Zi. Processed forms include salt-fried Fu Pen Zi (盐覆盆子), which enhances its Kidney-entering action, and wine-processed Fu Pen Zi (酒覆盆子), which improves its warming and circulating properties. The herb can also be used in pills, powders, medicinal wines, and pastes.
+- **Preparation**: No special decoction handling required. Fu Pen Zi is simply decocted with other herbs in the standard manner. It may also be taken as pills, powders, soaked in medicinal wine, or prepared as a paste.
+
+---
+
+## Processing Methods
+### Y&#xE1;n F&#xF9; P&#xE9;n Z&#x1D0; (&#x76D0;&#x8986;&#x76C6;&#x5B50;)
+- **Processing Method**: Stir-fried with salt water until dry. The fruit is mixed with dilute salt solution and heated in a wok until the moisture is absorbed.
+- **How it Changes Properties**: Salt processing directs the herb more strongly into the Kidney channel and enhances its Kidney-consolidating and essence-securing actions. The thermal nature remains slightly warm, but the downward-directing quality of salt strengthens the herb's ability to reach and benefit the lower body.
+- **When to Use**: Preferred when the primary treatment goal is urinary control or securing essence, particularly for enuresis, nocturia, or seminal emission. The salt-processed form is more commonly used in clinical practice than the raw form.
+
+---
+
+## Common Herb Pairs
+### Tu Si Zi (Ratio: 1:1 to 1:2 (F&#xF9; P&#xE9;n Z&#x1D0; 10g : T&#xF9; S&#x12B; Z&#x1D0; 15g))
+- **Description**: Fù Pén Zǐ and Tù Sī Zǐ together form a powerful Kidney-nourishing pair. Tù Sī Zǐ gently tonifies both Kidney Yin and Yang with a balanced, non-drying nature, while Fù Pén Zǐ adds astringent, consolidating power to lock in the essence that Tù Sī Zǐ helps generate. Together they tonify and secure simultaneously.
+- **When to Use**: Kidney deficiency with both insufficiency and leakage: low sperm quality, nocturnal emission, frequent urination, and lower back weakness. This pair is the core of Wǔ Zǐ Yǎn Zōng Wán.
+
+### Gou Qi Zi (Ratio: 1:1 (F&#xF9; P&#xE9;n Z&#x1D0; 10g : G&#x1D2;u Q&#x1D0; Z&#x1D0; 10g))
+- **Description**: Gǒu Qǐ Zǐ nourishes Liver and Kidney Yin and benefits the eyes, while Fù Pén Zǐ adds astringent consolidation and also enters the Liver to brighten vision. Together they nourish and stabilize Liver-Kidney essence while mutually reinforcing their vision-improving effects.
+- **When to Use**: Liver-Kidney Yin deficiency with blurred or declining vision, premature greying of hair, and lower back soreness. Also used in fertility support.
+
+### Sang Piao Xiao (Ratio: 1:1 to 1:2 (F&#xF9; P&#xE9;n Z&#x1D0; 10g : S&#x101;ng Pi&#x101;o Xi&#x101;o 10-15g))
+- **Description**: Sāng Piāo Xiāo is a strong astringent that consolidates Kidney Qi and controls the Bladder. Paired with Fù Pén Zǐ, the consolidating and urine-reducing effect is significantly amplified. Sāng Piāo Xiāo focuses on restraining urination, while Fù Pén Zǐ also nourishes the underlying Kidney deficiency.
+- **When to Use**: Childhood enuresis (bedwetting), adult nocturia, or urinary incontinence from Kidney Qi deficiency. This is one of the most commonly used pairs for urinary control.
+
+### Wu Wei Zi (Ratio: 2:1 (F&#xF9; P&#xE9;n Z&#x1D0; 10g : W&#x1D4; W&#xE8;i Z&#x1D0; 5g))
+- **Description**: Wǔ Wèi Zǐ is strongly astringent and secures Kidney essence, with a special ability to restrain leakage of fluids and essence. Paired with Fù Pén Zǐ, both herbs share sour, astringent qualities that powerfully consolidate the Kidney's holding function, while Fù Pén Zǐ contributes gentle warming and nourishment.
+- **When to Use**: Seminal emission, spermatorrhea, premature ejaculation, and excessive sweating from Kidney deficiency. Both serve as Deputy herbs together in Wǔ Zǐ Yǎn Zōng Wán.
+
+### Yi Zhi Ren (Ratio: 1:1 (F&#xF9; P&#xE9;n Z&#x1D0; 10g : Y&#xEC; Zh&#xEC; R&#xE9;n 10g))
+- **Description**: Yì Zhì Rén warms the Kidneys, consolidates essence, and reduces urination. Combined with Fù Pén Zǐ, the pair addresses Kidney Yang deficiency with urinary leakage from two angles: Yì Zhì Rén provides stronger warming, while Fù Pén Zǐ provides more nourishment and astringency.
+- **When to Use**: Cold-type urinary frequency, enuresis, and excessive salivation from Kidney-Spleen Yang deficiency. This pair is commonly found in formulas for bedwetting.
+
+---
+
+## Key Formulas
+Wu Zi Yan Zong Wan, Sang Piao Xiao San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Fu Pen Zi is classified as non-toxic and has been listed as a 'food-medicine dual use' substance (药食同源) by China's National Health Commission since 2002. No toxic components have been identified in standard pharmacological evaluations. No special processing is required to ensure safety. The standard preparation involves brief blanching or steaming of the unripe fruit followed by sun-drying, which is done primarily for preservation rather than detoxification.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy contraindication is recorded in classical TCM texts for Fu Pen Zi. In fact, the Zhejiang Medicinal Plants reference (《浙江药用植物志》) lists it as having a calming (安胎) effect on the fetus. However, as an astringent herb that enters the Kidney and Bladder channels, its use during pregnancy should follow standard caution: it should only be taken under the guidance of a qualified practitioner. Some commercial preparations carry general pregnancy caution labels. Overall, at standard doses and with appropriate clinical guidance, it is not considered a high-risk herb in pregnancy.
+- **Breastfeeding**: No specific contraindication or safety concern during breastfeeding is recorded in classical or modern TCM literature for Fu Pen Zi. As a food-medicine dual-use substance with a long history of dietary consumption, it is generally considered safe. No adverse effects on lactation or transfer of harmful substances through breast milk have been reported. Standard doses are not expected to pose risk, though as with all herbal medicines during breastfeeding, practitioner guidance is advisable.
+- **Children**: Fu Pen Zi has a long traditional history of use in children, particularly for bedwetting (childhood enuresis), which is one of its most well-known paediatric indications. Classical sources describe decocting 30g with lean pork as a paediatric remedy for enuresis. For general use in children, doses should be proportionally reduced according to age and body weight. Typical paediatric doses range from one-third to one-half of the adult dose. It is considered a gentle, non-toxic herb appropriate for children when indicated.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Fu Pen Zi in peer-reviewed literature. However, based on its known pharmacological properties, the following theoretical considerations apply:
+- Estrogenic medications: Laboratory studies suggest Fu Pen Zi extracts may have estrogen-like activity. Caution is theoretically warranted when combining with hormone-sensitive medications, hormone replacement therapy, or oral contraceptives, though clinical evidence of actual interaction is lacking.
+- Hypoglycaemic agents: Preclinical research indicates potential blood sugar-lowering effects. Patients on insulin or oral hypoglycaemics should monitor blood glucose if taking Fu Pen Zi concurrently.
+Overall, the risk of clinically significant drug interactions is considered low given its long history as a food-medicine substance and its mild pharmacological profile.
+
+### Dietary Advice
+When taking Fu Pen Zi for Kidney-tonifying purposes, it is advisable to avoid excessive consumption of cold and raw foods, iced drinks, and overly greasy or heavy foods, as these can impair Spleen and Kidney function and counteract the herb's warming, consolidating effects. Foods that support the Kidney such as black sesame, walnuts, and lean meats complement its action. If using Fu Pen Zi for vision improvement, dark-coloured berries, goji berries, and liver (in moderation) may be beneficial complementary foods.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Rubus chingii Hu (Palmleaf Raspberry, 掌叶覆盆子) is a deciduous shrub in the Rosaceae (rose) family, typically growing 2 to 3 meters tall. The young stems are green with a whitish powdery coating and bear scattered, recurved thorns. The leaves are alternate, nearly circular in outline (5 to 9 cm across), and deeply palmately divided into five lobes (occasionally seven), with a heart-shaped base and irregularly double-serrated margins. Both surfaces of the leaf veins bear fine white hairs. The leaf stalks are scattered with small prickles, and the stipules are linear.
+Flowers are solitary at the tips of short branches, with five persistent sepals, five white petals that are elliptical or broadly oval (2.5 to 3.5 cm in diameter), numerous stamens, and many pistils borne on a raised receptacle. The aggregate fruit is spherical, 1.5 to 2 cm in diameter, turning red when ripe and drooping from the stem. Each small drupelet is densely covered with grey-white fine hairs. The plant flowers from March to April, with fruit ripening from May to August.
+It grows naturally at low to mid elevations on hillsides, roadsides, forest edges, and in both sunny and shaded thickets. It prefers moist, humus-rich, loose soil that is not waterlogged.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Early summer (typically late May to early June), when the fruits have become plump but are still green to yellow-green and not yet fully ripe.
+- **Primary Growing Regions**: Zhejiang province is the premier producing region (道地药材 dào dì yào cái) and Fu Pen Zi was selected as one of Zhejiang's new 'Eight Famous Herbals' (新浙八味) in 2018. Within Zhejiang, areas such as Chun'an, Lin'an, and Pan'an are well known.
+Jiangxi province (especially the Dexing area in northeastern Jiangxi, which received a national geographical indication for its Fu Pen Zi in 2011) is another major production centre.
+Other significant producing regions include Anhui (Huangshan area), Fujian, Jiangsu, and Guangxi provinces. The herb is widely distributed across East China, but Zhejiang material is traditionally considered the highest quality.
+- **Quality Indicators**: Good quality Fu Pen Zi consists of whole, intact aggregate fruits that are plump and firm, conical or slightly flattened conical in shape (0.6 to 1.3 cm tall, 0.5 to 1.2 cm in diameter). The surface colour should be predominantly yellow-green (黄绿色), which indicates proper harvesting at the correct unripe stage. A light, clean fragrance should be present. The taste should be distinctly sour with slight astringency. Each small drupelet should show grey-white fine hairs on its back, with clearly visible net-like texturing on the sides. The persistent calyx at the base should be brownish. Avoid material that is reddish-brown (indicating over-ripeness, which is more prone to mould), broken, or mixed with stems and leaves. Zhejiang-produced material is traditionally regarded as the best quality.
+
+### Identity & Adulterants
+Fu Pen Zi is frequently adulterated with or substituted by the fruits of other Rubus species. The most common substitute is Rubus coreanus Miq. (插田泡, Chā Tián Pào), widely used in Sichuan and other regions. While historically used in some areas, it lacks the specific pharmacological profile of the authentic herb. Other substitutes include Rubus corchorifolius (山莓, Shān Méi), Rubus idaeus (European/American raspberry, used in northeastern China), and Rubus lasiostylus (绵果悬钩子). The authentic herb (Rubus chingii Hu) is distinguished by its five-lobed palmate leaves (hence the name 掌叶覆盆子). The dried fruit of the authentic species is typically smaller (0.5 to 1.2 cm diameter), with a distinct yellow-green colour and grey-white downy hairs. Ripe or fully red fruits from any species are not suitable as medicine. Peng Lei (蓬蘽, Rubus hirsutus), though historically confused with Fu Pen Zi, is a different plant with different pharmacological actions and should not be used as a substitute.
+
+---
+
+## References
+### Classical Texts
+#### Shén Nóng Běn Cǎo Jīng (《神农本草经》)
+- **Original**: 「覆盆子，味甘，平，无毒。主益气轻身，令发不白。五月采实。」
+- **Translation**: "Péng Lěi, sour in flavour, neutral in nature. It calms the five Zang organs, enriches essence and Qi, strengthens the reproductive function, bolsters willpower and physical strength, and promotes fertility. Long-term use lightens the body and prevents aging. Another name is Fù Pén."
+
+### Historical Context
+Fu Pen Zi has a documented medicinal history of over two thousand years. It first appeared under the alternate name Péng Lěi (蓬蘽) in the Shén Nóng Běn Cǎo Jīng, China's earliest materia medica, where it was classified as a superior-grade herb. The Míng Yī Bié Lù (compiled during the Wei-Jin period, attributed to Tao Hongjing) was the first text to record "Fù Pén Zǐ" (覆盆子) as a separate entry distinct from Péng Lěi, clarifying that the fruit is harvested in the fifth lunar month.
+The name "覆盆" has two traditional explanations. One, based on the shape of the aggregate fruit which resembles an upturned basin, was noted by the Běn Cǎo Jīng Jí Zhù. The more famous explanation comes from the Song dynasty physician Kou Zongshi in the Běn Cǎo Yǎn Yì, who wrote that Fu Pen Zi so effectively reduces nighttime urination that one could "overturn the chamber pot" (覆其溺器) after taking it. This colourful folk etymology became the standard explanation in later texts. Kou Zongshi was also the first to explicitly attribute the "reducing urination" function to Fu Pen Zi.
+Fu Pen Zi is a key ingredient in the famous formula Wǔ Zǐ Yǎn Zōng Wán (五子衍宗丸, "Five Seeds Progeny Pill"), one of the most celebrated Kidney-tonifying prescriptions in Chinese medicine, which combines five seed-type herbs to nourish the Kidney and support fertility. In the Chinese Pharmacopoeia, the sole authorised botanical source is Rubus chingii Hu (华东覆盆子), distinguishing it from closely related Rubus species that were historically used interchangeably in some regions.
+
+### Modern Scientific Research
+1. **[Comprehensive phytochemistry and pharmacology review of Rubus chingii Hu (2019)](https://pubmed.ncbi.nlm.nih.gov/31379574/)**
+   *Journal: Yu G, Luo Z, Zhou Y, et al. Rubus chingii Hu: A Review of the Phytochemistry and Pharmacology. Frontiers in Pharmacology, 2019, 10:799.*
+   This systematic review compiled all known chemical constituents of Rubus chingii, identifying over 235 compounds including triterpenoids, diterpenoids, flavonoids, and organic acids. The review summarized pharmacological evidence for antioxidant, anti-inflammatory, anticancer, antimicrobial, and anti-osteoporotic activities demonstrated in laboratory studies.
+
+2. **[Bioactive components, pharmacological effects, and drug development review (2023)](https://pubmed.ncbi.nlm.nih.gov/36698464/)**
+   *Journal: Li Y, Xie Q, You J, et al. Bioactive components, pharmacological effects, and drug development of traditional herbal medicine Rubus chingii Hu (Fu-Pen-Zi). Frontiers in Nutrition, 2022, 9:1052504.*
+   A comprehensive review summarising recent advances in Rubus chingii research, covering its bioactive terpenoids, flavonoids, alkaloids, phenolic acids, and polysaccharides. It highlighted the main pharmacological effects including antioxidant, anti-inflammatory, and anti-tumour activities, and discussed the current status of drug development from this herb.
+
+3. **[Rubus chingii Hu: botany, traditional uses, phytochemistry, and pharmacology overview (2020)](https://pubmed.ncbi.nlm.nih.gov/32503734/)**
+   *Journal: Sheng JY, Wang SQ, Liu KH, et al. Rubus chingii Hu: an overview of botany, traditional uses, phytochemistry, and pharmacology. Chinese Journal of Natural Medicines, 2020, 18(6):401-416.*
+   This review from the Chinese Journal of Natural Medicines provided a detailed overview of the botanical characterization, traditional uses, chemical constituents, and pharmacological activities of Rubus chingii, including antioxidant, anti-inflammatory, antitumour, antifungal, antithrombotic, antiosteoporotic, and hypoglycaemic effects demonstrated in preclinical models.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/fu-pen-zi](https://www.meandqi.com/knowledge-base/herbs/fu-pen-zi)*

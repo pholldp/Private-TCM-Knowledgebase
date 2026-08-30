@@ -1,0 +1,172 @@
+# Dan Fan (胆矾)
+**English Name**: Chalcanthite (Blue Vitriol)  
+**Category**: Emetic herbs (涌吐药)  
+**Scientific Name**: CuSO₄·5H₂O (Chalcanthite)  
+**Pharmaceutical Name**: Chalcanthitum  
+**Toxicity**: Toxic  
+**Temperature**: Cold | **Taste**: Sour (酸 suān), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Liver, Gallbladder  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Dan Fan is a mineral substance (copper sulfate crystal) used mainly in emergencies to induce vomiting when thick phlegm blocks the throat, or when toxic substances have been accidentally swallowed. It is also widely used externally as a powder or wash to treat mouth sores, gum disease, eye inflammation, and skin ulcers. This is a toxic substance and must only be used under professional guidance in very small doses.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Throat Health, Oral and Dental Health, Skin and Wound Care, Emergency Care
+- **TCM Actions**: Induces Vomiting to Expel Phlegm, Resolves Toxicity, Dries dampness and draws out moisture, Removes Putridity and Promotes Tissue Regeneration
+
+### How these actions work
+'Induces vomiting to expel phlegm' is this herb's primary internal action. When thick, turbid phlegm blocks the throat or chest, or when consciousness is clouded by phlegm obstructing the upper body, Dan Fan's acrid and sour nature drives upward strongly enough to force phlegm out through vomiting. This follows the classical treatment principle of 'for problems in the upper body, expel upward' (其高者因而越之). It is used in acute situations like severe sore throat with phlegm obstruction (throat blockage), wind-stroke with phlegm filling the airways, epilepsy with phlegm clouding the mind, or accidental poisoning where the stomach contents need to be emptied quickly.
+'Clears toxins' refers to the herb's ability to counteract toxic or pathogenic substances, both internally (by physically expelling them through vomiting) and externally (by applying it to infected or toxic sores). Its cold nature helps clear heat-toxins in the affected area.
+'Dries dampness and draws out moisture' describes the external application of this mineral in dilute solution or powder form. When applied to weeping sores, oozing wounds, or damp skin conditions, it contracts the tissue and reduces fluid discharge, creating a drier environment that supports healing.
+'Removes necrotic tissue and erodes sores' means that in stronger concentrations, Dan Fan can chemically break down dead or rotten flesh on chronic wounds, clearing away tissue that prevents healing. This corrosive action must be used carefully and only under expert guidance, as it can damage healthy tissue if misapplied.
+
+---
+
+## Patterns Addressed
+### Wind-Phlegm
+- **Explanation**: When Wind-Phlegm surges upward and blocks the throat or clouds the mind, Dan Fan's acrid taste disperses and its sour taste contracts, while its cold nature clears the heat that often accompanies acute phlegm obstruction. Its strong ascending and emetic action forces thick phlegm out of the throat and chest. This directly addresses the core pathomechanism of Wind-Phlegm, where turbid Phlegm stirred by Wind rises to obstruct the upper openings (mouth, throat, brain). The Liver and Gallbladder channel entry is relevant because Wind-Phlegm often involves the Liver (the organ most associated with internal Wind).
+- **Clinical Signs & Symptoms**:
+
+### Toxic-Heat
+- **Explanation**: Dan Fan's cold nature directly opposes heat, while its acrid taste helps disperse toxic accumulations. Applied externally, its astringent mineral properties bind to tissue proteins, reducing infection and eliminating necrotic flesh. This makes it effective against Toxic Heat manifesting as inflamed sores, ulcerating wounds, mouth sores, and gum erosion, where heat and toxins cause tissue destruction and pus formation. Its Liver channel affinity helps clear heat from the Liver system, which governs the eyes and influences the throat region.
+- **Clinical Signs & Symptoms**:
+  - **Gingivitis**: Gum erosion and bleeding (&#x7259;&#x75B3;)
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.3-0.6g (internal); external use in appropriate amounts
+- **Maximum Dosage**: Do not exceed 0.6g internally. Ingestion above 1g risks overt toxicity; the lethal dose is 10-20g. Internal use must be short-term only, never prolonged.
+- **Dosage Notes**: Internal use of Dan Fan is extremely restricted and rarely employed in modern practice. The standard internal dose is 0.3-0.6g, dissolved in warm water (温汤化服), or prepared as pills or powder. This herb is primarily an emetic (涌吐药), and its internal use is essentially limited to emergency situations: inducing vomiting to expel ingested poisons, clearing severe phlegm obstruction of the throat in acute conditions like severe sore throat (喉痹) or wind-stroke, or treating acute epileptic attacks with phlegm obstruction. Even at the standard dose, vomiting is expected and is in fact the therapeutic mechanism.
+External use is more common and safer. The herb is ground to powder and applied directly to affected areas, or dissolved in water for washing. For throat conditions, it is typically blown into the throat as a fine powder (吹喉). For eye conditions, a dilute solution is used as a wash. Calcined (煅) Dan Fan is preferred for many external applications as the calcination process removes crystallization water and modifies its properties.
+- **Preparation**: For internal use: dissolve in warm water (温汤化服) at 0.3-0.6g per dose. Dan Fan is not decocted in the usual manner. It may also be incorporated into pills or powders. For external use: grind to fine powder and apply directly, or dissolve in water for washing. For throat conditions, the powder is blown into the throat using a bamboo tube (竹管吹喉). Calcined Dan Fan (煅胆矾) is preferred for many external applications: heat until smoke ceases, then grind to powder.
+
+---
+
+## Processing Methods
+### Du&#xE0;n D&#x1CE;n F&#xE1;n (&#x7145;&#x80C6;&#x77FE;)
+- **Processing Method**: The raw Dan Fan crystals are calcined (煅) by heating until the smoke ceases, driving off the crystallization water. The resulting white powder is then ground to a fine consistency.
+- **How it Changes Properties**: Calcination removes the crystallization water, making the substance white and powdery instead of blue and crystalline. This reduces the emetic (vomiting-inducing) action significantly and enhances the astringent, wound-drying, and tissue-corroding properties. The cold nature is somewhat moderated. The processed form is better suited for external application as it is finer and more concentrated in its topical effects.
+- **When to Use**: Used exclusively for external application: treating hemorrhoids (as in the Ren Zhai Zhi Zhi Fang formula), chronic non-healing ulcers, ingrown toenails with granulation tissue (甲疽), and eye washes for chronic eye inflammation. When the goal is topical wound management rather than inducing vomiting, the calcined form is preferred.
+
+---
+
+## Common Herb Pairs
+### Jiang Can (Ratio: Dan Fan 2.5 qian : Bai Jiang Can 5 qian (approximately 1:2))
+- **Description**: Dan Fan induces vomiting to expel phlegm from the throat and clear obstruction, while Bai Jiang Can (white silkworm) dispels Wind, transforms Phlegm, and dissipates nodules. Together they address Wind-Phlegm blocking the throat from two angles: Dan Fan forces the phlegm out physically, and Bai Jiang Can resolves it from within.
+- **When to Use**: Acute throat obstruction (喉痹, 缠喉风) with severe swelling, thick phlegm, and difficulty breathing or swallowing. The classical formula Er Sheng San from the Ji Sheng Fang uses this pair.
+
+### Hu Huang Lian (Ratio: Hu Huang Lian 5 fen : Dan Fan 5 li : Er Cha 5 li (Hu Huang Lian is the larger dose, Dan Fan is very small))
+- **Description**: Dan Fan clears toxins and erodes necrotic tissue externally, while Hu Huang Lian (Picrorhiza root) powerfully clears Heat from deficiency and dries Dampness. Together they treat Heat-toxin erosion in the gums and mouth with a combined antibacterial and tissue-clearing action.
+- **When to Use**: Severe gum erosion (牙疳) with foul smell, bleeding, and tissue destruction, especially in children. Referenced in Dan Fan San from Shen Shi Zun Sheng Shu.
+
+### Peng Sha (Ratio: Variable; both used in small amounts in external formulas)
+- **Description**: Dan Fan clears toxins and corrodes necrotic tissue, while Peng Sha (borax) clears Heat from the upper body, resolves Phlegm, and soothes the throat. Together they provide a comprehensive topical treatment for throat and mouth conditions, combining Dan Fan's stronger corrosive action with Peng Sha's gentler soothing effect.
+- **When to Use**: Throat swelling, mouth sores, and tonsillitis where both phlegm obstruction and tissue inflammation are present. Often combined in multi-ingredient throat powders for topical application.
+
+---
+
+## Key Formulas
+Ba Zheng San, Er Long Zuo Ci Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Toxic
+Dan Fan (copper sulfate pentahydrate, CuSO₄·5H₂O) is classified as toxic (有毒) in TCM literature, with some classical sources such as the Yao Xing Lun and Ri Hua Zi Ben Cao describing it as having "great toxicity" (大毒). The toxic component is the copper ion (Cu²⁺), which is a multi-organ poison.
+Copper sulfate is a powerful oxidizing agent that corrodes mucous membranes and causes cellular damage through free radical injury. It is toxic to essentially all organ systems: it severely irritates the gastrointestinal tract (causing mucosal inflammation, edema, and ulceration), is directly toxic to the heart, liver, and kidneys, has strong affinity for the central nervous system, and can cause intravascular hemolysis leading to hemolytic anemia.
+Symptoms of poisoning include: metallic taste in the mouth, dry throat, severe nausea and vomiting, abdominal pain and diarrhea (vomit and stool may be blue-green coloured), dizziness, headache, blurred vision, weakness, pallor with yellow discolouration, jaundice, hypotension, tachycardia, respiratory difficulty, and decreased or absent urine output. Death typically results from acute kidney failure. Ingestion of more than 1g can produce toxic symptoms; the lethal dose in humans is estimated at 10-20g.
+The herb is made safe through extremely strict dose control (0.3-0.6g internally), short-term use only, and preferential external application. For external use, concentrated solutions can still be corrosive, so dilute preparations are used. Calcining (煅) the mineral before use is a traditional processing method that alters its properties for topical application.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Absolutely contraindicated in pregnancy. Dan Fan (copper sulfate) is a toxic copper compound that readily crosses the placenta. Animal studies in hamsters and mice have demonstrated clear embryocidal and teratogenic effects from copper exposure, including severe heart malformations, hernias, increased fetal mortality, lower fetal weights, and embryonic resorptions at various dose levels. Internal use during pregnancy poses a serious risk of fetal harm or pregnancy loss. Even external use should be approached with extreme caution during pregnancy due to potential systemic copper absorption.
+- **Breastfeeding**: Contraindicated during breastfeeding for internal use. Copper ions from Dan Fan can be absorbed systemically and transferred into breast milk. Copper is a heavy metal that accumulates in tissues, and even small amounts in breast milk could be harmful to an infant, whose liver and kidneys are immature and unable to process copper toxicity effectively. External topical use on areas distant from the breast may be acceptable with caution, but any use during lactation should be under strict practitioner supervision.
+- **Children**: Dan Fan should generally not be used internally in children due to its significant toxicity and extremely narrow therapeutic window. Historical texts such as the Tan Shi Xiao Er Fang do describe very small internal doses for specific pediatric emergencies (such as acute wind-stroke with phlegm obstruction), but this reflects emergency practice and should not be generalized. External topical use for conditions such as oral ulcers (kou chuang), nasal erosion from gan disease, or eye conditions has more historical precedent in pediatric practice, but must still be applied in very small amounts and for limited duration. Children are more susceptible to copper toxicity than adults due to their lower body weight and immature liver and kidney function.
+
+### Drug Interactions
+Chelating agents (penicillamine, EDTA, BAL): These are used as antidotes in copper poisoning. If a patient is taking chelation therapy for copper overload conditions (such as Wilson's disease), concurrent use of Dan Fan would be counterproductive and dangerous.
+Hepatotoxic drugs: Dan Fan is directly toxic to the liver. Concurrent use with other hepatotoxic medications (acetaminophen/paracetamol at high doses, certain statins, methotrexate, etc.) may compound liver damage risk.
+Nephrotoxic drugs: Since copper sulfate is toxic to the kidneys and can cause acute kidney injury, concurrent use with nephrotoxic drugs (aminoglycoside antibiotics, NSAIDs, certain immunosuppressants) increases the risk of renal failure.
+Iron supplements: Copper and iron compete for absorption and have complex metabolic interactions. Copper sulfate can deplete iron stores (as seen in animal studies causing microcytic anemia). Concurrent use may interfere with iron supplementation.
+Anticoagulants: Given that copper sulfate can cause intravascular hemolysis and gastrointestinal mucosal damage with bleeding, use alongside anticoagulants (warfarin, heparin) or antiplatelet agents significantly increases bleeding risk.
+
+### Dietary Advice
+When using Dan Fan externally, no specific dietary restrictions are critical. However, if any internal use is employed (which is rare in modern practice), avoid acidic foods and drinks that could increase copper ion absorption. Drinking milk or consuming egg whites can help coat the stomach lining and reduce irritation from copper. Avoid alcohol, which increases gastrointestinal absorption and compounds liver toxicity.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Dan Fan (胆矾) is not a plant-derived herb but a mineral substance. It is the crystalline form of the sulfate mineral chalcanthite, chemically known as copper sulfate pentahydrate (CuSO₄·5H₂O). In nature, it forms as a secondary mineral through the oxidation and decomposition of copper sulfide ores in the oxidation zones of copper deposits, particularly in arid climates.
+The mineral crystallizes in the triclinic crystal system. Individual crystals form thick tabular or short prismatic shapes, though these are uncommon. More typically, it occurs as irregular masses, reniform (kidney-shaped) aggregates, stalactitic crusts, fibrous coatings, or granular clusters. The crystals display a vivid sky-blue to deep blue colour, sometimes with a slight greenish tint, and have a characteristic vitreous (glassy) lustre. Chalcanthite is semi-transparent to transparent, extremely brittle with a hardness of only 2.5 (about as hard as a fingernail), and has a conchoidal fracture. Its relative density is 2.1-2.3. A distinctive feature is its extreme solubility in water, producing an even blue solution. When exposed to dry air, the crystals slowly lose their water of crystallization (effloresce), turning to a greenish-white or white powder on the surface.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be collected year-round. Natural specimens are typically mined from copper deposits in November to December. Most modern supply is synthetically produced.
+- **Primary Growing Regions**: Natural chalcanthite (Dan Fan) is found primarily in the oxidation zones of copper ore deposits in arid regions. In China, the principal producing region is Yunnan province, followed by Shanxi province. It is also found in Sichuan, Guizhou, Jiangxi, Guangdong, Shaanxi, Hunan, and Gansu provinces. Historically, the Ben Cao Tu Jing noted that particularly fine specimens came from Xinzhou (信州, modern Shangrao area) in Jiangxi, where it formed naturally in copper mines. The Tian Gong Kai Wu also recorded production from Jinzhou and Xizhou in Shanxi. Today, most commercially available Dan Fan is synthetically produced by reacting sulfuric acid with copper metal or copper oxide, rather than being mined from natural deposits.
+- **Quality Indicators**: Good quality Dan Fan should be in large, intact crystalline blocks with a deep blue colour, semi-transparent to transparent, with a vitreous (glassy) lustre. It should be brittle and easy to break, with the broken surfaces showing the same blue colour throughout. There should be no odour, and the taste should be distinctly astringent (涩). Avoid specimens that have extensive white or greenish-white powdery coating on the surface, which indicates excessive weathering (loss of crystallization water). Specimens with mixed colours, impurities, or dull lustre are of inferior quality. When heated, authentic Dan Fan turns white (losing water of crystallization) and returns to blue when water is added, which serves as a simple authentication test.
+
+### Identity & Adulterants
+Dan Fan (copper sulfate/chalcanthite) can be confused with or substituted by several related mineral substances:
+1. Zao Fan (皂矾, green vitriol/ferrous sulfate, FeSO₄·7H₂O): The Tian Gong Kai Wu records that high-quality Zao Fan was sometimes passed off as genuine Shi Dan (Dan Fan). Zao Fan is green in colour rather than blue, and does not produce a copper colour when rubbed on iron.
+2. Bai Fan (白矾, alum/potassium aluminum sulfate): While both are sulfate minerals used in TCM, Bai Fan is colourless to white and does not contain copper. Its functions partially overlap but differ significantly.
+3. Synthetically produced copper sulfate: Most modern commercial Dan Fan is artificially produced rather than naturally mined. While chemically identical (CuSO₄·5H₂O), natural specimens from copper mines may contain trace impurities from associated minerals like azurite (蓝铜矿) or malachite (孔雀石). The Tang Ben Cao authentication test (rubbing on iron to produce copper colour) can verify the presence of copper.
+4. Lan Tong Kuang (蓝铜矿, azurite): As Dan Fan commonly co-occurs with azurite in copper deposits, fragments of azurite might be mixed with Dan Fan. Azurite is a carbonate mineral (not a sulfate), is not water-soluble, and is much harder.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+#### Ben Cao Gang Mu (《本草纲目》, Li Shizhen)
+- **Original**: 
+- **Translation**: 
+
+#### Yi Lin Zuan Yao (《医林纂要》)
+- **Original**: 
+- **Translation**: 
+
+#### Ben Cao Shu (《本草述》, quoting Lou Quanshan)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Dan Fan has one of the longest documented histories of any mineral medicine in Chinese pharmacology. It was first recorded in the Shen Nong Ben Cao Jing (《神农本草经》) under the name Shi Dan (石胆, "stone gall"), classified among the upper-grade minerals. The Wu Pu Ben Cao (《吴普本草》) records divergent opinions on its nature among ancient authorities: Shen Nong considered it sour and slightly cold, Li Shi called it greatly cold, Tong Jun described it as acrid and toxic, while Bian Que called it bitter and non-toxic. This range of historical opinions reflects the challenge of classifying such a potent mineral substance.
+The Tang Ben Cao (《唐本草》) provided a key authentication method: genuine Dan Fan is found where copper is present, resembles Zeng Qing (azurite) with mixed green colouration, has an extremely sour-bitter taste, and when rubbed on iron, produces a copper colour. This last test reflects the chemical displacement reaction (iron replacing copper from solution), a phenomenon that the Song Dynasty scientist Shen Kuo (沈括) described in the Meng Xi Bi Tan (《梦溪笔谈》) as "boiling Dan Fan produces copper." This principle was the basis of early hydrometallurgical copper extraction in China, one of the world's earliest applications of solution chemistry in metallurgy.
+The Tian Gong Kai Wu (《天工开物》) by Song Yingxing (Ming Dynasty) detailed how Dan Fan could be obtained naturally from cave deposits in Shanxi (appearing green with a jewel-like lustre) or formed as a secondary product from sulfur-smelting waste exposed to rainwater. A famous literary connection: in the Romance of the Three Kingdoms, the "Mute Spring" (哑泉) that poisoned Zhuge Liang's soldiers during the Southern Campaign was traditionally said to contain dissolved Dan Fan.
+
+### Modern Scientific Research
+1. **[Subchronic toxicity of cupric sulfate administered in drinking water and feed to rats and mice (Animal study, 1993)](https://pubmed.ncbi.nlm.nih.gov/12209195/)**
+   *Journal: Hebert C. NTP Technical Report on the Toxicity Studies of Cupric Sulfate. Toxicity Report Series, 1993 Jul; 29:1-D3.*
+   This NTP study evaluated the effects of chronic low-level copper sulfate exposure in rats and mice. At high doses, copper sulfate caused liver and kidney toxicity as well as microcytic anemia, with rats being more sensitive than mice. Low concentrations (100-300 ppm in drinking water) produced no ill effects, while concentrations of 3,000-30,000 ppm were lethal.
+
+2. **[Complications and management of acute copper sulphate poisoning: a case discussion (Case report/review, 2011)](https://pubmed.ncbi.nlm.nih.gov/22152876/)**
+   *Journal: Defined author not clearly extractable. Journal of Occupational Medicine and Toxicology, 2011; 6:34.*
+   This review documents that ingestion of more than 1g of copper sulfate produces toxicity symptoms. The main complications include intravascular hemolysis, methemoglobinemia, acute kidney injury, and rhabdomyolysis. The lethal dose is estimated between 10-20g. Management involves absorption reduction, chelation therapy (penicillamine), and supportive care.
+
+3. **[A fatal and deceiving case of copper sulphate poisoning (Case report, 2018)]()**
+   *Journal: Authors from PMC. Published in case reports journal, 2018.*
+   This case report describes a fatal case of intentional copper sulfate ingestion in a 26-year-old male. Despite initial stable presentation, the patient developed severe intravascular hemolysis, methemoglobinemia, and acute kidney injury. The report highlights copper sulfate as a powerful oxidizing agent causing widespread cellular damage through free radical injury, and emphasizes that almost all organ systems can be affected.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/dan-fan](https://www.meandqi.com/knowledge-base/herbs/dan-fan)*

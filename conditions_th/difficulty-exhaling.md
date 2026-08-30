@@ -1,0 +1,233 @@
+# หายใจออกลำบาก (呼多吸少)
+**คำอ่านพินอิน**: hū duō xī shǎo | **ประเภท**: Symptom | **หมวดหมู่**: การหายใจผิดปกติ, สภาพปอดและการหายใจ  
+**ชื่อเรียกอื่นๆ**:  | **บริเวณร่างกาย**: Chest
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+บริเวณที่คุณรู้สึกถึงความไม่หายใจ - ที่หน้าอก ลำคอ หรือหลังส่วนล่าง - และสิ่งที่ทำให้ดีขึ้นหรือแย่ลงเผยให้เห็นว่าระบบอวัยวะใดต้องการการสนับสนุน ผู้ป่วยส่วนใหญ่สังเกตเห็น...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In conventional medicine, difficulty exhaling is most often associated with obstructive lung conditions such as asthma, chronic obstructive pulmonary disease (COPD), or bronchitis. The sensation of being unable to push all the air out happens when the airways narrow, become inflamed, or lose their elastic recoil, trapping stale air in the lungs. Diagnosis typically involves spirometry, imaging, and a review of symptoms like wheezing, chest tightness, and cough.
+The focus is on identifying the structural or inflammatory cause: airway hyperresponsiveness in asthma, alveolar damage in emphysema, or mucus hypersecretion in chronic bronchitis. Treatment aims to open the airways and reduce inflammation, but the underlying susceptibility often remains unaddressed.
+
+### การรักษาหลัก (Treatments)
+Standard treatment usually includes bronchodilators (short-acting for quick relief, long-acting for maintenance), inhaled corticosteroids to reduce airway inflammation, and in some cases oral steroids or biologic therapies. Pulmonary rehabilitation, breathing exercises, and lifestyle changes like smoking cessation are also key components. For acute exacerbations, antibiotics or oxygen therapy may be added.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, breathing is a partnership between the Lungs and the Kidneys. The Lungs govern respiration: they take in clear Qi and push used Qi downward. But the Kidneys must grasp that Qi and pull it deep into the body, like an anchor holding a ship steady. When the Kidneys are weak, they cannot anchor the breath, so inhalation stays shallow and exhalation becomes prolonged and effortful. This is why lower back soreness and cold feet often accompany the breathlessness - the root is below.
+The Lungs themselves can also be too weak to descend properly. In Lung Qi Deficiency, every breath feels shallow and rapid, as if you're breathing out more than you're breathing in, and the voice is soft, the body easily fatigued. Meanwhile, emotional tension - frustration, stress, or bottled-up anger - can cause Liver Qi to surge upward instead of flowing smoothly. That upward rush presses against the diaphragm, making it hard to take a deep breath and creating a sensation of chest tightness with frequent sighing.
+Finally, when Dampness and Phlegm accumulate in the Lungs - often from a diet rich in cold, greasy, or dairy-heavy foods - they form a sticky obstruction. This narrows the airways, making inhalation labored and exhalation feel rattling and prolonged. Each of these four patterns produces a similar symptom - difficulty exhaling - but through a completely different internal dynamic, which is why TCM treatment must be precisely matched to the pattern.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+When someone experiences difficulty exhaling (呼多吸少, hū duō xī shǎo), a TCM practitioner first listens to the quality of the breath and asks about associated sensations. The key question is whether the struggle lies more with getting air in or pushing it out, and what other body signals accompany the breathing trouble. These clues point toward the underlying imbalance.
+If the person feels that air never quite reaches the depths of the body and the lower back or knees feel weak and cold, the pattern is likely Kidneys failing to receive Qi. The tongue is pale with a thin coating, and the pulse feels deep and thin. This pattern reflects a deep energetic deficit: the Kidneys cannot grasp the Qi and pull it downward, so inhalation stays shallow and exhalation becomes prolonged.
+When the breathing is shallow and rapid but the main complaint is overall fatigue, a quiet voice, and a tendency to catch colds easily, Lung Qi Deficiency is the more probable picture. The tongue is pale with a thin white coat, and the pulse is weak. Here the Lungs lack the strength to properly descend and distribute Qi, making every breath feel effortful and incomplete.
+If the breathing difficulty flares up or worsens with emotional stress and is accompanied by a feeling of distension or tightness in the chest and rib cage, Rebellious Liver Qi is a strong suspect. The tongue may be normal or slightly red on the sides with a thin white coating, and the pulse is wiry. Emotional upset drives Liver Qi upward, which blocks the Lung’s natural downward movement, creating the sensation of breathing out more than breathing in.
+When the breathing feels obstructed and heavy, with a sensation of mucus or phlegm sitting in the chest, Damp-Phlegm in the Lungs is the likely pattern. The cough brings up sticky white sputum, the tongue coating is thick and greasy, and the pulse is slippery. The phlegm creates physical resistance that makes inhalation harder and prolongs exhalation, giving the characteristic “more out than in” rhythm.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「肺主出气，肾主纳气。」
+> 
+> **คำแปลภาษาอังกฤษ**: "The Lungs govern the exhalation of Qi; the Kidneys govern the reception of Qi. When the Kidneys are insufficient, Qi cannot be grasped and rooted, so exhalation becomes easy and inhalation difficult - the hallmark of 呼多吸少."
+> 
+> — แหล่งที่มา: *Huang Di Nei Jing (Su Wen)  ,  Chapter 5, The Great Treatise on the Manifestations of Yin and Yang 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Kidneys failing to receive Qi
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidneys-failing-to-receive-qi)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Exhaling feels long, inhaling feels short and insufficient, Lower back soreness and weak knees, Fatigue and spontaneous sweating with exertion, Quiet, weak voice
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overexertion and physical strain, Cold weather or drafts, Cold, raw foods and iced drinks, Chronic illness or prolonged coughing
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and warmth, Warm, cooked foods, Gentle breathing exercises, Moxibustion on lower back
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Kidneys are meant to grasp and anchor Qi, pulling each breath deep into the body. When Kidney Qi is weak, this anchoring fails, so inhalation becomes shallow and incomplete. The Lungs then work harder to push air out, making exhalation feel long and forced while inhalation feels short and insufficient - the classic 'more out than in' breathing.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, puffy, with teeth marks and a thin white moist coating. Pulse: Deep and weak, especially feeble in the chi (rear) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Qi is depleted by overwork, cold, and long-standing illness, which weaken its ability to anchor the breath. Warmth, rest, and nourishing foods rebuild that foundational energy, while breathing exercises directly train the Kidneys' grasping function. Moxibustion warms and strengthens the lower back, reinforcing Kidney Yang so inhalation can deepen naturally.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, nourishing foods like lamb, walnuts, black beans, and ginger. Avoid cold, raw, and icy foods. Gentle abdominal breathing exercises train the diaphragm and help the Kidneys grasp Qi. Keep the lower back warm and use moxibustion on the lower abdomen and back regularly.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Gui Shen Qi Wan](https://www.meandqi.com/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1)** | Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire | Warms and tonifies Kidney Yang, enabling the Kidneys to grasp Qi and anchor the breath - the standard formula for this pattern when signs are cold and deficient. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ge Jie](https://www.meandqi.com/knowledge-base/herbs/ge-jie)** | Tokay Gecko |  | Warms the Kidneys and strongly grasps Qi, helping to anchor the breath and relieve wheezing. |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry |  | Astringes Lung Qi and prevents leakage, supporting deeper inhalation and reducing excessive exhalation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Qi and strengthens the back, addressing the root deficiency. |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Regulates Lung Qi and promotes its descent, helping to balance the breathing cycle. |
+| **EX-B-1** | [Dingchuan EX-B-1](https://www.meandqi.com/knowledge-base/acupuncture/dingchuan-ex-b-1) | D&#xEC;ng Chu&#x1CE;n | Calms dyspnoea and wheezing | Empirical point to calm wheezing and ease difficult exhalation. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Source point of the Kidney channel to reinforce Kidney essence and support Qi reception. |
+
+---
+
+### Lung Qi Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/lung-qi-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Shortness of breath worsened by exertion, Weak voice and reluctance to speak, Spontaneous daytime sweating, Frequent colds and sensitivity to wind, Fatigue and tiredness, Clear, thin, watery phlegm
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Physical overexertion, Cold air or drafts, Catching a cold, Talking too much, Damp or raw foods
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and lying down, Warm drinks and soups, Sitting upright with support, Gentle deep breathing
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Lungs govern respiration and are responsible for inhaling clear Qi and exhaling waste Qi. When Lung Qi is deficient, the Lungs lack the strength to pull air in deeply, so breathing becomes shallow and rapid. This weakness makes it feel as though you are breathing out more than you are breathing in, because the inhalation phase is too feeble to balance the exhalation.
+The Lungs also descend Qi downward; when they are too weak to perform this descending action properly, the breath stays stuck in the upper chest, leaving you short of breath and easily winded by activity.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, tender body, possible teeth marks, thin white coating. Pulse: empty or weak, especially weak at the right Cun position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Lung Qi deficiency means the Lungs lack the power to breathe deeply and defend the body. Exertion and talking drain Qi further, making breathlessness worse, while rest and stillness conserve it. Cold and damp constrict Qi and injure the Lungs, whereas warmth and gentle breathing exercises help open the chest and support Qi flow. Protecting the body from wind and avoiding raw foods reduce the burden on the weakened Lungs, allowing them to recover.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups and stews, and include Qi-supporting ingredients such as oats, sweet potato, and small amounts of ginger. Avoid cold, raw foods and icy drinks, which can further weaken Lung Qi. Gentle, regular movement like walking or tai chi is helpful, but stop before you feel breathless. Practice slow, deep breathing to gradually strengthen the Lungs, and protect your neck and chest from wind and cold.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Fei Tang](https://www.meandqi.com/knowledge-base/formulas/bu-fei-tang)** | Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE | Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough | The primary formula to tonify Lung Qi, relieve shortness of breath, and stop spontaneous sweating. |
+| **[Yu Ping Feng San](https://www.meandqi.com/knowledge-base/formulas/yu-ping-feng-san)** | Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE | Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating | Used alongside to strengthen the exterior, reduce sensitivity to wind, and prevent frequent colds. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Lung Qi and stabilizes the exterior to reduce sweating and cold susceptibility. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Supplements the Lungs and Spleen to generate Qi and relieve fatigue. |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry |  | Astringes Lung Qi to stop the leakage of Qi through excessive exhalation and sweating. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Tonify. Directly strengthens Lung Qi and improves respiratory function. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonify. Builds overall Qi and supports the Lungs through the Spleen. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | Tonify. Descends Lung Qi and opens the chest to ease breathing. |
+| **LU-9** | [Taiyuan LU-9](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9) | T&#xE0;i Yu&#x101;n | Clears Phlegm, Descends Lung Qi | Tonify. The Yuan-source point of the Lung channel, deeply tonifies Lung Qi. |
+
+---
+
+### Rebellious Liver Qi
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/rebellious-liver-qi)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Breathlessness with chest distension or tightness, Frequent sighing, Irritability and emotional sensitivity, Belching or hiccups, Worse with stress and anger
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Stress, anger, frustration, Alcohol, Greasy or spicy meals, Hot, stuffy rooms, Overwork and lack of sleep
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Calm, quiet environment, Deep, slow breathing, Sour foods and drinks, Gentle stretching or sighing, Cool, fresh air
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Normally, Liver Qi flows smoothly upward and outward, and Lung Qi descends to keep breathing deep and even. When stress, frustration, or bottled-up anger disrupt this balance, the Liver Qi stagnates and then surges upward too strongly. This upward rush presses against the diaphragm and chest, blocking the Lung's ability to descend. The result is a tight, constricted breath where exhaling feels forced and prolonged, often with a sensation of not being able to get all the air out.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal or slightly red on the sides, thin white coating. Pulse: wiry (弦 xián), especially at the left middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress is the main driver of this pattern - it makes Liver Qi surge upward, blocking the Lung's descent and causing that tight, forced exhalation. Calming the mind and body allows the Liver Qi to settle, while sour tastes naturally astringe and restrain the upward rush. Greasy, spicy food and alcohol generate heat and stagnation that further agitate the Liver, so avoiding them prevents the cycle from worsening. Gentle movement and deep breathing help Qi flow in the right direction, easing the breath.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat light, easily digestible meals and steer clear of greasy, fried, or spicy foods that can stir up Liver Qi. Sour flavors like lemon water or a splash of vinegar in cooking help astringe and restrain the upward surge. Gentle movement like walking, Tai Chi, or yoga keeps Qi circulating. Make time to unwind each day - journaling, deep breathing, or listening to calming music can help release emotional tension before it builds.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | Smooths Liver Qi, relieves chest oppression, and redirects the upward surge so the Lungs can descend freely. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Soothes Liver Qi stagnation and guides the Qi back to its proper path. |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome |  | Regulates Qi and relieves the distension and tightness in the chest and ribs. |
+| **[Zhi Ke](https://www.meandqi.com/knowledge-base/herbs/zhi-ke)** | Bitter orange fruit |  | Descends Qi and helps open the chest to ease exhalation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Subdues rising Liver Qi and releases pent-up emotional tension. |
+| **GB-34** | [Yanglingquan GB-34](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34) | Y&#xE1;ng L&#xED;ng Qu&#xE1;n | Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder | Harmonizes the Liver and Gallbladder, helping Qi flow smoothly through the chest. |
+| **REN-17** | [Shanzhong REN-17](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17) | Sh&#x101;n Zh&#x14D;ng | Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi | Opens the chest and directs rebellious Qi downward, easing the sensation of breathlessness. |
+
+---
+
+### Damp-Phlegm in the Lungs
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-phlegm-in-the-lungs)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cough with copious white sticky phlegm that is easy to bring up, Chest congestion and heaviness, Audible phlegm rattling or wheezing in the throat, Poor appetite, nausea, or abdominal bloating, Fatigue and heavy body sensation
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp weather, Overeating or heavy, greasy meals, Dairy and cold raw foods, Lack of physical activity
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm, dry environment, Light walking or gentle movement, Eating radish, ginger, or lightly cooked pears, Avoiding dairy, sweets, and greasy foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Dampness and Phlegm accumulate in the Lungs, they form a sticky obstruction that physically narrows the airways. This makes it difficult for fresh air to be drawn in, so inhalation becomes shallow and labored. Exhalation, though still possible, feels prolonged and excessive relative to the weak intake, creating the sensation of breathing out more than breathing in.
+The chest feels heavy and congested, and you may hear rattling or wheezing as air struggles past the phlegm.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen body with teeth marks, thick white greasy coating, excessively moist surface. Pulse: slippery (滑, huá), like beads rolling; may also feel soggy.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Damp-Phlegm is a sticky, heavy pathogenic factor formed when the Spleen fails to transform fluids. Cold, raw, and greasy foods overwhelm the Spleen and create more Dampness, worsening the obstruction. Warm, dry conditions and light movement help the Spleen function and promote the flow of Qi, which disperses Dampness and clears the airways. Herbs and foods like radish and ginger break down phlegm and direct Lung Qi downward, making breathing easier.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw, greasy, and dairy foods that generate Dampness and Phlegm. Focus on warm, cooked meals with ingredients like radish, ginger, and lightly cooked pears. Gentle daily movement such as walking helps circulate Qi and prevent stagnation.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/er-chen-tang)** | Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE | Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting | The foundational formula to dry Dampness and transform Phlegm in the Lungs. |
+| **[San Zi Yang Qin Tang](https://www.meandqi.com/knowledge-base/formulas/san-zi-yang-qin-tang)** | Three-Seed Decoction to Nourish One&#x27;s Parents &#xB7; Ming dynasty, 1522 CE | Warm, Warms the Lungs and Transforms Phlegm-Fluids, Descends Qi, Stops Cough and Calms Wheezing | Often added to direct rebellious Lung Qi downward and dissolve stubborn phlegm. |
+| **[Jin Gui Shen Qi Wan](https://www.meandqi.com/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1)** | Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire | A classical formula that gently warms and supports the Kidneys to restore vitality, fluid balance, and lower body warmth. It is used for people with Kidney weakness who experience lower back soreness, cold legs, frequent urination or difficulty urinating, and general fatigue. Unlike strong warming formulas, it uses a small amount of warming herbs alongside a larger base of nourishing ingredients, working gradually to restore the body&#x27;s natural balance. |
+| **[Bu Fei Tang](https://www.meandqi.com/knowledge-base/formulas/bu-fei-tang)** | Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE | Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough | A classical formula designed to strengthen weak lungs and support breathing. It is used for people with a long-standing weak cough, shortness of breath, a quiet or feeble voice, and a tendency to sweat easily, all signs that the Lung&#x27;s Qi has become depleted over time. |
+| **[Yu Ping Feng San](https://www.meandqi.com/knowledge-base/formulas/yu-ping-feng-san)** | Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE | Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating | A simple but highly valued three-herb formula used to strengthen the body&#x27;s natural defenses against colds, flu, and allergies. It is especially helpful for people who catch colds easily, sweat spontaneously, or have a generally weak constitution. The name &quot;Jade Windscreen&quot; reflects its role as a precious shield against illness-causing pathogens. |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints. |
+| **[Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/er-chen-tang)** | Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE | Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting | A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged. |
+| **[San Zi Yang Qin Tang](https://www.meandqi.com/knowledge-base/formulas/san-zi-yang-qin-tang)** | Three-Seed Decoction to Nourish One&#x27;s Parents &#xB7; Ming dynasty, 1522 CE | Warm, Warms the Lungs and Transforms Phlegm-Fluids, Descends Qi, Stops Cough and Calms Wheezing | A gentle, three-herb formula made entirely from common plant seeds, originally created to help elderly parents suffering from chronic cough with heavy phlegm, chest congestion, and poor digestion. It works by dissolving accumulated phlegm in the chest, calming rebellious Qi that causes coughing and wheezing, and improving digestion to stop new phlegm from forming. Despite its simplicity, it remains one of the most widely used formulas for phlegm-related respiratory conditions. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries Dampness and transforms Phlegm, the chief herb for phlegm-cold patterns. |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel |  | Regulates Qi and dries Dampness, helping to break up chest congestion. |
+| **[Zi Su Zi](https://www.meandqi.com/knowledge-base/herbs/zi-su-zi)** | Perilla seed |  | Descends Lung Qi and dissolves phlegm, relieving wheezing and breathlessness. |
+| **[Ge Jie](https://www.meandqi.com/knowledge-base/herbs/ge-jie)** | Tokay Gecko | Neutral, Tonifies Lung Qi, Assists Yang, Aids the Kidneys in Grasping Qi |  |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry | Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome | Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain |  |
+| **[Zhi Ke](https://www.meandqi.com/knowledge-base/herbs/zhi-ke)** | Bitter orange fruit | Slightly Cool, Regulates Qi and Broadens the Middle Burner, Moves Qi and Resolves Stagnation, Transforms Phlegm and Dissipates Nodules |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel | Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner |  |
+| **[Zi Su Zi](https://www.meandqi.com/knowledge-base/herbs/zi-su-zi)** | Perilla seed | Warm, Descends Qi and Transforms Phlegm, Stops Cough and Calms Wheezing, Moistens the Intestines and Unblocks the Bowels |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Regulates Lung Qi and relieves coughing and chest oppression. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point for transforming Phlegm and Dampness throughout the body. |
+| **EX-B-1** | [Dingchuan EX-B-1](https://www.meandqi.com/knowledge-base/acupuncture/dingchuan-ex-b-1) | D&#xEC;ng Chu&#x1CE;n | Calms dyspnoea and wheezing | Specifically calms wheezing and breathlessness. |
+| **REN-17** | [Shanzhong REN-17](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17) | Sh&#x101;n Zh&#x14D;ng | Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi | Opens the chest and assists the downward flow of Lung Qi. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### What does it mean if I feel like I can't breathe out all the way?
+In TCM, that sensation often points to the Kidneys failing to anchor the breath. The Kidneys are meant to pull Qi downward, so when they are weak, inhalation stays shallow and exhalation feels prolonged. It can also signal Lung Qi Deficiency, where the Lungs lack the strength to descend fully. A practitioner will check your tongue and pulse and ask about other symptoms - like lower back pain or fatigue - to pinpoint the exact pattern.
+
+### Can TCM help with shortness of breath from anxiety?
+Yes, especially when the pattern is Rebellious Liver Qi. Anxiety, stress, and frustration cause Liver Qi to surge upward, pressing against the chest and making it hard to take a deep breath. Acupuncture and herbs that smooth the flow of Liver Qi can bring rapid relief, often within a few sessions. You may also notice that frequent sighing decreases and your chest feels less tight.
+
+### Is acupuncture safe for breathing problems?
+Acupuncture is very safe when performed by a trained professional. Points on the back, chest, and limbs are used to open the airways, calm the breath, and strengthen the Lungs and Kidneys. The needles are hair-thin and insertion is usually painless. If you have a severe or unstable respiratory condition, always inform your practitioner beforehand and continue any prescribed medications.
+
+### Will I need to take herbs forever?
+No. Herbal formulas are typically taken daily for several weeks to several months, depending on the pattern. Once your breathing stabilizes and the underlying imbalance is corrected, the formula may be reduced, stopped, or replaced with a milder maintenance formula. The goal is to restore your body's own ability to breathe deeply, not to rely on herbs indefinitely.
+
+### Can I use TCM alongside my inhaler or other medications?
+Absolutely. TCM can complement conventional treatments. Never stop or adjust your prescribed medications without consulting your doctor. Some herbs may interact with blood thinners or sedatives, so always bring a full list of your medications to your TCM practitioner. Coordination between your healthcare providers ensures safety and the best results.
+
+### What foods should I avoid if I have difficulty exhaling?
+Cold, raw foods and dairy products tend to generate Phlegm and Dampness, which can worsen breathing. Greasy, fried, and heavily processed foods are also best avoided. Instead, focus on warm, cooked meals - soups, stews, and steamed vegetables - that support the Lungs and Kidneys. Ginger, pear, and almond are particularly helpful.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Acupuncture for stable chronic obstructive pulmonary disease: a systematic review and meta-analysis**
+   *วารสารวิชาการ: Liu J, et al. BMJ Open. 2020;10:e034478.*
+   This meta-analysis of 12 RCTs found that acupuncture significantly improved dyspnoea scores and 6-minute walk distance in patients with stable COPD compared to usual care or sham acupuncture. The benefits were most pronounced for breathlessness, suggesting acupuncture may be particularly helpful for patients whose primary complaint is difficulty breathing out.
+
+2. **Chinese herbal medicine for chronic obstructive pulmonary disease: a systematic review**
+   *วารสารวิชาการ: Chen Y, et al. J Altern Complement Med. 2014;20(2):79-86.*
+   This systematic review evaluated 28 RCTs of Chinese herbal formulas for COPD. Formulas that tonify Lung and Kidney Qi - such as variations of Bu Fei Tang and Jin Gui Shen Qi Wan - showed statistically significant improvements in FEV1 and symptom scores compared to placebo or conventional medication alone. The authors noted moderate methodological quality and called for larger trials.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/difficulty-exhaling)*

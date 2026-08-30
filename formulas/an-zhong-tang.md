@@ -1,0 +1,63 @@
+# An Zhong Tang (安中汤)
+**English Name**: Calm the Middle Decoction  
+**Category**: Interior-warming formulas, Qi-regulating formulas  
+**Dynasty/Source**: Tai Ping Hui Min He Ji Ju Fang (太平惠民和剂局方)  
+**Temperature**: Warm | **Form**: Powder (San)
+
+---
+
+## Summary
+A classical warming formula for stomach and abdominal pain caused by internal Cold. It is especially suited for people with chronic digestive discomfort, acid regurgitation, nausea, bloating, and poor appetite due to Cold lodged in the digestive system. It is also traditionally used for menstrual pain caused by Cold and Blood stagnation.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Warms the Interior and Dispels Cold, Moves Qi and Alleviates Pain, Dries Dampness, Promotes Digestion and Resolves Food Stagnation, Strengthens the Spleen and Harmonizes the Middle
+- **Therapeutic Focus**: Digestive Health, Stomach Pain Relief, Menstrual Pain Relief, Acid Reflux Relief
+- **Target Organs**: Spleen, Stomach
+- **Patterns Addressed**: 
+- **Conditions Treated**: Chronic Gastritis, Amenorrhea, Acid Reflux, Peptic Ulcer, Dyspepsia, Gastric Neurosis, Nausea, Gastroptosis
+- **Other Names**: An Zhong Tang (安中汤), Calm the Middle Formula, An Zhong San
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Gao Liang Jiang** | Lesser galangal rhizome | *King* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach | The primary warming herb in the formula. Gao Liang Jiang powerfully warms the Middle Burner and dispels Cold from the Stomach, directly addressing the core pathology of Cold stagnation causing epigastric pain. Its acrid, hot nature drives out deeply lodged Cold and stops pain. |
+| **Rou Gui** | Cinnamon bark | *Deputy* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Reinforces the King herb's warming action and extends it to the Kidney Yang. Rou Gui warms the interior, promotes Qi and Blood circulation through the channels, and helps dispel deep-seated Cold. It strengthens the Spleen's transformative function and enhances the overall warming effect of the formula. |
+| **Yan Hu Suo** | Corydalis rhizome | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Spleen | A key pain-relieving herb that moves both Qi and Blood. Yan Hu Suo can penetrate Qi-level stagnation within the Blood and Blood-level stagnation within the Qi, making it highly effective for all types of internal pain. It works synergistically with the warming herbs to resolve Cold-induced pain. |
+| **Gan Jiang** | Dried ginger rhizome | *Assistant* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Assists the King herb in warming the Middle Burner and supports the Spleen Yang. Gan Jiang warms the interior, rescues depleted Yang, and transforms retained thin fluids (Yin) in the Stomach and Spleen that result from Cold stagnation. It also helps stop nausea and vomiting. |
+| **Xiao Hui Xiang** | Fennel fruit | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Kidneys, Spleen, Stomach | Warms the Middle Burner, regulates Qi flow, and relieves pain. Its aromatic nature helps arouse the Spleen and promote smooth Qi movement in the digestive tract, reducing bloating, distension, and Qi stagnation that accompanies Cold accumulation. |
+| **Mu Li Ke** | Oyster shell | *Assistant* | 3 - 5g | Temp: Slightly Cool<br>Taste: Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Liver, Gallbladder, Kidneys | Serves a restraining role in the formula. Mu Li softens hardness, disperses nodules, and importantly neutralizes excess stomach acid (制酸). Its salty, astringent nature counterbalances the many acrid, warm herbs and prevents the formula from being overly drying or scattering. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 9g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes all the herbs in the formula. Its sweet flavor relaxes spasm and urgency in the Stomach and abdomen, directly easing cramping pain. Gan Cao also tonifies the Middle Burner Qi and moderates the strongly warming and moving actions of the other herbs. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. The formula contains San Leng (Sparganium rhizome) and E Zhu (Curcuma zedoaria rhizome), both classified as blood-breaking and mass-dissolving herbs. These substances are traditionally listed among herbs that are forbidden during pregnancy due to their strong ability to move Blood and break accumulations, which poses a risk of stimulating uterine contractions and potentially causing miscarriage. Additionally, the formula's overall strongly warming and dispersing nature may disturb the fetus. Pregnant women experiencing similar symptoms of Cold in the Middle Burner should use alternative, pregnancy-safe formulas under professional guidance.
+
+### Breastfeeding
+Use with caution during breastfeeding. While the formula does not contain herbs with well-documented toxicity that transfers into breast milk, several of its components warrant care. San Leng and E Zhu are potent blood-moving herbs whose effects on lactation and breast milk composition have not been studied. The formula's strongly warming and drying nature could theoretically affect milk quality or reduce milk production in some individuals by consuming Yin fluids. If a breastfeeding mother has a clear Cold-Dampness pattern requiring this formula, it should be prescribed at reduced dosages and for the shortest effective duration, under the supervision of a qualified practitioner.
+
+### Children
+An Zhong Tang is not commonly used in pediatric practice and should be approached with significant caution in children. The formula contains San Leng and E Zhu, which are strong blood-moving herbs generally considered too forceful for children's delicate constitutions. If a child presents with Cold in the Middle Burner and food stagnation, milder alternatives (such as Xiao Jian Zhong Tang for Cold pain, or Bao He Wan for food stagnation) are usually preferred. If this formula is deemed necessary by a qualified practitioner for an older child (over 12), dosages should be reduced to one-third to one-half of the adult dose, and duration should be limited. Not recommended for infants or young children.
+
+### Drug Interactions
+Gan Cao (Licorice): Glycyrrhizin in licorice may interact with corticosteroids (potentiating their effects), antihypertensive medications (licorice can cause sodium retention and potassium loss, counteracting blood pressure lowering), digoxin and cardiac glycosides (hypokalemia from licorice increases the risk of toxicity), and diuretics (additive potassium depletion with thiazides or loop diuretics).
+San Leng and E Zhu (blood-moving herbs): These herbs have anticoagulant and antiplatelet properties and may interact with warfarin, heparin, aspirin, clopidogrel, and other anticoagulant or antiplatelet medications, increasing the risk of bleeding. Patients on blood-thinning medications should avoid this formula or use it only with close medical supervision and monitoring of coagulation parameters.
+General warming herbs (Gao Liang Jiang, Gan Jiang, Cao Guo): These may theoretically affect the absorption rate of concurrently administered oral medications by altering gastrointestinal motility and blood flow. It is advisable to separate the timing of this formula from pharmaceutical medications by at least one to two hours.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: After meals, taken warm. Adding a small pinch of salt to the decoction is traditionally recommended to help direct the formula's action to the Middle and Lower Burners.
+- **Typical Duration**: Short-term use: typically 1–2 weeks for acute Cold-Stomach pain; reassess and discontinue or modify once symptoms resolve. Not intended for long-term continuous use due to its warming, drying, and blood-moving properties.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods (salads, sashimi, iced drinks, cold fruit) as these directly reintroduce Cold into the Middle Burner and counteract the formula's warming action. Avoid greasy, heavy, or excessively rich foods that burden an already struggling digestive system. Dairy products and excessive sweets should also be limited as they tend to generate Dampness. Favor warm, cooked, easily digestible foods such as congee (rice porridge), soups, steamed vegetables, and lightly spiced dishes. Small amounts of fresh ginger in cooking or as tea can complement the formula's warming effect. Eat regular, moderate-sized meals rather than large heavy ones.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/an-zhong-tang](https://www.meandqi.com/knowledge-base/formulas/an-zhong-tang)*

@@ -1,0 +1,241 @@
+# ตาเหล่ (斜视)
+**คำอ่านพินอิน**: xié shì | **ประเภท**: Symptom | **หมวดหมู่**: ปัญหาสายตาและการมองเห็น  
+**ชื่อเรียกอื่นๆ**: Abnormal Eye Alignment, Deviation Of The Eye, Eye Deviation, Squint, Convergent strabismus | **บริเวณร่างกาย**: Face — Periorbital
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ทิศทางและจังหวะการเบี่ยงเบนของดวงตา รวมถึงสัญญาณทั่วร่างกาย เช่น พลังงาน การย่อยอาหาร และรูปลักษณ์ของลิ้น เผยให้เห็นว่ารากอยู่ที่ตับ ม้าม ไต หรือ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Strabismus is a condition where the eyes do not align properly - one eye may turn inward (esotropia), outward (exotropia), upward, or downward while the other focuses on an object. It can be present from birth or develop later in life, and may be constant or intermittent. In conventional medicine, it is often caused by an imbalance in the extraocular muscles, problems with the nerves that control those muscles, or issues in the brain's visual processing centers.
+Diagnosis typically involves a comprehensive eye exam, including tests of visual acuity, eye movement, and depth perception. Treatment options range from corrective glasses and eye patching to strengthen the weaker eye, to vision therapy exercises, and in many cases, surgery to reposition the eye muscles.
+While these interventions can improve alignment, they often focus on the mechanical or neurological aspect without addressing systemic factors that may contribute to muscle weakness or coordination.
+
+### การรักษาหลัก (Treatments)
+Standard Western management includes prescription glasses to correct refractive errors that may trigger the misalignment, patching of the stronger eye to force the weaker eye to work harder, and orthoptic exercises to improve binocular vision. Botulinum toxin injections may temporarily weaken an overactive muscle.
+When non-surgical methods are insufficient, strabismus surgery is performed to adjust the tension or position of the extraocular muscles, often with good cosmetic results. However, multiple surgeries are sometimes needed, and the underlying tendency toward misalignment may persist.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the eyes are intimately connected to the internal organs, especially the Liver, Spleen, and Kidneys. The Liver opens into the eyes and governs the sinews, which include the tiny extraocular muscles that control eye movement. When Liver Blood is plentiful, these sinews are supple and well-nourished; when it is deficient, they become tight or slack, pulling the eye out of alignment.
+The Spleen governs the flesh and muscles throughout the body - if Spleen Qi is weak, the muscles lack the strength to hold the eye steady, leading to a drifting squint that worsens with fatigue.
+Kidney Essence is the blueprint for a person's physical development from conception. When it is inherently weak, the structures that support the eyes may be underdeveloped from birth, resulting in a childhood-onset strabismus that often comes with poor vision and a frail constitution. This pattern is fundamentally different from an adult-onset squint caused by overwork and poor diet, and requires a different treatment strategy.
+Finally, an acute invasion of Wind and Phlegm can suddenly disrupt the channels that supply the eye muscles, causing a rapid onset of double vision, limited eye movement, and a greasy tongue coating. This pattern is less common but often responds quickly to treatment once the pathogenic factors are cleared.
+By identifying which of these four patterns - Liver Blood Deficiency, Spleen Qi Deficiency, Kidney Essence Deficiency, or Wind-Phlegm - is dominant, a TCM practitioner can treat not just the eye, but the whole person.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner begins by asking when the eye deviation started and how it behaves. Sudden onset with double vision and limited movement points toward an acute channel invasion, while a gradual or lifelong squint suggests a deeper deficiency pattern rooted in the Liver, Spleen, or Kidney.
+If the eyes feel dry, light-sensitive, and the person is irritable with vivid dreams and a pale tongue, Liver Blood Deficiency is likely. The extraocular sinews are undernourished, causing the eye to drift. A thin, slightly wiry pulse supports this picture, and the practitioner looks for other blood-nourishing signs like pale nails.
+When the squint comes with weak, tired muscles, poor appetite, and a dull complexion, Spleen Qi Deficiency is the focus. The Spleen governs the flesh, so its weakness fails to hold the eye steady. The tongue is pale and puffy, the pulse weak, and the person often complains of general fatigue and loose stools.
+If the misalignment has been present since childhood, with poor vision, dizziness, and a history of bedwetting or slow development, Kidney Essence Deficiency is considered. The eyes are a flower of the Kidney essence; a congenital weakness leaves the supporting structures underdeveloped. The tongue may be pale with a red tip, and the pulse is thready and weak.
+A sudden, dramatic squint with double vision, head tilting, and nausea suggests Wind-Phlegm blocking the channels. This pattern is seen in paralytic strabismus. The tongue coating is thick and greasy, the pulse wiry and slippery. The practitioner checks for recent illness or exposure to wind that may have triggered the attack.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「风邪入于目，系目系急，故令目偏视。」
+> 
+> **คำแปลภาษาอังกฤษ**: "When wind evil invades the eye, it causes the eye connector to become tense, thus leading to eye deviation."
+> 
+> — แหล่งที่มา: *Zhu Bing Yuan Hou Lun (Treatise on the Origins and Symptoms of Diseases)  ,  Volume 28, Section on 'Eye Deviation' (目偏视) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Liver Blood Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-blood-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Dry, gritty, or tired eyes, Blurred or dim vision, especially at night, Pale face, lips, and brittle nails, Dizziness or lightheadedness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Stress or emotional upset, Overwork and lack of sleep, Excessive screen time, Dry, windy environments, Heavy menstrual bleeding
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and adequate sleep, Warm, nourishing meals, Closing eyes to rest them, Gentle massage around eyes, Warmth and avoiding cold drafts
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver stores Blood and opens into the eyes. When Liver Blood is insufficient, the extraocular muscles (which are a type of sinew governed by the Liver) are not properly nourished. They can become tight or slack, pulling the eye out of alignment and causing strabismus. This often comes with dry eyes, blurred vision, and a pale tongue, all signs of Blood deficiency.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale body, especially the sides, thin and slightly dry with a thin white coating. Pulse: Fine (xi) and choppy (se), often wiry at the left Guan position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Liver Blood is depleted by overwork, stress, and insufficient sleep, leaving the eye muscles undernourished. Rest and blood-building foods replenish this vital substance, while warmth and calm support the Yin and Blood. Dry, windy environments and screen time further dry out the eyes, worsening the deficiency.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat blood-nourishing foods like dark leafy greens, beets, black sesame, and small amounts of red meat or liver. Avoid excessive screen time and ensure adequate sleep to allow the Liver to store Blood. Gentle eye exercises can help, but avoid straining the eyes.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Gan Tang](https://www.meandqi.com/knowledge-base/formulas/bu-gan-tang)** | Tonify the Liver Decoction &#xB7; Q&#x12B;ng dynasty, 1742 CE | Slightly Warm, Nourishes Liver Blood, Softens and Relaxes the Sinews, Brightens the Eyes | Nourishes Liver Blood, improves vision, and relaxes the eye muscles-the classic formula for Blood-deficient strabismus. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes and invigorates Liver Blood, improving circulation to the eyes. |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Enriches Yin and Blood, essential for severe deficiency. |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit |  | Specifically benefits the eyes and nourishes Liver Blood. |
+| **[Bai Shao](https://www.meandqi.com/knowledge-base/herbs/bai-shao)** | White peony root |  | Softens the Liver and relaxes muscle spasms around the eye. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-18** | [Ganshu BL-18](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18) | G&#x101;n Sh&#x16B; | Resolves Damp-Heat, Invigorates Liver Qi and Blood | Directly tonifies Liver Blood and regulates the eyes. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Dispels wind and benefits the eyes, a key point for eye disorders. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the Shen and regulates blood flow. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen to generate more Blood. |
+
+---
+
+### Spleen Qi Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/spleen-qi-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Eye deviation worse with tiredness, Poor appetite and loose stools, Dull pale or yellowish complexion, Fatigue and heaviness in the limbs
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Worry and overthinking, Raw, cold, or greasy foods, Overeating, Overwork and fatigue
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and adequate sleep, Warm, easily digestible meals, Small frequent meals, Warmth on the abdomen
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen governs the flesh and muscles throughout the body, including the tiny extraocular muscles that move and hold the eyes. When Spleen Qi is deficient, these muscles become weak and lack the strength to keep the eye in proper alignment, causing it to drift inward or outward. This weakness often worsens with fatigue and improves after rest, and is accompanied by classic signs of digestive weakness like poor appetite and loose stools.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with tooth marks, thin white coating. Pulse: deficient, soft, and notably weak at the right middle position (Guan).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: The Spleen transforms food into Qi and blood, which nourish all muscles. It thrives on warmth, regularity, and moderate meals. Overwork, mental strain, and cold raw foods deplete Spleen Qi, directly weakening the eye muscles and causing the eye to deviate. Rest and warm, easily digested foods restore this Qi, helping the muscles regain enough tone to hold the eye straight.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups, stews, and congees, and avoid raw, cold, or greasy items that burden the Spleen. Eat at regular times and in moderate amounts, chewing well. Gentle daily movement like walking supports Qi circulation without depleting energy. Rest your eyes periodically and avoid prolonged screen time when fatigued.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shen Ling Bai Zhu San](https://www.meandqi.com/knowledge-base/formulas/shen-ling-bai-zhu-san)** | Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE | Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness | The primary formula to strengthen Spleen Qi and drain Dampness, often combined with Huang Qi and Fu Ling to reinforce the lifting action needed for the eye muscles. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | Lifts Spleen Qi and is especially appropriate when the eye deviation is accompanied by a sensation of heaviness and drooping. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Strongly tonifies Spleen Qi and lifts the clear Yang to the eyes. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Dries Dampness and strengthens the Spleen&#x27;s transforming function. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Leaches out Dampness and supports the Spleen without being cloying. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | The master point for tonifying Spleen Qi and overall energy, strengthening the muscles. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | The Back-Shu point of the Spleen, directly strengthens Spleen function. |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | The Front-Mu point of the Stomach, regulates the middle burner and supports digestion. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | A key point for head and eye disorders, helps guide Qi to the eyes and relax the muscles. |
+
+---
+
+### Kidney Essence Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-essence-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Eye deviation present since early childhood, Poor vision or thin refractive power, Dizziness and weak lower back and knees, Dark complexion and premature greying, Frequent nighttime urination or bedwetting, Fatigue and lack of vitality
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and fatigue, Late nights and poor sleep, Excessive sexual activity, Poor nutrition and cold raw foods
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and adequate sleep, Warm, nourishing meals, Gentle movement or exercise, Acupuncture and moxibustion
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Kidney Essence is the blueprint for a person's physical development from conception. When it is weak from birth, the structures that support the eyes-including the extraocular muscles-may be underdeveloped and lack the strength to hold proper alignment. This often results in a squint that appears in early childhood, accompanied by other signs of poor constitutional development such as weak bones, poor vision, and bedwetting.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, thin body with little or no coating, possible fine cracks. Pulse: deep, fine, and weak, especially at the rear (Kidney) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Essence is the body's most fundamental substance, governing growth and development. Overwork, lack of sleep, and poor nutrition deplete essence, weakening the muscles and sinews that control eye alignment. Rest, nourishing foods, and acupuncture replenish essence and strengthen the Kidney's ability to support the eyes.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Include kidney-nourishing foods like black sesame seeds, walnuts, goji berries, and bone broth. Avoid overwork, late nights, and excessive sexual activity, as these deplete essence. Gentle exercises like Tai Chi or Qi Gong help preserve vitality.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Liu Wei Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/liu-wei-di-huang-wan)** | Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE | Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow | The classic formula to nourish Kidney Yin and Essence; often combined with Bu Gu Zhi and Shan Zhu Yu to astringe essence and support eye muscle development. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Gu Zhi](https://www.meandqi.com/knowledge-base/herbs/bu-gu-zhi)** | Psoralea fruit |  | Tonifies Kidney Yang and secures essence, strengthening the foundation for eye muscle development. |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit |  | Nourishes Liver and Kidney and astringes essence, preventing leakage. |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit |  | Nourishes Liver and Kidney, brightens the eyes, and supports visual acuity. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Essence and strengthens the lower back, addressing the root deficiency. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Source point of the Kidney, nourishes essence and supports eye development. |
+| **BL-18** | [Ganshu BL-18](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18) | G&#x101;n Sh&#x16B; | Resolves Damp-Heat, Invigorates Liver Qi and Blood | Nourishes Liver Blood to support the sinews and eyes. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Benefits the eyes and head, often used with other points to correct eye deviation. |
+
+---
+
+### Wind-Phlegm
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/wind-phlegm)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Sudden onset of eye deviation, Double vision (diplopia), Restricted or limited eye movement, Dizziness or a spinning sensation, Copious white, frothy sputum, Feeling of heaviness in the head or body, Nausea or chest stuffiness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Exposure to wind and drafts, Cold and damp weather, Greasy, fried, or dairy-heavy foods, Overwork and fatigue, Stress or emotional upset
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest in a calm, draft-free room, Warm and dry weather, Light, easily digestible meals, Avoiding greasy and dairy foods, Gentle movement or exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Wind and Phlegm are two pathogenic forces that often combine to create sudden, obstructive illness. In strabismus, they invade the channels that supply the eye muscles, with Wind causing erratic, uncontrolled movement and Phlegm acting like a sticky, heavy blockage. This combination disrupts the smooth flow of Qi and blood, leaving the extraocular muscles unable to coordinate, which results in a sudden eye deviation, restricted movement, and double vision.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal or slightly pale body, may be swollen with teeth marks, white greasy coating. Pulse: wiry and slippery (弦滑, xián huá).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: External Wind and Dampness directly aggravate the Wind-Phlegm pattern, so a drafty or damp environment can trigger or worsen the eye deviation. Greasy and dairy foods create more Phlegm, adding to the obstruction. Rest and warmth help the body resolve Phlegm and calm internal Wind, while gentle movement keeps Qi moving so Phlegm cannot settle in the channels.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw, greasy, and dairy-heavy foods, which create more Phlegm. Favor warm, cooked meals with light grains, vegetables, and a little ginger or pepper to support digestion. Protect the face and neck from wind and drafts, especially during sleep. Gentle daily movement like walking or stretching helps keep Qi flowing and prevents Phlegm from stagnating.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Gan Tang](https://www.meandqi.com/knowledge-base/formulas/bu-gan-tang)** | Tonify the Liver Decoction &#xB7; Q&#x12B;ng dynasty, 1742 CE | Slightly Warm, Nourishes Liver Blood, Softens and Relaxes the Sinews, Brightens the Eyes | A classical formula designed to nourish Liver Blood and relax the tendons and muscles. It is used for people experiencing muscle weakness or spasms, blurred vision, numbness, and dizziness caused by insufficient Blood nourishing the Liver. Built on the famous Four Substances Decoction (Si Wu Tang) with added herbs to calm the mind and ease tight muscles. |
+| **[Shen Ling Bai Zhu San](https://www.meandqi.com/knowledge-base/formulas/shen-ling-bai-zhu-san)** | Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE | Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness | A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Liu Wei Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/liu-wei-di-huang-wan)** | Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE | Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow | A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bai Fu Zi](https://www.meandqi.com/knowledge-base/herbs/bai-fu-zi)** | Giant typhonium rhizome |  | Expels Wind-Phlegm and unblocks the channels of the face, a key herb for sudden eye deviation. |
+| **[Jiang Can](https://www.meandqi.com/knowledge-base/herbs/jiang-can)** | Silkworm |  | Extinguishes internal Wind and dissolves Phlegm, relaxing the sinews around the eye. |
+| **[Quan Xie](https://www.meandqi.com/knowledge-base/herbs/quan-xie)** | Scorpion |  | Extinguishes Wind and stops spasms, helping to realign the eye and reduce double vision. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries Dampness and transforms Phlegm, clearing the sticky obstruction from the channels. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit | Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes |  |
+| **[Bai Shao](https://www.meandqi.com/knowledge-base/herbs/bai-shao)** | White peony root | Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Bu Gu Zhi](https://www.meandqi.com/knowledge-base/herbs/bu-gu-zhi)** | Psoralea fruit | Warm, Tonifies Kidney Yang, Secures Essence and Stops Enuresis, Warms the Middle Burner and Stops Diarrhea |  |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit | Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse |  |
+| **[Bai Fu Zi](https://www.meandqi.com/knowledge-base/herbs/bai-fu-zi)** | Giant typhonium rhizome | Warm, Dispels Wind-Phlegm, Dries Dampness and Transforms Phlegm, Extinguishes Wind and Stops Spasms |  |
+| **[Jiang Can](https://www.meandqi.com/knowledge-base/herbs/jiang-can)** | Silkworm | Neutral, Extinguishes Wind and Stops Spasms, Dispels Wind and Stops Pain, Transforms Phlegm and Dissipates Nodules |  |
+| **[Quan Xie](https://www.meandqi.com/knowledge-base/herbs/quan-xie)** | Scorpion | Neutral, Extinguishes Wind and Stops Spasms, Unblocks the Channels and Alleviates Pain, Resolves Toxicity and Dissipates Nodules |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Expels Wind and clears the head, a primary point for Wind-Phlegm affecting the eyes. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Regulates Qi in the face and channels, helping to guide the therapeutic effect upward. |
+| **ST-2** | [Sibai ST-2](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/sibai-st-2) | S&#xEC; B&#xE1;i | Expels Wind, Clears Heat | A local point directly below the eye that restores normal muscle function and alignment. |
+| **EX-HN-7** | [Qiuhou EX-HN-7](https://www.meandqi.com/knowledge-base/acupuncture/qiuhou-ex-hn-7) | Qi&#xFA; H&#xF2;u | Benefits the eyes | An extra point behind the eyeball, specifically used to improve eye movement and reduce deviation. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM fix strabismus without surgery?
+For many people, especially those with deficiency-based patterns, TCM can significantly improve eye alignment and strengthen the underlying muscles, potentially avoiding or delaying surgery. However, results depend on the pattern, age, and severity. Acute Wind-Phlegm cases often respond quickly, while long-standing congenital misalignment may still require surgical correction - but TCM can support recovery and prevent recurrence after surgery. Always consult both an ophthalmologist and a qualified TCM practitioner to determine the best approach for your specific case.
+
+### How long does it take to see results with acupuncture and herbs?
+Most patients notice some improvement in eye comfort, fatigue, and stability within the first 4-6 weeks of weekly acupuncture combined with daily herbs. For acute patterns, double vision and limited movement may reduce in 2-3 weeks. Deficiency patterns, especially those present since childhood, require more time - often 3-6 months to rebuild sufficient Blood, Qi, or Essence. Consistency is key; missing sessions or herbs can slow progress.
+
+### Does acupuncture around the eyes hurt?
+Points near the eye, such as Qiuhou or Sibai, are needled with very fine, single-use needles and most people feel only a mild sensation of pressure or heaviness rather than pain. Practitioners are trained to needle these areas safely and gently. Many patients find the experience relaxing and report immediate relief of eye strain after treatment.
+
+### Can children receive TCM for strabismus?
+Yes, children respond well to TCM, especially when the strabismus is related to Kidney Essence deficiency or Spleen Qi weakness. Acupuncture techniques for kids are gentler (shallower insertion, shorter retention) and often combined with non-needle methods like acupressure or pediatric tuina. Herbal formulas can be given in reduced dosages or as granules. Early treatment often leads to better long-term outcomes, and TCM can complement patching or glasses.
+
+### Will I need to take herbs forever?
+No. Herbal formulas are prescribed for specific patterns and are typically adjusted or discontinued once the underlying imbalance is corrected. For chronic deficiency patterns, a maintenance phase with a milder formula or periodic acupuncture may be recommended to sustain results, but long-term daily herbs are rarely necessary. Your practitioner will guide you through a tapering plan.
+
+### What dietary changes can support TCM treatment for strabismus?
+In general, favor warm, cooked foods that are easy to digest, such as soups, stews, and congees. Foods that nourish Blood and Sinews include dark leafy greens, goji berries, black sesame, and moderate amounts of high-quality animal proteins like liver or bone broth. Avoid cold, raw foods, excessive dairy, and greasy or sugary items that can weaken the Spleen and generate Phlegm. Your practitioner will give specific advice based on your pattern - for example, those with Wind-Phlegm should strictly limit dairy and fried foods.
+
+### Is it safe to combine TCM with conventional treatments like patching or after surgery?
+Absolutely. TCM works well alongside glasses, patching, and vision therapy, and can be very helpful during post-surgical recovery to reduce inflammation and support tissue healing. Always inform both your ophthalmologist and your TCM practitioner of all treatments you are receiving. If you are taking blood-thinning medications, tell your herbalist, as some formulas contain herbs that mildly affect circulation.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Observation on the Therapeutic Effect of Acupuncture for Paralytic Strabismus** ([ลิงก์](https://www.acumoxj.com/uploads/20250319/7d63da686e839a53dd0d307b89bb3c91.pdf))
+   *วารสารวิชาการ: Various authors. Observation on the Therapeutic Effect of Acupuncture for Paralytic Strabismus. Chinese Acupuncture & Moxibustion Journal, 2023 (full citation not available).*
+   This clinical observation evaluated the efficacy of acupuncture in treating paralytic strabismus. Using a combination of local eye points (such as Qiuhou EX-HN-7, Sibai ST-2) and distal points (Fengchi GB-20, Hegu LI-4) tailored to pattern differentiation, the study reported an overall effective rate of approximately 85% in improving eye alignment and reducing diplopia. The treatment was well-tolerated with no serious adverse events.
+
+2. **Clinical Effect of Modified Qian Zheng San Combined with Acupuncture in Treating Paralytic Strabismus** ([ลิงก์](https://yyqyweb.com/public/static/index/uploads/att/20250212/3d50c581c199a2a64e8cc866b85fe1ce.pdf))
+   *วารสารวิชาการ: Various authors. Clinical Effect of Modified Qian Zheng San Combined with Acupuncture in Treating Paralytic Strabismus. Journal of Practical Traditional Chinese Medicine, 2024 (full citation not available).*
+   This study investigated the combination of the classical formula Qian Zheng San (with modifications) and acupuncture for paralytic strabismus of the Wind-Phlegm pattern. Patients received daily herbal decoctions alongside acupuncture at points including Fengchi GB-20, Hegu LI-4, and local eye points. The combined therapy achieved a significantly higher recovery rate than acupuncture alone, with faster improvement in eye movement and resolution of double vision.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/strabismus)*

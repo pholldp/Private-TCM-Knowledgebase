@@ -1,0 +1,185 @@
+# Di Fu Zi (地肤子)
+**English Name**: Kochia fruit  
+**Category**: Dampness-draining herbs (利水渗湿药), Stranguria-relieving diuretic herbs (利尿通淋药)  
+**Scientific Name**: Kochia scoparia (L.) Schrad.  
+**Pharmaceutical Name**: Kochiae Fructus  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Bitter (苦 kǔ), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Kidneys, Urinary Bladder  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Kochia fruit is a cooling herb used primarily for skin conditions involving itching (such as eczema, hives, and vaginal itching) and for urinary problems like painful or difficult urination. It works by clearing excess heat and dampness from the lower body, promoting healthy urination, and calming irritated skin. It can be taken internally as a decoction or used externally as a wash for itchy skin.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Skin Health, Urinary Health, Vaginal Health
+- **TCM Actions**: Clears Heat and Drains Dampness, Promotes Urination and Relieves Stranguria, Dispels Wind and Stops Itching
+
+### How these actions work
+Clears Heat and drains Dampness: This herb has a cold nature and bitter taste, which means it can cool down excess heat trapped in the body's lower regions, particularly the Bladder. 'Dampness' in TCM refers to a heavy, sluggish quality that can cause cloudy or painful urination, vaginal discharge, and skin eruptions. Di Fu Zi helps the body eliminate this Dampness by promoting urine flow, making it especially useful when someone has burning urination, scanty urine, or thick vaginal discharge caused by accumulated heat and moisture in the lower body.
+Promotes urination and relieves painful urination: By entering the Kidney and Bladder channels, Di Fu Zi acts as a natural diuretic. It is often used when someone experiences urinary difficulty with a burning or stinging sensation, which TCM calls 'lin syndrome' (strangury). The bitter and pungent tastes help move stagnation and clear heat from the urinary tract.
+Dispels Wind and stops itching: 'Wind' in TCM is a pathogenic factor that causes symptoms that move around or come and go, including itching, rashes, and hives. Di Fu Zi is one of the most commonly used herbs for skin itching, particularly when the itching is caused by a combination of Dampness and Heat lodged in the skin. It can be taken internally or boiled into a wash and applied directly to affected areas. It is especially valued for eczema, hives, genital itching, and other conditions where the skin is red, inflamed, or weeping.
+
+---
+
+## Patterns Addressed
+### Damp-Heat in the Lower Burner
+- **Explanation**: Di Fu Zi's cold nature and bitter, pungent tastes make it well suited to clear Damp-Heat from the Lower Burner (the body's lower region including the Bladder and reproductive organs). It enters the Kidney and Bladder channels, where it directly promotes urination to drain Dampness and clears Heat from these organs. This addresses the root mechanism of this pattern, where accumulated moisture and heat in the lower body cause urinary dysfunction and vaginal discharge.
+- **Clinical Signs & Symptoms**:
+
+### Wind-Damp
+- **Explanation**: When Wind and Damp-Heat become lodged in the skin, they produce itching, redness, and weeping rashes. Di Fu Zi's pungent taste disperses Wind from the skin's surface, its bitter taste dries Dampness, and its cold nature clears Heat. This triple action makes it particularly effective at addressing the combination of pathogenic factors in this pattern. Its ability to promote urination also helps drain Dampness from below, reducing the overall Damp burden that feeds skin eruptions.
+- **Clinical Signs & Symptoms**:
+  - **Hives**: Itchy wheals that come and go
+  - **Skin Itching**: Generalised itching worse with heat
+
+### Damp-Heat
+- **Explanation**: This pattern specifically involves Heat and Dampness accumulating in the Bladder, causing painful and difficult urination. Di Fu Zi enters the Bladder channel directly and uses its cold, bitter properties to clear the Heat that causes burning and stinging, while its diuretic action flushes out the Dampness that makes urine scanty and turbid. Classical texts from the Shen Nong Ben Cao Jing already recorded its function of treating 'Bladder Heat and promoting urination'.
+- **Clinical Signs & Symptoms**:
+  - **Urinary Difficulty**: Difficulty passing urine, dribbling
+
+---
+
+## Commonly Used For
+### Eczema
+- **Arises from**: Wind-Damp, Damp-Heat in the Lower Burner
+- **TCM Interpretation**: In TCM, eczema is most commonly understood as Wind, Dampness, and Heat becoming trapped in the skin. The Dampness produces the weeping, oozing quality of eczema lesions. The Heat causes redness and inflammation. The Wind generates the itching and the tendency for the rash to move or spread. In chronic cases, Dampness and Heat may also be rooted in Spleen deficiency (failing to transform fluids properly) or in the Lower Burner. The body's inability to clear these pathogenic factors through normal urination or sweating allows them to accumulate in the skin.
+- **Why it Helps**: Di Fu Zi addresses eczema on multiple fronts. Its cold nature directly clears the Heat that drives redness and inflammation. Its bitter taste dries the Dampness responsible for weeping and oozing. Its pungent taste disperses Wind lodged in the skin, reducing itching. Additionally, by entering the Kidney and Bladder channels and promoting urination, it gives the body a route to drain Dampness downward and out, rather than allowing it to persist in the skin. Modern research has found that its saponin component Momordin Ic has anti-inflammatory and anti-itch (antipruritogenic) effects, providing a biomedical explanation that aligns with its traditional use. Di Fu Zi can be used both internally as a decoction and externally as a wash for affected skin.
+
+### Urinary Tract Infection
+- **Arises from**: Damp-Heat, Damp-Heat in the Lower Burner
+- **TCM Interpretation**: Urinary tract infections are understood in TCM as Damp-Heat accumulating in the Bladder. This can arise from external invasion of Damp-Heat, from excessive consumption of rich or greasy food and alcohol, or from internal generation of Dampness due to Spleen weakness. The Heat causes the burning sensation, while the Dampness produces the feeling of incomplete voiding and urinary urgency. TCM calls this condition 'lin zheng' (strangury syndrome), and it has been treated with cooling, draining herbs for over two thousand years.
+- **Why it Helps**: Di Fu Zi has been documented in the Shen Nong Ben Cao Jing for treating 'Bladder Heat' and promoting urination. Its cold nature clears the Heat responsible for the burning pain, while its diuretic action increases urine flow to flush out the pathogenic Dampness. The herb enters the Bladder channel directly, targeting the site of the problem. Water extracts of Di Fu Zi have also been shown to have antibacterial activity against common urinary pathogens, providing a modern rationale for its traditional use in urinary infections.
+
+### Skin Itching
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: Hives (urticaria) are understood in TCM primarily as a manifestation of Wind. The characteristic feature of hives, raised wheals that appear suddenly and move around the body, is a hallmark of Wind pathology. When combined with Heat, the wheals become red and feel warm. When Dampness is also present, the itching may be accompanied by a heavy sensation or swelling. Chronic hives may also involve underlying Blood Deficiency that makes the skin vulnerable to Wind invasion.
+- **Why it Helps**: Di Fu Zi's pungent taste gives it the ability to disperse Wind from the muscle layer and skin surface, directly addressing the Wind pathogen that drives the appearance of wheals. Its cold nature clears the Heat that causes redness, while its Dampness-draining action addresses any underlying moisture component. Modern pharmacological research has confirmed its ability to suppress allergic and hypersensitivity reactions, which aligns with the traditional understanding of it calming Wind-type skin disturbances.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–15g
+- **Maximum Dosage**: Up to 30g in severe damp-heat conditions, under practitioner supervision. External wash use has no strict upper limit but typically 15–30g per wash.
+- **Dosage Notes**: Use 9–15g for standard damp-heat urinary conditions (painful urination, turbid urine). For skin conditions such as eczema or itching, 9–15g internally combined with external wash is typical. External wash: decoct 15–30g in water and use to bathe the affected area. The herb may also be taken as a powder or pill rather than decoction. Overdose may cause nausea, stomach pain, chills, fatigue, and loose stools. Reduce dosage in patients with borderline Spleen Qi weakness; consider combining with Spleen-supporting herbs if needed.
+- **Preparation**: 
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o D&#xEC; F&#x16B; Z&#x1D0; (&#x7092;&#x5730;&#x80A4;&#x5B50;)
+- **Processing Method**: Stir-fried over low heat until the surface shows slight scorching and the herb becomes fragrant.
+- **How it Changes Properties**: Stir-frying slightly moderates the cold nature of the herb and adds a mild aromatic quality. This makes it gentler on the Stomach for patients who may not tolerate the raw herb's cold property well. The core actions of clearing Damp-Heat and stopping itching are preserved.
+- **When to Use**: Used when the patient has some underlying Spleen-Stomach weakness but still needs the Dampness-draining and anti-itch effects. The stir-fried form is slightly less cold and less likely to cause digestive discomfort.
+
+---
+
+## Common Herb Pairs
+### She Chuang Zi (Ratio: 1:1 (Di Fu Zi 15g : She Chuang Zi 15g))
+- **Description**: Di Fu Zi is cold and She Chuang Zi is warm. Both dispel Wind, dry Dampness, and stop itching, but from opposite thermal perspectives. Together they balance cold and warm, greatly strengthening the anti-itch and Dampness-drying effect. This pair addresses itching regardless of whether the underlying condition runs hot or cold.
+- **When to Use**: Genital itching, eczema of the groin, vaginal itching with discharge, and scrotal eczema. Particularly useful as an external wash.
+
+### Bai Xian Pi (Ratio: 1:1 (Di Fu Zi 15g : Bai Xian Pi 15g))
+- **Description**: Di Fu Zi clears Damp-Heat via the Bladder channel and stops itching, while Bai Xian Pi clears Heat-toxin from the skin and is one of the strongest Dampness-clearing, itch-stopping herbs for the Spleen and Stomach channels. Together they cover both the urinary drainage route and direct skin detoxification, making the anti-itch and Dampness-clearing effect much stronger than either alone.
+- **When to Use**: Eczema, widespread skin itching with redness and weeping, and Damp-Heat skin rashes. Can be used internally or as an external wash.
+
+### Ku Shen (Ratio: 1:1 (Di Fu Zi 9-15g : Ku Shen 9-15g))
+- **Description**: Both herbs clear Damp-Heat and stop itching, but Ku Shen has a stronger Heat-clearing and Dampness-drying action, while Di Fu Zi is better at promoting urination to drain Dampness from below. Together they provide both a direct anti-itch effect on the skin and systemic Dampness drainage through the urinary tract.
+- **When to Use**: Vaginal itching with yellow discharge, skin itching due to Damp-Heat, and urinary burning accompanied by genital eczema.
+
+### Tong Cao (Ratio: Di Fu Zi 9-15g : Tong Cao 3-6g)
+- **Description**: Di Fu Zi clears Bladder Heat and promotes urination, while Tong Cao promotes urination by clearing Heat and unblocking the water passages through the San Jiao. Together they strongly promote urine flow and relieve painful urination (strangury).
+- **When to Use**: Hot painful urination (re lin), urinary tract infection with scanty dark urine, and Damp-Heat strangury.
+
+---
+
+## Key Formulas
+Si Jun Zi Tang, Yi Yi Fu Zi San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Di Fu Zi is classified as non-toxic in the Chinese Pharmacopoeia. Animal toxicology studies have shown a high LD50 value of approximately 7.15 g/kg for oral water extract in mice, confirming a wide safety margin. However, overdose may cause nausea, vomiting, stomach pain, chills, fatigue, and loose stools. Rare allergic reactions (hives, lip swelling) have been reported after oral use of the decoction. The saponin content (primarily momordin Ic and related oleanolic acid glycosides) accounts for most of its pharmacological activity; at standard doses these are well tolerated.
+
+### Contraindications
+- **[Caution]** Spleen and Stomach deficiency-cold (脾胃虚寒): Di Fu Zi is bitter and cold in nature. People with weak, cold digestive systems may experience worsening of loose stools, poor appetite, or abdominal discomfort.
+- **[Caution]** Absence of damp-heat: This herb specifically targets damp-heat conditions. Using it when no damp-heat is present wastes its cold, draining properties and may deplete the body's fluids and warmth unnecessarily.
+- **[Caution]** Excessive urination without damp-heat: Di Fu Zi promotes urination. In people who already urinate too frequently or too copiously (without underlying damp-heat), it may worsen fluid loss.
+
+### Classical Incompatibilities
+Di Fu Zi does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, the Ben Cao Bei Yao (《本草备要》) records that Di Fu Zi is 'averse to' (恶) Sang Piao Xiao (桑螵蛸, mantis egg case). This is a 'xiang e' (相恶) relationship rather than a formal incompatibility, meaning the two herbs may diminish each other's effects rather than producing toxicity. This is not an absolute prohibition, but concurrent use should be carefully considered.
+
+### Special Populations
+- **Pregnancy**: Caution is advised. Di Fu Zi is bitter and cold in nature, with a strong downward-draining action on damp-heat through the urinary tract. While the classical text Dian Nan Ben Cao mentions its use for 'clearing fetal heat,' and the Zi Mu Mi Lu records a formula using Di Fu Zi for pregnancy-related painful urination (lin zheng), its cold, draining properties could theoretically deplete fluids or disturb a pregnancy. There is insufficient modern safety data specific to pregnancy. Pregnant women should only use this herb under direct supervision of a qualified practitioner, at reduced doses, and only when a clear damp-heat condition warrants its use.
+- **Breastfeeding**: No specific studies on the transfer of Di Fu Zi constituents through breast milk have been published. Given its cold and bitter nature and its saponin content, cautious use is recommended during breastfeeding. If the nursing mother has a clear damp-heat condition and the herb is clinically indicated, short-term use at standard doses under practitioner guidance is generally considered acceptable. Monitor the infant for any digestive upset or loose stools.
+- **Children**: Di Fu Zi may be used in children for damp-heat skin conditions (eczema, itching) with appropriate dosage reduction. External use as a wash is generally the safest method for young children. For internal use, dosage should be proportionally reduced based on body weight and age, typically one-third to one-half of the adult dose for children over age 6. Avoid use in very young children (under 3 years) without practitioner guidance, as the cold, draining nature may be too harsh for immature digestive systems.
+
+### Drug Interactions
+No well-documented drug interactions have been established through formal pharmacokinetic studies. However, the following theoretical interactions should be considered based on the herb's known pharmacological properties:
+- Diuretic medications: Di Fu Zi has a mild diuretic action that could theoretically add to the effects of pharmaceutical diuretics (thiazides, loop diuretics), potentially increasing the risk of fluid or electrolyte imbalance.
+- Hypoglycemic agents: Preclinical studies have demonstrated hypoglycemic activity in the n-butanol fraction and saponin components of Di Fu Zi. Patients on insulin or oral hypoglycemic medications should monitor blood glucose closely if using this herb concurrently.
+- Immunosuppressants: Di Fu Zi extracts have shown immunomodulatory effects (suppressing delayed-type hypersensitivity and mononuclear phagocyte activity in animal models). Theoretical interaction with immunosuppressive drugs is possible.
+These interactions are theoretical and based on preclinical data. Clinical significance has not been confirmed. Patients taking any pharmaceutical medications should consult a qualified healthcare provider before using Di Fu Zi.
+
+### Dietary Advice
+While taking Di Fu Zi, avoid excessive intake of cold, raw, or greasy foods that could impair Spleen function and worsen dampness, as this would work against the herb's therapeutic purpose. Warm, easily digested foods support digestion while the herb clears damp-heat. If Di Fu Zi is being used for skin conditions, it is traditionally advised to limit spicy, fried, and 'heating' foods (such as lamb, alcohol, and shellfish) that may aggravate skin inflammation.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Kochia scoparia (L.) Schrad. (syn. Bassia scoparia), commonly known as summer cypress, broom cypress, or Mexican fireweed, is a fast-growing annual herb in the Chenopodiaceae (goosefoot) family. The plant has an upright, densely branched stem and grows into an elongated-oval or pyramidal bush shape, typically reaching 75 cm to 1.5 m in height.
+The leaves are narrow, lance-shaped, thin, and pointed. In spring and summer they are a vivid dark green; as autumn approaches, the foliage transforms dramatically to shades of yellow, orange, pink, or deep crimson, making it popular as an ornamental plant. The flowers are small and inconspicuous. The medicinal part is the fruit: a tiny (1–3 mm), flattened, five-pointed star-shaped achene surrounded by a persistent flower covering (perianth) with five small membranous wings. Each fruit contains a single flat, oval, black seed about 1 mm long.
+The plant thrives in sunny, warm environments and grows well in fertile, loose, humus-rich loamy soils. It is widely distributed across Europe and Asia and has naturalized in Africa, Australia, and the Americas. In China, it commonly grows wild on hillsides, wastelands, roadsides, and field margins.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn, when the fruits are fully mature. The entire plant is harvested, dried in the sun, and then the fruits are beaten off and separated from stems and leaves.
+- **Primary Growing Regions**: Widely distributed across China, with major production areas in Hebei, Shandong, Henan, Shanxi, and Jiangsu provinces. It also grows in Liaoning, Gansu, Shaanxi, Qinghai, Sichuan, and Anhui. The herb grows wild on hillsides, wastelands, roadsides, and field margins throughout the country, and is also cultivated in gardens. Hebei and Shandong are traditionally considered among the primary producing regions for high-quality commercial product.
+- **Quality Indicators**: Good quality Di Fu Zi fruits are plump, intact, uniformly sized (1–3 mm diameter), with a gray-green to light brownish surface color. The five small membranous wings around the fruit should be visible and intact. When the persistent perianth is peeled away, the inner fruit skin should appear thin and semi-translucent. The inner seed should be flat, oval, and black. The taste should be mildly bitter and the smell faint. Avoid fruits that are overly dark, broken, shriveled, or contain excessive stem and leaf debris. Momordin Ic content is used as the phytochemical marker for quality control in modern testing.
+
+### Identity & Adulterants
+Di Fu Zi has been adulterated or confused with the fruits of Chenopodium album (lamb's quarters) and Chenopodium serotinum, which belong to the same broader plant family but have different pharmacological profiles. Another adulterant is the fruit of Kochia scoparia f. trichophila (the ornamental 'hairy' variety), which is morphologically similar but may differ in active compound concentrations. Scanning electron microscopy and UV spectral analysis can distinguish authentic Di Fu Zi from these substitutes. The authentic fruit has a distinctive five-winged star shape, while adulterants typically lack this characteristic wing pattern or show different surface textures under magnification.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 主膀胱热，利小便。补中，益精气。久服耳目聪明，轻身耐老。
+- **Translation**: "It treats Bladder heat and promotes urination. It supplements the center and benefits essence-Qi. Long-term use sharpens the ears and eyes, lightens the body, and delays aging."
+
+### Historical Context
+Di Fu Zi was first recorded in the Shen Nong Ben Cao Jing (circa 1st–2nd century CE), where it was classified as an upper-grade (上品) herb, indicating it was considered safe for long-term use. The name "Di Fu" (地肤, literally "earth skin") poetically captures both the plant's ground-hugging growth habit and its affinity for treating skin diseases. As the Ben Cao Gang Mu explains, "di" (earth) refers to how the plant grows close to the ground in wild places, while "fu" (skin) alludes to its special ability to clear heat from the skin.
+The plant has many folk names reflecting its practical uses: it was called "Wang Zhou" (王帚, king's broom) and "Sao Zhou" (扫帚, broom) because its dried branches were bundled into brooms. The name "Luo Zhou Zi" (落帚子, fallen broom seed) in the Ri Hua Zi Ben Cao and "Yi Ming" (益明, benefit brightness) from Yao Xing Lun reflect its traditional use for eye conditions. The young shoots and leaves of the plant (known as "Di Fu Miao") are edible and have been eaten as a vegetable in China, Japan, and Korea for centuries.
+A notable clinical anecdote preserved in the Ben Cao Gang Mu, originally from Yu Tuan's Yi Xue Zheng Zhuan, tells of Yu Tuan's seventy-year-old brother who developed a painful urinary condition (lin zheng) in autumn that persisted for over twenty days despite various treatments. A folk remedy using fresh-pressed juice of the whole Di Fu plant (rather than just the seeds) resolved his condition immediately, highlighting that the aerial parts may have even stronger diuretic action than the fruit alone.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Phytochemistry, Pharmacology, Toxicology, Quality Control, and Pharmacokinetics of Kochiae Fructus (2021)](https://pubmed.ncbi.nlm.nih.gov/33603816/)**
+   *Journal: Zou W, Tang Z, Long Y, Xiao Z, Ouyang B, Liu M. Evidence-Based Complementary and Alternative Medicine, 2021, Vol. 2021, Article 5382684.*
+   A systematic review identifying 153 compounds in Di Fu Zi (mainly triterpenoids, flavonoids, and essential oils) and summarizing evidence for its anti-inflammatory, antifungal, antiallergic, antipruritogenic, anticancer, hypoglycemic, and hepatoprotective effects. The review noted the LD50 of the water extract was 7.15 g/kg orally in mice, indicating a wide safety margin. Momordin Ic was identified as the key phytochemical marker.
+
+2. **[Anti-allergic Effects of Kochiae Fructus Extract and Momordin Ic (Preclinical, 1997)](https://pubmed.ncbi.nlm.nih.gov/9401725/)**
+   *Journal: Matsuda H, Dai Y, Ido Y, Yoshikawa M, Kubo M. Biological & Pharmaceutical Bulletin, 1997, 20(11): 1165–1170.*
+   An animal study testing the 70% ethanol extract from Di Fu Zi and its active compound momordin Ic across Type I through IV allergy models. The extract inhibited IgE-related passive cutaneous anaphylaxis, direct passive Arthus reaction, and picryl chloride-induced contact dermatitis in rodents. Momordin Ic was partially responsible for these anti-allergic and anti-itch effects.
+
+3. **[Anti-inflammatory Effects of Momordin Ic, 20-Hydroxyecdysone, and Oleanolic Acid from Kochiae Fructus (In Vitro, 2017)](https://pubmed.ncbi.nlm.nih.gov/28839354/)**
+   *Journal: Yoo SR, Jeong SJ, Lee NR, Shin HK, Seo CS. Pharmacognosy Magazine, 2017, 13(51): 339–344.*
+   An in vitro study examining three key compounds from Di Fu Zi in LPS-stimulated RAW 264.7 macrophages. Momordin Ic significantly inhibited production of inflammatory cytokines TNF-alpha and IL-6. All three compounds reduced prostaglandin E2 (PGE2) production, with momordin Ic identified as the most potent anti-inflammatory phytochemical.
+
+4. **[Kochia scoparia Fruit Attenuates Allergic Airway Inflammation in Murine Asthma Model (Preclinical, 2012)](https://pubmed.ncbi.nlm.nih.gov/22122306/)**
+   *Journal: Shin IS, Lee MY, Jeon WY, Kim JC, Shin HK. Journal of Ethnopharmacology, 2012, 142(2): 474–480.*
+   An animal study in which oral administration of a Kochia scoparia fruit ethanol extract significantly reduced airway eosinophilia, mucus secretion, and levels of IL-4, IL-5, IgE, and adhesion molecules in an ovalbumin-induced mouse asthma model. Results support the herb's traditional use for allergic and inflammatory conditions.
+
+5. **[Momordin Ic Modulates HaCaT Cell Proliferation and Apoptosis via Wnt/beta-Catenin Pathway (In Vitro, 2021)](https://pubmed.ncbi.nlm.nih.gov/34326883/)**
+   *Journal: Zou W, Long Y, Ouyang B, Tang Z, Liu M. Evidence-Based Complementary and Alternative Medicine, 2021, Vol. 2021, Article 3473148.*
+   A cell study demonstrating that momordin Ic, the principal saponin from Di Fu Zi, could inhibit the proliferation of human keratinocyte (HaCaT) cells and promote their apoptosis by modulating the Wnt/beta-catenin signaling pathway. These findings suggest potential relevance for skin conditions involving abnormal keratinocyte proliferation such as psoriasis.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/di-fu-zi](https://www.meandqi.com/knowledge-base/herbs/di-fu-zi)*

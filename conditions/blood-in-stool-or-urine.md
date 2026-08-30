@@ -1,0 +1,292 @@
+# Blood in Stool or Urine (便血)
+**Pinyin**: biàn xuè | **Kind**: Symptom | **Category**: Digestive Tract Bleeding, Urinary & Bladder Problems  
+**Synonyms**:  | **Body Regions**: 
+
+---
+
+## Preview Summary
+In TCM, the color and quality of the blood - whether it's bright-red and burning, dark and tarry, or purple and clotted - reveals the underlying imbalance. Most acute bleeding from...
+
+---
+
+## Conventional Medicine View
+### Description
+In Western medicine, blood in the stool (hematochezia or melena) can originate from anywhere along the digestive tract - from hemorrhoids and anal fissures to inflammatory bowel disease, diverticulosis, polyps, or colorectal cancer. Blood in the urine (hematuria) is often caused by urinary tract infections, kidney stones, bladder inflammation, or, less commonly, tumors of the urinary system. Diagnosis typically involves physical examination, lab tests, and imaging such as colonoscopy or cystoscopy to pinpoint the source of bleeding.
+
+### Treatments
+Treatment depends entirely on the cause. For hemorrhoids, options range from dietary fiber and topical creams to rubber band ligation or surgery. Infections are treated with antibiotics, while stones may require increased fluid intake, medication, or lithotripsy. More serious causes like polyps or cancer require specialized procedures and oncological care.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, blood belongs in the vessels, and its appearance in the stool or urine means that one of the body's governing systems has lost control. The two organs most responsible for managing blood are the Spleen and the Liver. The Spleen produces and holds blood within the vessels - when its Qi is weak, blood can seep out. The Liver stores blood and ensures its smooth flow - when Liver Qi stagnates, blood can become stuck and force its way out. Meanwhile, the Intestines and Bladder are the local sites where heat, dampness, or stasis can directly damage the tiny blood vessels, causing them to leak.
+The color and character of the blood are the first clues. Bright-red blood, especially if it drips after a bowel movement or appears in the urine with a burning sensation, typically points to Heat or Damp-Heat in the lower burner - an excess condition where inflammation and irritation injure the vessels. Dark, tarry blood mixed with the stool suggests a deeper, more chronic problem: either the Spleen is too weak to hold blood, or internal cold has congealed the blood. If the blood is dark purple with clots and a stabbing pain, the root is likely Qi and Blood Stagnation, often tied to emotional stress.
+This is why a single Western diagnosis like 'hemorrhoids' or 'UTI' can have several different TCM patterns. One person's hemorrhoids may flare after a spicy meal with a burning sensation (Damp-Heat), while another's may appear after a period of overwork with fatigue and pale skin (Spleen not controlling Blood). TCM treats these as fundamentally different conditions, using cooling and drying herbs for the first, and strengthening, blood-nourishing herbs for the second. The same principle applies to blood in the urine: a burning, urgent infection is often Damp-Heat in the Bladder, but a painless, chronic trickle of blood might be a Kidney Yin deficiency with empty heat.
+
+### Practitioner Diagnosis
+A TCM practitioner first asks about the colour and location of the blood, because these clues immediately narrow the possibilities. Fresh-red blood dripping after a bowel movement with a burning sensation points to Damp-Heat in the Lower Burner, where heat and moisture injure the intestinal vessels. The tongue will be red with a thick, greasy yellow coating, and the pulse feels slippery and rapid.
+If the blood appears in the urine rather than the stool, the focus shifts upward to the bladder. Damp-Heat in the Bladder causes dark, turbid urine with visible blood, accompanied by a sense of urgency and a scalding pain while urinating. The same greasy yellow tongue coating is present, but the location of the discomfort tells the practitioner this is a urinary pattern.
+When the bleeding has been going on for a long time and the blood is pale or dark, the practitioner looks for signs of Spleen Qi weakness. Spleen not controlling Blood creates a picture of fatigue, poor appetite, and a dull complexion. The tongue is pale and puffy, and the pulse is thin and weak, confirming that the body lacks the vital energy to hold blood inside the vessels.
+If the bleeding is scanty and bright red but comes with a dry mouth, night sweats, and a feeling of heat in the palms and soles, the diagnosis leans toward Empty-Heat caused by Yin Deficiency. Here the tongue is red with little or no coating, and the pulse feels thin and rapid. This pattern is less common but important to recognise because it calls for nourishing fluids rather than clearing dampness.
+Dark-purple blood with clots and a fixed, stabbing pain in the lower abdomen signals Qi and Blood Stagnation. The pain does not move around, and pressing on the area makes it worse. The tongue shows purple spots or a dusky colour, and the pulse is rough or choppy, indicating that the flow of Qi and blood has become blocked, causing the vessels to rupture.
+Finally, when the blood is dark or tarry and the person feels cold, especially in the limbs, and craves warmth, the pattern is Spleen Yang Deficiency. The tongue is pale, puffy, and wet, and the pulse is deep and thin. This deep cold inside the digestive system fails to contain the blood, so it oozes out, often turning the stool black.
+
+### Classical Reference
+> **Original**: 「结阴者，便血一升，再结二升，三结三升。」
+> 
+> **Translation**: "When Yin is bound, there is one sheng of blood in the stool; when bound again, two sheng; when bound a third time, three sheng."
+> 
+> — Source: *Huang Di Nei Jing, Suwen  ,  Chapter 17, Mai Yao Jing Wei Lun 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Damp-Heat in the Lower Burner
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/damp-heat-in-the-lower-burner)*
+
+- **Clinical Signs & Symptoms**: Burning sensation during bowel movements or urination, Feeling of heaviness or dragging in the lower abdomen, groin, or legs, Sticky, foul-smelling stools or diarrhea; urine may be dark, cloudy, and scant, Yellow, greasy tongue coating, thickest at the back, Thirst with no desire to drink much, or a sensation of heat in the afternoon
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol and coffee, Hot, humid weather, Prolonged sitting or standing, Emotional stress or frustration
+- **Better with**: Cooling foods (cucumber, watermelon, mung beans), Drinking plenty of water, Light, easily digestible meals, Keeping the perineal area clean and dry, Cool, quiet environment
+- **Why this happens (Mechanism)**:
+  Damp-Heat is a thick, sticky mixture of excess moisture and heat that sinks to the lower body. When it settles in the intestines or bladder, it creates inflammation and congestion, much like a hot, humid swamp. This irritates the delicate blood vessels in the gut or urinary tract, causing them to leak fresh or dark-red blood into the stool or urine. The bleeding is often accompanied by burning, heaviness, and foul-smelling discharges because Damp-Heat is heavy, turbid, and prone to causing infection.
+- **Tongue & Pulse**: Tongue: red body with a thick, yellow, greasy coating, especially at the root. Pulse: slippery (滑 huá) and rapid (数 shuò), often more pronounced at the rear (Chi) position.
+- **Triggers & Relief Explanation**: Damp-Heat is a combination of excessive moisture and heat that congests the lower body. Spicy, greasy, and rich foods, as well as alcohol, directly add heat and dampness, while hot, humid weather reinforces the external environment that creates internal Damp-Heat. Cooling, bland foods and plenty of water help drain dampness and clear heat, while keeping the area clean and dry prevents local irritation. Gentle movement prevents Qi stagnation, which otherwise traps Damp-Heat in the pelvis.
+- **Diet & Lifestyle**: Avoid spicy, greasy, deep-fried, and heavily sweetened foods, as well as alcohol and coffee, which all fuel Damp-Heat. Choose cooling, lightly cooked vegetables (like cucumber, celery, and mung bean sprouts), moderate amounts of fruit (watermelon, pear), and easily digested grains (barley, millet). Keep the anal and genital area clean and dry; avoid prolonged sitting and tight synthetic underwear. Gentle movement like walking or stretching helps circulate Qi and prevent stagnation.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huai Hua San](https://www.meandqi.com/knowledge-base/formulas/huai-hua-san)** | Sophora Flower Powder &#xB7; S&#xF2;ng dynasty, 1132 CE | Cool, Clears the Intestines and stops bleeding, Cools the Blood, Disperses Wind | A classic formula for Damp-Heat in the intestines causing bloody stools. It cools the blood, stops bleeding, and clears Damp-Heat from the lower burner. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huai Hua](https://www.meandqi.com/knowledge-base/herbs/huai-hua)** | Japanese Pagoda Tree Flower |  | Cools the blood and stops bleeding, especially for fresh-red blood in the stool from Damp-Heat. |
+| **[Di Yu](https://www.meandqi.com/knowledge-base/herbs/di-yu)** | Garden Burnet Root |  | Astringes and cools the blood to arrest intestinal bleeding, while also clearing Damp-Heat. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | Lower He-Sea point of the Large Intestine, clears Damp-Heat from the bowels and stops bleeding. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Resolves Dampness and promotes urination to drain Damp-Heat from the lower burner. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates the Spleen and Liver, resolves Dampness, and supports the lower burner. |
+
+---
+
+### Spleen not controlling Blood
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/spleen-not-controlling-blood)*
+
+- **Clinical Signs & Symptoms**: Dark or tarry blood in stool, Chronic fatigue and weakness, Pale or sallow complexion, Poor appetite and loose stools, Shortness of breath and reluctance to speak
+- **Worse with**: Overwork and fatigue, Excessive worry and pensiveness, Cold, raw foods and iced drinks, Irregular eating habits
+- **Better with**: Rest and avoiding overwork, Light, easily digestible meals, Gentle movement or walks
+- **Why this happens (Mechanism)**:
+  The Spleen is responsible for keeping blood inside the vessels. When Spleen Qi is chronically weak, it loses this holding power, allowing blood to seep out into the stool or urine. The bleeding tends to be dark or mixed with the stool rather than bright red, and it comes with a cluster of signs that the Spleen is underperforming - fatigue, poor appetite, and a washed-out look.
+- **Tongue & Pulse**: Tongue: pale, puffy, tender with teeth marks, thin white coating. Pulse: fine (thin) and weak, especially at the right guan position.
+- **Triggers & Relief Explanation**: The Spleen is easily weakened by overwork, mental strain, and cold or heavy foods. Rest, gentle movement, and warm, easy-to-digest meals help rebuild Spleen Qi so it can hold blood in the vessels again.
+- **Diet & Lifestyle**: Eat warm, cooked foods that are easy to digest, such as rice congee, soups, and steamed vegetables. Avoid raw, cold, and greasy foods that further weaken the Spleen. Prioritize rest and avoid overexertion, as fatigue drains Qi. Gentle walks can help circulation without depleting energy.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | The classic formula to tonify Spleen Qi and contain blood, addressing the root weakness. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Spleen Qi to restore the body&#x27;s ability to hold blood within the vessels. |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root |  | Powerfully supplements the Spleen and Stomach Qi to address the root deficiency. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens the Spleen&#x27;s transformative function and helps stop chronic bleeding. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonifies the Spleen and harmonizes blood. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach to produce Qi and blood. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Directly supplements Spleen Qi. |
+| **SP-1** | [Yinbai SP-1](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinbai-sp-1) | Y&#x1D0;n B&#xE1;i | Stops bleeding, Regulates the Spleen | Moxa on this point helps stop bleeding caused by Spleen deficiency. |
+
+---
+
+### Damp-Heat in the Bladder
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/damp-heat-in-the-bladder)*
+
+- **Clinical Signs & Symptoms**: Burning sensation during bowel movements or urination, Urgent, frequent need to urinate with scanty output, Dark yellow, cloudy, or bloody urine, Lower abdominal distension and pain
+- **Worse with**: Spicy, greasy, or fried foods, Holding urine, Hot, humid weather, Emotional stress or frustration
+- **Better with**: Drinking plenty of water, Cooling foods (cucumber, watermelon, mung beans), Rest and avoiding overwork, Urinating promptly
+- **Why this happens (Mechanism)**:
+  Damp-Heat settles in the bladder when external dampness invades or when rich, spicy food and alcohol create internal dampness and heat. The heat scorches the tiny blood vessels in the bladder wall, causing them to leak blood into the urine. Meanwhile, the sticky dampness blocks the normal flow of urine, leading to the burning, urgency, and cloudy appearance.
+- **Tongue & Pulse**: Tongue: red body with a yellow, greasy coating thickest at the root. Pulse: slippery (Hua) and rapid (Shu).
+- **Triggers & Relief Explanation**: Alcohol and spicy, greasy foods create dampness and heat in the body, which settle in the bladder and worsen the burning and bleeding. Holding urine allows heat and dampness to stagnate, irritating the bladder lining. Drinking water and eating cooling foods help flush out damp-heat and soothe the urinary tract. Rest conserves Qi to support healing, while stress can aggravate heat and stagnation.
+- **Diet & Lifestyle**: Drink plenty of water to help flush the urinary tract. Avoid alcohol, coffee, spicy foods, and greasy or fried foods, as they generate damp-heat. Eat cooling, diuretic foods like cucumber, watermelon, and mung beans. Do not hold urine; urinate as soon as the urge arises. Keep the genital area clean and dry.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Ji Yin Zi](https://www.meandqi.com/knowledge-base/formulas/xiao-ji-yin-zi)** | Small Thistle Drink &#xB7; Southern S&#xF2;ng dynasty, 1253 CE | Cool, Cools the Blood and Stops Bleeding, Promotes Urination and Relieves Stranguria, Clears Heat from the Lower Jiao | The primary formula for Damp-Heat in the Bladder causing blood in the urine; it clears heat, resolves dampness, cools the blood, and stops bleeding. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Ji](https://www.meandqi.com/knowledge-base/herbs/xiao-ji)** | Field Thistle Herb |  | Cools the blood and stops bleeding, specifically targeting blood in the urine. |
+| **[Pu Huang](https://www.meandqi.com/knowledge-base/herbs/pu-huang)** | Cattail pollen |  | Stops bleeding and resolves stasis, helping to clear blood from the urine. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-3** | [Zhongji REN-3](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongji-ren-3) | Zh&#x14D;ng J&#xED; | Clears Dampness from the Lower Burner, Benefits the Bladder and its Qi transformation | Front Mu point of the Bladder; clears damp-heat and regulates the lower burner. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Intersection point of the Spleen, Liver, and Kidney channels; resolves dampness and supports urinary function. |
+| **BL-28** | [Pangguangshu BL-28](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pangguangshu-bl-28) | P&#xE1;ng Gu&#x101;ng Sh&#x16B; | Regulates the Bladder and benefits urination, Resolves Damp-Heat | Back Shu point of the Bladder; directly addresses bladder issues and clears damp-heat. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Scanty fresh-red blood in stool or urine, Afternoon or evening heat sensation, Night sweats, Dry mouth and throat, worse at night, Heat in palms, soles, and chest, Restlessness and difficulty sleeping
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol and coffee, Overwork and fatigue, Emotional stress or frustration, Hot weather or overheated rooms, Excessive sweating
+- **Better with**: Rest and adequate sleep, Cool, quiet environment, Drinking plenty of water, Eating cooling, moistening foods, Gentle movement or walks
+- **Why this happens (Mechanism)**:
+  When the body's Yin fluids are depleted, there is not enough cooling moisture to anchor the Yang. This creates a low-grade, empty heat that can irritate and damage the delicate blood vessels in the intestines or bladder. As a result, a small amount of fresh, bright-red blood may appear in the stool or urine, often accompanied by classic signs of Yin deficiency like night sweats and a dry mouth.
+- **Tongue & Pulse**: Tongue: red, thin, dry, with cracks and little or no coating. Pulse: fine and rapid (细数 xì shuò).
+- **Triggers & Relief Explanation**: Spicy, heating substances and overwork fan the flames of empty heat, making bleeding and dryness worse. Rest, cooling foods, and hydration help replenish Yin fluids and cool the blood, calming the irritated vessels.
+- **Diet & Lifestyle**: Eat cooling, moistening foods like pear, cucumber, tofu, and black sesame. Avoid spicy, fried, or greasy foods, alcohol, and coffee. Prioritize rest, especially during the evening, and avoid late nights or overwork that further deplete Yin.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | Nourishes Yin and clears empty heat, making it the foundation for stopping bleeding caused by deficiency fire. |
+| **[Er Zhi Wan](https://www.meandqi.com/knowledge-base/formulas/er-zhi-wan)** | Two Solstices Pill &#xB7; M&#xED;ng dynasty, 1534 CE | Cool, Nourishes Liver and Kidney Yin, Tonifies the Kidneys, Tonifies the Liver | A simple, elegant pair that nourishes Liver and Kidney Yin and directly cools the blood to stop mild bleeding. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Mo Han Lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)** | Eclip&#x442;&#x430; herb (False Daisy) |  | Nourishes Yin and cools the blood to stop bleeding - a classic choice for deficiency&#x2011;heat bleeding. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Nourishes Kidney Yin to treat the root deficiency. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonifies Yin and blood, calms the mind, and helps stop bleeding. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Nourishes Yin, benefits the throat, and clears deficiency heat. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Regulates blood; use gentle stimulation to cool the blood and stop bleeding without dispersing. |
+
+---
+
+### Qi And Blood Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-and-blood-stagnation)*
+
+- **Clinical Signs & Symptoms**: Dark purple or clotted blood, Fixed, stabbing pain in the lower abdomen or perineum, Pain worsens with pressure, Distending sensation in the chest or rib area, Purple tongue with stasis spots, Irritability or mood swings
+- **Worse with**: Emotional stress or frustration, Cold weather or drafts, Prolonged sitting or standing, Spicy, greasy, or fried foods
+- **Better with**: Gentle movement or walks, Applying warmth to the abdomen, Emotional calm
+- **Why this happens (Mechanism)**:
+  When emotional tension or frustration blocks the smooth flow of Qi, the stagnant Qi can no longer move the Blood. Over time, the Blood congeals and forms stasis in the vessels of the lower burner. This trapped, stagnant blood then forces its way out of the vessels, appearing as dark, purplish blood with clots in the stool or urine.
+The fixed, stabbing pain that accompanies the bleeding is a hallmark of Blood stasis - it is worse with pressure because the blocked area is already congested and tender. This pattern is not driven by heat or weakness, but by a physical obstruction of flow.
+- **Tongue & Pulse**: Tongue: dark purple body with stasis spots, distended sublingual veins, thin white coat. Pulse: wiry (弦) and choppy (涩), like a taut guitar string scraping bamboo.
+- **Triggers & Relief Explanation**: Emotional stress and frustration cause Qi to stagnate, which then leads to Blood stasis and bleeding. Cold congeals Blood, worsening the stagnation. Gentle movement and warmth promote circulation, while rest and calm help smooth the flow of Liver Qi.
+- **Diet & Lifestyle**: Eat warm, cooked foods and avoid cold or raw items that congeal Blood. Gentle daily movement like walking or stretching helps keep Qi and Blood flowing. Practice stress management - emotional tension is the main driver of this pattern.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The primary formula to invigorate Qi, disperse Blood stasis, and stop bleeding. Often modified with San Qi and Pu Huang to enhance hemostasis without worsening stasis. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[San Qi](https://www.meandqi.com/knowledge-base/herbs/san-qi)** | Notoginseng root |  | Stops bleeding without causing stasis and transforms congealed blood to relieve pain. |
+| **[Pu Huang](https://www.meandqi.com/knowledge-base/herbs/pu-huang)** | Cattail pollen |  | Stops bleeding and promotes blood circulation, especially for blood in the stool or urine. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Moves Liver Qi and relieves stagnation, addressing the root of the disorder. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Invigorates Blood and harmonizes the lower burner to ease stasis and pain. |
+| **BL-17** | [Geshu BL-17](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17) | G&#xE9; Sh&#x16B; | Invigorates Blood, Cools Blood Heat and stops bleeding | Influential point for Blood; transforms stasis and regulates blood flow. |
+
+---
+
+### Spleen Yang Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/spleen-yang-deficiency)*
+
+- **Clinical Signs & Symptoms**: Dark or tarry blood in stool, Dull abdominal pain relieved by warmth and pressure, Cold hands and feet, Loose watery stools with undigested food, Chronic fatigue and weakness, Preference for warmth and dislike of cold
+- **Worse with**: Cold, raw foods and iced drinks, Overwork and fatigue, Cold weather or drafts
+- **Better with**: Applying warmth to the abdomen, Warm cooked meals and ginger tea, Rest and adequate sleep
+- **Why this happens (Mechanism)**:
+  Spleen Yang is the body's warming force that also holds blood within the vessels. When it weakens, internal cold develops and the Spleen can no longer govern blood, allowing it to leak into the stool or urine. Because cold congeals and slows, the blood tends to be dark, tarry, or purplish rather than bright red.
+- **Tongue & Pulse**: Tongue: pale, puffy, tender body with teeth marks and a white slippery coating. Pulse: deep, slow, and weak, especially at the right Guan position.
+- **Triggers & Relief Explanation**: Spleen Yang deficiency is an internal cold state where the body lacks the warmth to properly govern blood. Cold foods and overwork further weaken Yang, making bleeding worse. Warmth, rest, and warming foods gently stoke the digestive fire, restoring the Spleen's ability to hold blood within the vessels.
+- **Diet & Lifestyle**: Eat only warm, cooked foods - soups, stews, and congees. Avoid raw vegetables, cold drinks, and icy foods. Add ginger, cinnamon, and small amounts of lamb or chicken to build warmth. Keep your abdomen and feet warm, and rest after meals.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Tu Tang](https://www.meandqi.com/knowledge-base/formulas/huang-tu-tang)** | Yellow Earth Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Warms the Middle Burner, Nourishes Blood and stops bleeding, Restores the Spleen&#x27;s Governance of Blood | Warms Spleen Yang, stops bleeding, and nourishes blood. The classic formula for cold-type blood in the stool. |
+| **[Huai Hua San](https://www.meandqi.com/knowledge-base/formulas/huai-hua-san)** | Sophora Flower Powder &#xB7; S&#xF2;ng dynasty, 1132 CE | Cool, Clears the Intestines and stops bleeding, Cools the Blood, Disperses Wind | A classical four-herb formula used to cool the intestines and stop rectal bleeding caused by heat in the bowels. It is commonly applied for hemorrhoid bleeding, blood in the stool, and inflammatory bowel conditions where the blood is bright red and the underlying cause is heat or dampness obstructing the intestinal blood vessels. |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels. |
+| **[Xiao Ji Yin Zi](https://www.meandqi.com/knowledge-base/formulas/xiao-ji-yin-zi)** | Small Thistle Drink &#xB7; Southern S&#xF2;ng dynasty, 1253 CE | Cool, Cools the Blood and Stops Bleeding, Promotes Urination and Relieves Stranguria, Clears Heat from the Lower Jiao | A classical formula for cooling the blood and stopping bleeding in the urinary tract, while also promoting healthy urination. It is used when Heat accumulates in the lower body, causing blood to appear in the urine along with painful, burning, or frequent urination. The formula simultaneously stops bleeding, clears Heat, and protects the body&#x27;s fluids from being depleted. |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs. |
+| **[Er Zhi Wan](https://www.meandqi.com/knowledge-base/formulas/er-zhi-wan)** | Two Solstices Pill &#xB7; M&#xED;ng dynasty, 1534 CE | Cool, Nourishes Liver and Kidney Yin, Tonifies the Kidneys, Tonifies the Liver | A gentle, two-herb formula that nourishes the Liver and Kidneys, helping with symptoms like dizziness, tinnitus, dry mouth and throat, lower back soreness, premature graying of hair, and heavy menstrual bleeding caused by a depletion of the body&#x27;s cooling, moistening Yin fluids. It is mild enough for long-term use and is especially valued for not causing digestive heaviness, unlike richer Yin-nourishing formulas. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Huang Tu Tang](https://www.meandqi.com/knowledge-base/formulas/huang-tu-tang)** | Yellow Earth Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Warms the Middle Burner, Nourishes Blood and stops bleeding, Restores the Spleen&#x27;s Governance of Blood | A classical formula for chronic or recurring bleeding caused by weakness and coldness in the digestive system. It warms and strengthens the Spleen&#x27;s ability to keep blood flowing within its proper channels, while also nourishing the blood that has already been lost. Commonly used for dark-colored blood in the stool, heavy menstrual bleeding, or nosebleeds accompanied by cold hands and feet, fatigue, and a pale complexion. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Warms the interior and strengthens Spleen Yang to stop bleeding. |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome |  | Warms the middle burner and dispels cold, supporting the Spleen&#x27;s ability to hold blood. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Tonifies Spleen Qi and dries Dampness, reinforcing the Spleen&#x27;s governing function. |
+| **[E Jiao](https://www.meandqi.com/knowledge-base/herbs/e-jiao)** | Donkey-hide gelatin |  | Nourishes blood and stops bleeding without causing stasis. |
+| **[Huai Hua](https://www.meandqi.com/knowledge-base/herbs/huai-hua)** | Japanese Pagoda Tree Flower | Slightly Cool, Cools the Blood and Stops Bleeding, Clears Liver Fire, Clears Heat and Stops Diarrhea |  |
+| **[Di Yu](https://www.meandqi.com/knowledge-base/herbs/di-yu)** | Garden Burnet Root | Slightly Cool, Cools the Blood and Stops Bleeding, Clears Heat and Resolves Toxicity, Promotes Tissue Regeneration and Heals Sores |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Xiao Ji](https://www.meandqi.com/knowledge-base/herbs/xiao-ji)** | Field Thistle Herb | Cool, Cools the Blood and Stops Bleeding, Invigorates Blood and Reduces Swelling, Resolves Toxicity and Expels Pus |  |
+| **[Pu Huang](https://www.meandqi.com/knowledge-base/herbs/pu-huang)** | Cattail pollen | Neutral, Stops Bleeding, Invigorates Blood and Dispels Stasis, Promotes Urination and Relieves Stranguria |  |
+| **[Mo Han Lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)** | Eclip&#x442;&#x430; herb (False Daisy) | Cold, Nourishes Liver and Kidney Yin, Cools the Blood and Stops Bleeding, Darkens the hair and strengthens the teeth |  |
+| **[San Qi](https://www.meandqi.com/knowledge-base/herbs/san-qi)** | Notoginseng root | Warm, Dispels Stasis and Stops Bleeding, Invigorates Blood and Dispels Stasis, Reduces Swelling and Alleviates Pain |  |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome | Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids |  |
+| **[E Jiao](https://www.meandqi.com/knowledge-base/herbs/e-jiao)** | Donkey-hide gelatin | Neutral, Nourishes Blood, Stops Bleeding, Nourishes Yin |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | With moxibustion. Strengthens Spleen and Stomach, warms Yang, and stops bleeding. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | With moxibustion. Tonifies Spleen Qi and Yang directly. |
+| **REN-8** | [Shenque REN-8](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/shenque-ren-8) | Sh&#xE9;n Qu&#x113; | Warms and rescues the Yang, Strengthens the Spleen | Moxibustion on salt. Warms the center, rescues Yang, and stops diarrhea and bleeding. |
+
+---
+
+## Frequently Asked Questions
+### What does the color of the blood tell a TCM practitioner?
+The color is one of the most important diagnostic clues. Bright-red blood usually means heat or damp-heat is damaging the vessels, while dark, tarry blood points to a deficiency or internal cold. Purple or clotted blood suggests stagnation. Your practitioner will also ask about accompanying sensations - burning, pain, fatigue - to confirm the pattern.
+
+### Can TCM help if I have hemorrhoids that bleed?
+Yes. TCM is often very effective for bleeding hemorrhoids, especially when they are caused by Damp-Heat in the Lower Burner. Herbal formulas like Huai Hua San and acupuncture points such as Shangjuxu ST-37 can cool heat, dry dampness, and stop bleeding. However, if the hemorrhoids are large or prolapsed, you may still need a surgical consultation.
+
+### Is it safe to take Chinese herbs with my blood pressure or heart medication?
+In many cases, yes, but you must inform both your TCM practitioner and your prescribing doctor. Some herbs that move blood or stop bleeding (like San Qi or Pu Huang) can interact with anticoagulants or antiplatelet drugs. Always bring a full list of your medications to your TCM consultation, and never stop your prescribed medication without medical advice.
+
+### How quickly will the bleeding stop after starting TCM treatment?
+For acute, heat-related bleeding, you may see a reduction within a few days to a week of starting herbs and acupuncture. Chronic bleeding from deficiency takes longer - often several weeks - because the body needs time to rebuild its strength. It's important to continue treatment even after the visible bleeding stops to correct the root imbalance and prevent recurrence.
+
+### What foods should I avoid if I have blood in my stool or urine?
+In general, avoid spicy, greasy, and deep-fried foods, as well as alcohol, which can create dampness and heat. If your bleeding is accompanied by cold sensations and fatigue, you should also avoid raw, cold foods and icy drinks. Focus on warm, cooked meals that are easy to digest, like congee, soups, and steamed vegetables. Your practitioner can give you specific dietary advice based on your pattern.
+
+### Can stress cause blood in the stool or urine according to TCM?
+Yes. Emotional stress, especially frustration or anger, can cause Liver Qi stagnation. Over time, stagnant Qi can lead to blood stasis, which may force blood out of the vessels, appearing as dark, clotted blood. This pattern often comes with a fixed, stabbing pain and a purplish tongue. Acupuncture and herbs that move Qi and blood are very helpful in these cases.
+
+---
+
+## Modern Scientific Research
+1. **Clinical observation of Zhi Xue An He Ji in treating senile hemorrhoidal bleeding of damp-heat pouring downward type** ([Link](https://shzyyzz.shzyyzz.com/rc-pub/front/front-article/download/29522075/lowqualitypdf/%E7%97%94%E8%A1%80%E5%AE%89%E5%90%88%E5%89%82%E6%B2%BB%E7%96%97%E6%B9%BF%E7%83%AD%E4%B8%8B%E6%B3%A8%E5%9E%8B%E8%80%81%E5%B9%B4%E7%97%94%E5%87%BA%E8%A1%80%E4%B8%B4%E5%BA%8A%E7%96%97%E6%95%88%E8%A7%82%E5%AF%9F.pdf))
+   *Journal/Publication: 痔血安合剂治疗湿热下注型老年痔出血临床疗效观察 [Clinical observation of Zhi Xue An He Ji in treating senile hemorrhoidal bleeding of damp-heat pouring downward type]. Shanghai Journal of Traditional Chinese Medicine.*
+   This clinical trial evaluated the efficacy of Zhi Xue An He Ji, a Chinese herbal formula containing Huai Jiao, Di Yu, Ce Bai Ye, Huang Qi, and Huo Ma Ren, in elderly patients with hemorrhoidal bleeding due to Damp-Heat in the Lower Burner. The treatment group showed significant improvement in bleeding severity, hemorrhoid prolapse, and anal discomfort compared to the control group, with no serious adverse events reported.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/blood-in-stool-or-urine](https://www.meandqi.com/knowledge-base/conditions/blood-in-stool-or-urine)*

@@ -1,0 +1,173 @@
+# Tong Cao (通草)
+**English Name**: Rice paper pith  
+**Category**: Dampness-draining herbs (利水渗湿药), Stranguria-relieving diuretic herbs (利尿通淋药)  
+**Scientific Name**: Tetrapanax papyrifer (Hook.) K. Koch  
+**Pharmaceutical Name**: Medulla Tetrapanacis  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Sweet (甘 gān), Bland (淡 dàn)  
+**Channels Entered**: Lungs, Stomach  
+**Parts Used**: Stem (茎 jīng)  
+
+---
+
+## Summary
+Tong Cao is the dried pith from the stem of the rice paper plant. It is a mild, cooling herb used mainly to promote urination and relieve fluid retention, and it is especially well known for helping new mothers who have difficulty producing breast milk. Its gentle nature makes it suitable for mild cases of urinary difficulty, mild swelling, and early-stage Damp-Heat conditions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Urinary Health, Breastfeeding and Lactation Support, Fluid Retention and Edema, Postpartum recovery
+- **TCM Actions**: Clears Heat and Promotes Urination, Promotes Lactation, Promotes Urination and Drains Dampness
+
+### How these actions work
+'Clears Heat and promotes urination' means Tong Cao gently guides excess fluid and mild Heat downward and out through the urinary tract. Because it is bland in taste and light in physical weight, it works through a mechanism called 'bland percolation' (淡渗 dàn shèn), quietly seeping Dampness out rather than forcefully purging it. This makes it suitable for conditions where fluid accumulates with mild Heat, causing scanty, dark, or painful urination, mild edema, or the early stages of a warm-Damp illness (湿温 shī wēn). It is a gentle diuretic best suited for mild to moderate cases of Damp-Heat rather than severe, acute blockage.
+'Promotes lactation' (通乳 tōng rǔ) means Tong Cao helps stimulate and unblock the flow of breast milk in new mothers. In TCM understanding, the Stomach channel passes through the breast, and Tong Cao enters the Stomach channel. Its light, upward-moving quality helps Qi rise and circulate through the breast tissue, allowing milk to flow freely. It is one of the most commonly used herbs for insufficient lactation and is often combined with nourishing foods like pork trotters or with other lactation-promoting herbs.
+'Drains Dampness through bland percolation' refers to the herb's overall strategy of using its bland, weightless quality to percolate through the body's fluid pathways and drain accumulated Dampness. Classical commentaries note that Tong Cao works similarly to Mu Tong (Akebia stem) but is milder and less draining, making it less likely to injure Yin fluids. This makes it a safer choice for patients who are not severely blocked or who have borderline fluid deficiency.
+
+---
+
+## Patterns Addressed
+### Damp-Heat in the Lower Burner
+- **Explanation**: Tong Cao's sweet, bland taste and slightly cool nature make it well suited for clearing Damp-Heat that has settled in the Lower Burner (lower abdomen and urinary tract). Its bland quality promotes gentle percolation of fluids through the Bladder, while its cool nature clears mild Heat. By entering the Lung and Stomach channels, it supports the body's overall fluid metabolism from above (the Lung governs water pathways) while draining Heat and Dampness downward through urination. This addresses the core pathomechanism of Damp-Heat in the Lower Burner, where accumulated Dampness and Heat obstruct the free flow of urine.
+- **Clinical Signs & Symptoms**:
+  - **Scanty Urine**: Reduced urine output with dark coloration
+  - **Turbid Urine**: Cloudy or concentrated urine
+
+### Damp-Heat
+- **Explanation**: In early-stage Damp-Heat conditions (湿温 shī wēn), where Dampness is heavier than Heat and the pathogenic factor lingers in the Qi level across all three Burners, Tong Cao serves as an important supporting herb. Its light, bland quality allows it to gently percolate through obstructed fluid pathways without being overly cold or drying. Combined with herbs that open the Upper and Middle Burners (such as apricot kernel and cardamom), Tong Cao clears the Lower Burner, guiding Dampness and Heat downward and out through the urine. Its slightly cool nature clears mild Heat without damaging the Spleen's ability to transform Dampness.
+- **Clinical Signs & Symptoms**:
+  - **Low Appetite**: Chest fullness with no desire to eat
+  - **Afternoon Fever**: Low-grade fever worse in the afternoon
+
+### Qi And Blood Stagnation
+- **Explanation**: When Qi stagnation leads to obstruction of the breast's channels after childbirth, milk cannot flow. Tong Cao enters the Stomach channel, which traverses the breast. Its light, ascending quality helps unblock Qi circulation in this area, allowing milk to descend and flow freely. Though Tong Cao does not directly nourish Blood, its ability to 'open the passages' and promote the smooth movement of Qi through the breast tissue makes it a key herb for lactation failure due to Qi stagnation in the chest and breast region.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Low Milk Supply
+- **Arises from**: Qi And Blood Stagnation
+- **TCM Interpretation**: In TCM, breast milk is produced from Blood and distributed by Qi. Insufficient lactation can arise from two main causes: deficiency of Qi and Blood (not enough raw material to make milk), or stagnation of Qi in the chest and breast channels (the milk is there but cannot flow). The Stomach channel passes directly through the breast, so Stomach Qi circulation is critical for milk ejection. When Qi becomes obstructed after delivery due to emotional stress, physical exhaustion, or simply the body's difficulty adjusting, the milk ducts fail to open properly.
+- **Why it Helps**: Tong Cao enters the Stomach channel and has a characteristically light, upward-rising quality. Classical texts describe it as being able to 'open Qi upward to bring down milk' (通气上达而下乳汁). Its bland percolation unblocks the channels, allowing Qi to circulate freely through the breast tissue and promote milk flow. It is typically combined with Qi and Blood nourishing herbs (like Huang Qi and Dang Gui) when the mother is also deficient, or with channel-opening herbs (like Wang Bu Liu Xing or Chuan Shan Jia) when the primary problem is obstruction.
+
+### Urinary Tract Infection
+- **Arises from**: Damp-Heat in the Lower Burner
+- **TCM Interpretation**: TCM understands urinary tract infections as a form of 'lin zheng' (淋证, stranguria), caused by Damp-Heat pouring downward into the Bladder. The Heat component causes burning and urgency, while the Dampness causes cloudiness, heaviness, and incomplete voiding. The Lung governs the water passages from above, and the Bladder stores and excretes urine below. When either the Lung's descending function or the Bladder's transformation function is impaired by Damp-Heat, urinary symptoms result.
+- **Why it Helps**: Tong Cao clears Heat and promotes urination through bland percolation. It enters the Lung channel, supporting the Lung's role in regulating the water passages from above, while its diuretic action helps flush Damp-Heat from the Bladder below. However, because its action is mild, it is typically combined with stronger diuretic herbs like Hua Shi (talcum), Qu Mai (dianthus), or Mu Tong (akebia stem) for significant urinary tract infections. Tong Cao contributes gentle support without over-draining the body's fluids.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-5g
+- **Maximum Dosage**: Up to 10g in short-term use for acute urinary obstruction or severe lactation insufficiency, under practitioner supervision only.
+- **Dosage Notes**: Standard decoction dose is 3-5g. For promoting lactation, 3-5g is typically used combined with galactagogue herbs and dietary therapy (e.g., pig trotter soup). For urinary conditions (painful urination, edema), 3-5g is standard. Because Tong Cao is extremely light in weight, even small gram amounts represent a substantial volume of herb material. Do not increase the dose significantly beyond 5g, as larger doses may cause nausea and stomach discomfort. The herb should not be combined with Mai Ya (barley sprout/malt), which counteracts its lactation-promoting effect.
+- **Preparation**: 
+
+---
+
+## Processing Methods
+### Zh&#x16B; T&#x14D;ng C&#x1CE;o (&#x6731;&#x901A;&#x8349;)
+- **Processing Method**: Tong Cao slices are lightly moistened with water, then cinnabar (Zhu Sha) powder is evenly sprinkled over them. The slices are turned until uniformly coated, then dried. The traditional ratio is 10 liang of cinnabar per 10 jin of Tong Cao.
+- **How it Changes Properties**: The addition of cinnabar, which enters the Heart channel and settles the spirit, gives this form a mild Heart-calming and restlessness-clearing action. The basic Dampness-draining properties are retained, but the processed form gains the ability to address Heart-related agitation alongside urinary difficulty.
+- **When to Use**: When Damp-Heat conditions are accompanied by restlessness, insomnia, or agitation. The cinnabar coating adds a calming dimension to the herb's primary diuretic action.
+
+---
+
+## Common Herb Pairs
+### Wang Bu Liu Xing (Ratio: Tong Cao 5g : Wang Bu Liu Xing 10g)
+- **Description**: Tong Cao opens Qi circulation in the breast channels via the Stomach meridian, while Wang Bu Liu Xing activates Blood flow and unblocks the network vessels. Together, they address both the Qi and Blood aspects of milk obstruction, producing a much stronger lactation-promoting effect than either herb alone.
+- **When to Use**: Postpartum insufficient lactation due to obstruction of the breast channels, especially when the breasts feel full or distended but milk will not flow.
+
+### Hua Shi (Ratio: Hua Shi 18g : Tong Cao 6g)
+- **Description**: Both herbs are bland and promote urination, but Hua Shi is heavier and more powerfully clears Heat and resolves Summer-Heat, while Tong Cao is lighter and gently percolates Dampness. Together they clear Damp-Heat from the Lower Burner more effectively, combining strong descending action with gentle percolation.
+- **When to Use**: Damp-Heat stranguria with painful, scanty, dark urination, or Summer-Heat conditions with difficulty urinating. This is the classic pairing seen in San Ren Tang.
+
+### Yi Yi Ren (Ratio: Yi Yi Ren 18g : Tong Cao 6g)
+- **Description**: Yi Yi Ren (Coix seed) drains Dampness and strengthens the Spleen from the Middle Burner, while Tong Cao clears Damp-Heat downward through the Lower Burner. Together they address Dampness at multiple levels, especially when the Spleen is overwhelmed by Damp pathology.
+- **When to Use**: Early-stage warm-Damp illness (湿温) with body heaviness, poor appetite, and scanty urination. A core pairing within the San Ren Tang framework.
+
+### Dang Gui (Ratio: Dang Gui 10g : Tong Cao 5g)
+- **Description**: Dang Gui nourishes Blood and promotes circulation, addressing the deficiency component of insufficient lactation, while Tong Cao opens the Qi pathways through the breast. Together they nourish and move, ensuring both adequate milk production and unobstructed flow.
+- **When to Use**: Postpartum insufficient lactation with signs of both Blood deficiency (pale complexion, dizziness) and mild Qi stagnation in the breasts.
+
+---
+
+## Key Formulas
+San Ren Tang, Wen Qi Hua Shi Tang, Huo Pu Xia Ling Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Tong Cao is classified as non-toxic in the Chinese Pharmacopoeia and classical sources including the Ben Cao Shi Yi and the Ben Cao Gang Mu. It has a very mild, bland nature. However, excessive dosage may cause gastrointestinal discomfort including nausea, vomiting, and stomach pain. Some sources note that prolonged use of very high doses may be associated with elevated blood triglycerides and cholesterol. At standard dosages (3-5g), no significant toxicity concerns exist.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Classical sources including the Ri Hua Zi Ben Cao explicitly list Tong Cao as a herb that 'hastens labor and descends the placenta' (催生，下胞). Its downward-draining, fluid-moving properties and its traditional use in promoting delivery indicate potential uterine-stimulating effects. Pregnant women should avoid this herb to prevent risk of miscarriage or premature labor.
+- **Breastfeeding**: Tong Cao has been traditionally used specifically to promote lactation and is one of the most commonly prescribed herbs for insufficient breast milk. It is generally considered safe and beneficial during breastfeeding at standard doses (3-5g), typically combined with pig trotters, Chuan Xiong, or Wang Bu Liu Xing to enhance its galactagogue effect. No adverse effects on the nursing infant have been reported in the classical or modern literature at standard doses. However, as it is cooling in nature, it should be used with caution in mothers with underlying Spleen-Stomach deficiency Cold.
+- **Children**: Tong Cao may be used in pediatric practice at reduced dosages, typically 1-2g for young children, adjusted by age and body weight. It is sometimes used in children for urinary difficulty or mild edema. However, because of its draining and fluid-depleting nature, it should be used cautiously and for short durations in children, who are more susceptible to fluid loss. Not suitable for prolonged use in infants or very young children without practitioner supervision.
+
+### Drug Interactions
+No well-documented pharmacological drug interactions have been established for Tong Cao in the peer-reviewed literature. However, based on its known diuretic (potassium-excreting) properties, theoretical caution is warranted when combining it with:
+- Diuretic medications (e.g., furosemide, hydrochlorothiazide): potential additive diuretic effect leading to excessive fluid or electrolyte loss, particularly potassium depletion.
+- Cardiac glycosides (e.g., digoxin): if potassium levels drop due to combined diuretic effects, the risk of digoxin toxicity may increase.
+- Lithium: diuretics can reduce lithium clearance and increase serum lithium levels.
+These are theoretical interactions based on Tong Cao's pharmacological activity as a mild diuretic. Clinical significance at standard TCM doses (3-5g) is likely low, but patients on these medications should inform their prescribing physician.
+
+### Dietary Advice
+When taking Tong Cao for lactation, it is traditionally combined with rich, nourishing soups (especially pig trotter or carp soup) to support milk production. Avoid combining with Mai Ya (barley malt) or malt-based foods, as malt has a traditional reputation for reducing breast milk. When using Tong Cao for urinary conditions, avoid cold, raw, greasy, or heavily spiced foods that may impede Spleen function and fluid metabolism. Drinking adequate warm water supports its diuretic action.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Tetrapanax papyrifer (Hook.) K. Koch is an evergreen shrub or small tree in the Araliaceae (ginseng) family. It typically grows 3 to 7 metres tall with thick, usually unbranched stems 2 to 9 cm in diameter, topped by a rosette of very large palmate leaves that can reach 50 to 70 cm in diameter. The leaves are 5 to 11-lobed, with each lobe further divided into 2 to 3 segments, and have a heart-shaped base. Young branches, leaf undersides, and flower clusters are covered in white or brownish star-shaped hairs. The plant has a large, white, papery pith at the centre of its stems, which is the medicinal part used in TCM.
+Small white four-petalled flowers appear in autumn (October to December), borne in numerous ball-shaped umbels arranged in large compound panicle-like inflorescences. The fruit is a small, flattened, globular drupe that ripens to purplish-black. The plant grows naturally on sunny hillsides, roadsides, and in mixed thickets at elevations from about 100 to 2,800 metres in warm temperate to subtropical forests. It spreads vigorously via underground suckers and can become quite invasive in favorable conditions.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn. Plants are selected after 2-3 years of growth. The above-ground stems are cut, sectioned, and the pith is pushed out while still fresh, then straightened and dried.
+- **Primary Growing Regions**: Guizhou, Yunnan, Sichuan, Guangxi, Hunan, Hubei, Fujian, and Taiwan provinces of China. Guizhou is the primary commercial source and is considered the best-quality production region for Da Tong Cao (large Tong Cao from Tetrapanax papyrifer). The plant grows naturally on sunny hillsides and in mixed thickets at elevations ranging from near sea level to 2,800 metres in warm, moist subtropical climates.
+- **Quality Indicators**: Good quality Tong Cao pith is cylindrical, 20-40 cm long, 1-2.5 cm in diameter, and pure white or pale yellowish in colour. It should feel very light, soft yet slightly elastic, and break easily to reveal a flat, silvery-white lustrous cross-section. The centre may show a hollow core or semi-transparent membrane arranged in a ladder-like pattern. There should be virtually no smell and no taste. The best pieces are thick, uniformly white, spongy with clear elasticity, and have visible internal membranes. Avoid pieces that are discoloured (greyish or dark), overly compressed, or crumbly. Processed forms include 'Fang Tong Cao' (square thin slices, semi-transparent and paper-like) and 'Si Tong Cao' (irregular thin strips cut from the edges).
+
+### Identity & Adulterants
+The most common source of confusion is between Tong Cao (Da Tong Cao, 大通草) from Tetrapanax papyrifer and Xiao Tong Cao (小通草, 'small Tong Cao') from the stem pith of Stachyurus himalaicus or Stachyurus chinensis (Stachyuraceae) or Helwingia japonica (Helwingiaceae). In the commercial market, Xiao Tong Cao accounts for roughly 70% of products sold under the name 'Tong Cao,' while authentic Tetrapanax pith comprises only about 20%. To distinguish: authentic Tong Cao pith is larger in diameter (1-2.5 cm), very lightweight, has a silvery lustre on the broken surface with visible internal membranes, and does not feel sticky when chewed. Xiao Tong Cao pieces are smaller in diameter, may feel slightly mucilaginous (sticky) when chewed due to the presence of mucilage cells, and lack the characteristic ladder-like membrane pattern. Microscopically, authentic Tong Cao contains calcium oxalate cluster crystals but no mucilage cells, while Xiao Tong Cao from Stachyurus species contains mucilage cells. Pith from Hydrangea species has also been found as an adulterant, identifiable by the presence of calcium oxalate needle crystals rather than cluster crystals.
+
+---
+
+## References
+### Classical Texts
+#### Ri Hua Zi Ben Cao (日华子本草)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+The naming history of Tong Cao is one of the most confusing in Chinese materia medica. In ancient texts before the Song dynasty, the name 'Tong Cao' (通草) referred to what is now called Mu Tong (木通, Akebia stem). The pith used today as Tong Cao was originally known as 'Tong Tuo Mu' (通脱木, literally 'push-through wood'), a name describing how the pith is pushed out of the stem during processing. Li Shizhen clarified this confusion in the Ben Cao Gang Mu (1578), noting that Song dynasty herbals had mixed the two entries together, creating generations of misidentification. His explicit separation of the two herbs helped standardize subsequent usage.
+Beyond medicine, the white pith of Tong Tuo Mu has deep cultural significance. Since the Jin dynasty (265-420 CE), it has been sliced into thin, ivory-textured sheets called 'rice paper' (though it has no relation to rice). These sheets were used to craft exquisite artificial flowers for court ladies' hair ornaments and, in the 19th century, became a popular painting medium in Guangzhou for watercolour works sold to Western traders. These 'Tong Cao paintings' are now prized historical artefacts documenting cross-cultural exchange during the late Qing dynasty. The Ben Cao Shi Yi noted that women artisans used the lightweight white pith to make decorative ornaments, describing it as 'light and white, lovely to behold.'
+
+### Modern Scientific Research
+1. **[Oleanane-type triterpenes from Tetrapanax papyriferus with anti-HIV activity (phytochemical study, 2007)](https://pubmed.ncbi.nlm.nih.gov/17289094/)**
+   *Journal: Ho JC, Chen CM, Row LC. Phytochemistry, 2007, 68(5): 631-635.*
+   This study isolated four new and four known oleanane-type triterpenes from various parts of Tetrapanax papyrifer. One compound, papyriogenin A, showed anti-HIV activity with low toxicity in acutely infected H9 lymphocytes, suggesting potential as a lead compound for antiviral research.
+
+2. **[Therapeutic effect of Tetrapanax papyriferus and hederagenin on chronic neuropathic pain in CCI rats (animal study, 2020)](https://pubmed.ncbi.nlm.nih.gov/32617100/)**
+   *Journal: Evidence-Based Complementary and Alternative Medicine, 2020, Article ID 1715627.*
+   In a rat model of sciatic nerve injury, oral administration of Tetrapanax papyrifer extract and its component hederagenin reduced mechanical, thermal, and cold pain sensitivity. The mechanism involved lowering inflammatory cytokines (IL-1 beta, IL-6, TNF-alpha), inhibiting p38 MAPK phosphorylation, and decreasing TRP channel protein expression in dorsal root ganglia.
+
+3. **[Inhibition of nitric oxide production in BV2 microglial cells by triterpenes from Tetrapanax papyriferus (in vitro study, 2016)](https://doi.org/10.3390/molecules21040459)**
+   *Journal: Cho N, Moon E, Kim H, Hong J, Beutler J, Sung S. Molecules, 2016, 21(4): 459.*
+   Triterpenes isolated from Tetrapanax papyrifer were found to inhibit nitric oxide production in lipopolysaccharide-stimulated BV2 microglial cells and reduce pro-inflammatory cytokines TNF-alpha and IL-6, suggesting potential as natural anti-neuroinflammatory agents relevant to neurodegenerative disorders.
+
+4. **[Flavonoids and benzene derivatives from flowers and fruit of Tetrapanax papyriferus (phytochemical study, 2005)](https://pubmed.ncbi.nlm.nih.gov/16378372/)**
+   *Journal: Ho JC, Chen CM, Row LC. Journal of Natural Products, 2005, 68(12): 1773-1775.*
+   Two new flavonoid compounds (kaempferol derivatives) and ten known compounds were isolated from the flowers and fruit of Tetrapanax papyrifer. The two new compounds showed cytotoxicity in brine shrimp bioassay, pointing to potential anticancer lead activity.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/tong-cao](https://www.meandqi.com/knowledge-base/herbs/tong-cao)*

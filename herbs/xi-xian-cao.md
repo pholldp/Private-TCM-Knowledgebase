@@ -1,0 +1,192 @@
+# Xi Xian Cao (豨莶草)
+**English Name**: Siegesbeckia herb  
+**Category**: Wind-Damp dispelling herbs (祛风湿药)  
+**Scientific Name**: Siegesbeckia orientalis L., Siegesbeckia pubescens Makino, Siegesbeckia glabrescens Makino  
+**Pharmaceutical Name**: Herba Siegesbeckiae  
+**Toxicity**: Slightly toxic  
+**Temperature**: Cold | **Taste**: Bitter (苦 kǔ), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Liver, Kidneys  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Xi Xian Cao (Siegesbeckia herb) is a cooling herb traditionally used to relieve joint pain, stiffness, and swelling caused by Wind and Dampness. It is also used for skin conditions like eczema and rashes, and in modern practice it has become a common herb for managing high blood pressure. Its cold nature makes it best suited for conditions with signs of heat or inflammation.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Joint and Muscle Health, Skin Health, Blood Pressure Support, Mobility and Flexibility
+- **TCM Actions**: Dispels Wind-Dampness, Unblocks the collaterals and benefits the joints, Clears Heat and Resolves Toxicity, Calms the Liver and Subdues Yang
+
+### How these actions work
+'Dispels Wind-Dampness' means this herb drives out the pathogenic Wind and Dampness that lodge in the muscles, joints, and channels, causing pain, stiffness, and swelling. Because Xi Xian Cao is bitter and cold in nature, it is especially well-suited for Wind-Damp-Heat type joint pain where the affected joints feel hot, red, and swollen. It is one of the most commonly used herbs for this type of painful obstruction (bi syndrome).
+'Unblocks the collaterals and benefits the joints' refers to the herb's ability to open up the smaller connecting channels (luo vessels) where pathogenic factors tend to get stuck. When these channels are blocked, the result is numbness, weakness, restricted movement, or even paralysis. This action is why Xi Xian Cao has been traditionally used for conditions like hemiplegia (half-body paralysis after stroke), weak knees and lower back, and stiff limbs. Notably, when the herb is wine-processed, this strengthening and mobilising action on the sinews and bones becomes more pronounced.
+'Clears Heat and resolves toxins' describes the herb's cold nature working to counteract inflammatory, infected, or toxic conditions. In its raw form, Xi Xian Cao can address skin conditions like eczema, boils, and rashes caused by Damp-Heat or toxic Heat. It can be used both internally as a decoction and externally as a wash.
+'Calms Liver Yang' describes the herb's modern clinical application for high blood pressure. When Liver Yang rises unchecked, it can cause headaches, dizziness, and irritability. Xi Xian Cao's bitter-cold nature can subdue this rising Yang, which is why it has been widely adopted in modern TCM practice for hypertension management.
+
+---
+
+## Patterns Addressed
+### Wind-Damp
+- **Explanation**: Xi Xian Cao is bitter, pungent, and cold, entering the Liver and Kidney channels. Its bitter-cold nature directly clears Heat from the joints and channels, while its pungent quality disperses the Wind-Dampness that causes painful obstruction. This makes it one of the primary herbs for Wind-Damp-Heat bi syndrome, where joints are swollen, red, hot, and painful. Unlike warming Wind-Damp herbs such as Du Huo or Wei Ling Xian, Xi Xian Cao's cold property specifically targets the Heat component without aggravating the inflammation.
+- **Clinical Signs & Symptoms**:
+  - **Limited Range of Motion**: Stiffness and restricted movement in limbs
+
+### Liver Yang Rising
+- **Explanation**: Xi Xian Cao enters the Liver channel and has a bitter-cold nature that descends and subdues excess Liver Yang. When Liver Yang rises unchecked (often due to underlying Liver-Kidney Yin Deficiency), it produces headache, dizziness, and irritability. Xi Xian Cao's cooling and descending action helps anchor this rising Yang. Its affinity for both the Liver and Kidney channels allows it to address the root (Kidney) and branch (Liver Yang) simultaneously, making it a practical choice for hypertension patterns rooted in Liver Yang excess.
+- **Clinical Signs & Symptoms**:
+
+### Damp-Heat in the Liver
+- **Explanation**: Xi Xian Cao's ability to clear Heat and resolve toxins, combined with its Dampness-dispelling action, makes it effective for Damp-Heat conditions that manifest on the skin. The herb's bitter taste dries Dampness while its cold nature clears Heat, and its pungent quality moves stagnation outward. This triple action addresses the itch, oozing, redness, and swelling characteristic of Damp-Heat skin conditions. It can be taken internally or applied externally as a wash.
+- **Clinical Signs & Symptoms**:
+  - **Skin Itching**: Intense itching of the skin
+
+---
+
+## Commonly Used For
+### Rheumatoid Arthritis
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: TCM understands rheumatoid arthritis primarily as a bi syndrome (painful obstruction) caused by pathogenic Wind, Dampness, and often Heat invading the joints and channels. When Heat predominates, the joints become red, swollen, hot to the touch, and intensely painful. The pathogenic factors block the flow of Qi and Blood through the channels, leading to stiffness, deformity, and loss of function over time. The Liver governs the sinews and the Kidneys govern the bones, so the Liver and Kidney channels are most directly involved.
+- **Why it Helps**: Xi Xian Cao directly targets the core pathomechanism of Heat-type rheumatoid arthritis. Its cold nature clears the Heat that makes joints red and inflamed, its bitter taste dries the Dampness causing swelling, and its pungent quality disperses the Wind that makes pain move from joint to joint. By entering the Liver and Kidney channels, it reaches the sinews and bones where the disease lodges. Modern pharmacological research has confirmed its anti-inflammatory and immunomodulatory effects, with studies showing it can suppress inflammatory pathways and inhibit immune overactivation.
+
+### Hypertension
+- **Arises from**: Liver Yang Rising
+- **TCM Interpretation**: TCM most commonly interprets hypertension through the lens of Liver Yang Rising. The Liver is responsible for the smooth flow of Qi throughout the body, and when Liver Yin or Kidney Yin becomes deficient, Liver Yang can rise unchecked to the head. This manifests as headache, dizziness, tinnitus, a flushed face, and irritability. Wind-Dampness and Phlegm can also complicate the picture, especially in patients who also experience limb numbness and heaviness.
+- **Why it Helps**: Xi Xian Cao's bitter-cold nature has a natural descending and subduing action on Liver Yang, helping to bring the rising Qi back down. Its entry into both the Liver and Kidney channels means it addresses the organ systems most directly involved in hypertension patterns. The herb's simultaneous ability to dispel Wind-Dampness makes it particularly useful for hypertensive patients who also suffer from limb numbness, heaviness, or weak knees. Modern research has demonstrated that Xi Xian Cao extracts have vasodilating and blood pressure lowering effects.
+
+### Eczema
+- **Arises from**: Damp-Heat in the Liver
+- **TCM Interpretation**: TCM views eczema as the result of Wind, Dampness, and Heat affecting the skin. When Damp-Heat accumulates internally (often from Spleen dysfunction or external exposure), it steams outward to the skin surface causing redness, swelling, oozing, and intense itching. Wind adds the element of movement and variability to the rash. In chronic cases, Blood Deficiency and dryness may also play a role as prolonged Heat consumes Yin and Blood.
+- **Why it Helps**: In its raw (unprocessed) form, Xi Xian Cao's cold and bitter properties are strongest, making it effective at clearing Heat and drying Dampness from the skin. Its pungent quality helps disperse Wind, addressing the itching component. It can be used internally as a decoction or externally as a skin wash. Its toxin-resolving ability helps clear the underlying Damp-Heat accumulation that drives eczema flares.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-12g
+- **Maximum Dosage**: Up to 30-60g in large doses for specific conditions (e.g. hypertension, malaria), under practitioner supervision only. Experienced practitioners like Zhang Xuewen commonly used 30g per decoction without adverse effects.
+- **Dosage Notes**: The standard textbook dosage is 9-12g in decoction. For conditions like hypertension, stroke sequelae, and severe rheumatic pain, experienced practitioners may use 30g or more. For malaria, historical clinical reports used up to 30-45g. The form of preparation significantly affects dosage considerations: raw (unprocessed) Xi Xian Cao is more bitter and cold, better suited for clearing damp-heat and toxins but more likely to cause nausea at higher doses. Wine-steamed (酒蒸) Xi Xian Cao has a warmer, gentler nature and is preferred for chronic Wind-Damp conditions with Liver-Kidney deficiency, where it can be used at higher doses with less risk of stomach upset. When using the raw herb, it is best to start with lower doses. For external use (wash or poultice), dosage is adjusted as appropriate without a strict upper limit.
+- **Preparation**: No special decoction handling is required for standard use. However, the choice between raw and wine-processed forms is clinically important. Raw Xi Xian Cao is simply decocted normally and is preferred for damp-heat conditions, skin rashes, and toxic sores. For chronic Wind-Damp conditions with Liver-Kidney deficiency, the wine-steamed form (酒豨莶草) is preferred. If only raw herb is available, patients can prepare their own wine-steamed version by mixing with yellow rice wine and steaming. The traditional "nine-steaming, nine-drying" method with wine and honey produces the most refined form for long-term tonifying use.
+
+---
+
+## Processing Methods
+### Ji&#x1D4; X&#x12B; Xi&#x101;n C&#x1CE;o (&#x9152;&#x8C68;&#x83B6;&#x8349;)
+- **Processing Method**: The cut segments of Xi Xian Cao are mixed with yellow rice wine (huangjiu, 20kg per 100kg of herb), allowed to absorb the wine, then steamed thoroughly until the herb turns dark/black in colour, then dried.
+- **How it Changes Properties**: Wine-steaming transforms the herb's thermal nature from cold to warm. The raw herb's Heat-clearing and toxin-resolving actions are diminished, while the ability to strengthen sinews and bones and nourish the Liver and Kidneys is enhanced. The wine also helps the herb penetrate more deeply into the channels and collaterals.
+- **When to Use**: Use the wine-processed form for chronic bi syndrome with Liver-Kidney deficiency, manifesting as weak and aching knees and lower back, numbness of the limbs, or post-stroke hemiplegia. This form is preferred when the condition is more about deficiency and weakness than active Heat and inflammation.
+
+### M&#xEC; X&#x12B; Xi&#x101;n C&#x1CE;o (&#x871C;&#x8C68;&#x83B6;&#x8349;)
+- **Processing Method**: The cut segments are mixed with honey, allowed to partially dry, then steamed for approximately one hour and sun-dried.
+- **How it Changes Properties**: Honey processing moderates the herb's bitter-cold nature and adds a sweet, tonifying quality. The honey-processed form is gentler on the Stomach and Spleen, reducing the risk of nausea that the raw herb can cause in large doses.
+- **When to Use**: Use when the patient needs the herb's Wind-Damp dispelling action but has a sensitive digestive system or mild Spleen deficiency that makes the raw cold form poorly tolerated.
+
+### Ji&#x1D4; M&#xEC; Zh&#xEC; X&#x12B; Xi&#x101;n C&#x1CE;o (&#x9152;&#x871C;&#x5236;&#x8C68;&#x83B6;&#x8349;)
+- **Processing Method**: The herb leaves are crushed, mixed with wine, steamed for two days, rested overnight, then sun-dried. This cycle of wine-steaming and sun-drying is repeated nine times (nine-steam-nine-dry method, jiǔ zhēng jiǔ shài). Finally, the herb is stir-fried with honey water until dry.
+- **How it Changes Properties**: This is the most extensively processed form. The repeated processing completely transforms the herb from cold to warm, greatly enhancing its Liver-Kidney tonifying and sinew-bone strengthening properties. The bitter-cold toxin-clearing actions are essentially eliminated. The elaborate processing also reduces any gastrointestinal side effects.
+- **When to Use**: Use for chronic weakness and debility of the lower limbs, paralysis, atrophy (wei syndrome), and conditions where long-term strengthening of sinews and bones is the primary goal. This is the form traditionally used in Xi Xian Wan pills for prolonged consumption.
+
+---
+
+## Common Herb Pairs
+### Chou Wu Tong (Ratio: 1:1 (equal parts))
+- **Description**: Xi Xian Cao and Chou Wu Tong (Clerodendrum trichotomum leaf) are a classical pair that mutually reinforce each other's Wind-Damp dispelling and pain-relieving actions. Together they form the well-known formula Xi Tong Wan. Both herbs can also calm Liver Yang, making this pair effective for hypertension with joint pain.
+- **When to Use**: Wind-Damp bi syndrome with joint pain, weak and aching legs, difficulty walking, or post-stroke hemiplegia. Also used for hypertension with limb symptoms.
+
+### Ji Xue Teng (Ratio: 1:1 to 1:2 (Xi Xian Cao 10-15g : Ji Xue Teng 15-30g))
+- **Description**: Xi Xian Cao dispels Wind-Dampness from the channels while Ji Xue Teng (Spatholobus stem) invigorates Blood and nourishes the sinews. Together they address both the pathogenic obstruction and the underlying Blood stasis and deficiency that often accompany chronic bi syndrome, relieving pain while restoring circulation to the limbs.
+- **When to Use**: Chronic rheumatic joint pain with numbness, stiffness, and poor circulation in the limbs, especially when Blood stasis or Blood deficiency is present alongside Wind-Dampness.
+
+### Qin Jiao (Ratio: 1:1 (Xi Xian Cao 10g : Qin Jiao 10g))
+- **Description**: Both herbs dispel Wind-Dampness and are suitable for both Heat and Cold type bi syndrome. Xi Xian Cao is cold and directly clears Damp-Heat, while Qin Jiao is neutral and moistening (a 'wind agent within the moistening class'). Together they provide a balanced approach to painful obstruction without being overly drying.
+- **When to Use**: Wind-Damp-Heat bi syndrome, especially when there is concern about drying herbs damaging Yin. Also useful for post-stroke limb symptoms with joint stiffness.
+
+### Gou Teng (Ratio: 1:1 (Xi Xian Cao 15g : Gou Teng 15g))
+- **Description**: Xi Xian Cao and Gou Teng (Uncaria hook) both calm Liver Yang and have a cooling nature. Xi Xian Cao adds Wind-Damp dispelling action while Gou Teng excels at extinguishing Liver Wind. Together they address hypertension from Liver Yang Rising with symptoms like headache, dizziness, and limb numbness.
+- **When to Use**: Hypertension with Liver Yang Rising pattern, particularly when accompanied by headache, dizziness, limb numbness, and weak knees.
+
+---
+
+## Key Formulas
+Li Zhong Wan, Ding Xian Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+Xi Xian Cao is classified as slightly toxic (有小毒) in classical sources including the Xin Xiu Ben Cao and Kai Bao Ben Cao. The toxicity manifests primarily when the raw herb is taken internally in large doses or as freshly pressed juice, which can cause nausea and vomiting. Li Shizhen explained that raw juice causes vomiting (hence "slightly toxic"), while the nine-times steamed-and-dried form is considered non-toxic. Modern clinical experience from practitioners like Zhang Xuewen suggests the herb is quite mild in practice, with doses of 30g showing no adverse effects. Proper processing with yellow rice wine (酒蒸) neutralizes the emetic properties and shifts the thermal nature from cold to warm. There is limited formal toxicological data, though some studies have identified certain toxic indices in aqueous extracts. The key active compound kirenol has not shown significant toxicity at therapeutic doses.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Multiple classical and modern sources advise against use in pregnant women. The herb's wind-dispelling, channel-opening, and blood-moving properties pose theoretical risks of disturbing the fetus or stimulating uterine activity. No specific teratogenicity data exists, but the traditional prohibition is consistent across sources and should be respected.
+- **Breastfeeding**: Classical sources advise against use during breastfeeding. There is no specific modern research on transfer of active compounds (such as kirenol or darutoside) into breast milk. Given the herb's bitter, cold nature and slight toxicity classification, it is prudent to avoid use during lactation unless specifically prescribed by a qualified practitioner who has assessed the clinical situation.
+- **Children**: Use with caution in children. One source flags that Xi Xian Cao may suppress normal development, though this is not well documented. Dosage should be reduced proportionally according to the child's age and body weight. Given the herb's slight toxicity classification and bitter cold nature, it should only be used in children under qualified practitioner supervision and for limited durations.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established through formal pharmacological studies. However, based on its known pharmacological properties, the following theoretical interactions should be considered:
+- Antihypertensive medications: Xi Xian Cao has demonstrated hypotensive effects in clinical use. Concurrent use with antihypertensive drugs may cause additive blood-pressure-lowering effects, potentially leading to hypotension.
+- Immunosuppressive drugs: Preclinical research suggests immunosuppressive activity for Siegesbeckia extracts. Theoretical additive effects with pharmaceutical immunosuppressants (e.g. cyclosporine, tacrolimus) should be considered.
+- Anti-inflammatory / antirheumatic drugs (NSAIDs, corticosteroids): Given the herb's demonstrated COX-2 inhibitory and NF-kB pathway modulating effects, there is theoretical potential for additive anti-inflammatory effects when combined with pharmaceutical anti-inflammatory agents.
+Patients on any regular medication should inform their healthcare provider before taking Xi Xian Cao.
+
+### Dietary Advice
+When using raw (unprocessed) Xi Xian Cao for damp-heat conditions, avoid greasy, fried, and rich foods that generate dampness and heat. Avoid cold, raw foods if using the wine-processed form for Wind-Damp impediment with underlying deficiency. Alcohol in moderation is generally acceptable as wine is actually used in the traditional processing method. Avoid excessively spicy foods that may aggravate any underlying heat patterns.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Xi Xian Cao is the dried aerial part of annual herbaceous plants from the genus Siegesbeckia (family Asteraceae). Three species are used medicinally: Siegesbeckia orientalis L., S. pubescens Makino, and S. glabrescens Makino. The plant is an erect, branching annual herb typically growing 40 to 150 cm tall, with reddish-colored, hollow stems bearing opposite, triangular-ovate to lance-shaped leaves that are 4 to 17 cm long and coarsely toothed along the margins. Both stems and leaves are covered with fine hairs and small yellow glands on the undersides of the leaves, giving the plant a slightly sticky, viscous feel.
+Small yellow flower heads appear in summer through autumn, about 10 mm in diameter, arranged in clusters. The plant produces small achene-type fruits with sticky outer bracts. It has a notably unpleasant, pungent odor often compared to pig smell, which is reflected in its Chinese name (豨 xī means "pig" in an old dialect). Xi Xian Cao is a common weed found in mountain slopes, roadsides, field margins, forest edges, and wasteland across warm temperate to tropical regions.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer and autumn, before flowering or during the flowering period. The above-ground parts are cut, partially dried in the sun, then air-dried in a well-ventilated area.
+- **Primary Growing Regions**: Xi Xian Cao is widely distributed across most of China and does not have a single strong "terroir" (dao di) region in the way some herbs do. Production is particularly concentrated in Hunan, Hubei, and Jiangsu provinces, with significant output also from Sichuan, Zhejiang, Anhui, Jiangxi, and other provinces. The three source species have somewhat different ranges: S. orientalis is found across southern and central China and into tropical Asia; S. pubescens (the glandular-stemmed variety) extends further north into Jilin, Liaoning, and Hebei; S. glabrescens is found mainly in Zhejiang, Fujian, Hubei, Hunan, and Yunnan. The plant also grows wild in Japan, Korea, Vietnam, and parts of Africa and Australia.
+- **Quality Indicators**: Good quality Xi Xian Cao herb material should be dry, with thick stems, abundant leaves, large and immature (pre-flowering) branches, and flower buds that have not yet opened. The color should be a bright, vivid green rather than dull or brownish. The stems are cylindrical with longitudinal ridges and fine hairs, greyish-green to yellowish-brown on the surface, and should snap cleanly when broken, revealing a distinct white pith in the cross-section. Leaves should be intact triangular-ovate shapes with visible glandular dots on the undersurface. The smell is faint and slightly unpleasant, and the taste is mildly bitter. Avoid material that is heavily flowering or fruiting (indicating late harvest and reduced potency), excessively woody, yellowed, or with significant leaf loss.
+
+### Identity & Adulterants
+Xi Xian Cao has a historically complex identity. Since as early as the Tang Dynasty, there has been confusion between the true Xi Xian Cao (identified by Li Shizhen as Zhu Gao Mu / 猪膏母, now Siegesbeckia spp.) and Di Song (地菘, a different plant altogether). The Song Dynasty scholar Shen Kuo argued these were different plants with different uses, while other authorities treated them as synonymous. The three official Pharmacopoeia species (S. orientalis, S. pubescens, S. glabrescens) are all accepted as authentic sources but have somewhat different chemical profiles and potency. Other Asteraceae weeds that grow in similar habitats could potentially be mistaken for Xi Xian Cao. Authentic material can be verified by the characteristic sticky glandular hairs, opposite leaves, distinctive pungent odor, and microscopic identification of specific glandular trichome types. The Chinese Pharmacopoeia uses kirenol content as a quality marker for identification.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Tu Jing (本草图经)
+- **Original**: "治肝肾风气，四肢麻痹，骨间疼，腰膝无力者，亦能行大肠气……兼主风湿疮，肌肉顽痹。"
+- **Translation**: "Treats wind conditions of the Liver and Kidney, numbness of the four limbs, pain between the bones, and weakness of the lower back and knees; it also promotes the movement of Qi in the large intestine... and addresses wind-damp sores and stubborn numbness of the flesh."
+
+### Historical Context
+Xi Xian Cao was first recorded as a medicinal substance in the Xin Xiu Ben Cao (Newly Revised Materia Medica, 659 AD) of the Tang Dynasty, where it was described as bitter, cold, and slightly toxic, and indicated for treating metal-weapon wounds, stopping pain and bleeding, promoting flesh growth, and resolving sores and swelling. Its use for Wind-Damp conditions was not yet recognized at that time.
+It was the Song Dynasty Ben Cao Tu Jing that first documented Xi Xian Cao's ability to treat Liver-Kidney wind conditions, limb numbness, bone pain, and lower back weakness. The Song era also saw the development of the famous "nine-steaming, nine-drying" processing method using wine and honey, which transformed the herb from a cold, potentially emetic substance into a warm, tonifying one suitable for long-term use. This processing technique became central to the herb's identity, yielding the celebrated Xi Xian Wan (Siegesbeckia Pill). Notable historical figures associated with promoting Xi Xian Cao include the Song officials Cheng You and Zhang Yong, who each submitted formal petitions to the emperor recommending Xi Xian Wan for treating wind conditions.
+The herb's name carries a colorful etymology: 豨 (xī) is an archaic dialect word for "pig," and 莶 (xiān) refers to pungency. The name literally means "pig-pungent weed," reflecting the plant's strong, unpleasant smell. Li Shizhen's Ben Cao Gang Mu provided a particularly important clarification of the herb's dual nature: raw and cold for clearing heat and toxins, versus processed and warm for tonifying the Liver and Kidney. The famous modern TCM physician Zhang Xuewen championed its use, regularly prescribing 30g doses for hypertension, stroke sequelae, and rheumatic conditions, and the renowned physician Zhu Liangchun also advocated for its blood-activating and toxin-resolving properties.
+
+### Modern Scientific Research
+1. **[Topical anti-inflammatory and analgesic activity of kirenol isolated from Siegesbeckia orientalis (Preclinical, 2011)](https://doi.org/10.1016/j.jep.2011.07.016)**
+   *Journal: Wang JP, Zhou YM, Ye YJ, Shang XM, Cai YL, Xiong CM, Wu YX, Xu HX. Journal of Ethnopharmacology, 2011, 137(3), 1089-1094.*
+   This animal study isolated kirenol from Siegesbeckia orientalis and tested topical formulations for anti-inflammatory and pain-relieving effects in rats. Topical kirenol at 0.4-0.5% showed anti-inflammatory effects comparable to piroxicam gel in a carrageenan-induced inflammation model, and significantly inhibited joint swelling in a chronic arthritis model. The researchers concluded kirenol has potential as a lead compound for topical pain and inflammation management.
+
+2. **[Anti-inflammatory effects of Siegesbeckia orientalis ethanol extract in in vitro and in vivo models (Preclinical, 2014)](https://doi.org/10.1155/2014/329712)**
+   *Journal: Hong YH, Weng LW, Chang CC, Hsu HF, Wang CP, Houng JY. BioMed Research International, 2014, Article 329712.*
+   This study examined the anti-inflammatory mechanisms of an ethanol extract of S. orientalis (SOE) in both cell culture and animal models. SOE significantly reduced the production of inflammatory mediators NO, IL-6, and TNF-alpha in stimulated macrophages. In mice, oral SOE supplementation lowered serum IL-6 levels and improved survival rates in an endotoxemia model. The mechanism involved blocking NF-kB activation by preventing degradation of IkB-alpha.
+
+3. **[Anti-hyperuricemic, anti-inflammatory and analgesic effects of Siegesbeckia orientalis L. resulting from the fraction with high phenolic content (Preclinical, 2017)](https://pubmed.ncbi.nlm.nih.gov/28376775/)**
+   *Journal: Nguyen VT, Nguyen NHP, Linh Thi Nguyen, Cornet C, Tran HQ, Trung Thai H, et al. BMC Complementary and Alternative Medicine, 2017, 17(1), 201.*
+   This study investigated the anti-gout potential of S. orientalis extract in animal models. The butanol-soluble fraction, rich in phenolic compounds like caffeic acid analogues and flavonoids, demonstrated significant anti-hyperuricemic effects through xanthine oxidase inhibition, along with anti-inflammatory and analgesic activities. The findings support the traditional use of this plant for treating gout and inflammatory joint conditions.
+
+4. **[Herba Siegesbeckiae: A review on its traditional uses, chemical constituents, pharmacological activities and clinical studies (Review, 2021)](https://doi.org/10.1016/j.jep.2021.114182)**
+   *Journal: Guo W, Li G, Yang C, Yang C, Xu N, Chen G, et al. Journal of Ethnopharmacology, 2021, 276, 114182.*
+   A comprehensive review article covering the traditional uses, chemical composition (diterpenoids including kirenol and darutoside, flavonoids, organic acids), pharmacological activities (anti-inflammatory, anti-rheumatic, immunosuppressive, antihypertensive, antimicrobial), and clinical applications of all three Siegesbeckia species used in Chinese medicine. The review noted the herb's long history dating to 659 AD and its inclusion in the Chinese Pharmacopoeia.
+
+5. **[Kirenol: A promising bioactive metabolite from Siegesbeckia species: A detailed review (Review, 2021)](https://pubmed.ncbi.nlm.nih.gov/34438028/)**
+   *Journal: Abubakar AR, Shehu S, Haque M. Journal of Ethnopharmacology, 2021, 278, 114303.*
+   A detailed review of kirenol, the primary bioactive diterpenoid from Siegesbeckia species and the official marker compound in the Chinese Pharmacopoeia. The review summarized kirenol's diverse pharmacological activities including anti-inflammatory, anti-arthritic, anticancer, cardioprotective, antimicrobial, wound healing, and anti-adipogenic effects, along with its pharmacokinetics, extraction methods, and toxicity profile.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xi-xian-cao](https://www.meandqi.com/knowledge-base/herbs/xi-xian-cao)*

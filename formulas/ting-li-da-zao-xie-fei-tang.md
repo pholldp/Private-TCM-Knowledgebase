@@ -1,0 +1,76 @@
+# Ting Li Da Zao Xie Fei Tang (葶苈大枣泻肺汤)
+**English Name**: Lepidium Seed and Jujube Decoction to Drain the Lungs  
+**Category**: Phlegm-resolving formulas, Cough-relieving and wheezing-calming formulas  
+**Dynasty/Source**: Jin Gui Yao Lue (金匮要略, Essential Prescriptions of the Golden Cabinet) by Zhang Zhongjing  
+**Temperature**: Cold | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A small but powerful classical formula with just two ingredients, used to drain accumulated phlegm and fluids from the lungs. It is designed for acute situations where thick phlegm and water congestion cause severe wheezing, chest tightness, difficulty breathing when lying down, and facial swelling. The jujube dates in the formula protect the digestive system from the potent draining action of the Descurainia seeds.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Clears Lung Heat, Promotes Bowel and Urinary Movement, Descends Qi and calms wheezing, Expels phlegm from the Lungs, Promotes Urination and Reduces Edema
+- **Therapeutic Focus**: Respiratory Health, Fluid Retention and Edema, Heart health, Chest Congestion Relief
+- **Target Organs**: Lungs, Spleen, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Pleural Effusion, Congestive Heart Failure, Pneumonia, Bronchial Asthma, Chronic Obstructive Pulmonary Disease, Bronchitis, Pericardial Effusion, Edema, Acute Lung Injury
+- **Other Names**: Ting Li Da Zao Tang (葶苈大枣汤, Lepidium Seed and Jujube Decoction), Ting Li Xie Fei Tang (葶苈泻肺汤, Lepidium Seed Decoction to Drain the Lungs)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ting Li Zi** | Pepperweed seed | *King* | 9 - 15g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Urinary Bladder | The sole active therapeutic agent in this formula. Ting Li Zi is acrid, bitter, and cold, entering the Lung and Bladder channels. It powerfully drains the Lungs, expels phlegm and fluid accumulation, descends Lung Qi to relieve wheezing, and promotes water movement to reduce edema. It directly addresses the core pathomechanism of phlegm-fluid congesting the Lungs. |
+| **Da Zao** | Jujube fruit | *Assistant* | 12 pieces (approximately 30 - 40g) | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach, Heart | Serves as a restraining assistant. Da Zao is sweet and warm, tonifying the Spleen and Stomach, nourishing Qi and moderating the harsh, draining nature of Ting Li Zi. It prevents the potent purgative action of Ting Li Zi from injuring the Spleen and Stomach, protecting the body's upright Qi while the formula expels pathogenic fluids. As the Qian Jin Fang commentary notes, this is a strategy of 'draining the Lungs without injuring the Spleen,' preserving the mother organ (Spleen/Earth) to support the Lung's (Metal's) eventual recovery. |
+
+---
+
+## Scientific Research
+
+1. [Network Pharmacology and Experimental Validation of the Anti-Inflammatory Effect of Tingli Dazao Xiefei Decoction in Acute Lung Injury Treatment (Network Pharmacology + In Vivo/In Vitro Study, 2023)](https://pubmed.ncbi.nlm.nih.gov/38145012/) (*Zhang C, Li X, Gao D, Zhu H, Wang S, Tan B, Yang A. Journal of Inflammation Research, 2023, 16: 6195-6209.*)
+> Using network pharmacology, molecular docking, and LPS-induced acute lung injury mouse models, researchers found that the formula could reduce lung inflammation by simultaneously inhibiting the PI3K/AKT/PTEN and JAK2/STAT3 signaling pathways, reducing inflammatory cell infiltration and cytokine release in lung tissue.
+2. Exploring the Therapeutic Mechanism of Tingli Dazao Xiefei Decoction on Heart Failure Based on Network Pharmacology and Experimental Study (Network Pharmacology + Animal Study, 2021) (*Zhao DD, Zhang XQ, Yang T, Liu Q, Lan ZZ, Yang XL, Qu HY, Zhou H. Evidence-Based Complementary and Alternative Medicine, 2021, 2021: 6645878.*)
+> This study used network pharmacology combined with a rat heart failure model (LAD coronary artery ligation) to demonstrate that the formula improved cardiac function and protected against cardiac injury. Key active components included quercetin, kaempferol, and beta-sitosterol, acting through PI3K/Akt and MAPK signaling pathways.
+3. Tingli Dazao Xiefei Decoction Ameliorates Asthma In Vivo and In Vitro from Lung to Intestine by Modifying NO-CO Metabolic Disorder (Animal Study, 2023) (*Ruan Y, Yuan PP, Li PY, Chen Y, Fu Y, Gao LY, Wei YX, Zheng YJ, Li SF, Feng WS, Zheng XK. Journal of Ethnopharmacology, 2023, 313: 116503.*)
+> In asthmatic rats, the formula improved NO-CO metabolism in the lungs, which indirectly improved intestinal function. The study demonstrated that the formula could co-regulate inflammation, immune imbalance, cellular barrier damage, oxidative stress, and intestinal bacterial disorders, supporting the TCM concept of the Lung-intestine connection.
+4. [Tingli Dazao Decoction Pretreatment Ameliorates Mitochondrial Damage Induced by Oxidative Stress in Cardiomyocytes (In Vitro Study, 2023)](https://pubmed.ncbi.nlm.nih.gov/36455763/) (*Journal of Ethnopharmacology, 2023 (online ahead of print).*)
+> Using H9c2 cardiac cells under oxidative stress, this study found that the formula protected mitochondrial function in heart cells through activation of the AKT/Nrf2/HO-1 signaling pathway. Chemical analysis identified multiple active constituents, supporting its traditional use in heart failure with fluid retention.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Ting Li Zi (Descurainiae/Lepidii Semen) is a powerfully draining, cold herb that aggressively expels water and descends Qi. While it is not a classical abortifacient, its harsh downward-draining action could theoretically compromise the stability of pregnancy by depleting Qi and fluids. The formula's strong purgative effect on water and its potential to cause electrolyte imbalances (particularly hypokalemia) pose additional risks to both mother and fetus. It should only be considered during pregnancy if the condition is severe and life-threatening (e.g. acute respiratory distress with pleural effusion), and only under close supervision by an experienced practitioner who can carefully adjust dosage and duration.
+
+### Breastfeeding
+Limited safety data exists for use during breastfeeding. Ting Li Zi (Descurainiae/Lepidii Semen) is a strongly draining, bitter cold herb, and its active compounds (cardiac glycoside-like substances, glucosinolates) may potentially transfer into breast milk. The formula's cold nature and strong downward-draining properties could theoretically reduce milk production by depleting Qi and fluids in the mother. If clinically necessary for an acute condition during breastfeeding, use the lowest effective dose for the shortest possible duration and monitor both the nursing mother and infant for signs of digestive upset or fluid depletion. Consult a qualified practitioner before use.
+
+### Children
+This formula has been used in pediatric settings, particularly for conditions like childhood pneumonia, bronchiolitis, and bronchial asthma. However, because Ting Li Zi is a harsh, powerfully draining herb, dosage must be significantly reduced for children. A general guideline is to use roughly one-third to one-half the adult dose depending on the child's age and body weight. For infants and toddlers (under 3 years), use with extreme caution and only under close professional supervision, as the risk of fluid depletion and electrolyte disturbance is higher. The formula should be used for the shortest effective duration in children. Monitor for signs of excessive fluid loss (increased urination, thirst, lethargy). Avoid use in constitutionally weak or underweight children where the underlying pattern is one of deficiency rather than excess.
+
+### Drug Interactions
+Diuretics (furosemide, hydrochlorothiazide, spironolactone): Ting Li Zi has documented diuretic and water-expelling effects. Concurrent use with pharmaceutical diuretics may potentiate fluid loss and increase the risk of dehydration and electrolyte imbalances, particularly hypokalemia. Potassium levels should be monitored if combined use is unavoidable.
+Cardiac glycosides (digoxin): Ting Li Zi contains cardiac glycoside-like (强心甙) compounds that can increase cardiac contractility and slow heart rate. Concurrent use with digoxin or other cardiac glycoside drugs may produce additive or synergistic cardiotonic effects, potentially reaching toxic levels. Signs of toxicity include nausea, visual disturbances, and cardiac arrhythmias. This combination should be avoided or very carefully monitored.
+Antihypertensive medications: The diuretic action of the formula may enhance the blood pressure-lowering effects of antihypertensive drugs, potentially causing hypotension. Monitor blood pressure if used together.
+Potassium-depleting agents: Any medication that lowers potassium (corticosteroids, certain laxatives, amphotericin B) used alongside this formula's water-draining effects may compound the risk of dangerous hypokalemia.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Traditionally taken as a single dose (顿服, dùn fú), meaning the entire decoction is consumed at once rather than split across the day. In modern practice, it is typically taken warm, 30 minutes after meals to reduce potential gastric irritation from Ting Li Zi's bitter cold nature.
+- **Typical Duration**: Acute use: 3-7 days, with reassessment. Not intended for prolonged use due to the harsh, draining nature of Ting Li Zi. Extended use risks electrolyte imbalances (hypokalemia).
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods, icy drinks, and greasy or deep-fried foods, as these can generate additional phlegm and dampness, counteracting the formula's draining action.
+Avoid dairy products, excessive sugar, and heavy starchy foods that tend to produce phlegm.
+Light, warm, easily digestible foods are recommended, such as rice porridge, steamed vegetables, and clear soups.
+Ensure adequate fluid intake to prevent excessive dehydration from the formula's diuretic effect, but avoid overdrinking water, which could worsen fluid retention.
+If there is significant edema, moderate salt intake to avoid fluid retention.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/ting-li-da-zao-xie-fei-tang](https://www.meandqi.com/knowledge-base/formulas/ting-li-da-zao-xie-fei-tang)*

@@ -1,0 +1,227 @@
+# โรคเกรฟส์ (瘿气)
+**คำอ่านพินอิน**: yǐng qì | **ประเภท**: Condition | **หมวดหมู่**: สภาวะต่อมไร้ท่อและเมตาบอลิซึม, ภาวะต่อมไทรอยด์, สภาวะภูมิคุ้มกันและภูมิต้านทานตนเอง  
+**ชื่อเรียกอื่นๆ**:  | **บริเวณร่างกาย**: Neck — Anterior
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+โรคเกรฟส์ส่วนใหญ่ใน TCM เริ่มต้นด้วยความเครียดทางอารมณ์ที่ผูกปมชี่ตับ ลุกลามไปสู่ไฟ เสมหะ หรือหยินขาด และแต่ละขั้นตอนจะตอบสนองต่อสมุนไพรและ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Graves' disease is an autoimmune disorder where the body produces antibodies that stimulate the thyroid gland to overproduce thyroid hormones. This leads to symptoms like weight loss despite increased appetite, heat intolerance, sweating, palpitations, tremor, anxiety, and often a diffuse enlargement of the thyroid (goiter). Some people also develop eye changes - bulging, redness, or discomfort. Diagnosis is confirmed by blood tests showing suppressed TSH and elevated T3/T4, along with thyroid-stimulating antibodies.
+
+### การรักษาหลัก (Treatments)
+Standard treatment aims to reduce thyroid hormone levels. Antithyroid medications like methimazole or propylthiouracil (PTU) block hormone production. Beta-blockers are used short-term to control palpitations and tremor. Radioactive iodine therapy destroys overactive thyroid cells, often resulting in lifelong hypothyroidism requiring thyroid hormone replacement. Thyroidectomy (surgical removal) is an option for large goiters or when other treatments are unsuitable.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM sees Graves' disease as a disorder rooted in emotional strain that disrupts the Liver's ability to keep Qi moving smoothly. When the Liver becomes stuck, Qi flow stagnates. This stagnation can then generate heat and fire, or it can impair fluid metabolism, causing dampness to accumulate and thicken into phlegm.
+That phlegm rises and lodges in the neck, forming the characteristic goiter. So the initial trigger is almost always emotional - frustration, anger, or long-held resentment - that knots the Liver Qi.
+As the condition progresses, the stagnant Qi can transform into blazing Liver Fire. This fire flares upward, causing the face to flush, the eyes to protrude, and the heart to race. The heat disturbs the Heart spirit, leading to anxiety, insomnia, and restlessness. At this stage, the person feels literally 'on fire' - irritable, overheated, and unable to calm down. The goiter may still be soft, but the dominating symptoms are heat and agitation.
+When Liver Qi attacks the Spleen - another common pattern - the digestive system suffers. The Spleen's ability to transform food and fluids is weakened, causing bloating, loose stools, fatigue, and poor appetite. Dampness and phlegm accumulate more easily, worsening the goiter. This pattern often appears in people whose stress goes straight to their gut, with emotional ups and downs and digestive discomfort.
+Over time, if the fire is not cleared, it burns up the body's yin fluids - the cooling, moistening substance that anchors the mind and body. This leads to Kidney and Liver Yin Deficiency. The person feels depleted, with night sweats, a dry mouth, hand tremors, and a red, cracked tongue.
+The goiter may persist, but the dominant picture is one of deep internal dryness and heat from deficiency, not excess. This is why the same Western diagnosis can have four very different TCM presentations - and each requires a distinct treatment strategy.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A practitioner will first feel the goiter. In the Qi-Phlegm pattern, the swelling is typically soft and diffuse, without distinct nodules. The person often sighs frequently and feels chest tightness or a sensation of something stuck in the throat. The tongue coating is thin and white, and the pulse feels wiry. These signs point to early-stage stagnation of Qi that has failed to move fluids, causing phlegm to accumulate in the neck.
+When stagnant Qi transforms into fire, the picture shifts dramatically. The goiter may still be soft, but the person now feels intense heat, flushes easily, and is noticeably irritable. They may complain of a bitter taste in the mouth and a rapid heartbeat. The tongue becomes red with a yellow coating, and the pulse is rapid and forceful. These heat and agitation signs distinguish Liver Fire Blazing from the milder Qi-Phlegm pattern.
+In the Rebellious Liver Qi invading the Spleen pattern, the neck swelling is joined by digestive complaints. The person often feels emotionally down, fatigued, and bloated after eating. Stools may be loose, and appetite is poor. The tongue is pale with a thin white coating, and the pulse is wiry but thin. This picture reveals that Liver Qi stagnation is overacting on the Spleen, disrupting its digestive and energy-producing functions.
+As the condition lingers, the fire generated by stagnation consumes the body’s cooling yin fluids. The goiter may become less prominent, but palpitations, insomnia, hand tremors, and dizziness take center stage. The tongue appears red with little or no coating, and the pulse is thin and rapid. This Kidney and Liver Yin Deficiency pattern signals deep yin depletion of the Liver and Kidneys, requiring nourishment rather than simply clearing heat.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「瘿者，由忧恚气结所生，亦曰饮沙水，沙随气入于脉，搏颈下而成之。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Goiter arises from emotional depression and Qi stagnation, or from drinking sandy water that enters the vessels and accumulates below the neck."
+> 
+> — แหล่งที่มา: *诸病源候论  ,  卷三十一·瘿候 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Qi-Phlegm
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-phlegm)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Soft, diffuse goiter that may fluctuate in size, Sensation of a lump in the throat that cannot be swallowed, Chest tightness and frequent sighing, Symptoms worsen with emotional stress, Moodiness or depression, Nausea or queasiness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Stress and frustration, Greasy or dairy-rich foods, Sedentary habits, Overthinking and worry
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Emotional calm and relaxation, Gentle exercise, Warm, easily digested meals, Sighing or deep breathing
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Graves' disease often begins with emotional strain that knots up the Liver's ability to keep Qi moving smoothly. When Qi flow stalls, it stops governing the body's fluids properly, so dampness gathers and thickens into phlegm. That phlegm then rises and lodges in the neck, forming the soft, diffuse swelling characteristic of early-stage 瘿气.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal-coloured body, possibly slightly swollen, with a white greasy or slippery coating. Pulse: wiry (弦 xián) and slippery (滑 huá).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress is the primary driver of Liver Qi stagnation, which directly leads to phlegm accumulation and goiter formation, so calming the mind naturally eases the root cause. Greasy and heavy foods create dampness, the raw material for phlegm, while light, warm foods support the Spleen's ability to transform fluids. Gentle movement physically circulates Qi, preventing the stagnation that thickens fluids into phlegm.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Minimise greasy, sweet, and dairy-heavy foods that create dampness and phlegm. Favour lightly cooked vegetables, moderate whole grains, and small amounts of warming spices like ginger. Daily gentle movement such as walking or qigong helps keep Qi flowing and prevents stagnation. Prioritise stress management through regular relaxation practices, as emotional ease is central to recovery.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | Soothes Liver Qi stagnation and helps disperse phlegm, addressing the root of the goiter. |
+| **[Ban Xia Hou Po Tang](https://www.meandqi.com/knowledge-base/formulas/ban-xia-hou-pu-tang)** | Pinellia and Magnolia Bark Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Moves Qi and Dissipates Nodules, Descends Qi, Resolves Phlegm | A classic formula for the &#x27;plum-pit&#x27; sensation, resolving phlegm and regulating Qi in the throat. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Hai Zao](https://www.meandqi.com/knowledge-base/herbs/hai-zao)** | Sargassum seaweed |  | Softens hardness and resolves phlegm, specifically targeting neck swellings. |
+| **[Kun Bu](https://www.meandqi.com/knowledge-base/herbs/kun-bu)** | Kelp |  | Works with Hai Zao to dissolve phlegm masses and reduce goiter. |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel |  | Regulates Qi and dries dampness to prevent further phlegm formation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | With Taichong, opens the Four Gates to strongly move stagnant Qi. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Smooths Liver Qi and relieves emotional constraint. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point to transform phlegm and dampness throughout the body. |
+| **REN-22** | [Tiantu REN-22](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/tiantu-ren-22) | Ti&#x101;n T&#x16B; | Descends Lung Qi, Benefits the throat and voice | Local point to directly unbind the sensation of a lump in the throat. |
+
+---
+
+### Liver Fire Blazing
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-fire-blazing)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Throbbing headache at temples, Intense irritability and short temper, Red, painful or burning eyes, Flushed red face, Bitter taste in mouth, Sensation of heat and excessive sweating, Goiter that may feel warm or tender
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, greasy, or fried foods, Emotional stress and anger, Alcohol and coffee, Hot weather or overheated rooms, Overwork and lack of sleep
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods (cucumber, watermelon), Stress management (meditation, yoga), Cool environment, Gentle exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When prolonged emotional stress causes Liver Qi to stagnate, it can eventually generate intense heat-Liver Fire. This fire flares upward along the channel, causing the thyroid gland in the neck to swell and become painful. The fire also disturbs the Heart spirit, leading to palpitations, insomnia, and severe irritability, while the heat accelerates the body's metabolism, producing the classic hyperthyroid symptoms of heat intolerance, sweating, and weight loss.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with redder sides, dry yellow coating, possible red prickles. Pulse: wiry, rapid, and forceful, especially in the left middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Liver Fire is like a flame inside the body. Stress and anger fan the flame, while spicy, greasy foods and alcohol add fuel. Cooling foods and a calm, cool environment help douse the fire. Gentle exercise moves Qi without overheating, and rest allows the Liver to recover.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat cooling foods like cucumber, watermelon, celery, and mung beans. Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat. Practice stress-reducing activities such as meditation, gentle yoga, or walking. Keep a cool environment and avoid overheating.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Luo Wan](https://www.meandqi.com/knowledge-base/formulas/xiao-luo-wan)** | Scrofula-Dissolving Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Clears Heat and nourishes Yin, Transforms Phlegm, Softens hardness and dissipates nodules | Softens hardness and dissipates nodules, specifically targeting the goiter. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit |  | Clears Liver fire and reduces irritability. |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike |  | Clears Liver fire and dissipates nodules, especially for thyroid swelling and eye symptoms. |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Soothes Liver Qi stagnation, addressing the root cause of fire generation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Reduce. Subdues Liver Yang and clears fire. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | Reduce. The fire point of the Liver channel, strongly drains Liver fire. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Reduce. Clears heat from the head and benefits the eyes. |
+
+---
+
+### Rebellious Liver Qi invading the Spleen
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/rebellious-liver-qi-invading-the-spleen)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Loose stools or diarrhea triggered by emotional upset, Abdominal pain that eases after a bowel movement, Bloating and excessive gas after eating, Frequent sighing and emotional depression, Fatigue that worsens after meals, Alternating constipation and loose stools
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Anger, frustration, or worry, Raw, cold, or greasy foods, Overeating or irregular meals, Prolonged stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm, easily digested meals, Emotional calm and relaxation, Gentle abdominal warmth, Light walking after eating
+- **กลไกการเกิดอาการ (Why this happens)**:
+  In Graves' disease, emotional stress and frustration cause Liver Qi to stagnate and then surge sideways, attacking the Spleen. This invasion disrupts the Spleen's ability to transform food and fluids, leading to bloating, loose stools, and fatigue, while the stagnant Qi and the dampness it creates accumulate in the neck, forming the soft goiter. Because the Spleen is weakened, the body struggles to generate energy, and the digestive symptoms are directly triggered or worsened by emotional upset.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal or slightly pale body with possible teeth marks, and a thin white coating that may be slightly greasy. Pulse: wiry overall, distinctly wiry at the left middle (guan) position, and softer at the right middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress causes Liver Qi to surge and invade the Spleen, directly triggering the digestive upset. Warmth and calm soothe the Liver and support the Spleen's digestive fire, while cold and heavy foods further weaken the already compromised Spleen, worsening bloating and loose stools.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals at regular times, and avoid raw, cold, or greasy foods that burden the Spleen. Gentle daily movement like walking helps Qi flow, and stress management through deep breathing or meditation prevents the Liver from flaring up.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | The primary formula to soothe the Liver and strengthen the Spleen, relieving both emotional and digestive symptoms. |
+| **[Xiang Sha Liu Jun Zi Tang](https://www.meandqi.com/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang)** | Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE | Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation | Often added to boost Spleen Qi and resolve dampness, especially when bloating and loose stools are prominent. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Smoothes Liver Qi flow and reduces the rebellious sideways attack on the Spleen. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Tonifies the Spleen and dries dampness, directly addressing the root of loose stools and fatigue. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Strengthens the Spleen and leaches out dampness, easing bloating and gas. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Boosts Spleen and Lung Qi to restore energy and improve appetite. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Subdues rebellious Liver Qi and relieves rib-side distension. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies the Spleen and Stomach, reducing bloating and fatigue. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes the Liver and Spleen, and regulates digestion. |
+| **SP-4** | [Gongsun SP-4](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/gongsun-sp-4) | G&#x14D;ng S&#x16B;n | Harmonizes the Spleen, Stomach and Intestines, Regulates the Penetrating Vessel and menstruation | Regulates the Spleen and Stomach, especially for abdominal pain and loose stools. |
+
+---
+
+### Kidney and Liver Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-and-liver-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Palpitations and insomnia with vivid dreams, Hand tremors, Night sweats and heat in the palms, soles, and chest, Dry eyes and blurred vision, Soreness and weakness of the lower back and knees, Dizziness and ringing in the ears
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and lack of sleep, Stress and frustration, Spicy, greasy, or fried foods, Excessive sweating or heat exposure
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate sleep, Cool environment, Moistening foods like pear and congee, Gentle exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Graves' disease often begins with Liver Qi stagnation and fire. Over time, that fire burns up the body's Yin fluids, like a flame slowly drying a pot of water. When Kidney and Liver Yin become depleted, there is not enough cooling, moistening substance to anchor the body's Yang energy. This causes empty heat to rise, producing the palpitations, night sweats, hand tremors, and restless heat in the palms, soles, and chest that are typical of this later stage. The goiter may still be present but is often soft, as the dominant problem has shifted from phlegm accumulation to Yin deficiency.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine, rapid, and wiry; the left Chi (Kidney) position is weak, the left Guan (Liver) position is thin and slightly wiry.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney and Liver Yin are easily consumed by overwork, insufficient sleep, and emotional strain, all of which generate internal heat. Spicy and fried foods add more heat to an already overheated system, worsening night sweats and palpitations. Rest, cooling foods, and quiet environments allow the body to rebuild Yin and subdue empty heat, directly countering the root of this pattern.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Prioritise rest and go to bed early, as Yin is rebuilt during sleep. Eat cooling, moistening foods like black sesame, goji berries, pear, and millet, while avoiding spicy, fried, or overly heating foods. Gentle, restorative practices such as yin yoga or meditation help preserve Yin and calm the mind.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Qi Ju Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/qi-ju-di-huang-wan)** | Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;) | Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat | Nourishes Liver and Kidney Yin, clears deficiency heat, and brightens the eyes. The classic choice for this pattern in Graves&#x27; disease. |
+| **[Yi Guan Jian](https://www.meandqi.com/knowledge-base/formulas/yi-guan-jian)** | Linking Decoction &#xB7; Q&#x12B;ng dynasty, 1770 CE | Cool, Nourishes Liver and Kidney Yin, Soothes the Liver and Regulates Qi, Nourishes Blood and Softens the Liver | A gentle formula that nourishes Liver Yin and soothes Liver Qi, useful when rib-side discomfort and emotional fragility are prominent. |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints. |
+| **[Ban Xia Hou Po Tang](https://www.meandqi.com/knowledge-base/formulas/ban-xia-hou-pu-tang)** | Pinellia and Magnolia Bark Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Warm, Moves Qi and Dissipates Nodules, Descends Qi, Resolves Phlegm | A classical formula used to relieve the sensation of something stuck in the throat (sometimes called plum-pit Qi) along with chest tightness, nausea, and emotional unease. It works by restoring the smooth flow of Qi and resolving accumulated Phlegm that has knotted in the throat and chest, particularly when these symptoms are triggered or worsened by stress. |
+| **[Xiao Luo Wan](https://www.meandqi.com/knowledge-base/formulas/xiao-luo-wan)** | Scrofula-Dissolving Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Clears Heat and nourishes Yin, Transforms Phlegm, Softens hardness and dissipates nodules | A classical three-herb formula used to dissolve lumps and nodules in the neck and elsewhere in the body. It works by nourishing the body&#x27;s fluids, clearing excess heat, and softening hardened masses caused by the accumulation of phlegm and fire. Commonly applied for thyroid nodules, enlarged lymph nodes, and breast lumps. |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | A classical formula for people who feel stressed, emotionally tense, or irritable, especially when accompanied by fatigue, poor appetite, digestive upset, or menstrual irregularity. It works by gently restoring the smooth flow of Liver Qi while nourishing the blood and strengthening digestion. One of the most widely used formulas in traditional Chinese medicine, it is often described as helping a person feel &#x27;free and easy&#x27; again. |
+| **[Xiang Sha Liu Jun Zi Tang](https://www.meandqi.com/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang)** | Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE | Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation | A classical formula designed to strengthen weak digestion and relieve bloating, nausea, and abdominal discomfort caused by a weak Spleen and Stomach with dampness and stagnation. It builds upon the foundational Si Jun Zi Tang (Four Gentlemen Decoction) by adding herbs that move Qi and resolve phlegm, making it especially suited for people whose digestive weakness is accompanied by a feeling of fullness, poor appetite, and loose stools. |
+| **[Qi Ju Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/qi-ju-di-huang-wan)** | Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;) | Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat | A classical formula that nourishes the Liver and Kidneys to support eye health and clear vision. It is used for blurred vision, dry eyes, sensitivity to light, excessive tearing in wind, dizziness, and ringing in the ears caused by Liver and Kidney Yin deficiency. Built on the famous Liu Wei Di Huang Wan (Six-Ingredient Rehmannia Pill) with the addition of goji berry and chrysanthemum flower for their vision-supporting properties. |
+| **[Yi Guan Jian](https://www.meandqi.com/knowledge-base/formulas/yi-guan-jian)** | Linking Decoction &#xB7; Q&#x12B;ng dynasty, 1770 CE | Cool, Nourishes Liver and Kidney Yin, Soothes the Liver and Regulates Qi, Nourishes Blood and Softens the Liver | A classical formula designed to deeply nourish and moisten the Liver and Kidneys while gently restoring the smooth flow of Liver Qi. It is used for people experiencing rib-side or chest pain, acid reflux, bitter taste in the mouth, dry throat, and emotional tension that arise when the body&#x27;s fluids and blood become depleted, leaving the Liver dry and unable to function smoothly. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit |  | Nourishes Liver and Kidney Yin and benefits the eyes, addressing dry eyes and blurred vision. |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | The primary herb for enriching Kidney Yin and replenishing essence, easing lower back soreness and night sweats. |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit |  | Stabilizes the Kidney and preserves Yin, reducing dizziness and excessive sweating. |
+| **[Hai Zao](https://www.meandqi.com/knowledge-base/herbs/hai-zao)** | Sargassum seaweed | Cold, Dissipates Nodules and Softens Hardness, Dissolves Phlegm, Promotes Urination and Reduces Edema |  |
+| **[Kun Bu](https://www.meandqi.com/knowledge-base/herbs/kun-bu)** | Kelp | Cold, Dissipates Nodules and Softens Hardness, Resolves Phlegm, Promotes Urination and Reduces Edema |  |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel | Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner |  |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit | Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice |  |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike | Cold, Clears Liver Fire and drains Fire, Brightens the Eyes, Disperses stagnation and reduces nodules |  |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit | Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit | Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel; strongly nourishes Kidney Yin to cool empty heat. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonises the Spleen, Liver, and Kidney, supporting Yin production and calming the mind. |
+| **BL-18** | [Ganshu BL-18](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18) | G&#x101;n Sh&#x16B; | Resolves Damp-Heat, Invigorates Liver Qi and Blood | The Back-Shu point of the Liver; nourishes Liver Yin and soothes Liver Qi. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | The Back-Shu point of the Kidney; tonifies Kidney Yin and strengthens the lower back. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM cure Graves' disease?
+TCM cannot replace antithyroid drugs, but it can help manage symptoms, reduce goiter size, and support long-term remission. Many patients use TCM alongside conventional treatment to lower medication doses and prevent relapse. Always work with your endocrinologist and never stop your medication without medical advice.
+
+### How soon will I feel better with acupuncture and herbs?
+Symptom relief - like less irritability, better sleep, and reduced heat sensation - may appear within 2-4 weeks. Goiter reduction is slower, often taking 2-3 months. If your pattern is a deficiency type (Kidney and Liver Yin Deficiency), expect a longer journey of 3-6 months as your body rebuilds its reserves.
+
+### Can I take Chinese herbs with methimazole or PTU?
+Yes, under careful supervision. Some herbs may influence thyroid function, so your TCM practitioner should coordinate with your prescribing doctor and monitor thyroid levels regularly. Never stop your antithyroid medication abruptly - TCM works as a complement, not a substitute, during active treatment.
+
+### Does acupuncture help with Graves' eye disease?
+Acupuncture may reduce inflammation and discomfort around the eyes, especially when combined with herbs that clear liver fire and nourish yin. Points around the eyes and along the liver channel are often used. However, severe eye protrusion or vision changes require immediate ophthalmology care - acupuncture is supportive, not a replacement for urgent eye treatment.
+
+### What foods should I avoid with Graves' disease?
+In general, avoid spicy, greasy, and hot-natured foods that can worsen internal heat. Limit iodine-rich foods like seaweed and kelp unless specifically prescribed by your TCM practitioner (some formulas do include these herbs for goiter). Caffeine and alcohol can also aggravate palpitations and anxiety. Favour cooling, yin-nourishing foods like cucumber, pear, watermelon, and congee.
+
+### Is TCM safe during pregnancy with Graves' disease?
+Some herbs are contraindicated in pregnancy. Always inform your TCM practitioner if you are pregnant or planning to conceive. Acupuncture may be used with caution, but certain points are avoided. Your care must be closely coordinated with your obstetrician and endocrinologist to keep both you and your baby safe.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/graves-disease)*

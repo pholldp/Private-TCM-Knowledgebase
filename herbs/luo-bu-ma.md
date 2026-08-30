@@ -1,0 +1,161 @@
+# Luo Bu Ma (罗布麻)
+**English Name**: Dogbane leaf  
+**Category**: Liver-calming and Wind-extinguishing herbs (平肝息风药), Liver Yang-subduing herbs (平抑肝阳药)  
+**Scientific Name**: Apocynum venetum L.  
+**Pharmaceutical Name**: Folium Apocyni Veneti  
+**Toxicity**: Slightly toxic  
+**Temperature**: Cool | **Taste**: Sweet (甘 gān), Bitter (苦 kǔ)  
+**Channels Entered**: Liver  
+**Parts Used**: Leaf (叶 yè)  
+
+---
+
+## Summary
+Dogbane leaf is a cooling herb best known for its natural blood pressure-lowering properties. It calms the Liver, eases dizziness and headaches related to stress or high blood pressure, and promotes better sleep. It also has a mild water-draining effect that helps reduce puffiness and fluid retention.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Blood Pressure Support, Sleep Support, Cardiovascular Health, Fluid Balance
+- **TCM Actions**: Calms the Liver and Subdues Yang, Calms the Spirit, Clears Heat, Promotes Urination and Reduces Edema
+
+### How these actions work
+'Calms the Liver and subdues Yang' (平肝潜阳) means this herb settles excessive upward-rising activity of the Liver. When the Liver's Yang becomes overactive, it surges upward and causes headaches, dizziness, irritability, and a flushed face. Luo Bu Ma Ye, being cool and entering the Liver channel, gently clears Liver Heat and anchors the Yang back down. This is the herb's primary action and the main reason it is widely used for blood pressure management.
+'Calms the spirit' (安神) means this herb helps settle restlessness and promote sleep. When Liver Heat or rising Liver Yang disturbs the Heart-spirit, a person may experience palpitations, anxiety, and insomnia. Luo Bu Ma Ye clears the Heat that agitates the spirit, producing a gentle calming effect. It is commonly used for people whose insomnia and anxiety stem from stress or emotional tension.
+'Clears Heat' and 'Promotes urination and reduces edema' (清热利水) describe the herb's ability to drain Heat and encourage fluid passage through urination. The bitter taste directs fluids downward, and the cool temperature clears pathological Heat. This makes Luo Bu Ma Ye helpful for facial or limb swelling with scanty urine, especially in nephritis-related edema.
+
+---
+
+## Patterns Addressed
+### Liver Yang Rising
+- **Explanation**: Luo Bu Ma Ye is cool in temperature, sweet and bitter in taste, and enters the Liver channel, making it ideally suited for Liver Yang Rising. In this pattern, the Liver's Yang flares upward due to insufficient Yin anchoring it. The cool nature directly clears the Heat component that often drives Yang upward, while the bitter taste has a natural descending quality that redirects the excessive upward surge. The sweet taste gently supports without cloying. This herb's primary clinical reputation rests on this pattern, and it is the main reason Luo Bu Ma Ye is so closely associated with hypertension management in modern Chinese medicine.
+- **Clinical Signs & Symptoms**:
+  - **High Blood Pressure**: Elevated blood pressure with a flushed face
+
+### Liver Fire Blazing
+- **Explanation**: When Liver Qi stagnation transforms into Fire, it blazes upward and disturbs both the head and the Heart-spirit. Luo Bu Ma Ye's cool nature and bitter taste are well matched to clear this Liver Fire. The bitter taste descends and purges Heat, while the cool temperature counteracts pathological warmth. By clearing Liver Fire, the herb relieves the agitation and insomnia that result from Heat harassing the spirit. It is milder than stronger Liver Fire-clearing herbs such as Long Dan Cao, making it more suitable for moderate or chronic presentations.
+- **Clinical Signs & Symptoms**:
+
+### Phlegm-Dampness in the Middle-Burner
+- **Explanation**: Luo Bu Ma Ye's ability to promote urination and reduce edema addresses patterns where Dampness accumulates as fluid retention. Its cool nature is particularly suited to Damp-Heat presentations, where pathological Heat combines with fluid stagnation. While not the strongest diuretic herb, its dual ability to clear Heat and promote urination makes it a useful supporting herb for edema with Heat signs, such as nephritis-related swelling or liver disease-associated ascites.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Insomnia
+- **Arises from**: Liver Fire Blazing, Liver Yang Rising
+- **TCM Interpretation**: TCM understands insomnia through the concept of the spirit (Shen), which is housed in the Heart. When the spirit is calm, sleep comes naturally. Internal Heat from the Liver can rise upward and disturb the Heart, keeping the spirit restless. This is common in people experiencing significant stress, frustration, or anger. The Liver-Heart connection means an overheated Liver directly unsettles the Heart-spirit. Patients typically describe difficulty falling asleep because the mind 'won't switch off,' often with vivid or disturbing dreams.
+- **Why it Helps**: Luo Bu Ma Ye clears Liver Heat and calms the spirit, addressing the root cause of Heat-based insomnia. By cooling the Liver and preventing its Fire from harassing the Heart, the herb allows the spirit to settle. Pharmacological studies have confirmed sedative and anti-anxiety effects from the leaf's flavonoid compounds. Unlike heavy sedative substances, Luo Bu Ma Ye works gently, making it suitable for daily use as a tea for chronic sleep difficulties tied to stress and emotional tension.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-15g (leaf); up to 15-16g (root, for cardiac conditions)
+- **Maximum Dosage**: Leaf: up to 15g per day in decoction. Root: up to 16g (5 qian) per day for short-term treatment of congestive heart failure under close clinical supervision. Do not exceed these doses due to risk of cardiac toxicity.
+- **Dosage Notes**: For mild hypertension or insomnia, the leaf is typically used at 3-6g daily, brewed as a tea infusion with boiling water. For decoction in more pronounced cases of Liver Yang rising with headache and dizziness, 6-12g of the leaf is standard. The root is primarily used for its stronger cardiac and diuretic effects (edema, congestive heart failure) at 12-16g in decoction. The leaf is preferred for calming the Liver and settling the spirit; the root for promoting urination and strengthening the heart. Longer treatment courses (months rather than weeks) appear to improve efficacy for hypertension, but prolonged use requires monitoring for potassium depletion and cardiac effects.
+- **Preparation**: No special decoction handling required for the leaf. The leaf can be decocted normally or simply steeped in boiling water as a tea substitute. For the root, it is recommended to soak in water for several hours (up to 12 hours) before simmering slowly for about one hour to fully extract the active cardiac glycoside components.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Tian Ma (Ratio: 1:1 (Luo Bu Ma Ye 10g : Tian Ma 10g))
+- **Description**: Both herbs calm the Liver and subdue Yang through complementary mechanisms. Luo Bu Ma Ye clears Liver Heat with its cool nature, while Tian Ma (sweet and neutral) extinguishes Liver Wind and opens the channels. Together they powerfully subdue rising Liver Yang and address Wind symptoms like numbness and tremor that may accompany hypertension.
+- **When to Use**: Liver Yang transforming into Wind, presenting as dizziness, headache, limb numbness, or tremor alongside high blood pressure.
+
+### Suan Zao Ren (Ratio: 1:2 (Luo Bu Ma Ye 6g : Suan Zao Ren 12-15g))
+- **Description**: Luo Bu Ma Ye clears Liver Heat and calms the spirit from the excess side, while Suan Zao Ren nourishes Heart Yin and Liver Blood to calm the spirit from the deficiency side. Together they address insomnia by both clearing the Heat that agitates and nourishing the Blood that anchors the spirit.
+- **When to Use**: Insomnia with palpitations due to Blood Deficiency complicated by Liver Heat. The person cannot fall asleep, feels anxious, and may have night sweats.
+
+### Gou Teng (Ratio: 1:1 (Luo Bu Ma Ye 6g : Gou Teng 6-10g))
+- **Description**: Both herbs enter the Liver channel and subdue Yang. Gou Teng is effective at clearing Liver Heat and extinguishing Wind, while Luo Bu Ma Ye contributes a calming-spirit action. The pair strengthens the overall Liver Yang-subduing effect, making it well suited for hypertension with headache and dizziness.
+- **When to Use**: Liver Yang Rising with marked headache, dizziness, red eyes, and irritability in hypertensive patients.
+
+### Ju Hua (Ratio: 1:1 (Luo Bu Ma Ye 6g : Ju Hua 6g))
+- **Description**: Both herbs clear Liver Heat and calm Liver Yang. Ju Hua additionally disperses Wind-Heat and brightens the eyes. Combined, they provide a gentle yet effective approach to Liver Yang Rising that is well suited for use as a daily wellness tea.
+- **When to Use**: Mild hypertension with headache, blurry vision, and eye strain. Often used as a daily preventive tea for people prone to high blood pressure.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+Luo Bu Ma belongs to the Apocynaceae (dogbane) family, which includes many plants containing cardiac glycosides. The root is the most toxic part, containing cymarin-type cardiac glycosides (including apocynamarin and strophanthidin derivatives) that have digitalis-like effects on the heart. The root extract shows some cumulative toxicity in animal studies (approximately 61.7% accumulation after one day). The leaves are considerably less toxic; subchronic studies in rats show the leaf extract is safe at standard doses, and the oral LD50 in mice is 66.9 g/kg (a wide safety margin). However, at high doses the leaf flavonoid glycosides can also induce cardiac effects (heart rate slowing, ECG changes). Common side effects of overuse include gastrointestinal symptoms (nausea, vomiting, diarrhea) and cardiac symptoms (bradycardia, premature contractions). Used within standard dosage and duration guidelines, the herb is considered safe. Processed tea products undergo steps to remove alkaline and irritant components, further improving safety.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Insufficient safety data exists for use during pregnancy. The herb's cardiac glycoside content (particularly in the root), significant blood-pressure-lowering effects, and diuretic properties represent potential risks for both the pregnant person and fetus. The herb has historically been used for pregnancy-related edema in some clinical reports, but this was under close medical supervision. As a general precaution, Luo Bu Ma should be avoided during pregnancy unless specifically prescribed and monitored by a qualified practitioner.
+- **Breastfeeding**: No specific safety data is available for breastfeeding. Given the presence of cardiac glycosides (particularly in the root) and other bioactive compounds that could theoretically pass into breast milk, caution is advised. The leaf at low tea-grade doses is generally considered to have a better safety profile than the root, but formal lactation safety studies have not been conducted. It is best avoided or used only under professional guidance during breastfeeding.
+- **Children**: Not commonly used in children. There is no established pediatric dosage in standard references. If used, dosage should be substantially reduced based on body weight and age, and limited to the leaf form only (not the root). Children are more sensitive to cardiac glycoside effects. Use only under the supervision of a qualified practitioner experienced with pediatric patients.
+
+### Drug Interactions
+Cardiac glycoside medications (digoxin, digitoxin): The root contains cymarin-type cardiac glycosides with digitalis-like activity. Concurrent use could produce additive cardiotoxic effects (severe bradycardia, arrhythmias, heart block). This combination should be strictly avoided.
+Antihypertensive medications: Luo Bu Ma has documented blood-pressure-lowering effects. Combined use with pharmaceutical antihypertensives (ACE inhibitors, beta-blockers, calcium channel blockers, diuretics) may result in excessive hypotension. Blood pressure should be monitored if used alongside these drugs.
+Potassium-depleting diuretics (furosemide, hydrochlorothiazide): Luo Bu Ma itself has diuretic properties. Combined use may increase potassium loss, raising the risk of hypokalemia, which in turn increases sensitivity to cardiac glycoside toxicity.
+CYP3A4 and P-glycoprotein substrates: A rat study (PMID: 15467212) found that Apocynum venetum extract at recommended doses did not induce CYP3A or P-glycoprotein activity, unlike St. John's Wort. This suggests a relatively low risk of pharmacokinetic interactions through these common drug metabolism pathways, though human confirmation studies are lacking.
+Sedative and anxiolytic medications: Luo Bu Ma has demonstrated sedative and anxiolytic effects in both animal and human studies. Additive sedation may occur when combined with benzodiazepines, barbiturates, or other CNS depressants.
+
+### Dietary Advice
+Avoid excessive consumption of cold or raw foods while taking Luo Bu Ma, particularly if using it for its calming and blood-pressure-lowering effects, as cold foods may impair digestion and reduce absorption. Since the herb has diuretic properties, maintain adequate fluid intake and ensure sufficient dietary potassium (bananas, leafy greens, legumes) to offset potential potassium loss. Avoid combining with strong tea (Camellia sinensis) or coffee in excess, as caffeine may counteract the herb's calming and blood-pressure-lowering effects.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Apocynum venetum L. (family Apocynaceae) is a perennial herbaceous plant that grows from a spreading rhizomatous rootstock. The stems are erect and branching, reaching 1 to 4 meters tall, with smooth, whitish-gray to reddish-brown bark that is finely striate. The leaves are usually opposite, narrowly elliptic to narrowly ovate (1 to 8 cm long, 0.5 to 2.2 cm wide), with finely toothed margins, green on top and slightly paler underneath. When broken, stems and leaves exude a milky white latex.
+The flowers are small and bell-shaped (campanulate corolla, 6 to 8 mm), purplish-red or pink, growing in terminal clusters. Flowering occurs from April to September, with fruit maturing from July to December. The fruits are slender follicles (8 to 20 cm long) that split open when ripe to release small seeds bearing silky tufts of hair (coma) for wind dispersal. The plant thrives in sandy riverbanks, desert margins, saline-alkaline soils, and alluvial flats, and is notably salt-tolerant and drought-resistant, exploiting groundwater through deep roots.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Leaves are harvested in summer before flowering (typically June to July). The root is dug up in late autumn. The whole herb can be collected in summer.
+- **Primary Growing Regions**: The highest quality Luo Bu Ma (道地药材) comes from the Xinjiang Uyghur Autonomous Region, particularly the Tarim River and Kongque (Peacock) River basins around the Lop Nor (Lop Nur/罗布泊) region. Uqturpan (Yuli/尉犁) County in Bayingolin Mongol Autonomous Prefecture is recognized as the core production area. Inner Mongolia, Gansu (especially the Dunhuang area along the Shule River), and Qinghai are also important producing regions. The plant is additionally distributed across Shaanxi, Shanxi, Hebei, Shandong, Jiangsu, Anhui, and the northeast provinces (Jilin, Liaoning), though these are generally considered secondary sources.
+- **Quality Indicators**: For the leaf (the primary medicinal part): good quality leaves are intact, elliptical-lanceolate in shape, 2 to 5 cm long, pale green to gray-green in color, with fine-toothed margins that may be slightly curled inward. Both surfaces should be hairless, with leaf veins prominently raised on the underside. The texture should be brittle and crisp. The aroma is faint and the taste is bland. When brewed as tea, high-quality processed Luo Bu Ma leaf produces a golden-yellow infusion (attributed to high iron and flavonoid content), while poor quality material produces pale, unchanged water. Avoid leaves that appear whitish on the surface (indicating poor processing with residual alkaline salts), have an excessively bitter or salty-astringent taste, or show signs of mold or insect damage.
+
+### Identity & Adulterants
+The most common confusion is between Luo Bu Ma (红麻, Apocynum venetum, "red hemp") and Da Ye Bai Ma / Bai Ma (白麻, Apocynum pictum / Poacynum hendersonii, "white hemp" or "big-leaf dogbane"). Both grow in similar habitats in Xinjiang and northwest China and are sometimes sold interchangeably. A. pictum has larger flowers (basin-shaped corolla with distinct darker markings) and broader triangular corolla lobes, while A. venetum has smaller, campanulate (bell-shaped) pink-purple flowers. Pharmacologically, the two species share some overlap in activity but differ in the relative content of active flavonoids. The small-flowered red variety (小花红麻) of A. venetum is considered the highest-grade medicinal material. Unprocessed raw leaves are sometimes fraudulently sold as processed tea-grade Luo Bu Ma; these raw leaves retain alkaline salts (appearing whitish and tasting harshly astringent) and can irritate the digestive system and kidneys with long-term use.
+
+---
+
+## References
+### Historical Context
+Luo Bu Ma (罗布麻) takes its name from the Lop Nor (罗布泊) region of Xinjiang where it grows abundantly along desert rivers. The character 麻 ("hemp/fiber") reflects its ancient use as a textile fiber. Local peoples of the Lop Nor region have used the leaves and flowers as a daily tea for centuries, and regional chronicles note that communities drinking Luo Bu Ma tea had many centenarians. The plant's fibers were woven into cloth and clothing long before its medicinal properties were formally documented.
+As a medicinal herb, Luo Bu Ma is relatively recent in formal Chinese pharmacological literature compared to herbs recorded in ancient classics. Its earliest formal materia medica entry appears in modern regional herbals such as the Shaanxi Chinese Herbal Medicine (《陕西中草药》) and the Xinjiang Chinese Herbal Medicine Handbook (《新疆中草药手册》). It was officially included in the Chinese Pharmacopoeia (《中华人民共和国药典》) in 1977. From the 1960s through the 1980s, extensive Chinese clinical studies documented its effectiveness for hypertension (with reported efficacy rates around 88%), generating widespread interest. Since 2002, Luo Bu Ma tea has been included on China's official list of health-care foods. Its fibers, sometimes called the "king of wild fibers," have also gained commercial interest as a natural textile material.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Botany, Traditional Uses, Phytochemistry and Pharmacology of Apocynum venetum L. (Luobuma) (2012)](https://pubmed.ncbi.nlm.nih.gov/22421379/)**
+   *Journal: Xie W, Zhang X, Wang T, Hu J. Journal of Ethnopharmacology, 2012, 141(1):1-8*
+   This systematic review analyzed literature in English, Chinese, and Japanese on Luo Bu Ma. It found that the herb has validated antihypertensive, cardiotonic, hepatoprotective, antioxidant, lipid-lowering, antidepressant, and anxiolytic effects, primarily attributable to its flavonoid compounds. Safety data from animal and clinical studies showed no severe side effects even with daily use over three years at standardized doses.
+
+2. **[RCT: Effects of Apocynum venetum (Venetron®) on Sleep and Stress in Those with Anxiety (2025)](https://doi.org/10.3390/nutraceuticals5020023)**
+   *Journal: Liang T et al. Nutraceuticals, 2025, 5(2):23*
+   A randomized, double-blind, placebo-controlled trial involving 370 participants found that those taking Apocynum venetum leaf extract showed significant improvements in perceived stress and sleep disturbance compared to placebo. The extract was well tolerated with no severe side effects reported.
+
+3. **[Clinical Trial: Improvement of Sleep by Oral Intake of GABA and Apocynum venetum Leaf Extract (2015)](https://pubmed.ncbi.nlm.nih.gov/26052150/)**
+   *Journal: Yamatsu A, Yamashita Y, Maru I, Yang J, Tatsuzaki J, Kim M. Journal of Nutritional Science and Vitaminology, 2015, 61(2):182-187*
+   This human clinical trial showed that 50 mg of Apocynum venetum leaf extract increased non-REM (deep) sleep time by 7.6%. When combined with GABA, it shortened sleep onset and enhanced deep sleep, suggesting complementary mechanisms for sleep improvement.
+
+4. **[Preclinical: Apocynum venetum Extract Does Not Induce CYP3A and P-glycoprotein in Rats (2004)](https://pubmed.ncbi.nlm.nih.gov/15467212/)**
+   *Journal: Irie K et al. Journal of Pharmacological Sciences, 2004*
+   Unlike St. John's Wort, Apocynum venetum extract at recommended doses did not affect hepatic CYP3A enzyme activity or intestinal P-glycoprotein transport in rats, suggesting a lower risk of herb-drug interactions compared to some other botanical antidepressants.
+
+5. **[Clinical Study: Anti-aging, Antihypertensive and Antihyperlipemic Effects of Apocynum venetum Leaf Extract (1989)](https://pubmed.ncbi.nlm.nih.gov/2776275/)**
+   *Journal: Yang Z et al. Chinese Journal of Preventive Medicine, 1989*
+   In 60 hypertensive patients treated for 8 weeks, mean blood pressure decreased significantly from 171/98 mmHg to 148/89 mmHg. In 40 patients with hyperlipidemia, HDL cholesterol increased significantly. Erythrocyte SOD levels also increased, suggesting antioxidant effects.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/luo-bu-ma](https://www.meandqi.com/knowledge-base/herbs/luo-bu-ma)*

@@ -1,0 +1,177 @@
+# Qian Shi (芡实)
+**English Name**: Fox Nut  
+**Category**: Stabilizing and binding herbs (收涩药), Herbs that secure Essence and reduce urination (固精缩尿止带药)  
+**Scientific Name**: Euryale ferox Salisb.  
+**Pharmaceutical Name**: Semen Euryales  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān), Astringent (涩 sè)  
+**Channels Entered**: Spleen, Kidneys  
+**Parts Used**: Seed (种子 zhǒng zǐ / 子 zǐ / 仁 rén)  
+
+---
+
+## Summary
+Euryale seed is a gentle, food-grade herb that has been used in Chinese medicine for over 2,000 years to support digestive and urinary health. It strengthens the Spleen and Kidneys, helping with chronic loose stools, frequent urination, and excessive vaginal discharge. Often called 'chicken-head rice,' it is mild enough for daily use in soups and porridges, earning its reputation as the 'water ginseng.'
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Urinary Health, Reproductive Health, Women's Health
+- **TCM Actions**: Benefits the Kidneys and Secures Essence, Strengthens the Spleen and Stops Diarrhea, Secures the Kidneys and Stops Vaginal Discharge
+
+### How these actions work
+'Benefits the Kidneys and secures essence' means Qian Shi strengthens the Kidneys' ability to hold and store vital substances. In TCM, the Kidneys are responsible for storing 'essence' (jīng), which governs reproduction, growth, and urinary control. When the Kidneys are weak, essence and fluids can leak out, causing problems like involuntary seminal emission, frequent urination, or bedwetting. Qian Shi's astringent taste gives it a binding, tightening quality that helps 'lock in' these substances. This is why it is so commonly used for men with involuntary seminal loss and for anyone with excessive nighttime urination.
+'Tonifies the Spleen and stops diarrhoea' refers to Qian Shi's ability to strengthen digestive function. In TCM, the Spleen is the central organ of digestion, responsible for transforming food and transporting nutrients. When the Spleen is weak, it cannot properly manage fluids, leading to loose stools or chronic diarrhoea. Qian Shi's sweet taste nourishes the Spleen, while its astringent nature firms up the intestines. This makes it especially useful for prolonged diarrhoea caused by weak digestion rather than by infection.
+'Eliminates dampness and stops vaginal discharge' means Qian Shi addresses excessive vaginal discharge (known as 'dai xia' in TCM). By strengthening both the Spleen (which controls dampness) and the Kidneys (which govern the lower body), Qian Shi tackles the root cause of abnormal discharge. Its astringent quality then directly reduces the leakage itself. This dual action of addressing the root deficiency while also providing symptomatic relief makes it a go-to herb for both clear/white discharge from cold-deficiency and yellow discharge from dampness-heat (when combined with heat-clearing herbs).
+
+---
+
+## Patterns Addressed
+### Kidney Qi Deficiency
+- **Explanation**: When the Kidneys lack sufficient Qi, they lose their ability to 'hold' and store essence and fluids. This leads to leakage of vital substances downward. Qian Shi enters the Kidney channel and its astringent taste directly addresses this failure to contain. Its sweet taste gently tonifies the Kidney Qi that is deficient. Together, these properties restore the Kidneys' grasping and storing function, which is why Qian Shi is a primary herb for seminal emission, frequent urination, and urinary incontinence caused by Kidney Qi weakness.
+- **Clinical Signs & Symptoms**:
+
+### Spleen Qi Deficiency
+- **Explanation**: Spleen Qi Deficiency means the digestive system is too weak to properly transform food and manage fluids, allowing dampness to accumulate and stools to become loose. Qian Shi's sweet taste directly nourishes Spleen Qi, while its astringent quality firms up the intestines and reduces fluid leakage into the bowel. Crucially, classical sources note that Qian Shi can eliminate dampness without being overly drying, making it ideal for the Spleen, which is harmed by both excess dampness and excess dryness.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Reduced desire to eat
+  - **Post-Surgical Constipation And Bloating**: Abdominal distension after meals
+
+### Spleen and Kidney Qi Deficiency
+- **Explanation**: When both the Spleen and Kidneys are deficient, the body loses control over fluids in multiple ways simultaneously: chronic diarrhoea from Spleen weakness, urinary leakage from Kidney weakness, and excessive vaginal discharge from the combined failure of both organs to manage dampness in the lower body. Qian Shi is uniquely suited to this pattern because it enters both the Spleen and Kidney channels and addresses both organs at once. Classical texts praise it for being able to tonify without being cloying and to astringe without being overly drying, making it safe for long-term use in this dual-deficiency pattern.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Chronic Diarrhea
+- **Arises from**: Spleen Qi Deficiency, Spleen and Kidney Qi Deficiency
+- **TCM Interpretation**: In TCM, chronic diarrhoea that persists for weeks or months is rarely blamed on infection. Instead, it is understood as a failure of the Spleen's 'transforming and transporting' function. When the Spleen is weak, it cannot separate the 'clear' (nutrients) from the 'turbid' (waste) properly, so unprocessed fluids pass straight through to the intestines. Over time, this drains the Kidneys as well, since the Spleen and Kidneys depend on each other. The result is watery stools, fatigue, poor appetite, and sometimes cold limbs.
+- **Why it Helps**: Qian Shi is particularly well-suited for chronic diarrhoea because it works on both sides of the problem. Its sweet taste nourishes and strengthens the weakened Spleen, restoring its ability to manage fluids and digest food. Meanwhile, its astringent quality directly firms up the intestines, reducing the passage of unformed stools. Classical sources specifically note that Qian Shi can address dampness without being excessively drying, which matters because the Spleen is easily harmed by overly harsh drying herbs. This makes Qian Shi safe and effective for long-term use in chronic conditions, often combined with white atractylodes (Bai Zhu) and poria (Fu Ling).
+
+### Frequent Urination
+- **Arises from**: Kidney Qi Deficiency
+- **TCM Interpretation**: Frequent urination, especially at night (nocturia), is interpreted in TCM as a failure of the Kidneys to 'grasp' and store fluids. The Kidneys govern the lower body's waterways and control the opening and closing of the urinary gate. When Kidney Qi is insufficient, this gate cannot close properly, allowing urine to pass too easily and too often. In children, this manifests as bedwetting; in older adults, as nocturia or stress incontinence.
+- **Why it Helps**: Qian Shi enters the Kidney channel directly and its astringent nature helps the Kidneys regain their 'holding' function. By gently tonifying Kidney Qi (through its sweet taste) while simultaneously tightening the urinary gate (through its astringent taste), it addresses both the root cause and the symptom. It is commonly paired with Jin Ying Zi (Cherokee rosehip) in the classical formula Shui Lu Er Xian Dan specifically for this purpose. The combination is gentle enough for children and elderly patients.
+
+### Thin Vaginal Discharge
+- **Arises from**: Spleen and Kidney Qi Deficiency, Spleen Qi Deficiency
+- **TCM Interpretation**: Abnormal vaginal discharge is understood in TCM as dampness sinking downward due to weakness of the Spleen and Kidneys. The Spleen normally controls dampness in the body, and the Kidneys govern the lower body. When both are weak, dampness accumulates and flows downward through the reproductive tract. Clear or white discharge indicates cold-deficiency, while yellow, thick, foul-smelling discharge indicates dampness-heat. The treatment approach differs depending on the type.
+- **Why it Helps**: Qian Shi is considered one of the best herbs for vaginal discharge because it simultaneously strengthens the Spleen (to reduce dampness production), tonifies the Kidneys (to secure the lower body), and astringes the discharge itself. For white discharge from deficiency, it is combined with herbs like Dang Shen (Codonopsis) and Shan Yao (Chinese yam). For yellow discharge from dampness-heat, it appears as a co-King herb in the famous formula Yi Huang Tang (Easy Yellow Decoction), where it is paired with Shan Yao to tonify and astringe while Huang Bai clears the heat.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-15g
+- **Maximum Dosage**: Up to 30g in decoction for severe chronic diarrhea or significant Kidney deficiency, under practitioner guidance. When used as food (porridge, soup), larger amounts are common but should still be moderate to avoid digestive discomfort.
+- **Dosage Notes**: Use the lower range (9-10g) for mild Spleen support and general dietary supplementation. Use higher doses (12-15g) when treating chronic diarrhea, significant vaginal discharge, or seminal emission. Raw Qian Shi is preferred when the primary goal is to secure the Kidney and astringe essence. Bran-fried Qian Shi (fu chao qian shi, 麸炒芡实) has a warmer, milder character better suited for strengthening the Spleen and stopping diarrhea, especially in patients with Spleen-Stomach cold deficiency. When used in food therapy (congee, soups), larger quantities are typical, but the dried herb should be soaked for 1-2 hours before cooking to ensure it softens adequately.
+- **Preparation**: Dried Qian Shi is very hard and takes a long time to decoct. It is advisable to soak it in water for 1-2 hours before decocting, or to crush or grind it to improve extraction. Alternatively, it can be ground into powder and taken directly mixed into warm water or porridge. No special decoction sequence (such as decocting first or adding later) is required.
+
+---
+
+## Processing Methods
+### F&#x16B; Ch&#x1CE;o Qi&#xE0;n Sh&#xED; (&#x9EB8;&#x7092;&#x82A1;&#x5B9E;)
+- **Processing Method**: Stir-fried with wheat bran (麸炒法): wheat bran is heated in a wok until smoking, then Qian Shi is added and stir-fried until the surface turns slightly yellow. The bran is then sieved out.
+- **How it Changes Properties**: Bran-frying enhances Qian Shi's Spleen-tonifying action and makes it more warming and easier to digest. The raw form has a slightly more balanced profile between Spleen and Kidney actions, while the bran-fried form focuses more strongly on strengthening the Spleen and stopping diarrhoea. The astringent action is slightly moderated.
+- **When to Use**: Preferred when the primary goal is to stop chronic diarrhoea from Spleen deficiency. Also chosen when the patient has weak digestion and may have difficulty absorbing the raw form. This is the form specified in Yi Huang Tang and many clinical formulas.
+
+---
+
+## Common Herb Pairs
+### Jin Ying Zi (Ratio: 1:1 (equal parts))
+- **Description**: Qian Shi and Jin Ying Zi form the classical pair known as Shui Lu Er Xian Dan ('Water and Land Immortal Elixir'). Qian Shi grows in water and tonifies the Spleen while securing essence; Jin Ying Zi grows on land and astringes the Kidneys while securing the intestines. Together they provide comprehensive astringent coverage of the Spleen and Kidneys, stopping seminal emission, reducing urinary frequency, and controlling vaginal discharge more effectively than either herb alone.
+- **When to Use**: Kidney deficiency with essence leakage: nocturnal emission, spermatorrhoea, frequent pale urination, or clear/white vaginal discharge with lower back weakness. Only for pure deficiency without signs of heat or dampness-heat.
+
+### Shan Yao (Ratio: 1:1 (30g each in Yi Huang Tang))
+- **Description**: Qian Shi and Shan Yao (Chinese yam) are both sweet, neutral herbs that tonify the Spleen and Kidneys. Classical texts note that Shan Yao is stronger at tonifying and nourishing, while Qian Shi is stronger at astringent binding. Together they provide robust supplementation with excellent holding power, addressing both the root deficiency and the symptom of leakage.
+- **When to Use**: Spleen-Kidney dual deficiency with chronic diarrhoea or vaginal discharge. This pair forms the core of Yi Huang Tang for dampness-heat vaginal discharge when combined with heat-clearing herbs.
+
+### Lian Zi (Ratio: 1:1)
+- **Description**: Qian Shi and Lian Zi (lotus seed) are closely related water-growing plants with very similar properties. Both are sweet, astringent, and neutral, and both tonify the Spleen and secure essence. However, Qian Shi is stronger at astringent binding and eliminating dampness, while Lian Zi is better at calming the Heart and nourishing the spirit. Together they reinforce each other's Spleen-Kidney tonification while Lian Zi adds a calming, heart-settling dimension.
+- **When to Use**: Spleen-Kidney deficiency with both physical leakage (diarrhoea, emission) and mental restlessness, insomnia, or anxiety. Commonly seen in Jin Suo Gu Jing Wan (Golden Lock Essence-Securing Pill).
+
+### Bai Zhu (Ratio: 1:1 to 1:2 (Qian Shi 15g : Bai Zhu 10-15g))
+- **Description**: Bai Zhu (white atractylodes) is the premier Spleen Qi tonifying herb that also dries dampness. Paired with Qian Shi, the combination provides strong Spleen support from two angles: Bai Zhu actively tonifies and dries, while Qian Shi tonifies and astringes. This means dampness is both dried up and prevented from leaking downward.
+- **When to Use**: Chronic diarrhoea from Spleen deficiency with significant dampness. The pair is stronger for stopping diarrhoea than either herb alone.
+
+---
+
+## Key Formulas
+Gui Lu Er Xian Jiao, Jin Suo Gu Jing Wan, Yi Huang Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Qian Shi is classified as non-toxic in both classical sources and the modern Chinese Pharmacopoeia. The Ming Yi Bie Lu specifically states it is "wu du" (无毒, without toxicity), and this is confirmed in the Ben Cao Gang Mu. As a food-medicine dual-use herb, it has an exceptionally long safety record. No toxic components have been identified in the seed kernel. The main concern is not toxicity but rather overconsumption causing digestive discomfort (bloating, abdominal fullness) due to its high starch content and dense, binding nature.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe at standard dietary and medicinal doses during pregnancy. Qian Shi is a gentle, neutral-natured food-grade herb with no known abortifacient or uterine-stimulating properties. However, its astringent and binding nature means it should be used cautiously in pregnant women who tend toward constipation or bloating, as these complaints are already common in pregnancy. As always, use during pregnancy should be guided by a qualified practitioner.
+- **Breastfeeding**: Considered safe during breastfeeding. Qian Shi is widely used in postpartum dietary therapy in China to strengthen the Spleen and support Qi and Blood recovery, which can indirectly support milk production. It is commonly combined with chicken, lotus seeds, and Chinese yam in nourishing soups for new mothers. There are no known concerns about harmful substances transferring through breast milk. Note that it should not be used in the immediate postpartum period (first few days) when lochia needs to be discharged, due to its astringent nature.
+- **Children**: Qian Shi is considered safe for children and is traditionally used in pediatric dietary therapy for Spleen deficiency with chronic diarrhea or frequent urination. It is commonly prepared as congee (rice porridge) with pumpkin or other mild foods for easy digestion. Dosages for children should be reduced proportionally by age: roughly one-third to one-half of the adult dose for children over 3 years. It should be thoroughly cooked until soft, as the hard, starchy texture can be difficult for young children to digest. Avoid use in children with constipation.
+
+### Drug Interactions
+No significant drug interactions have been documented for Qian Shi in clinical literature. As a starchy, food-grade herb with mild pharmacological activity, it has a low interaction risk profile. However, given its demonstrated alpha-amylase and alpha-glucosidase inhibitory properties (from seed coat phenolics), there is a theoretical possibility of additive effects when used alongside oral hypoglycemic medications such as acarbose or miglitol. Patients on diabetes medications should monitor blood sugar if consuming Qian Shi regularly in significant quantities.
+Its astringent properties could theoretically slow gastric transit, which might affect the absorption timing of co-administered oral medications. Separating doses by 1-2 hours is a reasonable precaution if taking other medications.
+
+### Dietary Advice
+When taking Qian Shi to strengthen the Spleen and stop diarrhea, avoid cold and raw foods, iced drinks, greasy or fried foods, and excessive dairy, as these can counteract its Spleen-supporting effect. Qian Shi pairs well with other gentle, warming Spleen foods such as rice porridge, Chinese yam, lotus seeds, and well-cooked vegetables. Because Qian Shi is starchy and somewhat binding, ensure adequate water intake and include some fiber-rich foods to prevent constipation.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Euryale ferox Salisb. is an annual aquatic plant in the water lily family (Nymphaeaceae) and the sole surviving species in its genus. It grows in freshwater ponds, lakes, and marshes across East and South Asia. The plant produces enormous floating leaves that can reach over 1 metre in diameter, with a distinctive puckered, deep green upper surface and a purplish underside covered in prominent raised veins. The entire plant, including leaves, stems, and flower stalks, is covered in sharp prickles, earning it the common name "prickly water lily."
+The flowers are about 5 cm across, with violet outer petals and white inner petals, and they often pierce through the leaf surface. The fruit is a spiny, spongy capsule roughly the size of a small orange, containing numerous round, black, pea-sized seeds. Each fruit holds 8 to 15 seeds. The starchy white seed kernel (the medicinal and edible part) is revealed once the hard outer shell is removed. The fruiting body's resemblance to a chicken's head gives rise to its most popular Chinese folk name, "chicken-head rice" (ji tou mi, 鸡头米).
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late autumn to early winter (September to October), when the fruits are fully mature.
+- **Primary Growing Regions**: Qian Shi is widely distributed across China from Heilongjiang in the north to Guangdong in the south. Major producing regions include Jiangsu, Anhui, Hunan, Hubei, Shandong, and Jiangxi provinces.
+The traditional terroir (dao di) region most prized for quality is Zhaoqing, Guangdong, where the local cultivar known as "Zhao Shi" (肇实) has been famous since the Song dynasty. Zhaoqing foxnut is a red-skinned variety with larger grains, higher active compound content, and superior quality, though it accounts for only about 1% of national production. It was historically considered one of the "Three Treasures of Zhaoqing" alongside Duan inkstones and sword flowers.
+Another highly regarded variety is Suzhou foxnut (苏芡/Su Qian) from the Taihu Lake area of Jiangsu, which is a cultivated variety with large, round white kernels prized as a food delicacy. Jiangxi Yugan county and Anhui Tianchang (Longgang) are also recognized production centers with geographical indication status.
+- **Quality Indicators**: Good quality Qian Shi seed kernels are roughly spherical (5-8 mm diameter), plump and evenly sized, with a thin brownish-red inner seed coat and a pale yellowish-white hilum scar occupying about one-third of the surface. When the seed coat is removed, the kernel should be bright white. The texture should be firm and hard with a clearly powdery (starchy) cross-section. It should have little to no smell and a bland, slightly sweet taste. Avoid kernels that are broken into many fragments, darkened, insect-damaged, or overly soft and mushy. For the premium "Zhao Shi" variety from Guangdong, look for larger grains with a deeper reddish-brown color and higher starch content. For "Su Qian" (Suzhou foxnut), prized fresh kernels are round, milk-white, and have a delicate sweet fragrance when cooked.
+
+### Identity & Adulterants
+Qian Shi (Euryale ferox seed) is sometimes confused with Lian Zi (lotus seed, Nelumbo nucifera) because both are white, starchy, water-plant seeds used to tonify the Spleen and Kidney. However, Lian Zi is larger, has a different shape (elongated oval with a green embryo inside), and additionally enters the Heart channel with calming properties. Qian Shi is more astringent than Lian Zi and does not calm the spirit.
+Commercially, whole Qian Shi may be adulterated with broken fragments mixed with starch powder to increase weight. Lower-quality northern wild foxnut (刺芡, "thorny foxnut") is sometimes sold as the more expensive cultivated Suzhou variety (苏芡). The two can be distinguished by size and appearance: Suzhou foxnut kernels are larger, rounder, and more uniformly white, while wild northern foxnut kernels are smaller, more irregular, and may have more residual seed coat.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (神农本草经)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Qian Shi (芡实) has one of the longest documented histories of any Chinese medicinal food, with references dating back to the Spring and Autumn period (770-476 BCE). The ancient texts Guan Zi and Zhuang Zi already mention this plant under the names "luan ling" (卵菱) and "ji tan" (鸡瘫). It was first formally catalogued as a medicinal herb in the Shen Nong Ben Cao Jing, where it was classified as a "superior" (上品) herb, meaning it was considered safe for long-term use and beneficial for nourishing life.
+The Song dynasty poet and polymath Su Dongpo (苏东坡, 1037-1101) is perhaps the most famous historical proponent of Qian Shi. According to accounts in his Dongpo Yang Sheng Ji (东坡养生集), Su practiced a daily regimen of slowly chewing 10 to 30 cooked foxnut seeds one at a time, allowing saliva to accumulate before swallowing. He combined this with an ancient Qigong technique of "swallowing saliva" (yan jin, 咽津), believing this nourished the organs and promoted longevity. Su reportedly maintained robust health and sharp mental faculties into old age, which he attributed partly to this practice.
+The name "Qian" (芡) itself is ancient. The Fang Yan (方言), an early Han dynasty dialectology text, records that it was called "ji tou" (鸡头, chicken head) in the Chu region of southern China, "qian" in the Huai River area, and "yan tou" (雁头, goose head) in the northern Yan region, all names referring to the spiny fruit's resemblance to a bird's head. Su Dongpo also used the name "shui liu huang" (水流黄), recorded in his Dongpo Za Ji. By the Song dynasty, cultivated foxnut from Zhaoqing in Guangdong had become renowned, earning the special name "Zhao Shi" (肇实). During the Ming dynasty, the Wu Yi Zhi documented detailed cultivation methods in the Suzhou-Hangzhou region.
+
+### Modern Scientific Research
+1. **[Comprehensive Ethnopharmacological and Pharmacological Review of Euryale ferox (Review, 2023)]()**
+   *Journal: Jiang J, Ou H, Chen R, Lu H, Zhou L, Yang Z. Molecules. 2023;28(11):4399.*
+   This review compiled published research since 1980 on Euryale ferox seeds, cataloguing its phytochemicals (polysaccharides, polyphenols, sesquineolignans, tocopherols, cyclic dipeptides, triterpenoids) and summarizing demonstrated pharmacological effects including antioxidant, blood-sugar-lowering, heart-protective, antibacterial, anticancer, antidepressant, and liver-protective properties.
+
+2. **[Cardioprotective Effect of Euryale ferox on Myocardial Ischemic Reperfusion Injury (Preclinical, 2006)]()**
+   *Journal: Das S, Der P, Raychaudhuri U, Maulik N, Das DK. Mol Cell Biochem. 2006;289:55-63.*
+   Using both acute and chronic rat models, researchers showed that Euryale ferox seed extract significantly reduced myocardial infarct size and improved heart function after ischemia-reperfusion. The protective effect was linked to increased expression of thioredoxin-1 and TRP32 proteins and reactive oxygen species scavenging.
+
+3. **[Antioxidant Compounds from Euryale ferox Seeds and Relevance to Diabetic Nephropathy (Preclinical, 2011)]()**
+   *Journal: Song CW, Wang SM, Zhou LL, Hou FF, Wang KJ, Han QB, Li N, Cheng YX. J Agric Food Chem. 2011;59:1199-1204.*
+   Researchers isolated 3 new sesquineolignan compounds (euryalins A-C) along with 16 known compounds from the seeds. Several isolates showed strong antioxidant activity in DPPH assays and significantly inhibited high-glucose-induced reactive oxygen species in kidney mesangial cells, suggesting potential in preventing diabetic nephropathy.
+
+4. **[Seed Coat Phenolics Inhibit Starch Digestion Enzymes with Hypoglycemic Potential (Preclinical, 2023)](https://pubmed.ncbi.nlm.nih.gov/36680508/)**
+   *Journal: Chen R et al. J Sci Food Agric. 2023.*
+   This study found that phenolic compounds from the Euryale ferox seed coat strongly inhibited alpha-amylase and alpha-glucosidase enzyme activities and interacted with starch through hydrogen bonds, significantly slowing starch digestion. The findings suggest potential application of foxnut in foods designed for blood sugar management.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/qian-shi](https://www.meandqi.com/knowledge-base/herbs/qian-shi)*

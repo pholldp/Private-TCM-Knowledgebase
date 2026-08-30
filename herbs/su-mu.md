@@ -1,0 +1,165 @@
+# Su Mu (苏木)
+**English Name**: Sappanwood  
+**Category**: Blood-invigorating and stasis-dispelling herbs (活血化瘀药), Blood-invigorating and trauma-healing herbs (活血疗伤药)  
+**Scientific Name**: Caesalpinia sappan L.  
+**Pharmaceutical Name**: Lignum Sappan  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān), Salty (咸 xián), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Heart, Liver, Spleen  
+**Parts Used**: Heartwood (心材 xīn cái)  
+
+---
+
+## Summary
+Sappanwood heartwood is a Blood-moving herb traditionally used to relieve pain from injuries, fractures, and bruising by helping the body clear out stagnant Blood. It is also widely used for menstrual problems such as painful or absent periods caused by Blood Stasis, and for postpartum abdominal pain when the body has difficulty expelling retained blood after childbirth.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Pain Management, Menstrual Health, Injury and Trauma Recovery, Circulation Support
+- **TCM Actions**: Invigorates Blood and Dispels Stasis, Reduces Swelling and Alleviates Pain, Promotes Menstruation, Treats Traumatic Injuries
+
+### How these actions work
+'Invigorates Blood and dispels Blood Stasis' means Su Mu actively moves stagnant Blood that has accumulated in the body. Its salty taste allows it to enter the Blood level, while its acrid taste gives it the ability to scatter and disperse. This makes it useful when old, stuck Blood is causing pain with a fixed location, dark menstrual blood with clots, or swelling from injuries. Classical texts note that in small doses it gently harmonizes the Blood, while in larger doses it more forcefully breaks up stubborn Blood Stasis.
+'Reduces swelling and alleviates pain' refers to Su Mu's ability to resolve the swelling and sharp pain that accompany traumatic injuries or surgical wounds. Because pain in TCM often results from blocked circulation ('where there is no free flow, there is pain'), Su Mu's Blood-moving action directly addresses the root cause of this pain. It is particularly valued for injuries involving bruising, fractures, and sprains.
+'Unblocks the channels and promotes menstruation' describes how Su Mu can restore the normal flow of menstrual blood when it has been blocked by Blood Stasis. It is commonly used for absent periods, painful periods with dark clotted blood, and postpartum pain caused by retained blood that has not been properly discharged.
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: Su Mu directly targets Blood Stasis through its acrid and salty properties. Its acrid taste disperses and scatters congealed Blood, while its salty taste enters and works within the Blood level itself. Being neutral in temperature, it can address Blood Stasis without adding excess Heat or Cold, making it versatile across different presentations. It enters the Heart and Liver channels, the two organs most closely tied to Blood circulation and storage, allowing it to move stuck Blood throughout the body.
+- **Clinical Signs & Symptoms**:
+  - **Stabbing Pain**: Fixed, sharp pain that worsens with pressure, characteristic of Blood Stasis
+
+### Food Stagnation in the Stomach
+- **Explanation**: Su Mu's channel entry into the Liver (which stores Blood and governs the menstrual cycle) and its Blood-moving action make it especially effective for uterine Blood Stasis. Its salty taste softens and disperses hardened or stagnant menstrual blood, while its acrid quality promotes the free flow of Blood through the uterine vessels. It addresses both the pain and the obstruction that characterize this pattern.
+- **Clinical Signs & Symptoms**:
+  - **Painful Menstruation**: Menstrual pain with dark, clotted blood
+
+---
+
+## Commonly Used For
+### Trauma
+- **Arises from**: Blood Stagnation
+- **TCM Interpretation**: TCM views traumatic injuries as a sudden disruption of the local circulation of Qi and Blood. When tissue is damaged by a blow, fall, or sprain, Blood escapes from the vessels and pools in the surrounding tissues, creating what TCM calls Blood Stasis. This stagnant Blood blocks the normal flow of Qi and fresh Blood to the area, causing swelling, bruising, and pain. The principle 'where there is no free flow, there is pain' directly applies. Treatment focuses on moving the stagnant Blood, reducing swelling, and restoring normal circulation to the injured area.
+- **Why it Helps**: Su Mu is classified among the 'Blood-invigorating trauma-healing herbs' precisely because it combines Blood-moving and pain-relieving actions in a single herb. Its ability to dispel Blood Stasis clears away the pooled blood at the injury site, while its swelling-reducing action helps restore normal tissue structure. Modern pharmacological research has confirmed that brazilin and other compounds in Su Mu have significant anti-inflammatory and antiplatelet aggregation effects, supporting its traditional use for traumatic injuries. It is a key ingredient in Ba Li San, the classical trauma formula from Yi Zong Jin Jian.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-9g
+- **Maximum Dosage**: Up to 15g in acute traumatic injury or severe Blood stasis, under practitioner supervision. Do not exceed standard doses for extended periods due to risk of CNS depression at high doses.
+- **Dosage Notes**: The Ben Cao Gang Mu makes a clinically important distinction: in small doses (3 to 5g), Su Mu gently harmonizes Blood circulation; in larger doses (6 to 9g or above), it more strongly breaks and disperses Blood stasis. For menstrual irregularity and mild pain, lower doses are appropriate. For acute traumatic injury with significant swelling, or postpartum Blood stasis with severe pain, higher doses within the standard range may be used. When used to break Blood stasis, decocting with wine (酒煎) was traditionally recommended to enhance its Blood-moving action. Su Mu can also be ground into powder for topical application on wounds and cuts.
+- **Preparation**: Su Mu heartwood is extremely hard and dense. It must be sawn into short segments (about 3 cm long) and then split into thin slices or ground into coarse powder before decocting, to allow adequate extraction of active compounds. Thin slices or shavings are preferred for decoction. No special decoction sequence (such as decocting first or adding late) is required, but the wood should be given adequate decoction time due to its density.
+
+---
+
+## Processing Methods
+### Ji&#x1D4; Ch&#x1CE;o S&#x16B; M&#xF9; (&#x9152;&#x7092;&#x82CF;&#x6728;)
+- **Processing Method**: Su Mu shavings or chips are stir-fried with rice wine (Huang Jiu) until the wine is absorbed and the pieces are slightly darker.
+- **How it Changes Properties**: Wine-frying enhances Su Mu's Blood-invigorating and channel-unblocking actions. The warming, dispersing nature of wine helps guide the herb more powerfully into the Blood level and strengthens its ability to break through stubborn Blood Stasis. The thermal nature shifts slightly toward warm.
+- **When to Use**: Preferred when treating more severe or chronic Blood Stasis conditions, particularly amenorrhea or deep-seated postpartum blood retention where stronger Blood-moving action is needed.
+
+---
+
+## Common Herb Pairs
+### Ren Shen (Ratio: Ren Shen 9g : Su Mu 9g (1:1))
+- **Description**: Su Mu moves Blood and dispels stasis while Ren Shen powerfully tonifies Qi. Together they address both the deficiency and the stagnation that often coexist after childbirth or severe illness. Ren Shen prevents Su Mu's Blood-moving action from damaging the body's vital Qi, while Su Mu prevents Ren Shen's tonifying action from causing congestion by keeping Blood circulating freely.
+- **When to Use**: Postpartum blood stasis with Qi deficiency, especially when the patient is too weak to tolerate strong Blood-breaking herbs alone. The classical formula Er Wei Shen Su Yin (二味参苏饮) uses this pair.
+
+### Chuan Xiong (Ratio: 1:1 (equal parts))
+- **Description**: Both herbs invigorate Blood and relieve pain, but through complementary mechanisms. Su Mu directly enters the Blood level to dispel stasis, while Chuan Xiong is known as 'the Qi herb within the Blood' and moves Blood by promoting Qi circulation. Together, their Blood-moving and pain-relieving effects are significantly enhanced.
+- **When to Use**: Blood Stasis pain of any location, including menstrual pain, chest pain, or injury pain where both Qi stagnation and Blood Stasis are present.
+
+### Xue Jie (Ratio: Su Mu 6g : Xue Jie 3g (2:1))
+- **Description**: Su Mu invigorates Blood and reduces swelling, while Xue Jie (Dragon's Blood resin) also invigorates Blood, stops bleeding, and promotes tissue regeneration. Together they powerfully clear Blood Stasis from traumatic injuries while promoting healing of damaged tissue.
+- **When to Use**: Severe traumatic injuries with significant bruising, swelling, and pain, particularly fractures and deep tissue injuries.
+
+### Hong Hua (Ratio: 1:1 (equal parts, typically 6-9g each))
+- **Description**: Both are Blood-invigorating herbs used for Blood Stasis. Hong Hua excels at activating Blood flow and unblocking the channels, while Su Mu is stronger for reducing swelling and healing trauma. Together they provide comprehensive Blood Stasis resolution with both circulatory and tissue-repair benefits.
+- **When to Use**: Blood Stasis causing amenorrhea, dysmenorrhea, or traumatic swelling where both menstrual regulation and local healing are needed.
+
+---
+
+## Key Formulas
+Mu Li San, Tao Hong Si Wu Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+The Xin Xiu Ben Cao classified Su Mu as non-toxic, and the Chinese Pharmacopoeia does not assign it a toxicity rating. However, animal studies show that excessive dosage can cause significant central nervous system depression. The LD50 for intraperitoneal injection of Su Mu decoction in mice is 18.9 g/kg. Overdose symptoms may include nausea, vomiting, abdominal pain, diarrhea, drowsiness, respiratory difficulty, low blood pressure, and in extreme cases, coma or death. At standard therapeutic doses (3 to 9g in decoction), Su Mu is considered safe. Its main bioactive compound, brazilin, has demonstrated a half-life of approximately 4.4 hours and linear pharmacokinetics in animal studies.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Su Mu is a Blood-invigorating and stasis-dispelling herb with a descending action. Classical and modern Chinese Materia Medica sources consistently list pregnancy as a contraindication. Its ability to strongly move Blood can stimulate uterine activity and poses a risk of miscarriage or premature labor. Animal studies have shown that Su Mu extract has a slight inhibitory effect on isolated uterine tissue, but when combined with adrenaline the effect becomes pronounced, indicating complex uterine activity that makes it unpredictable and unsafe during pregnancy.
+- **Breastfeeding**: No specific classical or modern safety data exists regarding Su Mu during breastfeeding. Given its Blood-moving and stasis-dispersing properties, caution is advised. While it has been traditionally used in postpartum formulas to clear retained lochia (postpartum discharge), those applications are for specific pathological conditions under practitioner supervision. General use during breastfeeding without a clear clinical indication is not recommended. Consult a qualified practitioner before use.
+- **Children**: Su Mu is not commonly used in pediatric practice due to its strong Blood-moving properties. When indicated for traumatic injuries with visible bruising and swelling in children, the dosage should be reduced proportionally based on the child's age and weight, typically to one-third to one-half of the adult dose. It should only be used under qualified practitioner supervision and for short durations. Not suitable for infants or very young children.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Su Mu's active compound brazilin has demonstrated anti-platelet aggregation activity in laboratory studies. Concurrent use with warfarin, heparin, aspirin, clopidogrel, or other blood-thinning medications may increase the risk of bleeding. Use with caution and monitor coagulation parameters if co-administration is necessary.
+Sedative and CNS depressant drugs: Su Mu decoction has demonstrated sedative and hypnotic effects in animal studies and can counteract the central excitatory effects of strychnine and cocaine. It may potentiate the effects of benzodiazepines, barbiturates, opioids, or other sedative medications, increasing the risk of excessive drowsiness or respiratory depression.
+Antihypertensive medications: Brazilin has shown vasorelaxant properties in pharmacological studies. Concurrent use with blood pressure-lowering drugs may result in additive hypotensive effects. Blood pressure should be monitored when combining these agents.
+
+### Dietary Advice
+When taking Su Mu for Blood stasis conditions, avoid excessive consumption of cold and raw foods, which can impair Blood circulation and counteract the herb's warming, moving action. Mild amounts of warm wine or cooking wine may enhance Su Mu's Blood-moving effects, consistent with classical preparations that used wine as a co-decoction medium. No specific food incompatibilities are documented.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Caesalpinia sappan L. (syn. Biancaea sappan) is a small to medium-sized evergreen tree in the legume family (Fabaceae), typically growing 5 to 10 meters tall. The trunk reaches 15 to 25 cm in diameter, with brownish-green bark bearing scattered thorns. Young branches are finely hairy. The leaves are bipinnately compound, with 7 to 13 pairs of pinnae, each bearing 9 to 17 pairs of small, oblong leaflets about 0.5 to 1.5 cm long. The leaflets are papery with a slightly notched tip and fine veins visible on both surfaces.
+Flowers appear from June to September in terminal panicle-like racemes. Individual flowers have five yellow petals and are relatively small. The fruit is a woody, flattened pod (legume), reddish-brown when mature, containing 3 to 5 hard, dark seeds. The tree thrives in tropical and subtropical climates, preferring hilly terrain with well-drained, often calcareous soils at low to medium altitudes. The medicinal part is the heartwood, which displays a distinctive yellowish-red to reddish-brown color and produces a characteristic red pigment (brazilin) when extracted in water.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be harvested year-round, but autumn is preferred. Trees are typically felled after 6 to 12 years of growth. The heartwood is collected after removing the outer bark and white sapwood, then dried.
+- **Primary Growing Regions**: Su Mu is classified as a Guang Yao (广药, southern medicinal), with Guangxi province being the primary production and cultivation region in China and recognized as producing the best quality. It is also grown in Guangdong, Yunnan, Hainan, Guizhou, Sichuan, Fujian, and Taiwan. Historically, Su Mu was a major import from Southeast Asian countries (Myanmar, Vietnam, Thailand, and Indonesia), which remain its native range. During the Ming and Qing dynasties, imported sappanwood was cheaper than the domestically grown product from Yunnan and Guangxi due to ease of sea transport.
+- **Quality Indicators**: Good quality Su Mu heartwood appears as cylindrical or half-cylindrical pieces, 10 to 100 cm long and 3 to 12 cm in diameter. The surface should be yellowish-red to reddish-brown with visible knife-cut marks and occasional longitudinal cracks. The cross-section should show a slight luster with clearly defined annual rings. Higher-quality pieces have a deep reddish color throughout the heartwood, indicating greater age and higher brazilin content. Classical texts noted that wood showing 'purple-horn-like horizontal grain in the center' (中心纹横如紫角) is the finest grade. The texture should be very hard and dense. It should be nearly odorless with a slightly astringent taste. Avoid pieces that are mostly pale or have excessive white sapwood remaining, as this indicates inferior material with lower active compound content.
+
+### Identity & Adulterants
+Su Mu can potentially be confused with other red-colored heartwoods. The most important distinction is from Jiang Xiang (降香, Dalbergia odorifera), which is also a fragrant reddish heartwood used to invigorate Blood but has different therapeutic actions and a more pronounced aroma. Logwood (Haematoxylum campechianum), which produces a similar red dye compound (hematoxylin), is a related but different species not used in TCM. Authentic Su Mu can be verified by soaking a small piece in water: the liquid should turn a clear orange-red color and show yellow-green fluorescence under 365nm UV light. Adding sodium hydroxide solution should turn the liquid bright scarlet red with blue fluorescence. Pieces that are too light in weight or pale in color may be from immature trees with low brazilin content.
+
+---
+
+## References
+### Classical Texts
+#### Xin Xiu Ben Cao (《新修本草》, Newly Revised Materta Medica, Tang Dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Su Mu was originally called Su Fang Mu (苏方木). Li Shizhen explained the name's origin in the Ben Cao Gang Mu: there was an ancient country called Su Fang (苏方国) in Southeast Asia (referring to the island nations), and the wood came from there. Over time, the name was shortened to Su Mu. The herb has also been known as Su Fang (苏方), Su Fang (苏枋), Chi Mu (赤木, 'red wood'), and Hong Chai (红柴, 'red firewood').
+Su Mu was first recorded as a medicinal herb in the Xin Xiu Ben Cao (Newly Revised Materia Medica) of the Tang Dynasty, where it was described as a powerful Blood-breaking herb for postpartum emergencies. However, its use as a red dye predates its medicinal documentation, with the earliest dyeing reference appearing in the Jin Dynasty work Nan Fang Cao Mu Zhuang (南方草木状). During the Tang Dynasty, sappanwood dye was used to color the official robes of fourth-rank officials, producing the valued crimson (绯色) hue. By the Yuan and Ming periods, Su Mu was one of the largest trade commodities imported from Southeast Asia into China.
+A famous clinical application is the 'Two-Ingredient Ginseng and Sappanwood Drink' (二味参苏饮), which combines Su Mu decoction with Ren Shen (ginseng) powder to treat critical postpartum conditions. This exemplifies the classical principle of 'supplementing while simultaneously draining' (补中寓泻). The Ben Cao Gang Mu made an important clinical observation about dosage: in small amounts Su Mu harmonizes the Blood, while in large amounts it breaks Blood stasis, making it a versatile herb whose action shifts with dosage.
+
+### Modern Scientific Research
+1. **[Comprehensive Review on Bioactive Compounds Found in Caesalpinia sappan (Review, 2023)](https://pubmed.ncbi.nlm.nih.gov/37687076/)**
+   *Journal: Suwan T. et al., Molecules, 2023, 28(17), 6410*
+   This review article compiled research on all the bioactive compounds identified in sappanwood, particularly brazilin and brazilein. It summarized evidence for anti-inflammatory, antioxidant, antibacterial, and anti-cancer properties of the heartwood's phytochemicals, and discussed extraction methods and commercial applications as a natural dye and food colorant.
+
+2. **[Protective Effects of Caesalpinia sappan and Its Bioactive Compounds on Cardiovascular Organs (Review, 2021)](https://pubmed.ncbi.nlm.nih.gov/34588988/)**
+   *Journal: Saputri FC et al., Frontiers in Pharmacology, 2021, 12, 725745*
+   This review gathered evidence on how sappanwood extract and its key compounds (brazilin, sappanone A, brazilein) protect the heart and blood vessels. The studies showed antioxidant and anti-inflammatory effects relevant to cardiovascular disease, including vasorelaxation and protection against ischemia-reperfusion injury in animal models.
+
+3. **[Brazilin Induces Endothelium-Dependent and -Independent Relaxation of Rat Aortic Rings (Preclinical, 2015)](https://pubmed.ncbi.nlm.nih.gov/26564314/)**
+   *Journal: Xie YW et al., Acta Pharmacologica Sinica, 2015, 36(12), 1444-1450*
+   This laboratory study found that brazilin, the main active compound of Su Mu, caused dose-dependent relaxation of blood vessels in isolated rat aortic ring preparations. It worked through both endothelium-dependent (nitric oxide) and endothelium-independent mechanisms, and inhibited signalling pathways involved in vascular contraction (ERK1/2 and myosin light chain phosphorylation).
+
+4. **[Unlocking the Therapeutic Mechanism of Caesalpinia sappan: Antioxidant and Anti-Cancer Properties (Review, 2024)]()**
+   *Journal: Aisha AFA et al., Frontiers in Pharmacology, 2024, 15, 1514573*
+   This comprehensive review examined the ethnopharmacology, phytochemistry, and pharmacological activities of C. sappan, with particular focus on antioxidant and anti-cancer effects. Brazilin and brazilein showed cytotoxic activity against multiple cancer cell lines. The review also discussed the herb's traditional use in Chinese and Thai medicine formulations for inflammation and blood stasis conditions.
+
+5. **[Brazilin as Potential Anticancer Agent (Review, 2024)]()**
+   *Journal: Raptania CN, Zakia S, Fahira AI, Amalia R, Frontiers in Pharmacology, 2024, 15, 1355533*
+   This article reviewed brazilin's mechanisms as a potential anticancer compound. Evidence showed cytotoxic effects on colorectal, breast, lung, cervical, and bladder cancer cell lines, as well as multiple myeloma and osteosarcoma. The review proposed iron chelation as a novel mechanism by which brazilin may exert anti-tumor activity, in addition to its established antioxidant and anti-inflammatory effects.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/su-mu](https://www.meandqi.com/knowledge-base/herbs/su-mu)*

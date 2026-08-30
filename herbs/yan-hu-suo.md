@@ -1,0 +1,182 @@
+# Yan Hu Suo (延胡索)
+**English Name**: Corydalis rhizome  
+**Category**: Blood-invigorating and stasis-dispelling herbs (活血化瘀药)  
+**Scientific Name**: Corydalis yanhusuo W.T.Wang  
+**Pharmaceutical Name**: Rhizoma Corydalis  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Heart, Liver, Spleen  
+**Parts Used**: Tuber (块茎 kuài jīng / 块根 kuài gēn)  
+
+---
+
+## Summary
+Yán Hú Suǒ (Corydalis) is one of the most important pain-relieving herbs in Chinese medicine. It promotes blood circulation and helps move stagnant Qi, making it widely used for all types of pain, from menstrual cramps and stomach pain to chest pain and pain from injuries. It has been described by classical physicians as the foremost herb for treating pain throughout the entire body.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Pain Management, Menstrual Health, Digestive Health, Cardiovascular Health
+- **TCM Actions**: Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain
+
+### How these actions work
+'Invigorates Blood and moves stasis' means Yán Hú Suǒ promotes blood circulation and helps dissolve areas where blood has become sluggish or stuck. In TCM, when blood fails to flow freely, it causes sharp, fixed, stabbing pain. This herb's warm and pungent nature gives it the ability to open up blood vessels and channels, making it useful for pain caused by blood stasis anywhere in the body, including chest pain, menstrual pain, and pain from traumatic injuries.
+'Moves Qi' means this herb helps restore the smooth flow of Qi throughout the body. When Qi becomes stuck (a condition called Qi stagnation), it produces distending, wandering pain, often worsened by emotional stress. Because Yán Hú Suǒ acts on both the Liver channel (which governs the free flow of Qi) and the Spleen channel (which governs digestion), it is particularly effective for pain in the chest, flanks, and abdomen caused by emotional tension or digestive issues.
+'Alleviates pain' is the action for which this herb is most celebrated. As Li Shizhen wrote in the Ben Cao Gang Mu, it can "treat all pain throughout the body." Its pain-relieving effect is considered the strongest among common Blood-moving herbs. It works because it simultaneously addresses the two most common causes of pain in TCM: Blood stasis and Qi stagnation. Whether the pain is in the head, chest, abdomen, flanks, or limbs, this herb can be applied. Processing with vinegar (forming Cù Yán Hú Suǒ) significantly enhances its pain-relieving action.
+
+---
+
+## Patterns Addressed
+### Liver Qi Stagnation
+- **Explanation**: When the Liver's Qi fails to flow freely, it produces distending pain in the chest, flanks, and abdomen that often worsens with emotional stress. Yán Hú Suǒ enters the Liver channel and uses its pungent, dispersing nature to unblock stagnant Liver Qi. Though its primary strength is Blood-moving, its simultaneous Qi-moving action makes it particularly effective when Qi stagnation and Blood stasis coexist, which is very common in Liver Qi Stagnation patterns that have persisted over time.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondriac Pain**: Pain and distension along the ribs and flanks
+  - **Epigastric Pain Relieved With Pressure Or Eating**: Stomach area pain worsened by emotional upset
+
+### Blood Stagnation with Heat
+- **Explanation**: When Liver Qi Stagnation persists, it can generate Heat (a process called 'constraint transforming into fire'). This produces pain accompanied by heat signs such as a bitter taste in the mouth, irritability, red tongue, and yellow coating. Yán Hú Suǒ addresses the Qi and Blood stagnation component of this pattern. It is classically combined with Chuān Liàn Zǐ (川楝子, Melia fruit) in Jin Ling Zi San, where the cold, bitter Chuān Liàn Zǐ clears the Heat while Yán Hú Suǒ moves the stagnant Qi and Blood, creating a balanced approach to this hot-type pain pattern.
+- **Clinical Signs & Symptoms**:
+  - **Epigastric Pain Relieved With Pressure Or Eating**: Burning stomach pain that comes and goes
+
+---
+
+## Commonly Used For
+### Amenorrhea
+- **Arises from**: Liver Qi Stagnation
+- **TCM Interpretation**: In TCM, painful menstruation is most often understood as a failure of blood to flow freely through the uterus and its associated channels. When blood stagnates in the lower abdomen, it blocks the flow of Qi, and the resulting obstruction causes pain (the principle 'where there is no free flow, there is pain'). Emotional stress can cause the Liver Qi to become stuck, and because the Liver governs the smooth flow of both Qi and Blood and connects directly to the uterus through the Chong and Ren channels, Liver Qi Stagnation is a very common contributing factor. Cold in the uterus can also congeal the blood and worsen stasis.
+- **Why it Helps**: Yán Hú Suǒ is warm, pungent, and enters the Liver channel, which connects to the uterus. Its warmth helps counteract the cold that often congeals blood in the lower abdomen, while its pungent nature disperses blood stasis and moves stagnant Qi simultaneously. This dual action on both Qi and Blood makes it highly effective for menstrual pain, since both stagnant Qi and stagnant Blood typically contribute to dysmenorrhea. The vinegar-processed form (Cù Yán Hú Suǒ) is specifically chosen for menstrual pain because vinegar processing enhances the analgesic alkaloids and directs the herb's action more strongly into the Blood level.
+
+### Angina
+- **TCM Interpretation**: Angina pectoris falls under the TCM category of 'chest impediment' (xiong bi). It is understood as an obstruction of Qi and Blood flow in the chest, particularly in the Heart channel. Blood stasis in the Heart vessels produces the classic fixed, stabbing chest pain that may radiate to the shoulder or arm. Contributing factors can include Qi deficiency (which fails to propel Blood), Cold congealing Blood, or Phlegm obstructing the chest. The dark tongue or purple tongue spots and choppy pulse commonly seen in angina patients are classic signs of Blood stasis.
+- **Why it Helps**: Yán Hú Suǒ enters the Heart channel, giving it direct access to the site of chest pain. Its warm, pungent nature disperses Blood stasis in the Heart vessels, while its Qi-moving action helps open the chest and restore flow. Modern pharmacological research has shown its alkaloids can increase coronary blood flow, provide anti-arrhythmic effects, and lower blood pressure, which aligns with its traditional use for chest pain. It is commonly combined with Dān Shēn (Salvia root), Chuān Xiōng (Szechuan lovage), and other Blood-moving herbs for this condition.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-10g (decoction); 1.5-3g (powder taken directly)
+- **Maximum Dosage**: Up to 15g in decoction for severe pain conditions under practitioner supervision. For powder (taken directly), do not exceed 3g per dose or 9g daily.
+- **Dosage Notes**: The standard decoction dose is 3-10g. Taking the herb as ground powder (1.5-3g per dose, swallowed with warm water) is actually more effective for pain relief because the active alkaloids dissolve more readily from powder than through decoction. Vinegar-processed Yan Hu Suo (醋延胡索) is strongly preferred over the raw herb for clinical use, as vinegar processing greatly increases the solubility and bioavailability of the pain-relieving alkaloids. The raw unprocessed herb has poor solubility in water and is rarely used in modern practice. Wine-processed (酒延胡索) is sometimes used when the focus is on moving Blood in the channels and collaterals. For mild Qi stagnation pain, lower doses (3-6g) combined with Qi-moving herbs suffice. For severe Blood stasis pain, higher doses (6-10g) combined with other Blood-moving herbs are used.
+- **Preparation**: When taking Yan Hu Suo as powder (ground and swallowed directly rather than decocted), the pain-relieving effect is stronger because the alkaloids are poorly water-soluble and do not extract well into a water decoction. The standard powder dose is 1.5-3g per dose. When used in decoction, vinegar-processed material (醋延胡索) should be used to improve alkaloid extraction. Some practitioners crush or break the hard tubers before adding to the decoction pot to improve extraction.
+
+---
+
+## Processing Methods
+### C&#xF9; Y&#xE1;n H&#xFA; Su&#x1D2; (&#x918B;&#x5EF6;&#x80E1;&#x7D22;)
+- **Processing Method**: The cleaned tubers are soaked or stir-fried with rice vinegar until the vinegar is fully absorbed, then dried. The traditional ratio is approximately 20 jin (10 kg) of vinegar per 100 jin (50 kg) of herb.
+- **How it Changes Properties**: Vinegar processing significantly enhances the pain-relieving action. The acetic acid reacts with the alkaloid bases in the herb to form soluble salts, increasing the bioavailability of key analgesic compounds like tetrahydropalmatine (THP). The thermal nature and channel entry remain unchanged (warm, entering Liver and Spleen). The main clinical change is a marked increase in analgesic potency rather than a shift in thermal nature.
+- **When to Use**: Vinegar-processed Corydalis is the standard clinical form and is preferred over the raw herb in nearly all pain conditions. It is especially favoured for menstrual pain (dysmenorrhea), epigastric and abdominal pain, and chest pain from Blood stasis. The raw form has noticeably weaker analgesic effects and is rarely used in modern practice.
+
+### Ji&#x1D4; Y&#xE1;n H&#xFA; Su&#x1D2; (&#x9152;&#x5EF6;&#x80E1;&#x7D22;)
+- **Processing Method**: The cleaned tubers are stir-fried with yellow rice wine (huangjiu) until the wine is absorbed and the herb is dry.
+- **How it Changes Properties**: Wine processing enhances the herb's ability to move Blood and unblock channels. The wine acts as an organic solvent that increases the water solubility of certain alkaloids (particularly protopine). The thermal nature becomes slightly more warming, and the Blood-moving action is strengthened relative to the raw form.
+- **When to Use**: Wine-processed Corydalis is preferred when the primary goal is to invigorate Blood circulation rather than purely to relieve pain, such as in amenorrhea, postpartum blood stasis, or traumatic injuries with significant bruising.
+
+---
+
+## Common Herb Pairs
+### Chuan Lian Zi (Ratio: 1:1 (equal parts, typically 9g each))
+- **Description**: This is the famous Jin Ling Zi San pair. Chuān Liàn Zǐ (Melia fruit) is bitter and cold, clearing Liver heat and moving Qi, while Yán Hú Suǒ is pungent and warm, invigorating Blood and stopping pain. Together, one clears heat from the Qi level while the other resolves stasis from the Blood level. The cold and warm natures balance each other, creating a formula that treats both Qi stagnation and Blood stasis with an underlying heat component.
+- **When to Use**: Pain in the chest, flanks, epigastrium, or lower abdomen that comes and goes, accompanied by heat signs such as bitter taste, irritability, red tongue with yellow coating, and a wiry, rapid pulse. This is the go-to pair for Liver constraint with heat generating pain.
+
+### Xiang Fu (Ratio: 1:1 (typically 9-12g each))
+- **Description**: Xiāng Fù (Cyperus) is the premier Qi-regulating herb for the Liver, while Yán Hú Suǒ primarily moves Blood. Together they address both aspects of pain: Xiāng Fù opens the Qi level and Yán Hú Suǒ opens the Blood level. This pairing multiplies the pain-relieving effect because Qi and Blood flow are interdependent. When Qi moves, Blood follows, and vice versa.
+- **When to Use**: Liver Qi stagnation with Blood stasis causing chest and flank pain, menstrual irregularities, painful periods, or premenstrual symptoms. Particularly useful for gynaecological pain conditions where emotional stress plays a role.
+
+### Wu Yao (Ratio: 1:1 (typically 6-10g each))
+- **Description**: Wū Yào (Lindera root) moves Qi and disperses Cold, while Yán Hú Suǒ moves Blood and stops pain. Together they address Qi stagnation and Blood stasis complicated by Cold, warming the channels and strongly relieving pain. Wū Yào focuses on the Qi level in the lower abdomen, and Yán Hú Suǒ opens the Blood level.
+- **When to Use**: Cold-type abdominal pain, hernial pain, and menstrual pain worsened by cold exposure. Particularly suited to lower abdominal and epigastric pain with a cold, stagnant quality.
+
+### Dang Gui (Ratio: D&#x101;ng Gu&#x12B; 9-15g : Y&#xE1;n H&#xFA; Su&#x1D2; 6-10g)
+- **Description**: Dāng Guī (Angelica root) nourishes and invigorates Blood simultaneously, while Yán Hú Suǒ strongly moves Blood stasis and Qi. Together they combine Blood-nourishing with Blood-moving action, preventing the purely dispersing Yán Hú Suǒ from further depleting Blood while ensuring stasis is resolved. This pairing treats pain without neglecting the underlying Blood deficiency that often accompanies chronic stasis.
+- **When to Use**: Menstrual pain, postpartum abdominal pain with blood stasis, or any chronic pain condition where Blood deficiency and Blood stasis coexist. Essential for women with painful, scanty periods and a pale complexion.
+
+---
+
+## Key Formulas
+Jin Ling Zi San, Shao Fu Zhu Yu Tang, Ge Xia Zhu Yu Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Yan Hu Suo is classified as non-toxic in the Chinese Pharmacopoeia at standard therapeutic doses. However, it contains over 20 biologically active alkaloids, primarily tetrahydropalmatine (THP/延胡索乙素), protopine, corydaline, and berberine-type alkaloids. At therapeutic oral doses, mild side effects may include dizziness, fatigue, and nausea. When the powdered herb is taken in single doses exceeding 10g, some individuals have experienced skin rash, appetite loss, bloating, abdominal pain, drowsiness, and slowed heart rate with ECG T-wave changes; these effects resolve upon discontinuation. Very large doses or intravenous administration of isolated alkaloids can cause respiratory depression and Parkinson-like tremors. There have been rare case reports of acute hepatitis associated with concentrated tetrahydropalmatine preparations in Western literature. Vinegar processing (醋制) is the standard preparation method, which increases the solubility and bioavailability of the pain-relieving alkaloids while also moderating toxicity compared to crude alcohol extracts.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Yan Hu Suo is a strongly Blood-moving herb that actively disperses Blood stasis. Its alkaloid components (particularly tetrahydropalmatine) have been shown in animal studies to have effects on smooth muscle, including uterine tissue: small doses can excite the uterus while larger doses inhibit it. Classical sources explicitly state 孕妇禁服 (prohibited for pregnant women). The risk of stimulating uterine contractions and potentially causing miscarriage makes this herb unsafe at any stage of pregnancy.
+- **Breastfeeding**: Not recommended during breastfeeding. The alkaloids in Yan Hu Suo, particularly tetrahydropalmatine, are lipophilic compounds that may transfer into breast milk. THP has documented sedative, hypnotic, and dopamine receptor-blocking activity, which could potentially affect a nursing infant's nervous system. There is insufficient safety data on breastfeeding exposure. Additionally, the herb's strong Blood-moving properties may theoretically affect postpartum recovery if not appropriately indicated. Nursing mothers should avoid this herb unless specifically prescribed by a qualified practitioner who can weigh the risks and benefits.
+- **Children**: Yan Hu Suo is not commonly used in pediatric practice and should be used with caution in children. If prescribed by a qualified practitioner for specific pain conditions in older children, dosages should be significantly reduced (typically one-third to one-half of the adult dose depending on age and weight). The sedative effects of its alkaloids warrant particular caution in young children. Not recommended for infants or toddlers. As with all Blood-moving herbs, it should only be used in children when there is a clear clinical indication of Blood stasis or Qi stagnation causing pain.
+
+### Drug Interactions
+Sedatives and CNS depressants: Tetrahydropalmatine (THP), the principal active alkaloid in Yan Hu Suo, has well-documented sedative, hypnotic, and anxiolytic properties. It may potentiate the effects of benzodiazepines, barbiturates, opioid analgesics, antihistamines, and other CNS depressants, increasing the risk of excessive sedation, drowsiness, or respiratory depression.
+Dopamine-related medications: THP acts as a dopamine receptor antagonist (particularly D1 and D2 receptors). It may interact with dopaminergic drugs including levodopa (used for Parkinson's disease, potentially reducing its efficacy) and antipsychotic medications (potentially adding to dopamine blockade and increasing the risk of extrapyramidal side effects).
+Anticoagulant and antiplatelet drugs: Yan Hu Suo has demonstrated anti-platelet aggregation activity in pharmacological studies. Concurrent use with warfarin, heparin, aspirin, clopidogrel, or other anticoagulant/antiplatelet medications may increase bleeding risk. Monitoring is advisable.
+Antihypertensive medications: dl-THP has been shown to lower blood pressure and heart rate in animal studies. Combined use with antihypertensive drugs may result in additive hypotensive effects.
+Hepatotoxicity considerations: Rare case reports of acute hepatitis have been associated with concentrated THP preparations. Caution is warranted when combining with other potentially hepatotoxic drugs (e.g., acetaminophen, statins, certain antibiotics).
+
+### Dietary Advice
+When taking Yan Hu Suo for pain due to Blood stasis or Qi stagnation, avoid excessively cold and raw foods (such as iced drinks, raw salads, and cold fruit) as these can constrict circulation and counteract the herb's Blood-moving effects. Foods that gently support circulation, such as warm broths, cooked vegetables, and small amounts of vinegar in cooking, are complementary. Avoid excessive alcohol consumption, as both alcohol and the herb's alkaloids are metabolized by the liver, and the combination may increase sedative effects or hepatic burden.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Corydalis yanhusuo W.T. Wang is a small perennial herb in the Papaveraceae (poppy) family, typically growing 10 to 30 cm tall. It produces a spherical underground tuber (0.5 to 2.5 cm in diameter) that serves as the medicinal part. The stems are slender, soft, and slightly fleshy, sometimes branching. The leaves are twice or nearly thrice divided into groups of three (biternate to triternate), with lance-shaped leaflets that have smooth margins. The plant flowers in March to April, producing racemes of distinctive purple-red to pinkish tubular flowers, each with a characteristic spur at the back. Fruits are slender linear capsules (2 to 2.8 cm long) that split open when ripe, scattering glossy black seeds. The plant goes dormant after fruiting in May to June, with the above-ground parts dying back completely.
+C. yanhusuo thrives in cool, temperate environments and grows naturally in hilly grasslands, woodland edges, and partially shaded areas. It prefers well-drained, loamy, fertile soils with slightly acidic to neutral pH. It is predominantly found in southern and central China, particularly in the provinces of Zhejiang, Anhui, Jiangsu, Hubei, Hunan, and Henan.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late spring to early summer (May to June), when the above-ground stems and leaves have withered and died back, signaling that the tubers are fully mature.
+- **Primary Growing Regions**: The finest quality Yan Hu Suo comes from Zhejiang Province, particularly the Dongyang and Pan'an areas near Jinhua city. This is its recognized terroir region (道地药材), and it is classified as one of the famous "Eight Herbs of Zhejiang" (浙八味). Before the Ming Dynasty, wild Yan Hu Suo was sourced from the border regions of Hebei, Inner Mongolia, and Liaoning. From the Ming Dynasty onward, cultivation shifted to the Jiangsu-Zhejiang area (the Maoshan region of Jiangsu was an early terroir). By the Qing Dynasty, cultivated Zhejiang material became the standard. Hubei, Hunan, Jiangsu, and Shaanxi (especially Chenggu county) also produce commercially available herb, though Zhejiang remains the gold standard.
+- **Quality Indicators**: Good quality Yan Hu Suo tubers are large (closer to 1.5 cm diameter), plump, and full-bodied, with a firm, hard, and brittle texture. The outer surface should be a clear yellow to yellowish-brown with fine irregular netted wrinkles. The cross-section should be bright yellow with a waxy, horny (角质) luster, indicating thorough boiling during initial processing. The taste should be distinctly bitter, and the smell is faint. Inferior quality tubers are small, greyish-yellow in color, and show a white center on the cross-section (indicating incomplete processing or immature harvest). Avoid pieces that are soft, moldy, or insect-damaged. For vinegar-processed (醋延胡索) slices, the color should be deeper brown-yellow with a slight vinegar aroma.
+
+### Identity & Adulterants
+Several related Corydalis species may be substituted for genuine C. yanhusuo:
+1. Northeastern Corydalis (山延胡索, C. ambigua / C. turtschaninovii): The historically original wild species from Liaoning and northeastern China. Lower alkaloid content and considered less potent than cultivated Zhejiang material.
+2. Tu Yan Hu (土延胡索, C. decumbens): Also called Xia Tian Wu, sometimes sold as a substitute in Jiangsu. Its tubers are similar in size but the cross-section is whitish and powdery rather than bright yellow and waxy. It has different pharmacological properties and lower quality.
+3. Sulfur-fumigated material: Some commercially processed Yan Hu Suo is treated with sulfur dioxide to improve appearance and prevent insect damage, which degrades alkaloid content and introduces residual sulfur. Authentic quality material should be boiled and sun-dried without sulfur fumigation.
+4. Adulterated dietary supplements: A 2024 study found large variability in alkaloid content among commercial Corydalis supplements sold outside China, with some products nearly devoid of active alkaloids and one sample suspected of adulteration with synthetic tetrahydropalmatine.
+Authentication: Genuine C. yanhusuo tubers have a bright yellow cross-section with waxy luster, are hard and brittle (not powdery), and taste distinctly bitter. TLC and HPLC testing for tetrahydropalmatine content is the standard pharmacopoeia identification method.
+
+---
+
+## References
+### Classical Texts
+#### 《雷公炮炙论》 (Lei Gong Pao Zhi Lun)
+- **Original**: 心痛欲死，速觅延胡。
+- **Translation**: "When heart pain threatens death, seek Yan Hu Suo with haste."
+
+### Historical Context
+Yan Hu Suo (延胡索) was first documented in the Tang Dynasty text Ben Cao Shi Yi (《本草拾遗》) by Chen Cangqi around 720 CE, where it was described as arriving from the Andongjun region (northeastern border), "with tubers like Ban Xia (Pinellia) and yellow in color." Its original name was Xuan Hu Suo (玄胡索). During the Song Dynasty, the character 玄 (xuan) was changed to 元 (yuan) to avoid the taboo name of Emperor Song Zhenzong, and the herb became known as Yuan Hu Suo (元胡索) or simply Yuan Hu (元胡), names still widely used on modern prescriptions. Li Shizhen recorded this naming history in the Ben Cao Gang Mu.
+The plant source of Yan Hu Suo shifted over the centuries. During the Tang and Song Dynasties, the herb was likely derived from wild northeastern species such as the toothed-petal Corydalis (C. turtschaninovii and variants). From the Ming Dynasty onward, cultivation of C. yanhusuo in the Jiangsu and Zhejiang regions became standard, and by the Qing Dynasty this cultivated southern variety had completely replaced the wild northern material. Li Shizhen noted it was cultivated at Maoshan in Jiangsu, planted after Cold Dew (寒露) and harvested at the Start of Summer (立夏).
+Yan Hu Suo has long been revered as the supreme pain-relieving herb in Chinese medicine. The famous aphorism from the Lei Gong Pao Zhi Lun, "When heart pain threatens death, seek Yan Hu Suo with haste," demonstrates its ancient clinical reputation. Li Shizhen elevated it further, calling it "a first-class herb for invigorating Blood and transforming Qi." In modern times, the discovery of its alkaloid tetrahydropalmatine (THP, also called Yan Hu Suo Yi Su) led to its development as a pharmaceutical analgesic in China, sometimes called the "Chinese morphine," though it acts through dopamine receptors rather than opioid pathways and carries far less addiction risk.
+
+### Modern Scientific Research
+1. **[A Novel Analgesic Isolated from a Traditional Chinese Medicine (Preclinical study, 2014)]()**
+   *Journal: Zhang Y, Wang C, Wang L, et al. Current Biology, 2014, 24(2):117-123.*
+   Researchers at UC Irvine identified dehydrocorybulbine (DHCB) from Corydalis yanhusuo extract. Synthetic DHCB effectively reduced acute, inflammatory, and neuropathic pain in mouse models, primarily through dopamine D2 receptor antagonism. Importantly, DHCB did not produce tolerance with repeated use, unlike morphine.
+
+2. **[The Antinociceptive Properties of Corydalis yanhusuo Extract (Preclinical study, 2016)]()**
+   *Journal: Wang L, Zhang Y, Wang Z, et al. PLoS ONE, 2016, 11(9):e0162875.*
+   This study conducted standardized pain assays in mice, confirming that Corydalis yanhusuo extract (YHS) effectively attenuated acute, inflammatory, and neuropathic pain in tail flick, formalin paw licking, von Frey, and hot box assays after spinal nerve ligation, without causing analgesic tolerance.
+
+3. **[l-Tetrahydropalmatine Protects against Myocardial Ischaemia-Reperfusion Injury in Rats (Preclinical study, 2012)](https://pubmed.ncbi.nlm.nih.gov/22715398/)**
+   *Journal: Han Y, Zhang W, Tang Y, et al. PLoS ONE, 2012, 7(6):e38627.*
+   l-THP, a key alkaloid from C. yanhusuo, reduced infarct area and improved cardiac function in a rat myocardial ischemia-reperfusion model. The cardioprotective mechanism involved activation of the PI3K/Akt/eNOS signaling pathway.
+
+4. **[Pharmacokinetics and Safety Assessment of l-Tetrahydropalmatine in Cocaine Users (Phase I RCT, 2017)]()**
+   *Journal: Hassan HE, Kelly D, Honick M, et al. Journal of Clinical Pharmacology, 2017, 57(2):151-160.*
+   A randomized, double-blind, placebo-controlled study found that 3.5 days of oral l-THP administration in cocaine users was safe and well tolerated with no significant adverse effects, supporting its potential development for substance use disorders.
+
+5. **[A Comprehensive Review on the Chemical Properties, Plant Sources, Pharmacological Activities, Pharmacokinetic and Toxicological Characteristics of Tetrahydropalmatine (Review, 2022)](https://pubmed.ncbi.nlm.nih.gov/35559252/)**
+   *Journal: Multiple authors. Frontiers in Pharmacology, 2022.*
+   This systematic review summarized THP's pharmacological profile, including anti-addiction, anti-inflammatory, analgesic, neuroprotective, and antitumor effects. It also detailed pharmacokinetic characteristics and toxicological data, noting THP's broad therapeutic window when used at appropriate doses.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/yan-hu-suo](https://www.meandqi.com/knowledge-base/herbs/yan-hu-suo)*

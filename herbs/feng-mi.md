@@ -1,0 +1,163 @@
+# Feng Mi (蜂蜜)
+**English Name**: Honey  
+**Category**: Qi-tonifying herbs (补气药), Moist laxatives (润下药)  
+**Scientific Name**: Apis cerana Fabricius; Apis mellifera Linnaeus  
+**Pharmaceutical Name**: Mel  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Lungs, Spleen, Large Intestine  
+**Parts Used**: Animal — secretion (动物分泌物 dòng wù fēn mì wù)  
+
+---
+
+## Summary
+Honey is one of the oldest medicinal foods in Chinese medicine, valued for its gentle ability to soothe the digestive system, relieve dry coughs, and ease constipation. It is sweet and neutral in nature, making it safe and mild for most people. Beyond being taken on its own, it plays a vital role in traditional pharmacy as a pill binder and herb-processing agent that enhances the moistening and tonifying effects of other medicines.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Respiratory Health, Constipation Relief, Skin and Wound Care
+- **TCM Actions**: Tonifies the Middle and Augments Qi, Moistens the Lungs and Stops Cough, Moistens the Intestines and Unblocks the Bowels, Relaxes Spasms and Relieves Urgency, Resolves Toxicity, Harmonizes Other Herbs
+
+### How these actions work
+'Tonifies the middle and supplements Qi' means honey nourishes and strengthens the Spleen and Stomach, which are central to the body's digestive function and Qi production. This makes it suitable for people with weak digestion, poor appetite, fatigue, and cramping abdominal pain that improves after eating. Its sweet taste directly supports the Spleen, which is said to prefer sweetness in TCM.
+'Moistens the Lungs and stops coughing' means honey's sweet, moistening quality can soothe a dry, irritated throat and Lungs. It is particularly useful for a dry, unproductive cough or a chronic cough from Lung dryness where there is little to no phlegm. Honey is also commonly used as a processing agent (honey-roasting) for other cough-relieving herbs like Zi Wan and Kuan Dong Hua to boost their moistening effect.
+'Moistens the Intestines and unblocks the bowels' refers to honey's slippery, lubricating nature, which helps relieve constipation caused by dryness and insufficient body fluids in the Large Intestine. This is especially helpful for elderly people or those weakened by illness. It can be taken dissolved in warm water (30-60g) or even formed into a rectal suppository, as described in Zhang Zhongjing's famous "honey-boiled suppository" method.
+'Relaxes urgency and alleviates pain' describes honey's ability to ease cramping and spasmodic pain in the abdomen. Sweet-flavoured substances in TCM have a relaxing, softening quality that counteracts tension and spasm, which is why honey helps with stomach and abdominal pain due to Spleen and Stomach weakness.
+'Resolves toxins' means honey can reduce the toxicity of other substances. It is traditionally used to counteract poisoning from Aconite (Wu Tou), and processed honey (refined honey) is used as a coating or binder in pill-making partly to moderate harsh drug actions. Applied externally, raw honey can also help draw out toxins from sores and burns.
+'Harmonizes other herbs' means honey moderates and unifies the actions of other ingredients in a formula, much like Gan Cao (licorice root). It is widely used as a pill binder (for honey pills) and as a processing agent in honey-roasting (mi zhi), enhancing the tonifying and moistening qualities of other herbs while softening harsh properties.
+
+---
+
+## Patterns Addressed
+### Spleen Qi Deficiency
+- **Explanation**: Feng Mi's sweet taste and neutral temperature directly nourish the Spleen and Stomach. In Spleen Qi Deficiency, the middle burner lacks the Qi needed for proper digestion and transformation. Honey supplements this deficiency through its sweet, tonifying nature, which the Spleen readily absorbs. Its gentle, relaxing quality (the 'sweet relaxes urgency' principle) also addresses the cramping abdominal pain that occurs when the Spleen is too weak to maintain smooth movement in the digestive tract.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Due to Spleen&#x27;s inability to transform food
+
+### Lung Dryness
+- **Explanation**: When the Lungs become dry from insufficient fluids, they lose their natural moistness and descending function, producing a persistent dry cough. Feng Mi enters the Lung channel and directly moistens Lung tissue with its sweet, lubricating quality. Unlike cold-natured herbs that moisten by clearing Heat, honey's neutral temperature makes it suitable even when there is no clear Heat or Cold, just pure dryness. Classical sources note that for stubborn dry cough unresponsive to other treatments, daily honey alone can gradually restore Lung moisture.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 15-30g
+- **Maximum Dosage**: Up to 30-60g per dose for acute constipation in adults, dissolved in warm water. There is no established toxic upper limit for adults, but large doses may cause loose stools, nausea, or blood sugar spikes.
+- **Dosage Notes**: Use lower doses (15g) dissolved in warm water for gentle tonification of the Middle Burner and mild moistening. Use higher doses (30-60g) dissolved in warm water for acute intestinal dryness with constipation, either taken orally or formed into a suppository (mi jian dao, 蜜煎导, a method described in the Shang Han Lun). As a vehicle for honey-processing (mi zhi) of other herbs, dosages are typically 25-30% of the weight of the herb being processed. When used as an antidote for Aconite (Wu Tou) poisoning, large doses (30-120g) may be given dissolved in water. Raw (unprocessed) honey is preferred for clearing Heat and moistening the intestines, while refined (lian mi, 炼蜜) honey is preferred for tonifying the Middle Burner and as an excipient in pill-making.
+- **Preparation**: When used in a decoction, honey should not be boiled with other herbs. Instead, it should be dissolved into the strained, warm decoction liquid just before drinking (called "chong fu" 冲服, dissolving and taking). For pill-making, honey must first be refined (lian mi 炼蜜): heated with a small amount of water, skimmed of foam and impurities, and boiled until a drop placed in water forms a bead that does not disperse. Refined honey is classified into three grades by density: tender honey (nen mi), medium honey (zhong mi), and old honey (lao mi), each suited to different pill formulations. For the classical "honey suppository" method (mi jian dao 蜜煎导) described in the Shang Han Lun, honey is boiled down to a very thick paste, shaped into a suppository while warm, and inserted rectally to relieve severe constipation.
+
+---
+
+## Processing Methods
+### Li&#xE0;n M&#xEC; (&#x70BC;&#x871C;, refined honey)
+- **Processing Method**: Raw honey is placed in a vessel and gently heated over low fire (or using a double-boiler method), stirred continuously. Foam and impurities are skimmed off. The honey is cooked until a drop placed in water holds its shape without dispersing (the 'drop-in-water-forms-a-pearl' test). Depending on the degree of refinement, the result is classified as tender honey (nen mi), medium honey (zhong mi), or old honey (lao mi).
+- **How it Changes Properties**: Raw (sheng) honey is considered slightly cool in nature and better at clearing Heat and resolving toxins. Refined (shu/lian) honey becomes warm in nature and shifts its primary action toward tonifying the middle burner and supplementing Qi. The warming processing also improves shelf life by removing moisture, destroying enzymes, and killing microorganisms. The refined form has stronger binding properties for pill-making.
+- **When to Use**: Refined honey is used when the goal is to tonify the Spleen and Stomach (warm, supplementing action), when making honey pills (mi wan), and when honey-roasting other herbs (mi zhi). For clearing Heat, resolving toxins, or lubricating the intestines for constipation, raw honey is preferred.
+
+---
+
+## Common Herb Pairs
+### Gan Cao (Ratio: Gan Cao 6-10g : Feng Mi 15-30g (one spoonful))
+- **Description**: This pairing combines two sweet, harmonizing substances that together strongly tonify Spleen Qi, moderate harsh drug actions, and protect the Stomach lining. Both herbs have a reputation for 'harmonizing all medicines' and resolving toxicity. Together they amplify each other's ability to soothe the middle burner and alleviate pain.
+- **When to Use**: Used when combining purgative or toxic herbs in a formula to cushion their harsh effects on the Stomach and intestines, as seen in Liang Ge San where honey and Gan Cao moderate the drastic purging action of Da Huang and Mang Xiao.
+
+### Sheng Jiang (Ratio: Sheng Jiang juice 2 parts : Feng Mi 1 part (by weight of final product))
+- **Description**: Honey's sweet moistening nature combined with ginger's warm, dispersing quality creates a balanced cough remedy. Ginger warms the Lungs and transforms Cold-Phlegm while honey moistens the Lungs and stops coughing. Together they address coughs involving both Cold and dryness without being excessively drying or excessively moistening.
+- **When to Use**: For coughs with thin, clear phlegm and dry throat, especially in cold weather. This pairing appears in the classical Qian Jin Fang recipe where honey and ginger juice are cooked together to treat cough.
+
+### Hei Zhi Ma (Ratio: Hei Zhi Ma 45g : Feng Mi 54g (roughly 1:1.2))
+- **Description**: Black sesame nourishes Liver and Kidney Yin and lubricates the intestines with its oily nature, while honey moistens the intestines and tonifies Qi. Together they powerfully address constipation from dual dryness and Yin Deficiency, and support overall fluid production.
+- **When to Use**: For chronic constipation in the elderly or those with constitutional Yin Deficiency, especially when accompanied by dizziness, dry hair, or premature greying, signs of Liver-Kidney Yin Deficiency.
+
+---
+
+## Key Formulas
+Gan Cao Gan Jiang Tang, Liang Ge San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Honey is classified as non-toxic and is generally very safe. The main safety concern in modern practice is the risk of Clostridium botulinum spores, which are naturally present in some honey samples. While this poses no risk to healthy older children and adults (whose mature gut flora neutralizes the spores), it can cause potentially fatal infant botulism in babies under 12 months. Some honeys derived from specific toxic plant sources (such as rhododendron species) can contain grayanotoxins, causing "mad honey" poisoning with symptoms of nausea, vomiting, dizziness, and cardiac arrhythmia. This is very rare in commercially produced honey. Additionally, some imported honeys may contain pyrrolizidine alkaloids from certain nectar plants, which can accumulate with chronic use and cause liver toxicity.
+
+### Contraindications
+- **[Caution]** Phlegm-Dampness accumulation with internal obstruction (痰湿内蕴): Honey's sweet, moistening nature can worsen Dampness and Phlegm, aggravating symptoms such as chest fullness, abdominal bloating, and heavy limbs.
+- **[Caution]** Middle Burner fullness and distension (中满痞胀): The sweet, cloying quality of honey can obstruct the Spleen's transforming function and worsen epigastric or abdominal distension.
+- **[Caution]** Loose stools or diarrhea (肠滑泄泻): Honey is slippery and moistening by nature. In people with Spleen deficiency causing chronic loose stools, it can further loosen the bowels and worsen diarrhea.
+- **[Caution]** Diabetes or significant blood sugar dysregulation: Honey is extremely high in glucose and fructose. People with diabetes or insulin resistance should avoid it or use it only under strict medical guidance.
+- **[Caution]** Damp-Heat conditions of the lower body such as Damp-Heat foot Qi (湿热脚气): The classical text Ben Cao Jing Shu specifically warns against using honey in this pattern, as its sweet, moistening quality can feed the pathogenic Dampness.
+- **[Caution]** Nausea and vomiting, or heavy alcohol use (呕家酒家): The Ben Cao Jing Shu advises against honey in people prone to nausea or those who drink heavily, as its rich sweetness can worsen these conditions.
+
+### Classical Incompatibilities
+Feng Mi does not appear on the Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, there is a well-known classical food incompatibility: honey is traditionally said to be incompatible with raw scallions (sheng cong, 生葱). This is recorded in the Jin Gui Yao Lue and many subsequent texts as "mi fan sheng cong" (蜜反生葱). While this is a food avoidance rather than a formal herbal incompatibility, it is widely observed in clinical practice.
+
+### Special Populations
+- **Pregnancy**: Generally considered safe during pregnancy at standard dietary and medicinal doses. Honey has no known uterine-stimulating properties and is not classified as a pregnancy-restricted substance in traditional Chinese medicine. It is, in fact, commonly recommended for constipation during pregnancy due to its gentle moistening action. However, women with gestational diabetes should limit or avoid honey due to its high sugar content. As always, medicinal use during pregnancy should be guided by a qualified practitioner.
+- **Breastfeeding**: Honey is generally considered safe for breastfeeding mothers at standard dietary and medicinal doses. There is no established evidence that honey components transfer through breast milk in harmful quantities. It has traditionally been used to support postpartum recovery. However, it is critical to remember that honey itself must never be given directly to infants under 12 months due to the risk of infant botulism from Clostridium botulinum spores. The mother consuming honey does not transfer this risk through breast milk.
+- **Children**: Honey is absolutely contraindicated for infants under 12 months of age due to the risk of infant botulism from Clostridium botulinum spores. For children aged 1-3 years, honey can be introduced cautiously in small amounts (one-quarter to one-third of adult dose, roughly 3-5g). For older children (over 3 years), dosages are typically half the adult dose (7-15g). Honey is a traditional children's remedy for dry cough and constipation, and is commonly used as a flavor-improving vehicle for bitter medicines. It is also used as the excipient in honey pills (mi wan), which are especially suitable for pediatric use due to their mild taste and slow-release properties.
+
+### Drug Interactions
+No major drug interactions are well-documented for honey specifically. However, the following pharmacological considerations are clinically relevant:
+- Hypoglycemic medications (insulin, metformin, sulfonylureas): Honey has a high glycemic load and can raise blood sugar. People taking diabetes medications should monitor blood glucose carefully if consuming honey medicinally, as dose adjustments may be needed.
+- Warfarin and anticoagulants: There is limited theoretical concern that honey's antioxidant and anti-inflammatory properties could modestly affect coagulation parameters, though no strong clinical evidence supports a significant interaction. Standard monitoring is adequate.
+- Phenytoin: One case study suggested honey might affect the absorption of phenytoin, though evidence is extremely limited.
+Overall, honey has a very favorable safety profile regarding drug interactions. Its main clinical concern is its high sugar content affecting glycemic control in diabetic patients on medication.
+
+### Dietary Advice
+Avoid consuming honey with raw scallions (sheng cong), a classical food incompatibility recorded in multiple texts. Avoid eating honey with excessively greasy, rich, or cold raw foods if the purpose of taking honey is to tonify the Spleen, as these foods can counteract the tonifying effect and generate Dampness. People with Spleen deficiency or Phlegm-Dampness should not combine honey with other sweet, cloying foods in large quantities. Warm water is the best vehicle for dissolving honey. Avoid adding honey to boiling water, as excessive heat destroys its enzymes and reduces its medicinal value. When using honey to moisten Lung dryness, pairing it with pear juice, lily bulb, or loquat leaf enhances the effect.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Feng Mi is not a plant-derived herb but an animal product: it is the honey produced by honeybees, primarily the Chinese honeybee (Apis cerana Fabricius) or the Italian honeybee (Apis mellifera Linnaeus), both belonging to the family Apidae. The bees collect nectar from flowering plants, mix it with their own enzymatic secretions, and store it in wax honeycombs within the hive, where it is gradually concentrated through evaporation and enzymatic conversion into the thick, sweet substance known as honey.
+Apis cerana, the native Chinese bee, is a medium-sized bee (about 10-11mm) that builds multiple-comb nests inside cavities such as hollow trees, rock crevices, or purpose-built hive boxes. Colonies are relatively small, with around 6,000-7,000 workers. Apis mellifera, the western honeybee, was introduced to China and now dominates commercial honey production. It forms larger colonies of up to 50,000 or more individuals and produces honey in greater volume. The honey from native Apis cerana (known as "tu feng mi" or native bee honey) has traditionally been considered superior for medicinal use due to its longer maturation cycle and diverse nectar sources.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Honey is harvested year-round depending on regional flowering seasons, but is most commonly collected from spring through autumn (April to October). The specific timing depends on the nectar source: acacia honey is harvested in late spring (May), linden honey in early to mid-summer (June to July), and jujube honey in late spring to early summer. Native Chinese bee (tu feng mi) honey is often harvested only once or twice per year, typically in autumn, after a longer maturation period in the hive.
+- **Primary Growing Regions**: Honey is produced across virtually all of China, but quality varies significantly by region and nectar source. Historically prized regions include the mountains of Sichuan, Yunnan, and Guizhou for native bee (Apis cerana) honey, and the vast fields of northern China (Hebei, Henan, Shandong) for acacia (locust tree) honey. The Ben Cao Gang Mu notes that in ancient times the finest "stone honey" (shi mi) came from Wudu (武都, in modern Gansu) and Heyuan (河源) mountain valleys. Native Chinese bee honey (tu feng mi) from highland regions of Sichuan, Yunnan, Guizhou, and Guangxi is considered most similar to the classical medicinal product. Specific single-source honeys, such as Qinling Mountain acacia honey and Changbai Mountain linden honey, are regionally renowned for quality.
+- **Quality Indicators**: High-quality honey should be viscous and thick, not thin or watery. When scooped with a chopstick or spoon and lifted, it should form a long, continuous thread that springs back into a bead shape when it breaks. Good honey has a clear, translucent appearance with a natural luster, though color varies by nectar source (acacia honey is nearly water-white, jujube honey is dark amber). The aroma should be distinctly floral, corresponding to its nectar source, and the taste should be sweet with a subtle acidic note and a slightly tingling sensation in the throat. Natural crystallization (forming fine, smooth, fish-roe-like granules that dissolve easily when rubbed between fingers) is a sign of authenticity, not spoilage. Poor quality or adulterated honey may taste flat or have a caramel/burnt sugar flavor, feel gritty when crystallized (like sugar granules rather than smooth paste), or lack a floral aroma.
+
+### Identity & Adulterants
+Honey adulteration is a widespread and serious global problem. The most common forms of adulteration include the addition of high-fructose corn syrup (HFCS), rice syrup, beet sugar syrup, or maltose syrup. These industrial syrups are much cheaper than natural honey and can be very difficult to detect by taste alone. In China, annual honey market sales far exceed actual production, indicating significant adulteration. Some vendors also sell immature honey (harvested before bees have fully processed it) that has been industrially concentrated, which has lower enzymatic activity and nutritional value. "Fake stone honey" (假石蜜) sold at tourist sites is typically white sugar, alum, fragrance, and coloring boiled together with an attached piece of moss or empty honeycomb for appearance. To distinguish authentic honey: check for the thread-pulling test, floral aroma, natural crystallization pattern, and purchase from reputable sources with quality certifications.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 「主心腹邪气，诸惊痫痓，安五脏诸不足，益气补中，止痛解毒，和百药，久服轻身延年。」
+- **Translation**: It governs pathogenic Qi of the chest and abdomen, various fright-epilepsy and convulsions, calms the five Zang organs in all deficiency states, supplements Qi and tonifies the Middle, stops pain and resolves toxins, harmonizes all medicines. Long-term use lightens the body and extends life.
+
+### Historical Context
+Honey holds a unique place in Chinese medicine as one of the oldest continuously used medicinal substances. It was classified as a "superior" (上品) medicine in the Shen Nong Ben Cao Jing, the earliest Chinese materia medica, meaning it was considered non-toxic and suitable for long-term use. The ancient name "shi mi" (石蜜, stone honey) referred to wild honey found in rock crevices, which was considered the finest grade before beekeeping became widespread. Over time, domesticated bee honey came to be regarded as equally effective.
+Li Shizhen's Ben Cao Gang Mu provided the most comprehensive classical analysis, famously summarizing honey's five functions and noting the crucial distinction between raw (sheng) and processed (shu/lian) honey: raw honey is cooling and clears Heat, while refined honey is warming and tonifies the Middle. This distinction remains clinically important today. Honey also plays an essential role in Chinese pharmacy beyond direct consumption: it is the primary excipient for "mi wan" (蜜丸, honey pills), the most common traditional pill form, and is used in "mi zhi" (蜜炙, honey-frying), a processing method applied to herbs like Huang Qi, Gan Cao, and Kuan Dong Hua to enhance their tonifying and moistening properties.
+The Song Dynasty poet Su Shi (苏轼) was famously fond of honey and kept bees during his exile in Huangzhou and Huizhou. Classical texts also consistently warn that honey should not be consumed with raw scallions (sheng cong), a food incompatibility recorded in the Jin Gui Yao Lue and many subsequent texts.
+
+### Modern Scientific Research
+1. **[Honey as a topical treatment for wounds (Cochrane Systematic Review, 2015)](https://doi.org/10.1002/14651858.CD005083.pub4)**
+   *Journal: Jull AB, Cullum N, Dumville JC, Westby MJ, Deshpande S, Walker N. Honey as a topical treatment for wounds. Cochrane Database of Systematic Reviews, 2015, Issue 3, Art. No.: CD005083.*
+   This Cochrane systematic review evaluated 26 trials involving 3,011 participants to assess honey's effectiveness for wound healing. The review found moderate-quality evidence that honey heals partial-thickness burns faster than conventional dressings. However, evidence for its effectiveness on other wound types (leg ulcers, surgical wounds) was of low or very low quality, and the review could not confirm benefit for most other wound categories.
+
+2. **[Clinical Significance of Manuka and Medical-Grade Honey for Antibiotic-Resistant Infections (Systematic Review, 2020)](https://doi.org/10.3390/antibiotics9110766)**
+   *Journal: Nolan VC, Harrison J, Wright JEE, Cox JAG. Clinical Significance of Manuka and Medical-Grade Honey for Antibiotic-Resistant Infections: A Systematic Review. Antibiotics, 2020, 9(11): 766.*
+   This systematic review examined 32 studies on honey's activity against multidrug-resistant organisms. It found that medical-grade honey (particularly Manuka honey) demonstrated in vitro and some clinical effectiveness against MRSA and other resistant pathogens. The antibacterial activity was attributed to methylglyoxal and hydrogen peroxide. However, large-scale randomized clinical trials are still needed.
+
+3. **[Honey in modern wound care: A systematic review (2013)](https://doi.org/10.1016/j.burns.2013.06.014)**
+   *Journal: Vandamme L, Heyneman A, Hoeksema H, Verbelen J, Monstrey S. Honey in modern wound care: A systematic review. Burns, 2013, 39(8): 1514-1525.*
+   This systematic review evaluated 55 studies on honey's use in burns, ulcers, and other wounds. Across all three wound categories, honey demonstrated wound-healing-promoting properties. Evidence for its antibacterial activity was strongest in burn studies. The review noted that while honey showed anti-inflammatory, deodorizing, and debriding properties, evidence for these additional benefits was limited.
+
+4. **[Honey in the treatment of burns: a systematic review and meta-analysis of its efficacy (2009)](https://pubmed.ncbi.nlm.nih.gov/19648986/)**
+   *Journal: Wijesinghe M, Weatherall M, Perrin K, Beasley R. Honey in the treatment of burns: a systematic review and meta-analysis of its efficacy. New Zealand Medical Journal, 2009, 122(1295): 47-60.*
+   This meta-analysis of randomized controlled trials found that honey was significantly more effective than conventional dressings for superficial and partial-thickness burns. Honey-treated burns showed higher healing rates at both 15 and 21 days compared to control treatments, primarily silver sulfadiazine. The odds of healing at 15 days were approximately 6.7 times higher with honey.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/feng-mi](https://www.meandqi.com/knowledge-base/herbs/feng-mi)*

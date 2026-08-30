@@ -1,0 +1,61 @@
+# Xiang Su San (香苏散)
+**English Name**: Cyperus and Perilla Powder  
+**Category**: Exterior-releasing formulas, Acrid-warm exterior-releasing formulas  
+**Dynasty/Source**: Tai Ping Hui Min He Ji Ju Fang (太平惠民和剂局方)  
+**Temperature**: Warm | **Form**: Powder (San)
+
+---
+
+## Summary
+A gentle formula for common colds accompanied by digestive discomfort. It is designed for people who catch a chill and develop symptoms like chills, mild fever, headache, and a stuffy feeling in the chest and stomach with poor appetite. Because of its mild nature and safety during pregnancy, it is one of the most widely used classical cold remedies in Chinese medicine.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Disperses Wind-Cold, Moves Qi, Harmonizes the Middle Burner, Disperses Exterior Conditions and Reduces Fever, Eliminates Focal Distention and Fullness
+- **Therapeutic Focus**: Cold and Flu Relief, Digestive Health, Pregnancy-safe cold remedy
+- **Target Organs**: Lungs, Spleen, Stomach, Liver
+- **Patterns Addressed**: 
+- **Conditions Treated**: Common Cold, Dyspepsia, Influenza, Gastroesophageal Reflux Disease, Irritable Bowel Syndrome, Morning Sickness, Upper Respiratory Tract Infections
+- **Other Names**: Xiang Su Tang (香苏汤, Cyperus and Perilla Decoction)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Zi Su Ye** | Perilla leaf | *King* | 6 - 12g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)<br>Affinity: Lungs, Spleen | Releases the exterior and disperses Wind-Cold while simultaneously moving Qi in the chest and middle burner. This dual action of resolving the exterior pathogen and addressing internal Qi stagnation makes it the ideal lead herb for this formula's combined pathomechanism. |
+| **Xiang Fu** | Nutgrass Galingale Rhizome | *Deputy* | 6 - 12g | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Spleen, San Jiao (Triple Burner) | A premier herb for moving stagnant Qi and relieving constraint, particularly in the Liver channel. It enhances the Qi-regulating action of the King herb and, when paired with Zi Su Ye, gains the ability to reach the exterior and upper body to help expel pathogenic factors. |
+| **Chen Pi** | Tangerine peel | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Spleen | Regulates Qi and dries Dampness in the middle burner, assisting the King and Deputy herbs in resolving Qi stagnation while also transforming turbid Dampness that contributes to the chest fullness and poor appetite. |
+| **Gan Cao** | Licorice root | *Envoy* | 1.5 - 3g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Tonifies the Spleen and harmonizes the middle burner, preventing the Qi-moving herbs from depleting Qi. Also harmonizes the actions of all the other herbs in the formula. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Generally considered safe during pregnancy when used at standard dosages for appropriate indications. Zi Su Ye (Perilla Leaf) is traditionally regarded as a pregnancy-safe herb and is even used classically to calm a restless fetus and treat morning sickness (pregnancy nausea). Xiang Fu (Cyperus) is a Qi-regulating herb that moves Qi without strongly moving Blood. Gan Cao (Licorice) and Chen Pi (Tangerine Peel) are also considered safe. However, as with any herbal formula during pregnancy, it should only be taken under professional guidance and for the shortest necessary duration. The formula's mild diaphoretic action warrants caution in pregnant women who are already sweating or have Qi deficiency.
+
+### Breastfeeding
+No specific safety concerns have been identified for breastfeeding mothers. The four herbs in this formula (Perilla Leaf, Cyperus, Tangerine Peel, Licorice) are all mild, commonly used substances without known toxic components that would raise concerns about transfer through breast milk. Zi Su Ye is widely consumed as a culinary herb and food ingredient throughout East Asia. However, as the formula is mildly warm and dispersing, prolonged use should be avoided to prevent any drying effect on fluids, which could theoretically affect milk production. Short-term use for an acute cold is not expected to pose problems. Professional guidance is always advisable.
+
+### Children
+Xiang Su San is considered a gentle formula suitable for pediatric use. Its mild, aromatic nature and lack of harsh or toxic ingredients make it appropriate for children with Wind-Cold accompanied by digestive upset. Dosage should be reduced proportionally based on age: roughly one-third of the adult dose for children aged 3-6, one-half for children aged 7-12, and two-thirds for adolescents. The classical text "You Ke Jin Zhen" (幼科金针) records a modified version of Xiang Su San specifically for childhood vomiting, adding herbs like Chai Hu, Gui Zhi, and Fang Feng. For very young children (under 3), professional guidance is essential and the formula should only be administered in small, dilute doses. The taste is relatively pleasant due to the aromatic herbs, which aids compliance.
+
+### Drug Interactions
+No major drug interactions are well-documented for this specific formula. However, the following considerations are worth noting based on the known pharmacology of the individual herbs:
+- Gan Cao (Glycyrrhiza/Licorice): Licorice root has the most interaction potential of any herb in this formula. It may interact with antihypertensive medications (by promoting sodium retention and potassium loss), corticosteroids (potentiating their effects), digoxin (hypokalemia increasing digoxin toxicity risk), and diuretics (compounding electrolyte imbalances). At the relatively low dose used in this formula (one-quarter of the total), these interactions are unlikely in short-term use but should be considered in patients on these medications.
+- Zi Su Ye (Perilla Leaf): Perilla leaf contains rosmarinic acid, which has mild anti-inflammatory and antiplatelet properties. Patients on anticoagulant or antiplatelet therapy (warfarin, aspirin, clopidogrel) should be monitored, though the clinical significance at standard doses is likely low.
+- General: As a diaphoretic formula, it may theoretically affect the absorption rate of concurrently administered oral medications by altering gastrointestinal motility. Separating doses by at least one hour is prudent.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Warm, 30 minutes after meals, three times daily. Take while the decoction is still hot to enhance the diaphoretic effect.
+- **Typical Duration**: Acute use: 2-5 days, until exterior symptoms resolve. Not intended for long-term use in its original form.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods (salads, iced drinks, raw fruit), greasy or heavy foods, and dairy products, as these can generate Dampness and impede the formula's ability to move Qi and disperse Cold. Light, warm, and easily digestible foods such as congee (rice porridge), clear soups, and lightly cooked vegetables are ideal. A small amount of fresh ginger or scallion in food can complement the formula's warming, exterior-releasing action. Avoid alcohol and spicy, excessively hot foods which could generate internal Heat and counteract the formula's gentle, balanced approach.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/xiang-su-san](https://www.meandqi.com/knowledge-base/formulas/xiang-su-san)*

@@ -1,0 +1,300 @@
+# นอนหลับยากเนื่องจากความเจ็บปวด (痛不得眠)
+**คำอ่านพินอิน**: tòng bù dé mián | **ประเภท**: Symptom | **หมวดหมู่**: ปัญหาการนอนหลับ, อาการปวดตามร่างกายทั่วไป  
+**ชื่อเรียกอื่นๆ**:  | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+คุณภาพของความเจ็บปวดที่ทำให้คุณตื่นตัว ไม่ว่าจะเป็นการแทง การบวม หรืออาการท้องอืด เผยให้เห็นได้อย่างชัดเจนว่าระบบอวัยวะใดไม่สมดุล และการรักษานั้น...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, pain-induced insomnia is understood as a bidirectional relationship: pain disrupts sleep architecture, leading to difficulty falling asleep, frequent awakenings, and non-restorative sleep, while poor sleep lowers the pain threshold and amplifies pain perception. Chronic pain conditions such as arthritis, fibromyalgia, or back pain are strongly associated with insomnia. Diagnosis typically involves a sleep history, pain assessment, and sometimes a sleep study to rule out other disorders like sleep apnea.
+
+### การรักษาหลัก (Treatments)
+Standard treatments include analgesic medications (NSAIDs, acetaminophen, and sometimes opioids), sleep aids (benzodiazepines, Z-drugs, melatonin), and cognitive behavioral therapy for insomnia (CBT-I). Pain management techniques like physical therapy, nerve blocks, or cognitive behavioral therapy for pain may also be recommended. The goal is usually to reduce pain enough to allow sleep, often without addressing the underlying pattern that links the two.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, sleep depends on the Heart housing the Shen (spirit) peacefully. Pain, wherever it occurs, disrupts the smooth flow of Qi and Blood, which can agitate the Shen and make sleep impossible. The type of pain, its location, and what makes it better or worse are crucial clues. A distending, stress-related pain in the ribs points to the Liver; a fixed, stabbing pain that worsens at night suggests Blood stasis; a heavy, oppressive chest pain with phlegm indicates Phlegm-Fire; and a dull, nagging ache may stem from a deficiency of Qi or Yin.
+Each pattern reflects a different organ system imbalance. For example, the Liver governs the smooth flow of Qi - when emotional stress causes stagnation, it can generate Heat that rises to disturb the Heart. The Spleen transforms food into Qi and Blood; if it’s weakened by poor diet or overwork, it cannot nourish the Heart, leaving the Shen unanchored. The Kidneys store Yin, and when that reservoir runs low, empty Heat flares up at night, causing both aching pain and restless sleep.
+Because pain-induced insomnia can arise from so many different roots, TCM does not have a one-size-fits-all treatment. Instead, a practitioner will identify the dominant pattern - or combination of patterns - by examining your tongue, pulse, and detailed symptom picture. This is why two people with the same Western diagnosis of “chronic pain and insomnia” may receive completely different herbal formulas and acupuncture point selections.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+When pain makes sleep impossible, a TCM practitioner starts by asking what the pain feels like and where it lives. A dull ache tells a different story than a sharp, stabbing sensation, and pain that moves around points in one direction while a fixed, relentless spot points in another. The timing and what makes it better or worse are equally important clues.
+If the pain is a distending, pressure-like sensation in the chest and ribs that flares with stress, and you feel irritable with a bitter taste in your mouth, the picture suggests Liver Qi Stagnation that transforms into Heat. The tongue is often red with a yellow coat, and the pulse feels wiry and rapid, reflecting the pent-up heat disturbing the Heart spirit.
+When the pain is a fixed, stabbing sensation that worsens at night, Blood Stagnation is the likely culprit. The complexion may look dark or dull, and the tongue often shows purple spots. The pulse tends to be wiry or choppy, signaling that blood is not flowing smoothly and is directly agitating the mind.
+A heavy, oppressive pain in the chest with palpitations and sticky phlegm points to Phlegm-Fire harassing the Heart. The tongue appears red with a greasy yellow coating, and the pulse is slippery and rapid. This pattern creates a sense of mental fog and restless agitation that makes falling asleep feel impossible.
+If the pain is centered in the upper abdomen with bloating, belching, and acid reflux after meals, Food Stagnation in the Stomach is likely the root. The tongue coating becomes thick and greasy, and the pulse is slippery. The Stomach’s discomfort directly disrupts the Heart spirit, causing restless sleep and frequent waking.
+For a dull, nagging pain accompanied by palpitations, poor memory, and a washed-out complexion, the focus shifts to Heart and Spleen Deficiency. The tongue is pale with a thin white coat, and the pulse is weak and thready. This pattern reflects a lack of Qi and blood to anchor the spirit, leaving sleep shallow and unrefreshing.
+When aching pain settles in the lower back and bones, and you notice night sweats, warm palms and soles, and a dry mouth, Empty-Heat from Yin Deficiency is the underlying issue. The tongue is red with little or no coating, and the pulse is thin and rapid. The depleted Yin fluids allow heat to flare upward and disturb sleep.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「胸痹不得卧，心痛彻背者，栝蒌薤白半夏汤主之。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Chest Bi with inability to lie down, and heart pain that penetrates to the back, is treated with Gualou Xiebai Banxia Tang. This illustrates the classic link between chest pain and insomnia."
+> 
+> — แหล่งที่มา: *Jin Gui Yao Lue (Synopsis of the Golden Chamber)  ,  Chapter on Chest Bi and Heart Pain 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Liver Qi Stagnation that transforms into Heat
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-qi-stagnation-that-transforms-into-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Distending or burning pain in the ribs, Worse with stress and anger, Irritability and explosive anger, Bitter taste in the mouth, Red face and eyes, Restlessness and agitation at night
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress, anger, or frustration, Greasy, spicy, or fried foods, Alcohol and coffee, Late-night screen time
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods like cucumber and celery, Gentle stretching or yoga, Stress management and relaxation, Quiet, calm environment
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Liver’s Qi gets stuck-often from pent-up stress or frustration-it creates a distending, pressure-like pain in the chest and ribs. That stuck Qi soon turns into heat, which flares upward and disturbs the Heart’s spirit. The result is a restless, agitated mind that simply cannot switch off, making it hard to fall asleep or stay asleep through the night.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with redder sides, yellow coating. Pulse: wiry and rapid (弦数, xián shuò), especially taut at the left middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Anger and emotional stress are the main culprits that knot up Liver Qi, which then smolders into heat and rises to disturb the mind. Spicy, greasy foods and alcohol add more heat to the system, while coffee and late-night stimulation keep the fire stoked. Cooling foods and calming activities help clear that heat and smooth the flow of Qi, allowing the spirit to settle so sleep can come naturally.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, fried, and greasy foods that add fuel to the internal heat. Sip chrysanthemum tea and eat more cooling greens like celery and cucumber. Gentle daily movement-like walking or yoga-helps move stagnant Qi, and a wind-down routine before bed eases the shift from a fiery mind to sleep.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jia Wei Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/jia-wei-xiao-yao-san)** | Augmented Free and Easy Wanderer Powder &#xB7; M&#xED;ng dynasty, 1529 CE | Slightly Cool, Courses the Liver and Resolves Constraint, Clears Heat from the Liver and Blood, Nourishes Blood | The classic formula to soothe Liver Qi stagnation and clear the resulting heat, relieving rib pain and calming the restless spirit. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Soothes Liver Qi stagnation, the root cause of the distending pain. |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit |  | Clears heat from the Liver and Heart, easing irritability and bitterness. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Soothes Liver Qi and subdues rising Yang, directly reducing irritability and rib pain. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the Heart spirit, promoting a smooth transition into restful sleep. |
+
+---
+
+### Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fixed, stabbing pain that does not move, Pain that worsens at night, Dark or dusky facial complexion, Pain that is worse with pressure
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold exposure, Prolonged inactivity, Emotional stress, anger, or frustration, Eating raw or cold foods, Nighttime
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on painful area, Gentle movement, Rest and quiet, Warm cooked foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When blood flow becomes sluggish or stuck, it creates a fixed, stabbing pain that refuses to move. This pain is most intense at night, when the body's Yin energy dominates and circulation naturally slows, allowing the blockage to tighten. The persistent stabbing sensation directly agitates the Heart spirit, while the stagnation itself obstructs the smooth flow of Qi that is needed to settle into restful sleep.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩 Sè), rough and uneven like a knife scraping bamboo.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold and inactivity cause blood to congeal, worsening stasis and pain; warmth and gentle movement promote circulation and ease the blockage. Stress knots up Liver Qi, which can lead to blood stasis, so calming the mind helps relax the vessels. Nighttime is when Yin predominates and blood flow naturally slows, which is why stasis pain intensifies then.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warming, blood-nourishing foods like dark leafy greens, black beans, and small amounts of lean red meat. Avoid cold raw foods and icy drinks that congeal blood. Gentle daily movement such as walking or tai chi helps keep Qi and blood flowing.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The primary formula to invigorate blood, dispel stasis in the chest and upper body, and calm the spirit. |
+| **[Shen Tong Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/shen-tong-zhu-yu-tang)** | Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain | Used when blood stasis causes generalized body pain, especially in the limbs and joints. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel |  | Breaks up blood stasis and relieves pain. |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower |  | Invigorates blood and unblocks the channels. |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Promotes Qi and blood circulation, especially effective for head and body pain. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood and dispels stasis. |
+| **BL-17** | [Geshu BL-17](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17) | G&#xE9; Sh&#x16B; | Invigorates Blood, Cools Blood Heat and stops bleeding | Influential point of blood, moves stasis. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Soothes Liver Qi and promotes blood flow. |
+
+---
+
+### Phlegm-Fire harassing the Heart
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-fire-harassing-the-heart)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Chest oppression or fullness, Palpitations or a racing feeling in the chest, Copious thick yellow sticky phlegm, rattling in the throat, Mental restlessness, agitation, and insomnia, Flushed red face and red eyes, Bitter taste in the mouth and thirst
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Greasy, spicy, or fried foods, Emotional stress, anger, or frustration, Hot, stuffy weather, Alcohol and coffee
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Quiet, calm environment, Light, easily digested meals, Cooling drinks like chrysanthemum tea
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When phlegm and heat build up inside, they clog the chest and block the normal flow of Qi. This creates a heavy, oppressive pain and a racing heartbeat that feel worse when you try to settle down. The fire rises to disturb the Heart spirit, which is why sleep feels impossible - your mind is restless and agitated, and the chest discomfort keeps you from relaxing.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body, swollen with a red prickly tip, thick yellow greasy coating. Pulse: slippery and rapid (滑数 huá shuò), forceful and full at the left Cun position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Phlegm-Fire is fueled by heavy, heating foods and emotional tension - both add more heat and sticky phlegm to the body, which then clog the chest and agitate the mind. Cooling, light meals and a calm environment reduce that internal fire, while gentle movement helps move stagnant Qi so phlegm does not accumulate. That is why these habits ease the chest oppression and allow the Heart spirit to rest.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Steer clear of rich, greasy, fried, and spicy foods, as well as alcohol and coffee - they add more phlegm and heat. Favor light, cooling meals like steamed greens, congee, and small amounts of pear or cucumber. A quiet, cool bedroom and a gentle evening walk help the mind settle before bed.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-wen-dan-tang)** | Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE | Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting | Clears Phlegm-Fire, settles the Heart, and relieves chest oppression and insomnia. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Clears Heart Fire and calms the agitated mind. |
+| **[Zhu Ru](https://www.meandqi.com/knowledge-base/herbs/zhu-ru)** | Bamboo shavings |  | Clears Phlegm-Heat, eases restlessness, and helps stop the rattling phlegm. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the Heart spirit and settles sleep. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | Resolves Phlegm and clears Heat from the chest. |
+
+---
+
+### Food Stagnation in the Stomach
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/food-stagnation-in-the-stomach)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Epigastric bloating and distending pain that worsens after eating, Sour, rotten-smelling belching and acid reflux, Aversion to food and its smell, loss of appetite, Restless sleep with frequent waking and a feeling of fullness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overeating or rich, greasy food, Eating late at night, Lying down immediately after meals, Stress while eating
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Light, easily digested meals, Gentle walking, Warmth on the abdomen, Vomiting (relieves distension)
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When you overeat or consume heavy, greasy foods, the Stomach becomes overwhelmed and cannot digest properly. The undigested food sits and ferments, creating bloating and a dull, distending pain in the upper abdomen. This Stomach disharmony sends rebellious Qi upward, and in TCM, a restless Stomach directly disturbs the Heart spirit, making it impossible to sleep soundly. The physical discomfort and fullness keep you tossing and turning, often waking you up in the middle of the night.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal body with a thick, greasy, curd-like coating, thickest in the centre. Pulse: slippery (滑 huá) and full, most forceful at the right middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Overeating or eating heavy foods overwhelms the Spleen and Stomach, creating a physical blockage of Qi that ferments and rises to disturb the mind. Lighter meals and gentle movement help the Stomach descend its Qi, while vomiting directly expels the stagnation. Warmth and calm eating support the digestive fire, allowing the Heart spirit to settle for restful sleep.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat smaller, lighter meals, especially at dinner. Avoid heavy, greasy, or hard-to-digest foods in the evening. A short, gentle walk after meals can help stimulate digestion. Do not lie down immediately after eating; wait at least two hours before going to bed.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bao He Wan](https://www.meandqi.com/knowledge-base/formulas/bao-he-wan)** | Preserve Harmony Pill &#xB7; Yu&#xE1;n dynasty (&#x5143;&#x671D;), ~1347 CE | Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Moves Qi | The classic formula to resolve food stagnation, harmonize the Stomach, and descend rebellious Qi, relieving the bloating and pain that disrupt sleep. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shan Zha](https://www.meandqi.com/knowledge-base/herbs/shan-zha)** | Hawthorn fruit |  | Specifically digests meat and fatty foods, reducing the core stagnation. |
+| **[Shen Qu](https://www.meandqi.com/knowledge-base/herbs/shen-qu)** | Medicated leaven |  | Ferments and breaks down grains and starches, assisting overall digestion. |
+| **[Lai Fu Zi](https://www.meandqi.com/knowledge-base/herbs/lai-fu-zi)** | Radish seed |  | Descends Stomach Qi and powerfully relieves abdominal distension. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | The alarm point of the Stomach, directly resolves food accumulation in the middle burner. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach to improve digestion and move stagnant Qi. |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Regulates the intestines and relieves bloating and abdominal pain. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Descends rebellious Stomach Qi and calms the Heart spirit to promote sleep. |
+
+---
+
+### Heart and Spleen Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/heart-and-spleen-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Dull, nagging chest discomfort or palpitations, Vague abdominal bloating and poor appetite, Overthinking, worry, and forgetfulness, Fatigue, dizziness, and a sallow complexion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overthinking and worry, Eating raw or cold foods, Irregular meals or skipping meals, Overwork and exhaustion
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Eating small, warm meals, Rest and quiet, Gentle walking, Quiet, calm environment
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen is the factory for Qi and blood. When it is weak, it cannot produce enough nourishment, and the Heart-which relies on a steady supply of blood to house the spirit-becomes underfed. This creates a dull, nagging discomfort in the chest and palpitations that feel like a hollow flutter, making sleep shallow and easily broken.
+At the same time, the Spleen's weakness leads to bloating and a vague, gnawing ache in the abdomen after eating, which adds to the restlessness. Without enough blood to anchor the mind, you lie awake with a busy, worried head and a body that feels too tired to settle.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, tender body with teeth marks, thin white coating. Pulse: fine and weak, possibly choppy.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Overthinking and worry directly consume Spleen Qi and Heart blood, which are already deficient, so the dull pain and insomnia worsen. Raw, cold foods and erratic eating further damage the Spleen's ability to produce Qi and blood. Rest, warm meals, and gentle movement support the Spleen's digestive fire and help rebuild the nourishment the Heart needs to settle, easing both the discomfort and the restless mind.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals at regular times-think soups, stews, and congees-and avoid raw, cold, or greasy foods that tax the Spleen. Gentle daily walks help Qi move without exhausting you. Most importantly, protect your mind: set aside worry time earlier in the day and wind down with a calm, screen-free routine before bed.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | The classic formula to tonify Heart and Spleen Qi and Blood, calm the spirit, and resolve the palpitations and insomnia that come from deficiency. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Heart blood to quiet the spirit and ease the hollow discomfort in the chest. |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Strongly boosts Spleen Qi so the body can produce more blood and energy. |
+| **[Suan Zao Ren](https://www.meandqi.com/knowledge-base/herbs/suan-zao-ren)** | Sour jujube seed |  | Calms the mind and directly addresses the difficulty falling or staying asleep. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the Heart spirit and is the primary point for insomnia from deficiency. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Fortifies the Spleen and Stomach to build Qi and blood at the source. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes the Spleen and nourishes blood, helping to anchor the mind. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Aching, deep pain in the lower back and knees, Pain and restlessness worse at night, Heat in the palms, soles, and chest (five-palm heat), Night sweats, Dry mouth and throat, thirst for small sips
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Greasy, spicy, or fried foods, Overwork and exhaustion, Hot, dry weather, Emotional stress, anger, or frustration
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Quiet, calm environment, Sipping warm water or herbal tea, Gentle stretching or yoga, Moistening foods (pear, lily bulb)
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's Yin fluids are depleted, they can no longer anchor the mind or nourish the bones and sinews. This creates an aching, nagging pain deep in the lower back and knees that tends to flare at night. At the same time, the deficiency allows empty heat to rise and disturb the Heart spirit, making it hard to stay asleep-you may drift off but then wake feeling restless and overheated.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin, and dry, often with cracks, and little or no coating. Pulse: fine and rapid, weak at the deep level especially in the left rear (Kidney) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Empty heat from Yin deficiency is like a low flame flickering because the pot is nearly dry. Anything that further consumes fluids-like spicy food, late nights, or stress-fuels that flame and makes the pain and sleeplessness worse. Cooling, moistening habits and foods act like adding water to the pot, gently extinguishing the heat and allowing the mind to settle.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Focus on deeply moistening, cooling foods like pear, lily bulb, black sesame, and congee. Avoid spicy, drying, or fried foods, and limit late-night screen time. Gentle practices such as tai chi or restorative yoga help preserve Yin, and keeping the bedroom slightly cool can make a big difference.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian E Jiao Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-e-jiao-tang)** | Coptis and Ass-Hide Gelatin Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE | Cool, Nourishes Yin and descends Fire, Clears Heart Fire, Promotes Heart-Kidney Communication | Nourishes Yin, clears empty heat from the Heart, and calms the spirit-ideal when the pain and insomnia come with pronounced restlessness and night sweats. |
+| **[Jia Wei Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/jia-wei-xiao-yao-san)** | Augmented Free and Easy Wanderer Powder &#xB7; M&#xED;ng dynasty, 1529 CE | Slightly Cool, Courses the Liver and Resolves Constraint, Clears Heat from the Liver and Blood, Nourishes Blood | A widely used classical formula for emotional stress, irritability, and hormonal imbalances. It soothes the Liver, clears internal heat from pent-up frustration, strengthens digestion, and nourishes the Blood. It is especially valued for menstrual irregularities, menopausal symptoms, anxiety, and mood swings that arise from a combination of stress and underlying weakness. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Shen Tong Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/shen-tong-zhu-yu-tang)** | Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain | A classical formula for chronic body pain that has not responded to other treatments. It promotes blood circulation and opens the body&#x27;s channels to relieve stubborn pain in the shoulders, arms, lower back, legs, or throughout the whole body, especially when caused by blood stagnation combined with Wind and Dampness. |
+| **[Huang Lian Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-wen-dan-tang)** | Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE | Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting | A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm. |
+| **[Bao He Wan](https://www.meandqi.com/knowledge-base/formulas/bao-he-wan)** | Preserve Harmony Pill &#xB7; Yu&#xE1;n dynasty (&#x5143;&#x671D;), ~1347 CE | Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Moves Qi | A gentle, time-tested formula for the uncomfortable, heavy feeling after overeating or consuming rich, greasy foods. It helps break down accumulated food, relieves bloating, acid reflux, nausea, and belching, and restores normal digestive movement. Often described as &#x27;digestive first aid&#x27; in Chinese medicine, it works by clearing the blockage rather than masking symptoms. |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels. |
+| **[Huang Lian E Jiao Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-e-jiao-tang)** | Coptis and Ass-Hide Gelatin Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE | Cool, Nourishes Yin and descends Fire, Clears Heart Fire, Promotes Heart-Kidney Communication | A classical formula for people who suffer from severe insomnia and restless agitation caused by an imbalance where the body&#x27;s cooling, calming resources (Yin) are depleted, allowing internal Heat to flare up. It works by cooling excess Heat in the Heart while deeply replenishing the body&#x27;s Yin fluids, restoring the natural balance between the Heart and Kidneys that allows for restful sleep. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Coptis drains the empty heat that has flared upward to harass the Heart. |
+| **[Suan Zao Ren](https://www.meandqi.com/knowledge-base/herbs/suan-zao-ren)** | Sour jujube seed |  | Sour Jujube seed directly calms the spirit and anchors the mind at night. |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit | Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice |  |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel | Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing |  |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower | Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses |  |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain |  |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Zhu Ru](https://www.meandqi.com/knowledge-base/herbs/zhu-ru)** | Bamboo shavings | Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability |  |
+| **[Shan Zha](https://www.meandqi.com/knowledge-base/herbs/shan-zha)** | Hawthorn fruit | Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain |  |
+| **[Shen Qu](https://www.meandqi.com/knowledge-base/herbs/shen-qu)** | Medicated leaven | Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Strengthens the Spleen |  |
+| **[Lai Fu Zi](https://www.meandqi.com/knowledge-base/herbs/lai-fu-zi)** | Radish seed | Neutral, Reduces Food Stagnation and Eliminates Distension, Descends Qi and Transforms Phlegm, Descends Lung Qi and Stops Cough |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Suan Zao Ren](https://www.meandqi.com/knowledge-base/herbs/suan-zao-ren)** | Sour jujube seed | Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the Heart spirit and eases the restlessness that keeps you awake. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Nourishes Kidney Yin, addressing the root deficiency behind the aching pain and empty heat. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Clears empty heat and promotes restful sleep by cooling the blood and nourishing Yin. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can acupuncture really help with pain that keeps me awake?
+Yes, acupuncture is often very effective for pain-induced insomnia because it addresses both the pain and the sleep disturbance simultaneously. By inserting fine needles into specific points, acupuncture can unblock stagnant Qi, move blood, calm the Shen, and reduce inflammation. Many patients feel a deep sense of relaxation during the session and notice that their pain lessens enough to allow better sleep that very night. Over a course of treatments, the underlying pattern causing the pain is gradually corrected.
+
+### Will Chinese herbs interact with my pain medications or sleep aids?
+Some herbs can interact with medications, so full transparency is essential. Blood-moving herbs like Dang Gui, Chuan Xiong, and Tao Ren may increase the effect of anticoagulants like warfarin or aspirin. Sedative herbs such as Suan Zao Ren could enhance the drowsiness caused by benzodiazepines or Z-drugs. Always bring a complete list of your medications to your TCM practitioner, and inform your doctor that you are using herbal medicine. Never stop prescribed medications abruptly without medical supervision.
+
+### How soon will I sleep better?
+Many people notice some improvement in sleep quality within the first one to two weeks of treatment, especially if the pain is acute. For chronic pain patterns, it may take 3-6 weeks to see consistent, lasting changes. The key is that as the underlying imbalance is corrected, both pain and sleep improve together, rather than one being masked by a pill. Your practitioner can give you a more specific timeline once they identify your pattern.
+
+### Do I need to change my diet?
+Dietary adjustments can significantly support your treatment. In general, avoid heavy, greasy, or spicy foods that create Phlegm and Heat, especially in the evening. Eat lighter, easily digestible meals, and finish dinner at least three hours before bed. Cooling foods like cucumber, celery, and chrysanthemum tea can help if your pattern involves Heat. Your practitioner will give you specific recommendations based on your diagnosis.
+
+### What if my pain is from an old injury?
+Pain from an old injury often falls into the Blood Stagnation pattern in TCM - the trauma caused local Qi and Blood to stagnate, and over time this blockage can become chronic, causing a fixed, stabbing pain that worsens at night. Acupuncture and blood-moving herbs like Xue Fu Zhu Yu Tang are classic treatments for this pattern. Many people with long-standing post-injury pain and insomnia find relief even years after the original injury.
+
+### Is TCM safe if I'm pregnant and can't sleep because of pain?
+Acupuncture is generally considered safe during pregnancy when performed by a qualified practitioner, and it can be very helpful for pregnancy-related back pain, pelvic pain, and insomnia. However, certain acupuncture points and herbs are contraindicated during pregnancy, so it is crucial to inform your practitioner that you are pregnant. Many gentle, pregnancy-safe protocols exist. Always consult your obstetrician before starting any new treatment.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Acupuncture for insomnia** ([ลิงก์](https://doi.org/10.1002/14651858.CD005472.pub3))
+   *วารสารวิชาการ: Cheuk DKL, Yeung WF, Chung KF, Wong V. Acupuncture for insomnia. Cochrane Database of Systematic Reviews 2012, Issue 9. Art. No.: CD005472.*
+   This Cochrane systematic review included 33 trials and found that acupuncture may be more effective than sham acupuncture and as effective as medication for improving sleep quality, with fewer side effects. It did not specifically analyze pain-related insomnia but provides moderate-quality evidence for acupuncture's general efficacy.
+
+2. **Acupuncture for primary insomnia: a systematic review and meta-analysis**
+   *วารสารวิชาการ: Zhang Y, et al. Acupuncture for primary insomnia: a systematic review and meta-analysis. Sleep Medicine Reviews. 2019;48:101210.*
+   This meta-analysis of 46 RCTs demonstrated that acupuncture significantly improved sleep quality compared to no treatment and sham acupuncture, with effects sustained at follow-up. It supports acupuncture as a viable option for insomnia, though pain-related subtypes were not the primary focus.
+
+3. **Effect of auricular acupuncture on sleep quality in patients with chronic low back pain: a randomized controlled trial**
+   *วารสารวิชาการ: Chen X, et al. Effect of auricular acupuncture on sleep quality in patients with chronic low back pain: a randomized controlled trial. Acupuncture in Medicine. 2018;36(4):222-229.*
+   This trial found that auricular acupuncture improved both sleep quality and pain intensity in patients with chronic low back pain, suggesting a dual benefit. It provides direct evidence that addressing pain with acupuncture can lead to better sleep outcomes.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/difficulty-sleeping-due-to-pain)*

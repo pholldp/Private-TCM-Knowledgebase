@@ -1,0 +1,74 @@
+# Jiao Ai Tang (胶艾汤)
+**English Name**: Ass-Hide Gelatin and Mugwort Decoction  
+**Category**: Blood-regulating formulas, Hemostatic formulas  
+**Dynasty/Source**: Jin Gui Yao Lue (金匮要略, Essentials from the Golden Cabinet) by Zhang Zhongjing  
+**Temperature**: Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical formula from the Jin Gui Yao Lue used to nourish Blood, warm the uterus, and stop bleeding. It is primarily used for women experiencing prolonged or excessive menstrual bleeding, spotting between periods, bleeding during pregnancy (threatened miscarriage), or post-miscarriage bleeding, especially when these occur alongside signs of Blood deficiency and coldness in the lower abdomen.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Nourishes Blood and stops bleeding, Warms the channels and regulates menstruation, Calms the fetus and prevents miscarriage
+- **Therapeutic Focus**: Menstrual health, Fertility and pregnancy support, Women's health, Bleeding disorders
+- **Target Organs**: Liver, Spleen, Kidneys, Uterus
+- **Patterns Addressed**: 
+- **Conditions Treated**: Threatened Miscarriage, Uterine Bleeding, Menstrual Irregularity, Recurrent Miscarriage, Postpartum Bleeding, Endometriosis, Thrombocytopenia, Peptic Ulcer
+- **Other Names**: Xiong Gui Jiao Ai Tang (芎归胶艾汤, Cnidium and Angelica Gelatin and Mugwort Decoction), Jiao Ai Si Wu Tang (胶艾四物汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **E Jiao** | Donkey-hide gelatin | *King* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Liver, Kidneys | Nourishes Blood, enriches Yin, and directly stops bleeding. As the formula's namesake, it replenishes the depleted Blood of the Chong and Ren vessels and has a sticky, consolidating quality that helps seal leaking blood vessels. It addresses both the root cause (Blood deficiency) and the branch symptom (bleeding). |
+| **Ai Ye** | Mugwort leaf | *King* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Spleen, Kidneys | Warms the channels and uterus, stops bleeding, and calms the fetus. Its warm nature directly addresses the Cold that destabilizes the Chong and Ren vessels. Working together with E Jiao, it provides the warm, Yang aspect to stop bleeding and secure the womb while E Jiao provides the nourishing, Yin aspect. |
+| **Dang Gui** | Chinese Angelica root | *Deputy* | 9 - 12g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Tonifies Blood and promotes Blood circulation without causing excessive movement. It reinforces the Blood-nourishing action of E Jiao while ensuring that the newly formed Blood flows smoothly through the vessels rather than becoming stagnant, an important consideration in any bleeding condition. |
+| **Gan Di Huang (Dried Rehmannia Root)** |  | *Deputy* | 15 - 30g | Temp: <br>Taste: <br>Affinity:  | Nourishes Yin and Blood, and cools the Blood to help contain it within the vessels. In the original formula, raw or dried Rehmannia (干地黄) is used rather than the prepared form, providing a cooling counterbalance to the warming herbs Ai Ye and Chuan Xiong, preventing the formula from becoming overly warm. |
+| **Bai Shao** | White peony root | *Assistant* | 10 - 20g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes Blood and astringes Yin to help contain the Blood. It also softens the Liver and alleviates pain, addressing the abdominal cramping that often accompanies these bleeding conditions. In the original formula it carries the largest dosage (4 liang), reflecting its importance in both nourishing and constraining the Blood. |
+| **Chuan Xiong** | Sichuan lovage rhizome | *Assistant* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Moves Blood and Qi to prevent stasis. In a formula that otherwise focuses on nourishing and consolidating, Chuan Xiong ensures that Blood circulation remains smooth and that the nourishing, heavy herbs do not cause stagnation. It is used in a relatively small dose to move gently without aggravating bleeding. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes the actions of all the other herbs and tonifies the Spleen Qi. Since the Spleen governs the Blood and keeps it within the vessels, strengthening Spleen function supports the formula's overall hemostatic strategy. It also pairs with Bai Shao to relax spasms and relieve abdominal pain. |
+
+---
+
+## Scientific Research
+
+1. [RCT: Efficacy of Xiong-gui-jiao-ai-tang in Threatened Abortion in Early Pregnancy (2006)](https://doi.org/10.1142/S0192415X06004247) (*Ushiroyama T, Ikeda A, Sakai M, Hosotani T, Suzuki Y, Tsubokura S, Ueki M. The American Journal of Chinese Medicine, 2006, 34(5), 731-740.*)
+> A randomized controlled trial at Osaka Medical College enrolled 72 women with threatened abortion. The treatment group (36 women) received Xiong-gui-jiao-ai-tang at 7.5 g/day, while the control group received hCG injections. The herbal formula group achieved uterine hemostasis significantly faster (2.9 vs. 10.8 days, p < 0.0001) and showed faster disappearance of retroplacental hematoma (9.9 vs. 23.2 days, p < 0.0001). The study concluded the formula had beneficial effects in stabilizing early pregnancy.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Jiao Ai Tang is one of the few classical formulas specifically designed for use during pregnancy. Its primary classical indication includes threatened miscarriage (tai lou) and 'womb obstruction' (bao zu) with vaginal bleeding and abdominal pain during pregnancy. One published RCT (Ushiroyama et al., 2006) used it successfully in 36 women with threatened abortion, showing faster uterine hemostasis compared to hCG controls.
+However, it must only be used when the pattern matches: Blood deficiency with Cold, presenting with pale thin blood, cold lower abdomen, pale tongue, and weak pulse. It is contraindicated during pregnancy if bleeding is caused by Blood Heat or Blood stasis, as its warming nature could worsen those conditions. Chuan Xiong (Ligusticum) has mild Blood-moving properties and its dosage should be carefully controlled in pregnancy. Use should always be supervised by a qualified practitioner with experience in obstetric applications of herbal medicine.
+
+### Breastfeeding
+No specific contraindication during breastfeeding has been documented in classical or modern sources. The formula's Blood-tonifying properties (from Dang Gui, Bai Shao, Di Huang, and E Jiao) may theoretically support recovery in postpartum women who are blood-deficient. Gan Cao (licorice) is present in a moderate dose and is generally considered safe during breastfeeding at standard formula dosages.
+However, E Jiao (donkey-hide gelatin) and the rich Blood-nourishing herbs can be heavy on digestion, so nursing mothers with weak Spleen and Stomach function should be monitored. As with any herbal formula during breastfeeding, use should be supervised by a qualified practitioner.
+
+### Children
+Jiao Ai Tang is a gynecological formula designed primarily for adult women with menstrual or pregnancy-related bleeding disorders. It is not a standard pediatric formula.
+In rare cases where it might be considered for adolescent girls experiencing heavy menstrual bleeding due to a confirmed Blood deficiency with Cold pattern, dosages should be significantly reduced (typically one-third to one-half of adult doses depending on age and body weight). E Jiao can be difficult for children to digest. Use in children under 12 is not recommended without specific clinical justification and supervision by an experienced practitioner.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications (e.g. warfarin, heparin, aspirin, clopidogrel): Jiao Ai Tang has demonstrated hemostatic (pro-clotting) effects in pharmacological studies, including shortened clotting time and reduced fibrinolytic activity. This directly opposes the mechanism of anticoagulant drugs. Concurrent use could reduce the effectiveness of blood-thinning medications or create unpredictable effects on coagulation. Patients on anticoagulant therapy should avoid this formula or use it only under close medical supervision with coagulation monitoring.
+Hormone replacement therapy and oral contraceptives: Animal studies have shown that Jiao Ai Tang can induce estrogen receptor (ERα and ERβ) expression in uterine tissue, suggesting estrogen-like activity. This could theoretically interact with hormonal medications. Women taking estrogen-based therapies should consult their physician before using this formula.
+Gan Cao (Glycyrrhiza/licorice) interactions: The Gan Cao in this formula may interact with corticosteroids (potentiating their effects), antihypertensive medications (licorice can cause sodium retention and raise blood pressure), digoxin and cardiac glycosides (licorice-induced hypokalemia increases toxicity risk), and diuretics (compounding potassium loss). These interactions are dose-dependent and more relevant with prolonged use.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Warm, taken three times daily after meals (the classical text specifies 温服一升, 日三服 — warm dose, three times daily). Taking it after meals helps protect the Stomach from the cloying nature of E Jiao and Di Huang.
+- **Typical Duration**: Typically prescribed for 1-4 weeks depending on the condition; for threatened miscarriage, used until bleeding stops and the pregnancy stabilizes; reassessed regularly by the practitioner.
+- **Dietary Advice**: While taking this formula, favor warm, easily digestible, Blood-nourishing foods such as bone broth, dark leafy greens, red dates (da zao), goji berries, eggs, and well-cooked grains. These support the formula's Blood-tonifying action.
+Avoid cold and raw foods (salads, iced drinks, raw fruits in excess, sashimi) as they can impair Spleen function and counteract the formula's warming strategy. Also avoid greasy, heavy, or overly rich foods that may overwhelm digestion, since E Jiao and Di Huang are already cloying in nature. Spicy and hot foods should be consumed in moderation to avoid generating internal Heat. The original preparation method calls for decocting with Qing Jiu (clear rice wine), which aids the formula's Blood-moving and channel-warming action.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/jiao-ai-tang](https://www.meandqi.com/knowledge-base/formulas/jiao-ai-tang)*

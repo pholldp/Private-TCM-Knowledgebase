@@ -1,0 +1,174 @@
+# Wu Ling Zhi (五灵脂)
+**English Name**: Flying squirrel feces  
+**Category**: Blood-invigorating and stasis-dispelling herbs (活血化瘀药), Blood-invigorating and pain-relieving herbs (活血止痛药)  
+**Scientific Name**: Trogopterus xanthipes Milne-Edwards  
+**Pharmaceutical Name**: Faeces Trogopterori  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Bitter (苦 kǔ), Sweet (甘 gān), Salty (咸 xián)  
+**Channels Entered**: Liver, Spleen  
+**Parts Used**: Animal — secretion (动物分泌物 dòng wù fēn mì wù)  
+
+---
+
+## Summary
+Wu Ling Zhi is a warming herb derived from flying squirrel droppings, primarily used to relieve pain caused by blood stasis. It is commonly applied for menstrual cramps, postpartum abdominal pain, chest pain, and stomach pain. When stir-fried, it also helps stop bleeding that is accompanied by blood stasis, such as heavy or irregular periods.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Pain Management, Menstrual Health, Cardiovascular Health, Digestive Health
+- **TCM Actions**: Invigorates Blood and Alleviates Pain, Dispels Stasis and Stops Bleeding, Resolves Accumulation, Resolves Toxicity
+
+### How these actions work
+'Invigorates Blood and alleviates pain' means Wu Ling Zhi actively promotes blood circulation and breaks up areas where blood has become stagnant and stuck. In TCM, when blood stops flowing smoothly, it causes sharp, stabbing, or fixed-location pain. Wu Ling Zhi enters the Liver channel's blood level and opens up the blood vessels to disperse stagnant blood, which is why it is considered an essential herb for any pain condition caused by blood stasis. This applies to menstrual cramps, postpartum abdominal pain, chest pain (as in angina), and stomach pain with a stabbing quality.
+'Transforms stasis and stops bleeding' applies specifically to the stir-fried (炒) form of Wu Ling Zhi. When processed by dry-frying, the herb gains the ability to both break up old stagnant blood and stop abnormal bleeding at the same time. This dual action is particularly valuable when bleeding is caused by blood stasis, meaning the blood is not flowing in its proper channels. It is used for conditions like heavy menstrual bleeding with dark clots and lower abdominal pain, or uterine bleeding (崩漏) that has not responded to other treatments. The classical teaching states: 'use raw to move blood, use stir-fried to stop blood' (行血宜生，止血须炒).
+'Resolves accumulation and eliminates toxins' refers to Wu Ling Zhi's secondary ability to treat childhood nutritional impairment (疳积), where poor digestion leads to accumulation and malnutrition. It also has a traditional use as an antidote for snake, scorpion, and centipede bites, applied both internally and externally with substances like realgar (雄黄).
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: Wu Ling Zhi is a primary herb for Blood Stagnation because its bitter taste promotes downward movement and dispersion, its sweet taste moderates harshness, and its warm temperature activates sluggish blood flow. Entering the Liver channel's blood level, it directly addresses the Liver's role in ensuring the smooth flow of blood. When blood stagnates in the vessels, it causes sharp, stabbing, or fixed-location pain and can block menstrual flow. Wu Ling Zhi's core action of invigorating blood and alleviating pain makes it one of the most important herbs for any pain condition rooted in blood stasis, whether in the chest, epigastrium, abdomen, or uterus.
+- **Clinical Signs & Symptoms**:
+  - **Painful Periods**: Menstrual pain with dark clotted blood
+
+### Food Stagnation in the Stomach
+- **Explanation**: Wu Ling Zhi is especially suited for blood stasis centered in the lower abdomen and uterus. Its warm nature helps move congealed blood in the pelvic region, while its Liver channel affinity targets the organ responsible for storing blood and governing menstruation. Postpartum, when lochia (the normal post-birth discharge) fails to descend properly, stagnant blood accumulates in the uterus causing severe lower abdominal pain, fever, and headache. Wu Ling Zhi powerfully disperses this stagnant blood to restore normal flow. When stir-fried, it can simultaneously address abnormal uterine bleeding with clots, achieving the dual goal of stopping bleeding without trapping old stagnant blood inside.
+- **Clinical Signs & Symptoms**:
+  - **Heavy Periods**: Heavy menstrual bleeding with dark purple clots
+  - **Painful Periods**: Severe cramping pain before or during menstruation
+  - **Irregular Menstruation**: Irregular menstrual cycles with dark-colored blood
+
+### Heart Blood Stagnation
+- **Explanation**: When blood stasis affects the Heart and chest region, it manifests as angina-like chest pain with a stabbing, fixed quality. Wu Ling Zhi's ability to open blood vessels and disperse stagnant blood extends to the cardiovascular system. Although it primarily enters the Liver channel, its blood-invigorating action is systemic. Modern clinical practice frequently pairs Wu Ling Zhi with other blood-moving and Qi-regulating herbs to treat coronary heart disease with angina, where blood stasis obstructs the Heart vessels. The warm nature of the herb also helps when cold constriction contributes to chest pain.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3–10g
+- **Maximum Dosage**: Up to 15g in acute Blood stasis pain, under practitioner supervision. Do not exceed standard range without clinical justification.
+- **Dosage Notes**: Use raw (生五灵脂) to invigorate Blood and relieve pain due to Blood stasis, such as in dysmenorrhea, postpartum abdominal pain, chest pain, or epigastric pain. Use dry-fried (炒五灵脂) or charred to stop bleeding with stasis, such as in uterine bleeding with clots and stabbing pain. Vinegar-processed Wu Ling Zhi (醋灵脂) enhances its ability to enter the Liver channel, strengthening both its pain-relieving and Blood-harmonizing effects. When used as powder (taken directly with warm water or wine), the typical dose is 1.5–3g per serving. In decoction, 3–10g is standard. Larger doses towards the upper range may be used for acute Blood stasis pain.
+- **Preparation**: Wu Ling Zhi should ideally be wrapped in cloth (包煎) when decocted, because its fine particles and fibrous material can make the decoction cloudy and difficult to strain. This is especially important for the granular form (Ling Zhi Mi). Alternatively, it may be ground into powder and taken directly with warm water or wine rather than decocted. When used raw in decoction, it should be rinsed with water first to remove sand and impurities.
+
+---
+
+## Processing Methods
+### C&#xF9; W&#x1D4; L&#xED;ng Zh&#x12B; (&#x918B;&#x4E94;&#x7075;&#x8102;)
+- **Processing Method**: Stir-fry clean Wu Ling Zhi in a hot wok until warm, then spray with rice vinegar and continue stir-frying until slightly dry with a slight sheen on the surface. The typical ratio is 100g of vinegar per 100g of herb.
+- **How it Changes Properties**: Vinegar processing enhances the herb's ability to enter the Liver channel and strengthens its blood-invigorating and pain-stopping actions. The vinegar also moderates the herb's strong, unpleasant smell and reduces its tendency to upset the stomach. The thermal nature remains warm. This is the most commonly dispensed form in modern practice.
+- **When to Use**: The standard form for most clinical applications. Choose vinegar-processed Wu Ling Zhi when the primary goal is to invigorate blood and relieve pain, especially for menstrual pain, postpartum pain, and epigastric pain from blood stasis.
+
+### Ch&#x1CE;o W&#x1D4; L&#xED;ng Zh&#x12B; (&#x7092;&#x4E94;&#x7075;&#x8102;)
+- **Processing Method**: Dry stir-fry the clean herb over medium heat until the surface is slightly charred and smoke ceases. The classical instruction is to 'stir-fry until the smoke is completely exhausted' (炒令烟尽).
+- **How it Changes Properties**: Stir-frying to a charred state shifts the herb's primary action from moving blood to stopping bleeding. The charring reduces the herb's blood-dispersing strength while activating hemostatic properties. This follows the classical principle of 'use raw to move blood, stir-fry to stop blood' (行血宜生，止血须炒). The herb retains some blood-moving action, so it stops bleeding without trapping old stagnant blood.
+- **When to Use**: Choose this form when the primary goal is to stop bleeding that is accompanied by blood stasis, such as heavy menstrual bleeding with dark clots and lower abdominal pain, uterine bleeding (崩漏), or intestinal bleeding with blood stasis signs.
+
+### Ji&#x1D4; W&#x1D4; L&#xED;ng Zh&#x12B; (&#x9152;&#x4E94;&#x7075;&#x8102;)
+- **Processing Method**: Stir-fry clean Wu Ling Zhi, then spray with yellow rice wine (黄酒) and continue stir-frying until slightly dry.
+- **How it Changes Properties**: Wine processing enhances the herb's blood-invigorating action and its ability to reach the upper body and extremities. Wine is warm in nature and opens the channels, helping to guide the herb's action upward and outward. This makes the herb slightly more warming and dispersing compared to the raw or vinegar-processed forms.
+- **When to Use**: Choose this form when blood stasis pain affects the upper body, chest, or limbs, or when stronger warming and channel-opening action is desired.
+
+---
+
+## Common Herb Pairs
+### Pu Huang (Ratio: 1:1 (typically 6g each))
+- **Description**: The most famous herb pair in TCM for blood stasis pain. Wu Ling Zhi specializes in dispersing stagnant blood and stopping pain, while Pu Huang excels at transforming stasis and stopping bleeding. Together they form a synergistic combination (相须) that powerfully opens blood vessels, disperses clots, and alleviates pain. This is the entire composition of the celebrated formula Shi Xiao San (Sudden Smile Powder).
+- **When to Use**: Any pain condition caused by blood stasis: menstrual cramps, postpartum abdominal pain from retained lochia, epigastric stabbing pain, chest pain from blood stasis, or abnormal uterine bleeding with clots (use stir-fried forms for bleeding).
+
+### Yan Hu Suo (Ratio: 1:1 (typically 6-10g each))
+- **Description**: Wu Ling Zhi primarily moves blood stasis, while Yan Hu Suo (Corydalis) is the strongest pain-relieving herb in the Materia Medica that works by both moving blood and regulating Qi. Together they address pain from combined Qi stagnation and blood stasis, producing stronger analgesia than either herb alone. This pairing appears in Shou Nian San (Hand-Grasped Powder).
+- **When to Use**: Severe stabbing pain in the chest, epigastrium, or abdomen where both Qi stagnation and blood stasis are present. Particularly useful for gastric pain and angina.
+
+### Rou Gui (Ratio: 2:1 (Wu Ling Zhi 6g : Rou Gui 3g))
+- **Description**: Wu Ling Zhi disperses stagnant blood while Rou Gui (Cinnamon bark) warms the channels and expels cold. Together they address blood stasis caused or worsened by cold congealing the blood, particularly in the lower abdomen. Rou Gui's warming, channel-penetrating nature drives Wu Ling Zhi's blood-moving action deeper into the pelvic region.
+- **When to Use**: Painful periods or lower abdominal pain worsened by cold, with dark clotted menstrual blood. This combination appears within Shao Fu Zhu Yu Tang for cold-congealed blood stasis in the lower abdomen.
+
+### Jiang Xiang (Ratio: 1:1 (typically 5-6g each))
+- **Description**: Wu Ling Zhi opens blood vessels and disperses stasis, while Jiang Xiang (Dalbergia heartwood) invigorates blood and moves Qi with its aromatic nature. Together they combine blood-moving and Qi-regulating actions to produce stronger pain relief for chest and abdominal pain from combined Qi stagnation and blood stasis.
+- **When to Use**: Chest pain (angina) or abdominal pain where blood stasis and Qi stagnation are intertwined. Also used for traumatic injury with swelling and pain.
+
+---
+
+## Key Formulas
+Shi Xiao San, Shao Fu Zhu Yu Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Wu Ling Zhi is classified as non-toxic in traditional sources. However, because it is an animal fecal product, quality and hygiene are important considerations. Modern research has identified that the feces of wild flying squirrels may harbour zoonotic pathogens including Leptospira and Blastocystis. Proper processing (cleaning, drying, and stir-frying with vinegar or wine) and standard decoction preparation help mitigate these concerns. The primary safety issue is not toxicity per se but rather the herb's strong Blood-moving properties, which make it unsuitable for those with Blood deficiency or during pregnancy. Overdose may cause gastrointestinal discomfort.
+
+### Contraindications
+- **[Caution]** Concurrent use with Ren Shen (Ginseng). Wu Ling Zhi is listed in the classical Nineteen Mutual Fears (十九畏) as mutually antagonistic with Ren Shen. Most practitioners avoid combining them unless deliberately indicated and supervised.
+- **[Caution]** Active hemorrhage without underlying Blood stasis. While charred Wu Ling Zhi can stop bleeding, the raw form primarily moves Blood and could worsen bleeding that is not caused by Blood stasis.
+- **[Caution]** Spleen and Stomach deficiency with poor digestion. The herb has a strong smell and taste that can burden a weak digestive system. Use with caution or combine with Spleen-supporting herbs.
+
+### Classical Incompatibilities
+Wu Ling Zhi appears on the classical Nineteen Mutual Fears (十九畏) list: Ren Shen (人参, Ginseng) fears Wu Ling Zhi (人参畏五灵脂). This means the two substances are traditionally considered antagonistic and should generally not be combined. Some historical practitioners have deliberately used Ren Shen and Wu Ling Zhi together (e.g. Dang Shen with Wu Ling Zhi to tonify the Spleen and stop pain), but this requires careful clinical judgment and should not be done casually.
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Wu Ling Zhi is a potent Blood-invigorating herb with demonstrated effects on uterine smooth muscle. Laboratory studies show it can cause short-term increases in uterine tone. Its strong Blood-moving and stasis-dispersing properties pose a risk of disturbing fetal stability or inducing uterine contractions. The Ben Cao Jing Shu explicitly warns against its use in conditions without Blood stasis, which includes routine pregnancy support.
+- **Breastfeeding**: Caution is advised during breastfeeding. Although there are no specific classical prohibitions for breastfeeding mothers, Wu Ling Zhi's Blood-moving properties mean it should only be used when clearly indicated by a Blood stasis pattern. There is insufficient data on whether active compounds transfer into breast milk. Use only under practitioner supervision and for short durations when clinically necessary.
+- **Children**: Wu Ling Zhi has a classical application for childhood nutritional impairment (gan ji, 疳积), particularly when accompanied by food stagnation, parasites, and abdominal distension. In such cases it is used in combination with digestive and anti-parasitic herbs. Dosage for children should be reduced proportionally according to age and body weight, generally one-third to one-half of the adult dose. Due to its strong taste and smell, it may be better tolerated in pill or powder form than as a decoction. Not suitable for infants.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Wu Ling Zhi contains flavonoids and other compounds with demonstrated antithrombin and antiplatelet aggregation activity. Concurrent use with warfarin, heparin, aspirin, clopidogrel, or other blood-thinning medications may increase the risk of bleeding. Patients on such medications should inform their healthcare providers before using Wu Ling Zhi.
+Ginseng-containing supplements and formulas: Per the classical Nineteen Mutual Fears, Wu Ling Zhi may antagonise the effects of Ren Shen (Ginseng). Patients taking ginseng products (including red ginseng, American ginseng supplements, or ginseng-containing formulas) should be aware of this traditional incompatibility.
+
+### Dietary Advice
+Avoid cold and raw foods while taking Wu Ling Zhi, as they can impede Blood circulation and counteract the herb's warming, Blood-moving effects. Moderate consumption of warming foods such as ginger, moderate amounts of rice wine, and well-cooked meals supports the herb's therapeutic action. Avoid excessively greasy or heavy foods that may burden digestion, as Wu Ling Zhi already has a strong taste that can challenge a sensitive stomach.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Wu Ling Zhi is not derived from a plant but from an animal source. It is the dried feces of the complex-toothed flying squirrel (Trogopterus xanthipes Milne-Edwards), a medium-sized rodent endemic to China belonging to the family Petauristidae (flying squirrel family). The animal is slightly larger than a common squirrel, with a body length of 20–30 cm and weight of 300–500 g. It has a broad head, short snout, large round eyes, and prominent ears with tufts of black hair at the base. A gliding membrane stretches between its front and hind legs, allowing it to glide between cliffs and trees. Its fur is yellowish-brown with reddish tones on the back, grayish-white on the belly, and distinctively bright orange-yellow on the feet (hence the alternate name "orange-footed flying squirrel").
+These squirrels inhabit rocky cliff faces and caves at elevations of 1,200–2,750 meters in mountainous regions with conifer and mixed forests. They are nocturnal, nesting in stone crevices on steep cliffs. Their diet consists primarily of Platycladus (Chinese arborvitae) leaves and seeds, along with pine bark and various tree seeds. The chemical composition of Wu Ling Zhi is directly influenced by this diet, as many of its active terpenoids, flavonoids, and lignans are metabolites of the foods the animals consume.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Collected year-round, but primarily in spring and autumn. Spring-harvested material is considered higher quality.
+- **Primary Growing Regions**: The primary producing regions are Hebei, Shanxi, and Gansu provinces, which are considered the traditional terroir (道地药材) areas for Wu Ling Zhi. Additional production occurs in Shaanxi, Sichuan, Hubei, Yunnan, and Tibet. The herb is collected from the wild, gathered from cliff caves and rocky ledges where flying squirrels nest. Shanxi Province, particularly the Taihang Mountains and areas around Wutai Mountain, has historically been considered a premium source region.
+- **Quality Indicators**: Wu Ling Zhi comes in two commercial grades based on form: Ling Zhi Kuai (灵脂块, block form) and Ling Zhi Mi (灵脂米, granular form). The block form (also called Tang Ling Zhi, "sugar Ling Zhi") consists of fecal pellets cemented together by dried urine into irregular lumps. High-quality blocks are black-brown to dark brown in colour, with a glossy surface that appears oily or resinous, and are free of sand, soil, or other impurities. Some blocks contain yellowish-brown resinous material between the pellets. The granular form consists of individual elongated pellets (0.5-1.2 cm long, 0.3-0.6 cm diameter) with a rough brownish-black surface. Good quality granules break easily and show a fibrous cross-section that is yellow-green to yellow in colour. The herb has a characteristic rank, musky odour and a bitter-salty taste. Block form is generally preferred for clinical use. Avoid material that is heavily contaminated with soil, overly crumbly, or has a foul rotten smell rather than the typical musky odour.
+
+### Identity & Adulterants
+The authentic source animal, Trogopterus xanthipes, has become increasingly rare and is now listed as Endangered by the IUCN. Some reports indicate that the feces of wild field rats or other rodent species have been substituted for genuine Wu Ling Zhi in parts of China. Bat feces (Ye Ming Sha, 夜明砂, from insectivorous bats) is a different medicinal substance with different properties and should not be confused with Wu Ling Zhi. The feces of the Siberian flying squirrel (Pteromys volans) has historically been used as a secondary source and is listed in some pharmacopoeias, though Trogopterus xanthipes remains the official standard. Authentic Wu Ling Zhi can be identified by its characteristic elongated pellet shape, fibrous cross-section showing plant material (from arborvitae and pine), and its specific musky odour distinct from bat guano.
+
+---
+
+## References
+### Classical Texts
+#### 《开宝本草》 (Kai Bao Ben Cao, Song Dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Wu Ling Zhi (五灵脂), literally meaning "fat (or droppings) of the five spirits," was first recorded in the Kai Bao Ben Cao (开宝本草), a materia medica compiled during the Song Dynasty (around 973 CE). The original text identified it as the feces of the "cold-weather calling insect" (寒号虫, han hao chong). For centuries, there was debate about the identity of this creature. Some classical texts described it as a bird-like animal that called out in the cold, while others identified it as having "four feet and fleshy wings that cannot fly far." It was not until the 20th century that Chinese researchers from the Academy of Medical Sciences confirmed through field investigation that the source animal is the complex-toothed flying squirrel (Trogopterus xanthipes), a nocturnal gliding rodent that nests on cliff faces.
+The herb's most famous clinical pairing is with Pu Huang (pollen of Typha) in the formula Shi Xiao San (失笑散, "Sudden Smile Powder"), recorded in the Tai Ping Hui Min He Ji Ju Fang (Song Dynasty). The formula's evocative name describes how patients in severe pain from Blood stasis suddenly smile with relief after taking it. Li Shizhen noted in the Ben Cao Gang Mu that this formula is effective not only for women's Blood pain but for "all heart, abdominal, flank, and lower abdominal pains in men, women, old, and young." The classical teaching that Wu Ling Zhi should be "used raw to move Blood, and dry-fried to stop bleeding" (生用行血，炒用止血) reflects one of TCM's most elegant examples of how processing transforms a single substance into two clinically opposite tools.
+
+### Modern Scientific Research
+1. **[Antithrombotic flavonoids from the faeces of Trogopterus xanthipes (In vitro study, 2011)](https://pubmed.ncbi.nlm.nih.gov/21104530/)**
+   *Journal: Yang NY, Duan JA, Shang EX, Tian LJ. Planta Medica, 2010, 76(15), 1767-1769.*
+   Chemical analysis of Trogopterus feces identified seven flavonoid compounds. Three kaempferol coumaroyl rhamnosides demonstrated significant antithrombin activity in laboratory assays, providing a pharmacological basis for the herb's traditional Blood-invigorating effects.
+
+2. **[Two new isopimarane diterpenes from the feces of Trogopterus xanthipes (Phytochemical study, 2010)](https://doi.org/10.1016/j.fitote.2009.11.006)**
+   *Journal: Yang NY, Tao WW, Zhu M, Duan JA, Jiang JG. Fitoterapia, 2010, 81(5), 381-384.*
+   Researchers isolated two novel isopimarane diterpenes from the ethyl acetate extract of Wu Ling Zhi. The study confirmed that the herb's major chemical classes include triterpenoids, diterpenoids, and phenolic acids, and that it possesses antiplatelet aggregation and anti-inflammatory activities.
+
+3. **[Simultaneous Determination of Prostaglandin and Hormones in Excreta of Trogopterus xanthipes (Analytical study, 2020)](https://pubmed.ncbi.nlm.nih.gov/32405648/)**
+   *Journal: Liu H, Fan M, Fu X, Chen Y, Ye M, Guo H. Journal of Chromatographic Science, 2020, 58(6), 542-548.*
+   This study performed qualitative and quantitative analysis of endogenous prostaglandins and hormones in Wu Ling Zhi using advanced chromatography. It identified 48 compounds in the squirrel's excreta, providing chemical evidence for the herb's traditional use in treating menstrual disorders.
+
+4. **[Fecal medicines used in traditional medical system of China: a systematic review (Review, 2019)](https://doi.org/10.1186/s13020-019-0253-x)**
+   *Journal: Xiao X, Zhou SH, Jiang N, et al. Chinese Medicine, 2019, 14, 40.*
+   A comprehensive review of fecal medicines in Chinese medical traditions identified Wu Ling Zhi as the most representative and commonly used fecal medicine. The review described its active chemical constituents (terpenoids, flavonoids, lignans, and bile acids) as being closely related to the flying squirrel's diet of arborvitae leaves and pine bark.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/wu-ling-zhi](https://www.meandqi.com/knowledge-base/herbs/wu-ling-zhi)*

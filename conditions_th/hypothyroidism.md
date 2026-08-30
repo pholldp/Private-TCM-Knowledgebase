@@ -1,0 +1,220 @@
+# ภาวะไทรอยด์ทำงานต่ำ (甲状腺功能减退症)
+**คำอ่านพินอิน**: jiǎ zhuàng xiàn gōng néng jiǎn tuì zhèng | **ประเภท**: Condition | **หมวดหมู่**: สภาวะต่อมไร้ท่อและเมตาบอลิซึม, ภาวะต่อมไทรอยด์  
+**ชื่อเรียกอื่นๆ**: Under Active Thyroid Gland, Underactive Thyroid, Low Thyroid, Myxedema, Hypothyroidism-Related Edema | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+Hypothyroidism ใน TCM ไม่ได้เป็นเพียงปัญหาของต่อมไทรอยด์เท่านั้น แต่ยังเป็นความเย็นทั่วร่างกายที่ไฟนำร่องการเผาผลาญหรี่ลง การฟื้นฟูไตและม้ามหยาง ผู้ป่วยส่วนใหญ่จะรู้สึก...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Hypothyroidism occurs when the thyroid gland doesn't produce enough thyroid hormone, slowing the body's metabolism. Common symptoms include fatigue, weight gain, cold intolerance, dry skin, constipation, and depression. The most frequent cause is Hashimoto's thyroiditis, an autoimmune condition where the immune system attacks the thyroid. Other causes include surgical removal of the thyroid, radiation treatment, or certain medications.
+Diagnosis is made through blood tests measuring thyroid-stimulating hormone (TSH) and thyroxine (T4). When TSH is elevated and T4 is low, hypothyroidism is confirmed. The condition is typically managed with lifelong daily hormone replacement.
+
+### การรักษาหลัก (Treatments)
+The standard treatment is levothyroxine, a synthetic form of T4, taken daily to restore hormone levels. Doses are adjusted based on periodic TSH monitoring. For most people, this normalizes lab values and resolves many symptoms. However, some patients continue to experience fatigue, brain fog, or weight issues despite having “normal” labs.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM understands hypothyroidism primarily as a deficiency of Yang Qi - the body's warming and activating force. The Kidneys store the fundamental Yang, often called the “pilot light” of the body. When this fire dims, the Spleen's ability to transform food into usable energy falters, leading to deep cold, fluid stagnation, and a profound metabolic slowdown. This is why fatigue, cold intolerance, and puffiness are the hallmark symptoms.
+The condition rarely stays confined to one organ. When Kidney Yang is weak, the Spleen often suffers, causing poor appetite, loose stools, and further energy depletion. If the cold reaches the Heart, palpitations and chest oppression may appear. In some cases, the failing Yang cannot transform fluids, leading to Cold-Damp accumulation with heavy limbs, mental fog, and a puffy face.
+Because the same Western diagnosis can stem from different underlying imbalances, TCM distinguishes several patterns - each with its own treatment strategy. Two people with identical TSH levels may need completely different herbal formulas: one might require strong warming of Kidney and Spleen Yang, while another needs gentle Qi tonification or dampness-draining herbs. This pattern-based approach is what makes TCM uniquely suited to addressing the whole person, not just the lab value.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner begins by listening carefully to the whole story - not just the thyroid lab numbers, but how the person feels day to day. The quality of fatigue, sensitivity to cold, appetite, digestion, and any swelling or mental cloudiness all become clues that point toward one pattern or another. The tongue and pulse provide the confirming details, revealing whether the problem is mainly a lack of warming Yang, a simpler Qi shortfall, or a buildup of dampness.
+When Kidney and Spleen Yang Deficiency is the core pattern, the hallmark is a deep, bone-level coldness that no sweater can fix, alongside profound exhaustion and a sluggish metabolism that causes weight gain even with a poor appetite. The tongue is often pale, puffy, and shows tooth marks on the sides, while the pulse feels deep, slow, and weak. Low back ache and loose stools frequently accompany this picture.
+In milder or earlier cases, Qi Deficiency may dominate. Here the person feels tired and has little appetite, but the cold sensation is not as intense. The tongue is pale but may not be swollen, and the pulse is weak without necessarily being slow. This pattern lacks the heavy dampness or fluid puffiness seen in more advanced cold patterns, and it often represents the stage before Yang truly declines.
+When the condition deepens and affects the Heart, Heart Yang Deficiency emerges. Palpitations, a sensation of chest oppression, shortness of breath, and a noticeably slow heartbeat become prominent. The tongue remains pale, and the pulse is slow and deep, sometimes irregular. Cold hands and feet are common, and the person may feel anxious or unsettled because the Heart’s warming function is compromised.
+If Yang fails to transform fluids, Yang Deficiency with Cold-Damp develops. Puffy swelling around the eyes, face, or limbs, a heavy sensation in the body, and mental dullness or brain fog are the telltale signs. The tongue coating becomes thick and greasy, and the pulse feels slippery or soft. This pattern adds a sticky, obstructive quality to the underlying cold and weakness.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「瘿者，由忧恚气结所生，亦由饮沙水，沙随气入于脉，搏颈下而成之。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Goiter is produced by the binding of Qi due to worry and anger, and also by drinking sandy water; the sand follows the Qi into the vessels and accumulates below the neck to form it."
+> 
+> — แหล่งที่มา: *Zhu Bing Yuan Hou Lun (Treatise on the Origins and Symptoms of Diseases)  ,  Chapter on Goiter (瘿病) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Kidney and Spleen Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-and-spleen-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Feeling cold even in warm rooms, with cold hands and feet below the knees, Chronic loose stools or early-morning diarrhea with undigested food, Sore, aching, and cold sensation in the lower back and knees, Puffy swelling of the legs, ankles, and face, worse in the morning, Profound fatigue that is not relieved by rest
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, raw, or iced foods and drinks, Cold, damp weather, Overexertion, Standing or sitting for long periods without movement
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth, Warm cooked meals and drinks, Gentle exercise, Rest and sleep
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Kidney Yang is the body's pilot light-the fundamental warmth that drives all physiological processes. When this fire dims, the Spleen's ability to transform food into usable energy falters, leading to internal cold, fluid stagnation, and a profound metabolic slowdown. This is the classic hypothyroid picture: deep exhaustion, cold intolerance, puffiness, and weight gain that resists diet and exercise.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen, and puffy with teeth marks on the edges; white slippery coating. Pulse: deep, weak, and slow; especially feeble in the rear (Kidney) and right middle (Spleen) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney and Spleen Yang are like an inner furnace. Warmth from food, clothing, and moxibustion adds fuel, while cold and dampness act like water thrown on the fire. Gentle movement stokes the flame without exhausting it, but overwork drains the already depleted Yang. Restorative sleep allows the body to conserve and rebuild its core warmth.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups, stews, and congees with ginger, cinnamon, and a little lamb or chicken. Avoid raw, cold, and iced foods entirely-they snuff out the digestive fire. Keep your lower back and feet warm, and aim for gentle, consistent movement like walking or tai chi to coax Yang into motion without depleting it.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Fu Zi Li Zhong Tang](https://www.meandqi.com/knowledge-base/formulas/fu-zi-li-zhong-tang)** | Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE | Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner | Warms Spleen and Kidney Yang, dispels internal cold, and restores digestive fire-the core formula for this pattern when diarrhea and cold limbs dominate. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | The premier herb to reignite Kidney Yang and drive out deep cold. |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome |  | Warms the Spleen and Stomach, stops diarrhea, and transforms thin mucus. |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Kindles the life-gate fire and draws the Yang back to its root. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens the Spleen&#x27;s ability to transform and transport, reducing puffiness. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Moxibustion on this Kidney back-shu point directly warms Kidney Yang. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Moxa here strengthens Spleen Yang and improves digestion. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | The &#x27;Gate of Life&#x27;-moxibustion here ignites the body&#x27;s fundamental fire. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Builds Spleen Qi and Yang, and boosts overall energy. |
+
+---
+
+### Qi Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Persistent fatigue that worsens with activity, Shortness of breath on mild exertion, Poor appetite and loose stools, Spontaneous sweating without exertion, Pale, puffy tongue with teeth marks
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overexertion, Skipping meals, Cold, raw, or iced foods and drinks, Chronic stress, Lack of sleep
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Rest and sleep, Warm cooked meals and drinks, Gentle exercise, Stress reduction
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Qi is the body's vital energy that powers every function. When Qi is deficient, the metabolism slows down, leading to the profound fatigue and sluggishness typical of hypothyroidism. The Spleen, which transforms food into Qi, becomes weak, so appetite drops, digestion is poor, and energy production falters. Without enough Qi to warm and protect the body, you may feel mildly cold and catch infections easily.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy body with scalloped edges and a thin white coating. Pulse: empty (xu) or weak (ruo), soft and lacking force, especially at the right guan (Spleen) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Qi is produced from food and rest. Overwork, poor diet, and stress deplete Qi, while nourishing food and adequate rest replenish it. Gentle movement helps Qi flow without exhausting reserves.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals regularly; avoid raw, cold, and hard-to-digest foods that tax the Spleen. Gentle daily movement like walking or qigong helps circulate Qi without depleting it. Prioritize rest and avoid overwork.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | The classic formula to tonify Spleen Qi and lift Yang, addressing the core fatigue, shortness of breath, and poor digestion of Qi deficiency. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | The primary Qi tonic to boost energy and strengthen immunity. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Tonifies Spleen Qi and improves appetite and digestion. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens Spleen and dries dampness, helping with loose stools. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonify. Strengthens Spleen and Stomach Qi, boosts overall energy. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Moxa or needle. Tonifies Qi and warms the lower body. |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Moxa. Lifts sinking Qi and clears the mind. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonify. Strengthens Spleen and nourishes blood. |
+
+---
+
+### Heart Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/heart-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Palpitations that worsen with exertion, Chest stuffiness or mild chest pain, Cold hands and feet, Bright pale or white face, Mental listlessness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp weather, Overexertion, Cold, raw, or iced foods and drinks, Emotional shock or fear
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth, Gentle exercise, Warm cooked meals and drinks, Rest and sleep
+- **กลไกการเกิดอาการ (Why this happens)**:
+  In hypothyroidism, the body's core metabolic fire is low. When this deficiency reaches the Heart, the organ that propels blood and houses the mind loses its warming and activating force. Heart Yang Deficiency fails to push blood vigorously through the vessels, leading to palpitations, chest oppression, and a slow, weak pulse. The face and limbs grow pale and cold because Yang cannot warm the surface.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with teeth marks and a white slippery coating. Pulse: deep, weak, often most feeble at the left cun (Heart) position; may be knotted and slow.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Heart Yang is the body's warming spark. Cold, damp, and overexertion drain that spark further, leaving the chest and limbs even more chilled and sluggish. Warmth, gentle movement, and cooked foods protect and gently stoke the Yang, while rest prevents the Heart from exhausting its diminished reserves. Emotional shocks scatter Qi and can abruptly weaken an already fragile Heart Yang.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups and stews, and use gentle warming spices such as ginger, cinnamon, and a pinch of black pepper. Avoid raw, cold, and iced items that chill the interior. Keep your chest, neck, and feet warm. Gentle daily movement like walking or qigong helps circulate Yang without exhausting it.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | Warms Heart Yang, calms the spirit, and stabilizes palpitations by anchoring floating Yang. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms and unblocks Heart Yang, promoting circulation to the chest and limbs. |
+| **[Gan Cao](https://www.meandqi.com/knowledge-base/herbs/gan-cao)** | Licorice root |  | Tonifies Heart Qi, moderates the herbs, and helps steady the pulse. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the spirit and regulates the Heart rhythm. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Opens the chest, relieves oppression, and eases palpitations. |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Directly tonifies Heart Yang and strengthens its function. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Builds overall Qi and Yang, supporting the Heart&#x27;s driving force. |
+
+---
+
+### Yang Deficiency with Cold-Damp
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/yang-deficiency-with-cold-damp)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Feeling cold, especially along the back, Generalized body heaviness and aching joints, Cold hands and feet that are hard to warm, No thirst, or only wanting warm drinks, Puffy face and limbs (edema), Loose stools, Pale complexion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold weather or drafts, Damp living spaces, Cold, raw, or iced foods and drinks, Overexertion, Sedentary lifestyle
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth, Warm cooked meals and drinks, Gentle exercise, Rest and sleep
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's warming Yang energy is too weak to transform fluids, cold and dampness build up internally like ice forming in a cold river. In hypothyroidism, this means the metabolic fire is so low that water cannot be moved or evaporated, creating a state of deep chill, puffiness, and heavy sluggishness. The cold-damp obstructs the channels, causing the characteristic body aches and mental dullness, while the thyroid gland itself loses the warmth needed to produce its hormones.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen body with teeth marks and a white, greasy, moist coating. Pulse: deep (Chen) and slow (Chi), possibly minute (Wei) or soggy (Ru) if dampness dominates.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Yang deficiency means the body lacks the fire to warm itself and transform fluids. Cold and dampness are the natural enemies of Yang-they further snuff out the metabolic flame and thicken the fluids into heavy, obstructive dampness. Warmth, both from the environment and from warming foods, directly supports Yang and helps evaporate dampness, while gentle movement encourages Qi flow to break up stagnation without exhausting the already depleted energy reserves.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like soups, stews, and congees. Include warming spices such as ginger, cinnamon, and black pepper. Avoid raw, cold, and damp-producing foods like salads, dairy, and iced drinks. Gentle daily movement like walking or tai chi helps move Qi and dispel dampness.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhen Wu Tang](https://www.meandqi.com/knowledge-base/formulas/zhen-wu-tang)** | True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness | The classic formula to warm Kidney Yang, strengthen the Spleen, and drain cold-damp, directly addressing the root deficiency and the swelling, heaviness, and cold that follow. |
+| **[Fu Zi Li Zhong Tang](https://www.meandqi.com/knowledge-base/formulas/fu-zi-li-zhong-tang)** | Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE | Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner | A warming formula used to strengthen the digestive system and restore warmth to the body. It is used for people who feel deeply cold in the abdomen, experience chronic loose stools or diarrhea, vomiting, poor appetite, and cold hands and feet caused by severe weakness and cold in the Spleen, Stomach, and Kidneys. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | A classical formula for people experiencing anxiety, palpitations, excessive sweating, insomnia with vivid dreams, or urinary issues stemming from a general state of depletion where the body can no longer properly contain its vital substances. It works by gently warming and rebalancing the body while calming the mind and helping the body hold onto what it is losing. |
+| **[Zhen Wu Tang](https://www.meandqi.com/knowledge-base/formulas/zhen-wu-tang)** | True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness | A classical formula for people who feel persistently cold, experience swelling or puffiness (especially in the legs), have reduced urine output, and may suffer from dizziness, loose stools, or palpitations. These symptoms arise when the body&#x27;s warming energy is too weak to properly manage fluids, causing water to accumulate where it shouldn&#x27;t. Zhen Wu Tang warms the body&#x27;s core while gently helping it drain excess fluid through urination. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Powerfully warms the body&#x27;s core Yang and dispels deep cold, rekindling the metabolic fire. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Dries dampness and strengthens the Spleen to stop the internal generation of fluid accumulation. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Gently leaches out excess dampness and promotes urination without damaging Yin. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome | Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig | Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi |  |
+| **[Gan Cao](https://www.meandqi.com/knowledge-base/herbs/gan-cao)** | Licorice root | Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Yang to warm the entire body and drive out cold. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Ignites the body&#x27;s vital fire at the Gate of Life, essential for reversing deep Yang deficiency. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach to transform dampness and boost Qi and blood. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | The key point for resolving dampness, especially the heavy, sinking kind seen in this pattern. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM cure my hypothyroidism?
+TCM does not typically “cure” hypothyroidism in the sense of permanently normalizing thyroid function without medication, especially when the thyroid gland has been damaged or removed. However, many people find that TCM dramatically improves their energy, warmth, digestion, and overall wellbeing - and some are able to reduce their medication dose under medical supervision. The goal is to restore the body's own Yang so you feel well, regardless of the TSH number.
+
+### Can I take Chinese herbs with my thyroid medication?
+Yes, in most cases TCM herbs can be safely combined with levothyroxine. To avoid any interference with absorption, take your herbs at least two hours apart from your thyroid medication. Always inform both your TCM practitioner and your prescribing doctor about everything you are taking. Regular thyroid lab monitoring is important, as your medication needs may shift as your energy improves.
+
+### How long until I feel better?
+Many people notice improved energy, warmer hands and feet, and better digestion within 2-4 weeks of starting herbs and acupuncture. Deeper changes - like significant reduction in puffiness, weight loss, or resolution of brain fog - often take 2-3 months. Full constitutional rebuilding can take six months or longer, especially if you've been hypothyroid for years.
+
+### Will I need to change my diet?
+Diet plays an important supporting role. In general, TCM recommends warm, cooked foods and avoiding raw, cold, or icy items that further chill the body. Warming spices like ginger, cinnamon, and cloves are encouraged. Foods that support Kidney Yang include lamb, walnuts, and black beans. If you have Hashimoto's, your practitioner may also suggest reducing gluten or dairy, but this is individualized.
+
+### Does acupuncture really help with hypothyroidism?
+Yes. Acupuncture can help stimulate the body's Yang energy, improve circulation, and reduce fluid retention. Commonly used points like Zusanli (ST-36), Shenshu (BL-23), and Mingmen (DU-4) are selected to strengthen the Spleen and Kidney. Many patients report feeling warmer and more alert after a session. The effects build over time with regular treatment.
+
+### Can TCM help with the weight gain?
+Yes. Weight gain in hypothyroidism is often due to slowed metabolism and fluid accumulation (dampness). By warming Yang and strengthening the Spleen, TCM helps the body burn energy more efficiently and shed excess water. This is not a quick fix - it happens gradually alongside other improvements - but it addresses the root cause rather than just restricting calories.
+
+### Is TCM safe if I have Hashimoto's?
+Absolutely. TCM treats the underlying immune dysregulation as part of the pattern - often as a mix of deficiency and stagnation. Herbs and acupuncture aim to calm the autoimmune attack while strengthening the body. Many people with Hashimoto's find TCM helpful for reducing antibodies and managing symptoms. Always work with a practitioner experienced in autoimmune thyroid conditions.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/hypothyroidism)*

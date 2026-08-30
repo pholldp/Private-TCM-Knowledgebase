@@ -1,0 +1,272 @@
+# เทเนสมัส (里急后重)
+**คำอ่านพินอิน**: lǐ jí hòu zhòng | **ประเภท**: Symptom | **หมวดหมู่**: ปัญหาทางทวารหนักและทวารหนัก, อาการท้องผูกและการเปลี่ยนแปลงอุจจาระ  
+**ชื่อเรียกอื่นๆ**: Incomplete Bowel Movements, Rectal Tenesmus, Feeling of incomplete bowel movements, Feeling of incomplete bowel emptying, Feeling of incomplete bowel evacuation, Sensation of incomplete bowel movements, Sensation of incomplete evacuation, Anus spasm, diarrhoea with urgent straining, frequent urge to have a bowel movement, Sensation of abdominal urgency before bowel movement, Urgency without productive bowel movement, Urgent diarrhea with incomplete evacuation, urgent straining to defecate with incomplete evacuation, Sticky or Incomplete Bowel Movements, Difficulty passing stool or incomplete bowel movements, Difficulty with bowel evacuation despite soft stool, Incomplete bowel movements with straining, incomplete evacuation after bowel movements, Incomplete feeling after bowel movement, Loose stools that are difficult to pass completely, loose stools that feel incomplete, Sensation of incomplete bowel movement, sticky or difficult bowel movements, Sticky or incomplete stools, Feeling of Heaviness in Rectum, heaviness and dragging at the anus, Rectal heaviness or bearing-down sensation | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ลักษณะเบ่งของคุณ - แสบร้อนด้วยเสมหะ, ตะคริวที่บรรเทาด้วยการถ่ายอุจจาระ, หรือลากหนักเมื่อเหนื่อย - เผยให้เห็นว่าความร้อน, ชี่ซบเซาหรือ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, tenesmus is a symptom rather than a disease. It describes a persistent, painful urge to defecate, accompanied by a sensation of incomplete evacuation even after passing stool. The rectum feels full or spasming, yet little stool - often just mucus or blood - may be produced.
+Common causes include inflammatory bowel disease (ulcerative colitis, Crohn's), infections (dysentery), irritable bowel syndrome, or pelvic floor dysfunction. Diagnosis typically involves stool tests, colonoscopy, and imaging to identify the underlying condition. Treatment targets the root cause, such as anti-inflammatory drugs, antibiotics, or dietary adjustments, but the symptom itself can be stubborn and recurring.
+
+### การรักษาหลัก (Treatments)
+Standard approaches depend on the cause: antibiotics for bacterial dysentery, aminosalicylates or biologics for IBD, antispasmodics for IBS, and pelvic floor physiotherapy for functional disorders. Loperamide may be used cautiously for diarrhea, and stool softeners for constipation. Dietary changes like increasing fiber or avoiding trigger foods are often recommended. However, many patients continue to experience tenesmus even when the underlying disease is controlled.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, tenesmus is primarily a disorder of the Large Intestine, but its roots often lie in the Spleen, Liver, or external pathogens. The Large Intestine's job is to receive waste from the Small Intestine, absorb remaining fluids, and propel stool downward. When Dampness, Heat, Cold, or Qi stagnation disrupt this process, the intestine cannot complete its work smoothly - leading to that urgent, unfulfilled need to go.
+The Spleen is central to fluid metabolism. If it weakens, Dampness accumulates and sinks into the intestine, making stools sticky and hard to pass completely. The Liver governs the free flow of Qi throughout the body; emotional stress can cause Liver Qi to stagnate and invade the Large Intestine, creating cramping urgency that eases only after a bowel movement. When Spleen Qi sinks, the lifting function fails, producing a bearing-down sensation as if the rectum can't hold anything up.
+External factors like Damp-Heat or Cold-Damp can also directly invade the Large Intestine, triggering inflammation and tenesmus. That's why one Western diagnosis - say, ulcerative colitis - can manifest in TCM as either Damp-Heat, Cold-Damp, or even a mixed pattern. The specific quality of the tenesmus (burning vs. cold, mucus color, tongue coating) tells the practitioner exactly which pattern is at play and how to treat it.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner starts by asking what the urgency actually feels like and what the stool looks like. The presence of burning, mucus, blood, or a dragging sensation immediately narrows the possibilities, because each pattern produces a distinct type of tenesmus (里急后重, lǐ jí hòu zhòng).
+If the urgency is intense and burning and the stool contains foul-smelling mucus or blood, Damp-Heat in the Large Intestine is the likely pattern. The tongue is red with a thick yellow greasy coating, and the pulse feels slippery and rapid.
+When cramping and abdominal distension are prominent and the discomfort eases temporarily after a bowel movement, Large Intestine Qi Stagnation is suspected. The tongue may show little change, but the pulse has a tight, wiry quality that feels like a guitar string.
+A heavy, bearing-down sensation with chronic fatigue and a pale, puffy tongue points to Spleen Qi Sinking. The pulse is weak and thin, and the person often feels drained after straining, as if the body cannot hold things up.
+If the tenesmus comes with gripping abdominal pain that feels better with warmth and the stool contains white mucus, Cold-Damp invading the Spleen is the culprit. The tongue is pale with a white greasy coat, and the pulse is slow and slippery.
+When the sensation is more of a dry straining with scanty mucus and a dry mouth, Dryness in the Large Intestine from Yin and Blood deficiency may be at play. The tongue is red with little coating, and the pulse is thin and rapid.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「热利下重者，白头翁汤主之。」
+> 
+> **คำแปลภาษาอังกฤษ**: "For heat dysentery with tenesmus (下重, bearing-down sensation), Bai Tou Weng Tang (Pulsatilla Decoction) governs."
+> 
+> — แหล่งที่มา: *Shang Han Lun (Treatise on Cold Damage)  ,  Chapter on Taiyang Disease 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Damp-Heat in the Large Intestine
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-heat-in-the-large-intestine)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Burning sensation at the anus, Stools with mucus or blood, Foul-smelling stools, Feeling of body heat and heaviness, Thirst with scanty dark urine
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Greasy, fried, or spicy foods, Alcohol, Damp, humid weather, Overeating, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Light, easily digestible foods, Warm barley tea, Gentle walking, Cool, dry environment
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Dampness and Heat lodge in the Large Intestine, creating a sticky, inflamed environment. Dampness makes the stool heavy and difficult to evacuate completely, while Heat triggers an urgent, burning need to go. This results in frequent, painful straining that leaves you feeling like you haven't finished.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with a thick, yellow, greasy coating, thickest at the centre and root. Pulse: slippery (滑, huá) and rapid (数, shuò).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Greasy, spicy, and fried foods directly generate Dampness and Heat in the body, aggravating the pattern. A damp environment further increases external Dampness, while alcohol adds Heat. Light, bland foods and cooling teas help drain Dampness and clear Heat. Gentle movement keeps Qi flowing and prevents stagnation, which would otherwise trap Dampness and Heat.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid greasy, spicy, and deep-fried foods that create Dampness and Heat. Choose light, cooked foods like congee, steamed vegetables, and small amounts of lean protein. Drink warm water or barley tea to help clear Damp-Heat. Gentle daily movement like walking keeps Qi flowing and supports digestion.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shao Yao Tang](https://www.meandqi.com/knowledge-base/formulas/shao-yao-tang)** | Peony Decoction &#xB7; J&#x12B;n dynasty, 1186 CE | Cold, Clears Heat and dries Dampness, Invigorates Blood and Moves Qi, Resolves Toxicity | The classic formula for damp-heat dysentery with tenesmus, clearing Heat, drying Dampness, and harmonising the Blood to relieve abdominal pain and urgency. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Clears Damp-Heat from the Large Intestine and stops diarrhoea. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Dries Dampness and clears Heat, especially in the lower burner. |
+| **[Da Huang](https://www.meandqi.com/knowledge-base/herbs/da-huang)** | Rhubarb root and rhizome |  | Purges Heat and relieves the urgent straining. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front-Mu point of the Large Intestine; regulates Qi and relieves tenesmus. |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | Lower He-Sea point of the Large Intestine; clears Damp-Heat and eases abdominal pain. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Source point of the Large Intestine; clears Heat and alleviates pain. |
+
+---
+
+### Large Intestine Qi Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/large-intestine-qi-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cramping pain that shifts location, Feeling of incomplete bowel evacuation, Symptoms worsen with emotional stress, Excessive gas and belching, Pain relieved by gas or stool
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress, Anger or frustration, Overeating, Greasy or heavy foods, Sedentary lifestyle
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Passing gas, Having a bowel movement, Gentle abdominal massage, Warmth on the abdomen, Relaxation and stress reduction
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When emotional stress, worry, or frustration disrupt the smooth flow of Liver Qi, it can stagnate and invade the Large Intestine. This stagnation impairs the intestine's ability to propel stool downward, creating a cramping urgency and a persistent sensation of incomplete evacuation. The feeling of tenesmus arises because Qi gets stuck, building pressure without effective movement.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal light red body, thin white coating. Pulse: wiry (弦 xián), especially at the left Guan (Liver) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Stress and anger cause Liver Qi to stagnate, which directly obstructs the Large Intestine and worsens the feeling of urgency and incomplete evacuation. Passing gas or having a bowel movement temporarily moves the stagnant Qi, providing relief. Gentle massage and warmth help relax the smooth muscle and encourage Qi flow, while overeating and heavy foods burden the digestive system and create more stagnation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat smaller, more frequent meals and avoid foods that cause gas, such as beans, raw vegetables, and greasy dishes. Gentle daily exercise like walking helps keep Qi moving. Managing stress through meditation or deep breathing can prevent Liver Qi from stagnating and invading the intestine.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Mu Xiang Bing Lang Wan](https://www.meandqi.com/knowledge-base/formulas/mu-xiang-bing-lang-wan)** | Aucklandia and Betel Nut Pill &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), ~1228 CE | Cool, Moves Qi and Resolves Stagnation, Purges Heat and Unblocks the Bowels, Clears Heat and dries Dampness | Moves Qi and guides out stagnation to relieve abdominal distension and tenesmus. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Mu Xiang](https://www.meandqi.com/knowledge-base/herbs/mu-xiang)** | Costus root |  | Moves Qi and alleviates abdominal distension and pain. |
+| **[Bing Lang](https://www.meandqi.com/knowledge-base/herbs/bing-lang)** | Areca seed (Betel nut) |  | Promotes Qi movement and eases the sensation of incomplete evacuation. |
+| **[Zhi Shi](https://www.meandqi.com/knowledge-base/herbs/zhi-shi)** | Immature Bitter Orange Fruit |  | Breaks stagnant Qi and guides it downward through the intestine. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front Mu point of the Large Intestine, directly regulates Qi and relieves abdominal distension and tenesmus. |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | Lower He-Sea point of the Large Intestine, unblocks the intestine and moves stagnant Qi. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Soothes Liver Qi stagnation to prevent it from invading the intestine. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Moves Qi in the lower abdomen to relieve the bearing-down sensation. |
+
+---
+
+### Spleen Qi Sinking
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/spleen-qi-sinking)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Bearing-down or dragging sensation in abdomen, Incomplete evacuation without burning or mucus, Worse with fatigue and prolonged standing, Chronic fatigue and physical exhaustion, Poor appetite and loose stools
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and heavy lifting, Standing for long periods, Cold, raw foods and iced drinks, Large, heavy meals, Stress and worry
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Lying down to rest, Warmth on the abdomen, Small, frequent warm meals, Gentle walking
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen is responsible for holding organs in place and raising clear Qi upward. When Spleen Qi becomes weak and sinks, this lifting function fails. The downward pull creates a bearing-down sensation in the abdomen and rectum, making you feel an urgent need to go even when there is little to pass, and leaving you with a persistent feeling of incomplete evacuation.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with teeth marks and a thin white coating. Pulse: weak, especially at the right Guan position, and may be deep.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: The Spleen's Qi is responsible for lifting and holding. Rest and lying down allow the Qi to rise back to its proper place, while overexertion, prolonged standing, and heavy lifting deplete it further and worsen the sinking. Warm, easily digested foods nourish the Spleen without stealing energy for digestion, whereas cold and heavy foods dampen the digestive fire and weaken the Spleen's grip, intensifying the downward sensation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked, and easily digestible meals like soups, stews, and congees. Small, frequent meals are gentler than large ones. Avoid raw, cold, and greasy foods that weaken the Spleen. Gentle daily movement like walking supports Qi, but avoid overexertion and heavy lifting. Rest lying down when you feel the bearing-down sensation.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | The classic formula to tonify Spleen Qi and raise the sinking Qi, directly addressing the root of the bearing-down sensation. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Spleen Qi and powerfully lifts the sinking Qi, relieving the dragging sensation. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Strengthens the Spleen to build the Qi foundation that prevents further sinking. |
+| **[Sheng Ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)** | Cimicifuga rhizome |  | Guides the herbs upward to specifically raise the prolapsed Qi. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Moxibustion or gentle stimulation raises sinking Qi from the very top of the body. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies the Spleen and Stomach to generate more Qi. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Strengthens the body&#x27;s core Qi to support the lifting function. |
+
+---
+
+### Cold-Damp invading the Spleen
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/cold-damp-invading-the-spleen)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cramping abdominal pain that feels cold, White mucus in the stool, Heavy, sluggish feeling in body, Loose stools that are hard to pass, Poor appetite, nausea, and fatigue
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, raw foods and iced drinks, Damp, cold weather, Dairy and greasy, heavy meals, Sedentary lifestyle, Overeating
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm drinks and ginger tea, Warmth on the abdomen, Resting in a dry, warm environment, Light, easily digestible foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Cold and Dampness invade the body, they overwhelm the Spleen’s ability to transform and transport fluids. The Dampness sinks downward into the Large Intestine, clogging the flow of Qi and creating a persistent urge to defecate that feels urgent yet incomplete. The Cold congeals the Qi, leading to cramping pain, while the Dampness mixes with stool, producing white mucus and a heavy, dragging sensation.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen body with teeth marks and a thick, white, greasy coating. Pulse: soggy (Ru) or slippery (Hua) and slow (Chi).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold and Dampness are the root of this pattern, so anything that introduces more Cold or Dampness (like raw foods, dairy, and damp weather) worsens the obstruction and tenesmus. Warmth and dry conditions help disperse the Cold and dry up the Dampness, restoring the Spleen’s function and easing the bowel urgency. Rest and light eating conserve Qi, allowing the digestive system to recover without being overwhelmed.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods like congee with ginger and avoid cold, raw, or greasy foods. Keep the abdomen warm with a hot water bottle or moxibustion. Gentle movement like walking helps Qi flow but avoid overexertion.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Huan Jin Zheng Qi San](https://www.meandqi.com/knowledge-base/formulas/bu-huan-jin-zheng-qi-san)** | Rectify the Qi Powder Worth More than Gold &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1151 CE | Warm, Transforms Dampness and Resolves Turbidity, Directs Rebellious Qi Downward and Stops Vomiting, Harmonizes the Stomach | A classic formula for Cold-Damp dysentery that warms the middle, dispels Cold, and transforms Dampness to relieve tenesmus and abdominal cramping. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Dries Dampness and strengthens the Spleen to reduce the heavy, sluggish feeling and loose stools. |
+| **[Hou Po](https://www.meandqi.com/knowledge-base/herbs/hou-pu)** | Magnolia bark |  | Moves Qi in the abdomen, relieves distension, and eases the cramping urgency. |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome |  | Warms the middle burner and dispels Cold, stopping the dull, cold abdominal pain. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front-Mu point of the Large Intestine; regulates intestinal Qi and stops tenesmus. Use with moxibustion to warm and disperse Cold-Damp. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Resolves Dampness by promoting water metabolism; essential for the heavy sensation and white mucus. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach, supporting the transformation of Dampness. Moxibustion is beneficial. |
+
+---
+
+### Dryness in Large Intestine
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/dryness-in-large-intestine)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Hard, dry stools, Straining with scanty, pellet-like stool, Very dry mouth, throat, and lips, Incomplete emptying despite hard stool, Dizziness or thin body
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Dry, spicy, or fried foods, Dehydration or insufficient fluid intake, Overwork and late nights, Stress and mental strain
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm water and herbal teas, Moistening foods (pears, honey, sesame), Gentle abdominal massage, Regular, unhurried toilet routine
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Large Intestine lacks the fluids and Yin necessary to lubricate the passage, stools become dry and hard. This forces the body to strain, yet only small, difficult pieces may pass, leaving a nagging sensation that something remains. The gut lining itself is dry and undernourished, which can trigger a persistent urge to empty even when little stool is present.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, dry, and thin, often with a central crack and a thin dry yellowish coating. Pulse: fine (Xi) and possibly choppy (Se).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: This pattern stems from a deep deficit of Yin and body fluids in the Large Intestine, so anything that dries the body out-spicy heat, dehydration, or overwork-makes the stool harder and the straining worse. Moistening foods and warm fluids act like gentle rain, softening the stool and soothing the irritated gut. A calm, regular routine protects the dwindling Yin reserves, allowing the intestine to regain its natural lubrication.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Drink warm water throughout the day, and include moistening foods like pears, cooked apples, honey, sesame seeds, and spinach. Stewed fruits and soups are especially helpful. Avoid dry, baked, spicy, and fried foods that consume fluids. Gentle abdominal massage and a regular toilet routine can also support the bowel.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ma Zi Ren Wan](https://www.meandqi.com/knowledge-base/formulas/ma-zi-ren-wan)** | Hemp Seed Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Slightly Cool, Moistens the Intestines and Unblocks the Bowels, Drains Heat from the Stomach and Intestines, Descends Qi | Moistens the Large Intestine, lubricates dryness, and gently promotes bowel movement without harsh purgation. |
+| **[Shao Yao Tang](https://www.meandqi.com/knowledge-base/formulas/shao-yao-tang)** | Peony Decoction &#xB7; J&#x12B;n dynasty, 1186 CE | Cold, Clears Heat and dries Dampness, Invigorates Blood and Moves Qi, Resolves Toxicity | A classical formula used to clear Heat and Dampness from the intestines while soothing abdominal pain and regulating Qi and Blood circulation. It is primarily used for inflammatory bowel conditions with symptoms such as abdominal cramping, bloody or mucus-containing stools, and a constant urge to go to the bathroom that brings little relief. |
+| **[Mu Xiang Bing Lang Wan](https://www.meandqi.com/knowledge-base/formulas/mu-xiang-bing-lang-wan)** | Aucklandia and Betel Nut Pill &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), ~1228 CE | Cool, Moves Qi and Resolves Stagnation, Purges Heat and Unblocks the Bowels, Clears Heat and dries Dampness | A classical formula used to relieve severe digestive blockage, abdominal bloating and pain, constipation, and dysentery caused by food stagnation combined with internal dampness and heat. It works by strongly moving Qi, clearing accumulated heat, and promoting bowel movement. This is a powerful formula suited for robust constitutions with significant intestinal congestion, not for everyday mild indigestion. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Bu Huan Jin Zheng Qi San](https://www.meandqi.com/knowledge-base/formulas/bu-huan-jin-zheng-qi-san)** | Rectify the Qi Powder Worth More than Gold &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1151 CE | Warm, Transforms Dampness and Resolves Turbidity, Directs Rebellious Qi Downward and Stops Vomiting, Harmonizes the Stomach | A classical formula used to relieve nausea, vomiting, diarrhea, and bloating caused by dampness clogging the digestive system, often combined with catching a cold. It was historically considered so valuable for travelers that its name translates to &#x27;worth more than gold.&#x27; Commonly used for stomach flu, food poisoning, and digestive upset with chills and body aches. |
+| **[Ma Zi Ren Wan](https://www.meandqi.com/knowledge-base/formulas/ma-zi-ren-wan)** | Hemp Seed Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Slightly Cool, Moistens the Intestines and Unblocks the Bowels, Drains Heat from the Stomach and Intestines, Descends Qi | A classical formula used to gently relieve constipation caused by dryness and heat in the intestines. It moistens the bowels, clears mild heat, and promotes the movement of Qi to restore regular bowel function. Particularly well suited for older adults, postpartum women, or anyone with dry, hard stools that are difficult to pass along with frequent urination. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huo Ma Ren](https://www.meandqi.com/knowledge-base/herbs/huo-ma-ren)** | Hemp seed |  | Rich and oily, it lubricates the Large Intestine and softens hard, dry stool. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and moistens the bowels, addressing the underlying Yin and Blood deficiency. |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Da Huang](https://www.meandqi.com/knowledge-base/herbs/da-huang)** | Rhubarb root and rhizome | Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity |  |
+| **[Mu Xiang](https://www.meandqi.com/knowledge-base/herbs/mu-xiang)** | Costus root | Warm, Moves Qi and Alleviates Pain, Strengthens the Spleen and Promotes Digestion, Regulates Qi Flow in the Chest, Abdomen and Lower Body |  |
+| **[Bing Lang](https://www.meandqi.com/knowledge-base/herbs/bing-lang)** | Areca seed (Betel nut) | Warm, Expels Parasites, Promotes Digestion and Resolves Food Stagnation, Moves Qi |  |
+| **[Zhi Shi](https://www.meandqi.com/knowledge-base/herbs/zhi-shi)** | Immature Bitter Orange Fruit | Slightly Cool, Breaks Qi and Eliminates Focal Distention, Promotes Digestion and Resolves Food Stagnation, Transforms Phlegm and Dissipates Nodules |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Sheng Ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)** | Cimicifuga rhizome | Slightly Cool, Releases the Exterior and Vents Rashes, Clears Heat and Resolves Toxicity, Lifts Sunken Qi |  |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+| **[Hou Po](https://www.meandqi.com/knowledge-base/herbs/hou-pu)** | Magnolia bark | Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation |  |
+| **[Gan Jiang](https://www.meandqi.com/knowledge-base/herbs/gan-jiang)** | Dried ginger rhizome | Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids |  |
+| **[Huo Ma Ren](https://www.meandqi.com/knowledge-base/herbs/huo-ma-ren)** | Hemp seed | Neutral, Moistens the Intestines and Unblocks the Bowels, Nourishes Yin, Promotes Urination |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front-Mu point of the Large Intestine; regulates and moistens the bowel. |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | Lower He-Sea point of the Large Intestine; relieves straining and promotes complete evacuation. |
+| **SJ-6** | [Zhigou SJ-6](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/zhigou-sj-6) | Zh&#x12B; G&#x14D;u | Regulates Qi and removes Qi Stagnation., Clears Heat in Large Intestine | Opens the bowels and eases difficult, dry constipation. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Yin and body fluids to address the root deficiency. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Why do I feel like I need to go but nothing comes out?
+This is the hallmark of tenesmus. In TCM, it usually means the Large Intestine is irritated or obstructed. Damp-Heat can create a sticky, inflamed environment that triggers a false sense of fullness, while Qi stagnation causes the intestine to spasm and fail to propel stool properly. Your practitioner will look at your tongue and pulse to determine which pattern is causing the false urgency.
+
+### Can acupuncture really help with the urge to go?
+Yes. Acupuncture points on the abdomen and legs can regulate the Large Intestine, calm spasms, and reduce the sensation of urgency. Points like Tianshu ST-25 and Shangjuxu ST-37 are particularly effective for restoring normal peristalsis and relieving tenesmus. Many patients feel a noticeable decrease in the false urge after just a few sessions.
+
+### How long does TCM take to work for incomplete bowel movements?
+It depends on the pattern. If your tenesmus is caused by acute Damp-Heat or Qi Stagnation, you may feel improvement within 1-2 weeks. Chronic conditions like Spleen Qi Sinking or Dryness often require 4-8 weeks of daily herbs and weekly acupuncture to rebuild the body's strength. Consistency is key - missing doses or sessions can slow progress.
+
+### Do I need to change my diet?
+Diet plays a supportive role. In general, avoid raw, cold, greasy, and spicy foods, which burden the Spleen and create Dampness. Eat warm, well-cooked meals in small, frequent portions. Your practitioner will give you specific advice based on your pattern - for example, ginger tea for Cold-Damp or barley tea for Damp-Heat.
+
+### Can I take TCM herbs with my IBD medications?
+In most cases, yes. Herbal formulas for tenesmus are generally compatible with aminosalicylates, biologics, and other IBD drugs. However, some herbs that move blood or clear Heat might interact with anticoagulants or immunosuppressants. Always bring a full list of your medications to your TCM consultation, and keep your prescribing doctor informed about any herbs you are taking.
+
+### Is tenesmus a sign of something serious?
+Tenesmus can be a symptom of conditions ranging from irritable bowel syndrome to inflammatory bowel disease or infection. If you experience severe pain, high fever, persistent bloody stools, or weight loss, see a doctor promptly. TCM can often help once serious causes have been ruled out or are being managed concurrently.
+
+### Why does my tenesmus feel different at different times?
+In TCM, this variability is a clue. A burning sensation that worsens with spicy food suggests Damp-Heat; a dragging feeling when you're tired points to Spleen Qi Sinking; cramping that eases after a bowel movement indicates Qi Stagnation. The pattern can also shift over time, which is why your herbal formula may be adjusted as you improve.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Acupuncture for irritable bowel syndrome: systematic review and meta-analysis** ([ลิงก์](https://doi.org/10.1038/ajg.2012.66))
+   *วารสารวิชาการ: Manheimer E, Wieland LS, Cheng K, et al. Acupuncture for irritable bowel syndrome: systematic review and meta-analysis. Am J Gastroenterol. 2012;107(6):835-847.*
+   This meta-analysis of 17 RCTs found that acupuncture significantly improved global IBS symptoms, including urgency and sensation of incomplete evacuation, compared to sham acupuncture and pharmacological controls. The effect persisted at follow-up, suggesting a disease-modifying potential.
+
+2. **Review of clinical studies of acupuncture for ulcerative colitis** ([ลิงก์](https://doi.org/10.1155/2018/4805234))
+   *วารสารวิชาการ: Ji J, Huang Y, Wang XF, et al. Review of clinical studies of acupuncture for ulcerative colitis. Evid Based Complement Alternat Med. 2018;2018:4805234.*
+   This systematic review of 13 RCTs evaluated acupuncture for ulcerative colitis and found that it reduced tenesmus, bloody stool, and abdominal pain. The studies were mostly from China and of variable methodological quality, but the direction of effect was consistently positive.
+
+3. **Herbal medicines for treatment of irritable bowel syndrome** ([ลิงก์](https://doi.org/10.1002/14651858.CD004116.pub2))
+   *วารสารวิชาการ: Liu JP, Yang M, Liu YX, et al. Herbal medicines for treatment of irritable bowel syndrome. Cochrane Database Syst Rev. 2006;(1):CD004116.*
+   This Cochrane review assessed 75 RCTs of Chinese herbal medicine for IBS. Several formulas that target Damp-Heat and Qi stagnation showed significant improvement in tenesmus and bowel frequency compared to placebo, though the overall evidence was limited by heterogeneity and risk of bias.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/tenesmus)*

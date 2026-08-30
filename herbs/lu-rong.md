@@ -1,0 +1,198 @@
+# Lu Rong (鹿茸)
+**English Name**: Deer velvet antler  
+**Category**: Yang-tonifying herbs (补阳药)  
+**Scientific Name**: Cervus nippon Temminck / Cervus elaphus Linnaeus  
+**Pharmaceutical Name**: Cornu Cervi Pantotrichum  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Sweet (甘 gān), Salty (咸 xián)  
+**Channels Entered**: Kidneys, Liver  
+**Parts Used**: Animal — part (动物部分 dòng wù bù fèn)  
+
+---
+
+## Summary
+Deer antler velvet is one of the most prized warming tonics in Chinese medicine, used for thousands of years to strengthen the body's deepest reserves. It is primarily taken for conditions related to weakness and coldness, such as fatigue, cold lower back and knees, sexual dysfunction, infertility, and poor bone development. Because it is very warming, it is not suitable for people who tend to run hot or have signs of excess heat.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Sexual Health and Libido, Bone and Joint Health, Fertility, Healthy Aging, Immune Support
+- **TCM Actions**: Tonifies Kidney Yang, Nourishes Essence and Blood, Strengthens the Sinews and Bones, Secures the Chong and Ren Vessels, Promotes Tissue Regeneration and Heals Sores
+
+### How these actions work
+'Tonifies Kidney Yang' means Lu Rong powerfully warms and strengthens the Kidney's warming, activating function (known as Ming Men fire, or the Life Gate fire). When this fire is weak, a person may experience coldness in the lower back and knees, sexual dysfunction, frequent pale urination, or general fatigue with an aversion to cold. Lu Rong, as a substance derived from the vigorous growth of young deer antler, carries a potent regenerative and warming force that directly stokes this foundational fire.
+'Replenishes Essence and Blood' refers to Lu Rong's ability to nourish Kidney Essence (Jing), the deep constitutional reserve that governs growth, development, reproduction, and aging. Because Essence and Blood are closely interdependent, Lu Rong simultaneously supports blood production. This is why it is traditionally used for anemia, premature aging, developmental delays in children, dizziness, and tinnitus caused by depleted reserves. As an animal-derived substance (called 'flesh and blood with feeling' in TCM), it is considered especially powerful at replenishing the body's own substance.
+'Strengthens sinews and bones' means Lu Rong supports the structural framework of the body. In TCM, the Kidneys govern the bones and the Liver governs the sinews (tendons and ligaments). When Kidney Essence is sufficient, bones are strong; when the Liver has enough stored Blood, sinews remain flexible. Lu Rong enters both the Kidney and Liver channels, making it useful for weak knees, sore lower back, skeletal deformities in children, slow fracture healing, and general musculoskeletal weakness.
+'Regulates the Chong and Ren channels' means Lu Rong warms the two extraordinary vessels that govern menstruation and fertility. When these channels become cold and deficient, women may experience clear watery vaginal discharge, heavy or continuous uterine bleeding, menstrual irregularity, or infertility from a 'cold womb.' By warming the Kidney and filling the Essence, Lu Rong helps restore normal function to these channels.
+'Promotes healing of sores and ulcers' refers to Lu Rong's use for chronic, non-healing wounds and certain deep cold-type abscesses (called yin-type sores in TCM). These are typically flat or concave, ooze clear fluid, and fail to come to a head or close. Lu Rong's warming and tonifying nature helps the body generate enough Qi and Blood to push toxins out and regenerate tissue.
+
+---
+
+## Patterns Addressed
+### Kidney Yang Deficiency
+- **Explanation**: Kidney Yang Deficiency is the core pattern that Lu Rong addresses. When Kidney Yang (the body's foundational warming force) is insufficient, a person experiences coldness, weakness, and decline in reproductive and structural vitality. Lu Rong is sweet and salty, entering the Kidney and Liver channels with a warm temperature. Its sweet taste tonifies, its salty taste directs it into the Kidney, and its warm nature directly replenishes the depleted Yang fire. As a 'flesh and blood' substance from a rapidly growing animal tissue, it is considered especially effective at restoring the Kidney's deep constitutional reserves of both Yang and Essence.
+- **Clinical Signs & Symptoms**:
+
+### Kidney Essence Deficiency
+- **Explanation**: When Kidney Essence (Jing) is depleted through aging, chronic illness, or constitutional weakness, the bones, brain, and reproductive capacity all suffer. Lu Rong is one of the premier substances for replenishing Essence because, as an animal-derived product from the fastest-growing mammalian tissue, it carries a powerful regenerative quality. Its salty taste enters the Kidney where Essence is stored, while its sweet warmth nourishes without excessive dryness. This makes it especially suited for severe depletion where both Essence and Blood are insufficient.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 1-2g, ground into powder and swallowed (研末冲服)
+- **Maximum Dosage**: Up to 3g per day as powder, under practitioner supervision. Must start from a very small dose (as little as 0.1-0.3g) and increase gradually.
+- **Dosage Notes**: Lu Rong requires a distinctive dosing approach compared to most herbs. The classical teaching is to start from a very small dose (从小量开始) and increase gradually (缓缓增加). The physician Cao Bingzhang described starting from as little as one li (approximately 0.03g) and gradually increasing to several fen or qian over time, calling this the principle of 'gentle supplementation for great deficiency' (大虚缓补).
+The standard dose of 1-2g per day is taken as ground powder swallowed with warm water, warm yellow wine, or light salt water, not as a decoction. For health maintenance or mild deficiency, as little as 0.3-0.5g every other day may be sufficient. The upper tip slices (蜡片/血片) are most potent and require smaller doses. Lower sections require correspondingly larger amounts.
+Taking too large a dose too quickly, especially in someone with underlying Yin deficiency, can cause 'Yang rising and Wind stirring' (阳升风动), manifesting as headache, flushed face, nosebleed, dizziness, or irritability.
+- **Preparation**: Lu Rong should NOT be decocted in a standard herbal formula. Its colloidal (glue-like) components will stick to other herb dregs or to the pot walls, leading to waste or even burning into harmful residue. The traditional and correct methods of preparation are:
+1. Ground into fine powder (研末) and swallowed directly with warm water, warm rice wine, or light salt water.
+2. Incorporated into pills (丸) or powders (散) combined with other herbs.
+3. Sliced thinly and placed directly in the mouth to dissolve slowly in saliva before swallowing (含服).
+4. Steeped in medicinal wine (药酒) for extraction over 2-4 weeks.
+5. Stewed with chicken or lean meat in small culinary preparations.
+Before slicing, the velvet hairs are singed off over flame (after first coating with butter/ghee to protect the tissue), the surface is scraped clean, and the antler is wrapped with cloth strips and infused with warm white wine through the porous base until fully moistened, then sliced thinly, pressed flat, and dried.
+
+---
+
+## Processing Methods
+### L&#xF9; R&#xF3;ng Pi&#xE0;n (&#x9E7F;&#x8338;&#x7247;)
+- **Processing Method**: The velvet hair is singed off over a flame, the surface is scraped clean, then cloth strips are wrapped around the antler body. Hot rice wine (baijiu) is slowly poured into the small pores from the sawed base until the antler is fully saturated. It is then sliced into thin cross-sections, pressed flat, and dried.
+- **How it Changes Properties**: Slicing does not fundamentally change the thermal nature or actions. The wine infusion helps distribute the active constituents more evenly throughout the antler and facilitates absorption. The different slice positions (wax slices from the tip, powder slices from the middle, sand slices from the lower section) have different potencies, with the tip slices being most potent due to higher blood and growth factor content.
+- **When to Use**: This is the standard dispensing form. Wax slices (la pian) from the tip are reserved for severe Yang and Essence deficiency; powder slices (fen pian) and sand slices (sha pian) are used for milder cases or when cost is a concern.
+
+### L&#xF9; R&#xF3;ng F&#x11B;n (&#x9E7F;&#x8338;&#x7C89;)
+- **Processing Method**: The dried antler slices are ground into a fine powder.
+- **How it Changes Properties**: No change in thermal nature or actions. The powder form allows for more precise small dosing (the standard dose is only 1-2g) and easier incorporation into capsules or direct oral administration with warm water or wine.
+- **When to Use**: The preferred form for individual supplementation. Because Lu Rong should be started at very low doses and gradually increased, the powder form allows fine dose adjustment. Also used topically on chronic non-healing ulcers.
+
+---
+
+## Common Herb Pairs
+### Ren Shen (Ratio: Ren Shen 10g : Lu Rong 1-2g (Lu Rong is used in much smaller doses))
+- **Description**: Known as the classic 'Shen Rong' (参茸) pair, Ren Shen tonifies Qi while Lu Rong tonifies Yang and Essence. Together they address the mutual dependence of Qi and Essence: Ren Shen provides the Qi needed to generate and transport Essence, while Lu Rong provides the deep Kidney warmth and substance that anchors Qi. This creates a comprehensive tonic that addresses both the functional (Qi) and material (Essence/Blood) aspects of deficiency.
+- **When to Use**: Severe dual deficiency of Qi and Essence, such as chronic fatigue with cold extremities, sexual dysfunction, recovery from prolonged illness or childbirth, and constitutional weakness in aging.
+
+### Zhi Fu Zi (Ratio: 1:1 (Lu Rong 15g : Fu Zi 15g in the classical Rong Fu Tang))
+- **Description**: Both herbs strongly warm Kidney Yang, but they approach it differently. Fu Zi is intensely hot and fast-acting, rescuing Yang from collapse and driving warmth through the channels. Lu Rong is warm but gentler and more nourishing, replenishing the Essence foundation that sustains Yang. Together, Fu Zi rapidly rekindles the fire while Lu Rong provides the deep fuel to keep it burning.
+- **When to Use**: Severe Kidney Yang collapse with both acute cold symptoms (extreme chills, cold sweating) and underlying Essence depletion (emaciation, weak bones). The classical formula Rong Fu Tang from the Shi Yi De Xiao Fang uses this pair for exhaustion with both Qi and Blood deficiency.
+
+### Dang Gui (Ratio: 1:1 (equal parts, as in the classical Hei Wan))
+- **Description**: Lu Rong tonifies Kidney Yang and Essence while Dang Gui nourishes and invigorates Blood. Since Essence and Blood share a common origin (both derived from Kidney Jing), this pair addresses the interdependence of these two vital substances. Lu Rong provides the warming Yang drive, while Dang Gui ensures Blood production keeps pace, preventing the common problem of Yang tonification without adequate Blood nourishment.
+- **When to Use**: Combined Essence and Blood deficiency presenting with dark complexion, hearing loss, dizziness, lower back pain, and turbid urination. The classical formula Hei Wan from the Ji Sheng Fang uses equal parts of the two herbs for this exact pattern.
+
+### Tu Si Zi (Ratio: Lu Rong 15g : Tu Si Zi 9-15g)
+- **Description**: Both herbs tonify the Kidneys, but Lu Rong focuses on warming Yang and replenishing Essence while Tu Si Zi gently consolidates Kidney Qi and secures Essence from leaking. Tu Si Zi also has a mild Yin-nourishing quality that balances Lu Rong's warmth, preventing it from becoming overly drying. Together they create a more balanced approach to Kidney fortification.
+- **When to Use**: Kidney deficiency with spermatorrhea, frequent urination, or leukorrhea where both warming and consolidating actions are needed. Used together in the Lu Fu Tang from the Wen Bing Tiao Bian.
+
+---
+
+## Key Formulas
+Ren Shen Lu Rong Tang, Yu Nu Jian, Shi Hu San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Lu Rong is classified as non-toxic in the Chinese Pharmacopoeia. The Shen Nong Ben Cao Jing and Ming Yi Bie Lu both record it as having no toxicity. Animal studies in mice given oral doses of Lu Rong extract up to 40g/kg showed no mortality or adverse effects. However, this does not mean it is without risk when misused.
+The main danger is not chemical toxicity but inappropriate use in the wrong constitution. Because Lu Rong is a powerful warm Yang tonic with a strong ascending nature (it connects to the Du/Governor channel and rises to the brain), overdose or use in people with hidden Yin deficiency or Blood Heat can trigger nosebleeds, blood in the urine, headache, dizziness, flushed face, or high blood pressure. In rare severe cases, excessive doses in inappropriate patients have been linked to stroke-like symptoms.
+Gastrointestinal reactions including upper abdominal pain, nausea, and cold sweats can occur, and in serious cases upper gastrointestinal bleeding has been reported. Rare allergic reactions including pallor, palpitations, and shortness of breath have been documented. Always start with the lowest dose and increase gradually.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Lu Rong contains estrogenic compounds (estradiol and estrone have been isolated from its lipid-soluble fraction), which could theoretically affect hormonal balance during pregnancy. Its strong warm and ascending nature, combined with its Blood-moving properties (the Shen Nong Ben Cao Jing lists it for treating 'foul blood'), raises concerns about potentially disturbing the fetus. Most modern Chinese sources list pregnancy as a cautionary situation rather than an absolute contraindication, but it should only be used under direct professional supervision with a clear clinical indication.
+- **Breastfeeding**: There are no specific classical or modern studies evaluating the safety of Lu Rong during breastfeeding. Because Lu Rong contains hormonally active compounds (estradiol, estrone), there is a theoretical concern about these substances transferring into breast milk and affecting the nursing infant. Additionally, its strong warming Yang-tonifying properties could potentially affect the composition or flow of breast milk. It is generally advisable to avoid Lu Rong during breastfeeding unless specifically prescribed by a qualified practitioner for a clear postpartum deficiency pattern, and even then starting at the lowest possible dose.
+- **Children**: Lu Rong has a traditional application in pediatrics for children with developmental delays (小儿五迟), including slow development of walking, speech, teeth, hair, or standing. It is used to strengthen bones and promote growth in cases of Kidney essence deficiency. Modern Korean clinical research has evaluated deer antler extract in children and found it to be safe at tested doses over 12 weeks.
+However, because Lu Rong contains estrogenic compounds and is a powerful Yang tonic, it should be used in children only under professional supervision, at reduced doses appropriate to the child's age and weight (typically one-quarter to one-half of adult dosage). It is not suitable for children with any signs of Heat or precocious puberty.
+
+### Drug Interactions
+- Hypoglycaemic medications (e.g. metformin, sulfonylureas): Lu Rong contains glucocorticoid-like substances that can raise blood sugar, potentially reducing the effectiveness of blood sugar-lowering drugs.
+- Aspirin and salicylate-based NSAIDs: Concurrent use may increase the risk of gastrointestinal irritation and ulceration.
+- MAO inhibitors: Lu Rong should not be used together with monoamine oxidase inhibitor drugs. The combination may cause adverse reactions related to amine metabolism.
+- Chloral hydrate: Lu Rong may antagonize the effects of this sedative.
+- Anticoagulant/antiplatelet drugs: Lu Rong has Blood-moving properties and contains estrogenic compounds that could theoretically interact with warfarin or similar medications. Caution is advised.
+- Hormone therapies: Because Lu Rong contains measurable levels of estradiol and estrone, it may interact with hormonal medications including oral contraceptives, hormone replacement therapy, or anti-estrogen drugs used in cancer treatment.
+
+### Dietary Advice
+Avoid cold and raw foods (cold fruits, salads, iced drinks) while taking Lu Rong, as these may impair the Spleen's ability to absorb its rich, tonifying properties and cause digestive discomfort.
+Avoid foods and beverages high in tannins (strong tea, unripe persimmons, certain dark fruits) as tannins can react with and degrade the active components of Lu Rong.
+Avoid tyramine-rich foods while taking Lu Rong, including aged cheese, fermented tofu (腐乳), cured meats, pickled fish, broad beans, chocolate, yeast products, and red wine. These may interact with Lu Rong's bioactive amines and potentially cause a sharp rise in blood pressure.
+Warm, easily digestible foods that support Spleen function are most appropriate as accompaniments.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Lu Rong is not derived from a plant but from an animal source. It comes from the immature, unossified antlers of male deer that are still soft, spongy, and covered in a fine velvety hair. Two species are used medicinally: the Sika deer (Cervus nippon Temminck), known as the "spotted deer" or "plum blossom deer" (梅花鹿), and the Red deer or Elk (Cervus elaphus L.), known in Chinese as "horse deer" (马鹿).
+The Sika deer is a medium-sized deer, 125 to 145 cm in body length and 70 to 100 kg in weight. In summer, its coat is a rich chestnut-red with rows of white spots resembling plum blossoms (hence its Chinese name). In winter, the coat becomes dark grey and the spots fade. Sika deer originally inhabited the mountain forests and steppes of northeastern China but are now overwhelmingly farm-raised.
+Deer antlers are the only mammalian bone structures that completely regenerate every year. Each spring, males shed their old hardened antlers and begin growing new ones at remarkable speed. During this rapid growth phase, the antlers are soft, richly supplied with blood vessels and nerves, and covered in velvety skin. It is at this early stage that the antlers are harvested as Lu Rong. Once the antlers fully calcify and harden, they become Lu Jiao (鹿角, Deer Antler), a distinct and much less potent medicinal substance.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to early autumn (typically June through August), when the male deer's new antlers are still soft, spongy, and covered in velvet. The antlers are sawed off early in the morning before feeding.
+- **Primary Growing Regions**: Sika deer (花鹿茸, Hua Lu Rong): Primarily from Jilin and Liaoning provinces in northeastern China. These are considered the finest quality (道地药材). Almost all are now farm-raised rather than wild-caught, as Sika deer are a Class I protected species in China.
+Red deer / Elk (马鹿茸, Ma Lu Rong): From two main regions. "Eastern Ma Rong" (东马茸) from Heilongjiang and Jilin provinces is considered superior quality. "Western Ma Rong" (西马茸) comes from Xinjiang, Qinghai, Sichuan, and other western provinces but is generally considered lower quality.
+Internationally, New Zealand is now one of the world's largest producers of deer antler velvet from farmed Red deer. Canada and the United States also produce significant quantities from Elk.
+- **Quality Indicators**: The highest quality Lu Rong comes from Sika deer (花鹿茸), which is preferred over Red deer antler (马鹿茸). Within Sika deer antler, the "two-tined" form (二杠) is most prized.
+Good quality indicators:
+- Outer skin: red-brown or brown, smooth and lustrous, with fine, dense reddish-yellow or brownish-yellow velvet hairs (denser at the top, sparser at the bottom)
+- Cross-section (saw cut): yellowish-white, with no hardened bone around the outer edge. The centre should show dense, fine honeycomb-like pores. This is critical for distinguishing quality.
+- Texture: light in weight, soft yet resilient. Should not feel heavy or hard (heaviness indicates ossification).
+- Smell and taste: faintly fishy smell, slightly salty taste.
+- The skin and velvet should be tightly adherent to the underlying tissue, not peeling.
+- A grey-black vein (筋脉) runs between the fork of the branches.
+Top slices (蜡片/血片) from the tip are semi-translucent, yellowish-white, waxy in appearance, and most highly valued. Lower sections become progressively more calcified and less potent.
+Avoid: antlers that are heavy, hard, or show visible bone at the cross-section (indicating over-maturation). Second-harvest antler (二茬茸) is lower quality, with rougher hair, greyer skin, and more ossification at the saw cut.
+
+### Identity & Adulterants
+Lu Rong is one of the most commonly adulterated expensive Chinese medicines due to its high cost.
+Common substitutes and adulterants:
+1. Dyed or processed mature deer antler (鹿角, Lu Jiao) sliced to resemble Lu Rong. Distinguished by: heavier weight, hard and difficult to break, brownish-purple cross-section without the fine honeycomb pores characteristic of genuine Lu Rong.
+2. Fake Lu Rong made from animal skin wrapped around bone glue or other animal bone material. Distinguished by: the outer skin can be peeled away from the core material, cross-section lacks the honeycomb pore structure, and the smell is fishy but the taste is bland.
+3. Antlers from non-standard deer species (non-Cervus nippon or non-Cervus elaphus). These may have different chemical profiles and potency.
+4. Deer antler glue (鹿角胶, Lu Jiao Jiao) and deer antler dregs (鹿角霜, Lu Jiao Shuang) are sometimes used as less expensive substitutes. While these are legitimate medicines, they are significantly weaker than Lu Rong in Yang-tonifying effect.
+PCR-based authentication methods have been developed to verify species identity in commercial products.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 鹿茸，味甘温。主漏下恶血，寒热，惊痫，益气强志，生齿不老。
+- **Translation**: Lu Rong, sweet in flavour and warm in nature. Governs uterine bleeding with foul blood, alternating chills and fever, fright epilepsy. It supplements Qi and strengthens the will, promotes tooth growth and prevents aging.
+
+### Historical Context
+Lu Rong has one of the longest recorded histories of any animal-derived medicine in China. The earliest known reference to deer antler velvet as medicine was found on a silk scroll recovered from a tomb in Hunan Province dating back approximately 2,000 years, listing over 50 diseases for which it was used. The Shen Nong Ben Cao Jing classified Lu Rong as a "middle grade" (中品) medicine, describing its ability to treat uterine bleeding, fright, and to strengthen the will.
+The deer was given the poetic name "Spotted Dragon" (斑龙) in the Yuan Dynasty text Dan Liao Ji Yan Fang (《澹寮集验方》). According to legend, a Daoist in the Sichuan drug market sold pills called "Spotted Dragon Pills" (斑龙丸) made from Lu Rong, Lu Jiao Jiao, and Lu Jiao Shuang, singing: "Only the pearl atop the spotted dragon's head can replenish the jade hall's gate below" (惟有斑龙顶上珠，能补玉堂关下穴). Li Shizhen recorded this anecdote in the Ben Cao Gang Mu.
+Throughout Chinese history, Lu Rong has been paired with Ren Shen (Ginseng) as the two supreme tonics, with the saying "Shen for Qi, Rong for Yang" reflecting their complementary roles. Together with Dong Chong Xia Cao (Cordyceps), these three are considered the "Three Medicinal Treasures" (三大名贵药材) of China. The famous physician Cao Bingzhang cautioned that Lu Rong's power of ascending through the Du (Governor) channel to the brain means it must be used starting from very small doses, gradually increasing. He noted that "大虚缓补" (great deficiency requires gentle, gradual supplementation) is the guiding principle, and reckless large doses in those with hidden Heat can cause nosebleeds, blood in urine, dizziness, or even stroke-like episodes.
+
+### Modern Scientific Research
+1. **[Systematic review of RCTs on velvet antler supplements (2012)](https://pubmed.ncbi.nlm.nih.gov/23321886/)**
+   *Journal: Gilbey A, Perezgonzalez JD. New Zealand Medical Journal, 2012, 125(1367), 80-86.*
+   This systematic review evaluated all available randomized controlled trials of velvet antler supplements for any health condition. Seven RCTs were identified, covering rheumatoid arthritis, osteoarthritis, sexual function, and athletic performance. The review found that two RCTs reported some positive effects but neither was convincing, while the remaining five found no significant effect of velvet antler supplementation. The authors concluded that current evidence does not support clinical efficacy claims.
+
+2. **[RCT on deer antler velvet and muscular strength/endurance (2003)]()**
+   *Journal: Sleivert G, Burke V, Palmer C, Walmsley A, Gerrard D, Haines S, Littlejohn R. International Journal of Sport Nutrition and Exercise Metabolism, 2003, 13(3), 251-265.*
+   This double-blind RCT assigned 38 active males to deer antler velvet extract, powder, or placebo groups alongside a 10-week strength program. The powder group showed greater isokinetic knee extensor strength and endurance gains compared to placebo, but no changes were found in testosterone, IGF-1, erythropoietin, red cell mass, or aerobic capacity in any group. The authors noted the inconsistent findings required further investigation and did not support an erythropoietic or aerobic ergogenic effect.
+
+3. **[Safety of deer antler extract in children: 12-week RCT (2024)]()**
+   *Journal: Kim HY, Seo HS, Seo HA, Doh TY, Chang GT, Lee JY, Lee SH. Medicine (Baltimore), 2024, 103(18), e37970.*
+   This randomized, double-blind, placebo-controlled trial evaluated the safety of deer antler extract in 100 children over 12 weeks. Three participants in the treatment group and two in the placebo group reported adverse drug reactions. Laboratory tests showed no clinically significant differences between groups. The study concluded that deer antler extract at the tested dose appeared safe in pediatric populations, though the authors noted that further studies with larger sample sizes are needed.
+
+4. **[Review of deer antler velvet polypeptides and pharmacological advances (2024)]()**
+   *Journal: Sun H, Xiao D, Liu W, Li X, Lin Z, Li Y, Ding Y. Naunyn-Schmiedeberg's Archives of Pharmacology, 2024, 397(1), 15-31.*
+   This comprehensive review summarized 30 years (1992-2023) of research on active polypeptides isolated from deer antler velvet. The review found that these polypeptides demonstrate effects on the motor system (promoting bone growth, cartilage repair, and anti-osteoporosis activity), the nervous system (neuroprotective effects in animal models), and the immune system (immunomodulatory activities). The review was limited to preclinical evidence and noted that clinical translation remains an area requiring further study.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/lu-rong](https://www.meandqi.com/knowledge-base/herbs/lu-rong)*

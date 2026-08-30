@@ -1,0 +1,194 @@
+# Shi Chang Pu (石菖蒲)
+**English Name**: Acorus rhizome  
+**Category**: Aromatic substances that open the orifices (开窍药)  
+**Scientific Name**: Acorus tatarinowii Schott  
+**Pharmaceutical Name**: Acori Tatarinowii Rhizoma  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ), Aromatic (芳香 fāng xiāng)  
+**Channels Entered**: Heart, Stomach  
+**Parts Used**: Rhizome (根茎 gēn jīng)  
+
+---
+
+## Summary
+Shi Chang Pu is an aromatic herb prized in Chinese medicine for clearing mental fog and sharpening thinking. It is best known for helping with poor memory, confusion, and digestive discomfort caused by excess internal dampness. Its fragrant nature also helps settle the mind and promote restful sleep.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Cognitive Health and Memory, Digestive Health, Mental Clarity and Focus, Sleep and Anxiety Support
+- **TCM Actions**: Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach, Harmonizes the Middle Burner, Calms the Spirit
+
+### How these actions work
+'Opens the orifices and dislodges Phlegm' means Shi Chang Pu uses its aromatic, warm nature to cut through turbid Phlegm that has clouded the mind. In TCM, when thick, sticky Phlegm blocks the Heart's sensory openings, a person may become confused, lose consciousness, or be unable to speak. Shi Chang Pu's pungent fragrance penetrates these blockages and restores mental clarity. This is its most important action and the reason it is classified among the orifice-opening herbs. It is used for conditions ranging from stroke-related unconsciousness to epileptic episodes where Phlegm mists the mind.
+'Awakens the spirit and sharpens the mind' refers to this herb's celebrated ability to improve memory, focus, and mental alertness. Classical texts describe it as 'opening the Heart orifice' and 'making one clever and not forgetful.' This action applies to forgetfulness, poor concentration, tinnitus, and hearing loss, especially when these are caused by Phlegm or Dampness dulling the senses. It is a cornerstone herb in formulas for dementia and cognitive decline.
+'Transforms Dampness and opens the Stomach' reflects the herb's aromatic quality, which dries up sluggish Dampness that bogs down the digestive system. When the Spleen and Stomach are weighed down by Dampness, a person may feel bloated, lose their appetite, or have a heavy, greasy tongue coating. Shi Chang Pu revives the Stomach's function and restores the desire to eat. It is specifically used for a condition called 'lockjaw dysentery' (jin kou li), where severe diarrhea causes the patient to refuse all food.
+'Calms the spirit' describes how Shi Chang Pu, by clearing Phlegm from the Heart, indirectly settles restlessness, anxiety, and insomnia. When the Heart is no longer obstructed by Phlegm, the spirit can rest peacefully. It is often added to calming formulas to enhance their effect.
+
+---
+
+## Patterns Addressed
+### Phlegm Misting the Heart
+- **Explanation**: When turbid Phlegm obstructs the Heart orifice, it blocks the spirit's ability to function, leading to clouded consciousness, confusion, or even total unconsciousness. Shi Chang Pu's warm, pungent, aromatic nature makes it uniquely suited to penetrate this Phlegm obstruction. Its acrid taste disperses and mobilizes stagnant Phlegm, while its aromatic quality cuts through turbidity to restore clarity to the Heart's sensory functions. It enters the Heart channel directly, allowing it to work precisely where the blockage occurs. This is Shi Chang Pu's primary and most important pattern indication.
+- **Clinical Signs & Symptoms**:
+  - **Excessive Phlegm**: Copious phlegm with thick, greasy tongue coating
+
+### Damp-Phlegm
+- **Explanation**: When Dampness accumulates in the Middle Burner (Spleen and Stomach), it can congeal into Phlegm that obstructs the flow of Qi and dulls both digestion and mental function. Shi Chang Pu's aromatic warmth is ideal for transforming this Dampness. Its bitter taste dries excess moisture, while its pungent taste mobilizes stagnant Qi in the digestive system. Because it enters the Stomach channel, it acts directly on the site of Damp accumulation, reviving the Stomach's ability to receive and process food. This pattern often presents with both digestive and cognitive complaints, and Shi Chang Pu addresses both simultaneously.
+- **Clinical Signs & Symptoms**:
+  - **Brain Fog**: Mental heaviness and poor concentration
+
+### Heart Qi Deficiency
+- **Explanation**: When Heart Qi is insufficient, the spirit lacks the support it needs to stay alert and anchored, resulting in forgetfulness, anxiety, and restless sleep. While Shi Chang Pu does not directly tonify Qi, it opens the Heart orifice and clears any mild Phlegm or turbidity that further impairs the already weakened Heart. Classical texts note it 'opens the Heart aperture' to benefit intelligence and memory. In this pattern it is always combined with Qi-tonifying herbs like Ren Shen (Ginseng) and calming herbs like Fu Ling (Poria), as in the classical formula Kai Xin San. Shi Chang Pu contributes by ensuring the Heart's channels remain open so that the tonifying herbs can reach their target.
+- **Clinical Signs & Symptoms**:
+  - **Forgetfulness**: Poor memory and forgetfulness
+
+---
+
+## Commonly Used For
+### Dementia
+- **Arises from**: Phlegm Misting the Heart, Heart Qi Deficiency
+- **TCM Interpretation**: TCM understands dementia as a condition where the brain (the 'Sea of Marrow') loses nourishment and the Heart orifice becomes obstructed. The core pathology typically involves a combination of deficiency and excess: the Kidneys fail to produce enough Essence to fill the brain, the Spleen and Heart become too weak to sustain mental clarity, and turbid Phlegm and Blood stasis accumulate in the channels of the head, further blocking cognition. This is described as a pattern of 'deficiency at the root with excess (Phlegm, stasis) at the branch.' The progressive accumulation of Phlegm turbidity that mists the Heart orifice is considered the most clinically actionable part of this pathology.
+- **Why it Helps**: Shi Chang Pu directly addresses the Phlegm-turbidity component of dementia. Its warm, aromatic nature penetrates the Heart orifice, cutting through the Phlegm that clouds mental function. Modern frequency analysis of prescriptions for dementia and cognitive impairment consistently ranks Shi Chang Pu as the single most commonly used herb. The classical formula Kai Xin San (Opening the Heart Powder), which pairs Shi Chang Pu with Ren Shen, Yuan Zhi, and Fu Ling, was specifically designed for forgetfulness and has been a cornerstone treatment for cognitive decline for over a thousand years. The herb's volatile oils (particularly beta-asarone) have been shown in laboratory studies to protect nerve cells, improve learning and memory in animal models, and reduce the aggregation of amyloid-beta protein.
+
+### Epilepsy
+- **Arises from**: Phlegm Misting the Heart
+- **TCM Interpretation**: TCM views epilepsy as a condition where Wind and Phlegm periodically obstruct the Heart orifice and disturb the spirit. The classical physician Zhu Danxi wrote that epilepsy is fundamentally about 'Phlegm and drool blocking and stuffing the orifices.' Between episodes, Phlegm lies dormant. When it is stirred up by internal Wind, emotional triggers, or overexertion, it surges upward to block the sensory openings, causing loss of consciousness, convulsions, and abnormal vocalizations. The organs most involved are the Heart (which houses the spirit), the Liver (which generates Wind), and the Spleen (whose weakness allows Phlegm to form).
+- **Why it Helps**: Shi Chang Pu's core action of dislodging Phlegm from the Heart orifice makes it exceptionally well-suited for epilepsy. Frequency analyses of both ancient and modern prescriptions for epilepsy consistently rank Shi Chang Pu as the most commonly used herb. Its pungent warmth disperses the Phlegm that triggers seizures, while its aromatic quality helps restore clarity after an episode. It is commonly paired with Dan Nan Xing (bile-processed Arisaema) to strengthen Phlegm-clearing power, and with Yuan Zhi (Polygala) to calm the spirit. In the classical formula Ding Xian Wan (Stabilize Epilepsy Pill), Shi Chang Pu works alongside Wind-calming and Phlegm-transforming herbs to reduce seizure frequency.
+
+### Tinnitus
+- **Arises from**: Damp-Phlegm
+- **TCM Interpretation**: While tinnitus has many TCM causes (Kidney deficiency, Liver Fire rising, etc.), the type that responds to Shi Chang Pu involves Dampness and Phlegm obstructing the ear's sensory function. When turbid Dampness clogs the channels leading to the ears, clear Qi cannot ascend to nourish hearing, resulting in ringing, buzzing, or muffled hearing. This type of tinnitus typically accompanies a sensation of heaviness in the head, a greasy tongue coating, and digestive sluggishness.
+- **Why it Helps**: Shi Chang Pu's aromatic quality opens the sensory orifices, and classical texts specifically list it for 'opening the ears and brightening the eyes.' Its ability to transform Dampness and dislodge Phlegm helps clear the turbidity that blocks hearing. The Shen Nong Ben Cao Jing (the earliest Chinese herbal classic) notes that it 'opens the nine orifices and brightens the ears and eyes.' It is commonly paired with Yuan Zhi and Fu Ling for tinnitus with poor memory, as in An Shen Ding Zhi Wan.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-9g
+- **Maximum Dosage**: Up to 30g in severe conditions such as stroke with loss of consciousness or status epilepticus, but only under close practitioner supervision and for short duration.
+- **Dosage Notes**: Use lower doses (3-6g) for aromatic opening of the orifices and resolving phlegm when combined with other herbs in formula. Higher doses (9-15g) may be used for dampness obstructing the middle burner with epigastric distension. In severe neurological conditions such as stroke with unconsciousness, experienced practitioners have used up to 30g. When using fresh herb (鲜品), double the dried herb dosage. As the herb is rich in volatile oils, it should not be decocted for extended periods to preserve its aromatic therapeutic properties. When taken as powder, the dose is 1-3g per administration.
+- **Preparation**: Add near the end of decoction (后下, hou xia). Shi Chang Pu is rich in volatile aromatic oils that are its primary active therapeutic components. Prolonged boiling destroys these oils and significantly reduces effectiveness. Add to the decoction during the last 5-10 minutes of cooking. When the fresh herb is available, it is preferred for treating acute phlegm-heat clouding the mind.
+
+---
+
+## Processing Methods
+### Xi&#x101;n Sh&#xED; Ch&#x101;ng P&#xFA; (&#x9C9C;&#x77F3;&#x83D6;&#x84B2;)
+- **Processing Method**: Fresh rhizome used immediately after harvesting, without drying. Washed and sliced or juiced directly.
+- **How it Changes Properties**: The fresh form retains more volatile aromatic compounds, making it stronger at clearing Heat and opening orifices. It is slightly more cooling than the dried form and has a more powerful aromatic penetrating quality.
+- **When to Use**: Preferred for acute Phlegm-Heat clouding the mind, such as in high fevers with delirium or altered consciousness. The fresh form's stronger aromatic action is better suited to emergency orifice-opening.
+
+### Ji&#x101;ng Zh&#xEC; Sh&#xED; Ch&#x101;ng P&#xFA; (&#x59DC;&#x5236;&#x77F3;&#x83D6;&#x84B2;)
+- **Processing Method**: Clean Shi Chang Pu slices are mixed with ginger juice, then stir-fried over medium heat until dry. Ratio: 12.5 kg fresh ginger per 100 kg Shi Chang Pu.
+- **How it Changes Properties**: Ginger processing enhances the herb's warming nature and strengthens its ability to transform Dampness and stop vomiting. The added warmth makes it more effective at penetrating cold-Damp obstruction.
+- **When to Use**: When Dampness in the Stomach is combined with nausea and vomiting, or when the patient has a particularly cold constitution where the standard form's warmth is insufficient.
+
+### F&#x16B; Ch&#x1CE;o Sh&#xED; Ch&#x101;ng P&#xFA; (&#x9EB8;&#x7092;&#x77F3;&#x83D6;&#x84B2;)
+- **Processing Method**: Wheat bran is scattered in a hot pan until smoking, then clean Shi Chang Pu slices are added and stir-fried over gentle heat until yellowish. Ratio: 12.5 kg bran per 100 kg Shi Chang Pu.
+- **How it Changes Properties**: Bran-frying moderates the herb's pungent, dispersing nature and strengthens its effect on the Spleen and Stomach. It becomes gentler and more focused on harmonizing digestion rather than strongly opening orifices.
+- **When to Use**: When the primary goal is to transform Dampness and open the Stomach in patients with Spleen-Stomach weakness, where the raw form's strong aromatic dispersing quality might be too drying.
+
+---
+
+## Common Herb Pairs
+### Yuan Zhi (Ratio: 1:1 (commonly 6-10g each))
+- **Description**: Shi Chang Pu and Yuan Zhi are the most celebrated herb pair for opening the Heart orifice. Shi Chang Pu uses its pungent, aromatic warmth to disperse and mobilize Phlegm-Dampness upward and outward, while Yuan Zhi uses its bitter quality to drive Phlegm downward and expel it. Together they clear Phlegm from both directions, calm the spirit, and sharpen the mind. Both enter the Heart channel, reinforcing each other's orifice-opening effect.
+- **When to Use**: Phlegm obstructing the Heart orifice causing poor memory, forgetfulness, insomnia, dementia, or confusion. Also for tinnitus and deafness due to Phlegm turbidity.
+
+### Yu Jin (Ratio: 1:1 (commonly 6-10g each))
+- **Description**: Shi Chang Pu opens the orifices by transforming Phlegm with its warm, aromatic nature, while Yu Jin (Turmeric tuber) clears Heat, cools the Blood, and moves Qi stagnation. Together they address the common clinical scenario where both Phlegm turbidity and Heat obstruct the Heart, causing altered consciousness with agitation. Yu Jin's cooling and Blood-moving properties balance Shi Chang Pu's warmth.
+- **When to Use**: Damp-Heat or Phlegm-Heat clouding the mind, such as in warm-febrile diseases with delirium, or in depression and anxiety with Phlegm-Qi stagnation.
+
+### Ban Xia (Ratio: 1:2 (Shi Chang Pu 5-10g : Ban Xia 10-15g))
+- **Description**: Shi Chang Pu opens the orifices and transforms Dampness from the upper body, while Ban Xia (Pinellia) is one of the strongest herbs for drying Dampness and dissolving Phlegm in the middle and lower body. Together they form a powerful combination that eliminates Phlegm at multiple levels, from clearing the mind to settling the stomach.
+- **When to Use**: Phlegm-turbidity blocking both the mind and the digestive system, such as in stroke with unconsciousness and abundant phlegm, or in epilepsy with copious sputum.
+
+### Ren Shen (Ratio: 1:4 in Kai Xin San (Shi Chang Pu 3g : Ren Shen 12g), though ratios vary by formula)
+- **Description**: Shi Chang Pu opens the Heart orifice and clears Phlegm-turbidity, while Ren Shen (Ginseng) powerfully tonifies Heart and Spleen Qi. Together they address the root-and-branch pathology of cognitive decline: Ren Shen replenishes the Qi that has become too weak to keep the mind sharp, and Shi Chang Pu clears the Phlegm that has taken advantage of this weakness to cloud the orifices. This is the core herb pair in the classical formula Kai Xin San.
+- **When to Use**: Forgetfulness, poor concentration, and cognitive decline due to Heart-Spleen Qi deficiency with secondary Phlegm accumulation. Also for dementia and age-related memory loss.
+
+---
+
+## Key Formulas
+Di Tan Tang, Ding Zhi Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Shi Chang Pu is classified as non-toxic in the Shen Nong Ben Cao Jing (top grade) and is generally safe at standard dosages. However, its volatile oil contains beta-asarone and alpha-asarone, which at very high concentrations have shown potential genotoxic and hepatotoxic effects in laboratory studies. The European Council limits beta-asarone content to 1 mg/kg in alcoholic beverages for this reason. At normal clinical decoction doses (3-9g), these volatile compounds are present in very small quantities and the herb has a long history of safe use. Overdose may cause nausea, vomiting, dizziness, skin flushing, and in rare cases blood in the urine or elevated blood pressure. Prolonged overuse may deplete Qi and fluids due to the herb's acrid, dispersing nature.
+
+### Contraindications
+- **[Caution]** Yin deficiency with Yang rising (阴虚阳亢): Shi Chang Pu is acrid, warm, and aromatic with a drying tendency. In people who already have insufficient Yin fluids with rising Heat signs (hot flashes, night sweats, irritability, dizziness), it may further deplete Yin and worsen symptoms.
+- **[Caution]** Excessive sweating or fluid depletion: The herb's acrid, dispersing, and aromatic nature can further consume body fluids. It should be avoided when profuse sweating, dry cough, or vomiting of blood are present.
+- **[Caution]** Seminal emission or spermatorrhea (精滑): Classical sources caution against use in people with involuntary seminal loss, as its dispersing quality may worsen this condition.
+- **[Caution]** Peptic ulcer disease: Shi Chang Pu stimulates digestive secretions and may aggravate existing ulcers. Use with caution in people with active gastric or duodenal ulcers.
+- **[Caution]** Infants and very young children: Due to its central nervous system depressant effects at higher doses, extra caution is warranted. Should only be used under strict practitioner supervision with significantly reduced dosage.
+
+### Classical Incompatibilities
+Shi Chang Pu does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, traditional Materia Medica sources record that it is "averse to" (恶) Ma Huang (Ephedra) and should be avoided with Di Dan (ground beetle / Eupolyphaga). Classical dietary prohibitions note it should not be used with maltose (饴糖), lamb/mutton (羊肉), or prepared in iron vessels.
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Pharmacological studies have shown that alpha-asarone, a major volatile oil component of Shi Chang Pu, can affect uterine smooth muscle activity. The herb's acrid, dispersing, and aromatic nature may potentially disturb fetal stability. Additionally, laboratory research has raised concerns about the genotoxic and teratogenic potential of beta-asarone at high doses. Classical sources also note caution, with the Ben Cao Xin Bian mentioning that calming fetal restlessness requires substantial doses of Bai Zhu rather than Shi Chang Pu, implying it is not considered safe for the fetus.
+- **Breastfeeding**: No specific classical or modern safety data exists for Shi Chang Pu during breastfeeding. Because the herb contains volatile aromatic compounds (asarones) that are lipophilic and could theoretically transfer into breast milk, caution is advised. Its effects on the central nervous system, including sedative properties at certain doses, suggest it should be used during breastfeeding only when clearly indicated and under practitioner supervision. Short-term use at low doses in formula combinations is generally considered acceptable.
+- **Children**: Shi Chang Pu has central nervous system depressant effects at higher doses and should be used cautiously in infants and young children. Dosage should be significantly reduced according to age and body weight, typically one-third to one-half the adult dose for children over 3 years. It is not recommended for infants under 1 year old without specific clinical indication. When used in children for conditions such as epilepsy or speech delay, it should always be prescribed and monitored by a qualified practitioner.
+
+### Drug Interactions
+Iron supplements (ferrous sulfate): Traditional sources prohibit preparation in iron vessels, and modern guidance extends this to avoiding concurrent use with iron-containing medications, as interactions may cause nausea and reduce the effectiveness of both.
+Acetylcholine and cholinergic drugs: Shi Chang Pu has been reported to interact with acetylcholine, potentially altering cholinergic signaling. Concurrent use with cholinesterase inhibitors (e.g. donepezil, rivastigmine) should be approached with caution.
+Sedative and CNS-depressant medications: The herb has demonstrated sedative and anticonvulsant effects in pharmacological studies. Combined use with benzodiazepines, barbiturates, or other CNS depressants may result in additive sedation.
+Anticoagulant medications: Some studies suggest the herb may promote blood circulation. Patients on warfarin or other anticoagulants should be monitored for potential additive effects.
+
+### Dietary Advice
+Avoid lamb/mutton and maltose (饴糖, malt sugar) while taking Shi Chang Pu, as these are traditionally considered incompatible. Avoid cold, raw, and greasy foods that may generate phlegm-dampness and counteract the herb's phlegm-resolving effects. Foods rich in iron (organ meats, spinach, seaweed) should also be limited during use, as classical sources caution against combining Shi Chang Pu with iron. Light, easily digestible foods that support the Spleen and Stomach are recommended.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Acorus tatarinowii Schott (family Acoraceae) is a perennial evergreen herbaceous plant that typically grows 20 to 30 cm tall. It has a creeping, aromatic rhizome that clings to rocks along stream banks, mountain ravines, and the edges of shallow waterways. The leaves are sword-shaped (ensiform), erect, narrow, bright green, and arranged in a fan-like pattern from the base. When crushed, both the leaves and rhizome release a strong, characteristic aromatic fragrance.
+The plant produces a small, cylindrical spadix inflorescence with tiny yellowish-green bisexual flowers. It rarely sets seed and spreads primarily through rhizome division. Unlike the larger water calamus (Acorus calamus), which grows in muddy swamps and can reach over one meter tall, Shi Chang Pu specifically favors stony substrates in running water and remains much smaller. This preference for growing on rocks in mountain streams is the origin of the character 石 ("stone") in its name.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn and winter (秋、冬二季), when the rhizome is most aromatic and the volatile oil content is highest.
+- **Primary Growing Regions**: Shi Chang Pu is widely distributed across southern and central China. The traditional "terroir" regions (道地药材) producing the highest quality are Sichuan Province and Anhui Province, particularly the areas historically known as Shu (蜀) and Chi Zhou (池州). Other major producing regions include Jiangsu, Zhejiang, Hunan, and Guangxi provinces. The plant grows wild in mountain stream valleys and rocky waterways throughout these areas, and is predominantly harvested from wild populations rather than cultivated.
+- **Quality Indicators**: High-quality Shi Chang Pu rhizome should be dry, long, thick, firm, and compact with densely packed nodes. The classical standard is "one inch with nine nodes" (一寸九节), meaning the internodes are very short and tightly spaced. The exterior should be brownish or grey-brown. The cross-section should be fibrous, whitish to slightly reddish, with a clearly visible endodermis ring and visible oil dots. The aroma should be strongly fragrant and distinctive. The taste should be bitter with a slightly pungent aftertaste. Avoid material that is thin, loosely noded, dark, musty, or lacking in aroma. Material must come from the stone-growing species (Acorus tatarinowii) and not the swamp-growing water calamus (Acorus calamus).
+
+### Identity & Adulterants
+Shi Chang Pu is frequently confused with two related but distinct herbs:
+1. Shui Chang Pu (水菖蒲, Acorus calamus): The water calamus. Same family but much larger (up to 1 meter), grows in swampy mud rather than on rocks. Its volatile oil profile differs significantly, with characteristic compound concentrations less than half those of true Shi Chang Pu. It is not listed in the Chinese Pharmacopoeia as an official medicinal herb.
+2. Jiu Jie Chang Pu (九节菖蒲, Anemone altaica): An entirely different plant from the Ranunculaceae (buttercup) family, not related to Acorus at all. It has some toxicity and different therapeutic actions. Despite sharing a similar common name, it should never be substituted for Shi Chang Pu.
+To distinguish authentic material: true Shi Chang Pu rhizome is slender with very tight, dense nodes (classically "nine nodes per inch"), a strong aromatic scent, and a fibrous cross-section with clear oil dots. Shui Chang Pu is thicker and spongier with wider internodes and a weaker, less refined aroma.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 菖蒲，味辛，温。主风寒湿痹，咳逆上气，开心孔，补五脏，通九窍，明耳目，出音声。久服轻身，不忘，不迷惑，延年。
+- **Translation**: Calamus (Chang Pu): acrid in flavor, warm in nature. It governs wind-cold-damp painful obstruction and cough with counterflow of Qi. It opens the apertures of the Heart, supplements the five Zang organs, frees the nine orifices, brightens the ears and eyes, and restores the voice. Taken over a long period, it lightens the body, prevents forgetfulness and confusion, and extends life.
+
+### Historical Context
+Shi Chang Pu holds a unique place in Chinese culture that extends far beyond medicine. First recorded in the Shen Nong Ben Cao Jing as a top-grade herb, it was revered by Daoist practitioners who valued it for what they believed were longevity-promoting and mind-clarifying properties. The Xian Jing (Classic of Immortals) called it "the essence of water grasses, the spirit-medicine of immortals." Li Shizhen explained the name's etymology: "Chang Pu" means "the most flourishing of the rushes," while the prefix "Shi" (stone) was added to distinguish the superior medicinal variety that grows on rocks from the inferior types found in mud or swamps.
+Culturally, Shi Chang Pu is one of the traditional plants of the Dragon Boat Festival (Duanwu). Bundles of calamus leaves, shaped like swords, are hung above doorways alongside mugwort to ward off pestilence. A folk saying captures this: "Hang artemisia flags to drive a hundred diseases; suspend calamus swords to cut down a thousand evils." Calamus wine (Chang Pu Jiu) has been consumed since the Han Dynasty and was prized by imperial courts. The Ming Dynasty story of the eccentric Zhou Dian, who taught the founding emperor Zhu Yuanzhang to chew calamus root for abdominal pain during military campaigns, is recorded in the Ben Cao Gang Mu. Additionally, Shi Chang Pu was treasured as a scholar's desk plant, grouped with orchid, chrysanthemum, and narcissus as one of the "Four Elegant Plants of the Study" (花草四雅). It was believed to absorb lampblack soot and protect the eyes during nighttime reading.
+
+### Modern Scientific Research
+1. **[Comprehensive review of botany, phytochemistry, and pharmacology of A. tatarinowii (2023)]()**
+   *Journal: Wang M, Tang HP, Wang S, et al. Molecules. 2023;28(11):4525.*
+   This review identified over 160 bioactive compounds in Shi Chang Pu, including phenylpropanoids (alpha- and beta-asarone), terpenoids, lignans, and flavonoids. The authors summarized pharmacological effects including neuroprotective, antiepileptic, anticonvulsant, antidepressant, anti-anxiety, and antifungal activities. The review also discussed the toxicity profile of asarones, noting that the European Council has set limits on beta-asarone in food products due to potential genotoxic concerns at high doses.
+
+2. **[Therapeutic potential of Acorus active components in neurological disorders: preclinical and clinical review (2022)]()**
+   *Journal: Kim CJ, Kwak TY, Bae MH, Shin HK, Choi BT. Journal of Pharmacopuncture. 2022;25(4):326-343.*
+   This review compiled 89 studies on extracts and active components of Acorus tatarinowii and Acorus gramineus in neurological disorders including Alzheimer's disease, Parkinson's disease, depression, epilepsy, and stroke. Neuroprotective mechanisms included reduction of pathogenic protein aggregates, anti-apoptotic activity, modulation of autophagy, anti-inflammatory and antioxidant effects, and stimulation of neurotrophic factors. The authors noted that most studies remain preclinical, and clinical trials are still needed.
+
+3. **[Pharmacology and toxicology of alpha- and beta-asarone: preclinical evidence review (2017)]()**
+   *Journal: Chellian R, Pandy V, Mohamed Z. Phytomedicine. 2017;32:41-58.*
+   This review systematically evaluated the pharmacological and toxicological profiles of the two major volatile oil components of Shi Chang Pu. Alpha-asarone demonstrated neuroprotective effects against amyloid-beta toxicity and spatial memory improvement. Beta-asarone showed anticonvulsant, anti-apoptotic, and cognitive-enhancing properties. The review also addressed safety concerns, noting that high-dose or long-term exposure to beta-asarone raised hepatotoxicity and potential carcinogenicity issues in animal models, emphasizing the importance of proper dosage control.
+
+4. **[Beta-asarone attenuates focal cerebral ischemia in a rat middle cerebral artery occlusion model (2013)](https://pubmed.ncbi.nlm.nih.gov/24066702/)**
+   *Journal: Yang YX, Chen YT, Zhou XJ, Hong CL, Li CY, Guo JY. BMC Complementary and Alternative Medicine. 2013;13:236.*
+   This preclinical study investigated beta-asarone's protective effects against ischemic stroke in rats. Pre-treatment with beta-asarone significantly improved neurological outcomes after cerebral ischemia and reperfusion, increased antioxidant enzyme activities (glutathione peroxidase, catalase, superoxide dismutase), and reduced oxidative damage markers. The authors concluded that beta-asarone exerts its neuroprotective effect via enhancing antioxidant defense systems.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu](https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu)*

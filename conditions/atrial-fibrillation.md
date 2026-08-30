@@ -1,0 +1,312 @@
+# Atrial Fibrillation (心房颤动)
+**Pinyin**: xīn fáng chàn dòng | **Kind**: Condition | **Category**: Heart Rhythm & Palpitations, Heart Conditions  
+**Synonyms**: AF, AFib, Af Disease, Atrillation Fibrillation, Af Fibrillation, Atrial Fibrillation Afib, Atrial Flutter | **Body Regions**: Chest
+
+---
+
+## Preview Summary
+Atrial fibrillation in TCM is seen not as a single electrical fault, but as a reflection of deeper imbalances in the Heart's Qi, Blood, or the presence of phlegm and heat. With per...
+
+---
+
+## Conventional Medicine View
+### Description
+Atrial fibrillation (AFib) is the most common type of treated heart arrhythmia. In this condition, the upper chambers of the heart (atria) beat irregularly and often rapidly, out of sync with the lower chambers. This can cause symptoms like palpitations, shortness of breath, fatigue, dizziness, and chest discomfort, though some people have no symptoms at all.
+The irregular rhythm increases the risk of blood clots forming in the heart, which can travel to the brain and cause a stroke. Diagnosis is usually confirmed with an electrocardiogram (ECG) or a portable heart monitor worn for several days.
+
+### Treatments
+Standard treatment for atrial fibrillation typically focuses on three goals: controlling the heart rate, restoring normal rhythm, and preventing blood clots. Rate control is often managed with beta-blockers, calcium channel blockers, or digoxin. Rhythm control may involve antiarrhythmic medications, electrical cardioversion, or catheter ablation.
+To reduce stroke risk, anticoagulant (blood-thinning) medications such as warfarin or direct oral anticoagulants (DOACs) are frequently prescribed. Lifestyle changes like limiting alcohol and caffeine are also recommended.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+TCM understands atrial fibrillation primarily as a disturbance of the Heart's ability to govern blood and house the Shen (spirit). The Heart relies on a steady supply of Qi to power each beat, Yin to cool and anchor the rhythm, and Yang to warm and activate it. When any of these are deficient, the heartbeat can become weak, irregular, or fluttery. The same deficiency often leaves you exhausted, breathless, and anxious - because your Heart simply doesn't have the resources to do its job calmly.
+But not all AFib comes from emptiness. Sometimes the problem is too much of something in the wrong place. Phlegm and heat can build up from a rich diet, chronic stress, or unresolved emotions, then rise to harass the Heart. This creates a forceful, chaotic palpitation, often with a heavy chest and a thick yellow tongue coating. In other cases, long-standing Qi deficiency slows blood flow, leading to stagnation that disrupts the heart's electrical rhythm and causes stabbing chest pain.
+Because the Heart doesn't work in isolation, other organ systems are almost always involved. The Spleen may fail to produce enough Qi and Blood, the Liver may stir up wind or fire that rushes upward, and the Kidneys - the root of Yin and Yang for the whole body - may be too depleted to support the Heart. This is why one Western diagnosis can unfold into five or six different TCM patterns, and why treatment must be personalized to the exact pattern you are experiencing.
+
+### Practitioner Diagnosis
+A TCM practitioner begins by listening to how the heartbeat actually feels, and asking about your overall energy, sleep, and mood. The quality of the palpitations-whether they are forceful and chaotic, or faint and fluttery-and the time of day they strike offer the first important clues.
+When fatigue and shortness of breath dominate, and the mouth feels dry, the picture points to Heart Qi and Yin Deficiency. The tongue is pale with little coating, and the pulse is thin and may be slightly rapid. This common pattern reflects a heart that lacks both the energy to pump and the cooling resources to stay calm.
+If palpitations come with anxiety and a timid, unsettled feeling in the chest, Heart Qi Deficiency is more likely. The tongue is pale with a thin white coat, and the pulse is weak and thin. Here, the heart’s energy is simply too low to anchor the spirit, but there is no heat or dryness.
+A rapid, chaotic heartbeat with a heavy or full sensation in the chest suggests Phlegm-Fire harassing the Heart. The tongue is red with a greasy yellow coating, and the pulse feels slippery and rapid. This pattern is driven by turbid heat and phlegm rather than by emptiness, so the person often feels restless and may have a bitter taste in the mouth.
+When palpitations are accompanied by a fixed, stabbing chest pain, Qi Deficiency causing Blood Stagnation is the key pattern. The tongue may appear dark or show purple spots, and the pulse is hesitant or irregular. The heart’s weak energy fails to move the blood, causing stagnation that produces pain.
+If the person feels cold, especially in the hands and feet, and the pulse is deep and slow, Heart Yang Deficiency is present. The tongue is pale and puffy. This pattern reflects a deeper loss of the heart’s warming force, often seen in long-standing conditions.
+Palpitations that worsen at night, along with insomnia, night sweats, and a feeling of heat in the palms, point to Heart Yin Deficiency. The tongue is red with little or no coating, and the pulse is thin and rapid. The cooling, moistening aspect of the heart is depleted, allowing empty heat to disturb the spirit.
+
+### Classical Reference
+> **Original**: 「伤寒脉结代，心动悸，炙甘草汤主之。」
+> 
+> **Translation**: "In cold damage, when the pulse is knotted and intermittent and there is palpitation of the heart, Zhi Gan Cao Tang (Baked Licorice Decoction) governs it."
+> 
+> — Source: *Shang Han Lun (Treatise on Cold Damage)  ,  Line 177 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Heart Qi and Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/heart-qi-and-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Palpitations with a fluttering or missed-beat sensation, Shortness of breath on minimal exertion, Dry mouth with little desire to drink, Night sweats, General fatigue and a weak, soft voice, Restlessness and difficulty falling asleep
+- **Worse with**: Overexertion and physical strain, Emotional stress and worry, Spicy, fried, or warming foods, Alcohol and coffee, Lack of sleep or late nights
+- **Better with**: Rest and avoiding overexertion, Warm, nourishing foods and drinks, Calm, quiet environment, Gentle movement like walking or tai chi
+- **Why this happens (Mechanism)**:
+  Atrial fibrillation is fundamentally a rhythm disorder of the heart. In this pattern, the heart's Qi is too weak to pump steadily, and its Yin-the cooling, moistening resource that anchors the heartbeat-is depleted. The deficiency allows empty heat to flutter upward, disturbing the heart's spirit and producing a chaotic, irregular pulse.
+- **Tongue & Pulse**: Tongue: red or pale-red body, thin and possibly cracked, with a scanty or peeled coating; red dots may appear at the tip. Pulse: fine (细 xì) and rapid (数 shuò), weak at the left Heart position, and may show a knotted (结 jié) or intermittent (代 dài) irregularity.
+- **Triggers & Relief Explanation**: Overexertion and emotional strain drain the heart's Qi, while spicy foods, alcohol, and late nights consume Yin and stir up empty heat-directly aggravating the underlying deficiency that causes the irregular heartbeat. Rest, moistening foods, and gentle movement replenish Qi and Yin, allowing the heart to settle into a steadier rhythm.
+- **Diet & Lifestyle**: Eat small, warm, moistening meals like congee, stewed pears, and bone broths. Avoid spicy, deep-fried, and drying foods, as well as coffee and alcohol, which consume Yin and excite the heart. Gentle daily movement such as walking or tai chi helps Qi flow without draining it. Prioritize a regular sleep schedule and wind down early to protect Yin.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Gan Cao Tang](https://www.meandqi.com/knowledge-base/formulas/zhi-gan-cao-tang)** | Honey-Fried Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Nourishes Yin and Blood, Tonifies Qi, Warms and Unblocks Yang | The classic formula to nourish Heart Qi and Yin, steady the pulse, and calm palpitations. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root |  | Strongly tonifies the original Qi to strengthen the heart&#x27;s pumping force. |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Nourishes Heart Yin and generates fluids to moisten the heart and calm empty heat. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Regulates heart rhythm and calms the spirit; the primary point for palpitations. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the mind and steadies the heartbeat, especially for restlessness and insomnia. |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Tonifies Heart Qi and nourishes Heart Yin directly at the back transport point. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens Qi and blood production to provide sustained support for the heart. |
+
+---
+
+### Heart Qi Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/heart-qi-deficiency)*
+
+- **Clinical Signs & Symptoms**: Palpitations or uncomfortable awareness of heartbeat, Shortness of breath that worsens with exertion, Fatigue and lack of stamina, Pale complexion, Spontaneous daytime sweating, Mild anxiety or unease
+- **Worse with**: Overexertion and physical strain, Emotional stress and worry, Cold exposure, Cold or raw foods and iced drinks, Lack of sleep or late nights
+- **Better with**: Rest and avoiding overexertion, Warm, nourishing foods and drinks, Gentle movement like walking or tai chi, Calm, quiet environment
+- **Why this happens (Mechanism)**:
+  Your heart relies on Qi, your body’s vital force, to pump blood steadily. When heart Qi is weak, it can’t maintain a smooth, regular rhythm, leading to the fluttery, irregular heartbeat of atrial fibrillation. This same Qi shortage leaves you short of breath and exhausted, especially with activity, because your heart can’t meet the body’s demands. The mind (Shen) depends on a strong heart for calm, so weak Qi often brings on a low-level anxiety or unease.
+- **Tongue & Pulse**: Tongue: pale, puffy, with a thin white coat; a midline crack toward the tip may appear in longer-standing cases. Pulse: Empty (Xu) - soft and large on the surface but disappearing under pressure, weakest at the left Cun (Heart) position; may also be Weak or Fine.
+- **Triggers & Relief Explanation**: Overexertion and lack of sleep further drain the already depleted heart Qi, making palpitations and fatigue worse. Cold constricts and slows Qi flow, while raw and cold foods burden the Spleen, the source of new Qi. Rest, warmth, and nourishing foods conserve and replenish Qi, giving the heart the strength to maintain a steady rhythm.
+- **Diet & Lifestyle**: Eat warm, cooked foods like soups and stews to support Qi production; avoid raw, cold foods that drain energy. Gentle daily movement such as walking or tai chi helps build Qi without overtaxing the heart. Prioritize rest and a regular sleep schedule, and manage stress with quiet practices like meditation or deep breathing.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | Tonifies Heart and Spleen Qi, nourishes blood, and calms the spirit, directly addressing the palpitations and anxiety of Heart Qi deficiency. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Powerfully tonifies Qi and strengthens the heart&#x2019;s pumping force. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Boosts Qi and nourishes blood, supporting steady heart function. |
+| **[Suan Zao Ren](https://www.meandqi.com/knowledge-base/herbs/suan-zao-ren)** | Sour jujube seed |  | Calms the mind and eases the anxiety that often accompanies a weak heart. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the heart and regulates rhythm; a master point for palpitations. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Anchors the spirit and steadies the heartbeat. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies overall Qi to strengthen the heart&#x2019;s energy source. |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Directly tonifies Heart Qi and improves cardiac function. |
+
+---
+
+### Phlegm-Fire harassing the Heart
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/phlegm-fire-harassing-the-heart)*
+
+- **Clinical Signs & Symptoms**: Palpitations with a sensation of fullness in the chest, Copious thick yellow sticky phlegm, Mental restlessness, agitation, and severely disturbed sleep, Bitter taste in the mouth and thirst, Red tongue with a thick yellow greasy coating
+- **Worse with**: Rich, greasy, or spicy food, Alcohol and coffee, Emotional stress and anger, Hot, humid weather
+- **Better with**: Cooling foods and drinks, Calm, quiet environment, Gentle breathing exercises
+- **Why this happens (Mechanism)**:
+  Turbid phlegm and excess heat build up in the body, often from a rich diet, chronic stress, or unresolved emotional turmoil. This sticky, heated mixture rises to disturb the Heart, which houses the mind (Shen). When the Heart is agitated by phlegm-fire, its rhythm becomes chaotic and rapid, producing the erratic heartbeat and restlessness that define atrial fibrillation.
+- **Tongue & Pulse**: Tongue: red body, often swollen with a red prickly tip, and a thick yellow greasy coating. Pulse: slippery (滑 huá) and rapid (数 shuò), forceful at the left Cun (Heart) position.
+- **Triggers & Relief Explanation**: Phlegm and heat are the two key drivers of this pattern. Rich, greasy, and spicy foods directly create dampness and phlegm, while alcohol and emotional stress generate fire. Together they rise to agitate the Heart. A cooling, light diet and a calm environment help settle the internal fire and prevent more phlegm from forming, while gentle movement helps the body process the existing phlegm without overheating it.
+- **Diet & Lifestyle**: Eliminate greasy, fried, and spicy foods, as well as alcohol and coffee, which generate phlegm and heat. Focus on light, cooling meals with plenty of vegetables like celery, cucumber, and bitter greens. Gentle daily movement like walking helps circulate Qi and prevent stagnation, but avoid overly vigorous exercise that can overheat the system.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-wen-dan-tang)** | Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE | Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting | The primary formula to clear Heart fire, transform phlegm, and calm the mind, directly addressing the phlegm-heat agitating the Heart. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Clears Heart fire and drains damp-heat, relieving the restlessness and agitation. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries dampness and transforms phlegm, tackling the root of the turbid obstruction. |
+| **[Zhu Ru](https://www.meandqi.com/knowledge-base/herbs/zhu-ru)** | Bamboo shavings |  | Clears heat and resolves phlegm, especially useful for the thick yellow phlegm and chest oppression. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the Heart and spirit, regulates Qi, and relieves palpitations. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point for transforming phlegm and clearing heat from the whole body. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Sedates the Heart and anchors the mind, essential for the restlessness and insomnia. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | Clears Liver fire, which often feeds the Heart fire in this pattern. |
+
+---
+
+### Qi Deficiency causing Blood Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-deficiency-causing-blood-stagnation)*
+
+- **Clinical Signs & Symptoms**: Fixed, stabbing chest pain that worsens with pressure, Extreme fatigue and lack of strength, Dark or dusky facial complexion, Shortness of breath with reluctance to speak, Purple spots or bruising under the skin
+- **Worse with**: Overexertion and physical strain, Emotional stress and worry, Cold or raw foods and iced drinks, Cold or damp weather
+- **Better with**: Rest and avoiding overexertion, Warmth on the chest, Warm, nourishing foods and drinks, Gentle movement like walking or tai chi
+- **Why this happens (Mechanism)**:
+  In TCM, Qi is the force that pushes blood through the vessels. When heart Qi is weak, it cannot move blood efficiently, causing it to slow down and stagnate. This sluggish, sticky flow disrupts the heart's electrical rhythm, producing the chaotic, irregular beat of atrial fibrillation. The trapped blood also creates the fixed, stabbing chest pain that often accompanies the palpitations.
+- **Tongue & Pulse**: Tongue: pale-dark or pale-purple body, possibly with purple stasis spots, teeth marks, and a thin white coat. Pulse: deep, fine or weak, and choppy (涩, sè) - hesitant and rough, like a knife scraping bamboo.
+- **Triggers & Relief Explanation**: This pattern is driven by a weak Qi engine that fails to push blood. Overexertion and stress drain Qi further, making the heartbeat more chaotic. Cold congeals blood and worsens stagnation, which is why warm foods and environments bring relief. Rest and gentle movement conserve Qi while encouraging a smooth, unforced flow of blood, helping the heart regain a steadier rhythm.
+- **Diet & Lifestyle**: Prioritize rest and avoid overexertion, which further depletes Qi. Eat warm, cooked foods like soups and stews, and include small amounts of blood-nourishing ingredients like dark leafy greens, lean meats, and a few goji berries. Avoid cold, raw foods and heavy, greasy meals that tax the digestion and promote stagnation. Gentle daily walking helps move Qi and blood without straining the heart.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Bu Yang Huan Wu Tang](https://www.meandqi.com/knowledge-base/formulas/bu-yang-huan-wu-tang)** | Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals | This formula powerfully tonifies Qi and activates blood circulation, addressing both the root deficiency and the branch stagnation. It is a classic choice for Qi deficiency causing blood stasis, especially when the heart is affected. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Strongly tonifies the Qi to restore the heart&#x27;s pumping power. |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Invigorates the blood and clears stasis from the heart vessels without damaging the Qi. |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Moves blood and Qi in the chest, relieving the fixed, stabbing pain. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the heart spirit and regulates its rhythm. Use with reinforcing technique to support Qi. |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Tonifies heart Qi directly and helps move stagnant blood in the organ. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood circulation and dispels stasis. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Builds overall Qi from the digestive source to strengthen the heart&#x27;s motive force. |
+
+---
+
+### Heart Yang Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/heart-yang-deficiency)*
+
+- **Clinical Signs & Symptoms**: Cold hands and feet, Bright pale face, Palpitations worse with exertion, Chest stuffiness or mild pain, Fatigue and low energy, Mental listlessness
+- **Worse with**: Cold weather and drafts, Emotional stress and fear, Overexertion and physical strain, Cold or raw foods and iced drinks, Heavy, greasy meals
+- **Better with**: Warmth on the chest, Warm, nourishing foods and drinks, Rest and avoiding overexertion, Gentle movement like walking or tai chi, Moxibustion on lower back and abdomen
+- **Why this happens (Mechanism)**:
+  Heart Yang is the body's warming, activating force that drives each heartbeat. When it weakens, the heart lacks the fire needed to maintain a steady rhythm, so it can slip into a slow, irregular beat - atrial fibrillation. The same deficiency fails to warm the limbs and face, leaving you feeling cold, pale, and easily fatigued.
+- **Tongue & Pulse**: Tongue: pale, puffy, tender body with teeth marks, white slippery coating. Pulse: deep, weak, slow, and may be knotted (irregular pauses).
+- **Triggers & Relief Explanation**: Cold directly depletes Heart Yang, making the heartbeat even more sluggish and irregular, while fear and stress consume Qi that the heart desperately needs to stay steady. Overexertion forces a weakened heart to work beyond its capacity. Warmth, rest, and gentle movement conserve and gently stoke the body's fire, and moxibustion adds external Yang to reinforce the heart's warming power.
+- **Diet & Lifestyle**: Keep the chest and back warm, especially in cold weather. Eat warm, cooked meals - soups, stews, and congees - and avoid raw, chilled foods that drain Yang. Gentle daily walks support circulation without overstraining the heart.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | Warms and restores Heart Yang, calms the spirit, and anchors the pulse to address the cold, slow, irregular rhythm. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms and activates Heart Yang to restore the heartbeat&#x27;s driving force. |
+| **[Gan Cao](https://www.meandqi.com/knowledge-base/herbs/gan-cao)** | Licorice root |  | Strengthens Heart Qi and harmonizes the other herbs to steady the pulse. |
+| **[Long Gu](https://www.meandqi.com/knowledge-base/herbs/long-gu)** | Dragon Bone (fossilised mammal bone) |  | Calms the spirit and anchors the heart to reduce palpitations. |
+| **[Mu Li Ke](https://www.meandqi.com/knowledge-base/herbs/mu-li-ke)** | Oyster shell |  | Settles the heart and helps contain the floating Yang, easing the irregular rhythm. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the heart rhythm and opens the chest. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Quiets the spirit and stabilizes the heartbeat. |
+| **BL-15** | [Xinshu BL-15](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15) | X&#x12B;n Sh&#x16B; | Calms the Mind | Tonifies Heart Yang directly; use with moxibustion. |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Raises Yang and lifts the spirit, countering mental listlessness. |
+
+---
+
+### Heart Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/heart-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Palpitations worse at rest or at night, Insomnia with difficulty falling asleep, Night sweats, Feeling of heat in the palms, soles, and chest (five-palm heat), Dry mouth and throat, Malar flush (redness over the cheekbones), Mental restlessness and anxiety
+- **Worse with**: Lack of sleep or late nights, Spicy, fried, or warming foods, Emotional stress and overexcitement, Excessive talking or mental strain
+- **Better with**: Quiet, dark room for rest, Cooling foods and drinks, Early, consistent bedtime
+- **Why this happens (Mechanism)**:
+  The Heart relies on its Yin, the cooling and moistening aspect, to anchor the mind and keep the rhythm steady. When Heart Yin runs low, it can no longer restrain the Heart's Yang, allowing empty heat to flare upward and disturb the spirit. This internal agitation makes the heartbeat feel rapid and chaotic, like a drummer who has lost the tempo, and is often felt more intensely during quiet moments or at night when Yin should be dominant.
+- **Tongue & Pulse**: Tongue: red body, especially at the tip, with little or no coating, sometimes with a midline crack. Pulse: thin (fine) and rapid.
+- **Triggers & Relief Explanation**: Heart Yin is like the cooling oil in an engine. When it is low, even a little friction creates excess heat and a racing idle. Rest and a cool, quiet environment allow the body to conserve and rebuild Yin, while spicy or fried foods and late nights burn through it, aggravating the empty heat that disturbs the heart rhythm.
+- **Diet & Lifestyle**: Prioritize rest and a cool, quiet sleep environment. Eat small, frequent meals that are easy to digest, favoring moistening foods like pear, lily bulb, and black sesame. Avoid overwork, late nights, and prolonged screen time, which all consume Yin.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tian Wang Bu Xin Dan](https://www.meandqi.com/knowledge-base/formulas/tian-wang-bu-xin-dan)** | Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE | Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi | The classic formula to nourish Heart Yin, calm the mind, and clear empty heat, addressing the root of the palpitations and insomnia. |
+| **[Zhi Gan Cao Tang](https://www.meandqi.com/knowledge-base/formulas/zhi-gan-cao-tang)** | Honey-Fried Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Nourishes Yin and Blood, Tonifies Qi, Warms and Unblocks Yang | A classical formula used to nourish the Heart by replenishing both Qi and Blood while gently warming Heart Yang. It is primarily used for people experiencing palpitations, irregular heartbeat, fatigue, and shortness of breath caused by depletion of the body&#x27;s vital substances. Because it simultaneously supports Yin, Yang, Qi, and Blood, it is one of the most balanced restorative formulas in Chinese medicine. |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels. |
+| **[Huang Lian Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-wen-dan-tang)** | Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE | Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting | A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm. |
+| **[Bu Yang Huan Wu Tang](https://www.meandqi.com/knowledge-base/formulas/bu-yang-huan-wu-tang)** | Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals | A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions. |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | A classical formula for people experiencing anxiety, palpitations, excessive sweating, insomnia with vivid dreams, or urinary issues stemming from a general state of depletion where the body can no longer properly contain its vital substances. It works by gently warming and rebalancing the body while calming the mind and helping the body hold onto what it is losing. |
+| **[Tian Wang Bu Xin Dan](https://www.meandqi.com/knowledge-base/formulas/tian-wang-bu-xin-dan)** | Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE | Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi | A classical formula for people who have trouble sleeping and feel restless due to overwork or prolonged mental exertion. It nourishes the body&#x27;s Yin and Blood while calming the mind and clearing low-grade internal heat. Often used for insomnia with palpitations, forgetfulness, night sweats, and a general sense of mental exhaustion. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Suan Zao Ren](https://www.meandqi.com/knowledge-base/herbs/suan-zao-ren)** | Sour jujube seed |  | Nourishes Heart Yin and anchors the spirit, particularly helpful for the insomnia and anxiety. |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Moistens the Heart and Lungs, eases the dry mouth, and helps generate fluids to cool the empty heat. |
+| **[Ren Shen](https://www.meandqi.com/knowledge-base/herbs/ren-shen)** | Ginseng root | Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs |  |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root | Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Suan Zao Ren](https://www.meandqi.com/knowledge-base/herbs/suan-zao-ren)** | Sour jujube seed | Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating |  |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Zhu Ru](https://www.meandqi.com/knowledge-base/herbs/zhu-ru)** | Bamboo shavings | Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain |  |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig | Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi |  |
+| **[Gan Cao](https://www.meandqi.com/knowledge-base/herbs/gan-cao)** | Licorice root | Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough |  |
+| **[Long Gu](https://www.meandqi.com/knowledge-base/herbs/long-gu)** | Dragon Bone (fossilised mammal bone) | Neutral, Calms the Spirit and Settles Fright, Calms the Liver and anchors floating Yang, Secures Essence and Stops Leakage |  |
+| **[Mu Li Ke](https://www.meandqi.com/knowledge-base/herbs/mu-li-ke)** | Oyster shell | Slightly Cool, Calms the Liver and Subdues Yang, Anchors and Calms the Spirit, Nourishes Yin |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | The source point of the Heart channel, used to calm the mind and regulate the heartbeat. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | The connecting point of the Pericardium, opens the chest and eases palpitations and restlessness. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | A key point for nourishing Yin throughout the body, supporting the fluids the Heart needs. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney, used to strengthen the body&#x27;s foundational Yin, which the Heart depends on. |
+
+---
+
+## Frequently Asked Questions
+### Can acupuncture stop an atrial fibrillation episode while it's happening?
+Acupuncture can help calm an ongoing episode by regulating the heart's rhythm through points like Neiguan PC-6 and Shenmen HT-7. Many patients find it reduces the intensity and duration of palpitations. However, it is not a substitute for emergency care if you have severe chest pain, fainting, or difficulty breathing. For recurrent episodes, regular acupuncture sessions can reduce their frequency over time.
+
+### Is it safe to take Chinese herbs with my blood thinner (warfarin/Eliquis)?
+Some Chinese herbs, such as Dan Shen, Dang Gui, and Chuan Xiong, can affect blood clotting and may increase bleeding risk when combined with anticoagulants like warfarin or direct oral anticoagulants. It is essential that you inform both your TCM practitioner and your prescribing doctor about all medications and herbs you are taking. Never stop or adjust your anticoagulant without medical guidance. A qualified TCM practitioner will choose herbs that are safe for your situation.
+
+### How long does it take for TCM to work for atrial fibrillation?
+Many patients notice a reduction in palpitations and improved energy within 4-6 weeks of consistent herbal and acupuncture treatment. However, fully stabilizing the heart rhythm and addressing the underlying deficiency can take 3-6 months or more, especially for long-standing deficiency patterns. The goal is to gradually reduce the frequency and severity of episodes, not just suppress them temporarily.
+
+### Will I need to change my diet?
+Yes, diet is an important part of TCM treatment for AFib. In general, you'll want to avoid greasy, fried, and spicy foods that generate phlegm and heat - common agitators of the heart. Caffeine and alcohol should be limited or avoided. Depending on your pattern, you may be encouraged to eat more warm, nourishing foods (for deficiency) or cooling, light foods (for excess). Your practitioner will give you specific dietary guidance tailored to your pattern.
+
+### Can TCM replace my heart medications?
+TCM should not be used as a replacement for prescribed heart medications, especially anticoagulants or rate-control drugs, without close supervision from your cardiologist. TCM works best as a complementary therapy to improve symptoms, reduce episode frequency, and enhance overall vitality. Over time, if your condition stabilizes, your doctor may consider adjusting your medication - but this must be a collaborative decision.
+
+### Does TCM help with the anxiety and fear that come with AFib?
+Absolutely. In TCM, the Heart houses the Shen (spirit), and an irregular heartbeat often disturbs the Shen, leading to anxiety, restlessness, and insomnia. Acupuncture and herbs that calm the Shen, such as Suan Zao Ren (sour jujube seed) and formulas like Tian Wang Bu Xin Dan, can significantly reduce the emotional distress associated with AFib. Many patients find that as their physical symptoms improve, their anxiety naturally quiets as well.
+
+### Is TCM safe for elderly patients with AFib?
+Yes, TCM is generally safe for elderly patients when prescribed by a qualified practitioner who carefully considers all health conditions and medications. Herbal formulas can be adjusted for frailty and digestion, and acupuncture is gentle and non-invasive. Always provide your practitioner with a complete list of your medications and health history to ensure safe, coordinated care.
+
+---
+
+## Modern Scientific Research
+1. **Acupuncture for atrial fibrillation** ([Link](https://doi.org/10.1002/14651858.CD008573.pub2))
+   *Journal/Publication: Kim KH, Kim TH, Lee MS, et al. Acupuncture for atrial fibrillation. Cochrane Database of Systematic Reviews 2012, Issue 5. Art. No.: CD008573.*
+   A Cochrane systematic review assessing the effectiveness of acupuncture for paroxysmal and persistent atrial fibrillation. The review included a small number of RCTs and found limited evidence that acupuncture may reduce AF recurrence after cardioversion, but the quality of evidence was low. No serious adverse events were reported.
+
+2. **Mechanism of Action of Zhi Gan Cao Decoction for Atrial Fibrillation and Myocardial Fibrosis in a Mouse Model of Atrial Fibrillation: A Network Pharmacology-Based Study** ([Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9203184))
+   *Journal/Publication: Li J, Wang Y, Zhang X, et al. Mechanism of Action of Zhi Gan Cao Decoction for Atrial Fibrillation and Myocardial Fibrosis in a Mouse Model of Atrial Fibrillation: A Network Pharmacology-Based Study. Evidence-Based Complementary and Alternative Medicine. 2022;2022:9203184.*
+   This study used a mouse model and network pharmacology to investigate how Zhi Gan Cao Tang (Baked Licorice Decoction) affects atrial fibrillation. The formula was found to reduce atrial fibrosis and modulate multiple ion channels and inflammatory pathways, providing a mechanistic basis for its clinical use in AF.
+
+3. **Chinese Herbal Medicine for Atrial Fibrillation: A Systematic Review and Meta-Analysis**
+   *Journal/Publication: Li X, Zhang J, Huang L, et al. Chinese Herbal Medicine for Atrial Fibrillation: A Systematic Review and Meta-Analysis. Evidence-Based Complementary and Alternative Medicine. 2017;2017:6783016.*
+   A meta-analysis of randomized controlled trials evaluating Chinese herbal medicine as an adjunct to conventional therapy for atrial fibrillation. The analysis showed that herbal treatment significantly reduced AF recurrence and improved palpitation symptoms compared to conventional therapy alone, though most trials were of moderate quality.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/atrial-fibrillation](https://www.meandqi.com/knowledge-base/conditions/atrial-fibrillation)*

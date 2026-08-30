@@ -1,0 +1,163 @@
+# Ye Jiao Teng (夜交藤)
+**English Name**: Fleece-flower stem  
+**Category**: Spirit-calming herbs (安神药), Herbs that nourish the Heart and calm the Spirit (养心安神药)  
+**Scientific Name**: Polygonum multiflorum Thunb.  
+**Pharmaceutical Name**: Caulis Polygoni Multiflori  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān), Bitter (苦 kǔ)  
+**Channels Entered**: Heart, Liver  
+**Parts Used**: Stem (茎 jīng)  
+
+---
+
+## Summary
+Fleeceflower vine is the stem of the same plant whose root produces Hé Shǒu Wū. It is best known as a gentle, mild sleep aid that works by nourishing Heart Blood and calming the mind, making it suitable for people who have trouble sleeping due to general weakness, stress, or Blood deficiency. It can also ease body aches, joint stiffness, and itchy skin conditions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Sleep Support, Stress and Anxiety, Joint and Muscle Health, Skin Health
+- **TCM Actions**: Nourishes the Heart and Calms the Spirit, Nourishes Blood, Disperses Wind, Unblocks the Channels and Collaterals, Relieves Itching
+
+### How these actions work
+'Nourishes the Heart and calms the spirit' means Yè Jiāo Téng gently supplements the Heart's Blood and Yin, helping settle the mind for sleep. This is its primary action. Classical texts describe it as able to 'guide Yáng into Yīn' (引阳入阴), which is a poetic way of saying it helps the active, wakeful aspect of the body settle down into rest at night. It is most appropriate for insomnia and excessive dreaming caused by insufficient Blood failing to anchor the spirit, rather than for insomnia caused by excess Heat or Phlegm alone.
+'Nourishes Blood' refers to Yè Jiāo Téng's mild Blood-supplementing effect through its sweet flavour and its entry into the Heart and Liver channels. The Heart governs Blood and houses the spirit; the Liver stores Blood. By gently nourishing Blood in both organs, it addresses the root cause of restless sleep in Blood-deficient patients and also helps with generalised body aches from Blood failing to nourish the sinews and channels.
+'Dispels Wind and unblocks the channels' relates to Yè Jiāo Téng's nature as a vine (téng). In TCM, vine-type herbs characteristically reach into the network vessels and have a channel-opening quality. This makes it useful for Wind-Dampness conditions causing joint pain, numbness, or skin itching. When used externally as a wash, it treats itchy skin conditions like eczema or hives by expelling Wind from the skin surface.
+
+---
+
+## Patterns Addressed
+### Heart Blood Deficiency
+- **Explanation**: When Heart Blood is insufficient, the spirit (shén) loses its anchor and becomes restless, leading to insomnia, vivid dreaming, and palpitations. Yè Jiāo Téng directly enters the Heart channel with its sweet, Blood-nourishing flavour and neutral temperature, gently replenishing Heart Blood to resettle the spirit. Its classical mechanism of 'guiding Yáng into Yīn' specifically describes how it helps the wakeful aspect of consciousness return to a calm, restful state at night. It is mild enough to use as a supporting herb across many types of insomnia where Blood deficiency plays a role.
+- **Clinical Signs & Symptoms**:
+
+### Blood Deficiency
+- **Explanation**: When Blood is insufficient to nourish the sinews, muscles, and skin, internal Wind can arise, causing generalised body aches, numbness, and itchy skin. Yè Jiāo Téng addresses both sides of this pattern: its sweet flavour and Liver channel entry nourish Blood to treat the root deficiency, while its vine nature unblocks the collaterals and dispels Wind to relieve the branch symptoms of pain, numbness, and itch. This dual action makes it well suited for patients with both poor sleep and Wind-related physical complaints.
+- **Clinical Signs & Symptoms**:
+  - **Body Aches**: Generalised soreness and aching from Blood deficiency
+  - **Tingling Of Limbs**: Numbness or tingling in the extremities
+
+### Liver Yang Rising
+- **Explanation**: When Liver and Kidney Yin are depleted, Liver Yáng can flare upward, causing headaches, dizziness, irritability, and insomnia. In formulas for this pattern (such as Tiān Má Gōu Téng Yǐn), Yè Jiāo Téng serves as a supporting herb that calms the spirit disturbed by rising Yáng. While it does not directly suppress Liver Yáng, its Heart-nourishing and spirit-settling actions address the insomnia and restlessness that accompany this pattern, complementing the stronger Yáng-subduing herbs in the formula.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Insomnia
+- **Arises from**: Heart Blood Deficiency, Liver Yang Rising
+- **TCM Interpretation**: TCM understands insomnia primarily as a disturbance of the spirit (shén), which is housed in the Heart. The spirit needs adequate Blood and Yin to be properly anchored during sleep. When Heart Blood is deficient, or when Liver Blood fails to nourish the Heart, the spirit becomes unmoored and restless, resulting in difficulty falling or staying asleep. In another common scenario, Yin deficiency allows Yáng to become hyperactive, creating internal Heat that agitates the mind. The classical principle is that sleep occurs when Yáng (the active, daytime force) enters Yīn (the quiet, nighttime domain). Insomnia results when this transition is disrupted.
+- **Why it Helps**: Yè Jiāo Téng is described in classical texts as able to 'guide Yáng into Yīn,' directly facilitating the transition from wakefulness to sleep. Its sweet flavour nourishes Heart and Liver Blood, addressing the root deficiency that leaves the spirit unsettled. Its neutral temperature means it does not add unwanted Heat or Cold, making it safe and versatile across different insomnia subtypes. Modern pharmacological studies have also confirmed sedative and hypnotic effects of its decoction. It is most often combined with other calming herbs like Hé Huān Pí (silk tree bark), Suān Zǎo Rén (sour jujube seed), and Bǎi Zǐ Rén (biota seed) for enhanced effect.
+
+### Urticaria
+- **Arises from**: Blood Deficiency
+- **TCM Interpretation**: TCM views chronic hives (urticaria) as Wind lodged in the skin. When Blood is deficient, it cannot adequately moisten and nourish the skin, creating an opening for Wind to invade or arise internally. The itching and wheals that come and go reflect Wind's characteristically mobile and changeable nature. Chronic cases often involve an underlying Blood deficiency that perpetuates the cycle of Wind generation.
+- **Why it Helps**: Yè Jiāo Téng addresses both the root and branch of Wind-type skin itching. Its Blood-nourishing quality treats the underlying deficiency, while its Wind-dispelling and channel-unblocking properties tackle the itching directly. It can be taken internally as part of a formula or used externally as a skin wash. The Ben Cao Gang Mu specifically noted that decocting its stems for bathing was effective for 'Wind sores, scabies, and itching.' It is often combined with herbs like Dì Fū Zǐ (kochia fruit) and Chán Tuì (cicada moulting) for enhanced anti-itch effects.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–15g (decoction); up to 30g for insomnia. External use: appropriate amount.
+- **Maximum Dosage**: Up to 60g in decoction for severe insomnia or for external wash use, under practitioner supervision. Prolonged use at high doses is not recommended due to potential hepatotoxicity concerns.
+- **Dosage Notes**: For insomnia: 15 to 30g is the typical effective range, often decocted and taken before bedtime. Lower doses (9 to 15g) are used when combined with other sleep-calming herbs such as Suan Zao Ren and He Huan Pi. For joint and body pain due to Blood deficiency or wind-damp: 15 to 30g, combined with Blood-nourishing and channel-opening herbs. For external use in itchy skin conditions: an appropriate amount is decocted and used as a wash. Because this herb comes from the same plant as He Shou Wu, courses of treatment should be time-limited and liver function should be monitored during extended use.
+- **Preparation**: No special decoction handling required. The vine is simply cut into segments, washed, and decocted normally. For external use, decoct an appropriate amount in water and use the liquid as a wash for itchy skin conditions.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### He Huan Pi (Ratio: 1:1 (e.g. Y&#xE8; Ji&#x101;o T&#xE9;ng 15-30g : H&#xE9; Hu&#x101;n P&#xED; 15-30g))
+- **Description**: This is the most celebrated herb pair for insomnia in TCM. Yè Jiāo Téng nourishes Heart Blood and guides Yáng into Yīn to promote sleep, while Hé Huān Pí calms the spirit by resolving emotional constraint and soothing the Liver. Together they address insomnia from both Blood deficiency and emotional stagnation, covering a broader range of causes than either herb alone.
+- **When to Use**: Insomnia accompanied by emotional upset, worry, irritability, or a feeling of being unable to let go of the day's stresses. Especially useful when poor sleep coexists with low mood or frustration.
+
+### Suan Zao Ren (Ratio: Su&#x101;n Z&#x1CE;o R&#xE9;n 15-30g : Y&#xE8; Ji&#x101;o T&#xE9;ng 15-30g)
+- **Description**: Suān Zǎo Rén is one of the strongest Heart-nourishing sleep herbs, rich in Liver Blood-nourishing and spirit-calming actions. Pairing it with Yè Jiāo Téng enhances the Blood-nourishing and spirit-settling effect. Suān Zǎo Rén focuses on nourishing Liver Blood and astringeing the spirit, while Yè Jiāo Téng harmonises Yīn and Yáng for the sleep transition.
+- **When to Use**: Insomnia from Yin and Blood deficiency with palpitations, excessive dreaming, and night sweats.
+
+### Ji Xue Teng (Ratio: 1:1 (e.g. J&#x12B; Xu&#xE8; T&#xE9;ng 15g : Y&#xE8; Ji&#x101;o T&#xE9;ng 15g))
+- **Description**: Both are vine herbs that nourish Blood and unblock the channels, but they have complementary strengths. Jī Xuè Téng (spatholobus stem) more strongly invigorates Blood and addresses Blood stasis, while Yè Jiāo Téng more strongly calms the spirit. Together they provide robust Blood nourishment and channel-opening action for both pain and restlessness.
+- **When to Use**: Blood deficiency with body aches, joint pain, numbness in the limbs, and accompanying poor sleep.
+
+### Fu Shen (Ratio: 1:1 (e.g. both at 9-15g))
+- **Description**: Zhū Fú Shén (cinnabar-coated poria spirit) is a heavy, spirit-settling substance that anchors the Heart spirit, while Yè Jiāo Téng nourishes the Heart Blood that the spirit rests upon. The pair combines anchoring and nourishing approaches for a more complete calming effect.
+- **When to Use**: Insomnia with palpitations, anxiety, and restlessness, particularly in the context of Liver Yáng rising with internal agitation. This pair is used together in Tiān Má Gōu Téng Yǐn.
+
+---
+
+## Key Formulas
+Tian Ma Gou Teng Yin
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Ye Jiao Teng is classified as non-toxic in classical sources and the Chinese Pharmacopoeia. However, it comes from the same plant (Polygonum multiflorum) as He Shou Wu, whose root has well-documented hepatotoxicity concerns. The vine stem (Caulis) contains similar chemical constituents to the root, including stilbenes and anthraquinones, but at significantly lower concentrations. Modern research has identified that the risk of liver damage caused by preparations containing Polygoni Multiflori Caulis has been reported by Chinese drug safety authorities, though far fewer cases are linked to the Caulis compared to the root. The hepatotoxicity of Polygonum multiflorum is now understood to be primarily idiosyncratic and immune-mediated, affecting susceptible individuals (particularly those carrying the HLA-B*35:01 allele, found in about 2.7% of Han Chinese). For most people, Ye Jiao Teng at standard doses and for limited durations is considered safe. Nevertheless, prolonged use warrants periodic liver function monitoring.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific classical contraindication for pregnancy is recorded for Ye Jiao Teng. However, because it comes from the same plant as He Shou Wu (Polygonum multiflorum), which has documented embryonic toxicity in animal studies, caution is warranted. Pregnant women should use this herb only under the guidance of a qualified practitioner, and it may be prudent to avoid it during pregnancy as a precaution.
+- **Breastfeeding**: No specific studies exist on the transfer of Ye Jiao Teng constituents into breast milk. Because the plant (Polygonum multiflorum) contains stilbenes and anthraquinones (which are known to have laxative properties and potential liver effects), caution is advisable. Breastfeeding mothers should consult a qualified practitioner before use and avoid prolonged or high-dose consumption.
+- **Children**: Ye Jiao Teng is generally mild and can be used in children at reduced doses proportional to age and body weight (typically one-third to one-half the adult dose for older children). Given concerns about shared chemical constituents with He Shou Wu and potential liver effects, use in children should be limited to short courses under practitioner supervision. Avoid prolonged use in paediatric patients.
+
+### Drug Interactions
+No well-documented specific drug interactions for Ye Jiao Teng (Polygoni Multiflori Caulis) have been established in peer-reviewed literature. However, because the herb shares chemical constituents with He Shou Wu (the root of the same plant), including anthraquinones such as emodin, the following theoretical interactions should be considered:
+- Hepatotoxic drugs: Concurrent use with medications that are metabolized by the liver or have known hepatotoxic potential (e.g. acetaminophen/paracetamol, statins, certain antibiotics) may increase the risk of liver injury. Caution is advised.
+- CYP450 substrates: Emodin and related anthraquinones in the parent plant have been shown to inhibit CYP1A2 and CYP2E1 in animal studies. Drugs metabolized by these enzymes could theoretically be affected.
+- Sedative medications: The herb's demonstrated sedative and hypnotic effects may have additive effects with benzodiazepines, barbiturates, or other CNS depressants.
+
+### Dietary Advice
+Classical sources record that He Shou Wu (the root from the same plant) is incompatible with pork, lamb blood, and radish (luobo). While these classical dietary prohibitions are specifically attributed to the root rather than the vine, it is reasonable to exercise caution and avoid excessive consumption of these foods while taking Ye Jiao Teng. As a Blood-nourishing and spirit-calming herb, it works best alongside easily digestible, warming foods. Avoid excessive alcohol, coffee, strong tea, and stimulating or greasy foods during treatment, especially when using the herb for insomnia.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Ye Jiao Teng is the dried vine stem (caulis) of Polygonum multiflorum Thunb. (also classified as Fallopia multiflora or Reynoutria multiflora), a perennial twining herbaceous vine in the Polygonaceae (buckwheat) family. The same plant produces He Shou Wu (the tuberous root), but the stem and root are used as distinct medicines with different therapeutic actions.
+The plant grows 2 to 4 metres in length, with twining, multi-branched stems that are purplish-red and become slightly woody at the base. The leaves are alternate, ovate or heart-shaped (3 to 7 cm long), with pointed tips and heart-shaped bases. In autumn (August to October), the plant produces small yellowish-white flowers in terminal or axillary panicle inflorescences. The fruits are small, three-angled achenes that are black and glossy. The plant grows naturally on grassy slopes, roadsides, rocky hillsides, and among shrubs at elevations of 200 to 3,000 metres.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer and autumn for vine stems with leaves; autumn after leaf drop, or early winter, for vine stems alone.
+- **Primary Growing Regions**: Ye Jiao Teng is widely distributed across China. The major commercial production areas include Hubei, Henan, Hunan, Sichuan, Guizhou, Guangxi, Jiangsu, and Zhejiang provinces. It also grows in Hebei, Shanxi, Shaanxi, Gansu, Yunnan, and Taiwan. Among these, Henan, Hubei, and Sichuan are considered key production regions. The plant grows wild on grassy slopes, roadsides, rocky hillsides, and shrubby areas across East China, Central-South China, and Southwest China.
+- **Quality Indicators**: Good quality Ye Jiao Teng consists of thick, uniformly sized vine segments, 3 to 7 mm in diameter, with a purplish-brown outer surface. The bark is thin and may show fine reddish spots and longitudinal wrinkles. The cross-section should show a distinct reddish-brown bark layer, a pale yellow wood section with visible radial patterns, and a white pith at the centre. The herb should be dry, firm, and snap cleanly when broken. It has no strong odour and a mildly bitter, slightly astringent taste. Avoid pieces that are overly thin, mouldy, or have lost their characteristic colour.
+
+### Identity & Adulterants
+Ye Jiao Teng (the vine stem of Polygonum multiflorum) should not be confused with He Shou Wu (the tuberous root of the same plant), which has very different therapeutic actions and a stronger toxicity profile. Some adulterants and counterfeits on the market include stems from Stephania cepharantha Hayata, Polygonum cilinerve (Nakai) Ohwi, and Pteroxygonum giraldii. The Sichuan commercial product sometimes consists of dried young stems with attached leaves rather than the mature vine segments that are standard elsewhere. Authentic Ye Jiao Teng should show the characteristic purplish-brown surface with reddish spots, a cross-section with clear bark/wood/pith layers, and a mildly bitter-astringent taste.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Gang Mu (本草纲目) — Li Shizhen, Ming Dynasty
+- **Original**: 风疮疥癣作痒，煎汤洗浴。
+- **Translation**: For wind sores, scabies, and ringworm with itching, decoct and use as a bath wash.
+
+### Historical Context
+The name Ye Jiao Teng (夜交藤, literally "vine that intertwines at night") reflects an ancient folk observation that the vine's tendrils appeared to entwine with each other after dark. This nocturnal behaviour inspired its use as a sleep aid through the principle of qu xiang bi lei (取象比类, "drawing analogies from observed phenomena"), a foundational reasoning method in Chinese medicine. Similarly, its frequent pairing partner He Huan Pi (Albizzia bark) was named because the Albizzia tree's leaflets fold together at dusk. Together they form a classic medicinal pair for insomnia, their natural "nighttime" qualities symbolically guiding the restless spirit toward sleep.
+The herb was first recorded in Li Shizhen's Ben Cao Gang Mu (Ming Dynasty) only for external use against skin conditions. Its now-famous role as a sleep aid developed later and was significantly expanded in Qing Dynasty texts. Zhang Shanlei, in the Ben Cao Zheng Yi, offered the important clinical caveat that Ye Jiao Teng works by "guiding Yang into Yin" but is best used as a supporting herb rather than a standalone treatment. He emphasized that insomnia has many root causes, and the herb alone cannot address them all. The formula Jia Yi Gui Zang Tang (甲乙归脏汤) from the Qing text Yi Chun Sheng Yi (医醇媵义) is a well-known classical prescription that features Ye Jiao Teng for severe insomnia.
+
+### Modern Scientific Research
+1. **[Sedative-hypnotic effect of Caulis Polygoni multiflori decoction (Animal study, 1990)](https://pubmed.ncbi.nlm.nih.gov/2391099/)**
+   *Journal: Yang J, Xu J, Zhou L, Huang L, Yang S, Xiong T, Dong L. Hua Xi Yi Ke Da Xue Xue Bao. 1990;21(2):175-177.*
+   This preclinical study in mice and rats investigated the sedative and sleep-promoting effects of Ye Jiao Teng decoction. The decoction enhanced the effects of subthreshold doses of pentobarbital sodium in mice. In rats, the hypnotic effect at effective doses was comparable to diazepam, and the effect became more prominent after three days of repeated dosing, with significant reductions in slow-wave sleep latency.
+
+2. **[Flavonoids from Polygoni Multiflori Caulis alleviates p-chlorophenylalanine-induced sleep disorders in mice (Animal study, 2024)](https://doi.org/10.1016/j.indcrop.2024.119098)**
+   *Journal: Zhong RF et al. Industrial Crops and Products. 2024;219:119098.*
+   This study isolated total flavonoids from Ye Jiao Teng and tested their sleep-promoting effects in an insomnia mouse model. The flavonoids showed strong antioxidant capacity and were able to modulate sleep behaviour. Mechanistically, they regulated multiple targets in serotonin (5-HT) and GABA pathways and reversed suppression of sleep-related signalling molecules (PGD2, DPR, IL-1 beta).
+
+3. **[Beware of the Potential Risks for Polygoni Multiflori Caulis-Induced Liver Injury (Observational/Analytical study, 2022)](https://doi.org/10.3389/fphar.2022.868327)**
+   *Journal: Kong WS, Zhou G, Xu LW, Wang K, Feng YM, Tao LY, Xie RF, Yang M, Zhou X. Frontiers in Pharmacology. 2022;13:868327.*
+   This study analysed real-world clinical usage data and chemical profiles of Ye Jiao Teng (Polygoni Multiflori Caulis) compared to the root forms. While the Caulis is used more frequently in clinical practice than the root, fewer liver injury cases have been reported. However, the Caulis shares similar chemical constituents (stilbenes and anthraquinones) with the root, raising potential hepatotoxicity concerns that merit caution.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/ye-jiao-teng](https://www.meandqi.com/knowledge-base/herbs/ye-jiao-teng)*

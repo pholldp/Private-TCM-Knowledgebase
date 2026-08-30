@@ -1,0 +1,168 @@
+# Gui Ban (龟板)
+**English Name**: Tortoise plastron  
+**Category**: Yin-tonifying herbs (补阴药)  
+**Scientific Name**: Chinemys reevesii (Gray)  
+**Pharmaceutical Name**: Plastrum Testudinis  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Salty (咸 xián), Sweet (甘 gān)  
+**Channels Entered**: Liver, Heart, Kidneys  
+**Parts Used**: Shell (壳 ké / 甲 jiǎ)  
+
+---
+
+## Summary
+Gui Ban (tortoise plastron) is the shell of the freshwater Chinese pond turtle, used for centuries in Chinese medicine to deeply nourish the body's Yin (its cooling, moistening reserves). It is commonly used for symptoms of Yin Deficiency such as night sweats, hot flushes, dizziness, insomnia, weak bones and joints, and heavy menstrual bleeding. Because it is cold and heavy in nature, it is not suitable for people with cold or weak digestion.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Bone and Joint Health, Menopausal support, Sleep and Anxiety Support, Women's Health
+- **TCM Actions**: Nourishes Yin and Subdues Yang, Benefits the Kidneys and Strengthens the Bones, Nourishes Heart Blood, Fixes the Chong and Ren vessels and stops bleeding, Clears Deficiency Heat
+
+### How these actions work
+'Nourishes Yin and anchors Yang' is the primary action of Gui Ban. When the body's cooling, moistening Yin fluids become depleted (especially in the Liver and Kidneys), the warming Yang aspect can flare upward unchecked, causing symptoms like dizziness, headache, irritability, flushed face, and eye redness. Gui Ban is heavy, sinking, cold, and deeply moistening. It replenishes the depleted Yin at the root while its heavy, sinking nature pulls the floating Yang back down. This makes it particularly useful for patterns where Yin Deficiency leads to Liver Yang rising or internal Wind with tremors and spasms.
+'Benefits the Kidneys and strengthens bones' reflects its ability to nourish Kidney Yin and Essence (Jing), the foundation that supports bone and skeletal development. In TCM, the Kidneys govern the bones. When Kidney Yin and Essence are insufficient, there may be weakness and soreness of the lower back and knees, weak or underdeveloped bones in children, or failure of the fontanelle to close. Gui Ban's salty taste allows it to enter the Kidneys and nourish Essence directly.
+'Nourishes Blood and tonifies the Heart' relates to Gui Ban's entry into the Heart channel, where it nourishes Heart Blood and Yin to calm the spirit (Shen). This applies to conditions like palpitations, insomnia, anxiety, forgetfulness, and restlessness that arise when the Heart lacks sufficient nourishment.
+'Fixes the Chong and Ren vessels and stops bleeding' means Gui Ban can stabilise the two extraordinary vessels most responsible for menstruation and reproductive function. When Yin Deficiency generates internal Heat that pushes Blood out of these vessels, it can cause heavy menstrual bleeding or uterine bleeding between periods. Gui Ban cools this Deficiency Heat while nourishing Yin to secure the Blood within the vessels.
+
+---
+
+## Patterns Addressed
+### Heart and Kidney Yin Deficiency
+- **Explanation**: Gui Ban directly replenishes the Yin of both the Liver and Kidneys. Its salty taste guides it into the Kidneys to nourish Kidney Yin and Essence, while its sweet taste gently tonifies. Its cold nature clears the Deficiency Heat that arises when Yin can no longer balance Yang. The heavy, sinking quality of this shell substance anchors rising Yang and calms internal Wind that can develop from long-standing Yin Deficiency. This makes Gui Ban one of the most important substances for deep, structural Yin replenishment in the lower body.
+- **Clinical Signs & Symptoms**:
+
+### Yin Deficiency
+- **Explanation**: When Yin is severely depleted, it can no longer cool the body, and Empty Heat (Deficiency Fire) flares up. Gui Ban's cold nature directly clears this type of Heat, while its Yin-nourishing action addresses the root cause. Unlike bitter-cold herbs that simply drain Heat, Gui Ban restores the Yin substance itself so the body regains its own cooling capacity. This is why it serves as a core ingredient in classical Yin-nourishing, Fire-clearing formulas like Da Bu Yin Wan.
+- **Clinical Signs & Symptoms**:
+  - **Hot Flushes**: Tidal fever and bone-steaming heat, worse in the afternoon
+
+### Heart Qi and Yin Deficiency
+- **Explanation**: Gui Ban enters the Heart channel, where its sweet and salty tastes nourish Heart Blood and Yin to calm and settle the spirit (Shen). When the Heart lacks adequate nourishment, the spirit becomes unanchored, leading to palpitations, insomnia, anxiety, and poor memory. Gui Ban's heavy, settling nature also provides a direct calming influence on the disturbed spirit. This action is showcased in Kong Sheng Zhen Zhong Dan, where it is paired with Dragon Bone and spirit-calming herbs.
+- **Clinical Signs & Symptoms**:
+
+### Liver Yang Rising
+- **Explanation**: When Liver and Kidney Yin are depleted, Liver Yang loses its anchor and flares upward. Gui Ban addresses both the root (Yin Deficiency below) and the branch (Yang rising above). Its heavy, sinking, cold nature pulls the rising Yang back down while simultaneously rebuilding the Yin foundation that should keep it in check. This bidirectional action makes it especially effective for patterns of Yin-Deficiency-driven Liver Yang rising with headaches, dizziness, and irritability.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-24g
+- **Maximum Dosage**: Up to 30-45g in severe Yin deficiency patterns, under practitioner supervision. Must be decocted first for extended time.
+- **Dosage Notes**: Use lower doses (9-15g) for mild Yin nourishment, Heart-Blood support, and maintenance. Use higher doses (15-24g) for more severe Yin deficiency with Yang rising, deficiency Heat, or internal Wind. Vinegar-processed Gui Ban (Cu Gui Ban, 醋龟板) has enhanced Yin-nourishing and channel-entering properties. Gui Ban Jiao (tortoise plastron glue) is used at 3-9g, dissolved in warm liquid or the strained decoction, when a stronger tonifying effect on Blood and Yin is desired without the bulk of the whole shell.
+- **Preparation**: Must be decocted first (先煎, xian jian). Gui Ban is a hard shell substance and requires extended decoction of 30-60 minutes before adding other herbs to the pot. It should be broken into small pieces or crushed before decocting. Vinegar-processed Gui Ban (醋龟板) is prepared by sand-frying until the surface turns pale yellow, then quenching in vinegar (20 kg vinegar per 100 kg of Gui Ban) and drying. The vinegar processing enhances its ability to enter the Liver channel and strengthens its Yin-nourishing action.
+
+---
+
+## Processing Methods
+### C&#xF9; Gu&#x12B; B&#x1CE;n (&#x918B;&#x9F9F;&#x677F;)
+- **Processing Method**: The cleaned tortoise plastron is stir-fried with sand until the surface turns pale yellow, then immediately quenched in vinegar and dried. The standard ratio is 20 kg vinegar per 100 kg of plastron. The shell is then crushed before use.
+- **How it Changes Properties**: Vinegar processing enhances the herb's ability to enter the Liver channel, strengthening its Yin-nourishing and Yang-anchoring effects. The vinegar quenching also makes the extremely hard shell more brittle and easier to crush, allowing its active components to be extracted more completely during decoction. The fishy smell is reduced. The overall thermal nature remains cold but may be considered slightly less cold than the raw form.
+- **When to Use**: This is the most commonly used clinical form. It is preferred for most Yin Deficiency patterns, especially when the Liver is involved (Liver Yang rising, Liver Wind). The enhanced Liver-entering property makes it more effective for dizziness, headache, and tremors from Liver Yin Deficiency. The improved decoction extraction also makes it the practical choice over raw plastron.
+
+### Gu&#x12B; B&#x1CE;n Ji&#x101;o (&#x9F9F;&#x677F;&#x80F6;)
+- **Processing Method**: The cleaned tortoise plastron is boiled extensively (traditionally for 1-2 days) until the shell becomes soft and crumbly. The resulting liquid is filtered, further concentrated, then poured into moulds to cool and set into solid gelatin blocks.
+- **How it Changes Properties**: The gelatin form is richer, more cloying, and has a stronger Yin-nourishing and Blood-tonifying capacity than the shell itself. It is sweeter and more nourishing, with enhanced ability to supplement Essence and Blood. However, it is also more cloying and harder on the digestion. It is dissolved directly into liquid rather than decocted.
+- **When to Use**: Preferred when deep Yin and Blood nourishment is the primary goal, particularly for severe Kidney Essence Deficiency, Blood Deficiency, and uterine bleeding. It is the form used in Zuo Gui Wan. The gelatin form is also preferred for patients who need concentrated nourishment and cannot take large decoctions. Typical dose is 3-9g, dissolved in warm water or wine.
+
+---
+
+## Common Herb Pairs
+### Shu Di Huang (Ratio: 1:1 (equal amounts, as in Da Bu Yin Wan))
+- **Description**: Together, these two substances form a powerful Yin-nourishing foundation. Shu Di Huang (prepared Rehmannia) is the premier Blood- and Essence-tonifying herb, providing rich, thick nourishment to Kidney Yin and Blood. Gui Ban adds cold, heavy, sinking Yin nourishment that also anchors rising Yang and clears Deficiency Heat. Together they address both the substance (Blood and Essence) and the functional aspect (anchoring Yang) of Yin Deficiency.
+- **When to Use**: For deep Kidney Yin and Essence Deficiency with bone-steaming heat, tidal fever, night sweats, and weak lower back and knees. This is the core pairing in Da Bu Yin Wan.
+
+### Huang Bo (Ratio: 3:2 (Gui Ban 6 liang : Huang Bai 4 liang, as in the original Da Bu Yin Wan proportions))
+- **Description**: Gui Ban nourishes the depleted Yin while Huang Bai (Phellodendron bark) drains Deficiency Fire downward. Gui Ban addresses the root (Yin Deficiency) and Huang Bai addresses the branch (raging Fire). Together they 'enrich the water to control the fire' from both directions simultaneously.
+- **When to Use**: For Yin Deficiency Fire Flaring with bone-steaming heat, night sweats, seminal emission, irritability, and a red tongue with little coating. This is a core combination within Da Bu Yin Wan.
+
+### Long Gu (Ratio: 1:1 (equal parts))
+- **Description**: Both are heavy, sinking mineral/shell substances that anchor and calm. Long Gu (Dragon Bone) excels at settling the spirit and calming the Heart, while Gui Ban nourishes the underlying Yin and Blood that the spirit needs for stability. Together they provide both structural nourishment and immediate calming.
+- **When to Use**: For Heart-Kidney disharmony with insomnia, palpitations, anxiety, poor memory, and restlessness. This is the core pairing in Kong Sheng Zhen Zhong Dan.
+
+### Lu Jiao (Ratio: 1:1 (as in Zuo Gui Wan))
+- **Description**: Gui Ban (Yin, cold) and Lu Jiao Jiao (Deer Antler Gelatin, Yang, warm) together nourish both Yin and Yang of the Kidneys. This pairing embodies the principle of 'seeking Yin within Yang and Yang within Yin,' recognising that Yin and Yang are interdependent. Gui Ban heavily nourishes Yin while Lu Jiao Jiao warms and supports Yang and Essence.
+- **When to Use**: For severe Kidney Essence Deficiency affecting both Yin and Yang, with weakness of the lower back and knees, bone weakness, and exhaustion. This is the defining combination in Zuo Gui Wan and Gui Lu Er Xian Jiao.
+
+---
+
+## Key Formulas
+Da Bu Yin Wan, Kong Sheng Zhen Zhong Dan, Gu Jing Wan, Zhen Gan Xi Feng Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Gui Ban is classified as non-toxic in the Chinese Pharmacopoeia. The Ming Ben Bie Lu noted 'slightly toxic' properties, but this was attributed to improper storage (exposure to moisture), not to the substance itself. Prolonged or excessive use may cause digestive discomfort, nausea, or loose stools due to its cold, heavy, and cloying nature, particularly in individuals with weak digestion. There are no known toxic components. In rare cases, allergic reactions (skin rash, itching) have been reported with Gui Ban Jiao (tortoise plastron glue).
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated. Gui Ban has a cold, heavy, sinking nature and enters the Ren (Conception) and Chong (Thoroughfare) vessels. Pharmacological research has demonstrated that tortoise plastron extracts can promote uterine contractions. It may cause restless fetus or, in severe cases, miscarriage. All classical and modern sources consistently list pregnancy as a contraindication.
+- **Breastfeeding**: No specific contraindication during breastfeeding has been established in classical or modern literature. However, its cold and Yin-nourishing nature may theoretically affect digestion in the nursing infant if transferred through breast milk. Use with caution and under practitioner guidance, particularly in women with weak Spleen Qi or infants prone to loose stools.
+- **Children**: Gui Ban has a traditional indication for failure of the fontanelle to close (囟门不合) in infants and young children, where it is used to strengthen the Kidneys and bones. Dosage should be significantly reduced for children, typically one-third to one-half of the adult dose depending on age and weight. Because of its cold, heavy nature, it should be used cautiously in children with weak digestion and monitored for loose stools or loss of appetite.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established through controlled studies. However, based on its pharmacological profile, the following theoretical considerations apply:
+- Calcium-containing medications: Gui Ban is rich in calcium and other minerals. Concurrent use with calcium supplements or vitamin D may theoretically increase calcium load.
+- Anticoagulants/antiplatelet drugs: Gui Ban has traditional Blood-cooling and bleeding-stopping actions. While it is not strongly hemostatic, practitioners should be aware of potential interactions in patients on warfarin or similar medications, though no clinical interactions have been confirmed.
+- Immunosuppressants: Pharmacological studies suggest Gui Ban extracts may have immune-enhancing properties, which could theoretically counteract immunosuppressive therapy.
+Patients on prescription medications should consult their healthcare provider before using Gui Ban.
+
+### Dietary Advice
+Avoid cold, raw foods and icy drinks while taking Gui Ban, especially for individuals with weak digestion, as the herb's cold nature compounds the burden on the Spleen and Stomach. Avoid alcohol and spicy, heating foods, which can counteract its Yin-nourishing purpose. Warm, easily digestible foods such as congee, cooked vegetables, and mild soups are recommended to support absorption.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Gui Ban is not derived from a plant but from an animal: the Chinese pond turtle, Mauremys reevesii (syn. Chinemys reevesii), family Geoemydidae. This is a moderate-sized, semi-aquatic freshwater turtle with a carapace (upper shell) reaching up to 30 cm in length, though most specimens are considerably smaller (10-20 cm). The shell is typically brown to dark grey-brown, with three distinct longitudinal keels running along the carapace. The skin is dark grey with characteristic yellow or cream-coloured streaks on the neck. Mature males frequently develop melanism, turning entirely black including the eyes.
+The species inhabits shallow, slow-moving or still bodies of water with soft bottoms, including ponds, marshes, canals, lakes, and small streams across central and eastern China, as well as Korea. It is omnivorous, feeding on aquatic plants, insects, worms, small fish, and frogs. The medicinal material consists of both the dorsal carapace and ventral plastron (the flat underside plate), which are cleaned of flesh, dried, and processed for medicinal use.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Year-round, though primarily collected in autumn and winter when the animals are less active.
+- **Primary Growing Regions**: Gui Ban is sourced from the Chinese pond turtle (Mauremys reevesii), which is distributed across central and eastern China. The main producing regions include Jiangsu, Zhejiang, Hunan, Hubei, Anhui, and Guangxi provinces. Historically, the turtles from Qizhou (蕲州, modern-day Qichun County, Hubei Province) were considered particularly prized and were included among the local 'Four Treasures' (蕲春四宝) as a tribute item. Today, most commercial Gui Ban comes from turtle farming operations, as wild populations of Mauremys reevesii are classified as Endangered by the IUCN.
+- **Quality Indicators**: Two grades exist based on processing method: 'Xue Ban' (血板, blood board) is obtained by killing the turtle and directly removing the shell with blood residue, and is considered superior. 'Tang Ban' (烫板, scalded board) is obtained by killing with boiling water first, and is considered slightly inferior. Good quality Gui Ban should be large, intact, thoroughly cleaned of residual flesh, and dry. The plastron exterior is pale yellowish-brown to brownish-black, with 12 clearly defined shield plates each showing purplish-brown radiating lines. The interior surface should be yellowish-white to greyish-white. The texture should be hard and solid. There should be a slight fishy smell and a mildly salty taste. Avoid pieces that are cracked, mouldy, or retain decaying flesh.
+
+### Identity & Adulterants
+Gui Ban is commonly adulterated with plastrons from other turtle species. Research has identified plastrons of Ocadia sinensis (Chinese stripe-necked turtle), Chelonia mydas (green sea turtle), Lepidochelys olivacea (olive ridley sea turtle), and Trachemys scripta elegans (red-eared slider) as counterfeit substitutes. Authentic Gui Ban from Mauremys reevesii can be distinguished by its characteristic 12 shield plates with purplish-brown radiating lines on the ventral surface, and the saw-tooth interlocking pattern of the 9 underlying bone plates visible on the interior surface. Bie Jia (鳖甲, soft-shelled turtle shell) is a related but distinct medicine that should not be confused with Gui Ban; Bie Jia comes only from the carapace (dorsal shell) of the Chinese soft-shell turtle and has different therapeutic emphasis (stronger at clearing deficiency Heat and softening hardness).
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》, Shen Nong's Classic of the Materia Medica)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Gui Ban holds a uniquely deep place in Chinese civilization, extending far beyond medicine. The tortoise was one of the 'Four Sacred Animals' (四灵) of ancient China, symbolizing longevity, wisdom, and cosmic order. In the Shang dynasty (c. 1600-1046 BCE), tortoise plastrons were the primary medium for oracle bone divination (甲骨文), and the inscriptions carved on these shells are the oldest known form of Chinese writing. In the late Qing dynasty (1899), the scholar Wang Yirong famously recognized ancient writing on 'dragon bone' fragments sold in traditional medicine shops, which turned out to be Shang-dynasty oracle bone inscriptions on tortoise shells.
+As a medicine, Gui Ban was first recorded in the Shen Nong Ben Cao Jing, where it was listed as a top-grade (上品) drug. Early texts used both the upper (carapace) and lower (plastron) shells, collectively called 'Gui Jia' (龟甲). The specific preference for the plastron (lower shell), called 'Gui Ban', first appeared in Tang dynasty literature. In later eras, the concept of 'Bai Gui' (败龟, 'spent tortoise') emerged, referring to plastrons that had been used for divination and were perforated from the heat-cracking process. Li Shizhen in the Ben Cao Gang Mu connected the tortoise's habit of drawing its head toward its belly with its ability to nourish the Ren (Conception) vessel. The pairing of Gui Ban with Lu Jiao (deer antler) to tonify both Yin and Yang became one of the most iconic complementary pairs in Chinese medicine, exemplified by the formula Gui Lu Er Xian Jiao (龟鹿二仙胶).
+
+### Modern Scientific Research
+1. **[Tortoise Plastron and Deer Antler Gelatin Prevents Against Neuronal Mitochondrial Dysfunction In Vitro: Implication for a Potential Therapy of Alzheimer's Disease (In Vitro Study, 2021)](https://pubmed.ncbi.nlm.nih.gov/34054561/)**
+   *Journal: Hui Z, et al., Frontiers in Pharmacology, 2021, Volume 12, Article 690256*
+   This preclinical study examined tortoise plastron gelatin (TPG) and deer antler gelatin (DAG) on a cell model of Alzheimer's disease. Pre-treatment with TPG protected nerve cells from damage caused by amyloid-beta toxin, reducing oxidative damage and preserving mitochondrial function. The study supports the traditional use of these gelatins as brain-nourishing agents, though human trials are needed.
+
+2. **[Metabolomic and Lipidomic Profiling of Traditional Chinese Medicine Testudinis Carapax et Plastrum and Its Substitutes (Analytical Study, 2025)]()**
+   *Journal: PMC Article, Frontiers in Chemistry, 2025*
+   This study used advanced chemical analysis (liquid chromatography-mass spectrometry) to comprehensively profile the chemical components of authentic tortoise shell decoctions versus common substitutes from other species. The researchers identified amino acids, small peptides, and lipids, and demonstrated that metabolomic analysis could distinguish genuine Gui Ban from adulterated products.
+
+3. **[Identification of Turtle Shell, Tortoise Plastron and Their Counterfeit Products (Analytical Study, 2002)](https://pubmed.ncbi.nlm.nih.gov/12512444/)**
+   *Journal: Zhongguo Zhong Yao Za Zhi, 2002*
+   Researchers identified common counterfeit products sold as tortoise plastron, including plastrons from Ocadia sinensis, Chelonia mydas, and Lepidochelys olivacea. Morphological identification combined with differential thermal analysis (DTA) could reliably distinguish authentic Gui Ban from substitutes.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/gui-ban](https://www.meandqi.com/knowledge-base/herbs/gui-ban)*

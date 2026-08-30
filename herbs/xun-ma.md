@@ -1,0 +1,167 @@
+# Xun Ma (荨麻)
+**English Name**: Stinging nettle  
+**Category**: Wind-Damp dispelling herbs (祛风湿药)  
+**Scientific Name**: Urtica cannabina L.  
+**Pharmaceutical Name**: Herba Urticae  
+**Toxicity**: Toxic  
+**Temperature**: Cold | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Liver  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Stinging nettle is a folk medicine herb widely used across northern and southwestern China. It is best known for treating joint pain caused by Wind and Dampness, and also has traditional uses for skin rashes, digestive sluggishness, and childhood convulsions. Note that this herb is considered mildly toxic and should only be used under professional guidance.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Joint and Muscle Pain Relief, Skin Health, Digestive Health, Neurological Health
+- **TCM Actions**: Dispels Wind-Dampness and Unblocks the Collaterals, Calms the Liver and Stops Convulsions, Reduces Food Stagnation and Eliminates Distension, Resolves Toxicity
+
+### How these actions work
+'Dispels Wind and unblocks the collaterals' means this herb drives out Wind-Dampness from the joints, muscles, and meridian pathways. This is its primary action and the reason it is classified among herbs that treat painful obstruction (bi zheng). Its acrid taste opens and disperses, while its bitter taste drains Dampness, making it well-suited for joint pain and stiffness caused by Wind-Dampness lodging in the body.
+'Calms the Liver and stops convulsions' means the herb can settle internal Wind arising from the Liver. Internal Wind can manifest as tremors, muscle spasms, or convulsions. This is why Xun Ma has been used traditionally for conditions like childhood convulsions and postpartum spasms. Its cold nature helps cool Liver Heat that may be generating internal Wind.
+'Reduces food stagnation and unblocks the bowels' refers to the herb's ability to promote digestion and relieve constipation. Its bitter taste has a downward-directing quality that encourages bowel movement, and it can help resolve food accumulation in the digestive tract.
+'Resolves toxicity' means the herb can clear toxic Heat and is applied topically for conditions such as snake bites and skin rashes. Its cold nature directly counteracts Heat-toxicity in the body.
+
+---
+
+## Patterns Addressed
+### Wind-Damp
+- **Explanation**: Xun Ma's acrid and bitter tastes, combined with its cold nature, make it especially effective for Wind-Dampness painful obstruction (bi zheng) where Heat is also present. Its acrid quality disperses Wind from the meridians and collaterals, while its bitter and cold properties drain Dampness and cool any Heat that has accumulated in the joints. This addresses the core pathomechanism of Wind-Damp Bi, where external pathogenic factors lodge in the musculoskeletal system and obstruct the flow of Qi and Blood through the channels.
+- **Clinical Signs & Symptoms**:
+  - **Muscle Stiffness**: Stiffness and heaviness of the limbs
+  - **Numbness In Extremities**: Numbness or tingling in the hands and feet
+
+### Liver Wind agitating Internally due to extreme Heat
+- **Explanation**: Xun Ma enters the Liver channel and has a cold nature that can cool Liver Heat, a common trigger for internal Wind. When Liver Heat flares upward and generates Wind, it can produce spasms, convulsions, and tremors. Xun Ma's ability to calm the Liver and extinguish Wind addresses this pathomechanism directly, settling the upward and erratic movement of Liver Wind. This is reflected in its traditional use for childhood convulsions and postpartum spasms.
+- **Clinical Signs & Symptoms**:
+
+### Blood Stagnation
+- **Explanation**: Xun Ma's bitter taste has a downward-directing and draining quality that can help move stagnant food through the digestive system. When undigested food accumulates in the Stomach and Intestines, it blocks the normal descending of Stomach Qi, causing bloating, fullness, and constipation. Xun Ma helps restore the downward flow and unblocks the bowels, addressing mild cases of food accumulation.
+- **Clinical Signs & Symptoms**:
+  - **Indigestion**: Abdominal distention and poor digestion
+
+---
+
+## Commonly Used For
+### Rheumatoid Arthritis
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: In TCM, rheumatoid arthritis is most commonly understood as a form of bi zheng (painful obstruction syndrome). External pathogenic factors, particularly Wind, Dampness, and sometimes Heat, invade the body's channels and collaterals, lodging in the joints. This obstructs the smooth flow of Qi and Blood, causing pain, swelling, stiffness, and in chronic cases, deformity. When the joints are red, hot, and swollen, it indicates that Dampness and Heat have combined, creating a more inflammatory pattern.
+- **Why it Helps**: Xun Ma's acrid taste disperses Wind from the channels, while its bitter and cold nature drains Dampness and cools Heat in the joints. By entering the Liver channel, which governs the sinews and tendons, it directly targets the musculoskeletal system. This makes it particularly suited for the inflammatory type of joint pain where there is redness, swelling, and warmth. Traditionally, the herb has been decocted and used as an external wash for affected joints, or taken internally as a decoction.
+
+### Urticaria
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: In TCM, urticaria (hives) is understood as Wind invading the skin level, often combined with Heat or Dampness. Wind by nature is changeable and moving, which explains the characteristic appearance and disappearance of wheals across the body. When Wind combines with Heat, the lesions are red and feel burning; when it combines with Dampness, there may be swelling and weeping. The Liver, which stores Blood and governs Wind, is often the key organ involved.
+- **Why it Helps**: Xun Ma dispels Wind from the skin and channels while its cold nature clears Heat. Its acrid taste opens the surface to release trapped Wind, and its Liver channel affinity allows it to address Wind conditions at their root. Interestingly, the plant itself causes a stinging, hive-like skin reaction on contact, and in folk medicine, it has been used fresh as a topical application specifically for urticaria, following a like-treats-like principle.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5-10g
+- **Maximum Dosage**: 10g in decoction, under practitioner supervision. Do not exceed this amount due to toxicity risk. Overdose causes severe vomiting, abdominal pain, dizziness, palpitations, and potential collapse.
+- **Dosage Notes**: The standard internal dose is 5 to 10g of the dried herb in decoction. Because of its toxicity, start at the lower end of the dosage range (5g) and adjust cautiously. For external use in conditions like urticaria or rheumatic joint pain, an appropriate amount of fresh or dried herb can be decocted and used as a wash, or the fresh herb can be carefully crushed and applied as a poultice. When used externally, handle fresh material with gloves to avoid stinging. The root (荨麻根) is sometimes used separately at 3 to 9g in decoction or steeped in medicinal wine. If signs of overdose appear (severe nausea, vomiting, abdominal pain, dizziness), stop immediately and administer fresh ginger with brown sugar water as a traditional antidote.
+- **Preparation**: The dried herb should be washed, soaked briefly in water, cut into segments, and dried before decoction. Fresh herb must never be used internally without prior cooking or processing, as the stinging hairs (containing formic acid and histamine) are irritant and toxic when raw. Boiling for at least 30 seconds or thorough drying neutralizes the stinging hairs. Handle fresh herb material with protective gloves.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Fang Feng (Ratio: 1:1)
+- **Description**: Fang Feng is a gentle Wind-dispelling herb that harmonizes with Xun Ma to strengthen the effect of driving Wind-Dampness from the joints and channels. Fang Feng's warm, sweet nature moderates Xun Ma's cold toxicity, while both herbs together cover a broader range of Wind-related conditions.
+- **When to Use**: Wind-Dampness bi pain with joint stiffness and wandering pain, especially when the patient's constitution requires a balance between cold and warm herbs.
+
+### Wei Ling Xian (Ratio: 1:1)
+- **Description**: Wei Ling Xian powerfully unblocks the channels and dispels Wind-Dampness, complementing Xun Ma's similar action. Together, they provide a stronger combined effect for stubborn painful obstruction, with Wei Ling Xian's warm nature balancing Xun Ma's coldness to prevent damage to Yang Qi.
+- **When to Use**: Chronic or stubborn Wind-Dampness bi pain with significant stiffness and difficulty moving the joints.
+
+### Gou Teng (Ratio: 1:1)
+- **Description**: Both herbs calm the Liver and extinguish Wind. Gou Teng is cooling and specifically targets Liver Yang rising and Liver Wind, reinforcing Xun Ma's convulsion-stopping action. Together they create a stronger effect against internal Wind symptoms such as tremors and spasms.
+- **When to Use**: Internal Liver Wind with convulsions, childhood seizures, or muscle spasms, particularly when accompanied by Liver Heat.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Toxic
+The stinging hairs (trichomes) covering the stems and leaves contain formic acid, butyric acid, histamine, serotonin, and other irritant acidic compounds collectively called 'nettle acid' (荨麻酸). Contact with fresh plant material causes immediate burning pain, itching, redness, and swelling of the skin, similar to a bee sting. The Ben Cao Gang Mu classifies it as having 'great toxicity' (有大毒), while the Sichuan Materia Medica and Xinjiang Materia Medica describe 'slight toxicity' (有小毒), reflecting variation in species and preparation. Oral overdose causes severe vomiting, abdominal pain, dizziness, palpitations, and potentially collapse. Treatment for overdose includes fresh ginger with brown sugar water, along with symptomatic support. Drying or boiling the herb neutralizes the stinging hairs and significantly reduces toxicity. Proper preparation (cutting into segments and thorough drying, or blanching in boiling water) is essential before any internal use. Even when dried and properly prepared, the herb should only be used in small, controlled doses.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Xun Ma is classified as toxic in classical sources, and traditional folk use includes applications for postpartum conditions. The herb's documented irritant components (formic acid, histamine) and its traditional use to treat 'postpartum convulsions' suggest uterine-stimulating properties. The Wen Shan Materia Medica explicitly warns that overdose causes severe vomiting, abdominal pain, and collapse, posing clear risks to both mother and fetus. No safety data exist for pregnancy use. Pregnant women should avoid this herb entirely.
+- **Breastfeeding**: Insufficient safety data. While stinging nettle has been traditionally used in European folk medicine as a galactagogue (to promote milk production), no reliable clinical evidence establishes its safety during breastfeeding in the context of TCM-grade preparations. Given its classification as a toxic herb in classical Chinese sources, with irritant compounds including formic acid and histamine that could theoretically transfer into breast milk, caution is strongly advised. Breastfeeding mothers should avoid this herb unless specifically directed by a qualified practitioner.
+- **Children**: Use with great caution in children. Xun Ma is classified as toxic in classical sources and has a narrow dosage range. Children are more sensitive to its irritant and toxic components. The herb has been used traditionally for childhood conditions including infantile convulsions (小儿惊风) and polio sequelae, but only under experienced practitioner supervision. Dosage must be significantly reduced from the adult range, proportional to the child's age and weight. Not suitable for very young children or infants. External application of fresh herb should be avoided due to the stinging hairs causing painful skin reactions.
+
+### Drug Interactions
+Antidiabetic medications: Nettle has demonstrated blood-sugar-lowering effects in multiple clinical trials. Concurrent use with insulin, metformin, sulfonylureas, or other hypoglycemic agents may result in additive hypoglycemia. Blood glucose should be monitored closely if nettle is used alongside these medications.
+Antihypertensive medications: Nettle possesses diuretic properties and has shown blood-pressure-lowering effects in research. Combining it with ACE inhibitors, beta-blockers, calcium channel blockers, or other antihypertensives may cause excessive blood pressure reduction.
+Diuretic medications: Nettle's inherent diuretic action could potentiate the effects of pharmaceutical diuretics (thiazides, loop diuretics), increasing the risk of dehydration and electrolyte imbalances, particularly potassium depletion.
+Anticoagulant/antiplatelet medications: Nettle has traditionally been used both as a hemostatic (止血) and as a blood-invigorating (活血) herb. Its interaction with warfarin, heparin, or antiplatelet drugs is theoretically possible but not well characterized. Caution is advised.
+Lithium: Due to nettle's diuretic properties, it could theoretically reduce lithium excretion, leading to increased lithium levels and potential toxicity.
+
+### Dietary Advice
+Because Xun Ma is classified as cold or cool in thermal nature by most classical sources, avoid consuming cold or raw foods alongside it to prevent further burdening the Spleen and Stomach with cold. Warm, easily digestible foods are preferable during a course of treatment. Fresh ginger tea can be taken to counteract any gastrointestinal discomfort. Avoid alcohol, as it may amplify the herb's irritant effects on the digestive tract.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Xun Ma refers to the whole aerial parts (全草) of several species in the genus Urtica (Urticaceae family), most commonly Urtica cannabina L. (麻叶荨麻), Urtica laetevirens Maxim. (宽叶荨麻), Urtica fissa Pritz. (荨麻/裂叶荨麻), and Urtica angustifolia (狭叶荨麻). These are perennial herbaceous plants with creeping rhizomes. The stems grow 40 to 150 cm tall, are four-angled, and are covered with both stinging hairs (螫毛) and fine, soft hairs.
+The leaves are opposite, membranous, and highly variable in shape, ranging from broadly ovate to pentagonal or nearly circular outlines, with palmate lobes and irregularly toothed margins. Both surfaces bear sparse stinging hairs. The plants are monoecious or dioecious. Male flower clusters appear in the lower leaf axils and female flower clusters in the upper axils. Flowers are small and greenish. The fruit is a small, flattened achene, nearly round, with brownish-red warty spots on its surface. Flowering occurs from July to October, fruiting from August to November depending on species.
+The stinging hairs are hollow, needle-like structures that break on contact and inject irritant chemicals including formic acid, histamine, and serotonin into the skin, causing intense burning pain, itching, redness, and swelling. This is the plant's characteristic defense mechanism and the origin of its name (Urtica, from Latin urere, meaning 'to burn').
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to autumn. The whole aerial parts are collected, cut into segments, and dried in the sun.
+- **Primary Growing Regions**: Xun Ma is widely distributed across China and does not have a single established 'terroir' (道地药材) region in the way that many standard Materia Medica herbs do. The broadleaf nettle (宽叶荨麻) grows across northeastern China, northern China, and in provinces including Shaanxi, Gansu, Qinghai, Shandong, Hubei, Hunan, Sichuan, Yunnan, and Tibet, preferring high-altitude, low-temperature, moist mountain habitats. The species Urtica fissa is mainly found in Shaanxi, Gansu, Anhui, Zhejiang, Fujian, Henan, Hubei, Hunan, Guangxi, Sichuan, Guizhou, and Yunnan, typically growing on mountain slopes, roadsides, and shaded, semi-moist sites at elevations of 100 to 2000 meters. The hemp-leaved nettle (麻叶荨麻) grows in northeastern, northern, and northwestern China as well as Sichuan and Yunnan. Li Shizhen noted that it was particularly abundant in Sichuan and Guizhou. Xinjiang also produces significant quantities of nettle species used in regional folk medicine.
+- **Quality Indicators**: Good quality Xun Ma herb material should be cut into short segments of varying lengths, with stems 1.5 to 4 mm in diameter that are green to reddish-purple in color, showing blunt ridges and sparse stinging hairs and soft hairs visible under close inspection. The leaves should be green (not browned or excessively darkened), though they will be wrinkled and fragile when dried. Flower spikes may be present in the leaf axils. The achenes (fruits), when present, are broadly ovate, slightly flattened, and about 1.5 mm long. The material should feel light and soft in texture. The smell should be faint and the taste mild with a slight pungency. The best quality material is dry, with stems and leaves still green, free of excessive browning, mold, or foreign matter.
+
+### Identity & Adulterants
+Xun Ma (荨麻) encompasses multiple Urtica species used somewhat interchangeably in Chinese folk medicine, including broadleaf nettle (宽叶荨麻, U. laetevirens), hemp-leaved nettle (麻叶荨麻, U. cannabina), narrow-leaved nettle (狭叶荨麻, U. angustifolia), and split-leaved nettle (裂叶荨麻, U. fissa). These have overlapping but not identical chemical profiles. The European stinging nettle (异株荨麻, U. dioica) is a related species used extensively in Western herbal medicine but should not be assumed to be identical to the Chinese species. Do not confuse with 'dead nettles' (Lamium spp.), which belong to the mint family (Lamiaceae) and do not sting. They can be distinguished by their hollow, square stems and very different flower morphology. Also take care not to confuse with ramie (苎麻, Boehmeria nivea), a related Urticaceae plant whose leaves superficially resemble nettle but which lacks stinging hairs and has entirely different medicinal properties.
+
+---
+
+## References
+### Classical Texts
+#### 《本草纲目》(Ben Cao Gang Mu) — Li Shizhen, Ming Dynasty
+- **Original**: 荨麻，川、黔诸处甚多。其茎有刺，高二、三尺；叶似花桑，或青或紫，背紫者入药。上有毛芒可畏；有花无实，冒冬不雕，挼投水中，能毒鱼。
+- **Translation**: Xun Ma is very abundant in Sichuan and Guizhou. Its stems have prickles and grow two to three chi tall. The leaves resemble mulberry leaves, either green or purple; those with purple undersides are used medicinally. The fearsome stinging hairs cover the plant. It has flowers but no fruit, survives winter without withering, and when crushed and thrown into water, it can poison fish.
+
+### Historical Context
+Xun Ma has been known in Chinese folk medicine for centuries, though it occupies a secondary position compared to the major herbs of the standard pharmacopoeia. Li Shizhen (李时珍) documented it in the Ben Cao Gang Mu (《本草纲目》, 1578), describing its distinctive stinging hairs and noting its abundance in Sichuan and Guizhou provinces. The Ben Cao Tu Jing (《本草图经》) from the Song Dynasty had already recorded its medicinal uses and its toxicity warning. An older reference in the Shu Yu (《蜀语》) described it as a plant whose 'barbed prickles sting people with unbearable pain,' distinguishing red and white varieties.
+The Chinese name 荨麻 literally means 'nettle hemp,' reflecting the resemblance of its leaves and fibers to hemp and ramie. The character 荨 is notably read differently in medical versus botanical contexts (xún for the herb, qián for the plant genus). Historically, it was also called 蠚草 ('stinging grass'), 蝎子草 ('scorpion grass'), and 螫麻 ('stinging hemp'). Beyond China, stinging nettle (Urtica dioica) has been used for over 2,000 years in European folk medicine as a remedy for joint pain, a diuretic, and a blood tonic. In Europe, it has been developed into commercial preparations for rheumatic conditions and benign prostatic hyperplasia. The fibers of nettle stems have been used across cultures to make textiles, and the young shoots are eaten as a nutritious vegetable once the stinging hairs are neutralized by cooking or drying.
+
+### Modern Scientific Research
+1. **[Systematic review and meta-analysis: Effect of nettle supplementation on glycemic control in type 2 diabetes (2020)](https://pubmed.ncbi.nlm.nih.gov/31802554/)**
+   *Journal: Razavi BM, Ghasemzadeh Rahbardar M, Hosseinzadeh H. Phytotherapy Research, 2020, 34(7), 1490-1497.*
+   This meta-analysis of 8 randomized controlled trials involving 401 participants with type 2 diabetes found that nettle supplementation significantly reduced fasting blood sugar concentrations by an average of about 18 mg/dL. However, no significant changes were observed in insulin levels, insulin resistance, or HbA1c. The authors noted high heterogeneity between studies.
+
+2. **[Comprehensive review: Anti-inflammatory properties of Urtica dioica (2024)](https://doi.org/10.1007/s11101-024-09980-6)**
+   *Journal: Abreu T, et al. Phytochemistry Reviews, 2024.*
+   This review evaluated existing literature on the anti-inflammatory actions of Urtica dioica, examining both in vitro and in vivo studies. The authors concluded that evidence supports nettle's role as a therapeutic approach for inflammatory-derived diseases, with multiple phytochemicals contributing to its downregulatory effects on inflammatory pathways. However, they noted an emerging need for more clinical trials.
+
+3. **[Comprehensive review: Nettle root effect and efficacy in benign prostatic hyperplasia (2007)](https://pubmed.ncbi.nlm.nih.gov/17509841/)**
+   *Journal: Chrubasik JE, Roufogalis BD, Wagner H, Chrubasik S. Planta Medica, 2007, 73(9), 863-869.*
+   This systematic literature review examined pharmacological and clinical data on nettle root preparations for benign prostatic hyperplasia (BPH). In vitro studies showed that nettle root extracts inhibit binding of sex hormone binding globulin (SHBG) to prostatic membranes and have anti-proliferative effects. Clinical evidence from open studies and a small number of randomized controlled trials indicated effectiveness in improving BPH symptoms, with very low risk of adverse events.
+
+4. **[Review: Urtica dioica anticancer properties and systemic health benefits (2024)]()**
+   *Journal: PMC Article, 2024, PMC11242153.*
+   This comprehensive review assessed the therapeutic effects of Urtica dioica across multiple domains including anticancer, antidiabetic, anti-inflammatory, antimicrobial, and analgesic properties, as well as systemic effects on various organ systems. The evidence, largely from preclinical studies, suggests selective chemopreventive properties against various cancer types including prostate, breast, and colon cancer, with mechanisms involving apoptosis induction through caspase activation and modulation of Bax/Bcl-2 ratios.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xun-ma](https://www.meandqi.com/knowledge-base/herbs/xun-ma)*

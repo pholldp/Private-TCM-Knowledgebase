@@ -1,0 +1,166 @@
+# Mo Li Hua (茉莉花)
+**English Name**: Jasmine flower  
+**Category**: Qi-regulating herbs (理气药)  
+**Scientific Name**: Jasminum sambac (L.) Aiton  
+**Pharmaceutical Name**: Flos Jasmini Sambac  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Sweet (甘 gān)  
+**Channels Entered**: Spleen, Stomach, Liver  
+**Parts Used**: Flower (花 huā)  
+
+---
+
+## Summary
+Jasmine flower is a gentle, aromatic herb best known for soothing digestive discomfort and easing emotional tension. It is warm in nature and commonly enjoyed as a tea to relieve bloating, stomach pain, and feelings of stress or low mood. In Chinese medicine it is valued for helping Qi flow smoothly through the body, particularly in the digestive system and Liver.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Emotional Wellbeing, Stress and Anxiety, Eye Health and Vision
+- **TCM Actions**: Courses the Liver and Resolves Constraint, Harmonizes the Spleen and Stomach, Transforms Turbidity, Alleviates Pain, Clears Heat and Brightens the Eyes
+
+### How these actions work
+'Regulates Qi and relieves depression' (理气开郁) means jasmine flower helps to restore the smooth flow of Qi when it has become stuck or stagnant, especially in the Liver and digestive system. The Liver is responsible for ensuring Qi moves freely throughout the body, and when this function is disrupted, people may feel emotional tension, chest tightness, or pain along the ribs. Jasmine's pungent and aromatic nature gently disperses this stagnation and lifts the mood. This is why jasmine tea is traditionally enjoyed for emotional comfort and relaxation.
+'Harmonizes the Spleen and Stomach' (和中) refers to jasmine flower's ability to restore balance to the digestive organs. When the Spleen and Stomach are disrupted by dampness or cold, symptoms like bloating, poor appetite, nausea, or loose stools can occur. Jasmine's warm nature and sweet taste gently warm the middle region of the body and help the digestive system function smoothly again. It is commonly brewed as a tea after meals for this purpose.
+'Dispels turbid dampness' (辟秽浊) means jasmine flower can counteract foul, heavy, turbid influences that obstruct the body's middle region. In classical usage, this was particularly valued during hot, humid seasons when damp-heat or damp-cold could invade the gut, causing diarrhea or dysentery with foul-smelling stools. The herb's aromatic quality was considered especially effective at cutting through these murky, stagnant conditions.
+'Stops pain' relates to jasmine's ability to relieve abdominal pain and epigastric discomfort caused by Qi stagnation or cold obstruction in the digestive tract. Its pungent taste helps move stuck Qi, while its warmth disperses cold, together addressing the root cause of the pain.
+
+---
+
+## Patterns Addressed
+### Liver Qi Stagnation
+- **Explanation**: Jasmine flower's pungent taste and aromatic nature give it a strong ability to move Qi and open constraint, directly targeting the Liver's tendency to stagnate. It enters the Liver channel and its warm, dispersing quality counteracts the tightness and constriction characteristic of Liver Qi stagnation. Unlike stronger Qi-moving herbs, jasmine is mild enough for everyday use and has an uplifting quality that addresses the emotional component of this pattern, including low mood and irritability.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondriac Pain And Discomfort**: Fullness and discomfort along the ribs
+  - **Chest Stiffness**: Feeling of oppression in the chest
+
+### Turbid Dampness obstructing the Middle Burner
+- **Explanation**: When damp-turbidity accumulates in the Spleen and Stomach, digestion stalls and the middle burner becomes heavy, bloated, and obstructed. Jasmine flower's warm nature and aromatic quality make it well suited to 'aromatically transforming dampness' (芳香化湿). It enters the Spleen and Stomach channels, and its pungent taste helps disperse the heavy, stagnant dampness that is blocking normal digestive function. Its sweetness gently supports the Spleen's own digestive capacity without adding further heaviness.
+- **Clinical Signs & Symptoms**:
+
+### Spleen and Stomach Qi Deficiency
+- **Explanation**: While jasmine flower is primarily a Qi-moving herb rather than a Qi tonic, its gentle warmth and sweet taste can support a weakened Spleen and Stomach. Classical sources note it is suitable for deficient patients (虚人宜之). Its mild nature makes it an appropriate daily beverage for people with chronically weak digestion who also experience Qi stagnation, as stronger Qi-moving herbs might further deplete an already weak middle burner.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Irritable Bowel Syndrome
+- **Arises from**: Turbid Dampness obstructing the Middle Burner, Liver Qi Stagnation
+- **TCM Interpretation**: In TCM, irritable bowel syndrome often involves a combination of Spleen weakness, dampness accumulation, and Liver Qi stagnation overacting on the digestive system. The Liver is highly sensitive to emotional stress, and when its Qi stagnates, it can disrupt the Spleen and Stomach, leading to alternating diarrhea and constipation, cramping, and bloating. Many IBS sufferers notice their symptoms worsen with stress, which reflects this Liver-Spleen dynamic in TCM terms.
+- **Why it Helps**: Jasmine flower addresses IBS through two complementary mechanisms. Its pungent, aromatic quality disperses dampness and turbidity from the middle burner, directly relieving bloating and diarrhea. Simultaneously, it soothes Liver Qi stagnation, helping to break the cycle where emotional tension triggers digestive flare-ups. As a warm, gentle herb that enters the Spleen, Stomach, and Liver channels, it targets exactly the organ systems involved. Its mildness makes it suitable for daily use as a tea, which suits the chronic nature of IBS.
+
+### Depression
+- **Arises from**: Liver Qi Stagnation
+- **TCM Interpretation**: TCM understands depression primarily through the lens of Liver Qi stagnation. The Liver governs the free flow of Qi and plays a central role in emotional regulation. When Liver Qi becomes constrained, often from prolonged stress, frustration, or unexpressed emotions, the person may experience a heavy, stuck feeling, loss of interest, chest oppression, sighing, and irritability. Over time this stagnation can also affect the Spleen (impairing appetite and digestion) and the Heart (disturbing the spirit and sleep).
+- **Why it Helps**: Jasmine flower's aromatic, pungent nature has a gently uplifting and dispersing quality that helps release constrained Liver Qi. It enters the Liver channel directly and its warm nature counteracts the heavy, stagnant feeling associated with Qi constraint. Classical sources describe it as having the ability to 'resolve depression' (开郁), and its fragrant aroma has a calming yet uplifting effect on the spirit. While not a replacement for comprehensive treatment, jasmine tea is a gentle daily support for mild emotional stagnation.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-10g
+- **Maximum Dosage**: Up to 15g in decoction under practitioner supervision. As a food-grade and non-toxic herb, Mo Li Hua has a wide safety margin, but higher doses are rarely needed clinically.
+- **Dosage Notes**: For Qi stagnation with chest or abdominal fullness, use 3-6g in decoction. For dysentery with abdominal pain, use 6-10g. When used as a substitute for tea (dai cha yin), 3-5g steeped in hot water is typical for gentle, ongoing use. External use for eye redness: decoct an appropriate amount and use the strained liquid as a warm eyewash. For ear pain: soak flowers in rapeseed oil and use as ear drops. In formulas for headache and dizziness, Mo Li Hua is often added in the last few minutes of decoction to preserve its aromatic volatile oils.
+- **Preparation**: When used in decoction, Mo Li Hua should be added near the end of cooking (hou xia, 后下), typically in the last 5 minutes, to preserve its volatile aromatic compounds that are responsible for much of its Qi-regulating effect. It is most commonly used as a substitute for tea (dai cha yin), simply steeped in freshly boiled water and drunk.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Mei Gui Hua (Ratio: 1:1 (3&#x2013;6g each))
+- **Description**: Both are aromatic flower herbs that regulate Qi and soothe the Liver. Together they have a stronger effect on dispersing Liver Qi stagnation and calming the emotions than either alone. Jasmine harmonizes the Spleen and Stomach while rose flower also moves Blood and addresses menstrual irregularity, making this a comprehensive pair for emotional and physical stagnation.
+- **When to Use**: Liver Qi stagnation with emotional tension, chest and rib-side discomfort, and digestive symptoms. Also useful for premenstrual breast distension and mood swings.
+
+### Chen Pi (Ratio: 1:1 (3&#x2013;6g each))
+- **Description**: Chen Pi (tangerine peel) regulates Spleen and Stomach Qi and dries dampness, while jasmine flower aromatically transforms dampness and opens constraint. Together they provide a broader spectrum of Qi-moving and dampness-resolving action in the middle burner, reinforcing each other's digestive benefits.
+- **When to Use**: Dampness obstructing the middle burner with bloating, poor appetite, nausea, and sluggish digestion. Especially useful in humid climates or after heavy meals.
+
+### Fo Shou (Ratio: 1:1 (3&#x2013;6g each))
+- **Description**: Fo Shou (Buddha's hand citron) is a premier Qi-regulating herb for the Liver and Stomach. When combined with jasmine flower, their shared aromatic and Qi-moving properties are enhanced. Fo Shou adds stronger stomach-harmonizing and phlegm-transforming effects while jasmine contributes its mood-lifting aromatic quality.
+- **When to Use**: Liver-Stomach disharmony with epigastric pain, rib-side fullness, belching, and poor appetite. Suitable for patients with both emotional constraint and digestive stagnation.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Mo Li Hua is classified as non-toxic. Toxicity studies in mice showed the LD50 of jasmine flower crude polysaccharides by intraperitoneal injection was 1.936 g/kg, indicating very low toxicity. A separate study found the oral LD50 of an ethanolic flower extract to be higher than 5,000 mg/kg in rats, confirming a wide safety margin. No specific toxic components have been identified in the flower at standard dosages. The herb is classified as GRAS (Generally Recognized As Safe) as a food ingredient by the U.S. FDA.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Classically, Mo Li Hua has been recorded as an aid for difficult labor (as in Chai Yi's Shi Jian Ben Cao, which describes using 7 jasmine flowers swallowed with hot water to facilitate delivery), suggesting it may have uterine-stimulating properties. Its warm, Qi-moving nature could theoretically promote uterine contractions. While there is no strong modern evidence of teratogenicity, the traditional association with labor facilitation warrants avoidance during pregnancy, particularly in the first and second trimesters. Consult a qualified practitioner before use.
+- **Breastfeeding**: Mo Li Hua may suppress lactation. Research has shown that topical application of jasmine flowers to the breasts can reduce serum prolactin levels and decrease milk production comparably to bromocriptine. According to the NIH LactMed database, no data exist on whether jasmine components are excreted into breast milk. Jasmine is classified as GRAS (Generally Recognized As Safe) by the U.S. FDA as a food ingredient, and drinking small amounts of jasmine tea is considered unlikely to be harmful during nursing. However, women who wish to maintain their milk supply should avoid concentrated medicinal doses. Women who wish to reduce or stop milk production may find jasmine flowers helpful as a traditional, non-pharmacological method.
+- **Children**: Mo Li Hua is generally mild and well tolerated. For children, it is most commonly given as jasmine flower tea rather than in decoction form. Dosage should be reduced to approximately one-third to one-half of the adult dose depending on the child's age and weight. The herb is suitable for children over 3 years of age in tea form at mild doses (1-3g). Due to the lack of specific pediatric clinical studies, use in very young infants should be avoided. Consult a practitioner for appropriate dosing.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Mo Li Hua at standard oral doses. However, based on pharmacological research findings, the following theoretical considerations apply:
+- Anticoagulant/antiplatelet drugs: Preliminary animal research has identified quercetin, rutin, and salicylic acid in J. sambac extracts, and one study demonstrated dose-dependent increases in bleeding time and clotting time. Patients on warfarin, heparin, or antiplatelet agents should exercise caution with concentrated medicinal preparations.
+- Antihypertensive medications: Preclinical studies have demonstrated vasodilatory and hypotensive effects from J. sambac extracts. Concurrent use with antihypertensive drugs could theoretically potentiate blood pressure lowering.
+- Medications affecting prolactin: Given evidence that jasmine may lower serum prolactin, concurrent use with dopamine agonists (e.g. bromocriptine, cabergoline) could theoretically have additive effects. Conversely, it may partially counteract prolactin-elevating drugs such as antipsychotics.
+These interactions are based on preclinical data, often using concentrated extracts rather than typical decoction doses. Standard tea-level consumption is unlikely to cause clinically significant interactions.
+
+### Dietary Advice
+Avoid cold, raw, and greasy foods while taking Mo Li Hua medicinally, as these can obstruct the Qi-regulating and dampness-transforming actions of the herb. Spicy and strongly stimulating foods should also be moderated. Light, easily digestible meals support the herb's ability to harmonize the Stomach and relieve bloating. When using Mo Li Hua as a tea for Liver Qi stagnation and emotional tension, pairing it with a calm, regular eating schedule enhances its soothing effects.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Jasminum sambac (L.) Ait. is an evergreen climbing shrub in the Oleaceae (olive) family, growing 0.5 to 3 metres tall. The stems are cylindrical or slightly flattened, sometimes hollow, with fine hairs. Leaves are opposite, broadly ovate to elliptical, 4 to 12 cm long and 2 to 7 cm wide, with smooth upper surfaces and small tufts of yellowish hair at the vein axils underneath. Short leaf stalks (2 to 6 mm) bear fine soft hairs.
+The flowers are white, intensely fragrant, and borne in clusters of 3 to 12 at the ends of branches. Each flower has a tubular calyx with 8 to 10 slender teeth and a corolla of several elliptical petals that are white when fresh. The plant thrives in warm, humid climates with ample sunlight and well-drained, fertile soil, preferring temperatures of 20 to 40°C. It flowers prolifically from late spring through autumn, with the blossoms opening and releasing their strongest fragrance in the evening and night.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer, from June through October when the flowers are in bloom. Flowers are typically picked in the afternoon when buds are large and plump, or in early morning to capture peak fragrance.
+- **Primary Growing Regions**: Guangxi Province (especially Hengzhou/Hengxian, known as the "Jasmine Capital of the World," producing over 80% of China's output and 60% of the world's supply) is the premier growing region. Other important production areas include Fujian Province (especially Fuzhou, with a long historical tradition), Sichuan Province (Qianwei County, known for large buds and thick petals with intense fragrance), Jiangsu Province (Suzhou), Guangdong Province, and Yunnan Province (Yuanjiang County, which has the longest flowering season from March to November). The herb originally came from South Asia (India/eastern Himalayas) and was introduced to China via maritime trade routes during the Han Dynasty.
+- **Quality Indicators**: Good quality dried Mo Li Hua should consist of whole, intact flower buds or slightly opened flowers. The flowers should appear as flattened, slightly compressed clusters about 1.5 to 2 cm long and 1 cm in diameter. The calyx tube should have 8 to 10 slender teeth visible. When the petals are unfolded, they should be elliptical (about 1 cm long, 5 mm wide) with a yellowish-brown to light brown colour and a smooth, hairless surface. The texture should be dry and slightly brittle. Most importantly, the fragrance should be strong, sweet, and characteristically floral. Taste should be slightly astringent. Avoid batches that are excessively dark, crumbled into powder, have lost their fragrance, or show signs of mold or excessive moisture.
+
+### Identity & Adulterants
+Mo Li Hua (Jasminum sambac, Arabian jasmine) should not be confused with several related but distinct species. Jasminum officinale (common jasmine, Su Xin Hua 素馨花) is a different species with different medicinal properties and is used as a separate herb in TCM. Gelsemium sempervirens (false jasmine, Carolina jessamine) is an entirely unrelated and highly toxic plant that should never be confused with true jasmine. Gardenia jasminoides (Zhi Zi 栀子) is sometimes colloquially called "jasmine" in some regions but is a completely different medicinal herb with cold properties. Poor quality or adulterated product may consist of jasmine flowers that have already been used for tea-scenting (exhausted flowers with minimal remaining fragrance), or flowers that have been artificially scented. Authentic herb should have a naturally strong, sweet fragrance.
+
+---
+
+## References
+### Classical Texts
+#### 《本草纲目》(Ben Cao Gang Mu) by Li Shizhen
+- **Original**: 辛，热，无毒。
+- **Translation**: Acrid, hot, non-toxic.
+
+### Historical Context
+Mo Li Hua (茉莉花) has a rich cultural history in China spanning over two thousand years. The plant was introduced from South Asia (likely India) via the ancient maritime Silk Road during the Western Han Dynasty. The Chinese name "茉莉" (mò lì) is believed to be a transliteration from the Sanskrit "mallika" or a related South Asian language. As early as the Song Dynasty, the poet Jiang Kui praised jasmine, writing "he year I若修花史，列作人间第一香" ("If I were to compile a history of flowers, I would rank this the finest fragrance in the world").
+Though ancient medical formulas rarely included jasmine flower, its medicinal use grew over time. The Ben Jing Feng Yuan noted that classical formulas seldom used it, but by later periods it was commonly employed for dysentery. The Ben Cao Zheng Yi observed that its actions were comparable to rose flower and bitter orange flower, but cautioned against excessive use due to its warm nature. A prominent cultural legend in Suzhou links jasmine's fragrance to a Tang Dynasty courtesan named Zhen Niang (真娘), whose spirit was said to have infused the previously scentless flower with fragrance after her tragic death. Jasmine also holds significance in Buddhism as a symbol of purity and mindfulness.
+In modern times, Guangxi Hengzhou became China's dominant jasmine production center from the 1980s onward. The Fuzhou jasmine tea-scenting tradition was inscribed on UNESCO's list of Intangible Cultural Heritage in 2022, underscoring the flower's enduring cultural importance.
+
+### Modern Scientific Research
+1. **[Suppression of Puerperal Lactation Using Jasmine Flowers (Comparative Clinical Study, 1988)](https://pubmed.ncbi.nlm.nih.gov/3214386/)**
+   *Journal: Shrivastav P, George K, Balasubramaniam N, Jasper MP, Thomas M, Kanagasabhapathy AS. Australian and New Zealand Journal of Obstetrics and Gynaecology, 1988, 28(1): 68-71.*
+   This study compared topical application of Jasminum sambac flowers to the breasts versus oral bromocriptine for suppressing postpartum lactation. Both treatments reduced serum prolactin levels, though bromocriptine produced a greater hormonal reduction. However, clinical outcomes (breast engorgement, milk production, pain relief) were equally effective between the two groups, suggesting jasmine flowers are a practical, low-cost alternative for lactation suppression.
+
+2. **[Chemical Composition, Toxicity and Vasodilatation Effect of J. sambac Flower Extract (Preclinical Study, 2012)](https://pubmed.ncbi.nlm.nih.gov/22536286/)**
+   *Journal: Kunhachan P, Banchonglikitkul C, Kajsongkram T, Khayungarnnawee A, Leelamanit W. Evidence-Based Complementary and Alternative Medicine, 2012, Article ID 593892.*
+   This study analyzed the phytochemistry and pharmacology of a J. sambac flower extract. Phytochemical analysis revealed coumarins, cardiac glycosides, essential oils, flavonoids, phenolics, saponins, and steroids. The extract showed no systemic toxicity in mice at tested doses and had an oral LD50 exceeding 5,000 mg/kg in rats. The flower extract demonstrated dose-dependent vasodilation of rat aortic rings through an endothelium-dependent mechanism involving muscarinic receptors and nitric oxide release.
+
+3. **[Jasminum sambac: A Potential Candidate for Drug Development to Cure Cardiovascular Ailments (Preclinical Study, 2021)](https://pubmed.ncbi.nlm.nih.gov/34577135/)**
+   *Journal: Molecules, 2021, 26(19): 5727.*
+   This study investigated J. sambac leaf extract for cardiovascular effects in animal models. The extract produced vasorelaxant effects in aortic rings and lowered blood pressure in a dose-dependent manner. It also demonstrated cardioprotective effects against adrenaline-induced left ventricular hypertrophy in rabbits, reducing cardiac biomarkers of damage including LDH, troponin, and CK-MB.
+
+4. **[Anti-inflammatory, Analgesic and Anti-pyretic Activities of Standardized Root Extract of J. sambac (Preclinical Study, 2015)](https://pubmed.ncbi.nlm.nih.gov/25479154/)**
+   *Journal: Journal of Ethnopharmacology, 2015, 161: 124-130.*
+   This study validated the traditional use of J. sambac roots for pain and inflammation using multiple animal models. The standardized ethanol root extract showed significant anti-inflammatory activity in carrageenan-induced paw edema and adjuvant-induced arthritis models, analgesic activity in writhing and tail-flick tests, and antipyretic activity in yeast-induced pyrexia in rats.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/mo-li-hua](https://www.meandqi.com/knowledge-base/herbs/mo-li-hua)*

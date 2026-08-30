@@ -1,0 +1,58 @@
+# Xuan Fu Hua Tang (旋覆花汤)
+**English Name**: Inula Flower Decoction  
+**Category**: Blood-invigorating and stasis-resolving formulas  
+**Dynasty/Source**: Jin Gui Yao Lue (金匮要略) by Zhang Zhongjing  
+**Temperature**: Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical three-herb formula from Zhang Zhongjing's Jin Gui Yao Lue, designed to relieve chest and rib-side discomfort caused by stagnation of Qi and Blood in the Liver's network vessels. It is often used for persistent feelings of tightness, pressure, or dull pain in the chest or under the ribs that feel better with pressing or rubbing, along with a preference for warm drinks.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Invigorates Blood and Dispels Stasis, Warms and Unblocks Yang, Opens the Chest and Disperses Stagnation, Descends Qi and Resolves Binding, Soothes the Liver and Regulates Qi
+- **Therapeutic Focus**: Liver Health, Chest Pain Relief, Circulation Support, Women's Health
+- **Target Organs**: Liver, Lungs
+- **Patterns Addressed**: 
+- **Conditions Treated**: Chronic Hepatitis, Intercostal Neuralgia, Coronary Artery Disease, Cirrhosis, Chronic Pelvic Inflammatory Disease, Amenorrhea, Abnormal Uterine Bleeding
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Xuan Fu Hua** | Inula flower | *King* | 9 - 12g | Temp: Slightly Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Spleen, Stomach, Large Intestine | The chief herb of the formula. Xuan Fu Hua is salty and warm, entering the Liver, Lung, and Stomach channels. In this formula it resolves knotted Qi, descends stagnant Qi, softens hardness, and opens the Liver collaterals. Despite being a flower and therefore light in nature, its salty flavor gives it the ability to penetrate and dissolve accumulations. Its classical description in the Shen Nong Ben Cao Jing highlights its ability to treat "bound Qi" and "fullness below the ribs" and to "open the Blood vessels," making it the ideal lead herb for the Liver fixity pattern. |
+| **Cong Bai** | Scallion Bulb | *Deputy* | 7 - 14 stems (approximately 20 - 30g) | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Stomach | Used in a large quantity (14 stems in the original), Cong Bai is acrid and warm. It powerfully unblocks Yang Qi and disperses knotted stagnation, similar to how Xie Bai is used in chest impediment formulas. Its pungent aroma transforms turbidity, opens the chest, and promotes the free flow of Qi through the Liver channel. The Ming Yi Bie Lu specifically notes Cong Bai's ability to expel "pathogenic Qi from the Liver," supporting its role as deputy to Xuan Fu Hua in treating Liver fixity. |
+| **Qian Cao** | Indian Madder root | *Assistant* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Heart | The original text calls for "Xin Jiang" (新绛) in a small amount. This ingredient has been debated for centuries. The prevailing modern interpretation is that it refers to Qian Cao (茜草, madder root), or to silk fabric dyed with madder. In practice, most modern physicians substitute Qian Cao directly. Qian Cao enters the Liver channel and invigorates Blood while transforming stasis. It focuses the Qi-moving action of the other herbs into the Blood level, ensuring the formula addresses Blood stagnation alongside Qi stagnation in the Liver collaterals. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. The formula's primary therapeutic strategy is to move Qi and activate Blood circulation, which poses risks during pregnancy. Xin Jiang (新绛), typically substituted with Qian Cao (茜草, Madder root), is a blood-invigorating herb that could potentially stimulate uterine contractions or promote bleeding. The classical text itself associates this formula with threatened miscarriage (half-birth and persistent spotting), though most scholars consider that textual passage to be a transcription error (cuo jian). Pregnant women should not take this formula.
+
+### Breastfeeding
+No specific classical prohibitions exist for use during breastfeeding. The formula is composed of relatively mild, common ingredients. Qian Cao (Madder root, the standard substitute for Xin Jiang) and Xuan Fu Hua are not known to have significant transfer into breast milk or adverse effects on lactation. However, the blood-moving nature of the formula warrants caution in postpartum women who are still experiencing lochia or have not fully recovered from childbirth, as it could theoretically increase bleeding. Use under practitioner guidance is recommended.
+
+### Children
+There is no established tradition of using Xuan Fu Hua Tang in pediatric practice, and classical texts do not specifically address its use in children. The formula's blood-moving properties make it more suited to adult presentations of chest and hypochondriac pain from Qi and Blood stagnation. If a practitioner does consider it for an older child or adolescent, dosages would typically be reduced to one-third to one-half of the adult dose depending on age and body weight. It is not suitable for young children or infants.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Qian Cao (茜草, Madder root), the standard substitute for Xin Jiang, has documented blood-activating and anticoagulant properties. Its active compounds (including alizarin and purpurin) may potentiate the effects of warfarin, heparin, aspirin, or clopidogrel, increasing bleeding risk. Patients on blood-thinning medications should use this formula only under close medical supervision with appropriate monitoring.
+Antihypertensive medications: Cong Bai (scallion) has mild vasodilatory and diaphoretic effects. While clinically insignificant in most cases, concurrent use with antihypertensive drugs could theoretically have additive blood-pressure-lowering effects in sensitive individuals.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: As a single dose (顿服, dun fu) after meals, preferably warm. The classical instruction calls for taking the entire decoction at once to concentrate the formula's unblocking force.
+- **Typical Duration**: Acute use: 3-7 days for acute chest or rib pain episodes. Chronic Liver-attachment patterns may require 2-4 weeks with periodic reassessment.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods, iced beverages, and excessively greasy or heavy meals, as these can impede the flow of Qi and Blood that the formula is working to restore. Warm, lightly cooked foods are preferred. Since the formula treats a condition with underlying Cold-stagnation, warm soups and gently spiced dishes support its therapeutic direction. Alcohol in small amounts is traditionally considered acceptable (the classical preparation calls for water decoction, but wine was sometimes used to enhance the formula's dispersing action). Avoid sour and astringent foods in excess, as these contract and bind, counteracting the formula's unblocking strategy.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/xuan-fu-hua-tang](https://www.meandqi.com/knowledge-base/formulas/xuan-fu-hua-tang)*

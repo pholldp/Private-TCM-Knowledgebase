@@ -1,0 +1,178 @@
+# Da Suan (大蒜)
+**English Name**: Garlic  
+**Category**: Parasite-expelling herbs (驱虫药)  
+**Scientific Name**: Allium sativum L.  
+**Pharmaceutical Name**: Bulbus Allii Sativi  
+**Toxicity**: Slightly toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Spleen, Stomach, Lungs, Large Intestine  
+**Parts Used**: Bulb (鳞茎 lín jīng)  
+
+---
+
+## Summary
+Garlic is one of the most widely recognized medicinal foods in the world. In Chinese medicine, it is valued for its powerful ability to fight infections, expel intestinal parasites, and stop dysentery. Its warm, pungent nature also helps settle a cold, weak stomach and can be applied externally to treat boils, abscesses, and fungal skin conditions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive health, Immune support, Skin health, Infection prevention
+- **TCM Actions**: Resolves toxicity and reduces swelling, Kills parasites, Stops dysentery and diarrhea, Warms the middle burner and dispels cold, Disperses swelling of abscesses and sores
+
+### How these actions work
+Resolves toxicity and reduces swelling (解毒消肿)'Resolving toxicity' means Dà Suàn has a powerful ability to counteract and neutralize harmful pathogens, whether bacterial, fungal, or parasitic. In practical terms, this is why garlic has been used for centuries to treat infected wounds, boils, abscesses, and food poisoning. The 'reducing swelling' aspect refers to its ability to help inflamed, swollen tissue return to normal, particularly when applied directly as a poultice to early-stage skin infections.
+Kills parasites (杀虫)'Killing parasites' is straightforward: Dà Suàn has a direct toxic effect on intestinal worms, including hookworms and pinworms. For pinworm infections, mashed garlic mixed with a small amount of oil can be applied around the anus at bedtime. For hookworm prevention, garlic paste was traditionally applied to the skin of the hands and feet before fieldwork. However, for serious parasitic infections, garlic is typically used alongside stronger antiparasitic herbs rather than as a standalone treatment.
+Stops dysentery and diarrhea (止痢)'Stopping dysentery' refers to Dà Suàn's remarkable effectiveness against bacterial dysentery, both when taken orally and when used as a retention enema. Clinical observations in China have shown cure rates above 95% for bacterial dysentery using garlic preparations. This action combines its antimicrobial properties with its ability to warm and stabilize the intestines.
+Warms the middle burner and dispels cold (暖脾胃、去寒湿)As a warm, pungent substance entering the Spleen and Stomach, Dà Suàn can warm the digestive system when it has been invaded by cold. This is why garlic has been traditionally eaten during cold weather and with cold or raw foods. People with cold-type stomach pain that improves with warmth, poor appetite, or watery diarrhea may benefit from moderate garlic consumption. The Ben Cao Gang Mu describes garlic as able to 'go through the five organs, reaching all the orifices, expelling cold-dampness.'
+
+---
+
+## Patterns Addressed
+### Damp-Heat in the Large Intestine
+- **Explanation**: Dà Suàn's warm, pungent nature allows it to penetrate the Stomach and Large Intestine channels, where it powerfully clears toxic accumulation and stops dysentery. While Damp-Heat patterns typically call for cold herbs, Dà Suàn's unique strength lies in its potent toxin-resolving (解毒) action, which directly combats the pathogenic factors causing intestinal inflammation. Its warming quality also prevents the Spleen's transport function from being further impaired by excessive cold-natured treatment, making it especially useful when combined with cold, bitter herbs like Huáng Lián.
+- **Clinical Signs & Symptoms**:
+
+### Intestinal Parasite
+- **Explanation**: Dà Suàn's pungent, warm nature gives it a powerful dispersing and killing action against intestinal parasites. Its volatile sulfur compounds (recognized in both traditional and modern pharmacology) directly attack parasitic organisms in the gut. Entering the Spleen and Stomach channels, it reaches the digestive tract where hookworms, pinworms, and other parasites reside. The warming quality also helps restore healthy digestive function that parasites have disrupted.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Reduced appetite and emaciation despite adequate food intake
+
+### Toxic-Heat
+- **Explanation**: Despite being warm in nature, Dà Suàn has a remarkably strong ability to resolve toxicity (解毒) and reduce swelling (消肿). For external toxic sores, abscesses, and skin infections, it can be applied topically as a mashed poultice or taken internally. Its pungent taste drives it outward to the body surface, helping to disperse toxic accumulations and promote the resolution of swollen, inflamed tissue. This action is well-documented in classical texts and supported by its broad-spectrum antimicrobial properties.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Diarrhea
+- **Arises from**: Damp-Heat in the Large Intestine
+- **TCM Interpretation**: TCM understands dysentery and infectious diarrhea primarily as Damp-Heat or toxic Dampness invading the Large Intestine. The pathogenic factors disrupt the Spleen and Stomach's ability to transform and transport food and fluids, leading to undigested or bloody stool, cramping, and tenesmus. In cold-type diarrhea, the Spleen Yang is insufficient to transform fluids, leading to watery stool. Both patterns involve a fundamental disruption of the middle burner's digestive function.
+- **Why it Helps**: Dà Suàn directly enters the Stomach and Large Intestine channels, where it exerts its powerful toxin-resolving (解毒) and dysentery-stopping (止痢) actions. Its broad-spectrum antimicrobial properties, recognized in both classical texts and modern research, address the underlying infectious cause. For Damp-Heat dysentery, it is often paired with Huáng Lián to combine its warming dispersal with cold bitter drainage. For cold-type diarrhea, its warm pungent nature directly warms the Spleen and Stomach to restore normal digestive function.
+
+### Common Cold
+- **TCM Interpretation**: The common cold is understood in TCM as an invasion of Wind-Cold or Wind-Heat at the body's surface. The Lung, which governs the body's defensive Qi (Wèi Qì) and controls the skin and pores, is the first organ affected. When the Lung's dispersing function is impaired by an external pathogen, symptoms like nasal congestion, chills, and cough arise. Garlic's connection to the Lung channel makes it relevant for supporting respiratory defense.
+- **Why it Helps**: Dà Suàn enters the Lung channel and has a warm, pungent, dispersing nature that helps open the pores and support the body's surface defenses. Traditionally, raw garlic is consumed at the first sign of a cold to help the body expel the pathogen before it penetrates deeper. Modern clinical trials have shown that regular garlic supplementation can reduce the frequency and duration of common colds, aligning with the TCM principle that its warming, antimicrobial action fortifies the body against external invasion.
+
+### Skin Infection
+- **Arises from**: Toxic-Heat
+- **TCM Interpretation**: Skin infections such as boils, carbuncles, and abscesses are understood in TCM as accumulations of toxic Heat (热毒) in the local tissue. When pathogenic Heat and toxins stagnate under the skin, they cause swelling, redness, pain, and pus formation. The condition may arise from external invasion or from internal Heat transforming into toxicity. Treatment focuses on resolving toxicity and reducing swelling to help the body expel the pathogenic material.
+- **Why it Helps**: Dà Suàn's most celebrated action is resolving toxicity and reducing swelling (解毒消肿). Applied topically as a mashed poultice, it directly combats infection at the site. Classical texts like the Wai Ke Jing Yao describe slicing a single-head garlic and applying it to early-stage boils. Its pungent nature helps it penetrate the skin surface to reach the affected area, while its potent antimicrobial compounds address the infection. It can also be taken internally to support the body's systemic detoxification.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5–15g
+- **Maximum Dosage**: Up to 30g in decoction; raw consumption should not exceed approximately 12.5g per day (about 2–3 cloves) to avoid gastric irritation and potential liver stress
+- **Dosage Notes**: Use lower doses (5–10g) when taken raw or in fresh preparations, as the active allicin content is highest and most irritating to the stomach. Higher doses (10–15g or more) are appropriate when garlic is cooked, roasted (煨), or used in decoction, as heat reduces the pungent irritation. For anti-dysentery purposes, historical clinical protocols used 10% garlic infusions for retention enemas (100 mL at a time). Garlic should not be decocted for extended periods, as allicin is heat-labile and its volatile oils dissipate quickly with prolonged cooking. For external application, fresh garlic should be used, but contact time with skin should be limited to avoid burns (typically no more than 1–2 hours with a protective cloth layer).
+- **Preparation**: Da Suan is most often used fresh (raw or lightly cooked) rather than in prolonged decoctions, because its key active compound allicin is unstable and breaks down rapidly with heat. If used in decoction, it should be added near the end of cooking (后下, hou xia) to preserve its volatile oils. It can also be crushed into paste for pills, roasted in its skin (煨, wei) for milder effect, or used as fresh juice for topical application.
+
+---
+
+## Processing Methods
+### W&#x113;i D&#xE0; Su&#xE0;n (&#x7168;&#x5927;&#x849C;)
+- **Processing Method**: Whole unpeeled garlic cloves are wrapped in wet paper or clay and roasted in hot ashes or a low oven until the flesh is soft and the pungency is significantly reduced.
+- **How it Changes Properties**: Roasting reduces the acrid pungency and the volatile allicin content, making garlic less stimulating to the stomach. The thermal nature becomes more moderately warm rather than hot, and the action shifts from strongly dispersing to more gently warming the middle Jiao. The Spleen- and Stomach-warming function is enhanced while the risk of gastric irritation is greatly reduced.
+- **When to Use**: Preferred when garlic is used to warm the Spleen and Stomach for conditions like cold abdominal pain, poor appetite, or diarrhea in patients with a sensitive or weakened digestive system who cannot tolerate raw garlic.
+
+### C&#xF9; J&#xEC;n D&#xE0; Su&#xE0;n (&#x918B;&#x6D78;&#x5927;&#x849C;)
+- **Processing Method**: Peeled garlic cloves are soaked in rice vinegar for several days to weeks (as in the traditional 'La Ba Suan' preparation).
+- **How it Changes Properties**: Vinegar soaking moderates the intensely acrid, hot nature of raw garlic while preserving much of its antimicrobial activity. The irritation to the stomach lining is significantly reduced. The sour taste of vinegar also helps to astringe and constrain garlic's dispersing quality.
+- **When to Use**: Suitable for people with weaker digestion who still wish to benefit from garlic's antimicrobial and Qi-moving properties, particularly for cold abdominal pain and food stagnation. Also used as a gentler form for long-term dietary supplementation.
+
+---
+
+## Common Herb Pairs
+### Huang Lian (Ratio: 1:1 (equal parts, formed into pills))
+- **Description**: Dà Suàn's warm, pungent, toxin-resolving action combined with Huáng Lián's cold, bitter, Damp-Heat clearing action creates a powerful synergy for treating dysentery. Dà Suàn prevents Huáng Lián's bitter cold nature from damaging the Stomach, while Huáng Lián provides the Heat-clearing strength that warm Dà Suàn alone cannot deliver. Together they clear toxins and stop bloody dysentery far more effectively than either herb alone.
+- **When to Use**: Damp-Heat dysentery with bloody or mucus-laden stool, abdominal cramping, and tenesmus. This is the classical pair of the Suàn Lián Wán formula.
+
+### Bai Ji (Ratio: Da Suan 30g (cooked into porridge) : Bai Ji powder 3g)
+- **Description**: Dà Suàn provides broad-spectrum antimicrobial action against the tubercle bacillus, while Bái Jí astringes the Lung and stops bleeding. The combination addresses both the infectious cause and the hemorrhagic complication of pulmonary tuberculosis.
+- **When to Use**: Pulmonary tuberculosis (Lung consumption) with coughing of blood. A classical folk remedy combines garlic porridge with Bái Jí powder.
+
+### Mang Xiao (Ratio: Da Suan 120g : Mang Xiao 30-60g (mashed together into a paste for external use))
+- **Description**: Applied externally as a combined poultice, Dà Suàn's warming, toxin-resolving action works with Máng Xiāo's cold, softening, and swelling-reducing properties to powerfully draw out inflammation and resolve abscesses. The temperature contrast between the two substances enhances penetration into inflamed tissue.
+- **When to Use**: Acute appendicitis treated conservatively with external application, as well as soft tissue abscesses and localized infections. Applied as a topical compress over the affected area.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+The main bioactive and potentially irritating compound in garlic is allicin (大蒜素, da suan su), formed when the precursor alliin is converted by the enzyme alliinase upon crushing or cutting the cloves. Allicin is a potent antimicrobial but also a strong mucosal irritant. At standard dietary or medicinal doses (a few cloves per day or 5-15g in decoction), garlic is safe. However, excessive raw consumption can cause gastric mucosal irritation, nausea, vomiting, and abdominal pain. Animal studies suggest that daily raw garlic intake exceeding roughly 0.5g per kilogram body weight may cause liver enzyme elevation and hepatic damage. A commonly cited safe limit for raw garlic consumption in an adult is approximately 12.5g per day (about 2-3 cloves). High-concentration garlic juice can cause hemolysis of red blood cells and, with prolonged excessive intake, may contribute to anemia. Topical application of raw garlic can cause chemical burns and blistering.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Garlic at normal culinary doses is generally considered safe during pregnancy. However, concentrated garlic supplements or medicinal doses should be used with caution. Classical Chinese sources note that garlic enema therapy is contraindicated during pregnancy. The herb's blood-moving and antiplatelet properties raise a theoretical concern about increased bleeding risk, particularly near delivery. Pregnant women should avoid large medicinal doses and consult a healthcare provider before taking garlic supplements.
+- **Breastfeeding**: Research has shown that garlic consumption by nursing mothers alters the odor and possibly the taste of breast milk, which can change infant feeding behavior. Some studies observed that infants spent more time attached to the breast when the mother had consumed garlic, while others showed initial reluctance. Garlic at normal dietary amounts is generally not considered harmful during breastfeeding, but nursing mothers should be aware that the volatile sulfur compounds do transfer into breast milk and may affect the infant's feeding pattern or cause fussiness.
+- **Children**: Garlic can be used in children at reduced doses appropriate to age and body weight. Classical pediatric formulas typically use small amounts (e.g. 1.5–5g). For garlic syrup preparations used to treat pediatric dysentery, dosages in classical clinical reports were: children aged 2–3 years, 2.5 mL of 20% garlic syrup per dose; under 10 years, 5 mL; over 10 years, 10 mL, given 3 times daily. Raw garlic is more irritating to the immature digestive tract of young children, so cooked or prepared forms (such as garlic syrup or honey-roasted garlic) are preferred. Topical garlic application on children's skin should be done with extra caution and for shorter durations, as their skin is more delicate and susceptible to chemical burns.
+
+### Drug Interactions
+Anticoagulants and antiplatelet drugs: Garlic contains organosulfur compounds (particularly ajoene and allicin) that inhibit platelet aggregation. This may enhance the anticoagulant effect of warfarin, heparin, and similar medications, theoretically increasing bleeding risk. While one clinical trial of aged garlic extract found no significant hemorrhagic events in closely monitored patients on warfarin, caution is still advised, and patients should inform their prescribing physician if taking garlic medicinally.
+HIV protease inhibitors: Garlic supplements have been reported to reduce serum levels of saquinavir (and potentially other protease inhibitors), likely through induction of CYP3A4 or P-glycoprotein activity. This could reduce antiviral efficacy and is a clinically significant concern.
+Hypoglycemic medications: Garlic may lower blood glucose levels, which could potentiate the effect of insulin or oral hypoglycemic agents, increasing the risk of hypoglycemia. Blood sugar should be monitored when garlic is used medicinally alongside diabetes medications.
+Antihypertensive drugs: Because garlic itself has mild blood-pressure-lowering effects, concurrent use with antihypertensive medications could lead to additive effects and hypotension.
+NSAIDs: Both garlic and NSAIDs affect platelet function; concurrent use may increase the risk of gastrointestinal bleeding.
+
+### Dietary Advice
+Avoid eating garlic on an empty stomach, as its pungent, irritating nature can cause gastric discomfort, nausea, and burning sensations. Taking it with or after meals reduces stomach irritation. Adding vinegar when eating raw garlic can help mitigate its pungent irritation and may reduce the risk of adverse effects. Avoid excessive consumption of other acrid-hot (辛热) foods such as chili peppers, raw ginger, and strong alcohol while using Da Suan medicinally, as combining multiple heating substances can easily generate internal Fire and injure the Stomach and Liver Yin. Those using garlic to treat Cold-Damp patterns should avoid cold, raw foods that would counteract its warming effect.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Garlic (Allium sativum L.) is a perennial herbaceous plant of the Amaryllidaceae (formerly Liliaceae) family, Allium genus. It has narrow, flat, strap-shaped leaves that are pale green with a waxy surface. The leaves arise from a short, compressed stem disc (the basal plate). The solid, cylindrical flower stalk (scape) can reach up to 60 cm tall, and the lower half is sheathed by leaf bases. The umbel-like flower cluster is enclosed in a long-beaked membranous spathe that falls off early. The small flowers are typically pale pink to purple, with lance-shaped petals 3–4 mm long, though many cultivated varieties rarely flower and instead produce bulbils (small aerial bulblets) in the inflorescence. Flowering occurs in July in the Northern Hemisphere.
+The underground bulb, which is the medicinal part, is globe-shaped to flattened-spherical, 3–6 cm in diameter, composed of 6–20 cloves (individual bulblets) arranged around a central residual flower stalk on the basal plate. The outer bulb is wrapped in several layers of white or pale purplish papery skin. Each clove has its own thin membrane and consists of white, fleshy, strongly pungent tissue. The plant has a fibrous root system and a distinctive, penetrating sulfurous odor when the tissue is crushed.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late spring to early summer (typically May to June), harvested 18–30 days after the garlic scapes are collected, when most leaves have dried and the upper leaves begin to droop
+- **Primary Growing Regions**: China is the world's largest garlic producer. The most renowned production area (道地药材 dào dì) is Jinxiang County, Shandong Province, known as the 'Garlic Capital of China,' famous for its large, white-skinned bulbs with rich flavor and high allicin content. Other major production regions include Lanling (Cangshan) in Shandong, Pizhou and Fengxian in Jiangsu, Zhongmu and Qixian in Henan, Pengxian in Sichuan, and Qishan in Shaanxi. Purple-skinned garlic (紫皮蒜) is traditionally considered more medicinally potent than white-skinned varieties.
+Garlic originated in Central Asia (modern Afghanistan, Uzbekistan, Kashmir region) and was introduced to China during the Western Han Dynasty by Zhang Qian from the Western Regions, hence its classical name 'Hu Suan' (胡蒜, 'foreign garlic').
+- **Quality Indicators**: Good quality medicinal garlic bulbs should be plump, firm, and heavy for their size, with tightly packed cloves and intact outer papery skin. The cloves should be white, fleshy, and juicy when peeled, with a strong, pungent aroma that becomes immediately evident when crushed. Purple-skinned garlic (紫皮蒜) is traditionally considered superior for medicinal use due to its higher allicin content and stronger antimicrobial effect compared to white-skinned varieties. Fresh garlic is more potent than aged or stored garlic. Avoid bulbs that are soft, sprouting, moldy, dried out, or have dark discoloration. The cross-section of a fresh clove should be uniformly white and moist.
+
+### Identity & Adulterants
+Da Suan (大蒜, Allium sativum) is sometimes confused with Xiao Suan (小蒜, Allium macrostemon), the native Chinese small garlic. The two are easy to distinguish: Da Suan has large bulbs with multiple large cloves and a sweeter-spicy taste, while Xiao Suan has very small bulbs with few tiny cloves and a sharper, more purely pungent taste. Medicinally, Xiao Suan (which is the source of Xie Bai / 薤白) has different properties and indications focused on opening the chest and treating chest impediment (胸痹), and should not be substituted for Da Suan. In the supplement industry, garlic products vary enormously in their allicin content depending on processing method, with some products containing little to no active allicin despite being labeled as garlic supplements. Authentic medicinal garlic should have a strong characteristic odor when crushed.
+
+---
+
+## References
+### Classical Texts
+#### 《名医别录》 (Ming Yi Bie Lu)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Garlic has one of the longest recorded histories of any medicinal food, with documented use spanning over 5,000 years across civilizations. Ancient Egyptian, Greek, Roman, and Indian medical traditions all employed garlic therapeutically. In China, the plant was introduced by the diplomat Zhang Qian during the Western Han Dynasty (around 139 BCE) after his missions to Central Asia, earning it the name Hu Suan (胡蒜, 'foreign garlic') to distinguish it from the native Xiao Suan (小蒜, small garlic or Allium macrostemon). The earliest Chinese reference to any garlic appears in the Xia Xiao Zheng (夏小正), which mentions the small native variety.
+Li Shizhen's Ben Cao Gang Mu provides the most detailed classical discussion, praising garlic's ability to penetrate all organs and orifices while also warning of its capacity to injure the Liver and eyes with prolonged overuse. The Yuan Dynasty agriculturalist Wang Zhen extolled it as an indispensable staple for northern diets, claiming it could neutralize toxins in preserved meat and protect travelers from pestilence. Garlic also holds a notable place in Chinese Buddhist and Daoist tradition as one of the 'Five Pungent Vegetables' (五辛 wu xin), forbidden during spiritual practice for its supposed ability to disturb the mind and agitate desire. However, even Buddhist texts acknowledge its medicinal value when used strictly as treatment rather than food.
+The character 蒜 itself is an ideogram originally applied to small garlic, which was said to often grow in pairs. When the larger Western variety arrived, 'Da' (大, big) was simply prefixed to distinguish it. In folk medicine, garlic's use as a topical agent for moxibustion (蒜钱灸, garlic-coin moxibustion) was widely practiced for treating abscesses and boils, a technique detailed in the surgical classic Wai Ke Jing Yao (外科精要).
+
+### Modern Scientific Research
+1. **[Comprehensive Meta-Analysis of Garlic on Cardiovascular Risk Factors in Adults (2026)](https://doi.org/10.1093/nutrit/nuaf090)**
+   *Journal: Behrouz V, Zahroodi M, Clark CCT, Mir E, Atashi N, Rivaz R. Nutrition Reviews. 2026;84(1):1-35.*
+   This large meta-analysis pooled 108 RCTs with 7,137 participants and found that garlic supplementation significantly improved triglycerides, total cholesterol, LDL cholesterol, HDL cholesterol, blood pressure, and fasting blood glucose, particularly in adults with unfavorable baseline risk profiles.
+
+2. **[Garlic Consumption and Dyslipidemia Risk: Meta-Analysis of RCTs (2024)](https://doi.org/10.1186/s41043-024-00608-1)**
+   *Journal: Journal of Health, Population and Nutrition. 2024;43:113.*
+   A meta-analysis of 21 RCTs examining garlic's effect on blood lipids in patients with dyslipidemia found significant reductions in total cholesterol, triglycerides, and LDL cholesterol, with a slight increase in HDL cholesterol.
+
+3. **[Adverse Effects and Drug Interactions of Garlic in Humans: Review (2007)](https://pubmed.ncbi.nlm.nih.gov/17918162/)**
+   *Journal: Borrelli F, Capasso R, Izzo AA. Molecular Nutrition & Food Research. 2007;51(11):1386-1397.*
+   A comprehensive review of clinical data found that the most common side effects of garlic are breath and body odor. Case reports documented allergic reactions, altered platelet function with possible bleeding risk, and skin burns from topical application. The review also noted potential interactions with anticoagulants and HIV protease inhibitors.
+
+4. **[Aged Garlic Extract on Blood Pressure and Lipid Profile: Dose-Response Meta-Analysis (2025)](https://doi.org/10.1002/ptr.70032)**
+   *Journal: Bashiri S, TaghipourSheshdeh F, Foshati S, Askarpour M, Ahmadi A, Babajafari S. Phytotherapy Research. 2025;39(12):5669-5694.*
+   A systematic review of 19 RCTs found that aged garlic extract significantly reduced systolic blood pressure by 2.49 mmHg and LDL cholesterol by 4.41 mg/dL, with a dose-response relationship observed for LDL reduction.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/da-suan](https://www.meandqi.com/knowledge-base/herbs/da-suan)*

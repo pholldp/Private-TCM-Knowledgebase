@@ -1,0 +1,184 @@
+# Bai Zhi (白芷)
+**English Name**: Dahurian angelica root  
+**Category**: Warm, acrid herbs that release the Exterior (辛温解表药), Exterior-releasing herbs (解表药)  
+**Scientific Name**: Angelica dahurica (Fisch. ex Hoffm.) Benth. et Hook. f.  
+**Pharmaceutical Name**: Radix Angelicae Dahuricae  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Lungs, Stomach, Large Intestine  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+Bái Zhǐ is a fragrant, warming herb widely used for sinus congestion, frontal headaches, and toothaches. It is one of Chinese medicine's go-to remedies for pain in the face and forehead, nasal problems, and early-stage skin infections. It also helps with excessive vaginal discharge caused by internal dampness.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Sinus and Nasal Health, Headache and Facial Pain, Skin Health, Women's Health
+- **TCM Actions**: Releases the Exterior and Disperses Wind-Cold, Dispels Wind and Stops Pain, Unblocks the Nasal Passages, Secures the Kidneys and Stops Vaginal Discharge, Expels Pus and Reduces Swelling
+
+### How these actions work
+'Releases the exterior and disperses Cold' means Bái Zhǐ helps the body push out a Wind-Cold invasion (the early stage of a cold with chills, body aches, and clear nasal discharge). Its warm, pungent nature gently promotes sweating to expel the pathogen from the body's surface. It is most useful when a cold presents with pronounced headache and nasal congestion.
+'Dispels Wind and alleviates pain' is the action Bái Zhǐ is most famous for. It has a strong affinity for the Yáng Míng channel (Stomach meridian), which runs across the forehead, cheeks, and gums. This is why it is considered the lead herb for frontal headaches, supraorbital pain (pain along the brow ridge), and toothaches. It can also address pain from Wind-Damp obstruction in the joints.
+'Opens the nasal passages' refers to its aromatic, penetrating nature that clears nasal congestion and sinus blockage. It is a key herb for chronic sinusitis (called 'deep-source nasal congestion' in TCM), often combined with Xīn Yí (magnolia flower) and Cāng Ěr Zǐ (xanthium fruit).
+'Dries Dampness and stops vaginal discharge' means Bái Zhǐ can address excessive vaginal discharge caused by Dampness accumulating in the lower body. Its warm, drying nature is best suited for white, thin discharge from Cold-Damp, though it can be combined with Cold-natured herbs like Huáng Bǎi to treat Damp-Heat discharge as well.
+'Reduces swelling and expels pus' describes Bái Zhǐ's use in the early stages of skin abscesses, boils, and other inflammatory swellings. Before pus has formed, it can help disperse the swelling. After pus has formed, it helps promote drainage. This makes it a common supporting herb in surgical (external medicine) formulas.
+
+---
+
+## Patterns Addressed
+### Wind-Cold
+- **Explanation**: When Wind-Cold invades the body's surface, it blocks the flow of Qi in the channels and causes headache, body aches, chills, and nasal congestion. Bái Zhǐ's warm, pungent nature directly disperses Cold from the exterior and releases the surface. Its particular affinity for the Yáng Míng (Stomach) channel means it excels at addressing the frontal headache and nasal symptoms that often accompany this pattern. Its aromatic quality also opens congested nasal passages, making it especially indicated when nasal obstruction is prominent.
+- **Clinical Signs & Symptoms**:
+  - **Nasal Congestion**: Blocked nose with clear or white discharge
+
+### Damp-Cold
+- **Explanation**: When Cold-Damp accumulates in the lower body, it can lead to excessive vaginal discharge that is white, thin, and odorless. Bái Zhǐ enters the Stomach and Large Intestine channels, and its warm, drying nature dispels Dampness from the lower body. Its ability to dry Dampness and stop vaginal discharge (燥湿止带) directly targets the root cause of this pattern. It is commonly paired with Hǎi Piāo Xiāo (cuttlebone) for this purpose.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Sinusitis
+- **Arises from**: Wind-Cold
+- **TCM Interpretation**: In TCM, sinusitis is understood as 'Bí Yuān' (鼻渊, deep-source nasal congestion). It arises when Wind-Cold or Wind-Heat invades the Lung system and blocks the nasal orifices. Over time, if the pathogen is not cleared, turbid Dampness and Heat accumulate in the Yáng Míng channel (which passes through the sinuses and forehead), producing thick, foul-smelling nasal discharge and persistent facial pain. The Lung governs the nose, and when Lung Qi is obstructed, the nasal passages cannot open properly.
+- **Why it Helps**: Bái Zhǐ is considered a key herb for sinusitis precisely because it enters the Lung and Stomach (Yáng Míng) channels, the two systems most directly involved. Its warm, aromatic nature penetrates and opens the nasal orifices, while its Wind-dispersing action clears the pathogen from the surface. Its pungent taste promotes the movement of stagnant Qi in the sinus area, relieving the congestion and facial pressure. Classical sources consistently list it as a primary herb for Bí Yuān, often combined with Xīn Yí and Cāng Ěr Zǐ.
+
+### Headaches
+- **Arises from**: Wind-Cold
+- **TCM Interpretation**: TCM distinguishes headaches by location and associates each location with a specific channel. Frontal headache and brow-ridge pain correspond to the Yáng Míng (Stomach) channel. This type of headache is often triggered by external Wind-Cold invasion that obstructs Qi flow in the channel, or by internal turbid Dampness rising upward. The principle 'different channels, different guiding herbs' is central to TCM headache treatment.
+- **Why it Helps**: Bái Zhǐ is the classical 'guiding herb' (引经药) for the Yáng Míng channel. Its warm, pungent nature drives upward and outward to the forehead and face, directly reaching the site of pain. It disperses Wind-Cold from the channel, restores Qi flow, and thereby alleviates frontal headache and supraorbital pain. For headache treatment, it is commonly paired with Chuān Xiōng, which is the principal headache herb across all channel types.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-9g
+- **Maximum Dosage**: Up to 10-15g in acute conditions such as severe sinusitis or headache, under practitioner supervision. Standard texts generally cap the range at 9-10g for decoction.
+- **Dosage Notes**: Use lower doses (3-5g) when Bai Zhi is included as a supporting herb for mild nasal congestion or as a pain-relieving assistant in a multi-herb formula. Use moderate doses (6-9g) for its primary indications: headache (especially frontal/supraorbital), sinusitis, toothache, or vaginal discharge due to cold-dampness. For external application (ground into powder for poultices or mixed into ointments), dosage is adjusted to the affected area. Because Bai Zhi is warm and drying, prolonged use or excessive doses in people without genuine cold or dampness patterns may cause dryness of the mouth, throat, or skin. When used for Yangming-channel headache, it is often paired with Chuan Xiong to enhance the analgesic effect.
+- **Preparation**: No special decoction handling is required. Bai Zhi is decocted normally with other herbs. When used externally, it is typically ground into fine powder for topical application as a paste or poultice.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o B&#xE1;i Zh&#x1D0; (&#x7092;&#x767D;&#x82B7;)
+- **Processing Method**: Dry-fried over a gentle flame (文火) until the surface turns slightly yellow.
+- **How it Changes Properties**: Reduces the herb's pungent, drying nature while enhancing its pain-relieving effect. The warmth becomes milder, making it gentler on the Stomach. The overall dispersing power is slightly reduced.
+- **When to Use**: Preferred when using Bái Zhǐ primarily for pain relief (headache, toothache) rather than for releasing the exterior, especially in patients with a sensitive stomach. Also preferred for treating Cold-Damp vaginal discharge.
+
+### B&#xE1;i Zh&#x1D0; T&#xE0;n (&#x767D;&#x82B7;&#x70AD;)
+- **Processing Method**: Stir-fried over a higher flame until the surface is charred (carbonized) but the inside remains intact.
+- **How it Changes Properties**: Charring transforms the herb's dispersing nature into an astringent, hemostatic one. The pungent exterior-releasing and Dampness-drying actions are largely eliminated, replaced by the ability to stop bleeding.
+- **When to Use**: Used for stopping bleeding, particularly menstrual spotting or prolonged light bleeding. This is a specialized form with a narrow clinical application.
+
+---
+
+## Common Herb Pairs
+### Xi Xin (Ratio: B&#xE1;i Zh&#x1D0; 6-10g : X&#xEC; X&#x12B;n 1-3g)
+- **Description**: Both herbs are warm, pungent, and aromatic, with the ability to disperse Wind-Cold, stop pain, and open the nasal passages. Together they powerfully reinforce each other (a 'mutual assistance' pairing), creating a stronger effect for dispersing Cold and unblocking the nose than either herb alone.
+- **When to Use**: Wind-Cold with severe nasal congestion, sinusitis headache, or brow-ridge pain. Also used for chronic sinusitis (Bí Yuān) with nasal obstruction and thick discharge.
+
+### Chuan Xiong (Ratio: 1:1 (typically 6g each))
+- **Description**: Bái Zhǐ disperses Wind and targets the Yáng Míng channel (forehead), while Chuān Xiōng invigorates Blood, moves Qi, and targets the Shào Yáng and Jué Yīn channels (sides and top of head). Together they address headache across multiple channels and simultaneously dispel Wind-Cold while unblocking Blood stasis, providing comprehensive pain relief.
+- **When to Use**: External Wind-Cold headache with prominent pain, especially when affecting the forehead and temples. Also used for migraine and stubborn headache from Blood stasis.
+
+### Jie Geng (Ratio: 1:1 (typically 6g each))
+- **Description**: Both herbs can expel pus, but through different mechanisms. Bái Zhǐ disperses swelling and moves stagnant Qi locally, while Jié Gěng raises Lung Qi and lifts the body's clearing function upward. Together they enhance the ability to reduce swelling and promote drainage of pus from abscesses and boils.
+- **When to Use**: Early-stage skin abscesses or boils that have formed pus but are not draining well. Also for Lung abscess with purulent expectoration.
+
+### Cang Er Zi (Ratio: B&#xE1;i Zh&#x1D0; 6-9g : C&#x101;ng &#x11A;r Z&#x1D0; 6-9g)
+- **Description**: Bái Zhǐ opens the nasal passages through its aromatic warmth, while Cāng Ěr Zǐ specifically targets the nose and disperses Wind-Dampness from the sinuses. Together they form a powerful pair for unblocking sinus congestion, reducing nasal discharge, and relieving sinus headache.
+- **When to Use**: Sinusitis, allergic rhinitis, or chronic nasal congestion with thick discharge and frontal headache. This is the core pair in the classic formula Cāng Ěr Zǐ Sǎn.
+
+---
+
+## Key Formulas
+Chuan Xiong Cha Tiao San, Jiu Wei Qiang Huo Tang, Xian Fang Huo Ming Yin, Cang Er Zi San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+The Ming Yi Bie Lu (《名医别录》) explicitly classifies Bai Zhi as non-toxic (无毒), and this is the standard classification used by the Chinese Pharmacopoeia. However, one historical source (《药物图考》) described it as slightly toxic (有小毒). The primary safety concern relates to its furanocoumarin content, including imperatorin, bergapten, isoimperatorin, and xanthotoxin. These compounds are photosensitizing agents: they can cause phototoxic skin reactions (redness, blistering, hyperpigmentation) when the skin is exposed to ultraviolet light during or after ingestion. The root also contains trace amounts of angelicotoxin, a neurotoxic compound that is present in very small quantities in properly harvested and processed root material. At standard therapeutic doses (3-9g in decoction), Bai Zhi has an excellent safety profile. Excessive or prolonged use may cause dryness or gastrointestinal upset. People taking Bai Zhi should avoid prolonged sun exposure.
+
+### Contraindications
+- **[Caution]** Yin deficiency with Blood-Heat (阴虚血热): Bai Zhi is warm, acrid, and drying. In people with underlying Yin deficiency or internal Heat in the Blood, it can worsen dryness, agitate Heat, and intensify symptoms like hot flushes, night sweats, or bleeding.
+- **[Caution]** Vomiting caused by Fire or Stomach Heat: Classical texts (Ben Cao Jing Shu) explicitly warn against using Bai Zhi when vomiting is due to internal Fire rather than cold, as its warm nature would aggravate the condition.
+- **[Caution]** Abnormal vaginal bleeding (leukorrhea/metrorrhagia) due to Yin deficiency with vigorous Fire: When abnormal discharge or bleeding stems from deficiency-Heat rather than cold-dampness, Bai Zhi's warm, drying properties are inappropriate and may worsen the condition.
+- **[Caution]** Abscesses or sores that have already ulcerated: Once a boil or abscess has ruptured and is draining, Bai Zhi should be gradually reduced or discontinued. Its pus-expelling action is most appropriate before or during the initial stage of suppuration.
+- **[Caution]** Known photosensitivity or concurrent photosensitizing medication: Bai Zhi contains furanocoumarins (imperatorin, bergapten, etc.) that increase skin sensitivity to ultraviolet light. People with photosensitive skin conditions or those taking photosensitizing drugs should avoid Bai Zhi or minimize sun exposure while using it.
+
+### Classical Incompatibilities
+Bai Zhi does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, classical sources note that it "clashes with" (恶) Xuan Fu Hua (旋覆花, Inula flower), meaning the two may reduce each other's effectiveness. Dang Gui (当归) is traditionally considered its envoy herb (使药), meaning Dang Gui can guide and enhance Bai Zhi's therapeutic effects.
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Bai Zhi is acrid, warm, and has dispersing and drying properties. While it is not absolutely contraindicated in pregnancy, its wind-dispersing and Blood-moving qualities raise theoretical concerns about disturbing fetal Qi. Additionally, its furanocoumarin content (photosensitizing compounds) warrants caution. Classical sources do not list it as a prohibited pregnancy herb, and the Ri Hua Zi Ben Cao (《日华子本草》) even mentions it for preventing miscarriage (补胎漏滑落). However, at standard dosages it should only be used during pregnancy under the guidance of a qualified practitioner, and only when clearly indicated.
+- **Breastfeeding**: No specific classical or modern contraindications for breastfeeding have been established. Bai Zhi's aromatic, acrid compounds and furanocoumarins may theoretically transfer into breast milk in small amounts, though this has not been formally studied. Given the lack of safety data, use at standard doses only when clinically indicated, and monitor the infant for any signs of irritability, skin rash, or digestive upset. Discontinue if adverse effects are observed.
+- **Children**: Bai Zhi may be used in children at reduced doses appropriate to age and body weight, generally one-third to one-half of the adult dose for children over 3 years old. It is commonly encountered in pediatric formulas for nasal congestion and sinusitis. Due to its warm, drying nature, it should be used with extra caution in children who tend to run warm or who have dry constitutions. Children's skin may be more sensitive to the photosensitizing furanocoumarins, so sun exposure should be limited during use. Not recommended for infants under 1 year without specialist guidance.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications (e.g. warfarin, aspirin, clopidogrel): Bai Zhi's furanocoumarin compounds, particularly imperatorin and isoimperatorin, have demonstrated antiplatelet activity in preclinical studies. Concurrent use may theoretically increase bleeding risk. Monitor closely if co-administered.
+Photosensitizing drugs (e.g. tetracyclines, fluoroquinolones, sulfonamides, amiodarone, certain NSAIDs): The furanocoumarins in Bai Zhi (bergapten, xanthotoxin, imperatorin) are known photosensitizers. Combining Bai Zhi with other photosensitizing medications could increase the risk of phototoxic reactions (severe sunburn, skin blistering). Advise strict sun protection.
+CYP450 enzyme substrates: Furanocoumarins from Bai Zhi have been shown to inhibit certain cytochrome P450 enzymes (particularly CYP3A4) in preclinical studies. This could potentially increase plasma levels of drugs metabolized by these enzymes, including some statins, calcium channel blockers, and immunosuppressants. Clinical significance is not fully established but warrants awareness.
+
+### Dietary Advice
+Avoid excessive consumption of cold, raw foods and iced beverages while taking Bai Zhi, as these may counteract its warm, dispersing properties. Since Bai Zhi contains photosensitizing furanocoumarins, it is advisable to minimize prolonged sun exposure and to avoid concurrent consumption of other strongly photosensitizing foods (such as large amounts of celery, parsley, or citrus peel). Classical sources note that Bai Zhi may be used in cooking (e.g. as a spice in braised meats and hotpot), and such culinary doses are generally safe.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Angelica dahurica is a robust perennial (sometimes biennial) herb in the Apiaceae (Umbelliferae) family, growing 1 to 2.5 meters tall. The stem is thick, hollow, purplish at the base, and marked with longitudinal grooves. The basal leaves are large and two- to three-times pinnately compound, with broadly ovate, sharply toothed leaflets that are glossy green. In late summer (July to August), the plant produces large, flat-topped compound umbels of small white to slightly yellowish flowers, which are highly attractive to pollinating insects. The fruits are flattened, oval, and papery-brown when ripe.
+The medicinal part is the thick, conical taproot, which can reach 10 to 25 cm in length and 1.5 to 2.5 cm in diameter. Wild plants are found along riverbanks, streams, forest margins, shrubby thickets, and valley floors, preferring deep, moist, fertile soil with good drainage. The plant thrives in temperate climates with cold winters and tolerates both semi-shade and full sun. It is native to eastern Siberia, northern and eastern China, Korea, Japan, and Taiwan.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to autumn (July to October), when the stem and leaves begin to yellow. Autumn-sown crops are harvested the following July to September; spring-sown crops are harvested in October of the same year.
+- **Primary Growing Regions**: Bai Zhi has four major terroir (道地药材) production regions in China, each yielding a named variety:
+- Hang Bai Zhi (杭白芷): Zhejiang province, especially Hangzhou, Yuyao, and Linhai. One of the "Eight Famous Zhejiang Herbs" (浙八味).
+- Chuan Bai Zhi (川白芷): Sichuan province, especially Suining, Mianyang, and Daxian. Historically one of the most prized varieties.
+- Yu Bai Zhi (禹白芷): Henan province, especially Yuzhou (Yuzhou/Yuxian) and Changge.
+- Qi Bai Zhi (祁白芷): Hebei province, especially Anguo (historically known as Qizhou). One of the "Eight Famous Qi Herbs" (八大祁药).
+All four are recognized premium producing regions. Wild Angelica dahurica also occurs in eastern Siberia, Korea, Japan, and Mongolia.
+- **Quality Indicators**: Good quality Bai Zhi root is conical, 10-25 cm long and 1.5-2.5 cm in diameter, firm and solid (not hollow or spongy). The outer surface should be greyish-brown to yellowish-brown with clear longitudinal wrinkles and visible horizontal lenticel-like projections, sometimes arranged in four vertical rows. The root head is bluntly four-angled. The cross-section should be white to greyish-white with a starchy (powdery) texture, showing a brown-colored cambium ring (near-square or near-round in shape) and numerous small brown oil dots scattered through the cortex. The aroma should be distinctly fragrant and aromatic. The taste is acrid with slight bitterness. Avoid roots that are hollow, dark, soft, moldy, or worm-eaten. Material with strong aroma and high starch content is preferred.
+
+### Identity & Adulterants
+Bai Zhi may be confused with or adulterated by roots of other Angelica species, such as Angelica pubescens (Du Huo) or Angelica sinensis (Dang Gui). HPLC fingerprinting can distinguish these species by their different furanocoumarin profiles. The four commercial varieties (Hang, Chuan, Yu, Qi Bai Zhi) are sometimes interchanged; while all are pharmacopoeial, their furanocoumarin content can vary by region. Sulfur fumigation (硫磺熏蒸) is a common but undesirable processing method used to whiten the root and prevent insect damage. Sulfur-fumigated material may have altered chemical composition and higher toxicity compared to naturally dried or low-temperature dried roots. Look for roots with a natural greyish-brown color rather than unnaturally bright white appearance, which may indicate sulfur fumigation.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 「主女人漏下赤白，血闭阴肿，寒热，风头侵目泪出，长肌肤，润泽。」
+- **Translation**: "It mainly treats women's red and white vaginal discharge, Blood blockage with genital swelling, alternating chills and fever, wind-type headache with tearing eyes, and promotes healthy flesh and a lustrous complexion."
+
+### Historical Context
+Bai Zhi is one of the oldest herbs in the Chinese pharmacopoeia, first recorded in the Shen Nong Ben Cao Jing (《神农本草经》), where it was classified as a middle-grade (中品) herb. However, its cultural significance predates even that text. The name "Bai Zhi" (白芷, "white angelica") appears in Qu Yuan's famous poem Li Sao (《离骚》, c. 300 BCE), where it is used as a fragrant herb symbolizing moral purity and virtue. In ancient China, aromatic plants like Bai Zhi were worn on the body as talismans to ward off pestilence and evil influences, reflecting both spiritual and proto-medical thinking.
+The Song dynasty botanist Su Song provided the first detailed morphological description of the living plant in the Ben Cao Tu Jing (《本草图经》), noting its white-to-yellowish root, purple-tinged leaves, and white flowers. The historical understanding of its origins evolved: early sources (Han to Southern dynasties) placed it in present-day Shanxi and Jiangsu, while Song dynasty physicians favored material from the Jiangsu-Zhejiang region. By the Republican era (early 20th century), three major production regions had consolidated: Hangzhou (Zhejiang), Sichuan, and Henan. The Hebei (Anguo) variety became a significant commercial source after the 1930s. Throughout this evolution, Bai Zhi remained a key herb for headache, sinusitis, toothache, and skin conditions, and was widely incorporated into famous formulas such as Chuan Xiong Cha Tiao San, Jiu Wei Qiang Huo Tang, and Du Liang Wan.
+
+### Modern Scientific Research
+1. **[Comprehensive review of traditional uses, phytochemistry, and pharmacology of Angelica dahurica (2022)](https://pubmed.ncbi.nlm.nih.gov/35847044/)**
+   *Journal: Li M, Yao C, et al. Frontiers in Pharmacology, 2022, 13: 896637*
+   A systematic review cataloguing over 300 chemical constituents identified from A. dahurica, with coumarins and volatile oils as the principal bioactive compounds. The review summarized evidence for anti-inflammatory, analgesic, antitumor, antioxidant, antimicrobial, cardiovascular, neuroprotective, and hepatoprotective activities from preclinical studies.
+
+2. **[Anti-inflammatory mechanism: furanocoumarins inhibit prostaglandin E2 production (in vitro, 2003)](https://pubmed.ncbi.nlm.nih.gov/12802720/)**
+   *Journal: Ban HS, Lim SS, et al. Journal of Ethnopharmacology, 2003, 86(1): 113-119*
+   Five furanocoumarins isolated from A. dahurica roots were tested for effects on LPS-induced inflammation. Imperatorin showed the strongest inhibition of prostaglandin E2 production by suppressing both COX-2 and microsomal prostaglandin E synthase expression, providing a mechanistic basis for the herb's traditional analgesic and anti-inflammatory uses.
+
+3. **[Antioxidant effect of imperatorin in hypertension via NADPH oxidase inhibition (preclinical, 2014)](https://pubmed.ncbi.nlm.nih.gov/24973900/)**
+   *Journal: Cao YJ, He X, et al. Journal of the American Society of Hypertension, 2014, 8(8): 527-536*
+   In spontaneously hypertensive rats, imperatorin from A. dahurica demonstrated vasodilatory and antioxidant effects. Oral administration for 12 weeks reduced blood pressure and oxidative stress markers, acting through inhibition of NADPH oxidase activation and MAPK pathways in kidney tissue.
+
+4. **[Acetylcholinesterase inhibition by furanocoumarins from A. dahurica (in vitro, 2003)](https://pubmed.ncbi.nlm.nih.gov/12510838/)**
+   *Journal: Kim DK. Archives of Pharmacal Research, 2002, 25(6): 856-859*
+   Methanolic root extract showed significant inhibition of acetylcholinesterase. Three furanocoumarins (isoimperatorin, imperatorin, oxypeucedanin) were identified as the active principles, with IC50 values in the micromolar range, suggesting potential relevance to cognitive health research.
+
+5. **[Beta-secretase (BACE1) inhibitory furanocoumarins from A. dahurica (in vitro, 2010)](https://pubmed.ncbi.nlm.nih.gov/20041416/)**
+   *Journal: Marumoto S, Miyazawa M. Journal of Natural Medicines, 2010, 64(2): 215-218*
+   Five furanocoumarins isolated from A. dahurica roots demonstrated dose-dependent inhibition of beta-secretase (BACE1), a key enzyme in Alzheimer's disease pathology. Imperatorin and byakangelicol showed the most potent activity, highlighting potential neuroprotective applications.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/bai-zhi](https://www.meandqi.com/knowledge-base/herbs/bai-zhi)*

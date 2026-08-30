@@ -1,0 +1,273 @@
+# Psychosis (癫狂)
+**Pinyin**: diān kuáng | **Kind**: Condition | **Category**: Mental Health Conditions, Behavioral Issues  
+**Synonyms**: Psychotic Disorder, Psychotic Episode, Serious Mental Illness, Acute psychosis, Mental confusion or irrational behaviour | **Body Regions**: 
+
+---
+
+## Preview Summary
+The explosive manic state, the dreamy confusion, and the fixed delusion are three different TCM patterns - and each responds to its own herbal formula and acupuncture protocol. Man...
+
+---
+
+## Conventional Medicine View
+### Description
+Psychosis is a mental state characterized by a loss of contact with reality. Common symptoms include hallucinations (seeing or hearing things that aren't there), delusions (fixed false beliefs), disorganized thinking, and abnormal behavior. It can occur as part of schizophrenia, bipolar disorder, severe depression, or substance-induced states. Diagnosis is based on a thorough psychiatric evaluation, and treatment typically involves antipsychotic medications, psychotherapy, and sometimes hospitalization.
+
+### Treatments
+Standard treatment relies on antipsychotic medications - both typical and atypical - to reduce hallucinations and delusions. Mood stabilizers or benzodiazepines may be used for acute agitation. Psychotherapy (such as cognitive behavioral therapy for psychosis), family support, and social rehabilitation are also essential components of care.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, the mind and spirit (Shen) reside in the Heart. When the Heart is clear and calm, thinking is lucid and behavior is orderly. Psychosis arises when pathogenic factors - phlegm, fire, wind, or blood stasis - cloud the Heart's orifices, disturbing the Shen. This is why so many psychotic symptoms involve agitation, confusion, or loss of reality testing: the Shen is literally obscured.
+The Liver plays an equally important role. It governs the smooth flow of Qi and emotions. When emotional stress, anger, or frustration build up, Liver Qi stagnates. Over time, this stagnation can generate Fire, which then flares upward and stirs internal Wind. Liver Wind can shake the mind, causing manic excitement, tremors, or even convulsive movements. The interplay between Liver and Heart is central to many psychotic presentations.
+The Spleen is the third key player. It transforms food and fluids into Qi and blood. When the Spleen is weak - often from poor diet, overwork, or constitutional factors - it fails to manage fluids, and they accumulate as Phlegm. This Phlegm can then combine with Fire or Wind and rise to the head, obstructing the mind. This explains why dietary factors and digestive health are so relevant in TCM's view of psychosis.
+Because different combinations of these factors produce different symptom pictures, a single Western diagnosis can correspond to several TCM patterns. A person with explosive, shouting mania and a yellow tongue coat fits Phlegm-Fire harassing the Heart. Someone with dreamy confusion, hallucinations, and a white greasy tongue coat is more likely Wind-Phlegm. Fixed delusions and stabbing chest pain point to Pericardium Blood Stagnation. Recognizing the pattern allows treatment to target the specific root, not just the surface symptoms.
+
+### Practitioner Diagnosis
+A TCM practitioner begins by listening carefully to the person's story - when the episodes started, what they feel like, and what makes them better or worse. Psychosis (癫狂, diān kuáng) is never one-size-fits-all, so the practitioner looks for the particular "flavor" of the disturbance. The quality of the agitation, the kind of thoughts or hallucinations, and especially the tongue and pulse are the roadmap that points toward one pattern rather than another.
+When the picture is one of fiery, explosive mania - shouting, violent outbursts, a red face, and a tongue that is scarlet with a thick yellow greasy coat - the pattern is Phlegm-Fire harassing the Heart (痰火扰心, tán huǒ rǎo xīn). The pulse feels rapid, slippery, and forceful. This is the classic acute psychotic break where heat and phlegm boil upward and cloud the mind, and the person often cannot sleep and seems to have endless restless energy.
+If instead the episodes come with a dreamy, confused quality, perhaps with blank staring, hallucinations, or even seizure-like jerking, Wind-Phlegm (风痰, fēng tán) obstructing the Heart's orifices is likely. Here the tongue coating is white and greasy rather than yellow, and the pulse is floating and slippery. The wind component makes symptoms come and go unpredictably, and there is less of the raging heat seen in pure phlegm-fire.
+When the person shows convulsive movements, severe dizziness, and manic excitement that feels like an internal storm, Liver Wind agitating Internally due to Liver Fire (肝火化风, gān huǒ huà fēng) is suspected. The tongue is red with a thin yellow coat, and the pulse is wiry and rapid. This pattern often flares after intense anger or frustration, reflecting a surge of Liver Yang that stirs wind and shakes the mind.
+For chronic, fixed delusions - a person who holds unshakable false beliefs over time and appears mentally dulled - the practitioner looks for Pericardium Blood Stagnation (心包血瘀, xīn bāo xuè yū). The tongue is dark purple with possible stasis spots, and the pulse is choppy or deep. This pattern develops when emotional knots go unresolved for years, gradually congealing into blood stasis that blocks the mind's guardian.
+Finally, Liver Qi Stagnation (肝气郁结, gān qì yù jié) is often the underlying emotional trigger rather than the acute psychotic picture itself. The person may feel pent-up frustration, sigh frequently, and have a wiry pulse, but the psychosis typically emerges only after stagnation generates phlegm and fire. The practitioner identifies this pattern by the pre-existing emotional tension and the absence of the more dramatic signs of phlegm, fire, or wind.
+
+### Classical Reference
+> **Original**: 「癫疾始生，先不乐，头重痛，视举目赤，甚作极已而烦心。」
+> 
+> **Translation**: "When depressive psychosis first arises, the patient first feels unhappy, has a heavy head and headache, stares upward with red eyes; when it becomes severe, there is extreme heart vexation."
+> 
+> — Source: *Ling Shu (The Spiritual Pivot)  ,  Chapter 22: Madness and Depressive Psychosis (癫狂) 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Phlegm-Fire harassing the Heart
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/phlegm-fire-harassing-the-heart)*
+
+- **Clinical Signs & Symptoms**: Agitation and manic outbursts, Feeling of oppression in the chest with phlegm, Flushed red face and red eyes, Bitter taste and thirst, Copious yellow sticky phlegm
+- **Worse with**: Greasy, fried, or spicy foods, Emotional stress and frustration, Overwork and lack of sleep, Alcohol and stimulants, Hot, stuffy environments
+- **Better with**: Quiet, calm environment, Cooling foods, Deep breathing and relaxation
+- **Why this happens (Mechanism)**:
+  When emotional stress or dietary excess generates Phlegm and Heat, this combination can flare up to disturb the Heart and mind. The Phlegm-Heat obscures the mind's clarity, causing agitation, irrational behavior, and manic outbursts. The Heart, as the seat of the spirit, is overwhelmed by Fire and Phlegm, leading to the classic psychotic symptoms of restlessness, shouting, and confusion.
+- **Tongue & Pulse**: Tongue: red body, swollen with red prickly tip, thick yellow greasy coating. Pulse: slippery and rapid, full and overflowing in the left Cun position.
+- **Triggers & Relief Explanation**: Phlegm-Fire arises from dietary and emotional excess. Spicy, greasy foods and alcohol generate more Phlegm and Heat, while stress stirs up Fire. Cooling foods and a calm environment help settle the Fire and clear the Phlegm, allowing the Heart to regain clarity.
+- **Diet & Lifestyle**: Avoid greasy, spicy, and heating foods that generate Phlegm and Fire. Eat cooling, light foods like mung beans, celery, and pear. Keep a calm environment, avoid overstimulation, and practice relaxation techniques.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-wen-dan-tang)** | Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE | Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting | Clears Heat, transforms Phlegm, and calms the mind, especially when insomnia and agitation are prominent. |
+| **[Sheng Tie Luo Yin](https://www.meandqi.com/knowledge-base/formulas/sheng-tie-luo-yin)** | Iron Filings Drink &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Anchors and Calms the Spirit, Clears Fire and eliminates Phlegm, Calms the Liver and Subdues Yang | Purges Fire, settles the spirit, and anchors the mind; a classic for acute manic psychosis with Phlegm-Fire. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Clears Heart Fire and drains Heat, directly calming the spirit. |
+| **[Zhu Ru](https://www.meandqi.com/knowledge-base/herbs/zhu-ru)** | Bamboo shavings |  | Clears Phlegm-Heat and stops agitation, especially useful for restlessness. |
+| **[Dan Nan Xing](https://www.meandqi.com/knowledge-base/herbs/dan-nan-xing)** | Bile Arisaema |  | Transforms Phlegm and clears Heat, targeting the sticky yellow phlegm. |
+| **[Shi Chang Pu](https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu)** | Acorus rhizome |  | Opens the mind&#x27;s orifices and calms the spirit, restoring clarity. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries Phlegm and harmonizes the Stomach, addressing the root of Phlegm production. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Calms the mind and clears the senses, essential for acute agitation. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Settles the Heart spirit and reduces manic restlessness. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | Transforms Phlegm and clears Heat, directly targeting the underlying Phlegm-Fire. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Opens the chest, calms the mind, and relieves oppression. |
+| **KI-1** | [Yongquan KI-1](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/yongquan-ki-1) | Y&#x1D2;ng Qu&#xE1;n | Nourishes Yin and clears Empty-Heat, Regulates Qi the Lower Burner | Drains excess Fire downward and revives consciousness during acute episodes. |
+
+---
+
+### Wind-Phlegm
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/wind-phlegm)*
+
+- **Clinical Signs & Symptoms**: Episodes of confusion or auditory hallucinations, Dizziness with a heavy, foggy head, Copious white, frothy sputum, Rattling or gurgling sound in the throat
+- **Worse with**: Greasy, fried, or spicy foods, Emotional stress and frustration, Cold or damp weather, Overwork and lack of sleep
+- **Better with**: Quiet, calm environment, Warm, dry environment, Light, warm meals
+- **Why this happens (Mechanism)**:
+  When the Spleen is weak, it fails to transform fluids, which gather into Phlegm. Emotional strain or stress then stirs Liver Wind, and the Wind carries Phlegm upward to obstruct the orifices of the Heart - the seat of the mind. This is what produces the episodes of confusion, hallucinations, or seizure-like symptoms characteristic of psychosis in this pattern.
+- **Tongue & Pulse**: Tongue: normal or slightly pale body, swollen with teeth marks, white greasy coating. Pulse: wiry and slippery (Xian Hua).
+- **Triggers & Relief Explanation**: Wind-Phlegm arises when Spleen deficiency generates Phlegm and Liver Wind stirs. Damp, greasy foods further burden the Spleen and increase Phlegm, while stress and emotional upset stir Liver Wind. Rest and a calm environment help settle the mind and reduce Wind, and warm, dry conditions help the Spleen transform fluids properly.
+- **Diet & Lifestyle**: Avoid cold, raw, and greasy foods that create Phlegm. Eat lightly cooked, warm meals with aromatic spices like ginger. Keep the living space calm and avoid overstimulation. Gentle daily movement like walking helps keep Qi flowing.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Ding Xian Wan](https://www.meandqi.com/knowledge-base/formulas/ding-xian-wan)** | Arrest Seizures Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Slightly Cool, Transforms Wind-Phlegm and Stops Spasms, Opens the Orifices and Revives Consciousness, Calms the Spirit and Settles Fright | This formula resolves Phlegm, extinguishes Wind, and opens the orifices to calm the mind, making it ideal for Wind-Phlegm obstructing the Heart. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tian Ma](https://www.meandqi.com/knowledge-base/herbs/tian-ma)** | Gastrodia root |  | Calms internal Wind and steadies dizziness and trembling. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries dampness and transforms Phlegm, reducing the white frothy sputum. |
+| **[Shi Chang Pu](https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu)** | Acorus rhizome |  | Opens the orifices and clears the mind, helping to relieve confusion and hallucinations. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-26** | [Renzhong DU-26](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/renzhong-du-26) | R&#xE9;n Zh&#x14D;ng | Restores consciousness, Benefits the face and nose | Revives consciousness and opens the orifices; used in acute episodes to restore mental clarity. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | Transforms Phlegm and clears the mind, reducing the rattling throat and heavy head. |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Calms the mind and clears the head, settling internal Wind. |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | Calms the spirit and harmonizes the Heart, easing emotional turmoil. |
+
+---
+
+### Liver Wind agitating Internally due to Liver Fire
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/liver-wind-agitating-internally-due-to-liver-fire)*
+
+- **Clinical Signs & Symptoms**: Red face and bloodshot eyes, Explosive irritability and agitation, Tremors, muscle twitching, or convulsions, Splitting headache or distending head pain, Bitter taste and extreme thirst, Tinnitus or sudden hearing loss
+- **Worse with**: Emotional stress and frustration, Alcohol and greasy or spicy food, Overwork and lack of sleep, Hot, stuffy environments
+- **Better with**: Quiet, calm environment, Deep breathing and relaxation, Cooling foods, Avoiding alcohol and stimulants
+- **Why this happens (Mechanism)**:
+  When intense anger or prolonged frustration smolders, Liver Qi can stagnate and then explode upward as Fire. This raging Fire is like a windstorm inside the body - it generates internal Wind that rushes to the head, shaking the mind's clarity and stirring up manic excitement, tremors, or even convulsions. The spirit (Shen) becomes unanchored, leading to the extreme restlessness and agitated behaviors seen in psychotic episodes.
+- **Tongue & Pulse**: Tongue: red body with redder sides, may be stiff or trembling; yellow dry coating. Pulse: wiry (弦 xián), rapid (数 shuò), and forceful.
+- **Triggers & Relief Explanation**: Anger and frustration are the emotional sparks that ignite Liver Fire, while alcohol, spicy food, and overwork add more fuel. These all cause Qi and Fire to surge upward, whipping up the internal Wind that disturbs the mind. Cooling foods, a calm environment, and deep breathing help drain the Heat and settle the rising Yang, which naturally extinguishes the Wind and anchors the spirit.
+- **Diet & Lifestyle**: Cool the body with chrysanthemum tea, celery, cucumber, and mung beans. Avoid alcohol, coffee, spicy foods, and late nights, which all stoke Fire. Gentle daily movement like walking or tai chi helps Qi flow, but intense competitive exercise can aggravate the Liver. Practice slow, deep breathing when anger rises.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tian Ma Gou Teng Yin](https://www.meandqi.com/knowledge-base/formulas/tian-ma-gou-teng-yin)** | Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE | Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire | The foundational formula to calm Liver Wind, clear Heat, and anchor the spirit - ideal for the dizziness, tremors, and manic agitation of this pattern. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | Powerfully drains Liver and Gallbladder Fire at its root, cooling the intense Heat that fuels the internal Wind. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Tian Ma](https://www.meandqi.com/knowledge-base/herbs/tian-ma)** | Gastrodia root |  | Extinguishes internal Wind and calms tremors or convulsions - a key herb for the Wind component. |
+| **[Gou Teng](https://www.meandqi.com/knowledge-base/herbs/gou-teng)** | Gambir vine stems and hooks |  | Drains Liver Heat and anchors rising Yang, stopping Wind and easing irritability. |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | Bitter and cold, it directly clears blazing Liver Fire and dries the Heat-generated Dampness. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to subdue rising Liver Yang and extinguish internal Wind. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Clears Heat from the head, extinguishes Wind, and calms the mind. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | Drains intense Liver Fire, cooling the blood and easing agitation. |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Calms the spirit and settles the upward surging of Wind and Fire to the head. |
+
+---
+
+### Pericardium Blood Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/pericardium-blood-stagnation)*
+
+- **Clinical Signs & Symptoms**: Fixed, unchanging delusions or mental dullness, Stabbing chest pain in a fixed spot, Purple lips and dark or dusky facial complexion, Palpitations with a sense of oppression or tightness, Insomnia with restless, anxious sleep
+- **Worse with**: Emotional stress and frustration, Sedentary lifestyle, Cold or damp weather, Greasy, fried, or spicy foods
+- **Better with**: Gentle exercise like walking, Warmth on the chest, Deep breathing and relaxation, Quiet, calm environment
+- **Why this happens (Mechanism)**:
+  The Pericardium wraps around the Heart like a protective sleeve, and in TCM it is the guardian of the mind (Shen). When long-standing emotional frustration or physical trauma causes Qi to stagnate, the Blood can eventually congeal within this wrapping. That stasis physically obstructs the Heart's ability to house the mind clearly, so the person's thinking becomes stuck, dull, and fixed-producing chronic delusions and mental sluggishness that are hallmarks of this pattern.
+- **Tongue & Pulse**: Tongue: dark purple or dusky body with purple stasis spots, distended sublingual veins, and a thin white coat. Pulse: choppy (涩 sè) especially at the left Cun position, possibly wiry (弦 xián), and often knotted (结 jié) with irregular pauses.
+- **Triggers & Relief Explanation**: Blood stasis is a condition of stuck flow. Emotional stress knots the Qi, which is the commander of Blood, so frustration directly worsens the stagnation. Cold congeals and contracts, making the Blood even more sluggish. Movement and warmth do the opposite-they encourage circulation and help dissolve the stasis that clouds the mind. A calm environment prevents further Qi stagnation, while deep breathing physically massages the chest and promotes Blood flow through the Pericardium.
+- **Diet & Lifestyle**: Eat plenty of dark leafy greens, eggplant, and small amounts of turmeric or ginger to gently move Blood. Avoid greasy, heavy, and cold foods that can worsen stagnation. Gentle daily walks and deep breathing exercises help keep Qi and Blood flowing smoothly through the chest.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The classic formula to invigorate Blood in the chest, open the Pericardium, and calm the mind by resolving stasis. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Invigorates Blood and calms the mind, especially effective for stasis in the chest that disturbs the Shen. |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower |  | Unblocks stagnant Blood and helps clear fixed delusions by restoring smooth flow through the Heart&#x27;s wrapping. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **PC-6** | [Neiguan PC-6](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6) | N&#xE8;i Gu&#x101;n | Invigorates Qi and Blood in the chest, Calms the Mind | The Luo point of the Pericardium meridian; opens the chest, moves Blood, and calms the mind. |
+| **PC-4** | [Ximen PC-4](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/ximen-pc-4) | X&#x12B; M&#xE9;n | Invigorates Blood and removes Stagnation, Cools Blood and stops bleeding | The Xi-Cleft point; specifically treats acute pain and Blood stasis in the Pericardium channel. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Sea of Blood; strongly moves and regulates Blood throughout the body to resolve stasis. |
+
+---
+
+### Liver Qi Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/liver-qi-stagnation)*
+
+- **Clinical Signs & Symptoms**: Frequent sighing, Rib and chest tightness, Mood swings with irritability and depression, Feeling of a lump in throat, Suspiciousness or social withdrawal, Poor appetite and bloating
+- **Worse with**: Emotional stress and frustration, Anger outbursts, Greasy, fried, or spicy foods, Alcohol and stimulants
+- **Better with**: Gentle exercise like walking, Talking through frustrations, Warm, comforting foods, Deep breathing and relaxation
+- **Why this happens (Mechanism)**:
+  The Liver ensures the smooth flow of Qi and emotions. When emotional frustrations pile up, Qi stagnates, leading to irritability, depression, and a sense of being stuck. Over time, this stuck Qi can generate heat and condense fluids into phlegm, which then rises to cloud the mind, triggering confusion, paranoia, or irrational thoughts.
+- **Tongue & Pulse**: Tongue: normal or slightly dark body with red or slightly purple sides, thin white coat. Pulse: wiry (xian), taut like a guitar string, most prominent at the left Guan position.
+- **Triggers & Relief Explanation**: Emotional stress directly aggravates Liver Qi stagnation, as the Liver is most sensitive to emotional upset. Greasy foods and alcohol generate dampness and heat, which can combine with stagnant Qi to create phlegm-fire. Gentle movement and talking relieve emotional pressure and help Qi flow smoothly again.
+- **Diet & Lifestyle**: Avoid alcohol, caffeine, and greasy foods, which can generate heat and phlegm. Gentle daily exercise like walking or yoga helps keep Qi flowing. Make time for relaxing activities and talk through frustrations with a trusted friend.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | The classic formula to soothe the Liver, relieve Qi stagnation, and address the underlying emotional trigger. |
+| **[Huang Lian Wen Dan Tang](https://www.meandqi.com/knowledge-base/formulas/huang-lian-wen-dan-tang)** | Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE | Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting | A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm. |
+| **[Sheng Tie Luo Yin](https://www.meandqi.com/knowledge-base/formulas/sheng-tie-luo-yin)** | Iron Filings Drink &#xB7; Q&#x12B;ng dynasty, 1732 CE | Cool, Anchors and Calms the Spirit, Clears Fire and eliminates Phlegm, Calms the Liver and Subdues Yang | A classical formula for calming severe mental agitation, mania, and emotional disturbances caused by an accumulation of internal Heat and Phlegm disturbing the mind. It uses heavy mineral substances to anchor and settle the spirit while clearing Heat and dissolving Phlegm from the Heart and Liver. Commonly applied in cases of acute psychiatric episodes, severe insomnia with agitation, and epilepsy related to Phlegm-Fire patterns. |
+| **[Ding Xian Wan](https://www.meandqi.com/knowledge-base/formulas/ding-xian-wan)** | Arrest Seizures Pill &#xB7; Q&#x12B;ng dynasty, 1732 CE | Slightly Cool, Transforms Wind-Phlegm and Stops Spasms, Opens the Orifices and Revives Consciousness, Calms the Spirit and Settles Fright | A classical formula used to clear stubborn phlegm, calm internal wind, open the mind&#x27;s orifices, and settle the spirit. It is the primary TCM formula for seizure disorders caused by wind and phlegm combined with heat, presenting as sudden collapse, convulsions, upward-rolling eyes, foaming at the mouth, and phlegm-rattling in the throat. |
+| **[Tian Ma Gou Teng Yin](https://www.meandqi.com/knowledge-base/formulas/tian-ma-gou-teng-yin)** | Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE | Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire | A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/xiao-yao-san)** | Free and Easy Wanderer Powder &#xB7; S&#xF2;ng dynasty, 1078 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Nourishes Blood and Softens the Liver, Strengthens the Spleen and Harmonizes the Middle | A classical formula for people who feel stressed, emotionally tense, or irritable, especially when accompanied by fatigue, poor appetite, digestive upset, or menstrual irregularity. It works by gently restoring the smooth flow of Liver Qi while nourishing the blood and strengthening digestion. One of the most widely used formulas in traditional Chinese medicine, it is often described as helping a person feel &#x27;free and easy&#x27; again. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Soothes constrained Liver Qi and lifts the mood. |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome |  | Powerfully moves stagnant Qi and relieves depression. |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Zhu Ru](https://www.meandqi.com/knowledge-base/herbs/zhu-ru)** | Bamboo shavings | Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability |  |
+| **[Dan Nan Xing](https://www.meandqi.com/knowledge-base/herbs/dan-nan-xing)** | Bile Arisaema | Cool, Clears heat and transforms phlegm (&#x6E05;&#x70ED;&#x5316;&#x75F0;), Extinguishes wind and stops convulsions (&#x606F;&#x98CE;&#x5B9A;&#x60CA;) |  |
+| **[Shi Chang Pu](https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu)** | Acorus rhizome | Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach |  |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Tian Ma](https://www.meandqi.com/knowledge-base/herbs/tian-ma)** | Gastrodia root | Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals |  |
+| **[Gou Teng](https://www.meandqi.com/knowledge-base/herbs/gou-teng)** | Gambir vine stems and hooks | Cool, Extinguishes Wind and Stops Spasms, Courses the Liver and Drains Heat, Calms the Liver and Subdues Yang |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower | Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses |  |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome | Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to smooth Liver Qi and relieve frustration. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Pairs with Taichong to move Qi throughout the body. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the mind and eases emotional turmoil. |
+
+---
+
+## Frequently Asked Questions
+### Can TCM treat psychosis without medication?
+TCM can be a valuable part of treatment, but psychosis is a serious condition that often requires antipsychotic medication - especially in acute, severe episodes. Do not stop or reduce prescribed medications without consulting your doctor. TCM herbs and acupuncture may help reduce symptom severity, shorten episodes, and address underlying imbalances, potentially allowing for lower medication dosages over time under medical supervision.
+
+### Is acupuncture safe during a psychotic episode?
+Acupuncture can be used safely during an episode, particularly to calm agitation and clear the mind. Points like Baihui (DU-20) and Neiguan (PC-6) are often selected to settle the Shen. However, a person in a highly agitated or violent state may not be able to cooperate with needle insertion. In such cases, herbal treatment may be the primary TCM modality until the person is calmer.
+
+### How do herbs compare to antipsychotics?
+Herbs work differently. Antipsychotics directly block dopamine receptors to suppress symptoms quickly. TCM herbs aim to correct the underlying pattern - clearing phlegm, cooling fire, or moving blood - which takes more time but may address root causes. Many patients use both together, with herbs potentially reducing side effects like weight gain or sedation. Always coordinate with your prescribing doctor.
+
+### Will I need to change my diet?
+Diet plays a supportive role. In general, avoid greasy, spicy, and very sweet foods, which can generate phlegm and heat. Focus on light, cooling vegetables, whole grains, and lean proteins. For Phlegm-Fire patterns, foods like mung beans, cucumber, and celery are especially helpful. Your practitioner will give you specific guidance based on your pattern.
+
+### Can TCM help with the side effects of antipsychotics?
+Yes, this is a common reason patients seek TCM. Weight gain, fatigue, and movement disorders can often be addressed by treating the underlying Spleen and Liver imbalances that the medication exacerbates. Herbs and acupuncture may improve metabolism, reduce sedation, and ease muscle stiffness. Always inform both your TCM practitioner and psychiatrist about all treatments you are receiving.
+
+### How long until I see results?
+Many patients notice a reduction in agitation and clearer thinking within 2-4 weeks of starting herbs and regular acupuncture. For chronic or long-standing psychosis, significant improvement may take 3-6 months. Consistency is key - missing treatments or herbs can slow progress. Your practitioner will adjust the plan as your symptoms evolve.
+
+### Is TCM safe for children with psychosis?
+TCM can be adapted for children, using gentler herbal dosages and non-needle techniques like acupressure or pediatric tuina. However, childhood psychosis is a medical emergency that requires immediate psychiatric evaluation. TCM may serve as a complementary therapy once the child is stabilized and under a doctor's care.
+
+---
+
+## Modern Scientific Research
+1. **Acupuncture for schizophrenia** ([Link](https://doi.org/10.1002/14651858.CD005475.pub2))
+   *Journal/Publication: Shen X, Xia J, Adams CE. Acupuncture for schizophrenia. Cochrane Database of Systematic Reviews 2014, Issue 10. Art. No.: CD005475.*
+   A Cochrane systematic review assessing the effects of acupuncture for people with schizophrenia and related psychoses. The review included 30 randomized controlled trials and found that acupuncture, when added to antipsychotic medication, may improve mental state and reduce adverse effects, but the evidence was of low to moderate quality. The authors concluded that further high-quality trials are needed.
+
+2. **Effect of Shi-Zhen-An-Shen herbal formula granule in the treatment of young people at ultra-high risk for psychosis: a pilot study** ([Link](https://doi.org/10.3389/fpsyt.2023.1160452))
+   *Journal/Publication: Zhang J, et al. Effect of Shi-Zhen-An-Shen herbal formula granule in the treatment of young people at ultra-high risk for psychosis: a pilot study. Frontiers in Psychiatry. 2023;14:1160452.*
+   A pilot randomized controlled trial evaluating a Chinese herbal formula designed to clear Fire and nourish Kidney Yin in individuals at ultra-high risk for psychosis. The study found the formula was well-tolerated and showed a trend toward reducing the transition to full psychosis compared to placebo, as well as improving attenuated psychotic symptoms. This provides early evidence that TCM may play a preventive role in psychotic disorders.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/psychosis](https://www.meandqi.com/knowledge-base/conditions/psychosis)*

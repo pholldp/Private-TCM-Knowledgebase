@@ -1,0 +1,218 @@
+# หน้าแดง (面赤)
+**คำอ่านพินอิน**: miàn chì | **ประเภท**: Symptom | **หมวดหมู่**: ใบหน้าและผิวพรรณ  
+**ชื่อเรียกอื่นๆ**: Blushing, Facial Flushing, Facial Redness, Red Face, Reddened Face, Flushed red face, Red flushed face, Face flushing, Facial flushing or hot flushes on the cheeks, Facial flushing or sensation of heat rising to the face, Flushed face during emotional upset, Flushed or red face, Mild facial flushing, Red face and sensation of heat, Slight facial flushing despite feeling cold, Red Face During Anger Episodes, Flushed Face with Thirst, Flushing, Sensation of heat rising to the face, Sensation of heat or flushing in the upper body, Flushed Ears, Facial Redness During Coughing Fits, Face turning red during coughing fits | **บริเวณร่างกาย**: Face — Cheek
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+จังหวะเวลาและตัวกระตุ้นของการหน้าแดงจะเผยให้เห็นถึงรากเหง้าของมัน - ไม่ว่าจะเป็นความร้อนส่วนเกิน ไฟทางอารมณ์ หรือความบกพร่องที่ลึกกว่านั้น - และคนส่วนใหญ่เห็นการปรับปรุงที่สำคัญด้วย...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, a flushed face is typically understood as a result of vasodilation - blood vessels near the skin surface widen, causing redness and a sensation of warmth. Common triggers include emotional stress, spicy foods, alcohol, menopause, rosacea, certain medications, and underlying conditions like carcinoid syndrome or mastocytosis. Diagnosis usually involves a medical history and physical exam, and sometimes blood tests or imaging to rule out more serious causes.
+
+### การรักษาหลัก (Treatments)
+Conventional management focuses on identifying and avoiding triggers. Topical medications (like brimonidine or metronidazole) are used for rosacea, hormone therapy may be prescribed for menopausal hot flashes, and beta-blockers can help with anxiety-related flushing. For persistent visible blood vessels, laser or light-based therapies are sometimes recommended.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the face is seen as a mirror of the internal organs, especially the Stomach, Liver, Heart, and Kidneys. The Stomach channel runs directly up through the face, so when intense heat builds up in the Stomach - often from overeating spicy, greasy foods or from an external pathogen - it travels upward along this pathway, causing a bright red, hot complexion, intense thirst, and a surging pulse. This is a true excess heat that needs to be cleared.
+The Liver, responsible for the smooth flow of Qi, is deeply affected by emotions. When anger, frustration, or stress are held in, Liver Qi stagnates and transforms into Fire. That Fire blazes upward along the Liver meridian to the head and eyes, producing a red face and bloodshot eyes that flare during emotional upset, along with a bitter taste and a wiry, rapid pulse. Here the heat is generated internally by constrained emotions, not by diet.
+Two other patterns involve deficiency rather than excess. When the body's cooling, moistening Yin fluids run low - common in menopause, overwork, or chronic illness - there is nothing to anchor the body's natural warmth. This warmth drifts upward as 'empty heat,' settling on the cheekbones as a rosy flush that worsens in the afternoon or evening, accompanied by night sweats and a thin, rapid pulse.
+The other deficiency pattern is even more subtle: when Kidney Yang, the body's foundational pilot light, becomes deeply depleted, cold settles in the lower body, but the weakened Yang floats upward, creating a deceptive flush on the cheeks while the person feels cold overall, with cold feet and a deep, slow pulse. This is 'true cold with false heat.'
+Because the same flushed face can arise from such different roots - true excess, constrained emotion, depleted Yin, or exhausted Yang - TCM always looks beyond the redness to the whole picture: the timing, the triggers, the tongue, the pulse, and the accompanying sensations. That is why one Western symptom can map to several TCM patterns, and why treatment must be precisely matched to the individual.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner first asks when the redness appears and what else the body feels. In Bright Yang Stomach Heat, the whole face is red, hot to the touch, and the person is feverish with intense thirst for cold water. The pulse feels large and forceful, and the tongue is red with a thick yellow coat. This is a true excess heat brewing in the stomach and rising upward, often triggered by overeating spicy or greasy foods or by a strong external heat invasion.
+If the red face comes with red eyes, a bitter taste, and a quick temper, Liver Fire Blazing is the likely culprit. The flushing often flares during emotional stress or anger. The pulse is wiry and rapid, and the tongue is red with a yellow coating, especially on the sides. Here the heat is generated by constrained emotions turning into fire that rushes up to the head, so the eyes and face are both affected.
+When the flush settles on the cheekbones and worsens in the afternoon or evening, along with night sweats and a warm sensation in the palms, soles, and chest, the pattern is Empty-Heat caused by Yin Deficiency. The tongue is red with little or no coating, and the pulse is thin and rapid. This is not a true fire but a false heat that appears because the body's cooling yin fluids are depleted, allowing a deceptive warmth to float upward.
+A more complex picture is Disharmony between Heart and Kidneys from Kidney Yang Deficiency. Here the cheeks may be flushed, but the person feels deeply cold, with chilly limbs, diarrhea, and a deep, faint pulse. The tongue is pale but may have a red tip. This is a sign of severe yang weakness: the body's foundational fire is so exhausted that it floats upward, creating a red face that masks a state of internal cold.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「阳明病，面合色赤，不可攻之。」
+> 
+> **คำแปลภาษาอังกฤษ**: "In Bright Yang disease, when the face is completely red, purgation is contraindicated."
+> 
+> — แหล่งที่มา: *Shang Han Lun (Treatise on Cold Damage)  ,  Line 48, Identification of Yangming Disease 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Bright Yang Stomach Heat
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/bright-yang-stomach-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: High fever that sweating does not relieve, Intense thirst with craving for cold drinks, Flushed red face, warm to the touch, Irritability and restlessness, Scanty, dark urine
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, greasy, or fried foods, Alcohol, Hot weather, Stress, anger, or frustration, Overwork, late nights, or lack of sleep
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cold drinks, Cool environment, Rest, Light clothing, Cooling foods and herbal teas
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Stomach channel runs up through the face. When intense, full Heat builds up in the Stomach, it travels upward along this pathway, making the face flush bright red and feel warm. This is a true excess heat - the body is like an overheated furnace, with the face showing the rising steam.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with a yellow, dry coating that may show early cracks. Pulse: overflowing and surging (洪 hóng), rapid, and strong in all positions, especially at the right middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Bright Yang Stomach Heat is an excess heat pattern. Heat rises upward, so cooling foods and environments help clear it, while hot, spicy, or greasy foods add fuel to the fire. Emotional stress can generate internal heat, worsening the flush. Rest allows the body to cool and recover.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat cooling foods like cucumber, watermelon, and mung beans, and avoid spicy, greasy, or fried foods. Drink plenty of water and keep your environment cool. Avoid alcohol and coffee, which add heat.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bai Hu Tang](https://www.meandqi.com/knowledge-base/formulas/bai-hu-tang)** | White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids | The classic formula to clear intense Stomach Heat and reduce facial flushing. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shi Gao](https://www.meandqi.com/knowledge-base/herbs/shi-gao)** | Gypsum |  | Powerfully clears Stomach Heat and fire, the main herb for this pattern. |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome |  | Nourishes fluids and helps clear heat without drying, supporting Shi Gao. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | The Ying-Spring point of the Stomach channel, clears Stomach Heat effectively. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Regulates the Stomach and supports the clearing of excess heat. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Clears Yangming channel heat and helps cool the face. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | A major point to clear heat from the body and reduce fever. |
+
+---
+
+### Liver Fire Blazing
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-fire-blazing)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Red face and bloodshot, painful eyes, Bitter taste in the mouth and dry throat, Intense irritability and explosive temper, Throbbing headache at the temples or crown, Burning sensation or pain along the ribs
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Stress, anger, or frustration, Spicy, greasy, or fried foods, Alcohol and coffee
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods and herbal teas, Deep breathing and quiet time, Gentle exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver is responsible for the smooth flow of Qi throughout the body. When intense emotions like anger and frustration are held in, the Liver Qi stagnates and eventually transforms into Fire. This internal Fire blazes upward along the Liver meridian, which travels to the head and eyes, directly pouring heat onto the face and causing the characteristic reddened complexion.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with even redder sides, a dry yellow coating, and sometimes red prickles. Pulse: wiry (弦 xián) and rapid, full and forceful, especially at the left middle (Guan) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Anger directly stirs up Liver Qi, causing it to stagnate and then blaze upward as fire-the very mechanism that reddens the face. Spicy, greasy, and hot substances add external heat to an already overheated system. Cooling foods and calming activities help clear that heat and soothe the Liver, preventing the fiery upward rush that causes flushing.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat to the body. Focus on cooling, light meals with plenty of green vegetables like celery, cucumber, and chrysanthemum tea. Practice stress-reducing activities such as gentle walking, journaling, or deep breathing to prevent emotional tension from turning into fire.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The primary formula to clear Liver Fire, drain damp-heat from the lower burner, and settle the rising flame that reddens the face. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | The key herb for draining blazing Liver Fire and relieving the red, painful eyes. |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit |  | Clears heat from the Liver and Heart, calming the irritability and restlessness that accompany the facial flushing. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The source point of the Liver meridian; it powerfully subdues rising Liver Fire and smoothes the flow of Qi. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | The spring point of the Liver channel, specifically used to douse excess Fire and cool the blood. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Dispels wind and clears heat from the head, helping to relieve the red face and throbbing headache. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Flushed cheekbones (malar flush), not the whole face, Worsens in the afternoon or evening, Night sweats and five-palm heat (heat in palms, soles, and chest), Dry mouth and throat with a desire to sip small amounts of water
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, greasy, or fried foods, Alcohol and coffee, Overwork, late nights, or lack of sleep, Stress, anger, or frustration
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling, moistening foods (pear, cucumber), Early, regular bedtime, Gentle exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's cooling, moistening Yin fluids run low, there is nothing to anchor the natural warmth of the body. This warmth drifts upward as 'empty heat,' much like a pot boiling dry on a stove. The heat rises to the face, settling especially on the cheekbones, and the feeling of heat worsens in the afternoon and evening when Yin energy is naturally at its lowest.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin, dry body with cracks and little or no coating. Pulse: thin (细 xì) and rapid (数 shuò), weak on deep pressure.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Yin is the body's coolant and moisture. When it is depleted, even normal body warmth becomes unanchored and flares upward as empty heat, reddening the cheeks. Habits that further consume Yin-like staying up late, eating heating foods, or intense emotional strain-add fuel to this fire. Cooling, yin-nourishing foods and restful sleep rebuild the coolant, allowing the body to gently settle the heat back down.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Prioritize cooling, moistening foods like pear, cucumber, lily bulb, and tofu. Avoid spicy, fried, or barbecued foods, as well as alcohol and coffee, which all consume Yin. Go to bed early and protect your sleep; late nights are one of the fastest ways to burn through Yin reserves. Gentle, calming movement like Tai Chi or restorative yoga can help, but avoid heavy sweating during exercise.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | The classic formula to nourish Yin and subdue empty heat; it enriches Kidney Yin and clears deficiency fire. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome |  | Clears heat and nourishes Yin, especially good for the dry mouth and restlessness of empty heat. |
+| **[Huang Bo](https://www.meandqi.com/knowledge-base/herbs/huang-bo)** | Phellodendron bark |  | Drains deficiency fire from the lower body, helping to anchor the heat that rises to the face. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel, used to nourish Kidney Yin at its root. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Clears empty heat and moistens dryness, particularly helpful for the evening worsening of symptoms. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Strengthens the Yin of the whole body and calms the mind to improve sleep. |
+
+---
+
+### Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/disharmony-between-heart-and-kidneys-caused-by-kidney-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Flushed face, especially cheeks, despite overall coldness, Cold lower limbs and sore, weak low back, Sensation of heat or agitation in the chest, Insomnia or restless sleep, Fatigue, diarrhea, frequent urination
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold weather or drafts, Overwork, late nights, or lack of sleep, Raw, cold, or iced foods
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth and warm drinks, Rest, Warm, cooked meals
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Kidney Yang is the body's foundational warmth, like a pilot light. When it becomes deeply depleted, cold settles in the lower body-but the weakened Yang can no longer stay anchored below. It floats upward, creating a deceptive sensation of heat and a flushed face, especially on the cheeks. This is a "true cold, false heat" picture: the face looks warm, but the body is cold and exhausted.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, teeth-marked body with a moist white coat; the tip may be slightly redder. Pulse: deep, slow, and weak, especially at the Kidney (Chi) positions; the Heart (Cun) position may feel slightly more perceptible or wiry.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Yang is the body's internal fire. Cold, overwork, and raw foods extinguish it further, making the Yang more likely to drift upward and cause flushing. Warmth, rest, and nourishing foods gently stoke that fire, keeping it rooted in the lower body so the face stays cool and calm.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the lower body warm-warm socks, warm baths, and gentle heat on the low back. Eat warming, cooked foods like stews, root vegetables, ginger, and cinnamon; avoid raw, cold, and icy foods that further deplete Yang. Gentle movement like walking or tai chi helps circulation without exhausting you. Prioritize rest and avoid overwork or late nights, which drain Kidney Yang.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | Warms Kidney Yang, anchors the floating Yang back down, and calms the Heart spirit-directly addressing the root of the &quot;false heat&quot; flushing. |
+| **[Bai Hu Tang](https://www.meandqi.com/knowledge-base/formulas/bai-hu-tang)** | White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids | A powerful classical formula used to bring down high fever, relieve intense thirst, and restore body fluids when internal Heat has built up strongly in the body. It is one of the most important formulas in Chinese medicine for treating conditions with blazing fever, heavy sweating, and great thirst, such as severe infections, heatstroke, and certain inflammatory conditions. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs. |
+| **[Gui Zhi Jia Long Gu Mu Li Tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang)** | Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage | A classical formula for people experiencing anxiety, palpitations, excessive sweating, insomnia with vivid dreams, or urinary issues stemming from a general state of depletion where the body can no longer properly contain its vital substances. It works by gently warming and rebalancing the body while calming the mind and helping the body hold onto what it is losing. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Restores depleted Kidney Yang and dispels internal cold. |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Warms the Kidneys and guides the floating fire back to its source. |
+| **[Long Gu](https://www.meandqi.com/knowledge-base/herbs/long-gu)** | Dragon Bone (fossilised mammal bone) |  | Heavy and astringent, it anchors the restless Yang and calms palpitations. |
+| **[Shi Gao](https://www.meandqi.com/knowledge-base/herbs/shi-gao)** | Gypsum | Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat |  |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome | Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit | Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice |  |
+| **[Huang Bo](https://www.meandqi.com/knowledge-base/herbs/huang-bo)** | Phellodendron bark | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire |  |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Long Gu](https://www.meandqi.com/knowledge-base/herbs/long-gu)** | Dragon Bone (fossilised mammal bone) | Neutral, Calms the Spirit and Settles Fright, Calms the Liver and anchors floating Yang, Secures Essence and Stops Leakage |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Moxa. Directly warms and strengthens Kidney Yang. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa. Tonifies Yuan Qi and anchors floating Yang. |
+| **KI-1** | [Yongquan KI-1](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/yongquan-ki-1) | Y&#x1D2;ng Qu&#xE1;n | Nourishes Yin and clears Empty-Heat, Regulates Qi the Lower Burner | Directs excess heat and floating Yang downward. |
+| **HT-7** | [Shenmen HT-7](https://www.meandqi.com/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7) | Sh&#xE9;n M&#xE9;n | Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood | Calms the Heart and eases mental restlessness. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Why does my face flush when I'm stressed or angry?
+In TCM, the Liver is closely tied to emotions, especially anger and frustration. When these feelings are held in, Liver Qi stagnates and can transform into Fire, which rushes upward along the Liver meridian to the face and eyes. This is why your face and eyes may redden during an argument or a stressful moment. Treatment focuses on smoothing the Liver Qi and clearing that heat so that emotional triggers no longer provoke such a strong physical reaction.
+
+### Can acupuncture really help with hot flashes and night sweats?
+Yes. Hot flashes and night sweats often stem from Yin Deficiency, where the body's cooling fluids are depleted. Acupuncture and herbs work to nourish Yin and anchor the body's warmth, so it no longer drifts upward as empty heat. Many patients find that the frequency and intensity of hot flashes decrease noticeably within 4-8 weeks, and night sweats often improve even sooner.
+
+### Is it safe to combine Chinese herbs with my blood pressure medication?
+In most cases, yes, but coordination is important. Some cooling herbs can have mild blood-pressure-lowering effects, so your TCM practitioner and your doctor should both know what you're taking. Never stop or adjust your blood pressure medication on your own. A well-monitored combination can be safe and effective, but it must be managed by professionals who communicate with each other.
+
+### Will I need to change my diet?
+Dietary adjustments can make a big difference. In general, it's wise to avoid spicy, greasy, and overly heating foods (like chili, alcohol, and fried dishes) that can aggravate facial flushing. Instead, favour cooling, moistening foods such as cucumber, pear, watermelon, and mung beans. Your practitioner will give you more specific guidance based on your pattern, but these basic shifts often help reduce flare-ups.
+
+### How long until I see results?
+Most people notice a reduction in the frequency and intensity of flushing within the first few weeks of treatment. Excess patterns like Stomach Heat or Liver Fire tend to respond faster - sometimes within 2-4 weeks. Deficiency patterns, where the body needs to rebuild Yin or Yang, may take 2-4 months to show lasting change. Consistency with herbs and acupuncture sessions is key.
+
+### What's the difference between a hot flash and a liver fire flush?
+Both can make your face red and hot, but they feel different. A hot flash from Yin Deficiency usually comes in waves, often in the afternoon or at night, with sweating and a sensation of heat in the palms and soles. A Liver Fire flush is more likely to flare during anger or stress, with red eyes, a bitter taste, and a throbbing headache. The tongue and pulse will also differ, which is why a professional diagnosis is so helpful.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Acupuncture for menopausal hot flushes**
+   *วารสารวิชาการ: Dodin S, Blanchet C, Marc I, et al. Acupuncture for menopausal hot flushes. Cochrane Database of Systematic Reviews 2013, Issue 7. Art. No.: CD007410.*
+   A Cochrane systematic review evaluating the effectiveness of acupuncture for reducing hot flushes in menopausal women. The review found that acupuncture was associated with a small but significant reduction in hot flush frequency and severity compared to no treatment, though evidence was limited by small sample sizes and risk of bias.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/flushed-face)*

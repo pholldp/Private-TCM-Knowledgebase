@@ -1,0 +1,71 @@
+# Nuan Gan Jian (暖肝煎)
+**English Name**: Liver-Warming Brew  
+**Category**: Qi-regulating formulas, Interior-warming formulas  
+**Dynasty/Source**: Jǐng Yuè Quán Shū (景岳全书, Collected Treatises of Jing Yue) by Zhāng Jǐngyuè  
+**Temperature**: Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A warming formula designed to relieve cold-type pain in the lower abdomen, groin, or testicles caused by weakness and coldness in the Liver and Kidney systems. It works by gently warming these organ systems, improving the flow of Qi, and stopping pain. It is commonly used for conditions like inguinal hernia, testicular pain, and cold-type menstrual cramps.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Warms the Liver and Kidneys, Moves Qi and Alleviates Pain, Warms the Liver Channel and Dispels Cold, Nourishes Blood
+- **Therapeutic Focus**: Men's Health, Lower Abdominal Pain Relief, Hernia Support, Reproductive Health
+- **Target Organs**: Liver, Kidneys, Spleen
+- **Patterns Addressed**: 
+- **Conditions Treated**: Hernia, Amenorrhea, Varicocele, Testicular Pain, Hydrocele, Chronic Colitis, Chronic Appendicitis
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Rou Gui** | Cinnamon bark | *King* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Acrid, sweet, and very hot in nature. Warms the Kidney and Liver, dispels deep cold from the lower body, and stops pain. As King herb it directly addresses the core problem of cold lodging in the Liver channel. |
+| **Xiao Hui Xiang** | Fennel fruit | *King* | 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Kidneys, Spleen, Stomach | Acrid and warm, enters the Liver channel. Warms the Liver, disperses cold from the lower abdomen, regulates Qi, and relieves pain. Paired with Rou Gui, the two herbs together form the warming core of the formula. |
+| **Dang Gui** | Chinese Angelica root | *Deputy* | 6 - 9g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Sweet, acrid, and warm. Nourishes Blood and tonifies the Liver, addressing the underlying deficiency that allows cold to invade. Ensures the warming herbs do not dry out the Blood. |
+| **Gou Qi Zi** | Chinese Wolfberry Fruit | *Deputy* | 9g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Lungs | Sweet and neutral. Tonifies the Liver and Kidney, nourishes essence and Blood. Together with Dang Gui, it strengthens the Liver-Kidney foundation so the body can resist cold invasion. |
+| **Wu Yao** | Lindera root | *Deputy* | 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Kidneys, Urinary Bladder | Acrid and warm. Moves Qi, disperses cold, and relieves pain, particularly in the lower abdomen. Addresses the Qi stagnation that accompanies cold congealing in the Liver channel. |
+| **Chen Xiang** | Agarwood | *Deputy* | 3g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Kidneys | Acrid, bitter, and warm. Promotes Qi movement, warms the Kidney, and directs Qi downward to the lower body. Works with Wu Yao to resolve Qi stagnation and cold pain. The original text notes that Mu Xiang (Costus Root) may be substituted. |
+| **Fu Ling** | Poria | *Assistant* | 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Sweet, bland, and neutral. Strengthens the Spleen, promotes urination, and resolves dampness. When Kidney Yang is deficient, fluid metabolism can falter, so Fu Ling supports water metabolism and protects the Spleen. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Envoy* | 3 - 5 slices | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Acrid and warm. Scatters cold, harmonizes the Stomach, and helps the other herbs disperse effectively. Acts as a guiding and harmonizing herb for the whole formula. |
+
+---
+
+## Scientific Research
+
+1. [Randomized Controlled Trial of Modified Nuan Gan Jian for Unstable Angina Pectoris (2004)](https://pubmed.ncbi.nlm.nih.gov/15688691/) (*Tian RS et al., Journal of Chinese Integrative Medicine (Zhong Xi Yi Jie He Xue Bao), 2004, 2(6), 413-415*)
+> This RCT assigned 66 patients with unstable angina to either a modified Nuan Gan Jian capsule group or a control group for 3 weeks. The treatment group showed significant reductions in angina episodes and improvements in ECG abnormalities. The formula also decreased myocardial oxygen consumption and favorably modulated the thromboxane-prostacyclin balance (decreased TXB2, increased 6-Keto-PGF1α), suggesting anti-thrombotic and vasodilatory mechanisms.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Rou Gui (Cinnamon Bark) is traditionally classified as a pregnancy-caution herb because it can promote blood circulation and may stimulate uterine contractions. Dang Gui (Chinese Angelica) also moves Blood and is generally used cautiously during pregnancy. Xiao Hui Xiang (Fennel Seed) and Wu Yao (Lindera Root) are Qi-moving herbs that may exert downward-directing effects in the lower abdomen. While this formula is not classified as strictly abortifacient, its combination of warming, Blood-moving, and Qi-moving herbs directed at the lower body makes it inappropriate for routine use during pregnancy. A qualified practitioner should be consulted if there is any possibility of pregnancy.
+
+### Breastfeeding
+No specific classical contraindication exists for use during breastfeeding. Most herbs in this formula are common culinary or tonic substances (ginger, cinnamon, fennel, goji berries, angelica root) with long histories of dietary use. However, the formula's strongly warming nature could theoretically affect breast milk quality in Heat-sensitive infants, potentially causing irritability or loose stools in the nursing child. Rou Gui (Cinnamon Bark) and Xiao Hui Xiang (Fennel Seed) have aromatic volatile oils that may transfer into breast milk in small amounts. Use under the guidance of a qualified practitioner, and monitor the infant for any changes in feeding behavior or stool patterns.
+
+### Children
+This formula is rarely used in young children, as its primary indications (hernial pain, testicular cold pain) are predominantly adult conditions. If prescribed for an older child or adolescent with confirmed Cold-type lower abdominal pain, dosages should be reduced to approximately one-third to one-half of the adult dose depending on age and body weight. Rou Gui (Cinnamon Bark) dosage should be particularly conservative in children due to its strongly warming nature. The formula is generally not suitable for children under 6 years of age without specialist supervision. As with all pediatric herbal prescriptions, a qualified practitioner should determine appropriateness, dosage, and duration.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications (e.g. warfarin, heparin, aspirin, clopidogrel): Both Rou Gui (Cinnamon Bark) and Dang Gui (Chinese Angelica) in this formula have demonstrated anticoagulant and antiplatelet activity. Rou Gui contains coumarin compounds that may potentiate the effects of warfarin, and Dang Gui is well documented to enhance warfarin's anticoagulant action. Concurrent use may increase bleeding risk and requires close INR monitoring.
+Hypoglycemic medications (insulin, metformin, sulfonylureas): Rou Gui (Cinnamon Bark) has been shown in clinical studies to have blood sugar-lowering effects. Combined use with diabetic medications may result in additive hypoglycemic effects, potentially causing dangerously low blood sugar. Blood glucose should be monitored more frequently if this formula is used alongside diabetes medications.
+Antihypertensive medications: The warming and circulation-promoting effects of this formula, particularly from Rou Gui, may have mild blood pressure-lowering effects. Patients on antihypertensive drugs should be monitored for possible additive effects.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Between meals on a relatively empty stomach (食远温服), served warm, typically twice daily — morning and evening.
+- **Typical Duration**: Acute hernial or abdominal pain episodes: 3–7 days; chronic or recurrent Cold-type pain: 2–4 weeks, reassessed by a practitioner and adjusted based on symptom response.
+- **Dietary Advice**: Avoid cold and raw foods (salads, ice cream, cold drinks, raw seafood) while taking this formula, as these directly counteract its warming therapeutic action and can worsen Cold stagnation in the lower body. Reduce consumption of cold-natured fruits such as watermelon, pear, and banana. Favor warm, cooked foods that support the Spleen and warm the interior: lamb, chicken, ginger tea, leek, chive, cinnamon in cooking, warm soups, and congee. Moderate amounts of warming spices like black pepper, fennel, and star anise in cooking are helpful. Avoid excessive alcohol, which can generate Damp-Heat and complicate the condition.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian](https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian)*

@@ -1,0 +1,269 @@
+# หูอุดตัน (耳闭)
+**คำอ่านพินอิน**: ěr bì | **ประเภท**: Symptom | **หมวดหมู่**: ปัญหาหูและการได้ยิน  
+**ชื่อเรียกอื่นๆ**: Blocked ears | **บริเวณร่างกาย**: Ear
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+หูอุดตันที่เริ่มต้นด้วยการเป็นหวัด หูที่แย่ลงเมื่อคุณรู้สึกเหนื่อย และหูที่รู้สึกแห้งและดังในตอนกลางคืน ถือเป็นอาการที่แตกต่างกัน 3 ประการใน TCM และแต่ละอาการก็ต้องการอาการของตัวเอง...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In Western medicine, a blocked ear is most often attributed to Eustachian tube dysfunction. The Eustachian tube connects the middle ear to the back of the throat and normally opens to equalize pressure and drain fluid. When it fails to open properly, a person may experience muffled hearing, a sensation of fullness, and sometimes mild pain.
+Common triggers include colds, sinus infections, allergies, and rapid changes in altitude. Diagnosis typically involves examining the ear with an otoscope, and may include tympanometry to assess middle ear function and hearing tests to rule out fluid or nerve damage. When fluid persists, it can lead to temporary conductive hearing loss.
+
+### การรักษาหลัก (Treatments)
+Treatment depends on the underlying cause. For temporary blockage from a cold or allergies, decongestants, antihistamines, or nasal corticosteroid sprays may help open the Eustachian tube. If fluid remains in the middle ear for months, a minor surgical procedure to drain the fluid or place ventilation tubes may be recommended. For chronic Eustachian tube dysfunction, balloon dilation is a newer option. These approaches focus on the mechanical opening of the tube, but do not always prevent recurrence.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the ear is not an isolated organ. It is the opening of the Kidney system and depends on clear Qi rising from the Spleen to stay nourished and open. When the Lung’s defensive Qi is weak, external Wind can invade and block the ear channel. When the Liver’s smooth flow is disrupted, Qi and blood can stagnate in the narrow ear passages. This is why the same sensation of a blocked ear can have very different root causes.
+An acute blockage that arrives with a cold or flu is usually an Exterior Wind pattern. The pathogen is still at the surface, and the ear feels suddenly stuffed, like a door slammed shut by a gust of wind. The tongue may look normal, and the pulse feels floating. This is the most straightforward pattern to resolve, often clearing within days.
+When the ear has felt blocked for weeks or months without other symptoms, the core issue is often Qi and Blood Stagnation. The flow in the ear channel has become sluggish, sometimes after an infection that never fully resolved. The tongue may show a dark purple hue or tiny spots, and the pulse can feel wiry and hesitant - signs of a long-standing traffic jam in the local circulation.
+If the blocked ear comes with fatigue, poor appetite, and loose stools, the Spleen Qi is too weak to lift clear nourishment to the head. Dampness may also accumulate, making the ear feel heavy and clogged. This pattern worsens with overwork and improves with rest and warm food. The tongue is often pale and puffy with tooth marks.
+In older adults or those with chronic exhaustion, the root often lies in the Kidneys. Kidney Yin deficiency leaves the ear dry and undernourished, causing a persistent blockage with a high-pitched ringing that worsens at night. Kidney Yang deficiency makes the ear feel cold and deeply stuffed, especially in winter, accompanied by low back pain and frequent urination. These patterns take longer to rebuild but respond well to consistent herbal nourishment.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner first asks how long the blockage has been present and whether it began suddenly alongside a cold. The timeline is the first big clue: an acute, recent onset often points toward an exterior invasion, while a persistent, chronic blockage that has lasted weeks or months suggests a deeper internal imbalance.
+When the ear suddenly feels stuffed during a cold or flu, with mild pain and possibly a fever or chills, the pattern is likely Exterior Wind. The tongue coating may be thin and white or yellow, and the pulse often feels floating. This is an acute condition where the pathogen is still at the surface.
+If the ear has been blocked for a long time without any other bodily symptoms-just a dull stuffiness, hearing loss, or tinnitus-the core problem is usually Qi and Blood Stagnation in the ear channel. The tongue may show a dusky color or tiny purple spots, and the pulse can feel wiry or hesitant, reflecting poor circulation in the narrow passages of the ear.
+A chronic blocked ear accompanied by noticeable fatigue, poor appetite, loose stools, and a pale face points to Spleen Qi Deficiency. Here the digestive system is too weak to produce and lift the clear Qi that nourishes the ears. The tongue is often pale and swollen with a thin white coat, and the pulse feels weak and soft.
+When the ear blockage comes with signs of dryness and heat-such as a dry mouth at night, warm palms and soles, night sweats, or a ringing in the ears-the underlying pattern is Kidney Yin Deficiency. The tongue appears red with little or no coating, and the pulse is thin and rapid. This reflects a lack of cooling, nourishing fluids.
+A less common but distinct pattern is Kidney Yang Deficiency, where the ear feels chronically blocked along with a deep sense of cold: cold hands and feet, a pale complexion, and frequent urination. The tongue is pale and puffy, and the pulse is deep and weak. This indicates that the body’s warming fire is too low to keep the ear channel open and active.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「肾气通于耳，肾和则耳能闻五音矣。」
+> 
+> **คำแปลภาษาอังกฤษ**: "The Kidney Qi communicates with the ears; when the Kidney is harmonious, the ears can hear the five sounds."
+> 
+> — แหล่งที่มา: *Huang Di Nei Jing (Yellow Emperor's Inner Classic), Su Wen, Chapter 17  ,  Discussion on the Essentials of Pulse Diagnosis 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Qi And Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Persistent ear blockage and fullness, Hearing loss, especially for low tones, Tinnitus (ringing or buzzing), Eardrum appears retracted or dull, Chronic course, often after a cold
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, raw foods and drinks, Emotional stress, Sedentary lifestyle, Exposure to cold wind
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth and gentle movement, Stress relief and relaxation, Eating warm, cooked meals
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Qi and blood flow in the narrow ear channel becomes stagnant, often after a lingering cold or due to chronic stress, the ear feels persistently blocked and heavy. The stagnation prevents clear Qi from ascending to nourish the ear, leading to diminished hearing and a sensation of fixed obstruction. Over time, the eardrum may retract or develop dull patches as the channel remains clogged.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: dark purple body with possible stasis spots, distended sublingual veins. Pulse: wiry (弦 xián) and choppy (涩 sè), like a knife scraping bamboo.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold congeals blood and emotional tension stagnates Qi, both worsening the blockage in the ear channel. Warmth, gentle movement, and stress relief help circulate Qi and blood, allowing the Liver to smooth the flow and gradually open the ear.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals and avoid cold or raw foods that congeal blood. Include moderate amounts of ginger, turmeric, and black pepper to promote circulation. Gentle daily movement like walking or Tai Chi helps move Qi and blood. Protect your ears from cold wind and manage stress with calming practices like deep breathing.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Tong Qiao Huo Xue Tang](https://www.meandqi.com/knowledge-base/formulas/tong-qiao-huo-xue-tang)** | Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals | The classic formula to invigorate blood, remove stasis, and open the ear orifice. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Moves blood and Qi upward to unblock the ear channel. |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower |  | Invigorates blood and dispels stasis, especially in the head. |
+| **[Shi Chang Pu](https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu)** | Acorus rhizome |  | Opens the ear orifice and clears phlegm-dampness. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SI-19** | [Tinggong SI-19](https://www.meandqi.com/knowledge-base/acupuncture/small-intestine-meridian/tinggong-si-19) | T&#x12B;ng G&#x14D;ng | Benefits the ears | Local point to directly open the ear orifice and relieve stuffiness. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Regulates Qi and blood flow to the face and head. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood and resolves stasis throughout the body. |
+| **BL-17** | [Geshu BL-17](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17) | G&#xE9; Sh&#x16B; | Invigorates Blood, Cools Blood Heat and stops bleeding | Influential point for blood, used to move stagnant blood. |
+
+---
+
+### Spleen Qi Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/spleen-qi-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fatigue and lack of energy, Poor appetite, Abdominal bloating after meals, Loose or soft stools, Ear blockage worse when tired
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and lack of sleep, Cold, raw foods and drinks, Irregular eating habits, Damp, humid environments
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Eating warm, cooked meals, Rest and adequate sleep, Small, frequent meals
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen transforms food into clear Qi that rises to nourish the head and ears. When Spleen Qi is weak, this clear Qi cannot ascend, leaving the ear undernourished and prone to a sensation of blockage. At the same time, the Spleen’s failing transport may allow dampness to accumulate, which can further obstruct the ear channel.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy body with tooth marks and a thin white coating. Pulse: soft and weak, especially at the right middle (Guan) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: The Spleen is easily weakened by overwork, irregular meals, and cold or raw foods, which directly impair its ability to produce and raise clear Qi. Rest and warm, cooked foods support Spleen function, helping Qi ascend to the ear and relieve the blockage.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals at regular times and avoid raw, cold, and greasy foods that tax the Spleen. Gentle exercise like walking helps Qi flow, but avoid overexertion. Prioritize adequate rest and sleep to rebuild Qi.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | Tonifies Spleen Qi and raises clear Yang to the head, opening the ear by restoring upward nourishment. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Spleen Qi and lifts Yang to the head, helping to open the ear. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Strengthens the Spleen&#x2019;s transforming function, reducing dampness and supporting Qi ascent. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonify. Strengthens Spleen Qi and promotes the ascent of clear Yang. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Tonify. Supports Spleen Qi and resolves dampness. |
+| **SJ-21** | [Ermen SJ-21](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/ermen-sj-21) | &#x11A;r M&#xE9;n | Benefits ears, Expels Wind | Local point that directly opens the ear orifice. |
+
+---
+
+### Kidney Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Gradual, progressive ear blockage and hearing loss, High-pitched tinnitus, worse at night or when tired, Night sweats and heat in palms, soles, and chest, Soreness and weakness of the lower back and knees, Dry mouth and throat, especially at night
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and lack of sleep, Spicy, fried, or dry foods, Excessive sweating (saunas, intense exercise), Emotional stress, Hot, dry weather
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool, quiet environments, Going to bed early, Eating yin-nourishing foods (pears, tofu), Gentle, non-sweaty movement
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Kidneys open into the ears, and Kidney Yin is the deep, cooling nourishment that keeps the ear functioning. When Yin becomes depleted, the ear no longer receives enough moisture and essence, leading to a gradual, chronic sensation of blockage and hearing loss. The empty space left by Yin allows deficiency Heat to rise, which can stir up a high-pitched ringing tinnitus and a feeling of heat in the head.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin, and dry with little or no coating, possibly cracked. Pulse: fine (xi) and rapid (shu), often weak at the left rear (Kidney) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Yin is the body’s cooling, moistening reserve. Overwork, late nights, and excessive sweating drain this reserve, while spicy and dry foods generate heat that further consumes Yin. When Yin is low, the ear loses its nourishment and deficiency Heat rises, causing blockage and tinnitus. Rest, cooling foods, and a calm environment help rebuild Yin and settle the rising heat, relieving the ear symptoms.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Focus on foods that build Yin, such as black sesame, walnuts, pears, tofu, and millet. Avoid spicy, fried, and overly heating foods that dry out the body’s moisture. Prioritize rest and avoid staying up late, as nighttime is when the body replenishes Yin. Gentle exercise like tai chi or walking is better than intense, sweat-inducing workouts that can further deplete fluids.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Er Long Zuo Ci Wan](https://www.meandqi.com/knowledge-base/formulas/er-long-zuo-ci-wan)** | Magnetite and Rehmannia Pill for Deafness &#xB7; Q&#x12B;ng dynasty, c. 1892 CE | Slightly Cool, Nourishes Kidney Yin, Calms the Liver and Subdues Yang, Opens the Ear Orifices and Brightens the Eyes | The classic formula to nourish Kidney Yin and specifically open the ear&#x27;s orifice, addressing both the root deficiency and the ear blockage. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Deeply nourishes Kidney Yin and essence, providing the fundamental moisture the ear needs. |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit |  | Stabilizes the Kidney and secures essence, helping to anchor the rising deficiency Heat that disturbs the ear. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel, used with reinforcing technique to deeply nourish Yin and benefit the ear. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | The back-shu point of the Kidney, tonifies Kidney essence and Yin to support the ear. |
+| **GB-2** | [Tinghui GB-2](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/tinghui-gb-2) | T&#x12B;ng Hu&#xEC; | Benefits the ears, Expels Exterior Wind | Local point directly in front of the ear to open the auditory orifice and relieve blockage. |
+
+---
+
+### Exterior Wind
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/exterior-wind)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Acute onset, often after exposure to wind, Ear stuffiness or mild ear pain, Runny nose or nasal congestion, Aversion to wind or drafts, Mild chills or low-grade fever, Headache, especially at the back of the neck
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Exposure to cold wind, Cold, raw foods and drinks, Overwork and lack of sleep, Sudden temperature changes
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on the ear, Rest and staying indoors, Warm ginger or cinnamon tea, Avoiding drafts and wind
+- **กลไกการเกิดอาการ (Why this happens)**:
+  External Wind invades the body through the skin and the upper airways, often lodging in the Lung and the channels that connect to the ear. This sudden obstruction of Qi flow in the ear channel causes a rapid sensation of stuffiness and mild pain, much like a blocked nose. Because the ear and the respiratory tract share these channels, the ear blockage usually appears alongside a cold or after exposure to a draft.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal body with a thin white coat; the tip may be slightly red if wind-heat is present. Pulse: floating (fu), felt clearly at the surface.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Wind is the main pathogen here; it enters through the skin and lodges in the channels, so anything that keeps the body warm and shielded helps the defensive Qi push it out. Cold and drafts tighten the surface and trap the wind deeper, while rest and warm fluids support the body’s natural outward-expelling force.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the neck and ears covered when outdoors, and avoid sitting in direct drafts. Drink plenty of warm fluids like ginger tea to help the body push out the invading wind. Steer clear of cold, raw foods and icy drinks, which can tighten the channels and trap the pathogen.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | Dispels wind-heat, opens the ear orifice, and resolves acute ear blockage from external invasion. When wind-cold predominates, San Ao Tang may be substituted. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears wind-heat and relieves the exterior, reducing upper-respiratory and ear congestion. |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit |  | Dispels wind-heat and reduces swelling, helping to unblock the ear channel. |
+| **[Bo He](https://www.meandqi.com/knowledge-base/herbs/bo-he)** | Peppermint herb |  | Releases the exterior and directs herbs upward to the head and ear. |
+| **[Jie Geng](https://www.meandqi.com/knowledge-base/herbs/jie-geng)** | Balloon flower root |  | Opens the Lung and carries the formula to the upper body, relieving ear stuffiness. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SJ-21** | [Ermen SJ-21](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/ermen-sj-21) | &#x11A;r M&#xE9;n | Benefits ears, Expels Wind | A local point that directly opens the ear orifice and relieves stuffiness. |
+| **SI-19** | [Tinggong SI-19](https://www.meandqi.com/knowledge-base/acupuncture/small-intestine-meridian/tinggong-si-19) | T&#x12B;ng G&#x14D;ng | Benefits the ears | Regulates Qi in the ear channel and improves hearing clarity. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Dispels wind and regulates the face and sense organs, a key distal point for head and ear issues. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Expels external wind and relieves the stiff neck and headache that often accompany ear blockage. |
+
+---
+
+### Kidney Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Chronic ear blockage that worsens with cold or fatigue, Low-pitched tinnitus or muffled hearing, Sensation of cold, especially in the lower back and knees, Frequent urination, especially at night, Fatigue, low energy, and desire to sleep, Pale or darkish complexion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, raw foods and drinks, Exposure to cold, damp weather, Overwork and lack of sleep, Excessive sexual activity
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Applying warmth to the lower back, Eating warm, cooked meals, Rest and adequate sleep, Moxibustion on the lower abdomen
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Kidneys open into the ears and supply the warming Yang that keeps Qi and blood flowing freely in the ear channel. When Kidney Yang is weak, the body's inner fire dims, cold congeals, and Qi and blood stagnate-like a frozen pipe that becomes stiff and blocked. This leaves the ear feeling persistently stuffed, often with a low-pitched hum, while the whole body shows signs of cold and sluggishness.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, puffy and tender body with teeth marks, wet white coating. Pulse: Deep, slow and weak, especially feeble at the rear (Chi) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Yang is the body's pilot light. Cold, raw foods, and exhaustion douse that fire, allowing cold to congeal and Qi to stagnate in the ear. Warmth, rest, and nourishing foods gently stoke the fire, restoring the flow of Qi and blood so the ear channel can open again.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the lower back and feet warm, and avoid sitting on cold surfaces. Favor warming, cooked foods like lamb, walnuts, ginger, black beans, and cinnamon. Limit raw, cold, and icy foods. Gentle moxibustion over the lower abdomen and lower back can be profoundly helpful. Protect your energy by going to bed early and avoiding overwork or excessive sexual activity.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Fu Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/gui-fu-di-huang-wan)** | Cinnamon Bark and Aconite Rehmannia Pill &#xB7; The ancestral formula (Shen Qi Wan) dates to the Eastern Han dynasty (~200 CE). The current form with Rou Gui and Shu Di Huang evolved during the Song dynasty (~1110 CE). The name &quot;Gui Fu Di Huang Wan&quot; was formalized in the Qing dynasty (1742 CE). | Warm, Warms and tonifies Kidney Yang, Nourishes Kidney Yin, Supplements mingmen fire | Warms Kidney Yang and dispels cold, the foundational formula for Yang deficiency; often combined with Qi- and blood-moving herbs to open the ear. |
+| **[You Gui Wan](https://www.meandqi.com/knowledge-base/formulas/you-gui-wan)** | Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire | Strongly warms and tonifies Kidney Yang, suitable when cold signs and exhaustion are more pronounced. |
+| **[Tong Qiao Huo Xue Tang](https://www.meandqi.com/knowledge-base/formulas/tong-qiao-huo-xue-tang)** | Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals | A classical formula designed to improve blood circulation in the head and face, used for stubborn headaches, hair loss, hearing difficulties, skin discolorations, and other problems caused by stagnant blood obstructing the sensory organs. It works by powerfully moving blood and opening the body&#x27;s orifices (eyes, ears, nose, mouth) in the upper body. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Er Long Zuo Ci Wan](https://www.meandqi.com/knowledge-base/formulas/er-long-zuo-ci-wan)** | Magnetite and Rehmannia Pill for Deafness &#xB7; Q&#x12B;ng dynasty, c. 1892 CE | Slightly Cool, Nourishes Kidney Yin, Calms the Liver and Subdues Yang, Opens the Ear Orifices and Brightens the Eyes | A classical formula used to support hearing and relieve ringing in the ears (tinnitus) caused by a gradual decline in Kidney and Liver Yin. It nourishes the deep reserves of the Kidney, calms rising Liver Yang, and settles the spirit. It is best suited for hearing loss or tinnitus that develops slowly over time, especially in older adults, and is often accompanied by dizziness, blurred vision, and lower back weakness. |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs. |
+| **[Gui Fu Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/gui-fu-di-huang-wan)** | Cinnamon Bark and Aconite Rehmannia Pill &#xB7; The ancestral formula (Shen Qi Wan) dates to the Eastern Han dynasty (~200 CE). The current form with Rou Gui and Shu Di Huang evolved during the Song dynasty (~1110 CE). The name &quot;Gui Fu Di Huang Wan&quot; was formalized in the Qing dynasty (1742 CE). | Warm, Warms and tonifies Kidney Yang, Nourishes Kidney Yin, Supplements mingmen fire | A classical warming formula used to support the body when Kidney Yang (the Kidney&#x27;s warming and activating function) is weakened. It addresses symptoms like persistent cold sensation in the lower back and limbs, excessive or difficult urination, swelling, fatigue, and low energy. The formula gently restores warmth by combining a rich nourishing base with small amounts of warming herbs, following the principle that sustainable warmth comes from nourishing the body&#x27;s foundation rather than forceful heating. |
+| **[You Gui Wan](https://www.meandqi.com/knowledge-base/formulas/you-gui-wan)** | Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire | A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Ignites the Gate of Life Fire and warms the channels, driving out cold that stiffens the ear. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Restores devastated Yang and powerfully warms the Kidneys to rekindle the body&#x27;s heat. |
+| **[Du Zhong](https://www.meandqi.com/knowledge-base/herbs/du-zhong)** | Eucommia bark |  | Tonifies Kidney Yang and strengthens the lower back and knees, easing the deep ache that often accompanies ear blockage. |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain |  |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower | Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses |  |
+| **[Shi Chang Pu](https://www.meandqi.com/knowledge-base/herbs/shi-chang-pu)** | Acorus rhizome | Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit | Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse |  |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower | Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery |  |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit | Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat |  |
+| **[Bo He](https://www.meandqi.com/knowledge-base/herbs/bo-he)** | Peppermint herb | Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat |  |
+| **[Jie Geng](https://www.meandqi.com/knowledge-base/herbs/jie-geng)** | Balloon flower root | Neutral, Diffuses Lung Qi, Expels Phlegm, Benefits the Throat |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Du Zhong](https://www.meandqi.com/knowledge-base/herbs/du-zhong)** | Eucommia bark | Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SJ-21** | [Ermen SJ-21](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/ermen-sj-21) | &#x11A;r M&#xE9;n | Benefits ears, Expels Wind | Local point to directly unblock the ear channel and relieve stuffiness. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Yang with moxibustion; strengthens the root energy that nourishes the ears. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Warms the Gate of Life Fire with moxibustion, dispelling deep cold and invigorating Yang. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Source point of the Kidney channel; reinforces Kidney essence and Yang to support hearing. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Why does my ear feel blocked even though my doctor says there's no fluid?
+In TCM, a sensation of blockage without visible fluid often points to Qi and Blood Stagnation in the ear channel. The flow of energy and blood has become sluggish, creating a feeling of pressure or fullness that isn't caused by physical liquid. This pattern commonly follows an infection that never fully resolved or chronic stress that tightens the channels. Acupuncture and herbs that move blood and open the orifices can relieve this type of blockage.
+
+### Can acupuncture really unblock my ear?
+Yes. Acupuncture uses local points like Ermen (SJ-21), Tinggong (SI-19), and Tinghui (GB-2) directly around the ear to stimulate circulation and open the channel. Distant points on the hands and feet address the underlying organ imbalance - for example, strengthening the Spleen or clearing Wind. Many patients notice a subtle popping or clearing sensation during or shortly after treatment.
+
+### How long does it take to work?
+Acute blockage from a cold can improve after just one or two sessions. Chronic cases that have lasted months usually require weekly acupuncture and daily herbs for 4-8 weeks to see significant change. Deficiency patterns involving the Spleen or Kidneys may need 3-6 months of steady treatment to rebuild the body's reserves and prevent the blockage from returning.
+
+### Can I combine TCM with my allergy medications?
+In most cases, yes. TCM herbs and acupuncture can be used safely alongside antihistamines or nasal steroid sprays. However, some herbs may have drying properties similar to decongestants, so your practitioner may adjust the formula to avoid excessive dryness. Always inform both your doctor and your TCM practitioner about all medications and supplements you are taking.
+
+### What can I do at home to help a blocked ear?
+Apply a warm compress over the ear to encourage circulation. Avoid cold, icy drinks and raw foods, which can constrict the channels. Gentle jaw and neck stretches can help release tension around the Eustachian tube. For acute blockage with a cold, drink warm ginger tea to help disperse Wind. If symptoms persist beyond a few days, seek professional advice.
+
+### Is it safe to use herbs for ear blockage during pregnancy?
+Many herbs are safe, but some - especially those that strongly move blood or clear Wind - should be avoided during pregnancy. A qualified TCM practitioner will select a formula that is gentle and appropriate for your stage of pregnancy. Never self-prescribe herbs while pregnant without professional guidance.
+
+### Why does my ear block when I'm tired?
+Fatigue often signals Spleen Qi Deficiency. The Spleen is responsible for transforming food into clear Qi that rises to nourish the ears. When you're exhausted, this lifting function weakens, and the ear may feel undernourished and prone to stuffiness. Rest, warm meals, and herbs that strengthen the Spleen can make a noticeable difference.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Exploring the bioactive ingredients of three traditional Chinese medicine formulas against age-related hearing loss through network pharmacology and experimental validation** ([ลิงก์](https://link.springer.com/article/10.1007/s00210-024-03464-2))
+   *วารสารวิชาการ: Li S, et al. Exploring the bioactive ingredients of three traditional Chinese medicine formulas against age-related hearing loss through network pharmacology and experimental validation. Naunyn-Schmiedeberg's Archives of Pharmacology. 2024.*
+   This network pharmacology study investigated Er Long Zuo Ci Wan and related formulas, identifying multiple active compounds that target inflammatory and oxidative stress pathways implicated in ear dysfunction. Experimental validation confirmed that the formulas protect auditory cells, supporting their traditional use for ear blockage and hearing loss.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/blocked-ear)*

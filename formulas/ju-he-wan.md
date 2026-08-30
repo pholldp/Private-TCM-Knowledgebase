@@ -1,0 +1,68 @@
+# Ju He Wan (橘核丸)
+**English Name**: Tangerine Seed Pill  
+**Category**: Qi-regulating formulas, Hernia-treating formulas (治疝方)  
+**Dynasty/Source**: Ji Sheng Fang (济生方, Formulas to Aid the Living) by Yan Yong-He (严用和)  
+**Temperature**: Warm | **Form**: Pill (Wan)
+
+---
+
+## Summary
+A classical formula designed to relieve testicular and scrotal swelling, hardness, and pain caused by Cold and Dampness accumulating in the lower body. It works by promoting the smooth flow of Qi and Blood through the groin area, warming the body to expel Cold, draining excess Dampness, and softening hard masses. Commonly used for conditions such as hernia, epididymitis, orchitis, and hydrocele.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Moves Qi, Alleviates Pain, Dissipates Nodules and Softens Hardness, Invigorates Blood and Dispels Stasis, Warms the Liver Channel and Dispels Cold
+- **Therapeutic Focus**: Men's Reproductive Health, Testicular Health, Hernia Support
+- **Target Organs**: Liver, Kidneys, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Epididymitis, Hernia, Orchitis, Hydrocele, Testicular Pain, Male Infertility, Endometriosis
+- **Other Names**: Ju He Shan Qi Wan (橘核疝气丸, Tangerine Seed Hernia Pill)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ju He** | Tangerine seed | *King* | 9 - 12g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Kidneys | The chief herb of the formula, Ju He enters the Liver channel to move Qi, disperse stagnation, and relieve pain. It specifically targets swelling and hardness of the testicles and is the defining herb for treating hernia-type disorders (shan qi). |
+| **Chuan Lian Zi** | Sichuan Chinaberry Fruit | *Deputy* | 9 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Small Intestine, Urinary Bladder | Enters the Liver channel Qi level to promote Qi movement and relieve pain. Assists the King herb in unblocking Liver Qi stagnation in the lower abdomen and groin. |
+| **Mu Xiang** | Costus root | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder | A powerful Qi-moving herb that enters the Liver channel's Qi level. Works alongside the King to promote the smooth flow of Qi through the Liver channel and relieve distension and pain. |
+| **Tao Ren** | Peach kernel | *Deputy* | 9 - 12g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Large Intestine | Enters the Liver channel's Blood level to activate Blood circulation, dispel Blood stasis, and reduce swelling. Complements the Qi-moving herbs by addressing the Blood stagnation component of the pathology. |
+| **Yan Hu Suo** | Corydalis rhizome | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Spleen | Enters the Liver channel's Blood level to invigorate Blood and powerfully relieve pain. Paired with Tao Ren, it addresses Blood stasis that accompanies Qi stagnation in the Liver channel. |
+| **Hai Zao** | Sargassum seaweed | *Assistant* | 9 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Liver, Stomach, Kidneys | Salty and cold, it softens hardness and disperses nodules. Targets the hard, stone-like swelling of the testicles by breaking down pathological accumulations. |
+| **Kun Bu** | Kelp | *Assistant* | 9 - 12g | Temp: Cold<br>Taste: Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Liver, Stomach, Kidneys | Salty and cold, it works synergistically with Hai Zao and Hai Dai to soften hardness, dissipate nodules, and promote the drainage of pathological fluids. |
+| **Hai Zao** | Sargassum seaweed | *Assistant* | 9 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Liver, Stomach, Kidneys | Completes the trio of salty, softening seaweed herbs. Together they form a powerful group for resolving hard masses and reducing scrotal swelling. |
+| **Rou Gui** | Cinnamon bark | *Assistant* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Warms the Liver and Kidney, expels Cold from the lower body, and supplements the Fire of the Ming Men (life gate). Addresses the root Cold component of the condition that allows dampness to congeal. |
+| **Hou Po** | Magnolia bark | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Descends Qi, dries Dampness, and helps break up accumulations of fluid and stagnant Blood in the lower abdomen. Reinforces the formula's ability to address Dampness. |
+| **Zhi Shi** | Immature Bitter Orange Fruit | *Assistant* | 3 - 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Strongly moves Qi and breaks through stagnation. Helps disperse hardened accumulations and complements the Qi-regulating action of the formula. |
+| **Mu Tong** | Akebia stem | *Envoy* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Small Intestine, Urinary Bladder | Opens the water passages and drains Dampness downward through the urine. Directs the pathological Dampness out of the lower body via the Bladder, serving as a channel guide for the formula. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. This formula contains Tao Ren (peach kernel), which is a recognized Blood-moving herb with documented potential to stimulate uterine contractions and induce labor. Chuan Lian Zi (Melia fruit) is also classified as a pregnancy caution herb. Additionally, the formula's overall strategy of vigorously moving Qi and Blood makes it unsuitable for pregnant women. The combination of multiple Qi-moving and Blood-activating ingredients poses a clear risk of miscarriage or premature labor.
+
+### Breastfeeding
+Use with caution during breastfeeding. While not absolutely contraindicated, several ingredients deserve attention. Chuan Lian Zi (Melia toosendan fruit) contains potentially toxic alkaloids (such as toosendanin) that could theoretically transfer through breast milk in small amounts. Tao Ren also has active pharmacological compounds. There is no established safety data for this formula in breastfeeding women. If use is clinically necessary, it should be under close practitioner supervision with the shortest possible course.
+
+### Children
+This formula was historically used for pediatric inguinal hernia, which the classical texts noted was common in children. However, dosages must be significantly reduced — typically to one-third to one-half of the adult dose depending on the child's age and weight. The formula contains strong Qi-moving and Blood-activating herbs that can be harsh on a child's immature digestive system. For children under age 5, this formula should only be used under close practitioner supervision. Mu Tong in particular requires careful dosing in children due to potential nephrotoxicity concerns with certain Mu Tong species (Aristolochia-derived varieties should be strictly avoided; only Akebia-derived Mu Tong should be used).
+
+### Drug Interactions
+Anticoagulants and antiplatelet drugs (e.g. warfarin, aspirin, clopidogrel): Tao Ren (peach kernel) and Yan Hu Suo (corydalis) both have documented Blood-activating and analgesic properties. They may potentiate anticoagulant effects and increase bleeding risk when taken alongside blood-thinning medications.
+Hepatotoxic medications: Chuan Lian Zi (Melia toosendan fruit) contains toosendanin, which has known hepatotoxic potential at higher doses. Concurrent use with other liver-burdening drugs (e.g. acetaminophen/paracetamol, statins, certain antibiotics) may increase the risk of liver damage.
+Mu Tong species caution: If the formula uses traditional Mu Tong derived from Aristolochia species (now banned in many countries due to aristolochic acid nephrotoxicity), there is serious risk of kidney injury. Only Akebia-derived Mu Tong (Caulis Akebiae) should be used. This is a safety concern rather than a drug interaction per se, but it becomes especially important if the patient is taking any nephrotoxic drugs.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: On an empty stomach (空心, kōng xīn), traditionally in the morning, with warm salted wine or warm lightly salted water to guide the formula's action downward to the lower body.
+- **Typical Duration**: Often taken for 2–4 weeks as a course, then reassessed by a practitioner. Chronic or stubborn cases may require multiple courses with modifications.
+- **Dietary Advice**: Avoid cold and raw foods, iced drinks, and excessive dairy, as these can generate further Cold-Dampness in the lower body and counteract the formula's warming, Dampness-dispelling action. Reduce greasy, fried, and heavy foods that contribute to Dampness and Phlegm accumulation. Alcohol in small amounts (particularly warm rice wine) is traditionally considered compatible and was in fact part of the original administration method. Favor lightly warming, easy-to-digest foods such as cooked vegetables, soups, and mild spices like fresh ginger.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/ju-he-wan](https://www.meandqi.com/knowledge-base/formulas/ju-he-wan)*

@@ -1,0 +1,158 @@
+# Yang Qi Shi (阳起石)
+**English Name**: Actinolite  
+**Category**: Yang-tonifying herbs (补阳药)  
+**Scientific Name**: Tremolite / Actinolite (Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂)  
+**Pharmaceutical Name**: Actinolitum  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Salty (咸 xián)  
+**Channels Entered**: Kidneys  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Yang Qi Shi is a mineral substance (a form of tremolite/actinolite) that has been used in Chinese medicine since ancient times to warm and strengthen the Kidneys. Its name literally means "stone that raises the Yang," reflecting its primary use for conditions related to Kidney Yang deficiency such as male sexual dysfunction, female infertility due to a cold uterus, and coldness in the lower back and knees. It is typically calcined before use and is not intended for long-term consumption.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Men's Reproductive Health, Fertility, Kidney Health, Women's Reproductive Health
+- **TCM Actions**: Tonifies Kidney Yang, Warms the Ming Men Fire, Warms the Uterus and Promotes Fertility, Warms the Lower Burner and Dispels Cold
+
+### How these actions work
+Warms the Kidneys and tonifies Yang: This is the core action of Yang Qi Shi. When the body's Kidney Yang (the warming, activating aspect of the Kidneys) becomes depleted, it can lead to coldness in the lower body, sexual dysfunction, and loss of reproductive function. Yang Qi Shi directly warms the Kidney system and restores its Yang function. It is considered one of the classical minerals for treating impotence (the name literally means "stone that raises the Yang").
+Strengthens the Ming Men fire: The Ming Men ("life gate") is the root of all Yang in the body, housed within the Kidney system. When Ming Men fire is weak, the whole body loses its warming power, leading to cold limbs, watery stools, and fatigue. Yang Qi Shi helps rekindle this foundational fire.
+Warms the uterus to promote fertility: In women, Kidney Yang deficiency can cause a condition known as "cold uterus" (gong han), which may manifest as infertility, irregular or excessive menstrual bleeding, and lower abdominal coldness. Yang Qi Shi warms the uterus and helps regulate the Chong and Ren vessels (the two main channels governing reproduction).
+Dispels Cold from the lower body: Yang Qi Shi's salty taste allows it to enter the Kidney channel deeply, and its warm nature drives out pathological Cold lodged in the lower back, knees, and lower abdomen. This makes it useful for cold-type painful obstruction in the lower body.
+
+---
+
+## Patterns Addressed
+### Kidney Yang Deficiency
+- **Explanation**: Yang Qi Shi is one of the classical mineral substances used to directly warm Kidney Yang. Its warm, salty nature allows it to penetrate deeply into the Kidney channel, where it restores the warming and activating functions of Kidney Yang. When Kidney Yang is deficient, the body loses its foundational warmth, leading to coldness in the lower back and limbs, sexual dysfunction, and fatigue. Yang Qi Shi addresses the root of this pattern by rekindling Ming Men fire.
+- **Clinical Signs & Symptoms**:
+  - **Cold Limbs**: Cold extremities, especially feet
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3–6g
+- **Maximum Dosage**: Up to 10g in severe Kidney Yang collapse, under experienced practitioner supervision only. Should not be used long-term at any dosage.
+- **Dosage Notes**: Yang Qi Shi is most commonly used in pill and powder form (入丸散) rather than decoction, as the mineral does not decoct as readily as plant materials. Traditional texts note a dosage of 1–1.5 qian (approximately 3–5g) when taken in pills or powders.
+When used in decoction, the standard range is 3–6g. For external application (such as for erysipelas/red swelling), it is calcined, ground to fine powder, and mixed with water for topical use.
+The calcined and wine-quenched form (酒阳起石) is preferred for treating Kidney Yang deficiency and impotence, as the wine processing enhances its warming and Yang-tonifying properties. Lower doses are appropriate for maintenance tonification; higher doses (up to 10g) may be used short-term for severe Yang collapse.
+Do not use long-term, as prolonged warming can eventually injure Yin.
+- **Preparation**: Yang Qi Shi requires special processing before use and is NEVER taken raw. The standard preparation is calcination (煅): the cleaned mineral pieces are placed in a crucible and heated with strong fire until they glow red-hot, then removed and cooled before being ground to fine powder.
+The preferred clinical form is wine-quenched Yang Qi Shi (酒阳起石): the mineral is calcined until red-hot, then immediately quenched in yellow rice wine. This calcination and quenching cycle is repeated multiple times (classically seven times per Li Shizhen in the Ben Cao Gang Mu), then the crumbly result is ground extremely fine and water-levigated (水飞). Use 20kg wine per 100kg mineral.
+As a mineral substance, it should be decocted first (先煎) for 20–30 minutes before adding other herbs to the pot. More commonly, it is taken as a fine powder in pills or capsules rather than in decoction.
+
+---
+
+## Processing Methods
+### Du&#xE0;n Y&#xE1;ng Q&#x1D0; Sh&#xED; (&#x7145;&#x9633;&#x8D77;&#x77F3;)
+- **Processing Method**: The raw mineral is placed in a fire-resistant container and heated with strong fire until it glows red throughout. It is then removed, cooled, and crushed into powder.
+- **How it Changes Properties**: Calcination makes the mineral crumbly and easy to powder, greatly improving its ability to release active components during decoction. The thermal nature remains warm. This is the standard minimum processing required before internal use, as raw uncalcined Yang Qi Shi is too hard to dissolve and its fibrous structure could irritate tissues.
+- **When to Use**: This is the baseline processed form used in most clinical applications. Almost all internal use of Yang Qi Shi requires at least calcination.
+
+### Ji&#x1D4; Y&#xE1;ng Q&#x1D0; Sh&#xED; (&#x9152;&#x9633;&#x8D77;&#x77F3;)
+- **Processing Method**: The mineral is calcined until red-hot, then immediately quenched in yellow rice wine (huang jiu). This calcining-and-quenching cycle is repeated multiple times (classically seven times) until the mineral becomes thoroughly crumbly. Ratio: 100kg Yang Qi Shi to 20kg yellow wine.
+- **How it Changes Properties**: Wine-quenching further enhances the crumbliness, making the mineral even easier to powder and extract. More importantly, the wine processing strengthens the Kidney Yang-warming action. The warm nature is enhanced. Wine has a dispersing, channel-opening quality that helps the mineral's warming effect penetrate more effectively into the Kidney channel.
+- **When to Use**: Preferred when a stronger Kidney Yang-warming effect is desired, such as for impotence, infertility from cold uterus, or lower body coldness. This is the most commonly used clinical form.
+
+---
+
+## Common Herb Pairs
+### Lu Rong (Ratio: Yang Qi Shi 60g : Lu Rong 30g (2:1), as in Yang Qi Shi Wan from the Ji Sheng Fang)
+- **Description**: Yang Qi Shi provides strong mineral warmth to the Kidney Yang, while Lu Rong (deer antler) is a blood-and-flesh substance that tonifies both Kidney Yang and essence (Jing). Together they warm Yang and nourish the Chong and Ren vessels, creating a more comprehensive treatment for severe Kidney Yang deficiency than either herb alone.
+- **When to Use**: Used for severe Kidney Yang deficiency with flooding and spotting (beng lou) from Cold, uterine coldness with infertility, or severe impotence with essence depletion.
+
+### Jiu Cai Zi (Ratio: 1:1)
+- **Description**: Yang Qi Shi warms Kidney Yang powerfully as a mineral, while Jiu Cai Zi (leek seeds) warms the Kidney and secures essence. Together they tonify Kidney Yang and consolidate the essence gate, addressing both the deficiency and the loss of containment.
+- **When to Use**: Used for Kidney Yang deficiency with seminal emission, spermatorrhea, premature ejaculation, or clear watery vaginal discharge.
+
+### Zhi Fu Zi (Ratio: Equal parts (1:1))
+- **Description**: Fu Zi (prepared aconite) is the strongest Yang-restoring herb in the Materia Medica, powerfully warming all twelve channels. Combined with Yang Qi Shi, which specifically targets the Kidney, the pair produces an intense warming effect focused on rescuing depleted Kidney Yang and Ming Men fire.
+- **When to Use**: Used for severe Yang deficiency with cold limbs, watery stools, uncontrolled seminal emission, and near-collapse of Yang. As seen in Bai Wan (Ji Sheng Fang) where both are combined with Zhong Ru Fen.
+
+### Tu Si Zi (Ratio: 1:1)
+- **Description**: Tu Si Zi (dodder seed) gently tonifies both Kidney Yin and Yang while securing essence. Combined with Yang Qi Shi's stronger warming action, the pair addresses Kidney Yang deficiency while protecting Yin from excessive warming, making the combination more balanced than Yang Qi Shi alone.
+- **When to Use**: Used for Kidney Yang deficiency with impotence, nocturnal emission, and low back pain, particularly when some Yin depletion coexists. As seen in Yang Qi Shi Wan (Pu Ji Fang).
+
+---
+
+## Key Formulas
+Hei Xi Dan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Classical sources (the Shen Nong Ben Cao Jing and later authorities) classify Yang Qi Shi as non-toxic. However, one modern source notes it may have slight toxicity (有小毒), and modern pharmacological studies in mice suggest high doses can impair gastrointestinal function.
+IMPORTANT MODERN SAFETY CONCERN: Yang Qi Shi is mineralogically composed of tremolite and actinolite, which belong to the amphibole group of silicate minerals. In their fibrous (asbestiform) form, these minerals are classified by the WHO/IARC as Group 1 carcinogens (known human carcinogens). Chronic inhalation of tremolite/actinolite asbestos fibres is associated with mesothelioma, lung cancer, and asbestosis. Traditional processing methods (calcination until red-hot, quenching in rice wine, and extremely fine grinding followed by water-levigation) were designed to render the mineral safe for internal use by breaking down fibrous structures and making the powder extremely fine. The herb should NEVER be used in raw unprocessed form and must always undergo proper calcination. Even so, given modern understanding of asbestos-related risks, practitioners should exercise particular caution with this substance.
+
+### Contraindications
+- **[Caution]** Prolonged use. Classical sources consistently warn against long-term continuous use. As a warming mineral substance, extended use may injure Yin fluids and generate internal Heat.
+- **[Caution]** Gastrointestinal weakness. Modern animal studies suggest Yang Qi Shi can impair gastrointestinal function, so caution is warranted in patients with weak digestion.
+
+### Classical Incompatibilities
+Yang Qi Shi does not appear on the Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, classical sources record several important incompatibilities:
+Ben Cao Jing Ji Zhu (《本草经集注》): Sang Piao Xiao (桑螵蛸, mantis egg case) serves as its envoy (使). It is antagonistic to (恶) Ze Xie (泽泻), Jun Gui (菌桂, a type of cinnamon bark), Lei Wan (雷丸), and She Tui Pi (蛇蜕皮, snake slough). It fears (畏) Tu Si Zi (菟丝子, dodder seed).
+Yao Xing Lun (《药性论》): Antagonistic to (恶) Shi Kui (石葵). Should avoid (忌) lamb's blood (羊血).
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Yang Qi Shi is a strongly warming, Yang-tonifying mineral substance that invigorates Blood and breaks up stagnation (its classical indication includes "breaking Blood in the uterus" per the Shen Nong Ben Cao Jing). These Blood-moving properties pose a risk of disturbing the fetus or stimulating uterine contractions. Additionally, its mineral composition (tremolite/actinolite from the amphibole asbestos family) raises modern safety concerns regarding any internal use during pregnancy.
+- **Breastfeeding**: No specific classical guidance exists for breastfeeding. However, given that Yang Qi Shi is a mineral substance containing silicate minerals from the amphibole (asbestos) family, and that trace mineral components could potentially transfer into breast milk, it is best avoided during breastfeeding. Its strongly warming nature could also theoretically affect breast milk composition and quality. Use only under strict practitioner supervision if absolutely necessary.
+- **Children**: Yang Qi Shi is not commonly used in pediatric practice. Its strong Yang-warming properties are generally inappropriate for children, who tend toward abundant Yang and active metabolisms. If used at all in older children under strict practitioner supervision, dosage should be reduced to approximately one-third to one-half of the adult dose. Not recommended for young children or infants.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established through modern clinical research. However, the following theoretical considerations apply:
+- Hormone therapies and testosterone supplements: Given Yang Qi Shi's demonstrated ability to increase serum testosterone levels in animal studies, concurrent use with androgen replacement therapy or anabolic steroids could theoretically produce additive effects.
+- Mineral content interactions: Yang Qi Shi contains calcium, magnesium, iron, zinc, manganese, and trace amounts of chromium and nickel. These minerals could theoretically interfere with the absorption of tetracycline antibiotics, fluoroquinolones, or bisphosphonates if taken concurrently.
+- Anticoagulant medications: Classical indications include "breaking Blood" in the uterus, suggesting mild Blood-invigorating properties. Caution may be warranted when combined with anticoagulant or antiplatelet drugs, though no clinical interaction data exists.
+
+### Dietary Advice
+While taking Yang Qi Shi, favour warm, cooked foods that support Kidney Yang, such as lamb, walnuts, and warming spices like cinnamon and ginger. Avoid cold, raw foods, iced drinks, and excessive bitter or cold-natured foods (such as bitter melon, watermelon, or mung beans), as these counteract the warming therapeutic intent. Classical sources specifically note that lamb's blood (羊血) should be avoided.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Yang Qi Shi (阳起石) is not a plant but a mineral substance. It is the ore of tremolite (Tremolite) and its iron-bearing variant actinolite (Actinolite), both belonging to the amphibole group of silicate minerals in the monoclinic crystal system. The chemical formula is Ca2(Mg,Fe)5Si8O22(OH)2.
+Crystals form as long columnar, needle-like, or hair-like shapes, and commonly occur as radiating, rod-like, or fibrous aggregates. The colour ranges from white or pale grey to pale green, with a glassy lustre on crystals and a silky sheen on fibrous masses. The mineral has a hardness of 5.5–6 on the Mohs scale and a relative density of 2.9–3.3. It is brittle, and needle-like or hair-like crystals break easily.
+Yang Qi Shi typically forms at the contact zone between ignite (fire-formed) rocks and limestone or dolomite. It is also found in crystalline limestone, dolomite, and crystalline schist metamorphic rocks. It may co-occur with chlorite, talc, serpentine, and calcite.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be mined year-round. After excavation, soil and impurities are removed and specimens with pale grey-white or light green fibrous or long columnar habit are selected.
+- **Primary Growing Regions**: Historically, the primary source was near Qi Shan (齐山, modern Jinan, Shandong province), referred to in the Shen Nong Ben Cao Jing as "born in Qi mountain valleys." The Bie Lu also notes Langya (modern Shandong coast) and Yangqi Mountain.
+Modern primary producing regions: Hubei province and Henan province are the main sources (considered the dao di producing areas). Additional significant sources include Shanxi, Hebei, and Shandong provinces. The mineral is distributed across various metamorphic rock formations throughout China.
+- **Quality Indicators**: Good quality Yang Qi Shi appears as needle-bundle or fibrous aggregates that are white to milky-white or pale grey-white in colour, with a silky lustre. It should be relatively soft and easy to tear apart into fine silky fibres. The fibres feel smooth and elastic when crushed between the fingers. It should be free of impurities, dark-coloured inclusions, or excessive rocky matrix.
+Classical quality descriptors include: "colour white" (色白), "egret feather" texture (鹭鸶毛, referring to fine soft fibrous appearance), "wolf teeth" (狼牙, describing pointed crystalline clusters), and "cloud head, rain feet" (云头雨脚, describing the fibrous trailing ends). When held in flame, authentic Yang Qi Shi turns red but does not melt; after cooling, the burned portion turns slightly yellow. It does not conduct heat well and is insoluble in acid.
+Avoid specimens that are black (which may be toxic "cloud gall" mica), overly hard and non-fibrous, or that have a greasy slippery feel (which may indicate the adulterant Yin Qi Shi / talc schist).
+
+### Identity & Adulterants
+The most common adulterant is Yin Qi Shi (阴起石), which is actually talc schist (a short-fibred asbestiform mineral composed mostly of talc). This substitution occurs in Sichuan, Hubei, Shandong, Henan, and Beijing regions. Yin Qi Shi differs from authentic Yang Qi Shi in several ways: it has a distinctly slippery feel to the touch, very low hardness, a silver-white colour with green tinge, and a layered rather than fibrous cross-section. When burned, it does NOT turn red (unlike true Yang Qi Shi) and it conducts heat readily.
+X-ray diffraction studies of commercially available "Yang Qi Shi" from different regions have shown highly variable mineral compositions. One study found that samples from Hangzhou contained actinolite mixed with chlorite or quartz and talc, samples from Changchun were actually pyrophyllite and muscovite, and only samples from Harbin were genuine tremolite meeting pharmacopoeial standards.
+Authentic Yang Qi Shi should be verified as tremolite and should not contain carbonates (per Chinese Pharmacopoeia standards).
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 主崩中漏下，破子脏中血，症瘕结气，寒热腹痛，阴痿不起，补不足。
+- **Translation**: It governs flooding and continuous uterine bleeding, breaks up Blood accumulation in the uterus, treats abdominal masses with knotted Qi, cold-heat abdominal pain, and impotence. It supplements deficiency.
+
+### Historical Context
+Yang Qi Shi (阳起石, literally "Stone that Raises the Yang") is one of the oldest mineral medicines in Chinese medical history, first recorded in the Shen Nong Ben Cao Jing (Divine Farmer's Classic of Materia Medica). Its name directly describes its primary therapeutic action: restoring Yang that has become too weak to rise. The Bie Lu (Supplementary Records) described it as "the root of mica" (云母根也), reflecting the observation that it was found in geological formations alongside mica-like minerals.
+Tao Hongjing (陶弘景, 456–536 CE) noted that the specimens used in his era came from Yizhou (益州, modern Sichuan) and were found alongside alum, appearing slightly yellow-black. The Tang Ben Cao (Tang Materia Medica) clarified that the best quality specimens should be white with greenish lustre, and warned that black specimens (which were actually a type of mica called "yun dan" 云胆) were harmful and must be avoided. Historical quality descriptions include evocative terms like "wolf teeth" (狼牙), "cloud head, rain feet" (云头雨脚), and "egret feathers" (鹭鸶毛), all describing the characteristic fibrous appearance of high-quality specimens.
+Huang Gongxiu (黄宫绣) in his Ben Cao Qiu Zhen made the important clinical distinction that while Yang Qi Shi functions similarly to Sulphur (Liu Huang) in warming Kidney Yang, it is considerably gentler and less hot, making it more suitable for moderate deficiency. Throughout history, Yang Qi Shi has been regarded as an essential medicinal for treating impotence, and it appears in over 30 modern Chinese patent medicines for tonifying the Kidneys.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/yang-qi-shi](https://www.meandqi.com/knowledge-base/herbs/yang-qi-shi)*

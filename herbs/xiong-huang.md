@@ -1,0 +1,169 @@
+# Xiong Huang (雄黄)
+**English Name**: Realgar  
+**Category**: Substances for external application (外用药), Herbs that attack toxins, kill parasites, and relieve itching (攻毒杀虫止痒药)  
+**Scientific Name**: As4S4 (arsenic sulfide mineral of the realgar group)  
+**Pharmaceutical Name**: Realgar  
+**Toxicity**: Toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Liver, Stomach, Large Intestine  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Realgar is a toxic arsenic-sulfide mineral used in Chinese medicine primarily as an external remedy for skin infections, abscesses, venomous bites, and parasitic skin conditions. Internally, it appears in very small doses within classic formulas that treat seizures, severe throat infections, and high fevers with delirium. Because it contains arsenic, it is never taken casually and must always be professionally processed and prescribed under strict medical supervision.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Skin Health, Parasite Management, Detoxification, Emergency Care
+- **TCM Actions**: Kills Parasites and Resolves Toxicity, Dries Dampness, Resolves Phlegm, Checks Malaria, Relieves Itching
+
+### How these actions work
+'Relieves toxicity and kills parasites' (解毒杀虫) is the primary action of Xióng Huáng. Its acrid, warm, and toxic nature allows it to counteract poisonous substances and destroy parasites both internally and externally. Externally, it is applied as a powder or paste to treat abscesses, boils, sores, scabies, ringworm, and venomous snakebite or insect stings. Internally (with extreme caution and tiny doses), it can expel intestinal parasites such as roundworms that cause abdominal pain.
+'Dries Dampness' (燥湿) refers to the herb's ability to clear damp, weeping skin lesions. Its warm and acrid properties help dry out pathological moisture, making it useful for conditions like eczema, damp rashes, and fungal skin infections where oozing and itching are prominent.
+'Resolves Phlegm' (祛痰) describes its capacity to break up thick, stubborn Phlegm obstructing the orifices or airways. This is why Xióng Huáng appears in formulas for epileptic seizures, convulsions, and Phlegm-related loss of consciousness, where it helps clear Phlegm from the Heart and Brain.
+'Interrupts malaria' (截疟) is a classical indication. Combined with other anti-malarial herbs like Cháng Shān, it was traditionally used to treat the cyclical chills and fevers of malarial disease.
+
+---
+
+## Patterns Addressed
+### Toxic-Heat
+- **Explanation**: When Toxic Heat accumulates in the flesh and skin, it produces abscesses, boils, carbuncles, and suppurating sores. Xióng Huáng's acrid and warm nature allows it to penetrate and disperse toxic accumulations, while its inherent toxicity acts on a 'fight poison with poison' principle. It enters the Liver channel, which governs the smooth flow of Qi to the sinews and flesh, helping resolve stagnant Toxic Heat in these tissues. This makes it a key topical agent for painful, inflamed skin lesions and also for treating venomous bites where external toxin has invaded the body.
+- **Clinical Signs & Symptoms**:
+
+### Intestinal Parasite
+- **Explanation**: When parasites (particularly roundworms) lodge in the intestines, they cause abdominal pain, emaciation, and a sallow complexion. Xióng Huáng's toxicity is specifically directed at killing these parasites. Its acrid and warm properties help disperse the parasitic accumulation in the Large Intestine channel, which it directly enters. It is typically combined with other antiparasitic herbs rather than used alone.
+- **Clinical Signs & Symptoms**:
+
+### Phlegm Fire harassing the Pericardium
+- **Explanation**: When Phlegm and Heat combine to obstruct the Heart orifices, the result is delirium, high fever, loss of consciousness, or seizures. Xióng Huáng's ability to resolve Phlegm and relieve toxicity makes it valuable as an assistant ingredient in formulas that clear the Heart and open the orifices. Its Liver channel entry helps address the Wind component that often accompanies seizures and convulsions. This is the mechanism behind its role in emergency formulas like Ān Gōng Niú Huáng Wán.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.05-0.1g (internal, as pills or powder only)
+- **Maximum Dosage**: Do not exceed 0.1g internally. Realgar is a toxic arsenic mineral and dosage must be strictly controlled. External use: appropriate amount applied topically.
+- **Dosage Notes**: Xiong Huang must NEVER be decocted in water or processed with heat. Internal use is exclusively as pills (丸) or powders (散), taken in tiny amounts (0.05-0.1g). External use has a wider dosage range applied as needed. The water-levigation (水飞) processed form must always be used for internal administration. Treatment courses should be as short as possible, following the classical principle of stopping when the disease responds (中病乃已). For topical use, realgar powder can be mixed with vinegar, oil, or other vehicles and applied to the affected area. Avoid application to large skin areas or prolonged topical use, as significant transdermal arsenic absorption can occur.
+- **Preparation**: MUST NOT be decocted in water or processed with fire/heat. Heating converts arsenic disulfide into the extremely toxic arsenic trioxide (砒霜). Internal use is ONLY in pill (丸) or powder (散) form. The raw mineral must be processed by the water-levigation method (水飞法, Shui Fei Fa): the mineral is ground with water repeatedly, the fine suspended particles are collected, and the heavy residue (which contains more impurities) is discarded. The ultra-fine powder is then dried at room temperature. This is recorded in the Lei Gong Pao Zhi Lun and mandated by the current Chinese Pharmacopoeia.
+
+---
+
+## Processing Methods
+### Xi&#xF3;ng Hu&#xE1;ng F&#x11B;n (&#x96C4;&#x9EC4;&#x7C89;) &#x2014; Water-processed Realgar Powder
+- **Processing Method**: Water levigation (水飞法 shuǐ fēi fǎ): the raw mineral is ground with water into a paste, then large amounts of water are added and stirred. The fine suspended particles are decanted off while impurities sink. This process is repeated multiple times. The suspension is collected, allowed to settle, and the sediment is dried at low temperature (below 40°C) and ground into an extremely fine powder. Heating above 180°C is strictly forbidden as it converts the arsenic sulfide into highly toxic arsenic trioxide (砒霜, arsenious acid).
+- **How it Changes Properties**: Water levigation does not significantly change the thermal nature or taste, but it critically reduces toxicity by washing away water-soluble arsenic salts (particularly As2O3, arsenious acid) and other harmful impurities. The more water used and the more times the process is repeated, the lower the toxic arsenic content. The fine particle size also improves bioavailability for both internal and external use.
+- **When to Use**: This is the ONLY form suitable for internal use. The Chinese Pharmacopoeia mandates water levigation for all medicinal realgar. Raw, unprocessed realgar should never be taken internally. Even after processing, internal doses must remain very small (0.05–0.1g) and treatment must be short-term.
+
+### C&#xF9; F&#x113;i Xi&#xF3;ng Hu&#xE1;ng (&#x918B;&#x98DE;&#x96C4;&#x9EC4;) &#x2014; Vinegar-processed Realgar
+- **Processing Method**: The raw mineral is processed using dilute vinegar (typically 10% rice vinegar) instead of plain water in the levigation process. Some historical methods involve boiling with vinegar and radish juice.
+- **How it Changes Properties**: Vinegar processing enhances the herb's ability to dry Dampness, resolve toxicity, and kill parasites compared to plain water levigation. The acidic medium more effectively removes toxic arsenic salts, further reducing toxicity. The core thermal nature and taste remain similar.
+- **When to Use**: Preferred when a stronger external antiparasitic and detoxifying effect is needed, such as for stubborn fungal infections, chronic eczema, or resistant skin parasites.
+
+---
+
+## Common Herb Pairs
+### Ming Fan (Ratio: 1:1 (as in &#xC8;r W&#xE8;i B&#xE1; D&#xFA; S&#x1CE;n from Y&#x12B; Z&#x14D;ng J&#x12B;n Ji&#xE0;n))
+- **Description**: Xióng Huáng resolves toxicity and kills parasites while Bái Fán (alum) dries Dampness, stops itching, and astringes weeping lesions. Together they provide a potent topical treatment that both eliminates the pathogen and dries the affected skin.
+- **When to Use**: Damp, itchy skin conditions with parasitic or fungal involvement, such as scabies, eczema, or ringworm with oozing lesions.
+
+### Wu Ling Zhi (Ratio: 1:1 (ground to powder, applied topically and taken internally with wine))
+- **Description**: Xióng Huáng provides toxin-resolving action while Wǔ Líng Zhī invigorates Blood and disperses stasis. Together they address venomous bites where both toxin and Blood stasis are present at the wound site.
+- **When to Use**: Snakebite or venomous insect stings with localized swelling, pain, and discoloration indicating Blood stasis and toxin accumulation.
+
+### Ru Xiang (Ratio: Used together in formulas like X&#x1D0;ng Xi&#x101;o W&#xE1;n alongside M&#xF2; Y&#xE0;o and Sh&#xE8; Xi&#x101;ng)
+- **Description**: Xióng Huáng counteracts toxicity while Rǔ Xiāng (frankincense) invigorates Blood, reduces swelling, and generates flesh. The combination addresses deep abscesses where toxin and Blood stasis coexist, promoting both detoxification and tissue healing.
+- **When to Use**: Deep-seated abscesses, carbuncles, or boils that are painful and slow to resolve, indicating both Toxic Heat and Blood stasis.
+
+---
+
+## Key Formulas
+An Gong Niu Huang Wan, Gui Shen Wan, Niu Huang Jie Du Pian
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Toxic
+Xiong Huang is classified as one of the 28 toxic Chinese medicines under the Chinese Regulations on Management of Toxic Medicinal Products (《医疗用毒性药品管理办法》). Its primary toxic component is arsenic. While the main constituent arsenic disulfide (As4S4) is water-insoluble with poor bioavailability (as low as 0.6% released in simulated gastric juice), realgar also contains variable amounts of soluble arsenic impurities including arsenic trioxide (As2O3, 砒霜) and arsenate (As2O5), which are readily absorbed and highly toxic. Oral arsenic trioxide as little as 10-50 mg can cause poisoning, and the lethal dose is approximately 60-200 mg.
+Acute arsenic poisoning manifests as severe abdominal pain, vomiting, watery or bloody diarrhoea (described as 'rice-water stools'), burning throat sensation, and metallic taste. Severe cases progress to seizures, circulatory collapse, respiratory failure, and death. Chronic poisoning from cumulative exposure causes skin hyperpigmentation and keratosis, white lines on nails (Mees' lines), peripheral neuropathy with numbness and muscle wasting, and liver and kidney damage. The WHO classifies inorganic arsenic as a Group 1 carcinogen with confirmed links to cancers of the skin, lung, bladder, and liver.
+The water-levigation (水飞, Shui Fei) processing method is critical for safety. This involves repeated grinding of realgar in water to produce an ultra-fine powder while washing away soluble toxic arsenic compounds. Fire calcination is absolutely prohibited, as heating converts arsenic disulfide into the far more toxic arsenic trioxide. Expired or improperly stored realgar products can undergo similar oxidation. Safety depends on: (1) proper Shui Fei processing, (2) strict dosage control (0.05-0.1g), (3) short duration of use, and (4) using only pill or powder forms, never decoction.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Absolutely contraindicated in pregnancy. Arsenic compounds in realgar cross the placental barrier and are known teratogens. Li Shizhen's Ben Cao Gang Mu explicitly lists realgar among mineral substances prohibited during pregnancy (妊娠禁忌药). Arsenic exposure during pregnancy is associated with increased risk of spontaneous abortion, low birth weight, congenital malformations, and neurodevelopmental harm to the fetus. There is no safe dose of realgar during pregnancy.
+- **Breastfeeding**: Contraindicated during breastfeeding. Arsenic is excreted into breast milk, and even small amounts of arsenic exposure pose significant health risks to nursing infants, whose immature liver and kidneys have very limited capacity to metabolize and excrete arsenic. Chronic low-level arsenic exposure in infants can impair neurodevelopment. No safe level of arsenic exposure through breast milk has been established.
+- **Children**: Generally contraindicated for infants and young children due to arsenic content. Children's developing nervous systems are particularly vulnerable to arsenic neurotoxicity, and their lower body weight means even small doses represent a proportionally larger exposure. Despite this, several classical pediatric formulas contain realgar (e.g. Xiao Er Zhi Bao Wan, Xiao Er Jing Feng San), where it is used in very small amounts within multi-herb prescriptions. Any use in children must be under strict practitioner supervision, at reduced doses, and for the shortest possible duration. The SCCLG-APL clinical trials have demonstrated safety of the Realgar-Indigo naturalis formula in pediatric APL patients under rigorous oncological monitoring, but this is a specialized clinical context not comparable to general paediatric use.
+
+### Drug Interactions
+Limited formal drug interaction studies exist for realgar. However, based on its arsenic content and known pharmacology, the following interactions should be considered:
+- Hepatotoxic drugs: Concurrent use with hepatotoxic medications (e.g. acetaminophen/paracetamol at high doses, certain statins, methotrexate) may increase risk of liver damage, as arsenic itself causes hepatotoxicity with cumulative exposure.
+- Nephrotoxic drugs: Since arsenic is primarily excreted through the kidneys, concurrent use with nephrotoxic agents (e.g. aminoglycoside antibiotics, NSAIDs, cisplatin) may impair arsenic excretion and increase accumulation.
+- QT-prolonging medications: Arsenic trioxide (a contaminant and metabolite of realgar) is known to prolong the QT interval. Concurrent use with other QT-prolonging drugs (e.g. certain antiarrhythmics, macrolide antibiotics, fluoroquinolones, some antipsychotics) may increase risk of cardiac arrhythmia.
+- Cytochrome P450 substrates: Studies suggest higher doses of realgar may inhibit cytochrome P450 enzymatic activity, potentially altering the metabolism of drugs processed by these pathways.
+
+### Dietary Advice
+Avoid alcohol while taking realgar internally. The traditional practice of mixing realgar with rice wine (雄黄酒) actually increases the dissolution and absorption of arsenic compounds, significantly raising toxicity risk. Avoid hot, spicy, or greasy foods that generate internal Heat and Dampness, which may compound the warming, drying nature of the herb. Ensure adequate hydration to support renal excretion of arsenic metabolites.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Xiong Huang (雄黄, Realgar) is not a plant but a mineral substance. It is an arsenic sulfide mineral belonging to the realgar group of sulfide minerals, with the chemical formula As4S4 (also written as As2S2). Realgar forms as a low-temperature hydrothermal vein mineral, and also occurs as volcanic sublimate and hot spring deposits. It commonly co-occurs with orpiment (雌黄, As2S3), arsenolite, calcite, and barite.
+In its natural state, realgar appears as irregular blocky or granular aggregates with a deep red to orange-red color and a pale orange streak. Crystal faces display an adamantine (diamond-like) lustre, while fracture surfaces have a resinous lustre. The mineral is soft (Mohs hardness 1.5–2.0), brittle, and breaks with a conchoidal fracture. It has a specific gravity of 3.4–3.6 and is semi-transparent. A distinctive feature is that prolonged exposure to light causes realgar to decompose into a pale yellow-orange powder called pararealgar (副雄黄, β-As4S4). It emits a faint characteristic odour, and when heated produces a blue flame with dense white fumes that smell strongly of garlic (a hallmark of arsenic).
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be mined year-round. After extraction, impurities and soil are removed, and the material is processed by the water-levigation (水飞) method before medicinal use.
+- **Primary Growing Regions**: Major producing regions in China include Hunan Province (historically the largest realgar deposit in Asia, located in Shimen County), Guizhou Province, Yunnan Province, Hubei Province, Sichuan Province, and parts of Shaanxi and Gansu. The classical text Ming Yi Bie Lu records the best quality as coming from Wudu (武都, in modern Gansu) and Dunhuang. Among dao di yao cai (道地药材) traditions, Guizhou is particularly noted for realgar alongside cinnabar (朱砂). The mineral also occurs in the United States (Nevada), Peru, and the Philippines.
+- **Quality Indicators**: High-quality realgar appears as dense, heavy irregular blocks with a deep red to orange-red colour and bright lustre. When fractured, the cross-section displays a resinous lustre. According to Li Shizhen, the best quality comes in an iron-dark colour (铁色者上), with cockscomb-red (鸡冠 colour) being the next grade. The streaks left by scratching should be a pale orange-red. Per Chinese Pharmacopoeia standards, medicinal realgar must contain no less than 90% arsenic disulfide (As2S2). Quality indicators: the mineral should feel heavy in the hand, be brittle and break cleanly, have a characteristic faint odour, and a bland taste. It should not be dull, dark, or overly powdery (suggesting light degradation into pararealgar). After water-levigation processing, the resulting powder should be extremely fine, orange-yellow to orange-red, and slightly sticky to the touch.
+
+### Identity & Adulterants
+The most historically documented adulteration is confusion with cinnabar (丹砂/朱砂, mercuric sulfide), which shares a similar red colour. Li Shizhen warned that northern traders would substitute Wudu realgar for cinnabar, noting that realgar ground fine has a yellowish tint while cinnabar does not. Realgar should also be distinguished from orpiment (雌黄, As2S3), with which it commonly co-occurs. Orpiment is lemon-yellow to golden-yellow rather than orange-red. Low-quality realgar may contain excessive levels of free arsenic trioxide (As2O3) impurities, which dramatically increases toxicity. Another concern is light-degraded realgar that has partially converted to pararealgar (副雄黄), appearing as a pale yellow powder rather than the characteristic orange-red colour. This degraded form has different properties and should not be used medicinally.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Xiong Huang has one of the longest documented histories of any mineral medicine. It was first recorded in the Shen Nong Ben Cao Jing (《神农本草经》), where it was classified as a middle-grade drug. The name literally means 'masculine yellow' (雄黄), in contrast to orpiment (雌黄, 'feminine yellow'), reflecting an ancient yin-yang pairing of these two arsenic sulfide minerals. Other historical names include Huang Jin Shi (黄金石), Shi Huang (石黄), Xun Huang (熏黄), and Ji Guan Shi (鸡冠石, 'cockscomb stone'). The Ming Yi Bie Lu was the first text to explicitly state that realgar is toxic, recording it as having 'great warmth and toxicity' (大温，有毒).
+Realgar has deep cultural significance in Chinese civilization beyond medicine. During the Dragon Boat Festival (端午节), realgar wine (雄黄酒) was traditionally consumed and applied to children's foreheads to ward off evil spirits and venomous creatures. The famous legend of the White Snake (白蛇传) centres on the protagonist being forced to reveal her serpent form after drinking realgar wine. Li Shizhen provided an important critical assessment in the Ben Cao Gang Mu, praising its medicinal efficacy while sharply criticizing Daoist alchemists who refined and consumed it for immortality, noting that "many have been poisoned thereby." He also documented methods for distinguishing genuine high-quality realgar from inferior material and from cinnabar (丹砂), with which it was sometimes fraudulently mixed. The Lei Gong Pao Zhi Lun (《雷公炮炙论》) established the water-levigation (水飞) processing method still used today. In the modern era, realgar's most remarkable clinical application has been in the treatment of acute promyelocytic leukaemia (APL), where the Realgar-Indigo naturalis formula has achieved outstanding remission rates.
+
+### Modern Scientific Research
+1. **[Multicenter Randomized Controlled Trial: Oral Arsenic (RIF) vs. Intravenous ATO for Non-High-Risk Adult APL (Phase 3 RCT, 2018)]()**
+   *Journal: Zhu HH, Wu DP, Du X, Zhang X, Liu L, Ma J, et al. Lancet Oncology, 2018, 19: 871-879.*
+   A large multicenter randomized noninferiority trial compared oral Realgar-Indigo naturalis formula (RIF, containing As4S4) with intravenous arsenic trioxide for treating non-high-risk adult acute promyelocytic leukaemia. The study demonstrated that oral RIF was non-inferior to intravenous arsenic trioxide in efficacy, with similar event-free survival rates after long-term follow-up, and had the advantage of being an oral treatment that reduced hospital stays.
+
+2. **[Multicenter Randomized Trial of ATO and RIF in Pediatric APL: Interim Results (RCT, 2018)]()**
+   *Journal: Yang MH, Wan WQ, Luo JS, Zheng MC, Huang K, Yang LH, et al. American Journal of Hematology, 2018, 93: 1467-1473.*
+   This multicenter randomized noninferiority trial enrolled 82 pediatric patients (age ≤16) with newly diagnosed APL. After a median 3-year follow-up, the estimated 5-year event-free survival was 100% in both the oral RIF and intravenous ATO groups. Adverse events were mild, and patients in the RIF group had significantly fewer hospital days, suggesting oral RIF is a viable alternative to intravenous ATO in pediatric APL.
+
+3. **[Long-term Outcome of Pediatric APL: Oral vs. Intravenous Arsenic (RCT, 2023)]()**
+   *Journal: Huang DP, Yang LC, Chen YQ, Wan WQ, Zhou DH, Mai HR, et al. Blood Cancer Journal, 2023, 13: 178.*
+   The final analysis of the SCCLG-APL multicenter randomized trial expanded enrollment to 176 patients and confirmed the long-term noninferiority of oral RIF to intravenous ATO in pediatric APL. Mature outcome data supported the efficacy and safety of the oral arsenic-containing formula as a first-line treatment option for children.
+
+4. **[Dissection of Mechanisms of Chinese Medicinal Formula Realgar-Indigo Naturalis as Treatment for APL (Mechanistic Study, 2008)]()**
+   *Journal: Wang L, Zhou GB, Liu P, Song JH, Liang Y, Yan XJ, et al. Proceedings of the National Academy of Sciences USA, 2008, 105: 4826-4831.*
+   This landmark study dissected the pharmacological mechanisms of the Realgar-Indigo naturalis formula in treating APL. Researchers demonstrated that the components of the formula act synergistically: realgar (As4S4) targets the PML-RARα oncoprotein for degradation, while indigo naturalis and tanshinone (from Dan Shen) enhance this effect and improve bioavailability. This provided scientific validation for a traditional multi-component Chinese medicine formula.
+
+5. **[Arsenic Accumulation and Distribution After 30 Days Oral Realgar Administration in Rats (Preclinical, 2018)]()**
+   *Journal: Wu J, Shao Y, Liu J, Chen G, Ho PC. Journal of Ethnopharmacology, 2018, 211: 169-176.*
+   This preclinical study investigated arsenic species accumulation and distribution in rats after 30 days of oral realgar. Arsenic was rapidly distributed to the liver, kidneys, and brain, with dimethylarsenic acid (DMA) being the most abundant metabolite. The study calculated that humans taking no more than 2.7 mg/kg realgar for 2 weeks would likely not experience adverse reactions, providing a reference for safe dosing parameters.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xiong-huang](https://www.meandqi.com/knowledge-base/herbs/xiong-huang)*

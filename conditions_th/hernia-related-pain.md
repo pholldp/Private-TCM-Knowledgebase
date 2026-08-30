@@ -1,0 +1,251 @@
+# Hernia-Related Pain (疝气痛)
+**คำอ่านพินอิน**: shàn qì tòng | **ประเภท**: Symptom | **หมวดหมู่**: ไส้เลื่อนและอวัยวะย้อย, ปวดท้อง  
+**ชื่อเรียกอื่นๆ**: Hernial Pain, Pain From Hernia, Hernia pain | **บริเวณร่างกาย**: Abdomen — Lower
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+อาการปวดหนักลากซึ่งรู้สึกดีขึ้นเมื่อคุณนอนราบ อาการปวดขยายที่ลุกลามด้วยความเครียด และอาการปวดตะคริวที่เย็นลงที่แย่ลงในสภาพอากาศหนาวเย็น มีสามประการด้วยกัน
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+A hernia occurs when an internal organ or tissue pushes through a weak spot in the surrounding muscle or connective tissue. Inguinal hernias, the most common type, appear as a bulge in the groin or scrotum and often cause a dull ache, pressure, or sharp pain, especially when bending over, coughing, or lifting.
+Diagnosis is typically made through physical examination, sometimes confirmed with ultrasound. While many hernias are reducible (the bulge can be pushed back), some become incarcerated or strangulated, cutting off blood supply - a surgical emergency.
+
+### การรักษาหลัก (Treatments)
+For small, asymptomatic hernias, watchful waiting may be recommended. Supportive trusses can temporarily hold the bulge in place. Surgery (herniorrhaphy, often with mesh) is the definitive treatment for symptomatic hernias to repair the defect and prevent complications. Over-the-counter pain relievers may be used for mild discomfort.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM understands hernia-related pain primarily through the Spleen and Liver organ systems. The Spleen is responsible for holding all organs and tissues in place - its Qi provides an upward, lifting force. When Spleen Qi becomes depleted from overwork, poor diet, or chronic illness, this lifting force weakens and the tissues in the groin can no longer stay taut. The result is a bulge that appears with standing or straining, accompanied by a characteristic heavy, dragging, bearing-down pain. This is the Spleen Qi Sinking pattern, and it is often seen in people who also feel chronically tired and have a poor appetite.
+The Liver system adds another dimension. The Liver channel runs directly through the lower abdomen and groin, wrapping around the genitals. When emotional stress, frustration, or unexpressed anger cause the Liver Qi to stagnate, the smooth flow of Qi along this pathway is obstructed. This creates a distending, pressure-like pain that flares with stress - not the heavy ache of deficiency, but a feeling of fullness and discomfort that moves or changes with your mood.
+Similarly, Cold or Damp-Heat can invade this channel: Cold congeals Qi and Blood, producing a cold, cramping pain that improves with warmth, while Damp-Heat creates a heavy, burning sensation with a feeling of heat and swelling.
+This is why the same Western diagnosis - an inguinal hernia - can present with such different pain qualities. A pale, tired person whose bulge appears when they stand and feels better lying down is showing a very different TCM picture than a stressed, wiry-pulsed person whose groin pain distends after an argument. TCM treatment is tailored to these distinctions, not just to the existence of the bulge.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A practitioner first notices the nature of the bulge and what makes it worse. With Spleen Qi Sinking, the hernia tends to protrude when standing, coughing, or straining, and it may reduce when lying down. The person often looks tired, has a poor appetite, and a pale, puffy tongue with a weak pulse - all signs that the body’s lifting force is too weak to hold organs in place.
+When the pain is distending and aching rather than sharp, and it clearly flares up during emotional stress or frustration, the focus shifts to Liver Qi Stagnation. The tongue may have a thin white coating, and the pulse feels wiry like a guitar string. This pattern reflects Qi getting stuck in the groin channel because of tension, not because of weakness.
+If the pain feels cold and contracting, and the person instinctively seeks warmth - a hot water bottle or a warm room brings relief - then Stagnation of Cold in the Liver Channel is likely. The tongue is pale, and the pulse is deep and tight. The Liver channel runs through the lower abdomen and scrotum, so cold congealing there causes a characteristic icy, cramping pain.
+Damp-Heat in the Liver Channel presents differently: the area may feel full, heavy, and sore rather than icy, and the tongue is red with a greasy yellow coating. The pulse is slippery and rapid. This pattern often points to inflammation and is more acute, with signs of heat and moisture combining in the lower body.
+Cold-Dampness in the Lower Burner produces a heavy, cold ache that worsens in damp weather or after exposure to cold. The tongue coating is white and greasy, and the pulse is deep and slow. Unlike pure cold patterns, the sensation is more dragging and sluggish, as if dampness is weighing everything down.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「肝足厥阴之脉...是动则病腰痛不可以俛仰，丈夫㿉疝，妇人少腹肿。」
+> 
+> **คำแปลภาษาอังกฤษ**: "The Liver foot-Jueyin meridian... when disturbed, it causes lower back pain that makes bending difficult, hernia in men, and swelling of the lower abdomen in women. This is one of the earliest classical references linking the Liver channel to hernia disorders, emphasizing the role of Liver Qi and Cold stagnation in groin pain."
+> 
+> — แหล่งที่มา: *Ling Shu (Spiritual Pivot)  ,  Chapter 10 - Meridians 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Spleen Qi Sinking
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/spleen-qi-sinking)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Dragging, bearing-down pain, Bulge appears on standing or straining, disappears lying down, Chronic fatigue and weak limbs, Poor appetite and bloating after eating, Pale complexion and reluctance to speak
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Prolonged standing, Heavy lifting or straining, Cold foods or drinks, Overwork and exhaustion
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Lying down or resting flat, Warm compress or heat on the abdomen, Small, frequent, warm meals, Gentle abdominal support or truss
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Your Spleen Qi is meant to hold your organs firmly in place. When that Qi becomes weak and sinks, the tissues in your groin can no longer stay taut, so a bulge forms - especially when you stand up or strain. The dragging, bearing-down ache you feel is the physical sign that your Qi is falling instead of lifting.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, puffy, tender body with teeth marks, thin white coating. Pulse: weak, especially at the right Guan position; may be deep.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Standing and straining pull Qi downward, which is exactly what Spleen Qi Sinking is already doing - so those activities make the bulge worse. Lying down allows the Qi to rise back up naturally, and warm foods support the Spleen's ability to generate and hold Qi. Rest and warmth conserve the Spleen's energy, giving it the chance to rebuild the upward lift that keeps organs in place.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Make warm, cooked, easily digestible foods the backbone of your meals - think soups, congees, and stewed root vegetables. Avoid cold, raw foods and iced drinks, which chill the Spleen and drag Qi down further. Rest lying down when the bulge appears, and avoid heavy lifting or prolonged standing until your Qi recovers.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | The classic formula to tonify Spleen Qi and lift the sinking Qi back up to hold the organs in place. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Qi and raises the Yang, giving the Spleen the upward lift it needs. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Strengthens the Spleen and Lungs, building the central Qi that has become deficient. |
+| **[Sheng Ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)** | Cimicifuga rhizome |  | Specifically raises the sinking Qi, guiding the tonifying herbs upward. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **DU-20** | [Baihui DU-20](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/baihui-du-20) | B&#xE1;i Hu&#xEC; | Expels Interior Wind, Subdues or Raises Yang | Moxibustion or gentle needling here lifts the sinking Qi from the very top of the body. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | The master point for building Spleen and Stomach Qi to restore strength. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Tonifies Qi at its source in the lower abdomen and helps raise the sinking. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Strengthens the Spleen and regulates the lower burner to support tissue integrity. |
+
+---
+
+### Liver Qi Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-qi-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Distending, aching pain in the groin, Pain worsens with emotional stress, Frequent sighing, Rib-side fullness or distension, Irritability or mood swings
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress or frustration, Frustration or anger, Heavy, greasy meals, Prolonged sitting
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Stress reduction, Gentle movement, Deep breathing
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver channel passes through the lower abdomen and groin area. When emotional stress, frustration, or unexpressed anger cause the Liver Qi to stagnate, the smooth flow of Qi along this pathway becomes obstructed. This stagnation creates a sensation of distension, pressure, and aching pain at the hernia site that often fluctuates with your mood.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal or slightly dark body with red or slightly purple sides, thin white coat. Pulse: wiry (弦 xián), taut like a guitar string.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress is the primary driver of Liver Qi Stagnation, directly aggravating the obstruction in the groin channel. Gentle movement and deep breathing actively circulate Qi, relieving the distension. Heavy, greasy foods burden the Liver's role in maintaining smooth flow, while prolonged sitting physically compresses the area and further impedes Qi movement.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat smaller, lighter meals and avoid greasy or heavily processed foods. Gentle daily movement like walking or tai chi helps keep Qi flowing. Practice stress management-deep breathing, meditation, or simply taking breaks can prevent stagnation from building up.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Tian Tai Wu Yao San](https://www.meandqi.com/knowledge-base/formulas/tian-tai-wu-yao-san)** | Tiantai Lindera Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), circa 1240s CE | Warm, Soothes the Liver and Regulates Qi, Dispels Cold and Alleviates Pain, Warms the Lower Burner and Dispels Cold | The classic formula to move Liver Qi in the lower abdomen and relieve hernia pain. |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | A foundational Liver-soothing formula that can be modified with hernia-specific herbs. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Wu Yao](https://www.meandqi.com/knowledge-base/herbs/wu-yao)** | Lindera root |  | Warms and moves Qi in the lower abdomen, especially for hernia pain. |
+| **[Ju He](https://www.meandqi.com/knowledge-base/herbs/ju-he)** | Tangerine seed |  | Specifically enters the Liver channel to disperse stagnation and alleviate hernial pain. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to smooth Liver Qi and relieve stress-related pain. |
+| **LR-5** | [Ligou LR-5](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/ligou-lr-5) | L&#xED; G&#x14D;u | Invigorates Liver Qi, Clears Damp-Heat from the genitourinary system | The Luo point of the Liver channel, especially effective for genital and groin issues. |
+
+---
+
+### Stagnation of Cold in the Liver Channel
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/stagnation-of-cold-in-the-liver-channel)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cold cramping pain in the lower abdomen, Pain pulling toward the groin or testicles, Scrotal contraction or testicular cold pain, Pain worsens with cold exposure, improves with warmth, Cold limbs and feeling of cold in the lower belly
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Exposure to cold weather or drafts, Cold foods or drinks, Sitting on cold surfaces, Emotional stress or frustration, Cold, damp weather
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress or heat on the abdomen, Resting in a warm environment, Warm drinks and warming foods, Loose, non-constricting clothing, Gentle abdominal massage with warm oil
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver channel passes through the lower abdomen and wraps around the genitals. When cold invades or arises internally, it congeals in this channel, causing Qi and Blood to contract and stagnate. This constriction produces a cold, cramping pain in the lower belly that pulls toward the groin or testicles, and can make the scrotum tighten. The pain intensifies with exposure to cold and eases with warmth, which relaxes the constriction.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body with a white slippery coating. Pulse: deep, wiry, and slow or tight.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold causes contraction and stagnation in the Liver channel, so applying warmth relaxes the channel and moves Qi, relieving the pain. Cold foods and exposure introduce more cold, directly worsening the constriction. Emotional stress can further stagnate Liver Qi, so a calm mind helps prevent aggravation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the lower abdomen warm with a hot water bottle or warm compress. Avoid cold foods and drinks; choose warming foods like ginger, cinnamon, and lamb. Gentle daily movement such as walking helps Qi flow, but avoid heavy lifting or straining that could worsen the hernia.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Nuan Gan Jian](https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian)** | Liver-Warming Brew &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Warms the Liver and Kidneys, Moves Qi and Alleviates Pain, Warms the Liver Channel and Dispels Cold | Warms the Liver channel, expels Cold, and moves Qi to relieve the contracting pain. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Warms the interior and expels Cold, directly addressing the root of the pain. |
+| **[Xiao Hui Xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)** | Fennel fruit |  | Warms the Liver channel and alleviates cold pain in the groin and scrotum. |
+| **[Wu Yao](https://www.meandqi.com/knowledge-base/herbs/wu-yao)** | Lindera root |  | Moves Qi and relieves pain, helping to unblock the constricted channel. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-1** | [Dadun LR-1](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/dadun-lr-1) | D&#xE0; d&#x16B;n | Regulates Qi in the Lower Bruner, Liver and genitals, Resolves Damp-Heat in the genitourinary system | Moxibustion on this point expels Cold from the Liver channel and eases scrotal contraction. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxibustion here warms the lower burner and relieves deep cold pain. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Acupuncture with moxibustion moves Qi and warms the abdomen to counter cold stagnation. |
+
+---
+
+### Damp-Heat in the Liver Channel
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-heat-in-the-liver-channel)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Burning or hot sensation in the groin, Heavy, dragging feeling in the groin or pelvis, Bitter taste in the mouth, Dark, scanty, or burning urine, Worse with hot, humid weather or alcohol
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Hot, humid weather, Alcohol and spicy food, Emotional stress or frustration, Prolonged standing or straining
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool, dry environment, Light, non-greasy meals, Lying down or resting flat, Cool compresses on the groin
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Liver channel runs through the groin and genital area. When Damp-Heat settles into this channel, the combination of moisture and heat weakens the sinews and creates swelling, a heavy sensation, and burning pain. The Heat makes the area feel hot and irritated, while the Dampness adds a dragging, full sensation that can worsen after eating rich or spicy foods.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with red sides, yellow greasy coating thicker at center and root. Pulse: wiry, slippery, and rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Damp-Heat accumulates when the body is exposed to external heat and humidity or when internal Heat and moisture build up from diet and emotions. Alcohol, spicy, and greasy foods directly add Heat and Dampness, while emotional stress stirs Liver Qi and can transform into Heat. Cooling foods, rest, and a dry environment help drain Dampness and clear Heat, reducing the local swelling and burning pain in the groin.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid greasy, fried, and spicy foods, as well as alcohol, which all create Dampness and Heat. Favor cooling, damp-draining foods like mung beans, cucumber, celery, and barley. Keep the groin area clean and dry, and avoid prolonged sitting in hot, humid environments.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The classic formula to clear Damp-Heat from the Liver channel, reducing swelling, burning, and pain in the groin. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | Clears Damp-Heat from the Liver and Gallbladder, especially when pain and swelling are in the lower body. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Dries Dampness and clears Heat, helping to relieve the burning sensation. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | Clears Liver fire and drains Damp-Heat from the channel, easing burning pain. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Drains Dampness from the lower burner and reduces heaviness and swelling. |
+
+---
+
+### Cold-Dampness in the Lower Burner
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/cold-dampness-in-the-lower-burner)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cold, heavy, dragging pain in the groin, Worsens in cold, damp weather, Cold sensation in the lower abdomen, Heavy, dragging feeling in the groin or pelvis, Dull aching lower back pain worse with cold, Loose or watery stools, Swelling or puffiness in the lower legs
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp weather, Sitting on cold surfaces, Cold foods or drinks, Damp living environment, Prolonged standing
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress or heat on the abdomen, Dry, warm weather, Warm drinks and warming foods, Moxibustion, Gentle movement
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Cold-Dampness settles deep in the lower abdomen, where the heavy, boggy nature of Dampness combines with the contracting, obstructive quality of Cold. This combination congeals Qi and Blood in the groin and pelvic channels, creating a cold, heavy, dragging hernia pain. The Lower Burner is meant to be warm and dry; when Cold and Damp block it, the tissues lose their supportive warmth and become waterlogged, leading to a sensation of fullness and discomfort that worsens in cold, damp weather.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, swollen body with teeth marks, thick white greasy coating, excessively moist. Pulse: Deep, slow, and soggy, especially in the rear (Chi) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold contracts and obstructs, while Dampness weighs down and stagnates. Together they congeal Qi and Blood in the groin, producing the cold, heavy pain characteristic of this pattern. Warmth relaxes the tissues and encourages movement, while dry conditions and warming foods help eliminate Dampness. Moxibustion directly introduces warmth into the Lower Burner to dispel Cold and dry Dampness, and gentle movement keeps Qi from stagnating without depleting energy.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw foods and icy drinks, which aggravate internal Cold and Dampness. Favor warm, cooked meals like soups, stews, and congees, and use warming spices such as ginger, cinnamon, and fennel. Keep the lower abdomen and feet warm, and avoid sitting on cold, damp surfaces. Gentle daily movement like walking or stretching helps Qi flow, but avoid overexertion. Moxibustion at home on the lower abdomen can provide ongoing relief.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Nuan Gan Jian](https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian)** | Liver-Warming Brew &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Warms the Liver and Kidneys, Moves Qi and Alleviates Pain, Warms the Liver Channel and Dispels Cold | Warms the Liver and Kidneys, dispels Cold, and transforms Dampness to relieve heavy, cold hernia pain. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Tian Tai Wu Yao San](https://www.meandqi.com/knowledge-base/formulas/tian-tai-wu-yao-san)** | Tiantai Lindera Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), circa 1240s CE | Warm, Soothes the Liver and Regulates Qi, Dispels Cold and Alleviates Pain, Warms the Lower Burner and Dispels Cold | A classical formula for lower abdominal pain caused by cold constricting the Liver channel, commonly seen in conditions like inguinal hernia with pain radiating to the groin or testicles. It works by strongly promoting the flow of Qi in the Liver, dispersing cold, and relieving pain. It is also used for menstrual pain when cold stagnation is the underlying cause. |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints. |
+| **[Nuan Gan Jian](https://www.meandqi.com/knowledge-base/formulas/nuan-gan-jian)** | Liver-Warming Brew &#xB7; M&#xED;ng dynasty, 1624 CE | Warm, Warms the Liver and Kidneys, Moves Qi and Alleviates Pain, Warms the Liver Channel and Dispels Cold | A warming formula designed to relieve cold-type pain in the lower abdomen, groin, or testicles caused by weakness and coldness in the Liver and Kidney systems. It works by gently warming these organ systems, improving the flow of Qi, and stopping pain. It is commonly used for conditions like inguinal hernia, testicular pain, and cold-type menstrual cramps. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Warms the Kidneys and dispels internal Cold, relieving lower abdominal cold pain. |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Dries Dampness and strengthens the Spleen to reduce heaviness and dragging sensations. |
+| **[Wu Yao](https://www.meandqi.com/knowledge-base/herbs/wu-yao)** | Lindera root |  | Moves Qi in the lower abdomen and groin to alleviate cold, stagnant pain. |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Sheng Ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)** | Cimicifuga rhizome | Slightly Cool, Releases the Exterior and Vents Rashes, Clears Heat and Resolves Toxicity, Lifts Sunken Qi |  |
+| **[Wu Yao](https://www.meandqi.com/knowledge-base/herbs/wu-yao)** | Lindera root | Warm, Moves Qi and Alleviates Pain, Warms the Kidneys and disperses Cold, Regulates Qi Flow in the Chest, Abdomen and Lower Body |  |
+| **[Ju He](https://www.meandqi.com/knowledge-base/herbs/ju-he)** | Tangerine seed | Neutral, Moves Qi, Dissipates Nodules and Softens Hardness, Alleviates Pain |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Xiao Hui Xiang](https://www.meandqi.com/knowledge-base/herbs/xiao-hui-xiang)** | Fennel fruit | Warm, Dispels Cold and Alleviates Pain, Regulates Qi and Harmonizes the Middle Burner, Warms the Liver and Kidneys |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxibustion here warms the Lower Burner and dispels Cold-Dampness. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Moxibustion raises Qi and warms the abdomen to counter Cold and sinking. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Transforms Dampness and regulates the lower abdomen to ease heaviness. |
+| **LR-1** | [Dadun LR-1](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/dadun-lr-1) | D&#xE0; d&#x16B;n | Regulates Qi in the Lower Bruner, Liver and genitals, Resolves Damp-Heat in the genitourinary system | Regulates the Liver channel in the groin and alleviates cold hernia pain. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can acupuncture and herbs cure a hernia?
+TCM cannot close the physical opening in the muscle wall. Its goal is to relieve pain, reduce the frequency and size of the bulge, strengthen the surrounding supportive tissues, and address the underlying imbalances that allowed the hernia to develop. For many people with chronic, reducible hernias, this means significantly less discomfort and a lower chance of worsening.
+
+### Is it safe to treat a hernia with TCM? When should I avoid it?
+TCM is safe for hernias that are reducible and not causing severe symptoms. However, if the bulge becomes hard, tender, and cannot be pushed back, or if you develop severe pain, nausea, vomiting, or fever, stop all self-treatment and go to the emergency room immediately - these are signs of strangulation. Always inform your TCM practitioner if you have a known hernia, and see our Safety section for full red-flag guidance.
+
+### How long until I feel relief from the pain?
+Many patients notice a reduction in pain intensity within the first 2-4 weeks of treatment. The dragging ache of Spleen Qi Sinking often eases as energy improves, and the cold, cramping pain of Liver Channel Cold often responds quickly to warming herbs and moxibustion. Full stabilization of the tissues takes longer, especially if the underlying deficiency is deep.
+
+### Can I use TCM alongside surgery or a truss?
+Absolutely. TCM is frequently used before surgery to strengthen the body and improve tissue quality, and after surgery to speed healing, reduce post-operative pain, and prevent recurrence. If you are scheduled for surgery, tell your surgeon about any herbs you are taking - some blood-moving herbs may need to be paused a week before the procedure. A truss can be worn alongside TCM treatment without issue.
+
+### What foods should I avoid if I have hernia pain?
+In general, avoid cold, raw foods and icy drinks, which weaken the Spleen Qi and introduce cold into the body - both can worsen dragging or cramping pain. Heavy, greasy, or very sweet foods create Dampness and should be limited. Small, frequent, warm meals are best. Specific dietary advice depends on your pattern and will be discussed with your practitioner.
+
+### Will my hernia come back after TCM treatment?
+TCM aims to correct the constitutional weakness or channel obstruction that contributed to the hernia. By strengthening Spleen Qi, smoothing Liver Qi, or dispelling cold and dampness, it can reduce the likelihood of the bulge worsening or recurring after repair. However, the physical defect remains, so heavy lifting or straining can still provoke symptoms. Long-term lifestyle and dietary habits are essential for maintaining results.
+
+### Does acupuncture hurt when treating groin pain?
+Acupuncture for hernia-related pain typically uses points on the lower abdomen, legs, and feet, as well as some on the back. The needles are very fine, and most people feel only a brief pinch or a dull ache upon insertion. Points in the groin area itself are used cautiously and only when necessary, with your comfort as the priority. Many patients find the treatments deeply relaxing.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/hernia-related-pain)*

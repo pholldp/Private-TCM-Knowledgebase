@@ -1,0 +1,136 @@
+# Niu Dan (牛胆)
+**English Name**: Ox bile  
+**Category**: Herbs that clear Heat and dry Dampness (清热燥湿药), Herbs that clear Heat and resolve Toxicity (清热解毒药), Herbs that clear Liver Heat and brighten the eyes (清肝明目药)  
+**Scientific Name**: Bos taurus domesticus Gmelin  
+**Pharmaceutical Name**: Fel Bovis  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Liver, Gallbladder, Lungs  
+**Parts Used**: Animal — secretion (动物分泌物 dòng wù fēn mì wù)  
+
+---
+
+## Summary
+Ox bile is a bitter, cold substance used in Chinese medicine to clear heat and dampness from the liver and gallbladder. It is primarily used for conditions like jaundice, gallstones, red eyes, and constipation, and can also help resolve boils and abscesses.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Liver health, Gallbladder support, Eye health, Digestive health
+- **TCM Actions**: Clears Heat and drains Fire, Clears Liver and brightens the eyes, Promotes bile flow and unblocks the intestines, Resolves Toxicity and reduces swelling
+
+### How these actions work
+Clears Heat and drains Fire means Niú Dǎn reduces excess heat in the body, especially in the Liver and Gallbladder. This is why it is used for high fever, irritability, and inflammation. Clears Liver and brightens the eyes refers to its ability to cool Liver Fire that rises to the eyes, treating red, swollen, painful eyes and blurred vision. Promotes bile flow and unblocks the intestines means it stimulates bile secretion and eases bowel movements, making it effective for jaundice, gallstones, and constipation. Resolves Toxicity and reduces swelling describes its action on boils, abscesses, and other toxic-heat skin conditions, both internally and topically.
+
+---
+
+## Patterns Addressed
+### Damp-Heat in the Liver
+- **Explanation**: Niú Dǎn is extremely bitter and cold, entering the Liver and Gallbladder channels. It directly clears Damp-Heat from the Liver, drains Fire, and promotes bile flow, addressing the root of this pattern. Its bitter nature dries Dampness while its cold nature cools Heat, making it effective for jaundice, hypochondriac pain, and bitter taste caused by Liver Damp-Heat.
+- **Clinical Signs & Symptoms**:
+  - **Bitter Taste**: persistent bitter taste from liver heat rising
+  - **Hypochondriac Pain**: pain and distention under the ribs
+
+### Damp-Heat in the Gallbladder
+- **Explanation**: Niú Dǎn's strong bitter-cold nature specifically targets the Gallbladder channel, clearing Damp-Heat and promoting the smooth flow of bile. It resolves the stagnation and heat that characterize this pattern, alleviating symptoms like jaundice, nausea, and right upper quadrant pain.
+- **Clinical Signs & Symptoms**:
+  - **Right Upper Quadrant Pain**: pain in the gallbladder region
+
+### Toxic-Heat
+- **Explanation**: Niú Dǎn's bitter-cold property clears Heat and resolves Toxicity, reducing swelling and inflammation. It is used for Toxic-Heat patterns manifesting as boils, carbuncles, and abscesses, especially when accompanied by constipation, as it also unblocks the bowels to purge heat.
+- **Clinical Signs & Symptoms**:
+  - **Carbuncles**: deep, pus-filled infections
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.3–0.9 g (as dried powder or in pills)
+- **Maximum Dosage**: Do not exceed 1.5 g per day; higher doses may cause gastrointestinal discomfort even in robust individuals and should only be used under experienced supervision.
+- **Dosage Notes**: Ox bile is rarely used alone; it is most often combined with other herbs in pill or powder form to balance its bitter-cold nature. For acute heat conditions like febrile convulsion or damp-heat jaundice, the higher end of the dosage range may be used for a short duration. Long-term use can impair Spleen-Stomach function.
+- **Preparation**: 
+
+---
+
+## Processing Methods
+### Ni&#xFA; D&#x1CE;n F&#x11B;n (&#x725B;&#x80C6;&#x7C89;)
+- **Processing Method**: Fresh gallbladder is collected, the bile is strained through cloth to remove impurities, and then dried at low temperature (below 60°C) to obtain a yellow-brown powder.
+- **How it Changes Properties**: Drying slightly tempers the extreme cold nature and makes the bile easier to store, weigh, and administer. The fundamental bitter-cold character and actions (clearing heat, draining fire, promoting bile flow) are retained.
+- **When to Use**: This is the standard form for internal use; it can be accurately dosed and mixed with other powder ingredients for pill or powder formulas.
+
+---
+
+## Common Herb Pairs
+### Long Dan Cao (Ratio: 1:1 (Ni&#xFA; D&#x1CE;n powder 1-3g, Long Dan Cao 3-6g))
+- **Description**: Together they powerfully clear Liver and Gallbladder Damp-Heat, drain Fire, and promote bile flow. Long Dan Cao strongly dries Dampness, while Niú Dǎn adds the ability to unblock the bowels and purge Heat downward.
+- **When to Use**: For severe Damp-Heat in the Liver and Gallbladder with jaundice, red eyes, bitter taste, hypochondriac pain, and constipation.
+
+### Huang Lian (Ratio: 1:1)
+- **Description**: Both are bitter and cold, clearing Heat and drying Dampness. Huang Lian focuses on the Heart and Stomach, while Niú Dǎn targets the Liver and Gallbladder. Together they drain Fire from the entire digestive system and resolve Toxicity.
+- **When to Use**: For Toxic-Heat with gastrointestinal symptoms such as dysentery, vomiting, and abdominal pain, or for severe skin infections with internal heat.
+
+### Yin Chen (Ratio: Yin Chen 15-30g, Ni&#xFA; D&#x1CE;n powder 1-3g (added to decoction))
+- **Description**: Yin Chen Hao is the primary herb for clearing Damp-Heat and promoting bile flow for jaundice. Niú Dǎn enhances this action with its stronger Fire-draining and bowel-unblocking properties, making the pair highly effective for acute jaundice.
+- **When to Use**: For acute infectious hepatitis or cholecystitis with bright yellow jaundice, dark urine, and constipation.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Ox bile is classically considered non-toxic. It contains bile salts and bile pigments which at very high doses can irritate the gastrointestinal tract, causing loose stools or abdominal cramping. Its strong cold nature means that improper use in those with Spleen-Stomach deficiency can lead to digestive weakness, but this is a property-based reaction, not a toxic effect.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific contraindication for pregnancy is recorded in classical texts. However, because of its extreme cold nature and its ability to drain downwards through the bowels, it should be used only under strict practitioner guidance during pregnancy, and avoided during the first trimester when the fetal foundation is being established.
+- **Breastfeeding**: No data available on excretion into breast milk. Due to its bitter, cold nature and potential to cause diarrheal effects in the infant, it is advisable to avoid use during breastfeeding unless absolutely necessary and under professional supervision.
+- **Children**: Ox bile has been traditionally used for children in conditions such as febrile convulsion and jaundice. Dosage should be reduced proportionally based on body weight, generally 0.1–0.3 g per dose for young children. Use only under qualified supervision, and discontinue if digestive upset occurs.
+
+### Drug Interactions
+Ox bile contains bile acids that facilitate fat absorption. Concurrent use with fat-soluble vitamins (A, D, E, K) may theoretically increase their absorption, but high doses could compete for uptake and alter their bioavailability. Drugs that undergo enterohepatic circulation (such as certain contraceptives, digoxin, and some NSAIDs) may have altered pharmacokinetics when taken with ox bile. Caution is advised with anticoagulants because of a possible effect on vitamin K absorption. Always consult a healthcare provider before combining ox bile with prescription medications.
+
+### Dietary Advice
+Avoid cold, raw foods and icy drinks while taking ox bile, as these can worsen Spleen-Stomach deficiency and counteract the herb's therapeutic direction in heat-clearing conditions. A bland, easily digestible diet is recommended to support the digestive system.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Although 牛胆 (ox bile) is an animal product rather than a plant, its medicinal source is the gallbladder of the ox (Bos taurus domesticus Gmelin) or water buffalo (Bubalus bubalis). The ox is a large domesticated ungulate with a sturdy build, short hair, and horns that vary in size by breed. It is widely raised throughout China for agriculture, dairy, and meat production. The fresh gallbladder is kidney-shaped, about 18–20 cm long and 5–6 cm wide, with a greenish-brown, slightly transparent liquid bile inside.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Winter (the twelfth lunar month), when the bile is most concentrated and traditionally considered most potent.
+- **Primary Growing Regions**: Sourced from healthy domesticated cattle (Bos taurus domesticus Gmelin) or water buffalo (Bubalus bubalis) across all provinces of China; no specific 道地药材 region.
+- **Quality Indicators**: Good quality fresh ox bile is greenish-brown or dark brown, slightly transparent, and sticky. The dried powder should be yellow to brown, with a pronounced bitter taste and a characteristic fishy, slightly offensive smell. It should be free of adulteration from other animal biles (such as pig bile, which contains hyodeoxycholic acid).
+
+### Identity & Adulterants
+Ox bile is sometimes adulterated with or confused with pig bile (猪胆) or sheep bile (羊胆). These can be distinguished by HPLC analysis of bile acid profiles: ox bile contains predominantly cholic acid and deoxycholic acid, while pig bile contains hyodeoxycholic acid and lacks significant cholic acid.
+
+---
+
+## References
+### Historical Context
+Ox bile has been used in Chinese medicine since at least the Shen Nong Ben Cao Jing (Divine Farmer's Materia Medica). It was valued for clearing heat, resolving toxins, and brightening the eyes. During the Song dynasty, it became widely employed as a processing agent — most famously in the preparation of 胆南星 (bile-processed Arisaema), which transforms the hot, toxic raw herb into a cool, phlegm-clearing medicine. Ben Cao Gang Mu (Compendium of Materia Medica) records many formulas using ox bile, including pairing it with Sophora fruit for eye health. In the West, ox bile was historically used as a natural surfactant and in art materials, but its medicinal role in TCM remains focused on clearing internal heat and promoting bile flow.
+
+### Modern Scientific Research
+1. **[Bile acids: chemistry, pathochemistry, biology, pathobiology, and therapeutics (Review, 2008)](https://doi.org/10.1007/s00018-008-7568-6)**
+   *Journal: Hofmann AF, Hagey LR. Bile acids: chemistry, pathochemistry, biology, pathobiology, and therapeutics. Cellular and Molecular Life Sciences, 2008, 65(16): 2461-2483.*
+   This comprehensive review covers the chemistry and biological actions of bile acids, including those found in bovine bile. It describes their roles in fat digestion, cholesterol metabolism, and their anti-inflammatory and hepatoprotective effects – all relevant to the traditional uses of ox bile.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/niu-dan](https://www.meandqi.com/knowledge-base/herbs/niu-dan)*

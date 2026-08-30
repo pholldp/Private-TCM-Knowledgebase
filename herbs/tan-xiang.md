@@ -1,0 +1,176 @@
+# Tan Xiang (檀香)
+**English Name**: Sandalwood  
+**Category**: Qi-regulating herbs (理气药)  
+**Scientific Name**: Santalum album L.  
+**Pharmaceutical Name**: Lignum Santali Albi  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Aromatic (芳香 fāng xiāng)  
+**Channels Entered**: Spleen, Stomach, Heart, Lungs  
+**Parts Used**: Heartwood (心材 xīn cái)  
+
+---
+
+## Summary
+Sandalwood heartwood is an aromatic, warming herb primarily used to relieve chest and stomach pain caused by cold and stagnation. It is valued for its ability to open up the chest and settle the stomach, and is commonly found in formulas for angina and digestive discomfort. Its pleasant fragrance also has a calming quality.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Chest Pain Relief, Digestive Health, Heart health, Stomach Pain Relief
+- **TCM Actions**: Moves Qi and Alleviates Pain, Disperses Cold and warms the Middle Jiao, Regulates Qi Flow in the Chest, Abdomen and Lower Body, Harmonizes the Stomach and Stops Vomiting
+
+### How these actions work
+'Moves Qi and alleviates pain' means Tán Xiāng promotes the smooth circulation of Qi, particularly in the chest and upper abdomen. When Qi becomes stagnant (stuck or blocked), it causes pain, fullness, and discomfort. Tán Xiāng's acrid, aromatic nature penetrates and unblocks these areas, making it especially useful for chest pain, epigastric pain, and the sensation of tightness or oppression in the chest. It is a go-to herb for pain caused by Cold and Qi stagnation in the chest, and has been used in modern clinical practice for angina pectoris.
+'Disperses Cold and warms the Middle Jiao' refers to Tán Xiāng's warm nature, which drives out Cold that has settled in the Stomach and Spleen. When Cold invades the digestive system, it can cause cramping abdominal pain, vomiting of clear watery fluid, and poor appetite. Tán Xiāng gently warms these organs and restores their normal function.
+'Regulates Qi in the chest and diaphragm' highlights the herb's special affinity for the upper body. Classical texts describe it as being good at "adjusting the Qi above the diaphragm." Unlike Chén Xiāng (Agarwood), which primarily pulls Qi downward, Tán Xiāng lifts and spreads Qi upward and outward, opening up a congested chest and relieving the feeling of things being stuck in the throat or chest.
+'Harmonizes the Stomach and stops vomiting' means Tán Xiāng helps settle a cold, rebellious Stomach. When Stomach Qi reverses upward instead of descending normally, it causes nausea and vomiting. Tán Xiāng's aromatic quality "awakens" the Spleen and Stomach, restoring the normal downward flow of digestion and relieving nausea, especially when the vomiting involves clear, watery fluid.
+
+---
+
+## Patterns Addressed
+### Food Stagnation in the Stomach
+- **Explanation**: In this pattern, Cold pathogen lodges in the Stomach, congealing Qi and causing cramping pain with vomiting of clear fluid and poor appetite. Tán Xiāng's warm, acrid nature directly disperses the Cold while its aromatic quality "awakens" the Spleen and Stomach, restoring their digestive and descending functions. Its channel entry into the Spleen and Stomach makes it a well-targeted herb for this pathomechanism.
+- **Clinical Signs & Symptoms**:
+  - **Epigastric Pain Relieved With Pressure Or Eating**: Cold, cramping stomach pain that improves with warmth
+
+### Qi Stagnation
+- **Explanation**: When Qi circulation becomes blocked in the chest, diaphragm, or epigastrium, it produces feelings of distention, oppression, and pain. Tán Xiāng is acrid and aromatic, giving it strong dispersing and penetrating qualities that break through Qi obstruction. Classical sources describe it as excelling at "adjusting Qi above the diaphragm," making it particularly suited for Qi stagnation manifesting in the chest and upper abdomen rather than in the Liver or lower body.
+- **Clinical Signs & Symptoms**:
+  - **Exertional Dyspnea**: Shortness of breath from chest constriction
+
+### Heart Blood Stagnation
+- **Explanation**: When Blood stasis combines with Qi stagnation in the Heart and chest vessels, it produces the fixed, stabbing pain of chest impediment (xiōng bì). Tán Xiāng enters the Heart channel and moves Qi powerfully through the chest, which in turn helps promote Blood circulation. While Tán Xiāng primarily targets the Qi aspect, its ability to open the chest makes it an effective supporting herb for Blood stasis patterns when paired with Blood-moving herbs like Dān Shēn.
+- **Clinical Signs & Symptoms**:
+  - **Chest Stiffness**: Sensation of pressure or constriction in the chest
+
+---
+
+## Commonly Used For
+### Angina
+- **Arises from**: Heart Blood Stagnation, Qi Stagnation
+- **TCM Interpretation**: In TCM, angina is understood as a form of chest impediment (xiōng bì), where the Heart vessels become obstructed. The most common underlying mechanisms involve Cold congealing in the chest, Qi stagnation preventing free flow through the Heart's channels, or Blood stasis blocking the vessels. When chest Yáng (the warming, opening function of the chest) is insufficient, Cold and turbid substances accumulate, narrowing the pathways for Qi and Blood. This produces the characteristic squeezing or pressing chest pain that may radiate to the back or arm.
+- **Why it Helps**: Tán Xiāng enters the Heart, Spleen, and Lung channels and powerfully moves Qi through the chest and diaphragm. Its warm, acrid nature disperses Cold that congeals in the chest, while its aromatic quality penetrates obstructions and restores the free flow of Qi. By unblocking Qi circulation in the chest, it indirectly supports Blood flow through the Heart vessels. This is why it appears as a key ingredient in formulas specifically designed for angina, such as Kuān Xiōng Wán (with Bì Bá, Yán Hú Suǒ, and Xì Xīn) and Guān Xīn Sū Hé Wán.
+
+### Chronic Gastritis
+- **Arises from**: Food Stagnation in the Stomach
+- **TCM Interpretation**: TCM views chronic gastritis through the lens of Stomach and Spleen dysfunction. When Cold invades or accumulates in the Stomach over time (from cold foods, constitutional weakness, or emotional stress), it impairs the Stomach's ability to "ripen and rot" food and disrupts its normal descending function. This produces epigastric pain (often relieved by warmth and pressure), bloating, nausea, poor appetite, and sometimes vomiting of clear fluid. The Spleen's transforming and transporting functions are also weakened, leading to fatigue and loose stools.
+- **Why it Helps**: Tán Xiāng directly enters the Spleen and Stomach channels, where its warm nature disperses accumulated Cold and its acrid taste promotes Qi movement. Classical texts praise it for being able to "raise Stomach Qi upward" and "open the appetite." Its aromatic quality is particularly important here: in TCM, aromatic substances are said to "awaken the Spleen," meaning they stimulate sluggish digestive function. For gastritis with cold, cramping pain, Tán Xiāng is often combined with Shā Rén (Cardamom) and Wū Yào (Lindera root) to warm and move Qi through the digestive system.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 2-5g
+- **Maximum Dosage**: Generally not exceeded beyond 5g in decoction. As a non-toxic herb, moderate increases are tolerated, but doses above standard range offer diminishing returns and may cause mild gastric irritation due to the essential oil content.
+- **Dosage Notes**: Tan Xiang is typically used in the range of 2-5g in decoction. For chest pain and angina-type patterns (as in Kuan Xiong Wan), 1.5-3g is common when combined with other Qi-moving herbs. When used in powdered form (taken directly with warm water or ginger decoction), smaller amounts of 1-1.5g per dose may suffice. The herb is aromatic and its volatile oils are easily lost with prolonged boiling, so it should be added near the end of decoction (hou xia, 后下). In pill or powder preparations, standard doses apply.
+- **Preparation**: Add near the end of decoction (后下 hou xia, decoct for only the last 5-10 minutes). As an aromatic herb rich in volatile oils, prolonged boiling will cause significant loss of the active essential oil components. Alternatively, it can be ground into fine powder and taken directly with warm water, ginger decoction, or mixed into pills and powders. For external use, the wood is ground with water on a stone to produce a paste or liquid for topical application.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Dan Shen (Ratio: D&#x101;n Sh&#x113;n 30g : T&#xE1;n Xi&#x101;ng 5g (D&#x101;n Sh&#x113;n at higher dose as the primary Blood-moving herb))
+- **Description**: Tán Xiāng moves Qi while Dān Shēn invigorates Blood, together addressing both Qi stagnation and Blood stasis in the chest and stomach. This pairing treats the root cause of pain from two angles: Qi obstruction and Blood stasis are often intertwined, and treating one without the other is incomplete.
+- **When to Use**: Chest impediment (angina) or stomach pain with both Qi stagnation and Blood stasis, producing fixed or stabbing pain. This is the core pairing in Dān Shēn Yǐn.
+
+### Sha Ren (Ratio: 1:1 (typically 3-5g each))
+- **Description**: Both herbs are aromatic and warm, entering the Spleen and Stomach. Tán Xiāng moves Qi in the chest and upper abdomen while Shā Rén focuses on the middle and lower abdomen, together covering the entire digestive tract. Their combined aromatic quality powerfully awakens the Spleen and restores appetite.
+- **When to Use**: Stomach Cold with Qi stagnation causing epigastric pain, bloating, nausea, and poor appetite. This pair also appears together in Dān Shēn Yǐn.
+
+### Bi Ba (Ratio: 1:1)
+- **Description**: Both herbs are warm and acrid. Tán Xiāng moves Qi and opens the chest while Bì Bá (Long Pepper) strongly warms the interior and disperses deep Cold. Together they create a powerful combination for chest pain caused by Cold congealing in the Heart and chest vessels.
+- **When to Use**: Angina or severe chest pain from Cold obstruction, with a cold sensation in the chest and pain worsened by cold weather. This pair is central to Kuān Xiōng Wán.
+
+### Wu Yao (Ratio: 1:1 to 1:2 (T&#xE1;n Xi&#x101;ng 3-5g : W&#x16B; Y&#xE0;o 5-10g))
+- **Description**: Tán Xiāng regulates Qi above the diaphragm (chest and upper abdomen) while Wū Yào excels at moving Qi in the lower abdomen. Combined, they address Qi stagnation throughout the entire trunk, providing comprehensive pain relief from chest to lower belly.
+- **When to Use**: Widespread Qi stagnation causing pain that spans from the chest through the epigastrium to the lower abdomen, especially when triggered by Cold or emotional stress.
+
+---
+
+## Key Formulas
+Dan Shen Yin, Su He Xiang Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Tan Xiang is classified as non-toxic in classical and modern sources. The Ri Hua Zi Ben Cao and Tang Ye Ben Cao both explicitly state it is without toxicity (无毒). However, sandalwood oil in excessive doses can cause irritation to the stomach, kidneys, and skin. At standard medicinal dosages in decoction or powder form, it poses no toxicity concerns.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific classical contraindication during pregnancy exists for Tan Xiang. However, as a warm, Qi-moving aromatic herb, it should be used with caution during pregnancy. Qi-moving herbs can theoretically disturb the fetus if used in excessive doses. Use only when clearly indicated and at conservative doses, under practitioner supervision.
+- **Breastfeeding**: No specific data exists on the safety of Tan Xiang during breastfeeding. As an aromatic herb, its volatile oils could theoretically transfer into breast milk. Use with caution and only when clearly indicated, at standard or reduced doses.
+- **Children**: No specific classical guidance exists for pediatric use. If indicated, reduce dosage proportionally based on age and body weight, typically to one-third to one-half the adult dose. The warm, aromatic nature of this herb means it should be used cautiously in children, who tend toward Heat constitutions. Not commonly used as a primary herb in pediatric formulas.
+
+### Drug Interactions
+No well-documented pharmacological drug interactions have been established for Tan Xiang at standard medicinal doses. However, based on the known pharmacology of its active compounds (alpha-santalol and beta-santalol):
+- Sandalwood oil has mild antimicrobial and anti-inflammatory properties. Concurrent use with anti-inflammatory or antimicrobial drugs is unlikely to cause significant interactions at standard oral doses.
+- Some preclinical evidence suggests sandalwood oil may affect hepatic enzyme activity. Patients on medications with narrow therapeutic indices should exercise general caution, though clinical evidence of significant CYP interactions is lacking.
+Overall, clinically significant drug interactions at typical TCM decoction doses are not expected.
+
+### Dietary Advice
+Avoid cold, raw, and greasy foods while taking Tan Xiang, as these can impede the Qi-moving and Stomach-warming actions of the herb. Warm, easily digestible foods support its therapeutic effect. Because this herb is warm and acrid, those already experiencing signs of Yin deficiency or internal Heat (dry mouth, thirst, irritability) should moderate intake of spicy and heating foods to avoid compounding dryness.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Santalum album L. (Santalaceae) is a small, slow-growing evergreen tree reaching 4 to 9 metres in height, though specimens in India can grow up to 20 metres. The tree has a variable habit, ranging from upright to sprawling, and often intertwines with surrounding vegetation. Its bark is reddish-brown to nearly black, smooth when young and becoming cracked with age. The leaves are opposite, ovate to lanceolate-elliptic, 3.5 to 6 cm long, glossy on the upper surface and somewhat glaucous beneath.
+The flowers are small, borne in terminal or axillary paniculate cymes, starting yellowish-green and turning rose to deep crimson-maroon as they mature. The fruit is a small globose drupe that turns dark purple-black when ripe. Notably, this tree is hemiparasitic: its roots form haustorial connections with the roots of surrounding host plants to obtain water and nutrients, though it also conducts its own photosynthesis. Up to 300 different plant species can serve as hosts. The prized medicinal heartwood is pale greenish-white to yellowish-brown and develops its characteristic fragrance only after several decades of growth.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be harvested year-round, but summer is considered optimal. The tree must be mature (typically 30 years or older) for the heartwood to have developed sufficient essential oil content.
+- **Primary Growing Regions**: The finest quality Tan Xiang (known as 'Old Mountain Sandalwood' or Lao Shan Tan, 老山檀) comes from the Mysore (Karnataka) region of southern India, where the dry rocky terrain and specific soil conditions produce heartwood with the highest essential oil content and the most prized fragrance. India and Indonesia are the primary sources historically used in TCM.
+Within China, sandalwood has been cultivated in Hainan, Guangdong, Yunnan, and Taiwan, though Chinese-grown material is generally considered inferior to Indian imports. Australia (particularly Western Australia) has become a major commercial source, though this is typically the related species Santalum spicatum rather than S. album.
+The dao di (道地) concept for Tan Xiang points firmly to India, particularly the Mysore region, as the traditional terroir for the highest quality medicinal material.
+- **Quality Indicators**: The best quality Tan Xiang is dense, hard, and difficult to break. The surface should be pale yellowish-brown, smooth and fine-textured. The cross-section should appear brownish-yellow with visible oil traces. The wood should have a strong, sweet, characteristic sandalwood fragrance that becomes more intense when burned or heated, with a slightly pungent taste when chewed. High oil content is essential: the Chinese Pharmacopoeia requires a minimum of 3% volatile oil content. Indian 'Old Mountain' (Lao Shan) sandalwood with a wavy grain pattern on its cross-section commands the highest quality grade. Avoid pieces that are light in weight, lack fragrance, have a pale or washed-out color, or feel dry and porous, as these indicate low oil content or inferior species.
+
+### Identity & Adulterants
+The most common substitute is Australian sandalwood (Santalum spicatum), which has a lower alpha-santalol content (approximately 39% versus 90% in S. album) and a lighter, less sweet fragrance. It is sometimes fraudulently sold as genuine Indian sandalwood ('Old Mountain' or Lao Shan Tan). Other substitutes include Fijian sandalwood (S. yasi), Tongan sandalwood, and New Caledonian sandalwood (S. austrocaledonicum), all with different fragrance profiles and lower medicinal value.
+African sandalwood material (from various non-Santalum species) is sometimes dyed to resemble Indian sandalwood's reddish heartwood. Key identification: genuine Indian S. album heartwood displays a characteristic wavy grain pattern on cross-section, has high density, and possesses a rich, creamy-sweet scent with milky undertones. Australian sandalwood typically shows more prominent annual rings and has a sharper, less sweet scent. Oil content analysis (alpha-santalol percentage) via GC-MS is the definitive authentication method.
+
+---
+
+## References
+### Classical Texts
+#### Classical Quotes on Tan Xiang (檀香)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Tan Xiang first appeared as a medicinal substance in the Ming Yi Bie Lu (名医别录, Supplementary Records of Famous Physicians), indicating its use in Chinese medicine dates back to at least the Han-Wei period. The name '檀香' literally means 'sandalwood fragrance,' while its classical alias '旃檀' (zhan tan) is a transliteration from the Sanskrit 'chandana,' reflecting the herb's origins along the ancient trade routes connecting India, Southeast Asia, and China. Other historical names include '真檀' (True Sandalwood) and '浴香' (Bathing Fragrance).
+Sandalwood held deep significance in Buddhist culture, where it was considered sacred and used for carving statues, ritual implements, and temple incense. Its entry into Chinese medicine was closely linked to the spread of Buddhism and the importation of aromatic materials from South and Southeast Asia. By the Tang Dynasty, sandalwood was used lavishly in court life; historical records describe it being used for palace railings and scented bathing waters. During the Song Dynasty, Li Gao (Li Dongyuan) provided an influential clinical characterization, describing Tan Xiang as being especially effective for regulating Qi in the upper body, particularly the chest and throat, distinguishing its ascending action from the descending nature of Chen Xiang (Agarwood). Li Shizhen in the Ben Cao Gang Mu further clarified the distinction between different types of sandalwood, noting that white sandalwood is acrid and warm, acting on the Qi level, while purple sandalwood is salty and cool, working on the Blood level.
+
+### Modern Scientific Research
+1. **[Chemopreventive effects of alpha-santalol on skin tumor development in CD-1 and SENCAR mice (Animal study, 2003)](https://pubmed.ncbi.nlm.nih.gov/12582025/)**
+   *Journal: Dwivedi C, Guan X, Harmsen WL, et al. Cancer Epidemiology, Biomarkers & Prevention, 2003, 12: 151-156.*
+   This preclinical study found that alpha-santalol, the principal active compound in sandalwood oil, significantly delayed and reduced skin tumor development in two mouse strains during the promotion phase of chemically-induced carcinogenesis. The effect was associated with inhibition of ornithine decarboxylase activity and DNA synthesis in the skin.
+
+2. **[Evaluation of the effects of East Indian sandalwood oil and alpha-santalol on humans after transdermal absorption (Clinical trial, 2004)]()**
+   *Journal: Hongratanaworakit T, Heuberger E, Buchbauer G. Planta Medica, 2004, 70(1): 3-7.*
+   A clinical trial in healthy volunteers found that transdermal absorption of alpha-santalol produced significant physiological changes consistent with a relaxing and sedative effect. Sandalwood oil itself caused physiological deactivation but behavioral activation, suggesting complex neuroactive properties.
+
+3. **[East Indian Sandalwood and alpha-santalol odor increase physiological and self-rated arousal in humans (Clinical trial, 2006)](https://pubmed.ncbi.nlm.nih.gov/16783696/)**
+   *Journal: Heuberger E, Hongratanaworakit T, Buchbauer G. Planta Medica, 2006, 72(9): 792-800.*
+   In healthy volunteers, inhalation of sandalwood oil elevated pulse rate, skin conductance, and systolic blood pressure compared to placebo. Alpha-santalol elicited higher self-ratings of attentiveness and mood. The findings support traditional uses of sandalwood for mental and somatic conditions.
+
+4. **[Medicinal properties of alpha-santalol, a naturally occurring constituent of sandalwood oil: Review (2017)]()**
+   *Journal: Bommareddy A, Brozena S, Steigerwalt J, et al. Natural Product Research, 2019, 33(4): 527-543.*
+   A comprehensive review summarizing the pharmacological evidence for alpha-santalol, documenting anticancer (cell cycle arrest and apoptosis induction), anti-inflammatory (cytokine modulation and arachidonic acid pathway suppression), antimicrobial, and neuroprotective properties across multiple in vitro and in vivo models.
+
+5. **[East Indian sandalwood oil is a phosphodiesterase inhibitor: A new therapeutic option in the treatment of inflammatory skin disease (In vitro study, 2018)]()**
+   *Journal: Sharma M, Levenson C, Browning JC, et al. Frontiers in Pharmacology, 2018, 9: 200.*
+   This study identified East Indian sandalwood oil as a phosphodiesterase inhibitor, a mechanism relevant to treating inflammatory skin conditions such as psoriasis and atopic dermatitis. The anti-inflammatory effects were attributed primarily to alpha-santalol and beta-santalol content.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/tan-xiang](https://www.meandqi.com/knowledge-base/herbs/tan-xiang)*

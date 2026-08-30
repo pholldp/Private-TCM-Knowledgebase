@@ -1,0 +1,72 @@
+# Chu Luan Fang (储卵方)
+**English Name**: Fertility Tonic  
+**Category**: Blood-tonifying formulas, Kidney-tonifying formulas  
+**Dynasty/Source**: Modern clinical formula (现代经验方), developed for use in TCM hospital gynecology departments  
+**Temperature**: Warm | **Form**: Granules (Keli)
+
+---
+
+## Summary
+A modern TCM formula designed to support female fertility by tonifying the Kidney and Liver, replenishing Essence (Jing) and Blood, and improving blood circulation to the ovaries. It is primarily used for women experiencing diminished ovarian reserve, poor egg quality, or difficulty conceiving due to underlying Kidney and Liver deficiency.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Supplements the Liver and Kidneys, Nourishes Essence and Blood, Invigorates Blood and Dispels Stasis, Regulates menstrual and ovulation cycles, Nourishes Yin
+- **Therapeutic Focus**: Fertility, Women's Reproductive Health, Hormonal Balance
+- **Target Organs**: Kidneys, Liver, Uterus
+- **Patterns Addressed**: 
+- **Conditions Treated**: Infertility, Premature Ovarian Failure, Irregular Menstruation, Decreased Menstrual Flow, Amenorrhea
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Shu Di Huang** | Prepared Rehmannia root | *King* | 12 - 15g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys | As the primary Blood and Essence tonifier, processed Rehmannia root nourishes Kidney Yin, replenishes Jing (Essence), and fills the marrow. It is the foundation of the formula's strategy to restore the material basis for egg development and ovarian reserve. |
+| **Tu Si Zi** | Chinese Dodder Seed | *King* | 12 - 15g | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Spleen | Dodder Seed is a key Kidney tonic that gently tonifies both Kidney Yin and Yang without being drying or cloying. It strengthens Jing, secures the Chong and Ren vessels, and is a classical fertility herb that directly supports reproductive function. |
+| **Dang Gui** | Chinese Angelica root | *Deputy* | 9 - 12g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Chinese Angelica Root nourishes and invigorates Blood, regulates menstruation, and promotes blood circulation to the reproductive organs. It works alongside Shu Di Huang to ensure adequate Blood nourishment reaches the uterus and ovaries. |
+| **Gou Qi Zi** | Chinese Wolfberry Fruit | *Deputy* | 9 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Lungs | Goji Berry nourishes the Liver and Kidney, replenishes Jing and brightens the eyes. It supports the Liver-Kidney axis that governs reproductive function, helping to nourish the Essence that forms the basis for healthy egg development. |
+| **Du Zhong** | Eucommia bark | *Deputy* | 9 - 12g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys | Processed Eucommia Bark tonifies the Liver and Kidney, strengthens sinews and bones, and calms the fetus. It supports Kidney Yang to ensure adequate warming and functional activity in the reproductive system. |
+| **Bu Gu Zhi** | Psoralea fruit | *Assistant* | 9 - 12g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Spleen | Processed Psoralea Fruit warms Kidney Yang and consolidates Jing. It supports the Yang aspect of the Kidney to ensure proper functional activity of the reproductive organs, complementing the Yin-nourishing herbs in the formula. |
+| **Xian Mao** | Curculigo rhizome | *Assistant* | 6 - 9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Kidneys, Liver, Spleen | Curculigo Rhizome warms Kidney Yang, strengthens sinews and bones, and dispels Cold-Dampness. Paired with Yin Yang Huo, it forms the classical Er Xian pairing to warm and invigorate the Kidney's reproductive fire. |
+| **Yin Yang Huo** | Epimedium leaf | *Assistant* | 9 - 12g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys | Epimedium warms Kidney Yang, strengthens sinews and bones, and invigorates the reproductive fire. Together with Xian Mao, it forms a powerful Yang-tonifying pair that supports ovarian functional activity. |
+| **Gui Ban** | Tortoise plastron | *Assistant* | 9 - 15g | Temp: Cold<br>Taste: Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Heart, Kidneys | Processed Tortoise Plastron nourishes Yin, subdues Yang, strengthens bones, and replenishes Jing and Blood. It anchors the formula's Yin-nourishing capacity and balances the warming Yang tonics, ensuring Yin and Yang are harmonized. |
+| **Bai Shao** | White peony root | *Assistant* | 9 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | White Peony Root nourishes Blood, softens the Liver, and alleviates pain. It restrains the warm and drying nature of the Yang-tonifying herbs and supports the Liver's role in storing Blood and regulating the menstrual cycle. |
+| **Dan Shen** | Red sage root | *Assistant* | 9 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Pericardium | Salvia Root invigorates Blood and dispels Blood Stasis without injuring the upright Qi. It improves blood flow to the ovaries and uterus, ensuring the tonifying herbs can reach their target. |
+| **Chuan Xiong** | Sichuan lovage rhizome | *Assistant* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Chuanxiong Rhizome invigorates Blood and promotes Qi movement. Known as the 'Qi herb within the Blood,' it prevents the rich tonifying herbs from causing stagnation and improves overall circulation to the reproductive organs. |
+| **Chai Hu** | Bupleurum root | *Envoy* | 3 - 6g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Gallbladder, Lungs | Bupleurum Root courses Liver Qi and lifts the clear Yang. It ensures smooth flow of Liver Qi, which is essential for the regulation of menstruation and ovulation, and directs the formula's action to the Liver channel. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Licorice Root harmonizes all the herbs in the formula, moderates the properties of the other ingredients, and supports the Spleen to ensure proper absorption and transformation of the tonifying substances. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. This formula contains several herbs that invigorate Blood and may stimulate uterine activity, including Dan Shen (Salvia root), Chuan Xiong (Chuanxiong rhizome), and Dang Gui (Chinese Angelica root). Bu Gu Zhi (Psoralea fruit) may be teratogenic in excessively large doses. Xian Mao (Curculigo rhizome) has slight toxicity and is not suitable for use during pregnancy. The formula is intended strictly for pre-conception support to improve ovarian reserve and egg quality, and should be discontinued as soon as pregnancy is confirmed or suspected. Any woman actively trying to conceive while taking this formula should consult a qualified TCM practitioner for guidance on timing of discontinuation.
+
+### Breastfeeding
+Use with caution during breastfeeding. While there is no specific classical prohibition, several herbs in this formula warrant careful consideration. Xian Mao (Curculigo rhizome) has mild toxicity and its safety profile during lactation is not well established. Bu Gu Zhi (Psoralea fruit) has been associated with hepatotoxicity in some reports, raising concerns about potential transfer of harmful metabolites through breast milk. Dan Shen (Salvia root) is a Blood-invigorating herb whose effects on breast milk composition are not well studied. Given that this formula is designed for pre-conception fertility support rather than postpartum use, it is generally not indicated during the breastfeeding period. Women who are nursing should consult a qualified TCM practitioner before using this formula.
+
+### Children
+Not applicable. Chu Luan Fang is specifically formulated for adult women of reproductive age to support ovarian reserve and fertility. It contains Kidney Yang warming herbs (Bu Gu Zhi, Xian Mao, Yin Yang Huo) and Blood-invigorating herbs that are inappropriate for children. This formula should not be given to pediatric patients under any circumstances.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications (e.g. warfarin, heparin, aspirin, clopidogrel): Dan Shen (Salvia root), Chuan Xiong (Chuanxiong rhizome), and Dang Gui (Chinese Angelica root) all have Blood-invigorating properties and known anticoagulant or antiplatelet pharmacological effects. Dan Shen in particular is well documented to interact with warfarin, potentially increasing INR and bleeding risk. Concurrent use should be closely monitored or avoided.
+Hormone replacement therapy (HRT) and oral contraceptives: Yin Yang Huo (Epimedium) contains icariin, which has phytoestrogenic activity. Bu Gu Zhi (Psoralea) is high in genistein, an isoflavone with estrogen-like effects. These may interact with exogenous hormone therapies or hormonal fertility medications (e.g. clomiphene, letrozole, gonadotropins), potentially altering their efficacy. Coordination with both the TCM practitioner and reproductive endocrinologist is advisable.
+Hepatotoxic medications: Bu Gu Zhi (Psoralea fruit) has been associated with cases of drug-induced liver injury. Concurrent use with other potentially hepatotoxic drugs (e.g. acetaminophen at high doses, statins, methotrexate, certain antibiotics) may increase the risk of liver damage. Liver function monitoring is recommended.
+Gan Cao (Licorice root): Glycyrrhizin in Gan Cao may interact with corticosteroids (potentiating their effects), antihypertensives (causing fluid retention and elevated blood pressure through mineralocorticoid-like activity), and digoxin (through hypokalemia risk). Although Gan Cao is likely present in small amounts in this formula, individuals on these medications should exercise caution.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Dissolved in warm water, taken 2-3 times daily between meals (approximately 30-60 minutes before or after eating).
+- **Typical Duration**: Often taken for 2-3 menstrual cycles (approximately 2-3 months), then reassessed by a practitioner. May be continued longer depending on individual response and fertility treatment timeline.
+- **Dietary Advice**: Favor warm, nourishing, and easily digestible foods that support Kidney Essence and Blood production: bone broth, black sesame seeds, walnuts, goji berries, black beans, eggs, dark leafy greens, and small amounts of high-quality protein. Foods traditionally considered beneficial for fertility, such as royal jelly and seaweed, may also complement the formula's effects.
+Avoid cold and raw foods (salads, iced drinks, raw sushi) which can impair Spleen function and hinder the production of Blood and Essence. Reduce consumption of excessively greasy, fried, or heavily processed foods which generate Dampness and impede circulation. Limit caffeine and alcohol, as both can deplete Kidney Jing and Liver Blood. Avoid excessively spicy foods which may generate internal Heat and counteract the formula's balanced warming strategy.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/chu-luan-fang](https://www.meandqi.com/knowledge-base/formulas/chu-luan-fang)*

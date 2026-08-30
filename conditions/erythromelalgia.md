@@ -1,0 +1,206 @@
+# Erythromelalgia (红斑性肢痛症)
+**Pinyin**: hóng bān xìng zhī tòng zhèng | **Kind**: Condition | **Category**: Skin Conditions, Feeling Hot & Heat Intolerance  
+**Synonyms**:  | **Body Regions**: 
+
+---
+
+## Preview Summary
+Bright red, burning flares that worsen with heat point to excess Heat agitating the blood, while deep purple patches with fixed, stabbing pain signal stagnant blood generating its ...
+
+---
+
+## Conventional Medicine View
+### Description
+Erythromelalgia is a rare neurovascular disorder characterized by episodes of intense burning pain, redness, and increased skin temperature, most often affecting the feet and hands. Symptoms are triggered or worsened by warmth, exercise, or prolonged standing, and patients typically seek relief by cooling the affected limbs. The condition can be primary (idiopathic) or secondary to underlying disorders such as myeloproliferative diseases, neuropathy, or autoimmune conditions.
+Diagnosis is clinical, based on the characteristic history and appearance, though tests may be done to rule out secondary causes. Western medicine views the problem as a dysfunction of the small blood vessels and nerves that control blood flow and pain signaling, often involving abnormal opening of arteriovenous shunts and heightened sensitivity of pain‑sensing neurons.
+
+### Treatments
+Standard management focuses on avoiding triggers such as heat and tight footwear, and using cooling measures like fans, cold water soaks, or ice packs. Medications may include topical analgesics, aspirin (particularly for myeloproliferative‑linked cases), gabapentin, pregabalin, or sodium channel blockers like mexiletine. In severe cases, intravenous lidocaine or nerve blocks are used. However, many patients find that available treatments provide only partial relief and that the condition remains a chronic, disabling challenge.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, the intense burning, redness, and swelling of erythromelalgia are understood as a disturbance of Heat and Blood. The Heart governs the blood vessels, the Liver stores and regulates blood, and the Spleen manages the transformation and transport of body fluids. When any of these systems is out of balance, Heat can accumulate in the blood, Dampness can obstruct the channels, or the cooling Yin of the body can become depleted - all of which can produce the characteristic burning pain in the hands and feet.
+The type of Heat and where it lodges tells the story. Excess Heat at the Blood level is like a fire burning under the skin: the redness is bright, the pain is intense and throbbing, and warmth makes everything worse. When blood flow becomes sluggish and congealed, it creates a different picture - deep purple patches, a fixed stabbing pain, and a sensation of trapped heat that cannot escape. This stagnant blood itself generates heat, creating a vicious cycle.
+Dampness adds another layer. When Damp-Heat settles into the channels of the limbs, the feet and hands become swollen, heavy, and achy in addition to burning. This pattern often feels worse in humid weather. At the other end of the spectrum, when the body's cooling Yin fluids run low, a different kind of heat appears - a dry, deep burning that flares at night, accompanied by night sweats and a peeled tongue. This empty fire is not as violent as excess Heat, but it is persistent and exhausting.
+Because erythromelalgia can arise from such different root imbalances, TCM does not treat it with a single formula. The same burning feet might need blood‑cooling herbs for one person, blood‑moving herbs for another, or Yin‑nourishing herbs for a third. Identifying the correct pattern through the tongue, pulse, and detailed symptom history is what makes treatment effective.
+
+### Practitioner Diagnosis
+A TCM practitioner begins by looking at the color and quality of the redness. When it is bright red, flares suddenly, and feels intensely hot and burning, Heat in the Blood is the leading suspect. The skin may be swollen and tender, and the pain worsens noticeably with warmth. The tongue is red with a yellow coating, and the pulse feels rapid and forceful.
+If the patches are a deeper, dark red or purplish color and the burning pain is fixed in one spot rather than moving, Blood Stagnation with Heat is more likely. The pain may feel throbbing or stabbing, and it gets worse when the area is warmed. The tongue often shows a dark red body with purple spots, and the pulse can feel wiry or choppy.
+When swelling, a heavy sensation, and joint aches accompany the redness, the practitioner considers Damp-Heat obstructing the channels. The discomfort may move around, and humidity or damp weather can make it worse. The tongue is red with a thick, greasy yellow coat, and the pulse is slippery and rapid. This pattern often settles in the lower legs and feet.
+Recurrent, milder episodes with dry skin and a low-grade burning that feels worse at night point toward Empty-Heat from Yin Deficiency. There may be a dry mouth, night sweats, or a feeling of heat in the palms and soles. The tongue is red with little or no coating, and the pulse is thin and rapid. This pattern is less common and tends to appear in chronic, long-standing cases.
+
+### Classical Reference
+> **Original**: 「其热者，阳气多，阴气少，病气胜，阳遭阴，故为痹热。」
+> 
+> **Translation**: "In heat bi, there is an excess of yang qi and a deficiency of yin qi; when the pathogenic qi prevails, yang encounters yin, resulting in bi with heat. This describes the mechanism of heat obstruction causing burning pain and redness in the limbs, akin to erythromelalgia."
+> 
+> — Source: *Huang Di Nei Jing Su Wen  ,  Chapter 43 (Bi Lun) 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Heat in the Blood
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/heat-in-the-blood)*
+
+- **Clinical Signs & Symptoms**: Bright red or crimson skin eruptions, Burning pain worse at night, Sensation of internal heat, Restlessness and thirst for cold drinks, Deep red tongue with prickles, Rapid, forceful pulse
+- **Worse with**: Hot weather or warm environment, Spicy food and alcohol, Emotional stress, Hot baths or exercise that heats the body
+- **Better with**: Cool environment, Cooling foods and drinks, Rest, Cool compresses
+- **Why this happens (Mechanism)**:
+  When excess Heat invades the Blood level, it agitates the vessels and drives blood recklessly to the surface, causing the intense redness, swelling, and burning pain of erythromelalgia. This deep-level Heat also consumes body fluids, leading to thirst and restlessness. The condition worsens with warmth because external heat fuels the internal fire, while the heat naturally intensifies at night as Yin energy fails to cool the blood.
+- **Tongue & Pulse**: Tongue: red to deep red with red spots or prickles, thin yellow dry coating. Pulse: rapid (数 shuò), wiry (弦 xián) or slippery (滑 huá), and forceful.
+- **Triggers & Relief Explanation**: Heat in the Blood is a pattern of excess internal Heat. Anything that adds more Heat-spicy foods, alcohol, hot weather, or emotional anger-directly fans the flames and triggers a flare. Cooling measures work by counteracting that Heat: cool foods and environments help drain the excess, while rest and emotional calm prevent the agitation of blood that causes the burning redness. At night, when Yin is meant to predominate, the lack of cooling Yin allows Heat to surface more intensely, so keeping the body cool at night is especially helpful.
+- **Diet & Lifestyle**: Avoid spicy, greasy, and fried foods, alcohol, and coffee-all of which add Heat to the body. Eat cooling foods like cucumber, watermelon, mung beans, and pears. Keep the living environment cool and wear loose, breathable clothing. Apply cool (not ice-cold) compresses to affected areas during flares. Practice gentle stress management like meditation, as emotional upset can stir Liver fire and worsen the condition.
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Shui Niu Jiao](https://www.meandqi.com/knowledge-base/herbs/shui-niu-jiao)** | Water buffalo horn |  | Clears Heat from the Blood and resolves fire toxicity, substituting for the traditional rhinoceros horn. |
+| **[Chi Shao](https://www.meandqi.com/knowledge-base/herbs/chi-shao)** | Red peony root |  | Cools the blood and invigorates circulation to ease the redness and pain. |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark |  | Clears Heat and cools the blood, with additional ability to resolve stasis. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood point; cools and regulates the blood to calm the burning sensation. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Clears Heat from the body and cools the blood, reducing overall inflammation. |
+| **DU-14** | [Dazhui DU-14](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/dazhui-du-14) | D&#xE0; Chu&#xED; | Clears Wind-Heat, Releases the Exterior | The meeting point of all Yang channels; drains intense Heat from the body. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | Clears Liver fire if irritability and restlessness accompany the flare. |
+
+---
+
+### Blood Stagnation with Heat
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/blood-stagnation-with-heat)*
+
+- **Clinical Signs & Symptoms**: Dark red or purplish-red skin patches, Fixed, stabbing pain rather than diffuse burning, Pain worsens with heat, Sensation of internal heat, Dry, rough skin on the affected areas, Irritability and agitation
+- **Worse with**: Hot weather or warm environment, Alcohol, Spicy, greasy, or fried foods, Prolonged standing or walking, Emotional stress, Tight shoes or socks
+- **Better with**: Cool environment, Elevating the limbs, Gentle movement, Cool compresses, Loose, breathable footwear
+- **Why this happens (Mechanism)**:
+  When blood flow becomes sluggish and congealed, it creates local stagnation that generates heat. This trapped heat further thickens the blood and intensifies the blockage, leading to deep red or purplish patches on the skin. In erythromelalgia, the fixed, stabbing burning pain is a direct result of heat trapped in stagnant blood, and warmth makes it worse by expanding the vessels and aggravating the stasis.
+- **Tongue & Pulse**: Tongue: reddish-purple body with stasis spots, thin dry yellow coat. Pulse: choppy (涩 sè) and rapid (数 shuò), possibly wiry.
+- **Triggers & Relief Explanation**: Heat and alcohol add more heat to an already overheated system, intensifying blood stasis and pain. Cooling the environment and using cool compresses help clear that heat, but extreme cold can cause vessels to contract and worsen stasis, so gentle cooling is best. Elevating the limbs reduces blood pooling and eases the throbbing. Gentle movement encourages circulation without generating excessive heat, while prolonged standing increases pressure and stasis. Stress and spicy foods stir up internal heat and Qi stagnation, fueling the cycle of heat and stasis.
+- **Diet & Lifestyle**: Keep the affected limbs cool but avoid ice-cold applications that could constrict blood vessels and worsen stasis. Eat cooling, blood-moving foods like celery, cucumber, eggplant, and small amounts of vinegar. Avoid alcohol, spicy foods, and red meat, which can generate heat and thicken the blood. Gentle, non-weight-bearing exercise like swimming or cycling can promote circulation without overheating. Elevate the limbs when resting to reduce swelling and pain.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Si Miao Yong An Tang](https://www.meandqi.com/knowledge-base/formulas/si-miao-yong-an-tang)** | Four Valiant Ingredients Decoction for Well-Being &#xB7; Q&#x12B;ng dynasty, 1846 CE | Cold, Clears Heat and Resolves Toxicity, Invigorates Blood and Dispels Stasis, Alleviates Pain | Clears heat, cools blood, and invigorates blood to break up stasis and relieve pain in the extremities. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Chi Shao](https://www.meandqi.com/knowledge-base/herbs/chi-shao)** | Red peony root |  | Cools the blood and invigorates blood circulation to relieve stasis and pain. |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Moves blood and cools heat, especially for heat-induced stasis with pain. |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark |  | Clears heat and cools blood while resolving stasis, reducing redness and swelling. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood, cools blood and invigorates circulation, essential for any blood stasis with heat. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Moves Liver Qi and blood, helping to break up stasis and clear heat. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Clears heat from the body and cools the blood, relieving the burning sensation. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates blood and calms the spirit, used for pain and restlessness. |
+
+---
+
+### Painful Obstruction due to Damp Heat in Channels
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/painful-obstruction-due-to-damp-heat-in-channels)*
+
+- **Clinical Signs & Symptoms**: Swollen, red, hot hands or feet, Heavy, aching sensation in the limbs, Pain worsens with heat, Joint pain and stiffness
+- **Worse with**: Hot weather or warm environment, Spicy, greasy, or fried foods, Alcohol, Prolonged standing or walking, Emotional stress
+- **Better with**: Cool compresses, Rest, Drinking plenty of water, Light, non-greasy meals
+- **Why this happens (Mechanism)**:
+  When Dampness and Heat combine and lodge in the channels, they obstruct the flow of Qi and Blood. This obstruction causes the characteristic swelling, redness, and burning pain in the hands and feet. The heavy, aching sensation comes from Dampness weighing the limbs down, while the intense heat and redness are driven by the Heat component.
+- **Tongue & Pulse**: Tongue: red body, possibly slightly swollen, with a yellow greasy coating. Pulse: slippery (滑 huá) and rapid (数 shuò).
+- **Triggers & Relief Explanation**: Heat and Dampness combine to obstruct the channels, causing pain and swelling. Cooling and drying measures counteract this, while hot, humid, and heavy foods or environments aggravate the condition.
+- **Diet & Lifestyle**: Avoid hot, spicy, greasy, and sweet foods that create Damp-Heat. Eat cooling, light foods like cucumber, celery, mung beans, and watermelon. Keep affected limbs cool but avoid extreme cold. Gentle stretching and walking help move Qi and reduce stagnation.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xuan Bi Tang](https://www.meandqi.com/knowledge-base/formulas/xuan-bi-tang)** | Obstruction-Relieving Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Clears Heat and Drains Dampness, Unblocks the Channels and Collaterals, Relieves Painful Obstruction | Clears Heat and eliminates Dampness from the channels, relieving joint pain and swelling. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Fang Ji](https://www.meandqi.com/knowledge-base/herbs/fang-ji)** | Fourstamen Stephania Root |  | Drains Dampness and relieves pain in the channels. |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed |  | Leaches out Dampness and clears Heat. |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit |  | Clears Heat and disperses stagnation. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **GB-34** | [Yanglingquan GB-34](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34) | Y&#xE1;ng L&#xED;ng Qu&#xE1;n | Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder | Reduce. Clears Heat and drains Dampness from the channels, benefits the sinews. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Reduce. Resolves Dampness and clears Heat. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Reduce. Regulates Qi and drains Dampness. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Burning pain worse at night, Dry, peeling skin rather than swollen, inflamed skin, Night sweats, Heat in palms, soles, and chest (five-palm heat), Dry mouth and throat with desire to sip water, Malar flush (red cheekbones)
+- **Worse with**: Late nights and overwork, Spicy food and alcohol, Emotional stress, Hot weather or warm environment
+- **Better with**: Cool environment, Rest, Hydrating, moistening foods, Gentle movement
+- **Why this happens (Mechanism)**:
+  When the body's cooling, moistening Yin fluids are depleted, the relative Yang energy becomes unchecked and creates a state of 'empty fire.' This fire rises and flares, particularly at night when Yin should be dominant, causing a deep, dry burning sensation in the extremities. Unlike the intense, inflamed redness of full heat patterns, the skin here is often dry, and the discomfort is accompanied by a feeling of internal heat and restlessness.
+- **Tongue & Pulse**: Tongue: Red, thin, and dry with cracks, and little to no coating. Pulse: Fine (thin) and rapid, feeling weak on deep pressure.
+- **Triggers & Relief Explanation**: Empty heat arises because there isn't enough Yin to balance the body's Yang energy. Activities that consume Yin, like staying up late, overworking, or eating drying foods, directly worsen the condition by further depleting the body's cooling reserves. Conversely, rest, hydration, and cooling environments help to preserve and rebuild Yin, which naturally calms the empty fire and soothes the burning sensation.
+- **Diet & Lifestyle**: Prioritize deeply nourishing, moistening foods like bone broths, pears, black sesame, and tofu. Avoid spicy, drying foods and alcohol, as these directly consume Yin fluids. Going to bed early is crucial, as the hours before midnight are when the body naturally regenerates its Yin.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | The classic formula to nourish Kidney Yin and drain empty fire, cooling the deep-seated heat that flares at night. |
+| **[Si Miao Yong An Tang](https://www.meandqi.com/knowledge-base/formulas/si-miao-yong-an-tang)** | Four Valiant Ingredients Decoction for Well-Being &#xB7; Q&#x12B;ng dynasty, 1846 CE | Cold, Clears Heat and Resolves Toxicity, Invigorates Blood and Dispels Stasis, Alleviates Pain | A focused, four-herb formula designed to clear intense toxic heat from the blood vessels while restoring healthy blood circulation. Originally created for gangrene of the fingers and toes, it is now widely used for inflammatory vascular conditions such as Buerger&#x27;s disease, deep vein thrombosis, diabetic foot ulcers, and atherosclerosis when there are signs of heat, inflammation, and pain. The formula uses a small number of herbs in large doses for concentrated, powerful action. |
+| **[Xuan Bi Tang](https://www.meandqi.com/knowledge-base/formulas/xuan-bi-tang)** | Obstruction-Relieving Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Clears Heat and Drains Dampness, Unblocks the Channels and Collaterals, Relieves Painful Obstruction | A classical formula designed to clear Damp-Heat from the channels and joints. It is commonly used for hot, swollen, painful joints with restricted movement, fever and chills, and a yellow greasy tongue coating. Often applied in conditions like gouty arthritis, rheumatoid arthritis, and other inflammatory joint diseases caused by the accumulation of dampness and heat in the body&#x27;s meridian pathways. |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome |  | Clears heat and nourishes Yin, particularly effective for the steaming bone sensation and night sweats. |
+| **[Shui Niu Jiao](https://www.meandqi.com/knowledge-base/herbs/shui-niu-jiao)** | Water buffalo horn | Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors |  |
+| **[Chi Shao](https://www.meandqi.com/knowledge-base/herbs/chi-shao)** | Red peony root | Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire |  |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark | Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[Fang Ji](https://www.meandqi.com/knowledge-base/herbs/fang-ji)** | Fourstamen Stephania Root | Cold, Dispels Wind-Dampness and Alleviates Pain, Promotes Urination and Reduces Edema, Clears Heat from the Lower Jiao |  |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed | Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain |  |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit | Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat |  |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome | Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The Source point of the Kidney channel, used to deeply nourish Yin and anchor the empty fire. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Strengthens the Spleen and Kidneys to support the generation of Yin fluids. |
+| **KI-7** | [Fuliu KI-7](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/fuliu-ki-7) | F&#xF9; Li&#x16B; | Resolves Dampness, Tonifies Kidneys | The &#x27;Returning Current&#x27; point, specifically used to tonify Kidney Yin and clear deficiency heat. |
+
+---
+
+## Frequently Asked Questions
+### Can TCM cure erythromelalgia?
+Erythromelalgia is a chronic condition, and the goal of TCM treatment is to significantly reduce the frequency, intensity, and duration of flares - not necessarily to erase the predisposition forever. Many patients achieve long periods of remission and a dramatic improvement in quality of life, especially when treatment is tailored to their specific pattern. The earlier you begin, the better the outlook, but even long‑standing cases often respond well.
+
+### How long does it take to see results?
+Most patients notice a reduction in the severity of their burning pain within the first 4 to 8 weeks of taking herbs and receiving weekly acupuncture. Excess patterns like Heat in the Blood tend to respond more quickly, while patterns involving Blood Stagnation or Yin Deficiency may need several months. Consistency is key - missing doses or sessions can slow progress.
+
+### What does acupuncture feel like for this kind of burning pain?
+Acupuncture for erythromelalgia is typically gentle, with thin needles placed at points on the legs, arms, and sometimes the back to cool the blood and move stagnation. You may feel a mild ache or tingling, but the treatment itself is not painful. Many patients find that the burning in their hands and feet begins to calm during or shortly after the session.
+
+### Can I combine TCM with my current medications?
+Yes, TCM is often used alongside conventional treatments such as gabapentin or aspirin. However, many herbs that cool the blood and move stagnation have mild blood‑thinning effects, so it is very important to tell both your TCM practitioner and your prescribing doctor about all medications you take. Do not stop any prescribed medication without medical guidance. Your practitioners can work together to adjust doses safely as your symptoms improve.
+
+### Will I need to change my diet?
+Diet plays a supportive role. In general, you will be advised to avoid spicy, greasy, and fried foods that generate Heat, as well as alcohol and excessive caffeine. Cooling foods like cucumber, watermelon, mung beans, and leafy greens are encouraged. If your pattern involves Yin Deficiency, moistening foods such as pears and black sesame seeds may be particularly helpful.
+
+### Is TCM safe during a severe flare‑up?
+Yes, acute treatment can be given to calm a flare, often using acupuncture and herbs that specifically cool the blood and relieve pain. However, if you develop signs of infection, skin breakdown, or a sudden, dramatic worsening of symptoms, seek urgent medical care first. TCM can then be used to stabilize and prevent future episodes once the acute crisis has passed.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/erythromelalgia](https://www.meandqi.com/knowledge-base/conditions/erythromelalgia)*

@@ -1,0 +1,158 @@
+# Jing Mi (粳米)
+**English Name**: Non-glutinous rice  
+**Category**: Qi-tonifying herbs (补气药)  
+**Scientific Name**: Oryza sativa L.  
+**Pharmaceutical Name**: Semen Oryzae  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Spleen, Stomach, Lungs  
+**Parts Used**: Seed (种子 zhǒng zǐ / 子 zǐ / 仁 rén)  
+
+---
+
+## Summary
+Jīng Mǐ is short-grain non-glutinous rice, one of the most ancient and gentle medicines in the Chinese tradition. It strengthens digestion, relieves thirst and irritability, and stops diarrhea. In herbal formulas, it often serves as a stomach protector, cushioning the digestive system from stronger, harsher medicinals. Rice porridge made from Jīng Mǐ has been called 'the foremost nourishing food in the world' and is especially suitable for those recovering from illness, the elderly, and young children.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Post-Illness Recovery, Hydration and Thirst Relief, Diarrhea Relief
+- **TCM Actions**: Tonifies the Middle and Augments Qi, Strengthens the Spleen and Harmonizes the Middle, Eliminates Irritability and Relieves Thirst, Stops Dysentery, Generates Fluids, Protects the Stomach
+
+### How these actions work
+'Tonifies the Middle and boosts Qi' means Jīng Mǐ nourishes the Spleen and Stomach (the 'Middle Burner'), which are the body's main source of Qi and nourishment from food. It is one of the gentlest Qi tonics available, suitable for people who are weak, recovering from illness, or elderly. Classical texts describe it as 'the foremost substance for nourishing people,' and concentrated rice porridge water (called 'rice oil' or 'porridge oil') was historically used as a substitute for ginseng decoctions in impoverished patients with deficiency conditions.
+'Strengthens the Spleen and harmonizes the Stomach' means it supports healthy digestion by gently nourishing the Spleen's ability to transform food and the Stomach's ability to receive it. Because it is Neutral in temperature and sweet in taste, it neither heats nor cools the digestive system, making it safe for nearly anyone. In herbal formulas, this property is used strategically: Jīng Mǐ protects the Stomach from harsh cold or bitter medicinals. For example, in Bái Hǔ Tāng (White Tiger Decoction), it prevents the strongly cold Shí Gāo (gypsum) from damaging the Stomach.
+'Relieves irritability and thirst' refers to its ability to generate Body Fluids through its sweet, nourishing quality. When febrile illness damages the body's fluids, causing thirst and restlessness, Jīng Mǐ helps replenish those fluids from the source by supporting the Stomach's fluid-producing function. 'Stops diarrhea and dysentery' reflects its ability to consolidate the intestines by strengthening Spleen Qi, which controls the body's ability to hold substances in place and transform fluids properly.
+
+---
+
+## Patterns Addressed
+### Spleen Qi Deficiency
+- **Explanation**: Jīng Mǐ is sweet and Neutral, entering the Spleen and Stomach channels, which makes it one of the gentlest and most fundamental Qi tonics. In Spleen Qi Deficiency, the Spleen's ability to transform food into nourishment is weakened. Jīng Mǐ directly nourishes the Spleen with its sweet flavour (sweet is the taste associated with the Spleen in five-phase theory), and its gentle nature means it can be used even when the digestive system is too weak to handle richer tonics. Classical physicians noted that concentrated rice porridge could substitute for ginseng decoctions in deficiency conditions, highlighting how powerfully it supports the Spleen.
+- **Clinical Signs & Symptoms**:
+
+### Stomach Yin Deficiency
+- **Explanation**: Jīng Mǐ enters the Stomach and Lung channels and has a fluid-generating quality that supports Stomach Yin. When Stomach Yin is depleted (often after febrile illness or from chronic dryness), the Stomach loses its ability to produce fluids, leading to thirst, dry mouth, and irritability. Jīng Mǐ's sweet, neutral nature gently generates fluids without introducing excessive cold. This is precisely why it appears in formulas like Zhú Yè Shí Gāo Tāng and Mài Mén Dōng Tāng, where it helps rebuild the Stomach's fluid-producing capacity after febrile disease has damaged Yin and fluids.
+- **Clinical Signs & Symptoms**:
+  - **Thirst**: Persistent thirst after febrile illness
+
+### Spleen and Stomach Qi Deficiency
+- **Explanation**: Though Jīng Mǐ is Neutral rather than Warm, its gentle sweet nourishment supports the Middle Burner when it is weakened by Cold. In formulas for Spleen and Stomach Deficiency Cold (such as Fù Zǐ Jīng Mǐ Tāng), Jīng Mǐ provides mild nourishment to the Stomach while warming herbs like Fù Zǐ address the Cold directly. Jīng Mǐ's role is to harmonize the Middle, preventing the harsh warming herbs from damaging the already weakened Stomach, and to provide a gentle caloric foundation that the weakened digestive system can absorb.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Diarrhea
+- **Arises from**: Spleen Qi Deficiency, Spleen and Stomach Qi Deficiency
+- **TCM Interpretation**: In TCM, chronic diarrhea is most often traced to a weakened Spleen. The Spleen is responsible for 'transforming and transporting' food and fluids. When Spleen Qi is deficient, it cannot properly separate the clear (usable nutrients) from the turbid (waste), leading to watery or loose stools. If Cold also invades the Middle Burner, it further impairs the Spleen's warming, transforming function, making the diarrhea worse and often accompanied by cold abdominal pain.
+- **Why it Helps**: Jīng Mǐ directly nourishes the Spleen and Stomach with its sweet, neutral nature. Unlike stronger tonics, it is gentle enough for a digestive system that is already weakened and struggling to absorb nutrients. Its ability to 'stop diarrhea' is not through binding or astringency, but by restoring the Spleen's fundamental capacity to transform fluids, addressing the root cause. In formulas like Táo Huā Tāng (for chronic dysentery with blood), Jīng Mǐ nourishes and harmonizes the Stomach while the other ingredients address the Cold and stop the bleeding.
+
+### Loss of appetite
+- **Arises from**: Spleen Qi Deficiency
+- **TCM Interpretation**: Poor appetite in TCM is typically a sign that the Spleen and Stomach are not functioning well. The Stomach is responsible for 'receiving' food and the Spleen for 'transforming' it. When either organ is weakened, the desire for food diminishes because the body cannot process what it receives. This is often seen in the elderly, after illness, in young children, or in people with chronic digestive weakness.
+- **Why it Helps**: Jīng Mǐ, especially in porridge form, is easily digested and absorbed, making it ideal for a weakened Stomach that cannot handle heavier foods or medicines. Its sweet taste naturally 'harmonizes' the Stomach, gently stimulating appetite without burdening the digestive system. Classical physicians prized rice porridge as the single best food for convalescence, recognizing that it could rebuild digestive function from the ground up when the body was too weak for anything else.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-30g (when used as a medicinal ingredient in decoction)
+- **Maximum Dosage**: No strict upper limit when used as food; when used medicinally in decoction, typically does not exceed 30g as an ingredient in a formula.
+- **Dosage Notes**: When used as a supporting ingredient in formulas like Bai Hu Tang or Mai Men Dong Tang, Jing Mi is typically used at 9-15g to protect the Stomach and generate fluids. When used as congee (rice porridge) for dietary therapy, a larger amount (50-100g of dry rice) is cooked with ample water. The Ben Cao Gang Mu distinguishes between varieties: northern-grown rice is considered cooler and more suitable for medicinal use, while southern-grown rice is considered warmer. Late-harvest white rice is preferred for medicinal applications. Toasted or dry-fried rice (chao mi) has a different character, being more warming and drying, and is indicated for Dampness and loose stools but should be avoided in Yin-deficient or dry constitutions.
+- **Preparation**: When Jing Mi is included in a decoction formula (such as Bai Hu Tang), it is typically added together with the other herbs and decocted for the full duration. When used to make medicinal congee, the rice is cooked with a large amount of water (typically 1 part rice to 6-8 parts water) over low heat for 1-2 hours until thoroughly broken down. The thick liquid layer on top (called mi you 米油 or 'rice oil') is considered the most nourishing part. In some classical preparations, rice is dry-fried (chao) before use to make it more warming and astringent for treating diarrhea.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o J&#x12B;ng M&#x1D0; (&#x7092;&#x7CB3;&#x7C73;)
+- **Processing Method**: Dry stir-fried in a wok over medium heat until golden-brown and fragrant. No additional materials are added.
+- **How it Changes Properties**: Stir-frying shifts the thermal nature from Neutral toward Warm, and adds a drying quality. The sweet taste becomes more aromatic and fragrant. The Stomach-harmonizing action is enhanced, and a new property of 'removing Dampness' is added. Classical sources note that stir-fried rice becomes drying and can assist fire, so it should only be used when there is Cold and Dampness, not in dry or heat conditions.
+- **When to Use**: Used for Middle Burner Cold with Dampness causing diarrhea, or for infant vomiting of milk. The warming, drying properties are useful when the raw form's neutral nature is insufficient to address Cold-Damp diarrhea. The Ben Cao Gang Mu notes its use as 'benefits the Stomach and removes Dampness.' Contraindicated when there is Heat or Yin Deficiency.
+
+---
+
+## Common Herb Pairs
+### Shi Gao (Ratio: Sh&#xED; G&#x101;o 30g : J&#x12B;ng M&#x1D0; 6-9g)
+- **Description**: Jīng Mǐ and Shí Gāo together clear intense Heat from the Qi level while protecting the Stomach. Shí Gāo is powerfully cold and could damage the Stomach if used alone. Jīng Mǐ's sweet, neutral nature cushions the Stomach from Shí Gāo's harsh coldness and helps the medicinal properties linger in the Middle Burner rather than passing through quickly, increasing their effectiveness.
+- **When to Use**: High fever with intense thirst, heavy sweating, and a strong forceful pulse, as seen in Yáng Míng Qi-level Heat patterns. This is the core combination of Bái Hǔ Tāng.
+
+### Mai Dong (Ratio: M&#xE0;i M&#xE9;n D&#x14D;ng 15-24g : J&#x12B;ng M&#x1D0; 6-9g)
+- **Description**: Jīng Mǐ and Mài Mén Dōng together nourish Stomach Yin and generate Body Fluids. Mài Mén Dōng directly moistens and nourishes Yin in the Lung and Stomach, while Jīng Mǐ supports the Stomach's own fluid-producing capacity from the digestive source. Together they address both the symptom (dryness) and the root (weakened Stomach function).
+- **When to Use**: Dry cough with scanty sputum, thirst, and a dry throat after febrile illness or from chronic Stomach Yin Deficiency. This is the core dynamic in Mài Mén Dōng Tāng.
+
+### Zhi Fu Zi (Ratio: F&#xF9; Z&#x1D0; 6-10g : J&#x12B;ng M&#x1D0; 15-30g)
+- **Description**: Jīng Mǐ and Fù Zǐ together warm the Middle Burner while protecting the Stomach. Fù Zǐ is intensely hot and can be harsh on a weakened digestive system. Jīng Mǐ provides gentle nourishment that buffers the Stomach from Fù Zǐ's strong warming action, allowing the Yang-restoring effect to work without causing further damage.
+- **When to Use**: Cold abdominal pain with vomiting and borborygmus (intestinal rumbling) from Spleen and Kidney Yang Deficiency. This is the core pairing in Fù Zǐ Jīng Mǐ Tāng.
+
+### Chi Shi Zhi (Ratio: Ch&#xEC; Sh&#xED; Zh&#x12B; 30g : J&#x12B;ng M&#x1D0; 15-30g)
+- **Description**: Jīng Mǐ and Chì Shí Zhī together stop chronic dysentery. Chì Shí Zhī is astringent and warm, directly binding the intestines to stop diarrhea with blood and mucus. Jīng Mǐ nourishes the weakened Stomach and Spleen, addressing the underlying deficiency that allows the dysentery to persist, while preventing Chì Shí Zhī's astringent nature from trapping pathogenic residues.
+- **When to Use**: Chronic dysenteric diarrhea with blood and mucus that does not respond to other treatments, as in Táo Huā Tāng from the Shāng Hán Lùn.
+
+---
+
+## Key Formulas
+Bai Hu Tang, Zhu Ye Shi Gao Tang, Mai Men Dong Tang, Tao Hua Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Situations where Jing Mi should not be used or requires extra caution
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe during pregnancy. Jing Mi is a staple food with a neutral, gentle nature and has been traditionally recommended for pregnant women, particularly as congee. Classical formulas for pregnancy-related conditions sometimes include Jing Mi (for example, a classical combination with Huang Qi for abnormal vaginal discharge during pregnancy). No known mechanisms of concern regarding uterine stimulation or teratogenicity.
+- **Breastfeeding**: Considered safe and beneficial during breastfeeding. Rice congee has been traditionally recommended for postpartum women in China as a gentle, nourishing food that supports recovery and milk production. The rice porridge layer (mi you or 'rice oil') that forms on top of well-cooked congee is considered especially nourishing for new mothers. Jing Mi is also used in classical formulas to promote lactation, such as a combination with glutinous rice, lettuce seeds, and Gan Cao.
+- **Children**: Jing Mi is one of the safest and most suitable herbs for children of all ages, including infants. Rice congee (zhou) is a traditional first food for weaning infants and is widely used as a gentle restorative food for sick children. For children with diarrhea, vomiting, or poor appetite, thin rice congee provides easily digestible nourishment that supports the Spleen and Stomach without burdening digestion. No specific dosage adjustment is needed when used as food. When used as a medicinal ingredient in decoction for children, standard pediatric dosage reduction principles apply (roughly one-third to one-half of the adult dose depending on age).
+
+### Drug Interactions
+No significant drug interactions are documented for Jing Mi when used in standard medicinal dosages. As a staple grain food, it is one of the safest medicinal substances. However, because polished white rice has a high glycemic index, individuals taking diabetes medications (insulin, sulfonylureas, metformin, etc.) should be aware that large amounts of rice congee may affect blood sugar levels and potentially require adjustment of medication timing or dosage. This is a dietary consideration rather than a pharmacological herb-drug interaction.
+
+### Dietary Advice
+When taking Jing Mi as congee for Spleen and Stomach support, avoid eating cold or raw foods, icy drinks, and greasy or heavy foods alongside it, as these can counteract the gentle warming and nourishing effect. Those using rice congee for recovery from illness should keep meals simple and bland, gradually reintroducing richer foods. Classical texts note that rice congee is best prepared with fresh well or spring water for optimal flavour and effect. Avoid eating Jing Mi with Cang Er (Xanthium) according to classical food compatibility guidelines.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Jing Mi is the dehusked seed of Oryza sativa L. subsp. japonica (Poaceae family), commonly known as japonica rice or round-grain rice. The rice plant is an annual aquatic grass with erect, hollow culms (stems) growing 0.5 to 1.5 metres tall. The leaves are linear-lanceolate, roughly 40 cm long and about 1 cm wide, with a rough surface. The plant produces large, open panicle inflorescences with small spikelets, each containing a single fertile floret enclosed in thick, hairy lemma and palea. After pollination, the grain (caryopsis) develops inside the husk.
+Compared to indica (long-grain) rice, japonica rice plants are shorter and sturdier with more compact growth, narrower and darker green leaves, shorter leaf blades held at smaller angles to the stem, and stronger stalks that resist lodging (falling over). The grains are characteristically short, round, and plump, with moderate stickiness when cooked, falling between the very sticky glutinous rice and the drier, fluffy indica rice.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late summer to autumn (August through October), with early varieties harvested in June to July, mid-season varieties in August to September, and late varieties in October.
+- **Primary Growing Regions**: Jing Mi (japonica rice) is primarily grown in China north of the Huai River, the northeast provinces (Heilongjiang, Jilin, Liaoning), Jiangsu, Zhejiang, Anhui, and high-altitude areas of Yunnan. The northeast of China (Dongbei region) and Jiangsu province together account for roughly 70% of China's total japonica rice production, and northeastern rice is widely regarded as having the finest quality. Famous premium varieties include Tianjin "Xiaozhan" rice, Heilongjiang "Wuchang" rice, Ningxia "Bi Jing Mi," and Yunnan fragrant rice. Outside China, japonica rice is the predominant type grown in Japan and Korea.
+- **Quality Indicators**: Good quality Jing Mi grains are plump, short, and oval-shaped (approximately 3-4mm long, 2-3mm wide), with a smooth, translucent, slightly lustrous surface. The colour should be a clean, pale white with some translucency. The grains should be hard and firm, producing a clean snap when broken, with a powdery white cross-section. The aroma should be subtly sweet and clean with no musty or sour smell. Avoid rice that appears chalky white throughout (indicating immaturity), has visible dark spots or discolouration, feels soft or crumbly, or has any musty odour suggesting mold contamination. Some premium aromatic varieties (like Xiang Jing Mi) should have a natural fragrance.
+
+### Identity & Adulterants
+Jing Mi (japonica rice) is sometimes confused with or substituted by Xian Mi (籼米, indica/long-grain rice), which has similar but distinct properties. Indica rice grains are longer, thinner, and less sticky, with a slightly different therapeutic profile (classified as warm rather than neutral in the Ben Cao Gang Mu). Nuo Mi (糯米, glutinous/sticky rice) is another related but distinct substance that is much stickier and harder to digest, and is not an appropriate substitute in medicinal contexts. In the commercial market, lower-quality aged rice may be polished and treated to resemble fresh premium rice. Authentic high-quality Jing Mi should be translucent and firm, while aged or treated rice often has a matte, opaque appearance and may lack the natural sweet aroma.
+
+---
+
+## References
+### Classical Texts
+#### Ming Yi Bie Lu (名医别录)
+- **Original**: 「主益气，止烦，止泄。」
+- **Translation**: "It mainly supplements Qi, alleviates irritability, and stops diarrhea."
+
+### Historical Context
+Jing Mi holds an extraordinary place in Chinese civilization, with rice cultivation in China dating back at least 7,000 years based on archaeological evidence from the Hemudu site in Zhejiang. More recent discoveries at the Shangshan site in Zhejiang have pushed this timeline back to approximately 10,000 years, making rice one of the oldest cultivated crops on earth. The term "Jing Mi" first appears as a medicinal substance in the Ming Yi Bie Lu (Supplementary Records of Famous Physicians, c. 3rd century CE).
+In Chinese medicine, Jing Mi occupies a unique position as both a daily staple food and a medicinal substance, embodying the concept of food as medicine (药食同源). It appears as an ingredient in several classical formulas, including Bai Hu Tang (White Tiger Decoction) from the Shang Han Lun, where it protects the Stomach from the cold nature of Shi Gao (Gypsum), and Mai Men Dong Tang (Ophiopogon Decoction) from the Jin Gui Yao Lue, where it tonifies Stomach Qi and generates Body Fluids. The rice congee (粥, zhou) tradition has been a cornerstone of Chinese dietary therapy since the Han Dynasty, with congee considered especially suitable for the ill, the elderly, and new mothers. A famous passage compares thick rice water to a Ginseng decoction for treating deficiency in poor patients. The character for Qi (气) itself historically derives from the image of steam rising from a bowl of rice, reflecting how central rice was to the Chinese concept of nourishment and vitality.
+
+### Modern Scientific Research
+1. **[Systematic Review: Influence of Rice Characteristics and Processing Methods on Postprandial Glycaemic and Insulinaemic Responses (2015)](https://pubmed.ncbi.nlm.nih.gov/26310311/)**
+   *Journal: Boers HM, Seuring J, Hiemstra H, et al. British Journal of Nutrition, 2015, 114(7), 1035-1045.*
+   This systematic review examined 32 randomized clinical trials studying how different rice types and processing methods affect blood sugar after eating. It found that the rice cultivar (japonica vs. indica), amylose content, and processing methods like parboiling significantly influence glycemic responses. Low-amylose japonica rice was digested more quickly, producing higher blood sugar spikes than high-amylose indica varieties.
+
+2. **[Review: Therapeutic Properties of Rice Constituents and Derivatives (Oryza sativa L.) (2014)]()**
+   *Journal: Zaupa M, Calani L, Del Rio D, et al. Trends in Food Science & Technology, 2015, 40(1), 82-98.*
+   A comprehensive review summarizing evidence that rice components including bran, bran oil, gamma-oryzanol, and various phenolic compounds possess anti-inflammatory, cholesterol-lowering, antioxidant, and immunostimulatory properties. Brown rice and bran oil were found to reduce cardiovascular risk, while germinated brown rice showed chemopreventive effects.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/jing-mi](https://www.meandqi.com/knowledge-base/herbs/jing-mi)*

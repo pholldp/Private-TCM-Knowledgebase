@@ -1,0 +1,172 @@
+# Mu Zei (木贼)
+**English Name**: Horsetail herb  
+**Category**: Cool, acrid herbs that release the Exterior (辛凉解表药)  
+**Scientific Name**: Equisetum hiemale L.  
+**Pharmaceutical Name**: Herba Equiseti Hiemalis  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān), Bitter (苦 kǔ)  
+**Channels Entered**: Lungs, Liver, Gallbladder  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Mu Zei (scouring rush) is best known as an eye herb in Chinese medicine. It gently clears heat and wind from the eyes, making it especially useful for red, teary, or cloudy eyes. It also has a mild ability to help stop bleeding, though it is usually combined with other herbs for this purpose.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Eye Health and Vision, Skin Conditions
+- **TCM Actions**: Disperses Wind-Heat, Brightens the Eyes and Removes Visual Obstructions, Stops Bleeding
+
+### How these actions work
+'Disperses Wind-Heat' means Mu Zei gently pushes out Wind-Heat pathogens that have invaded the upper body, particularly the eyes and head. Because the Liver opens to the eyes, and Mu Zei enters the Liver and Gallbladder channels, it is especially suited for Wind-Heat that lodges in the Liver channel and attacks the eyes, causing redness, swelling, and tearing. Classical texts compare its dispersing action to that of Ma Huang (Ephedra), since both herbs share a similar hollow, jointed physical form, but Mu Zei is milder and neutral rather than warm and pungent.
+'Brightens the eyes and removes superficial visual obstructions' (退翳 tuì yì) refers to Mu Zei's signature ability to help resolve corneal opacities, cloudy films, or nebulae (pterygium) that develop over the eye. In TCM, these visual obstructions often arise when Wind-Heat or Liver-Gallbladder fire causes stagnation in the blood vessels supplying the eyes. By dispersing wind and clearing heat from the Liver channel, Mu Zei helps restore clear vision. This is the herb's most celebrated and distinctive action.
+'Stops bleeding' refers to Mu Zei's mild hemostatic effect. It can help with intestinal wind bleeding (blood in the stool from hemorrhoids), bloody dysentery, and uterine bleeding. However, this action is relatively weak, so Mu Zei is rarely used alone for bleeding and is typically combined with stronger hemostatic herbs like Huai Hua (Sophora flower) or Jing Jie Tan (charred Schizonepeta).
+
+---
+
+## Patterns Addressed
+### Wind-Heat
+- **Explanation**: Mu Zei is sweet, bitter, and neutral, entering the Lung, Liver, and Gallbladder channels. Its light, hollow structure gives it an upward and outward dispersing tendency that is ideal for expelling Wind-Heat pathogens from the head and eyes. In Wind-Heat patterns, the pathogen attacks the upper body and especially the eyes (since the Liver opens to the eyes). Mu Zei's ability to enter the Liver and Gallbladder blood level allows it to drive out Wind-Heat directly from these channels, restoring clear flow of blood to the eyes and resolving redness, swelling, and tearing.
+- **Clinical Signs & Symptoms**:
+
+### Liver Fire Blazing
+- **Explanation**: When Liver Fire flares upward, it scorches the eyes and causes intense redness, pain, and the formation of visual obstructions (翳 yì). Mu Zei enters the Liver and Gallbladder channels and has a bitter taste that descends and drains excess fire, while its dispersing quality vents the constrained heat outward. Classical sources describe it as able to 'disperse fire stagnation and wind-dampness' through the Liver-Gallbladder pathway. This makes it suitable for Liver Fire patterns manifesting primarily as eye disorders, though it is not strong enough for severe Liver Fire without supporting herbs like Xia Ku Cao or Jue Ming Zi.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Red Eyes
+- **Arises from**: Wind-Heat, Liver Fire Blazing
+- **TCM Interpretation**: In TCM, acute red eyes are most often understood as Wind-Heat invading the upper body and lodging in the eye region, or as Liver Fire flaring upward (since the Liver opens to the eyes). The Liver and Gallbladder channels both connect to the eye area, so heat in these channels readily manifests as eye redness, swelling, pain, and excessive tearing. Chronic or recurrent cases may involve underlying Liver Yin Deficiency generating internal heat that rises to the eyes.
+- **Why it Helps**: Mu Zei directly enters the Liver and Gallbladder channels and specializes in dispersing Wind-Heat from the eye region. Its bitter taste helps drain excess heat, while its light, hollow structure carries its effects upward to the head and eyes. Classical sources call it a 'key remedy for removing visual obstructions and brightening the eyes.' For acute conjunctivitis, it is commonly paired with Ju Hua (chrysanthemum), Jue Ming Zi (cassia seed), and Chan Tui (cicada shell) to strengthen its Wind-Heat clearing action at the eyes.
+
+### Warts
+- **Arises from**: Wind-Heat
+- **TCM Interpretation**: Flat warts (扁平疣) are understood in TCM as arising when Wind-Heat toxin lodges in the skin, often combined with Qi and Blood stagnation at the local level. The Liver governs the smooth flow of Qi, and when Liver-channel wind and heat accumulate beneath the skin surface, they can produce these small, persistent growths.
+- **Why it Helps**: Mu Zei's ability to disperse Wind-Heat through the Liver channel makes it useful for warts, especially when applied topically. Clinical reports describe using Mu Zei combined with Xiang Fu (Cyperus) as an external wash for flat warts with good results. The herb's rough, silica-rich texture also contributes a gentle physical exfoliant quality. Internally, its wind-dispersing and heat-clearing actions address the underlying pattern.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3–9g
+- **Maximum Dosage**: Up to 15g in specific clinical situations (e.g. acute eye conditions or bleeding), under practitioner supervision only. Standard use should not exceed 9g.
+- **Dosage Notes**: For eye conditions (Wind-Heat eye redness, corneal opacities, excessive tearing): the standard range of 3 to 9g is typically sufficient. For hemostatic purposes (intestinal wind bleeding, hemorrhoidal bleeding): some classical formulas use up to 15g, often after dry-frying (chao tan) to enhance the astringent and hemostatic effect. When used to promote sweating for exterior Wind-Cold patterns (a less common application), decoct with fresh ginger and scallion. Avoid higher doses in patients with Qi or Blood deficiency, as the dispersing action may worsen depletion.
+- **Preparation**: No special decoction handling required. Standard decoction is the usual method. For hemostatic purposes, the herb is sometimes dry-fried until charred (chao tan cun xing, 炒炭存性) before decocting. Historically, some formulas specified removing the nodes (qu jie, 去节) before use, though modern practice generally uses the herb with nodes intact.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o M&#xF9; Z&#xE9;i (&#x7092;&#x6728;&#x8D3C;)
+- **Processing Method**: The herb is stir-fried (dry-fried) until slightly darkened. The nodes (joints) are traditionally removed before processing.
+- **How it Changes Properties**: Stir-frying moderates the herb's dispersing nature and enhances its hemostatic (止血) action. The thermal nature remains neutral but the astringent quality becomes slightly more pronounced, making it more suitable for bleeding conditions.
+- **When to Use**: Used when the primary goal is to stop bleeding, such as in intestinal wind bleeding, bloody dysentery, or uterine bleeding. The raw form is preferred for dispersing Wind-Heat and clearing eye conditions.
+
+### M&#xF9; Z&#xE9;i T&#xE0;n (&#x6728;&#x8D3C;&#x70AD;)
+- **Processing Method**: The herb is charred (burned to a black ash while retaining its form, 烧存性). This is done by placing the herb on a fire until carbonized on the outside but not fully turned to ash.
+- **How it Changes Properties**: Charring greatly strengthens the hemostatic and astringent properties. The dispersing Wind-Heat action is largely eliminated. The charred form becomes primarily a topical hemostatic and astringent agent.
+- **When to Use**: Used externally as a powder for rectal prolapse (applied to the prolapsed tissue and pushed back in), acute throat obstruction with bleeding, and wound bleeding. This form is not used for eye conditions.
+
+---
+
+## Common Herb Pairs
+### Cang Zhu (Ratio: 1:1 (Mu Zei 30g : Cang Zhu 30g, ground to powder, taken 6g per dose as in the Sheng Hui Fang))
+- **Description**: Mu Zei disperses Wind-Heat from the Liver channel and clears visual obstructions, while Cang Zhu (Atractylodes) dries Dampness and has a traditional reputation for treating night blindness and visual dimness. Together they enhance the wind-dispersing and vision-brightening effect, addressing both the Wind-Heat component and any underlying Dampness clouding the eyes.
+- **When to Use**: For blurred vision with excessive tearing, night blindness, or visual dimness, especially when accompanied by a sensation of heaviness or Dampness.
+
+### Chan Tui (Ratio: 1:1)
+- **Description**: Both herbs disperse Wind-Heat and brighten the eyes, but Mu Zei is stronger at removing corneal opacities (退翳), while Chan Tui (cicada shell) excels at dispersing Wind-Heat more broadly and also calms itching and spasms. Together they provide a comprehensive approach to Wind-Heat eye disorders.
+- **When to Use**: For Wind-Heat attacking the eyes with redness, swelling, tearing, and corneal cloudiness or pterygium.
+
+### Xiang Fu (Ratio: 1:1 (Xiang Fu 30g : Mu Zei 30g, decocted and used as topical wash))
+- **Description**: Mu Zei disperses Wind-Heat from the surface, while Xiang Fu (Cyperus) moves Qi and Blood stagnation. Together they address both the external pathogen (Wind-Heat toxin) and the local stagnation that underlies warts and skin growths.
+- **When to Use**: For flat warts (verruca plana). Typically used as an external decoction wash applied to the affected skin.
+
+### Gu Jing Cao (Ratio: 1:1)
+- **Description**: Both herbs specialize in clearing Wind-Heat from the eyes and removing visual obstructions. Gu Jing Cao (Eriocaulon) is particularly good for treating star-shaped corneal opacities, while Mu Zei is stronger for film-like nebulae. Together they cover a broader range of corneal pathology.
+- **When to Use**: For persistent corneal opacities, pterygium, or chronic eye cloudiness from Wind-Heat or Liver-channel heat.
+
+---
+
+## Key Formulas
+Mu Li San, Huai Hua San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Classified as non-toxic in the Chinese Pharmacopoeia and described as such since the Jia You Ben Cao. However, the whole plant does contain thiaminase (an enzyme that destroys vitamin B1), silicates, and small amounts of alkaloids. In animals (particularly livestock), prolonged ingestion of Equisetum species can cause thiamine deficiency leading to symptoms such as muscle weakness, tremor, incoordination, and cold extremities, which can be reversed with high-dose vitamin B1. In mice, the LD50 of the water extract by intraperitoneal injection is approximately 49 g/kg, indicating very low acute toxicity. At standard human medicinal doses (3 to 9 g in decoction), Mu Zei is considered safe for short-term use. Prolonged or excessive use should be avoided.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. While classical sources include a formula using Mu Zei with Chuan Xiong and Jin Yin Hua for 'restless fetus' (Sheng Ji Zong Lu), this represents a specific therapeutic application under expert guidance, not a general safety endorsement. Mu Zei's dispersing and Blood-moving properties could theoretically disturb the fetus. Pregnant women should only use this herb under direct supervision of a qualified practitioner.
+- **Breastfeeding**: No specific classical or modern safety data is available for breastfeeding. Given its mild dispersing nature and the potential presence of thiaminase and alkaloids, cautious short-term use at low standard doses is generally considered acceptable, but prolonged use should be avoided. Consult a qualified practitioner before use while breastfeeding.
+- **Children**: Mu Zei may be used in children at reduced dosages proportional to age and body weight (generally one-third to one-half the adult dose for children over 3 years). Due to the herb's dispersing nature, it should be used cautiously and for short durations in children, as their Qi and Blood are naturally less robust. Not recommended for infants or very young children without specific practitioner guidance.
+
+### Drug Interactions
+No well-documented drug interactions specific to Mu Zei (Equisetum hyemale) exist in the peer-reviewed clinical literature. However, based on known pharmacological properties, the following theoretical considerations apply:
+- Anticoagulant and antiplatelet medications (warfarin, aspirin, clopidogrel): Mu Zei extracts have demonstrated anticoagulant and antiplatelet aggregation effects in laboratory studies (via ferulic acid content). Concurrent use may theoretically potentiate bleeding risk.
+- Antihypertensive medications: Mu Zei alcohol extracts show sustained blood pressure-lowering effects in animal models. Combined use with antihypertensive drugs may lead to additive hypotensive effects.
+- Thiamine (vitamin B1) and thiamine-dependent medications: Equisetum species contain thiaminase, which can degrade thiamine. Prolonged use could theoretically worsen thiamine deficiency in susceptible individuals.
+- Lithium and diuretics: Equisetum species have shown diuretic activity. Combined use with lithium or other diuretics may alter electrolyte balance or drug levels.
+
+### Dietary Advice
+No specific strong dietary restrictions apply. As Mu Zei is used primarily for Wind-Heat and Liver-related eye conditions, it is generally advisable to avoid excessively spicy, greasy, and fried foods during treatment, as these can generate further Heat and aggravate eye inflammation. Alcohol should also be moderated, as it generates Heat and rises to the head and eyes.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Equisetum hyemale L. (rough horsetail or scouring rush) is an evergreen perennial pteridophyte (fern ally) belonging to the Equisetaceae family. It is one of the most ancient living plant lineages, with relatives dating back over 350 million years to the Devonian period. The plant spreads via aggressive underground rhizomes that are black-brown in color with yellowish-brown hairs at the nodes.
+The aerial stems are erect, unbranched, hollow, and jointed, typically growing 30 to 100 cm tall (sometimes exceeding one meter) with a diameter of 3 to 8 mm. The dark green stems have 18 to 30 conspicuous longitudinal ridges impregnated with silica, making them notably rough to the touch. At each node, there are tubular sheath-like scale leaves with black-brown bases and tips. The plant reproduces by spores rather than seeds, producing small oval spore-bearing cones (strobili) at the stem tips.
+E. hyemale grows in moist to wet habitats including shaded mountain slopes, forest understories, riverbanks, stream margins, and damp grasslands. It thrives in heavy clay or sandy soils and can tolerate occasional flooding, growing from sea level up to about 2,500 meters elevation.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer and autumn. The aerial stems are cut, cleared of debris and dead material, then dried in the sun or shade.
+- **Primary Growing Regions**: Historically, the classical 'terroir' (dao di) region was Qinzhou (秦州), corresponding to the modern Tianshui area of Gansu province. In modern times, the highest-quality Mu Zei is widely considered to come from Liaoning province and the broader northeast China region (Dongbei). Major production areas include Heilongjiang, Jilin, Liaoning, Hebei, Inner Mongolia, Shaanxi, Gansu, Xinjiang, Qinghai, Shanxi, Anhui, Hubei, Sichuan, and Guizhou provinces. The plant also grows widely across temperate Eurasia, Japan, Korea, and Russia.
+- **Quality Indicators**: Good quality Mu Zei consists of long, thick, intact stems that are greenish in color, with firm, thick walls. The surface ridges should be sharp and rough to the touch (due to silica content), and the nodes should not be separated or broken apart. The cross-section shows a hollow center surrounded by multiple small round cavities. The taste should be mildly sweet, slightly bitter, and faintly astringent, with a gritty or sandy sensation when chewed (from silica). Avoid material that is yellowish-brown, brittle, crumbling at the nodes, thin-walled, or extensively fragmented.
+
+### Identity & Adulterants
+The most common substitution issue involves Jie Jie Cao (节节草, Equisetum ramosissimum Desf.), a related species sometimes sold as or mixed with Mu Zei. This confusion dates back to the Qing Dynasty. Jie Jie Cao has branching stems (while true Mu Zei is usually unbranched), is generally thinner and softer, and has somewhat different therapeutic properties (more oriented toward clearing Heat, promoting urination, and resolving phlegm). In southern regions such as Yunnan, Guangdong, and Guangxi, a species called 'Tu Mu Zei' (土木贼, slender scouring rush) may also be substituted. Authentic Mu Zei (E. hyemale) can be distinguished by its unbranched, sturdy stems with 18-30 prominent silica-rich ridges that feel distinctly rough, and its characteristic black-brown banding at each node.
+
+---
+
+## References
+### Classical Texts
+#### Jia You Ben Cao (嘉祐本草, Song Dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Mu Zei first appeared in herbal literature during the Tang Dynasty in the Zhen Yuan Guang Li Fang (贞元广利方). Its first major monograph entry was in the Song Dynasty's Jia You Ben Cao (嘉祐本草, 1060 CE), which established its primary indications for eye diseases, corneal opacities, intestinal bleeding, and menstrual disorders. The name has been the mainstream designation ever since, though the herb has also been known by folk names such as Cuo Cao (锉草, 'filing grass'), Bi Tong Cao (笔筒草, 'brush-tube grass'), and Jie Jie Cao (节节草, 'joint-by-joint grass').
+The name 'Mu Zei' (木贼, literally 'wood thief') was explained by Li Shizhen in the Ben Cao Gang Mu: the plant's rough, silica-laden stems were used by woodworkers to polish and smooth wood surfaces, 'filing' the wood like a thief that eats away at it. The character 'zei' (贼) alludes to the Er Ya (尔雅), an ancient dictionary, where insects that gnaw at plant joints are called 'zei.' Li Shizhen also drew attention to Mu Zei's strong physical resemblance to Ma Huang (Ephedra), noting they share a similar form with hollow, jointed, ridged stems, but differ in therapeutic nature: Mu Zei is mild and enters the Liver and Gallbladder Blood level, while Ma Huang is acrid-hot and opens the exterior.
+During the Qing Dynasty, there was some confusion with the closely related species Jie Jie Cao (Equisetum ramosissimum), which was occasionally substituted for Mu Zei. Classical texts consistently emphasize that Mu Zei is most valued as an ophthalmology herb, earning it the reputation as an essential medicine for removing corneal opacities (yi zhang, 翳障). The Ben Cao Zheng Yi (本草正义) provided an important clinical caveat: though Mu Zei treats various bleeding conditions, its strong scraping and dispersing power means it should only be used in conditions of excess, and clinicians must be cautious in patients with Qi deficiency.
+
+### Modern Scientific Research
+1. **[Phytochemical Characterization, Antimicrobial Activity, and Antioxidant Potential of Equisetum hyemale L. (Equisetaceae) Extracts (in vitro study, 2015)](https://pubmed.ncbi.nlm.nih.gov/25587637/)**
+   *Journal: Do Prado RF, Boligon AA, de Freitas RB, et al. Journal of Medicinal Food, 2015, 18(7): 830-834.*
+   This study was the first to characterize the phytochemistry of E. hyemale extracts (70% ethanol and methanol) and evaluate their biological activity. The extracts contained significant phenolic compounds and demonstrated free-radical scavenging (antioxidant) activity as well as antimicrobial effects against both bacteria and fungi in laboratory testing.
+
+2. **[Antimicrobial, Antitrypanosomal and Antibiofilm Activity of Equisetum hyemale (in vitro study, 2016)]()**
+   *Journal: Dos Santos Alves CF, Bonez PC, de Souza ME, et al. Microbial Pathogenesis, 2016, 101: 119-125.*
+   This study evaluated E. hyemale extracts against a panel of pathogenic microorganisms and parasites. The extracts showed antimicrobial activity against Staphylococcus aureus and other clinically relevant bacteria, and also demonstrated antitrypanosomal and antibiofilm properties, supporting the traditional use of this plant for infectious and inflammatory conditions.
+
+3. **[Horsetail (Equisetum hyemale) Extract Accelerates Wound Healing in Diabetic Rats by Modulating IL-10 and MCP-1 Release and Collagen Synthesis (preclinical study, 2023)]()**
+   *Journal: Aguayo-Morales H, Sierra-Rivera CA, Claudio-Rizo JA, Cobos-Puc LE. Pharmaceuticals (Basel), 2023, 16(4): 514.*
+   This study investigated E. hyemale extract in diabetic rat wound models. The extract accelerated wound healing by modulating inflammatory cytokines (reducing pro-inflammatory markers while promoting anti-inflammatory IL-10) and stimulating collagen synthesis. The extract also demonstrated antimicrobial activity against S. aureus, a common wound-infecting strain.
+
+4. **[Diuretic Activity of Mexican Equisetum (preclinical study, 1985)](https://pubmed.ncbi.nlm.nih.gov/4094471/)**
+   *Journal: Pérez Gutiérrez RM, Laguna GY, Walkowski A. Journal of Ethnopharmacology, 1985, 14(2-3): 269-272.*
+   Chloroform extracts of several Equisetum species, including E. hiemale var. affine, were tested for diuretic activity in mice. E. hiemale var. affine was the most active species tested, producing diuretic effects comparable to hydrochlorothiazide in terms of sodium, potassium, and chloride excretion.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/mu-zei](https://www.meandqi.com/knowledge-base/herbs/mu-zei)*

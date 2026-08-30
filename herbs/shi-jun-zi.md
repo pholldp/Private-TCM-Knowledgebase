@@ -1,0 +1,162 @@
+# Shi Jun Zi (使君子)
+**English Name**: Rangoon creeper fruit  
+**Category**: Parasite-expelling herbs (驱虫药)  
+**Scientific Name**: Quisqualis indica L.  
+**Pharmaceutical Name**: Fructus Quisqualis  
+**Toxicity**: Slightly toxic  
+**Temperature**: Warm | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Spleen, Stomach  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Shǐ Jūn Zǐ is the primary antiparasitic herb in Chinese medicine for treating intestinal worm infections, especially roundworms and pinworms. Its naturally sweet taste makes it particularly suitable for children, who can eat the roasted seeds directly. Beyond killing worms, it supports digestive health in children with malnutrition, bloating, and poor appetite caused by chronic parasitic infection.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Children's Health, Parasite Management, Appetite Support
+- **TCM Actions**: Expels Parasites, Resolves Accumulation, Strengthens the Spleen to relieve childhood nutritional impairment
+
+### How these actions work
+'Kills parasites' (杀虫) means this herb directly eliminates intestinal worms, particularly roundworms (ascaris) and pinworms. It has a paralyzing and lethal effect on these parasites within the digestive tract. Unlike most antiparasitic herbs that are bitter and harsh, Shǐ Jūn Zǐ is sweet-tasting, making it especially well suited for children who resist bitter medicines. It is considered the primary herb for expelling roundworms in the classical tradition.
+'Dissolves accumulation' (消积) refers to the herb's ability to break down stagnation of food and waste products in the intestines. When parasites live in the gut, they disturb normal digestion and cause food to stagnate, leading to bloating, abdominal pain, and irregular stools. This herb gently promotes movement through the intestines due to its oily, lubricating nature, helping to expel both the parasites and the accumulated material they cause.
+'Strengthens the Spleen to relieve childhood nutritional impairment' (健脾消疳) describes its ability to support the digestive system in children who have become malnourished from chronic parasitic infection. In TCM, 'gan' (疳, nutritional impairment) is a condition of wasting and malnutrition in children, marked by a sallow face, thin body, distended belly, and poor appetite. Because Shǐ Jūn Zǐ is sweet and warm, it not only removes the parasites causing the problem but also tonifies the Spleen and Stomach to restore normal digestive function. Li Shizhen called it 'an essential herb for all childhood diseases.'
+
+---
+
+## Patterns Addressed
+### Intestinal Parasite
+- **Explanation**: Shǐ Jūn Zǐ is the primary herb for addressing intestinal parasitic infestation, particularly roundworm (ascaris) infection. Its sweet and warm nature enters the Spleen and Stomach channels, allowing it to act directly within the digestive tract where parasites reside. The herb paralyzes and kills worms while its oily, lubricating quality gently promotes their expulsion from the intestines. Unlike most antiparasitic herbs that are bitter and cold (which can further damage an already weakened Spleen), Shǐ Jūn Zǐ's sweet warmth supports the Spleen even as it eliminates the parasites. This makes it especially appropriate when parasites have already weakened the digestion.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Poor appetite with erratic food cravings
+
+### Spleen Qi Deficiency
+- **Explanation**: When chronic parasitic infection or poor diet damages the Spleen's ability to transform and transport food, children develop the condition known as gan (疳, nutritional impairment). Shǐ Jūn Zǐ's sweet taste directly tonifies the Spleen and Stomach, while its warm nature supports the digestive fire needed for proper food transformation. The Ben Cao Jing Shu calls it 'an essential herb for supplementing the Spleen and strengthening the Stomach.' By simultaneously addressing both the root cause (Spleen weakness) and the branch symptom (accumulated stagnation from poor digestion), Shǐ Jūn Zǐ helps restore normal nutrient absorption and growth in malnourished children.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Malnutrition In Children
+- **Arises from**: Spleen Qi Deficiency, Intestinal Parasite
+- **TCM Interpretation**: Childhood nutritional impairment, called gan ji (疳积) in TCM, is a pattern of wasting and malnutrition caused by chronic Spleen and Stomach dysfunction. The child's digestive system cannot properly transform food into usable nourishment, leading to a thin, wasted body with a paradoxically distended belly. The face becomes sallow and yellow, the hair becomes dry and sparse, and the child is listless. Parasitic infection often accompanies or drives this condition, as both weaken the Spleen. Accumulations of undigested food and dampness further clog the digestive tract, preventing recovery.
+- **Why it Helps**: Shǐ Jūn Zǐ is uniquely suited for this condition because it acts on multiple levels simultaneously. It kills any parasites contributing to the malnutrition, dissolves the accumulated stagnation blocking normal digestion, and tonifies the Spleen to restore proper food transformation. Li Shizhen noted that because it is sweet and warm, it 'not only kills worms but also benefits the Spleen and Stomach, which is why it can reduce deficiency heat and stop diarrhea, making it an essential herb for all childhood diseases.' It is frequently combined with Spleen-tonifying herbs like Dang Shen and Bai Zhu in formulas like Fei Er Wan to fully address this complex condition.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-12g (whole fruit, crushed for decoction); 6-9g (kernel/ren, for pills, powders, or chewed roasted)
+- **Maximum Dosage**: Do not exceed 20 roasted kernels per day in children (age-adjusted). For adults, do not exceed 12g of whole fruit or 9g of kernel in decoction without practitioner guidance.
+- **Dosage Notes**: Shi Jun Zi should be taken on an empty stomach (early morning is traditional) for best anthelmintic effect. The whole fruit (with shell) is typically crushed and decocted at 9-12g. The shelled kernel (ren) at 6-9g is more commonly used in pill and powder formulations, or dry-roasted and chewed directly. For roundworm, it is usually taken once daily for 3 consecutive days. Lower doses suffice for mild cases or young children. Higher doses do not improve efficacy and increase the risk of hiccups, nausea, and vomiting. The roasted form (chao Shi Jun Zi ren) is preferred for strengthening its Spleen-supporting and food-accumulation-resolving action, while the raw form is considered stronger for killing parasites.
+- **Preparation**: When using whole fruit in decoction, the hard shell must be cracked and the contents crushed (捣碎) before adding to the pot, otherwise the active ingredients will not dissolve properly. Alternatively, the kernel can be removed from the shell and used directly.
+
+---
+
+## Processing Methods
+### Sh&#x1D0; J&#x16B;n Z&#x1D0; R&#xE9;n (&#x4F7F;&#x541B;&#x5B50;&#x4EC1;)
+- **Processing Method**: The outer shell is removed to obtain the kernel (seed). Used raw or crushed for decoctions.
+- **How it Changes Properties**: Removing the shell makes the active kernel directly available. The raw kernel has stronger antiparasitic action. Temperature, taste, and channel entry remain unchanged.
+- **When to Use**: Preferred when the primary goal is to expel intestinal parasites. Often crushed and included in decoctions, or ground into powder for pills and powders. Standard dosage is 6-9g.
+
+### Ch&#x1CE;o Sh&#x1D0; J&#x16B;n Z&#x1D0; R&#xE9;n (&#x7092;&#x4F7F;&#x541B;&#x5B50;&#x4EC1;)
+- **Processing Method**: The kernels are dry-fried over low heat until slightly yellow with light scorch marks and a fragrant aroma emerges, then removed and cooled.
+- **How it Changes Properties**: Stir-frying moderates the herb's slippery, oily quality and enhances its aromatic nature. This shifts the emphasis from pure parasite-killing toward stronger Spleen-strengthening and accumulation-dissolving action. The warming nature is slightly enhanced.
+- **When to Use**: Preferred for childhood nutritional impairment (gan accumulation) where the focus is on strengthening the Spleen and dissolving stagnation rather than purely expelling worms. The roasted form is also commonly chewed directly by children due to its pleasant nutty flavor.
+
+### W&#x113;i Sh&#x1D0; J&#x16B;n Z&#x1D0; (&#x7168;&#x4F7F;&#x541B;&#x5B50;)
+- **Processing Method**: The whole fruit is roasted over low embers until the outer shell is charred and the inner kernel turns yellow.
+- **How it Changes Properties**: Roasting further reduces the oily, slippery quality and strengthens the Spleen-fortifying and accumulation-dissolving properties. Antiparasitic action is somewhat reduced compared to raw form.
+- **When to Use**: Used for childhood nutritional impairment with prominent digestive weakness, poor appetite, and abdominal distension, where Spleen support is more important than worm expulsion.
+
+---
+
+## Common Herb Pairs
+### Bing Lang (Ratio: Sh&#x1D0; J&#x16B;n Z&#x1D0; 9-12g : Bing Lang 6-10g)
+- **Description**: Shǐ Jūn Zǐ and Bing Lang (Areca seed) create a powerful antiparasitic pair that addresses a wider range of intestinal worms than either herb alone. Shǐ Jūn Zǐ specializes in killing roundworms, while Bing Lang is effective against tapeworms and other parasites. Together, they also promote intestinal peristalsis to expel the dead worms. Bing Lang's descending, qi-moving action complements Shǐ Jūn Zǐ's gentler lubricating quality.
+- **When to Use**: For moderate to severe parasitic infections involving multiple types of intestinal worms, or when roundworm infection is accompanied by significant abdominal distension and qi stagnation.
+
+### Ku Lian Pi (Ratio: Sh&#x1D0; J&#x16B;n Z&#x1D0; 10g : Ku Lian Pi 10g)
+- **Description**: This pairing combines two of the strongest antiparasitic herbs in TCM. Shǐ Jūn Zǐ (sweet, warm) and Ku Lian Pi (Chinaberry root bark; bitter, cold, toxic) have complementary natures that balance each other. Ku Lian Pi's strong bitter-cold parasite-killing power is tempered by Shǐ Jūn Zǐ's Spleen-protective sweet warmth, reducing the risk of digestive damage from Ku Lian Pi's harsh nature.
+- **When to Use**: For severe roundworm infections where Shǐ Jūn Zǐ alone is insufficient. The addition of Ku Lian Pi dramatically increases the antiparasitic effect. Used in formulas like Shi Jun Zi San (《证治准绳》).
+
+### Bai Zhu (Ratio: Sh&#x1D0; J&#x16B;n Z&#x1D0; 9g : Bai Zhu 9g)
+- **Description**: Shǐ Jūn Zǐ addresses the parasites and accumulated stagnation, while Bai Zhu (Atractylodes) strongly tonifies the Spleen Qi and dries dampness. Together they treat both the root cause (Spleen weakness) and the branch symptoms (parasites and stagnation) of childhood nutritional impairment. Bai Zhu's robust Spleen-strengthening action provides the digestive recovery needed after parasites are eliminated.
+- **When to Use**: For childhood malnutrition (gan ji) with a thin, wasted body, sallow face, distended belly, poor appetite, and loose stools, where Spleen Qi deficiency is prominent alongside parasitic infestation.
+
+### Bai Bu (Ratio: Sh&#x1D0; J&#x16B;n Z&#x1D0; 9g : Bai Bu 9g)
+- **Description**: Shǐ Jūn Zǐ kills roundworms within the intestinal lumen, while Bai Bu (Stemona root) has documented effectiveness against pinworms. Together they provide broader-spectrum antiparasitic coverage. Research has shown the combination has greater efficacy than either herb used alone, with some effect on larval stages as well.
+- **When to Use**: For pinworm (enterobiasis) infections, especially in children. Bai Bu can also be used as a retention enema alongside oral Shǐ Jūn Zǐ for stubborn pinworm infections.
+
+---
+
+## Key Formulas
+Fei Er Wan, Si Jun Zi Tang, Si Jun Zi Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+Shi Jun Zi is classified as slightly toxic (小毒) in the Chinese Pharmacopoeia and classical texts. The main toxic component is quisqualic acid (使君子氨酸), which is also the primary anthelmintic active compound. Quisqualic acid acts as a glutamate receptor agonist (AMPA and metabotropic receptors) and at excessive doses can cause excitotoxic effects. Symptoms of overdose include persistent hiccups, dizziness, nausea, vomiting, diarrhea, and in severe cases, drowsiness or convulsions. Animal studies show that a crude preparation at 26.6 g/kg administered orally to dogs produced vomiting and hiccups but no other serious toxicity. The minimum lethal dose by subcutaneous injection in mice was approximately 20 g/kg.
+Proper processing (removing the shell, dry-frying to golden with a fragrant aroma) and appropriate dosing make the herb safe. Children's dosing should be strictly age-based (roughly 1 to 1.5 seeds per year of age, not exceeding 20 seeds total per day). If hiccups occur after ingestion, they can be relieved by drinking plain water or rice broth, chewing Gan Cao (licorice root), or drinking a decoction of the Shi Jun Zi shells.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy contraindication is traditionally recorded for Shi Jun Zi, but its slight toxicity (quisqualic acid content) and gastrointestinal-stimulating properties warrant caution. Pregnant women should avoid this herb unless specifically prescribed by a qualified practitioner, as the anthelmintic action and potential to cause nausea, vomiting, and diarrhea could be problematic during pregnancy. There is no established safety data for use in pregnancy.
+- **Breastfeeding**: There is no specific traditional or modern safety data on the use of Shi Jun Zi during breastfeeding. Given its slight toxicity and the active compound quisqualic acid (a neuroactive amino acid), it is prudent to avoid use during lactation unless considered necessary by a qualified practitioner. Any active compounds that might transfer into breast milk could potentially affect the nursing infant.
+- **Children**: Shi Jun Zi is historically one of the most important pediatric herbs in TCM and was specifically regarded as a premier medicine for childhood parasitic diseases. For children, the traditional dosing method is to have the child chew dry-roasted kernels (炒使君子仁): approximately 1 to 1.5 seeds per year of age per day (e.g., a 3-year-old would take 3 to 4.5 seeds). The total daily amount should never exceed 20 seeds. It should be taken on an empty stomach, once daily, for 3 consecutive days. Children should never be given hot tea while taking this herb. If a child develops persistent hiccups after taking Shi Jun Zi, rice broth or a decoction of the fruit shells can help resolve the symptom. Due to slight toxicity, strict dose control is essential and overdosing in children is the most common cause of adverse reactions.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Shi Jun Zi in peer-reviewed literature. However, theoretical caution is advised:
+- Anticonvulsant / neurological medications: Quisqualic acid, the primary active compound, is a glutamate receptor agonist (AMPA and mGlu receptors). Theoretically, it could interact with medications affecting glutamatergic neurotransmission, though no clinical reports of such interactions exist.
+- Tannin-containing preparations: The classical prohibition against taking Shi Jun Zi with hot tea is likely related to tea tannins precipitating the active compounds or irritating the gastrointestinal tract, leading to hiccups and diarrhea. By extension, other tannin-rich beverages or preparations should be avoided during use.
+
+### Dietary Advice
+Strictly avoid hot tea and strong tea while taking Shi Jun Zi. This is one of the most well-known dietary prohibitions in TCM and is documented in multiple classical texts. Hot or warming foods should also be avoided during the course of treatment. Serve with plain room-temperature or warm water only. Rice congee or broth is a suitable accompaniment, especially for children. If hiccups develop, drinking rice broth or chewing licorice root can help relieve the symptom.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Shi Jun Zi (Combretum indicum, formerly Quisqualis indica) is a vigorous, climbing woody vine belonging to the Combretaceae family. In its youth it grows as a shrub, gradually developing long, twining stems that can reach 2.5 to 8 metres or more. The branchlets are covered in brownish-yellow fine hairs. The leaves are opposite or nearly so, elliptical to oblong, 5 to 18 cm long and 2.5 to 7 cm wide, with an acuminate tip and a rounded base. After the leaves drop, the persistent leaf stalk bases harden into thorn-like spurs.
+The flowers are highly distinctive and fragrant, borne in terminal spike-like clusters. Each flower has an exceptionally long, narrow calyx tube (5 to 9 cm) and five obovate petals. Remarkably, the flowers change colour as they age: opening white in the evening, turning pink the next day, and deepening to red. This means a single cluster often displays white, pink, and red flowers simultaneously. The fruit is a hard, olive-shaped drupe, 2.5 to 4 cm long, with five prominent longitudinal ridges giving it a star-shaped cross-section. When mature, the outer shell turns dark purplish-black. Each fruit contains a single spindle-shaped seed with white, oily cotyledons.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (September to November), when the fruit shell turns from green to purplish-black, indicating full maturity.
+- **Primary Growing Regions**: The traditional daodi (terroir) regions have shifted over time. Historically, the finest Shi Jun Zi came from the Lingnan area (modern Guangdong and Guangxi). By the Ming Dynasty, Sichuan (Meishan) and Fujian (Shaowu) became important production centres. Today, the primary daodi region is Chongqing Municipality, particularly Tongliang District (铜梁区), Shuikou Town, which is the largest Shi Jun Zi production base in China and received National Geographic Indication status in 2014. It is also produced in Guangdong, Guangxi, Yunnan, Fujian, Guizhou, Hunan, and Jiangxi. The plant grows naturally at elevations up to 1000-2500 metres in sunny thickets along hillsides, roadsides, and forest margins.
+- **Quality Indicators**: Good quality Shi Jun Zi fruit is large, oval, with a smooth purplish-black outer shell that has a slight sheen. The five longitudinal ridges should be clearly defined. When cracked open, the seed kernel (ren) should be plump and full, yellowish-white in colour, oily, and slightly sweet with a mild fragrant aroma. The seed coat should be thin and easily peeled. Avoid fruit that is small, shrivelled, hollow, mouldy, or insect-damaged. Dark or blackened kernels indicate spoilage or poor storage. For the roasted form (chao Shi Jun Zi ren), the kernels should be golden-yellow with slight brown spots and have a pleasant toasted fragrance.
+
+### Identity & Adulterants
+Shi Jun Zi is occasionally confused with other five-ridged fruits. The key adulterant concern is substitution with immature or underripe fruit, which is smaller, lighter in weight, and has underdeveloped kernels with weaker therapeutic effect. Authentic fruit should have a fully mature purplish-black shell, while poor-quality substitutes may have greenish-brown shells. The hairy variant formerly classified as Quisqualis indica var. villosa (毛使君子) has also been used as a substitute and is now considered the same species. In some regions, fruits of entirely different species may be sold under the same name. Authentic Shi Jun Zi can be identified by its characteristic five-pointed star cross-section, hard shell, plump oily white kernel, and mild sweet taste.
+
+---
+
+## References
+### Classical Texts
+#### Kai Bao Ben Cao (《开宝本草》, Song Dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Shi Jun Zi has at least 1,600 years of documented medicinal use. It first appeared in the Jin Dynasty (3rd-4th century CE) in Ji Han's Nan Fang Cao Mu Zhuang (《南方草木状》, Account of Southern Plants and Trees) under the name 'Liu Qiu Zi' (留求子). The Song Dynasty Kai Bao Ben Cao (《开宝本草》) was the first to use the name 'Shi Jun Zi,' recording a folk legend about its origin: a physician named Guo Shijun (郭使君) from Panzhou in Sichuan discovered that roasted seeds of this plant could expel roundworms from his young grandson. He went on to use the fruit widely for parasitic and malnutrition disorders in children, and the plant came to be called 'Shi Jun Zi' (literally 'the gentleman's fruit') in his honour.
+Li Shizhen in the Ben Cao Gang Mu elevated the herb's status by calling it a 'key medicine for all childhood diseases' (小儿诸病要药). He noted its unusual quality of being sweet rather than bitter, yet still effective at killing parasites. Over the centuries, the production regions shifted from the Lingnan area (Guangdong/Guangxi) to Sichuan and Fujian. Chongqing's Tongliang District has cultivated Shi Jun Zi since the Qing Dynasty Qianlong period (over 200 years ago). In modern times, with the advent of synthetic anthelmintic drugs, the medicinal demand for Shi Jun Zi has declined, but it remains widely used in traditional Chinese patent medicines and is increasingly valued as an ornamental vine.
+
+### Modern Scientific Research
+1. **[Comprehensive review of phytochemistry and pharmacological properties of Combretum indicum (2014)](https://doi.org/10.1007/978-94-007-7395-0_50)**
+   *Journal: Lim TK. Combretum indicum. In: Edible Medicinal And Non-Medicinal Plants, Volume 7. Springer, Dordrecht. 2014.*
+   This book chapter provides a systematic review of the plant's chemical constituents (quisqualic acid, trigonelline, fatty acids, flavonoids, triterpenoids) and its documented pharmacological activities including anthelmintic, antioxidant, anti-inflammatory, immunomodulatory, anti-diabetic, and antibacterial properties across multiple preclinical studies.
+
+2. **[Screening of anticoccidial effects of herb extracts against Eimeria tenella (in vitro study, 2001)](https://pubmed.ncbi.nlm.nih.gov/11282442/)**
+   *Journal: Youn HJ, Noh JW. Screening of the anticoccidial effects of herb extracts against Eimeria tenella. Veterinary Parasitology. 2001; 96(4):257-263.*
+   This study screened Korean medicinal herb extracts for antiparasitic effects. Quisqualis indica seed extract was among those tested for activity against the poultry parasite Eimeria tenella, providing preclinical evidence for the plant's traditional use against intestinal parasites.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/shi-jun-zi](https://www.meandqi.com/knowledge-base/herbs/shi-jun-zi)*

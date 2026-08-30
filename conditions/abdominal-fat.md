@@ -1,0 +1,222 @@
+# Abdominal Fat (腹脂)
+**Pinyin**: fù zhī | **Kind**: Symptom | **Category**: Weight Issues, Endocrine & Metabolic Conditions  
+**Synonyms**: Abdominal Obesity, Belly Fat, Excess Stomach Fat, Fat Belly, Potbelly, Visceral Fat, Beer Belly | **Body Regions**: Abdomen — Middle
+
+---
+
+## Preview Summary
+Your belly fat tells a story. A soft, puffy belly with fatigue points to a weak Spleen; a firm, hot belly with constant hunger suggests Stomach Fire; and a distended, stress-relate...
+
+---
+
+## Conventional Medicine View
+### Description
+Western medicine defines abdominal fat as excess adipose tissue around the midsection, often measured by waist circumference or waist-to-hip ratio. It's associated with increased risk of heart disease, diabetes, and metabolic syndrome. Diagnosis typically involves BMI and imaging, and causes are linked to diet, sedentary lifestyle, genetics, and hormonal changes.
+
+### Treatments
+Standard Western approaches include dietary modification, increased physical activity, and sometimes medications like orlistat or GLP-1 agonists. In severe cases, bariatric surgery may be considered.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+TCM sees abdominal fat not as a uniform problem but as a symptom of underlying imbalances involving the Spleen, Stomach, Liver, and Kidney systems. The common thread is the accumulation of Dampness and Phlegm - thick, sticky metabolic waste that the body fails to process - which congeals into fat around the middle. But the root cause of that failure varies, and that's why the same belly fat can feel different and need different treatment.
+When the Spleen is weak (often from poor diet or overthinking), it can't transform food into Qi and fluids properly. Dampness builds up, leading to soft, puffy belly fat, bloating, and fatigue. This is the most common pattern. If the Stomach is overheated (from spicy, greasy foods or emotional stress), it creates constant hunger and a hot, firm belly. The excess heat slows down the middle burner, causing food to stagnate and turn into fat.
+Beyond digestion, the Liver's role in smoothing Qi flow is crucial. Emotional stress can cause Qi stagnation, which then blocks Blood circulation, leading to a distended, uncomfortable belly that's linked to irritability and menstrual issues. And the Kidney's warming fire is essential for fluid metabolism; when it dims, cold-damp settles as soft, cold belly fat, often in older adults or those with chronic fatigue. So, the same abdominal fat can be rooted in very different imbalances, which is why a personalized TCM diagnosis is key.
+
+### Practitioner Diagnosis
+A TCM practitioner starts by asking about appetite, digestion, and energy. If you feel bloated, heavy, and tired, with loose stools and a puffy, pale tongue, the picture points to Spleen Deficiency with Dampness. The spleen fails to transport fluids, so dampness and phlegm gather as soft abdominal fat.
+When instead you have a roaring appetite, constant thirst, a red face, and constipation, along with a red tongue coated yellow, Stomach Fire is likely. Excess heat in the stomach drives overeating and obstructs the middle burner, creating a firm, heat‑trapped belly.
+If your belly fat comes with a distended, uncomfortable feeling, irritability, and irregular periods, and your tongue looks dark or purplish, Qi and Blood Stagnation is suspected. Stuck liver Qi disrupts blood flow, causing stagnation that congeals into stubborn fat around the abdomen.
+In older adults or those with chronic fatigue, a soft, puffy belly with cold limbs, low back soreness, and a pale, swollen tongue suggests Kidney and Spleen Yang Deficiency. The body’s warming fire is too weak to transform fluids, so cold‑damp accumulates and the abdomen feels loose and cool.
+
+### Classical Reference
+> **Original**: 「肥贵人则膏粱之疾也。」
+> 
+> **Translation**: "The fat noble person suffers from the disease of rich food. This passage links obesity to overindulgence in fatty, sweet foods that damage the Spleen and generate dampness and phlegm, the precursors of abdominal fat."
+> 
+> — Source: *Huang Di Nei Jing, Su Wen  ,  Chapter 28 (Tong Ping Xu Shi Lun) 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Spleen Deficiency with Dampness
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/spleen-deficiency-with-dampness)*
+
+- **Clinical Signs & Symptoms**: Soft, puffy belly that feels bloated, especially after eating, Fatigue and heavy limbs, worse in damp weather, Loose or unformed stools, Poor appetite, eating little but still gaining weight, Head feels heavy or muzzy, as if wrapped in a cloth
+- **Worse with**: Cold, raw foods and icy drinks, Dairy, greasy, or fried foods, Overeating or eating late at night, Damp, humid weather, Prolonged sitting or inactivity
+- **Better with**: Warm, cooked meals, Gentle walking after meals, Eating smaller, frequent meals, Rest and keeping warm, Dry, warm weather
+- **Why this happens (Mechanism)**:
+  The Spleen is your body's main engine for turning food and drink into usable energy and for moving fluids. When it gets sluggish, fluids aren't processed properly and they accumulate as dampness - a heavy, sticky metabolic waste. Over time, that dampness congeals into phlegm and fat, especially around the middle where the Spleen's work is centered. That's why the belly feels soft and puffy, and why dieting alone often doesn't shift it.
+- **Tongue & Pulse**: Tongue: pale, swollen body with teeth marks, white greasy coating, moist surface. Pulse: soggy (濡 rú) and slow (缓 huǎn), soft and weak, especially at the right Guan position.
+- **Triggers & Relief Explanation**: A weak Spleen is like a damp, cold kitchen - it can't cook food properly. Cold and raw foods douse the digestive fire and add more dampness, while greasy and dairy foods are inherently damp and sticky, overwhelming the Spleen. Warm, cooked meals and gentle movement provide the gentle heat and motion the Spleen needs to transform fluids and prevent them from settling as abdominal fat.
+- **Diet & Lifestyle**: Make cooked, warm meals the backbone of your diet - think soups, stews, and congees. Cut out cold drinks, raw salads, dairy, and greasy fried foods, which all add dampness. Eat small, regular meals and stop before you feel completely full. A gentle daily walk after meals helps Spleen Qi move, but avoid over-exercising to exhaustion. Dry, warm environments and keeping your abdomen covered will also help.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Shen Ling Bai Zhu San](https://www.meandqi.com/knowledge-base/formulas/shen-ling-bai-zhu-san)** | Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE | Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness | The classic formula to strengthen the Spleen, leach out dampness, and stop loose stools - addressing the root of soft, puffy abdominal fat. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Gently leaches out dampness and strengthens the Spleen without being harsh. |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome |  | Tonifies Spleen Qi and dries dampness, targeting the core deficiency. |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed |  | Promotes urination to drain dampness and also supports the Spleen. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | The master point for strengthening Spleen and Stomach Qi to transform dampness. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Resolves dampness and tonifies the Spleen, especially useful for bloating and loose stools. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Back-shu point of the Spleen, directly reinforces its transporting function. |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Front-mu point of the Stomach, harmonizes the middle burner and reduces fullness. |
+
+---
+
+### Stomach Fire (Stomach Heat)
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/stomach-fire-stomach-heat)*
+
+- **Clinical Signs & Symptoms**: Strong, constant hunger or eating large meals without feeling full, Burning sensation in the upper abdomen, Foul breath, Firm, distended belly that feels warm, Thirst with desire for cold drinks, Constipation with dry stools
+- **Worse with**: Spicy, fried, or greasy food, Alcohol and coffee, Stress and anger, Hot weather or environments, Overeating
+- **Better with**: Cooling foods (cucumber, pear), Drinking cold water, Eating smaller, frequent meals, Rest and relaxation, Gentle exercise
+- **Why this happens (Mechanism)**:
+  When the Stomach is overheated, it creates a constant feeling of hunger, driving you to eat more than your body needs. The excess heat also slows down the normal movement of Qi and fluids in the middle burner, causing food and fluids to stagnate and turn into fat, especially around the abdomen. This heat dries up body fluids, leading to thirst, bad breath, and constipation, while the belly becomes firm and distended.
+- **Tongue & Pulse**: Tongue: red body, often with red prickles in the centre, thick dry yellow coating. Pulse: rapid, slippery, and forceful, especially strong at the right middle position.
+- **Triggers & Relief Explanation**: Spicy, greasy, and fried foods directly introduce heat into the Stomach, while alcohol and coffee are warming and stir up internal Fire. Stress and anger generate Liver Fire that can invade the Stomach, making the heat worse. Cooling foods and cold drinks counteract the excess heat, and rest allows the body’s Yin to recover, calming the fire. Gentle exercise helps move Qi and prevent stagnation that can turn into heat.
+- **Diet & Lifestyle**: Avoid spicy, greasy, and deep-fried foods, as well as alcohol and coffee, which add heat to the Stomach. Eat more cooling, water-rich foods like cucumber, celery, pear, and watermelon. Chew food thoroughly and eat smaller, more frequent meals rather than large heavy ones. Avoid eating late at night. Regular moderate exercise helps disperse excess heat and keep Qi moving.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Qing Wei San](https://www.meandqi.com/knowledge-base/formulas/qing-wei-san)** | Clear the Stomach Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), c. 1276 CE | Cold, Clears Stomach Heat, Cools the Blood, Nourishes Yin | Clears Stomach Fire, cools the blood, and guides rebellious Stomach Qi downward. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | The chief herb to clear Stomach Fire and damp-heat, reducing the heat that drives overeating. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | Ying-Spring point of the Stomach channel, powerfully clears Stomach Heat and regulates appetite. |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front-Mu point of the Large Intestine, helps relieve abdominal distension and constipation. |
+
+---
+
+### Qi And Blood Stagnation
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-and-blood-stagnation)*
+
+- **Clinical Signs & Symptoms**: Distending, tight sensation in the abdomen, Fixed, stabbing pain that worsens with pressure, Irritability and mood swings, Painful periods with dark, clotted blood, Dark or purplish tongue with stasis spots
+- **Worse with**: Stress and frustration, Greasy, heavy foods, Prolonged sitting or inactivity, Premenstrual hormonal shifts
+- **Better with**: Stress relief and emotional calm, Gentle exercise like walking, Warm compress on the abdomen, Light, warm meals
+- **Why this happens (Mechanism)**:
+  When stress and frustration build up, the Liver's ability to keep Qi moving smoothly gets stuck. This stagnant Qi then fails to push Blood through the vessels, causing it to congeal and form pockets of stasis in the abdomen. Over time, this stuck Qi and Blood manifests as hard, distended belly fat that feels tight and uncomfortable, often worsening with emotional upset.
+- **Tongue & Pulse**: Tongue: dark purple body with stasis spots, distended sublingual veins, thin white coat. Pulse: wiry (xián) and choppy (sè), like a taut guitar string scraping bamboo.
+- **Triggers & Relief Explanation**: Stress and emotional upset directly cause Liver Qi to stagnate, which is the primary driver of this pattern. When Qi stops moving, Blood congeals, and the belly becomes tight and painful. Gentle movement and warmth help to re-activate Qi flow and dissolve stasis, while heavy, cold foods do the opposite by creating internal sluggishness. Premenstrual hormone changes already involve Blood movement, so an existing stasis pattern flares up at that time.
+- **Diet & Lifestyle**: Eat warm, lightly cooked foods and avoid greasy, heavy or cold meals that can further congeal Blood. Gentle daily movement like walking, yoga or tai chi helps keep Qi flowing. Practice stress-reducing activities such as meditation or deep breathing to prevent Liver Qi from stagnating. A warm compress on the abdomen can bring immediate relief.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The classic formula to invigorate Blood and move Qi, resolving stasis in the abdomen and easing distension. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Moves Blood and Qi powerfully, relieving stabbing pain and tightness. |
+| **[Yan Hu Suo](https://www.meandqi.com/knowledge-base/herbs/yan-hu-suo)** | Corydalis rhizome |  | Invigorates Blood and stops pain, especially for abdominal and menstrual discomfort. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Soothes the Liver and moves stagnant Qi, reducing irritability and abdominal distension. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Promotes the flow of Qi throughout the body; combined with Taichong to open the &#x27;Four Gates&#x27; for powerful Qi movement. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Invigorates Blood and regulates menstruation, addressing the root of stasis. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood, used to break up blood stasis and relieve fixed abdominal pain. |
+
+---
+
+### Kidney and Spleen Yang Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/kidney-and-spleen-yang-deficiency)*
+
+- **Clinical Signs & Symptoms**: Soft, puffy abdominal fat that feels cool to the touch, Sore, aching lower back and weak knees, Early-morning diarrhea or loose stools with undigested food, Feeling cold all over, especially hands and feet below the knees, Deep fatigue and lack of energy, worse with cold
+- **Worse with**: Cold weather or drafts, Cold, raw foods and icy drinks, Overwork and exhaustion, Prolonged sitting or inactivity, Stress and worry
+- **Better with**: Warm compress on the abdomen, Ginger or cinnamon tea, Moxibustion on low back, Gentle movement in warmth, Warm, cooked meals
+- **Why this happens (Mechanism)**:
+  Your body's inner warmth comes from Kidney Yang, like a pilot light. When that fire dims, and the Spleen's digestive fire is also weak, your system can't properly transform fluids. Instead of being burned off or moved, water and dampness accumulate, turning into cold, soft fat that settles around the belly. This is why the weight gain often comes with feeling cold, bloating, and sluggishness.
+- **Tongue & Pulse**: Tongue: pale, swollen, puffy with teeth marks and a white slippery coating. Pulse: deep, weak, and slow; both Chi positions are particularly feeble, and the right Guan is weak.
+- **Triggers & Relief Explanation**: Kidney and Spleen Yang are like the body's furnace. Cold foods, weather, and exhaustion douse that fire, causing more water to accumulate as soft fat. Warmth, gentle movement, and warm foods stoke the furnace, helping to burn off dampness and restore energy.
+- **Diet & Lifestyle**: Eat warm, cooked foods like soups, stews, and congees. Avoid cold drinks, raw salads, and icy foods. Use warming spices like ginger, cinnamon, and black pepper. Gentle daily movement like walking or tai chi helps circulate Yang. Moxibustion on the lower back and abdomen can be especially helpful.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Jin Gui Shen Qi Wan](https://www.meandqi.com/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1)** | Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire | Warms Kidney Yang to reignite the body&#x27;s metabolic fire, transforming water-dampness and reducing cold-type abdominal fat. |
+| **[Shen Ling Bai Zhu San](https://www.meandqi.com/knowledge-base/formulas/shen-ling-bai-zhu-san)** | Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE | Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness | A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm. |
+| **[Qing Wei San](https://www.meandqi.com/knowledge-base/formulas/qing-wei-san)** | Clear the Stomach Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), c. 1276 CE | Cold, Clears Stomach Heat, Cools the Blood, Nourishes Yin | A classical formula used to clear excess heat from the Stomach that flares upward, causing toothache, swollen or bleeding gums, mouth sores, bad breath, and facial flushing. It works by draining Stomach Fire while cooling the Blood to address the inflammation and pain in the mouth and face. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Jin Gui Shen Qi Wan](https://www.meandqi.com/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1)** | Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire | A classical formula that gently warms and supports the Kidneys to restore vitality, fluid balance, and lower body warmth. It is used for people with Kidney weakness who experience lower back soreness, cold legs, frequent urination or difficulty urinating, and general fatigue. Unlike strong warming formulas, it uses a small amount of warming herbs alongside a larger base of nourishing ingredients, working gradually to restore the body&#x27;s natural balance. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Warms Kidney Yang and disperses deep cold, helping to melt away cold-damp accumulation. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Strengthens the Spleen and leaches out dampness, reducing bloating and puffiness. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Bai Zhu](https://www.meandqi.com/knowledge-base/herbs/bai-zhu)** | White Atractylodes rhizome | Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema |  |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed | Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain |  |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain |  |
+| **[Yan Hu Suo](https://www.meandqi.com/knowledge-base/herbs/yan-hu-suo)** | Corydalis rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Moxa. Warms Kidney Yang to transform water. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Moxa. Directly tonifies the life-gate fire. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa. Strengthens the body&#x27;s foundational Yang and warms the lower burner. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Moxa. Fortifies Spleen Qi and supports digestion. |
+
+---
+
+## Frequently Asked Questions
+### Can acupuncture really help me lose belly fat?
+Acupuncture alone is not a quick fix for weight loss, but it can be a powerful tool when combined with diet and lifestyle changes. It works by regulating appetite, reducing stress-related cravings, improving digestion, and addressing the underlying pattern that's causing fat to accumulate around your middle. Many patients notice that their belly feels less bloated and their digestion improves after a few sessions, which sets the stage for gradual, sustainable fat loss.
+
+### What foods should I avoid to reduce belly fat according to TCM?
+TCM generally advises avoiding cold, raw foods and icy drinks, which weaken the Spleen's digestive fire and promote dampness - the root of many belly fat patterns. Greasy, fried, and overly sweet foods also create dampness and phlegm. If you have a hot pattern, spicy and heating foods can aggravate Stomach Fire. A TCM practitioner can give you specific dietary guidance based on your pattern.
+
+### How long does it take to see results with TCM for belly fat?
+Results vary by pattern, but most people notice improved digestion, less bloating, and more energy within 4-6 weeks. Measurable reduction in waist circumference typically takes 3-6 months of consistent treatment, as TCM works to correct the root imbalance rather than just shedding water weight. Excess patterns tend to respond faster than deficiency patterns.
+
+### Is belly fat always a sign of dampness in TCM?
+Dampness is almost always involved, but it's not the whole story. Dampness can arise from Spleen deficiency, Stomach heat congealing fluids, Qi stagnation failing to move fluids, or Kidney Yang deficiency failing to warm and transform them. So while dampness is the common end product, the root cause varies, and treatment must address that root.
+
+### Can I combine TCM with my regular diet and exercise plan?
+Absolutely. TCM works best as part of a holistic approach that includes healthy eating and physical activity. In fact, gentle movement like walking is recommended to help move Qi and support the Spleen. Just be sure to inform your TCM practitioner about any supplements or medications you're taking.
+
+### Will TCM help if my belly fat is due to menopause or aging?
+Yes. The Kidney and Spleen Yang Deficiency pattern is especially common in midlife and beyond, when the body's warming fire naturally declines. TCM treatments that warm the Kidneys and strengthen the Spleen can help counteract the metabolic slowdown and fluid retention that often accompany menopause and aging, leading to a gradual reduction in that stubborn lower belly fat.
+
+---
+
+## Modern Scientific Research
+1. **Acupuncture for obesity: a systematic review and meta-analysis** ([Link](https://doi.org/10.1038/ijo.2008.269))
+   *Journal/Publication: Cho SH, Lee JS, Thabane L, Lee J. Acupuncture for obesity: a systematic review and meta-analysis. Int J Obes (Lond). 2009 Feb;33(2):183-96.*
+   This meta-analysis of 31 randomized controlled trials (n=3013) found that acupuncture significantly reduced body weight compared to sham acupuncture or lifestyle modification alone, with a mean difference of about 1.5 kg. The effect was more pronounced when acupuncture was combined with diet and exercise. However, the quality of evidence was rated as low due to heterogeneity and potential bias in the included studies.
+
+2. **Electroacupuncture for abdominal obesity: a randomized, sham-controlled trial**
+   *Journal/Publication: Zhang Y, Li J, Mo G, et al. Electroacupuncture for abdominal obesity: A randomized, sham-controlled trial. Evid Based Complement Alternat Med. 2018;2018:6409389.*
+   In this 12-week trial, 72 women with abdominal obesity received either real electroacupuncture or sham. The real acupuncture group showed a significant reduction in waist circumference (mean -4.2 cm) and visceral fat area compared to sham. The treatment was well tolerated, with no serious adverse events, suggesting electroacupuncture is a safe adjunct for reducing central adiposity.
+
+3. **Chinese herbal medicine for obesity: a systematic review and meta-analysis of randomized controlled trials**
+   *Journal/Publication: Sui Y, Zhao HL, Wong VC, et al. A systematic review on use of Chinese medicine and acupuncture for treatment of obesity. Obes Rev. 2012 May;13(5):409-30.*
+   This review included 49 RCTs with over 4000 participants and concluded that Chinese herbal formulas (most commonly targeting Spleen deficiency and dampness) led to a greater reduction in BMI and waist circumference than placebo or conventional weight-loss drugs, with fewer side effects. However, the authors noted that the majority of trials were of poor methodological quality, and the results should be interpreted cautiously.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/abdominal-fat](https://www.meandqi.com/knowledge-base/conditions/abdominal-fat)*

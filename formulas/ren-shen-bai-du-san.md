@@ -1,0 +1,79 @@
+# Ren Shen Bai Du San (人参败毒散)
+**English Name**: Ginseng Powder to Overcome Pathogenic Influences  
+**Category**: Exterior-releasing formulas, Strengthening-the-body and exterior-releasing formulas  
+**Dynasty/Source**: Tài Píng Huì Mín Hé Jì Jú Fāng (太平惠民和剂局方)  
+**Temperature**: Warm | **Form**: Powder (San)
+
+---
+
+## Summary
+A classical formula designed for people whose bodies are already somewhat weakened when they catch a cold or flu with chills, body aches, and dampness. It combines herbs that expel wind, cold, and dampness from the body's surface with Ginseng, which strengthens the body's Qi so it has enough force to push the illness out. Historically famous as a treatment for epidemics and early-stage dysentery.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Disperses Wind-Cold, Drains Dampness, Tonifies Qi, Releases the Exterior, Alleviates Pain, Resolves Phlegm
+- **Therapeutic Focus**: Cold and Flu Relief, Immune Support, Joint and Muscle Pain Relief, Digestive Health
+- **Target Organs**: Lungs, Spleen, Urinary Bladder, Gallbladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Common Cold, Urticaria, Dysentery, Influenza, Bronchitis, Eczema, Rheumatic Joint Pain, Allergic Dermatitis, Upper Respiratory Tract Infections, Ulcerative Colitis
+- **Other Names**: Shi Wei Tang (十味汤, Ten-Ingredient Decoction), Bai Du San (败毒散)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Qiang Huo** | Notopterygium root and rhizome | *King* | 3 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Urinary Bladder, Kidneys | Strongly disperses Wind-Cold from the upper body and exterior, overcomes Dampness, and relieves pain in the head, neck, and upper back. Together with Du Huo, it addresses Wind-Cold-Damp throughout the entire body. |
+| **Du Huo** | Pubescent angelica root | *King* | 3 - 9g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Liver, Urinary Bladder | Disperses Wind-Cold-Damp from the lower body and deeper levels, relieving pain in the lower back and legs. Paired with Qiang Huo, the two together treat Wind-Cold-Damp affecting the entire body from head to foot. |
+| **Chai Hu** | Bupleurum root | *Deputy* | 3 - 9g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Gallbladder, Lungs | Releases the exterior through the half-interior/half-exterior level, reduces fever, and raises clear Yang Qi. Assists the King herbs in dispersing pathogenic influences and plays a key role in the formula's ability to address conditions at the Shaoyang level. |
+| **Chuan Xiong** | Sichuan lovage rhizome | *Deputy* | 3 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Invigorates Blood and moves Qi, dispels Wind, and is especially effective for headache. Assists the King herbs in relieving pain by ensuring smooth circulation of Qi and Blood through the channels. |
+| **Jie Geng** | Balloon flower root | *Assistant* | 3 - 9g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Opens and raises Lung Qi, promotes the expulsion of phlegm, and acts as a 'boat' that directs the formula's actions upward to the chest and Lungs. Paired with Zhi Ke, it restores the Lung's natural rhythm of ascending and descending. |
+| **Zhi Ke** | Bitter orange fruit | *Assistant* | 3 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Moves Qi downward and broadens the chest, relieving the fullness and stuffiness in the chest and diaphragm. Works with Jie Geng in a classic ascending-descending pair to restore smooth Qi movement. |
+| **Qian Hu** | Peucedanum root | *Assistant* | 3 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Directs Lung Qi downward and transforms phlegm, addressing cough with sputum. Also has a mild exterior-releasing action that supports the overall strategy. |
+| **Fu Ling** | Poria | *Assistant* | 3 - 9g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Leaches out Dampness through the urine and strengthens the Spleen. Addresses the internal Dampness component of the pattern and supports Ren Shen in tonifying the middle. |
+| **Ren Shen** | Ginseng root | *Assistant* | 3 - 9g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Tonifies the original Qi to support the body's ability to expel pathogens. This is the formula's signature ingredient: a small dose of Ginseng does not aim to broadly nourish, but rather to give the weakened body just enough Qi to drive out the illness. It also prevents the other dispersing herbs from further depleting the patient's reserves. |
+| **Bo He** | Peppermint herb | *Envoy* | 2 - 3g | Temp: Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)<br>Affinity: Lungs, Liver | Lightly disperses Wind-Heat from the head and eyes, assists the exterior-releasing herbs, and acts as an envoy to guide the formula toward the body surface. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Envoy* | 2 - 3g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Warms the middle, disperses Cold, and assists in releasing the exterior. Also harmonizes the Stomach to prevent nausea from the other herbs. |
+| **Gan Cao** | Licorice root | *Envoy* | 2 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes all the other herbs in the formula, moderates their harsh or dispersing qualities, and mildly tonifies the Spleen Qi together with Ren Shen. |
+
+---
+
+## Scientific Research
+
+1. [Kovir Capsule (based on Ren Shen Bai Du San) in Mild COVID-19: Phase 2 Double-Blind RCT (2022)](https://doi.org/10.1002/ptr.7455) (*Loc HN, Lan TTN, Huong DTL, Tuyen NT, Quang TM, Dao LM, Van PH, Vuong NL. Phytotherapy Research, 2022, 36(7), 2878-2888.*)
+> A double-blind, placebo-controlled trial in Vietnam randomized 66 patients with mild COVID-19 to receive Kovir capsule (developed from the Ren Shen Bai Du San formula) or placebo for up to 14 days. While viral clearance time was similar between groups, the Kovir group achieved significantly faster symptom resolution (median 4 vs. 7 days). No adverse events were reported in either group. The study concluded the formula-based capsule was safe and could improve symptom resolution.
+2. [Network Pharmacology and Molecular Docking Study of RSBDP for Inflammatory Bowel Disease (2022)](https://pubmed.ncbi.nlm.nih.gov/36145261/) (*Published in Evidence-Based Complementary and Alternative Medicine (indexed in PubMed), 2022.*)
+> This preclinical study used network pharmacology and molecular docking to explore how Ren Shen Bai Du San may work against inflammatory bowel disease (IBD). Researchers identified 39 main active ingredients interacting with 115 IBD-relevant targets. Key compounds included quercetin, kaempferol, and luteolin. The study also validated findings using a DSS-induced colitis mouse model, showing that the formula could reduce colonic inflammation, supporting its traditional use in early-stage dysentery.
+3. [Kovir Capsule for Non-Severe COVID-19: Phase 3 Double-Blind RCT (2023)](https://doi.org/10.1002/ptr.7839) (*Loc HN, Hoan VM, Vuong NL et al. Phytotherapy Research, 2023, 37, 2395-2404.*)
+> Following the promising Phase 2 results, a larger Phase 3 double-blind RCT was conducted during the Omicron wave in Vietnam. The study further evaluated Kovir capsule (based on Ren Shen Bai Du San) in non-severe COVID-19 patients and confirmed its safety and benefit in accelerating symptom resolution and reducing risk of progression to severe disease.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. The formula contains several acrid, warm, dispersing herbs (Qiang Huo, Du Huo, Chuan Xiong, Chai Hu) that promote the circulation of Qi and Blood. Chuan Xiong in particular is an active Blood-mover and should be used cautiously in pregnancy. Gan Cao (Licorice) may have mild estrogenic and steroid-like effects. While none of the herbs in this formula are classified as strictly prohibited in pregnancy, the overall dispersing and Qi-moving nature of the formula makes it advisable to use only when clearly necessary and under professional guidance. Short-term use for acute illness may be acceptable, but the practitioner should weigh the risks and benefits carefully.
+
+### Breastfeeding
+No specific contraindication for breastfeeding has been established for this formula. The herbs are generally mild in toxicity. However, the aromatic, acrid, dispersing nature of herbs like Qiang Huo, Du Huo, Chai Hu, and Bo He means that some volatile compounds may theoretically pass into breast milk. Ren Shen (Ginseng) is a stimulant herb that could potentially affect a nursing infant. Gan Cao (Licorice) has mild hormonal activity. Given these considerations, short-term use for acute illness is likely acceptable, but extended use should be avoided. A practitioner should be consulted to weigh the benefit of treating the mother's acute condition against any theoretical risk to the infant.
+
+### Children
+This formula was originally designed for pediatric use, since children's Qi is naturally immature and they are prone to exterior invasions that their bodies cannot fully expel. Classical texts note that because children's constitutional Qi is underdeveloped, the small amount of Ren Shen in the formula is especially appropriate for them. Dosage should be adjusted by age: as a general guideline, newborns receive approximately 1/6 of the adult dose, infants and toddlers receive 1/3 to 1/2, and older children receive 1/2 to 2/3 of the adult dose. The formula is considered appropriate for pediatric respiratory infections, infantile diarrhea, and childhood skin eruptions with exterior Cold-Damp signs. A qualified practitioner should supervise use in young children.
+
+### Drug Interactions
+Gan Cao (Licorice): This formula contains Gan Cao, which has several well-documented drug interactions. Licorice may reduce the effectiveness of warfarin (an anticoagulant), potentially increasing clotting risk. It can enhance the side effects of corticosteroids by potentiating their mineralocorticoid activity, possibly causing fluid retention, elevated blood pressure, and low potassium. It may also interact with digoxin (a heart medication) by causing potassium depletion, which increases the risk of digoxin toxicity. People taking certain diuretics (especially potassium-wasting types like thiazides or loop diuretics) should be cautious, as the combination could worsen potassium loss. Gan Cao may also have weak MAO-inhibitor-like activity.
+Ren Shen (Ginseng): Ginseng may interact with MAO-inhibitor antidepressants (such as phenelzine), potentially causing headache, tremor, or mania. It may also affect blood sugar levels, which is relevant for people taking insulin or oral diabetes medications. Ginseng should ideally be discontinued at least one week before surgery due to its potential effects on bleeding and blood pressure.
+Chai Hu (Bupleurum) and Chuan Xiong (Ligusticum): Both herbs may have mild antiplatelet activity. Patients taking anticoagulant or antiplatelet drugs (warfarin, aspirin, clopidogrel) should use this formula with caution, as there may be an additive effect on bleeding risk.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Classically described as 'bu ju shi fu' (not restricted by time), meaning it can be taken whenever needed. In practice, best taken warm between meals, 2-3 times daily. If chills predominate, take hot; if heat signs are present, take warm.
+- **Typical Duration**: Acute use: 3-7 days, typically until exterior symptoms resolve. Not intended for long-term use.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods, icy drinks, and greasy or heavy foods, as these can obstruct the Spleen and generate more Dampness, directly counteracting the formula's purpose. Alcohol should be avoided as it generates Damp-Heat internally. Light, warm, easily digestible foods such as plain rice porridge (congee), simple soups, and cooked vegetables are ideal. A small amount of fresh ginger in meals can support the formula's warming, dispersing action. If the formula is being used for early-stage dysentery, avoid dairy products and difficult-to-digest proteins.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/ren-shen-bai-du-san](https://www.meandqi.com/knowledge-base/formulas/ren-shen-bai-du-san)*

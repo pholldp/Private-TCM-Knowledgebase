@@ -1,0 +1,149 @@
+# Dai Zhe Shi (代赭石)
+**English Name**: Hematite  
+**Category**: Liver-calming and Wind-extinguishing herbs (平肝息风药), Substances that anchor and calm the Spirit (重镇安神药)  
+**Scientific Name**: Fe₂O₃ (Hematite, iron(III) oxide mineral of the corundum group)  
+**Pharmaceutical Name**: Haematitum  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Liver, Heart, Stomach, Pericardium  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Dài Zhě Shí (hematite) is a heavy, iron-rich mineral used in Chinese medicine to calm the Liver, settle dizziness and headaches, and powerfully redirect the body's Qi downward. It is best known for treating persistent hiccups, nausea, vomiting, and belching, as well as dizziness from high blood pressure. It also cools the Blood to help stop certain types of bleeding.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Blood Pressure Support, Nausea and Vomiting Relief, Bleeding Disorders
+- **TCM Actions**: Calms the Liver and Subdues Yang, Heavily anchors and directs rebellious Qi downward, Cools the Blood and Stops Bleeding
+
+### How these actions work
+'Calms the Liver and subdues Yang' means Dài Zhě Shí weighs down and suppresses excessively rising Liver Yang. When Liver Yang flares upward (often due to underlying Yin deficiency), it causes symptoms like dizziness, headaches, tinnitus, irritability, and a sensation of pressure in the head. As a heavy mineral with a cold nature, Dài Zhě Shí acts like an anchor that pulls this upward-surging force back down and clears Liver Fire. This is why it appears in formulas for high blood pressure and stroke prevention alongside other heavy-sinking substances like dragon bone and oyster shell.
+'Heavily anchors and directs rebellious Qi downward' refers to its core strength: forcing Qi that is moving in the wrong direction (upward) back down to where it should go. The Stomach's Qi should naturally descend. When it rebels upward, there is belching, hiccups, nausea, or vomiting. When Lung Qi fails to descend, there is wheezing or coughing. Dài Zhě Shí is physically heavy and cold, giving it a powerful sinking and descending quality. It is one of the strongest substances in TCM for treating stubborn, upward-moving Qi, especially of the Stomach and Lungs. Zhang Xichun, a renowned physician, praised it for its ability to 'suppress rebellious Stomach and Chong vessel Qi, open the chest, sink phlegm, stop vomiting, and relieve constipation.'
+'Cools the Blood and stops bleeding' applies when Heat in the Blood forces blood out of the vessels, causing nosebleeds, vomiting of blood, or heavy uterine bleeding. The cold, bitter nature of Dài Zhě Shí clears this Heat from the Blood level. For this purpose, the vinegar-calcined (醋煅) form is typically preferred, as the calcination process enhances its astringent, blood-stopping properties.
+
+---
+
+## Patterns Addressed
+### Liver Yang Rising
+- **Explanation**: Liver Yang Rising occurs when Liver Yin becomes insufficient to anchor Liver Yang, allowing it to flare upward and cause symptoms in the head. Dài Zhě Shí directly addresses this with its heavy, sinking, cold mineral nature. It enters the Liver channel and forcefully anchors the rising Yang back downward. Its bitter-cold quality also clears any Liver Fire that accompanies the Yang rising. This is why it is paired with Yin-nourishing and Yang-anchoring substances like dragon bone (Lóng Gǔ), oyster shell (Mǔ Lì), and tortoise plastron (Guī Bǎn) in the classical formula Zhèn Gān Xī Fēng Tāng.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 10–30g
+- **Maximum Dosage**: Up to 30g in standard decoction; Zhang Xichun (张锡纯) historically used doses up to one liang (approximately 30–45g) in critical cases, always under careful supervision
+- **Dosage Notes**: Use lower doses (10–15g) when Stomach Qi is already weak, as excessive amounts of this heavy, cold mineral can injure digestive function — this is why the original Xuan Fu Dai Zhe Tang uses a relatively small dose. Higher doses (15–30g) may be used when the primary goal is to subdue Liver Yang or powerfully descend rebellious Qi in robust patients. For descending Qi and calming Liver, the raw (unprocessed) form is preferred. For stopping bleeding (hematemesis, epistaxis, uterine bleeding), the calcined-and-vinegar-quenched (煅醋淬) form is used instead. Zhang Xichun strongly advocated raw use only, arguing that calcining destroys the herb's blood-nourishing capacity.
+- **Preparation**: Must be crushed into small pieces and decocted first (先煎, xian jian) for at least 30 minutes to 2 hours before adding other herbs, as the hard mineral requires prolonged boiling to release its active components. For the raw form (生赭石), this long pre-decoction is essential. The calcined-vinegar-quenched form (煅醋淬赭石) is more friable and decocts more easily; it is preferred for stopping bleeding. When used in powdered form for direct ingestion (as Zhang Xichun advocated), the dose is typically 1–3g per serving.
+
+---
+
+## Processing Methods
+### Sh&#x113;ng D&#xE0;i Zh&#x11B; Sh&#xED; (&#x751F;&#x4EE3;&#x8D6D;&#x77F3;)
+- **Processing Method**: The raw mineral is crushed into small pieces or ground into coarse powder. No heat or chemical processing is applied.
+- **How it Changes Properties**: This is the unprocessed form. It retains its full bitter, cold nature and maximum descending, sinking force. The raw form has the strongest Qi-directing and Liver-subduing action.
+- **When to Use**: Used when the primary goal is to descend rebellious Qi (vomiting, hiccups, belching, wheezing) or to subdue Liver Yang (dizziness, headaches, hypertension). Must be pre-decocted (先煎) for 20-30 minutes due to its mineral hardness.
+
+### C&#xF9; Zh&#x11B; Sh&#xED; (&#x918B;&#x8D6D;&#x77F3;)
+- **Processing Method**: The raw hematite pieces are heated over high, smokeless fire until glowing red, then immediately quenched in rice vinegar. This calcination-and-quenching cycle is repeated several times until the mineral becomes crumbly and easy to powder. Standard ratio: 30 kg vinegar per 100 kg mineral.
+- **How it Changes Properties**: Vinegar calcination makes the mineral friable and easier to decoct and absorb. It becomes somewhat less intensely cold and bitter. The astringent, blood-stopping action is significantly enhanced while the strong descending force is moderated.
+- **When to Use**: Preferred when the main goal is to cool the Blood and stop bleeding, such as in cases of nosebleeds, vomiting blood, or uterine hemorrhage. The vinegar processing enhances the hemostatic effect and makes the substance gentler on the Stomach.
+
+---
+
+## Common Herb Pairs
+### Xuan Fu Hua (Ratio: Xu&#xE1;n F&#xF9; Hu&#x101; 9g : D&#xE0;i Zh&#x11B; Sh&#xED; 3-9g (in the original Sh&#x101;ng H&#xE1;n L&#xF9;n formula, the ratio is 3:1 with Xu&#xE1;n F&#xF9; Hu&#x101; predominant))
+- **Description**: This is perhaps the most famous herb pair involving Dài Zhě Shí. Xuán Fù Huā (Inula flower) descends Qi and dissolves phlegm from above, while Dài Zhě Shí provides heavy, anchoring force to powerfully suppress the rebellious upward movement. Together they address both the phlegm obstruction and the Qi rebellion simultaneously, making them far more effective at stopping belching, hiccups, and vomiting than either herb alone.
+- **When to Use**: Persistent belching, hiccups, nausea, or vomiting due to Stomach Qi rebellion complicated by phlegm obstruction. Also useful for wheezing when Lung Qi fails to descend.
+
+### Ren Shen (Ratio: R&#xE9;n Sh&#x113;n 6-15g : D&#xE0;i Zh&#x11B; Sh&#xED; 15-60g (Zhang Xichun often used large doses of D&#xE0;i Zh&#x11B; Sh&#xED; in this pairing))
+- **Description**: Rén Shēn (Ginseng) strongly tonifies the fundamental Qi, while Dài Zhě Shí directs it powerfully downward. Together they rescue collapsing Qi by both replenishing it and anchoring it in place. Zhang Xichun described this pairing as 'using Ginseng to harness the downward-directing force of hematite to pull back Qi that is on the verge of deserting the body.'
+- **When to Use**: Severe Qi deficiency with rebellious upward Qi movement: dangerous wheezing where the patient cannot inhale, vomiting with extreme exhaustion, or conditions where Qi is both deficient and chaotically surging upward.
+
+### Long Gu (Ratio: 1:1 (typically 15-30g each))
+- **Description**: Both are heavy, sinking substances that anchor rising Yang, but they work through complementary mechanisms. Lóng Gǔ (Dragon bone) calms the spirit, settles anxiety, and astricts floating Yang with a neutral, sweet quality. Dài Zhě Shí adds bitter-cold Liver-clearing force to the anchoring effect. Together they provide a stronger, more comprehensive suppression of Liver Yang Rising than either alone.
+- **When to Use**: Liver Yang Rising with dizziness, headache, irritability, and restlessness or insomnia. Both appear together in Zhèn Gān Xī Fēng Tāng.
+
+### Ban Xia (Ratio: B&#xE0;n Xi&#xE0; 9g : D&#xE0;i Zh&#x11B; Sh&#xED; 3-9g)
+- **Description**: Bàn Xià (Pinellia) is warm and pungent, dissolving phlegm and harmonizing the Stomach by descending turbid Qi. Dài Zhě Shí is cold, bitter, and heavy, forcefully suppressing rebellious Qi. Together, the warm phlegm-dissolving action of Bàn Xià complements the cold heavy-sinking action of Dài Zhě Shí, creating a balanced approach that both clears the obstruction (phlegm) and corrects the direction (descending rebellious Qi). Bàn Xià's warmth also moderates Dài Zhě Shí's coldness.
+- **When to Use**: Nausea, vomiting, or hiccups with visible phlegm or a greasy tongue coating, indicating phlegm-dampness complicated by Qi rebellion.
+
+---
+
+## Key Formulas
+Xuan Fu Dai Zhe Tang, Zhen Gan Xi Feng Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+While classified as non-toxic in the classical literature (the Ming Yi Bie Lu states 'wu du' / no toxicity), Dai Zhe Shi naturally contains trace amounts of arsenic (砷) as a mineral impurity. The arsenic content in raw, dry-ground specimens is the highest among all processing forms. Proper processing through calcining and vinegar quenching (煅醋淬) followed by water-levigation (水飞) is the most effective method for reducing arsenic levels. Animal studies have shown toxicity at very high doses (mice given 2g daily all died by day 7, with symptoms of muscle weakness, incoordination, and paralysis). For this reason, it should not be used continuously over prolonged periods. Standard clinical doses of properly processed Dai Zhe Shi in decoction are considered safe for short-to-medium-term therapeutic use.
+
+### Contraindications
+- **[Caution]** Pregnancy: Dai Zhe Shi is heavy, sinking, and cold in nature, which can promote downward movement and potentially disturb the fetus. Classical sources (Ben Cao Meng Quan) explicitly state that pregnant women should avoid it.
+- **[Caution]** Spleen and Stomach deficiency cold (脾胃虚寒) with poor appetite and loose stools: the bitter, cold nature of Dai Zhe Shi can further injure weak digestive function.
+- **[Caution]** Yang deficiency patterns: the Ben Cao Jing Shu warns against use in those with deficiency cold in the lower body or Yang deficiency with impotence, as the cold sinking nature will further deplete Yang.
+- **[Caution]** Qi deficiency and fluid dryness (气不足、津液燥): the De Pei Ben Cao prohibits use when Qi is insufficient or body fluids are depleted, as the herb's descending nature relies on adequate Qi to function properly.
+- **[Caution]** Long-term use: Dai Zhe Shi naturally contains trace amounts of arsenic (砷). It should not be taken continuously over prolonged periods.
+
+### Classical Incompatibilities
+Dai Zhe Shi does not appear on the Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, the Ben Cao Jing Ji Zhu (本草经集注) states that it 'fears Tian Xiong' (畏天雄, a processed form of aconite), and the Ri Hua Zi Ben Cao (日华子本草) states it 'fears Fu Zi' (畏附子, prepared aconite). The Yao Xing Lun (药性论) records that Gan Jiang (干姜, dried ginger) serves as its 'envoy' herb (使药).
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Dai Zhe Shi is heavy and strongly sinking in nature with a cold thermal property, which gives it a powerful downward-directing action. This descending quality could theoretically disturb fetal stability and promote downward movement in the uterus. Multiple classical texts (Ben Cao Meng Quan, and others) explicitly caution against its use in pregnant women. If absolutely needed for severe conditions during pregnancy, it should only be used under close professional supervision at minimal effective doses.
+- **Breastfeeding**: Dai Zhe Shi is a mineral substance that may contain trace amounts of heavy metals, including arsenic. While small amounts transfer into breast milk is not well studied, the arsenic content is a theoretical concern for nursing infants. Short-term use at standard therapeutic doses under professional guidance is generally considered acceptable, but prolonged use during breastfeeding should be avoided as a precaution.
+- **Children**: Dai Zhe Shi can be used in children for appropriate conditions such as childhood convulsions (acute or chronic fright wind), but doses should be significantly reduced. A general guideline is approximately one-quarter to one-third of the adult dose for children under 6, and one-half to two-thirds for children aged 6–12. The classical Ben Cao Tu Jing mentions its use in paediatric formulas (such as the ancient Zi Wan for childhood fright). Due to trace arsenic content, duration of use in children should be kept short. It should always be properly processed and finely ground before use in paediatric prescriptions.
+
+### Drug Interactions
+As a mineral composed primarily of iron oxide (Fe2O3), Dai Zhe Shi has the potential for iron-based drug interactions:
+- Tetracycline antibiotics (tetracycline, doxycycline, oxytetracycline, methacycline): Iron ions form insoluble chelate complexes with tetracyclines, potentially reducing antibiotic absorption by 50–90%. An interval of at least 3 hours between doses is recommended if concurrent use is unavoidable.
+- Fluoroquinolone antibiotics (ciprofloxacin, levofloxacin): Similar chelation with iron can reduce bioavailability by over 50%. These antibiotics should be taken at least 2 hours apart from Dai Zhe Shi.
+- Levothyroxine (thyroid hormone replacement): Iron can bind levothyroxine in the gut and reduce its absorption. Separate administration by at least 4 hours.
+- Levodopa/carbidopa (Parkinson's medications): Iron chelation may reduce the bioavailability of levodopa.
+- Penicillamine: Iron reduces penicillamine absorption through complex formation.
+These interactions are well-established for iron salts in general. While the bioavailability of iron from a mineral decoction differs from that of pharmaceutical iron supplements, caution is warranted when patients are concurrently taking any of these medications.
+
+### Dietary Advice
+Avoid consuming cold, raw, and difficult-to-digest foods while taking Dai Zhe Shi, as the herb's cold nature can burden the Spleen and Stomach. Warming, easy-to-digest foods such as cooked grains, soups, and congee are recommended to support digestion. Avoid strong tea and coffee close to the time of taking the decoction, as tannins may interact with the iron content. If taking concurrent medications (especially antibiotics), allow at least 2–3 hours between the herbal decoction and pharmaceutical drugs.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Dai Zhe Shi (代赭石) is not a plant but a mineral substance. It is the ore of hematite (赤铁矿, Haematitum), a naturally occurring iron oxide mineral belonging to the corundum group of the trigonal crystal system. Its primary chemical composition is ferric oxide (Fe2O3), typically containing 53–65% iron content along with trace amounts of silicon, aluminum, titanium, manganese, calcium, and arsenic.
+The medicinal form occurs as oolitic (鲕状), bean-shaped (豆状), or kidney-shaped (肾状) aggregate masses. These aggregates are typically irregular, thick, plate-like blocks with angular edges. The surface colour ranges from brownish-red to dark brownish-red or iron-blue. One surface characteristically displays dense rounded protrusions called "nail heads" (钉头, ding tou), while the opposite surface shows corresponding concave pits of the same size. The mineral is notably heavy, very hard, and when broken reveals a layered or granular cross-section. It has a semi-metallic lustre and leaves a cherry-red or brownish-red streak when rubbed against porcelain. It is odourless and tasteless.
+Hematite forms through various geological processes, primarily hydrothermal activity, sedimentation, and regional metamorphism. The medicinal grade aggregates are specifically sedimentary in origin, found in iron-rich geological formations across northern and central China.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Mined year-round; there is no specific harvesting season as this is a mineral ore, not a plant product.
+- **Primary Growing Regions**: Dai Zhe Shi is a mineral (hematite ore), not a cultivated plant, so it is mined rather than grown. The primary production regions are Hebei (河北) and Shanxi (山西) provinces, which are considered the traditional daodi (道地) source areas for the highest quality specimens. Hematite deposits also occur in Shandong, Henan, Hunan, Guangdong, and Sichuan. The name 'Dai' (代) in the herb's name refers to Dai Prefecture (代郡) in ancient northern China (corresponding to areas in modern Hebei and Shanxi), reflecting its original source region.
+- **Quality Indicators**: Good quality Dai Zhe Shi (known as 'ding tou dai zhe' or nail-head ochre) should display the following characteristics: brownish-red to dark brownish-red surface colour; dense, rounded protrusions ("nail heads") clearly visible on one surface, with corresponding concave pits on the opposite surface; a semi-metallic lustre; when broken, the cross-section should show a distinct layered (laminated) structure; the streak colour (when rubbed against unglazed porcelain) should be cherry-red or brownish-red; the piece should feel notably heavy and be very hard. It should be odourless and tasteless. The Chinese Pharmacopoeia requires iron (Fe) content of no less than 45%. Avoid specimens that are lighter in weight, greyish-brown, with indistinct nail-heads and yellowish-brown streak — these may be 'lao zhe shi' (old ochre stone), an adulterant made of biological limestone with very low iron content.
+
+### Identity & Adulterants
+The most common adulterant is 'lao zhe shi' (老赭石, 'old ochre stone'), which is actually a biological limestone (生物灰岩) containing only small amounts of hematite. It can be distinguished by its lighter weight, greyish-brown colour, yellowish-brown streak (rather than cherry-red), less prominent or absent 'nail-head' protrusions, and white or greyish-white veins visible in the cross-section. Its iron content is far lower than authentic Dai Zhe Shi and it should not be used medicinally. Some regions also use 'zhe tu' (赭土, ochre earth), a weathered mixture of hematite and limonite whose mineral composition is closer to Yu Yu Liang (禹余粮) than to true Dai Zhe Shi. The Chinese Pharmacopoeia specifies that only the authentic 'ding tou' (nail-head) form of hematite ore is acceptable for medicinal use.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (神农本草经)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Dai Zhe Shi is one of the oldest mineral medicines in Chinese materia medica, first recorded in the Shen Nong Ben Cao Jing (神农本草经), where it was classified as a lower-grade (下品) substance. The name literally means "the ochre-red stone from Dai" — "Dai" (代) refers to Dai Prefecture (代郡), an ancient administrative region in what is now northern Hebei and Shanxi, and "zhe" (赭) describes the red-brown colour of ochre earth. It was also known by many aliases including Xu Wan (须丸), Xue Shi (血师, "Blood Master"), Tu Zhu (土朱, "Earth Cinnabar"), and Ding Tou Dai Zhe (钉头代赭, "Nail-head Ochre").
+Zhang Zhongjing (张仲景) famously used Dai Zhe Shi in his Shang Han Lun formula Xuan Fu Dai Zhe Tang (旋覆代赭汤) for persistent belching and epigastric hardness after inappropriate purging. Notably, its dose in this formula is deliberately small (one liang) compared to the other ingredients, to prevent the heavy, cold mineral from further injuring the already weakened Stomach Qi. In the late Qing and early Republican era, Zhang Xichun (张锡纯) became the most passionate advocate for Dai Zhe Shi, calling it a "great medicine for rescuing critical emergencies" (救颠扶危之大药). Zhang Xichun strongly insisted on using it raw (unprocessed) and in powdered form, arguing that calcining destroyed its blood-nourishing properties. He created numerous formulas featuring large doses of Dai Zhe Shi, including Zhen Gan Xi Feng Tang, Can Zhe Pei Qi Tang, and Can Zhe Zhen Qi Tang, applying it creatively for conditions from esophageal obstruction to rebellious Qi rushing upward.
+The Ben Cao Tu Jing (本草图经) noted that authentic Dai Zhe Shi was difficult to obtain even in the Song Dynasty, and recommended identifying quality pieces by looking for the characteristic "nail-head" protrusions. Over the centuries, processing methods evolved from simple crushing (Han Dynasty) to the more sophisticated calcining-and-vinegar-quenching (煅醋淬) method, which became standard from the Song Dynasty onward for reducing arsenic content and making the hard mineral easier to decoct.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/dai-zhe-shi](https://www.meandqi.com/knowledge-base/herbs/dai-zhe-shi)*

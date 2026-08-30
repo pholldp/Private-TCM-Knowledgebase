@@ -1,0 +1,177 @@
+# Jue Ming Zi (决明子)
+**English Name**: Cassia seed  
+**Category**: Heat-clearing herbs, Herbs that clear Liver Heat and brighten the eyes (清肝明目药)  
+**Scientific Name**: Senna obtusifolia (L.) H.S. Irwin & Barneby  
+**Pharmaceutical Name**: Cassiae Semen  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Sweet (甘 gān), Bitter (苦 kǔ), Salty (咸 xián)  
+**Channels Entered**: Liver, Large Intestine  
+**Parts Used**: Seed (种子 zhǒng zǐ / 子 zǐ / 仁 rén)  
+
+---
+
+## Summary
+Cassia seed is one of Chinese medicine's best-known herbs for eye health, used for centuries to clear Liver Heat that causes red, sore, or tired eyes. It also gently lowers blood pressure, supports healthy cholesterol levels, and relieves constipation. Widely consumed as a roasted tea throughout East Asia, it is recognized as both a food and medicine.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Eye Health and Vision, Blood Pressure Support, Cholesterol Management, Digestive Regularity
+- **TCM Actions**: Clears Heat and Brightens the Eyes, Clears Liver Fire, Calms the Liver and Subdues Yang, Moistens the Intestines and Unblocks the Bowels
+
+### How these actions work
+'Clears Heat and brightens the eyes' is the primary and most famous action of this herb. Because it enters the Liver channel and the Liver 'opens to the eyes' in TCM, Jue Ming Zi can clear Heat from the Liver that flares upward to disturb the eyes. This makes it a key herb for red, swollen, painful eyes, sensitivity to light, and excessive tearing caused by either Wind-Heat invasion or Liver Fire. The name 'Jue Ming' literally means 'to determine brightness,' reflecting its long history as a premier eye herb first recorded in the Shen Nong Ben Cao Jing.
+'Clears Liver Fire' means this herb can drain excess Heat that has accumulated in the Liver system. When the Liver becomes overheated (from emotional stress, diet, or other factors), it can cause symptoms like headaches, irritability, red eyes, and a bitter taste in the mouth. The bitter and salty tastes of Jue Ming Zi give it the ability to descend and drain this excess Liver Fire.
+'Calms Liver Yang' means this herb helps settle a pattern where the Liver's functional activity rises excessively upward, causing dizziness, headache, and a sensation of pressure in the head. This is why it is widely used in modern clinical practice for high blood pressure with a TCM pattern of Liver Yang Rising, often combined with herbs like Gou Teng (Uncaria) and Ju Hua (Chrysanthemum).
+'Moistens the intestines and unblocks the bowels' refers to the herb's gentle laxative effect. Because it enters the Large Intestine channel and its seeds contain oils and anthraquinone compounds, it can moisten dry stools and promote bowel movements. This is most suitable for constipation caused by internal Heat drying out the intestines.
+
+---
+
+## Patterns Addressed
+### Liver Fire Blazing
+- **Explanation**: Jue Ming Zi is bitter, salty, and slightly cool, entering the Liver channel directly. These properties give it a strong ability to drain excess Heat from the Liver. When Liver Fire blazes upward, it disturbs the eyes and head. The bitter taste descends and purges the Fire, while the salty taste softens and directs downward, counteracting the upward flaring. This makes Jue Ming Zi a frontline herb for Liver Fire patterns that manifest primarily in the eyes and head.
+- **Clinical Signs & Symptoms**:
+  - **Sore**: Red, swollen, painful eyes from Liver Fire flaring upward
+  - **Sensitivity To Light**: Photophobia with excessive tearing
+
+### Liver Yang Rising
+- **Explanation**: When Liver Yin becomes insufficient to anchor the Liver's Yang, Yang rises excessively and causes symptoms in the head. Jue Ming Zi clears Liver Fire and calms Liver Yang through its cool, descending nature. The salty taste has a particular affinity for drawing things downward and softening hardness, which helps settle rising Yang. While not as strongly anchoring as mineral substances like Shi Jue Ming (abalone shell), Jue Ming Zi adds the benefit of also nourishing Liver Yin through its sweet taste, making it well suited for Liver Yang Rising with underlying Yin deficiency.
+- **Clinical Signs & Symptoms**:
+  - **High Blood Pressure**: High blood pressure with red eyes and irritability
+
+### Heart and Kidney Yin Deficiency
+- **Explanation**: Although primarily a Heat-clearing herb, Jue Ming Zi has a secondary role in treating Liver and Kidney Yin Deficiency patterns that affect the eyes. The classical text Ben Cao Jing Shu notes that it 'benefits Yin and drains Heat, greatly tonifying Liver and Kidney Qi.' Its sweet taste gently nourishes, while its salty taste enters the Kidneys. For blurred vision, dry eyes, and night blindness from chronic Yin depletion, Jue Ming Zi is combined with Yin-nourishing herbs like Gou Qi Zi (wolfberry) and Sheng Di Huang (raw Rehmannia).
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Viral Conjunctivitis
+- **Arises from**: Liver Fire Blazing
+- **TCM Interpretation**: Acute red, painful eyes are understood in TCM as Heat (from either external Wind-Heat invasion or internal Liver Fire) attacking the eyes. Since the Liver channel connects directly to the eyes, the Liver is the primary organ involved. When Liver Fire rises, it brings Heat to the eye area, causing blood vessels to engorge (redness), local inflammation (pain and swelling), and excessive tear production as the body attempts to cool the area.
+- **Why it Helps**: Jue Ming Zi is considered a key herb ('yao yao,' essential medicine) for red, painful eyes. It enters the Liver channel and clears Heat directly from this organ, cutting off the source of the eye inflammation. For Wind-Heat type conjunctivitis, it is combined with Chan Tui (cicada moulting) and Ju Hua (Chrysanthemum) to also dispel the external pathogen. For Liver Fire type, it is paired with Long Dan Cao (Gentian root) and Xia Ku Cao (Prunella).
+
+### Constipation
+- **TCM Interpretation**: Constipation in TCM is not a single disease but a symptom arising from different root causes. When internal Heat accumulates in the intestines, it 'scorches' the fluids that normally lubricate the bowel, leaving the stool dry and hard. This type of constipation is often accompanied by dark urine, a feeling of body heat, a dry mouth, and sometimes bad breath. It is distinct from constipation caused by Qi deficiency (where the bowel lacks the force to push) or Blood deficiency (where fluids are insufficient due to lack of nourishment).
+- **Why it Helps**: Jue Ming Zi addresses Heat-type constipation through two mechanisms. First, its cool nature clears the internal Heat that is drying out the bowel. Second, its seed oils and anthraquinone compounds (similar to those found in Da Huang / rhubarb, but much milder) gently lubricate and stimulate bowel movement. This makes it suitable for long-term, gentle use rather than the aggressive purging of stronger laxative herbs. For this purpose, the raw (unroasted) form is preferred, as roasting reduces the laxative anthraquinone content significantly.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-15g
+- **Maximum Dosage**: Up to 20-30g in decoction for short-term use when treating severe constipation or marked Liver Heat patterns, under practitioner supervision. The Chinese Pharmacopoeia standard range is 9-15g.
+- **Dosage Notes**: For clearing Liver Heat and brightening the eyes (red, painful, swollen eyes; headache and dizziness due to Liver fire or ascending Liver Yang), the standard dose of 9-15g is appropriate. For moistening the intestines and relieving constipation, doses toward the higher end (12-15g) or slightly above may be needed. For use as daily health tea, 10g of dry-fried seeds steeped in boiling water is typical. The dry-fried form (chao jue ming zi) is preferred for most clinical applications because the roasting process softens the laxative effect and makes the hard seeds easier to crush and extract. Using raw (unprocessed) seeds produces a stronger purgative action. The seeds should be lightly crushed before decocting to release their active compounds, as the intact seed coat is very hard and limits extraction.
+- **Preparation**: The seeds should be lightly crushed (dao sui 捣碎) before adding to a decoction, as the intact seed coat is extremely hard and limits extraction of active compounds. No special decoction timing is required (i.e. it does not need to be decocted first or added late). The dry-fried form (chao jue ming zi) is most commonly used in clinical practice, as roasting reduces the harsh laxative effect and produces a pleasant aroma. For tea use, the crushed dry-fried seeds can simply be steeped in boiling water.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o Ju&#xE9; M&#xED;ng Z&#x1D0; (&#x7092;&#x51B3;&#x660E;&#x5B50;)
+- **Processing Method**: Stir-fry clean Jue Ming Zi seeds over low heat until they slightly crack, pop, and release a fragrant aroma. Remove and allow to cool. Crush before use in decoction.
+- **How it Changes Properties**: Roasting significantly reduces the cold, purging nature of the herb. The laxative anthraquinone content (bound anthraquinones) drops to roughly one quarter of the raw form. The thermal nature shifts from slightly cool toward more neutral. The focus changes from clearing Liver Heat and moistening the bowels to calming Liver Yang and nourishing the Liver and Kidneys. Roasting also cracks the hard seed coat, improving extraction of active compounds during decoction.
+- **When to Use**: Use the roasted form when the goal is to calm Liver Yang for headache and dizziness (such as in hypertension) rather than to purge Liver Fire or relieve constipation. Also preferred for patients with weaker digestion who cannot tolerate the raw form's cold, laxative properties. The roasted form is standard for daily tea use.
+
+---
+
+## Common Herb Pairs
+### Ju Hua (Ratio: 1:1 (e.g. Jue Ming Zi 10g : Ju Hua 10g))
+- **Description**: Jue Ming Zi and Ju Hua (Chrysanthemum) both clear Liver Heat and brighten the eyes, but they work through complementary mechanisms. Jue Ming Zi drains Liver Fire from the interior while Ju Hua also disperses Wind-Heat from the exterior. Together they provide a comprehensive approach to eye redness, headache, and dizziness whether the cause is internal or external.
+- **When to Use**: Red, painful, or tired eyes with headache, especially when both Liver Fire and Wind-Heat are involved. Also used as a daily wellness tea for eye strain.
+
+### Gou Qi Zi (Ratio: 1:2 (e.g. Jue Ming Zi 5g : Gou Qi Zi 10g))
+- **Description**: Jue Ming Zi clears Liver Heat while Gou Qi Zi (Wolfberry) nourishes Liver and Kidney Yin. The clearing action of Jue Ming Zi prevents the rich, nourishing nature of Gou Qi Zi from generating stagnation, while Gou Qi Zi's warmth and sweetness balance the cold nature of Jue Ming Zi. Together they address both the root (Yin deficiency) and the branch (Heat disturbing the eyes).
+- **When to Use**: Blurred or declining vision, dry eyes, and dizziness from Liver-Kidney Yin deficiency with some residual Heat. Especially suitable for age-related visual deterioration.
+
+### Gou Teng (Ratio: 1:1 (e.g. Jue Ming Zi 15g : Gou Teng 15g))
+- **Description**: Jue Ming Zi clears Liver Fire and calms Liver Yang from within, while Gou Teng (Uncaria) extinguishes Liver Wind and calms Liver Yang through its cooling, settling action. Together they provide a stronger calming effect on rising Liver Yang than either herb alone, particularly effective for headache and dizziness related to high blood pressure.
+- **When to Use**: Hypertension with prominent headache, dizziness, irritability, and red eyes indicating Liver Yang Rising or Liver Fire.
+
+### Xia Ku Cao (Ratio: 1:1 (e.g. Jue Ming Zi 15g : Xia Ku Cao 15g))
+- **Description**: Both herbs enter the Liver channel and clear Liver Fire, but Xia Ku Cao has a particular strength in softening hardness and dissipating nodules. When combined, they strongly drain Liver Fire and calm Liver Yang, making this a powerful pair for Liver Fire headache, red eyes, and hypertension.
+- **When to Use**: Severe Liver Fire headache, eye pain with marked photophobia, or hypertension with strong irritability and a flushed face.
+
+---
+
+## Key Formulas
+Shi Hu Ye Guang Wan, Jin Ling Zi San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Jue Ming Zi is classified as non-toxic in classical sources (the Ming Yi Bie Lu explicitly states "wu du" / non-toxic) and was listed as a top-grade herb in the Shen Nong Ben Cao Jing, indicating suitability for regular use. However, it contains anthraquinone compounds (emodin, chrysophanol, aloe-emodin, physcion, etc.) similar to those in Da Huang (rhubarb). These anthraquinones are responsible for its laxative effect and, with prolonged excessive use, may irritate the intestinal lining or contribute to melanosis coli (colonic pigmentation). Some animal studies have raised concerns about potential reproductive toxicity and hepatotoxicity with very high doses of isolated anthraquinone compounds, though these doses far exceed normal clinical use. Dry-frying (chao) the seeds reduces the anthraquinone content and softens the laxative effect, making it the preferred preparation form for most clinical and tea use. At standard doses (9-15g) and for normal durations of use, Jue Ming Zi is considered safe.
+
+### Contraindications
+- **[Caution]** Spleen and Stomach deficiency cold (pi wei xu han): The herb's cold nature and laxative effect can worsen diarrhea, loose stools, poor appetite, and abdominal distension in people with weak, cold digestive systems.
+- **[Caution]** Low blood pressure (hypotension): Jue Ming Zi has documented blood-pressure-lowering effects and may cause dizziness, fatigue, or worsening symptoms in those with already low blood pressure.
+- **[Caution]** Chronic diarrhea or loose stools: The anthraquinone content provides a laxative effect that will aggravate pre-existing diarrhea or intestinal weakness.
+- **[Caution]** Long-term continuous use exceeding 2-3 months: Prolonged ingestion of anthraquinone-containing substances may cause melanosis coli (darkening of the colon lining) and potential bowel dependency.
+- **[Caution]** Concurrent use with anticoagulant or strong antihypertensive medications without medical supervision, due to potential additive effects.
+
+### Classical Incompatibilities
+Jue Ming Zi does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, the Ben Cao Jing Ji Zhu records that Shi Shi (蓍实, Achillea millefolium fruit) serves as its envoy herb (shi 使), and that Jue Ming Zi is "averse to" (恶) Da Ma Zi (大麻子, Cannabis sativa seed). This is a traditional pairing caution rather than a strict incompatibility.
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Jue Ming Zi contains anthraquinone compounds (emodin, chrysophanol, aloe-emodin) that have laxative properties and may stimulate uterine contractions. The cathartic effect can trigger increased intestinal motility and potentially cause diarrhea that may indirectly promote uterine irritability. Some preliminary research has also noted potential reproductive toxicity from anthraquinone compounds at high doses. Classical and modern Chinese medical sources consistently list pregnancy as a contraindication for this herb.
+- **Breastfeeding**: Caution is advised during breastfeeding. Anthraquinone compounds such as emodin may potentially pass into breast milk, and their laxative properties could cause loose stools or digestive discomfort in nursing infants. There is insufficient clinical data to confirm safety during lactation. If used, it should be at low doses, for short durations, and under the guidance of a qualified practitioner.
+- **Children**: Jue Ming Zi can be used in children under practitioner supervision, primarily for childhood conditions such as infantile malnutrition (gan ji) affecting the eyes or constipation due to Heat. Classical sources record specific paediatric formulas, such as combining 9g of crushed Jue Ming Zi with chicken liver for childhood malnutrition. Dosages should be reduced proportionally based on the child's age and weight, typically one-third to one-half of the adult dose. Due to the anthraquinone content and laxative action, prolonged use in children should be avoided. The herb should not be used in infants or children with cold-type diarrhea or weak digestion.
+
+### Drug Interactions
+Antihypertensive medications: Jue Ming Zi has documented hypotensive effects in animal studies and clinical observation. Concurrent use with antihypertensive drugs (ACE inhibitors, beta-blockers, calcium channel blockers, etc.) may produce additive blood-pressure-lowering effects, potentially causing symptomatic hypotension. Blood pressure should be monitored.
+Anticoagulant and antiplatelet drugs: Research has shown that compounds from C. obtusifolia seeds possess inhibitory activity against platelet aggregation. Caution is warranted when combining with warfarin, heparin, or antiplatelet agents (aspirin, clopidogrel), as there may be an increased risk of bleeding.
+Antidiabetic medications: Some studies suggest Jue Ming Zi constituents can inhibit alpha-glucosidase and may have blood-sugar-lowering effects. Concurrent use with insulin or oral hypoglycaemics could theoretically increase the risk of hypoglycaemia.
+Other laxative medications: The anthraquinone content of Jue Ming Zi gives it a cathartic action similar to senna-based laxatives. Combining it with other laxatives (whether herbal such as Da Huang or pharmaceutical such as bisacodyl or senna preparations) may cause excessive diarrhea, fluid loss, and electrolyte imbalances.
+
+### Dietary Advice
+When using Jue Ming Zi to clear Liver Heat, avoid excessive consumption of spicy, greasy, or deep-fried foods and alcohol, which generate internal Heat and counteract the herb's cooling action. Those using it for constipation should increase dietary fibre and water intake to support its bowel-moistening effect. Because the herb is cold in nature, people with weaker digestion should consume warm, easily digestible foods (cooked vegetables, congee, soups) alongside it, and may pair it with ginger tea or warm spices to offset its cold properties. Avoid combining with large amounts of other cold-natured foods (such as raw salads, iced drinks, or watermelon) to prevent excessive cooling of the digestive system.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Senna obtusifolia (syn. Cassia obtusifolia) is an annual erect herb of the Leguminosae (legume) family, typically growing 1 to 2 metres tall. The stems are sturdy with compound leaves that are paripinnate (evenly paired), bearing 3 pairs of obovate to oblong leaflets, each 2 to 6 cm long, with a small conical gland situated between the two lowest pairs of leaflets. In summer (around July), the plant produces small yellow flowers from the leaf axils. The fruit is a slender, curved pod up to 20 cm long, somewhat resembling a sickle or goat horn, which gives rise to several of its folk names. The pods contain numerous shiny, dark brown seeds approximately 3 to 7 mm long.
+A closely related species, Senna tora (syn. Cassia tora), known as "small Jue Ming" (小决明), is also used medicinally; it is slightly smaller in all parts and its seeds are shorter (3 to 5 mm). The plant prefers warm, humid climates with ample sunlight, thriving best during hot, rainy summer months. It is not cold-hardy and grows well in loose, fertile, well-drained soils. It is found wild and cultivated throughout tropical and subtropical regions worldwide, including much of China south of the Yangtze River.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (typically October to November), when the pods have turned yellowish-brown and the seeds are fully mature. The whole plant or pods are harvested, sun-dried, and the seeds are threshed out.
+- **Primary Growing Regions**: Jue Ming Zi is widely cultivated across China, with major production areas in Anhui, Jiangsu, Sichuan, Henan, Hubei, Guangxi, Zhejiang, and Guangdong provinces. The smaller species (Xiao Jue Ming / Senna tora) is mainly produced in Guangxi and Yunnan. Historically, the Ben Cao Pin Hui Jing Yao identified Guangzhou and Guizhou (modern Guangzhou and Guilin) as the classical dao di (terroir) production regions. The Song dynasty Ben Cao Tu Jing recorded particularly good quality from Chuzhou (Anhui) and Meizhou (Sichuan). Globally, the largest production is now in Africa, with significant imports from Southeast Asia, which account for over 95% of China's total supply.
+- **Quality Indicators**: Good quality Jue Ming Zi seeds are plump and full, with a greenish-brown surface colour (preferred over dark brown or blackish seeds). The surface should be smooth and glossy, with clearly visible raised ridges on the back and belly, and the characteristic lighter-coloured groove lines on each side of the ridges should be distinct. The seeds should be hard and difficult to break. When cut open, the cross-section should reveal thin seed coat and two yellow, S-shaped folded cotyledons. The flavour should be slightly bitter and the smell faint. For dry-fried (chao) Jue Ming Zi, quality seeds are slightly puffed, with occasional scorch marks, and emit a pleasant roasted aroma. Avoid seeds that are shrivelled, dull, mouldy, or insect-damaged.
+
+### Identity & Adulterants
+The most historically significant confusion is between Jue Ming Zi (决明子, Cassiae Semen) and Qing Xiang Zi (青葙子, Celosiae Semen from Celosia argentea). Both share the folk name "Cao Jue Ming" (草决明) in some texts, and both are used for clearing the Liver and brightening the eyes. However, Qing Xiang Zi has pupil-dilating properties and is contraindicated in glaucoma, making misidentification clinically dangerous. They can be distinguished by seed morphology: Jue Ming Zi seeds are rhomboidal with a glossy surface and characteristic grooves, while Qing Xiang Zi seeds are smaller, rounder, and lens-shaped with a shiny black surface.
+Related species within the Senna genus may also be substituted, including Wang Jiang Nan (望江南, Senna occidentalis) and other Cassia relatives such as Shuang Jia Jue Ming (双荚决明). These have different phytochemical profiles and should not be used interchangeably.
+The officially accepted Pharmacopoeia source includes two species: Senna obtusifolia (the larger "Jue Ming") and Senna tora ("Xiao Jue Ming" / small Jue Ming). The smaller species has higher anthraquinone content and is preferred for pharmaceutical use, while the larger species is more common in retail consumer products.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 决明子，味咸，平。主青盲，目淫肤赤白膜，眼赤痛，泪出。久服益精光，轻身。
+- **Translation**: Jue Ming Zi, salty in flavour, neutral in nature. Treats blue blindness (visual impairment), fleshy membranes on the eye whether red or white, red painful eyes, and excessive tearing. Long-term use benefits the clarity of vision and lightens the body.
+
+### Historical Context
+Jue Ming Zi was first recorded in the Shen Nong Ben Cao Jing, where it was classified as a "top-grade" (上品) herb, meaning it was considered non-toxic and suitable for long-term use. Its name literally means "the seed that decides brightness" (决明 = to decide/restore clarity), reflecting its primary classical reputation as an eye medicine. Li Shizhen's Ben Cao Gang Mu confirmed this etymology. Other classical texts bestowed names like "pupil-restoring seed" (还瞳子, from the Yi Xue Zheng Zhuan) and "seed of bright eyes" (明目子), all testifying to its central role in treating eye diseases. Its fruit pods, which are long and curved like goat horns, earned it folk names such as "goat horn" (羊角) from the Guang Ya and "horse-hoof seed" (马蹄决明) from Tao Hongjing's Ben Cao Jing Ji Zhu.
+There is a long historical confusion between Jue Ming Zi and Qing Xiang Zi (青葙子, Celosia argentea seed). The name "Cao Jue Ming" (草决明, literally "herbal Jue Ming") was applied to both herbs in different texts: the Wu Pu Ben Cao used it for Jue Ming Zi, while later texts like the Ben Cao Cong Xin applied it to Qing Xiang Zi. This naming ambiguity persisted for centuries and still occasionally causes dispensing errors in modern pharmacies. The 2020 Chinese Pharmacopoeia clearly distinguishes the two. In modern times, Jue Ming Zi has transcended its purely medicinal role. Roasted cassia seed tea has become popular across East Asia as a health beverage, sometimes called "Eastern coffee" due to its roasted aroma. It was officially listed as a "medicine-food dual-use" (药食同源) item by China's health authorities.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Phytochemistry, Ethnopharmacological Uses, Biological Activities, and Therapeutic Applications of Cassia obtusifolia L. (2021)]()**
+   *Journal: Ali MY, Park S, Chang M. Molecules. 2021;26(20):6252.*
+   This review compiled all known pharmacological properties of C. obtusifolia seeds, confirming a wide range of biological activities including antidiabetic, antimicrobial, anti-inflammatory, hepatoprotective, and neuroprotective effects. The authors identified anthraquinone derivatives as the primary bioactive constituents and noted potential applications in Alzheimer's disease, Parkinson's disease, and cancer, while calling for more clinical trials.
+
+2. **[RCT: Oral Administration of Processed Cassia obtusifolia L. Seed Powder for Body Weight and Cholesterol in Overweight Patients with Schizophrenia (2022)](https://pubmed.ncbi.nlm.nih.gov/35304275/)**
+   *Journal: Journal of Ethnopharmacology. 2022. (Published online March 2022)*
+   A 36-week randomized, double-blind, controlled trial assigned 94 overweight or obese patients with schizophrenia to receive either low-dose (0.3g) or high-dose (3.0g) Cassia seed powder daily. The study investigated effects on body mass index, waist circumference, serum lipids, and inflammatory markers. Seventy-four patients completed the trial, providing evidence for potential benefits on body weight and cholesterol.
+
+3. **[Pharmacological Review: Cassiae semen - Phytochemistry and Pharmacology (2017)]()**
+   *Journal: Molecular Medicine Reports. 2017;16:2331-2346.*
+   This review systematically summarized over 70 compounds isolated from Cassiae semen, primarily anthraquinones and naphthopyrones. It documented pharmacological evidence for antihyperlipidemic, neuroprotective, hepatoprotective, antibacterial, and antimutagenic activities. The paper also reviewed evidence for blood lipid reduction, noting that n-butanol and ethyl acetate extracts significantly decreased total cholesterol, triglycerides, and LDL-C while increasing HDL-C.
+
+4. **[Preclinical Study: Neuroprotective Effects of Cassiae semen in Parkinson's Disease Models (2010)](https://pubmed.ncbi.nlm.nih.gov/20457209/)**
+   *Journal: Ju MS, Kim HG, Choi JG, et al. Food and Chemical Toxicology. 2010;48(8-9):2037-2044.*
+   This preclinical study investigated Cassiae semen ethanolic extract in cell culture and mouse models of Parkinson's disease. In PC12 cells, the extract protected against 6-hydroxydopamine-induced damage, inhibiting oxidative stress, mitochondrial depolarization, and caspase-3 activation. In a mouse MPTP model, the extract also showed protective effects on dopaminergic neurons.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/jue-ming-zi](https://www.meandqi.com/knowledge-base/herbs/jue-ming-zi)*

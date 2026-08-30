@@ -1,0 +1,178 @@
+# Mu Xiang (木香)
+**English Name**: Costus root  
+**Category**: Qi-regulating herbs (理气药)  
+**Scientific Name**: Aucklandia lappa Decne.  
+**Pharmaceutical Name**: Radix Aucklandiae  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+Mu Xiang (Costus root) is one of the most widely used Qi-moving herbs in Chinese medicine, prized for its strong aromatic quality and ability to relieve digestive discomfort. It is commonly used for abdominal bloating, pain, poor appetite, nausea, and diarrhea with cramping. Its warming nature makes it especially suited for people whose digestive issues worsen with cold or stress.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Bloating Relief, Abdominal Pain Relief, Appetite Support
+- **TCM Actions**: Moves Qi and Alleviates Pain, Strengthens the Spleen and Promotes Digestion, Regulates Qi Flow in the Chest, Abdomen and Lower Body, Promotes Qi Movement in the San Jiao
+
+### How these actions work
+'Promotes the movement of Qi and alleviates pain' (行气止痛) is Mu Xiang's primary action. When Qi stagnates in the digestive tract, it causes bloating, distension, cramping, and pain in the chest, flanks, or abdomen. Mu Xiang's warm, pungent nature powerfully drives stagnant Qi to move, while its bitter taste helps direct Qi downward. This makes it one of the most important herbs for any kind of abdominal or epigastric pain caused by Qi not flowing smoothly. Classical texts call it a key herb for all three sections of the San Jiao (the body's metabolic 'triple pathway'), meaning it can address Qi stagnation at almost any level of the torso.
+'Strengthens the Spleen and promotes digestion' (健脾消食) means Mu Xiang helps the digestive system work more efficiently. When the Spleen is sluggish and food sits undigested, causing fullness, poor appetite, or nausea, Mu Xiang's aromatic warmth 'wakes up' the Spleen and gets digestive Qi moving again. This is why it is frequently added to tonic formulas that might otherwise be too heavy or cloying. A small amount of Mu Xiang keeps rich, nourishing herbs from causing further stagnation.
+'Regulates stagnant Qi in the intestines' refers to Mu Xiang's specific ability to address problems in the lower digestive tract. When Qi stagnation affects the Large Intestine, it can cause dysentery-like symptoms with a painful, urgent need to use the toilet but incomplete evacuation (called tenesmus or 'li ji hou zhong'). Mu Xiang moves the stuck Qi in the intestines, relieving this urgency and cramping. For this purpose, the baked form (Wei Mu Xiang) is often preferred because it has a gentler, more astringent quality that also helps firm up loose stools.
+
+---
+
+## Patterns Addressed
+### Qi Stagnation
+- **Explanation**: When Qi stagnates in the Spleen and Stomach, the digestive system loses its ability to transform food and transport nutrients properly, leading to bloating, fullness, and pain in the upper abdomen. Mu Xiang is ideally suited for this pattern because its warm temperature and pungent taste powerfully move stagnant Qi, while its bitter taste directs Qi downward to restore normal descending movement of the Stomach. It enters the Spleen and Stomach channels directly, making it one of the most targeted herbs for middle-burner Qi stagnation. Practitioners often combine it with Qi-tonifying herbs like Ren Shen or Bai Zhu so that the tonification does not create further stagnation.
+- **Clinical Signs & Symptoms**:
+
+### Large Intestine Dryness
+- **Explanation**: When Damp-Heat lodges in the Large Intestine, it produces dysentery-like symptoms with urgent, painful bowel movements that feel incomplete. While Mu Xiang is warm in nature, it is not used here for its warmth but for its powerful Qi-moving action. By resolving the Qi stagnation that traps Dampness and Heat in the intestines, Mu Xiang relieves the characteristic tenesmus (the urgent straining sensation). It enters the Large Intestine channel directly and is classically paired with the cold, bitter herb Huang Lian (Coptis) to form the famous Xiang Lian Wan pair, where Huang Lian clears the Damp-Heat while Mu Xiang moves the Qi.
+- **Clinical Signs & Symptoms**:
+
+### Spleen Qi Deficiency
+- **Explanation**: In Spleen Qi Deficiency, the digestive system is weak and sluggish, but the resulting poor Qi movement also leads to secondary stagnation. Mu Xiang is not a tonifying herb itself, but plays a critical supporting role in this pattern. By keeping Qi flowing smoothly, it prevents the heavy, cloying tonifying herbs from causing further stagnation and bloating. This is the principle behind adding Mu Xiang and Sha Ren to the classic Six Gentlemen formula (Liu Jun Zi Tang) to create Xiang Sha Liu Jun Zi Tang. Mu Xiang ensures that the Spleen can actually absorb and use the tonification.
+- **Clinical Signs & Symptoms**:
+  - **Loose Stools**: Soft or loose stools from weak Spleen transport
+
+---
+
+## Commonly Used For
+### Irritable Bowel Syndrome
+- **Arises from**: Qi Stagnation, Spleen Qi Deficiency
+- **TCM Interpretation**: In TCM, IBS is most commonly understood as a disorder of Qi movement in the Spleen, Stomach, and intestines, often compounded by emotional stress affecting the Liver. When the Liver 'invades' the Spleen (a pattern where emotional tension disrupts digestion), Qi stagnates in the middle and lower abdomen, producing the characteristic symptoms of bloating, cramping pain, and disordered bowel habits. The Spleen's ability to transform and transport food and fluids is impaired, and Dampness may accumulate, leading to loose stools or mucus. The alternating nature of IBS (constipation and diarrhea) reflects the instability of Qi flow when the Liver-Spleen relationship is disrupted.
+- **Why it Helps**: Mu Xiang is one of the most directly applicable herbs for IBS because its core action is to move stagnant Qi in the Spleen, Stomach, and Large Intestine, the exact channels where IBS manifests. Its warm, pungent nature drives Qi circulation to relieve bloating and cramping, while its bitter taste helps direct disordered Qi downward. Research has confirmed that Mu Xiang's key compounds (costunolide and dehydrocostus lactone) have a bidirectional regulatory effect on gastrointestinal smooth muscle, meaning they can both stimulate sluggish motility and calm excessive spasm depending on the body's state. This matches TCM's description of Mu Xiang as a Qi regulator rather than simply a stimulant or relaxant. In clinical practice, Mu Xiang-based formulas have shown superiority over placebo for abdominal pain and bloating in IBS patients.
+
+### Chronic Gastritis
+- **Arises from**: Qi Stagnation, Spleen Qi Deficiency
+- **TCM Interpretation**: Functional indigestion (where no structural cause is found) is understood in TCM as a failure of the Spleen to transform food and the Stomach to descend properly. When these Qi mechanisms are impaired, food stagnates, producing fullness, bloating, belching, nausea, and poor appetite. Cold foods, emotional stress, or chronic illness can all impair the Spleen's warm, transforming function. The problem is essentially one of disordered Qi movement in the middle burner.
+- **Why it Helps**: Mu Xiang's aromatic warmth directly revives sluggish Spleen function and restores normal Qi movement in the digestive tract. Its ability to 'strengthen the Spleen and promote digestion' (jian pi xiao shi) addresses the root mechanism of functional indigestion. This is why Mu Xiang appears in so many classical digestive formulas, from Xiang Sha Liu Jun Zi Tang for deficiency-type indigestion to Mu Xiang Bing Lang Wan for excess-type food stagnation. Research shows that Mu Xiang extracts accelerate gastric emptying and increase the release of motilin (a hormone that stimulates gut movement), providing a pharmacological basis for its traditional digestive applications.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-10g
+- **Maximum Dosage**: Up to 15g in acute Qi stagnation with severe abdominal pain, under practitioner supervision. Classical sources caution that excessive dosage undermines the herb's effectiveness.
+- **Dosage Notes**: Use lower doses (3-6g) for mild Qi stagnation and as a supporting herb in tonifying formulas to prevent stagnation from rich, cloying supplementing herbs. Use higher doses (6-10g) for acute abdominal distension, pain, tenesmus, or severe Qi stagnation. Raw (unprocessed) Mu Xiang has stronger Qi-moving and pain-relieving action, while roasted Mu Xiang (Wei Mu Xiang, prepared by baking until the volatile oils seep into wrapping paper) has its drying and dispersing properties moderated, making it more suitable for stopping diarrhoea and treating chronic loose stools. Classical sources such as the Ben Cao Xin Bian advise keeping doses modest (not exceeding about 3g as an auxiliary herb), noting that excessive amounts paradoxically lose their effectiveness.
+- **Preparation**: Mu Xiang should be added near the end of decoction (hou xia, 后下), typically in the last 5-10 minutes, or ground into powder and stirred into the strained decoction. Prolonged boiling destroys its volatile aromatic oils, which are essential for its Qi-moving action. Alternatively, it can be ground fresh with warm water to make a concentrated liquid and taken directly. When used to stop diarrhoea rather than to move Qi, the roasted form (Wei Mu Xiang) is preferred.
+
+---
+
+## Processing Methods
+### W&#x113;i M&#xF9; Xi&#x101;ng (&#x7168;&#x6728;&#x9999;)
+- **Processing Method**: The raw Mu Xiang slices are layered between sheets of absorbent paper and baked at low heat near an oven or fire until the volatile oils seep into the paper. Alternatively, some regions stir-fry the slices with wheat bran until yellowed but not scorched, then sift away the bran.
+- **How it Changes Properties**: Baking reduces the volatile oil content, which tones down Mu Xiang's pungent, dispersing quality. The processed form becomes more astringent and drying rather than moving, shifting its action from 'promoting Qi movement' toward 'firming the intestines and stopping diarrhea.' The temperature remains warm, but the herb's action changes from outward dispersal to inward consolidation.
+- **When to Use**: Use Wei Mu Xiang (baked form) when the main problem is diarrhea or loose stools with abdominal pain, rather than pure Qi stagnation with bloating. The raw form is too dispersing for diarrhea and could worsen it. The baked form is preferred for chronic diarrhea, Spleen deficiency diarrhea, and post-dysentery recovery.
+
+---
+
+## Common Herb Pairs
+### Huang Lian (Ratio: Huang Lian 6:1 Mu Xiang (Huang Lian is the larger portion, e.g. Huang Lian 6g : Mu Xiang 3g))
+- **Description**: Mu Xiang moves stagnant Qi in the intestines while Huang Lian (Coptis) clears Damp-Heat and stops dysentery. Together they form Xiang Lian Wan, one of the most famous classical pairings for diarrhea and dysentery. Mu Xiang's warm, Qi-moving action specifically relieves tenesmus (the urgent straining), while Huang Lian's cold, bitter nature clears the Heat and Dampness causing the infection. The warmth of Mu Xiang also prevents Huang Lian from being too cold for the Spleen.
+- **When to Use**: Damp-Heat dysentery or diarrhea with abdominal cramping, tenesmus (li ji hou zhong), and stools containing mucus or blood.
+
+### Sha Ren (Ratio: 1:1 (e.g. Mu Xiang 3g : Sha Ren 3g))
+- **Description**: Both are warm, aromatic herbs that move Qi in the middle burner, but they complement each other: Mu Xiang is stronger at moving stagnant Qi and stopping pain, while Sha Ren (Amomum) is better at transforming Dampness and warming the Spleen. Together they powerfully revive sluggish digestion and are classically added to tonic formulas to prevent the heavy, cloying nature of tonifying herbs from causing further stagnation.
+- **When to Use**: Spleen Qi deficiency with secondary Qi stagnation and Dampness, manifesting as bloating, poor appetite, nausea, and loose stools, especially when tonic herbs alone cause more bloating.
+
+### Bing Lang (Ratio: 1:1 (e.g. Mu Xiang 6g : Bing Lang 6g))
+- **Description**: Mu Xiang moves Qi in the upper and middle digestive tract while Bing Lang (Areca seed) drives Qi downward through the lower intestines. Together they form a powerful combination that breaks through Qi stagnation and food accumulation throughout the entire gastrointestinal tract. This pair is the core of Mu Xiang Bing Lang Wan.
+- **When to Use**: Severe food stagnation or Qi stagnation in the intestines with constipation, abdominal fullness and distension, or dysentery with tenesmus.
+
+### Xiang Fu (Ratio: 1:1 (e.g. Mu Xiang 6g : Xiang Fu 6g))
+- **Description**: Mu Xiang focuses on moving Qi in the Spleen, Stomach, and intestines (the Qi level), while Xiang Fu (Cyperus) excels at soothing Liver Qi and also reaches the Blood level. Together they address both digestive and emotional Qi stagnation, and the combination strengthens pain relief and Qi circulation throughout the body.
+- **When to Use**: Liver Qi stagnation invading the Spleen and Stomach, causing epigastric and flank pain, menstrual irregularity with digestive symptoms, or emotional stress manifesting as abdominal discomfort.
+
+---
+
+## Key Formulas
+Xiang Sha Liu Jun Zi Tang, Mu Xiang Bing Lang Wan, Ding Xian Wan, Mu Xiang Shun Qi Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Mu Xiang is classified as non-toxic in the Chinese Pharmacopoeia at standard dosages. However, modern research has shown that high doses of the root extract can cause hepatotoxicity (liver damage), with oxidative stress identified as the primary mechanism, involving the Nrf2, HO-1, and NQO1 pathways. At appropriate dosages, the ethanol extract actually shows a protective effect on the liver. The volatile oils (particularly costunolide and dehydrocostus lactone) are the main bioactive compounds; excessive intake of these can cause gastrointestinal irritation including nausea. There have also been rare reports of contact dermatitis and acute generalised exanthematous pustulosis from external exposure to Mu Xiang preparations. Reasonable dosage control is essential for safe use.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Mu Xiang is a Qi-moving herb with a warm, acrid, and drying nature. Strongly moving Qi in the abdomen could theoretically disturb the fetus, particularly in those with underlying Yin or Blood deficiency. Paradoxically, classical texts (such as the Ri Hua Zi Ben Cao) record Mu Xiang as having a calming effect on the fetus (an tai) when used appropriately in combination formulas for nausea and restless fetus caused by Qi stagnation. However, it should only be used in pregnancy under the guidance of a qualified practitioner, at conservative doses, and only when a clear pattern of Qi stagnation is present.
+- **Breastfeeding**: No specific contraindication is documented for use during breastfeeding. However, like most Qi-moving herbs with strong aromatic volatile oils, it should be used at standard or conservative dosages and only when clinically indicated. The aromatic oils that give Mu Xiang its distinctive properties are likely to transfer into breast milk in small amounts. There is no traditional or modern evidence of harm to nursing infants at standard doses, but prolonged use or high doses should be avoided as the herb's drying nature could theoretically affect milk production by consuming fluids.
+- **Children**: May be used in children for digestive complaints such as abdominal distension, poor appetite, or diarrhoea, with dosage adjusted proportionally to body weight and age. A common paediatric guideline is approximately one-third to one-half of the adult dose for children aged 3-7, and half to two-thirds for children aged 7-14. Because Mu Xiang is warm and drying, use should be short-term and discontinued once symptoms improve. It is not suitable for infants under 1 year without specific practitioner guidance.
+
+### Drug Interactions
+Mu Xiang has been shown to inhibit intestinal motility at certain doses. This means it may slow the passage of other substances through the gut, potentially increasing the absorption and blood levels of drugs taken at the same time. Specifically, studies suggest it may increase absorption of digoxin and vitamin B2 when used concurrently, so dosage adjustments of these medications may be needed.
+Due to its aromatic volatile oil content and effects on gastrointestinal smooth muscle, Mu Xiang should be used cautiously alongside anticholinergic or antispasmodic medications (such as atropine), as their effects may overlap or interact unpredictably.
+Theoretically, the anti-inflammatory properties of costunolide and dehydrocostus lactone could have additive effects with non-steroidal anti-inflammatory drugs (NSAIDs), though this has not been confirmed in clinical studies.
+
+### Dietary Advice
+When taking Mu Xiang for Qi stagnation and digestive complaints, avoid cold and raw foods (such as salads, iced drinks, raw fruit), greasy or heavy foods, and overeating, as these can obstruct the Spleen and Stomach and counteract the herb's Qi-moving effects. Light, warm, easily digestible foods are recommended. If using Mu Xiang for diarrhoea or loose stools (especially the roasted form), bland, cooked grains like congee are ideal accompaniments.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Aucklandia lappa Decne. (synonym: Saussurea costus) is a tall perennial herb of the Asteraceae (daisy) family, growing 1 to 2 metres in height with a stout, erect, fibrous stem covered in short soft hairs. The basal leaves are very large (up to 1 metre long), triangular-ovate to heart-shaped, with pinnately lobed or irregularly toothed margins and long winged stalks. The upper stem leaves are smaller, sessile or nearly so, with small ear-like lobes at their base that clasp the stem.
+The flower heads are stalkless, hard, and rounded (2.4 to 3.9 cm across), clustered in groups of two to five at leaf axils or at the stem tips. The flowers are bisexual and tubular, coloured dark purple to almost black. The flowering period is July to August, with fruiting from August to September. The fruit is a curved, compressed achene about 8 mm long with a brownish, feathery pappus.
+The medicinal root is thick, fleshy, and deeply penetrating (30 to 60 cm into the soil), with a powerful, distinctive aromatic fragrance. The plant thrives in cool to cold, humid climates at elevations of 2,500 to 4,000 metres. It prefers well-drained, humus-rich, slightly acidic sandy loam soils on shaded north- or northeast-facing slopes. Wild plants are listed under CITES as an endangered species.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn and winter (late September to late October), after 3 years of cultivation.
+- **Primary Growing Regions**: Originally native to India, from where it was historically imported to China via the maritime trade route through Guangzhou (hence the trade name "Guang Mu Xiang"). In 1935, the plant was first introduced from India and successfully cultivated in Yunnan Province, China. The primary modern producing regions are in northwestern Yunnan (Lijiang, Diqing, Dali) and Sichuan (including Mount Emei and Liangshan Prefecture). Yunnan is considered the premier producing area and source of the highest quality herb, earning the name "Yun Mu Xiang" (Cloud Mu Xiang). Additional cultivation occurs in Guizhou, Guangxi, Shaanxi, and Gansu provinces at elevations of 2,500 to 4,000 metres.
+- **Quality Indicators**: Good quality Mu Xiang root pieces are cylindrical or half-cylindrical, 5 to 10 cm long and 0.5 to 5 cm in diameter. The surface is yellowish-brown to greyish-brown with clearly visible wrinkles and longitudinal grooves. The texture should be hard and firm, not easy to snap. The cross-section should show a greyish-brown to dark brown centre with a yellowish-grey or pale brownish-yellow border, a distinct brown cambium ring, clear radial lines (a characteristic "chrysanthemum heart" pattern), and scattered brown dot-like oil chambers. The most important quality indicator is fragrance: good Mu Xiang has an intensely distinctive, rich aromatic smell that permeates an entire room during decoction. The taste should first be slightly sweet, then bitter, and slightly sticky on the tongue. Classical texts describe the best quality as "shaped like dried bone" (xing ru ku gu) with a bitter taste that sticks to the teeth. Avoid roots that are hollow, dark and crumbly in the centre, or that lack a strong aroma.
+
+### Identity & Adulterants
+Mu Xiang has a long history of confusion and substitution with several related herbs:
+1. Chuan Mu Xiang (川木香, Vladimiria souliei): From Sichuan. The dried root is very similar in appearance but often presents as a straight cylindrical "iron rod" shape or with a longitudinal groove ("trough" shape). It has a distinctive sticky, black "glue head" at the root crown. The aroma is milder than true Mu Xiang, and the taste is bitter and more sticky. Costunolide content is significantly lower.
+2. Tu Mu Xiang (土木香, Inula helenium): The root tends to be conical in shape, yellowish-white on the cross-section with a "chrysanthemum heart" pattern. It contains alantolactone and isoalantolactone as its characteristic compounds rather than costunolide, giving it different therapeutic properties (used more in Mongolian medicine as a Heat-clearing agent).
+3. Qing Mu Xiang / Tu Qing Mu Xiang (青木香, Aristolochia debilis root): This is the most dangerous substitution. Aristolochia roots contain aristolochic acid, which is nephrotoxic and carcinogenic. This substitution has been largely eliminated from modern practice due to regulatory action, but historical confusion persists in older texts.
+Authentic Mu Xiang can be distinguished by its strongly aromatic smell, hard texture, brown oil chambers visible on the cross-section, and by HPLC analysis showing high combined content of costunolide and dehydrocostus lactone (at least 1.8% per Chinese Pharmacopoeia standards).
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (神农本草经)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+The history of Mu Xiang is remarkably complex because the name has referred to different plants across different eras. The name "Mu Xiang" (木香, meaning "wood fragrance") first appears in the Shen Nong Ben Cao Jing, where it records the herb as originating from Yongchang (modern Baoshan, Yunnan). However, modern scholarship has identified that the Shen Nong Ben Cao Jing's "Mu Xiang" from Yongchang was likely a different substance altogether, possibly a resinous wood of the Aquilaria genus (agarwood/eaglewood), not the Asteraceae root used today. It was not until the Tang Dynasty's Xin Xiu Ben Cao (Tang Ben Cao, 659 CE) that the herb we now know as Mu Xiang, the imported Asteraceae root from India and Central Asia, became clearly identified as a medicinal product.
+From the Southern and Northern Dynasties onward, Mu Xiang was primarily an imported commodity, arriving via the maritime Silk Road and entering China through Guangzhou, which is why the commercial name "Guang Mu Xiang" (Guangzhou Mu Xiang) became established. Throughout history, there was considerable confusion between several different "Mu Xiang" varieties: the imported Asteraceae root (Guang Mu Xiang), the native Ma Dou Ling root sometimes called "Qing Mu Xiang" or "Tu Qing Mu Xiang" (Aristolochia debilis, now known to contain toxic aristolochic acid), Chuan Mu Xiang (Vladimiria souliei from Sichuan), and Tu Mu Xiang (Inula helenium). This confusion persisted for centuries and had real clinical consequences.
+A major turning point came in the 1930s when Mu Xiang was successfully introduced from India and cultivated in Yunnan Province, establishing domestic production for the first time. By 1959, Yunnan-grown Mu Xiang was exported internationally and praised for its quality, earning the name "Yun Mu Xiang." Today, the Chinese Pharmacopoeia strictly defines Mu Xiang as the dried root of Aucklandia lappa Decne., distinguishing it clearly from Chuan Mu Xiang and Tu Mu Xiang, which are listed as separate entries.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Sesquiterpene Lactones of Aucklandia lappa — Pharmacology, Pharmacokinetics, Toxicity, and Structure-Activity Relationship (Review, 2022)](https://pubmed.ncbi.nlm.nih.gov/36120323/)**
+   *Journal: Wei S, Peng L, Ma B, Xu J, Xiao M. Frontiers in Pharmacology, 2022, 13: 976298.*
+   A comprehensive review examining the pharmacological activities of the sesquiterpene lactones found in Mu Xiang, particularly costunolide and dehydrocostus lactone. The review found strong evidence for anti-cancer, anti-inflammatory, immunomodulatory, antioxidant, antimicrobial, and antispasmodic activities in both laboratory and animal studies. It also reviewed pharmacokinetic profiles and toxicity data, providing a foundation for further drug development.
+
+2. **[Costunolide and Dehydrocostus Lactone Alleviate Ulcerative Colitis via Regulating TLR4, NF-κB and PI3K Expression (Animal Study, 2024)](https://doi.org/10.1038/s41598-024-77021-5)**
+   *Journal: Scientific Reports, 2024, 14: 29355.*
+   This study used network pharmacology, molecular docking, and animal experiments to investigate how the two main active compounds of Mu Xiang treat ulcerative colitis. In a mouse model, both costunolide and dehydrocostus lactone significantly reduced colonic inflammation by downregulating key inflammatory signalling pathways (TLR4, NF-κB, PI3K), supporting the traditional use of Mu Xiang for dysentery and intestinal inflammation.
+
+3. **[Comprehensive Review on Three Confusable Muxiang Varieties: Ethnomedicines, Phytochemistry, Quality Control, and Pharmacology (2015-2025) (Review, 2025)](https://doi.org/10.1016/j.jep.2025.119446)**
+   *Journal: Wei R, Gao Z, Cui D, Zou Y, Dong Y, Tian Q, Wen R, Li X, Yang W. Journal of Ethnopharmacology, 2025.*
+   A systematic review covering the three commonly confused Mu Xiang species (Aucklandia lappa, Vladimiria souliei, and Inula helenium). It identified 429 compounds across the three species and clarified their chemical and pharmacological differences. The review confirmed that while all three share gastrointestinal, anti-ulcer, anti-inflammatory, and antimicrobial properties, each has distinct chemical signatures and therapeutic emphases that warrant careful differentiation.
+
+4. **[Saussurea costus: Botanical, Chemical, and Pharmacological Review of an Ayurvedic Medicinal Plant (Review, 2007)](https://pubmed.ncbi.nlm.nih.gov/17306480/)**
+   *Journal: Pandey MM, Rastogi S, Rawat AK. Journal of Ethnopharmacology, 2007, 110(3): 379-390.*
+   An early comprehensive review of the botany, phytochemistry, and pharmacology of the Mu Xiang plant. The review documented a wide range of pharmacological activities including anti-inflammatory, anti-ulcer, anticholinergic, hepatoprotective, and antimicrobial effects. It highlighted costunolide and dehydrocostus lactone as key bioactive sesquiterpene lactones with potential anticancer properties.
+
+5. **[Anti-Allergic Effects of Sesquiterpene Lactones from the Root of Aucklandia lappa Decne (In vitro study, 2015)](https://pubmed.ncbi.nlm.nih.gov/26398906/)**
+   *Journal: Seo CS, Lim HS, Ha H, Jin SE, Shin HK. Molecular Medicine Reports, 2015, 12(4): 5789-5796.*
+   This study evaluated the anti-allergic properties of three sesquiterpene lactones (costunolide, dehydrocostus lactone, and alantolactone) isolated from Mu Xiang root. In human keratinocyte cells stimulated with inflammatory cytokines, all three compounds significantly reduced the expression of allergy-related chemokines including TARC/CCL17, MDC/CCL22, RANTES/CCL5, and interleukin-8, suggesting potential for treating allergic skin conditions.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/mu-xiang](https://www.meandqi.com/knowledge-base/herbs/mu-xiang)*

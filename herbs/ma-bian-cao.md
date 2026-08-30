@@ -1,0 +1,172 @@
+# Ma Bian Cao (马鞭草)
+**English Name**: Vervain  
+**Category**: Blood-invigorating and stasis-dispelling herbs (活血化瘀药), Herbs that clear Heat and resolve Toxicity (清热解毒药)  
+**Scientific Name**: Verbena officinalis L.  
+**Pharmaceutical Name**: Herba Verbenae  
+**Toxicity**: Slightly toxic  
+**Temperature**: Cool | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Liver, Spleen  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Ma Bian Cao (Verbena) is a versatile herb used in Chinese medicine primarily for improving blood circulation, reducing swelling, and fighting infections. It is especially valued for addressing painful or absent menstrual periods, water retention, liver conditions with jaundice, and historically for malaria. Pregnant women should avoid this herb, as it stimulates uterine contractions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Menstrual Health, Liver Health, Urinary Health, Infection Support
+- **TCM Actions**: Invigorates Blood and Dispels Stasis, Clears Heat and Resolves Toxicity, Promotes Urination and Reduces Edema, Checks Malaria, Promotes Menstruation
+
+### How these actions work
+'Activates Blood and dispels stasis' means Ma Bian Cao helps get stagnant Blood moving again. It enters the Liver channel's Blood level, where it breaks up old, stuck Blood. This is why it is commonly used for painful or absent periods caused by Blood stasis, abdominal masses, and traumatic injuries with bruising and swelling.
+'Clears Heat and resolves toxins' refers to the herb's ability to cool down inflammatory and infectious conditions. Because it is cool in nature and bitter in taste, it can drain Heat from the body. In practice, this is applied to sore, swollen throats, gum inflammation, skin abscesses, and acute infections like dysentery and diphtheria.
+'Promotes urination and reduces edema' means the herb helps the body expel excess fluid. It is used when fluid accumulates as visible swelling, particularly in the limbs or abdomen. Historically it has been combined with other herbs to treat ascites from advanced liver disease, edema, and painful urinary conditions with heat signs.
+'Interrupts malaria' is a distinctive action of this herb. In Chinese medicine, Ma Bian Cao has a well-documented ability to control the alternating chills and fever of malaria and was historically used as a single-herb treatment for this disease, whether the case was new or long-standing.
+'Unblocks the menses' means it specifically addresses blocked menstrual flow. When Blood stasis prevents normal menstruation, Ma Bian Cao's bitter, cool nature helps break through the blockage and restore flow. This is closely related to its Blood-activating property but highlights its particular use in gynecological conditions.
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: Ma Bian Cao enters the Liver channel's Blood level and is bitter and cool in nature. Its bitter taste drives a downward, dispersing movement that breaks up congealed Blood, while its cool temperature is particularly effective when Blood stasis is caused or worsened by Heat drying and thickening the Blood. The classical text Ben Cao Jing Shu describes it as a herb that 'cools Blood and breaks Blood.' This makes it well suited for Blood stasis patterns that manifest with menstrual blockage, abdominal masses, or traumatic swelling.
+- **Clinical Signs & Symptoms**:
+
+### Damp-Heat
+- **Explanation**: Ma Bian Cao's cool nature and bitter taste allow it to clear Heat and drain Dampness simultaneously. When Damp-Heat lodges in the Liver and Spleen (the two channels this herb enters), it can cause jaundice, difficult urination, dysentery, and skin sores. The herb promotes urination to drain Dampness downward while its cooling action addresses the Heat component. It also resolves toxic Heat that causes throat inflammation and abscesses.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Amenorrhea
+- **Arises from**: Blood Stagnation
+- **TCM Interpretation**: In TCM, amenorrhea (absent periods) is most commonly understood as Blood stasis obstructing the Liver channel and the uterine vessels. The Liver stores Blood and governs the smooth flow of Qi, and when Blood becomes stagnant in the Liver channel, menstruation cannot occur normally. Contributing factors often include emotional stress constraining Liver Qi (which eventually leads to Blood stasis), exposure to cold congealing Blood, or Heat thickening the Blood. The pattern typically presents with lower abdominal pain that is fixed in location, a dark or purplish tongue, and a choppy pulse.
+- **Why it Helps**: Ma Bian Cao directly addresses Blood stasis amenorrhea because it enters the Liver channel's Blood level and has a strong Blood-activating, stasis-dispersing action. Its bitter taste provides a powerful dispersing force that breaks through congealed Blood, while its cool nature is especially useful when the stasis has a Heat component (dark, sticky Blood). Classical sources note it 'unblocks the menses and treats women's Blood-Qi abdominal distension.' It is typically combined with other Blood-moving herbs like Yi Mu Cao or Xiang Fu to enhance its effect.
+
+### Hepatitis
+- **Arises from**: Damp-Heat
+- **TCM Interpretation**: TCM interprets viral hepatitis primarily as Damp-Heat invading and accumulating in the Liver and Spleen. When Dampness and Heat combine and lodge in these organs, bile overflows, producing jaundice. The Spleen's ability to transform fluids is impaired, leading to poor appetite, nausea, and abdominal bloating. As the condition progresses, the Liver becomes swollen and tender, and the body struggles to process and eliminate the pathogenic Dampness. In chronic cases, this Damp-Heat can lead to Blood stasis and fluid accumulation (ascites).
+- **Why it Helps**: Ma Bian Cao is well suited for hepatitis because it targets both the Liver and Spleen channels and addresses the core pathomechanism of Damp-Heat. Its cool, bitter nature clears Heat and dries Dampness, while its Blood-activating property helps prevent the secondary Blood stasis that can develop in chronic liver disease. Its diuretic action helps resolve fluid accumulation. Clinical studies in China have shown promising results treating infectious hepatitis, with jaundice resolution averaging about 15 days and liver function returning to normal within 10 to 30 days in treated patients.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 15-30g (dried herb in decoction); 30-60g for fresh herb
+- **Maximum Dosage**: Up to 30g dried herb (approximately 1 liang) in standard decoction; fresh herb up to 60g. Higher doses have been used in specific clinical contexts such as treating malaria or hepatitis (up to 60-150g fresh herb concentrated into a decoction), but only under practitioner supervision.
+- **Dosage Notes**: The standard Materia Medica textbook range is 15-30g for dried herb and 30-60g for fresh herb. Some sources (notably the Quan Guo Zhong Cao Yao Hui Bian) list a lower standard range of 4.5-9g for milder conditions. For treating malaria, traditional practice uses higher doses: fresh herb 60-150g (or dried herb reduced by half), concentrated by decoction, taken in divided doses before the expected malarial episode. For hepatitis treatment, similar higher doses have been used clinically. For external use (washing wounds, eczema, hemorrhoids), larger amounts of fresh herb (up to 90g) may be decocted in water for topical washing. Clinical observation suggests that at doses below 30g, long-term use produces no significant adverse effects.
+- **Preparation**: No special decoction handling required. The dried herb is simply added to the decoction pot with other herbs and decocted normally. For fresh herb preparations (e.g. for sore throat), the fresh plant can be washed, crushed, and the juice extracted for gargling or swallowing directly.
+
+---
+
+## Processing Methods
+### M&#x1CE; Bi&#x101;n C&#x1CE;o du&#xE0;n (&#x9A6C;&#x97AD;&#x8349;&#x6BB5;)
+- **Processing Method**: The raw herb is cleaned of residual roots and impurities, washed, briefly moistened, then cut into short segments and sun-dried.
+- **How it Changes Properties**: This is the standard preparation for decoction use rather than a true processing transformation. It does not significantly change the herb's cool temperature or bitter taste, but cutting into uniform segments improves extraction efficiency during decoction and makes dosing more consistent.
+- **When to Use**: This is the standard dispensary form used in virtually all clinical applications. Fresh whole herb (鲜品) is preferred when available for conditions like sore throat (juice extracted and swallowed) or malaria (where fresh herb is considered more effective than dried).
+
+---
+
+## Common Herb Pairs
+### Ze Lan (Ratio: 1:1 (Ma Bian Cao 10-15g : Ze Lan 10-15g))
+- **Description**: Ma Bian Cao activates Blood and dispels stasis with its bitter, cool nature, while Ze Lan (Bugleweed herb) is milder and gently regulates Blood and eases pain. Together they provide a well-balanced Blood-activating, menstruation-regulating pair that is effective without being overly harsh.
+- **When to Use**: Blood stasis causing irregular periods, painful menstruation, or amenorrhea.
+
+### Qing Hao (Ratio: 3:2 (Ma Bian Cao 15-30g : Qing Hao 10-15g))
+- **Description**: Ma Bian Cao interrupts malaria and clears Heat, while Qing Hao (Sweet Wormwood) is aromatic and penetrating, clearing Heat from the Shao Yang level and specifically targeting malarial pathogens. Together they powerfully control the alternating chills and fever of malaria.
+- **When to Use**: Malaria with alternating chills and fever, whether acute or chronic.
+
+### She Gan (Ratio: 1:1 (Ma Bian Cao 15g : She Gan 10-15g))
+- **Description**: Ma Bian Cao clears Heat and resolves toxins broadly, while She Gan (Belamcanda rhizome) specifically targets the Lung channel to reduce throat swelling. Together they provide stronger Heat-clearing and throat-soothing action than either herb alone.
+- **When to Use**: Acute sore throat, tonsillitis, or pharyngitis caused by toxic Heat.
+
+### Ze Xie (Ratio: 1:1 (Ma Bian Cao 15g : Ze Xie 10-15g))
+- **Description**: Ma Bian Cao promotes urination and clears Heat through its bitter, cool properties, while Ze Xie (Alisma) is bland and seeping, draining Dampness through the Bladder. Together they strongly promote fluid elimination and clear Heat from the urinary system.
+- **When to Use**: Edema, difficult urination, or painful hot urination (heat-type stranguria).
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+The whole plant is classified as slightly toxic (小毒) in Chinese botanical toxicology databases. Its overall toxicity is very low. At standard decoction dosages (15-30g dried herb), most people experience no adverse effects. Some individuals may develop mild gastrointestinal reactions including nausea, dizziness, headache, vomiting, or abdominal pain, which are generally self-limiting. The main active glycoside verbenalin, at very high doses, has been reported to have parasympathomimetic effects and can stimulate the nervous system. Extremely high doses of verbenalin may theoretically cause stupor and convulsions, though this is not a realistic concern at medicinal dosages. The herb does not cause hemolysis. Proper dosage control is sufficient to ensure safe use.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated. Ma Bian Cao has demonstrated excitatory effects on uterine smooth muscle in laboratory studies on both rat uterine tissue and human uterine muscle strips. The herb is classified in the Blood-moving (活血) category and has a traditional primary indication of unblocking the menses (通经), meaning it actively promotes menstrual flow. These properties create a clear risk of stimulating uterine contractions, which could lead to threatened miscarriage, premature labor, or increased bleeding. Both classical and modern Chinese Materia Medica texts consistently caution or prohibit its use during pregnancy (孕妇慎服/忌用). This herb should be strictly avoided throughout all stages of pregnancy.
+- **Breastfeeding**: Caution is advised. Pharmacological studies have shown that verbenalin (the main iridoid glycoside in Ma Bian Cao) has a persistent galactagogue effect, meaning it promotes milk secretion in mammals. While this might seem beneficial, the herb's slightly toxic classification and its Blood-moving, cool nature mean that active compounds could potentially transfer into breast milk. The effects on nursing infants have not been adequately studied. Breastfeeding mothers should consult a qualified practitioner before use and should not self-medicate with this herb.
+- **Children**: Dosage should be reduced proportionally based on age and body weight. As a general guideline from traditional clinical practice: children aged 1-10 years may use approximately one-third of the adult dose, and children aged 11-15 years may use approximately two-thirds of the adult dose. The herb's slightly toxic classification and cool nature warrant extra caution in young children, whose digestive systems are more sensitive. Use should be short-term and under practitioner supervision. Not generally suitable for infants.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Ma Bian Cao has Blood-invigorating (活血) properties. Although verbenalin has shown some procoagulant effects in isolated studies, the herb's overall clinical action of moving Blood and dispersing stasis suggests it could theoretically interact with anticoagulants (e.g. warfarin, heparin) or antiplatelet drugs (e.g. aspirin, clopidogrel). Concurrent use should be monitored by a healthcare professional.
+Uterine stimulant drugs: Given the demonstrated excitatory effect of Ma Bian Cao on uterine smooth muscle, concurrent use with oxytocin or other uterotonic agents could produce additive effects and should be avoided.
+Antiepileptic and sedative medications: Preclinical studies have shown that V. officinalis extracts possess anticonvulsant and sedative properties, potentially involving benzodiazepine and opioid receptor pathways. Concurrent use with benzodiazepines, barbiturates, or other CNS depressants could theoretically produce additive sedation.
+Iron supplements: As a tannin-containing herb, Ma Bian Cao may reduce the absorption of oral iron supplements if taken simultaneously. Stagger administration by at least 2 hours.
+
+### Dietary Advice
+Because Ma Bian Cao is cool in nature with bitter flavor, it is best to avoid excessive consumption of cold, raw, or icy foods while taking it, especially for individuals with a tendency toward digestive weakness. This helps prevent further chilling the Spleen and Stomach. Alcohol may be used as a vehicle in small amounts, as classical sources describe taking Ma Bian Cao syrup with wine to enhance its Blood-moving effects. Avoid greasy, heavy, or difficult-to-digest foods when using this herb for damp-heat or edema conditions.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Verbena officinalis L. (family Verbenaceae) is a perennial herb that grows up to 60–100 cm tall with a strong, somewhat woody base. The stems are erect, square-shaped (four-angled), branching at the upper portions, and covered with sparse stiff hairs along the ridges and nodes. The leaves are opposite, nearly sessile on the stem, obovate to oblong in shape (3–5 cm long, 2–3 cm wide), with pinnately deep-lobed margins bearing coarse serrations and rough hairs on both surfaces.
+The flowers are small, purple-blue to mauve, arranged in long, slender terminal or axillary spike-like inflorescences (16–30 cm long) that resemble a whip or riding crop, which gives the plant its Chinese name (马鞭 = horse whip). The tubular calyx is about 2 mm long with 5 shallow lobes; the corolla is two-lipped, with the lower lip larger and 3-lobed, the upper lip 2-lobed, and white hairs at the throat. Flowering occurs from June to August, with fruits ripening July to October. The fruit is an oblong capsule that splits at maturity into 4 small dark nutlets.
+The plant grows commonly in open, sunny habitats including riverbanks, grasslands, wastelands, roadsides, field margins, and grassy slopes. It is native to Europe but is now widely distributed throughout temperate and subtropical regions worldwide, including most of China. It thrives in well-drained but moisture-retentive soil, tolerates a range of soil types (sandy, loamy, clay), and requires full sun.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer, June to August, when the flowers are in full bloom. The above-ground parts are cut, cleaned of soil and debris, and sun-dried.
+- **Primary Growing Regions**: Widely distributed throughout China, growing wild in most provinces. The primary producing regions are Hubei, Jiangsu, Guangxi, and Guizhou provinces. Additional production comes from Anhui, Zhejiang, Hunan, Jiangxi, Fujian, Hebei, and Sichuan. The plant also extends across the central-south and southwest regions, as well as Shaanxi, Gansu, and Xinjiang. Ma Bian Cao is not traditionally associated with a single prestigious terroir region, as it grows readily in open wastelands, roadsides, riverbanks, and field margins across a wide geographic range. Originally native to Europe, it is now naturalized throughout temperate and subtropical zones worldwide.
+- **Quality Indicators**: Good quality dried Ma Bian Cao should be green to grey-green in color (青绿色), with intact flower spikes still attached. The stems should be square-shaped, firm, and brittle, snapping cleanly with a fibrous cross-section showing white pith or a hollow center. The leaves, though often wrinkled and somewhat fragmented in the dried form, should retain their green-brown color. Complete leaves, when flattened, reveal their characteristic ovate shape with pinnate deep lobing. The flower spikes should show tightly arranged small yellowish-brown flowers or mature fruit clusters. The aroma is faint, and the taste is mildly bitter. Avoid material that is excessively brown, musty, or has lost all green coloration, as this indicates poor drying or old stock. Material free of roots and other plant debris is preferred.
+
+### Identity & Adulterants
+Ma Bian Cao (Verbena officinalis) should be carefully distinguished from Lemon Verbena (Aloysia citrodora, 柠檬马鞭草), which is a different species in the same family, commonly used in Europe for fragrant teas and cosmetics but with different medicinal properties. It may also be confused with Liu Ye Ma Bian Cao (Verbena bonariensis, 柳叶马鞭草), an ornamental species with different leaf shape (narrow, willow-like) and clustered terminal flower heads rather than the long whip-like spikes of the medicinal species. Long Ya Cao (Agrimonia pilosa, 龙牙草/仙鹤草) shares some folk aliases with Ma Bian Cao but is an entirely different plant (Rosaceae family) with different actions. When purchasing dried herb, confirm the square stems, opposite deeply-lobed leaves, and characteristic long spike inflorescences to verify identity.
+
+---
+
+## References
+### Classical Texts
+#### 《别录》(Bie Lu)
+- **Original**: 主下部匿疮。
+- **Translation**: "Treats hidden sores of the lower body."
+
+### Historical Context
+Ma Bian Cao has a long medicinal history in China, first recorded in the Ming Yi Bie Lu (名医别录), a materia medica text compiled during the Wei-Jin period (attributed to Tao Hongjing). Its earliest recorded use was for treating hidden sores of the lower body. Over subsequent centuries, its therapeutic scope was greatly expanded by later herbalists. The Ben Cao Shi Yi (本草拾遗, by Chen Cangqi of the Tang dynasty) added its important actions of breaking Blood stasis and treating chronic malaria, while the Ri Hua Zi Ben Cao (日华子本草, Song dynasty) documented its gynecological application for regulating menstruation.
+The name "Ma Bian Cao" (马鞭草, literally "horse-whip herb") derives from the appearance of its long, slender flower spikes, which resemble the tip of a riding crop. This etymology is attributed to Li Dongyuan (a renowned physician of the Jin-Yuan medical era), as recorded in the Zhen Zhu Nang Bu Yi Yao Xing Fu (珍珠囊补遗药性赋). The plant carries many regional folk names, including Feng Jing Cao (凤颈草, "phoenix-neck herb"), Zi Ding Long Ya (紫顶龙芽, "purple-topped dragon sprout"), and Tie Ma Bian (铁马鞭, "iron horse-whip").
+In Western traditions, vervain holds equally ancient significance. In ancient Egypt it was called "Tears of Isis," and in ancient Rome it was considered a sacred herb ("hiera botane") used to purify Jupiter's altars and carried by soldiers for protection. Early Christian legend claimed vervain was used to staunch the wounds of Christ after his removal from the cross, earning it names like "Holy Herb" and "Herb of the Cross." This dual heritage in both Eastern and Western medicine is unusual and reflects the plant's widespread distribution and longstanding recognition across cultures.
+
+### Modern Scientific Research
+1. **[Comprehensive Review of Verbena officinalis Investigations (Review, 2020)](https://doi.org/10.1055/a-1232-5758)**
+   *Journal: Kubica P, Szopa A, Dominiak J, Luczkiewicz M, Ekiert H. Planta Medica, 2020, 86: 1241-1257.*
+   A thorough review covering the phytochemistry, pharmacology, and traditional uses of V. officinalis. The authors documented the plant's key active compounds (verbenalin, hastatoside, verbascoside, ursolic acid) and summarized evidence for its anti-inflammatory, analgesic, neuroprotective, antibacterial, and anticancer properties from preclinical studies.
+
+2. **[Neuroprotective Effects of V. officinalis Against Beta-Amyloid Toxicity (Preclinical, 2006)](https://doi.org/10.1016/j.neuropharm.2005.11.009)**
+   *Journal: Lai SW, Yu MS, Yuen WH, Chang RCC. Neuropharmacology, 2006, 50(6): 641-650.*
+   This study from the University of Hong Kong demonstrated that aqueous extracts of V. officinalis significantly protected cortical neurons against beta-amyloid peptide toxicity in cell cultures. The extract attenuated caspase activity and reduced phosphorylation of stress-related kinases (PKR and JNK), suggesting potential relevance for Alzheimer's disease research.
+
+3. **[Anti-Inflammatory and Analgesic Activity of Topical Verbena officinalis Preparation (Preclinical, 2006)](https://doi.org/10.1016/j.jep.2006.03.037)**
+   *Journal: Calvo MI. Journal of Ethnopharmacology, 2006, 107(3): 380-382.*
+   In a topical application model (TPA-induced ear inflammation in mice), a methanol extract of V. officinalis showed a high degree of edema reduction. The analgesic effect was also confirmed. These results supported the traditional use of the plant as a topical anti-inflammatory agent.
+
+4. **[Clinical Trial of Verbena officinalis Decoction for Chronic Gingivitis (RCT, 2016)](https://doi.org/10.3290/j.qi.a35521)**
+   *Journal: Grawish ME, Anees MM, Elsabaa HM, Abdel-Raziq MS, Zedan W. Quintessence International, 2016, 47(6): 491-498.*
+   A double-blind randomized controlled multicenter trial involving 260 patients with chronic generalized gingivitis. The test group rinsed with V. officinalis decoction in addition to standard oral hygiene. Results showed statistically significant improvements in Gingival Index and Plaque Index at days 14 and 28 compared to controls, with no adverse effects reported.
+
+5. **[In-Vivo Anti-Tumor Activity of Verbena officinalis Extract (Preclinical, 2013)](https://doi.org/10.4314/ajtcam.v10i3.19)**
+   *Journal: Kou WZ, Yang J, Yang QH, Wang Y, Wang ZF, Xu SL, Liu J. African Journal of Traditional, Complementary and Alternative Medicines, 2013, 10(3): 512-517.*
+   Using an H22 hepatoma-bearing mouse model, V. officinalis extract achieved a tumor inhibition rate of 38.78%. Importantly, the extract did not damage immune function, as shown by maintained spleen indices and immune markers. This suggests potential as a complementary anti-tumor agent.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/ma-bian-cao](https://www.meandqi.com/knowledge-base/herbs/ma-bian-cao)*

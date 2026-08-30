@@ -1,0 +1,182 @@
+# Sha Yuan Zi (沙苑子)
+**English Name**: Flattened Milkvetch Seed  
+**Category**: Yang-tonifying herbs (补阳药)  
+**Scientific Name**: Astragalus complanatus R. Br.  
+**Pharmaceutical Name**: Semen Astragali Complanati  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Sweet (甘 gān), Astringent (涩 sè)  
+**Channels Entered**: Liver, Kidneys  
+**Parts Used**: Seed (种子 zhǒng zǐ / 子 zǐ / 仁 rén)  
+
+---
+
+## Summary
+Shā Yuàn Zǐ is a gentle warming herb used to support Kidney and Liver health. It is best known for helping with lower back pain, frequent urination, involuntary seminal emission, and blurry vision caused by Kidney weakness. Its mild nature makes it suitable for sustained use, and it is a core ingredient in the classical formula Jīn Suǒ Gù Jīng Wán for stabilizing Essence.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Kidney Health, Reproductive Health, Eye Health and Vision, Urinary Health
+- **TCM Actions**: Tonifies Kidney Yang, Secures Essence and Stops Enuresis, Nourishes the Liver and Brightens the Eyes
+
+### How these actions work
+'Tonifies the Kidneys and assists Yang' means Shā Yuàn Zǐ gently warms and strengthens Kidney function. The Kidneys in TCM govern reproduction, growth, and the lower back. When Kidney Yang is depleted, people may experience low back pain, fatigue, low libido, or impotence. Shā Yuàn Zǐ provides a mild, non-drying warmth that supports Kidney Yang without being overly heating, making it suitable for people who need gentle, sustained supplementation rather than strong stimulation.
+'Secures Essence and reduces urination' refers to the herb's astringent quality. In TCM, the Kidneys store Essence (Jīng), the fundamental substance responsible for reproduction and vitality. When the Kidneys are weak, Essence can 'leak' out, manifesting as involuntary seminal emission, frequent urination, urinary incontinence, or excessive vaginal discharge. The sweet and astringent nature of Shā Yuàn Zǐ 'tightens' this leakage, helping the body hold onto its Essence. This is the herb's most distinctive strength compared to other Kidney-tonifying herbs.
+'Nourishes the Liver and brightens the eyes' reflects the TCM principle that the Liver opens into the eyes, meaning that when the Liver and Kidneys are well-nourished, vision is clear. For people with blurry vision, diminished visual acuity, or dizziness due to Liver and Kidney deficiency rather than acute eye disease, Shā Yuàn Zǐ supports the underlying organ systems that maintain healthy eyesight. It is often combined with Gǒu Qǐ Zǐ (goji berry) and Tù Sī Zǐ (dodder seed) for this purpose.
+
+---
+
+## Patterns Addressed
+### Kidney Yang Deficiency
+- **Explanation**: Shā Yuàn Zǐ is sweet and warm, entering the Kidney channel, which makes it directly suited to warming Kidney Yang. When Kidney Yang is depleted, the lower back loses its support, reproductive function declines, and the body's ability to hold onto fluids weakens. Shā Yuàn Zǐ provides gentle Kidney Yang tonification combined with an astringent quality that secures Essence and reduces fluid leakage. Unlike stronger Yang-tonifying herbs such as Bǔ Gǔ Zhī or Xiān Líng Pí, Shā Yuàn Zǐ warms without being drying or overly stimulating, making it appropriate for mild to moderate Kidney Yang Deficiency.
+- **Clinical Signs & Symptoms**:
+
+### Kidney Qi not Firm
+- **Explanation**: This pattern specifically addresses the Kidneys' failure to 'lock' or contain Essence and fluids. Shā Yuàn Zǐ's astringent property is what makes it particularly valuable here. While many herbs can tonify Kidney Yang, Shā Yuàn Zǐ simultaneously tightens the Kidney's holding function, preventing involuntary loss of Essence through seminal emission, urinary leakage, or excessive vaginal discharge. Classical texts describe it as a key herb for 'securing the Essence gate' (固精关). It serves as the King herb in Jīn Suǒ Gù Jīng Wán precisely because this securing action is its defining strength.
+- **Clinical Signs & Symptoms**:
+  - **Spermatorrhea**: Involuntary seminal emission, especially nocturnal
+
+### Spleen and Kidney Qi Deficiency
+- **Explanation**: Because Shā Yuàn Zǐ enters both the Liver and Kidney channels, it addresses the common root deficiency underlying blurred vision and dizziness. In TCM, the Liver stores Blood and opens into the eyes, while the Kidneys store Essence that nourishes the Liver. When both are depleted, the eyes lose their nourishment. Shā Yuàn Zǐ's sweet, warming nature replenishes both organs simultaneously, and its specific affinity for the eyes has been noted across multiple classical texts. It is typically combined with Gǒu Qǐ Zǐ and Jú Huā for this purpose.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Premature Ejaculation
+- **Arises from**: Kidney Qi not Firm, Kidney Yang Deficiency
+- **TCM Interpretation**: TCM views premature ejaculation primarily as a failure of the Kidneys to 'lock' or contain Essence. The Kidneys govern reproduction and store Jīng (Essence), and when Kidney Qi is insufficient, the 'Essence gate' (精关) becomes unstable. This can stem from constitutional weakness, chronic illness, excessive sexual activity, or emotional strain that depletes Kidney reserves. The pattern is often accompanied by other signs of Kidney weakness such as lower back soreness, fatigue, weak knees, and possibly tinnitus or dizziness.
+- **Why it Helps**: Shā Yuàn Zǐ directly addresses the underlying mechanism by combining Kidney Yang tonification with astringent action. Its sweet taste nourishes and replenishes depleted Kidney Qi and Yang, while its astringent quality tightens the Kidney's holding function to secure the Essence gate. Classical sources specifically note this herb as a key remedy for 'leaking Essence' conditions. In the formula Jīn Suǒ Gù Jīng Wán, Shā Yuàn Zǐ serves as the primary herb (King) precisely for this dual action of supplementing and securing. Its mild warmth also means it can be used over longer periods without generating excessive heat.
+
+### Frequent Urination
+- **Arises from**: Kidney Qi not Firm, Kidney Yang Deficiency
+- **TCM Interpretation**: Frequent urination, especially nocturia (waking at night to urinate), is understood in TCM as a failure of the Kidneys to properly transform and hold fluids. The Kidneys and Urinary Bladder work together to manage water metabolism. When Kidney Yang is weak, the Bladder lacks the warmth and Qi needed to hold urine properly, leading to urgency, frequent small voidings, or dribbling. This is particularly common in older adults and in people with chronic Kidney depletion.
+- **Why it Helps**: Shā Yuàn Zǐ warms the Kidneys and strengthens their fluid-controlling function through its astringent property. By tonifying Kidney Yang, it restores the warmth needed for the Bladder to function properly. By securing and astringing, it helps the body hold urine more effectively. This makes it well-suited for patterns of frequent urination accompanied by clear, dilute urine, lower back weakness, and general fatigue rather than urinary frequency caused by infection or inflammation (which would involve Heat patterns).
+
+### Blurry Vision
+- **Arises from**: Spleen and Kidney Qi Deficiency
+- **TCM Interpretation**: In TCM, the eyes depend on nourishment from the Liver (which stores Blood) and the Kidneys (which store Essence). When both organs are depleted, the eyes gradually lose their vitality, resulting in blurry vision, diminished acuity, floaters, or difficulty seeing in dim light. This pattern is commonly seen with aging, chronic illness, or prolonged overwork. Unlike acute eye inflammation (which involves Heat or Wind), this type of visual decline is slow and progressive, often accompanied by dizziness, tinnitus, and lower back soreness.
+- **Why it Helps**: Shā Yuàn Zǐ enters both the Liver and Kidney channels and has been specifically noted across classical texts for its ability to brighten the eyes. By nourishing the Liver and Kidneys simultaneously, it restores the supply of Essence and Blood to the eyes. Multiple classical sources emphasize its eye-benefiting properties. For vision support, it is typically used raw (unprocessed) rather than salt-fried, and combined with herbs like Gǒu Qǐ Zǐ, Tù Sī Zǐ, and Jú Huā to build a comprehensive Liver-Kidney nourishing, vision-supporting combination.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–15g
+- **Maximum Dosage**: Up to 20g in decoction for adults, as referenced in some Materia Medica sources. No specific toxicity threshold has been established.
+- **Dosage Notes**: Use the lower range (9–10g) for mild Kidney deficiency with eye symptoms or as a supporting herb. Use the higher range (15–20g) for more pronounced Kidney deficiency with seminal emission, frequent urination, or excessive vaginal discharge. For brightening the eyes and nourishing the Liver, use the herb raw (sheng yong). For securing essence, reducing urination, and stopping discharge, the salt-processed form (yan sha yuan zi) is preferred, as salt directs the herb's action downward into the Kidney channel.
+- **Preparation**: No special decoction handling required. Sha Yuan Zi can be decocted normally with other herbs. It is also commonly taken as a powder in pills or capsules. For Liver-nourishing and eye-brightening purposes, the raw (unprocessed) form is used. For Kidney-securing, essence-consolidating, and urine-reducing purposes, the salt-processed form (yan sha yuan zi) is preferred.
+
+---
+
+## Processing Methods
+### Y&#xE1;n Sh&#x101; Yu&#xE0;n Z&#x1D0; (&#x76D0;&#x6C99;&#x82D1;&#x5B50;)
+- **Processing Method**: The clean seeds are sprayed with salt water, mixed evenly, then stir-fried in a pan over gentle heat until dry. The standard ratio is 2 jin of salt dissolved in boiling water per 100 jin of herb.
+- **How it Changes Properties**: Salt processing directs the herb's action more strongly into the Kidney channel, enhancing its Kidney-tonifying and Essence-securing effects. The thermal nature remains warm. The taste gains a slight saltiness, which in TCM theory guides medicinal action downward to the Kidneys. The astringent, Essence-fixing quality becomes more pronounced.
+- **When to Use**: Use the salt-processed form when the primary treatment goal is securing Essence and reducing urination, such as for involuntary seminal emission, premature ejaculation, frequent urination, or vaginal discharge from Kidney deficiency. This is the preferred form for the formula Jīn Suǒ Gù Jīng Wán.
+
+### Ch&#x1CE;o Sh&#x101; Yu&#xE0;n Z&#x1D0; (&#x7092;&#x6C99;&#x82D1;&#x5B50;)
+- **Processing Method**: The clean seeds are dry-fried in a pan until slightly expanded and the color deepens, then removed and cooled.
+- **How it Changes Properties**: Dry-frying makes the hard seeds easier to break and extract during decoction. It slightly enhances the warming quality and strengthens the Kidney-tonifying and Essence-securing actions compared to the raw form.
+- **When to Use**: Used when the goal is Kidney tonification and Essence-securing, similar to the salt-fried form but without the additional Kidney-directing quality of salt. May be preferred when salt intake is a concern.
+
+---
+
+## Common Herb Pairs
+### Qian Shi (Ratio: 1:1 (e.g. Sh&#x101; Yu&#xE0;n Z&#x1D0; 15g : Qi&#xE0;n Sh&#xED; 15g))
+- **Description**: Shā Yuàn Zǐ tonifies Kidney Yang and secures Essence, while Qiàn Shí (Euryale seed) strengthens the Kidneys, firms Essence, and supports the Spleen to resolve Dampness. Together they reinforce each other's astringent, Essence-securing action while addressing both Kidney weakness and Spleen Dampness that can contribute to discharge and leakage.
+- **When to Use**: Kidney deficiency with involuntary seminal emission, frequent urination, or excessive vaginal discharge, especially when there are also signs of Spleen weakness such as loose stools.
+
+### Tu Si Zi (Ratio: 1:1 (e.g. Sh&#x101; Yu&#xE0;n Z&#x1D0; 15g : T&#xF9; S&#x12B; Z&#x1D0; 15g))
+- **Description**: Both herbs tonify the Liver and Kidneys, secure Essence, and brighten the eyes. Tù Sī Zǐ is neutral in temperature and balances Yin and Yang more evenly, while Shā Yuàn Zǐ is warm and has stronger astringent action. Together they provide comprehensive Liver-Kidney support with both nourishing and securing qualities.
+- **When to Use**: Liver and Kidney deficiency presenting with blurry vision, diminished visual acuity, lower back pain, and seminal emission. Particularly effective for progressive vision decline from Liver-Kidney depletion.
+
+### Du Zhong (Ratio: 1:1 (e.g. Sh&#x101; Yu&#xE0;n Z&#x1D0; 15g : D&#xF9; Zh&#xF2;ng 15g))
+- **Description**: Both herbs are sweet and warm, entering the Liver and Kidney channels. Dù Zhòng adds the ability to strengthen sinews and bones, while Shā Yuàn Zǐ contributes Essence-securing and eye-brightening actions. Together they powerfully tonify the Liver and Kidneys to address lower back pain and weak limbs.
+- **When to Use**: Kidney deficiency presenting primarily with chronic lower back pain, weak knees, and limb soreness, especially in people who also have Essence instability.
+
+### Gou Qi Zi (Ratio: 1:1 (e.g. Sh&#x101; Yu&#xE0;n Z&#x1D0; 10g : G&#x1D2;u Q&#x1D0; Z&#x1D0; 10g))
+- **Description**: Gǒu Qǐ Zǐ nourishes Liver and Kidney Yin and Blood, while Shā Yuàn Zǐ warms Kidney Yang and secures Essence. Together they address both Yin and Yang aspects of Liver-Kidney deficiency and mutually reinforce the eye-brightening action. This is a balanced pairing that avoids excess warmth or cold.
+- **When to Use**: Liver and Kidney deficiency with blurred vision, dizziness, and lower back weakness, particularly when there is a mix of Yin and Yang depletion rather than pure Yang deficiency.
+
+---
+
+## Key Formulas
+Jin Suo Gu Jing Wan, Wu Zi Yan Zong Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Sha Yuan Zi is classified as non-toxic in the Ben Cao Gang Mu, which states it is "甘，温，无毒" (sweet, warm, non-toxic). It has no known toxic components at standard dosages. However, pharmacological research has identified uterine-contracting activity and platelet aggregation-inhibiting effects, which warrant caution in pregnancy and bleeding disorders rather than indicating toxicity per se. Some Astragalus species are known to accumulate selenium in selenium-rich soils, but this is not a documented concern with cultivated A. complanatus at standard medicinal doses.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Pharmacological studies have demonstrated that Sha Yuan Zi has uterine-contracting (oxytocic) activity, which could theoretically stimulate premature contractions. While it is not classified as absolutely contraindicated in pregnancy in classical texts, the demonstrated uterine-stimulating effect means it should be avoided or used only under close practitioner supervision during pregnancy, particularly in the first trimester or in women with a history of miscarriage.
+- **Breastfeeding**: No specific classical or modern contraindications for breastfeeding have been established. However, given the herb's warm, tonifying nature and its demonstrated pharmacological activities (including blood pressure lowering and platelet aggregation inhibition), it is prudent to use only at standard doses and under practitioner guidance during breastfeeding. There is no specific data on whether active constituents transfer into breast milk.
+- **Children**: Sha Yuan Zi is a gentle, non-toxic Kidney-tonifying herb that is not commonly used in pediatric practice, as Kidney deficiency patterns requiring essence-securing treatment are predominantly adult conditions. If used in children (for example, for bedwetting due to Kidney deficiency), dosage should be proportionally reduced based on age and body weight, typically to one-third to one-half of the adult dose. It should only be prescribed by a qualified practitioner who has confirmed the appropriate pattern diagnosis in the child.
+
+### Drug Interactions
+Antihypertensive medications: Sha Yuan Zi has demonstrated blood-pressure-lowering effects in animal studies, acting in part through the renin-angiotensin system. It could theoretically potentiate the effects of ACE inhibitors, angiotensin receptor blockers (ARBs), or other antihypertensive drugs, increasing the risk of hypotension.
+Anticoagulant and antiplatelet drugs: Research has shown that Sha Yuan Zi can inhibit platelet aggregation. Concurrent use with blood-thinning medications such as warfarin, heparin, aspirin, or clopidogrel could increase bleeding risk. Patients on these medications should consult their healthcare provider before using this herb.
+Oxytocic medications: Given the demonstrated uterine-contracting activity, concurrent use with drugs that stimulate uterine contractions (such as oxytocin or misoprostol) should be avoided.
+
+### Dietary Advice
+When taking Sha Yuan Zi for Kidney deficiency, favour warm, cooked foods that support the Kidney and Spleen, such as black beans, walnuts, lamb, and warm grains. Avoid excessive cold, raw foods and iced beverages, which can impair the warming, consolidating action of the herb. Since Sha Yuan Zi is warm in nature, those who tend toward Yin deficiency Heat should moderate intake of spicy, heating foods (chilli, alcohol, fried foods) to avoid aggravating internal warmth.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Astragalus complanatus R. Br. (flat-stem milkvetch) is a perennial herbaceous plant in the Fabaceae (legume) family, growing 30–100 cm tall. It has a long, thick taproot and slender, somewhat flattened stems that tend to sprawl or lie prostrate, covered with short white hairs near the base. The leaves are odd-pinnately compound and alternately arranged, with 9–21 small ovate leaflets, each about 6–14 mm long and 3–7 mm wide, with slightly concave margins.
+Small yellow, butterfly-shaped flowers appear in clusters of 3–9 from July to September. The green calyx is bell-shaped with a five-lobed tip. The fruit is a spindle-shaped pod, about 3–4 cm long, covered with short black hairs, containing 20–30 kidney-shaped seeds. The plant grows on dry slopes, meadows, and gravelly soils at elevations of 1,000–2,400 metres, thriving in well-drained, sandy soil and full sun. It is drought- and cold-tolerant but intolerant of waterlogging. Like other legumes, it fixes atmospheric nitrogen through root-nodule bacteria.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late autumn to early winter (approximately November), when the seed pods are mature but have not yet split open.
+- **Primary Growing Regions**: The recognized dao di (terroir) region for Sha Yuan Zi is Dali County (大荔县) in Weinan, Shaanxi Province, which produces over 80% of China's commercial supply. The herb's name literally refers to the Sha Yuan (沙苑, Sandy Pasture) area of Tongzhou (modern-day Dali), where it was historically harvested wild. In the Ming-Qing period, the Tongguan (潼关) area of Shaanxi was also famous, giving rise to the alias Tong Ji Li (潼蒺藜).
+Other producing regions include Inner Mongolia, Hebei, Shanxi, Gansu, Liaoning, Jilin, Ningxia, Henan, and Sichuan, though quality from these areas is generally considered secondary to the Shaanxi product.
+- **Quality Indicators**: Good quality Sha Yuan Zi seeds are kidney-shaped and slightly flattened, about 2–2.5 mm long, 1.5–2 mm wide, and approximately 1 mm thick. The surface should be smooth and greenish-brown or greyish-brown in colour. One edge should have a slight indentation with a visible round hilum (seed scar). The seeds should be hard and difficult to crush. When split open, two pale yellow cotyledons are visible with a curved radicle about 1 mm long. Good seeds are plump and full, not shrivelled. There should be no odour; when chewed, they have a mild bean-like flavour. Avoid seeds that are dark or blackened, excessively lightweight, or mixed with obvious foreign seeds. Note that freshly harvested seeds may not meet pharmacopoeia standards for complanatoside content until they have been aged (chen hua) for 1.5 to 3 years.
+
+### Identity & Adulterants
+Sha Yuan Zi has many known adulterants and look-alikes due to its small seed size. The most common adulterant is Astragalus adsurgens (直立黄芪) seed, which is morphologically very similar but can be distinguished by microscopic differences in the seed coat structure and hilum, as well as differences in fat droplet distribution within the cotyledon cells.
+Other documented adulterants include: Astragalus sinicus (紫云英, Chinese milk vetch) seeds, which tend to be more rectangular-kidney shaped; Hua Huang Qi (华黄芪, Astragalus chinensis) seeds, which are more regularly kidney-shaped and plumper; Crotalaria seeds (猪屎豆, C. sessiliflora and related species); Abutilon theophrasti (磨盘草) seeds; and Sophora alopecuroides (苦豆子) seeds.
+The authentic herb can be verified by thin-layer chromatography (TLC): when viewed under UV light (365 nm), a methanol extract spot shows a purplish-red fluorescence that, when expanded with additional methanol, reveals a bright yellow ring within the purplish-red ring. The Chinese Pharmacopoeia requires a minimum complanatoside content of 0.060%.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Yan Yi (《本草衍义》, Song Dynasty)
+- **Original**: 补肾。
+- **Translation**: "Supplements the Kidney."
+
+### Historical Context
+Sha Yuan Zi has a fascinating history of name confusion. Its earliest recorded medicinal use appears in the Kaibao Bencao (开宝本草, 973 CE, Song Dynasty), where it was described for treating Kidney deficiency in men. However, it was long confounded with Ci Ji Li (刺蒺藜, puncture vine fruit, Tribulus terrestris), a completely different herb. The Song Dynasty text Ben Cao Yan Yi (本草衍义) by Kou Zongshi first clearly distinguished the two, explaining that "white Ji Li" (白蒺藜) from the sandy pastures of Tongzhou was a Kidney-supplementing seed resembling a tiny sheep kidney, while "thorny Ji Li" (刺蒺藜) was a spiny fruit growing by roadsides used for Wind conditions.
+Li Shizhen in the Ben Cao Gang Mu (Ming Dynasty) provided a comprehensive clarification, noting that ancient formulas using "white Ji Li" for Kidney supplementation actually referred to Sha Yuan Zi, not the thorny Tribulus. He wrote that in ancient times both Wind-treating and Kidney-tonifying formulas used "Ji Li," but by his era practitioners clearly preferred Sha Yuan Zi for Kidney supplementation and Ci Ji Li for Wind disorders. The herb's name evolved through three main stages: Bai Ji Li (白蒺藜) → Sha Yuan Ji Li (沙苑蒺藜) → Sha Yuan Zi (沙苑子), the last now being the official pharmacopoeia name.
+The name "Sha Yuan" derives from its original wild habitat in the sandy grazing lands (沙苑) near Tongzhou in Shaanxi. It was originally a wild herb but was domesticated for cultivation beginning in the 1960s. The alias "Tong Ji Li" (潼蒺藜) references the Tongguan pass area where high-quality herb was traditionally sourced.
+
+### Modern Scientific Research
+1. **[Antihypertensive effect of total flavonoids of Astragalus complanatus in hypertensive rats (Animal study, 2005)](https://pubmed.ncbi.nlm.nih.gov/16201455/)**
+   *Journal: Zhang BQ, Hu SJ, Qiu LH, Zhu JH, Xie XJ, Sun J, Zhu ZH, Xia Q, Bian K. Chinese Journal of Integrative Medicine, 2005, 11(3): 223-228*
+   This study tested total flavonoids extracted from Sha Yuan Zi seeds in two rat models of high blood pressure. The flavonoids significantly lowered blood pressure in both normal and hypertensive rats when given orally, and also reduced plasma angiotensin II levels, suggesting the blood-pressure-lowering effect may work partly through the renin-angiotensin system.
+
+2. **[Effect of Astragalus complanatus flavonoid on anti-liver fibrosis in rats (Animal study, 2005)](https://pubmed.ncbi.nlm.nih.gov/16270385/)**
+   *Journal: Liu CY, Gu ZL, Zhou WX, Guo CY. World Journal of Gastroenterology, 2005, 11(37): 5845-5849*
+   Flavonoids from Sha Yuan Zi were tested in rats with chemically induced liver fibrosis. Treatment increased protective antioxidant enzyme activity (SOD) in liver tissue while decreasing markers of oxidative damage and collagen deposition, suggesting a protective effect against liver scarring.
+
+3. **[Effect of total flavonoids from the seeds of Astragali complanati on natural killer cell function (In vitro study, 2015)](https://pubmed.ncbi.nlm.nih.gov/26196400/)**
+   *Journal: Li S, Sun Y, Huang J, Wang B, Gong Y, Fang Y, Liu Y, Wang S, Guo Y, Wang H, Xu Z. Journal of Ethnopharmacology, 2015, 173: 157-165*
+   This laboratory study investigated the effect of Sha Yuan Zi flavonoids on natural killer (NK) immune cells. The flavonoids enhanced NK cell proliferation and their ability to kill hepatocarcinoma cells by upregulating activating receptors NKG2D and NKp44, suggesting potential as an immune-stimulating agent in cancer support.
+
+4. **[Induction of apoptosis in human hepatocarcinoma SMMC-7721 cells in vitro by flavonoids from Astragalus complanatus (In vitro study, 2009)](https://pubmed.ncbi.nlm.nih.gov/19429375/)**
+   *Journal: Ye M, Wang Q, Zhang W, Li Z, Wang Y, Hu R. Journal of Ethnopharmacology, 2009, 123(2): 293-301*
+   This cell-based study found that flavonoids extracted from Sha Yuan Zi induced programmed cell death (apoptosis) in human liver cancer cells in a dose-dependent manner, and investigated the underlying molecular mechanisms of this anti-cancer activity.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/sha-yuan-zi](https://www.meandqi.com/knowledge-base/herbs/sha-yuan-zi)*

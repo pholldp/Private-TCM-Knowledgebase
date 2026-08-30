@@ -1,0 +1,226 @@
+# โรคผิวหนังอักเสบในช่องปาก (口周皮炎)
+**คำอ่านพินอิน**: kǒu zhōu pí yán | **ประเภท**: Condition | **หมวดหมู่**: สภาพผิว, ใบหน้าและผิวพรรณ  
+**ชื่อเรียกอื่นๆ**: Perioral Eczema | **บริเวณร่างกาย**: Face — Perioral
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+โรคผิวหนังอักเสบบริเวณรอบปากมักสะท้อนถึงสิ่งที่เกิดขึ้นในลำไส้ของคุณ ด้วยการขจัดความร้อนและความชื้นภายในที่แหล่งกำเนิด ผู้ป่วยส่วนใหญ่จะเห็นการปรับปรุงที่ดีขึ้นอย่างเห็นได้ชัดภายใน 4-8 สัปดาห์ - ก...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Perioral dermatitis is a chronic facial rash that appears around the mouth, typically sparing a thin rim of skin next to the lips. It presents as small red papules, pustules, and patches of dry, flaky skin, often accompanied by burning or itching. The exact cause isn't fully understood, but triggers include prolonged use of topical corticosteroids, certain cosmetics, fluorinated toothpaste, and hormonal changes. Diagnosis is usually made by a dermatologist based on the appearance and location of the rash.
+
+### การรักษาหลัก (Treatments)
+Standard management begins with stopping any topical steroids, which can temporarily worsen the rash. Treatments include topical metronidazole, clindamycin, or azelaic acid, and for more stubborn cases, oral tetracycline antibiotics like doxycycline. Some patients use topical calcineurin inhibitors. Even with treatment, the condition can be slow to resolve and may recur.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, the mouth is the orifice of the Spleen and the Stomach channel runs directly around the lips. So when heat, dampness, or fire builds up in these digestive organs, it naturally rises upward along the channel and manifests as a rash around the mouth. The type of rash - whether it's weepy and greasy, red and dry, or sudden and itchy - tells us exactly what kind of internal imbalance we're dealing with.
+Damp-Heat in the Stomach and Spleen is one of the most common patterns. Here the digestive system is overwhelmed by rich, greasy, or spicy foods, generating a sticky, turbid heat that steams upward. The rash tends to be red, with pustules that may ooze, and it comes with a thick yellow tongue coating and a heavy, sluggish feeling.
+Wind-Heat, on the other hand, is an acute invasion. It often flares suddenly after exposure to wind or heat, producing red, swollen, itchy bumps with tiny blisters - the tongue tip is red and the pulse is floating and rapid. This pattern is more about an external pathogen striking the surface channels.
+Stomach Fire is a deeper, drier heat. It comes from a diet heavy in fried, spicy, or grilled foods and causes intense thirst, bad breath, and a red tongue with a thick dry yellow coat. The rash is red and dry, often with pustules, and the person may feel constantly hungry. Finally, when the body's cooling Yin resources run low - often from overwork, late nights, or chronic illness - Empty-Heat can rise. This rash is darker red, dry, and scaly, worse in the evening, and comes with night sweats and a feeling of restlessness. The tongue is red with little coating.
+Each pattern calls for a different strategy: draining damp-heat, dispersing wind-heat, purging stomach fire, or nourishing Yin. That's why two people with the same Western diagnosis may need completely different herbal formulas and acupuncture points.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner starts by closely examining the rash around your mouth and asking about digestion, thirst, and what makes the skin better or worse. The tongue and pulse provide essential clues that distinguish one pattern from another. Because the mouth area is linked to the Stomach and Spleen channels, many patterns involve heat rising from the digestive system, but the nature of that heat-whether damp, dry, acute, or chronic-points to the specific diagnosis.
+If the rash is greasy, with yellow oozing or pustules and intense itching, and you also have a heavy feeling, loose stools, and a thick yellow greasy tongue coating, the pattern is likely Damp-Heat in the Stomach and Spleen (脾胃湿热). The pulse will feel slippery and rapid. This picture reflects an internal stew of moisture and heat that the digestive system cannot manage, so it rises to the skin.
+When the outbreak appears suddenly, with red swelling, small blisters, and itching that worsens with heat, and your tongue is red with a thin yellow coating and your pulse feels floating and rapid, the pattern is Wind-Heat (风热). This often follows exposure to wind or spicy foods. It is an acute, surface-level invasion that needs to be dispersed quickly, rather than a deep internal imbalance.
+A Stomach Fire (胃火) pattern produces dry, red papules and pustules without the greasy ooze of damp-heat. You may feel intense thirst, crave cold drinks, have bad breath, and suffer from constipation. The tongue is red with a thick dry yellow coating, and the pulse is rapid. Here, heat blazes upward along the Stomach channel, which encircles the mouth, causing local inflammation with systemic dryness.
+For chronic, recurring flare-ups with dark red patches, fine scaling, and a burning sensation that worsens with stress or at night, the root is likely Empty-Heat from Yin Deficiency (阴虚内热). The tongue appears red with little or no coating, and the pulse is thready and rapid. This pattern signals that the body’s cooling, nourishing reserves are depleted, allowing a low-grade “empty” heat to surface periodically.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「唇风由胃经风火凝结而成。」
+> 
+> **คำแปลภาษาอังกฤษ**: "Lip wind (a condition resembling perioral dermatitis) is caused by wind and fire condensing in the Stomach channel."
+> 
+> — แหล่งที่มา: *Yi Zong Jin Jian (Golden Mirror of Medicine)  ,  Section on Lip Diseases (唇风) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Damp-Heat in Stomach and Spleen
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-heat-in-stomach-and-spleen)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Greasy red papules and pustules around the mouth, Yellow, oily exudate or crusting, Sticky or bitter taste in the mouth, Abdominal bloating and fullness, Loose stools that feel incomplete or sticky
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Rich, greasy, or fried foods, Spicy and pungent foods, Alcohol and coffee, Overeating or late-night eating
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool, bland foods (e.g., cucumber, celery), Avoiding sugar and dairy, Regular bowel movements, Gentle exercise
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen and Stomach are responsible for transforming food into Qi and fluids. When they become impaired-often by rich, greasy, or spicy foods-dampness and heat accumulate internally. This damp-heat rises along the Stomach channel, which encircles the mouth, producing red papules, pustules, and a greasy yellow discharge. The digestive symptoms like bloating and sticky stools confirm that the root problem lies in the digestive system, not just the skin.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body, possibly swollen with teeth marks, thick yellow greasy coating especially at center and root. Pulse: soggy (Ru) and rapid (Shu), often slippery (Hua).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Rich, greasy, and spicy foods directly feed dampness and heat, which the impaired Spleen and Stomach cannot process, causing the damp-heat to surge upward to the mouth. Cooling, bland foods and regular elimination help drain dampness and clear heat, while gentle movement supports the Spleen's function of transforming and transporting fluids.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid greasy, fried, spicy, and sweet foods that create dampness and heat. Eat light, easily digestible meals with plenty of cooked vegetables and grains like barley and millet. Sip warm water and avoid iced drinks. Gentle daily exercise, such as walking, helps Qi flow and reduces dampness.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xie Huang San](https://www.meandqi.com/knowledge-base/formulas/xie-huang-san)** | Drain the Yellow Powder &#xB7; S&#xF2;ng dynasty, 1119 CE | Cool, Clears Heat from the Spleen and Stomach, Clears Heat and Drains Fire from the Middle Burner, Disperses Depressed Heat | Clears heat from the Spleen and Stomach, resolves dampness, and cools the blood to address the root of perioral dermatitis. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears damp-heat from the Stomach and Spleen, reducing redness and exudate. |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Drains Stomach fire and dries dampness, especially effective for oral and facial heat. |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed |  | Drains dampness and supports the Spleen, reducing the greasy, sticky discharge. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Regulates the Spleen and Stomach, resolves dampness, and supports overall digestive function. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Drains dampness from the lower body, addressing the root of damp-heat. |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | Clears Stomach heat and calms inflammation around the mouth. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Clears heat from the face and alleviates itching and redness. |
+
+---
+
+### Wind-Heat
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/wind-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Sudden red papules and tiny blisters, Intense itching, Worse with heat and wind exposure, Mild fever or chills, Sore throat
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy or fried foods, Hot, windy weather, Stress and frustration, Alcohol, Heavy, occlusive skincare
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool compresses, Gentle cleansing, Avoiding wind and sun, Cooling herbal teas, Rest and calm
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Wind-Heat is an external invasion that attacks the body's surface. The mouth area is particularly vulnerable because the Stomach and Large Intestine channels run directly around the lips. When Wind carries Heat into these channels, it triggers a sudden, acute skin reaction - red, swollen, itchy bumps and tiny blisters erupt as the body tries to push the pathogen out through the skin.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red tip and edges, with a thin yellow or thin white-to-yellow coating. Pulse: floating (felt at the surface) and rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Wind-Heat is an external pathogen that enters through the skin and the breath. Triggers like wind, heat, and spicy food add more Heat or push the pathogen deeper, making the rash worse. Cooling and calming measures help the body push the pathogen back out through the surface, allowing the skin to clear naturally.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, fried, and sugary foods that generate internal Heat. Drink cooling herbal teas like chrysanthemum or mint. Protect your face from strong wind and direct sun. Use a gentle, fragrance-free cleanser and avoid heavy skincare products that can trap Heat.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiao Feng San](https://www.meandqi.com/knowledge-base/formulas/xiao-feng-san)** | Eliminate Wind Powder &#xB7; M&#xED;ng dynasty, 1617 CE | Cool, Dispels Wind and Stops Itching, Clears Heat, Drains Dampness | The classic formula for wind-heat skin eruptions - dispels Wind, clears Heat, and stops itching. Often modified with extra cooling herbs for perioral dermatitis. |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | A gentle exterior-releasing formula that clears Wind-Heat from the upper body, useful in early acute flare-ups with mild fever and sore throat. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears Heat and relieves toxicity, especially useful for red, inflamed skin. |
+| **[Bo He](https://www.meandqi.com/knowledge-base/herbs/bo-he)** | Peppermint herb |  | Disperses Wind-Heat from the head and face, and helps the rash surface and resolve. |
+| **[Chan Tui](https://www.meandqi.com/knowledge-base/herbs/chan-tui)** | Cicada Slough |  | Stops itching and helps the skin heal by scattering Wind-Heat. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | The command point of the face and mouth - dispels Wind-Heat and relieves facial redness and itching. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Clears Heat from the skin and cools the blood, a master point for inflammatory skin conditions. |
+| **GB-20** | [Fengchi GB-20](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20) | F&#x113;ng Ch&#xED; | Subdues Liver Yang, Expels Exterior or Interior Wind | Expels Wind and clears Heat from the head and face, especially when symptoms are triggered by wind. |
+
+---
+
+### Stomach Fire (Stomach Heat)
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/stomach-fire-stomach-heat)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Dry red papules or pustules around the mouth, Bad breath, Excessive hunger or constant appetite, Thirst with desire for cold drinks, Constipation with dry, hard stools, Burning sensation in the stomach area
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy and fried foods, Alcohol and coffee, Emotional stress and anger, Hot weather, Eating large meals late at night
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods (cucumber, watermelon), Drinking cold water, Rest and stress reduction, Regular bowel movements, Avoiding spicy and greasy foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Stomach channel runs directly around the mouth. When excessive heat builds up in the Stomach-often from a diet rich in spicy, greasy, or fried foods-it flares upward along this channel, causing red, dry papules and pustules around the lips. The heat also damages fluids, leading to thirst, dry mouth, and constipation, while the internal fire creates a constant feeling of hunger and foul breath.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body, often with red prickles in the center, thick dry yellow coat. Pulse: rapid, slippery, and full, especially strong at the right middle position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Spicy, greasy, and hot foods directly add heat to the Stomach, while emotional stress can generate fire. Cooling foods and drinks help clear heat, and regular bowel movements prevent heat accumulation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat. Eat cooling foods like cucumber, watermelon, and leafy greens. Drink plenty of water and maintain regular bowel movements. Manage stress with gentle exercise and relaxation.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Qing Wei San](https://www.meandqi.com/knowledge-base/formulas/qing-wei-san)** | Clear the Stomach Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), c. 1276 CE | Cold, Clears Stomach Heat, Cools the Blood, Nourishes Yin | The classical formula for Stomach heat rising to the mouth - clears Stomach fire, cools blood, and relieves the dry red papules, bad breath, and thirst. |
+| **[Xie Huang San](https://www.meandqi.com/knowledge-base/formulas/xie-huang-san)** | Drain the Yellow Powder &#xB7; S&#xF2;ng dynasty, 1119 CE | Cool, Clears Heat from the Spleen and Stomach, Clears Heat and Drains Fire from the Middle Burner, Disperses Depressed Heat | Clears heat from the Spleen and Stomach and drains fire; useful when dampness accompanies the heat, though Qing Wei San is more targeted for pure Stomach fire. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Clears Stomach fire and dries dampness, targeting the root heat. |
+| **[Sheng Ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)** | Cimicifuga rhizome |  | Vents heat from the Stomach channel upward to clear perioral outbreaks. |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark |  | Cools blood and clears heat, reducing inflammation and papules. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | Reduce. Ying-Spring point of Stomach channel, clears Stomach fire. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Reduce. Clears heat from the face and mouth. |
+| **LI-11** | [Quchi LI-11](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11) | Q&#x16B; Ch&#xED; | Clears Heat, Cools the Blood | Reduce. Clears heat and cools blood. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Even method. Harmonizes Stomach and regulates Qi. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Dark red, dry patches and fine scaling, Rash worsens in the afternoon or evening, Night sweats, Feeling of heat in the palms, soles, and chest, Dry mouth and throat, wanting to sip water, Irritability and trouble sleeping
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy and fried foods, Late nights and overwork, Emotional stress and frustration, Hot, dry weather
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cool, moist foods, Going to bed early, Gentle, calming activity
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's cooling and moistening resources (Yin) run low, a subtle, restless heat builds from within. This empty heat has nowhere to go but upward, following the Stomach channel to the mouth, where it smolders and creates chronic, low-grade inflammation.
+Without enough Yin to nourish the skin, the area around the lips becomes dry, dark red, and scaly, flaring up again and again. The rash is not fiery or weepy like other patterns - it is a slow burn that worsens as the day wears on and Yin naturally dips at night.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin, and dry with cracks, little or no coating. Pulse: fine (thin) and rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Empty heat arises because Yin is too thin to hold the body's warmth in check. Anything that further dries or heats - spicy food, staying up late, stress - fans that smoldering heat upward to the mouth. Cooling, moistening foods and deep rest rebuild Yin, so the heat settles and the skin can heal.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Build Yin with moist, cooling foods like pear, cucumber, tofu, lily bulb, and a little honey. Avoid spicy, fried, and roasted foods, as well as alcohol and coffee, which dry you out further. Prioritize going to bed early - the hours before midnight are the most restorative for Yin - and keep stress in check, because emotional heat burns up fluids.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Er Zhi Wan](https://www.meandqi.com/knowledge-base/formulas/er-zhi-wan)** | Two Solstices Pill &#xB7; M&#xED;ng dynasty, 1534 CE | Cool, Nourishes Liver and Kidney Yin, Tonifies the Kidneys, Tonifies the Liver | The classic base formula to nourish Yin and gently clear empty heat; often modified with cooling blood herbs like Sheng Di Huang and Mu Dan Pi to calm the skin. |
+| **[Xie Huang San](https://www.meandqi.com/knowledge-base/formulas/xie-huang-san)** | Drain the Yellow Powder &#xB7; S&#xF2;ng dynasty, 1119 CE | Cool, Clears Heat from the Spleen and Stomach, Clears Heat and Drains Fire from the Middle Burner, Disperses Depressed Heat | A classical pediatric formula used to clear hidden heat from the Spleen and Stomach. It is commonly used for mouth sores, bad breath, dry lips, excessive hunger, and the childhood habit of protruding the tongue. The formula gently disperses smoldering heat rather than aggressively purging it, making it suitable for both children and adults with these symptoms. |
+| **[Xiao Feng San](https://www.meandqi.com/knowledge-base/formulas/xiao-feng-san)** | Eliminate Wind Powder &#xB7; M&#xED;ng dynasty, 1617 CE | Cool, Dispels Wind and Stops Itching, Clears Heat, Drains Dampness | A classical formula for itchy, red skin rashes that may ooze fluid after scratching, such as eczema, hives, and allergic dermatitis. It works by dispersing Wind from the skin surface, clearing Heat, draining Dampness, and nourishing the Blood to address both the symptoms and the underlying causes of these skin eruptions. |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs. |
+| **[Qing Wei San](https://www.meandqi.com/knowledge-base/formulas/qing-wei-san)** | Clear the Stomach Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), c. 1276 CE | Cold, Clears Stomach Heat, Cools the Blood, Nourishes Yin | A classical formula used to clear excess heat from the Stomach that flares upward, causing toothache, swollen or bleeding gums, mouth sores, bad breath, and facial flushing. It works by draining Stomach Fire while cooling the Blood to address the inflammation and pain in the mouth and face. |
+| **[Er Zhi Wan](https://www.meandqi.com/knowledge-base/formulas/er-zhi-wan)** | Two Solstices Pill &#xB7; M&#xED;ng dynasty, 1534 CE | Cool, Nourishes Liver and Kidney Yin, Tonifies the Kidneys, Tonifies the Liver | A gentle, two-herb formula that nourishes the Liver and Kidneys, helping with symptoms like dizziness, tinnitus, dry mouth and throat, lower back soreness, premature graying of hair, and heavy menstrual bleeding caused by a depletion of the body&#x27;s cooling, moistening Yin fluids. It is mild enough for long-term use and is especially valued for not causing digestive heaviness, unlike richer Yin-nourishing formulas. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Nu Zhen Zi](https://www.meandqi.com/knowledge-base/herbs/nu-zhen-zi)** | Glossy privet fruit |  | Nourishes Liver and Kidney Yin to address the root deficiency. |
+| **[Mo Han Lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)** | Eclip&#x442;&#x430; herb (False Daisy) |  | Cools the blood and enriches Yin, helping to heal the dry, dark red patches. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed | Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain |  |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower | Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery |  |
+| **[Bo He](https://www.meandqi.com/knowledge-base/herbs/bo-he)** | Peppermint herb | Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat |  |
+| **[Chan Tui](https://www.meandqi.com/knowledge-base/herbs/chan-tui)** | Cicada Slough | Cold, Disperses Wind-Heat, Benefits the Throat and Restores the Voice, Vents Rashes and Stops Itching |  |
+| **[Sheng Ma](https://www.meandqi.com/knowledge-base/herbs/sheng-ma)** | Cimicifuga rhizome | Slightly Cool, Releases the Exterior and Vents Rashes, Clears Heat and Resolves Toxicity, Lifts Sunken Qi |  |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark | Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat |  |
+| **[Nu Zhen Zi](https://www.meandqi.com/knowledge-base/herbs/nu-zhen-zi)** | Glossy privet fruit | Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Blackens the Hair and Beard |  |
+| **[Mo Han Lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)** | Eclip&#x442;&#x430; herb (False Daisy) | Cold, Nourishes Liver and Kidney Yin, Cools the Blood and Stops Bleeding, Darkens the hair and strengthens the teeth |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel, strongly nourishes Kidney Yin to anchor the empty heat. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes the Spleen, Liver, and Kidney, building Yin and moistening the skin. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM help if my perioral dermatitis was triggered by steroid creams?
+Yes. TCM doesn't see the steroid cream as the root cause - rather, it views the skin's reaction as a sign of underlying heat or dampness that the cream suppressed but didn't resolve. Herbal formulas work to clear that latent heat and restore the skin's normal function, often easing the rebound flare that happens when stopping steroids. It's important to taper off topical steroids under medical supervision, as stopping abruptly can cause a severe flare.
+
+### How long will it take for the herbs to work?
+Most people notice reduced redness and itching within the first 1-2 weeks. Pustules may dry up and new ones stop forming. Full clearing of the rash typically takes 4-8 weeks for excess patterns, and longer for deficiency patterns. Consistency is key - taking your herbs daily and making dietary changes will speed things up.
+
+### Do I need to change my diet?
+Diet plays a huge role. Since most perioral dermatitis patterns are linked to digestive heat, avoiding spicy, greasy, fried, and sugary foods is essential. Dairy and alcohol can also worsen dampness. Your practitioner will give you specific advice, but generally a cooling, bland diet with plenty of vegetables and water supports healing.
+
+### Can acupuncture help perioral dermatitis?
+Yes, acupuncture is very effective for clearing heat and regulating the Stomach and Spleen channels. Points like Stomach 44 and Large Intestine 4 directly address the facial rash, while points on the legs strengthen digestion. Many patients find that acupuncture reduces stress - a common trigger - and speeds up the resolution of the rash.
+
+### Is perioral dermatitis related to my digestion?
+In TCM, absolutely. The Stomach channel runs right around the mouth, so any imbalance in the digestive organs - whether it's dampness, heat, or fire - can show up as a rash in this area. Bloating, loose stools, or constipation often accompany the skin symptoms, confirming the gut-skin connection. Treating the digestive root is what makes the rash go away and stay away.
+
+### Will the rash come back after treatment?
+Recurrence is less likely when the underlying imbalance is fully corrected and dietary habits are maintained. TCM aims to change the internal environment so that heat and dampness no longer accumulate. Some patients may need occasional tune-up treatments if they go through a period of stress or dietary indulgence, but the goal is lasting relief.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **中医药内服外用治疗口周皮炎35例临床疗效观察** ([ลิงก์](https://www.haodf.com/neirong/wenzhang/1673273952.html))
+   *วารสารวิชาการ: Anonymous. 中医药内服外用治疗口周皮炎35例临床疗效观察. haodf.com, n.d. Web.*
+   This clinical observation treated 35 patients with perioral dermatitis using individualized Chinese herbal formulas taken internally and applied externally as washes. Treatment was based on pattern differentiation, primarily targeting damp-heat and Stomach fire. The results showed significant improvement in skin lesions, redness, and itching, suggesting that a holistic TCM approach can effectively manage perioral dermatitis by addressing the underlying digestive imbalances.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/perioral-dermatitis)*

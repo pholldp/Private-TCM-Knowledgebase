@@ -1,0 +1,162 @@
+# Sang Ji Sheng (桑寄生)
+**English Name**: Mulberry Mistletoe  
+**Category**: Wind-Damp dispelling herbs (祛风湿药), Liver and Kidney tonifying herbs  
+**Scientific Name**: Taxillus chinensis (DC.) Danser  
+**Pharmaceutical Name**: Herba Taxilli  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Bitter (苦 kǔ), Sweet (甘 gān)  
+**Channels Entered**: Liver, Kidneys  
+**Parts Used**: Stem (茎 jīng)  
+
+---
+
+## Summary
+Sang Ji Sheng is a gentle, versatile herb that supports joint health, strengthens the lower back and knees, and nourishes the Liver and Kidneys. It is widely used for chronic joint pain and stiffness, lower back weakness, pregnancy support (threatened miscarriage), and high blood pressure. First recorded in the earliest Chinese herbal classic, it remains one of the most commonly prescribed herbs for people whose joint problems are accompanied by underlying weakness.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Bone and Joint Health, Lower Back and Knee Health, Pregnancy support, Blood Pressure Support
+- **TCM Actions**: Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Dispels Wind-Dampness, Nourishes Blood and calms the fetus, Lowers Blood Pressure
+
+### How these actions work
+'Tonifies the Liver and Kidneys' means Sāng Jì Shēng nourishes the Liver and Kidney organ systems, which in TCM govern the tendons, bones, and lower back. When these organs are depleted, a person may experience chronic lower back and knee soreness, weakness in the legs, or dizziness. Sāng Jì Shēng's sweet flavour and its affinity for the Liver and Kidney channels make it particularly well suited to replenish these organ systems gently, since its neutral temperature avoids overheating or overcooling the body.
+'Strengthens the sinews and bones' follows directly from its Liver and Kidney tonification. In TCM, the Liver governs the sinews (tendons and ligaments) and the Kidneys govern the bones. By nourishing these organs, Sāng Jì Shēng helps restore structural integrity and resilience, which is why it is commonly used for weak or painful knees, lower back soreness, and difficulty walking.
+'Expels Wind-Dampness' means this herb can clear out pathogenic Wind and Dampness that lodge in the joints and muscles, causing pain, stiffness, heaviness, or numbness. Unlike purely dispersing Wind-Damp herbs, Sāng Jì Shēng simultaneously tonifies the underlying deficiency that allowed the pathogen to take hold. This makes it especially valuable for chronic joint pain (Bì syndrome) in older adults or those with an underlying Liver-Kidney weakness.
+'Nourishes Blood and calms the fetus' refers to the herb's ability to supplement Blood and stabilise the Chōng and Rèn channels (the two extraordinary vessels most responsible for reproductive function). It is traditionally used during pregnancy when there is vaginal bleeding, lower abdominal pain, or threatened miscarriage due to Liver-Kidney deficiency. The Shén Nóng Běn Cǎo Jīng (the earliest materia medica) already records its fetus-calming action.
+'Lowers blood pressure' is a modern clinical application. Pharmacological studies have found that Sāng Jì Shēng can dilate coronary arteries and reduce blood pressure, so it is now frequently used as part of formulas for hypertension.
+
+---
+
+## Patterns Addressed
+### Wind-Cold
+- **Explanation**: When Wind, Cold, and Dampness invade the joints and persist for a long time, the Liver and Kidneys become depleted. The Liver governs the sinews and the Kidneys govern the bones, so this combined pattern produces chronic joint pain with underlying weakness rather than just acute inflammation. Sāng Jì Shēng is uniquely suited here because its bitter flavour expels Wind-Dampness from the channels while its sweet flavour and Liver-Kidney channel affinity simultaneously nourish the deficient organs. Its neutral temperature means it neither adds Heat nor Cold, making it safe for long-term use in chronic Bì conditions.
+- **Clinical Signs & Symptoms**:
+
+### Spleen and Kidney Qi Deficiency
+- **Explanation**: When the Liver and Kidneys are chronically depleted (regardless of whether external pathogens are present), the lower back loses its support, the knees become weak, and there may be dizziness and premature hair loss. Sāng Jì Shēng enters both the Liver and Kidney channels and has a dual bitter-sweet taste profile. The bitter flavour directs it into the Kidneys (as classical commentators note: 'bitter enters the Kidneys'), while the sweet flavour nourishes Blood. Classical sources such as the Běn Cǎo Qiú Zhēn describe it as a key remedy for supplementing both the Kidneys and the Blood.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Osteoarthritis
+- **Arises from**: Wind-Cold, Spleen and Kidney Qi Deficiency
+- **TCM Interpretation**: In TCM, osteoarthritis is understood as a form of chronic Bì syndrome (painful obstruction) where Wind, Cold, and Dampness have lodged in the joints over a long period. Over time, this persistent blockage damages the Liver and Kidneys, the two organs responsible for nourishing the tendons, ligaments, and bones. As these organs weaken, the joints lose their structural support and resilience, leading to progressive degeneration, pain, and stiffness. The condition often worsens with cold or damp weather, reflects the original pathogenic factors.
+- **Why it Helps**: Sāng Jì Shēng addresses both sides of osteoarthritis simultaneously. Its bitter flavour expels Wind-Dampness from the joints and channels, helping to relieve pain and stiffness. At the same time, its sweet flavour and direct affinity for the Liver and Kidney channels replenish the depleted organs that govern the bones and tendons. This dual action of clearing the pathogen while strengthening the foundation makes it far more suitable for chronic arthritis than herbs that only disperse Wind-Dampness without addressing the underlying deficiency. Its neutral temperature also means it can be used long-term without overheating or overcooling the body.
+
+### Hypertension
+- **Arises from**: Spleen and Kidney Qi Deficiency
+- **TCM Interpretation**: TCM often interprets essential hypertension as a condition rooted in Liver and Kidney Yin deficiency. When these organs lack sufficient Yin (the cooling, nourishing aspect), Liver Yang rises unchecked, producing symptoms like headache, dizziness, flushed face, and irritability. The Kidneys, which normally anchor Yang downward through their Yin, can no longer perform this function when depleted.
+- **Why it Helps**: Sāng Jì Shēng nourishes Liver and Kidney Yin through its sweet flavour and direct channel affinity. By replenishing the Yin foundation, it helps anchor rising Liver Yang. Modern pharmacological research has confirmed its blood pressure-lowering effect, including coronary artery dilation and increased coronary blood flow. Traditionally, it is often paired with Tiān Má (Gastrodia) to calm Liver Yang and treat dizziness and headache from hypertension.
+
+### Threatened Miscarriage
+- **TCM Interpretation**: TCM views threatened miscarriage primarily through the lens of Kidney deficiency. The Kidneys store the body's fundamental essence (Jīng) and are the root of reproductive capacity. When Kidney Qi or Yin is insufficient, the Chōng and Rèn extraordinary vessels that nourish and secure the fetus become unstable. This manifests as vaginal bleeding during pregnancy, low back aching, and a sensation of downward bearing in the abdomen.
+- **Why it Helps**: Sāng Jì Shēng directly enters the Liver and Kidney channels, nourishes Blood, and stabilises the Chōng and Rèn vessels. Its fetus-calming action has been documented since the earliest materia medica. It is a core ingredient in Shòu Tāi Wán (Fetus Longevity Pill), where it works alongside Tù Sī Zǐ, Xù Duàn, and Ē Jiāo to strengthen the Kidney foundation and secure the pregnancy. Modern research suggests it may also inhibit uterine contractions.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9-15g
+- **Maximum Dosage**: Up to 30g in decoction for severe Wind-Damp painful obstruction or significant Liver-Kidney deficiency, under practitioner supervision.
+- **Dosage Notes**: Use 9-15g as a standard dose for Wind-Damp painful obstruction (bi syndrome) with underlying Liver-Kidney deficiency. Higher doses of 15-20g may be used when the primary aim is to nourish Liver and Kidney and strengthen sinews and bones in elderly patients or those with significant deficiency. For calming the fetus in threatened miscarriage, 10-15g is typical, often combined with Xu Duan, E Jiao, and Tu Si Zi. In clinical use for hypertension associated with Liver-Kidney deficiency, doses up to 20-30g have been employed.
+- **Preparation**: 
+
+---
+
+## Processing Methods
+### Ji&#x1D4; S&#x101;ng J&#xEC; Sh&#x113;ng (&#x9152;&#x6851;&#x5BC4;&#x751F;)
+- **Processing Method**: Take clean Sang Ji Sheng slices or segments, spray with rice wine (huáng jiǔ) and mix evenly, allow to soak through (闷透), then stir-fry over gentle heat until the surface turns deep yellow. Standard ratio: 10kg wine per 100kg herb.
+- **How it Changes Properties**: Wine processing enhances the herb's ability to invigorate Blood and unblock the collaterals (通络). The thermal nature shifts slightly warmer. The wine also helps guide the herb's actions through the channels more actively, improving circulation in painful, stiff joints.
+- **When to Use**: Preferred for chronic Bi syndrome where Blood stasis accompanies Wind-Damp and Liver-Kidney deficiency, such as fixed stabbing joint pain or numbness with a dark or purplish tongue. The wine-processed form is also sometimes used in formulas for postpartum joint pain.
+
+---
+
+## Common Herb Pairs
+### Du Huo (Ratio: D&#xFA; Hu&#xF3; 9g : S&#x101;ng J&#xEC; Sh&#x113;ng 9-15g)
+- **Description**: Dú Huó powerfully expels Wind-Cold-Dampness from the lower body and joints, while Sāng Jì Shēng tonifies the Liver and Kidneys and nourishes Blood. Together they address both the pathogenic cause (Wind-Damp obstruction) and the underlying deficiency (Liver-Kidney weakness) that allows chronic Bì syndrome to persist.
+- **When to Use**: Chronic Wind-Damp Bi syndrome of the lower back and legs, especially when the patient has both joint pain and underlying weakness with soreness in the lumbar region and knees.
+
+### Xu Duan (Ratio: 1:1 (each 9-15g))
+- **Description**: Both herbs tonify the Liver and Kidneys and strengthen sinews and bones. Xù Duàn adds the ability to reconnect broken sinews and stop bleeding, while Sāng Jì Shēng contributes Wind-Dampness expulsion and Blood nourishment. Together they powerfully reinforce the structural integrity of the lower back and knees while stabilising pregnancy.
+- **When to Use**: Kidney deficiency with threatened miscarriage or habitual miscarriage; also chronic lower back pain from Liver-Kidney weakness.
+
+### Tian Ma (Ratio: S&#x101;ng J&#xEC; Sh&#x113;ng 15g : Ti&#x101;n M&#xE1; 9g)
+- **Description**: Sāng Jì Shēng nourishes Liver and Kidney Yin and Blood, while Tiān Má calms Liver Yang and extinguishes internal Wind. Together they address Liver-Kidney Yin deficiency with Liver Yang rising, a pattern that produces dizziness, headache, and high blood pressure.
+- **When to Use**: Hypertension with dizziness and headache from Liver-Kidney Yin deficiency and Liver Yang rising.
+
+### Qin Jiao (Ratio: 1:1 (each 9-15g))
+- **Description**: Sāng Jì Shēng expels Wind-Dampness while tonifying the Liver and Kidneys. Qín Jiāo (Gentiana macrophylla root) excels at dispelling Wind-Dampness, relaxing the sinews, and unblocking the collaterals. Together they provide enhanced Wind-Damp expulsion combined with Liver-Kidney nourishment, making the pair particularly effective for painful, stiff joints with underlying deficiency.
+- **When to Use**: Wind-Damp Bi syndrome with Liver-Kidney deficiency causing joint pain, lower back weakness, and sinew stiffness.
+
+### Niu Xi (Ratio: 1:1 (each 9-15g))
+- **Description**: Both herbs tonify the Liver and Kidneys and strengthen the sinews and bones. Niú Xī adds Blood-invigorating and downward-directing actions, helping to conduct the therapeutic effect to the lower limbs and activating Blood circulation in the joints. Together they address deficiency-type lower back and leg weakness with Blood stasis.
+- **When to Use**: Liver-Kidney deficiency with Blood stasis causing lower back soreness, weak legs, numbness, or difficulty walking.
+
+---
+
+## Key Formulas
+Du Huo Ji Sheng Tang, Shou Tai Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Sang Ji Sheng is classified as non-toxic in the Chinese Pharmacopoeia and has a long history of safe use at standard doses. Its main active compound avicularin (a flavonoid glycoside) has low toxicity in animal studies. However, one important safety concern relates to the host tree: because Sang Ji Sheng is a hemi-parasitic plant, its chemical composition varies depending on which tree it grows on. Specimens parasitizing toxic host trees such as lacquer tree (Toxicodendron vernicifluum) or oleander (Nerium oleander) may accumulate toxic compounds from the host and should not be used. Always ensure the herb is sourced from non-toxic host species, ideally mulberry.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Sang Ji Sheng is one of the classical herbs used specifically TO calm the fetus (安胎, an tai) and has been used for centuries in pregnancy for threatened miscarriage and vaginal bleeding. It is generally considered safe and beneficial during pregnancy at standard doses (9-15g in decoction), where it nourishes Liver and Kidney and stabilizes the Chong and Ren vessels. It appears in the classical pregnancy formula Shou Tai Wan alongside Xu Duan, Tu Si Zi, and E Jiao. However, one modern review noted potential embryotoxicity in certain high-dose experimental models. As with all herbs during pregnancy, it should only be taken under the guidance of a qualified practitioner.
+- **Breastfeeding**: Sang Ji Sheng has been traditionally used to promote lactation (下乳汁) as noted in the Ming Yi Bie Lu. It is generally considered compatible with breastfeeding at standard doses. No specific adverse effects on lactation or nursing infants have been documented in classical or modern literature. However, standard caution applies: nursing mothers should consult a qualified practitioner before use.
+- **Children**: Sang Ji Sheng has been used historically in pediatric conditions. The Shen Nong Ben Cao Jing specifically lists "stiffness of the back in children" (小儿背强) among its indications. For children, dosage should be reduced proportionally based on age and body weight, typically one-third to one-half of the adult dose. It is a mild, neutral herb generally well tolerated by children when prescribed appropriately by a practitioner.
+
+### Drug Interactions
+No well-documented pharmacological drug interactions have been established for Sang Ji Sheng in peer-reviewed literature. However, based on the known pharmacological properties of its active compounds (primarily flavonoids such as quercetin and avicularin), the following theoretical considerations apply:
+- Antihypertensive medications: Sang Ji Sheng has demonstrated mild blood-pressure-lowering effects in preclinical studies. Concurrent use with antihypertensive drugs could theoretically have an additive effect. Blood pressure should be monitored.
+- Diuretic medications: Avicularin, a key compound, has demonstrated diuretic activity in animal models. Additive effects with pharmaceutical diuretics are theoretically possible.
+- Anticoagulant/antiplatelet drugs: Quercetin, a prominent flavonoid in Sang Ji Sheng, has been shown to have mild antiplatelet activity. Caution is advised with concurrent warfarin, aspirin, or other anticoagulants, though clinical significance at standard herbal doses is uncertain.
+
+### Dietary Advice
+When taking Sang Ji Sheng for Wind-Damp conditions (joint and back pain), avoid cold, raw foods and excessive exposure to cold and damp environments, which may counteract the herb's therapeutic effects. When using it to nourish Liver and Kidney, foods that support these organs are beneficial, such as black sesame, walnuts, dark leafy greens, and bone broth. In southern China, Sang Ji Sheng is commonly prepared as a nourishing sweet tea (桑寄生蛋茶) boiled with eggs, red dates, lotus seeds, and brown sugar, which is considered a tonic beverage especially suitable for women and the elderly.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Taxillus chinensis (DC.) Danser is an evergreen hemi-parasitic shrub of the Loranthaceae family, growing 0.5 to 1 metre tall. It attaches to host trees via specialized root-like organs called haustoria, which penetrate the host's bark to draw water and nutrients. The stems are cylindrical with reddish-brown to grey bark and numerous small lenticels (breathing pores). Young branches are covered with fine brownish-red hairs.
+The leaves are leathery, oval to egg-shaped, 3 to 8 cm long and 2 to 5 cm wide, with entire margins and short stalks. Young leaves also bear fine downy hairs. Small yellowish flowers appear in clusters, followed by small berry-like fruits that are eaten by birds, which then spread the sticky seeds to new host trees. The plant grows at elevations of 20 to 400 metres in plains and low-mountain evergreen broadleaf forests, parasitizing over 70 different tree species including mulberry, lychee, longan, peach, fig, camphor, rubber, and pine trees.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Winter through early spring (typically December to March). The leafy stems and branches are cut, the thick woody stems removed, then the herb is cut into segments and dried, or steamed before drying.
+- **Primary Growing Regions**: The dao di (premier terroir) regions for Sang Ji Sheng are Guangdong and Guangxi provinces in southern China. It is also produced in Fujian, Yunnan, Taiwan, and parts of Zhejiang. Guangxi in particular is the largest production base, where the herb is commonly known as "Guang Ji Sheng" (广寄生). The best quality herb traditionally comes from plants parasitizing mulberry (Morus alba) trees, though wild sources on mulberry are increasingly scarce, and cultivated sources using mulberry as the designated host are being developed.
+- **Quality Indicators**: Good quality Sang Ji Sheng has young, slender stems (not overly thick or woody) with reddish-brown bark. The best material retains abundant green or dark green leaves that are leathery and intact, not stripped bare. The cross-section of the stem shows a reddish-brown bark layer and pale reddish-brown wood. The herb should be hard and firm in texture with a slightly astringent taste and minimal odour. Traditional quality markers emphasize: branches should be young and reddish-brown in colour, with plentiful intact leaves that are dark green. Avoid material that is mostly bare stems, excessively woody, or has grey, faded, or mouldy leaves.
+
+### Identity & Adulterants
+The most common source of confusion is substitution with Hu Ji Sheng (槲寄生, Viscum coloratum), which is from the same family but a different genus. Hu Ji Sheng is more commonly found in northern China and has a distinct appearance: it has forked branching, lighter and more brittle stems, opposite leaves that are easily shed and have no stalks, and a slightly bitter taste with a sticky quality when chewed. True Sang Ji Sheng (Taxillus chinensis) has harder stems, curled leaves with short stalks, fine downy hairs on young leaves, and a mildly astringent taste. Market adulteration with parasitic plants from other species (Scurrula parasitica, Taxillus balansae, and others from the approximately 100 species of Loranthaceae in China) is common. The 1977 Chinese Pharmacopoeia formally separated the two herbs, but market mixing persists. Additionally, herb from unknown or potentially toxic host trees may be sold without disclosure of the host source.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》, Divine Farmer's Classic of Materia Medica)
+- **Original**: 桑上寄生，味苦，平。主腰痛，小儿背强，痈肿，安胎，充肌肤，坚发齿，长须眉。其实明目，轻身通神。一名寄屑，一名寓木，一名宛童。
+- **Translation**: Mulberry Mistletoe: bitter in flavour, neutral in nature. It governs low back pain, stiffness of the back in children, abscesses and swellings, calms the fetus, enriches the skin and flesh, strengthens the hair and teeth, and promotes the growth of beard and eyebrows. Its fruit brightens the eyes, lightens the body, and opens the spirit.
+
+### Historical Context
+Sang Ji Sheng was first recorded in the Shen Nong Ben Cao Jing (Divine Farmer's Classic of Materia Medica, c. 200 CE) under the name "Sang Shang Ji Sheng" (桑上寄生, "mistletoe growing on mulberry"), where it was classified as a "superior" (上品) herb, meaning it was considered safe for long-term use with life-nurturing properties. The name itself reveals the classical understanding: "Sang" (桑) means mulberry, "Ji" (寄) means to lodge or rely upon, and "Sheng" (生) means to grow. The herb was believed to draw the vital essence of the mulberry tree, making it therapeutically superior to mulberry wood alone.
+Historically, there was significant confusion between Sang Ji Sheng (Taxillus chinensis) and Hu Ji Sheng (槲寄生, Viscum coloratum), as both are parasitic plants used medicinally. Many classical texts, including parts of the Ben Cao Gang Mu, described both species under the single name "Sang Ji Sheng." This ambiguity was only formally resolved in the 1977 edition of the Chinese Pharmacopoeia, which separated them into two distinct medicinal substances. The true Sang Ji Sheng (Taxillus chinensis) is primarily a southern Chinese herb, while Hu Ji Sheng is more common in the north. A famous folk legend tells of a servant boy who, unable to reach a distant herbalist during a snowstorm, instead broke parasitic branches from an old mulberry tree and secretly used them as a substitute. The sick boy he was serving unexpectedly recovered, leading to the discovery of the herb's therapeutic value.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Botany, Traditional Uses, Phytochemistry, Pharmacology, and Toxicology of Taxillus chinensis (2022)](https://pubmed.ncbi.nlm.nih.gov/36482376/)**
+   *Journal: Qin L, et al. Chinese Medicine, 2022, 17: 136*
+   This major review paper summarized over 360 published studies on Sang Ji Sheng. It catalogued approximately 110 identified compounds (mainly flavonoids, phenolic acids, and tannins) and documented evidence for anti-inflammatory, antioxidant, anticancer, antimicrobial, antiviral, diuretic, antihypertensive, and blood-sugar-lowering activities. The review also noted potential hepatotoxicity and embryotoxicity in certain experimental models, highlighting the need for further safety research.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/sang-ji-sheng](https://www.meandqi.com/knowledge-base/herbs/sang-ji-sheng)*

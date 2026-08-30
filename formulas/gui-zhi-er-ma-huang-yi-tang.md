@@ -1,0 +1,66 @@
+# Gui Zhi Er Ma Huang Yi Tang (桂枝二麻黄一汤)
+**English Name**: Two Parts Cinnamon Twig and One Part Ephedra Decoction  
+**Category**: Exterior-releasing formulas, Acrid-warm exterior-releasing formulas  
+**Dynasty/Source**: Shang Han Lun (傷寒論) by Zhang Zhongjing, Clause 25  
+**Temperature**: Slightly Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A gentle classical formula for lingering common cold symptoms that come and go in waves, such as alternating chills and mild fever occurring once or twice a day. It works by lightly promoting sweating to expel the remaining traces of a cold pathogen from the body surface, while also supporting the body's own defensive and nutritive functions. It is also used for itchy skin conditions related to poor surface circulation.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Harmonizes the Nutritive and Defensive Qi, Releases the Exterior, Induces Mild Sweating to Release the Exterior, Disperses Wind-Cold from the Exterior, Disperses Exterior Conditions and Reduces Fever
+- **Therapeutic Focus**: Cold and Flu Relief, Skin Health, Immune Support
+- **Target Organs**: Lungs, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Common Cold, Urticaria, Influenza, Itchy Skin, Bronchitis, Low Grade Fever
+- **Other Names**: Gui Er Ma Yi Tang (桂二麻一汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Gui Zhi** | Cinnamon twig | *King* | 5 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Urinary Bladder | The principal herb, present in the highest dose. It warms the channels, releases the muscle layer, and unblocks the protective Qi to expel wind-cold from the body surface. As the dominant ingredient, it reflects the formula's emphasis on harmonising the body's protective and nutritive layers rather than aggressively forcing sweat. |
+| **Bai Shao** | White peony root | *Deputy* | 3 - 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes the nutritive layer (Ying) and restrains the outward-dispersing nature of Gui Zhi, preventing excessive sweating. The pairing of Gui Zhi and Bai Shao creates a balanced dispersing-and-collecting dynamic that harmonises protective and nutritive Qi. |
+| **Ma Huang** | Ephedra stem | *Deputy* | 2 - 3g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Urinary Bladder | Opens the pores and promotes sweating to release the remaining exterior pathogen. Used in a deliberately small dose (roughly one-third of the standard Ma Huang Tang proportion) to achieve only a gentle sweat, avoiding damage to the body's Qi. Assists Gui Zhi in releasing the surface layer. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Assistant* | 3 - 6g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Warms the Stomach and assists Gui Zhi in dispersing wind-cold from the surface. Also helps prevent nausea. |
+| **Xing Ren** | Bitter apricot kernel | *Assistant* | 3 - 5g | Temp: Slightly Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Large Intestine | Descends Lung Qi and assists Ma Huang in restoring normal Lung function. While Ma Huang opens and raises, Xing Ren descends and moistens, preventing Ma Huang from over-drying the Lungs. Together they regulate Lung Qi in both directions. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 5g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonises all the herbs in the formula and tonifies the middle Qi (Spleen and Stomach) to support the body's ability to generate a healthy sweat response. Moderates the dispersing actions of Gui Zhi and Ma Huang to prevent excessive sweating. |
+| **Da Zao** | Jujube fruit | *Envoy* | 5 pieces | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach, Heart | Nourishes the Spleen and Stomach, supplements Qi and Blood, and works with Zhi Gan Cao to protect the middle burner. Together with Sheng Jiang, it regulates the relationship between the protective and nutritive layers. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Ma Huang (Ephedra) contains ephedrine and pseudoephedrine, which are sympathomimetic compounds that cross the placental barrier. Although the dosage of Ma Huang in this formula is very small (about 2g), ephedrine can accelerate fetal heart rate and has been associated with potential metabolic acidosis in newborns. Gui Zhi (Cinnamon Twig) also promotes circulation and has mild blood-moving properties. While this formula is a very gentle preparation and is only used short-term for acute conditions, pregnant women should consult a qualified practitioner before use, and it should only be prescribed when clearly necessary.
+
+### Breastfeeding
+Use with caution during breastfeeding. Ma Huang (Ephedra) contains ephedrine, which is excreted into human breast milk. Irritability and sleep disturbances in breastfed infants have been reported with maternal ephedrine use. Although the Ma Huang dosage in this formula is very small (approximately 2g), nursing mothers should consult a qualified practitioner before use. If prescribed, the formula should be used for the shortest duration possible, and the infant should be monitored for signs of restlessness, poor feeding, or disrupted sleep.
+
+### Children
+This formula can be used in children, as it is inherently a very mild and gentle preparation. Dosage should be reduced according to age and body weight. A common guideline is approximately one-third of the adult dose for children aged 3 to 6, and one-half for children aged 7 to 12. The Ma Huang content is already very low in the standard adult dose, but practitioners should still monitor children carefully for restlessness, elevated heart rate, or difficulty sleeping. This formula is only appropriate for short-term acute use (a few days). As with all pediatric herbal prescriptions, professional supervision by a qualified practitioner is essential.
+
+### Drug Interactions
+Ma Huang (Ephedra) in this formula contains ephedrine and pseudoephedrine, which have well-documented pharmacological interactions:
+- MAO inhibitors (e.g. phenelzine, tranylcypromine): Concurrent use may potentiate the pressor effect of ephedrine, potentially causing a hypertensive crisis. Ma Huang-containing formulas should not be used during or within 14 days of MAO inhibitor therapy.
+- Cardiac glycosides (e.g. digoxin): Ephedrine may increase the risk of cardiac arrhythmias when combined with cardiac glycosides.
+- Antihypertensive drugs (e.g. beta-blockers, guanethidine): Ephedrine can antagonize the blood-pressure-lowering effects of these medications.
+- Other sympathomimetic drugs (decongestants, bronchodilators, stimulants): Additive cardiovascular effects including elevated blood pressure and heart rate.
+Gan Cao (Licorice, Glycyrrhiza) can cause potassium depletion and sodium retention with prolonged use, potentially interacting with diuretics, corticosteroids, and cardiac glycosides. However, given the very short-term acute use of this formula, this risk is minimal.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Warm, twice daily. After taking each dose, sip a small cup of hot thin rice porridge and cover lightly with a blanket to encourage a gentle sweat.
+- **Typical Duration**: Acute use only: 1 to 3 days, until mild sweating is achieved and chills/fever episodes resolve.
+- **Dietary Advice**: Classical Gui Zhi Tang dietary prohibitions (食忌) apply: avoid raw, cold, greasy, or sticky foods, as well as strong-flavored items including garlic, onions, and alcohol. These can obstruct the Stomach and Spleen, impairing the formula's ability to harmonize the Protective and Nutritive Qi. Light, warm, easily digestible foods such as plain rice porridge (congee) are recommended. After taking the formula, sipping a small bowl of hot thin rice porridge helps support the mild sweating response. Avoid chilled drinks and icy foods.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/gui-zhi-er-ma-huang-yi-tang](https://www.meandqi.com/knowledge-base/formulas/gui-zhi-er-ma-huang-yi-tang)*

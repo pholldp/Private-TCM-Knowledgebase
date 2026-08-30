@@ -1,0 +1,180 @@
+# Shui Fei Ji (水飞蓟)
+**English Name**: Milk thistle fruit  
+**Category**: Herbs that clear Heat and resolve Toxicity (清热解毒药)  
+**Scientific Name**: Silybum marianum (L.) Gaertn.  
+**Pharmaceutical Name**: Fructus Silybi Mariani  
+**Toxicity**: Non-toxic  
+**Temperature**: Cool | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Liver, Gallbladder  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Milk thistle fruit is best known for its liver-protective properties. In Chinese medicine, it clears heat and toxins from the liver and gallbladder, and is commonly used for hepatitis, jaundice, gallstones, and fatty liver. Originally from Europe, it was introduced to China in 1972 and has since become one of the most widely researched herbs for liver health worldwide.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Liver Health, Liver and Gallbladder Health, Detoxification, Digestive Health
+- **TCM Actions**: Clears Heat and Resolves Toxicity, Courses the Liver and benefits the Gallbladder, Clears Damp-Heat from the Liver and Gallbladder, Protects the Liver
+
+### How these actions work
+'Clears Heat and resolves toxins' means Shuǐ Fēi Jì helps the body clear inflammatory Heat and neutralize harmful substances. Its bitter, cool nature drains Heat downward and out of the body. In practice, this is relevant when someone has signs of internal Heat affecting the Liver, such as a bitter taste in the mouth, yellowish skin or eyes (jaundice), or inflamed, painful conditions. The herb's bitter flavour naturally descends and dries, while its cool temperature counteracts excessive Heat.
+'Courses the Liver and benefits the Gallbladder' means this herb helps restore the smooth flow of Qi through the Liver system and supports the Gallbladder's function of storing and releasing bile. When the Liver's Qi flow is disrupted, one may experience pain or distension beneath the ribs, digestive upset, or emotional irritability. Shuǐ Fēi Jì helps re-establish that smooth flow and supports bile secretion, which is why it is widely used for conditions involving the Liver and Gallbladder such as hepatitis, gallstones, and cholangitis.
+'Clears Damp-Heat from the Liver and Gallbladder' refers to the herb's ability to address the combination of Dampness and Heat that can lodge in the Liver-Gallbladder system. This pattern manifests as jaundice, rib-side pain, nausea, a heavy sensation in the body, and dark or scanty urine. The herb's bitter and cool properties work together to drain the Dampness and clear the Heat simultaneously.
+'Protects the Liver' is a modern action description acknowledging the herb's well-documented hepatoprotective effect. Its active compound silymarin stabilizes liver cell membranes and supports liver cell repair. While not a traditional TCM action category, this property is clinically significant and consistent with its Heat-clearing and toxin-resolving actions.
+
+---
+
+## Patterns Addressed
+### Liver and Gallbladder Damp-Heat
+- **Explanation**: Shuǐ Fēi Jì directly targets Liver-Gallbladder Damp-Heat through its bitter and cool nature. The bitter flavour drains Dampness and directs it downward, while the cool temperature clears Heat. Since the herb specifically enters the Liver and Gallbladder channels, it addresses the core pathomechanism of this pattern: Heat and Dampness accumulating in the Liver-Gallbladder system, impairing bile flow and causing jaundice, rib-side pain, and digestive disturbance. Its additional toxin-resolving action helps clear the pathogenic factors that generate and sustain this Damp-Heat accumulation.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondriac Pain**: Pain or distension beneath the ribs on one or both sides
+
+### Toxic-Heat
+- **Explanation**: Shuǐ Fēi Jì's capacity to clear Heat and resolve toxins makes it suitable for patterns where toxic Heat affects the Liver. In TCM, toxic substances (including alcohol, chemicals, and certain medications) that damage the Liver are understood as forms of toxic Heat. The herb's cool, bitter properties counteract this toxic Heat, and modern pharmacological research supports its role in protecting liver cells from toxic damage. This aligns with the classical TCM understanding that bitter-cold herbs can drain Fire-toxins from the body.
+- **Clinical Signs & Symptoms**:
+
+### Liver Qi Stagnation
+- **Explanation**: While Shuǐ Fēi Jì is not a classic Liver Qi-moving herb, its action of 'coursing the Liver' (疏肝 shū gān) supports the smooth flow of Liver Qi. When Liver Qi stagnates, it often generates Heat over time, and if Dampness is also present, it can progress to Damp-Heat. Shuǐ Fēi Jì is most appropriate for Liver Qi Stagnation that has begun to transform into Heat, particularly when there is rib-side discomfort, irritability, and early signs of Gallbladder dysfunction such as digestive difficulty with fatty foods.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondriac Pain**: Distension and discomfort beneath the ribs
+  - **Post-Surgical Constipation And Bloating**: Abdominal bloating from Liver Qi overacting on the digestive system
+
+---
+
+## Commonly Used For
+### Hepatitis
+- **Arises from**: Liver and Gallbladder Damp-Heat, Toxic-Heat
+- **TCM Interpretation**: In TCM, hepatitis is most commonly understood as Damp-Heat or toxic Heat lodging in the Liver and Gallbladder. External pathogenic factors (viruses, toxins, alcohol) invade the body and generate Heat, which combines with Dampness in the middle and lower burners. This Damp-Heat obstructs the Liver's ability to ensure smooth Qi flow and the Gallbladder's role in bile secretion, leading to jaundice, rib-side pain, fatigue, poor appetite, and dark urine. In chronic cases, prolonged Damp-Heat can damage Liver Yin and Blood, leading to a more complex mixed pattern.
+- **Why it Helps**: Shuǐ Fēi Jì's bitter, cool nature directly clears Damp-Heat from the Liver and Gallbladder channels, addressing the root pathomechanism of most hepatitis presentations. Its toxin-resolving action helps neutralize the pathogenic factors causing liver inflammation. By coursing the Liver and benefiting the Gallbladder, it restores the smooth flow of Qi and bile through these organs. Modern research has shown that its active compound silymarin stabilizes liver cell membranes, reduces inflammation, and supports liver cell regeneration, which aligns well with the TCM understanding of clearing Heat-toxins and restoring normal Liver function.
+
+### Fatty Liver
+- **Arises from**: Liver and Gallbladder Damp-Heat
+- **TCM Interpretation**: TCM understands fatty liver primarily as a condition of Dampness and Phlegm accumulating in the Liver, often with concurrent Heat. Overeating rich, greasy foods and excessive alcohol consumption impair the Spleen's ability to transform and transport fluids, leading to Dampness that accumulates in the Liver. Over time, this Dampness congeals into Phlegm and generates Heat. The Liver's Qi flow becomes obstructed, further impairing its function. The condition involves dysfunction of both the Spleen (source of Dampness) and the Liver (site of accumulation).
+- **Why it Helps**: Shuǐ Fēi Jì's bitter flavour dries Dampness and its cool temperature clears Heat, directly addressing the Damp-Heat that characterizes many fatty liver presentations. By coursing the Liver and promoting Gallbladder function, it helps restore proper bile flow and fat metabolism. Modern pharmacological research supports this: silymarin has been shown to reduce liver fat accumulation, lower liver enzyme levels, and improve lipid metabolism in patients with non-alcoholic fatty liver disease.
+
+### Gallstones
+- **Arises from**: Liver and Gallbladder Damp-Heat
+- **TCM Interpretation**: In TCM, gallstones are understood as a manifestation of Damp-Heat congealing in the Gallbladder. When Heat and Dampness accumulate in the Liver-Gallbladder system over time, they can thicken bile and obstruct its flow, eventually solidifying into stones. This causes sharp, colicky pain beneath the right ribs, often accompanied by nausea, vomiting, and jaundice. The underlying pattern involves disrupted Liver Qi flow failing to support normal Gallbladder contraction and bile secretion.
+- **Why it Helps**: Shuǐ Fēi Jì enters the Liver and Gallbladder channels directly, where it clears Damp-Heat and promotes bile flow. Its choleretic properties (promoting bile secretion) help address the underlying stagnation that contributes to stone formation. By coursing the Liver, it restores the smooth flow of Qi needed for proper Gallbladder function. The herb's bitter taste stimulates digestive secretions including bile, while its cool nature clears the Heat component of the pattern.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 6-15g (whole seeds in decoction)
+- **Maximum Dosage**: Up to 15g of whole seeds in decoction. For standardized silymarin extract, clinical studies have used up to 420mg/day (divided into 3 doses) as a standard therapeutic range, with some studies using higher doses under medical supervision.
+- **Dosage Notes**: Shui Fei Ji is most commonly used in modern practice as a standardized extract (silymarin capsules or tablets) rather than in traditional decoction form. When used as an extract, the typical therapeutic dose is 70-140mg of silymarin, taken three times daily. For initial treatment of acute liver conditions, the higher end is used; for maintenance, 35-70mg three times daily may suffice. The whole seed decoction (6-15g) has lower bioavailability of silymarin due to its poor water solubility. The whole plant (leaves and stems) has been used in folk medicine for topical application on abscesses and erysipelas, but this is less common in modern clinical practice.
+- **Preparation**: When using the whole seeds in decoction, the seeds should be lightly crushed before decocting to improve extraction. In modern practice, Shui Fei Ji is far more commonly used as a standardized extract (silymarin capsules, tablets, or oral solutions) rather than in traditional decoction, because silymarin has poor water solubility and limited bioavailability in aqueous decoction.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Yin Chen (Ratio: 1:1 (Shu&#x1D0; F&#x113;i J&#xEC; 10g : Y&#x12B;n Ch&#xE9;n H&#x101;o 10g))
+- **Description**: Shuǐ Fēi Jì and Yīn Chén Hāo together create a powerful combination for clearing Damp-Heat from the Liver and Gallbladder and resolving jaundice. Yīn Chén Hāo is the premier herb for jaundice and strongly clears Damp-Heat while promoting bile excretion, while Shuǐ Fēi Jì adds direct liver-protective and toxin-resolving actions. The pair addresses both the root cause (Damp-Heat) and the organ damage simultaneously.
+- **When to Use**: Jaundice from Liver-Gallbladder Damp-Heat, hepatitis with yellow skin and eyes, dark urine, and rib-side discomfort.
+
+### Chai Hu (Ratio: 2:1 (Shu&#x1D0; F&#x113;i J&#xEC; 10g : Ch&#xE1;i H&#xFA; 6g))
+- **Description**: Chái Hú courses the Liver and raises clear Yang, while Shuǐ Fēi Jì clears Liver-Gallbladder Heat and protects the Liver. Together they combine Qi-moving and Heat-clearing actions for the Liver system: Chái Hú opens up constrained Liver Qi while Shuǐ Fēi Jì addresses the Heat and toxins that accumulate when Qi stagnation persists.
+- **When to Use**: Liver Qi Stagnation transforming into Heat, presenting with rib-side distension, irritability, bitter taste in the mouth, and early signs of liver dysfunction.
+
+### Dan Shen (Ratio: 1:1 (Shu&#x1D0; F&#x113;i J&#xEC; 10-15g : D&#x101;n Sh&#x113;n 10-15g))
+- **Description**: Dān Shēn invigorates Blood and cools Blood, while Shuǐ Fēi Jì clears Heat-toxins and protects the Liver. Together they address chronic liver disease where both Heat-toxins and Blood stasis are present, as in early liver fibrosis or cirrhosis where impaired blood flow through the liver compounds the damage from Heat and toxins.
+- **When to Use**: Chronic hepatitis or early liver cirrhosis with signs of both Heat-toxins (elevated liver enzymes, jaundice) and Blood stasis (fixed pain, spider nevi, dark complexion).
+
+### Yu Jin (Ratio: 1:1 (Shu&#x1D0; F&#x113;i J&#xEC; 10g : Y&#xF9; J&#x12B;n 10g))
+- **Description**: Yù Jīn invigorates Blood, moves Qi, and clears Heat from the Liver and Gallbladder, while Shuǐ Fēi Jì clears Damp-Heat and protects the Liver. The pair excels at promoting bile flow and resolving Gallbladder stagnation, with Yù Jīn's Qi-moving and Blood-invigorating actions complementing Shuǐ Fēi Jì's choleretic and hepatoprotective effects.
+- **When to Use**: Gallstones, cholecystitis, or cholangitis with rib-side pain, bitter taste, nausea, and signs of Liver-Gallbladder Damp-Heat.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Shui Fei Ji is classified as non-toxic. Animal studies have not observed significant toxicity or embryotoxic effects. In human clinical use, silymarin is well tolerated even at higher doses (up to 1,500 mg/day of standardized extract). The most commonly reported side effects are mild gastrointestinal complaints such as nausea, bloating, diarrhea, and occasional headache or itching. Rare cases of allergic reactions have been reported, primarily in people with Asteraceae family allergy. No toxic components requiring special processing have been identified in the raw herb material.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Insufficient safety data. Although animal studies have not shown embryotoxic effects, and milk thistle has been used traditionally by pregnant women in Europe, there is no high-quality clinical evidence confirming safety during human pregnancy. The NCCIH (US National Center for Complementary and Integrative Health) states that little is known about whether it is safe during pregnancy. The herb's cool, bitter nature and its potential estrogenic effects (from the whole plant, not the seed extract specifically) add theoretical concern. Pregnant women should avoid use unless specifically directed by a qualified practitioner.
+- **Breastfeeding**: Milk thistle has been traditionally used in Europe as a galactagogue (to promote breast milk production), and some small studies suggest it may increase lactation. However, rigorous safety data for breastfeeding mothers are lacking. The NCCIH states that little is known about safety during breastfeeding. The herb's active compounds may transfer into breast milk. Until more data are available, breastfeeding women should consult a healthcare provider before use.
+- **Children**: There is insufficient safety data for use in children. Milk thistle supplements are generally not recommended for pediatric use. One clinical study examined silibinin in children with acute lymphoblastic leukemia as adjunctive liver support, but this was under strict medical supervision. Any use in children should be under the guidance of a qualified healthcare practitioner with appropriate dosage reduction based on age and body weight.
+
+### Drug Interactions
+CYP450 Enzymes: In vitro studies have shown that silymarin components can inhibit CYP2C9, CYP2C19, CYP2D6, CYP3A4, and CYP2E1. However, a clinical pharmacokinetic study in healthy volunteers found no significant effect on CYP1A2, CYP2C9, CYP2D6, or CYP3A4/5 at standard doses, suggesting that clinically significant P450-mediated interactions are unlikely at normal therapeutic doses. A possible modest effect on CYP2C9 has been noted (based on one study with losartan), warranting caution with CYP2C9 substrates such as warfarin and diazepam.
+Diabetes medications: Silymarin may lower blood sugar. People taking insulin or oral hypoglycemic agents should monitor blood glucose closely if using milk thistle concurrently.
+Raloxifene (Evista): Milk thistle may increase systemic exposure to raloxifene, potentially through inhibition of glucuronidation.
+Simeprevir: Concurrent use with this hepatitis C drug may increase simeprevir plasma levels; co-administration should be avoided.
+Transporter interactions: In vitro data suggest silymarin may inhibit organic anion-transporting polypeptides (OATP1B1, OATP1B3, OATP2B1). The clinical significance at standard doses remains unclear, but caution is warranted with medications that are OATP substrates (e.g., certain statins).
+
+### Dietary Advice
+No strong classical dietary restrictions apply. Since Shui Fei Ji is cool and bitter in nature, people with weak digestion should avoid excessive cold and raw foods while taking it to prevent further burdening the Spleen and Stomach. As a liver-supporting herb, it is sensible to reduce alcohol consumption and limit greasy, fried, and heavily processed foods during treatment to support the therapeutic goal of liver protection.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Shui Fei Ji (Silybum marianum) is an annual or biennial herbaceous plant in the Asteraceae (daisy) family. It grows 30 to 200 cm tall with an erect, branching, ridged stem that may be smooth or covered with fine cobweb-like hairs.
+The basal leaves form a rosette close to the ground and are large, oblong-lanceolate, 15 to 40 cm long and 6 to 14 cm wide, with deep pinnate lobing. The leaf margins bear sharp spines, and the upper leaf surface is glossy green with striking milky-white vein patterns, a hallmark feature that gives the plant its common name "milk thistle." Stem leaves are smaller and clasp the stem at their base.
+The flower heads are large (3 to 6 cm in diameter), solitary at branch tips, with a broadly spherical involucre of tough, spine-tipped bracts. All florets are tubular, ranging from purple-red to pale pink, occasionally white. The fruit is an elliptical achene (5 to 7 mm long), dark brown to black with longitudinal striations, topped by a crown of white bristle-like pappus. The flowering and fruiting period runs from May to October.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to autumn. The plant flowers continuously from May to July, and individual flower heads ripen 25-30 days after flowering. Seeds are harvested when the bracts turn yellow and curl inward and the pappus begins to spread open, typically June through September.
+- **Primary Growing Regions**: Shui Fei Ji is native to the Mediterranean region of southern Europe and North Africa. It was introduced to China in 1972 from West Germany and is now cultivated across multiple provinces.
+The main production areas in China are Liaoning (especially Panjin, which is a major global hub for silymarin processing and export) and Heilongjiang (Sunwu, Xunke, Nenjiang, Jiayin counties). Together these two provinces account for roughly 70% of China's total output. Secondary production areas include Inner Mongolia (Yakeshi), Jilin, Gansu (Pingliang), Shaanxi (Lintong, Weinan), Hebei, and Jiangsu.
+Internationally, major cultivation regions include Austria (Waldviertel), Germany, Hungary, Poland, and Argentina. Unlike most traditional Chinese herbs, Shui Fei Ji does not have a classical "dao di" terroir designation since it is a modern introduction. However, Panjin in Liaoning has become its de facto production center in China.
+- **Quality Indicators**: Good quality Shui Fei Ji achenes (seeds) are long-ovoid or elliptical, 5-7 mm long and 2-3 mm wide, with a smooth surface ranging from pale grey-brown to dark brown or black. They should have fine longitudinal striations and a pale circular ring at the top with a small dot (remnant of the style). The seed should be hard and firm. When cracked open, the two cotyledons inside should be pale yellowish-white and visibly oily. The aroma is faint and the taste is mild.
+For standardized extracts, the British and US Pharmacopoeias require a minimum silymarin content of 1.5%. Research has found that 30-50% of commercial milk thistle products fail to meet their labelled silymarin content, so sourcing from reputable suppliers with verified certificates of analysis is important.
+
+### Identity & Adulterants
+Shui Fei Ji may be adulterated with other Silybum species, particularly S. eburneum, which is morphologically very similar and difficult to distinguish visually from S. marianum. S. eburneum has a different phytochemical profile and lower silymarin content. Commercially, the greater concern is with silymarin extracts rather than whole seeds: studies have found that many commercial products contain depleted extracts, synthetic colorants, or simply fail to meet their stated silymarin content. Analytical testing (HPLC rather than basic spectrophotometry) is recommended to verify authentic, full-spectrum silymarin content.
+Note: Shui Fei Ji (水飞蓟, Silybum marianum) should not be confused with Da Ji (大蓟, Cirsium japonicum) or Xiao Ji (小蓟, Cirsium setosum), which are different thistle species in the Asteraceae family with distinct properties and uses (primarily for cooling Blood and stopping bleeding).
+
+---
+
+## References
+### Historical Context
+Shui Fei Ji has one of the most unusual histories of any herb in the Chinese materia medica. Unlike the vast majority of TCM herbs, which have been used in China for centuries or millennia, milk thistle is a Western herb with over 2,000 years of European medicinal tradition that was introduced to China less than 50 years ago.
+In 1952, the Beijing Botanical Garden first imported milk thistle from England as an ornamental plant. In 1972, a Chinese foreign trade company introduced it from West Germany specifically for pharmaceutical cultivation. By the 1970s, the first Chinese liver-protective drug based on its active extract, "Yi Gan Ling" (益肝灵), was developed. In 1978, the Panjin region of Liaoning province introduced it from the Xi'an Botanical Garden, and by the 1980s Panjin had become China's first and largest silymarin extraction center. By 2005, the Chinese Pharmacopoeia formally classified Shui Fei Ji as a Chinese medicinal herb, assigning it Liver and Gallbladder channel tropism and TCM properties. It is now one of China's key herbal export commodities, sold to over 30 countries.
+In Western herbal tradition, the plant's name derives from the milky-white veins on its leaves, which Christian legend attributed to drops of the Virgin Mary's milk. In Europe, it has been used since antiquity for liver and biliary complaints, and the 1st-century Greek physician Dioscorides described its medicinal use. The modern scientific era began in the 1960s when German researchers isolated silymarin from the seeds, launching extensive pharmacological research into its hepatoprotective properties.
+
+### Modern Scientific Research
+1. **[Administration of silymarin in NAFLD/NASH: A systematic review and meta-analysis (2024)]()**
+   *Journal: Li S, Duan F, Li S, Lu B. Annals of Hepatology, 2024, 29(2):101174.*
+   This meta-analysis of 26 randomized controlled trials involving 2,375 patients found that silymarin significantly reduced total cholesterol, triglycerides, LDL cholesterol, fasting insulin, and liver enzymes (ALT and AST) in patients with non-alcoholic fatty liver disease. Liver histology also showed improved steatosis. The authors concluded silymarin can regulate energy metabolism and attenuate liver damage in NAFLD, though further research is needed.
+
+2. **[Impact of Silymarin in individuals with nonalcoholic fatty liver disease: A systematic review and meta-analysis (2021)]()**
+   *Journal: Kalopitas G, Antza C, Doundoulakis I, et al. Nutrition, 2021, 83:111092.*
+   This systematic review and meta-analysis of randomized clinical trials evaluated the efficacy of silymarin in NAFLD by examining changes in liver biochemistry, body mass index, and liver histology. The results showed conflicting evidence across individual studies, highlighting the need for larger, better-designed trials.
+
+3. **[The Effects of Milk Thistle (Silybum marianum) on Human Cytochrome P450 Activity (2014)](https://pubmed.ncbi.nlm.nih.gov/25028567/)**
+   *Journal: Kawaguchi-Suzuki M, Frye RF, Zhu HJ, et al. Drug Metabolism and Disposition, 2014, 42(10):1611-1616.*
+   A clinical pharmacokinetic study in 9 healthy volunteers examined whether 14 days of standardized milk thistle extract affected the activity of major drug-metabolizing enzymes. Using a validated four-drug probe cocktail, the study found no significant influence on CYP1A2, CYP2C9, CYP2D6, or CYP3A4/5 activities, suggesting clinically significant CYP-mediated drug interactions are unlikely at standard doses.
+
+4. **[A review of therapeutic potentials of milk thistle (Silybum marianum L.) and its main constituent, silymarin, on cancer, and their related patents (2022)]()**
+   *Journal: Emadi SA, Rahbardar MG, Mehri S, et al. Iranian Journal of Basic Medical Sciences, 2022, 25(10):1166-1176.*
+   This comprehensive review surveyed published research from 2010-2021 on the anticancer effects of milk thistle and silymarin. It found that silymarin has been studied as a complementary treatment for skin, prostate, and colorectal cancers, and as a hepatoprotective agent during chemotherapy. While preclinical data are promising, clinical evidence remains limited.
+
+5. **[Safety and toxicity of silymarin, the major constituent of milk thistle extract: an updated review (2019)]()**
+   *Journal: Soleimani V, Delghandi PS, Moallem SA, et al. Phytotherapy Research, 2019, 33(6):1627-1638.*
+   This review comprehensively evaluated the safety and toxicity profile of silymarin based on available preclinical and clinical data. It concluded that silymarin is well tolerated with a favorable safety profile, with only mild gastrointestinal side effects reported at therapeutic doses.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/shui-fei-ji](https://www.meandqi.com/knowledge-base/herbs/shui-fei-ji)*

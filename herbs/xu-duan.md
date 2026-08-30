@@ -1,0 +1,193 @@
+# Xu Duan (续断)
+**English Name**: Teasel root  
+**Category**: Yang-tonifying herbs (补阳药)  
+**Scientific Name**: Dipsacus asperoides C. Y. Cheng et T. M. Ai  
+**Pharmaceutical Name**: Radix Dipsaci  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Warm | **Taste**: Bitter (苦 kǔ), Acrid / Pungent (辛 xīn), Sweet (甘 gān)  
+**Channels Entered**: Liver, Kidneys  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+Teasel root is a gentle warming herb used to strengthen the lower back, knees, bones, and tendons. Its Chinese name means "reconnect the broken," reflecting its long history as a key herb for healing fractures and musculoskeletal injuries. It is also commonly used during pregnancy to help prevent miscarriage and to address abnormal uterine bleeding.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Bone and Joint Health, Lower Back and Knee Health, Pregnancy support, Injury and Trauma Recovery, Women's Health
+- **TCM Actions**: Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Stops uterine bleeding and calms the fetus, Invigorates Blood and Dispels Stasis
+
+### How these actions work
+'Tonifies the Liver and Kidneys' means Xù Duàn nourishes the Liver and Kidney organ systems, which in TCM are responsible for governing the health of bones, tendons, and ligaments. When these organs are weakened, a person may experience lower back pain, weak knees, or a general feeling of structural fragility. Xù Duàn gently warms and strengthens these systems without being overly drying or cloying.
+'Strengthens sinews and bones' refers to its ability to support the structural tissues of the body. Because the Liver governs sinews (tendons, ligaments) and the Kidneys govern bones, tonifying these organs directly translates into stronger musculoskeletal function. This is why it is widely used for chronic lower back pain, weak knees, and conditions where the body's framework needs reinforcement.
+'Promotes the mending of sinews and bones' is the action for which this herb is named: Xù Duàn literally means "reconnect what is broken." Its pungent taste promotes blood circulation through injured areas while its warm, sweet nature supports tissue repair. This makes it a key herb in orthopaedic medicine for fractures, sprains, and soft tissue injuries.
+'Stops uterine bleeding and calms the fetus' describes its use in gynaecology and obstetrics. By tonifying the Liver and Kidneys and regulating the Chōng and Rèn vessels (the two extraordinary vessels most involved in menstruation and pregnancy), Xù Duàn helps stabilize pregnancies at risk of miscarriage and reduces abnormal uterine bleeding.
+'Promotes blood circulation' reflects the pungent, dispersing quality of this herb. Unlike purely tonifying herbs that can cause stagnation, Xù Duàn actively moves blood through the channels, which is why it can both nourish and repair at the same time.
+
+---
+
+## Patterns Addressed
+### Spleen and Kidney Qi Deficiency
+- **Explanation**: When the Liver and Kidneys are depleted, the bones, tendons, and ligaments lose their nourishment. The Kidneys govern bone and the Liver governs sinews, so deficiency in both organs leads to structural weakness throughout the body, particularly in the lower back and knees. Xù Duàn directly enters the Liver and Kidney channels, where its sweet and warm nature tonifies and strengthens these organs. Its bitter taste provides a gentle downward-directing quality that helps deliver its tonifying action to the lower body. Importantly, Xù Duàn is described as 'tonifying but not greasy' (补而不腻), meaning it strengthens without causing stagnation, making it suitable for long-term use in chronic deficiency.
+- **Clinical Signs & Symptoms**:
+
+### Wind-Cold
+- **Explanation**: When wind, cold, and dampness invade the body and lodge in the joints and channels, they cause pain, stiffness, and impaired movement. Over time, this pattern often damages the underlying Liver and Kidney systems, creating a mixed picture of external pathogenic invasion and internal deficiency. Xù Duàn addresses both aspects: its pungent, warm nature disperses cold and damp from the channels, while its tonifying action repairs the Liver and Kidney damage caused by prolonged illness. This dual capacity makes it especially valuable for chronic bi syndrome where purely dispersing herbs are insufficient.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Lower Back Pain
+- **Arises from**: Spleen and Kidney Qi Deficiency, Wind-Cold
+- **TCM Interpretation**: In TCM, the lower back is called 'the mansion of the Kidneys' (腰为肾之府). Chronic lower back pain is most often attributed to Kidney deficiency, sometimes compounded by Liver deficiency (since the Liver nourishes the tendons and soft tissues surrounding the spine). When these organ systems are weakened, the structural tissues of the lumbar region lose their nourishment and become vulnerable to strain, stiffness, and pain. Cold and damp pathogens may further lodge in the channels, worsening pain and stiffness.
+- **Why it Helps**: Xù Duàn enters the Liver and Kidney channels directly and tonifies both organs, restoring the nourishment that the lumbar spine depends on. Its warm nature counteracts cold that may be contributing to pain and stiffness, while its pungent taste promotes blood circulation through the affected area, helping to resolve stagnation that perpetuates pain. Unlike purely warming or purely blood-moving herbs, Xù Duàn combines tonification with gentle circulation, making it well-suited for the mixed deficiency-and-stagnation picture that underlies most chronic lower back pain.
+
+### Threatened Miscarriage
+- **TCM Interpretation**: TCM understands threatened miscarriage primarily as a failure of the Kidney system to secure the fetus. The Kidneys are the root of reproduction and govern the extraordinary vessels (particularly the Chōng and Rèn) that nourish and anchor the developing pregnancy. When Kidney Qi or Kidney essence is insufficient, these vessels become unstable, leading to vaginal bleeding, low back soreness, and a sensation of bearing-down pressure in the abdomen during pregnancy.
+- **Why it Helps**: Xù Duàn is one of the most frequently used herbs for stabilizing pregnancy because it simultaneously tonifies the Kidney, regulates the Chōng and Rèn vessels, and has a gentle blood-stabilizing action. It strengthens the 'root' that holds the pregnancy in place. Its mild, non-cloying nature makes it safe for pregnant patients when used appropriately, and it is commonly combined with other pregnancy-supporting herbs like Sang Ji Sheng, Tu Si Zi, and E Jiao in classical formulas such as Shou Tai Wan.
+
+### Osteoporosis
+- **Arises from**: Spleen and Kidney Qi Deficiency
+- **TCM Interpretation**: Osteoporosis, where bones become thin and fragile, maps closely to the TCM concept of Kidney deficiency failing to nourish the bones. The Kidneys store essence (Jing), which produces marrow, and marrow fills the bones. When Kidney essence declines (often with aging), the bones lose their density and strength. The Liver also plays a supporting role by governing the tendons and ligaments that protect skeletal integrity.
+- **Why it Helps**: Xù Duàn's core action of tonifying the Liver and Kidneys and strengthening bones and sinews directly addresses the root mechanism of bone loss. Modern research has also shown that compounds in Dipsacus root can promote osteoblast (bone-building cell) activity. Its gentle warmth helps improve circulation to bone tissue, supporting delivery of nutrients and vital substances. It is frequently paired with Du Zhong and Niu Xi in clinical practice for bone-strengthening protocols.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–15g
+- **Maximum Dosage**: Up to 20–30g in decoction for acute traumatic injury or severe threatened miscarriage, under practitioner supervision.
+- **Dosage Notes**: Use lower doses (9–12g) for gentle tonification of Liver and Kidney in chronic lower back pain. Use moderate to higher doses (12–15g) for traumatic injury, fracture healing, and threatened miscarriage. Salt-processed Xu Duan (盐续断) is preferred for tonifying the Kidneys and treating lower back and knee soreness. Wine-processed Xu Duan (酒续断) is preferred for promoting blood circulation in traumatic injury, wind-damp painful obstruction, and bone fractures. Dry-fried Xu Duan (炒续断) is favoured for stopping uterine bleeding (崩漏).
+- **Preparation**: No special decoction handling required. Xu Duan is decocted normally with other herbs. The choice of processing form (raw, salt-processed, wine-processed, or dry-fried) should match the clinical purpose.
+
+---
+
+## Processing Methods
+### Ji&#x1D4; X&#xF9; Du&#xE0;n (&#x9152;&#x7EED;&#x65AD;)
+- **Processing Method**: The sliced herb is mixed with yellow rice wine (huáng jiǔ) until the wine is absorbed, then stir-fried over low heat until dry. The typical ratio is 10 kg of wine per 50 kg of herb slices.
+- **How it Changes Properties**: Wine processing enhances the herb's ability to promote blood circulation and unblock the collateral channels. It strengthens the bone-mending and pain-relieving actions. The warming nature is slightly enhanced, and the herb becomes more effective at reaching the channels and moving stagnant blood.
+- **When to Use**: Preferred for traumatic injuries, fractures, sprains, dislocations, and localized swelling with blood stasis. Also used for uterine bleeding and threatened miscarriage when blood stasis is involved alongside deficiency.
+
+### Y&#xE1;n X&#xF9; Du&#xE0;n (&#x76D0;&#x7EED;&#x65AD;)
+- **Processing Method**: The sliced herb is stir-fried with salt water until dry. The typical ratio is 1 kg of salt dissolved in water per 50 kg of herb slices.
+- **How it Changes Properties**: Salt processing directs the herb's action more specifically into the Kidney channel, enhancing its ability to tonify the Kidneys, strengthen the lower back, and fortify bones. The salty taste (which in TCM enters the Kidneys) serves as a guide, focusing the therapeutic effect on the lower body.
+- **When to Use**: Preferred for chronic lower back pain, weak knees, urinary frequency, and seminal emission from Kidney deficiency. The best choice when the primary goal is Kidney tonification rather than injury repair.
+
+### Ch&#x1CE;o X&#xF9; Du&#xE0;n (&#x7092;&#x7EED;&#x65AD;)
+- **Processing Method**: The sliced herb is dry stir-fried over low heat until slightly scorched.
+- **How it Changes Properties**: Dry-frying moderates the pungent, dispersing quality of the raw herb and increases its tonifying and stabilizing action. It directs the herb toward the Chong and Ren vessels and makes it more effective at calming the fetus.
+- **When to Use**: Preferred for threatened miscarriage without bleeding. This is the best form for pure fetus-calming purposes when blood stasis is not a major concern.
+
+### X&#xF9; Du&#xE0;n T&#xE0;n (&#x7EED;&#x65AD;&#x70AD;)
+- **Processing Method**: The sliced herb is charred by stir-frying over higher heat until the exterior is blackened but the interior retains some original colour.
+- **How it Changes Properties**: Charring adds a strong haemostatic (blood-stopping) quality. The dispersing, pungent nature is largely eliminated, replaced by an astringent, stopping action. The herb becomes focused on stopping bleeding while retaining some Kidney-tonifying ability.
+- **When to Use**: Preferred for threatened miscarriage with active vaginal bleeding, or for persistent uterine bleeding (bēng lòu). When bleeding is the primary concern, charred Xu Duan is the appropriate form.
+
+---
+
+## Common Herb Pairs
+### Du Zhong (Ratio: 1:1 (e.g. Xu Duan 10g : Du Zhong 10g))
+- **Description**: Both herbs tonify the Liver and Kidneys and strengthen sinews and bones. Du Zhong excels at tonifying and securing, while Xu Duan adds blood-circulating properties that prevent stagnation. Together they provide a more complete treatment for the lower back and knees than either herb alone.
+- **When to Use**: Chronic lower back pain and weak knees from Liver-Kidney deficiency, threatened miscarriage, or osteoporosis. This is one of the most commonly used pairs for lumbar pain in clinical practice.
+
+### Sang Ji Sheng (Ratio: 1:1 (e.g. Xu Duan 10g : Sang Ji Sheng 10g))
+- **Description**: Both tonify the Liver and Kidneys, strengthen bones and sinews, and calm the fetus. Sang Ji Sheng has the added ability to expel wind-dampness, making it better suited when pain involves wind-damp bi. Xu Duan has stronger blood-circulating and bone-mending properties. Together they cover both the tonifying and the wind-damp-clearing aspects of musculoskeletal pain with underlying deficiency.
+- **When to Use**: Chronic bi syndrome with Liver-Kidney deficiency, or threatened miscarriage. The two herbs are sometimes considered interchangeable, but the pair is stronger than either alone.
+
+### Niu Xi (Ratio: 1:1 (e.g. Xu Duan 10g : Niu Xi 10g))
+- **Description**: Niu Xi (Achyranthes root) directs actions downward to the lower body and activates blood circulation in the lower limbs. Combined with Xu Duan's Liver-Kidney tonifying action, this pair effectively targets lower back, hip, and knee complaints by simultaneously strengthening the underlying organs and improving local blood flow.
+- **When to Use**: Lower back and knee pain, lower limb weakness, or chronic lower body bi syndrome. Also used for bone fracture recovery in the lower extremities.
+
+### Dang Gui (Ratio: 1:1 to 1:1.5 (e.g. Xu Duan 10g : Dang Gui 10&#x2013;15g))
+- **Description**: Dang Gui nourishes and activates Blood while Xu Duan tonifies the Liver-Kidney and moves blood through the channels. Together they address both Blood deficiency and Blood stagnation, which commonly coexist in musculoskeletal injuries and gynaecological conditions.
+- **When to Use**: Traumatic injuries with blood stagnation and underlying deficiency, postpartum conditions, or threatened miscarriage with blood deficiency. Also used when menstrual disorders combine with lower back pain.
+
+---
+
+## Key Formulas
+Shou Tai Wan, Suo Quan Wan, Du Huo Ji Sheng Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Xu Duan is classified as non-toxic in the Chinese Pharmacopoeia and classical sources. The Ben Cao Jing Shu explicitly states it is 'wu du' (无毒, without toxicity). Rare allergic reactions have been reported in the literature, including allergic erythema (red skin patches with itching and burning sensation) occurring within one hour of ingestion. These cases are idiosyncratic hypersensitivity reactions, not dose-dependent toxicity. One modern review noted that high-dose administration in animal studies may cause adverse effects on maternal health and embryo-fetal development, so standard dosage guidelines should be followed. No specific toxic components have been identified at therapeutic doses.
+
+### Contraindications
+- **[Caution]** Yin deficiency with internal Heat: Xu Duan is warm in nature and tonifies Yang. In people with strong Yin deficiency and Heat signs (night sweats, hot flashes, dry mouth), it may worsen the condition.
+- **[Caution]** Early-stage acute dysentery (初痢勿用): As noted in the De Pei Ben Cao, Xu Duan should not be used at the onset of dysentery, as its tonifying and astringent qualities can trap the pathogen inside.
+- **[Caution]** Liver Qi stagnation with anger (怒气郁者禁用): The De Pei Ben Cao warns against use in people with pent-up anger and Liver Qi constraint, as the herb's warm tonifying nature can intensify stagnation.
+- **[Caution]** Wind-Heat or Damp-Heat bi-syndrome (hot, red, swollen joints): Xu Duan is warm and is suited for cold or deficiency patterns. In hot-type joint inflammation, it may aggravate Heat.
+- **[Caution]** Classical incompatibility with Lei Wan (Omphalia): The Ben Cao Jing Ji Zhu states that Xu Duan 'detests' (恶) Lei Wan. Concurrent use is traditionally avoided.
+
+### Classical Incompatibilities
+Xu Duan does not appear on the Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, the Ben Cao Jing Ji Zhu (《本草经集注》) records that Xu Duan 'detests' (恶) Lei Wan (雷丸, Omphalia lapidescens), meaning concurrent use was traditionally avoided. It also notes that Di Huang (Rehmannia) serves as its 'envoy' or synergistic partner (地黄为之使).
+
+### Special Populations
+- **Pregnancy**: Traditionally considered safe during pregnancy and in fact widely used as a pregnancy-supporting herb. Xu Duan is a core ingredient in the classical formula Shou Tai Wan (Longevity Fetus Pill) for threatened miscarriage and recurrent pregnancy loss. However, one modern review noted that high-dose Dipsacus asper administration may cause adverse impacts on maternal health and embryo-fetal development in animal studies. Therefore, it should be used at standard doses (9 to 15g) and under the guidance of a qualified practitioner during pregnancy. Avoid exceeding recommended dosages.
+- **Breastfeeding**: Xu Duan has been traditionally used to promote lactation and treat breast-related conditions such as mastitis (乳痈). Classical formulas for insufficient lactation include Xu Duan combined with Dang Gui, Chuan Xiong, and Tian Hua Fen. No specific concerns regarding transfer of harmful substances through breast milk have been documented. It is generally considered compatible with breastfeeding at standard dosages.
+- **Children**: Xu Duan may be used in children at reduced dosages appropriate to age and body weight, typically one-third to one-half of the adult dose. It is occasionally included in paediatric formulas for bone fracture recovery. No specific age-related toxicity concerns are documented. As with all herbs in children, use under practitioner supervision.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Xu Duan in peer-reviewed literature. As the herb contains triterpenoid saponins and has demonstrated effects on bone metabolism (influencing osteoblast differentiation and bone mineral density), theoretical caution is warranted when used alongside:
+- Osteoporosis medications (bisphosphonates, denosumab): potential additive effects on bone metabolism. Clinical significance is unknown.
+- Anticoagulant/antiplatelet drugs: Xu Duan promotes blood circulation and was traditionally used for blood stasis. Although no clinical interaction data exist, concurrent use with warfarin or similar agents should be monitored.
+These are theoretical considerations, not confirmed interactions. Patients taking prescription medications should consult their healthcare provider before using Xu Duan.
+
+### Dietary Advice
+When taking Xu Duan for Kidney and Liver tonification or bone healing, it is generally advisable to support the treatment with warm, nourishing foods such as bone broth, black beans, walnuts, and sesame seeds. Avoid excessive cold, raw foods that may impair Spleen function and hinder the absorption of the herb's tonifying properties. No specific food incompatibilities are documented for Xu Duan.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Dipsacus asper Wall. ex Henry (川续断) is a perennial herbaceous plant in the family Caprifoliaceae (formerly Dipsacaceae), growing 60 to 200 cm tall. The main root is conical, fleshy, and yellowish-brown on the outside, sometimes producing several roots from one rootstock. The stem is erect with multiple branches, bearing 6 to 8 ridges lined with sparse, downward-curving prickles, and covered in fine soft hairs.
+The leaves are opposite. Basal leaves have long stalks and are pinnately deeply lobed with coarsely toothed margins. Stem leaves are mostly three-lobed, the central lobe being the largest (elliptical to ovate-lanceolate, 11 to 13 cm long), with both surfaces covered in white appressed hairs. The plant flowers from late summer to early autumn, producing near-spherical heads of small white or pale yellow flowers, each with four petals and four stamens that extend beyond the corolla. The fruit is an elliptical achene with four distinct ridges, pale brown in colour. The plant favours cool, moist mountain slopes, stream banks, and grassy hillsides at moderate to high elevations.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn (August to October), when the roots are richest in active compounds. Roots are dug up, cleaned of rootstock and fine rootlets, partially dried over gentle heat, then piled to 'sweat' until the interior turns green, and finally fully dried.
+- **Primary Growing Regions**: Xu Duan is classified as a 'Chuan' (Sichuan) dao di yao cai. The primary production regions are Sichuan (especially Liangshan, Muli, and Yanyuan counties), Hubei (Hefeng, Wufeng, and Enshi), Guizhou, and Hunan. Yunnan and Shaanxi also produce significant quantities. Research on saponin content has shown that material from Hubei, Sichuan, and Guizhou tends to have higher concentrations of the key active compound asperosaponin VI than Yunnan-sourced material. Historically, Sichuan-produced Xu Duan (川续断) has been considered the standard of quality, reflected in its common name 'Chuan Duan' (川断).
+- **Quality Indicators**: Good quality Xu Duan root pieces are thick, soft, and easy to break (becoming harder with age). The surface should be greyish-brown or yellowish-brown with distinctly twisted longitudinal wrinkles and horizontal lenticel marks. The cross-section is the most important diagnostic feature: the bark (cortex) should be dark green (墨绿色) or deep brown, and the wood should be yellowish-brown with clearly visible radial vascular bundles. The formation layer often shows a distinctive dark ring. The aroma should be faintly fragrant, and the taste bitter, slightly sweet, then astringent. As Li Shizhen noted, good Sichuan-sourced material should be reddish in colour and lean, producing a visible puff of fine dust when snapped. Avoid roots that are thin, woody, hollow-centred, or lacking the characteristic green interior.
+
+### Identity & Adulterants
+The classical text Lei Gong Pao Zhi Lun warned against confusing Xu Duan with Cao Mao root (草茆根), noting that mistaken use would cause the sinews to soften. Common modern adulterants include:
+1. Niu Bang Gen (牛蒡根, Arctium lappa root): spindle-shaped, with black-brown skin, yellowish-white interior, and a sticky mucilaginous taste. It lacks Xu Duan's characteristic green cross-section.
+2. Cu Su root (糙苏根, Phlomis): cone-shaped, smaller diameter (0.1 to 1 cm), greyish-brown surface, dark red cross-section, sweet without astringency, and lacking the faint fragrance of Xu Duan.
+3. Tu Mu Xiang root (土木香, Inula helenium): round slices with brown-green oily spots visible in the cross-section, distinctly aromatic and pungent-bitter, very different from Xu Duan's mild fragrance.
+The key identifier for authentic Xu Duan is the characteristic dark green (墨绿色) cortex visible on the cross-section, produced by the 'sweating' processing step.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Xu Duan (续断) literally means 'restore what is broken' or 'reconnect the severed,' a name that directly reflects its most celebrated function: mending fractured bones and torn sinews. It was first recorded in the Shen Nong Ben Cao Jing (Divine Farmer's Classic of Materia Medica), where it was classified among the superior medicines. A popular folk legend tells of a travelling physician whose legs were broken by a local tyrant; he survived by instructing a young woodcutter to gather a wild herb with feathery leaves and purple flowers. After two months of taking the decoction, his legs healed, and the herb was named 'Xu Duan' in honour of its bone-reconnecting power.
+Historically, there was much debate about the plant's true identity. Li Shizhen noted in the Ben Cao Gang Mu that earlier authorities disagreed: some identified Xu Duan as a vine-like plant, while others said it was a type of thistle (Da Ji). Li Shizhen observed that since the Han dynasty, Da Ji (large thistle) had been used as Xu Duan, but he ultimately endorsed the description matching the Sichuan-sourced root. The classical text Lei Gong Pao Zhi Lun (Lei Gong's Treatise on Processing) specifically warned against confusing Xu Duan with Cao Mao root, noting that mistaking the two would cause the sinews to become soft. The herb's close association with both traumatology and gynaecology is reflected in the famous formula Shou Tai Wan (Longevity Fetus Pill) from Zhang Xichun's Yi Xue Zhong Zhong Can Xi Lu, where Xu Duan is a core ingredient for preventing recurrent miscarriage.
+
+### Modern Scientific Research
+1. **[Comprehensive Review: Traditional uses, processing methods, phytochemistry, pharmacology and quality control of Dipsacus asper (2020)](https://pubmed.ncbi.nlm.nih.gov/32348843/)**
+   *Journal: Tao Y, Chen X, Li W, Cai B, Di L, Shi L, Hu L. Journal of Ethnopharmacology, 2020, 257: 112750.*
+   A systematic review summarizing over 100 isolated compounds (mainly triterpenoids and iridoids) and evaluating pharmacological evidence for bone fracture healing, anti-osteoporosis, neuroprotective, cardioprotective, anti-aging, and reproductive system-protective effects. The review concluded that asperosaponin VI is the key bone-protective compound, and that salt-processing is the preferred method for enhancing anti-osteoporosis efficacy.
+
+2. **[In vitro study: Asperosaponin VI induces osteoblast differentiation through BMP-2/p38 and ERK1/2 pathway (2011)](https://pubmed.ncbi.nlm.nih.gov/21452371/)**
+   *Journal: Niu YB, Li YH, Kong XH, Zhang R, Sun Y, Li Q, Li C, Liu L, Wang J, Mei QB. Phytotherapy Research, 2011, 25(11): 1700-1706.*
+   This cell-based study found that asperosaponin VI, the main saponin from Dipsacus asper, promoted osteoblast (bone-forming cell) differentiation and survival by activating the BMP-2/p38 and ERK1/2 signalling pathways, providing a pharmacological basis for the herb's traditional use in bone healing.
+
+3. **[Metabolomics study: Anti-osteoporosis effects of crude and wine-processed Dipsacus asper in ovariectomized rats (2017)]()**
+   *Journal: Tao Y, Chen X, Li W, Cai B, Di L, Shi L, Hu L. Journal of Ethnopharmacology, 2017, 199: 20-29.*
+   Using GC-MS metabolomics in ovariectomized rats, this study showed that both crude and wine-processed Dipsacus asper extracts significantly improved bone biomechanical properties and shifted serum, liver, and kidney metabolite profiles towards those of healthy controls, supporting anti-osteoporosis efficacy.
+
+4. **[Spectrum-effect analysis: Anti-osteoporosis efficacy of raw vs. salt-processed Radix Dipsaci (2022)](https://pubmed.ncbi.nlm.nih.gov/36183633/)**
+   *Journal: Journal of Pharmaceutical and Biomedical Analysis, 2022, 222: 115082.*
+   This study compared raw and salt-processed Xu Duan for anti-osteoporosis effects in rats. Salt-processed material showed stronger efficacy than raw material in increasing bone mineral density, bone mineral content, and trabecular bone parameters. Active compounds contributing to enhanced efficacy after salt-processing included caffeic acid, loganin, and dipsanoside A.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xu-duan](https://www.meandqi.com/knowledge-base/herbs/xu-duan)*

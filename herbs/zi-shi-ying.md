@@ -1,0 +1,165 @@
+# Zi Shi Ying (紫石英)
+**English Name**: Fluorite  
+**Category**: Substances that anchor and calm the Spirit (重镇安神药), Spirit-calming herbs (安神药)  
+**Scientific Name**: CaF₂ (Calcium Fluoride)  
+**Pharmaceutical Name**: Fluoritum  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Sweet (甘 gān), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Heart, Liver, Lungs, Kidneys  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Zi Shi Ying (fluorite) is a warming mineral used in Chinese medicine to calm anxiety and heart palpitations, ease cold-type coughs, and warm the uterus in cases of difficulty conceiving due to cold. It is one of the few spirit-calming minerals that is warm rather than cold, making it uniquely suited for people whose restlessness or reproductive difficulties stem from internal cold and deficiency rather than from excess heat.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Fertility, Sleep and Anxiety Support, Heart Rhythm Support, Respiratory Health
+- **TCM Actions**: Anchors and Calms the Spirit, Settles tremors and palpitations, Warms the Lungs and descends Qi, Warms the Uterus and Dispels Cold, Warms and unblocks the Chong and Ren channels
+
+### How these actions work
+'Sedates the Heart and calms the spirit' refers to the herb's ability to settle an anxious or restless mind. As a heavy mineral substance, Zi Shi Ying physically weighs downward, anchoring the spirit that has become unsettled. The classical principle at work is "heaviness overcomes timidity" (重以去怯). This action applies to people who experience heart palpitations, an easily startled disposition, restless sleep, or anxiety. Its warm nature makes it especially suited to cases where the Heart is deficient in Qi rather than overheated.
+'Warms the Lungs and descends Qi' means this herb addresses coughing and wheezing caused by Cold in the Lungs. When cold pathogenic factors constrict the Lungs, Qi rebels upward instead of descending normally, producing cough with thin, watery phlegm and shortness of breath. The warm, sweet nature of Zi Shi Ying counteracts this Cold and restores the natural downward movement of Lung Qi.
+'Warms the uterus and dispels Cold' is the action for which this herb is perhaps most classically renowned. It directly addresses what TCM calls "Cold in the uterus" (宫寒), a condition where inadequate warmth in the lower abdomen impairs fertility, causes painful periods, or leads to excessive clear vaginal discharge. The Shen Nong Ben Cao Jing noted its use for women unable to conceive for ten years due to wind-cold settling in the uterus. By warming the Kidney Yang and reaching the Chong (Penetrating) and Ren (Conception) channels, Zi Shi Ying restores the warmth needed for conception and healthy pregnancy.
+
+---
+
+## Patterns Addressed
+### Heart Blood Deficiency
+- **Explanation**: When Heart Blood is insufficient, the spirit (Shen) loses its anchor, resulting in palpitations, restless sleep, and an easily startled disposition. Zi Shi Ying addresses this through two mechanisms: its heavy mineral quality physically weighs the spirit downward (the classical principle of "heaviness overcomes timidity"), while its warm, sweet nature gently tonifies and nourishes the Heart. The Ben Cao Gang Mu notes that it "above, sedates the Heart" and "the Heart governs Blood," making its warming, supplementing nature well suited to Heart Blood Deficiency where coldness and emptiness allow the spirit to float unanchored.
+- **Clinical Signs & Symptoms**:
+
+### Kidney Yang Deficiency
+- **Explanation**: Kidney Yang Deficiency can produce cold in the lower burner, including the uterus ("Blood Sea"), Chong and Ren channels. Zi Shi Ying is warm and enters the Kidney channel, where it directly supplements Kidney Yang and dispels cold from the uterus and lower abdomen. The Ben Cao Jing Shu describes it as a substance that "fills the lower burner, reaches the Kidney and Pericardium" and is "the key herb for warming the uterus." Its sweet taste nourishes while its pungent quality disperses cold, making it a primary choice when Kidney Yang deficiency manifests as reproductive cold.
+- **Clinical Signs & Symptoms**:
+  - **Cold Limbs**: Cold lower abdomen and limbs
+
+### Cold-Phlegm in the Lungs
+- **Explanation**: When Cold invades the Lungs or Lung Yang is deficient, the normal downward-directing function of Lung Qi is impaired, and fluids congeal into thin, watery phlegm. Zi Shi Ying enters the Lung channel with a warm nature, counteracting Cold and restoring the downward descent of Lung Qi. Its heavy mineral quality also helps suppress the rebellious upward movement of Qi that causes coughing and wheezing. This makes it suitable for chronic cold-type cough with copious thin sputum, rather than for hot, dry, or inflammatory coughs.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 9–15g
+- **Maximum Dosage**: Up to 25g in decoction under practitioner supervision for specific indications. Do not use long-term due to cumulative fluoride risk.
+- **Dosage Notes**: For calming the spirit and settling palpitations (镇心安神): the raw (unprocessed) form is preferred, typically at 9-15g.
+For warming the Lungs and directing Qi downward, or for warming the uterus to treat cold-type infertility: the vinegar-calcined form (醋煅紫石英) is preferred, as processing enhances the warming action on the Lower Burner and Lungs while reducing fluoride content.
+A historical single-herb method from Zhang Wenzhong involves decocting 150g of Zi Shi Ying (crushed to bean-size pieces) in a large volume of water (approximately 2 litres), drinking the liquid gradually, and re-decocting the same stones — but this approach is not standard modern practice.
+Do not use at high doses or for prolonged courses due to the risk of cumulative fluoride exposure.
+- **Preparation**: Must be crushed into small pieces and decocted first (打碎先煎), typically 20-30 minutes before other herbs are added. Being a heavy mineral, it requires extended decoction time to release its active constituents into the liquid.
+For use in pills or powders, the traditional method is to calcine with fire and quench in vinegar (火煅醋淬) — typically repeated 2-3 times (historically up to 7 times) — then grind to fine powder and water-levitate (水飞). Modern standard processing uses 30kg of rice vinegar per 100kg of Zi Shi Ying, calcined at approximately 600°C for 30 minutes. This vinegar-calcination makes the mineral crumbly and easier to grind, reduces fluoride content, and increases bioavailable calcium.
+
+---
+
+## Processing Methods
+### Du&#xE0;n Z&#x1D0; Sh&#xED; Y&#x12B;ng (&#x7145;&#x7D2B;&#x77F3;&#x82F1;)
+- **Processing Method**: The raw mineral is placed in a crucible, heated in a smokeless furnace until glowing red, then quenched in vinegar. Traditionally this was repeated seven times (火煅醋淬七次), then ground to a fine powder and water-levigated (水飞). Modern standardized processing calls for heating to 600°C for 30 minutes, then quenching once with rice vinegar (30kg vinegar per 100kg of mineral).
+- **How it Changes Properties**: Calcining with vinegar makes the mineral crumbly and easier to grind. The vinegar (sour taste) directs the herb more strongly into the Liver and Blood level. This processing significantly reduces the fluoride content while increasing the bioavailable calcium. The processed form has a stronger ability to warm the Lungs, descend Qi, and warm the uterus compared to the raw form.
+- **When to Use**: Use the calcined form for Lung cold with cough and wheezing, and for uterine cold with infertility or vaginal discharge. The raw (unprocessed) form is preferred when the primary goal is calming the spirit and settling palpitations, as it retains its natural smooth, moistening quality. Classical sources warn that fire processing can make the mineral more harsh, so the raw form is gentler for Heart conditions.
+
+---
+
+## Common Herb Pairs
+### Dang Gui (Ratio: Zi Shi Ying 15g : Dang Gui 9-12g)
+- **Description**: Zi Shi Ying warms the uterus and dispels Cold from the lower burner, while Dang Gui nourishes and invigorates Blood. Together they address both the coldness and the Blood deficiency that often coexist in uterine cold infertility. Zi Shi Ying provides the warmth the uterus needs, while Dang Gui ensures adequate Blood supply to nourish the reproductive organs.
+- **When to Use**: Female infertility from uterine cold with Blood deficiency, presenting as late periods with scanty pale blood, cold lower abdomen, and difficulty conceiving.
+
+### Zi Shi Ying (Ratio: 1:1 (both 10-25g, crushed and decocted first))
+- **Description**: Zi Shi Ying enters the Blood level and warms the lower burner, while Bai Shi Ying (white fluorite/quartz) enters the Qi level and warms the Lungs. Used together, they address both Qi and Blood simultaneously, enhancing the ability to calm the spirit, warm the Lungs, settle rebellious Qi, and warm the lower body.
+- **When to Use**: Heart and Lung insufficiency with palpitations, cough with rebellious Qi rising, and cold in the lower body. Classical texts describe the pair as exemplifying the principle of "moistening overcomes dryness" (湿可去枯).
+
+### Suan Zao Ren (Ratio: Zi Shi Ying 15g : Suan Zao Ren 15-20g)
+- **Description**: Zi Shi Ying provides heavy mineral sedation to anchor the restless spirit, while Suan Zao Ren nourishes Heart Blood and Liver Yin to give the spirit a stable foundation. The mineral heaviness of Zi Shi Ying works from outside to press the spirit downward, while Suan Zao Ren works from within to nourish the blood that houses it.
+- **When to Use**: Heart Blood deficiency with insomnia, palpitations, anxiety, and an easily frightened disposition, especially when the patient also has signs of cold or deficiency rather than Heat.
+
+### Long Gu (Ratio: Zi Shi Ying 15-18g : Long Gu 15-18g)
+- **Description**: Both are heavy mineral substances that calm the spirit, but Zi Shi Ying is warm and nourishing while Long Gu is neutral and astringent. Together they provide a more comprehensive sedation: Zi Shi Ying contributes warmth to support the Heart, while Long Gu adds strong astringent anchoring and helps prevent leakage of essence.
+- **When to Use**: Severe palpitations, convulsions, or epilepsy where the spirit is severely disturbed, as seen in the classical formula Feng Yin Tang from the Jin Gui Yao Lue.
+
+---
+
+## Key Formulas
+Feng Yin Tang, Zhen Ling Dan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+The Shen Nong Ben Cao Jing classifies Zi Shi Ying as non-toxic (无毒). However, because its main component is calcium fluoride (CaF2, containing approximately 48.8% fluorine), prolonged or excessive use can lead to chronic fluoride accumulation. Excess fluoride primarily damages teeth (dental fluorosis), bones (skeletal fluorosis with increased brittleness), the nervous system, kidneys, heart, and thyroid.
+The Ben Cao Jing Shu warns that all mineral medicines should only be used temporarily. The Ben Jing Feng Yuan cautions that "after fire-processing it becomes toxic" (经火则毒), recommending raw grinding and water-levigation instead. In contrast, the mainstream processing tradition of fire-calcination with vinegar quenching (火煅醋淬) actually reduces fluoride content while increasing bioavailable calcium, which modern analytical studies have confirmed.
+At standard dosages (9-15g) for short-term use in decoction, Zi Shi Ying is considered safe. The fluoride released into decoction water is relatively small due to the low water-solubility of calcium fluoride.
+
+### Contraindications
+- **[Caution]** Prolonged or excessive use. As a mineral containing fluoride (CaF2), long-term consumption may cause chronic fluoride accumulation affecting teeth, bones, kidneys, heart, nervous system, and thyroid. Classical texts advise that all mineral-type medicines should only be used temporarily.
+- **[Caution]** Patients with kidney impairment. Fluoride is primarily excreted through the kidneys, so compromised renal function increases the risk of fluoride accumulation and toxicity.
+
+### Classical Incompatibilities
+Zi Shi Ying does not appear on the standard Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists.
+However, the Ben Cao Jing Ji Zhu (《本草经集注》) records specific traditional cautions: "Chang Shi (長石) serves as its envoy. It fears (畏) Bian Qing (扁青, azurite) and Fu Zi (附子, Aconite). It is incompatible with (不欲) Tuo Jia (鮀甲), Huang Lian (黄连, Coptis), and Mai Ju Jiang (麦句姜)."
+
+### Special Populations
+- **Pregnancy**: No specific classical prohibition against use during pregnancy exists, but caution is strongly advised. Zi Shi Ying is a warming mineral medicine that acts on the Lower Burner and uterus. While it is traditionally used to warm the uterus to promote conception, its use during an established pregnancy is a different matter. The fluoride content (CaF2) raises concerns about fetal exposure to fluoride, which can cross the placenta and affect developing bones and teeth. Most practitioners avoid mineral medicines during pregnancy unless specifically indicated. Should only be used during pregnancy under close practitioner supervision with a clear clinical rationale.
+- **Breastfeeding**: No specific classical guidance exists for breastfeeding. The primary concern is fluoride transfer through breast milk. Fluoride from calcium fluoride has limited bioavailability in decoction, but chronic use could elevate maternal fluoride levels and thereby affect the nursing infant. Excessive fluoride exposure in infants may affect developing teeth and bones. Use at standard doses for short courses is likely of low risk, but prolonged use during breastfeeding should be avoided. Consult a qualified practitioner before use while nursing.
+- **Children**: Zi Shi Ying is not commonly used in paediatric practice. Its primary indications (uterine cold, infertility) are adult conditions. For paediatric fright-epilepsy (惊痫), classical formulas such as Feng Yin Tang do include it, but under strict practitioner guidance only. Children are more susceptible to fluoride toxicity than adults — developing teeth and bones are particularly vulnerable to excess fluoride. If used for children, dosage should be significantly reduced (typically one-third to one-half of the adult dose, adjusted by age and weight), duration should be kept short, and it must always be prescribed and monitored by a qualified practitioner.
+
+### Drug Interactions
+No well-documented interactions with specific pharmaceutical drugs have been established through clinical studies. However, the following theoretical concerns merit attention based on Zi Shi Ying's pharmacological profile:
+- Fluoride-containing medications: Concurrent use with sodium fluoride supplements (used for osteoporosis) or fluoride-containing dental products could increase total fluoride exposure and raise the risk of fluorosis.
+- Calcium supplements and calcium-channel blockers: As a calcium fluoride mineral that releases calcium and fluoride ions in acidic environments (such as the stomach), co-administration with calcium-based medications may alter absorption dynamics. Theoretically, excess calcium could reduce fluoride bioavailability, while the additional calcium load could interact with calcium-channel blockers.
+- Thyroid medications: Chronic fluoride exposure can affect thyroid function. Patients taking levothyroxine or anti-thyroid drugs should use Zi Shi Ying with caution, as fluoride may interfere with iodine metabolism.
+- Sedatives and anxiolytics: Given its spirit-calming properties, additive sedative effects are theoretically possible when combined with benzodiazepines, barbiturates, or other CNS depressants.
+
+### Dietary Advice
+Avoid cold and raw foods when taking Zi Shi Ying for warming the uterus or Lungs, as these would counteract its warming therapeutic effect. Historically, the Ben Cao Jing Ji Zhu notes it "does not combine well with" (不欲) certain substances including Huang Lian (Coptis), which is very bitter and cold — by extension, excessively bitter-cold foods or drinks should be minimised during treatment. If experiencing intermittent chills and fever while taking Zi Shi Ying, classical texts suggest drinking a small amount of warm wine (alcohol) to assist its dispersing action.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Zi Shi Ying (紫石英) is not a plant but a mineral substance. It is the mineral fluorite (Fluoritum), belonging to the halide mineral group of the fluorite family. Its chemical formula is CaF2 (calcium fluoride). Fluorite crystallizes in the cubic crystal system, forming cubes, octahedra, and dodecahedra, though it is typically found as dense, granular masses.
+The mineral occurs in hydrothermal veins and pegmatite formations, and is also found alongside lead-zinc sulfide ore deposits. In its raw state, fluorite can be colourless, yellow, green, blue, purple, or blackish-purple. The medicinal variety selected for TCM use is characteristically purple-coloured (hence the name 紫, "purple"). It has a glassy lustre, is semi-transparent to transparent, and feels slightly oily to the touch. The Mohs hardness is 4 (softer than a steel knife) and the specific gravity is 3.18, making it noticeably heavy. It displays distinctive fluorescence under ultraviolet light.
+Historical note: Classical texts describe two distinct mineral forms used as Zi Shi Ying. The standard modern pharmacopoeia product is purple fluorite (CaF2). However, historical sources from Taishan (泰山) describe a harder stone with five-sided prismatic crystals resembling arrowheads, which corresponds to purple quartz (amethyst, SiO2). Some regions in Sichuan and Yunnan still use amethyst as Zi Shi Ying. The two substances differ significantly in hardness, composition, and density.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Can be mined year-round (全年均可采挖). After extraction, purple-coloured specimens are selected and external sand, rock, and clay are removed.
+- **Primary Growing Regions**: Major production areas include Zhejiang, Jiangsu, Liaoning, Heilongjiang, Hebei, Hunan, Hubei, and Gansu provinces.
+Classically, the most prized Zi Shi Ying came from Taishan (泰山, Mount Tai) in Shandong province — Tao Hongjing stated that Taishan stone was "foremost" in quality, deeply coloured and translucent with a visible root structure. Kuaiji (会稽, modern Zhejiang) was a secondary source. The Ling Biao Lu Yi noted that Longzhou (陇州, modern Shaanxi) also produced fine specimens.
+Modern market supply comes primarily from Zhejiang, Gansu, and Henan. The Taishan product historically represented amethyst (purple quartz, SiO2), while the Kuaiji product was fluorite (CaF2) — only the latter matches the current Chinese Pharmacopoeia standard.
+- **Quality Indicators**: Good quality Zi Shi Ying (fluorite) should be deep purple in colour, uniformly coloured without excessive pale or greenish areas. It should be semi-transparent to transparent with a distinct glassy (vitreous) lustre. Pieces should feel noticeably heavy in the hand (specific gravity 3.18). The surface may show natural fracture lines. It should be odourless with a bland taste, and feel slightly oily or smooth to the touch.
+The classical standard is: "Purple in colour, solid in texture, with glassy lustre and free of mixed stones" (以色紫、质坚、具玻璃光泽、无杂石者为佳).
+The Chinese Pharmacopoeia requires that the CaF2 content be no less than 85.0%. Under ultraviolet light (365nm), authentic Zi Shi Ying fluoresces bright purple to blue-purple, which serves as a useful identification test.
+Processed (vinegar-calcined) Zi Shi Ying appears as irregular broken granules, purplish-black to grey-white or ochre in colour, with a crumbly texture, dull surface (no lustre), and a faint vinegar odour.
+
+### Identity & Adulterants
+The most important confusion is between the two historical source minerals:
+1. Purple fluorite (CaF2, Mohs hardness 4, specific gravity 3.18) — the current Pharmacopoeia standard.
+2. Purple quartz / amethyst (SiO2, Mohs hardness 7, specific gravity 2.65) — the historical Taishan product, still used in some areas of Sichuan and Yunnan.
+These can be distinguished by hardness (a steel knife scratches fluorite but not quartz), weight (fluorite is noticeably heavier), and crystal structure (fluorite forms cubes; quartz forms hexagonal prisms). Fluorite fluoresces under UV light while quartz typically does not.
+Commercial products may also contain non-purple fluorite (green or pale varieties) or fluorite mixed with other minerals such as sulfides and clay impurities. White or greenish fluorite lacking the characteristic purple colour is of inferior quality for medicinal use. Some products may be mixed with Bai Shi Ying (white quartz), which has different therapeutic properties.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Zi Shi Ying was first recorded in the Shen Nong Ben Cao Jing (circa Han Dynasty), where it was classified as a middle-grade medicine. The Wu Pu Ben Cao provides early sourcing details, noting it was collected from Taishan (Mount Tai) and Kuaiji, with the ideal specimen described as "cut-like, purple through to the tip, shaped like gaming dice" (欲令如削，紫色达头，如樗蒲者).
+The name 紫石英 literally means "Purple Stone Brilliance" or "Purple Stone Radiance." The character 英 (ying) suggests lustre, radiance, or excellence. It belongs to the broader "stone" (石) category of materia medica alongside its counterpart Bai Shi Ying (白石英, White Stone Radiance), which is a white quartz variety with somewhat different therapeutic actions focusing on the Lungs.
+A significant historical complication is the identity confusion between two distinct minerals. Research has confirmed that the classical Taishan product was likely purple quartz (amethyst, SiO2), while the Kuaiji product was purple fluorite (CaF2). The ancient processing instruction of "grinding for seven days" (七日研之) in the Qian Jin Yi Fang makes sense only for the much harder amethyst (Mohs 7), not for the softer fluorite (Mohs 4). The modern Chinese Pharmacopoeia recognizes only fluorite as the official source.
+Zi Shi Ying was historically associated with the controversial Wu Shi San (五石散, Five Mineral Powder) popular among Wei-Jin Dynasty literati, a mineral formula taken for its stimulant effects and alleged life-extending properties. This practice was later condemned by Sun Simiao in his Qian Jin Yao Fang as a "great fierce poison." Zhang Wenzhong of the Tang Dynasty developed a simpler single-herb method of boiling Zi Shi Ying in water to calm the spirit and treat palpitations from deficiency taxation.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/zi-shi-ying](https://www.meandqi.com/knowledge-base/herbs/zi-shi-ying)*

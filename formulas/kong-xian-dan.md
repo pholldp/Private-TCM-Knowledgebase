@@ -1,0 +1,61 @@
+# Kong Xian Dan (控涎丹)
+**English Name**: Phlegm-Controlling Elixir  
+**Category**: Phlegm-resolving formulas, Water-expelling formulas  
+**Dynasty/Source**: San Yin Ji Yi Bing Zheng Fang Lun (三因极一病证方论), Volume 13  
+**Temperature**: Cold | **Form**: Pellet (Dan)
+
+---
+
+## Summary
+A powerful classical formula containing just three herbs, used to forcefully expel deeply lodged phlegm-fluid from the body. It is indicated for stubborn conditions caused by thick phlegm and fluid accumulation in the chest, under the diaphragm, or lodged in joints and tissues, causing wandering pain, heaviness, numbness, or lumps. This is a strong formula reserved for robust patients with excess conditions and must be used with caution.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Drains Water and Expels Phlegm-Fluids, Disperses Phlegm from beneath the skin and membranes, Transforms Phlegm and Dissipates Nodules
+- **Therapeutic Focus**: Fluid Retention and Edema, Joint and Muscle Pain Relief, Respiratory Health, Chest Pain Relief
+- **Target Organs**: Lungs, Spleen, Kidneys
+- **Patterns Addressed**: 
+- **Conditions Treated**: Pleural Effusion, Moving Pain, Swollen Lymph Nodes, Ascites, Chronic Bronchitis, Edema, Lipoma, Hyperlipidemia, Asthma, Epilepsy
+- **Other Names**: Zi Long Wan (子龙丸, Purple Dragon Pill), Miao Ying Wan (妙应丸)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Gan Sui** | Kansui root | *King* | Equal part (0.5 - 1.5g in pill form per dose) | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Kidneys, Large Intestine | Gan Sui is bitter and cold, entering the Lung, Kidney, and Large Intestine channels. It is the most penetrating of the three herbs, powerfully driving out water and fluid accumulation from the deep channels and passageways (经隧) of the body. It breaks through hard phlegm-fluid masses and accumulated stagnation, directing them downward and out through the bowels. As the classical teaching states, Gan Sui reaches into the hidden recesses where water and phlegm bind together. |
+| **Da Ji** | Japanese thistle | *King* | Equal part (0.5 - 1.5g in pill form per dose) | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver | Da Ji is bitter, acrid, and cold, entering the Lung, Spleen, Liver, and Kidney channels. It forcefully expels water and fluid from the organ systems (脏腑) and body cavities. Working alongside Gan Sui, Da Ji targets water retention at a broader level, draining fluid from the abdominal membranes and visceral spaces. Together, the two King herbs form a powerful pair that scours the body's deep recesses of pathological fluid while also entering the Blood level to help resolve masses and stasis. |
+| **Bai Jie Zi** | White mustard seed | *Deputy* | Equal part (0.5 - 1.5g in pill form per dose) | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Stomach | Bai Jie Zi is acrid and warm, entering the Lung channel. Its unique role in this formula is to reach phlegm lodged between the skin and membranes (皮里膜外), a location that other phlegm-resolving herbs cannot penetrate effectively. While the two King herbs drive out fluid from the deep channels and organ cavities, Bai Jie Zi disperses phlegm stuck in the superficial tissue layers, joints, and interstices of the body. Its warm, acrid nature also helps move Qi and open the network vessels, allowing the cold, bitter draining herbs to work more broadly. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Absolutely contraindicated in pregnancy. Gan Sui (Kansui Root) and Da Ji (Euphorbia/Knoxia Root) are both classified as toxic cathartics. Classical texts specifically note that Da Ji can 'bring down the fetus' (下痞堕胎). Both herbs stimulate strong intestinal peristalsis and can provoke uterine contractions, posing serious risk of miscarriage. Bai Jie Zi (White Mustard Seed) is also warming and dispersing, further making this formula entirely unsafe during pregnancy. This formula must never be used in pregnant women under any circumstances.
+
+### Breastfeeding
+Contraindicated during breastfeeding. Gan Sui and Da Ji are classified as toxic herbs with potent cathartic properties. Their active compounds (including euphorbia diterpenes and other irritant substances) may transfer into breast milk and cause gastrointestinal distress or toxicity in the nursing infant. Bai Jie Zi also contains mustard oil glycosides that are potentially irritating. The strong purgative action of the formula can also cause fluid depletion in the mother, potentially reducing milk supply. Nursing mothers should avoid this formula entirely.
+
+### Children
+Kong Xian Dan is generally not suitable for children. The formula contains Gan Sui and Da Ji, both classified as toxic herbs with drastic purgative effects. Children's organ systems, particularly the Spleen and Stomach, are considered physiologically immature in TCM and are highly vulnerable to damage from harsh cathartics. The risk of severe diarrhea, dehydration, and electrolyte imbalance is significantly greater in pediatric patients. If a practitioner in exceptional circumstances considers its use in an older child or adolescent with robust constitution, the dosage must be drastically reduced (typically to one-quarter to one-third of the adult dose) and administered under close medical supervision with careful monitoring. This decision should only be made by a highly experienced practitioner.
+
+### Drug Interactions
+Diuretics (loop diuretics, thiazides, potassium-sparing): Kong Xian Dan has potent cathartic and fluid-expelling effects. Concurrent use with pharmaceutical diuretics may cause dangerous fluid loss, dehydration, and electrolyte imbalances (particularly hypokalemia and hyponatremia). This combination should be avoided.
+Cardiac glycosides (e.g. digoxin): The severe diarrhea and fluid loss caused by Gan Sui and Da Ji can deplete potassium. Hypokalemia significantly increases the risk of digoxin toxicity, which can cause life-threatening cardiac arrhythmias.
+Licorice-containing medications or supplements: Both Gan Sui and Da Ji are listed among the classical Eighteen Incompatibles (十八反) as being antagonistic to Gan Cao (Glycyrrhiza/Licorice). Concurrent use with any licorice-containing products, including pharmaceutical preparations, cough syrups, or supplements, may produce toxic reactions.
+Anticoagulants and antiplatelet drugs: Da Ji has been noted in classical texts to have some blood-moving properties (入血分, 消瘀化瘀). While this is not its primary action, caution is warranted if combined with warfarin, heparin, or similar drugs, as there is a theoretical risk of additive effects.
+Electrolyte-sensitive medications (lithium, certain antiarrhythmics): The dramatic fluid shifts caused by this formula can alter serum concentrations of drugs with narrow therapeutic windows, particularly lithium. Lithium levels may rise dangerously as the body becomes dehydrated.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Traditionally taken at bedtime (临卧) with warm ginger decoction or warm water. Some modern practitioners prefer early morning on an empty stomach.
+- **Typical Duration**: Short-term use only: typically 1-3 doses, reassessed after each administration. Rarely exceeds 1-2 weeks of intermittent dosing (every other day). Discontinue once symptoms improve.
+- **Dietary Advice**: While taking Kong Xian Dan, avoid cold and raw foods, greasy or fried foods, and dairy products, as these can generate more Phlegm and Dampness, directly opposing the formula's purpose. Avoid alcohol, which generates Damp-Heat and stresses the liver. Light, easily digestible foods such as congee (rice porridge), steamed vegetables, and clear soups are recommended to support the Spleen and Stomach during the strong purgative action. Because this formula causes significant fluid loss through catharsis, it is important to maintain adequate hydration with warm fluids (warm water, ginger tea) but avoid excessive fluid intake that could counteract the treatment. After taking the formula, once adequate purgation has occurred, a period of gentle dietary nourishment is advisable to restore the body's fluids and Qi.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/kong-xian-dan](https://www.meandqi.com/knowledge-base/formulas/kong-xian-dan)*

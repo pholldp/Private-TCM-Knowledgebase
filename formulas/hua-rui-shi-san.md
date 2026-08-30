@@ -1,0 +1,58 @@
+# Hua Rui Shi San (花蕊石散)
+**English Name**: Ophicalcite Powder  
+**Category**: Hemostatic formulas, Blood-invigorating and stasis-resolving formulas  
+**Dynasty/Source**: Tai Ping Hui Min He Ji Ju Fang (太平惠民和剂局方, Imperial Grace Formulary of the Tai Ping Era)  
+**Temperature**: Warm | **Form**: Powder (San)
+
+---
+
+## Summary
+A powerful emergency formula used to stop severe bleeding caused by internal Blood stasis. It works by dissolving clotted, congealed Blood so that the body's vessels can heal and close. Originally designed for life-threatening situations such as massive hemorrhage from organ damage, postpartum blood loss with retained clots, and traumatic wounds, it combines two calcined minerals that warm and transform stasis. Because of its intensity, it is always followed by a restorative formula to rebuild the body's strength.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Invigorates Blood and Dispels Stasis, Stops Bleeding, Warms Yang and Disperses Cold
+- **Therapeutic Focus**: Bleeding Disorders, Postpartum recovery, Skin and Wound Care, Hemorrhage Emergency
+- **Target Organs**: Liver, Heart, Lungs, Uterus
+- **Patterns Addressed**: 
+- **Conditions Treated**: Bleeding, Hemoptysis, Hematemesis, Retained Placenta, Stillbirth Complications, Nosebleeds
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hua Rui Shi** | Ophicalcite | *King* | 500g (in the original combined preparation with Liu Huang) | Temp: Neutral<br>Taste: Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Liver | The principal herb of the formula. Hua Rui Shi (Ophicalcite) has an astringent and sour nature that specializes in transforming Blood stasis and stopping bleeding. It can cause stagnant Blood to dissolve into a yellowish fluid that the body reabsorbs or expels, achieving hemostasis without trapping old Blood inside. It enters the Liver channel, which governs Blood storage. |
+| **Liu Huang** | Sulfur | *Deputy* | 120g (in the original combined preparation with Hua Rui Shi) | Temp: Hot<br>Taste: Sour (&#x9178; su&#x101;n)<br>Affinity: Kidneys, Large Intestine | Liu Huang is hot and acrid, entering the Kidney and Ming Men (Life Gate). It strongly warms the lower Jiao and reinforces Yang fire, helping to drive out Yin-Cold pathogenic forces that contribute to Blood congealing and stasis. When calcined together with Hua Rui Shi, the two minerals fuse, and the warming action of Liu Huang activates the stasis-transforming power of Hua Rui Shi. The combination creates a synergy that neither ingredient achieves alone. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated in pregnancy. Hua Rui Shi is traditionally indicated for expelling dead fetus and retained placenta, which demonstrates its powerful ability to move and break Blood stasis in the uterus. The Ben Cao Gang Mu explicitly states it can 'expel a dead fetus and release the placenta' (下死胎，落胞衣). In the Ju Fang version, Sulfur (Liu Huang) is also categorized as prohibited during pregnancy. These properties make the formula dangerous for pregnant women, as it may stimulate uterine contractions and cause miscarriage.
+
+### Breastfeeding
+Use with caution during breastfeeding. Hua Rui Shi is a mineral substance (calcium/magnesium carbonate) and its components could potentially pass into breast milk. The Ju Fang version contains Sulfur (Liu Huang), which is classified as toxic and should not be used during lactation. Even the Shi Yao Shen Shu version, which uses Hua Rui Shi alone, is a powerful stasis-breaking agent that can deplete Yin and Blood, which may reduce breast milk production. If absolutely necessary for postpartum hemorrhage with stasis, use should be brief and under close practitioner supervision, with immediate transition to tonifying formulas afterward.
+
+### Children
+Not generally appropriate for pediatric use. Hua Rui Shi San is a powerful emergency formula for severe hemorrhage with Blood stasis, a presentation uncommon in children. The classical dosage instructions and administration method (mixed with children's urine, wine, or vinegar) are designed for adults. The Ben Cao Qiu Zhen warns that Hua Rui Shi is a forceful (劫) medicinal that can damage Yin and Blood with overuse, making it especially unsuitable for children whose Yin and Blood are still developing. If a pediatric case of traumatic bleeding requires topical application of the powder, only minimal amounts should be used under strict practitioner supervision.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Hua Rui Shi San is a hemostatic formula designed to stop bleeding and transform Blood stasis. Its use alongside anticoagulants (warfarin, heparin) or antiplatelet drugs (aspirin, clopidogrel) could create unpredictable effects — potentially opposing the anticoagulant action or, paradoxically, increasing bleeding risk due to its stasis-breaking properties. Concurrent use should be avoided.
+Sulfur toxicity (Ju Fang version): The version containing Liu Huang (Sulfur) should not be combined with Mang Xiao (Mirabilite/Glauber's salt), as this is a classical incompatibility (相反). Sulfur can also interact with medications metabolized through hepatic pathways, and prolonged internal use carries risk of cumulative toxicity.
+Iron supplements and calcium-based medications: As a mineral-based formula rich in calcium carbonate, Hua Rui Shi may interfere with the absorption of tetracycline antibiotics, fluoroquinolones, iron supplements, and thyroid medications if taken simultaneously. A two-hour separation between doses is advisable.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: After meals (食后服下), as specified in the classical instructions. For acute hemorrhage, take immediately regardless of timing.
+- **Typical Duration**: Acute/emergency use only: typically a single dose or 1–3 doses to stop active hemorrhage, followed immediately by tonifying formulas.
+- **Dietary Advice**: During and after use, avoid cold and raw foods, as these may promote Blood congelation and counteract the formula's warming, stasis-transforming action. Avoid spicy, greasy, or heavily fried foods that could irritate the vessels and promote further bleeding. The classical instructions note that after the formula stops the bleeding, the patient should be supported with tonifying preparations (such as Du Shen Tang), suggesting a bland, easily digestible, nourishing diet with foods that support Blood production: well-cooked soups, congee, red dates, and dark leafy greens. Alcohol should be limited or avoided unless specifically prescribed as part of the formula's preparation method.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/hua-rui-shi-san](https://www.meandqi.com/knowledge-base/formulas/hua-rui-shi-san)*

@@ -1,0 +1,176 @@
+# Zhu Sha (朱砂)
+**English Name**: Cinnabar  
+**Category**: Spirit-calming herbs (安神药), Substances that anchor and calm the Spirit (重镇安神药)  
+**Scientific Name**: Cinnabar (HgS)  
+**Pharmaceutical Name**: Cinnabaris  
+**Toxicity**: Toxic  
+**Temperature**: Cool | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Heart  
+**Parts Used**: Mineral (矿物 kuàng wù)  
+
+---
+
+## Summary
+Cinnabar is a mineral substance traditionally used in Chinese medicine to calm the mind and settle anxiety, palpitations, and insomnia. It is especially valued for its heavy, sinking nature, which helps anchor a restless spirit disturbed by excess Heart Heat. Because it contains mercury sulfide, it is toxic and must only be used under strict professional supervision in very small doses for short periods.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Sleep Support, Stress and Anxiety, Heart health, Seizure and Convulsion Support
+- **TCM Actions**: Anchors and Calms the Spirit, Clears Heart Fire, Resolves Toxicity, Brightens the Eyes
+
+### How these actions work
+'Sedates the Heart and calms the spirit' refers to cinnabar's heavy, sinking physical nature, which weighs Qi downward and anchors the Shen (the spirit or mind housed in the Heart). This is why it has been traditionally used for restlessness, anxiety, palpitations, insomnia, fright, and even mania or convulsions. As a mineral substance, it works through sheer weight to settle an agitated mind, much like a heavy stone calming turbulent water.
+'Clears Heart Heat' means cinnabar's cool thermal nature can help reduce excess Heat in the Heart channel. When Heart fire blazes upward, it disturbs the spirit and produces symptoms like irritability, insomnia with vivid dreams, and a sensation of heat in the chest. Cinnabar's cool, sweet nature helps quench this fire.
+'Resolves toxins' applies primarily to external use. Cinnabar has traditionally been applied topically for mouth ulcers, sore throat, and skin sores. It is combined with other substances like borneol (Bing Pian) or borax for gargling, or with realgar (Xiong Huang) and musk for treating carbuncles and abscesses.
+'Brightens the eyes' is a classical action recorded in the Shen Nong Ben Cao Jing. It is related to cinnabar's ability to settle Heart fire, since the Heart opens to the tongue but also governs the blood vessels that nourish the eyes. This action is rarely emphasized in modern clinical practice.
+
+---
+
+## Patterns Addressed
+### Heart Fire blazing
+- **Explanation**: When Heart fire blazes excessively, it disturbs the Shen (spirit), causing agitation, insomnia, and restlessness. Cinnabar enters the Heart channel and is cool in nature, directly addressing the excess Heat in this organ. Its heavy, sinking quality physically anchors the Shen that has been stirred upward by fire, while its cool temperature helps quench the flames. This makes it particularly suited for acute, excess-type Heart fire disturbances rather than chronic deficiency patterns.
+- **Clinical Signs & Symptoms**:
+  - **Severe Heart Palpitations**: Palpitations with anxiety and restlessness
+
+### Phlegm-Fire harassing the Heart
+- **Explanation**: When Phlegm and Fire combine to block the Heart orifices, severe mental disturbances arise, including mania, delirium, convulsions, and epilepsy. Cinnabar's heavy nature helps expel Phlegm downward, while its cool temperature addresses the Fire component. Its strong spirit-settling action is especially important for the violent agitation and confusion characteristic of this pattern. It is typically combined with Phlegm-resolving herbs like Tiān Zhú Huáng (天竺黄) or Dǎn Nán Xīng (胆南星) in this context.
+- **Clinical Signs & Symptoms**:
+  - **Disorientation**: Clouded consciousness with incoherent speech
+
+### Heart Blood Deficiency
+- **Explanation**: Although cinnabar itself does not tonify Blood, its powerful spirit-anchoring action makes it a valuable addition to Blood-nourishing formulas when the spirit is severely unsettled. When Heart Blood is deficient, the Shen lacks its material foundation and becomes restless. Cinnabar is combined with Blood-nourishing herbs like Dāng Guī and Shēng Dì Huáng (as in Zhū Shā Ān Shén Wán) to provide both the material nourishment the Heart needs and the heavy anchor the spirit requires. Its role here is symptomatic (calming the spirit) while the Blood tonics address the root.
+- **Clinical Signs & Symptoms**:
+  - **Severe Heart Palpitations**: Palpitations that worsen with anxiety or fright
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 0.1-0.5g
+- **Maximum Dosage**: Do not exceed 0.5g per dose. The Chinese Pharmacopoeia sets the maximum internal dose at 0.5g, taken only in pill or powder form. This is a strict upper limit due to mercury toxicity risk.
+- **Dosage Notes**: Zhu Sha has an extremely narrow therapeutic window and must only be taken internally as pill or powder form, never in decoction.
+For calming the spirit and settling anxiety (镇心安神): 0.1-0.3g per dose, taken in pills or dissolved in warm water or strained decoction.
+For clearing Heart Fire in acute agitation or convulsions: up to 0.5g per dose, for short-term use only.
+As a pill coating (朱砂为衣): very small amounts are used to coat other medicinal pills, which is the safest method of administration as it minimizes total mercury intake.
+Critical: duration of continuous internal use should not exceed 7 days. Mercury accumulates in the body; even at low doses, prolonged use leads to chronic poisoning. For conditions requiring longer treatment, safer alternatives such as Ci Shi (magnetite), Hu Po (amber), or Long Gu (dragon bone) should be substituted.
+- **Preparation**: CRITICAL: Zhu Sha must NEVER be decocted (boiled) with other herbs. It is used exclusively in pill and powder (丸散) form. When prescribed alongside a decoction formula, the cinnabar powder should be dissolved in the strained, warm decoction liquid and swallowed separately (冲服), or taken directly as a pill with warm water.
+Cinnabar-coated pills (朱砂为衣) must not be placed into a decoction pot. The standard processing method is water-levigation (水飞法, shui fei fa): the raw mineral is ground in water repeatedly, the fine suspended particles are decanted off and collected, and the sediment is dried at low temperature (below 40°C). This removes soluble mercury, iron filings, and other impurities. A magnet should be used to extract any iron particles. Fire-processing (火煅) is absolutely prohibited.
+
+---
+
+## Processing Methods
+### F&#x113;i Zh&#x16B; Sh&#x101; (&#x98DE;&#x6731;&#x7802;)
+- **Processing Method**: Water-levigation (水飞法): the raw cinnabar ore is ground with water repeatedly, and the extremely fine powder that suspends in the water is collected. Iron filings are removed with a magnet beforehand. The powder is then dried at temperatures below 40°C.
+- **How it Changes Properties**: Water-levigation does not change the fundamental thermal nature or taste, but it critically reduces the content of soluble toxic mercury salts (free mercury) and removes iron impurities. The resulting ultra-fine powder is much safer for internal use than crude cinnabar. Heating cinnabar is strictly prohibited as it releases toxic mercury vapor and dramatically increases toxicity.
+- **When to Use**: This is the only acceptable form for any internal use. All internal prescriptions (pills, powders) require water-levigated cinnabar. Crude, unprocessed cinnabar should never be taken internally. Even the water-levigated form should only be used in very small doses (0.1-0.5g) for short courses under professional supervision.
+
+---
+
+## Common Herb Pairs
+### Huang Lian (Ratio: 1:1 (e.g. Zh&#x16B; Sh&#x101; 15g : Hu&#xE1;ng Li&#xE1;n 15g, as in classical Zh&#x16B; Sh&#x101; &#x100;n Sh&#xE9;n W&#xE1;n))
+- **Description**: Zhū Shā anchors the spirit with its heavy, sinking nature while Huáng Lián directly clears excess Heart fire with its bitter, cold properties. Together they address both the symptom (restless spirit) and the cause (Heart fire), creating a more complete treatment than either herb alone.
+- **When to Use**: Heart fire blazing with insomnia, palpitations, irritability, and mental restlessness. This is the core pairing in Zhū Shā Ān Shén Wán.
+
+### Ci Shi (Ratio: C&#xED; Sh&#xED; 2 : Zh&#x16B; Sh&#x101; 1 (as in C&#xED; Zh&#x16B; W&#xE1;n from the Qi&#x101;n J&#x12B;n F&#x101;ng))
+- **Description**: Both are heavy mineral substances that sedate the spirit, but they target different organs. Zhū Shā enters the Heart to calm the Shen, while Cí Shí (magnetite) enters the Kidney to anchor Yáng and benefits the ears and eyes. Together they create a stronger sedative effect that also addresses the Heart-Kidney axis, helping bring Kidney water upward to control Heart fire.
+- **When to Use**: Heart-Kidney disharmony with insomnia, tinnitus, blurred vision, palpitations, and dizziness. This is the pairing used in the classical Cí Zhū Wán (Magnetite and Cinnabar Pill).
+
+### Dang Gui (Ratio: Zh&#x16B; Sh&#x101; 15g : D&#x101;ng Gu&#x12B; 7.5g (as in Zh&#x16B; Sh&#x101; &#x100;n Sh&#xE9;n W&#xE1;n))
+- **Description**: Zhū Shā provides heavy sedation for the restless spirit while Dāng Guī nourishes Heart Blood, addressing the root deficiency that leaves the spirit unanchored. The combination treats both the branch (agitation) and the root (Blood deficiency).
+- **When to Use**: Blood deficiency with palpitations, insomnia, and anxiety, where the spirit needs both material nourishment and a calming anchor.
+
+---
+
+## Key Formulas
+Zhu Sha An Shen Wan, An Gong Niu Huang Wan, Tian Wang Bu Xin Dan, Ci Zhu Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Toxic
+Zhu Sha's principal component is mercuric sulfide (HgS, >96%), which is chemically insoluble and has low oral bioavailability compared to other mercury compounds. However, it still poses significant risks. In the anaerobic, slightly acidic, sulfur-rich environment of the human gut (pH ~7, 37°C), mercuric sulfide can be converted to more absorbable forms, including potentially methylmercury. Absorbed mercury accumulates primarily in the kidneys and also in the brain, with a biological half-life of approximately 60 days for inorganic mercury and potentially decades in brain tissue.
+Acute toxicity symptoms: metallic taste, nausea, vomiting, abdominal pain, bloody diarrhea, and in severe cases kidney failure. Chronic toxicity from long-term accumulation: progressive renal dysfunction (proteinuria, uremia), neurological damage (tremor, memory impairment, personality changes, blurred vision), and gastrointestinal disturbance.
+Key safety measures: (1) Always use the water-levigation (shui fei, 水飞) processed form, which removes soluble mercury and iron impurities. (2) NEVER heat or fire-process cinnabar, as this releases lethal mercury vapor. (3) Do not co-decoct with other herbs. (4) Strict dose limits of 0.1 to 0.5g, taken only in pill/powder form. (5) Duration should not exceed 7 consecutive days. (6) Never grind using aluminum utensils. When these precautions are observed, adverse effects at therapeutic doses are reported as rare and largely reversible.
+
+### Contraindications
+- **[Caution]** Use with caution in elderly or constitutionally weak patients. These individuals may have reduced capacity to handle even small amounts of mercury, increasing the risk of adverse effects.
+
+### Classical Incompatibilities
+Zhu Sha does not appear in the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, traditional sources note that lamb/mutton should be avoided when taking cinnabar (羊肉忌丹砂), a food-drug incompatibility recorded in classical dietary prohibition texts.
+
+### Special Populations
+- **Pregnancy**: Absolutely contraindicated during pregnancy. Zhu Sha contains mercury (as mercuric sulfide), which can cross the placental barrier. Mercury exposure during pregnancy poses risks of neurotoxicity to the developing fetal nervous system, potential teratogenic effects, and increased risk of miscarriage. Even at low doses, the cumulative nature of mercury in the body makes any exposure during pregnancy unacceptable. Although some classical formulas historically used cinnabar during pregnancy (e.g. to 'resolve fetal toxicity'), this practice is now firmly rejected by modern pharmacological understanding. The Chinese Pharmacopoeia prohibits use in pregnancy.
+- **Breastfeeding**: Contraindicated during breastfeeding. Mercury from cinnabar, once absorbed, can be transferred to breast milk. Infants have immature detoxification systems (underdeveloped liver and kidneys) and developing nervous systems, making them especially vulnerable to even trace amounts of mercury. There are no established safe thresholds for mercury transfer through breast milk from cinnabar-containing medicines. Nursing mothers should avoid all cinnabar-containing preparations.
+- **Children**: Extreme caution is required. The Chinese Pharmacopoeia and modern safety reviews note that children are at significantly higher risk of mercury toxicity because their organs are immature (脏腑娇嫩), their nervous systems are still developing, and their body weight means a given dose represents a higher mg/kg exposure. Animal research specifically demonstrates that juvenile subjects show dose-dependent hippocampal damage and memory impairment from cinnabar exposure.
+Although cinnabar appears in many classical and modern pediatric formulas (for infantile convulsions, night crying, etc.), its use should be minimized or avoided where safer alternatives exist. If used, doses must be at the very low end of the range, duration kept as short as possible (ideally a few days at most), and the child should be monitored closely. Magnetite (Ci Shi) or amber (Hu Po) are generally preferred as safer sedative mineral alternatives for children.
+
+### Drug Interactions
+Bromide- and iodide-containing drugs: Cinnabar must not be taken concurrently with medications containing bromide or iodide salts (e.g. potassium bromide sedatives, iodide-based expectorants). Mercury from cinnabar can react with bromide or iodide ions in the gut to form highly toxic mercuric bromide or mercuric iodide, which can cause severe drug-induced enteritis with bloody diarrhea. This is a well-documented and dangerous interaction.
+Aluminum-containing medications: Antacids or other preparations containing aluminum should be avoided. Mercury reacts with aluminum to form aluminum-mercury amalgam, which dramatically increases mercury absorption and toxicity.
+Other cinnabar-containing patent medicines: Multiple cinnabar-containing formulas should not be taken simultaneously, as the cumulative mercury dose can easily exceed safe limits. Common formulas containing cinnabar include Zhu Sha An Shen Wan, An Gong Niu Huang Wan, Tian Wang Bu Xin Dan, and many pediatric preparations.
+General caution with hepatotoxic or nephrotoxic drugs: Since mercury from cinnabar accumulates in the kidneys and liver, concurrent use with other drugs that stress these organs (e.g. acetaminophen at high doses, aminoglycoside antibiotics, NSAIDs) could compound organ damage. No formal interaction studies exist, but the pharmacological rationale warrants caution.
+
+### Dietary Advice
+Avoid lamb/mutton while taking Zhu Sha, as classical food-drug incompatibility texts specifically list this pairing. Avoid alcohol, as it may increase gastrointestinal absorption of mercury. In general, a diet that supports kidney health is advisable given cinnabar's tendency to accumulate mercury in the kidneys. Cold, raw foods are best limited to prevent burdening the digestive system and potentially altering gut conditions that affect mercury metabolism.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Zhu Sha (朱砂) is not a plant-derived herb but a naturally occurring mineral: cinnabar, the primary ore of mercury. Its chemical name is mercuric sulfide (HgS, alpha form), and it belongs to the trigonal crystal system of the cinnabar family of sulfide minerals. In nature, cinnabar forms in low-temperature hydrothermal veins, typically associated with volcanic activity and hot spring deposits. It is commonly found embedded in limestone, slate, and sandstone formations.
+Cinnabar crystals appear as thick tabular or rhombohedral forms with an adamantine to metallic luster, ranging from vivid vermilion red to dark brownish-red. The mineral is heavy (specific gravity 8.09 to 8.2), brittle (Mohs hardness 2 to 2.5), with perfect parallel cleavage and a conchoidal to irregular fracture. Its streak is consistently red to brownish-red. Cinnabar often co-occurs with quartz, calcite, realgar (Xiong Huang), pyrite, and stibnite. Large single crystals above 25mm are extremely rare and considered collector's treasures.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Mined year-round (全年可采). There is no seasonal restriction as it is a mineral, not a plant.
+- **Primary Growing Regions**: The principal producing regions are in southwest China's mercury belt. Guizhou Province (especially the Tongren/Wanshan area) and Hunan Province (especially Fenghuang County and Xinhuang County in western Hunan) are the most important sources, together accounting for the majority of China's production. The Hunan-Guizhou border region along the Wuling Mountains is the traditional dao di (道地) producing area, where cinnabar was first discovered and named "Chen Sha" (辰砂) after the ancient Chenzhou district (present-day Yuanling, Hunan). Historical records from the Song Dynasty note that cinnabar from Chenzhou and Jinzhou was considered the finest for medicinal use. Additional production comes from Sichuan, Guangxi, Hubei, and Yunnan provinces.
+- **Quality Indicators**: Good quality Zhu Sha (medicinal grade) should be in granular or flake form, with a vivid vermilion to bright red color and a lustrous, sparkling appearance. The streak (when rubbed on a white porcelain surface) should be consistently cherry-red. It should feel heavy in the hand (specific gravity around 8.0 to 8.2), be brittle and easily crushed, and the powder should have a shimmering, light-catching quality. It should be odorless and tasteless.
+A key quality test: place a small amount on a glass plate and crush with a pen tube. If the interior is uniformly red, the sample is pure. If whitish material is visible inside, it contains excessive gangue stone and is of poor quality.
+The water-levigated powder (shui fei form) used medicinally should be an extremely fine vermilion powder with no gritty particles when rubbed between the fingers, and a magnet should pick up no iron filings. The Chinese Pharmacopoeia requires a minimum HgS content of 96%. Avoid samples that appear dark, dull, or brownish, which may indicate oxidation, impurities, or adulteration.
+
+### Identity & Adulterants
+Zhu Sha may be adulterated with or confused with the following:
+1. Synthetic mercuric sulfide (人工朱砂): Manufactured HgS that may have different impurity profiles and crystal structure compared to natural cinnabar. The Chinese Pharmacopoeia specifies use of the natural mineral.
+2. Red lead oxide (铅丹, Pb3O4): A bright red powder sometimes used as a cheap substitute. Can be distinguished by its orange undertone and different streak color. Red lead is extremely toxic (lead poisoning) and must be absolutely avoided.
+3. Dyed barite (重晶石) or other red-colored mineral powders: Lower density and different chemical reactions can help distinguish these. Authentic cinnabar produces a silver-white coating on clean copper when rubbed with hydrochloric acid.
+4. Cinnabar ore heavily contaminated with gangue minerals: Raw cinnabar often contains admixed realgar (雄黄, arsenic sulfide), apatite, and bituminous material. Proper water-levigation processing removes most impurities, but low-quality processing may leave significant contaminants.
+5. Zhu Sha Gen (朱砂根) and Zhu Sha Lian (朱砂莲) are completely different plant-derived medicinal substances that share the name 'Zhu Sha' but are unrelated to mineral cinnabar. They should never be confused.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Zhu Sha holds a unique place in Chinese cultural and medical history. The name "Dan Sha" (丹砂) appears in the earliest Chinese texts, and Li Shizhen explained its etymology: the character 丹 (dan) depicts a dot within a well, representing cinnabar found within mine shafts. It was later called Zhu Sha (朱砂, "vermilion sand") due to its vivid red color. The alternate name Chen Sha (辰砂) derives from Chenzhou in Hunan, its most famous ancient source.
+The Shen Nong Ben Cao Jing ranked cinnabar first among its 120 "superior grade" medicines, claiming it was non-toxic and suitable for long-term use. This view persisted for over a thousand years and contributed to its widespread use in Daoist alchemy as the key ingredient for elixirs of immortality. Ironically, many practitioners of cinnabar-based alchemy (including several Tang Dynasty emperors) died from mercury poisoning from fire-refined cinnabar preparations. It was not until the Tang Dynasty that the Yao Xing Lun first labeled it "greatly toxic," and during the Ming-Qing period that physicians clearly articulated the danger of heating: the Ben Cao Jing Shu warned that fire-processed cinnabar becomes as lethal as arsenic. The modern Chinese Pharmacopoeia now officially classifies it as toxic, with strict dosage limits and a prohibition on fire processing.
+Beyond medicine, cinnabar was central to Chinese culture: imperial vermilion ink ("zhu pi," 朱批) was used exclusively by emperors for edicts, and cinnabar pigment colored the Forbidden City's walls and Dunhuang cave paintings. The Miao people of the Wuling Mountain region are historically credited as among the first to mine and use cinnabar, applying it to the skin to repel insects and placing it in burial sites for preservation.
+
+### Modern Scientific Research
+1. **[Minireview: Mercury in Traditional Medicines: Is Cinnabar Toxicologically Similar to Common Mercurials? (2008)](https://pubmed.ncbi.nlm.nih.gov/18445765/)**
+   *Journal: Liu J, Shi JZ, Yu LM, Goyer RA, Waalkes MP. Experimental Biology and Medicine, 2008, 233(7): 810-817.*
+   This review compared cinnabar's toxicological profile with other forms of mercury (vapor, inorganic salts, organic mercury). It found that cinnabar is insoluble and poorly absorbed from the gastrointestinal tract, with absorbed mercury mainly accumulating in the kidneys. The doses required to produce neurotoxicity were about 1000 times higher than for methylmercury. At therapeutic doses, adverse effects were considered rare and largely reversible, but heating, overdose, and long-term use were identified as major causes of mercury poisoning.
+
+2. **[Preclinical Study: Correlation Between In-Vivo Mercury Exposure from Cinnabaris and Memory Disorders in Juvenile Rats (2023)]()**
+   *Journal: Hu ZL, Zou WY, Song M, et al. Journal of China Pharmaceutical University, 2023, 54(4): 483-489.*
+   This study in juvenile rats investigated the neurotoxic potential of cinnabar during development. Rats were given low, medium, and high doses of cinnabar daily for 14 weeks. Blood mercury levels increased in a time- and dose-dependent manner. The high-dose group showed pathological changes in hippocampal pyramidal cells and significant memory impairment in water maze tests, demonstrating that cinnabar poses particular risks to the developing nervous system of young animals.
+
+3. **[Preclinical Study: Cinnabar Induces Cardiotoxicity in Zebrafish Larvae (2022)]()**
+   *Journal: Un EMW, Chan ESY, Lam KH, Li L, Lee SMY. Longhua Chinese Medicine, 2022, 5: 2.*
+   This zebrafish model study evaluated cinnabar's effects on heart function, motor neuron phenotype, and mortality. Results showed that cinnabar was lethal at certain dosages and could disrupt normal cardiac function in zebrafish larvae, suggesting potential cardiotoxic effects that had not been well characterized in previous research. The authors proposed zebrafish embryos as a sensitive screening system for cinnabar cardiac toxicity.
+
+4. **[Review: Pharmacology, Toxicology, and Rational Application of Cinnabar, Realgar, and Their Formulations (2022)](https://pubmed.ncbi.nlm.nih.gov/36199539/)**
+   *Journal: Guan H, Xu Y, Ma C, Zhao D. Evidence-Based Complementary and Alternative Medicine, 2022, 2022: 6369150.*
+   A comprehensive review of cinnabar's pharmacological and toxicological evidence. Confirmed sedative and anxiolytic effects at low doses in animal models (decreased motor activity, prolonged sleep time). Toxicity mainly involves kidney damage through mercury accumulation, with activation of tubular apoptosis pathways. Noted that in compound formulations, other herbal ingredients may modulate cinnabar's absorption and toxicity, and that gut microbiota convert mercury sulfide into less toxic mercuric polysulfides rather than methylmercury.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/zhu-sha](https://www.meandqi.com/knowledge-base/herbs/zhu-sha)*

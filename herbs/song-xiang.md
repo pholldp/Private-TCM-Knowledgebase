@@ -1,0 +1,140 @@
+# Song Xiang (松香)
+**English Name**: Pine Resin  
+**Category**: Wind-Damp dispelling herbs (祛风湿药), Substances for external application (外用药), Herbs that draw out toxins, resolve putrefaction, and generate flesh (拔毒化腐生肌药)  
+**Scientific Name**: Pinus massoniana Lamb. and other Pinus species  
+**Pharmaceutical Name**: Colophonium  
+**Toxicity**: Slightly toxic  
+**Temperature**: Warm | **Taste**: Bitter (苦 kǔ), Sweet (甘 gān)  
+**Channels Entered**: Liver, Spleen  
+**Parts Used**: Resin / Sap (树脂 shù zhī / 汁 zhī)  
+
+---
+
+## Summary
+Song Xiang (Pine Resin) is a traditional remedy used externally for skin infections, abscesses, and slow-healing wounds. It helps draw out toxins, dry oozing lesions, and promote tissue repair. It is also used internally for rheumatic joint pain and muscle aches.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Skin health, Wound healing, Joint pain, Pain relief
+- **TCM Actions**: Dispels Wind-Damp, Dries Dampness, Expels Pus, Draws Out Toxins, Promotes Tissue Regeneration, Stops Pain
+
+### How these actions work
+Dispels Wind-Damp means Song Xiang eliminates wind and dampness from the channels and joints. This makes it useful for rheumatic conditions, muscle aches, and skin problems where wind and dampness are the main pathogens.
+Dries Dampness refers to its ability to absorb excess moisture. It is particularly beneficial for weeping sores, oozing eczema, and any skin lesion with discharge.
+Expels Pus describes its action of helping abscesses and boils mature and drain. It encourages the body to push out purulent material, speeding up resolution.
+Draws Out Toxins means it can bring deep-seated toxins to the surface. This is critical for carbuncles and deep-rooted infections that are not coming to a head.
+Promotes Tissue Regeneration indicates that it helps new flesh grow, aiding in the healing of wounds and ulcers.
+Stops Pain reflects its analgesic effect, which can relieve the discomfort of sores, injuries, and joint pain.
+
+---
+
+## Patterns Addressed
+### Toxic-Heat Stagnation
+- **Explanation**: Song Xiang's bitter, warm nature and its strong ability to expel pus and draw out deep toxins make it suitable for the early stages of abscesses, carbuncles, and boils where toxic heat is localized and sluggish. It promotes suppuration and drainage, helping to resolve the stagnation and bring the lesion to a head, preventing the toxin from spreading deeper.
+- **Clinical Signs & Symptoms**:
+  - **Carbuncles**: localized red, swollen, painful lump with pus not yet formed or difficult to drain
+  - **Furuncle**: single boil with a central core of pus
+
+### Wind-Damp
+- **Explanation**: For skin conditions involving wind and dampness, Song Xiang's drying and wind-dispelling actions directly address the root. It dries weeping lesions, relieves itching, and helps clear the wind-damp pathogens from the skin and superficial channels.
+- **Clinical Signs & Symptoms**:
+  - **Ringworm**: circular, scaly, itchy patches on the skin
+
+---
+
+## Commonly Used For
+### Eczema
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: Eczema, especially the weeping type, is understood as a combination of external wind invading the skin and internal dampness overflowing. The wind causes itching and spreading, while dampness causes oozing and crusting. This Wind-Damp pattern can become chronic and recurrent.
+- **Why it Helps**: Song Xiang dries dampness and dispels wind, directly targeting the two main pathogenic factors. Its bitter taste dries, its warm nature moves wind, and it also relieves itching. Applied topically, it can absorb exudate and create a protective barrier, allowing the skin to heal.
+
+### Rheumatoid Arthritis
+- **TCM Interpretation**: Rheumatoid arthritis often corresponds to a chronic Bi syndrome where wind, cold, and dampness have lodged in the joints, causing pain, swelling, and deformity. The obstruction of Qi and Blood leads to stiffness and functional impairment.
+- **Why it Helps**: Song Xiang's wind-dispelling and dampness-drying properties help to expel the pathogens from the channels. Its warm nature counteracts cold, and its ability to relieve pain and promote tissue repair makes it useful both internally and externally for arthritic conditions.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: Internal: 3–5 g in decoction, or as pills/powders with wine. External: appropriate amount, ground and applied or mixed with oil.
+- **Maximum Dosage**: Do not exceed 5 g per dose internally. Higher doses risk severe gastrointestinal irritation and systemic toxicity.
+- **Dosage Notes**: Internal use is generally reserved for rheumatism, skin conditions, or leukorrhea, and always in a well-processed form. The dose for internal decoction is 3–5 g; for pill or powder forms, the daily dose can be adjusted within that range. External use has no strict limit, but excessive application on broken skin should be avoided due to potential absorption and toxicity.
+- **Preparation**: For decoction, wrap the resin in a cloth pouch to prevent it from sticking to the pot. Alternatively, it can be dissolved in warm wine and added to the strained decoction. For external use, the refined powder is often mixed with oils or made into a plaster after melting.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Ru Xiang (Ratio: 1:1 (often equal parts in external powders or plasters))
+- **Description**: Song Xiang draws out toxins and expels pus, while Ru Xiang invigorates blood and relieves pain. Together they powerfully treat traumatic injuries, carbuncles, and sores, reducing swelling and accelerating healing.
+- **When to Use**: For wounds, bruises, and abscesses with significant pain and blood stasis.
+
+### Mo Yao (Ratio: 1:1)
+- **Description**: Similar to the pair with Ru Xiang, Song Xiang's pus-expelling and toxin-drawing action is complemented by Mo Yao's ability to break up blood stasis and reduce swelling. This pair is especially effective for chronic, hard, non-healing sores.
+- **When to Use**: For stubborn ulcers, deep abscesses, and traumatic swelling that is slow to resolve.
+
+### Da Huang (Ratio: Song Xiang 3 parts : Da Huang 1 part (e.g., 30g : 10g for external paste))
+- **Description**: Song Xiang's warm, drawing nature is balanced by Da Huang's cold, heat-clearing, and toxin-purging action. Together they address toxic-heat abscesses by both clearing heat and drawing out pus, preventing the infection from spreading internally.
+- **When to Use**: For red, hot, painful carbuncles and furuncles in the early stage, especially when there is constipation.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Slightly toxic
+Song Xiang contains irritating volatile terpenes (α-pinene, abietic acid) that can cause skin and mucosal irritation, nausea, vomiting, and allergic dermatitis. Raw resin carries a higher risk. Traditional processing — melting, water-washing, and especially boiling with scallion (Cong Zhi Song Xiang) — removes much of the volatile irritants and reduces toxicity. The processed form is considered safe for short-term internal use at recommended doses.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Avoid use during pregnancy. The terpenoid constituents may cross the placenta and have unknown effects on fetal development. It is traditionally contraindicated in pregnancy due to its warm, dispersing nature and potential to disturb the fetus. Neither internal use nor prolonged, large-area topical application is recommended.
+- **Breastfeeding**: Avoid internal use during breastfeeding. Terpenoid compounds may be excreted in breast milk and their effects on infants are not well studied. Topical application on small, intact skin areas is likely low risk but should be done under guidance.
+- **Children**: Not recommended for internal use in children due to the herb's irritating nature and lack of safety data. External application should be limited on small, intact skin areas and only under professional supervision.
+
+### Drug Interactions
+Song Xiang may increase skin permeability when used topically, potentially enhancing the absorption and irritation of co-applied drugs such as camphor, menthol, or other resin-based salves. Use with caution alongside potent topical agents. Internal use of Song Xiang has mild platelet-inhibitory activity; concurrent use with anticoagulant or antiplatelet drugs (e.g., warfarin, aspirin) may theoretically increase bleeding risk. Monitor if such combinations are necessary.
+
+### Dietary Advice
+Avoid cold, raw, and greasy foods, which can aggravate dampness and counteract the herb’s drying effects. When used externally for skin infections, avoid spicy, heating foods that may increase inflammation.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Song Xiang is obtained from several species of Pinus, notably Pinus massoniana Lamb. (马尾松) and Pinus tabuliformis Carr. (油松). These are large evergreen conifers reaching 20–45 m in height, with thick, reddish-brown bark that cracks into irregular, scaly plates. Needles are borne in bundles of two, slender, slightly twisted, 12–20 cm long, with finely serrated edges. The trees produce male and female cones; female cones mature into woody, ovoid structures 4–7 cm long. Resin ducts in the wood secrete an oleoresin that is harvested by cutting V-shaped or spiral grooves in the trunk. The trees thrive in mountainous regions and well-drained slopes, preferring warm temperate to subtropical climates.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer, when resin exudation is most abundant.
+- **Primary Growing Regions**: Guangdong, Guangxi, Fujian, Hunan, Jiangxi, Zhejiang, Anhui, and other southern provinces. Oil pine (P. tabuliformis) sources extend to Northeast, Northwest China, and Shandong.
+- **Quality Indicators**: Good quality Song Xiang appears as irregular, semi-transparent blocks with a yellow surface often covered by a hoary white powder. It should be brittle at room temperature, with a glass-like, shiny fracture. A strong, characteristic pine-resin odor and bitter taste indicate freshness. The best grade is clean, uniform in size, highly oily, and intensely aromatic. Dull, dark, or crumbly pieces with weak odor are inferior.
+
+### Identity & Adulterants
+Song Xiang is often used as an adulterant for the more expensive Ru Xiang (Frankincense). Its own substitution is less common, but industrial-grade colophony or chemically modified rosin can be passed off as medicinal grade. Adulteration with starch or other plant resins has been reported. Authentic medicinal Song Xiang should dissolve without residue in alcohol and give characteristic abietic acid peaks on HPLC/TLC analysis; iodine test can reveal starch contaminants.
+
+---
+
+## References
+### Historical Context
+Song Xiang has been recorded in Chinese medical texts since the Shen Nong Ben Cao Jing (1st–2nd century CE), where it was classified as a top-grade herb. Its name literally means 'pine fragrance,' reflecting the aromatic resin. Throughout history, it was primarily used in surgery and dermatology for purulent skin infections due to its strong pus-drawing and tissue-regenerating actions. The famous Ming-dynasty physician Li Shizhen, in Ben Cao Gang Mu, documented it as 'Song Zhi' (松脂) and noted its ability to strengthen sinews and bones, treat leukorrhea, and sharpen hearing. The processing method using scallion juice to reduce toxicity was standardized by the Tang-Song period, reflecting a deep understanding of the need to refine the resin for internal safety.
+
+### Modern Scientific Research
+1. **[Research Progress on the Biological Activities of Rosin Derivatives (2018)](https://doi.org/10.3969/j.issn.0253-2417.2018.03.002)**
+   *Journal: Li Zhaoshuang, Li Jianfang, Liu He, et al. Chemistry and Industry of Forest Products, 2018, 38(3): 17-24.*
+   A review summarizing the antibacterial, antifungal, anti-inflammatory, and antitumor activities of chemically modified rosin derivatives. Abietic acid and dehydroabietic acid showed significant antibacterial effects against Staphylococcus aureus including MRSA and Escherichia coli, partly by disrupting bacterial cell membranes. Anti-inflammatory action was linked to inhibition of NF-κB pathway and COX-2 expression.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/song-xiang](https://www.meandqi.com/knowledge-base/herbs/song-xiang)*

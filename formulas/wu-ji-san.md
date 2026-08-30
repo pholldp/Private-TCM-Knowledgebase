@@ -1,0 +1,72 @@
+# Wu Ji San (五积散)
+**English Name**: Five Accumulations Powder  
+**Category**: Exterior-interior resolving formulas  
+**Dynasty/Source**: Xiān Shòu Lǐ Shāng Xù Duàn Mì Fāng (仙授理伤续断秘方)  
+**Temperature**: Warm | **Form**: Powder (San)
+
+---
+
+## Summary
+A broad-acting classical formula designed to address conditions where cold, dampness, sluggish Qi, blood stasis, and phlegm all accumulate in the body at once. It warms the interior, releases exterior cold, resolves dampness and phlegm, and moves Qi and blood. Commonly used for people who feel cold and heavy, with digestive bloating, body aches, and in women, menstrual irregularities caused by cold and dampness.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Releases the Exterior and Warms the Interior, Dispels Cold-Dampness, Regulates Qi and Transforms Phlegm, Invigorates Blood and Dispels Stasis, Promotes Digestion and Resolves Food Stagnation
+- **Therapeutic Focus**: Cold and Flu Relief, Digestive Health, Joint and Muscle Pain Relief, Menstrual Health
+- **Target Organs**: Spleen, Stomach, Lungs, Liver, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Amenorrhea, Frozen Shoulder, Common Cold, Irregular Menstruation, Chronic Pelvic Inflammatory Disease, Sciatica, Lower Back Pain, Chronic Gastritis, Rheumatoid Arthritis
+- **Other Names**: Shu Liao Wu Ji San (熟料五积散, Prepared Five Accumulations Powder), Cui Sheng Tang (催生汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Cang Zhu** | Atractylodes rhizome | *King* | 12 - 15g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Liver | Used in the largest dosage in the formula. Strongly dries dampness, strengthens the Spleen's ability to transform and transport, and also releases the exterior for wind-cold-damp invasion. As the core herb, it addresses the dampness accumulation that underlies many of the formula's target symptoms. |
+| **Ma Huang** | Ephedra stem | *King* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Urinary Bladder | Opens the exterior, induces sweating, and disperses wind-cold from the surface of the body. Works with Bai Zhi to release exterior cold, addressing the headache, body aches, chills, and absence of sweating. |
+| **Jie Geng** | Balloon flower root | *Deputy* | 6 - 10g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Opens and lifts Lung Qi upward, helping to expel phlegm from the chest. Works as a counterpart to Zhi Ke: Jie Geng ascends while Zhi Ke descends, together restoring normal Qi movement in the chest and diaphragm and resolving phlegm and Qi stagnation. |
+| **Gan Jiang** | Dried ginger rhizome | *Deputy* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Warms the interior and expels cold from the Spleen and Stomach. Works with Rou Gui to address the internal cold accumulation that causes abdominal pain, vomiting, and diarrhea with undigested food. |
+| **Rou Gui** | Cinnamon bark | *Deputy* | 2 - 3g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Powerfully warms the interior and disperses deep cold. Warms the channels and promotes blood circulation, helping to resolve blood stasis caused by cold. Together with Gan Jiang, addresses internal cold accumulation. |
+| **Bai Zhi** | Dahurian angelica root | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Stomach, Large Intestine | Releases exterior wind-cold, particularly targeting the Yangming channel to relieve headache and nasal congestion. Also expels dampness and alleviates pain. |
+| **Hou Po** | Magnolia bark | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Moves Qi downward, dries dampness, and reduces abdominal bloating and distention. Together with Cang Zhu, Chen Pi, and Gan Cao, forms the core of Ping Wei San (Calm the Stomach Powder) within this formula, addressing dampness obstruction in the Spleen and Stomach. |
+| **Chen Pi** | Tangerine peel | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Spleen | Regulates Qi and dries dampness. Helps transform phlegm by supporting the Spleen's transportation function. A shared component of both the Ping Wei San and Er Chen Tang sub-structures within this formula. |
+| **Ban Xia** | Pinellia rhizome | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs | Dries dampness and transforms phlegm, directs rebellious Qi downward to stop nausea and vomiting. Together with Chen Pi, Fu Ling, and Gan Cao, forms the Er Chen Tang (Two Aged Decoction) component that addresses phlegm accumulation. |
+| **Fu Ling** | Poria | *Assistant* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Strengthens the Spleen and promotes urination to drain dampness. Provides a gentle pathway for accumulated dampness and fluid retention to leave the body via the urine. |
+| **Zhi Ke** | Bitter orange fruit | *Assistant* | 3 - 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Regulates and descends Qi, alleviates chest and abdominal distention. Paired with Jie Geng, the two create an ascending-descending dynamic that opens the chest, relieves stuffiness, and assists in moving phlegm and stagnant Qi. |
+| **Dang Gui** | Chinese Angelica root | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Nourishes and activates blood. Together with Chuan Xiong and Bai Shao, forms a modified Si Wu Tang (Four Substances Decoction, minus Shu Di Huang) to address blood stasis caused by cold congealing in the blood vessels, and to regulate menstruation. |
+| **Chuan Xiong** | Sichuan lovage rhizome | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Invigorates blood and moves Qi, particularly in the Jueyin (Liver) channel. Relieves headache and body pain. Complements Dang Gui in resolving blood stasis from cold. |
+| **Bai Shao** | White peony root | *Assistant* | 3 - 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes blood and softens the Liver, harmonizes the nutritive level, and moderates pain. Balances the warm, dispersing nature of the other herbs to prevent excessive drying or scattering of blood and Yin. |
+| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes all the other herbs in the formula and strengthens the Middle Burner (Spleen and Stomach). Moderates the harshness of the many acrid, warm, and drying herbs to prevent them from injuring the Qi. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. Wu Ji San contains Ma Huang (Ephedra), which promotes sweating and stimulates sympathetic activity; Rou Gui (Cinnamon bark), Dang Gui, and Chuan Xiong, which strongly invigorate Blood circulation and can stimulate uterine contractions. Historically, this formula carried the alternative name 'Cui Sheng Tang' (催生汤, labor-hastening decoction), which was explicitly used to hasten difficult labor, confirming its ability to promote uterine activity. It should not be used at any stage of pregnancy.
+
+### Breastfeeding
+Use with caution during breastfeeding. Ma Huang (Ephedra) contains ephedrine alkaloids that can pass into breast milk and may cause irritability, poor sleep, or elevated heart rate in nursing infants. Rou Gui (Cinnamon bark) and Gan Jiang (Dried ginger) are strongly warming and may alter the quality of breast milk according to TCM theory, potentially causing Heat symptoms in the infant. The overall dispersing and drying nature of the formula may also reduce breast milk production. If clinically necessary, it should be used at reduced dosage under professional supervision and for the shortest duration possible.
+
+### Children
+Wu Ji San should be used with significant caution in children. Due to its strong dispersing, warming, and drying nature, it is generally not suitable for young children under age 6 unless prescribed by an experienced practitioner for a clear Cold-Dampness presentation. For children aged 6-12, dosage should typically be reduced to one-third to one-half of the standard adult dose, adjusted according to body weight and constitution. Children's Yin and fluids are easily damaged by warm-drying formulas, so duration of use should be kept short. Ma Huang in particular requires careful dosing in pediatric patients due to its sympathomimetic effects (potential for elevated heart rate, restlessness, insomnia). Classical sources also caution against using this formula in malnourished or constitutionally weak children.
+
+### Drug Interactions
+Ma Huang (Ephedra) interactions: This is the most pharmacologically active herb in the formula regarding drug interactions. Ephedrine and pseudoephedrine in Ma Huang are sympathomimetic amines. They should not be combined with MAO inhibitors (risk of hypertensive crisis), cardiac glycosides such as digoxin (enhanced cardiac stimulation and risk of arrhythmia), or theophylline/aminophylline (additive toxicity causing headache, dizziness, and arrhythmia). Caution is also warranted with antihypertensive medications, as ephedrine may counteract their blood-pressure-lowering effects. Concurrent use with NSAIDs or acetaminophen should also be monitored, as combining diaphoretic herbs with antipyretic drugs may cause excessive sweating.
+Gan Cao (Licorice) interactions: Glycyrrhizin in Gan Cao has mineralocorticoid-like effects. It may cause potassium depletion when combined with thiazide or loop diuretics, potentially increasing the toxicity of digoxin. Long-term concurrent use with corticosteroids may enhance their side effects. Gan Cao may also reduce the bioavailability of cyclosporine.
+Dang Gui and Chuan Xiong interactions: Both herbs have anticoagulant and antiplatelet properties. Concurrent use with warfarin, heparin, aspirin, or other blood-thinning medications may increase bleeding risk.
+Rou Gui (Cinnamon bark) interactions: Cinnamaldehyde may affect CYP enzyme activity. Exercise caution when combining with medications that have a narrow therapeutic index and are metabolized through the CYP450 system.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Take warm (not hot) after meals, twice daily (morning and afternoon). For acute External Cold conditions, take while still hot to promote mild sweating.
+- **Typical Duration**: Acute use: 3-7 days for External Cold invasion with internal Cold. Chronic use for Cold-Damp constitutional patterns (e.g., menstrual irregularity, joint pain): 2-4 weeks with reassessment.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods (salads, ice cream, chilled drinks, raw sushi), as these directly counteract its warming purpose and worsen Cold-Dampness accumulation. Also avoid greasy, rich, and heavily fried foods, which burden the Spleen and generate more Dampness and Phlegm. Dairy products and excessive sweets should be limited for the same reason. Favor warm, lightly cooked, easily digestible foods such as congee, soups, and steamed vegetables. Warm ginger tea complements the formula's actions. The classical preparation method calls for adding fresh ginger slices and scallion whites (Cong Bai) to the decoction, which enhance its Exterior-releasing effect.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/wu-ji-san](https://www.meandqi.com/knowledge-base/formulas/wu-ji-san)*

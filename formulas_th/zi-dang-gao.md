@@ -1,0 +1,80 @@
+# Zi Dang Gao (紫当膏)
+**ชื่อภาษาไทย**: ลิโธสเปิร์มและแองเจลิก้าเพสต์  
+**ชื่อภาษาอังกฤษ (English Name)**: Lithospermum and Angelica Paste  
+**หมวดหมู่ตำรับยา (Category)**: สูตรใช้ภายนอก สูตรล้างความร้อน และขจัดสารพิษ  
+**ราชวงศ์/คัมภีร์อ้างอิง (Source)**: Wai Ke Zheng Zong (外科正宗, Orthodox Manual of External Diseases) by Chen Shigong (陈实功)  
+**คุณสมบัติอุณหภูมิ (Temperature)**: เย็น | **รูปแบบยา (Form)**: Ointment (Ruan Gao)
+
+---
+
+## บทสรุปตำรับยา (Summary)
+ครีมภายนอกที่เรียบง่ายและผ่านการทดสอบตามเวลา ทำจากรากลิโทสเปิร์ม (Zi Cao) และราก Angelica จีน (Dang Gui) ในน้ำมันงาและขี้ผึ้ง ช่วยรักษาแผลไหม้ บาดแผล แมลงกัด กลาก และสภาพผิวอื่นๆ เล็กน้อย โดยการล้างอาการอักเสบ ปรับปรุงการไหลเวียนของเลือดในท้องถิ่น และส่งเสริมการเจริญเติบโตของผิวหนังใหม่ เป็นการเตรียมที่อ่อนโยนและเป็นธรรมชาติ เหมาะสำหรับทุกวัย รวมถึงทารกด้วย
+
+---
+
+## ข้อมูลสำคัญทางแพทย์แผนจีน (TCM Metadata)
+- **การออกฤทธิ์ทางแพทย์แผนจีน (TCM Actions)**: ดับความร้อน แก้พิษ เลือดเย็น บำรุงเลือด ลดอาการชะงักงัน ทำให้ผิวชุ่มชื้นและส่งเสริมการสร้างเนื้อเยื่อใหม่ บรรเทาอาการปวดและหยุดอาการคัน
+- **จุดประสงค์การรักษา (Therapeutic Focus)**: สุขภาพผิว, การดูแลผิวหนังและบาดแผล, การดูแลแผลไหม้, กลากและโรคผิวหนังอักเสบ
+- **อวัยวะเป้าหมาย (Target Organs)**: หัวใจ, ตับ
+- **กลุ่มอาการที่รักษา (Patterns Addressed)**: 
+- **โรค/อาการร่วมที่รักษา (Conditions Treated)**: กลาก, ผิวหนังไหม้, Keratitis, โรคสะเก็ดเงิน, แผลในกระเพาะอาหาร, บาดแผล, Chilblains, สิว, ผิวไหม้แดด, แมลงสัตว์กัดต่อย, ผิวหนังแตก
+- **ชื่อเรียกอื่นๆ (Other Names)**: 
+
+---
+
+## ส่วนประกอบตำรับยา (Ingredients Composition)
+| ชื่อสมุนไพรจีน (Herb Pinyin) | ชื่อภาษาไทย/อังกฤษ (Translated Name) | บทบาทในตำรับ (Role) | ปริมาณยา (Dosage) | คุณสมบัติ & เส้นลมปราณที่เข้า (Properties) | คำอธิบายบทบาท (Role Summary) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Zi Cao** | รากกรอมเวลล์ | *ราชา (King)* | 3 - 9g | อุณหภูมิ: หนาวเย็น<br>รสชาติ: Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)<br>เข้าเส้นลมปราณ: หัวใจ, ตับ | ขจัดความร้อน ทำให้เลือดเย็นลง แก้พิษ และส่งเสริมการสร้างเนื้อเยื่อใหม่ เนื่องจากเป็นสมุนไพรหลัก จึงจัดการกับความร้อนที่เป็นพิษในผิวหนังโดยตรง ลดการอักเสบ และกระตุ้นการเจริญเติบโตของผิวหนังใหม่ |
+| **Dang Gui** | ราก Angelica จีน | *ขุนนาง (Deputy)* | 9 - 15g | อุณหภูมิ: อุ่น<br>รสชาติ: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>เข้าเส้นลมปราณ: ตับ, หัวใจ, ม้าม | บำรุงและเติมพลังให้เลือด ทำให้ผิวชุ่มชื้น ลดอาการบวมและปวด และส่งเสริมการเจริญเติบโตของเนื้อเยื่อใหม่ (แกรนูล) เสริม Zi Cao โดยการปรับปรุงการไหลเวียนโลหิตในท้องถิ่นเพื่อรองรับการรักษาบาดแผล |
+| **Ma You** | น้ำมันงาดำ | *ผู้ช่วย (Assistant)* | 120 - 500mL | อุณหภูมิ: เย็น<br>รสชาติ: Sweet (&#x7518; g&#x101;n)<br>เข้าเส้นลมปราณ: ลำไส้ใหญ่ | ทำหน้าที่เป็นตัวกลางในการสกัดสำหรับสารประกอบออกฤทธิ์ที่ละลายในไขมันของ Zi Cao และ Dang Gui ให้ความชุ่มชื้นและบำรุงผิว ช่วยต่อต้านสารพิษอย่างอ่อนโยน และมอบชั้นป้องกันเหนือบาดแผล |
+| **Feng La** | ขี้ผึ้ง | *ผู้ส่งสาร (Envoy)* | 15 - 45g | อุณหภูมิ: อุ่นเล็กน้อย<br>รสชาติ: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>เข้าเส้นลมปราณ: ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่ | ทำหน้าที่เป็นสารทำให้แข็งตัว (สารเพิ่มปริมาณ) ที่เปลี่ยนน้ำมันยาให้เป็นขี้ผึ้งกึ่งแข็ง นอกจากนี้ยังมีส่วนช่วยในการล้างพิษ บรรเทาอาการเจ็บปวด และคุณสมบัติในการสร้างเนื้อเยื่อใหม่ และช่วยปิดแผลเพื่อส่งเสริมการรักษา |
+
+---
+
+## ข้อควรระวัง & ความปลอดภัยในกลุ่มพิเศษ (Special Populations & Safety)
+### สตรีมีครรภ์ (Pregnancy)
+โดยทั่วไปถือว่าปลอดภัยสำหรับการใช้ภายนอกในระหว่างตั้งครรภ์ ส่วนผสมทั้งหมด (Zi Cao, Dang Gui, น้ำมันงา, ขี้ผึ้ง) ทาเฉพาะที่ และการดูดซึมทั้งระบบมีน้อยมาก อย่างไรก็ตาม แม้ว่า Dang Gui รับประทานทางปากสามารถกระตุ้นการทำงานของมดลูกได้ แต่การมีอยู่ของยาภายนอกที่มีความเข้มข้นต่ำในขี้ผึ้งจะก่อให้เกิดความเสี่ยงเล็กน้อย สตรีมีครรภ์ควรหลีกเลี่ยงการทาครีมบนพื้นที่ผิวขนาดใหญ่หรือบนผิวหนังที่บอบบางใกล้หน้าท้อง เพื่อเป็นการป้องกันไว้ก่อน ควรปรึกษาแพทย์ผู้ชำนาญการก่อนใช้ในระหว่างตั้งครรภ์
+
+### สตรีให้นมบุตร (Breastfeeding)
+ถือว่าปลอดภัยสำหรับใช้ระหว่างให้นมบุตร นี่คือครีมภายนอกที่ใช้กับผิวหนังและส่วนผสมมีการดูดซึมระบบน้อยที่สุด ส่วนประกอบทั้งหมด (Zi Cao, Dang Gui, น้ำมันงา, ขี้ผึ้ง) เป็นสารธรรมชาติที่มีประวัติยาวนานในการใช้เฉพาะที่อย่างปลอดภัย หลีกเลี่ยงการทาครีมโดยตรงบนหรือใกล้บริเวณหัวนมหากให้นมบุตร เนื่องจากทารกอาจกินครีมเข้าไปได้ หากรักษาหัวนมแตก ให้ทำความสะอาดบริเวณนั้นให้สะอาดก่อนให้นมบุตร
+
+### เด็ก (Children)
+ครีมภายนอกนี้ถือว่าปลอดภัยสำหรับทารกและเด็กอย่างกว้างขวาง ในทางปฏิบัติทางคลินิกในเอเชียตะวันออก มักใช้รักษาผื่นผ้าอ้อม แมลงสัตว์กัดต่อย แผลไหม้เล็กน้อย และกลากในวัยเด็ก เนื่องจากส่วนผสมทั้งหมดเป็นสารธรรมชาติเกรดอาหาร (Zi Cao, Dang Gui, น้ำมันงา, ขี้ผึ้ง) แม้แต่การกินเข้าไปเล็กน้อยโดยไม่ได้ตั้งใจก็ไม่ถือว่าเป็นอันตราย สำหรับเด็กทารก ให้ทาบางๆ ในบริเวณที่ได้รับผลกระทบ หลีกเลี่ยงการทาใกล้ดวงตา ปาก หรือรูจมูก สำหรับเด็กที่มีผิวบอบบางมาก ให้ทดสอบบนแผ่นเล็กๆ ก่อน ไม่จำเป็นต้องปรับขนาดยาโดยเฉพาะ เนื่องจากเป็นการเตรียมเฉพาะที่ แต่ควรใช้ในปริมาณน้อยกับทารกที่อายุน้อยมาก (อายุต่ำกว่า 3 เดือน) และปรึกษาแพทย์หากอาการไม่ดีขึ้นภายในสองสามวัน
+
+## ปฏิกิริยากับยาแผนปัจจุบัน (Drug Interactions)
+เนื่องจากเป็นยาทาภายนอกที่มีการดูดซึมทั่วร่างกายน้อยที่สุด Zi Dang Gao จึงมีโอกาสเกิดปฏิกิริยาระหว่างยาได้จำกัดมาก อย่างไรก็ตาม มีข้อควรพิจารณาบางประการ:
+- ยาคอร์ติโคสเตียรอยด์เฉพาะที่หรือครีมกดภูมิคุ้มกัน: หลีกเลี่ยงการทาบริเวณเดียวกันพร้อมกัน ครีมที่มีส่วนผสมของน้ำมันอาจเปลี่ยนแปลงการดูดซึมยาเฉพาะที่อื่นๆ สับเปลี่ยนเวลาการสมัครหากจำเป็นทั้งสองอย่าง
+- ยาปฏิชีวนะเฉพาะที่: การวิจัยชี้ให้เห็นว่า Shiunko มีคุณสมบัติต้านเชื้อแบคทีเรีย แม้ว่าจะไม่มีข้อห้ามโดยตรง แต่การรวมกันนี้อาจซ้ำซ้อนหรืออาจทำให้ความเข้มข้นของยาที่ตั้งใจไว้ที่ผิวเปลี่ยนแปลงไป
+- ยาต้านการแข็งตัวของเลือด (warfarin, heparin): แม้ว่าการดูดซึมของระบบจะน้อย Dang Gui และ Zi Cao ต่างก็มีคุณสมบัติในการกระตุ้นเลือด สำหรับผิวหนังที่แตกหรือเป็นแผลอย่างกว้างขวางโดยมีการสัมผัสกับพื้นที่ผิวมาก มีข้อกังวลทางทฤษฎี (แม้ว่าจะไม่น่าจะเป็นไปได้) เกี่ยวกับฤทธิ์ต้านการแข็งตัวของเลือดที่เพิ่มขึ้น
+
+## Usage & Dosage Guidance (คำแนะนำการใช้งาน & ปริมาณยา)
+- **เวลาที่ดีที่สุดในการรับประทาน**: ใช้ตอนเย็นหลังทำความสะอาดผิว (ควรทาหลังอาบน้ำ) และทาอีกครั้งในตอนเช้าหากจำเป็น สำหรับการดูแลบาดแผล ให้ทาทุก 8-12 ชั่วโมง โดยปิดด้วยผ้ากอซที่สะอาด
+- **ระยะเวลาการใช้ยาโดยทั่วไป**: ทาวันละ 1-3 ครั้งจนกว่าสภาพผิวจะดีขึ้น โดยทั่วไปจะใช้เวลา 3-14 วันสำหรับแผลไหม้เล็กน้อย แมลงสัตว์กัดต่อย และแผลเฉียบพลัน อาการเรื้อรัง เช่น กลากหรือโรคสะเก็ดเงิน อาจต้องใช้อย่างต่อเนื่อง 2-4 สัปดาห์ โดยแพทย์จะประเมินใหม่
+- **ข้อแนะนำเรื่องอาหารร่วมกับการใช้ยา**: 
+ขณะรับประทานยาทาภายนอก ให้หลีกเลี่ยงอาหารรสเปรี้ยวและคาว (ข้อห้ามในการบริโภคอาหารแบบคลาสสิกสำหรับยารักษาแผลภายนอก) ควรลดอาหารที่มีรสเผ็ด มันเยิ้ม และกระตุ้นอาหารอย่างมาก เนื่องจากอาจทำให้เกิดความร้อนภายในซึ่งทำให้สภาพผิวที่กำลังรับการรักษาแย่ลง แนะนำให้ทานอาหารรสจืดและเย็น เช่น ผักใบเขียว ถั่วเขียว และผลไม้สด เพื่อช่วยขจัดความร้อนของสูตรจากภายใน
+
+## งานวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **[Shiunko promotes epithelization of wounded skin (Animal study, 2004)]()**
+   *วารสารวิชาการ: Huang KF, Hsu YC, Lin CN, Tzeng JI, Chen YW, Wang JJ. American Journal of Chinese Medicine. 2004; 32(3): 389-396.*
+   This animal study tested Shiunko on experimental wounds in rats, comparing it against povidone-iodine and saline treatments. The Shiunko-treated group showed significantly lower wound infection rates (0% vs 40% in the saline group after Pseudomonas inoculation) and higher rates of complete skin regrowth (epithelization) on both sterile and contaminated wounds. The researchers concluded that Shiunko both prevents infection and actively promotes new skin formation, while povidone-iodine disinfected but did not promote healing.
+
+2. **[Shiunko and acetylshikonin promote reepithelialization, angiogenesis, and granulation tissue formation in wounded skin (Animal study, 2008)](https://pubmed.ncbi.nlm.nih.gov/18306455/)**
+   *วารสารวิชาการ: Huang KF, Hsu YC, Lin CN, Tzeng JI, Chen YW, Wang JJ. American Journal of Chinese Medicine. 2008.*
+   Building on the 2004 study, this research compared Shiunko and its active component acetylshikonin against gentamicin and silver sulfadiazine ointments on rat wounds. Shiunko-treated wounds showed significantly higher rates of new skin growth, new blood vessel formation, and granulation tissue development than conventional disinfectant ointments, on both sterile and infected wounds. The formula outperformed standard wound care agents for tissue regeneration.
+
+3. **[Efficacy of Shiunko for the treatment of atopic dermatitis (Clinical pilot study, 1999)](https://pubmed.ncbi.nlm.nih.gov/10505304/)**
+   *วารสารวิชาการ: Sakaguchi M, Inoue S, Kamimura H. Acta Dermatologica (Kyoto). 1999.*
+   This small clinical study applied Shiunko, white petrolatum, and salt water to the skin of atopic dermatitis patients. Shiunko showed clinical effectiveness in 57% of patients (4 of 7), compared to 0% for petrolatum and 14% for salt water. Bacterial counts (primarily Staphylococcus aureus) were also reduced in the Shiunko group, suggesting the ointment has antibacterial properties relevant to eczema management.
+
+4. **[Phase II Controlled Trial of Shiunko Ointment for Cutaneous Leishmaniasis (RCT, 2016)](https://pubmed.ncbi.nlm.nih.gov/27195014/)**
+   *วารสารวิชาการ: Na-Bangchang K, et al. Evidence-Based Complementary and Alternative Medicine. 2016; Article ID 8025012.*
+   This randomized, placebo-controlled trial tested Shiunko ointment in 40 Ethiopian patients with cutaneous leishmaniasis. While cure rates were comparable between groups, Shiunko showed a marked 69% reduction in lesion size compared to 22% for placebo at week 16, with a significantly faster rate of lesion shrinkage during treatment. The ointment was well-tolerated with a high safety profile, and showed particular benefit for wound closure in patients with ulcerated lesions.
+
+5. **[Potential Efficacy of Shiunko for Anti-EGFR Monoclonal Antibody-Induced Skin Fissure (Case series, 2024)]()**
+   *วารสารวิชาการ: National Cancer Center Hospital East. Published 2024.*
+   This case series from the National Cancer Center Hospital East in Japan reported on the use of Shiunko ointment for skin fissures caused by anti-EGFR cancer drugs (panitumumab or cetuximab). The ointment was applied twice daily to grade 2 skin fissures in colorectal cancer patients. The study represented the first report on Shiunko's potential for managing this specific chemotherapy side effect, leveraging the wound-healing properties of its shikonin derivatives.
+
+
+---
+*ลิงก์ต้นฉบับภาษาอังกฤษ: [Me & Qi Formulas](https://www.meandqi.com/knowledge-base/formulas/zi-dang-gao)*

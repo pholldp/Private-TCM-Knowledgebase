@@ -1,0 +1,165 @@
+# Fu Rong Ye (芙蓉叶)
+**English Name**: Cotton Rose Hibiscus Leaf  
+**Category**: Heat-clearing herbs, Herbs that clear Heat and resolve Toxicity (清热解毒药)  
+**Scientific Name**: Hibiscus mutabilis L.  
+**Pharmaceutical Name**: Folium Hibisci Mutabilis  
+**Toxicity**: Non-toxic  
+**Temperature**: Cool | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Lungs, Liver  
+**Parts Used**: Leaf (叶 yè)  
+
+---
+
+## Summary
+Cottonrose hibiscus leaf is a cooling herb best known in Chinese medicine for treating skin infections, abscesses, and inflammatory swellings. It can be applied directly to the skin as a poultice or paste, or taken internally as a tea for respiratory infections and coughs. It has a long history of use for burns, boils, and herpes zoster (shingles), and modern research has confirmed its anti-inflammatory and antiviral properties.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Skin Health, Burn Care, Respiratory Health, Immune Support
+- **TCM Actions**: Clears Lung Heat, Cools the Blood, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Expels Pus, Alleviates Pain
+
+### How these actions work
+'Clears Lung Heat' means this herb can address conditions where excess Heat accumulates in the Lungs, leading to coughing and throat swelling. Because it enters the Lung channel and has a cool, acrid nature, it can disperse and vent Heat from the respiratory system. This is why it appears in formulas for coughs caused by Lung Heat, and in the patent medicine Fupo Ganmao Granules for common cold.
+'Cools the Blood' means this herb can counteract Heat that has entered the Blood level, where it may cause redness, swelling, and inflammatory skin conditions. Its cool and bitter nature directs it downward to calm the Blood and reduce the red, hot signs of Blood-level Heat. This makes it particularly useful for conditions with hot, red, swollen skin lesions.
+'Clears Heat and resolves toxicity' refers to its ability to counteract what TCM calls 'toxic Heat,' the intense, localised inflammation seen in abscesses (carbuncles), boils, mastitis, and skin infections. This is considered the herb's signature action. As Li Shizhen noted in the Ben Cao Gang Mu, the cottonrose hibiscus leaf has remarkable efficacy against swollen abscesses. Applied topically as a paste (either fresh and mashed, or dried and ground with honey), it can cool the affected area and help draw out pus.
+'Reduces swelling and expels pus' describes its ability to help abscesses resolve. For sores that have not yet ruptured, the leaf can reduce swelling and stop pain. For those that have already opened, it helps pus drain and the wound close. This dual action at different stages of abscess development is what makes it so valued in external medicine.
+'Alleviates pain' applies particularly to the hot, throbbing pain of inflammatory swellings, burns, and traumatic injuries. Its cool nature and dispersing acrid taste help relieve local congestion and pain at the site of inflammation.
+
+---
+
+## Patterns Addressed
+### Toxic-Heat
+- **Explanation**: Fú Róng Yè directly addresses Toxic Heat, the pattern underlying most acute inflammatory skin infections. Its cool nature counteracts the Heat, while its bitter taste helps drain dampness and pus. The acrid taste disperses the local swelling and stagnation. Because it enters both Lung and Liver channels, it can address Toxic Heat that manifests on the skin surface (governed by the Lungs, which rule the skin) and in areas influenced by the Liver channel, such as the lateral torso (relevant for herpes zoster along the Liver channel). Li Shizhen specifically praised this herb's ability to treat all stages of abscess development.
+- **Clinical Signs & Symptoms**:
+  - **Periappendiceal Abscess**: Hot, red, swollen skin lesions with or without pus
+
+### Lung Heat
+- **Explanation**: Fú Róng Yè enters the Lung channel and has a cool, acrid nature that enables it to vent Heat from the Lungs. When Lung Heat flares, it can cause coughing, sore throat, and even lung abscess. The herb's ability to both clear Heat and expel pus makes it well suited for the hot, productive cough that characterises this pattern. Its acrid taste helps open and disperse congestion in the Lungs, while the bitter and cool properties drain the accumulated Heat downward.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondrial Pain That Is Worse On Coughing And Breathing**: Cough due to Lung Heat, possibly with yellow sputum
+
+---
+
+## Commonly Used For
+### Herpes Zoster Infection
+- **Arises from**: Toxic-Heat
+- **TCM Interpretation**: TCM views herpes zoster (known as 'belt-wrapping fire cinnabar' or 缠腰火丹) as Damp-Heat and Toxic Heat accumulating in the Liver and Gallbladder channels. The Liver channel runs along the lateral torso where shingles typically appears. Emotional stress or pre-existing Liver Fire can create the conditions for this outbreak. The painful, blistering rash reflects both Blood Heat (redness) and Toxic Heat (vesicles and intense pain).
+- **Why it Helps**: Fú Róng Yè enters the Liver channel directly, allowing it to address the Liver-channel Heat that drives the eruption. Its Blood-cooling action reduces the redness and inflammation of the vesicles, while its toxin-resolving action works against the intense localised Heat. The traditional application is topical: the dried leaf is ground to powder and mixed with a starch paste or rice water and applied to the affected area. Its cool nature provides symptomatic relief from the burning pain characteristic of shingles.
+
+### Skin Burns
+- **Arises from**: Toxic-Heat
+- **TCM Interpretation**: Burns are caused by external Fire or Heat directly injuring the skin and flesh. In TCM terms, the Fire toxin damages local Qi and Blood circulation, causing pain, redness, blistering, and tissue destruction. The Lungs govern the skin, so burn injuries are closely related to the Lung system. Severe burns can allow Heat toxin to penetrate deeper, potentially affecting the internal organs.
+- **Why it Helps**: Fú Róng Yè's cool nature directly counteracts the residual Fire toxin in burn wounds. Applied topically as a powder mixed with honey or sesame oil, it forms a protective layer that cools the burned area, reduces inflammation, and promotes tissue healing. Its ability to both clear Heat and reduce swelling addresses the two main concerns in burn care: ongoing tissue damage from retained Heat and inflammatory swelling. The herb's anti-inflammatory effects have been confirmed in modern pharmacological studies.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 10-30g (decoction for internal use); external use in appropriate amounts
+- **Maximum Dosage**: Up to 30g in decoction for internal use. For external use, the amount is not strictly limited and is applied as needed to cover the affected area.
+- **Dosage Notes**: Fu Rong Ye is used more commonly as an external application than as an internal decoction. For external use, fresh leaves can be crushed and applied directly as a poultice, or dried leaves are ground into powder (historically called Yu Lu San, 玉露散) and mixed with honey, egg white, or sesame oil for topical application to sores, abscesses, burns, and herpes zoster. For internal use as a decoction (10-30g), it is employed for conditions like lung-heat cough, pyelonephritis, or appendicitis. Lower doses (10-15g) are appropriate for mild internal heat patterns; higher doses (up to 30g) for acute infections or abscesses.
+- **Preparation**: Most commonly used as an external preparation. Fresh leaves are pounded into a paste for direct topical application; dried leaves are ground into fine powder (passed through a fine sieve) and mixed with honey, egg white, vinegar, or sesame oil to form a paste for application to the affected area. For decoction (internal use), no special handling is required; simply add to the pot and decoct normally.
+
+---
+
+## Processing Methods
+### Y&#xF9; L&#xF9; S&#x1CE;n (&#x7389;&#x9732;&#x6563;)
+- **Processing Method**: The dried leaves are ground into a fine powder. This powder is then mixed with honey water or sesame oil to form a paste for topical application.
+- **How it Changes Properties**: The thermal nature and taste remain unchanged (cool, acrid-bitter). The powder form is specifically designed for topical use, allowing direct application to inflamed or infected skin. It does not alter the herb's fundamental properties but optimises its delivery for external medicine.
+- **When to Use**: Used topically for abscesses, carbuncles, boils, and other swollen inflammatory skin lesions. The powdered form mixed with honey creates an adhesive paste that stays in place on the skin. Historically considered a 'secret formula' among surgeons for treating all manner of sores and swellings.
+
+---
+
+## Common Herb Pairs
+### Chi Xiao Dou (Ratio: Equal parts, mixed into a topical paste)
+- **Description**: Fú Róng Yè clears Toxic Heat and reduces swelling while Chi Xiao Dou (adzuki bean) drains Dampness and disperses stagnation. Together they address both the Heat-toxin and the Damp component of abscesses, enhancing pus drainage and wound resolution. Li Shizhen specifically noted the addition of adzuki bean powder to Fú Róng Yè paste as 'especially effective.'
+- **When to Use**: For carbuncles, boils, and abscesses with significant swelling, redness, and pus formation. Particularly when there are signs of both Heat and Dampness (pus, oozing).
+
+### Jin Yin Hua (Ratio: 1:1 (typically 10-15g each))
+- **Description**: Both herbs clear Heat and resolve toxicity, but Jīn Yín Huā (honeysuckle flower) is stronger at venting Heat outward and addressing the early, superficial stage of infection, while Fú Róng Yè works more on local swelling and pus. Together they provide broader anti-toxic coverage for severe inflammatory infections.
+- **When to Use**: For acute inflammatory conditions with pronounced redness, swelling, and Heat signs, such as early-stage carbuncles, mastitis, or cellulitis, especially when the condition involves both surface and deeper tissue layers.
+
+### Yu Xing Cao (Ratio: F&#xFA; R&#xF3;ng Y&#xE8; 15g : Y&#xFA; X&#x12B;ng C&#x1CE;o 15-30g)
+- **Description**: Fú Róng Yè clears Lung Heat and expels pus, while Yú Xīng Cǎo (houttuynia) is a powerful Lung-specific Heat-clearing and pus-draining herb. Together they strongly address Lung abscess and severe respiratory infections with purulent sputum.
+- **When to Use**: For Lung Heat conditions with productive cough, foul-smelling sputum, or suspected lung abscess. Also useful for severe respiratory infections.
+
+### Huang Bo (Ratio: Equal parts, ground to powder for topical application)
+- **Description**: Fú Róng Yè cools the Blood and clears superficial toxic Heat, while Huáng Bǎi (phellodendron bark) strongly clears Damp-Heat from the Lower Burner. Combined, they address painful swellings in the lower body where both Heat and Dampness are involved.
+- **When to Use**: For testicular swelling and pain (hernial conditions), or for lower body abscesses and inflammatory swellings with signs of Damp-Heat. A classical combination recorded in historical formularies.
+
+---
+
+## Key Formulas
+Mu Li San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Fu Rong Ye is classified as non-toxic. Both the Ben Cao Tu Jing and the Ben Cao Gang Mu record it as having no toxicity (无毒). Modern toxicological studies support this: the oral maximum tolerated dose in mice was found to be over 100 g/kg by gavage, and long-term administration (two months) at doses up to 20 g/kg in rats and 8 g/kg in dogs showed no significant abnormalities in organ function, blood parameters, or tissue pathology. Local irritation tests and allergy tests were also negative. No special toxicity concerns at standard dosages.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated in pregnancy. The Min Jian Chang Yong Cao Yao Hui Bian (民间常用草药汇编) explicitly states that pregnant women should not take this herb. Its Blood-cooling and Blood-moving properties could theoretically disturb the fetus. Topical use on small areas may be less concerning, but internal use should be strictly avoided during pregnancy.
+- **Breastfeeding**: No specific classical or modern data on safety during breastfeeding. Given the herb's cooling nature and the absence of known toxic constituents, short-term topical use is unlikely to pose significant risk. However, internal use during breastfeeding should be approached with caution and under practitioner guidance, as there is insufficient evidence regarding transfer of active compounds through breast milk.
+- **Children**: No specific classical dosage guidelines for children. If used in paediatric cases, dosage should be reduced proportionally based on the child's age and body weight, typically to one-third to one-half of the adult dose. External application (poultice of ground leaves) has been traditionally used in children, such as for treating childhood throat obstruction (锁喉), as recorded in the Ling Nan Cai Yao Lu. Use under practitioner supervision only.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Fu Rong Ye in the current medical literature. The leaf contains flavonoids (including rutin, tiliroside, quercetin, and kaempferol), fumaric acid, and tannins. Theoretically, the tannin content could reduce absorption of iron supplements or certain medications if taken concurrently. The flavonoid constituents have demonstrated anti-inflammatory effects in laboratory studies, so concurrent use with anti-inflammatory or immunosuppressive medications should be monitored. As with all herbal medicines, patients taking prescription medications should consult a qualified healthcare provider before use.
+
+### Dietary Advice
+When taking Fu Rong Ye internally for Heat-clearing purposes, avoid excessively spicy, greasy, or fried foods that may generate internal Heat and counteract the herb's cooling effect. Cold and raw foods should also be moderated in patients with weak digestion, as the herb's cool nature combined with cold foods may tax the Spleen.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Hibiscus mutabilis L. (family Malvaceae) is a deciduous shrub or small tree growing 2 to 5 metres tall. The branchlets, petioles, flower stalks, and calyces are densely covered with a mixture of stellate (star-shaped) hairs and soft woolly pubescence. The leaves are broadly ovate to heart-shaped, 10 to 15 cm in diameter, palmately divided into 5 to 7 shallow, triangular lobes with bluntly serrated margins. The upper leaf surface is sparsely covered with fine stellate hairs, while the underside is densely tomentose (feltlike). Leaf stalks are long, measuring 5 to 20 cm.
+The flowers are large and showy, solitary in the upper leaf axils, approximately 8 cm in diameter. They famously change colour through the day: white or pale pink in the morning, deepening to pink at midday, and turning dark red by evening. This colour change is reflected in several of the plant's common names, including "three-change flower" (三变花) and "drunken hibiscus" (醉酒芙蓉). The fruit is a flattened globe-shaped capsule, about 2.5 cm across, covered in yellowish bristly hairs, splitting into 5 segments. Seeds are kidney-shaped with fine hairs on the back. Flowering occurs from August to October.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer and autumn (typically June through October), when the leaves are fully developed. Leaves are cut and sun-dried.
+- **Primary Growing Regions**: Originally native to Hunan province in China. Now widely cultivated across many provinces including Sichuan, Zhejiang, Jiangsu, Fujian, Guangdong, Guangxi, Guizhou, Hubei, Jiangxi, Yunnan, and Taiwan. Sichuan (especially the Chengdu area) and Zhejiang are considered primary production regions for medicinal quality material. Also cultivated in Japan and Southeast Asia.
+- **Quality Indicators**: Good quality dried Fu Rong Ye leaves are large, intact, and not excessively fragmented. The upper surface should be greyish-green (灰绿色) and the underside a paler green (淡绿色) with prominent raised veins covered in greyish stellate (star-shaped) hairs. The leaf stalks should be yellowish-brown, approximately 0.3 cm thick. The leaves should be dry but not brittle to the point of crumbling, with no signs of mould or insect damage. Fresh leaves used for topical application should be vibrant green and mucilaginous when crushed.
+
+### Identity & Adulterants
+Fu Rong Ye (the leaf of Hibiscus mutabilis) should not be confused with Mu Fu Rong Hua (the flower of the same plant), which has overlapping but distinct indications and is sometimes sold under similar names. It should also be distinguished from Shui Fu Rong (水芙蓉, water hibiscus or lotus), which is a completely different plant (Nelumbo nucifera). Other Hibiscus species leaves, such as Hibiscus rosa-sinensis or Hibiscus syriacus (Mu Jin), may sometimes be encountered as substitutes but have different phytochemistry and clinical applications. Authentic Fu Rong Ye can be identified by its large, palmately 5-to-7-lobed leaves with dense stellate hairs on the underside.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Gang Mu (《本草纲目》) — Li Shizhen
+- **Original**: 木芙蓉花并叶，气平而不寒不热，味微辛而性滑涎粘，其治痈肿之功，殊有神效。
+- **Translation**: "The flower and leaf of Mu Fu Rong have a balanced Qi that is neither cold nor hot, with a slightly pungent taste and a slippery, mucilaginous quality. Their ability to treat abscesses and swellings is truly remarkable."
+
+### Historical Context
+Fu Rong Ye comes from the Cottonrose Hibiscus (Hibiscus mutabilis), a plant deeply rooted in Chinese cultural and medical history. The name "Fu Rong" (芙蓉, "lotus-like beauty") originally referred to the lotus flower, but was later applied to this plant because of its similarly large, striking blossoms. It is also called "Ju Shuang" (拒霜, "frost defier") because it blooms in autumn when frost approaches, and "San Bian Hua" (三变花, "three-change flower") for its remarkable daily colour transformation from white to pink to red. The city of Chengdu in Sichuan has long been known as "Rong Cheng" (蓉城, "Hibiscus City"), a name deriving from the extensive planting of this flower there during the Five Dynasties period.
+Medicinally, the leaf was first recorded in the Ben Cao Tu Jing (《本草图经》) of the Song dynasty, where it was described as pungent, balanced, and non-toxic, used topically for swellings. Li Shizhen greatly expanded on its uses in the Ben Cao Gang Mu (《本草纲目》, 1578), praising its "truly remarkable" effect on abscesses. He noted that surgeons of his time kept its identity secret under names like "Qing Liang Gao" (清凉膏, Cool Paste), "Qing Lu San" (清露散, Clear Dew Powder), and "Tie Gu San" (铁箍散, Iron Hoop Powder). The dried powdered leaf was also known as "Yu Lu San" (玉露散, Jade Dew Powder). In modern Chinese medicine, it has found new applications as a key ingredient in patent medicines such as Fupo Ganmao Granules for treating the common cold and influenza.
+
+### Modern Scientific Research
+1. **[Anti-influenza properties of tiliroside isolated from Hibiscus mutabilis L. (In vitro and in vivo study, 2022)](https://doi.org/10.1016/j.jep.2022.115918)**
+   *Journal: Xiao M, Zhang T, Cao F, Liang W, Yang Y, Huang T, Tang YS, Liu B, Zhao X, Shaw PC. Journal of Ethnopharmacology, 2023, 303:115918.*
+   Researchers isolated the flavonoid tiliroside from Fu Rong Ye leaves using bioassay-guided fractionation. Tiliroside inhibited four influenza A virus strains in cell culture, suppressed viral ribonucleoprotein activity, reduced pro-inflammatory cytokine expression in infected cells, and protected 50% of influenza-infected mice from death at 800 mg/kg/day while improving lung oedema.
+
+2. **[Bio-assay guided isolation of alpha-glucosidase inhibitory constituents from Hibiscus mutabilis leaves (In vitro study, 2012)](https://pubmed.ncbi.nlm.nih.gov/22161959/)**
+   *Journal: National Institute of Pharmaceutical Education and Research (NIPER), Kolkata, India. PubMed, 2012.*
+   The methanolic leaf extract showed significant alpha-glucosidase inhibitory activity. Active constituents were isolated and identified via bioassay-guided fractionation, and a validated HPLC method was developed for standardization. The findings support further investigation of the plant for potential diabetes management.
+
+3. **[Comprehensive analysis of Hibisci Mutabilis Folium extract's mechanisms in alleviating UV-induced skin photoaging (Network pharmacology and experimental study, 2024)](https://pubmed.ncbi.nlm.nih.gov/39469625/)**
+   *Journal: Frontiers in Pharmacology, 2024.*
+   Using network pharmacology and experimental validation, this study investigated how Fu Rong Ye extract protects against UV-induced skin photoaging. The extract demonstrated anti-inflammatory and antioxidant effects relevant to preventing skin roughness, pigmentation, and wrinkle formation caused by UV radiation.
+
+4. **[In vitro anti-inflammatory mechanism of Folium Hibisci Mutabilis leaves ethanol extracts (In vitro study, 2013)](https://doi.org/10.4314/ajtcam.v11i1.19)**
+   *Journal: Wang J, Li X, Gao L, Wang X. African Journal of Traditional, Complementary and Alternative Medicine, 2014, 11(1):127-130.*
+   Ethanol extracts of Fu Rong Ye leaves were tested for anti-inflammatory activity. The study demonstrated that the extracts suppressed inflammatory mediators in cell-based assays, providing evidence for the herb's traditional use in treating inflammatory conditions such as abscesses and swellings.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/fu-rong-ye](https://www.meandqi.com/knowledge-base/herbs/fu-rong-ye)*

@@ -1,0 +1,70 @@
+# Ling Gan Wu Wei Jiang Xin Tang (苓甘五味姜辛汤)
+**English Name**: Poria, Licorice, Schisandra, Ginger, and Asarum Decoction  
+**Category**: Phlegm-resolving formulas, Cold-Phlegm warming and transforming formulas  
+**Dynasty/Source**: Jin Gui Yao Lue (金匮要略) - Essential Prescriptions of the Golden Cabinet, by Zhang Zhongjing  
+**Temperature**: Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical warming formula used for chronic cough with copious thin, watery, clear or white phlegm, chest stuffiness, and a tendency to spit saliva. It works by warming the Lungs and Spleen to dissolve and drain accumulated cold fluids, and is commonly used for chronic bronchitis, emphysema, and other respiratory conditions where cold-type phlegm retention is the underlying problem.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Warms the Lungs and Stops Cough, Resolves Phlegm-Fluid Retention, Disperses Cold, Strengthens the Spleen and Resolves Dampness
+- **Therapeutic Focus**: Respiratory Health, Chronic Cough Relief, Sinus and Nasal Health, Lung Health
+- **Target Organs**: Lungs, Spleen
+- **Patterns Addressed**: 
+- **Conditions Treated**: Chronic Bronchitis, Chronic Obstructive Pulmonary Disease, Allergic Sinusitis, Emphysema, Bronchial Asthma, Edema
+- **Other Names**: Wu Wei Xi Xin Tang (五味细辛汤), Ling Gan Jiang Xin Tang (苓甘姜辛汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Gan Jiang** | Dried ginger rhizome | *King* | 6 - 9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Warms the Lungs and disperses Cold to transform accumulated thin fluids (yin 饮). Simultaneously warms Spleen Yang to resolve Dampness and address the root cause of fluid accumulation. As the hottest and most pungent herb in the formula, it drives the core warming and fluid-transforming action. |
+| **Xi Xin** | Wild Ginger | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Lungs, Kidneys | With its penetrating pungent warmth, Xi Xin warms the Lungs and scatters Cold, powerfully assisting Gan Jiang in dispersing the congealed thin fluids. Its aromatic quality opens up clumped Qi in the chest, helping restore normal Lung dissemination. |
+| **Fu Ling** | Poria | *Deputy* | 9 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Strengthens the Spleen and promotes urination to leach out Dampness, addressing both the symptoms and the source of fluid accumulation. By draining fluids downward through the urinary tract and restoring Spleen transport function, it prevents the re-formation of pathological fluids. |
+| **Wu Wei Zi** | Schisandra berry | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Heart, Kidneys | Restrains Lung Qi leakage and stops coughing through its sour astringent nature. Crucially counterbalances the dispersing actions of Gan Jiang and Xi Xin, preventing them from over-scattering and damaging Lung Qi. Creates a dynamic balance of dispersing and restraining (one warms, one scatters, one constrains) that resolves pathology without injuring the body. |
+| **Gan Cao** | Licorice root | *Envoy* | 6 - 9g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes the Middle Burner, tonifies Spleen Qi, and moderates the actions of the other herbs. Ensures the warming and dispersing ingredients work together smoothly without harshness. |
+
+---
+
+## Scientific Research
+
+1. [GC-MS Metabolomics Study of Dried Ginger and Linggan Wuwei Jiangxin Decoction Treatment of Cold Asthma in Rats (Preclinical, 2019)](https://pubmed.ncbi.nlm.nih.gov/31031619/) (*Ran S, Sun F, Song Y, Wang X, Hong Y, Han Y. Frontiers in Pharmacology. 2019; 10: 284.*)
+> This animal study compared dried ginger alone versus the full LGWWJX decoction in a rat model of cold asthma induced by ovalbumin and ice water. Both treatments significantly reduced lung inflammation and pathological changes. The full formula was more effective than dried ginger alone, regulating more metabolites involved in carbohydrate and fatty acid metabolism related to energy metabolism and oxidative stress. This supports the classical rationale for multi-herb compatibility over single-herb use.
+2. Linggan Wuwei Jiangxin Formula Ameliorates Airway Hyperresponsiveness in Allergic Asthmatic Mice with Diet-Induced Obesity (Preclinical, 2021) (*Ma Z, Li C, Xue L, Zhang S, Yang Y, Lu Z, Zhang H. Annals of Translational Medicine. 2021; 9(13): 1076.*)
+> This preclinical study examined the effects of the LGWWJX formula on asthmatic mice, particularly those with diet-induced obesity. The formula reduced airway hyperresponsiveness by suppressing IL-1β and IL-17A expression, suggesting it may be especially beneficial for the obese asthma phenotype that responds poorly to standard corticosteroid therapy. In vitro experiments confirmed the formula could inhibit IL-1β-stimulated IL-17A production in innate lymphoid cells.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Classical sources explicitly list pregnant women among those who should be cautious with this formula. Xi Xin (Asarum) is pungent, penetrating, and strongly dispersing, which raises concerns about its effects during pregnancy. Gan Jiang (Dried Ginger) is hot in nature and strongly warming. While neither herb is classified as a primary abortifacient, the combined warming and dispersing actions of the formula could theoretically disturb the fetus. Pregnant women should only use this formula under direct supervision of a qualified practitioner when the clinical need clearly outweighs the potential risk.
+
+### Breastfeeding
+No specific classical prohibitions exist for use during breastfeeding, and the formula is generally considered lower risk in this context than during pregnancy. However, Xi Xin (Asarum) contains volatile aromatic compounds that could potentially transfer into breast milk in small amounts. Gan Jiang (Dried Ginger) is strongly warming and may subtly affect the thermal quality of breast milk. If a breastfeeding mother requires this formula for cold-type cough with copious thin sputum, it is best taken under practitioner guidance, ideally at moderate doses and for a limited duration. Monitor the infant for any signs of restlessness or digestive changes.
+
+### Children
+This formula can be used in children for cold-type cough with thin white sputum, but dosage must be carefully adjusted by age and body weight. A general guideline: children under 5 years may use approximately one-quarter to one-third of the standard adult dose; children aged 5 to 12 may use one-third to one-half. Xi Xin (Asarum) in particular should be used at reduced doses in pediatric patients due to its potent and penetrating nature. Clinical case reports document successful use of this formula (with modification, typically adding Ban Xia) in children as young as 10 years for cold-phlegm cough. Always use under practitioner supervision.
+
+### Drug Interactions
+Gan Cao (Licorice Root): Glycyrrhizin in Gan Cao can cause pseudoaldosteronism (sodium retention, potassium loss, elevated blood pressure). It may interact with antihypertensive medications (reducing their efficacy), diuretics (especially thiazides and loop diuretics, worsening potassium depletion), cardiac glycosides such as digoxin (hypokalemia increases digoxin toxicity), and corticosteroids (additive mineralocorticoid effects).
+Xi Xin (Asarum): Contains aristolochic acid-like compounds in some species/preparations. Regulatory restrictions apply in multiple countries. It may pose a risk of nephrotoxicity with prolonged use. Caution is warranted with any nephrotoxic drugs. Patients on warfarin or other anticoagulants should be monitored, as some volatile compounds in Xi Xin may have mild antiplatelet activity.
+General considerations: The warming nature of this formula may theoretically enhance the absorption or bioavailability of certain co-administered drugs. Patients taking medications for diabetes should be monitored, as Gan Cao may affect blood sugar levels.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Warm, 30 minutes after meals, taken three times daily (traditionally described as one-third of the decoction per dose, three times per day).
+- **Typical Duration**: Acute cold-phlegm cough: 5 to 10 days. Chronic conditions (such as chronic bronchitis): may be used for 2 to 4 weeks with periodic reassessment by a practitioner.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods (such as salads, cold drinks, ice cream, raw fruit in excess) as these counteract the formula's warming action and may worsen Fluid accumulation. Also avoid greasy, rich, and dairy-heavy foods, which generate Dampness and Phlegm. Reduce intake of sweet, sticky foods (cakes, candies) that burden the Spleen. Favor warm, cooked meals, lightly seasoned foods, and warm beverages. Ginger tea, congee with a small amount of dried ginger, and well-cooked root vegetables are supportive. Avoid alcohol, which can generate Dampness-Heat and interfere with the formula's actions.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/ling-gan-wu-wei-jiang-xin-tang](https://www.meandqi.com/knowledge-base/formulas/ling-gan-wu-wei-jiang-xin-tang)*

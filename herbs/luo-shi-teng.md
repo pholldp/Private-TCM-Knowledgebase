@@ -1,0 +1,173 @@
+# Luo Shi Teng (络石藤)
+**English Name**: Chinese Star Jasmine Stem  
+**Category**: Wind-Damp dispelling herbs (祛风湿药), Wind-Damp dispelling herbs that strengthen sinews and bones (祛风湿强筋骨药)  
+**Scientific Name**: Trachelospermum jasminoides (Lindl.) Lem.  
+**Pharmaceutical Name**: Caulis Trachelospermi  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Heart, Liver, Kidneys  
+**Parts Used**: Stem (茎 jīng)  
+
+---
+
+## Summary
+Luo Shi Teng (star jasmine vine) is a climbing vine herb used in Chinese medicine primarily for joint pain, stiffness, and swelling, especially when these are accompanied by warmth or redness. It works by opening the body's network vessels, easing tight muscles and tendons, and cooling inflammatory heat. It is also traditionally used for sore throat and skin abscesses.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Joint and Muscle Health, Arthritis Support, Throat Health, Injury and Trauma Recovery
+- **TCM Actions**: Dispels Wind-Dampness and Unblocks the Collaterals, Cools the Blood and reduces swelling, Relaxes the Sinews and Alleviates Pain, Clears Heat and Resolves Toxicity, Stops Bleeding
+
+### How these actions work
+'Dispels Wind and unblocks the collaterals' means Luo Shi Teng drives out Wind-Damp pathogens that have lodged in the channels and joints, restoring free flow through the body's network vessels (collaterals). As a vine-type herb, it naturally 'reaches into the network vessels' (a classical principle that vine-form plants excel at entering the fine collateral pathways). This makes it especially suited for joint pain, stiffness, and difficulty bending or stretching the limbs caused by Wind-Damp obstruction, particularly when there are signs of Heat.
+'Cools the Blood and reduces swelling' means Luo Shi Teng's slightly cold nature and bitter taste allow it to clear Heat from the Blood level, calm inflammation, and reduce swollen, painful tissues. This action is used for sore throat (what TCM calls 'throat blockage'), abscesses, boils, and other hot, swollen conditions. The Shen Nong Ben Cao Jing (Divine Farmer's Materia Medica) originally recorded it for treating 'Wind-Heat causing dead muscle and abscess-injuries, dry mouth, parched tongue, and throat swelling.'
+'Relaxes the sinews and relieves pain' refers to its ability to ease cramped, contracted muscles and tendons. Classical commentators noted that its specialized strength lies in 'relaxing the sinews and activating the collaterals,' making it valuable when people have difficulty extending or flexing their limbs due to stiffness or spasm. 'Stops bleeding' is a secondary action. The dried herb can be powdered and applied externally to wounds to help control bleeding from traumatic injuries.
+
+---
+
+## Patterns Addressed
+### Wind-Damp
+- **Explanation**: In Wind-Damp-Heat Bi syndrome, Wind and Damp pathogens have combined with Heat to obstruct the channels and joints, causing painful, swollen, red, and warm joints. Luo Shi Teng is ideally suited here because its bitter taste dries Dampness, its slightly cold nature clears Heat, and its vine-form nature gives it strong affinity for the collateral vessels. It enters the Heart, Liver, and Kidney channels, directly reaching the Liver (which governs the sinews) and Kidney (which governs the bones), the two organ systems most affected in Bi syndrome. Unlike warming Wind-Damp herbs, Luo Shi Teng does not add Heat to an already hot condition.
+- **Clinical Signs & Symptoms**:
+
+### Toxic-Heat
+- **Explanation**: When Heat toxins accumulate and cause tissue swelling, Luo Shi Teng's bitter and cold properties allow it to cool the Blood, clear Heat toxins, and reduce swelling. It enters the Heart channel (the Heart governs the Blood), giving it direct access to cool and detoxify the Blood level. This action was recognized as early as the Shen Nong Ben Cao Jing, which recorded its use for abscesses, throat swelling so severe that fluids cannot be swallowed, and dry mouth with parched tongue from blazing Heat.
+- **Clinical Signs & Symptoms**:
+
+### Blood Stagnation
+- **Explanation**: Luo Shi Teng's ability to unblock the collateral vessels extends to moving stagnant Blood. Its bitter taste has a descending, dispersing quality that helps break through Blood stasis in the channels. Classical texts such as the Tang Ben Cao (Tang Dynasty Materia Medica) recorded its effectiveness for post-birth Blood stagnation and traumatic injuries. By opening the network vessels and cooling Blood Heat, it addresses both the obstruction (stasis) and the inflammation that often accompanies trauma.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Rheumatoid Arthritis
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: TCM understands rheumatoid arthritis as a form of Bi syndrome ('blockage syndrome') where external pathogenic factors, mainly Wind, Damp, and Heat, invade and obstruct the channels and joints. The Liver governs the sinews and the Kidney governs the bones, so both organ systems are central to this condition. When Heat predominates, joints become red, swollen, warm, and acutely painful, with restricted movement. Over time, the pathogenic factors can damage the underlying Qi and Blood circulation in the collateral vessels, creating a self-perpetuating cycle of obstruction and inflammation.
+- **Why it Helps**: Luo Shi Teng directly addresses the Heat-type Bi mechanism through several complementary actions. Its slightly cold, bitter nature clears the Heat component that drives the redness and swelling. Its vine form gives it exceptional ability to penetrate the fine collateral vessels where obstruction occurs, a quality classical physicians described by saying it 'traverses the channels and reaches the joints.' By entering the Liver and Kidney channels, it reaches the sinews and bones where the pathology resides. Modern pharmacological research supports these traditional uses, showing that extracts of the plant inhibit inflammatory mediators including nitric oxide, TNF-alpha, and IL-6, and also inhibit osteoclast differentiation, which may help protect against joint destruction.
+
+### Gout
+- **Arises from**: Wind-Damp
+- **TCM Interpretation**: Gout flares are understood in TCM as an acute accumulation of Damp-Heat in the joints and channels, often affecting the feet and lower limbs. The Damp component creates heaviness and swelling, while the Heat component produces the intense redness, burning pain, and inability to bear touch. Underlying constitutional factors such as Spleen deficiency (leading to poor fluid metabolism and Damp accumulation) and overconsumption of rich foods and alcohol (generating Damp-Heat) are considered the root causes.
+- **Why it Helps**: Luo Shi Teng's bitter, slightly cold properties make it well suited to clear the Damp-Heat that drives gout flares. Its channel-opening action helps resolve the obstruction in the affected joints. Notably, modern pharmacological research has shown that flavonoid compounds in Luo Shi Teng significantly inhibit xanthine oxidase, the enzyme responsible for uric acid production, providing a direct anti-gout mechanism that aligns with its traditional use for hot, swollen joint pain.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 6-15g
+- **Maximum Dosage**: Up to 30g when used as a single herb for acute conditions, under practitioner supervision
+- **Dosage Notes**: Use the lower range (6-9g) for general Wind-Damp Bi pain and channel-freeing purposes. The middle range (9-15g) is appropriate for more pronounced joint pain, sinew contraction, or throat swelling. For acute or severe conditions, single-herb use up to 30g has been documented. When used as a wine infusion (药酒) for chronic joint conditions, 30-60g can be steeped in alcohol. External use has no fixed dosage limit: fresh herb can be crushed and applied as a poultice, or dried herb ground to powder for wound dressing.
+- **Preparation**: No special decoction handling is required. Luo Shi Teng is simply washed, cut into segments, and decocted normally with other herbs. For wine preparations, the cut herb can be steeped directly in alcohol (30-60g per batch). Classically, the Lei Gong Pao Zhi Lun recommended wiping off the fine hairs from the leaves and stems with coarse cloth, then soaking in prepared licorice water overnight before cutting and sun-drying, though this elaborate processing is not commonly performed today.
+
+---
+
+## Processing Methods
+### Ji&#x1D4; Lu&#xF2; Sh&#xED; T&#xE9;ng (&#x9152;&#x7EDC;&#x77F3;&#x85E4;)
+- **Processing Method**: The dried herb segments are stir-fried with rice wine (huangjiu) until the wine is fully absorbed and the pieces are dry.
+- **How it Changes Properties**: Wine processing enhances the herb's ability to penetrate the channels and collaterals, increasing its Wind-Damp dispelling and pain-relieving actions. The warming nature of wine slightly moderates the herb's cold nature and strengthens its Blood-moving capacity, making it more effective at reaching deep into joints and sinews.
+- **When to Use**: Preferred when the primary goal is treating stubborn joint pain and sinew stiffness from Wind-Damp obstruction, especially in cases without prominent Heat signs, where deeper channel penetration is needed.
+
+---
+
+## Common Herb Pairs
+### Hai Feng Teng (Ratio: 1:1 (e.g. Hai Feng Teng 10g : Luo Shi Teng 10g))
+- **Description**: Hai Feng Teng (Piper kadsura vine) is slightly warm and excels at dispelling Wind-Cold-Damp from the channels, while Luo Shi Teng is slightly cold and clears Wind-Damp-Heat. Together they form a balanced pair that covers both cold and hot types of Bi syndrome, with one warm and one cool, mutually checking each other's biases while jointly strengthening the overall Wind-Damp dispelling and collateral-opening effects.
+- **When to Use**: Wind-Damp Bi syndrome with mixed cold and heat signs, joint pain with stiffness and difficulty bending, or when the Bi pattern has not clearly differentiated into pure cold or pure heat type. Also used for post-stroke limb stiffness and numbness, and diabetic peripheral neuropathy.
+
+### Ren Dong Teng (Ratio: 1:1.5 (e.g. Luo Shi Teng 10g : Ren Dong Teng 15g))
+- **Description**: Ren Dong Teng (honeysuckle vine, Caulis Lonicerae) clears Heat, resolves toxins, and unblocks the collaterals, while Luo Shi Teng dispels Wind-Damp and cools Blood. Together they powerfully clear Damp-Heat and toxins from the network vessels, making them stronger at resolving hot, swollen, painful joints or skin conditions than either herb alone.
+- **When to Use**: Wind-Damp-Heat Bi with prominent Heat and toxin signs such as red swollen joints, skin infections, or allergic purpura. Also used for Damp-Heat lodged in the Kidney channels (as in certain nephritis patterns).
+
+### Wei Ling Xian (Ratio: 1:1 (e.g. Wei Ling Xian 10g : Luo Shi Teng 10g))
+- **Description**: Wei Ling Xian (Clematis root) is warm, acrid, and salty, powerfully dispelling Wind-Damp and unblocking the channels with a more forceful, penetrating quality. Combined with Luo Shi Teng's cooling, collateral-opening action, the pair covers a broad spectrum of Bi syndromes with strong pain relief and improved joint mobility.
+- **When to Use**: Stubborn Wind-Damp Bi syndrome with marked joint pain and stiffness, particularly when neither purely hot nor cold, or when the condition has lingered and requires strong channel penetration.
+
+### Ru Xiang (Ratio: 3:1 (e.g. Luo Shi Teng 30g : Ru Xiang 9g, following classical proportions))
+- **Description**: Ru Xiang (frankincense) invigorates Blood, moves Qi, and relieves pain, while Luo Shi Teng opens the collaterals and cools Blood. Together they combine Blood-moving and collateral-opening actions to powerfully reduce swelling and pain in abscesses and traumatic injuries.
+- **When to Use**: Abscesses and boils with toxic swelling and pain (as in the classical formula Zhi Tong Ling Bao San from the Wai Ke Jing Yao), or traumatic injuries with blood stasis and swelling.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Luo Shi Teng is classified as non-toxic in both classical and modern pharmacopoeia sources. The Ming Yi Bie Lu explicitly states it is 'slightly cold, non-toxic' (微寒，无毒). No significant toxic components have been identified. The plant belongs to the Apocynaceae family and does exude a white latex when cut, but at standard medicinal dosages, no toxic effects are expected. Normal processing (washing, cutting, and drying) is sufficient for safe use.
+
+### Contraindications
+- **[Caution]** People with a cold constitution who are prone to feeling chilly and have loose stools (what classical texts call 'yin-type constitutions with cold sensitivity and easy diarrhea') should avoid this herb, as its slightly cold nature can worsen these symptoms.
+- **[Caution]** Those with Spleen and Stomach deficiency-cold patterns should use with caution, as Luo Shi Teng's bitter, cold qualities can further weaken digestive function.
+- **[Caution]** Wind-damp Bi syndrome of the cold type (pain worsened by cold, relieved by warmth) is not well suited to this herb, which is best for heat-type Bi patterns.
+- **[Caution]** Pregnancy: Luo Shi Teng has blood-moving and channel-opening properties. It should be used with caution during pregnancy.
+
+### Classical Incompatibilities
+Luo Shi Teng does not appear on the classical Eighteen Incompatibilities (十八反) or Nineteen Mutual Fears (十九畏) lists. However, the Ben Cao Jing Ji Zhu (《本草经集注》) records that it 'fears' (畏) Chang Pu (菖蒲, Acorus) and Bei Mu (贝母, Fritillaria), and 'dislikes' (恶) iron filings (铁落). Du Zhong (杜仲) and Mu Dan (牡丹) are noted as its classical 'envoy' herbs (使). These are not part of the standard 18/19 lists but are traditional individual-herb cautions that some practitioners may choose to observe.
+
+### Special Populations
+- **Pregnancy**: Use with caution during pregnancy. Luo Shi Teng has blood-moving and channel-opening (通络) properties, and classical sources such as the Tang Ben Cao note that it can treat 'postpartum blood stagnation,' indicating it actively moves Blood. These qualities raise a theoretical concern for uterine stimulation. While it is not classified as absolutely contraindicated in pregnancy, it should only be used during pregnancy under careful practitioner supervision and when clearly indicated.
+- **Breastfeeding**: No specific classical or modern contraindications for breastfeeding have been documented. However, as a member of the Apocynaceae family and an herb with blood-moving properties, conservative use at standard doses is advisable. Insufficient data exists to confirm full safety during lactation. Consult a qualified practitioner before use while breastfeeding.
+- **Children**: No specific pediatric dosage guidelines are established in classical or modern Materia Medica texts for this herb. For children, dosages are generally reduced proportionally based on age and body weight (typically one-third to one-half of the adult dose for older children). It is a relatively mild herb but its slightly cold nature means it should be used judiciously in young children with weak digestion. Practitioner guidance is recommended for pediatric use.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Luo Shi Teng in modern clinical literature. However, based on its known pharmacological properties, the following theoretical considerations apply:
+- Anticoagulant and antiplatelet medications: The herb has traditional blood-moving (活血) properties and modern research shows it contains flavonoids that may inhibit COX enzymes. Concurrent use with warfarin, aspirin, or other blood thinners could theoretically increase bleeding risk.
+- Anti-inflammatory drugs (NSAIDs): Since the herb demonstrates COX-1 and COX-2 inhibitory activity in laboratory studies, there could be additive effects if combined with pharmaceutical anti-inflammatory drugs.
+These interactions remain theoretical. No clinical case reports of adverse herb-drug interactions have been published for this herb.
+
+### Dietary Advice
+When taking Luo Shi Teng for Wind-Damp Bi patterns with Heat signs, it is helpful to avoid excessively spicy, greasy, and heating foods (such as lamb, deep-fried foods, and strong alcohol) that can aggravate internal Heat. Cold and raw foods should also be moderated if digestion is weak, since the herb itself is slightly cold in nature. Light, easily digestible foods are preferable during treatment.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Trachelospermum jasminoides (Lindl.) Lem. is an evergreen woody climbing vine in the Apocynaceae (dogbane) family, native to eastern and southeastern Asia including China, Japan, Korea, and Vietnam. The vine grows by twining around supports and can reach 3 to 6 meters or more. When cut, the stems exude a characteristic white milky latex typical of the Apocynaceae family.
+The leaves are opposite, oval to lanceolate, 2 to 10 cm long, with a leathery texture and glossy dark green upper surface that may turn bronze in cool weather. From late spring to summer, the plant produces clusters of small, pinwheel-shaped, highly fragrant white flowers. It grows naturally at forest edges and in brushwood at elevations of 200 to 1,300 meters, and commonly climbs on rocks, walls, and trees in wild and garden settings.
+The medicinal part is the dried stem with attached leaves (Caulis Trachelospermi), harvested from winter through the following spring.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Winter through the following spring (冬季至次春)
+- **Primary Growing Regions**: Luo Shi Teng is widely distributed across central and eastern China. The principal producing regions include Jiangsu (especially Xuzhou, Nanjing, and Zhenjiang), Anhui (Wuhu area), Hubei (Xiaogan area), and Shandong (Qingdao area). It is also produced in Guangdong and Guangxi provinces. The herb does not have a single prominent 'daodi' (terroir) region in the way that some other herbs do, but material from Jiangsu and Hubei has traditionally been considered representative of good commercial quality.
+- **Quality Indicators**: Good quality Luo Shi Teng has stems that are reddish-brown on the surface with visible dot-like lenticels (small raised pores). The stem cross-section should be pale yellowish-white, often with a hollow center. Leaves should still be attached, leathery in texture, with a dark green or brownish-green upper surface and a paler underside. The taste should be slightly bitter and the aroma mild. Avoid material that has lost most of its leaves, shows signs of mold, or is excessively woody and brittle with no remaining green color in the leaves.
+
+### Identity & Adulterants
+Luo Shi Teng is sometimes confused with or substituted by the sterile young branches of Ficus pumila (薜荔, Bi Li), a plant from the Moraceae (mulberry) family. Key differences: the genuine article (Trachelospermum) has opposite leaves, a slightly bitter taste, and the stem pith is centrally located; the Ficus substitute has alternate leaves, a bland taste, and the pith is off-center in the stem cross-section. In some regions, Luo Shi Teng is also used interchangeably with 'Shi Nan Teng' (石南藤, Piper wallichii), which is from a completely different plant family (Piperaceae) and has different properties. Always verify that the leaves are opposite and leathery, and that the stem exudes a milky latex when broken fresh, to confirm the authentic Apocynaceae species.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Luo Shi Teng has a long history in Chinese medicine, first recorded in the Shen Nong Ben Cao Jing, where it was classified among the upper-grade herbs. Its name literally means 'vine that clings to stone' (络 = network/cling, 石 = stone, 藤 = vine), reflecting the plant's habit of climbing and wrapping around rocks and walls. A folk story recounts a traveling scholar whose rheumatic leg pain was cured by a decoction of this vine, which he found growing on rocks at a roadside inn. He named it 'Luo Shi Teng' and popularized its use for joint pain upon returning home.
+The classification of this herb's thermal nature evolved over centuries. The Shen Nong Ben Cao Jing originally described it as 'bitter and warm,' likely because of its ability to move through the channels and invigorate Blood. However, the Ming Yi Bie Lu corrected this to 'slightly cold,' and the scholar Li Dangzhi (cited in the Tai Ping Yu Lan) even called it 'greatly cold.' The Qing dynasty scholar Zhang Shanlei, in his Ben Cao Zheng Yi, resolved this debate by noting that all of the Ben Jing's indications are clearly heat conditions, confirming the cold nature. He praised the herb as one that 'excels at traversing the channels and reaching the limbs and joints.'
+Li Shizhen in the Ben Cao Gang Mu lamented that despite its effectiveness, doctors rarely used Luo Shi Teng, perhaps because it was too common and inexpensive to attract attention. He recommended taking it as a wine infusion for best results.
+
+### Modern Scientific Research
+1. **[Analgesic and anti-inflammatory activities of a water extract of Trachelospermum jasminoides (Apocynaceae) (In vivo animal study, 2009)](https://pubmed.ncbi.nlm.nih.gov/19703538/)**
+   *Journal: Sheu MJ, Chou PY, Cheng HC, Wu CH, Huang GJ, Wang BS, Chen JS, Chien YC, Huang MH. Journal of Ethnopharmacology, 2009, Vol. 126, No. 2, pp. 332-338.*
+   This study investigated the pain-relieving and anti-inflammatory effects of a water extract of T. jasminoides in mice. The extract significantly reduced paw swelling in a carrageenan-induced inflammation model and decreased pain responses. The mechanism appeared to involve suppression of TNF-alpha and nitric oxide, and enhanced antioxidant enzyme activity in the liver.
+
+2. **[Anti-inflammatory Constituents from Caulis Trachelospermi (In vitro study, 2022)]()**
+   *Journal: Song H, Tan J, Ma R, Kennelly EJ, Tan Q. Planta Medica, 2022, Vol. 88, No. 9-10, pp. 721-728.*
+   Researchers isolated 23 compounds from T. jasminoides, including three newly identified ones. Several compounds significantly inhibited nitric oxide production in activated macrophages in a dose-dependent manner, and one compound strongly suppressed TNF-alpha and IL-6, key inflammatory signaling molecules. These findings help explain the herb's traditional use for inflammatory conditions.
+
+3. **[Network Pharmacology to Identify the Pharmacological Mechanisms of Trachelospermum jasminoides in Rheumatoid Arthritis (Computational study, 2020)](https://pubmed.ncbi.nlm.nih.gov/32840241/)**
+   *Journal: Medical Science Monitor, 2020, Vol. 26, e922639.*
+   Using network pharmacology methods, researchers identified 17 bioactive compounds in T. jasminoides and predicted their therapeutic targets for rheumatoid arthritis. Key active flavonoids included chrysoeriol, kaempferol, apigenin, and luteolin. The herb was found to potentially work through interleukin-17 and TNF signaling pathways, and may also have anti-anxiety and estrogen-like effects.
+
+4. **[Phytochemistry, Pharmacology and Traditional Uses of Plants from the Genus Trachelospermum L. (Review, 2017)]()**
+   *Journal: Molecules, 2017, Vol. 22, No. 9, 1406.*
+   This comprehensive review catalogued 138 chemical constituents isolated from Trachelospermum species, with lignans, triterpenoids, and flavonoids as the major bioactive groups. The review confirmed that the genus demonstrates anti-inflammatory, analgesic, antitumor, antiviral, and antibacterial activities in laboratory studies, supporting its traditional medicinal uses.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/luo-shi-teng](https://www.meandqi.com/knowledge-base/herbs/luo-shi-teng)*

@@ -1,0 +1,258 @@
+# Congenital Adrenal Hyperplasia (先天性肾上腺皮质增生症)
+**Pinyin**: xiān tiān xìng shèn shàng xiàn pí zhì zēng shēng zhèng | **Kind**: Condition | **Category**: Endocrine & Metabolic Conditions  
+**Synonyms**: Adrenal Cortex Hyperpalsia, Adrenal Cortex Hyperplasia, Congenital Adrenogenitalism, Congenital Hyperadrenocorticism, Enlarged Adrenal Cortex, Hyperactive Adrenal Glands, Overgrowth Of The Adrenal Cortex, CAH | **Body Regions**: 
+
+---
+
+## Preview Summary
+The same CAH diagnosis can mean very different things in TCM: a salt-wasting child with cold limbs needs warming Kidney Yang, while a virilizing teen with acne and irritability nee...
+
+---
+
+## Conventional Medicine View
+### Description
+Congenital Adrenal Hyperplasia is a group of inherited conditions where the adrenal glands don't produce enough cortisol and, in many cases, aldosterone. To compensate, the glands overproduce androgens (male hormones), which can cause early or atypical virilization. The classic form appears in infancy with salt-wasting crises - vomiting, dehydration, and low blood pressure - while non-classic forms may show up later with early puberty, acne, or fertility issues. Diagnosis is confirmed through newborn screening, hormone testing, and genetic analysis.
+
+### Treatments
+Lifelong glucocorticoid replacement (usually hydrocortisone) replaces the missing cortisol and suppresses excess androgen production. For salt-wasting forms, mineralocorticoid replacement (fludrocortisone) and salt supplementation are essential. Doses are carefully adjusted to balance growth, bone age, and androgen levels. Surgery may be considered for genital reconstruction in affected females, and psychological support is often part of comprehensive care.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, Congenital Adrenal Hyperplasia is understood as a deep, inborn weakness of the Kidney system. The Kidneys store our constitutional Essence (Jīng), the blueprint for growth, development, and hormonal balance. When this Essence is deficient from birth, the body's Yin-Yang equilibrium is fragile. If Kidney Yang is too weak, the warming, transformative fire fails - leading to salt-wasting, cold limbs, and profound fatigue. If Kidney Yin is insufficient, empty heat rises, causing night sweats, early puberty, and a red, dry tongue.
+But the Kidneys don't work in isolation. A weak Kidney Yang often fails to warm the Spleen, so digestion and fluid metabolism become sluggish - this is the Phlegm-Dampness pattern, with bloating, heaviness, and a greasy tongue coating. Meanwhile, the excess androgens that CAH produces act like a surge of stuck Liver Qi that transforms into Heat. This Liver Heat pattern drives acne, irritability, and rapid virilization, with a wiry, rapid pulse and red tongue edges.
+Finally, the chronic strain of the condition can exhaust Qi and Blood, leaving a child pale, dizzy, and too tired to play. This is the Qi and Blood Deficiency pattern, often overlapping with other patterns. So one Western diagnosis can have five very different TCM faces - and recognizing which one is dominant is the first step toward treatment that actually fits.
+
+### Practitioner Diagnosis
+A TCM practitioner approaches congenital adrenal hyperplasia (CAH) by looking at the whole person, not just the hormone levels. The key is to identify which pattern of imbalance is driving the symptoms, because the same condition can show very different faces depending on whether the root is a yang deficiency, a heat excess, or a dampness obstruction. The tongue, pulse, and a careful history guide the differentiation.
+If the main picture is salt-wasting, with severe fatigue, dehydration, poor appetite, and a sallow complexion, a Kidney and Spleen Yang Deficiency (肾阳虚, shèn yáng xū) pattern is likely. The tongue is pale and may be swollen with a white coating, and the pulse feels deep, weak, and slow. This pattern reflects the body’s inability to hold onto fluids and generate warmth and energy.
+When early virilization, acne, facial or body hair, and irritability dominate, the diagnosis shifts toward Liver Qi Stagnation that transforms into Heat (肝气郁结化火, gān qì yù jié huà huǒ). The tongue appears red with a yellow coating, and the pulse is wiry and rapid. Here, the Liver’s smooth flow is blocked, generating fire that flares upward and accelerates masculine characteristics.
+If a child shows signs of precocious puberty, night sweats, a dry mouth, and a red tongue with little or no coating, the pattern is Kidney Yin Deficiency With Empty-Heat Blazing (肾阴虚火旺, shèn yīn xū huǒ wàng). The pulse is thin and rapid. This reflects a deep cooling and nourishing deficit, where the lack of yin allows a low-grade heat to simmer and push development too fast.
+For those with edema, a feeling of chest stuffiness, abdominal bloating, and a greasy tongue coating, Phlegm-Dampness in the Middle-Burner (中焦痰湿, zhōng jiāo tán shī) is the likely culprit. The pulse feels slippery. This pattern arises when the digestive system fails to transform fluids, leading to a sluggish, heavy accumulation that disrupts water-salt balance.
+In longer-standing cases where persistent fatigue, a dull-pale face, and generalized weakness are the main complaints, Qi and Blood Deficiency (气血两虚, qì xuè liǎng xū) is often present. The tongue is pale and thin, and the pulse is weak. Sometimes damp-heat lingers on top of this deficiency, adding a low-grade inflammatory note to the exhaustion.
+
+### Classical Reference
+> **Original**: 「先天之精，禀受于父母，精不足则肾气不固，五脏失养，变生诸症。」
+> 
+> **Translation**: "The congenital essence is inherited from the parents. When essence is insufficient, Kidney Qi is not secured, the five viscera lose nourishment, and various disorders arise."
+> 
+> — Source: *Jing Yue Quan Shu (Complete Works of Zhang Jing Yue)  ,  Chapter on Congenital Insufficiency 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Kidney and Spleen Yang Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/kidney-and-spleen-yang-deficiency)*
+
+- **Clinical Signs & Symptoms**: Cold hands and feet, especially below the knees, Profound tiredness and lack of energy, Poor appetite with abdominal bloating, Chronic loose stools or undigested food, Frequent urination with clear, pale urine, Salt-wasting episodes (dehydration, low sodium)
+- **Worse with**: Exposure to cold weather, Cold or raw foods, Overwork and lack of sleep, Damp environment, Emotional stress
+- **Better with**: Warmth, Rest and adequate sleep, Warm, nourishing foods (soups, stews, congee), Moxibustion on lower back, Gentle exercise or movement
+- **Why this happens (Mechanism)**:
+  In congenital adrenal hyperplasia, a deep-rooted lack of Kidney Yang means the body's fundamental warming fire is weak from birth. This fire fails to warm the Spleen, so digestion and fluid metabolism become sluggish, causing poor appetite, fatigue, and loose stools. Without adequate Yang, the body cannot hold onto water and salt, leading to the characteristic salt-wasting crises with dehydration and low blood pressure. The internal cold shows as cold limbs, a pale tongue, and a slow, weak pulse.
+- **Tongue & Pulse**: Tongue: pale, swollen and puffy with teeth marks, and a white slippery coating. Pulse: deep, weak, and slow, especially feeble at the rear (Kidney) and right middle (Spleen) positions.
+- **Triggers & Relief Explanation**: In Kidney and Spleen Yang Deficiency, the body's warming fire is already weak. Cold and dampness further extinguish this fire, worsening salt-wasting and fatigue. Warmth, rest, and warming foods directly supplement Yang, helping the body retain water and salt and restore energy.
+- **Diet & Lifestyle**: Eat warm, cooked foods like soups, stews, and congees. Avoid cold, raw, and iced foods which further chill the digestive fire. Keep the body warm, especially the lower back and abdomen, and use gentle heat like a hot water bottle. Gentle daily movement like walking or tai chi supports circulation without depleting energy. Prioritize rest and avoid overexertion.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Jin Gui Shen Qi Wan](https://www.meandqi.com/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1)** | Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire | Warms and tonifies Kidney Yang to reignite the body&#x27;s fundamental fire, thereby strengthening Spleen Yang and improving fluid metabolism. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root |  | Powerfully warms Kidney Yang and dispels internal cold, addressing the root deficiency. |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Ignites the Mingmen fire and warms the Spleen, helping the body retain fluids and salt. |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Tonifies Spleen Qi to improve appetite, energy, and digestion. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Tonifies Kidney Yang and strengthens the low back; use with moxibustion. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Directly warms the life gate fire to dispel deep cold. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Source point of the Kidney channel, reinforces Kidney Yang. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens the Spleen and Stomach to boost Qi and blood production. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Warms the lower burner, consolidates Qi, and helps retain fluids. |
+
+---
+
+### Liver Qi Stagnation that transforms into Heat
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/liver-qi-stagnation-that-transforms-into-heat)*
+
+- **Clinical Signs & Symptoms**: Explosive anger and irritability, Bitter taste in the mouth, Distending or burning pain along the ribs, Red face and eyes, Acne and increased body hair (hirsutism), Early development of pubic hair or genital enlargement, Restlessness and disturbed sleep
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol and coffee, Emotional stress, Overwork and lack of sleep, Hot environment
+- **Better with**: Cooling foods and herbal teas, Stress reduction and emotional release, Gentle exercise or movement, Acupuncture and acupressure
+- **Why this happens (Mechanism)**:
+  In congenital adrenal hyperplasia, the body produces an excess of androgens (male hormones). From a TCM perspective, this hormonal imbalance acts like a surge of Yang energy that obstructs the Liver’s job of keeping Qi flowing smoothly. The stuck Qi creates stagnation, which then generates internal Heat. That Heat flares upward and outward, driving the early virilization, acne, hirsutism, and intense irritability seen in this pattern.
+- **Tongue & Pulse**: Tongue: red body with noticeably redder sides, and a yellow coating. Pulse: wiry and rapid (xian shu), especially at the left middle position.
+- **Triggers & Relief Explanation**: This pattern is driven by stuck Qi that generates heat. Emotional stress and dietary heat (spicy, greasy foods, alcohol) directly aggravate Liver stagnation and fan the flames, worsening irritability and skin signs. Cooling foods, stress reduction, and gentle movement help unblock Qi and clear heat at its root, calming the system and reducing androgen-driven symptoms.
+- **Diet & Lifestyle**: Favor cooling, lightly cooked foods like leafy greens, cucumber, and mung beans. Sip chrysanthemum or peppermint tea to gently clear heat. Avoid spicy, fried, or greasy foods and alcohol, which add fuel to the fire. Regular, moderate exercise like walking or swimming helps keep Qi moving. Prioritize calming activities-journaling, deep breathing, or gentle yoga-to release emotional tension before it builds into anger.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Jia Wei Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/jia-wei-xiao-yao-san)** | Augmented Free and Easy Wanderer Powder &#xB7; M&#xED;ng dynasty, 1529 CE | Slightly Cool, Courses the Liver and Resolves Constraint, Clears Heat from the Liver and Blood, Nourishes Blood | The classic formula for Liver Qi stagnation with heat; it soothes the Liver, clears constrained heat, and supports the Spleen. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | The chief herb to spread Liver Qi and release stagnation. |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit |  | Clears heat from the Liver and San Jiao, cooling irritability. |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark |  | Cools the blood and clears heat, especially helpful for acne and skin signs. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The primary point to soothe the Liver, move Qi, and subdue rising Yang and heat. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | The Fire point of the Liver channel; drains excess Liver heat powerfully. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Moves Qi strongly throughout the body and helps clear heat from the head and face. |
+
+---
+
+### Kidney Yin Deficiency With Empty-Heat Blazing
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/kidney-yin-deficiency-with-empty-heat-blazing)*
+
+- **Clinical Signs & Symptoms**: Night sweats, Five-palm heat (heat in palms, soles, and chest), Malar flush (red cheekbones), Dry throat, especially at night, Scanty, dark urine, Irritability and mental restlessness, Lower back soreness and weakness
+- **Worse with**: Spicy, greasy, or fried foods, Overwork and lack of sleep, Hot environment, Emotional stress
+- **Better with**: Cool, quiet rooms, Early, consistent bedtimes, Moistening foods (pears, congee), Gentle, unhurried routines
+- **Why this happens (Mechanism)**:
+  Congenital Adrenal Hyperplasia begins with an inborn weakness of Kidney essence. When the Kidney's Yin is insufficient, it cannot anchor the body's Yang, allowing empty heat to rise. This internal heat accelerates development and dries fluids, leading to early pubertal changes, night sweats, and a constant feeling of warmth in the palms, soles, and chest.
+- **Tongue & Pulse**: Tongue: red, thin, and dry with little or no coating; cracks may be present. Pulse: fine (Xi) and rapid (Shu), especially weak at the rear (Chi) positions.
+- **Triggers & Relief Explanation**: In this pattern, Yin is already depleted, so anything that generates heat or consumes fluids - spicy foods, late nights, stress - fans the empty fire. Cooling, moistening foods and restful habits help preserve the remaining Yin and keep the empty heat from flaring, easing night sweats, restlessness, and accelerated development.
+- **Diet & Lifestyle**: Offer cooling, moistening foods like pear, black sesame, and goji berries. Avoid spicy, fried, or drying foods that consume Yin. Prioritize early bedtimes and quiet play to protect the body's cooling reserves.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | The core formula to nourish Kidney Yin and clear empty heat, addressing the root of precocious puberty, night sweats, and restlessness. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Profoundly nourishes Kidney Yin and essence to anchor the Yang. |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark |  | Cools the blood and clears empty heat without injuring Yin. |
+| **[Huang Bo](https://www.meandqi.com/knowledge-base/herbs/huang-bo)** | Phellodendron bark |  | Drains fire from the lower burner, reducing the deep bone-heat sensation. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The source point of the Kidney channel; nourishes Yin and anchors the Yang. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | The back-shu point of the Kidney; strengthens the root and replenishes essence. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Nourishes Kidney Yin, clears empty heat, and calms the mind to ease restlessness. |
+
+---
+
+### Phlegm-Dampness in the Middle-Burner
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/phlegm-dampness-in-the-middle-burner)*
+
+- **Clinical Signs & Symptoms**: Feeling of heaviness and bloating in the upper abdomen, especially after eating, Edema or puffiness in the body, Thick, white, greasy tongue coating, Nausea or queasiness, Heavy sensation in the head or limbs, as if wrapped in cloth, Poor appetite and sticky taste in the mouth
+- **Worse with**: Cold or raw foods, Dairy and greasy foods, Damp environment, Sedentary lifestyle
+- **Better with**: Warm, dry foods, Gentle exercise or movement, Warmth, Light, easily digestible meals
+- **Why this happens (Mechanism)**:
+  In congenital adrenal hyperplasia, the body's water and salt balance is often disrupted, which can overwhelm the Spleen's ability to manage fluids. When the Spleen becomes sluggish, fluids stagnate and congeal into heavy, sticky Dampness and Phlegm. This phlegm-dampness settles in the Middle Burner, obstructing the flow of Qi and creating a sensation of bloating, chest stuffiness, and all-over heaviness.
+- **Tongue & Pulse**: Tongue: pale, swollen with teeth marks, thick white greasy coating, excessively moist. Pulse: slippery (滑 huá), often slow or soggy, especially at the right middle position.
+- **Triggers & Relief Explanation**: Dampness and Phlegm are heavy and sticky, and they congeal further with cold, raw foods and a sedentary lifestyle. Warmth and movement activate the Spleen's transforming function, helping to dry and drain the excess fluids that cause bloating and heaviness.
+- **Diet & Lifestyle**: Avoid cold, raw, and greasy foods that worsen Dampness. Focus on warm, cooked meals with mild spices like ginger and cardamom. Light daily movement like walking helps Qi flow and dries out internal dampness.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/er-chen-tang)** | Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE | Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting | The classic formula to dry Dampness and transform Phlegm in the Middle Burner, relieving bloating, nausea, and that heavy, sluggish feeling. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel |  | Dries Dampness and regulates Qi to ease abdominal distension. |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed |  | Strengthens the Spleen and drains Dampness, helping to reduce edema and heaviness. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Promotes urination and leaches out Dampness, calming the Middle Burner. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Directly harmonizes the Middle Burner and transforms Phlegm. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The master point for clearing Phlegm from the whole body. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Strengthens the Spleen to prevent further Dampness accumulation. |
+
+---
+
+### Qi and Blood Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-and-blood-deficiency)*
+
+- **Clinical Signs & Symptoms**: Persistent fatigue and general weakness, Dull-pale or sallow complexion, Dizziness or lightheadedness, Heart palpitations, Poor appetite, Spontaneous sweating
+- **Worse with**: Overwork and lack of sleep, Skipping meals or irregular eating, Cold or raw foods, Chronic illness or repeated infections
+- **Better with**: Rest and adequate sleep, Warm, nourishing foods (soups, stews, congee), Gentle exercise or movement
+- **Why this happens (Mechanism)**:
+  In congenital adrenal hyperplasia, the body's foundational Qi and Blood are often weak from birth. The Spleen and Kidneys struggle to produce enough Qi and Blood to nourish the whole body, leading to persistent fatigue, poor growth, and a dull-pale complexion. Over time, the chronic strain of the condition further depletes these resources, leaving a person feeling deeply drained and unable to recover with rest alone.
+- **Tongue & Pulse**: Tongue: pale body, may be thin or show teeth marks on the edges, with a thin white coating. Pulse: fine (thin), weak, and empty, especially weak at the right Guan position.
+- **Triggers & Relief Explanation**: Qi and Blood are produced by the Spleen from the food we eat and the rest we get. Overwork, stress, and poor eating habits drain these resources, while warm, cooked meals and sufficient rest provide the raw materials and the time needed to rebuild them. Gentle movement encourages circulation without exhausting the already-low reserves, making it the perfect support for a body that is fundamentally depleted.
+- **Diet & Lifestyle**: Eat warm, cooked, easily digestible foods like congee, bone broth, and soups with goji berries, red dates, and Chinese yam. Avoid cold, raw, or greasy foods that burden the Spleen. Gentle daily movement like walking or tai chi helps Qi flow without depletion. Prioritize rest and a regular sleep schedule.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | Tonifies Spleen Qi and raises clear Yang to combat deep fatigue and poor appetite, while indirectly supporting Blood production. |
+| **[Dang Gui Bu Xue Tang](https://www.meandqi.com/knowledge-base/formulas/dang-gui-bu-xue-tang)** | Tangkuei Decoction to Tonify the Blood &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), 1247 CE | Warm, Tonifies Qi, Nourishes Blood, Secures the Exterior | Directly nourishes Blood and Qi, particularly indicated for a dull-pale complexion, dizziness, and general weakness. |
+| **[Jin Gui Shen Qi Wan](https://www.meandqi.com/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1)** | Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire | A classical formula that gently warms and supports the Kidneys to restore vitality, fluid balance, and lower body warmth. It is used for people with Kidney weakness who experience lower back soreness, cold legs, frequent urination or difficulty urinating, and general fatigue. Unlike strong warming formulas, it uses a small amount of warming herbs alongside a larger base of nourishing ingredients, working gradually to restore the body&#x27;s natural balance. |
+| **[Jia Wei Xiao Yao San](https://www.meandqi.com/knowledge-base/formulas/jia-wei-xiao-yao-san)** | Augmented Free and Easy Wanderer Powder &#xB7; M&#xED;ng dynasty, 1529 CE | Slightly Cool, Courses the Liver and Resolves Constraint, Clears Heat from the Liver and Blood, Nourishes Blood | A widely used classical formula for emotional stress, irritability, and hormonal imbalances. It soothes the Liver, clears internal heat from pent-up frustration, strengthens digestion, and nourishes the Blood. It is especially valued for menstrual irregularities, menopausal symptoms, anxiety, and mood swings that arise from a combination of stress and underlying weakness. |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs. |
+| **[Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/er-chen-tang)** | Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE | Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting | A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Dang Gui Bu Xue Tang](https://www.meandqi.com/knowledge-base/formulas/dang-gui-bu-xue-tang)** | Tangkuei Decoction to Tonify the Blood &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), 1247 CE | Warm, Tonifies Qi, Nourishes Blood, Secures the Exterior | A deceptively simple two-herb formula designed to rebuild blood by first strengthening the body&#x27;s Qi. It is especially useful for fatigue, pallor, and a type of feverish feeling that comes from severe blood and Qi depletion, such as after heavy blood loss, childbirth, or prolonged exhaustion. Despite being named a &#x27;blood-tonifying&#x27; formula, its strategy is to powerfully boost Qi so the body can generate new blood on its own. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Powerfully tonifies Spleen Qi and raises Yang, improving energy and supporting Blood production. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and invigorates circulation, addressing the pale complexion and dizziness. |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Enriches Blood and Yin, helping to fill the vessels and strengthen the pulse. |
+| **[Zhi Fu Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-fu-zi)** | Prepared Aconite Root | Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit | Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice |  |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark | Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Huang Bo](https://www.meandqi.com/knowledge-base/herbs/huang-bo)** | Phellodendron bark | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire |  |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel | Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner |  |
+| **[Yi Yi Ren](https://www.meandqi.com/knowledge-base/herbs/yi-yi-ren)** | Job&#x27;s Tears seed | Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Spleen Qi and Blood, the master point for building vital energy and improving digestion. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Blood and harmonizes the Spleen, Liver, and Kidney, addressing fatigue and dizziness. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Fortifies the Sea of Qi, directly boosting Qi and helping to lift profound exhaustion. |
+
+---
+
+## Frequently Asked Questions
+### Can TCM replace my child's hydrocortisone or fludrocortisone?
+No. TCM is a complementary therapy, never a substitute for life-sustaining hormone replacement. Stopping or reducing steroids without medical supervision can trigger an adrenal crisis. TCM works alongside conventional medication to strengthen the body's resilience, improve energy, and reduce pattern-related symptoms, but it does not replace cortisol or aldosterone. Always inform both your endocrinologist and your TCM practitioner about all treatments.
+
+### Is acupuncture safe for children with CAH?
+Yes, when performed by a qualified pediatric acupuncturist. Needles are very fine and insertion is shallow; for infants and young children, non-insertive techniques like Shonishin (gentle tapping and rubbing tools) are often used instead. The treatment aims to gently regulate the body's Qi without causing distress. Many children find the sessions calming, and parents often report improved sleep and appetite.
+
+### How does TCM help with salt-wasting crises?
+TCM uses warming, Yang-tonifying herbs and moxibustion (heat therapy) on points like Mingmen (DU-4) and Shenshu (BL-23) to support the Kidney's ability to hold onto fluids and minerals. This can improve baseline stability and reduce the frequency of mild salt-wasting episodes. However, any sign of an acute crisis - vomiting, lethargy, dehydration - requires immediate medical attention and stress-dose steroids, not TCM alone.
+
+### Will TCM reduce my child's need for steroids?
+Some patients find that as their constitutional strength improves, their endocrinologist is able to fine-tune the steroid dose downward. This must be monitored with regular blood tests and guided solely by the prescribing doctor. TCM never aims to force a dose reduction - the goal is to support the body so that the lowest effective dose works well. Any adjustments are a medical decision, not a TCM one.
+
+### Can TCM help with early puberty or excess hair growth in CAH?
+Yes. These symptoms often reflect Liver Heat or Kidney Yin Deficiency with Empty-Heat in TCM. Herbal formulas that clear Liver fire (like Jia Wei Xiao Yao San) or nourish Yin and drain heat (like Zhi Bo Di Huang Wan) can help slow down precocious development and reduce acne, facial hair, and irritability. Acupuncture points such as Taichong (LR-3) and Xingjian (LR-2) further cool the Liver channel. Results are gradual and work best when combined with good hormonal control.
+
+### What dietary changes does TCM recommend for CAH?
+In general, TCM advises warm, cooked, easily digestible foods to protect the Spleen and Kidney Yang. Think congee, soups, stews, and lightly steamed vegetables. Avoid cold, raw foods and iced drinks, which can weaken the digestive fire. If your child has a Heat pattern (acne, red tongue), reduce spicy, greasy, and overly heating foods. Salt-wasting children need adequate salt, as prescribed, but not excessive amounts. Your practitioner will give pattern-specific guidance.
+
+### Are the herbs safe with my child's other medications?
+Most TCM herbs for CAH are safe when prescribed by a knowledgeable practitioner, but some interactions exist. For example, licorice root (Gan Cao) can affect cortisol metabolism and blood pressure, so it's used cautiously and under monitoring. Always provide your TCM practitioner with a full list of medications, and inform your endocrinologist about any herbs your child is taking. Never self-prescribe herbal formulas for a condition as complex as CAH.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/congenital-adrenal-hyperplasia](https://www.meandqi.com/knowledge-base/conditions/congenital-adrenal-hyperplasia)*

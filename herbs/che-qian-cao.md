@@ -1,0 +1,182 @@
+# Che Qian Cao (车前草)
+**English Name**: Plantain herb  
+**Category**: Dampness-draining herbs (利水渗湿药), Herbs that clear Heat and resolve Toxicity (清热解毒药)  
+**Scientific Name**: Plantago asiatica L.  
+**Pharmaceutical Name**: Herba Plantaginis  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Liver, Kidneys, Lungs, Small Intestine  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Plantain herb is a cooling, gentle herb best known for supporting urinary health. It helps flush out excess heat and fluid from the body, making it popular for urinary tract discomfort, swelling, and water retention. It also helps clear phlegm from the lungs, cool the blood to stop minor bleeding, and calm inflammatory skin conditions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Urinary Health, Kidney Health, Respiratory Health, Detoxification
+- **TCM Actions**: Clears Heat and Promotes Urination to Relieve Stranguria, Expels Phlegm, Cools the Blood, Resolves Toxicity, Stops Bleeding
+
+### How these actions work
+'Clears Heat and promotes urination to treat painful urinary dysfunction' is the primary action of Chē Qián Cǎo. Its cold, sweet nature drains Damp-Heat downward through the urinary tract, increasing urine output and relieving the burning pain, urgency, and difficulty associated with Heat-type urinary problems. This makes it a go-to herb for conditions where the urine is scanty, dark, painful, or bloody due to Heat accumulating in the Bladder. It also helps reduce water retention and swelling when excess fluid is trapped in the body.
+'Expels phlegm' refers to its ability to help clear thick, sticky mucus from the Lungs, especially when coughing is caused by Phlegm-Heat. It enters the Lung channel and helps thin out phlegm so it can be coughed up more easily. This is not a strong cough-stopping action but rather a gentle clearing of congestion.
+'Cools Blood and stops bleeding' is an action that distinguishes Chē Qián Cǎo from its seed counterpart (Chē Qián Zǐ). Because it uses the whole plant rather than just the seeds, the herb has a stronger ability to cool overheated Blood and stop various types of bleeding, including nosebleeds, blood in the urine, and bloody dysentery. This action comes from its cold nature entering the Liver and Blood level.
+'Resolves toxins' means this herb can help the body deal with infections and inflammatory swellings. It is applied both internally and externally for sore throat, boils, abscesses, and skin infections where Heat-toxin is the underlying cause.
+
+---
+
+## Patterns Addressed
+### Damp-Heat in the Lower Burner
+- **Explanation**: Chē Qián Cǎo is sweet and cold, entering the Kidney, Bladder, and Small Intestine channels. These properties allow it to directly drain Damp-Heat that has accumulated in the lower body, particularly the urinary tract. Its cold nature clears the Heat component while its sweet, slippery quality promotes the flow of urine, carrying out both Heat and Dampness. This addresses the core pathomechanism of Damp-Heat in the Lower Jiao, where stagnant moisture and Heat obstruct the waterways, causing painful, scanty, or turbid urination.
+- **Clinical Signs & Symptoms**:
+  - **Urinary Difficulty**: Scanty urine output or difficulty urinating
+
+### Phlegm-Heat in the Lungs
+- **Explanation**: By entering the Lung channel, Chē Qián Cǎo can help clear Phlegm-Heat that obstructs the airways. Its cold nature counters the Heat, while its expectorant action thins the sticky phlegm, making it easier to expel. This makes it a useful supporting herb when coughing is productive with thick, yellow sputum due to Heat in the Lungs.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondrial Pain That Is Worse On Coughing And Breathing**: Cough with thick yellow phlegm
+
+### Toxic-Heat
+- **Explanation**: Chē Qián Cǎo's ability to resolve toxins and clear Heat makes it applicable for patterns of Toxic Heat manifesting as skin infections, boils, abscesses, sore throat, or swollen glands. The herb can be taken internally or the fresh plant can be crushed and applied directly to the affected area. This detoxifying action is stronger in the whole plant form compared to the seeds alone.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Urinary Tract Infection
+- **Arises from**: Damp-Heat in the Lower Burner
+- **TCM Interpretation**: In TCM, most urinary tract infections correspond to the pattern of Damp-Heat pouring into the Lower Jiao and accumulating in the Bladder. External Dampness and Heat, or internally generated Damp-Heat from diet or emotional stress, obstruct the Bladder's function of storing and excreting urine. This produces the classic symptoms of frequent, urgent, burning, and painful urination with dark or turbid urine. The Kidney, Bladder, and Small Intestine channels are all involved in separating the clean from the turbid and regulating fluid metabolism in the lower body.
+- **Why it Helps**: Chē Qián Cǎo is sweet and cold, directly entering the Kidney and Small Intestine channels to drain Damp-Heat downward and out through urine. Its diuretic action increases urine volume, which helps flush infectious agents from the urinary tract while its cold nature clears the inflammatory Heat causing the burning and urgency. Modern research has confirmed that Chē Qián Cǎo increases the excretion of urea, uric acid, and sodium chloride, and has antimicrobial activity against certain urinary pathogens. When blood appears in the urine, the herb's additional Blood-cooling action provides an advantage over the seed form alone.
+
+### Gout
+- **Arises from**: Damp-Heat in the Lower Burner
+- **TCM Interpretation**: In TCM, gout is often understood as Damp-Heat and turbid substances obstructing the channels and joints. When the Spleen and Kidneys fail to properly transform and transport fluids, Dampness and turbidity accumulate. If Heat combines with this Dampness, it flows to the joints, causing sudden, severe pain, redness, and swelling. The accumulation of turbid waste reflects a failure of the body's fluid metabolism to separate clean from unclean substances.
+- **Why it Helps**: Chē Qián Cǎo promotes urination and increases the excretion of uric acid, directly addressing the accumulation of turbid metabolic waste that contributes to gouty flare-ups. Its cold nature helps clear the inflammatory Heat in the affected joints, while its ability to drain Dampness supports the body's fluid metabolism. Clinical reports describe significant improvement in gouty arthritis after 12 to 15 days of using Chē Qián Cǎo decoctions.
+
+### Nephritis
+- **Arises from**: Damp-Heat in the Lower Burner
+- **TCM Interpretation**: Acute nephritis in TCM is typically related to Damp-Heat or Wind-Heat invading the body and disrupting the Kidney's ability to regulate water metabolism. The Kidneys govern water, and when their function is impaired by pathogenic Heat and Dampness, fluid accumulates (edema) and the urine becomes abnormal, often containing blood or protein. The condition may involve both the Lung (which regulates the water passages from above) and the Kidney-Bladder system below.
+- **Why it Helps**: Chē Qián Cǎo addresses both the fluid stagnation and the Heat component of acute nephritis. By promoting urination, it helps resolve edema and restore normal fluid metabolism. Its Blood-cooling action addresses hematuria (blood in the urine), while its Heat-clearing property works on the underlying inflammatory process. Classical formulations for this condition often combine Chē Qián Cǎo with herbs like Yù Mǐ Xū (corn silk), Mò Hàn Lián (eclipta), and Xiǎo Jì (small thistle).
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 15-30g (dried herb); 30-60g (fresh herb)
+- **Maximum Dosage**: Up to 60g of fresh herb in acute conditions (urinary tract infection, acute gout flare), under practitioner supervision. For dried herb, do not routinely exceed 30g. Prolonged use at high doses should be accompanied by kidney function monitoring.
+- **Dosage Notes**: Use lower doses (15g dried) for mild damp-heat conditions or as part of a multi-herb formula. Use higher doses (30g dried, or 30-60g fresh) for acute urinary infections, hot-type painful urination, or acute gout with heat signs. Fresh herb is preferred when strong heat-clearing and detoxifying action is needed, as the fresh juice can also be taken directly (by pounding and straining). For phlegm-heat cough, standard doses of 15-30g are typical. Because the herb is strongly cold and diuretic, doses should be reduced and duration limited in patients with any underlying Spleen or Kidney weakness.
+- **Preparation**: No special decoction handling required. The herb is simply added to the pot and decocted normally with other herbs. When using fresh herb for topical application (e.g. for boils, sores, or erysipelas), it can be pounded into a paste and applied directly. Fresh juice can also be extracted by pounding and straining for internal use.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Mo Han Lian (Ratio: 1:1 (Ch&#x113; Qi&#xE1;n C&#x1CE;o 15g : M&#xF2; H&#xE0;n Li&#xE1;n 15g))
+- **Description**: Chē Qián Cǎo clears Damp-Heat and cools Blood to address the acute symptoms, while Mò Hàn Lián (Eclipta) nourishes Liver and Kidney Yin and cools Blood to treat the root cause. Together they address both the branch (Damp-Heat) and root (Yin deficiency with Blood Heat), producing a combined effect of nourishing Yin, clearing Heat, promoting urination, and cooling the Blood to stop bleeding.
+- **When to Use**: Blood in the urine or painful urinary bleeding where both Yin deficiency and Blood Heat are present. Particularly useful when chronic Yin deficiency generates Empty Heat that drives Blood out of the vessels into the urinary tract.
+
+### Che Qian Zi (Ratio: 2:1 (Ch&#x113; Qi&#xE1;n C&#x1CE;o 30g : Ch&#x113; Qi&#xE1;n Z&#x1D0; 15g))
+- **Description**: The whole plant (Chē Qián Cǎo) excels at clearing formless Damp-Heat and has stronger Blood-cooling and detoxifying effects. The seed (Chē Qián Zǐ) is better at draining substantial, tangible water and Dampness downward through the urinary tract. Together they strengthen the overall ability to clear Heat, promote urination, and treat painful urinary dysfunction from multiple angles.
+- **When to Use**: Severe Damp-Heat in the Bladder with scanty, painful, dark, or bloody urination, edema, or urinary tract stones. Also for summer-heat diarrhea and urinary difficulty.
+
+### Jin Qian Cao (Ratio: 1:1 (Ch&#x113; Qi&#xE1;n C&#x1CE;o 30g : J&#x12B;n Qi&#xE1;n C&#x1CE;o 30g))
+- **Description**: Chē Qián Cǎo provides strong diuretic and Heat-clearing action, while Jīn Qián Cǎo (Lysimachia) adds specific stone-dissolving and stone-expelling ability along with its own Damp-Heat clearing properties. The pair creates a powerful combination for flushing out urinary stones and treating urinary tract infections simultaneously.
+- **When to Use**: Urinary stones (stone painful urinary dysfunction) or kidney stones with concurrent urinary tract infection, pain, and difficulty urinating. Also useful for cholecystitis and gallstones when combined into broader formulas.
+
+### Bai Mao Gen (Ratio: 1:1 (Ch&#x113; Qi&#xE1;n C&#x1CE;o 15-30g : B&#xE1;i M&#xE1;o G&#x113;n 15-30g))
+- **Description**: Chē Qián Cǎo clears Damp-Heat from the Lower Jiao and promotes urination, while Bái Máo Gēn (Imperata root) cools Blood and stops bleeding with a particular affinity for the Lung and Stomach channels. Together they provide comprehensive Blood-cooling and bleeding-stopping action across multiple organ systems while maintaining strong diuretic support.
+- **When to Use**: Blood in the urine, nosebleeds, or bloody dysentery caused by Blood Heat. Also for acute nephritis with hematuria and edema.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Che Qian Cao is classified as non-toxic in the Chinese Pharmacopoeia and has been safely used both as medicine and food for millennia. Animal toxicity studies show a wide safety margin (LD50 of the decoction was 7.9 g/kg by intravenous injection in mice). However, prolonged use at high doses may theoretically impair kidney function due to the herb's strong diuretic effect, so kidney function should be monitored if the herb is used over extended periods. The aucubin (桃叶珊瑚甙) content has a mild laxative effect at higher doses. Individuals with known allergy to Plantago pollen should use with caution, as cross-reactivity is possible.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Not recommended during pregnancy. Che Qian Cao has been shown pharmacologically to promote uterine smooth muscle contraction, which could potentially stimulate uterine activity and increase the risk of miscarriage or preterm labor. Its strongly cold nature may also be harmful during the vulnerable early stages of pregnancy. Classical contraindication texts advise caution for pregnant women. If urinary symptoms arise during pregnancy, safer alternatives should be discussed with a qualified practitioner.
+- **Breastfeeding**: Use with caution during breastfeeding. While there is no strong evidence of direct toxicity through breast milk, the herb's strongly cold nature may theoretically affect the digestive system of the nursing infant, potentially contributing to loose stools or colic. It should only be used under practitioner supervision and at the lowest effective dose if deemed necessary.
+- **Children**: Che Qian Cao may be used in children under practitioner supervision with appropriate dose reduction. As a general guide, children aged 6 to 12 may use approximately one-third to one-half of the adult dose. For younger children, even lower doses should be used. Because of its cold nature and strong diuretic action, it should be used cautiously and for short durations in children to avoid damaging the developing digestive system. Adequate fluid intake should be maintained during use.
+
+### Drug Interactions
+Diuretic medications: Che Qian Cao has a well-documented diuretic effect that increases urinary excretion of water, sodium, chloride, and uric acid. Concurrent use with pharmaceutical diuretics (furosemide, hydrochlorothiazide) may produce additive effects, increasing the risk of electrolyte imbalance and dehydration. Electrolytes should be monitored if combined use is necessary.
+Antihypertensive medications: Preclinical research has demonstrated that P. asiatica extracts can lower blood pressure through ACE inhibition and diuresis. Combining with antihypertensive drugs (especially ACE inhibitors or ARBs) may cause excessive blood pressure reduction.
+Lithium: As with other diuretic herbs and drugs, the increased renal clearance of sodium caused by Che Qian Cao could theoretically reduce lithium excretion, potentially raising serum lithium levels to toxic concentrations. Patients on lithium should avoid this herb or be closely monitored.
+Hypoglycaemic agents: Animal studies suggest blood glucose-lowering effects. Patients on insulin or oral hypoglycaemics should be aware of possible additive effects and monitor blood sugar accordingly.
+
+### Dietary Advice
+While taking Che Qian Cao, avoid excessive cold and raw foods, as the herb's cold nature combined with cold food may weaken the Spleen and Stomach. Drink plenty of water to support the herb's diuretic action and prevent dehydration. Avoid alcohol, which generates damp-heat and counteracts the herb's therapeutic purpose. When using the herb for gout or high uric acid, also reduce high-purine foods such as organ meats, shellfish, and heavy red meat.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Plantago asiatica L. (Asian Plantain) is a perennial herb in the Plantaginaceae family, growing 20 to 60 cm tall with a short, thick rootstock and numerous fibrous roots. The leaves grow in a basal rosette directly from the ground, are broadly ovate to elliptic in shape, 4 to 12 cm long and 2.5 to 6.5 cm wide, with thin papery blades showing 3 to 7 prominent parallel veins running in arcs from base to tip. Long leaf stalks (petioles) of 2 to 15 cm support the leaves.
+In spring and summer, the plant sends up several erect flower stalks (peduncles) 5 to 30 cm tall, each bearing a narrow, cylindrical spike of small, inconspicuous white flowers. These develop into oval capsules, each containing several small, dark brown to black seeds (the separately used herb Che Qian Zi). The related species Plantago depressa Willd. (Flat-stem Plantain) is also used medicinally and has a similar but more compact growth habit.
+Asian Plantain is extremely hardy, tolerating a wide range of soils and climates. It grows abundantly in disturbed habitats including roadsides, field edges, riverbanks, and footpaths throughout China and East Asia. Its common Chinese names, such as "vehicle-front grass" (车前草) and "cart-track vegetable" (车轮菜), reflect its preference for growing along well-trodden paths.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer (typically May to July), when the plant is in full growth. The whole plant is uprooted, cleaned of soil, and sun-dried.
+- **Primary Growing Regions**: Che Qian Cao grows throughout nearly all of China, from the tropical south to the temperate north, and is not associated with a single famous 道地 (terroir) region. It grows wild in abundance along roadsides, field margins, riverbanks, and waste ground nationwide. Historically, the Sichuan region was noted for cultivating it (as mentioned in the Ben Cao Tu Jing). The provinces of Jiangxi, Henan, and Hubei are noted producers of its seeds (Che Qian Zi). Because it is so widespread and adaptable, geographic origin is less critical for quality than it is for rarer herbs.
+- **Quality Indicators**: Good quality dried Che Qian Cao should have intact leaves that are greyish-green to dark green in colour with clearly visible 5 to 7 arching veins. The roots should be present as fine, fibrous clusters. Spike-like flower stalks may be visible. The texture should be slightly flexible when rehydrated, not brittle or crumbly. It should have a faint fresh-grass aroma and a mildly bitter taste with slight mucilaginous quality when chewed. Avoid material that is heavily browned, mouldy, insect-damaged, or composed mainly of bare stems with few leaves. Per the Chinese Pharmacopoeia, the content of plantamajoside (大车前苷) should be no less than 0.10% on a dry weight basis.
+
+### Identity & Adulterants
+Che Qian Cao (Plantago asiatica) may be confused with or substituted by Plantago depressa Willd. (平车前, Flat-stem Plantain), which is an accepted alternative source in the Chinese Pharmacopoeia and has similar but somewhat weaker effects. It can be distinguished by its smaller, flatter growth habit, shorter flower spikes, and leaves that lie closer to the ground.
+The related European species Plantago major (大车前) is sometimes substituted. While pharmacologically similar, it is not identical in chemical profile and is not the traditional Chinese medicinal species.
+Che Qian Cao (the whole herb) should not be confused with Che Qian Zi (车前子, the seeds alone). They share similar properties, but the whole herb is stronger at clearing heat and cooling blood, while the seeds are more focused on promoting urination and resolving phlegm. Historical sources note that some northern Chinese merchants once dried and sold the root alone as a purple-flowered product, which was considered incorrect usage.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 通癃闭止疼痛，利小便，除湿痹。久服轻身耐老。
+Translation: "Unblocks urinary obstruction and stops pain, promotes urination, eliminates damp impediment. Long-term use lightens the body and slows aging."
+- **Translation**: 
+
+### Historical Context
+Che Qian Cao is one of the oldest recorded herbs in Chinese medicine. Its seeds (Che Qian Zi) were first listed in the Shen Nong Ben Cao Jing as a "superior" (上品) medicine, and the Ming Yi Bie Lu later extended use to the leaves and roots. The plant also appears in the Shi Jing (Book of Songs, c. 600 BCE) under the name fu yi (芣苢), where women are depicted joyfully gathering it, suggesting both food and possible fertility symbolism in ancient culture.
+The most famous legend about its naming involves the Western Han general Ma Wu. According to tradition, his troops were trapped in a barren valley during a summer campaign against the Qiang people. Soldiers and horses alike developed bloody, painful urination from dehydration and heat. A groom noticed that horses eating a broad-leaved weed by the roadside recovered. When asked where the plant grew, the groom pointed ahead, saying "right in front of the cart" (车前), and the name stuck. While likely apocryphal, this story has been retold for centuries and illustrates the herb's ancient association with urinary disorders.
+Li Shizhen's Ben Cao Gang Mu provides an extensive etymological discussion, tracing its many folk names. Names like "cart-track grass" (当道), "horse footprint" (马舄), and "toad coat" (虾蟆衣) all reflect where and how the plant grows. Li Shizhen also noted it was eaten as a vegetable in his era, a practice that continues today, especially in southern China where it features in soups and stir-fries.
+
+### Modern Scientific Research
+1. **[Anti-inflammatory effect of Plantago asiatica crude extract in rat gout arthritis model (Preclinical study, 2025)](https://pubmed.ncbi.nlm.nih.gov/39895261/)**
+   *Journal: Journal of Immunotoxicology, 2025*
+   In a rat model of gouty arthritis, an ethanol extract of P. asiatica significantly reduced joint swelling and reversed elevated pro-inflammatory cytokines (IL-1β, TNF-α, IFN-γ) to levels comparable with colchicine treatment, providing experimental support for its traditional use in gout.
+
+2. **[In vitro cytotoxic, antiviral and immunomodulatory effects of Plantago major and Plantago asiatica (In vitro study, 2003)](https://pubmed.ncbi.nlm.nih.gov/12856861/)**
+   *Journal: American Journal of Chinese Medicine, 2003, 31(3):363-372*
+   Hot water extract of P. asiatica showed significant inhibitory activity against the proliferation of lymphoma (U937) and multiple carcinoma cell lines (bladder, bone, cervix, kidney, lung, stomach), as well as antiviral effects against HSV-2 and adenovirus-11.
+
+3. **[Extract of Plantago asiatica L. Seeds Ameliorates Hypertension in Spontaneously Hypertensive Rats by Inhibition of Angiotensin Converting Enzyme (Preclinical study, 2019)]()**
+   *Journal: Frontiers in Pharmacology, 2019, 10:403*
+   In spontaneously hypertensive rats, oral P. asiatica seed extract (400 mg/kg/day for 12 weeks) significantly lowered systolic, diastolic, and mean blood pressure, while also reducing cardiac hypertrophy and vascular remodeling. The mechanism involved ACE inhibition by phenylethanoid glycosides.
+
+4. **[Plantago asiatica L. Seed Extract Improves Lipid Accumulation and Hyperglycemia in High-Fat Diet-Induced Obese Mice (Preclinical study, 2017)](https://pubmed.ncbi.nlm.nih.gov/28665305/)**
+   *Journal: International Journal of Molecular Sciences, 2017, 18(7):1393*
+   In high-fat diet mice, P. asiatica seed extract reduced abdominal fat tissue ratio, serum total cholesterol, triglycerides, LDL cholesterol, and free fatty acids, while improving fasting blood glucose and glucose tolerance, suggesting potential benefit for metabolic syndrome.
+
+5. **[A beverage of Asiatic plantain extracts alleviated postprandial oxidative stress in overweight hyperlipidemic subjects (RCT, 2013)](https://pubmed.ncbi.nlm.nih.gov/24034569/)**
+   *Journal: Journal of Agricultural and Food Chemistry, 2013, 61(42):10231-10238*
+   In a randomized, double-blind, placebo-controlled trial with 40 overweight hyperlipidemic subjects, a single dose of P. asiatica extract beverage taken with a high-fat meal significantly reduced markers of postprandial lipid and DNA oxidation compared to placebo, supporting antioxidant effects in humans.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/che-qian-cao](https://www.meandqi.com/knowledge-base/herbs/che-qian-cao)*

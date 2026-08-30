@@ -1,0 +1,179 @@
+# Ji Nei Jin (鸡内金)
+**English Name**: Chicken gizzard lining  
+**Category**: Food stagnation-relieving herbs (消食药)  
+**Scientific Name**: Gallus gallus domesticus Brisson  
+**Pharmaceutical Name**: Endothelium Corneum Gigeriae Galli  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Spleen, Stomach, Small Intestine, Urinary Bladder  
+**Parts Used**: Animal — part (动物部分 dòng wù bù fèn)  
+
+---
+
+## Summary
+Ji Nei Jin is the dried inner lining of the chicken gizzard, one of the most popular digestive aids in Chinese medicine. It is widely used for indigestion, bloating, poor appetite, and childhood nutritional deficiencies. It is also valued for its ability to help dissolve urinary and gallbladder stones and to address bedwetting in children.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Urinary Health, Liver and Gallbladder Health, Pediatric nutrition
+- **TCM Actions**: Promotes Digestion and Resolves Food Stagnation, Strengthens the Spleen, Secures Essence and Stops Enuresis, Softens hardness and dissolves stones, Resolves Food Stagnation and Transforms Accumulations
+
+### How these actions work
+'Promotes digestion and resolves food stagnation' is the primary action of Ji Nei Jin. It strongly breaks down accumulated undigested food in the Stomach and intestines, relieving symptoms like bloating, fullness, poor appetite, and nausea after eating. It is effective for stagnation of all food types, including grains, starches, dairy, and meat. For mild cases, the powder alone can be sufficient; for more stubborn food stagnation, it is combined with other digestive herbs like Shan Zha (hawthorn) and Mai Ya (barley sprout).
+'Invigorates the Spleen's transport function' means Ji Nei Jin does more than just break down food. It actively strengthens the Spleen's ability to transform food into usable nourishment for the body. This makes it especially valuable for childhood malnutrition (gan ji), where the Spleen is weak and food accumulates rather than being properly absorbed. The famous physician Zhang Xichun noted that pairing Ji Nei Jin with Bai Zhu (white atractylodes) creates a powerful combination that both dissolves stagnation and strengthens digestion simultaneously.
+'Secures essence and stops enuresis' refers to the herb's ability to restrain and consolidate the body's vital substances in the lower body. It is used for bedwetting in children, frequent urination, and involuntary seminal emission. This action relates to its entry into the Urinary Bladder channel. The stir-fried (chao) form is preferred for this purpose.
+'Softens hardness and dissolves stones' is an action inspired by the gizzard's natural ability to grind down pebbles and hard materials in the chicken's digestive tract. In TCM, the raw form of Ji Nei Jin is used to help dissolve and expel gallstones, kidney stones, and bladder stones. It is commonly paired with Jin Qian Cao (Lysimachia) for this purpose.
+'Transforms accumulations' extends beyond food stagnation to include masses and stagnation anywhere in the body. Zhang Xichun emphasized that Ji Nei Jin can address abdominal masses in both men and women, and even stagnation in the meridians in chronic wasting conditions. For this action, the raw form must be used.
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: Ji Nei Jin is one of the strongest herbs for resolving food stagnation. Its sweet, neutral nature enters the Spleen and Stomach channels directly, where it powerfully breaks down accumulated food that the weakened Spleen and Stomach have failed to transform. Unlike purely draining digestive herbs, Ji Nei Jin simultaneously supports the Spleen's transport function, making it suitable even when food stagnation coexists with underlying Spleen weakness. Zhang Xichun noted that it can dissolve stagnation throughout the body, not just in the digestive tract.
+- **Clinical Signs & Symptoms**:
+  - **Post-Surgical Constipation And Bloating**: Abdominal distension and fullness after meals
+  - **Poor Appetite**: Reduced desire to eat
+
+### Spleen Qi Deficiency
+- **Explanation**: While primarily a digestive herb, Ji Nei Jin has a unique ability to invigorate the Spleen's transport function from within. Its sweet flavor nourishes the Spleen, and its natural affinity for the Spleen and Stomach channels means it strengthens these organs' ability to process food and generate Qi and Blood. Zhang Xichun used it extensively in tonic formulas like Yi Pi Bing (Spleen-Benefiting Cake), pairing it with Bai Zhu to simultaneously dissolve stagnation and fortify the Spleen. This makes it especially useful in childhood malnutrition (gan ji), where the weak Spleen cannot absorb nutrients.
+- **Clinical Signs & Symptoms**:
+  - **Loose Stools**: Chronic loose stools with undigested food
+  - **Poor Appetite**: Persistent lack of appetite
+
+### Kidney Qi not Firm
+- **Explanation**: Ji Nei Jin enters the Urinary Bladder channel and has an astringent, securing quality that helps consolidate Kidney Qi in the lower body. When the Kidneys fail to secure essence and fluids, symptoms like bedwetting, frequent urination, and involuntary seminal loss appear. The stir-fried form is preferred here because processing enhances the astringent, restraining property. It is commonly combined with other Kidney-securing herbs like Sang Piao Xiao (mantis egg case) and Tu Si Zi (dodder seed).
+- **Clinical Signs & Symptoms**:
+  - **Pediatric Nocturnal Enuresis**: Bedwetting in children
+  - **Spermatorrhea**: Involuntary seminal emission
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-10g
+- **Maximum Dosage**: Up to 15g in decoction for severe food stagnation or stone conditions, under practitioner guidance. When taken as ground powder (which is considered more effective), the typical maximum is 3g per dose, 2-3 times daily.
+- **Dosage Notes**: Ji Nei Jin is considered significantly more effective when taken as ground powder (yan mo tun fu) rather than decocted in water. This is because its active components, including ventriculin and trace digestive enzymes, may be degraded by prolonged boiling. When taken as powder, the standard dose is 1.5-3g per dose. In decoction, 3-10g is used. For dissolving urinary or biliary stones, the raw (unprocessed) form is preferred, typically 3g powder taken 2-3 times daily with warm water, often combined with Jin Qian Cao decoction. For strengthening the Spleen, stopping diarrhea, or treating enuresis, the dry-fried (chao) or sand-fried (sha chao) form is preferred. Vinegar-processed Ji Nei Jin (cu ji nei jin) is favored when Liver-Spleen disharmony with poor digestion is the pattern.
+- **Preparation**: Ji Nei Jin is more effective when taken as ground powder (1.5-3g swallowed with warm water) rather than decocted, as prolonged boiling can degrade its enzyme components. If used in decoction, it should be added in the last 10-15 minutes of cooking rather than boiled for the full duration. When used for dissolving stones, the raw (unprocessed) form ground to powder is preferred. For other indications, the dry-fried or sand-fried form is standard.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o J&#x12B; N&#xE8;i J&#x12B;n (&#x7092;&#x9E21;&#x5185;&#x91D1;)
+- **Processing Method**: Dry stir-fried over medium heat until the pieces puff up and become crispy and golden-yellow or slightly scorched.
+- **How it Changes Properties**: Stir-frying makes Ji Nei Jin crispy and easier to grind into powder. It develops an aromatic quality and a slightly astringent taste. The food-dissolving power is redirected toward strengthening the Spleen and stopping diarrhea. The astringent property is enhanced, making it better for securing essence and stopping enuresis. It loses some of the raw form's ability to dissolve stones and transform hard accumulations.
+- **When to Use**: Preferred for everyday digestive weakness, Spleen Deficiency diarrhea, poor appetite, and for treating enuresis or seminal emission. This is the most commonly used clinical form.
+
+### Sh&#x101; Ch&#x1CE;o J&#x12B; N&#xE8;i J&#x12B;n (&#x7802;&#x7092;&#x9E21;&#x5185;&#x91D1;)
+- **Processing Method**: Hot sand is placed in a wok and heated, then Ji Nei Jin pieces of similar size are added and tossed until they puff up and become crispy. The sand is then sifted out.
+- **How it Changes Properties**: Sand-frying produces a more evenly puffed and crispy product than dry stir-frying. The effects are similar to regular stir-frying but the texture is more uniform, making it easier to grind into fine powder for direct ingestion.
+- **When to Use**: Used interchangeably with stir-fried Ji Nei Jin when a finer, more uniform powder is desired for direct oral administration.
+
+### C&#xF9; J&#x12B; N&#xE8;i J&#x12B;n (&#x918B;&#x9E21;&#x5185;&#x91D1;)
+- **Processing Method**: Stir-fried until puffed, then sprayed with rice vinegar (15 kg vinegar per 100 kg of herb), removed, and dried.
+- **How it Changes Properties**: Vinegar processing adds a slightly sour and astringent taste. This enhances the herb's ability to soothe the Liver and support the Spleen. It corrects the slightly raw, meaty odor and makes the product easier to crush. The Liver-soothing quality makes it more suitable for patterns involving Liver-Spleen disharmony.
+- **When to Use**: Chosen when digestive problems involve Liver-Spleen disharmony, such as bloating with flank discomfort, irritability with poor appetite, or when the patient cannot tolerate the raw taste.
+
+---
+
+## Common Herb Pairs
+### Bai Zhu (Ratio: 1:2 (Ji Nei Jin : Bai Zhu), e.g. Ji Nei Jin 6g : Bai Zhu 12g)
+- **Description**: Ji Nei Jin dissolves food stagnation and activates the Spleen's transport, while Bai Zhu tonifies and strengthens Spleen Qi. Together they simultaneously eliminate accumulated stagnation and rebuild the Spleen's digestive power. Zhang Xichun considered this pairing essential, calling it both 'a key remedy for dissolving stagnation' and 'a wonderful formula for strengthening the Spleen and Stomach.'
+- **When to Use**: Chronic digestive weakness with food stagnation, especially when poor appetite and loose stools coexist with bloating and fullness. Also used in childhood malnutrition (gan ji). This is the core of Zhang Xichun's Yi Pi Bing (Spleen-Benefiting Cake).
+
+### Jin Qian Cao (Ratio: 1:3 (Ji Nei Jin : Jin Qian Cao), e.g. Ji Nei Jin 10g : Jin Qian Cao 30g)
+- **Description**: Ji Nei Jin softens and dissolves hard stones while Jin Qian Cao clears Damp-Heat from the urinary and biliary systems and promotes the passage of stones through increased fluid flow. Together they address both the stone itself and the underlying Damp-Heat environment that produced it.
+- **When to Use**: Urinary stones (kidney, bladder) and gallstones, especially small or silt-like stones. This pairing forms the basis of many classical stone-dissolving formulas including San Jin Tang (Three Golds Decoction).
+
+### Mai Ya (Ratio: 1:1 to 1:2, e.g. Ji Nei Jin 10g : Mai Ya 10&#x2013;20g)
+- **Description**: Ji Nei Jin powerfully dissolves food stagnation and invigorates the Spleen, while Mai Ya (barley sprout) gently promotes digestion and soothes the Liver to support smooth Qi flow. Together they enhance each other's digestive action and address cases where Liver Qi constraint contributes to poor appetite.
+- **When to Use**: Food stagnation with loss of appetite, especially when emotional stress or Liver Qi constraint contributes to poor digestion. Also useful for chronic poor appetite during recovery from illness.
+
+### Sang Piao Xiao (Ratio: 1:1, e.g. Ji Nei Jin 10g : Sang Piao Xiao 10g)
+- **Description**: Ji Nei Jin secures the Bladder and restrains urine, while Sang Piao Xiao (mantis egg case) directly tonifies Kidney Yang and consolidates Kidney essence. Together they firmly secure the lower body's holding function from both the Bladder and Kidney sides.
+- **When to Use**: Bedwetting in children, frequent urination, or seminal emission due to Kidney Qi not being firm. This combination appears in classical formulas like Ji Pi Zi San from the Sheng Hui Fang.
+
+### Hai Jin Sha (Ratio: 1:1, e.g. Ji Nei Jin 10g : Hai Jin Sha 10g)
+- **Description**: Ji Nei Jin dissolves stones and softens hardness, while Hai Jin Sha (Lygodium spore) clears Damp-Heat from the Small Intestine and Bladder and promotes urination. Together their stone-dissolving and Damp-Heat clearing actions are greatly enhanced.
+- **When to Use**: Urinary tract stones with painful, difficult urination (stone strangury). This pair is a core component of formulas for urolithiasis.
+
+---
+
+## Key Formulas
+San Ren Tang, Jin Ling Zi San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Ji Nei Jin is classified as non-toxic in both classical literature and the Chinese Pharmacopoeia. The Ri Hua Zi Ben Cao explicitly states it is "ping, wu du" (neutral, non-toxic). No toxic components have been identified. It is composed primarily of keratin protein, trace digestive enzymes (pepsin and amylase), amino acids, and trace minerals. No special toxicity precautions are required at standard dosages.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe at standard doses during pregnancy. Ji Nei Jin is sweet and neutral in nature with no known uterine-stimulating or teratogenic properties. However, its strong digestive-dispersing action means it should be used only when genuinely indicated (actual food stagnation) rather than as a routine supplement during pregnancy. Pregnant women should consult a qualified practitioner before use.
+- **Breastfeeding**: No specific contraindications during breastfeeding have been documented. Ji Nei Jin is a food-grade animal product classified as non-toxic and is commonly used in dietary therapy for mothers and children in China. Its gentle digestive-supporting action is unlikely to cause adverse effects through breast milk. It may actually be beneficial for postpartum women with poor appetite or digestive weakness, though a practitioner should guide its use.
+- **Children**: Ji Nei Jin is one of the most commonly used herbs in pediatric TCM practice, particularly for childhood food stagnation and malnutrition (gan ji). It is considered safe and gentle for children. For infants and toddlers, dosages are typically reduced to 1-3g of ground powder mixed into food, porridge, or warm water. For older children (ages 3-12), 3-6g is standard. The powdered form is preferred over decoction for children, as it is easier to administer and considered more effective. Ji Nei Jin steamed egg custard (mixing 1-2g of powder into beaten egg before steaming) is a traditional pediatric preparation that makes it palatable for young children.
+
+### Drug Interactions
+Tetracycline antibiotics: Ji Nei Jin may interfere with the absorption of tetracycline-class antibiotics. Concurrent use is not recommended.
+Aspirin and niacin (nicotinic acid): Classical Chinese pharmaceutical references advise against concurrent use, though the precise mechanism is not well characterized.
+Tannin-containing medications: The enzyme components in Ji Nei Jin can bind with tannins and become inactivated. Avoid concurrent use with tannin-rich drugs or supplements.
+General note: Because Ji Nei Jin increases gastric acid secretion and accelerates gastric motility, it may theoretically alter the absorption kinetics of other orally administered drugs. People taking medications with narrow therapeutic windows should consult their healthcare provider.
+
+### Dietary Advice
+Avoid tannin-rich foods and beverages while taking Ji Nei Jin, including strong tea, coffee, persimmons, and unripe apples, as tannins can bind to and inactivate its enzyme components. For best results in treating food stagnation, eat small, easily digestible meals and avoid greasy, heavy, or raw cold foods that would further burden the digestive system. When using Ji Nei Jin to support Spleen function, warm cooked foods such as congee and soups are ideal accompaniments.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Ji Nei Jin is not a botanical product but an animal-derived medicinal substance. It is the dried inner lining (corneous endothelium) of the gizzard (muscular stomach, or sha nang 砂囊) of the domestic chicken, Gallus gallus domesticus Brisson, family Phasianidae. Chickens lack teeth and rely on this powerful muscular organ to grind food together with ingested grit and small stones.
+The gizzard lining is a tough, golden-yellow keratinous membrane that protects the muscular wall from abrasion by swallowed sand and grit. When peeled from a freshly slaughtered chicken's gizzard while still warm, washed, and dried, it yields thin, irregularly shaped curled pieces about 3.5 cm long and 3 cm wide, with prominent ridge-like wrinkles on the surface. The dried product is semi-translucent, brittle, and breaks with a glossy, horn-like cross-section.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Year-round, as a byproduct of chicken slaughter. The gizzard lining is peeled from the freshly killed chicken while the gizzard is still warm, then washed and sun-dried.
+- **Primary Growing Regions**: Ji Nei Jin is an animal product sourced from domestic chickens and is produced throughout all regions of China wherever chickens are raised. There is no specific "terroir" (dao di) designation for this substance, as it is universally available. Major commercial sources include Shandong, Henan, Hebei, Sichuan, Guangdong, Guangxi, Hunan, Hubei, Jiangsu, and Anhui provinces. Quality can vary significantly depending on whether the chickens are traditionally raised free-range (which yields thicker, more potent gizzard linings) versus modern commercially farmed broiler chickens (which are slaughtered at 2-3 months and yield thinner, less active membranes).
+- **Quality Indicators**: Good quality Ji Nei Jin is dry, complete (not torn into small fragments), relatively large in size, and golden-yellow in color. The surface should show clearly defined ridge-like wrinkles. It should be thin, semi-translucent, and brittle, snapping cleanly with a glossy, horn-like (keratinous) cross-section. The smell should be faintly fishy and the taste slightly bitter. Darker brown or blackish pieces come from older chickens and are considered lower grade. Pieces from traditionally raised free-range chickens (raised for 2-3 years) are thicker, more robust, and pharmacologically more potent than those from commercially farmed broilers (raised for only 2-3 months), which tend to be thinner and more fragile.
+
+### Identity & Adulterants
+The most common adulterant is duck gizzard lining (ya nei jin 鸭内金), which has a similar appearance but is thicker, has coarser and fewer wrinkles, and is considered therapeutically inferior. Authentic Ji Nei Jin has fine, prominent, closely-spaced ridge-like wrinkles and is thinner and more translucent than duck gizzard lining. Goose gizzard lining (e nei jin 鹅内金) may also be encountered. Buyers should verify the source species, as the pharmacological profile of duck and goose linings has not been established to be equivalent.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Ji Nei Jin (literally "chicken inner gold") was named for the golden-yellow color of the gizzard membrane, its value considered comparable to gold within the chicken's body. It was first recorded in the Shen Nong Ben Cao Jing, China's oldest materia medica, where it was listed under the name ji pi ci li huang pi (鸡毗胫里黄皮). Over subsequent dynasties, its applications expanded considerably from its original simple indication of treating diarrhea.
+The most influential commentary on Ji Nei Jin came from Zhang Xichun (张锡纯), the great physician of the late Qing and early Republican era, in his Yi Xue Zhong Zhong Can Xi Lu. Zhang championed Ji Nei Jin as far more than a simple digestive aid. He reasoned that since the chicken's gizzard could grind porcelain, stone, copper, and iron, the membrane must have a profound ability to dissolve all manner of accumulations in the body. He used it to treat not only food stagnation but also abdominal masses in men and women, menstrual blockage, and chronic debility. His famous insight was to pair Ji Nei Jin with Bai Zhu (White Atractylodes) in equal parts, creating what he called "the essential medicine for dissolving stagnant accumulations and the finest product for strengthening the Spleen and Stomach." Several of his well-known formulas, including Yi Pi Bing (益脾饼, "Spleen-Benefiting Cake") and Qi Yi Bing (期颐饼, "Centenarian Cake"), feature Ji Nei Jin as a key ingredient.
+The folk tradition of saving dried chicken gizzard linings from home kitchens and trading them at herbal pharmacies was widespread in rural China well into the 20th century, reflecting the practical, accessible nature of this remedy in everyday life.
+
+### Modern Scientific Research
+1. **[Review: Chemical Composition of Galli Gigeriae Endothelium Corneum (2025)](https://pubmed.ncbi.nlm.nih.gov/40771715/)**
+   *Journal: Frontiers in Pharmacology, 2025, Volume 16*
+   A comprehensive review summarizing decades of research on Ji Nei Jin's chemical composition and pharmacological activities. Found that Ji Nei Jin contains proteins, peptides, amino acids, polysaccharides, flavonoids, trace elements, and nucleosides. Pharmacological studies demonstrate its ability to promote gastrointestinal motility, enhance digestive enzyme activity, regulate glucose metabolism, dissolve stones, and exert anti-inflammatory and liver-protective effects.
+
+2. **[Gastrointestinal Motility Enhancing Effect of Endothelium Corneum Gigeriae Galli Extract in Rats (Animal study, 2015)]()**
+   *Journal: Zhang Y. et al., Journal of Ethnopharmacology, 2015, 172, 339-344*
+   An animal study demonstrating that Ji Nei Jin extract significantly enhanced gastrointestinal motility in rats, providing experimental evidence for its traditional use as a prokinetic digestive aid. The results support the classical indication of treating food stagnation and poor appetite.
+
+3. **[Biological Assay Method for Ji Nei Jin Quality Control Based on Digestive Enzyme Activity (Laboratory study, 2021)](https://html.rhhz.net/YXXB/html/20210529.htm)**
+   *Journal: Acta Pharmaceutica Sinica (Yao Xue Xue Bao), 2021*
+   Researchers at Chengdu University of TCM developed a novel biological assay using pepsin activity to evaluate Ji Nei Jin quality across 20 batches from different provinces. Found significant variation in enzyme potency between batches, with traditionally raised free-range chicken gizzard linings showing higher activity than those from commercially farmed broilers. The pepsin activity assay correlated strongly with in vivo gastric emptying rates in mice.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/ji-nei-jin](https://www.meandqi.com/knowledge-base/herbs/ji-nei-jin)*

@@ -1,0 +1,79 @@
+# Yi Gong San (异功散)
+**ชื่อภาษาไทย**: ผงบุญวิสามัญ  
+**ชื่อภาษาอังกฤษ (English Name)**: Extraordinary Merit Powder  
+**หมวดหมู่ตำรับยา (Category)**: สูตรเสริมพลังชี่  
+**ราชวงศ์/คัมภีร์อ้างอิง (Source)**: Xiao Er Yao Zheng Zhi Jue (《小儿药证直诀》, Key to Therapeutics of Children's Diseases), Volume 3  
+**คุณสมบัติอุณหภูมิ (Temperature)**: อุ่นเล็กน้อย | **รูปแบบยา (Form)**: ยาผง (ซ่าน / San)
+
+---
+
+## บทสรุปตำรับยา (Summary)
+สูตรคลาสสิกที่อ่อนโยนเพื่อเสริมสร้างระบบย่อยอาหารที่อ่อนแอ สร้างสรรค์โดยกุมารแพทย์ราชวงศ์ซ่ง เฉียน ยี่ สร้างจากยาต้มสี่สุภาพบุรุษพื้นฐานโดยการเติมเปลือกส้มเขียวหวานเพื่อบรรเทาอาการท้องอืดและช่วยให้ร่างกายดูดซึมสมุนไพรโทนิคได้อย่างมีประสิทธิภาพมากขึ้น มักใช้สำหรับความอยากอาหารไม่ดี ท้องอืดหลังรับประทานอาหาร อุจจาระเหลว และระบบย่อยอาหารอ่อนแอทั้งในเด็กและผู้ใหญ่
+
+---
+
+## ข้อมูลสำคัญทางแพทย์แผนจีน (TCM Metadata)
+- **การออกฤทธิ์ทางแพทย์แผนจีน (TCM Actions)**: เสริมพลังชี่และเสริมสร้างม้าม ควบคุมพลังชี่และแก้ความเมื่อยล้า ประสานกระเพาะอาหาร อุ่นเครื่องกลาง
+- **จุดประสงค์การรักษา (Therapeutic Focus)**: สุขภาพทางเดินอาหาร สุขภาพเด็ก ส่งเสริมความอยากอาหาร ส่งเสริมภูมิคุ้มกัน
+- **อวัยวะเป้าหมาย (Target Organs)**: ม้าม, กระเพาะอาหาร, ปอด
+- **กลุ่มอาการที่รักษา (Patterns Addressed)**: 
+- **โรค/อาการร่วมที่รักษา (Conditions Treated)**: ความอยากอาหารไม่ดี, โรคกระเพาะเรื้อรัง, โรคท้องร่วงเรื้อรัง, อาหารไม่ย่อย, คลื่นไส้, อาการลำไส้แปรปรวน, การติดเชื้อทางเดินหายใจซ้ำ, โรคจมูกอักเสบจากภูมิแพ้, ความล้มเหลวในการเจริญเติบโต
+- **ชื่อเรียกอื่นๆ (Other Names)**: Wu Wei Yi Gong San (五味异功散, Five-Ingredient Extraordinary Merit Powder)
+
+---
+
+## ส่วนประกอบตำรับยา (Ingredients Composition)
+| ชื่อสมุนไพรจีน (Herb Pinyin) | ชื่อภาษาไทย/อังกฤษ (Translated Name) | บทบาทในตำรับ (Role) | ปริมาณยา (Dosage) | คุณสมบัติ & เส้นลมปราณที่เข้า (Properties) | คำอธิบายบทบาท (Role Summary) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ren Shen** | รากโสม | *ราชา (King)* | 6 - 9g | อุณหภูมิ: อุ่นเล็กน้อย<br>รสชาติ: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>เข้าเส้นลมปราณ: ม้าม, ปอด, หัวใจ, ไต | เพิ่มพลังปราณของม้ามและกระเพาะอาหารอย่างมีประสิทธิภาพ โดยทำหน้าที่เป็นกำลังหลักในการฟื้นฟูระบบย่อยอาหารที่อ่อนแอ และจัดการกับการขาดราก |
+| **Bai Zhu** | เหง้า Atractylodes สีขาว | *ขุนนาง (Deputy)* | 6 - 9g | อุณหภูมิ: อุ่น<br>รสชาติ: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>เข้าเส้นลมปราณ: ม้าม, กระเพาะอาหาร | เสริมสร้างม้ามและทำให้ความชื้นแห้ง เสริมการทำงานของ Qi-tonifying ของ Ren Shen ในขณะเดียวกันก็จัดการกับการสะสมของความชื้นที่เป็นผลมาจากความอ่อนแอของม้าม |
+| **Fu Ling** | โพเรีย | *ผู้ช่วย (Assistant)* | 6 - 9g | อุณหภูมิ: เป็นกลาง (สุขุม)<br>รสชาติ: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>เข้าเส้นลมปราณ: หัวใจ, ปอด, ม้าม, ไต | ส่งเสริมการถ่ายปัสสาวะและชะล้างความชื้นในขณะที่สนับสนุนการทำงานของการเคลื่อนย้ายของม้าม ทำงานร่วมกับ Bai Zhu เพื่อจัดการกับการสะสมของของเหลวจากการขาดม้าม |
+| **Chen Pi** | เปลือกส้มเขียวหวาน | *ผู้ช่วย (Assistant)* | 6 - 9g | อุณหภูมิ: อุ่น<br>รสชาติ: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>เข้าเส้นลมปราณ: ปอด, ม้าม | ส่วนประกอบสำคัญที่ทำให้สูตรนี้แตกต่างจาก Si Jun Zi Tang ควบคุมการไหลของชี่และแก้ไขความเมื่อยล้าในเครื่องเผาไหม้ระดับกลาง ป้องกันไม่ให้สมุนไพรปรับสภาพทำให้เกิดอาการท้องอืด สิ่งนี้ทำให้มั่นใจได้ว่าสูตรเสริมจะไม่สร้างความเมื่อยล้า |
+| **Gan Cao** | รากชะเอมเทศ | *ผู้ส่งสาร (Envoy)* | 6 - 9g | อุณหภูมิ: เป็นกลาง (สุขุม)<br>รสชาติ: Sweet (&#x7518; g&#x101;n)<br>เข้าเส้นลมปราณ: หัวใจ, ปอด, ม้าม, กระเพาะอาหาร | เสริมพลังชี่และประสานเครื่องเผาผลาญระดับกลาง ในขณะเดียวกันก็ควบคุมและประสานการทำงานของสมุนไพรอื่นๆ ทั้งหมดในสูตร |
+
+---
+
+## ข้อควรระวัง & ความปลอดภัยในกลุ่มพิเศษ (Special Populations & Safety)
+### สตรีมีครรภ์ (Pregnancy)
+โดยทั่วไปถือว่าปลอดภัยสำหรับการใช้งานระยะสั้นในระหว่างตั้งครรภ์ภายใต้คำแนะนำของแพทย์ เนื่องจากสมุนไพรทั้ง 5 ชนิด (Ren Shen, Bai Zhu, Fu Ling, Chen Pi, Zhi Gan Cao) ถูกจัดว่าเป็นการทำแท้งหรือมีข้อห้ามอย่างยิ่งในการตั้งครรภ์ อย่างไรก็ตาม ควรใช้ Ren Shen (โสม) อย่างระมัดระวังในการตั้งครรภ์เนื่องจากมีคุณสมบัติในการกระตุ้น และ Gan Cao (ชะเอมเทศ) ในปริมาณที่สูงขึ้นหรือการใช้เป็นเวลานานอาจส่งผลให้มีการกักเก็บของเหลวและความดันโลหิตสูง ซึ่งเป็นข้อกังวลเป็นพิเศษในระหว่างตั้งครรภ์ บุคคลที่ตั้งครรภ์ควรใช้สูตรนี้ภายใต้การดูแลของผู้ประกอบวิชาชีพที่ผ่านการรับรองซึ่งสามารถปรับขนาดยาได้อย่างเหมาะสมเท่านั้น
+
+### สตรีให้นมบุตร (Breastfeeding)
+ยี่กงซานเชื่อกันว่าเข้ากันได้กับการให้นมบุตร และในอดีตมีการใช้ในสตรีหลังคลอดเพื่อเสริมสร้างพลังชี่ของม้ามและช่วยในการย่อยอาหาร สมุนไพรในสูตรนี้มีความอ่อนโยนและเป็นเกรดอาหาร Ren Shen (โสม) ในทางทฤษฎีอาจส่งผ่านจินเซนโนไซด์จำนวนเล็กน้อยเข้าไปในน้ำนมแม่ แม้ว่าจะไม่พบผลข้างเคียงที่มีนัยสำคัญต่อทารกในวัยแรกเกิดในขนาดมาตรฐานก็ตาม ไม่ควรใช้ Gan Cao (ชะเอมเทศ) ในปริมาณที่มากเกินไประหว่างให้นมบุตร เนื่องจากมีศักยภาพในการกักเก็บของเหลว โดยรวมแล้ว การใช้ในปริมาณมาตรฐานภายใต้คำแนะนำของผู้ประกอบวิชาชีพถือว่ายอมรับได้ในระหว่างการให้นมบุตร
+
+### เด็ก (Children)
+ยี่กงซานเดิมทีได้รับการออกแบบให้เป็นสูตรสำหรับเด็ก และถือว่าเป็นหนึ่งในใบสั่งยาคลาสสิกที่สำคัญที่สุดสำหรับเด็กที่มีภาวะพร่องชี่ม้าม เหมาะสำหรับทารกและเด็กทุกวัยที่มีการปรับขนาดยาอย่างเหมาะสม
+จากการวิจัยการใช้ยาแบบดั้งเดิมและสมัยใหม่ ปริมาณยาในเด็กของสมุนไพรแต่ละชนิด (Ren Shen, Fu Ling, Bai Zhu, Chen Pi, Gan Cao) อยู่ที่ประมาณ 1.4 ถึง 1.7 กรัมต่อมื้อ เมื่อเตรียมเป็นยาต้มผงละเอียดพร้อมขิงสดและอินทผลัม สำหรับเด็กโตและวัยรุ่น สามารถค่อยๆ เพิ่มขนาดยาจนถึงระดับผู้ใหญ่ได้ ข้อความต้นฉบับแนะนำให้ผู้ประกอบวิชาชีพปรับจำนวนเงินที่กำหนดตามขนาดและสภาพของเด็ก การใช้ทางคลินิกสมัยใหม่มักเกี่ยวข้องกับการรักษาอาการต่างๆ เช่น อาการเบื่ออาหารในเด็ก และอาการท้องร่วงเรื้อรังเป็นเวลา 2 ถึง 4 สัปดาห์ โดยมีการประเมินใหม่โดยแพทย์ เด็กควรใช้สูตรนี้ภายใต้การดูแลของแพทย์ที่มีคุณสมบัติเหมาะสมเสมอ
+
+## ปฏิกิริยากับยาแผนปัจจุบัน (Drug Interactions)
+Gan Cao (ชะเอมเทศ, 甘草): กลีเซอไรซินในชะเอมเทศมีปฏิกิริยาระหว่างกันกับยาหลายประเภทที่ได้รับการบันทึกไว้อย่างดี อาจทำให้โพแทสเซียมพร่องและกักเก็บโซเดียมได้ ซึ่งอาจทำให้ผลของยาขับปัสสาวะที่สูญเสียโพแทสเซียมแย่ลง (เช่น ฟูโรซีไมด์ ไฮโดรคลอโรไทอาไซด์) และเพิ่มความเสี่ยงต่อความเป็นพิษจากไกลโคไซด์ในหัวใจ เช่น ดิจอกซิน การใช้ในระยะยาวหรือในขนาดสูงร่วมกับคอร์ติโคสเตียรอยด์อาจเพิ่มผลข้างเคียงของมิเนอรัลโลคอร์ติคอยด์ ชะเอมเทศอาจต่อต้านผลกระทบของยาลดความดันโลหิตโดยส่งเสริมการกักเก็บของเหลวและเพิ่มความดันโลหิต
+Ren Shen (โสม, 人参): โสมประกอบด้วยจินเซนโนไซด์ที่อาจกระตุ้นเอนไซม์ไซโตโครม P450 ในตับ ซึ่งอาจลดประสิทธิภาพของวาร์ฟารินและยาต้านการแข็งตัวของเลือดอื่น ๆ มันอาจโต้ตอบกับอินซูลินหรือตัวแทนฤทธิ์ลดน้ำตาลในช่องปาก โดยส่งผลต่อระดับน้ำตาลในเลือด. ควรใช้ควบคู่กับสารยับยั้ง MAO หรือยากระตุ้นด้วยความระมัดระวัง เนื่องจากอาจเกิดผลกระตุ้นเพิ่มเติมได้
+บุคคลที่รับประทานยาตามใบสั่งแพทย์ โดยเฉพาะยาต้านการแข็งตัวของเลือด ยาลดความดันโลหิต ยาขับปัสสาวะ หรือไกลโคไซด์ในหัวใจ ควรปรึกษาแพทย์ที่สั่งจ่ายยาและผู้ประกอบวิชาชีพ TCM ที่มีคุณสมบัติก่อนใช้สูตรนี้
+
+## Usage & Dosage Guidance (คำแนะนำการใช้งาน & ปริมาณยา)
+- **เวลาที่ดีที่สุดในการรับประทาน**: ก่อนมื้ออาหาร 30 นาทีในขณะท้องว่าง รับประทานแบบอุ่น (饭前温服) ตามที่ระบุไว้ในแหล่งข้อมูลดั้งเดิม
+- **ระยะเวลาการใช้ยาโดยทั่วไป**: โดยปกติจะกำหนดไว้เป็นเวลา 2–4 สัปดาห์ โดยมีการประเมินใหม่โดยแพทย์ อาจขยายออกไปสำหรับภาวะขาดม้ามเรื้อรัง
+- **ข้อแนะนำเรื่องอาหารร่วมกับการใช้ยา**: 
+หลีกเลี่ยงอาหารและเครื่องดื่มที่เย็น ดิบ และแช่เย็น (เช่น ไอศกรีม สลัดเย็น เครื่องดื่มแช่เย็น และผลไม้ดิบมากเกินไป) ในขณะที่รับประทานสูตรนี้ เนื่องจากสิ่งเหล่านี้จะทำให้ม้ามเป็นภาระมากขึ้น และต่อต้านผลกระทบจากภาวะโลกร้อนและการปรับสภาพของสมุนไพร
+หลีกเลี่ยงอาหารมันๆ หนักๆ และมากเกินไป (ของทอด เนื้อมันๆ ผลิตภัณฑ์จากนมมากเกินไป) ซึ่งอาจทำให้เกิดความชื้นและความเมื่อยล้า ซึ่งเป็นอุปสรรคต่อการเคลื่อนที่ของ Qi ของสูตร
+เลือกรับประทานอาหารที่อุ่น ย่อยง่าย และมีคุณค่าทางโภชนาการ เช่น โจ๊ก (โจ๊ก) ซุปที่ปรุงสุกอย่างดี ผักนึ่ง ลูกเดือย มันเทศ อินทผลัมพุทรา และโปรตีนไร้ไขมัน การรับประทานอาหารในปริมาณปานกลางเป็นประจำในเวลาสม่ำเสมอจะช่วยให้ม้ามและกระเพาะอาหารฟื้นตัวได้ตามที่สูตรนี้ส่งเสริม
+
+## งานวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **[Effect of Yi Gong San Decoction on Iron Homeostasis in a Mouse Model of Acute Inflammation (Preclinical, 2016)](https://doi.org/10.1155/2016/2696480)**
+   *วารสารวิชาการ: Zheng Q, Guan Y, Xia L, Wang Z, Jiang Y, Zhang X, Wang J, Wang G, Pu Y, Xia J, Luo M. Evidence-Based Complementary and Alternative Medicine, 2016, 2016:2696480.*
+   This animal study investigated how Yi Gong San affects iron metabolism during acute inflammation in mice. The researchers found that the formula helped regulate iron balance by reducing levels of hepcidin (a key iron-regulating hormone) through the IL-6/STAT3 and BMP/SMAD pathways. This provides a potential mechanism for how the formula may help with anaemia associated with chronic inflammation, a condition often seen in Spleen Qi deficiency patterns.
+
+2. **[Mechanism of Yigong San Anti-Gastric Cancer and Immune Regulation (Network Pharmacology, 2024)](https://pubmed.ncbi.nlm.nih.gov/38764819/)**
+   *วารสารวิชาการ: Lu DD, Yuan L, Wang ZZ, Zhao JJ, Du YH, Ning N, Chen GQ, Huang SC, Yang Y, Zhang Z, Nan Y. World Journal of Gastrointestinal Oncology, 2024, 16(5).*
+   This network pharmacology study explored the potential mechanisms by which Yi Gong San may exert anti-gastric cancer and immune-regulating effects. Through computational analysis and molecular docking, the researchers found that the formula's active components could effectively bind to therapeutic targets involved in cancer progression and immune regulation, suggesting its potential as an adjunctive treatment for gastric cancer.
+
+3. **[Yi Gong San Inhibits Tumor Immune Escape by Sensitizing Colorectal Cancer Stem Cells via the NF-κB Pathway (Preclinical, 2025)](https://doi.org/10.1186/s41065-025-00412-9)**
+   *วารสารวิชาการ: Shen P, Wu S, Chen Y, Feng G, Guo X, Chen Y, Wang Z, Shen Y, Wang H, Li K. Hereditas, 2025, 162(1):64.*
+   Using network pharmacology and laboratory experiments, this study found that Yi Gong San and its active component Gomisin B may inhibit colorectal cancer progression through the TLR4/NF-κB signalling pathway. The combined treatment of Yi Gong San with cisplatin enhanced anti-tumour effects, increased sensitivity to chemotherapy drugs, and reduced immune escape of cancer cells. While promising, these are preclinical findings requiring further clinical validation.
+
+4. **[Pharmacokinetics and Tissue Distribution of Yigong San in Rats (Preclinical, 2024)](https://pubmed.ncbi.nlm.nih.gov/38729539/)**
+   *วารสารวิชาการ: Journal of Ethnopharmacology, 2024, 332.*
+   This pharmacokinetic study identified eight key active compounds of Yi Gong San (including liquiritin, hesperidin, ginsenosides Rb1/Re/Rg1, and atractylenolides I and II) in rat plasma and tissues after oral administration. The compounds were widely distributed across various tissues, providing foundational data for understanding how the formula works in the body and supporting its development as a standardised modern medicine.
+
+
+---
+*ลิงก์ต้นฉบับภาษาอังกฤษ: [Me & Qi Formulas](https://www.meandqi.com/knowledge-base/formulas/yi-gong-san)*

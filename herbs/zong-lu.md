@@ -1,0 +1,144 @@
+# Zong Lu (棕榈)
+**English Name**: Palm fiber (Windmill palm petiole)  
+**Category**: Astringent herbs that stop bleeding (收敛止血药)  
+**Scientific Name**: Trachycarpus fortunei (Hook.f.) H. Wendl.  
+**Pharmaceutical Name**: Petiolus Trachycarpi  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Bitter (苦 kǔ), Astringent (涩 sè)  
+**Channels Entered**: Liver, Lungs, Large Intestine  
+**Parts Used**: Bark (皮 pí / 树皮 shù pí)  
+
+---
+
+## Summary
+Zong Lu is the fibrous leaf sheath of the windmill palm tree, used in Chinese medicine primarily to stop bleeding. It has a strong astringent quality that helps control various types of bleeding, especially heavy or prolonged menstrual bleeding. Because it is neutral in temperature, it can be combined with either cooling or warming herbs depending on whether the bleeding is caused by excess heat or deficient cold.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Menstrual Health, Bleeding Disorders, Reproductive Health
+- **TCM Actions**: Astringes and Stops Bleeding
+
+### How these actions work
+'Astringes and stops bleeding' means Zong Lu uses its strongly astringent nature to hold blood within the vessels and stop active bleeding. The bitter taste helps drain downward and clear, while the astringent taste creates a binding, contracting effect that physically tightens tissues and seals off leaking blood vessels. Because this herb is neutral in temperature (neither hot nor cold), it can be used for bleeding caused by either heat or cold, making it unusually versatile among hemostatic herbs.
+Zong Lu is especially valued for treating prolonged or heavy uterine bleeding (known as 'collapse and leaking' in TCM). It is also used for nosebleeds, vomiting blood, blood in the stool, and blood in the urine. However, its strong astringent nature means it should only be used when there is no active blood stasis (stagnant, clotted blood that needs to move). If used too early when stagnation is still present, it could trap old blood inside the body and make things worse. Classical texts advise that it works best when excessive bleeding has continued for some time and the old stagnant blood has already been cleared.
+
+---
+
+## Patterns Addressed
+### Spleen not controlling Blood
+- **Explanation**: When the Spleen is too weak to hold blood within its vessels, chronic bleeding results. This often manifests as prolonged menstrual bleeding, spotting between periods, or blood in the stool. Zong Lu's strong astringent and binding nature directly addresses the 'leaking' aspect of this pattern by physically contracting and tightening the vessels. Its neutral temperature makes it safe to use here, since Spleen Deficiency patterns tend toward cold and would be worsened by cold-natured herbs. In practice, Zong Lu provides symptomatic relief (stopping the bleed) while tonifying herbs like Huang Qi and Bai Zhu address the root cause.
+- **Clinical Signs & Symptoms**:
+  - **Postmenstrual Bleeding**: Prolonged or heavy periods that do not stop on schedule
+  - **Vaginal Spotting**: Continuous spotting or trickling between periods
+
+---
+
+## Commonly Used For
+### Vomiting Blood
+- **TCM Interpretation**: Recurrent or difficult-to-stop nosebleeds are most commonly attributed to heat in the blood level, often involving the Lung and Stomach channels that traverse the nasal area. The Lung opens to the nose, and when heat accumulates in the Lung channel, it can damage the delicate nasal blood vessels. Liver Fire rising upward is another common cause, as the Liver governs the smooth flow of blood and Fire causes reckless movement.
+- **Why it Helps**: Zong Lu enters the Lung channel and has a strong astringent action that physically stops nasal bleeding. Historically, the powdered charcoal form was blown directly into the nostril as an emergency treatment. It is also taken internally, often combined with other hemostatic herbs like Ce Bai Ye and Xue Yu Tan. The classical formula Zong Lu San (from the Ji Feng Pu Ji Fang) combines Zong Lu with Ci Ji (thistle), Hua Pi (birch bark), and Long Gu (dragon bone) specifically for chronic nosebleeds that will not stop.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-9g
+- **Maximum Dosage**: Up to 15g in severe bleeding, under practitioner supervision. When used as powder (ground charred form) taken directly with liquid rather than as decoction, the dose is typically 1-2g per administration.
+- **Dosage Notes**: Zong Lu is almost always used in its charred form (棕榈炭, Zong Lu Tan) rather than raw, as charring significantly enhances its hemostatic action. When decocted, the standard range is 3 to 9g. When taken as powdered charcoal mixed into warm water, wine, or rice water, the typical single dose is 1 to 2g (approximately 3 to 6 fen in traditional measurement). For uterine flooding (崩漏), it is often combined with other hemostatic herbs. For nosebleeds, the powdered charcoal can also be applied directly into the bleeding nostril. Li Shizhen noted that combining it with charred human hair (血余炭) improves its efficacy.
+- **Preparation**: Zong Lu is almost always processed by charring (煅炭法) before medicinal use. The classical method involves placing the clean palm sheath material in a sealed pot, covering with a slightly smaller lid sealed with clay, and heating over gentle fire until a white paper placed on the lid turns yellow-brown. After cooling, the charred material is removed. The key is to char the exterior while preserving some inner substance (存性). It should not be burned completely to white ash, as the Ri Hua Zi Ben Cao specifically cautions. For decoction, no special handling is required beyond using the charred form. For powdered use, the charcoal is ground and taken directly with warm liquid.
+
+---
+
+## Processing Methods
+### Z&#x14D;ng L&#x1D8; T&#xE0;n (&#x68D5;&#x6988;&#x70AD;)
+- **Processing Method**: The cleaned palm sheath fibers are placed in a sealed clay pot (or two pots sealed together with clay) and calcined over low fire. A piece of white paper is pasted on the outer pot as an indicator. When the paper turns scorched yellow, the fire is stopped and the product is allowed to cool before removal. The goal is to carbonize the herb while preserving its active properties (存性 cún xìng).
+- **How it Changes Properties**: Carbonizing greatly enhances the astringent and hemostatic properties. The charcoal form has stronger blood-stopping power than the raw herb. The raw form is described by some sources as slightly cool and suitable for heat-type bleeding, while the charcoal form is slightly warmer in nature and has a more powerful contracting action. The carbon particles themselves add adsorptive capacity that shortens clotting time.
+- **When to Use**: Zong Lu Tan is the standard form used in clinical practice. Virtually all prescriptions calling for Zong Lu intend the carbonized form. It is preferred for all types of bleeding, particularly uterine bleeding (崩漏), nosebleeds, vomiting blood, and bloody stool. Aged charcoal (陈棕炭) that has been stored for some time is considered even more effective.
+
+---
+
+## Common Herb Pairs
+### Ce Bai Ye (Ratio: 1:1 (equal parts))
+- **Description**: Zong Lu provides strong astringent hemostatic action, while Ce Bai Ye cools the blood and stops bleeding from a different angle. Together they create a combined cooling-and-binding effect that is greater than either herb alone. Zong Lu plugs the leak while Ce Bai Ye addresses the heat driving the blood out of its vessels.
+- **When to Use**: Blood heat with active bleeding, especially uterine bleeding (崩漏) or nosebleeds where both cooling and astringent action are needed. This pairing appears in the classical Zong Lu Pi San from the Sheng Ji Zong Lu.
+
+### Ai Ye (Ratio: 2:1 (Zong Lu 10g : Ai Ye 5g))
+- **Description**: Zong Lu astringes and stops bleeding while Ai Ye (mugwort leaf) warms the channels and stops bleeding from cold. Together they combine astringent hemostasis with channel-warming action, effectively treating deficiency-cold type bleeding that Zong Lu alone cannot fully address.
+- **When to Use**: Deficiency-cold uterine bleeding where the blood is pale, dilute, and chronic. Also for threatened miscarriage with bleeding and lower abdominal cold pain. The combination appears in classical formulas like Zong Mao San from the Pu Ji Fang, paired with stir-fried Pu Huang.
+
+### Xue Yu Tan (Ratio: 1:1 (equal parts))
+- **Description**: Both are astringent hemostatic herbs used in charcoal form. Zong Lu Tan has stronger astringent power, while Xue Yu Tan (carbonized human hair) also disperses stasis, helping to stop bleeding without trapping old blood. Together they stop bleeding more effectively while reducing the risk of blood stasis that can accompany heavy astringent use.
+- **When to Use**: Chronic bleeding of various types, especially nosebleeds and hematemesis. The classical Hei San Zi formula from the Ren Zhai Zhi Zhi Fang combines these two herbs with aged lotus receptacle for nosebleeds.
+
+### Pao jiang (Ratio: 2:1 (Zong Lu 10g : Pao Jiang 5g))
+- **Description**: Zong Lu astringes to stop bleeding, while Pao Jiang (blast-fried ginger) warms the middle and warms the channels to stop cold-type bleeding. The combination addresses both the symptom (bleeding) and the underlying cold that causes blood to leak from deficient vessels.
+- **When to Use**: Deficiency-cold bleeding patterns, especially chronic uterine bleeding, bloody stool from Spleen Yang Deficiency, or postpartum bleeding with cold signs like pale blood, cold limbs, and a pale tongue.
+
+---
+
+## Key Formulas
+Shi Hui San, Xing Su San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Zong Lu (the leaf petiole and sheath) is classified as non-toxic in the Ben Cao Shi Yi and subsequent materia medica texts. Its main active components include tannins, catechins, gallic acid, protocatechuic acid, and luteolin glycosides. No toxic reactions have been reported at standard medicinal dosages. Note that the flower bud or young fruiting body (棕笋/棕鱼) of the same plant was historically described as having "minor toxicity" (小毒) and requiring processing with honey or vinegar before consumption, but this is a different medicinal part from Zong Lu proper.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe at standard doses for short-term use during pregnancy, as the herb is neutral in thermal nature and primarily astringent rather than blood-moving. Classical texts actually include a formula (棕灰散, from the Sheng Ji Zong Lu) that uses charred Zong Lu combined with silkworm droppings and E Jiao specifically for bleeding and abdominal pain during pregnancy with threatened miscarriage. However, any bleeding during pregnancy requires professional medical evaluation. The flower bud (棕笋) of the same plant, which is a different medicinal part, was classically noted to "break blood" and disrupt pregnancy, and must not be confused with Zong Lu.
+- **Breastfeeding**: No specific contraindications during breastfeeding have been recorded in classical or modern sources. The herb is non-toxic and neutral in thermal nature, and its astringent properties are unlikely to transfer significantly through breast milk. Standard dosages are considered compatible with breastfeeding. If postpartum bleeding requires treatment, this herb would typically be prescribed by a practitioner who can assess whether any blood stasis remains before using an astringent.
+- **Children**: No specific age restrictions are noted in classical or modern sources. Dosage should be proportionally reduced for children based on age and body weight, generally one-third to one-half of adult dose. As with all astringent hemostatics, the underlying cause of bleeding in children should be properly diagnosed before use.
+
+### Drug Interactions
+No well-documented pharmacological interactions with specific modern drugs have been established in peer-reviewed literature. However, based on its known chemical constituents (tannins, catechins, gallic acid) and hemostatic mechanism of shortening clotting time, the following theoretical considerations apply:
+- Anticoagulant and antiplatelet drugs (warfarin, heparin, aspirin, clopidogrel): Zong Lu's hemostatic and procoagulant activity could theoretically counteract the effects of blood-thinning medications. Concurrent use should be supervised by a qualified practitioner.
+- Iron supplements and medications: The high tannin content in Zong Lu may bind with iron and reduce its absorption. If iron supplementation is needed, the two should be taken at least two hours apart.
+
+### Dietary Advice
+No strong dietary restrictions apply when taking Zong Lu. However, since it is most commonly used for bleeding conditions, general dietary guidance for such situations applies: avoid spicy, hot, and stimulating foods (chilli, alcohol, strong spices) that may aggravate blood Heat or damage blood vessels. Cold and raw foods should also be used with caution if the bleeding is related to Spleen deficiency failing to contain blood, as these foods can further weaken the Spleen.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Trachycarpus fortunei (Hook.f.) H.Wendl., commonly known as the Chinese windmill palm, Chusan palm, or hemp palm, is a hardy evergreen fan palm in the family Arecaceae. It grows as a single-stemmed tree reaching 10 to 20 metres in height, with a trunk 15 to 30 cm in diameter that is densely covered with persistent, coarse, dark brown fibrous material from old leaf sheaths. The leaves are large fan-shaped blades, palmately divided into 30 to 50 narrow leaflets, each up to 90 cm long, borne on long petioles (60 to 100 cm) lined with small teeth along the edges. The undersides of the leaves have a distinctive greyish, waxy coating.
+The species is dioecious, bearing separate male and female trees. In early summer it produces large dangling clusters of small yellow flowers, followed by dark blue-purple rounded fruits about 1 cm in diameter. It is remarkably cold-hardy for a palm, tolerating winter temperatures as low as minus 15 to minus 20 degrees Celsius, and grows naturally in subtropical and temperate mountain forests of southern and central China at altitudes from 100 to 2,400 metres.
+The medicinal part used in TCM (Zong Lu) is the dried leaf petiole base and sheath. Old leaf sheaths and petiole bases are harvested, the loose fibrous hairs (棕毛) are removed, and the material is sun-dried. It is most commonly charred (煅炭) before medicinal use to enhance its hemostatic effect.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Typically harvested in September to October, though collection is possible year-round. Aged material (陈棕) stored for years is considered superior for medicinal use.
+- **Primary Growing Regions**: Zong Lu is widely distributed throughout areas south of the Yangtze River in China. Major production regions include Guangdong, Fujian, Yunnan, Guizhou, Zhejiang, Sichuan, Hunan, Hubei, and Taiwan provinces. The plant grows both wild and cultivated in mountainous terrain at altitudes from 100 to 2,400 metres. There is no single strongly defined dao di (terroir) region for this herb, as it grows abundantly across southern China. Aged material (陈棕) is considered superior to freshly harvested material for medicinal use.
+- **Quality Indicators**: Good quality Zong Lu is reddish-brown in colour, appears as long flat strips (broad at one end, narrowing toward the other), and has a rough surface with visible longitudinal wrinkles and prominent fibres covered with dense brownish-red fine hairs. The texture should be hard and tough, difficult to break, with a distinctly fibrous cross-section. It should be nearly odourless with a bland taste. Aged material (陈棕, chen zong) is considered superior to freshly harvested material. For the charred form (棕榈炭), the exterior should be charred black while retaining some inner substance (存性, 'preserving its nature'), not burned completely to white ash.
+
+### Identity & Adulterants
+Commercial Zong Lu products come in several forms that should be distinguished: (1) Chen Zong Pi (陈棕皮) is aged palm sheath fibre in bundles or sheets, considered the best quality. (2) Zong Gu (棕骨, also called Zong Ban 棕板) is the petiole with outer fibre removed, appearing as reddish-brown strips with a raised triangular ridge on the back. (3) Chen Zong (陈棕) is recycled old palm rope or palm mattress fibre, darker in colour and of variable quality. All three forms are considered acceptable but differ in grade. Zong Lu should not be confused with the fruit (棕榈子, Zong Lu Zi) or the flower (棕榈花, Zong Lu Hua), which are separate medicinals with different properties. The fruit has astringent and intestine-securing properties, while the flower bud has mild toxicity and blood-moving activity, which is essentially opposite to the hemostatic purpose of Zong Lu.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Shi Yi (《本草拾遗》, Tang Dynasty)
+- **Original**: 「烧作灰，主破血止血。」
+- **Translation**: "Burned to ash, it breaks stasis and stops bleeding."
+
+### Historical Context
+Zong Lu was first recorded as a medicinal substance in the Tang Dynasty text Ben Cao Shi Yi (《本草拾遗》) by Chen Cangqi, under the name "Lü Mu Pi" (榈木皮, palm bark). The Jia You Ben Cao (《嘉祐本草》, Song Dynasty) later listed it as "Zong Lu Pi" (棕榈皮, palm sheath), attached under the entry for Zong Lu Zi (棕榈子, palm fruit). Over time, the sheath and petiole base became the most widely used medicinal part, overshadowing the fruit and other parts of the tree.
+The name "Zong" (棕) derives from the appearance of the dense, hair-like fibres covering the trunk, and alternative classical names include Bing Lu (并榈), Tang Zong (唐棕), and Shan Zong (山棕). The windmill palm has been cultivated in China for thousands of years, primarily for its incredibly strong leaf sheath fibre, which was woven into rope, rain capes (蓑衣), brooms, mattress stuffing, and coarse cloth. Its widespread practical use ensured that the medicinal applications of its various parts were well known to local communities throughout southern China.
+Li Shizhen in the Ben Cao Gang Mu made the clinically important observation that old, aged palm sheath material (年久败棕) is superior for medicinal use. He also clarified the principle that this herb should only be used when blood stasis has already been fully resolved, as its astringent nature seals whatever remains inside. This became a widely cited teaching on the proper use of astringent hemostatic herbs. The classical tradition also emphasized that the herb must be charred (烧灰) but not completely incinerated, a processing distinction that the Ri Hua Zi Ben Cao specifically noted.
+
+### Modern Scientific Research
+1. **[Characterization of Anti-bacterial Compounds from the Seed Coat of Chinese Windmill Palm Tree (Trachycarpus fortunei) (Laboratory study, 2017)](https://pubmed.ncbi.nlm.nih.gov/29046668/)**
+   *Journal: Khan S, Taning CNT, Bonneure E, Mangelinckx S, Smagghe G, Shah MM. Frontiers in Microbiology, 2017, 8, 1894.*
+   Researchers at Huazhong Agricultural University investigated the antibacterial properties of the seed coat of Trachycarpus fortunei. Using ethanol extraction and fractionation, they tested the material against six clinically relevant bacteria including Staphylococcus aureus and Escherichia coli. Two compounds showed significant antibacterial activity against Gram-negative bacteria, with the lowest minimum inhibitory concentration (39 micrograms/mL) achieved against Staphylococcus epidermidis. While this study examined the seed coat rather than the leaf petiole used as Zong Lu, it demonstrates bioactive potential in the species.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/zong-lu](https://www.meandqi.com/knowledge-base/herbs/zong-lu)*

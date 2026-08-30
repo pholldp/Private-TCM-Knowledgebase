@@ -1,0 +1,184 @@
+# Xi Yang Shen (西洋参)
+**English Name**: American ginseng root  
+**Category**: Qi-tonifying herbs (补气药)  
+**Scientific Name**: Panax quinquefolius L.  
+**Pharmaceutical Name**: Radix Panacis Quinquefolii  
+**Toxicity**: Non-toxic  
+**Temperature**: Cool | **Taste**: Sweet (甘 gān), Bitter (苦 kǔ)  
+**Channels Entered**: Heart, Lungs, Kidneys  
+**Parts Used**: Root (根 gēn)  
+
+---
+
+## Summary
+American ginseng is a cooling, nourishing herb that replenishes both Qi and Yin (the body's vital moisture and restorative reserves). Unlike Asian ginseng, which is warming, American ginseng gently boosts vitality without generating excess heat, making it well suited for people who feel tired, overheated, or dry. It is commonly used for fatigue with irritability, dry mouth and throat, and recovery from illness or prolonged stress.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Fatigue and recovery, Immune Support, Blood Sugar Support, Respiratory Health, Cardiovascular Health
+- **TCM Actions**: Benefits Qi and Nourishes Yin, Clears Deficiency Heat, Generates Fluids and Relieves Thirst, Clears Lung Heat and Generates Fluids, Benefits the Heart and calms restlessness
+
+### How these actions work
+'Tonifies Qi and nourishes Yin' means this herb simultaneously replenishes the body's vital force (Qi) and its deep moistening reserves (Yin). Many people who are run down suffer from both low vitality and a dry, depleted feeling. American ginseng addresses both at once. Unlike warming tonics such as Asian ginseng (Rén Shēn), it does this without adding heat to the body. The classical text Yī Xué Zhōng Zhōng Cān Xī Lù notes that for anyone who needs the Qi-boosting effect of ginseng but cannot tolerate its warmth, American ginseng is the ideal substitute.
+'Clears deficiency Heat' refers to the herb's ability to cool down the low-grade, smouldering heat that arises when Yin is depleted. This is not the high fever of an acute infection but the kind of persistent warmth seen in people with night sweats, hot palms and soles, flushed cheeks, and a feeling of restless warmth. The herb's cool nature and bitter taste allow it to gently descend and extinguish this internal fire.
+'Generates fluids and relieves thirst' means the herb promotes the body's production of nourishing fluids. This is why it is used for dry mouth, dry throat, and the excessive thirst that follows febrile illness, heavy sweating, or chronic dehydration. In TCM, fluid production is closely linked to Lung and Stomach Yin, both of which this herb supports.
+'Nourishes Lung Yin and clears Lung Fire' describes the herb's specific affinity for the Lungs. It moistens the Lungs while cooling any heat that has settled there. This makes it useful for chronic dry cough with little phlegm, coughing up blood-streaked sputum, or a hoarse, dry voice.
+
+---
+
+## Patterns Addressed
+### Qi and Yin Deficiency
+- **Explanation**: Xī Yáng Shēn is one of the few herbs that simultaneously tonifies Qi and nourishes Yin. Its sweet taste replenishes Qi, while its bitter, cool nature enriches Yin and clears the deficiency Heat that typically accompanies Yin depletion. It enters the Heart, Lung, and Kidney channels, directly addressing the organ systems most affected when both Qi and Yin are insufficient. This makes it particularly valuable after febrile illness, prolonged overwork, or heavy sweating, where the body's vitality and fluid reserves are both depleted.
+- **Clinical Signs & Symptoms**:
+  - **Dry Mouth And Throat At Night**: Dry mouth and throat, especially at night
+
+### Lung Yin Deficiency
+- **Explanation**: Xī Yáng Shēn enters the Lung channel and nourishes Lung Yin while clearing deficiency Fire from the Lungs. Its cool, moistening nature directly counteracts the dryness and heat that develop when the Lungs lack sufficient Yin. It both tonifies the Lung Qi needed to regulate respiration and replenishes the Yin fluids that keep the airways moist. This dual action makes it especially suitable for chronic respiratory conditions marked by dryness rather than phlegm.
+- **Clinical Signs & Symptoms**:
+
+### Stomach Yin Deficiency
+- **Explanation**: Although the Chinese Pharmacopoeia lists Xī Yáng Shēn's primary channel affinities as Heart, Lung, and Kidney, traditional sources also note its benefit to the Stomach. Its sweet taste nourishes the Stomach, and its fluid-generating action directly replenishes the Stomach's Yin reserves. When Stomach Yin is depleted, the Stomach loses its ability to properly ripen and transport food, and the resulting dryness and heat give rise to thirst and poor appetite. This herb's gentle, non-cloying nature makes it suitable for this delicate condition.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Reduced appetite with no desire for food
+
+---
+
+## Commonly Used For
+### Eye Fatigue
+- **Arises from**: Qi and Yin Deficiency
+- **TCM Interpretation**: In TCM, chronic fatigue is most commonly linked to deficiency of the Spleen and Lung Qi. However, when fatigue is accompanied by signs of heat (warm palms, afternoon flushing, irritability) and dryness (dry mouth, reduced body fluids), the underlying problem is a combined Qi and Yin deficiency. This often develops after prolonged illness, heavy sweating, overwork, or emotional stress that consumes both Qi and Yin. The body lacks the vital force to function and the nourishing fluids to keep itself cool and moist.
+- **Why it Helps**: Xī Yáng Shēn directly addresses both sides of this fatigue picture. Its sweet taste tonifies Qi, restoring the body's capacity for activity and alertness. Its cool, bitter nature simultaneously nourishes Yin and clears the low-grade heat that accompanies Yin depletion. Unlike warming Qi tonics such as Asian ginseng, it does not aggravate the internal heat. Modern pharmacological research shows American ginseng has anti-fatigue and adaptogenic properties, supporting the body's resilience to stress.
+
+### Diabetes
+- **Arises from**: Qi and Yin Deficiency, Stomach Yin Deficiency
+- **TCM Interpretation**: TCM understands diabetes-like symptoms through the lens of Xiāo Kě ('wasting and thirsting syndrome'), which involves the progressive depletion of Yin fluids and Qi. The Lung, Stomach, and Kidney organ systems are most affected. As Yin is consumed, internal Heat develops, which further damages fluids, creating a self-reinforcing cycle of thirst, weight loss, frequent urination, and fatigue. The root cause is typically Yin deficiency with deficiency Heat.
+- **Why it Helps**: Xī Yáng Shēn generates fluids, nourishes Yin, and clears deficiency Heat, directly addressing the core pathomechanism of Xiāo Kě. It enters the Lung and Kidney channels, targeting the upper and lower sources of the wasting and thirsting pattern. Clinical studies have shown that American ginseng can improve glycemic control in type 2 diabetes by increasing postprandial insulin levels and decreasing postprandial glycemic response, providing modern evidence for its traditional use in this condition.
+
+### Chronic Coughing
+- **Arises from**: Lung Yin Deficiency
+- **TCM Interpretation**: When the Lung's Yin reserves become depleted, the airways lose their natural moisture. This can follow a prolonged respiratory infection, chronic exposure to dry environments, smoking, or general Yin deficiency. Without sufficient Yin to cool and moisten them, the Lungs become dry and irritated, producing a persistent dry cough, sometimes with blood-streaked sputum. Deficiency Fire may flare upward, causing a hoarse voice and sore throat.
+- **Why it Helps**: Xī Yáng Shēn enters the Lung channel with a cool, moistening nature that directly nourishes Lung Yin and clears Lung Fire. It simultaneously tonifies Lung Qi, strengthening the Lung's ability to regulate respiration. This dual action of moistening and strengthening makes it particularly well suited for the chronic dry cough of Lung Yin deficiency, where both Qi and Yin need replenishing.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-6g
+- **Maximum Dosage**: Up to 9-10g per day under practitioner supervision for severe Qi and Yin deficiency with Heat signs; do not exceed without professional guidance.
+- **Dosage Notes**: The standard dose for decoction is 3-6g. When taken as sliced pieces for oral holding or chewing, 1-2 slices at a time (total 2-4g daily) is typical. For ground powder, 3-5g per day is common. Higher doses (up to 9g) may be used in cases of severe Qi and Yin depletion, such as during chemotherapy or radiotherapy support, but should always be guided by a practitioner. Lower doses (1-3g) are sufficient for general health maintenance and mild fatigue. Xi Yang Shen is often used alone (as a single herb in tea or soup) rather than in complex formulas, making careful dosing particularly important.
+- **Preparation**: Xi Yang Shen should be decocted separately (另煎, ling jian) from other herbs in a formula, then the resulting liquid combined with the main decoction before drinking. This prevents its active ginsenosides from being absorbed by other herb material during prolonged boiling. If used alone, it can be simmered gently or steeped in freshly boiled water with a lid for 5-10 minutes. It may also be sliced thin and held in the mouth for slow dissolution, or ground into powder for direct ingestion or capsule form.
+
+---
+
+## Processing Methods
+### X&#x12B; Y&#xE1;ng Sh&#x113;n Pi&#xE0;n (&#x897F;&#x6D0B;&#x53C2;&#x7247;)
+- **Processing Method**: The dried root is softened by spraying with water and covered with a damp cloth for 2-3 days, then sliced into thin pieces and air-dried.
+- **How it Changes Properties**: Slicing does not change the fundamental temperature, taste, or channel entry of the herb. The purpose is purely physical: thin slices allow the active constituents to dissolve more readily during decoction or when steeped in hot water, improving extraction efficiency.
+- **When to Use**: The standard form for most clinical use. Thin slices are used in decoctions, steeped as tea, or held in the mouth and chewed slowly for direct absorption. This is the most common form encountered in practice.
+
+---
+
+## Common Herb Pairs
+### Mai Dong (Ratio: 1:2 (Xi Yang Shen 5g : Mai Dong 10g))
+- **Description**: Xī Yáng Shēn tonifies Qi while Mài Dōng deeply nourishes Yin and moistens the Lungs and Stomach. Together they address Qi and Yin deficiency more powerfully than either herb alone, replenishing both the body's vital force and its fluid reserves.
+- **When to Use**: Chronic dry cough, dry throat, thirst after febrile illness, or general fatigue with Yin deficiency signs such as dry mouth and mild afternoon heat.
+
+### Shi Hu (Ratio: 1:2 (Xi Yang Shen 5g : Shi Hu 10g))
+- **Description**: Xī Yáng Shēn tonifies Qi and generates fluids from the Lung and Kidney side, while Shí Hú (Dendrobium) strongly nourishes Stomach Yin and generates fluids from the Stomach side. The pair provides comprehensive Yin nourishment across multiple organ systems.
+- **When to Use**: Stomach Yin deficiency with dry mouth, poor appetite, and thirst; also used during recovery from febrile diseases that have damaged both Qi and Stomach fluids.
+
+### Huang Lian (Ratio: 2:1 (Xi Yang Shen 6g : Huang Lian 3g))
+- **Description**: Xī Yáng Shēn nourishes Qi and Yin to address the root deficiency, while Huáng Lián's intensely bitter, cold nature powerfully clears Heat and Fire. The combination treats the root (Qi and Yin deficiency) and the branch (excess Heat or Fire) simultaneously.
+- **When to Use**: Summer Heat patterns where both Qi/Yin depletion and active Heat or irritability are present; also useful when deficiency Heat is particularly pronounced.
+
+### Wu Wei Zi (Ratio: 5:3 (Xi Yang Shen 5g : Wu Wei Zi 3g))
+- **Description**: Xī Yáng Shēn tonifies and generates, while Wǔ Wèi Zǐ astringes and preserves. The pair replenishes Qi and Yin while preventing their further loss through sweating, coughing, or fluid leakage. This is the core dynamic of the Shēng Mài Sǎn formula concept.
+- **When to Use**: Sweating and fatigue from summer heat, chronic cough with shortness of breath, or heart palpitations from Qi and Yin depletion.
+
+---
+
+## Key Formulas
+Qing Shu Yi Qi Tang, Sheng Mai San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Xi Yang Shen is classified as non-toxic in the Chinese Pharmacopoeia and has a well-established safety profile at standard doses. Excessive dosage may occasionally cause overstimulation of the central nervous system, leading to restlessness, insomnia, headache, or excitability. Some individuals may experience gastrointestinal discomfort, sensation of cold, reduced appetite, or loose stools due to its cool nature. Rare allergic reactions (skin blisters, itching) have been reported. These side effects resolve upon discontinuation. A 12-week randomized controlled trial specifically assessing safety of American ginseng extract in type 2 diabetes patients found no adverse effects on kidney function, liver function, or hemostatic parameters compared to placebo.
+
+### Contraindications
+- **[Caution]** Cold-Damp patterns of the Spleen and Stomach (spleen-stomach deficiency cold): Xi Yang Shen is cool in nature and can worsen symptoms such as loose stools, cold limbs, poor appetite, and abdominal distension in people with underlying cold in the digestive system.
+- **[Caution]** Dampness or phlegm-fluid accumulation: People with excessive phlegm, copious saliva, or edema should avoid Xi Yang Shen, as its cool, moistening nature can aggravate fluid retention and dampness.
+- **[Caution]** Acute wind-cold exterior patterns (early-stage common cold with chills): Xi Yang Shen's cool, supplementing nature can trap the pathogen inside and delay recovery from external cold conditions.
+- **[Caution]** Yang deficiency with pronounced cold signs: Xi Yang Shen is a cool-natured tonic unsuitable for people with pronounced Yang deficiency marked by persistent cold sensations, pale complexion, and watery stools.
+
+### Classical Incompatibilities
+Xi Yang Shen is incompatible with Li Lu (藜芦, Veratrum) according to the Eighteen Incompatibilities (十八反). The classical verse states: 诸参辛芍叛藜芦 ("All the ginsengs, Xi Xin, and Shao Yao are antagonistic to Li Lu"). This includes all members of the Shen (参) group: Ren Shen, Dang Shen, Sha Shen, Dan Shen, Ku Shen, and Xi Yang Shen. Do not combine Xi Yang Shen with Li Lu in any formula.
+
+### Special Populations
+- **Pregnancy**: Xi Yang Shen should be used with caution during pregnancy. An in vitro study using rat embryo culture models found that ginsenoside Rb1, a major active component in ginseng species, had teratogenic effects at high concentrations. While no definitive human studies confirm harm, several pharmacological references classify ginseng as likely unsafe in pregnancy. The cool nature of Xi Yang Shen could also theoretically affect fetal development in constitutionally cold patients. Pregnant women should consult a qualified practitioner before use.
+- **Breastfeeding**: There is insufficient data on whether the ginsenosides in Xi Yang Shen transfer into breast milk or affect lactation. No specific adverse effects during breastfeeding have been established in clinical literature. As a precaution, breastfeeding mothers should consult a qualified healthcare provider before use and avoid exceeding standard doses.
+- **Children**: Xi Yang Shen is generally not a first-line herb for children. If used under professional guidance, dosages should be significantly reduced according to age and body weight (typically one-quarter to one-half of the adult dose for children over 6 years old). It is not recommended for infants or very young children. Children with cold constitutions or weak digestion should avoid this herb due to its cool nature.
+
+### Drug Interactions
+Warfarin (and other anticoagulants): A well-conducted RCT in 20 healthy subjects demonstrated that American ginseng significantly reduced warfarin's anticoagulant effect, lowering peak INR and plasma warfarin levels. The mechanism may involve upregulation of hepatic CYP2C9 and CYP3A4, which metabolize warfarin, as well as restoration of vitamin K-dependent coagulation factors. Patients on warfarin or similar anticoagulants should inform their prescriber before taking Xi Yang Shen, as dose adjustments may be necessary.
+Diabetes medications (insulin, metformin, sulfonylureas): American ginseng has been shown in multiple clinical trials to reduce postprandial blood sugar. When combined with blood-sugar-lowering medications, there is a theoretical risk of hypoglycemia (excessively low blood sugar). Blood glucose should be monitored closely if Xi Yang Shen is used alongside diabetes medications.
+MAO inhibitors and certain antidepressants: Ginsenosides may have mild stimulatory effects on the central nervous system. Co-administration with MAO inhibitors (such as phenelzine or tranylcypromine) could theoretically increase the risk of side effects such as headache, restlessness, or insomnia.
+Immunosuppressants: Because American ginseng may stimulate immune function, it could theoretically counteract medications designed to suppress the immune system (used after organ transplants or for autoimmune conditions). Patients on immunosuppressive therapy should exercise caution.
+
+### Dietary Advice
+Avoid eating radish (luobo) within 24 hours of taking Xi Yang Shen, as radish is traditionally considered to "break Qi" and counteract the herb's Qi-supplementing effect. Avoid strong tea and coffee when taking Xi Yang Shen, as the tannins in tea may bind and degrade the active ginsenosides, and caffeine may oppose its calming properties. Cold, raw foods should be consumed in moderation if the person already tends toward cold digestion, as Xi Yang Shen's cool nature could compound the effect.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Panax quinquefolius L. is a slow-growing perennial herb in the Araliaceae (ginseng) family. The plant reaches about 25-50 cm tall with a single erect, smooth stem bearing 3-5 palmately compound leaves, each consisting of 5 broadly ovate to obovate leaflets with coarsely serrated margins. In summer (July to August), a single umbel of small greenish-white flowers emerges from the leaf axils. By September, these develop into clusters of bright red, flattened-spherical berries. The whole plant is hairless.
+The medicinal root is fleshy, cylindrical to spindle-shaped, 1.5-9 cm long and 0.5-3 cm in diameter, with a pale yellowish to tan exterior marked by dense fine transverse ring lines and sparse longitudinal wrinkles. The plant prefers shaded, moist forest environments with deep, well-drained, slightly acidic to neutral sandy loam soils, and cannot tolerate strong sunlight or high temperatures. It is native to the deciduous forests of eastern North America.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late autumn (typically September to October), after 3-5 years of cultivation (imported roots are often grown 4-7 years).
+- **Primary Growing Regions**: Xi Yang Shen is native to eastern North America. The highest-quality imported herb traditionally comes from Wisconsin (USA) and Ontario (Canada), where wild or semi-wild roots command premium prices. Canadian-grown American ginseng (primarily from Ontario and British Columbia) is currently the largest source of imported product.
+In China, cultivation began in the late 20th century. Major domestic growing regions include Jilin, Liaoning, and Heilongjiang provinces in the northeast (using methods similar to Ren Shen cultivation), and Shandong province (especially Wendeng and surrounding counties) and Beijing's Huairou district in the north. Shandong has become the largest domestic production area in recent years. Smaller-scale cultivation also occurs in Shaanxi, Shanxi, Fujian, and Yunnan at higher elevations.
+- **Quality Indicators**: High-quality Xi Yang Shen root is firm, heavy, and dense with a hard, slightly brittle texture. The exterior should be pale yellowish to tan with fine, closely spaced horizontal ring markings and a smooth, slightly oily luster. On cross-section, good quality root shows a pale yellowish-white interior with a visible brownish-yellow cambium ring, scattered orange-red or reddish-brown resin dots in the bark layer, and radial fissures sometimes described as a subtle chrysanthemum-like pattern. The aroma should be mild and fragrant. The taste is characteristically bitter at first, followed by a sweet aftertaste that lingers, leaving a clean, refreshing sensation in the mouth. Avoid roots that are lightweight, hollow, dark-colored, mushy, or lacking the bitter-then-sweet taste profile. Imported roots (especially wild or semi-wild from North America) tend to have more pronounced ring markings and denser flesh than cultivated domestic roots.
+
+### Identity & Adulterants
+The most common adulteration concern is substitution with Asian ginseng (Ren Shen, Panax ginseng), which is warm in nature and has opposite thermal properties to the cool Xi Yang Shen. This is a clinically significant error. Authentic Xi Yang Shen has a bitter-then-sweet taste with a clean, cooling mouthfeel, while Ren Shen tends to be sweeter with a warmer aftertaste. On cross-section, Xi Yang Shen shows fine chrysanthemum-like radial patterns with orange-red resin dots, while Ren Shen shows different textural features. HPLC analysis can distinguish the two by their different ginsenoside profiles (Xi Yang Shen is higher in Rb1 and Re, while Ren Shen is higher in Rg1). Domestic cultivated Xi Yang Shen is sometimes sold as the more expensive imported (Canadian or American) variety. The two can be distinguished by density, ring markings, and chemical fingerprinting, with imported roots generally being heavier and showing more pronounced ring patterns.
+
+---
+
+## References
+### Classical Texts
+#### 《本草从新》 (Ben Cao Cong Xin)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Xi Yang Shen has a unique history among Chinese herbs because it is one of the few important materia medica that originated outside China. Around 1714, a French Jesuit missionary named Joseph-François Lafitau, inspired by published descriptions of Asian ginseng found in China, searched for a similar plant in Canada. In 1716, with the help of local Indigenous peoples, he discovered American ginseng in the forests near Montreal. The plant was soon recognized as belonging to the same botanical family as the Chinese Ren Shen but a different species, and was named "Xi Yang Shen" (literally "Western Ocean Ginseng") because it came from across the Atlantic. It is also called Hua Qi Shen (花旗参, "Star-Spangled Banner Ginseng") after the American flag, a name that emerged when Guangzhou was the sole port for Western trade.
+The herb was first recorded in Chinese medical literature in the Qing Dynasty physician Wang Ang's Zeng Ding Ben Cao Bei Yao (增订本草备要), where it was noted as originating from France (then the colonial power in Canada). Zhao Xuemin's Ben Cao Gang Mu Shi Yi (本草纲目拾遗, 1765) further elaborated on its properties. Chinese physicians prized it as a "cool tonic" that could supplement Qi without the warming side effects of Asian ginseng, earning it the nickname "wu huo shen" (无火参, "the ginseng without Fire"). This made it especially valued in southern China's hotter climate and for patients with Yin deficiency and Heat signs.
+
+### Modern Scientific Research
+1. **[Randomized controlled trial: American ginseng reduces postprandial glycemia in diabetic and non-diabetic subjects (2000)]()**
+   *Journal: Vuksan V, Sievenpiper JL, Koo VY, Francis T, Beljan-Zdravkovic U, Xu Z, Vidgen E. Archives of Internal Medicine, 2000, 160(7):1009-1013.*
+   This study found that 3 grams of American ginseng taken 40 minutes before a glucose challenge significantly reduced postprandial blood sugar by about 18-22% in both people with type 2 diabetes and healthy subjects. The authors concluded that American ginseng can meaningfully lower blood sugar after meals.
+
+2. **[Double-blind RCT: Efficacy and safety of American ginseng extract on glycemic control in type 2 diabetes (2019)]()**
+   *Journal: Vuksan V, Xu ZZ, Jovanovski E, Jenkins AL, Beljan-Zdravkovic U, Sievenpiper JL, Stavro PM, Zurbau A, Duvnjak L, Li MZC. European Journal of Nutrition, 2019, 58(3):1237-1245.*
+   In a double-blind, randomized, crossover trial of 24 adults with type 2 diabetes, 3 grams per day of American ginseng extract for 8 weeks, added to existing treatment, was found to be a safe and effective add-on therapy for managing the condition. The study showed promising effects on glycemic, vascular, and lipid parameters.
+
+3. **[Randomized controlled trial: American ginseng reduces warfarin's effect in healthy patients (2004)]()**
+   *Journal: Yuan CS, Wei G, Dey L, Karrison T, Nahlik L, Maleckar S, Kasza K, Ang-Lee M, Moss J. Annals of Internal Medicine, 2004, 141(1):23-27.*
+   In this RCT of 20 healthy volunteers, two weeks of American ginseng supplementation significantly decreased warfarin's anticoagulant effect, as measured by reduced peak INR and plasma warfarin levels. This is the key clinical study establishing a potential ginseng-warfarin interaction.
+
+4. **[Double-blind RCT: Safety of American ginseng extract in long-term use in type 2 diabetes (2014)]()**
+   *Journal: Mucalo I, Jovanovski E, Vuksan V, Božikov V, Romić Z, Rahelić D. Evidence-Based Complementary and Alternative Medicine, 2014, 2014:969168.*
+   This study assessed the safety of 12 weeks of American ginseng supplementation in 74 patients with type 2 diabetes. No changes in kidney function, liver function, or hemostatic parameters were found between the ginseng and placebo groups, and adverse events did not differ in number or severity, confirming a favorable safety profile.
+
+5. **[Systematic review and meta-analysis: The effect of ginseng on glycemic control (2014)]()**
+   *Journal: Shishtar E, Sievenpiper JL, Djedovic V, Cozma AI, Ha V, Jayalath VH, Jenkins DJ, Meija SB, de Souza RJ, Jovanovski E, Vuksan V. PLoS ONE, 2014, 9(9):e107391.*
+   A meta-analysis of 16 randomized controlled trials found that ginseng (including American ginseng) significantly reduced fasting blood glucose by 0.31 mmol/L compared to placebo. The analysis provides moderate evidence supporting ginseng's potential role as an adjunctive therapy for blood sugar management.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xi-yang-shen](https://www.meandqi.com/knowledge-base/herbs/xi-yang-shen)*

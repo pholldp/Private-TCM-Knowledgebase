@@ -1,0 +1,290 @@
+# ภาวะเกล็ดเลือดต่ำ (血小板减少症)
+**คำอ่านพินอิน**: xuè xiǎo bǎn jiǎn shǎo zhèng | **ประเภท**: Condition | **หมวดหมู่**: ภาวะเลือดและหลอดเลือด, เลือดออกและตกเลือด  
+**ชื่อเรียกอื่นๆ**:  | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ประเภทของเลือดออกและอาการที่เกิดขึ้นจะบอกผู้ประกอบวิชาชีพ TCM ได้อย่างแน่ชัดว่ารูปแบบใดที่ทำให้เกิดเกล็ดเลือดต่ำ และผู้ป่วยส่วนใหญ่พบว่าอาการฟกช้ำดีขึ้น...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+Thrombocytopenia is a condition where the number of platelets in the blood falls below the normal range, increasing the risk of bleeding. Platelets are tiny cell fragments that clump together to form clots and stop bleeding.
+When counts are low, even minor bumps can cause large bruises, and spontaneous bleeding can occur from the gums, nose, or under the skin as tiny red dots called petechiae. In severe cases, internal bleeding may happen.
+Diagnosis is made through a complete blood count (CBC), and further tests - such as a peripheral blood smear, bone marrow biopsy, or antibody tests - help determine whether the cause is decreased production in the bone marrow, increased destruction by the immune system, or trapping of platelets in the spleen.
+
+### การรักษาหลัก (Treatments)
+Conventional treatment depends on the underlying cause and severity. Mild, asymptomatic thrombocytopenia often requires only monitoring. When treatment is needed, first-line options typically include corticosteroids like prednisone to suppress immune destruction, or intravenous immunoglobulin (IVIG) for a rapid but temporary boost. For chronic cases, thrombopoietin receptor agonists (such as eltrombopag or romiplostim) stimulate platelet production, while immunosuppressants like rituximab or mycophenolate may be used. In some cases, splenectomy is performed. Platelet transfusions are reserved for severe bleeding or very low counts with high bleeding risk.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM understands thrombocytopenia primarily as a failure of the body's ability to contain and generate blood. The Spleen's Qi is responsible for holding blood within the vessels - think of it like a gentle hand that keeps the river within its banks. When Spleen Qi becomes weak from chronic fatigue, poor diet, or prolonged illness, that hand weakens and blood can leak out, causing easy bruising, petechiae, and mild but persistent bleeding. This is the most common pattern in long-standing thrombocytopenia, and it's why so many patients also feel exhausted and look pale.
+But weakness isn't the only cause. Excess heat can agitate the blood, making it 'reckless' and forcing it out of the vessels - like a pot boiling over.
+This heat can come from an acute infection or toxin (Heat in the Blood pattern) or from a long-term depletion of the body's cooling, nourishing Yin fluids (Empty-Heat from Yin Deficiency pattern). In heat patterns, the bleeding is often more dramatic and sudden - bright red purpura, nosebleeds, or gum bleeding - and the tongue will be red with a rapid pulse. In deficiency patterns, the bleeding is usually milder but chronic, and the tongue is pale or thin with little coating.
+There are also patterns where the blood itself becomes sluggish and stuck (Blood Stagnation), blocking the production of fresh platelets and damaging vessel walls, or where the deepest constitutional reserves - Kidney Essence - are so depleted that the marrow cannot generate enough healthy blood.
+TCM's strength is that it doesn't treat all low platelet counts the same way. It reads the body's signals - tongue, pulse, and accompanying symptoms - to determine whether to cool heat, nourish deficiency, move stasis, or strengthen the Spleen and Kidneys. This is why two people with the same platelet count might receive completely different herbal formulas and acupuncture point selections.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner first asks how the bleeding or bruising began. A sudden outbreak of bright red spots, nosebleeds, or gum bleeding that feels hot points toward Heat in the Blood. The tongue will be red with a yellow coat, and the pulse will feel rapid and forceful. This pattern is about excess fire pushing blood out of the vessels, so the signs are acute and vivid.
+When the purpura is mild and chronic, and the person feels exhausted, has a pale face, and perhaps loose stools, the practitioner thinks of Qi not controlling Blood. Here the Spleen Qi is too weak to hold blood in place. The tongue is pale and puffy, and the pulse is thin and weak. This is the most common pattern in long-standing thrombocytopenia, and the bleeding is usually light but persistent.
+If the person complains of a dry mouth at night, hot palms and soles, night sweats, and a low-grade bleeding tendency, the picture shifts to Empty-Heat caused by Yin Deficiency. The tongue is red with little or no coat, and the pulse is thin and rapid. The heat here is not a raging fire but a smoldering one born from insufficient cooling Yin fluids, so the signs are more subtle and often worse in the evening.
+In more chronic or complicated cases, three other patterns may appear. Blood Stagnation shows fixed, dark purple spots and a dark purple tongue with a choppy pulse. Qi and Blood Deficiency brings overall pallor, dizziness, and a pale tongue with a weak pulse. Kidney Essence Deficiency adds lower back weakness, premature graying, and a very thin pulse. A practitioner checks these deeper signs to understand the root cause when the platelet count stays low despite treatment.
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Qi not controlling Blood
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-not-controlling-blood)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Easy bruising or small purple spots under the skin, Fatigue and lack of strength, with a pale, lusterless face, Poor appetite and loose stools, Shortness of breath and reluctance to speak, Heavy or prolonged menstrual bleeding in women
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and physical exhaustion, Cold, raw foods and iced drinks, Emotional stress and anger, Prolonged standing
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate rest and sleep, Warm, nourishing meals, Gentle exercise (walking, Tai Chi), Warmth or keeping the body warm
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Spleen’s Qi is responsible for holding blood within the vessels. When Spleen Qi becomes weak-often from chronic fatigue, poor diet, or prolonged illness-it can no longer perform this holding function. Blood then leaks out of the vessels, leading to easy bruising, petechiae, and other mild but persistent bleeding. Because the Spleen also produces Qi and Blood from food, this deficiency further impairs platelet production, creating a cycle of fatigue and low counts.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, puffy body with teeth marks along the edges and a thin white coating. Pulse: Fine (thready) and weak, especially at the right Guan (Spleen) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Spleen Qi is easily depleted by overwork, irregular eating, and mental strain, which directly weakens its ability to control blood. Warm, cooked meals and adequate rest conserve and rebuild Spleen Qi, allowing it to hold blood in the vessels and gradually raise platelet levels.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Focus on warm, easily digestible foods like congee, soups, and stews with ingredients such as ginger, dates, and root vegetables. Avoid raw, cold, and greasy foods that burden the Spleen. Prioritize rest and avoid overwork; gentle walking is beneficial, but stop before you feel tired.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | The primary formula to strengthen Spleen Qi, nourish Heart Blood, and restore the Spleen&#x2019;s ability to hold blood within the vessels. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Spleen Qi and raises the Yang, reinforcing the vessel-holding function to reduce bleeding. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes blood and gently invigorates circulation to support platelet production and repair. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Spleen Qi and supports the production of Qi and blood. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates the Spleen and nourishes blood, helping to stem chronic bleeding. |
+| **BL-20** | [Pishu BL-20](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20) | P&#xED; Sh&#x16B; | Tonifies the Spleen Qi and Yang, Resolves Dampness | Directly tonifies Spleen Qi, addressing the root deficiency. |
+
+---
+
+### Heat in the Blood
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/heat-in-the-blood)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Sudden onset of purpura and bleeding, Bright red nosebleeds, gum bleeding, or heavy periods, Feeling of internal heat, worse at night, Thirst with desire for cold drinks, Flushed red face and restlessness
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, fried, or greasy foods, Alcohol and coffee, Emotional stress and anger, Hot weather or overheating, Overwork and physical exhaustion
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods and drinks, Rest and calm environment, Cold compresses on bleeding sites, Staying hydrated
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When excess heat invades the blood, it agitates the blood like a pot boiling over. This reckless movement forces blood out of the vessels, causing sudden bleeding under the skin as purpura, from the nose, or from the gums. The heat also damages the vessels and consumes fluids, lowering platelet counts during acute flares.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red body with red spots or prickles, thin yellow dry coating. Pulse: rapid (数 shuò), wiry (弦 xián), and forceful.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Heat in the Blood is an excess-heat pattern, so anything that adds heat - like spicy food, alcohol, or emotional frustration - fans the flames and pushes blood out of vessels. Cooling foods and rest douse that internal fire, allowing the blood to calm down and stay where it belongs. Keeping the body cool and hydrated helps replenish the fluids that heat consumes, which supports the vessels and reduces bleeding.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Focus on cooling, yin-nourishing foods like cucumber, watermelon, mung beans, and chrysanthemum tea. Avoid spicy, greasy, and fried foods, as well as alcohol and coffee. Keep the body cool and hydrated, and prioritize rest to allow the blood to settle.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shi Hui San](https://www.meandqi.com/knowledge-base/formulas/shi-hui-san)** | Ten Partially-Charred Substances Powder &#xB7; Yu&#xE1;n dynasty, 1348 CE | Cold, Cools the Blood and Stops Bleeding, Clears Heat and Drains Fire, Drains Fire | The classic formula to cool the blood, stop bleeding, and clear heat, directly addressing the reckless movement of blood in acute thrombocytopenia. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bai Mao Gen](https://www.meandqi.com/knowledge-base/herbs/bai-mao-gen)** | Cogon grass rhizome |  | Cools blood, stops bleeding, and promotes fluid production to counteract heat-induced dryness. |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark |  | Clears heat from the blood and cools the blood, reducing the fiery agitation that drives bleeding. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood point; clears heat from the blood and stops bleeding. |
+| **PC-3** | [Quze PC-3](https://www.meandqi.com/knowledge-base/acupuncture/pericardium-meridian/quze-pc-3) | Q&#x16B; Z&#xE9; | Clears Heat and cools Blood, Subdues Rebellious Stomach Qi | Clears heat from the blood level and cools the heart, calming restlessness. |
+| **LR-2** | [Xingjian LR-2](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2) | X&#xED;ng ji&#x101;n | Clears Liver Fire and subdues Liver Yang, Clears Interior Wind | Drains liver fire, which often underlies blood heat, and helps subdue the upward surge of heat. |
+
+---
+
+### Empty-Heat caused by Yin Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/empty-heat-caused-by-yin-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Night sweats, Afternoon or evening feeling of heat (tidal heat), Dry mouth and throat, worse at night, Heat in the palms, soles, and chest, Flushed cheekbones, Restlessness and difficulty sleeping, Easy bruising or pinpoint purpura
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Spicy, fried, or greasy foods, Alcohol and coffee, Overwork and late nights, Emotional stress and anger, Hot weather or overheating
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Cooling foods and drinks, Adequate rest and sleep, Stress management, Gentle exercise (walking, Tai Chi), Cool environment
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body's cooling, nourishing resources (Yin) run low, a subtle internal heat builds up. This is not a raging fire but a restless, smoldering heat that stirs the blood and makes it move recklessly. Instead of staying safely inside the vessels, blood leaks out, causing easy bruising, purpura, and mild bleeding like nosebleeds or gum bleeding.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: red, thin, dry body with cracks and little or no coating. Pulse: fine (thready) and rapid.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Yin deficiency is like a cooling system running low - the body can't keep internal heat in check. Heating foods, alcohol, and emotional stress add more fire, while overwork and late nights burn through the little Yin that remains, making the blood more restless and prone to leaking. Cooling, moistening foods and rest replenish Yin and calm the empty heat, so blood can settle back into the vessels. Gentle movement keeps Qi flowing without draining resources, and a cool, calm environment helps the body preserve its precious cooling reserve.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Prioritize cooling, moistening foods like pear, cucumber, tofu, mung beans, and plenty of water. Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat and dry out Yin. Go to bed early and avoid overwork; gentle exercise like Tai Chi or walking can help without depleting you. Keep your environment cool and calm, and manage stress with breathing or meditation to prevent emotional heat from flaring.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | The classic formula to nourish Yin and clear deficiency heat, cooling the blood and stopping bleeding. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Mo Han Lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)** | Eclip&#x442;&#x430; herb (False Daisy) |  | Cools the blood and stops bleeding while enriching Yin. |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome |  | Clears deficiency heat and generates fluids to ease dryness. |
+| **[Huang Bo](https://www.meandqi.com/knowledge-base/herbs/huang-bo)** | Phellodendron bark |  | Drains deficiency fire from the lower body and stabilizes the Kidneys. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Tonifies Kidney Yin to extinguish empty heat at its root. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Nourishes Yin and clears deficiency heat, especially for night sweats. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Strengthens Kidney essence and supports marrow and blood production. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Yin and blood, harmonizes the Spleen and Kidney. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Cools the blood and stops bleeding by regulating blood movement. |
+
+---
+
+### Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fixed, stabbing pain that worsens at night, Dark purplish spots or bruises that do not fade, Dark purple tongue with stasis spots and distended sublingual veins, Choppy pulse that feels rough and uneven
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold exposure, Prolonged inactivity, Emotional stress and anger
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Gentle exercise (walking, Tai Chi), Warmth or keeping the body warm, Light stretching
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When blood flow becomes sluggish and congeals, it blocks the tiny vessels that nourish the skin and tissues. This trapped old blood damages the vessel walls, making them leaky and prone to bleeding. At the same time, the stagnation prevents fresh, healthy blood from being produced, so platelet counts stay low and dark, fixed purpura appear.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: dark purple body with stasis spots and distended, dark sublingual veins. Pulse: choppy (涩 sè), like a knife scraping bamboo.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Blood stasis is like a river that has frozen over. Cold and stillness make it thicker and more stuck, so warmth and gentle movement are the most direct ways to thaw and circulate it. Emotional stress tightens the Liver Qi, which is responsible for keeping blood moving; when that flow constricts, stasis worsens.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the body warm and avoid cold, raw foods that congeal blood. Gentle daily movement like walking or tai chi helps keep blood flowing; avoid prolonged sitting. Include warming, blood-moving foods such as turmeric, ginger, and a splash of black vinegar in cooking.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | Invigorates blood, moves Qi, and dispels stasis in the chest and collaterals, addressing the root of the stagnation. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Activates blood circulation and dispels blood stasis without damaging healthy blood. |
+| **[San Qi](https://www.meandqi.com/knowledge-base/herbs/san-qi)** | Notoginseng root |  | Stops bleeding while simultaneously moving blood, making it ideal for stasis-related bleeding. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | The Sea of Blood point, invigorates blood and dispels stasis throughout the body. |
+| **BL-17** | [Geshu BL-17](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17) | G&#xE9; Sh&#x16B; | Invigorates Blood, Cools Blood Heat and stops bleeding | Influential point of blood, moves blood and stops pain caused by stasis. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Soothes Liver Qi to promote smooth blood flow and prevent further stasis. |
+
+---
+
+### Qi and Blood Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Persistent fatigue and weakness, Pale or sallow complexion, Dizziness or lightheadedness, Heart palpitations, Poor appetite, Pale lips and nail beds, Mild spontaneous bruising or petechiae
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and physical exhaustion, Emotional stress and anger, Cold, raw foods and iced drinks, Excessive exercise
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate rest and sleep, Warm, nourishing meals, Gentle exercise (walking, Tai Chi), Warmth or keeping the body warm
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Qi and Blood are the body's essential building blocks. When both are deficient, the Spleen cannot generate enough Blood to nourish the marrow, and the marrow lacks the raw materials to produce platelets. This leads to chronically low platelet counts, accompanied by profound fatigue and pallor.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine and weak, especially weak at the right guan (Spleen) position.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Qi and Blood are generated by the Spleen from food and rest. Overwork, stress, and cold raw foods deplete Spleen Qi, further reducing blood production. Rest, warmth, and nourishing foods support the Spleen, helping to rebuild Qi and Blood, which in turn provides the foundation for healthy platelet formation.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked meals like congees and stews to support Spleen Qi. Include blood-nourishing foods such as dark leafy greens, red dates, and small amounts of organ meats. Avoid raw, cold, and greasy foods that weaken digestion. Gentle daily movement like walking or tai chi helps Qi flow without depletion. Prioritize rest and consistent sleep.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ba Zhen Tang](https://www.meandqi.com/knowledge-base/formulas/ba-zhen-tang)** | Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | The classic formula to tonify both Qi and Blood, addressing the root deficiency that leads to poor platelet production. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Tonifies Qi to generate Blood and supports Spleen function. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes Blood and invigorates circulation, helping to build platelet-forming material. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens Spleen and Stomach to generate Qi and Blood. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Blood and harmonizes the Spleen. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Tonifies original Qi to support overall vitality and blood production. |
+
+---
+
+### Kidney Essence Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-essence-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Soreness and weakness of the lower back and knees, Premature greying or hair loss, Poor memory and difficulty concentrating, Frequent urination, especially at night, Low libido or sexual dysfunction, Mild but persistent purpura or easy bruising
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Overwork and physical exhaustion, Excessive sexual activity, Cold exposure, Late nights and insufficient sleep
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Adequate rest and sleep, Warm, nourishing meals, Gentle exercise (walking, Tai Chi), Moxibustion on low abdomen
+- **กลไกการเกิดอาการ (Why this happens)**:
+  The Kidneys store Essence (Jing), the body's deepest foundational substance that produces marrow and fills the bones. When Essence is depleted, the marrow cannot generate enough healthy blood, and the Spleen's ability to govern blood weakens because the root is not supported. This leads to a chronic, low-grade thrombocytopenia where platelet production is fundamentally impaired, and bleeding tends to be mild but persistent.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, thin body with little or no coating, possible fine cracks. Pulse: Fine, deep, and weak at both rear (Chi) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Kidney Essence is the body’s deepest reserve, built slowly over time and easily depleted by overexertion, lack of sleep, and excessive sexual activity. Cold contracts and further weakens the Kidneys’ warming function, while warm, nourishing foods and moxibustion gently replenish what has been lost. Rest and gentle movement allow the body to conserve and rebuild Essence, directly supporting the marrow’s ability to produce platelets.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, nourishing foods that support the Kidneys: bone broths, black sesame seeds, walnuts, goji berries, and dark leafy greens. Avoid overwork, late nights, and excessive sexual activity, as these drain Essence. Gentle daily movement like Tai Chi or walking helps circulate Qi without depleting reserves.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zuo Gui Wan](https://www.meandqi.com/knowledge-base/formulas/zuo-gui-wan)** | Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood | The primary formula to nourish Kidney Essence, strengthen marrow, and support blood production. |
+| **[Gui Pi Tang](https://www.meandqi.com/knowledge-base/formulas/gui-pi-tang)** | Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels. |
+| **[Shi Hui San](https://www.meandqi.com/knowledge-base/formulas/shi-hui-san)** | Ten Partially-Charred Substances Powder &#xB7; Yu&#xE1;n dynasty, 1348 CE | Cold, Cools the Blood and Stops Bleeding, Clears Heat and Drains Fire, Drains Fire | A classical emergency formula for stopping acute bleeding caused by excessive Heat in the Blood. It is used when someone experiences sudden, forceful bleeding from the upper body, such as vomiting blood, coughing up blood, or nosebleeds, with bright red blood. All ten herbs are charred to ash to enhance their ability to stop bleeding while also cooling the Blood and clearing Heat. This is a short-term, symptom-focused formula and is not intended for long-term use. |
+| **[Zhi Bai Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/zhi-bo-di-huang-wan)** | Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE | Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin | A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Ba Zhen Tang](https://www.meandqi.com/knowledge-base/formulas/ba-zhen-tang)** | Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE | Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen | A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood. |
+| **[Zuo Gui Wan](https://www.meandqi.com/knowledge-base/formulas/zuo-gui-wan)** | Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood | A classical formula designed to deeply nourish Kidney Yin and replenish the body&#x27;s vital essence and marrow. It is used when there is significant depletion of the body&#x27;s fundamental nourishing fluids and substances, leading to symptoms such as dizziness, lower back and knee weakness, night sweats, dry mouth and throat, and a general state of thinning or exhaustion. Unlike milder Yin-nourishing formulas, Zuo Gui Wan is a purely replenishing formula without any draining ingredients, making it suitable for more severe deficiency. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Deeply nourishes Kidney Essence and replenishes the marrow. |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit |  | Fortifies the Liver and Kidneys, enriching the blood and essence. |
+| **[Tu Si Zi](https://www.meandqi.com/knowledge-base/herbs/tu-si-zi)** | Chinese Dodder Seed |  | Tonifies Kidney Yang and Essence without being drying, gently supporting marrow function. |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit |  | Stabilizes the Kidneys and astringes essence, preventing further leakage. |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Bai Mao Gen](https://www.meandqi.com/knowledge-base/herbs/bai-mao-gen)** | Cogon grass rhizome | Cold, Cools the Blood and Stops Bleeding, Clears Heat and Promotes Urination, Clears Lung and Stomach Heat |  |
+| **[Mu Dan Pi](https://www.meandqi.com/knowledge-base/herbs/mu-dan-pi)** | Tree peony root bark | Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat |  |
+| **[Mo Han Lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)** | Eclip&#x442;&#x430; herb (False Daisy) | Cold, Nourishes Liver and Kidney Yin, Cools the Blood and Stops Bleeding, Darkens the hair and strengthens the teeth |  |
+| **[Zhi Mu](https://www.meandqi.com/knowledge-base/herbs/zhi-mu)** | Anemarrhena rhizome | Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst |  |
+| **[Huang Bo](https://www.meandqi.com/knowledge-base/herbs/huang-bo)** | Phellodendron bark | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[San Qi](https://www.meandqi.com/knowledge-base/herbs/san-qi)** | Notoginseng root | Warm, Dispels Stasis and Stops Bleeding, Invigorates Blood and Dispels Stasis, Reduces Swelling and Alleviates Pain |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit | Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes |  |
+| **[Tu Si Zi](https://www.meandqi.com/knowledge-base/herbs/tu-si-zi)** | Chinese Dodder Seed | Neutral, Tonifies Kidney Essence, Secures Essence and Stops Enuresis, Nourishes the Liver and Brightens the Eyes |  |
+| **[Shan Zhu Yu](https://www.meandqi.com/knowledge-base/herbs/shan-zhu-yu)** | Cornelian Cherry Fruit | Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | The back-Shu point of the Kidneys; tonifies Kidney Essence and strengthens the lower back. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | The Yuan-source point of the Kidney channel; nourishes Kidney Yin and Essence. |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Fortifies original Qi and nourishes Kidney Essence, especially with moxibustion. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | The Gate of Life; warms and replenishes Kidney Yang and Essence to support marrow. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can TCM actually raise my platelet count?
+Yes, many clinical studies show that Chinese herbal medicine and acupuncture can improve platelet counts, especially in immune thrombocytopenia (ITP). However, TCM's primary goal is to stop bleeding and restore the body's ability to generate and contain blood. Platelet count improvement is often seen as a downstream effect of correcting the underlying pattern - whether that means cooling heat, strengthening the Spleen, or nourishing Kidney Essence. The timeline varies: acute heat patterns may show a rise in platelets within weeks, while chronic deficiency patterns may take months of consistent treatment.
+
+### Is acupuncture safe when my platelets are low?
+Generally yes, but with precautions. Acupuncturists trained in treating blood disorders use very fine needles, gentle technique, and avoid deep needling in areas prone to bleeding. They will apply pressure for longer after needle removal to prevent bruising. If your platelet count is extremely low (below 20,000), your practitioner may modify the treatment - using fewer needles, avoiding certain points, or relying more on herbal therapy and moxibustion until counts stabilize. Always inform your practitioner of your latest platelet count before each session.
+
+### Can I take Chinese herbs while on prednisone or other immunosuppressants?
+Yes, TCM can be safely combined with conventional medications, and many patients begin herbal treatment while still on prednisone. The goal is often to support the body so that medication doses can be gradually reduced under medical supervision. Never stop or taper your medication on your own - always coordinate with both your prescribing doctor and your TCM practitioner. Some herbs (like Dan Shen or San Qi) have mild blood-moving properties, so it's essential to bring a full list of your medications to your TCM consultation to avoid any interactions.
+
+### What foods should I eat or avoid to help my platelets?
+In general, focus on warm, cooked, easily digestible foods that support the Spleen and build blood - soups, stews, congee, dark leafy greens, beets, and small amounts of high-quality protein. Avoid raw, cold, and greasy foods that weaken digestion, as well as alcohol and spicy foods that can aggravate heat and bleeding. If your pattern is heat-based, add cooling foods like cucumber, watermelon, and mung beans. If it's deficiency-based, emphasize blood-nourishing foods like bone broth, eggs, and dates. Your TCM practitioner can give you specific dietary guidance based on your pattern.
+
+### Will my platelets stay up after I stop TCM treatment?
+That depends on the pattern and how deeply the root imbalance has been corrected. In acute heat patterns, once the heat is cleared, platelet counts often stabilize quickly and remain normal. In chronic deficiency patterns - especially those involving Kidney Essence or Qi and Blood Deficiency - the body needs time to rebuild its reserves. After a course of treatment (typically 3-6 months), many patients maintain stable or improved counts with periodic follow-up and lifestyle adjustments. Some may need ongoing maintenance with gentle herbal formulas or seasonal acupuncture.
+
+### My doctor says my thrombocytopenia is idiopathic - can TCM still help?
+Absolutely. In fact, this is where TCM excels. 'Idiopathic' simply means Western medicine hasn't identified a specific cause, but TCM diagnosis doesn't rely on a single lab value or antibody test. By examining your tongue, pulse, and full symptom picture, a TCM practitioner can identify the underlying pattern - whether it's Spleen Qi failing to hold blood, hidden heat in the blood, or Kidney Essence depletion - and treat accordingly. Many patients with ITP find significant improvement when the pattern is addressed, even without a Western disease label.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Efficacy of Traditional Chinese Herbal Medicine in the Treatment of Immune-Mediated Thrombocytopenia: A Systematic Review and Meta-Analysis** ([ลิงก์](https://ajtcvm.scholasticahq.com/article/121502-efficacy-of-traditional-chinese-herbal-medicine-in-the-treatment-of-immune-mediated-thrombocytopenia-a-systematic-review-and-meta-analysis.pdf))
+   *วารสารวิชาการ: Authors not specified. American Journal of Traditional Chinese Veterinary Medicine, 2022. (Full citation details unavailable.)*
+   This meta-analysis evaluated RCTs of Chinese herbal medicine for ITP. Gui Pi Tang-based formulas significantly raised platelet counts and reduced bleeding symptoms with fewer adverse events than conventional therapy alone. The effect was most pronounced in deficiency-pattern ITP.
+
+2. **Observation on the Therapeutic Effect of Acupuncture Combined with Herbal Medicine on Immune Thrombocytopenia of Kidney Essence Deficiency Type** ([ลิงก์](https://www.acumoxj.com/uploads/20230620/5012821abc10c0a50c36af6682cf484c.pdf))
+   *วารสารวิชาการ: Authors not specified. Shanghai Journal of Acupuncture and Moxibustion, 2023. (Full citation details unavailable.)*
+   This clinical trial treated ITP patients with Kidney Essence Deficiency pattern using acupuncture at Shenshu, Taixi, and Zusanli plus a modified Zuo Gui Wan. Platelet counts increased significantly, and bleeding scores improved compared to baseline.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/thrombocytopenia)*

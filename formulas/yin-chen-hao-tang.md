@@ -1,0 +1,76 @@
+# Yin Chen Hao Tang (茵陈蒿汤)
+**English Name**: Artemisia Yinchenhao Decoction  
+**Category**: Heat-clearing and Dampness-drying formulas  
+**Dynasty/Source**: Shāng Hán Lùn (傷寒論, Treatise on Cold Damage) by Zhāng Zhòngjǐng  
+**Temperature**: Cold | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical three-herb formula used to clear Heat and drain Dampness from the body, primarily for jaundice with bright yellow skin and eyes. It is one of the most important traditional formulas for liver and gallbladder conditions where Damp-Heat has accumulated, causing yellowing, digestive discomfort, and dark urine.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Clears Heat, Drains Dampness, Clears Damp-Heat and Resolves Jaundice, Promotes Bowel Movement, Benefits the Gallbladder
+- **Therapeutic Focus**: Liver Health, Jaundice, Liver and Gallbladder Health, Digestive Health
+- **Target Organs**: Liver, Gallbladder, Spleen, Stomach, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Hepatitis, Cholecystitis, Jaundice, Gallstones, Cirrhosis, Fatty Liver, Eczema, Acne, Cholestasis of Pregnancy
+- **Other Names**: Yin Chen Tang (茵陈汤, Capillaris Decoction)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Yin Chen** | Virgate Wormwood Herb | *King* | 18 - 30g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Liver, Gallbladder | The chief herb and the formula's namesake. It clears Damp-Heat from the Liver and Gallbladder and is the foremost herb in TCM for resolving jaundice. Used at the highest dosage (6:3:2 ratio with the other herbs), it powerfully drains Dampness and clears Heat, directly targeting the core pathomechanism of Damp-Heat steaming in the middle burner and overflowing into the skin. |
+| **Zhi Zi** | Gardenia fruit | *Deputy* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, San Jiao (Triple Burner) | Clears Heat and drains Fire from all three burners. It assists Yin Chen Hao by guiding Damp-Heat downward through the urinary tract, promoting the elimination of pathogenic Heat via the urine. Its bitter, cold nature powerfully clears accumulated Heat from the Liver and Gallbladder. |
+| **Da Huang** | Rhubarb root and rhizome | *Assistant* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges accumulated Heat and disperses stagnation through the bowels. In this formula, Da Huang is used at a relatively low dose (compared to the Cheng Qi Tang purgative formulas) because its role is not aggressive purgation but rather clearing stagnant Heat and invigorating Blood to help resolve the underlying stasis that contributes to jaundice. It provides a second route for Damp-Heat elimination via the stool. |
+
+---
+
+## Scientific Research
+
+1. [Yinchenhao decoction in the treatment of cholestasis: A systematic review and meta-analysis (2015)](https://pubmed.ncbi.nlm.nih.gov/25849734/) (*Chen Z, Ma X, Zhao Y, Wang J, Zhang Y, Li J, Wang R, Zhu Y, Wang L, Xiao X. Journal of Ethnopharmacology, 2015, 172, 235-244*)
+> This meta-analysis reviewed 15 RCTs involving 1,405 patients with cholestasis. It found that Yinchenhao decoction significantly reduced elevated serum markers of cholestasis including ALT, AST, total bilirubin, and direct bilirubin, whether used alone or in combination. No serious adverse events were reported. The authors concluded the formula is an effective and safe treatment for cholestasis.
+2. [Comparative Evidence for ICP Treatment With TCM: A Network Meta-Analysis (2021)](https://pubmed.ncbi.nlm.nih.gov/34916949/) (*Frontiers in Pharmacology, 2021, 12, 774884*)
+> This network meta-analysis included 38 RCTs with 3,841 patients with intrahepatic cholestasis of pregnancy (ICP). It found that Yinchenhao decoction-based prescriptions combined with ursodeoxycholic acid (UDCA) significantly outperformed UDCA alone in reducing pruritus scores and serum levels of total bile acids, ALT, and AST. An optimized formulation with higher Yin Chen Hao and lower Da Huang doses showed the best overall results.
+3. [Therapeutic mechanism of Yinchenhao decoction in hepatic diseases: A review (2017)](https://pubmed.ncbi.nlm.nih.gov/28275293/) (*World Journal of Gastroenterology, 2017, 23(7), 1125-1132*)
+> This review summarized the biological activities and therapeutic mechanisms of the formula. The main active compounds identified were chlorogenic acid, rhein, geniposide, emodin, and scoparone. Pharmacological actions include inhibition of hepatic steatosis, reduction of liver cell apoptosis and necrosis, anti-inflammatory effects, and immune regulation.
+4. [Synergistic properties of YCHT active constituents in hepatic injury rats (2011)](https://pubmed.ncbi.nlm.nih.gov/21835230/) (*Zhang A, Sun H, Yuan Y, Sun W, Jiao G, Wang X. Fitoterapia, 2011, 82(8), 1160-1168*)
+> This study investigated the three principal active compounds of the formula (6,7-dimethylesculetin from Yin Chen Hao, geniposide from Zhi Zi, and rhein from Da Huang) in a rat liver injury model. The three-compound combination exerted stronger therapeutic and synergistic effects than any single or dual combination, with increased plasma levels and slower elimination rates, providing pharmacological evidence for the classical formula's composition.
+5. YCHT preventing and treating alcoholic fatty liver disease through PPAR signaling pathway (2022) (*Evidence-Based Complementary and Alternative Medicine, 2022, 2022, 4561549*)
+> Using network pharmacology and RNA sequencing in a mouse model of alcoholic fatty liver disease, this study found that YCHT effectively alleviated hepatic steatosis and fibrosis. The mechanism involved regulation of the PPAR signaling pathway, reducing liver fat deposition and scavenging oxygen free radicals.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Generally contraindicated during pregnancy. Da Huang (rhubarb) is classified as a pregnancy-caution herb in the Chinese Pharmacopoeia. Animal studies have shown that Da Huang water extract causes dose-dependent increases in miscarriage rates in pregnant mice, and can directly affect the uterine environment and early embryonic development. Zhi Zi (gardenia) contains geniposide, which animal studies suggest may stimulate uterine smooth muscle contractions. Although modified versions of this formula have been used in clinical trials for intrahepatic cholestasis of pregnancy (ICP) in China, these were under strict medical supervision with reduced Da Huang dosages (typically under 5g). Self-administration during pregnancy is not recommended. Pregnant women experiencing jaundice should seek professional guidance before using this formula.
+
+### Breastfeeding
+Use with caution during breastfeeding. Da Huang (rhubarb) contains anthraquinone compounds (such as rhein and emodin) that may pass into breast milk. Because these compounds have purgative properties, nursing infants may experience gastrointestinal discomfort or diarrhea if exposed through breast milk. Zhi Zi (gardenia) is strongly cold in nature, and its effects on lactation or the nursing infant have not been well studied. If the formula is necessary for the breastfeeding mother, a practitioner should consider reducing the Da Huang dose, monitoring the infant for loose stools, and timing doses to minimize overlap with nursing sessions. Short-term use under professional supervision may be acceptable, but prolonged use is not advisable.
+
+### Children
+Yin Chen Hao Tang has a long history of pediatric use in China, particularly for neonatal jaundice (both physiological and pathological). However, the dosage must be significantly reduced according to the child's age and weight. Common modern dosage guidelines suggest roughly one-quarter to one-third of the adult dose for children under 6, and one-half the adult dose for children aged 6-12. Da Huang (rhubarb) should be used at the lowest effective dose in children, as its purgative effect can easily cause diarrhea and fluid loss in small bodies. In Chinese hospitals, derivative preparations such as Yinzhihuang oral liquid are commonly preferred over the raw decoction for neonates and infants due to standardized dosing. All pediatric use should be under qualified practitioner supervision, and the formula should be discontinued promptly once jaundice resolves.
+
+### Drug Interactions
+Anticoagulants and antiplatelet agents (e.g. warfarin, heparin, aspirin): Da Huang (rhubarb) contains anthraquinones that can bind with warfarin and affect its absorption. Its purgative action may cause diarrhea, which can further increase anticoagulant effects and bleeding risk. Da Huang also has mild blood-moving properties. Concurrent use may require closer INR monitoring.
+Diuretics (e.g. furosemide, hydrochlorothiazide): Research has shown that anthraquinones from Da Huang (particularly rhein) can inhibit human organic anion transporters (hOAT1 and hOAT3), which are involved in the renal handling of diuretics like furosemide. This could alter diuretic drug levels. Additionally, combining the formula's dampness-draining effect with pharmaceutical diuretics may risk excessive fluid loss or electrolyte imbalance, particularly potassium depletion.
+Cardiac glycosides (e.g. digoxin): The purgative action of Da Huang may cause potassium loss through diarrhea, which could increase the toxicity of cardiac glycosides. Electrolyte levels should be monitored.
+Immunosuppressants (e.g. cyclosporine): Rhubarb has been reported to potentially reduce blood levels of cyclosporine, possibly diminishing its immunosuppressive effect.
+Hepatotoxic medications: Since this formula is used for liver conditions and all three herbs undergo hepatic processing, combining it with drugs known to cause liver damage (e.g. acetaminophen in high doses, certain statins, methotrexate) warrants caution and liver function monitoring.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: 30 minutes after meals, divided into 2-3 doses throughout the day. Taking after meals reduces the likelihood of stomach upset from the bitter, cold herbs.
+- **Typical Duration**: Acute use: typically 3-10 days, reassessed as symptoms improve and jaundice resolves. Not intended for long-term use.
+- **Dietary Advice**: Avoid greasy, fried, and fatty foods, as these generate further Dampness and Heat, directly opposing the formula's therapeutic action. Alcohol should be strictly avoided, as it produces Damp-Heat in the Liver and Gallbladder. Spicy, hot foods (chili, black pepper, lamb, deep-fried items) should also be minimized, as they can aggravate internal Heat. Cold and raw foods should be consumed sparingly to protect the Spleen's digestive function. Favor light, easily digestible foods such as congee (rice porridge), clear soups, mung beans, winter melon, barley water, and steamed vegetables. These support the Spleen while gently clearing Dampness. Bitter melon and fresh leafy greens may be moderately helpful. Keep meals small and regular rather than heavy.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/yin-chen-hao-tang](https://www.meandqi.com/knowledge-base/formulas/yin-chen-hao-tang)*

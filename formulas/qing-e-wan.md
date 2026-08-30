@@ -1,0 +1,73 @@
+# Qing E Wan (青娥丸)
+**English Name**: Young Maiden Pill  
+**Category**: Yang-tonifying formulas  
+**Dynasty/Source**: Tai Ping Hui Min He Ji Ju Fang (太平惠民和剂局方)  
+**Temperature**: Warm | **Form**: Pill (Wan)
+
+---
+
+## Summary
+A classical formula for strengthening the lower back and knees by warming and supporting the Kidneys. It is used for lower back pain, weak knees, and general signs of Kidney Yang decline such as cold sensitivity, fatigue, and difficulty moving, particularly in older adults or those with chronic overexertion.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Tonifies the Kidneys, Strengthens the Lower Back and Knees, Tonifies Kidney Yang, Strengthens the Sinews and Bones
+- **Therapeutic Focus**: Lower Back and Knee Health, Bone and Joint Health, Kidney Health, Healthy Aging
+- **Target Organs**: Kidneys, Liver
+- **Patterns Addressed**: 
+- **Conditions Treated**: Lower Back Pain, Osteoporosis, Chronic Lumbar Muscle Strain, Lumbar Disc Degeneration, Knee Pain, Erectile Dysfunction, Frequent Urination, Osteoarthritis
+- **Other Names**: Qing E Wan (青娥丸, Youth-Restoring Kidney Pill)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Du Zhong** | Eucommia bark | *King* | 480g (pill preparation ratio) | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys | Tonifies the Liver and Kidneys, strengthens the sinews and bones, and is the primary herb for treating Kidney deficiency lower back pain. Used salt-fried to direct its action downward to the Kidneys. As the largest dose in the formula, it directly addresses the core pathomechanism of Kidney weakness leading to structural decline in the lumbar region. |
+| **Bu Gu Zhi** | Psoralea fruit | *Deputy* | 240g (pill preparation ratio) | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Spleen | Warms Kidney Yang and consolidates Essence. Its name literally means 'bone-mending resin,' reflecting its classical reputation for strengthening bones. It powerfully reinforces Du Zhong's Kidney-warming action, adding direct Yang tonification to the formula's structural-support strategy. |
+| **Hu Tao Ren** | Walnut kernel | *Assistant* | 150g (pill preparation ratio) | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Kidneys, Lungs, Large Intestine | Tonifies the Kidneys, warms Yang, and nourishes Essence and Blood. Its oily, rich nature moistens and supplements, adding a nourishing dimension that prevents the formula from being purely warming and drying. Also helps bind the pill formulation. |
+| **Da Suan** | Garlic | *Envoy* | 120g (pill preparation ratio) | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Warms the interior, disperses Cold, unblocks stagnation, and promotes circulation through the channels. Its pungent, warming nature drives the formula's tonic herbs into the channels and sinews, helping to relieve pain by moving Qi and opening obstructions in the lumbar region. |
+
+---
+
+## Scientific Research
+
+1. Positive Effects of Qing'e Pill on Trabecular Microarchitecture and Its Mechanical Properties in Osteopenic Ovariectomised Mice (Preclinical study, 2019) (*Shuai B, Zhu R, Yang YP, Shen L, Xu XJ, Ma C, Lu L. Chinese Journal of Integrative Medicine, 2019, 25(4): 270-277.*)
+> This animal study found that Qing'e Pill improved trabecular bone microstructure and mechanical strength in mice with surgically induced osteoporosis (ovariectomy model), with the effect linked to increased expression of beta-catenin, a key protein in the Wnt signaling pathway that promotes bone formation.
+2. Qing'e Pill Inhibits Osteoblast Ferroptosis via ATM Serine/Threonine Kinase (ATM) and the PI3K/AKT Pathway in Primary Osteoporosis (Preclinical network pharmacology and animal study, 2022) (*Hao J, Bei J, Li Z, Han M, Ma B, Ma P, Zhou X. Frontiers in Pharmacology, 2022, 13: 902102.*)
+> Using network pharmacology and ovariectomized rat models, researchers found that Qing'e Pill could protect bone-forming osteoblast cells from a specific type of cell death called ferroptosis. The mechanism involved the PI3K/AKT signaling pathway, offering a novel explanation for the formula's anti-osteoporosis activity.
+3. Modified Qing'e Pills Exerts Anti-Osteoporosis Effects and Prevents Bone Loss by Enhancing Type H Blood Vessel Formation (Preclinical study, 2022) (*Lu J, Hu D, Ma C, Xu X, Shen L, Rong J, Zhao J, Shuai B. Frontiers in Endocrinology, 2022, 13: 998971.*)
+> This study demonstrated that modified Qing'e Pills prevented bone loss in glucocorticoid-induced osteoporosis by promoting the formation of a specific type of blood vessel (type H vessels) in bone tissue. The mechanism involved promoting VEGF and HIF-1a expression while alleviating vascular injury caused by activation of the renin-angiotensin system.
+4. Gut Microbiota and Metabonomics Used to Explore the Mechanism of Qing'e Pills in Alleviating Osteoporosis (Preclinical study, 2022) (*Xie H, Hua Z, Guo M, Lin S, Zhou Y, Weng Z, Wu L, Chen Z, Xu Z, Li W. Pharmaceutical Biology, 2022, 60(1): 785-800.*)
+> This study explored how Qing'e Pills may alleviate osteoporosis by modulating gut microbiota composition and metabolic pathways in ovariectomized rats, suggesting that the formula's bone-protective effects may partly work through the gut-bone axis.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Bu Gu Zhi (Psoralea fruit) is a strongly warming Kidney Yang tonic that contains psoralen and related compounds with potential hormonal activity. While Du Zhong (Eucommia bark) is traditionally considered to calm a restless fetus, the overall warming and Yang-tonifying nature of the formula may not be appropriate for all pregnant patients. A qualified practitioner should assess whether the formula is suitable on a case-by-case basis. Not recommended for self-prescription during pregnancy.
+
+### Breastfeeding
+No specific contraindication is established for breastfeeding. However, Bu Gu Zhi (Psoralea fruit) contains psoralen and isopsoralen, bioactive compounds whose transfer into breast milk has not been well studied. The formula's warm, Yang-tonifying nature is generally considered safe for postpartum recovery when Kidney Yang deficiency is present, but caution is advised. Consult a qualified practitioner before use during breastfeeding.
+
+### Children
+Qing E Wan is not a typical pediatric formula. It is designed for adults with Kidney Yang deficiency, a pattern that is far more common in middle-aged and elderly patients. Children and adolescents rarely require this type of Yang-warming Kidney tonic. The strong Yang-tonifying herbs (particularly Bu Gu Zhi) are generally not appropriate for developing bodies. Use in children should only be considered in exceptional cases under the guidance of a qualified practitioner experienced in pediatric TCM, with significant dose reduction.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Bu Gu Zhi (Psoralea fruit) contains coumarins, including psoralen and isopsoralen. These may theoretically interact with warfarin and other coumarin-based anticoagulants, potentially altering their effectiveness or increasing bleeding risk. Patients on blood-thinning medications should consult their physician before use.
+Photosensitizing drugs: Psoralen from Bu Gu Zhi is a known photosensitizer used in PUVA therapy for skin conditions. Concurrent use with other photosensitizing medications (such as tetracyclines, fluoroquinolones, or certain diuretics) may increase the risk of phototoxic skin reactions.
+Estrogen and hormone therapy: Research suggests Qing'e Pill may have estrogen-like effects with affinity for estrogen receptor alpha. Patients taking hormone replacement therapy or estrogen-sensitive medications should use this formula with caution, as it could theoretically amplify or interfere with hormonal effects.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Before meals, ideally in the morning and evening. Traditionally taken with warm water or, in classical preparation, with warm rice wine on an empty stomach to enhance absorption and direct the formula to the Kidneys.
+- **Typical Duration**: Chronic use: typically taken for 4-12 weeks as a course, then reassessed by a practitioner. May be taken in repeated courses for chronic Kidney deficiency conditions.
+- **Dietary Advice**: Favor warm, cooked foods that support the Kidneys: black beans, walnuts, dark sesame, lamb, bone broth, and warm soups. Avoid cold and raw foods such as salads, iced drinks, and excessive fruit, which can further weaken Yang and hinder the formula's warming action. Reduce intake of excessively greasy or phlegm-producing foods. Moderate salt intake is traditionally considered beneficial for guiding the formula's action toward the Kidneys.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/qing-e-wan](https://www.meandqi.com/knowledge-base/formulas/qing-e-wan)*

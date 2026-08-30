@@ -1,0 +1,68 @@
+# Gu Chong Tang (固冲汤)
+**English Name**: Stabilize the Thoroughfare Vessel Decoction  
+**Category**: Stabilizing and binding formulas (固涩剂), Uterine-bleeding-stabilizing and discharge-stopping formulas  
+**Dynasty/Source**: Yi Xue Zhong Zhong Can Xi Lu (医学衷中参西录, Records of Medicine with Reference to the West) by Zhang Xichun (张锡纯)  
+**Temperature**: Slightly Warm | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical formula designed to urgently stop heavy uterine bleeding (flooding) caused by weakness of the Spleen and Kidneys. It works by rebuilding the body's ability to hold Blood in its proper channels while using multiple astringent substances to stop the active bleeding. It is most appropriate when the bleeding is heavy, the blood is pale and watery, and the person feels exhausted, dizzy, and cold.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Tonifies Qi and Strengthens the Spleen, Secures the Chong and Ren Vessels, Astringes and Stops Bleeding, Nourishes Liver and Kidney Yin
+- **Therapeutic Focus**: Heavy Menstrual Bleeding, Women's Reproductive Health, Uterine Bleeding Support, Postpartum recovery
+- **Target Organs**: Spleen, Kidneys, Liver, Uterus
+- **Patterns Addressed**: 
+- **Conditions Treated**: Postmenstrual Bleeding, Bleeding, Postpartum Hemorrhage, Peptic Ulcer
+- **Other Names**: 
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bai Zhu** | White Atractylodes rhizome | *King* | 30g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach | Heavily dosed to powerfully tonify Spleen Qi, strengthening the Spleen's ability to govern and contain the Blood. As the Spleen controls the Chong vessel, restoring Spleen function is the primary strategy for stopping the flooding. |
+| **Huang Qi** | Astragalus root | *King* | 18g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Strongly supplements Qi and raises the Yang, reinforcing the Spleen's capacity to hold Blood within the vessels. Zhang Xichun noted Huang Qi is especially effective for women with Qi deficiency causing downward collapse and flooding. |
+| **Shan Zhu Yu** | Cornelian Cherry Fruit | *Deputy* | 24g | Temp: Slightly Warm<br>Taste: Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Liver, Kidneys | Supplements the Liver and Kidneys while powerfully binding and astringing. Its sour-warm nature restrains the leaking essence and secures the Chong and Ren vessels, directly addressing the Kidney's failure to store and contain. |
+| **Bai Shao** | White peony root | *Deputy* | 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Its sour flavor astringes Yin and restrains Blood, while nourishing the Liver and supplementing the Blood that has been lost through heavy bleeding. Assists Shan Zhu Yu in consolidating the Liver-Kidney axis. |
+| **Long Gu** | Dragon Bone (fossilised mammal bone) | *Assistant* | 24g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Heart, Liver, Kidneys | Heavily astringent and binding, it stabilizes the Chong vessel and secures leakage. Calcining enhances its astringent properties for more powerful hemostatic action in acute flooding. |
+| **Mu Li Ke** | Oyster shell | *Assistant* | 24g | Temp: Slightly Cool<br>Taste: Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Liver, Gallbladder, Kidneys | Works synergistically with Long Gu to astringe and bind, securing the Chong vessel and strengthening the original Qi of the Lower Burner. Calcining maximizes its hemostatic effect. |
+| **Hai Piao Shao** | Cuttlefish bone | *Assistant* | 12g | Temp: Slightly Warm<br>Taste: Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Spleen, Kidneys, Liver | Astringes and secures the Lower Burner, stopping bleeding while also having a mild Blood-invigorating action that prevents stasis from forming as the bleeding is stopped. |
+| **Zong Lu** | Palm fiber (Windmill palm petiole) | *Assistant* | 6g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)<br>Affinity: Liver, Lungs, Large Intestine | Carbonized to enhance its astringent hemostatic properties. Specifically effective at stopping uterine bleeding through direct astringent action. |
+| **Wu Bei Zi** | Chinese Gall | *Assistant* | 1.5g | Temp: Cold<br>Taste: Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Large Intestine, Kidneys | Strongly astringent and sour, it powerfully binds and stops bleeding. Used in very small dose, ground to fine powder and taken with the strained decoction rather than cooked in the pot. |
+| **Qian Cao** | Indian Madder root | *Assistant* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Heart | Stops bleeding while simultaneously invigorating Blood circulation. This crucial dual action prevents the many astringent ingredients from causing Blood stasis, ensuring the bleeding stops without trapping old Blood. |
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+This formula was designed for uterine flooding and excessive menstrual bleeding in non-pregnant women. It is not typically indicated during pregnancy. Several ingredients warrant caution: Qian Cao (Madder Root) has Blood-moving properties that could theoretically stimulate uterine activity, and the heavy astringent herbs (Wu Bei Zi, Zong Lu Tan) are not standard in pregnancy care. If a pregnant woman is experiencing threatened miscarriage with bleeding that matches this pattern (Qi deficiency, Chong vessel insecurity), a practitioner would likely modify the formula significantly or choose a more pregnancy-appropriate formula such as Shou Tai Wan. Use during pregnancy only under direct supervision of a qualified practitioner.
+
+### Breastfeeding
+No specific traditional contraindications exist for use of Gu Chong Tang during breastfeeding. The formula is composed primarily of Qi-tonifying and astringent herbs without known toxic components that transfer problematically through breast milk. However, the strongly astringent nature of the formula (Long Gu, Mu Li, Wu Bei Zi, Zong Lu Tan) could theoretically affect digestion if used long-term, and any impact on lactation volume has not been formally studied. Calcined mineral substances (Long Gu, Mu Li) contain calcium and trace minerals but at therapeutic doses are unlikely to pose concerns. Use under practitioner guidance is advised, particularly if the nursing infant shows any digestive changes.
+
+### Children
+Gu Chong Tang is a gynecological formula specifically designed for adult women with uterine bleeding due to Spleen-Kidney Qi deficiency and Chong vessel insecurity. It is not a standard pediatric prescription. In rare cases where adolescent girls experience dysfunctional uterine bleeding fitting this pattern (post-menarche), a practitioner might consider a significantly dose-reduced version, typically one-third to one-half of adult doses depending on the adolescent's age and body weight. The heavy mineral and astringent substances (Long Gu, Mu Li, Wu Bei Zi) should be used cautiously in children, as their digestive systems are more delicate. This formula should only be used in minors under the direct supervision of a qualified TCM practitioner experienced in pediatric care.
+
+### Drug Interactions
+Anticoagulants and antiplatelet drugs (e.g. warfarin, heparin, aspirin, clopidogrel): This formula is specifically designed to stop bleeding through astringent mechanisms. Its hemostatic action may directly oppose the therapeutic goals of anticoagulant or antiplatelet therapy. Concurrent use could unpredictably alter bleeding/clotting balance and should be closely monitored or avoided.
+Hormone replacement therapy and oral contraceptives: Since Gu Chong Tang is commonly used for dysfunctional uterine bleeding, patients may simultaneously be taking hormonal medications for the same condition. While no direct pharmacological antagonism is well-documented, the formula's mechanism of action (Qi tonification, astringency) operates on a different physiological axis than hormonal regulation. Coordinate use with both the prescribing physician and TCM practitioner.
+Iron supplements: The tannin-rich herbs in this formula, particularly Wu Bei Zi (Chinese Gall, rich in tannic acid), can bind with iron in the digestive tract, potentially reducing absorption of oral iron supplements. Patients taking iron for anemia secondary to blood loss should separate dosing by at least two hours.
+Calcium channel blockers and cardiac glycosides: The calcined mineral ingredients Long Gu and Mu Li contain significant calcium. Although the amount absorbed is modest, patients on calcium-sensitive medications should inform their prescriber.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: During active bleeding, take as soon as prepared regardless of meals. For ongoing treatment, take warm on an empty stomach, 30–60 minutes before meals, twice daily (morning and evening).
+- **Typical Duration**: Acute use for active bleeding: 1–3 doses may suffice; for persistent or recurrent bleeding, typically prescribed for 3–7 days, then reassessed and adjusted by a practitioner.
+- **Dietary Advice**: While taking this formula, favor warm, easily digestible, Spleen-nourishing foods such as congee (rice porridge), cooked root vegetables, warm soups, and well-cooked grains. Foods that support Blood production are also helpful: red dates, black sesame, and small amounts of bone broth.
+Avoid cold and raw foods (salads, iced drinks, raw fruit in excess), as these can further weaken the Spleen's function of containing Blood. Greasy, fried, and overly rich foods should also be minimized as they impair Spleen transportation. Avoid spicy, hot foods and alcohol, which can aggravate bleeding by moving Blood and generating Heat. Strongly astringent foods like strong black tea may compound the formula's binding effect and cause digestive discomfort.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/gu-chong-tang](https://www.meandqi.com/knowledge-base/formulas/gu-chong-tang)*

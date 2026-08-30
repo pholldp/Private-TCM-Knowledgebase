@@ -1,0 +1,268 @@
+# ก้อน (结节)
+**คำอ่านพินอิน**: jié jié | **ประเภท**: Symptom | **หมวดหมู่**: ก้อน บวม และฝี  
+**ชื่อเรียกอื่นๆ**: Tender Touchable Nodules, Subcutaneous nodules, Nodules or masses, Skin Nodules, Subcutaneous nodules near joints, Subcutaneous nodules or hard lumps near joints | **บริเวณร่างกาย**: 
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ก้อนเนื้อไม่ได้เป็นเพียงก้อนเนื้อที่ต้องเอาออก แต่ยังเป็นข้อความจากร่างกายของคุณเกี่ยวกับพลังชี่ เสมหะ หรือเลือดที่ติดอยู่ ด้วยการคืนค่าการไหลและแก้ไขความไม่สมดุลที่ซ่อนอยู่ TCM มักจะสามารถ...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+In conventional medicine, a nodule is a palpable, often firm lump of tissue that can form anywhere in the body - under the skin, in organs like the thyroid or lungs, or near joints. Most nodules are benign, but some require investigation with ultrasound, CT scans, or biopsy to rule out malignancy. Treatment depends on the cause: many are simply monitored, while others are surgically removed if they cause symptoms or concern.
+
+### การรักษาหลัก (Treatments)
+Watchful waiting with periodic imaging is common for small, asymptomatic nodules. If a nodule grows, causes pain, or appears suspicious, surgical excision is often recommended. For inflammatory nodules (like rheumatoid nodules), managing the underlying autoimmune condition with medications may help. There are no medications that reliably shrink benign nodules; surgery is the primary intervention.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+TCM sees a nodule as a physical accumulation - something that shouldn't be there - formed when the body's flow of Qi, Blood, or fluids gets stuck. The most common starting point is Liver Qi Stagnation. The Liver is responsible for keeping Qi moving smoothly throughout the body; when emotional stress, frustration, or prolonged tension disrupts this flow, Qi stagnates.
+Over time, this stuck Qi can slow down Blood circulation, leading to Blood Stagnation, or it can impair the Spleen's ability to transform fluids, causing dampness to thicken into Phlegm. Any of these - stuck Qi, congealed Blood, or thick Phlegm - can lodge in the channels and solidify into a palpable nodule.
+Where the nodule appears gives important clues. Nodules along the neck, chest, or breasts often involve the Liver channel, which passes through these areas. Nodules near joints may involve Phlegm or Blood stasis obstructing the channels. The feel of the nodule matters too: a soft, movable lump suggests Phlegm; a hard, fixed, painful lump points to Blood Stagnation; a lump that fluctuates with mood suggests Liver Qi Stagnation at its core.
+The Spleen and Kidneys also play a role. The Spleen transforms fluids; if it's weak, dampness accumulates and congeals into Phlegm. The Kidneys provide the body's warming fire; when that fire is low (Yang deficiency), fluids turn cold and thick, like ice, forming hard nodules in a cold, exhausted body. So a nodule is never just a local problem - it's a sign of a deeper disharmony between the Liver, Spleen, and Kidneys.
+Because each pattern has a different root, the same type of nodule - say, a thyroid nodule - might be treated with liver-soothing herbs in one person and spleen-strengthening, phlegm-resolving herbs in another. That's why TCM doesn't have a one-size-fits-all "nodule formula." The treatment is tailored to the individual's pattern.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A TCM practitioner starts by asking about the nature of the nodules - are they soft or hard, movable or fixed, painful or not - and what else is happening in the body. The tongue, pulse, and emotional state provide the next essential clues.
+If the nodules come and go with emotional ups and downs, and you feel chest tightness, sighing, or irritability, that points to Liver Qi Stagnation (肝气郁结, gān qì yù jié). The tongue body may be normal or slightly red, but the pulse is often wiry (弦, xián), like a guitar string. This pattern is the most common starting point for nodule formation.
+When the nodules feel hard, fixed, and possibly tender, and there is a history of prolonged stress, the practitioner suspects Qi and Blood Stagnation (气滞血瘀, qì zhì xuè yū). The tongue may show a dusky or purplish color with stasis spots, and the pulse becomes wiry and choppy (涩, sè). This indicates that stagnant Qi has begun to obstruct blood flow.
+If the nodules are movable, soft, and located under the skin or near joints, often without pain, the pattern is likely Phlegm in the Channels, Joints and Muscles (痰阻经络, tán zǔ jīng luò). The tongue coating is thick and greasy, and the pulse feels slippery (滑, huá). This picture emerges when the body’s fluids fail to transform and congeal into phlegm.
+Severe Blood Stagnation (瘀血内结, yū xuè nèi jié) produces nodules that are intensely hard, fixed, and may cause stabbing pain. The tongue is deep purple with visible stasis spots, and the pulse is choppy or deep and rough. This is a more advanced stage where blood stasis dominates, often after long-term qi stagnation or injury.
+Nodules accompanied by deep fatigue, cold hands and feet, loose stools, and a pale, puffy tongue suggest Kidney and Spleen Yang Deficiency (脾肾阳虚, pí shèn yáng xū). The pulse is deep, slow, and weak (沉迟, chén chí). Here, the body’s warming and transforming functions are too weak to prevent fluid accumulation and nodule formation.
+
+### การอ้างอิงจากตำราแพทย์คลาสสิก (Classical Reference)
+> **ต้นฉบับ**: 「肝足厥阴之脉... 挟胃属肝络胆，上贯膈，布胁肋... 其病... 丈夫㿉疝，妇人少腹肿。」
+> 
+> **คำแปลภาษาอังกฤษ**: "The Liver foot-Jueyin channel... passes through the diaphragm and spreads over the ribs and flanks... when diseased, it causes bulging disorders in men and lower abdominal swelling in women. This early text links Liver channel disorders to the formation of swellings and lumps, laying the foundation for the Liver Qi stagnation pattern in nodule formation."
+> 
+> — แหล่งที่มา: *Huang Di Nei Jing (Ling Shu)  ,  Chapter 12, Jing Jin (经筋) 									·
+More references*
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Liver Qi Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/liver-qi-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Nodules that change size with stress, Rib-side distension or chest tightness, Frequent sighing, Irritability or mood swings, Feeling of a lump in the throat (plum pit sensation), Breast tenderness or swelling
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress, frustration, or anger, Greasy, heavy, or rich foods, Alcohol and caffeine, Sedentary lifestyle or prolonged inactivity
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Stress reduction and relaxation, Gentle exercise, Herbal teas like peppermint or chrysanthemum, Deep breathing and sighing
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When you feel stressed, frustrated, or emotionally stuck, your Liver Qi can become stagnant. The Liver is responsible for keeping Qi moving smoothly throughout the body, and its channel passes through areas like the neck, chest, and breasts. When Qi flow is blocked, it can pool and form palpable nodules, especially in these areas. Over time, this stagnation can also lead to blood stasis and phlegm accumulation, making the nodules more fixed.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: normal or slightly dark body, red or slightly purple sides, thin white coat. Pulse: wiry (弦 xián), taut like a guitar string.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress directly causes Liver Qi to stagnate, which is the root of this pattern. Calming the mind and moving the body helps restore smooth Qi flow. Greasy and heavy foods burden the Liver and Spleen, promoting further stagnation and dampness, while light, fresh foods support healthy Qi circulation. Deep breathing and sighing are natural ways the body releases pent-up Qi, providing immediate relief.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Manage stress with meditation, deep breathing, or gentle yoga. Eat light meals with plenty of leafy greens and avoid greasy, spicy, or processed foods. Limit alcohol and caffeine, which can overstimulate the Liver. Regular aerobic exercise like brisk walking helps keep Qi moving and prevents stagnation.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | The primary formula to smooth Liver Qi, relieve stagnation, and reduce nodules caused by emotional stress. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root |  | Soothes the Liver and relieves Qi stagnation, the key herb for stress-related nodules. |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome |  | Regulates Qi and relieves stagnation, especially in the chest and rib-side. |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike |  | Clears Liver heat and softens hard nodules, commonly added for thyroid and breast lumps. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | The main point to soothe Liver Qi and calm emotional irritability. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Combined with Taichong, it powerfully moves Qi throughout the body. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes the Liver and Spleen, regulates Qi and blood to support nodule resolution. |
+
+---
+
+### Qi And Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-and-blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fixed, stabbing pain in the nodule area, Distending sensation in the chest or ribs, Hard nodules that are painful to touch, Irritability and emotional tension, Dark or purplish lips and complexion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Emotional stress, frustration, or anger, Sedentary lifestyle or prolonged inactivity, Cold, raw foods and iced drinks
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Gentle exercise, Warmth (compress, bath, moxibustion), Stress reduction and relaxation, Warm, spiced or cooked foods
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Qi flow is obstructed for a long time, it eventually slows and congests the Blood. This dual stagnation of Qi and Blood creates a physical buildup that feels like a hard, fixed nodule. The nodule often hurts when pressed because the stuck Blood and Qi create pressure and pain in that exact spot.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: purple or dark body with stasis spots, distended sublingual veins. Pulse: wiry (弦 xián) and choppy (涩 sè).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Emotional stress, especially anger and frustration, directly causes Liver Qi to stagnate. Over time, this stagnation congeals Blood, forming hard nodules. Cold and raw foods further congeal Blood and obstruct flow. Gentle movement, warmth, and stress reduction counteract this by promoting the smooth flow of Qi and Blood, which helps soften and reduce nodules.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods and avoid cold, raw items that congeal Blood. Include gentle spices like turmeric and ginger. Regular moderate exercise like walking, tai chi, or yoga helps keep Qi and Blood moving. Manage stress with meditation or deep breathing to prevent Liver Qi stagnation.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | The classic formula to invigorate Blood, move Qi, and disperse stagnation, especially for nodules in the chest, breasts, or throat. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Moves both Qi and Blood powerfully, relieving the stagnation that forms nodules. |
+| **[E Zhu](https://www.meandqi.com/knowledge-base/herbs/e-zhu)** | Zedoary rhizome |  | Breaks up stubborn Blood stasis and softens hard masses. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Regulates Liver Qi and moves stagnation. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Strongly promotes the flow of Qi throughout the body. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates Blood and dissolves stasis. |
+
+---
+
+### Phlegm in the Channels joints and muscles
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-in-the-channels-joints-and-muscles)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Subcutaneous nodules or hard lumps near joints, Heavy or numb sensation in the limbs, Joint stiffness with difficulty bending, Purplish discoloration around affected areas
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Damp, humid weather, Greasy, heavy, or rich foods, Sedentary lifestyle or prolonged inactivity, Emotional stress, frustration, or anger
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Gentle exercise, Warmth (compress, bath, moxibustion), Light, non-greasy diet
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the Spleen struggles to transform fluids, dampness accumulates and congeals into Phlegm. This thick, sticky substance lodges in the channels and muscles, obstructing the flow of Qi and Blood. Over time, the stagnation hardens into palpable nodules that you can feel under the skin, often near joints.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: purple body with stasis spots, white greasy coating, and distended sublingual veins. Pulse: wiry (Xian) and choppy (Se), or wiry and slippery (Hua) if Phlegm predominates.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Phlegm forms when the Spleen's ability to transform fluids is impaired, often by heavy, greasy foods and a sedentary lifestyle. Damp environments add external Dampness that can congeal into Phlegm. Gentle movement and warmth promote the flow of Qi and Blood, helping to break down and clear the Phlegm stagnation that forms nodules.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid dairy, greasy, and sweet foods that create Dampness and Phlegm. Emphasize lightly cooked vegetables, radish, and seaweed. Gentle daily exercise like walking or qigong helps move Qi and Blood to prevent stagnation.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Hai Zao Yu Hu Tang](https://www.meandqi.com/knowledge-base/formulas/hai-zao-yu-hu-tang)** | Sargassum Jade Flask Decoction &#xB7; M&#xED;ng dynasty, 1617 CE | Slightly Cool, Transforms Phlegm and Dissipates Nodules, Dissipates nodules and reduces masses, Moves Qi and Resolves Stagnation | The classic formula for Phlegm-Dampness nodules. It softens hardness, transforms Phlegm, and unblocks the channels. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Zhe Bei Mu](https://www.meandqi.com/knowledge-base/herbs/zhe-bei-mu)** | Zhejiang Fritillary bulb |  | Transforms Phlegm and dissipates nodules, especially for firm lumps. |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike |  | Clears Liver heat and dissolves Phlegm-fire nodules. |
+| **[Kun Bu](https://www.meandqi.com/knowledge-base/herbs/kun-bu)** | Kelp |  | Softens hardness and resolves Phlegm, often used for goiter and subcutaneous nodules. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key point to transform Phlegm throughout the body. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates Blood and removes stasis to help soften hard lumps. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Regulates the Spleen, resolves Dampness, and supports Blood circulation. |
+
+---
+
+### Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Stabbing, fixed pain in the nodule area, Pain worsens at night, Hard, immobile nodule, Purplish tongue with stasis spots, Dark lips, nails, or complexion
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Exposure to cold or cold-damp, Emotional stress, frustration, or anger, Sedentary lifestyle or prolonged inactivity, Nighttime
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth (compress, bath, moxibustion), Gentle exercise, Rest and pacing activity
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Qi flow is blocked for a long time, the blood can become sluggish and eventually congeal, like a river turning to sludge. This stagnant blood collects in certain areas, forming hard, fixed lumps or nodules. Because the blood isn't moving properly, these nodules are often painful, especially at night when circulation slows further.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: purple or dusky body with stasis spots, distended dark sublingual veins. Pulse: choppy (涩 sè) or wiry and choppy.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Blood Stagnation is like sludge in the vessels. Cold congeals and slows blood further, while warmth and movement help it flow smoothly. Stress tightens the Liver Qi, which is the main pump for blood circulation, so calming the mind and body prevents further stasis. Nighttime is when the body's energy turns inward and circulation naturally slows, which is why pain often worsens then.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Incorporate gentle daily movement like walking or tai chi to keep blood flowing. Avoid cold, raw foods and icy drinks, which can congeal blood. Spices like turmeric and ginger can help warm and move blood.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | Invigorates Blood, removes Stasis, and soothes Liver Qi to dissolve hard nodules. |
+| **[Tao Hong Si Wu Tang](https://www.meandqi.com/knowledge-base/formulas/tao-hong-si-wu-tang)** | Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE | Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation | A foundational formula to move blood and break stasis, often combined with nodule-softening herbs. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[E Zhu](https://www.meandqi.com/knowledge-base/herbs/e-zhu)** | Zedoary rhizome |  | Breaks blood stasis and dissolves hard masses. |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel |  | Invigorates blood and breaks up congealed stasis. |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower |  | Moves blood and relieves stabbing pain. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-17** | [Geshu BL-17](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17) | G&#xE9; Sh&#x16B; | Invigorates Blood, Cools Blood Heat and stops bleeding | Influential point of Blood; moves stasis and nourishes blood. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Sea of Blood; invigorates blood circulation and dissolves stasis. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Soothes Liver Qi, the root of smooth blood flow, and helps move stagnant blood. |
+
+---
+
+### Kidney and Spleen Yang Deficiency
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/kidney-and-spleen-yang-deficiency)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cold hands and feet, especially below the knees, Early-morning diarrhea with undigested food, Sore, aching, cold lower back and knees, Profound fatigue and lack of drive, Nodules that feel cool to the touch and grow slowly
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Exposure to cold or cold-damp, Cold, raw foods and iced drinks, Overwork and exhaustion, Chronic fear and insecurity
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warmth (compress, bath, moxibustion), Warm, spiced or cooked foods, Rest and pacing activity
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the warming fire of the Kidneys and the digestive power of the Spleen are both weak, the body runs cold. This internal cold causes fluids to stagnate and thicken into phlegm, much like water turning to ice. Over time, that cold phlegm congeals in the tissues and hardens into nodules. Because the body lacks the Yang energy to break them down, these nodules tend to grow slowly and feel less inflamed than other types.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale, swollen and puffy with teeth marks, and a white slippery coating. Pulse: deep, weak and slow, especially feeble at the rear (Kidney) and right middle (Spleen) positions.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Yang is the body's warming, driving force. Cold and raw foods directly extinguish the Spleen's digestive fire, while overwork and fear drain the Kidneys' reserves, deepening the deficiency. Warmth, cooked foods, and moxibustion add the heat and energy the body lacks, helping to thaw frozen phlegm and gradually soften nodules. Rest preserves precious Yang so the body can focus on healing.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Build meals around warm, cooked foods like soups, stews, and congees. Ginger, cinnamon, fennel, and small amounts of lamb or chicken help stoke the digestive fire. Strictly avoid raw salads, icy drinks, and dairy, which chill the Spleen and promote phlegm. Keep the lower back and abdomen warm, and try gentle daily movement like walking or qigong to keep Qi circulating without exhausting yourself.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Yang He Tang](https://www.meandqi.com/knowledge-base/formulas/yang-he-tang)** | Yang-Heartening Decoction &#xB7; Q&#x12B;ng dynasty, 1740 CE (Qianlong 5th year) | Warm, Warms Yang, Tonifies Blood, Disperses Cold | Warms Kidney Yang, disperses cold phlegm, and softens nodules by restoring the body&#x27;s inner fire. |
+| **[Chai Hu Shu Gan San](https://www.meandqi.com/knowledge-base/formulas/chai-hu-shu-gan-san)** | Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE | Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis | A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Hai Zao Yu Hu Tang](https://www.meandqi.com/knowledge-base/formulas/hai-zao-yu-hu-tang)** | Sargassum Jade Flask Decoction &#xB7; M&#xED;ng dynasty, 1617 CE | Slightly Cool, Transforms Phlegm and Dissipates Nodules, Dissipates nodules and reduces masses, Moves Qi and Resolves Stagnation | A classical formula designed to dissolve phlegm, soften hard masses, and promote the circulation of Qi and Blood. It is primarily used for goiters, thyroid nodules, and other firm lumps in the neck area that have not yet ulcerated. The formula is one of the most well-known prescriptions in TCM for addressing abnormal growths caused by the accumulation of phlegm and stagnation of Qi. |
+| **[Tao Hong Si Wu Tang](https://www.meandqi.com/knowledge-base/formulas/tao-hong-si-wu-tang)** | Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE | Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation | A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation. |
+| **[Yang He Tang](https://www.meandqi.com/knowledge-base/formulas/yang-he-tang)** | Yang-Heartening Decoction &#xB7; Q&#x12B;ng dynasty, 1740 CE (Qianlong 5th year) | Warm, Warms Yang, Tonifies Blood, Disperses Cold | A warming formula from external medicine (surgery) tradition, designed for deep, cold-type swellings and abscesses that are pale, painless, and slow to resolve. It works by warming Yang, nourishing Blood, and dispersing cold stagnation from the muscles, bones, and channels. Named &quot;Yang He&quot; (meaning &quot;warm and harmonious like spring sunshine&quot;), the idea is that it restores warmth to the body the way sunlight disperses cold, dark clouds. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Lu Jiao](https://www.meandqi.com/knowledge-base/herbs/lu-jiao)** | deer antler |  | Warms Kidney Yang and nourishes the essence to fuel the body&#x27;s metabolic fire. |
+| **[Bai Jie Zi](https://www.meandqi.com/knowledge-base/herbs/bai-jie-zi)** | White mustard seed |  | Scatters cold phlegm and breaks up nodular masses without damaging healthy tissue. |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark |  | Ignites the gate of life fire to warm the entire body and drive out deep cold. |
+| **[Chai Hu](https://www.meandqi.com/knowledge-base/herbs/chai-hu)** | Bupleurum root | Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi |  |
+| **[Xiang Fu](https://www.meandqi.com/knowledge-base/herbs/xiang-fu)** | Nutgrass Galingale Rhizome | Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain |  |
+| **[Xia Ku Cao](https://www.meandqi.com/knowledge-base/herbs/xia-ku-cao)** | Self-heal spike | Cold, Clears Liver Fire and drains Fire, Brightens the Eyes, Disperses stagnation and reduces nodules |  |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain |  |
+| **[E Zhu](https://www.meandqi.com/knowledge-base/herbs/e-zhu)** | Zedoary rhizome | Warm, Invigorates Blood and Moves Qi, Disperses Accumulations and Dissipates Nodules, Alleviates Pain |  |
+| **[Zhe Bei Mu](https://www.meandqi.com/knowledge-base/herbs/zhe-bei-mu)** | Zhejiang Fritillary bulb | Cold, Clears Heat and Transforms Phlegm, Stops Cough, Clears toxins and disperses abscesses |  |
+| **[Kun Bu](https://www.meandqi.com/knowledge-base/herbs/kun-bu)** | Kelp | Cold, Dissipates Nodules and Softens Hardness, Resolves Phlegm, Promotes Urination and Reduces Edema |  |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel | Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing |  |
+| **[Hong Hua](https://www.meandqi.com/knowledge-base/herbs/hong-hua)** | Safflower flower | Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses |  |
+| **[Lu Jiao](https://www.meandqi.com/knowledge-base/herbs/lu-jiao)** | deer antler | Warm, Tonifies Kidney Yang, Strengthens the Sinews and Bones, Invigorates Blood and disperses stagnation |  |
+| **[Bai Jie Zi](https://www.meandqi.com/knowledge-base/herbs/bai-jie-zi)** | White mustard seed | Warm, Warms the Lungs and Transforms Phlegm-Fluids, Moves Qi and Dissipates Nodules, Unblocks the Channels and Alleviates Pain |  |
+| **[Rou Gui](https://www.meandqi.com/knowledge-base/herbs/rou-gui)** | Cinnamon bark | Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-4** | [Guanyuan REN-4](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4) | Gu&#x101;n Yu&#xE1;n | Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi | Moxa on this point powerfully warms Kidney Yang and fortifies the body&#x27;s foundation. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Spleen Qi and Yang to improve digestion and transform dampness. |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The key phlegm-resolving point, used here to directly target nodular accumulations. |
+| **DU-4** | [Mingmen DU-4](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/mingmen-du-4) | M&#xEC;ng M&#xE9;n | Tonifies Kidney Yang and warms the Gate of Life, Expels Cold | Moxa on Mingmen stokes the life gate fire and dispels deep internal cold. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can acupuncture really shrink a nodule?
+Acupuncture alone rarely dissolves a nodule completely, but it can play an important supporting role. By unblocking the channels and moving Qi and Blood, acupuncture helps reduce the stagnation that feeds the nodule. Combined with Chinese herbs, it can soften the lump and gradually reduce its size over several months. Many patients notice the nodule feels less tense or painful before visible shrinkage occurs.
+
+### Do I still need to get my nodule checked by a doctor if I'm doing TCM?
+Yes, absolutely. TCM treatment does not replace conventional diagnosis. Nodules should always be evaluated by a medical doctor - with imaging and possibly biopsy - to rule out malignancy. TCM can be a complementary approach to manage benign nodules, but you should continue any recommended monitoring or follow-up scans. Always inform both your doctor and TCM practitioner about all treatments you are receiving.
+
+### How long does it take for a nodule to go away with herbs?
+It varies by pattern and how long the nodule has been there. For nodules driven mainly by Liver Qi Stagnation or Phlegm, you might notice softening within 4-6 weeks and measurable shrinkage in 2-3 months. Hard, fixed nodules due to Blood Stagnation or deep Yang deficiency can take 6 months or longer. TCM works by shifting the body's internal environment, so patience is key. Some benign nodules may not disappear entirely but can shrink enough to stop causing concern.
+
+### Are there foods I should avoid to help shrink nodules?
+Yes. Since nodules often involve phlegm and stagnation, it's best to avoid foods that promote dampness and phlegm: dairy products, greasy or fried foods, excessive sugar, and cold raw foods. A warm, cooked diet with plenty of vegetables, moderate whole grains, and lean proteins supports healing. Specific foods that help move Qi and resolve phlegm include radish, mustard greens, seaweed, and citrus peel. If your nodule is linked to stress and Liver Qi Stagnation, also limit alcohol and spicy foods.
+
+### Can stress cause nodules?
+In TCM, emotional stress is one of the most common triggers for nodule formation. Prolonged frustration, anger, or unexpressed emotions cause Liver Qi to stagnate. Over time, that stuck Qi can turn into a palpable lump, especially along the neck, chest, or breasts. This is why many people notice their nodules feel bigger or more tender during stressful periods. TCM treatment addresses this by soothing the Liver and moving Qi, often with noticeable relief in both the nodule and emotional state.
+
+### Is it safe to take Chinese herbs if I'm on thyroid medication?
+Generally yes, but timing matters. Herbs for nodules are often safe alongside thyroid hormone replacement, but they should be taken at a different time of day - usually at least 2-3 hours apart - to avoid any interference with absorption. Always tell both your endocrinologist and TCM practitioner about all medications and herbs you are taking. Certain blood-moving herbs (like E Zhu or Tao Ren) may interact with anticoagulants, so full disclosure is essential.
+
+---
+
+## การวิจัยทางวิทยาศาสตร์สมัยใหม่ (Modern Scientific Research)
+1. **Acupuncture for benign thyroid nodules: A systematic review and meta-analysis**
+   *วารสารวิชาการ: Li M, et al. Acupuncture for benign thyroid nodules: A systematic review and meta-analysis. Medicine (Baltimore). 2020;99(4):e18858.*
+   This systematic review included 12 RCTs with 1,045 participants and found that acupuncture alone or combined with conventional treatment significantly reduced thyroid nodule volume and improved clinical symptoms compared to conventional treatment alone. The authors noted that most trials were of moderate quality and recommended further rigorous studies.
+
+2. **Chinese herbal medicine for breast hyperplasia: A systematic review and meta-analysis of randomized controlled trials**
+   *วารสารวิชาการ: Zhang Y, et al. Chinese herbal medicine for breast hyperplasia: A systematic review and meta-analysis of randomized controlled trials. J Ethnopharmacol. 2018;220:159-168.*
+   This meta-analysis of 23 RCTs involving 2,648 women concluded that Chinese herbal medicine significantly improved the total effective rate for breast hyperplasia (nodularity and pain) compared to conventional treatment. Formulas that moved Liver Qi, invigorated blood, and transformed phlegm were the most commonly studied, and adverse events were rare.
+
+3. **Efficacy and safety of Xia Ku Cao (Prunella vulgaris) for benign thyroid nodules: A randomized, double-blind, placebo-controlled trial**
+   *วารสารวิชาการ: Wang X, et al. Efficacy and safety of Xia Ku Cao (Prunella vulgaris) for benign thyroid nodules: A randomized, double-blind, placebo-controlled trial. Chin J Integr Med. 2019;25(9):675-681.*
+   This 12-week RCT assigned 120 patients with benign thyroid nodules to receive Xia Ku Cao extract or placebo. The treatment group showed a statistically significant reduction in nodule volume (mean reduction of 28.5% vs. 5.2% in the placebo group) and improvement in neck discomfort scores, with no serious adverse events reported.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/nodules)*

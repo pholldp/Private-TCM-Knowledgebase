@@ -1,0 +1,183 @@
+# Jiang Huang (姜黄)
+**English Name**: Turmeric rhizome  
+**Category**: Blood-invigorating and stasis-dispelling herbs (活血化瘀药)  
+**Scientific Name**: Curcuma longa L.  
+**Pharmaceutical Name**: Rhizoma Curcumae Longae  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn), Bitter (苦 kǔ)  
+**Channels Entered**: Spleen, Liver  
+**Parts Used**: Rhizome (根茎 gēn jīng)  
+
+---
+
+## Summary
+Turmeric rhizome is a warming herb best known in Chinese medicine for promoting blood circulation, relieving pain, and easing stiffness. It is particularly valued for shoulder and arm pain from wind-damp conditions, menstrual pain due to blood stagnation, and chest or abdominal pain from poor circulation. As a topical ingredient, it also appears in classic formulas for swelling and skin conditions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Joint and Muscle Pain Relief, Menstrual Health, Circulation Support, Digestive Health
+- **TCM Actions**: Invigorates Blood and breaks up Blood Stasis, Moves Qi and Alleviates Pain, Promotes Menstruation, Expels Wind and treats painful obstruction (Bi syndrome)
+
+### How these actions work
+'Invigorates Blood and breaks up Blood Stasis' means Jiang Huang actively moves stagnant blood that has pooled or slowed down. In TCM, when blood stops flowing smoothly, it causes sharp, fixed, stabbing pain. This herb's warm, pungent nature helps 'melt' and push through congealed blood, which is why it is used for conditions like chest pain with a stabbing quality, traumatic injury with bruising, or abdominal masses (zheng jia). Its blood-moving power is considered quite strong, stronger than its close relative Yu Jin.
+'Promotes the movement of Qi and alleviates pain' means Jiang Huang does not only work on the blood level but also addresses the Qi stagnation that often accompanies it. When Qi gets stuck, it creates distension, bloating, or a feeling of pressure, especially in the upper abdomen or flanks. Jiang Huang's bitter taste helps it descend and disperse, while its pungent taste helps it scatter and move. This dual action on both Qi and Blood makes it effective for epigastric and abdominal pain.
+'Unblocks the menses' refers to the herb's ability to restore menstrual flow when it has stopped or become scanty due to cold and blood stagnation in the uterus. Its warm nature disperses the cold that congeals blood in the lower abdomen, making it useful for painful periods (dysmenorrhea), absent periods (amenorrhea), and postpartum abdominal pain from residual stasis.
+'Expels Wind and treats painful obstruction' is Jiang Huang's most distinctive clinical action. It is especially effective for the upper body, particularly the shoulders and arms. In TCM, wind-damp-cold pathogens can lodge in the muscles, tendons, and joints, blocking the flow of Qi and Blood and causing aching, stiffness, and numbness. Jiang Huang simultaneously scatters the external wind-cold-damp while moving Qi and Blood internally, which is why classical texts highlight it as the premier herb for shoulder and arm Bi pain.
+
+---
+
+## Patterns Addressed
+### Blood Stagnation
+- **Explanation**: Jiang Huang is pungent, bitter, and warm, giving it strong capacity to penetrate both the Qi and Blood levels. In Blood Stagnation, blood flow has slowed or stopped, causing fixed, stabbing pain. Jiang Huang's warm pungency disperses the congealed blood while its bitterness drives downward to break through obstructions. It enters the Liver channel (the organ that stores blood and governs its smooth flow) and the Spleen channel (which governs the holding of blood in the vessels), allowing it to address stasis in the chest, abdomen, and extremities. This makes it particularly suitable when blood stasis is accompanied by cold, as its warm nature counteracts the cold that causes blood to congeal.
+- **Clinical Signs & Symptoms**:
+  - **Painful Menstruation**: Menstrual pain with dark clotted blood
+
+### Wind-Cold
+- **Explanation**: When wind, cold, and dampness invade the channels and joints, they obstruct the flow of Qi and Blood, producing pain, stiffness, heaviness, and numbness. Jiang Huang is uniquely suited for this pattern because it works on multiple levels simultaneously: its pungent warmth scatters cold and disperses wind from the exterior, while internally it moves Qi and Blood through the blocked channels. Classical texts specifically note that Jiang Huang 'excels at reaching the limbs and arms to eliminate Bi pain' (长于行肢臂而除痹痛). Its affinity for the Spleen channel, which governs the muscles and four limbs, reinforces this action on the extremities.
+- **Clinical Signs & Symptoms**:
+  - **Numbness In The Arms**: Numbness or heaviness in the arms and hands
+
+### Qi Stagnation
+- **Explanation**: Jiang Huang's ability to move Qi is secondary to its blood-moving action, but still clinically significant. When Qi stagnates in the middle burner (the Spleen and Stomach region), it produces epigastric fullness, distension, and pain. Jiang Huang enters the Spleen channel and uses its pungent-dispersing and bitter-descending nature to break through Qi stagnation, particularly in the chest, flanks, and abdomen. Li Shizhen noted in the Ben Cao Gang Mu that while Yu Jin primarily enters the Heart to treat Blood, Jiang Huang also enters the Spleen and simultaneously treats Qi, distinguishing it from its close relatives.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Shoulder Pain
+- **Arises from**: Wind-Cold
+- **TCM Interpretation**: In TCM, shoulder pain is most commonly understood as a form of Bi syndrome (painful obstruction). When wind, cold, and dampness invade the channels that run through the shoulder area, they obstruct the flow of Qi and Blood, leading to pain, stiffness, and restricted movement. The shoulder region is traversed by several channels, and when the protective Qi (Wei Qi) is weak, external pathogens can lodge in this area. Cold causes contraction and congealing, dampness produces heaviness and swelling, and wind causes the pain to move. Over time, the blocked circulation leads to local blood stasis, compounding the pain and stiffness.
+- **Why it Helps**: Jiang Huang is the premier herb in the TCM materia medica for shoulder and arm pain. Classical texts consistently highlight its unique ability to 'reach the limbs and arms' to clear painful obstruction. As a warm, pungent herb, it scatters the cold and wind that have lodged in the shoulder channels while simultaneously invigorating Blood and moving Qi through the blocked area. Its dual action on both the Qi and Blood levels means it addresses both the pathogenic invasion (the external cause) and the resulting circulatory stagnation (the internal consequence). This is why it appears as a key ingredient in Juan Bi Tang, the classical formula specifically designed for shoulder and upper body painful obstruction.
+
+### Rheumatoid Arthritis
+- **Arises from**: Wind-Cold
+- **TCM Interpretation**: TCM understands rheumatoid arthritis as a form of Bi syndrome where wind, cold, and dampness have invaded the joints and channels deeply, often on a background of weakened protective Qi. Over time, the pathogens become entrenched, leading to chronic inflammation, joint deformity, and restricted movement. The obstruction impairs local Qi and Blood circulation, which in turn fails to nourish the tendons, bones, and muscles. The Liver and Kidneys, which govern tendons and bones respectively, are often involved in chronic cases.
+- **Why it Helps**: Jiang Huang addresses multiple aspects of this condition. Its pungent warmth disperses wind-cold-damp pathogens from the joints and channels, while its blood-invigorating action restores local circulation to nourish the affected tissues. Modern research on curcumin, Jiang Huang's primary bioactive compound, has demonstrated significant anti-inflammatory properties comparable to conventional anti-inflammatory drugs. Clinical studies using formulas containing Jiang Huang, such as Juan Bi Tang, have shown benefit for rheumatoid arthritis symptoms including joint tenderness, swelling, and morning stiffness.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-10g
+- **Maximum Dosage**: Up to 15g in decoction for severe Blood stasis pain, under practitioner supervision. Do not exceed standard doses without professional guidance, as high doses may increase bleeding risk.
+- **Dosage Notes**: For chest and flank stabbing pain due to Blood stasis, use 6-10g in combination with other Blood-moving herbs. For Wind-Cold-Damp obstruction (bi syndrome) with shoulder and arm pain, 6-10g is typical, often combined with Qiang Huo and Fang Feng. For dysmenorrhoea and menstrual irregularity due to Cold-stasis, 3-6g is common, paired with Dang Gui and Chuan Xiong. For external application (skin lesions, abscesses), powdered Jiang Huang can be applied topically. Lower doses (3-6g) are advisable when combining with other strongly Blood-moving herbs to avoid excessive anticoagulant effect. Duration of use should generally be limited; prolonged use of Blood-breaking herbs may injure the body's Qi and Blood.
+- **Preparation**: No special decoction handling is required. Jiang Huang is decocted normally with other herbs. The raw rhizome is typically boiled or steamed until cooked through during initial processing (before it becomes the dried herb), then sliced. In clinical use, it is simply added to the decoction pot with the other ingredients.
+
+---
+
+## Processing Methods
+### C&#xF9; Ch&#x1CE;o Ji&#x101;ng Hu&#xE1;ng (&#x918B;&#x7092;&#x59DC;&#x9EC4;)
+- **Processing Method**: Stir-fried with rice vinegar until the vinegar is absorbed and the slices are dry. This method appeared in the Ming dynasty.
+- **How it Changes Properties**: Vinegar processing enhances the herb's ability to enter the Liver channel and strengthens its pain-relieving and blood-moving actions. The sour taste of vinegar has a natural affinity for the Liver, concentrating the herb's effects on Liver-related pain such as flank pain and menstrual disorders. The thermal nature remains warm.
+- **When to Use**: When the primary goal is to treat Liver channel pain, such as flank pain from Qi stagnation, menstrual pain, or abdominal pain from Liver-Spleen disharmony. The vinegar-processed form targets Liver-related conditions more precisely than raw Jiang Huang.
+
+---
+
+## Common Herb Pairs
+### Qiang Huo (Ratio: 1:1 (e.g. Jiang Huang 9g : Qiang Huo 9g))
+- **Description**: Jiang Huang moves Qi and Blood internally while scattering wind-cold-damp from the exterior. Qiang Huo is a powerful wind-cold-damp dispersing herb that particularly targets the upper body. Together, they create a synergy where Qiang Huo opens and clears the channels from the outside while Jiang Huang moves stagnation from the inside, greatly enhancing their combined ability to relieve upper body Bi pain.
+- **When to Use**: Wind-cold-damp painful obstruction of the upper body, especially shoulder, neck, and arm pain with numbness, heaviness, or stiffness that worsens in cold or damp weather.
+
+### Gui Zhi (Ratio: 1:1 to 2:1 (e.g. Jiang Huang 9g : Gui Zhi 6-9g))
+- **Description**: Jiang Huang invigorates Blood and moves Qi while Gui Zhi warms and opens the channels and vessels. Together they powerfully warm the channels, dispel cold, activate blood circulation, and relieve pain. Gui Zhi's ability to warm and unblock the vessels complements Jiang Huang's blood-moving action, making the pair effective against cold-induced circulatory obstruction.
+- **When to Use**: Cold-congealing Blood Stasis causing painful menstruation, amenorrhea, postpartum abdominal pain, or cold-type Bi syndrome with joint pain and cold extremities.
+
+### Rou Gui (Ratio: 3:1 (e.g. Jiang Huang 9g : Rou Gui 3g))
+- **Description**: Jiang Huang is pungent and warm, skilled at moving Qi and Blood. Rou Gui (Cinnamon bark) is pungent, sweet, and hot, powerful at warming the interior and dispersing deep cold. Together they strengthen each other's ability to scatter cold and relieve pain, particularly for pain in the epigastrium, lower abdomen, and joints caused by deep cold and Blood Stasis.
+- **When to Use**: Cold congealing in the Stomach causing epigastric pain, cold in the lower abdomen causing menstrual pain, or cold-type chest pain (chest Bi syndrome).
+
+### Zhi Ke (Ratio: 1:1 (e.g. Jiang Huang 6g : Zhi Ke 6g))
+- **Description**: Jiang Huang invigorates Blood and moves Qi in the blood level, while Zhi Ke (Bitter Orange) opens the chest and moves Qi in the Qi level. By treating both Qi and Blood stagnation simultaneously, this pair provides comprehensive relief for chest and flank pain from combined Qi stagnation and Blood Stasis.
+- **When to Use**: Qi stagnation with Blood Stasis in the chest and flanks, presenting as distension, fullness, and stabbing pain along the ribcage. This pair is used in Tui Qi San from Zhu Danxi's Xin Fa.
+
+---
+
+## Key Formulas
+Juan Bi Tang, Ru Yi Jin Huang San, Xie Huang San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Jiang Huang is classified as non-toxic in the Chinese Pharmacopoeia. At standard decoction doses (3-10g), it is generally well tolerated. Curcumin, the primary bioactive compound, has been studied at high supplemental doses (up to 12g/day in research settings) without significant acute toxicity.
+However, excessive or prolonged use may cause gastrointestinal discomfort including nausea, bloating, and stomach pain. Because of its strong Blood-moving properties, overdose may lead to symptoms such as gum bleeding, nosebleeds, or excessive menstrual flow. Very high doses could potentially cause headache and dizziness. Long-term high-dose use has been associated with rare reports of liver or kidney stress, though causality is not firmly established.
+The main safety concern is not intrinsic toxicity but rather its powerful Blood-invigorating action, which creates risk in specific clinical contexts (pregnancy, bleeding disorders, pre-surgical patients, concurrent anticoagulant use).
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated during pregnancy. Jiang Huang is classified as a Blood-breaking (破血) herb with strong Blood-moving properties. Pharmacological studies on animal uterine tissue show that turmeric extracts (both decoctions and tinctures) have a stimulating effect on uterine smooth muscle, increasing uterine contractions. This could potentially lead to threatened miscarriage, premature labour, or heavy uterine bleeding. Classical sources also caution against its use in pregnancy. Women who are pregnant or actively trying to conceive should avoid medicinal doses of Jiang Huang. Culinary amounts of turmeric as a food spice are generally not considered a concern.
+- **Breastfeeding**: Limited safety data is available for Jiang Huang during breastfeeding. While culinary amounts of turmeric are generally considered safe, medicinal doses should be used with caution. Curcumin and its metabolites may theoretically pass into breast milk, and the herb's Blood-moving properties could be inappropriate for postpartum women who are still recovering. No specific adverse effects on nursing infants have been documented, but as a precaution, medicinal-strength doses should only be taken under the guidance of a qualified practitioner during breastfeeding.
+- **Children**: Jiang Huang is not commonly used in paediatric prescriptions. Its strong Blood-breaking properties make it generally unsuitable for young children. If clinically necessary in older children (over 6 years), dosage should be reduced to approximately one-third to one-half of the adult dose, and duration of use should be limited. It should only be administered under the supervision of a qualified practitioner. Not appropriate for infants or toddlers except in very specific, carefully monitored classical applications (such as the formula for neonatal cold-abdomen pain mentioned in classical texts, which uses very small doses with other herbs).
+
+### Drug Interactions
+Anticoagulants and antiplatelet drugs: Curcumin has demonstrated anticoagulant activity by prolonging aPTT and PT, and inhibiting thrombin and factor Xa. Case reports have documented significantly elevated INR in patients who began taking turmeric products while on stable warfarin therapy. Jiang Huang should be used with great caution alongside warfarin, heparin, enoxaparin, aspirin, clopidogrel, dipyridamole, and similar medications due to the risk of excessive bleeding.
+Diabetes medications: Animal and small human studies suggest curcumin may lower blood glucose. Concurrent use with insulin, metformin, sulfonylureas (e.g. glyburide), or other hypoglycaemic agents may have additive blood-sugar-lowering effects, increasing the risk of hypoglycaemia. Blood glucose should be monitored closely.
+CYP3A4-metabolised drugs: Curcumin may inhibit the CYP3A4 liver enzyme, potentially raising blood levels of drugs metabolised by this pathway. This includes cyclosporine, tacrolimus, midazolam, fentanyl, certain statins, and some anti-cancer agents. Caution and monitoring are advised with concurrent use.
+Antacids and acid-reducing medications: Turmeric may increase stomach acid production, potentially counteracting the effects of antacids, H2 blockers, and proton pump inhibitors, and possibly causing gastrointestinal discomfort.
+Anti-cancer therapies: Curcumin may theoretically alter the efficacy of certain chemotherapy drugs through its effects on drug metabolism enzymes and multiple cell signalling pathways. Patients undergoing cancer treatment should consult their oncologist before using medicinal doses of Jiang Huang.
+
+### Dietary Advice
+Avoid cold, raw, and greasy foods during treatment, as these may impede the herb's Blood-moving and Qi-circulating actions. Since Jiang Huang is warm and acrid, patients should also avoid excessively spicy or heating foods if there are any signs of Heat. Iron supplements may have reduced absorption when taken at the same time as turmeric. When using Jiang Huang for menstrual pain or Blood stasis conditions, warming foods such as ginger tea and moderate amounts of rice wine are traditionally considered supportive.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Jiang Huang is the dried rhizome of Curcuma longa L., a perennial herbaceous plant in the ginger family (Zingiberaceae). The plant grows up to 1.5 metres tall with large, oblong to elliptical leaves measuring 30 to 90 cm in length, borne on long petioles. The leaves are bright green and smooth on both surfaces, with faint oblique veins resembling small banana leaves.
+In autumn, a cylindrical spike-shaped inflorescence emerges from the top of the leaf sheath, bearing pale yellow flowers within pale green bracts. The upper bracts, which are sterile (without flowers), are white with a faint pinkish tinge at the margins. The plant does not produce fruit.
+The rhizome is the medicinally valued part: it forms in branching, knobbly clusters underground, is elliptical to cylindrical in shape, and is intensely orange-yellow internally with a distinctive aromatic fragrance. The plant thrives in warm, humid tropical and subtropical climates and requires well-drained, fertile soil.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Winter, when the stems and leaves have withered (typically December). The rhizomes are dug up, washed, then boiled or steamed until the centre is fully cooked, then sun-dried and the rootlets removed.
+- **Primary Growing Regions**: Sichuan Province is the premier dao di (道地) source region for medicinal-grade Jiang Huang ('Chuan Jiang Huang'). Sichuan-grown turmeric rhizomes tend to be smaller, thinner-skinned, and higher in curcumin and essential oil content, making them preferred for medicinal use.
+Yunnan Province also produces significant quantities, though wild Yunnan turmeric tends to be larger with relatively lower curcumin content and is more often used for pigment extraction rather than medicine.
+Jiang Huang is also cultivated in Guangxi, Guizhou, Fujian, and other subtropical provinces of southern China. Large quantities are imported from India and Myanmar, primarily for food and dye use. The Wumeng Mountain area spanning Sichuan, Yunnan, Guizhou, and Chongqing is a notable growing region.
+- **Quality Indicators**: Good quality Jiang Huang (Chuan Jiang Huang from Sichuan is considered best) has rhizomes that are irregularly oval, cylindrical, or spindle-shaped, firm and solid, hard to break by hand. The surface should be deep yellow to brownish-yellow with visible wrinkled texture and clear ring-like nodes. The cross-section should be brownish-yellow to golden-yellow with a waxy, horn-like (角质) lustre and a clearly visible inner endodermis ring with scattered vascular bundle dots. It should have a distinctive, strong aromatic fragrance and taste both bitter and pungently acrid. When chewed, good quality Jiang Huang stains the saliva bright yellow. Avoid pieces that are dull in colour, lightweight, porous, or lacking aroma. Long-shaped rhizomes are generally preferred over round ones. Higher curcumin content correlates with deeper colour and stronger taste.
+
+### Identity & Adulterants
+Jiang Huang is frequently confused with several closely related Curcuma species:
+1. Pian Jiang Huang (片姜黄, from Curcuma wenyujin/Curcuma phaeocaulis): This is the sliced rhizome of a different species, sold as flat dried slices. It is greyish-yellow, lighter in colour than true Jiang Huang, less firm, and has a different cross-section appearance. While sharing similar clinical actions, the two are officially listed as separate drugs in the Chinese Pharmacopoeia.
+2. Yu Jin (郁金, Curcumae Radix): The tuberous root (not rhizome) of several Curcuma species. It has different therapeutic actions (enters Heart, cools Blood, moves Qi) and should not be substituted for Jiang Huang.
+3. E Zhu (莪术, Curcumae Rhizoma): The rhizome of Curcuma zedoaria or related species. It has a greenish or greyish cross-section rather than the deep golden-yellow of true Jiang Huang.
+4. Imported turmeric from India, Myanmar, and Southeast Asia is sometimes sold as Chinese Jiang Huang. These tend to have larger rhizomes with different curcumin profiles and are primarily intended for food/dye use rather than medicine.
+Authentic Jiang Huang can be distinguished by its deep golden-yellow to orange-yellow cross-section with waxy lustre, strong distinctive aroma, and ability to stain saliva intensely yellow when chewed.
+
+---
+
+## References
+### Classical Texts
+#### Xīn Xiū Běn Cǎo (《新修本草》, Newly Revised Materia Medica, Tang Dynasty)
+- **Original**: 姜黄，味辛、苦，大寒，无毒。主心腹结积疰忤，下气破血，除风热，消痈肿，功力烈于郁金。
+- **Translation**: Jiang Huang, acrid and bitter in flavour. It treats masses and accumulations of the chest and abdomen, descends Qi, breaks Blood, eliminates Wind-Heat, and disperses abscesses and swelling. Its action is more powerful than Yu Jin (Curcumae Radix).
+
+### Historical Context
+Jiang Huang was first recorded as a medicinal substance in the Xīn Xiū Běn Cǎo (Newly Revised Materia Medica) of the Tang Dynasty (659 CE). Its name literally means 'yellow ginger' (姜 = ginger, 黄 = yellow), reflecting both its resemblance to ginger root and its intensely yellow internal colour. The herb was introduced to China from South and Southeast Asia, likely via Persian trade routes, before the Tang period. In India, where it originated, turmeric had already been used for over 5,000 years in Ayurvedic medicine and as a culinary spice and dye.
+A notable point of confusion in the classical literature involves the identity of Jiang Huang, Yu Jin (Curcumae Radix), and E Zhu (Curcumae Rhizoma). These three closely related Curcuma substances were frequently conflated or poorly distinguished in early texts. Li Shizhen's Běn Cǎo Gāng Mù (1578) provided an influential clarification, stating that Yu Jin enters the Heart and treats Blood, Jiang Huang also enters the Spleen and treats Qi, and E Zhu enters the Liver and treats Blood within Qi. Li Shizhen also distinguished 'pian zi Jiang Huang' (片子姜黄, flat sliced turmeric from a different Curcuma species) from the round whole rhizome form.
+The thermal nature of Jiang Huang was also debated. The original Tang Dynasty text recorded it as 'greatly cold' (大寒), but Chen Cangqi in the Běn Cǎo Shí Yí corrected this, noting it was 'warm, not cold' (温不寒). Most subsequent authorities agreed it is warm in nature. Beyond medicine, Jiang Huang has served as a textile dye and food colouring throughout Chinese history. In 2019, China's National Health Commission officially included it in the 'dual-use' food and medicine list (药食两用).
+
+### Modern Scientific Research
+1. **[Umbrella Meta-analysis of Curcumin for Osteoarthritis (2024)]()**
+   *Journal: Bideshki MV, Jourabchi-Ghadim N, Radkhah N, Behzadi M, Asemani S, Jamilian P, Zarezadeh M. Phytotherapy Research, 2024, Vol. 38(6), pp. 2875-2891.*
+   This umbrella meta-analysis pooled results from 11 prior meta-analyses of randomised controlled trials examining curcumin supplementation for osteoarthritis. Curcumin was found to significantly reduce pain (VAS score), total WOMAC score, and WOMAC subscales for pain, function, and stiffness (all p values at or below 0.007). The authors concluded that curcumin shows meaningful benefit for osteoarthritis symptoms across multiple outcome measures.
+
+2. **[Systematic Review and Meta-analysis of Curcumin for Arthritis (2022)]()**
+   *Journal: Zeng L, Yang T, Yang K, Yu G, Li J, Xiang W, Chen H. Frontiers in Immunology, 2022, Vol. 13, Article 891822.*
+   This systematic review included 29 RCTs with 2,396 participants across five types of arthritis (osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, juvenile idiopathic arthritis, and gout). Curcumin doses ranged from 120 to 1,500 mg over 4 to 36 weeks. The meta-analysis found that curcumin may improve symptoms and reduce inflammation levels, though the authors cautioned that the quality and quantity of included RCTs was limited.
+
+3. **[Anticoagulant Activities of Curcumin and Its Derivative (2012)](https://pubmed.ncbi.nlm.nih.gov/22531131/)**
+   *Journal: Kim DC, Ku SK, Bae JS. BMB Reports, 2012, Vol. 45(4), pp. 221-226.*
+   This laboratory study investigated the anticoagulant properties of curcumin and bisdemethoxycurcumin (BDMC). Both compounds significantly prolonged activated partial thromboplastin time (aPTT) and prothrombin time (PT), and inhibited thrombin and activated factor Xa generation. Curcumin showed stronger anticoagulant effects than BDMC. The findings demonstrated that curcumin possesses genuine antithrombotic activity, providing a pharmacological basis for its interaction with blood-thinning drugs.
+
+4. **[Bayesian Network Meta-analysis of Curcumin for Knee Osteoarthritis (2024)]()**
+   *Journal: Zhao J, Liang G, Zhou G, Hong K, Yang W, Liu J, Zeng L. Journal of Ethnopharmacology, 2024, Vol. 321, Article 117493.*
+   This network meta-analysis included 23 studies from 7 countries involving 2,175 knee osteoarthritis patients. Compared with placebo, curcumin significantly reduced VAS pain scores and total WOMAC scores. Importantly, curcumin (alone or combined with NSAIDs) showed fewer adverse reactions than NSAIDs alone, suggesting a favourable safety profile.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/jiang-huang](https://www.meandqi.com/knowledge-base/herbs/jiang-huang)*

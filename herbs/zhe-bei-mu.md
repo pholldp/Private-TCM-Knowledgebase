@@ -1,0 +1,174 @@
+# Zhe Bei Mu (浙贝母)
+**English Name**: Zhejiang Fritillary bulb  
+**Category**: Herbs that cool and transform Phlegm-Heat (清化热痰药)  
+**Scientific Name**: Fritillaria thunbergii Miq.  
+**Pharmaceutical Name**: Bulbus Fritillariae Thunbergii  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Bitter (苦 kǔ)  
+**Channels Entered**: Heart, Lungs  
+**Parts Used**: Bulb (鳞茎 lín jīng)  
+
+---
+
+## Summary
+Zhejiang Fritillary bulb is a cold, bitter herb best known for clearing heat from the lungs and dissolving phlegm to relieve cough. It is especially valued for its ability to soften and disperse hard lumps and nodules, such as swollen lymph nodes, thyroid nodules, and breast lumps. Compared to its close relative Chuān Bèi Mǔ (Sichuan Fritillary), it is stronger at clearing heat and breaking up accumulations but less moistening.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Respiratory Health, Thyroid and Lymph Node Support, Abscess Support
+- **TCM Actions**: Clears Heat and Transforms Phlegm, Stops Cough, Clears toxins and disperses abscesses, Dissipates Nodules and Softens Hardness
+
+### How these actions work
+'Clears Heat and resolves phlegm' means this herb cools down excess heat in the Lungs that produces thick, yellow, sticky phlegm. Its cold and bitter nature descends and drains, making it particularly effective when a cough is caused by external Wind-Heat or internal Fire producing heavy phlegm. It is commonly paired with herbs like Sang Ye (Mulberry leaf) and Xing Ren (Apricot kernel) for this purpose.
+'Clears toxins and disperses abscesses' means it can address hot, swollen, painful infections and sores, including lung abscess (lung pus), breast abscess, and boils. It works by cooling the Heat-toxin that drives the infection and helping the body break down the accumulation of pus and swelling. It is often combined with Lian Qiao (Forsythia) and Pu Gong Ying (Dandelion) for these conditions.
+'Dissipates nodules and softens hardness' refers to its well-known ability to dissolve lumps and masses caused by the binding of phlegm and stagnation. This makes it a go-to herb for conditions like scrofula (swollen lymph nodes along the neck), thyroid nodules, and breast lumps. It is frequently combined with Xuan Shen (Scrophularia) and Mu Li (Oyster shell) for this purpose.
+
+---
+
+## Patterns Addressed
+### Phlegm-Heat in the Lungs
+- **Explanation**: When Heat lodges in the Lungs and scorches the body's fluids into thick, sticky phlegm, coughing becomes forceful and the sputum is typically yellow and difficult to expectorate. Zhè Bèi Mǔ's bitter and cold nature directly targets this pathomechanism: the bitterness descends and drains Lung Qi to stop coughing, while the cold temperature clears the Heat that is congealing the phlegm. Its ability to enter the Lung channel makes it a frontline herb for this pattern, particularly when it arises from external Wind-Heat invasion or when Fire blazes internally.
+- **Clinical Signs & Symptoms**:
+  - **Hypochondrial Pain That Is Worse On Coughing And Breathing**: Forceful cough with thick yellow sputum
+  - **Sputum**: Phlegm that is yellow, sticky, and hard to cough up
+  - **Chest Stiffness**: Oppressive feeling in the chest
+
+### Phlegm
+- **Explanation**: Phlegm-Fire describes a state where intense internal Heat and thick, congealed phlegm combine to form hard nodules, swellings, or masses. Zhè Bèi Mǔ's cold nature quenches this Fire while its bitter, descending quality dissolves and disperses the congealed phlegm. It enters the Heart and Lung channels, addressing the Fire that often rises from these systems. This is why it is a core ingredient in classical formulas for scrofula (neck lumps), thyroid nodules, and similar accumulations where phlegm and Fire bind together.
+- **Clinical Signs & Symptoms**:
+  - **Goiter**: Thyroid swelling or nodules
+
+### Toxic-Heat
+- **Explanation**: When Heat-toxin accumulates and festers, it can produce abscesses and painful swellings. Zhè Bèi Mǔ clears Heat and resolves toxins while simultaneously dispersing the pus and swelling that result from toxic accumulation. Its cold nature counteracts the inflammatory heat, and its ability to break up congealed matter helps the body resolve the abscess. It is particularly relevant for Lung abscess, breast abscess, and skin sores driven by Heat-toxin.
+- **Clinical Signs & Symptoms**:
+  - **Periappendiceal Abscess**: Lung or breast abscess with purulent discharge
+
+---
+
+## Commonly Used For
+### Swollen Lymph Nodes
+- **Arises from**: Phlegm
+- **TCM Interpretation**: Swollen lymph nodes, known in classical TCM as 'Luo Li' (scrofula), are understood as accumulations of phlegm that have congealed under the skin. This typically involves Liver and Kidney Yin Deficiency allowing Liver Fire to flare, which scorches body fluids into phlegm. The phlegm then binds with the Fire, forming firm, sometimes chain-like nodules, particularly along the neck. The Liver, Kidney, and Lung organ systems are all involved.
+- **Why it Helps**: Zhè Bèi Mǔ is one of the three core herbs in the classical formula Xiao Luo Wan (Scrofula-Dissolving Pill), alongside Xuan Shen and Mu Li. Its role is to clear the Heat that hardens the phlegm and to actively dissolve the phlegm nodules. By entering the Heart and Lung channels, it addresses the Fire and phlegm at their source. Its strong phlegm-dissolving and nodule-dispersing actions make it more effective than Chuan Bei Mu for this type of hard, palpable mass.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5–10g
+- **Maximum Dosage**: Up to 15g in acute conditions with strong Heat-Phlegm or toxic swelling, under practitioner supervision.
+- **Dosage Notes**: Use 5–6g for mild phlegm-heat cough. Use 6–10g for more pronounced heat-phlegm patterns or to support the clearing of lung heat. For dispersing nodulations (such as in scrofula, goiter, or breast lumps), use toward the upper end of the range (9–10g) and combine with appropriate nodule-resolving herbs like Xuan Shen and Mu Li. When ground into powder for direct ingestion (a common method), the dose is typically 1–2g per serving, taken 2–3 times daily, which is more efficient than decoction for this herb. The bitter, cold nature means that doses should be kept moderate in patients with any tendency toward Spleen weakness.
+- **Preparation**: Zhe Bei Mu is commonly ground into fine powder (研末) for direct ingestion with warm water rather than being decocted, as this is considered a more efficient way to deliver its active alkaloids. When used in decoction, no special handling is required. It can also be used externally as a powder applied to sores or abscesses.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Xuan Shen (Ratio: 1:1 (Xuan Shen 15g : Zhe Bei Mu 15g))
+- **Description**: Xuan Shen nourishes Yin and clears deficiency Fire, while Zhe Bei Mu clears Heat and dissolves phlegm nodules. Together they address the root (Yin deficiency with Fire) and the branch (congealed phlegm forming lumps), making this pair highly effective at softening and dispersing hard nodules like scrofula, thyroid masses, and enlarged lymph nodes.
+- **When to Use**: When firm nodules or masses are accompanied by signs of Yin deficiency with Heat, such as scrofula, thyroid nodules, or hard breast lumps.
+
+### Mu Li Ke (Ratio: 2:1 (Mu Li 30g : Zhe Bei Mu 15g))
+- **Description**: Mu Li (Oyster shell) provides heavy, mineral-based power to soften hardness and calm rising Fire, while Zhe Bei Mu dissolves the phlegm component of nodules and clears Heat. Together they tackle both the mineral-hard texture and the phlegm-based substance of masses, forming the backbone of many nodule-dispersing formulas.
+- **When to Use**: When treating hard, stone-like nodules or masses such as scrofula, goiter, or fibrous breast lumps.
+
+### Lian Qiao (Ratio: 1:1 (Lian Qiao 10g : Zhe Bei Mu 10g))
+- **Description**: Lian Qiao (Forsythia) is excellent at clearing Heat-toxin and dispersing swellings, while Zhe Bei Mu clears phlegm-Heat and dissipates nodules. Together they provide strong combined action against toxic swellings and abscesses, with each herb reinforcing the other's ability to clear Heat and reduce masses.
+- **When to Use**: When treating abscesses, boils, or inflamed swellings caused by Heat-toxin, including breast abscess (mastitis) and skin sores.
+
+### Zhi Mu (Ratio: 1:1 (Zhi Mu 10g : Zhe Bei Mu 10g))
+- **Description**: Zhi Mu (Anemarrhena rhizome) clears Heat and nourishes Yin, while Zhe Bei Mu clears Lung Heat and resolves phlegm. Together they form the classical 'Er Mu' (Two Mothers) pair, providing dual cooling and phlegm-resolving action for the Lungs, addressing both the Heat and the fluid damage it causes.
+- **When to Use**: When cough is driven by Lung Heat with Yin damage, producing yellow phlegm with dry mouth, or when Yin-deficient Heat causes persistent cough with fever.
+
+---
+
+## Key Formulas
+Xiao Yao San, Hai Zao Yu Hu Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Zhe Bei Mu is classified as non-toxic in the Chinese Pharmacopoeia and is generally safe at standard dosages. Its main active alkaloids (peimine/peiminine) have a relatively wide safety margin. In mouse studies, the minimum lethal dose for intravenous injection of peimine and peiminine was reported at 9 mg/kg. At large doses, Fritillaria alkaloids can cause moderate blood pressure reduction and respiratory depression. Clinical toxicity from oral decoction at standard doses is not a significant concern. The primary safety issue is the classical incompatibility with Aconitum alkaloids, where co-administration can dramatically increase toxicity.
+
+### Contraindications
+- **[Caution]** Spleen and Stomach deficiency Cold with watery, white phlegm: Zhe Bei Mu is bitter and cold in nature, which can further damage the Spleen Yang and worsen cold-damp phlegm conditions. It should only be used for Heat-type phlegm patterns.
+- **[Caution]** Cold-phlegm or damp-phlegm cough with thin, clear, copious sputum: the cold nature of Zhe Bei Mu is inappropriate for these patterns and may worsen symptoms.
+- **[Caution]** Prolonged use or high doses in patients with weak digestion: the bitter, cold properties can impair appetite and cause loose stools or diarrhea.
+
+### Classical Incompatibilities
+Zhe Bei Mu is listed among the Eighteen Incompatibilities (十八反): Bei Mu (all types, including Zhe Bei Mu and Chuan Bei Mu) is incompatible with Wu Tou (乌头), which includes Chuan Wu (川乌), Cao Wu (草乌), and Fu Zi (附子). The classical mnemonic states: "半蒌贝蔹芨攻乌" (Ban, Lou, Bei, Lian, Ji all oppose Wu). Co-administration may increase the dissolution of toxic aconitine-type alkaloids and amplify toxicity. The Chinese Pharmacopoeia explicitly states that Zhe Bei Mu should not be used together with Aconitum-family herbs.
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy contraindication is listed for Zhe Bei Mu in the Chinese Pharmacopoeia. However, as a bitter and cold herb, it should be used cautiously during pregnancy because its cold nature may theoretically affect the Spleen and Stomach, potentially impairing digestion and nutrient absorption needed during pregnancy. It does not have known uterine-stimulating effects. Use only when clearly indicated (such as acute lung heat with phlegm) and under practitioner guidance.
+- **Breastfeeding**: No specific data on the transfer of Zhe Bei Mu alkaloids into breast milk is available. As a bitter, cold herb, prolonged use could theoretically reduce the mother's Spleen function and affect digestion and milk production. Short-term use at standard doses for acute conditions is unlikely to pose significant risk. Consult a qualified practitioner before use during breastfeeding.
+- **Children**: Zhe Bei Mu can be used in children at reduced, age-appropriate doses. Due to its bitter taste and cold nature, it may be poorly tolerated by young children and can affect their typically delicate digestive systems. Generally, children under 3 years should use one-quarter to one-third of the adult dose; children aged 3–7 may use one-third to one-half. Grinding to powder and mixing with honey or pear (a traditional preparation) can improve palatability and reduce gastric irritation. Avoid prolonged use in children with weak digestion or poor appetite.
+
+### Drug Interactions
+Aconitine-containing preparations: Must not be combined with any Aconitum-derived pharmaceutical preparations (including processed aconite products used in some traditional medicine contexts). Modern research confirms that Fritillaria alkaloids combined with aconitine alkaloids can synergistically increase toxicity.
+Antihypertensive medications: Zhe Bei Mu alkaloids (peimine, peiminine) have been shown in pharmacological studies to cause moderate blood pressure reduction at larger doses. Patients taking antihypertensive drugs should use Zhe Bei Mu cautiously, as there may be an additive hypotensive effect.
+Central nervous system depressants: Peimine and peiminine have demonstrated sedative and central depressant effects in animal studies. Caution is warranted when combining with sedatives, anxiolytics, or opioid analgesics, as effects may be additive.
+Respiratory depressants: At high doses, Fritillaria alkaloids can suppress respiration. Avoid combining with other respiratory depressants in vulnerable populations.
+
+### Dietary Advice
+When taking Zhe Bei Mu to clear Lung Heat and resolve phlegm, avoid greasy, fried, and heavily spiced foods, as these can generate more phlegm and Heat, counteracting the herb's effects. Cold, raw foods should be moderated if the patient's digestion is already weak, since Zhe Bei Mu's cold nature may further burden the Spleen. Pear (especially steamed with Zhe Bei Mu powder and rock sugar) is a traditionally recommended food pairing that complements the herb's lung-moistening and phlegm-resolving actions.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Fritillaria thunbergii Miq. is a perennial herbaceous plant in the Liliaceae (lily) family. It grows 50–80 cm tall with a single, erect, cylindrical stem. The underground bulb is flattened-spherical, 1.5–6 cm in diameter, composed of 2–3 thick, fleshy, white scales. The leaves are stalkless: lower leaves are opposite or scattered, narrow lance-shaped to linear, 6–17 cm long; the middle and upper leaves are often arranged in whorls of 3–5, shorter, with tendril-like tips.
+Flowers appear 1–6 per stem, bell-shaped and nodding, pale yellow to yellow-green, sometimes tinged with light purple, with distinctive purple chequered (grid-like) markings on the inner surface. The fruit is an egg-shaped capsule about 2.5 cm across, with six broad longitudinal wings, splitting open at maturity to release flat, semi-circular, winged seeds. Flowering occurs in March to April, with fruits maturing in May.
+The plant thrives in warm, moist environments with ample sunlight, typically found at low elevations in shaded hillsides, bamboo groves, or grassy slopes. It prefers well-drained, slightly acidic to neutral sandy loam soils. The optimal growing temperature is 10–22°C, and the plant enters dormancy above 30°C or below 4°C, making it a "short-lived" spring plant with an active growth period of roughly 3.5 months.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Late spring to early summer (May to June), when the above-ground stems and leaves have withered.
+- **Primary Growing Regions**: Zhe Bei Mu is one of the famous "Eight Herbs of Zhejiang" (浙八味, Zhe Ba Wei) and is considered the foremost among them. It originally comes from Xiangshan (象山) in Ningbo, Zhejiang province. The primary production areas today are in Zhejiang's Yinzhou (鄞州) district (especially Zhangshui town, known as the "Home of Zhe Bei Mu"), Pan'an (磐安), Jinyun (缙云), and Dongyang (东阳). Zhejiang province accounts for approximately 90% of the national output. Smaller quantities are also cultivated in Jiangsu (Nantong, Suzhou, Taizhou), Anhui, Hunan, Fujian, and Jiangxi. The Zhejiang-grown herb is considered the authentic "dao di" (terroir) material.
+- **Quality Indicators**: Good quality Zhe Bei Mu has thick, fleshy scale leaves that are white to pale yellow on the surface, covered with white powder (from lime processing). The texture should be hard and crisp, breaking cleanly to reveal a white to pale yellowish cross-section that is markedly starchy (powdery). The taste should be distinctly bitter, with a very faint smell. Between the two commercial forms, "Yuan Bao Bei" (the crescent-shaped single scales from larger bulbs) is considered superior to "Zhu Bei" (smaller whole bulbs). Inferior material has a greyish-white surface and a brownish-red center in cross-section, indicating poor quality or improper processing. Look for: plump, starchy pieces; uniform white color; strong bitterness; absence of insect damage, mold, or discoloration.
+
+### Identity & Adulterants
+Zhe Bei Mu is most commonly confused with or substituted by other Fritillaria species:
+1. Chuan Bei Mu (川贝母, Fritillaria cirrhosa): Much smaller, rounder bulbs with a sweeter taste. It is far more expensive. Some vendors substitute cheaper Zhe Bei Mu for Chuan Bei Mu, which is clinically inappropriate since their indications differ (Chuan Bei Mu for yin-deficiency dry cough; Zhe Bei Mu for heat-phlegm).
+2. Ping Bei Mu (平贝母, Fritillaria ussuriensis): Produced in northeastern China, similar appearance but smaller and with different alkaloid profiles. Often used as a cheaper substitute.
+3. Yi Bei Mu (伊贝母, Fritillaria pallidiflora): From Xinjiang, sometimes mixed in with Zhe Bei Mu.
+4. Tu Bei Mu (土贝母, Bolbostemma paniculatum): Completely different plant family (Cucurbitaceae), sometimes confused by name since Zhe Bei Mu was historically also called "Tu Bei Mu." Tu Bei Mu has different properties and indications.
+Distinguishing authentic Zhe Bei Mu: larger bulb size than Chuan Bei Mu, flat-topped (not pointed), distinctly bitter (not sweet), two thick outer scales forming a kidney shape or crescent (Yuan Bao) shape.
+
+---
+
+## References
+### Classical Texts
+#### 《本草纲目拾遗》 (Supplement to the Compendium of Materia Medica, Qing dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+The earliest reference to Bei Mu (贝母) as a medicinal substance appears in the Shen Nong Ben Cao Jing (Divine Farmer's Classic of Materia Medica), where it was listed as a middle-grade herb. However, prior to the Ming dynasty, all classical texts simply referred to "Bei Mu" without distinguishing between Chuan Bei Mu (Sichuan Fritillaria) and Zhe Bei Mu (Zhejiang Fritillaria). The Xin Xiu Ben Cao (Newly Revised Materia Medica, Tang dynasty) noted that the best Bei Mu came from Runzhou (modern-day Zhenjiang, Jiangsu), suggesting that the ancient herb included what we now call Zhe Bei Mu.
+The formal separation began in the Ming dynasty. Zhang Jiebin's Ben Cao Zheng (Orthodox Materia Medica, 1624) was the first text to discuss "Tu Bei Mu" (Zhe Bei Mu's early name) as a distinct entry separate from Chuan Bei Mu. The Qing dynasty text Xuan Qi Jiu Zheng Lun was the first to formally use the name "Zhe Bei Mu." Zhao Xuemin's Ben Cao Gang Mu Shi Yi (Supplement to the Compendium of Materia Medica, 1765) then established the clear therapeutic distinctions between the two. Zhe Bei Mu was recognized as more bitter, colder, and stronger at clearing Heat and dispersing nodulations, while Chuan Bei Mu was sweeter, milder, and better for moistening the Lungs and treating chronic dry cough.
+The name "Xiang Bei" (象贝, Elephant Shell Mother) derives from Xiangshan county in Ningbo, Zhejiang, its original production area. Over time, it also became known as "Da Bei" (大贝, Large Fritillaria) due to its larger bulb size compared to Chuan Bei Mu. Zhe Bei Mu has long been recognized as the leading member of the "Zhe Ba Wei" (浙八味), the eight most celebrated medicinal herbs of Zhejiang province.
+
+### Modern Scientific Research
+1. **[Comprehensive review: Traditional uses, phytochemistry, pharmacodynamics, pharmacokinetics and toxicity of Fritillariae Thunbergii Bulbus (2019)](https://doi.org/10.3390/ijms20071667)**
+   *Journal: Li H, Hung A, Li M, Yang AWH. International Journal of Molecular Sciences. 2019; 20(7): 1667.*
+   This review systematically summarized the traditional uses, chemical constituents (mainly steroidal alkaloids including peimine and peiminine), and pharmacological effects of Zhe Bei Mu. It documented antitussive, expectorant, anti-inflammatory, analgesic, antitumor, blood pressure-regulating, and anti-ulcer activities of the herb and its isolated compounds.
+
+2. **[Review: Efficacy, chemical composition, and pharmacological effects of herbal drugs derived from Fritillaria cirrhosa and Fritillaria thunbergii (2022)](https://doi.org/10.3389/fphar.2022.985935)**
+   *Journal: Wu F, Tian M, Sun Y, Wu C, Liu X. Frontiers in Pharmacology. 2022; 13: 985935.*
+   A comparative review documenting antitussive, expectorant, anti-inflammatory, antioxidant, and anticancer effects of both Chuan Bei Mu and Zhe Bei Mu. The study confirmed that steroidal and isosteroidal alkaloids are the primary bioactive compounds, with over 140 compounds isolated from Fritillaria species.
+
+3. **[Network pharmacology study: Fritillaria thunbergii against idiopathic pulmonary fibrosis (2022)](https://doi.org/10.1155/2022/2996878)**
+   *Journal: Xu Y et al. Evidence-Based Complementary and Alternative Medicine. 2022; 2022: 2996878.*
+   Using network pharmacology and in vitro experiments on human lung fibroblasts, this study identified key targets (AKT1, EGFR, MAPK1, etc.) through which Zhe Bei Mu extract inhibited TGF-beta1-induced fibrotic changes, supporting its traditional use in treating lung conditions.
+
+4. **[Comprehensive review: Traditional uses, phytochemical profile and pharmacological properties of Fritillaria thunbergii Miq. (2021)](https://doi.org/10.1016/j.fct.2021.112268)**
+   *Journal: Nile SH et al. Food and Chemical Toxicology. 2021; 153: 112268.*
+   An extensive review covering 122 identified compounds from Zhe Bei Mu, including alkaloids, essential oils, diterpenoids, sterols, and lignans. Documented pharmacological properties include antitussive, anti-inflammatory, anticancer, anti-ulcer, anti-diarrheal, analgesic (via Nav1.7 channel inhibition), and neuroprotective effects.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/zhe-bei-mu](https://www.meandqi.com/knowledge-base/herbs/zhe-bei-mu)*

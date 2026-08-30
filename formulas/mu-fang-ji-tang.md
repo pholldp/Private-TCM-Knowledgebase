@@ -1,0 +1,75 @@
+# Mu Fang Ji Tang (木防己汤)
+**English Name**: Stephania Root Decoction  
+**Category**: Phlegm-resolving formulas, Warming and transforming water-dampness formulas  
+**Dynasty/Source**: Jin Gui Yao Lue (金匮要略, Essentials from the Golden Cabinet) by Zhang Zhongjing  
+**Temperature**: Slightly Cool | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A classical formula from the Jin Gui Yao Lue designed for fluid retention in the chest area that has developed Heat, causing breathlessness, a blocked sensation below the heart, and a dark complexion. It works by draining the accumulated fluid, clearing the Heat that stagnation has generated, warming the body's fluid-transforming capacity, and replenishing the Qi that prolonged illness has depleted. It is commonly used today for conditions like congestive heart failure with edema and pleural effusion.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Promotes Urination and Drains Dampness, Dissipates Nodules and Softens Hardness, Supports the Upright and Dispels Pathogens, Disperses Depressed Heat, Warms Yang and Transforms Fluid Retention
+- **Therapeutic Focus**: Heart health, Fluid Retention and Edema, Respiratory Health, Chest Congestion Relief
+- **Target Organs**: Lungs, Heart, Spleen, Stomach
+- **Patterns Addressed**: 
+- **Conditions Treated**: Congestive Heart Failure, Pleural Effusion, Cor Pulmonale, Edema, Ascites, Rheumatoid Arthritis, Pericardial Effusion, Deep Vein Thrombosis
+- **Other Names**: Fang Ji Gui Zhi Tang (防己桂枝汤, Stephania and Cinnamon Twig Decoction), Han Fang Ji Tang (汉防己汤)
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Fang Ji** | Fourstamen Stephania Root | *King* | 9 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Urinary Bladder, Kidneys, Spleen | The chief herb that drives the entire formula. Fang Ji is bitter and cold, entering the Lung and Bladder channels. It powerfully promotes the downward movement and elimination of water and fluid accumulation from the diaphragm area. It is the primary agent for resolving the pathological fluid retention (支饮) that causes the fullness and dyspnea. |
+| **Shi Gao** | Gypsum | *Deputy* | 12 - 24g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Shi Gao is acrid, sweet, and very cold, entering the Lung and Stomach channels. It clears the Heat that has developed from prolonged fluid stagnation (水饮郁久化热). By clearing this depressed Heat and descending rebellious Qi, it works with Fang Ji to address the combined pathology of fluid accumulation with Heat. It also helps relieve the sensation of fullness and oppression below the heart. |
+| **Gui Zhi** | Cinnamon twig | *Assistant* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Urinary Bladder | Gui Zhi is acrid and warm, entering the Heart, Lung, and Bladder channels. It warms Yang and promotes the transformation and movement of fluids, counteracting the stagnation of water-dampness in the chest and diaphragm. It helps unblock the flow of Yang Qi, which is essential for proper fluid metabolism. Paired with the cold Fang Ji and Shi Gao, it provides necessary warmth to prevent the cold-natured herbs from further damaging Yang, while also calming the upward surging of Qi (平冲降逆). |
+| **Ren Shen** | Ginseng root | *Assistant* | 9 - 12g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Ren Shen is sweet and slightly warm, entering the Spleen and Lung channels. It powerfully tonifies the Spleen and Lung Qi, which has become deficient after prolonged illness and especially after inappropriate vomiting and purging treatments. By strengthening the body's righteous Qi (正气), it supports the Spleen's ability to manage fluids and prevents the fluid-expelling herbs from further weakening the constitution. It is used at the highest original dosage (4 liang) in this formula, reflecting how critical tonifying deficiency is for this pattern. |
+
+---
+
+## Scientific Research
+
+1. [Prospective randomized pilot study: Effects of Mokuboito on symptoms in patients hospitalized for acute decompensated heart failure (2019)](https://pubmed.ncbi.nlm.nih.gov/31272834/) (*Ezaki H, Ayaori M, Sato H, et al. Journal of Cardiology, 2019, 74(4), 388-395.*)
+> A prospective randomized controlled pilot study in 40 patients with acute decompensated heart failure found that adding Mokuboito (Mu Fang Ji Tang) to standard therapy significantly improved global clinical status as measured by visual analog scale (p=0.001). Left ventricular end-diastolic diameter and serum bilirubin were also significantly reduced in the treatment group, suggesting the formula may attenuate organ congestion and cardiac preload. Mokuboito was well-tolerated with no reported adverse effects.
+2. Case report: Acute and chronic effects of Mokuboito in heart failure due to severe aortic regurgitation (2019) (*Miho E, Iwai-Takano M, Saitoh H, Watanabe T. Fukushima Journal of Medical Science, 2019, 65(2), 61-67.*)
+> A detailed case report of an inoperable patient with severe aortic regurgitation and heart failure showed that Mokuboito acutely decreased systemic vascular resistance and increased cardiac output. Chronic administration improved NYHA functional class (from III to IIs), reduced plasma BNP levels from 1406 to 627 pg/mL, and improved left ventricular diastolic function.
+3. Retrospective study: Efficacy of Mokuboito in patients with severe intractable heart failure (2016) (*Ezaki H, Inokuchi T, Taniwaki M, et al. Kampo Medicine, 2016, 67(2), 169-177.*)
+> A retrospective evaluation of 12 consecutive severe heart failure patients treated with Mokuboito from 2013-2015 showed that the formula significantly decreased plasma BNP concentration from 796.8 to 215.6 pg/mL (p<0.01) and improved symptoms. No significant changes were observed in LVEF, suggesting the benefit may operate through mechanisms other than direct systolic enhancement, such as preload reduction.
+4. [Animal study: Protective effects of Mu-Fang-Ji-Tang against myocardial injury in viral myocarditis-induced congestive heart failure (1998)](https://pubmed.ncbi.nlm.nih.gov/9519794/) (*Life Sciences, 1998.*)
+> In a murine model of congestive heart failure induced by viral myocarditis, Mu Fang Ji Tang (1.5g/kg/day) significantly reduced the heart weight to body weight ratio (p<0.01), lowered histopathological grades of myocardial damage (p<0.05), and improved survival (p<0.05). The formula also inhibited nitrite formation from virus-activated macrophages in a concentration-dependent manner, suggesting anti-inflammatory and cardioprotective mechanisms.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Use with caution during pregnancy. Mu Fang Ji (Cocculus trilobus / Sinomenium acutum stem) and Gui Zhi (Cinnamomum cassia twig) both have properties that promote fluid movement and blood circulation, which could theoretically stimulate uterine activity. In particular, Fang Ji species have strong draining and descending actions. Additionally, the overall formula strategy of vigorously moving water and opening Yang pathways is generally considered too aggressive for the pregnant body, where the treatment principle is to calm and secure. This formula should only be considered during pregnancy when the clinical situation is severe enough to outweigh these risks, and only under close practitioner supervision with appropriate dose reduction.
+
+### Breastfeeding
+Limited safety data is available for use during breastfeeding. The key concern is Mu Fang Ji, which contains alkaloids (primarily sinomenine) that could theoretically transfer into breast milk. Sinomenine has demonstrated pharmacological activity on cardiac ion channels and vascular smooth muscle, so exposure to a nursing infant is a legitimate concern. Ren Shen (Ginseng) is generally considered compatible with breastfeeding but may affect infant alertness in sensitive cases. The formula's strong diuretic action could also potentially reduce milk production by depleting maternal fluids. Use only when clearly needed and under practitioner guidance, with monitoring of the infant for unusual drowsiness or irritability.
+
+### Children
+Mu Fang Ji Tang is not a formula traditionally used in pediatric practice. Its classical indication of chronic fluid retention with diaphragmatic obstruction occurs predominantly in adults, particularly the elderly. If clinical circumstances require its use in older children or adolescents, doses should be reduced to approximately one-third to one-half of adult dosages depending on body weight and age. The formula should not be used in infants or young children. The alkaloid content of Mu Fang Ji (sinomenine) warrants particular caution in developing bodies, as pediatric pharmacokinetics for these compounds are not well studied. Any pediatric use should be brief, closely monitored, and supervised by an experienced practitioner.
+
+### Drug Interactions
+Cardiac glycosides (e.g. digoxin): Ren Shen (Ginseng) may affect the metabolism and serum levels of cardiac glycosides. Since this formula is frequently used in heart failure patients who may also be taking digoxin, concurrent use requires careful monitoring of digoxin levels.
+Diuretics: The formula itself has significant diuretic properties. When combined with pharmaceutical diuretics (loop diuretics, thiazides, or vasopressin antagonists like tolvaptan), additive fluid loss and electrolyte imbalance (especially hypokalemia) could occur. One clinical study noted that patients receiving Mokuboito required significantly less tolvaptan.
+Antihypertensive medications: Pharmacological studies show that Mokuboito produces vasodilation by reducing systemic vascular resistance. Combined with antihypertensive drugs, this could lead to excessive blood pressure lowering. Blood pressure should be monitored.
+Anticoagulants and antiplatelet agents: Gui Zhi (Cinnamon Twig) has mild blood-activating properties and Sinomenium-derived alkaloids have shown antiplatelet effects in laboratory studies. Patients on warfarin, heparin, or antiplatelet drugs should be monitored for increased bleeding tendency.
+Immunosuppressants: Sinomenine (from Mu Fang Ji) has demonstrated immunomodulatory effects in research settings. Theoretically, it could interact with immunosuppressive medications, though clinical significance is not well established.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: Divided into two doses taken warm, typically 30 minutes after meals to reduce gastrointestinal irritation from the bitter and cold properties of Shi Gao and Fang Ji.
+- **Typical Duration**: Acute to subacute use: typically 7-14 days for initial symptom resolution, then reassessed. May be extended to 4-8 weeks for chronic conditions under close practitioner monitoring.
+- **Dietary Advice**: While taking this formula, avoid cold and raw foods, icy drinks, and excessive salt, as these can worsen fluid retention and impair the Spleen's ability to transform fluids. Greasy, fatty, and heavily fried foods should also be limited, since they generate Dampness and Phlegm that would counteract the formula's fluid-resolving actions. Moderate intake of lightly cooked, warm foods that support the Spleen is recommended, such as congee, cooked grains, winter squash, and lightly prepared vegetables. Fluid intake should be moderate and not excessive, as the formula is working to resolve pathological fluid accumulation. Avoid alcohol, which generates Dampness-Heat.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/mu-fang-ji-tang](https://www.meandqi.com/knowledge-base/formulas/mu-fang-ji-tang)*

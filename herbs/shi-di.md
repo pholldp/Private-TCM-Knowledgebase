@@ -1,0 +1,156 @@
+# Shi Di (柿蒂)
+**English Name**: Persimmon calyx  
+**Category**: Qi-regulating herbs (理气药)  
+**Scientific Name**: Diospyros kaki Thunb.  
+**Pharmaceutical Name**: Calyx Kaki  
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Bitter (苦 kǔ), Astringent (涩 sè)  
+**Channels Entered**: Stomach  
+**Parts Used**: Other  
+
+---
+
+## Summary
+Persimmon calyx is the dried cap-like structure from the top of persimmon fruit. It is the most widely used herb in Chinese medicine for stopping persistent hiccups. Its bitter, astringent nature helps push the stomach's Qi back downward when it is rebelling upward, which is the root cause of hiccups in TCM thinking. It has a neutral temperature, meaning it works for both cold and hot types of hiccups depending on what it is combined with.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Hiccup Relief, Nausea and Bloating
+- **TCM Actions**: Directs Rebellious Qi Downward and Stops Hiccup, Directs Stomach Qi downward
+
+### How these actions work
+'Descends rebellious Qi and stops hiccups' is the primary and most specific action of Shi Di. In TCM, the Stomach's natural direction of Qi movement is downward. When this function is disrupted, Qi surges upward instead, producing hiccups (呃逆, è nì), belching, or nausea. Shi Di's bitter and astringent properties give it a strong descending and anchoring quality that redirects this rebellious Qi back downward. It is considered the single most specific herb for stopping hiccups regardless of whether the underlying cause is Cold or Heat, earning it the classical title of 'essential herb for stopping hiccups' (止呃要药). For Cold-type hiccups, it is paired with warming herbs like Ding Xiang (Clove) and fresh ginger. For Heat-type hiccups, it is combined with cooling herbs like Zhu Ru (Bamboo shavings) and Lu Gen (Reed root).
+'Directs Stomach Qi downward' is the broader mechanism behind Shi Di's anti-hiccup action. Because it enters the Stomach channel and has a descending nature, it can also help with belching (噫气) and mild nausea related to upward-rebelling Stomach Qi. Its neutral temperature means it does not add Heat or Cold, making it a versatile building block that adapts to the accompanying herbs in a formula.
+
+---
+
+## Patterns Addressed
+*No specific patterns listed.*
+
+---
+
+## Commonly Used For
+### Hiccups
+- **TCM Interpretation**: In TCM, hiccups (呃逆) are understood as Stomach Qi rebelling upward instead of following its natural downward path. The Stomach is responsible for receiving food and moving digested contents downward to the Small Intestine. When this descending function is impaired by Cold invasion, Heat accumulation, Qi deficiency, or emotional stagnation, Qi surges upward through the diaphragm, producing the involuntary hiccup sound. Persistent hiccups are therefore a sign that the Stomach's fundamental directional movement has been disrupted, and treatment focuses on restoring the downward flow of Qi while addressing the root cause (Cold, Heat, or deficiency).
+- **Why it Helps**: Shi Di is considered the single most specific herb for stopping hiccups in the entire Chinese Materia Medica. Its bitter taste naturally promotes downward movement in the body, while its astringent quality anchors and stabilizes the Qi, preventing it from repeatedly surging upward. Because Shi Di enters the Stomach channel directly, its descending action is precisely targeted at the organ responsible for the problem. Its neutral temperature is a key advantage: it can be combined with warming herbs like Ding Xiang (Clove) and ginger for Cold-type hiccups, or with cooling herbs like Zhu Ru (Bamboo shavings) and Lu Gen (Reed root) for Heat-type hiccups. This versatility is why Shi Di appears as a central ingredient across multiple classical hiccup formulas regardless of the underlying pattern.
+
+### Gastroesophageal Reflux Disease
+- **TCM Interpretation**: Gastroesophageal reflux involves stomach acid and contents moving upward into the esophagus instead of continuing their natural downward path. In TCM, this maps closely to rebellious Stomach Qi (胃气上逆). The underlying cause may involve Liver Qi overacting on the Stomach (横逆犯胃), Stomach Heat forcing Qi upward, or Stomach Cold and deficiency impairing the descending function. The burning sensation, sour regurgitation, and discomfort all reflect Qi and turbid substances moving in the wrong direction.
+- **Why it Helps**: Shi Di's core action of descending rebellious Stomach Qi directly addresses the upward movement that characterizes reflux. By helping to restore the Stomach's natural downward direction, it can ease regurgitation and belching. In clinical practice, Shi Di is used as part of larger formulas tailored to the specific cause. For example, the classical formula Ding Xiang Shi Di Tang has been reported in modern clinical studies for treating reflux esophagitis when the underlying pattern involves Stomach Cold and Qi deficiency.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5-10g
+- **Maximum Dosage**: Up to 15g in decoction for stubborn hiccups, under practitioner guidance. Some classical sources mention using up to 10 pieces (approximately 15-20g) in acute cases.
+- **Dosage Notes**: The standard dose of 5 to 10g is used in decoction for most cases of hiccups. For milder cases, 5g may suffice when combined with appropriate partner herbs. For stubborn or chronic hiccups, the dose may be increased toward 10 to 15g. Shi Di can also be used as a powder (ground and taken with warm water or yellow wine), which some classical sources suggest may be more effective for acute hiccups. When burned to ash and taken as powder (as described in some folk remedies), only 3 to 6g is used.
+- **Preparation**: No special decoction handling is required. Shi Di is simply added with the other herbs and decocted normally. When used as a powder (ground calyx), 3 to 6g is taken directly with warm water or wine. Some classical recipes call for burning the calyx to ash (烧灰存性) before grinding to powder.
+
+---
+
+## Processing Methods
+### Sh&#xEC; D&#xEC; T&#xE0;n (&#x67FF;&#x8482;&#x70AD;)
+- **Processing Method**: The dried persimmon calyx is charred by stir-frying over high heat until the exterior is blackened but the interior retains some original substance (烧灰存性).
+- **How it Changes Properties**: Charring enhances the astringent and hemostatic (止血) properties. The charred form gains a stronger ability to stop bleeding while its Qi-descending action becomes secondary. The temperature and channel entry remain largely the same.
+- **When to Use**: Used when the clinical goal is stopping bleeding rather than descending Qi. Classical sources describe it for blood in the urine (血淋), where the charred calyx is ground to powder and taken with rice water.
+
+### Ji&#x101;ng Sh&#xEC; D&#xEC; (&#x59DC;&#x67FF;&#x8482;)
+- **Processing Method**: Fresh ginger is crushed and the juice extracted. The dried persimmon calyx is mixed with ginger juice until fully absorbed, then stir-fried over low heat until dry. Approximately 12.5 kg of fresh ginger per 100 kg of Shi Di.
+- **How it Changes Properties**: The addition of ginger juice introduces a warm, acrid quality that the raw herb lacks. This enhances the herb's ability to warm the Stomach, open Phlegm obstruction, and strengthen its anti-nausea and anti-vomiting action. The overall effect shifts from purely descending to descending combined with warming and dispersing.
+- **When to Use**: Preferred when hiccups or vomiting are clearly caused by Cold and Phlegm in the Stomach, and when a stronger warming and Phlegm-dispersing effect is desired beyond what the raw herb provides.
+
+---
+
+## Common Herb Pairs
+### Ding Xiang (Ratio: 1:1 (e.g. Ding Xiang 6g : Shi Di 6-9g))
+- **Description**: This is the most famous herb pair for treating hiccups. Ding Xiang (Clove) is acrid and warm, excelling at warming the Stomach and dispersing Cold, while Shi Di is bitter, astringent, and neutral, excelling at descending rebellious Qi and anchoring it downward. Together, Ding Xiang provides the warming force to dispel Cold while Shi Di provides the descending force to redirect Qi. One warms, the other descends, achieving what neither herb does as effectively alone.
+- **When to Use**: Persistent hiccups due to Stomach Cold, where the hiccups worsen with cold foods or drinks and improve with warmth. This is the foundation of the classical formula Ding Xiang Shi Di Tang.
+
+### Zhu Ru (Ratio: 1:1 to 1:2 (e.g. Shi Di 6-9g : Zhu Ru 9-12g))
+- **Description**: Zhu Ru (Bamboo shavings) is sweet, slightly cold, and clears Stomach Heat while calming rebellious Qi. Paired with Shi Di's neutral descending action, this combination treats hiccups from Stomach Heat. Zhu Ru clears the Heat that is forcing Qi upward, while Shi Di anchors the Qi back down. Together they achieve a cool, descending effect appropriate for Heat patterns.
+- **When to Use**: Hiccups or belching due to Stomach Heat, with signs such as a red tongue, yellow coating, thirst, or irritability. This pair is recommended in classical sources for when Shi Di needs a cooling rather than warming partner.
+
+### Sheng Jiang (Ratio: Shi Di 9g : Sheng Jiang 6-9g (3-5 slices))
+- **Description**: Sheng Jiang (Fresh ginger) is the classical 'holy herb for vomiting' (呕家圣药), with acrid, warm properties that warm the Stomach and stop nausea. Combined with Shi Di's descending action, ginger reinforces the anti-nausea and anti-hiccup effect while also helping to warm the middle burner. Ginger's dispersing quality opens up Qi stagnation while Shi Di pushes the Qi downward.
+- **When to Use**: Hiccups or nausea accompanied by a feeling of cold in the stomach area, poor appetite, or after consuming cold foods. This pair appears together in Shi Di Tang (济生方) and Ding Xiang Shi Di Tang.
+
+### Ren Shen (Ratio: 1:1 (e.g. Shi Di 6-9g : Ren Shen 3-6g))
+- **Description**: Ren Shen (Ginseng) powerfully tonifies Qi and strengthens the Stomach, addressing the underlying Qi deficiency that can leave the Stomach too weak to maintain its normal descending function. Shi Di provides the targeted descending force, while Ren Shen replenishes the Qi that was depleted. Together they treat both the symptom (rebellious Qi) and the root (Qi deficiency).
+- **When to Use**: Hiccups in chronically ill, postoperative, elderly, or constitutionally weak patients where Qi deficiency is the underlying driver. This pair forms the core of the formula Shi Qian San (柿钱散) from the Jie Gu Jia Zhen.
+
+---
+
+## Key Formulas
+Ding Xiang Shi Di Tang, Si Ni Tang, Shi Xiao San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Shi Di is classified as non-toxic and has no known toxic components at standard medicinal dosages. Its main chemical constituents include triterpene acids (oleanolic acid, ursolic acid, betulinic acid), flavonoids (quercetin, kaempferol), tannins, and phytosterols. Tannin content is present but relatively low in the dried calyx compared to the unripe fruit. No cases of poisoning from medicinal use of Shi Di have been reported.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy contraindication is established for Shi Di in classical or modern sources. Its neutral thermal nature and narrow therapeutic scope (primarily used for hiccups) make it relatively benign. However, as with all medicinal herbs during pregnancy, it should only be used under professional guidance and for clear clinical need. There is no known uterine-stimulating or teratogenic mechanism.
+- **Breastfeeding**: No specific concerns have been documented for Shi Di during breastfeeding. It is classified as non-toxic, and its traditional use at standard doses for short-term treatment of hiccups poses minimal theoretical risk of transfer through breast milk. However, formal safety studies during lactation have not been conducted, so professional guidance is recommended.
+- **Children**: Shi Di may be used in children at reduced dosages appropriate for age and body weight, typically one-third to one-half of the adult dose. It is most commonly given for persistent hiccups. Because of its astringent taste, it may be more practical to administer in powder form mixed with warm water or honey (for children over one year old) rather than as a decoction. No specific age restrictions or pediatric toxicity concerns are documented.
+
+### Drug Interactions
+Shi Di contains tannins that can bind to iron, potentially reducing the absorption of iron supplements or iron-containing medications. Avoid taking Shi Di within two hours of oral iron preparations.
+The tannin content may also reduce the absorption of certain alkaloid-based medications if taken simultaneously, though this interaction is modest at standard doses.
+No significant interactions with common pharmaceutical drug classes (anticoagulants, antihypertensives, etc.) have been documented for Shi Di specifically. However, as a general precaution, patients on medications for cardiac arrhythmias should inform their practitioner, given preliminary pharmacological data suggesting the herb may have mild anti-arrhythmic properties.
+
+### Dietary Advice
+When taking Shi Di for hiccups related to Stomach Cold, avoid cold, raw, and icy foods and beverages, as these can worsen the underlying Cold pattern and counteract the treatment. Avoid highly acidic or sour foods, which may increase astringency in the stomach. Because the calyx contains tannins, avoid drinking milk or consuming high-protein foods (such as crab) within one hour of taking the herb, as tannins can bind with proteins and reduce absorption.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Diospyros kaki Thunb. (family Ebenaceae) is a deciduous tree that typically grows 6 to 18 metres tall, with a rounded, spreading crown and somewhat drooping outer branches. The leaves are alternate, broadly ovate to elliptic, 7 to 25 cm long, leathery and glossy dark green on the upper surface with brown-silky pubescence underneath. In autumn the foliage turns vivid shades of yellow, orange and red. The tree is usually dioecious (bearing male and female flowers on separate trees). Creamy-white female flowers appear singly while pinkish male flowers grow in small clusters, blooming in late spring to early summer. The fruit is a large, round to slightly flattened berry, 3.5 to 7 cm across, ripening to bright orange in late autumn, often persisting on the bare branches into winter.
+The medicinal part, Shi Di (柿蒂), is the persistent calyx that caps the base of the fruit. It is a flat, disc-shaped structure about 1.5 to 2.5 cm in diameter, with four thick lobes that often curl back. It remains firmly attached to the fruit throughout growth and is collected when the fruit is ripe.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn and winter (September to November), when the fruit is fully ripe. The calyx is collected during fruit harvest or when persimmons are eaten, then washed and sun-dried.
+- **Primary Growing Regions**: Widely cultivated throughout China. The main producing regions are Henan and Shandong provinces, with significant production also in Hebei, Shanxi, Fujian, Guangdong, Guangxi, and Sichuan. Henan province (particularly the area around Xingyang, famous for its persimmons) and Shandong are generally considered the primary sources for quality medicinal Shi Di.
+- **Quality Indicators**: Good quality Shi Di is flat and disc-shaped, about 1.5 to 2.5 cm in diameter, with thick, fleshy lobes. The outer surface should be yellowish-brown to reddish-brown in colour. The inner surface should be yellowish-brown and densely covered with fine velvety hairs. The calyx should feel hard and brittle but not crumbling. It should have minimal smell and a distinctly astringent taste when chewed. Prefer pieces that are large, thick, intact (not broken into fragments), and evenly coloured. Avoid calyxes that are dark, mouldy, or have lost their characteristic astringency.
+
+### Identity & Adulterants
+Shi Di is a relatively inexpensive and widely available herb, so deliberate adulteration is uncommon. The main quality concern is the use of immature or poorly dried calyxes, which may have different chemical profiles and reduced efficacy. The calyx of Diospyros lotus (date-plum, 君迁子) could potentially be confused with that of D. kaki, though this is rare since D. lotus fruits are much smaller and the calyxes are correspondingly smaller and thinner. Always verify that pieces are the correct size (1.5 to 2.5 cm) and display the characteristic four-lobed shape with velvety inner surface.
+
+---
+
+## References
+### Classical Texts
+#### 《本草纲目》(Ben Cao Gang Mu) by Li Shizhen
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Shi Di was first recorded as a medicinal substance in the Tang Dynasty text Ben Cao Shi Yi (《本草拾遗》, Supplement to the Materta Medica) by Chen Cangqi. Its primary use as a remedy for hiccups (呃逆) has remained remarkably consistent throughout the centuries. Historical alternative names include Shi Qian (柿钱, "persimmon coin," from the Jie Gu Jia Zhen), Shi Ding (柿丁), and Shi E (柿萼, "persimmon calyx").
+The most famous classical formula featuring Shi Di is Shi Di Tang (also known as Shi Di San) from the Song Dynasty text Ji Sheng Fang (《济生方》) by Yan Yonghe, which pairs it with Ding Xiang (Clove) and Sheng Jiang (Fresh Ginger) to treat persistent hiccups from Stomach Cold. Zhang Yuansu of the Jin Dynasty further developed its use, adding Ren Shen (Ginseng) to the formula (recorded in Jie Gu Jia Zhen) to address hiccups in deficient patients. Li Shizhen later discussed these various approaches in the Ben Cao Gang Mu, noting the debate between the warming approach and the views of Zhu Danxi, who cautioned that blindly using warm herbs like Clove could aggravate conditions of underlying Heat.
+Beyond its medicinal role, the persimmon calyx (柿蒂纹) became a significant decorative motif in Chinese art and architecture. Its distinctive four-lobed shape was commonly used in bronze vessels, ceramics, and textile embroidery from the Han Dynasty onward, symbolizing stability, fertility, and auspiciousness. The You Yang Za Zu (《酉阳杂俎》) noted that among trees, the persimmon's root system is the most firmly anchored, making the calyx pattern a symbol of structural solidity in architecture.
+
+### Modern Scientific Research
+1. **[Anticancer activity of calyx of Diospyros kaki Thunb. through downregulation of cyclin D1 in human colorectal cancer cells (in vitro study, 2017)](https://doi.org/10.1186/s12906-017-1954-2)**
+   *Journal: Park SB, Park GH, Song HM, Son HJ, Um Y, Kim HS, Jeong JB. BMC Complementary and Alternative Medicine, 2017, 17(1):445.*
+   This laboratory study found that an ethanol extract of persimmon calyx suppressed the growth of four human colorectal cancer cell lines (HCT116, SW480, LoVo, HT-29). The extract reduced levels of cyclin D1, a protein that drives cell division, through both increased protein breakdown and reduced gene activity via the Wnt signaling pathway. The authors suggest persimmon calyx has potential as a candidate for cancer prevention research, though this has not been tested in humans.
+
+2. **[Anti-inflammatory potential of quercetin-3-O-β-D-("2"-galloyl)-glucopyranoside and quercetin isolated from Diospyros kaki calyx (in vitro study, 2016)](https://pubmed.ncbi.nlm.nih.gov/27603699/)**
+   *Journal: Cho YH, Kim NH, Khan I, Yu JM, Jung HG, Kim HH, Jang JY, Kim HJ, Kim DI, Kwak JH, Kang SC, An BJ. Journal of Food Science, 2016, 81(10):C2447-C2456.*
+   Researchers isolated two flavonoid compounds from persimmon calyx and found they suppressed inflammatory markers (MAP signaling molecules) in LPS-stimulated macrophage cells. This provides a pharmacological basis for the traditional anti-inflammatory applications of persimmon calyx, though results are limited to cell culture.
+
+3. **[Changes in the extracted amounts and seasonally variable constituents of Diospyros kaki at different growth stages (phytochemistry study, 2020)](https://pubmed.ncbi.nlm.nih.gov/33084985/)**
+   *Journal: Journal of Natural Medicines, 2020. (Published online October 21, 2020)*
+   This study analyzed the chemical composition of persimmon calyx from three cultivars at different stages of fruit maturation. It identified ten compounds including lupeol, betulinic acid, ursolic acid, catechin, and gallocatechin. Total tannin content in the calyx increased significantly during fruit maturation, supporting the traditional practice of harvesting from ripe fruit. Three compounds (lupeol, rotungenic acid, barbinervic acid) were identified in persimmon calyx for the first time.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/shi-di](https://www.meandqi.com/knowledge-base/herbs/shi-di)*

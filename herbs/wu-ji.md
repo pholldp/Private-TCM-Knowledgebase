@@ -1,0 +1,145 @@
+# Wu Ji (乌鸡)
+**English Name**: Black-bone Chicken  
+**Category**: Blood-tonifying herbs (补血药)  
+**Scientific Name**: Gallus gallus domesticus Brisson  
+**Pharmaceutical Name**:   
+**Toxicity**: Non-toxic  
+**Temperature**: Neutral | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Liver, Kidneys, Lungs  
+**Parts Used**: Animal — whole (全虫 quán chóng)  
+
+---
+
+## Summary
+Wu Ji (Black-bone Chicken) is a cherished tonic in Chinese medicine, renowned for nourishing the liver and kidneys, replenishing Qi and Blood, and gently clearing deficiency heat. Often used in soups and herbal dishes, it is especially valued for postpartum recovery, menstrual irregularities, and chronic weakness.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Women's health, Fatigue recovery, Postpartum recovery, Menstrual health
+- **TCM Actions**: Tonifies Liver and Kidneys, Benefits Qi and Blood, Clears Deficiency Heat
+
+### How these actions work
+Tonifies Liver and Kidneys means Wu Ji strengthens the liver's role in storing Blood and the kidneys' role in storing Essence — the foundational substances for growth, reproduction, and aging. This action makes it suitable for lower back soreness, weak legs, infertility, tinnitus, and early greying of hair.
+Benefits Qi and Blood means it directly replenishes both vital energy and red-blood-derived nourishment. This is particularly important after childbirth, major surgery, or prolonged illness when the body is depleted. It improves energy levels, warms the extremities, and restores a healthy complexion.
+Clears Deficiency Heat refers to its ability to cool low-grade internal heat that arises when Yin fluids are too low to balance the body. Unlike cold herbs that might damage digestion, Wu Ji gently nourishes while clearing, making it safe for chronic consumption in bone steaming sensation and night sweats.
+
+---
+
+## Patterns Addressed
+### Liver Blood and Kidney Yin Deficiency
+- **Explanation**: Wu Ji directly nourishes both Liver Blood and Kidney Yin. Its sweet, neutral nature gently tonifies without creating heat, addressing the root deficiency that leads to dizziness, blurred vision, lower back soreness, tinnitus, and menstrual irregularities. By replenishing the liver's blood storage and the kidneys' essence, it restores the nourishing and moistening functions that are lost in this pattern.
+- **Clinical Signs & Symptoms**:
+  - **Fatigue**: Chronic fatigue due to blood and essence depletion
+  - **Pale Complexion**: Dull, pale face without luster
+
+### Empty-Heat or Fire caused by Yin Deficiency
+- **Explanation**: Wu Ji cleanses deficiency heat while simultaneously nourishing the Yin that is depleted. Its neutral temperature means it does not aggravate the heat, and its sweet taste generates fluids to cool the body from within. This makes it suitable for the low-grade heat sensations, night sweats, and restlessness characteristic of Yin Deficiency Empty-Heat.
+- **Clinical Signs & Symptoms**:
+  - **Malar Flush**: Red cheeks, especially in the afternoon
+
+### Qi and Blood Deficiency
+- **Explanation**: As a rich, natural source of Qi and Blood, Wu Ji replenishes both vital substances simultaneously. It is especially effective in cases where chronic illness, childbirth, or poor nutrition have depleted both Qi (energy) and Blood, leading to generalized weakness, pale skin, and poor appetite. Its animal origin makes it particularly nourishing and easy to absorb.
+- **Clinical Signs & Symptoms**:
+  - **Fatigue**: Overwhelming tiredness, worse after exertion
+  - **Poor Appetite**: Weak digestion and disinterest in food
+  - **Pale Skin**: Pale or withered skin and nails
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 内服：煮食，适量，通常每次使用一只（约500～1000g）；或入丸散，用量遵医嘱。
+- **Maximum Dosage**: 无严格上限，但过量食用可能助湿生热，导致腹胀、口苦等。避免食用鸡头、鸡翅、鸡脚。
+- **Dosage Notes**: 补益虚损多与补气养血药同炖；产后调养常加黄酒、生姜等温通之品。用于丸剂时，将乌鸡蒸熟干燥后研粉，与其它药末混合制丸。
+- **Preparation**: 多用于炖汤或煮食，肉与汤同用。制作丸散时，将净乌鸡蒸熟、干燥后研成细粉。
+
+---
+
+## Processing Methods
+### &#x9C9C;&#x4E4C;&#x9E21; (Xi&#x101;n W&#x16B; J&#x12B;)
+- **Processing Method**: 宰杀后去羽毛及内脏，取肉及骨骼鲜用。
+- **How it Changes Properties**: 保持原有效能，性平味甘，补肝肾、益气血、退虚热作用直接。
+- **When to Use**: 日常食疗、炖汤，用于虚劳羸瘦、产后虚弱、血虚调经等。
+
+### &#x5E72;&#x4E4C;&#x9E21;&#x7C89; (G&#x101;n W&#x16B; J&#x12B; F&#x11B;n)
+- **Processing Method**: 净乌鸡蒸熟后干燥，粉碎成细粉。
+- **How it Changes Properties**: 性味不变，便于保存和入丸散，补益作用缓和而持久。
+- **When to Use**: 制作乌鸡白凤丸等中成药的原料，或用于需要长期服用的虚损调理。
+
+### &#x9152;&#x6D78;&#x4E4C;&#x9E21; (Ji&#x1D4; J&#xEC;n W&#x16B; J&#x12B;)
+- **Processing Method**: 净乌鸡用黄酒或白酒浸泡。
+- **How it Changes Properties**: 酒性温行，增强温通血脉、补血活血的作用，尤宜于产后血虚寒凝。
+- **When to Use**: 产后血虚、恶露不尽、虚寒腹痛等。
+
+---
+
+## Common Herb Pairs
+### Dang Gui (Ratio: Wu Ji 1 whole (~1000g) : Dang Gui 15-30g (in soup preparations))
+- **Description**: Wu Ji provides substantial animal-based Blood and Qi nourishment, while Dang Gui (Angelica sinensis) activates and harmonises the Blood, ensuring it moves smoothly without stasis. Together they tonify Blood without causing stagnation, ideal for menstrual irregularities.
+- **When to Use**: Postpartum blood deficiency with scanty or absent menses, pale face, and fatigue, or during recovery from gynecological surgery.
+
+### Shu Di Huang (Ratio: Wu Ji 1 whole (~1000g) : Shu Di Huang 15-24g)
+- **Description**: Both deeply nourish Liver Blood and Kidney Yin. Wu Ji adds the strength of animal essence while Shu Di Huang (prepared Rehmannia root) reinforces the ability to build marrow and Blood. The pair is a potent yin-blood tonic for severe deficiency.
+- **When to Use**: For post-illness weakness, bone steaming sensation, night sweats, and severe lower back pain due to Liver-Kidney Yin deficiency.
+
+### Huang Qi (Ratio: Wu Ji 1 whole (~1000g) : Huang Qi 30-60g)
+- **Description**: Huang Qi powerfully tonifies Spleen Qi, while Wu Ji supplies Blood and Kidney Essence. Together they address the core Qi and Blood deficiency that weakens the body, speeding recovery after childbirth or prolonged illness.
+- **When to Use**: General debility, low immune resistance, frequent infections, and poor post-operative healing.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+乌鸡本身无毒，但若证属湿热、积滞或实热者误用，可能助湿生热，加重病情。鸡头、鸡翅、鸡脚等部位传统认为易助火生痰，应避免食用。
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: 传统用于安胎和产后补虚，一般认为妊娠期适量食用安全。但应避免在湿热、实热证时使用，且不宜过量。
+- **Breastfeeding**: 乌鸡传统用于产后催乳和补虚，如乌鸡增乳胶囊等制剂，哺乳期适量食用通常安全，有助于乳汁分泌和母体恢复。
+- **Children**: 可作为小儿虚弱的滋补食品，适用于营养不良、发育迟缓、病后体虚等。脾胃湿热或积滞者不宜。用量应根据年龄和体质酌减，一般用半只或适量煮汤食用。
+
+### Drug Interactions
+
+
+### Dietary Advice
+服食乌鸡期间，忌食生冷、油腻及辛辣食物，以免影响滋补效果。避免同时食用鸡头、鸡翅、鸡脚，以防生火助痰。
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+乌鸡（乌骨鸡）为雉科动物乌骨鸡 Gallus gallus domesticus Brisson 去羽毛及内脏的全体。体躯短矮而小，头小颈短，具肉冠，耳叶绿色，略呈紫蓝。遍体羽毛白色，除两翅羽毛外，全呈绒丝状；头上有一撮细毛突起，下颌上连两颊面生有较多的细短毛。翅较短，主翼羽分裂，飞翔力强。毛脚，五爪，跖毛多而密。皮、肉、骨均呈乌黑色。也有黑毛乌骨、肉白乌骨、斑毛乌骨等变异种。典型的泰和乌鸡具备“十大”特征：丛冠、缨头、绿耳、胡须、丝毛、毛脚、五爪、乌皮、乌肉、乌骨。喜温暖、干燥、通风的环境，适合林下散养或集约化养殖。
+
+### Sourcing & Harvesting
+- **Harvesting Season**: 全年均可采收，公鸡约180日龄可屠宰，母鸡在停止产蛋后约60天上市。
+- **Primary Growing Regions**: 江西省泰和县（Taihe County, Jiangxi Province）为道地产区，所产泰和乌鸡品质最佳。其他地区如云南盐津、四川沐川、陕西略阳等地亦有养殖。
+- **Quality Indicators**: 优质乌鸡应具备典型的“十大”特征：丛冠、缨头、绿耳、胡须、丝毛、毛脚、五爪、乌皮、乌肉、乌骨。皮、肉、骨均呈深黑色，肌肉结实富有弹性，喙干燥有光泽，眼充满眼窝，角膜有光泽。泰和乌鸡黑色素含量高，肉质细嫩，氨基酸和微量元素丰富。
+
+### Identity & Adulterants
+普通白羽鸡或其他品种乌鸡（如旧院黑鸡、略阳乌鸡）有时冒充泰和乌鸡。正品泰和乌鸡必须同时具备前述十大特征，骨、肉、皮均乌黑，而伪品往往黑色较浅或特征不全。可通过观察骨骼颜色、羽毛形态及黑色素含量鉴别。
+
+---
+
+## References
+### Historical Context
+乌鸡入药历史悠久，李时珍在《本草纲目》中将其分为乌雄鸡、乌雌鸡、黑雌鸡等，并指出“乌骨鸡，又得水木之精气，故虚热者宜之”。因其羽毛洁白而骨肉乌黑，故有“乌鸡白凤”之美称，被誉为“妇科三大圣药”之一。明代龚廷贤《寿世保元》载有乌鸡丸、白凤丹，后经清代御医加减而成乌鸡白凤丸，成为补气养血、调经止带的经典名方。乌鸡不仅是药物，更是药食两用的滋补珍品，在民间广泛用于产后调养和虚损诸证。
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/wu-ji](https://www.meandqi.com/knowledge-base/herbs/wu-ji)*

@@ -1,0 +1,251 @@
+# Yellow Tongue Coating (黄苔)
+**Pinyin**: huáng tái | **Kind**: Symptom | **Category**: Tongue Signs  
+**Synonyms**:  | **Body Regions**: 
+
+---
+
+## Preview Summary
+A yellow coating is not a diagnosis - it's a clue. The thickness, moisture, and location on the tongue reveal whether the heat is superficial or deep, dry or damp, and which organs...
+
+---
+
+## Conventional Medicine View
+### Description
+In Western medicine, a yellow tongue coating is usually considered a benign sign of poor oral hygiene, dehydration, or a buildup of bacteria and dead cells on the tongue's surface. It can also result from smoking, mouth breathing, certain medications, or mild infections. Typically, it is not a standalone diagnosis but rather a clue to look for underlying issues like acid reflux, postnasal drip, or oral thrush. If persistent, dentists or doctors may recommend improved oral care or treat the suspected root cause.
+
+### Treatments
+Standard advice includes brushing the tongue, staying hydrated, using a tongue scraper, and avoiding irritants like tobacco. If an underlying condition such as sinusitis or acid reflux is present, treating that condition often resolves the coating. Antibacterial mouthwashes may be recommended for bacterial overgrowth, and in rare cases, antifungal medications are prescribed.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, the tongue is a map of your internal health, and the coating is formed by the Stomach's digestive processes. A normal coating is thin, white, and slightly moist. When heat enters the picture, the coating turns yellow - just like food scorching in a hot pan. The shade and texture tell us exactly where the heat is coming from and how deep it goes.
+A thin, slightly yellow coating that appears with a scratchy throat or mild fever is often the first sign of an external heat invasion (Exterior-Heat). The heat is just beginning to move from the surface into the interior, and the coating is still light. If caught early, this pattern can be resolved quickly. A thick, dry yellow coating, especially with a red tongue body and a burning thirst, points to deep internal heat - most commonly Stomach Fire. Here, the heat is blazing in the digestive system, drying up fluids and scorching the coating.
+When the coating is thick, greasy, and sticky - as if smeared with butter - Dampness has joined the heat. This is typical of Damp-Heat in the Stomach and Spleen, where sluggish digestion creates a turbid mixture that steams upward. If the greasy yellow coat is concentrated at the sides and accompanied by a bitter taste and rib-side fullness, the Damp-Heat is lodged in the Liver and Gallbladder.
+Finally, a dry, thick yellow coating with constipation and abdominal pain signals Heat in the Large Intestine. The heat has dried up the bowels, and the backed-up toxins are reflected on the tongue. In all cases, TCM treatment aims to clear the heat at its source - not just scrape off the coating - and restore balance to the organ systems involved.
+
+### Practitioner Diagnosis
+A practitioner first looks at the coating’s thickness and texture. A thin yellow coating, especially in someone who recently felt a chill or scratchy throat, often points to an exterior-heat pattern. This suggests a mild invasion has begun to move inward, and the coating is still light because the heat is just starting to build.
+When the coating is thick and dry, and the person complains of a burning thirst, constant hunger, or sore gums, Stomach Fire is a leading suspect. The tongue body underneath is usually red, and the pulse feels rapid and slippery. These signs show that heat is blazing in the stomach and already damaging fluids.
+A thick, greasy yellow coating that feels sticky-almost as if it could be scraped off-paints a different picture. This is the signature of Damp-Heat in the Stomach and Spleen. The person typically feels a heavy, bloated sensation after meals, has a sticky taste in the mouth, and may struggle with loose yet sticky bowel movements. The pulse is often slippery and rapid, reflecting both heat and dampness.
+If a bitter taste and fullness under the ribs accompany the yellow coating, the practitioner considers Liver and Gallbladder Damp-Heat. Here the tongue coating is also greasy, but the emotional and digestive clues-irritability, nausea, and a feeling of pressure in the right upper abdomen-help distinguish it from simple stomach damp-heat.
+A dry yellow coating paired with severe constipation and lower abdominal distension, on the other hand, suggests Heat in the Large Intestine, where trapped heat is consuming fluids and drying out the bowels.
+
+### Classical Reference
+> **Original**: 「阳明病，脉迟，虽汗出不恶寒者，其身必重，短气，腹满而喘，有潮热者，此外欲解，可攻里也。手足濈然汗出者，此大便已硬也，大承气汤主之。若舌上苔黄者，热已入里。」
+> 
+> **Translation**: "In Yangming disease, if the pulse is slow and there is sweating without aversion to cold, the body will feel heavy, with shortness of breath, abdominal fullness, and panting. If there is tidal fever, the exterior is about to resolve and the interior can be attacked. When the hands and feet sweat continuously, the stool has already hardened; Da Cheng Qi Tang governs. If the tongue coating is yellow, heat has already entered the interior."
+> 
+> — Source: *Shang Han Lun (Treatise on Cold Damage)  ,  Yangming Disease 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Stomach Fire (Stomach Heat)
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/stomach-fire-stomach-heat)*
+
+- **Clinical Signs & Symptoms**: Burning pain in the upper stomach, Constant hunger or large appetite, Foul breath, Swollen, painful, or bleeding gums, Thirst with a craving for cold drinks
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol, Stress, anger, or frustration, Overeating, Hot weather
+- **Better with**: Cooling foods, Drinking water, Rest and calm, Gentle movement or exercise
+- **Why this happens (Mechanism)**:
+  When Stomach Fire blazes, the heat rises and dries out the body's fluids, much like a pot boiling over. This intense heat and fluid damage directly change the tongue's coating, turning it thick, dry, and yellow. The red tongue body and possible prickles in the center are a direct reflection of the heat concentrated in the Stomach.
+- **Tongue & Pulse**: Tongue: red body, especially in the center, possibly with prickles; a thick, dry, yellow coating. Pulse: rapid, slippery, and forceful, particularly strong in the right Guan position.
+- **Triggers & Relief Explanation**: Spicy, greasy foods and alcohol are heating by nature; they directly feed Stomach Fire, making the tongue coating thicker and yellower. Emotional stress causes Qi to stagnate and turn into heat, which can flare upward. Cooling foods and drinks help drain excess heat and protect fluids, allowing the tongue to return to a normal, thin white coating. Rest and calm prevent further heat generation, while gentle movement helps Qi flow without overheating.
+- **Diet & Lifestyle**: Avoid spicy, greasy, and deep-fried foods, as well as alcohol and coffee, which add fuel to the fire. Eat more cooling foods like cucumber, watermelon, pear, and mung beans. Drinking plenty of room-temperature or cool water helps replenish lost fluids, but avoid iced drinks, which can trap heat.
+Eat at regular times and avoid overeating. Gentle exercise like walking can help move Qi, but intense workouts may generate more heat. Managing stress and frustration is also important, as emotional upset can stir Stomach Fire.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Qing Wei San](https://www.meandqi.com/knowledge-base/formulas/qing-wei-san)** | Clear the Stomach Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), c. 1276 CE | Cold, Clears Stomach Heat, Cools the Blood, Nourishes Yin | The classic formula to clear Stomach Fire, cool the blood, and stop gum bleeding. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Drains intense Stomach Fire and dries dampness. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | The Ying-Spring point of the Stomach channel, powerfully clears Stomach Heat. |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Harmonizes the Stomach and directs rebellious Qi downward. |
+
+---
+
+### Damp-Heat in Stomach and Spleen
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/damp-heat-in-stomach-and-spleen)*
+
+- **Clinical Signs & Symptoms**: Thick, greasy yellow coating (especially at centre and root), Sticky or bitter taste in the mouth, Bloating and fullness in the upper abdomen, Sticky, incomplete bowel movements, Heavy feeling in the body and limbs, Thirst with little desire to drink
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol, Humid or damp weather, Overeating
+- **Better with**: Light, bland, non-greasy meals, Barley or coix seed tea, Gentle movement or exercise, Dry, well-ventilated environment
+- **Why this happens (Mechanism)**:
+  When the Stomach and Spleen fail to transform food and fluids properly, Dampness and Heat accumulate in the middle burner. This turbid mixture steams upward, coating the tongue. The Heat turns the coating yellow, while the Dampness makes it thick and greasy. Because the root of the problem lies in the digestive organs, the coating is heaviest at the centre and back of the tongue.
+- **Tongue & Pulse**: Tongue: red body, possibly swollen with teeth marks, thick yellow greasy coating especially at centre and root. Pulse: soggy (Ru) and rapid (Shu), often slippery (Hua).
+- **Triggers & Relief Explanation**: Greasy and sweet foods directly fuel Dampness and Heat in the Stomach and Spleen, making the tongue coating thicker and more yellow. Light, bland foods and herbs like barley gently drain Dampness without adding Heat. Gentle exercise activates the Spleen's ability to transform and transport fluids, while a dry environment prevents external Dampness from invading and compounding the internal imbalance.
+- **Diet & Lifestyle**: Avoid greasy, fried, sugary, and dairy-heavy foods, which create Dampness and Heat. Instead, choose light, easily digested meals like congee, steamed greens, and barley water. Gentle daily movement-like walking or stretching-helps the Spleen move Qi and drain Dampness. Keep your living space dry and well-ventilated, as external humidity can worsen the pattern.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Lian Po Yin](https://www.meandqi.com/knowledge-base/formulas/lian-po-yin)** | Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE | Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness | The go-to formula to clear Heat and transform Dampness in the Stomach and Spleen, directly targeting the thick, greasy coating. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome |  | Clears Stomach Heat and dries Dampness, the core herb for this pattern. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears Heat and dries Dampness, especially from the Spleen and Stomach. |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Strongly dries Dampness and strengthens the Spleen, preventing further Damp formation. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Front-Mu point of the Stomach; harmonises the middle burner and resolves Damp-Heat. |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Regulates the intestines and clears Damp-Heat, helping to normalise bowel movements. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | The master point for Dampness; drains Damp-Heat via the urinary tract. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Supports the Spleen in transforming and transporting fluids, reducing Dampness. |
+
+---
+
+### Exterior-Heat
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/exterior-heat)*
+
+- **Clinical Signs & Symptoms**: Fever with slight chills, Sore throat, Mild sweating, Thirst or dry mouth, Thin, faintly yellow coating, Headache
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol, Overwork and lack of sleep, Windy environments
+- **Better with**: Rest and sleep, Cooling herbal teas, Light, bland, non-greasy meals, Staying warm but not overheated, Avoiding drafts
+- **Why this happens (Mechanism)**:
+  When a wind-heat pathogen invades from outside, it gets stuck at the body's surface, causing fever and a slight aversion to wind. As the heat builds, it begins to lightly scorch the tongue coating, turning it from white to a faint, thin yellow. This is an early warning that the pathogen is moving from the exterior toward the interior, but it has not yet gone deep.
+- **Tongue & Pulse**: Tongue: normal or slightly red at the tip and sides, with a thin white coating that may show a faint yellowish tinge. Pulse: floating (fú) and rapid (shuò).
+- **Triggers & Relief Explanation**: Rest conserves the body's defensive Qi so it can push the pathogen out, while cooling fluids and light foods prevent internal heat from building and driving the pathogen deeper. Spicy and fried foods add more heat, which can turn a thin yellow coating thick and greasy. Wind is the carrier for external pathogens, so avoiding drafts keeps the exterior strong and stops the invasion from worsening.
+- **Diet & Lifestyle**: Rest is essential to conserve Qi for fighting off the pathogen. Drink plenty of lukewarm water and cooling herbal teas like chrysanthemum or mint. Eat light, non-greasy foods such as congee and steamed vegetables, and avoid spicy, fried, or heavy meals that can generate internal heat.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | The classic formula to release exterior heat and resolve toxins, used when fever, sore throat, and a faint yellow coating indicate wind-heat invasion. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower |  | Clears heat and resolves toxins, especially for sore throat. |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit |  | Dispels wind-heat and reduces swelling. |
+| **[Bo He](https://www.meandqi.com/knowledge-base/herbs/bo-he)** | Peppermint herb |  | Releases the exterior and cools the throat, helping the pathogen exit. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Releases the exterior and clears heat, especially for headache and sore throat. |
+| **DU-14** | [Dazhui DU-14](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/dazhui-du-14) | D&#xE0; Chu&#xED; | Clears Wind-Heat, Releases the Exterior | Clears heat and releases the exterior, strengthening the body&#x27;s defense. |
+
+---
+
+### Liver and Gallbladder Damp-Heat
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/liver-and-gallbladder-damp-heat)*
+
+- **Clinical Signs & Symptoms**: Bitter taste in the mouth, Pain or distension below the ribs, especially on the right, Thick, greasy yellow coating with red tongue edges, Nausea and aversion to greasy foods, Dark yellow, scanty urine
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol, Stress, anger, or frustration, Humid or damp weather
+- **Better with**: Cooling herbal teas, Bitter greens and vegetables, Gentle movement or exercise, Stress management and relaxation
+- **Why this happens (Mechanism)**:
+  When Dampness and Heat accumulate in the Liver and Gallbladder, the Heat rises upward and steams the tongue, turning the coating a greasy yellow. Because the Liver and Gallbladder are reflected on the sides of the tongue, those edges often look especially red and coated. This pattern often comes with a bitter taste and a heavy, uncomfortable feeling under the ribs.
+- **Tongue & Pulse**: Tongue: red body, red at the sides, with a thick yellow greasy coating. Pulse: wiry, slippery, and rapid.
+- **Triggers & Relief Explanation**: Damp-Heat in the Liver and Gallbladder is aggravated by heavy, greasy foods and alcohol, which create more Dampness and Heat. Emotional frustration stagnates Liver Qi, generating Heat and impairing the body's ability to process fluids. Cooling, bitter foods and herbs help drain Dampness and clear Heat, while relaxation keeps Liver Qi flowing smoothly.
+- **Diet & Lifestyle**: Avoid greasy, fried, and spicy foods that create Dampness and Heat. Emphasize light, cooling foods like cucumber, mung beans, and bitter greens. Limit alcohol and manage stress, as frustration fuels Liver stagnation.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | The classic formula to clear Damp-Heat from the Liver and Gallbladder, relieving the bitter taste, rib-side fullness, and yellow greasy coating. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root |  | Bitter and cold, it directly drains Damp-Heat from the Liver and Gallbladder. |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit |  | Clears Heat and drains Dampness through the urine, helping to clear the yellow coating. |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Dries Dampness and clears Heat, especially helpful for the bitter taste and upper body symptoms. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Reduce. Drains Liver Fire and soothes Liver Qi. |
+| **GB-34** | [Yanglingquan GB-34](https://www.meandqi.com/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34) | Y&#xE1;ng L&#xED;ng Qu&#xE1;n | Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder | Reduce. Resolves Damp-Heat in the Gallbladder and harmonizes the channel. |
+| **LR-14** | [Qimen LR-14](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/qimen-lr-14) | Q&#x12B; M&#xE9;n | Invigorates Liver Qi, Harmonizes the Liver and Stomach | Reduce. Relieves rib-side distension and regulates Liver Qi. |
+
+---
+
+### Heat in the Large Intestine
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/heat-in-the-large-intestine)*
+
+- **Clinical Signs & Symptoms**: Constipation with dry, hard stools, Abdominal pain that worsens with pressure, Burning sensation at the anus, Thirst with desire for cold drinks, Dark, scanty urine
+- **Worse with**: Spicy, greasy, or fried foods, Alcohol, Stress, anger, or frustration, Dehydration, Overeating, Hot weather
+- **Better with**: Having a bowel movement, Drinking water, Cooling foods, Gentle abdominal massage, Rest and calm
+- **Why this happens (Mechanism)**:
+  When heat builds up deep in the Large Intestine, it dries up the body fluids that normally keep the bowels moist and the tongue properly coated. The stool becomes hard and stuck, and the heat rises upward, baking the tongue coating into a thick, dry, yellow layer. This is the same internal heat that causes the burning sensation at the anus and the intense thirst for cold drinks.
+- **Tongue & Pulse**: Tongue: red body with prickly papillae, thick dry yellow coating that may turn brownish in severe cases. Pulse: deep (Chen), full and forceful (Shi), and rapid (Shu); may feel slippery (Hua) if there is food stagnation.
+- **Triggers & Relief Explanation**: Heat in the Large Intestine dries up fluids and thickens the tongue coating. Spicy, greasy foods and alcohol pour more heat into the system, while dehydration makes the dryness worse. Stress and frustration can cause Qi to stagnate and generate heat. On the other hand, passing stool clears the accumulated heat and stagnation from the bowels, and cooling foods and drinks directly counteract the internal fire. Gentle movement and massage help Qi flow downward, easing constipation and preventing heat from building up again.
+- **Diet & Lifestyle**: Steer clear of spicy, fried, and greasy foods, as well as alcohol, which all add heat and dry out fluids. Eat more cooling, moistening foods like cucumber, pear, watermelon, and spinach, and drink plenty of plain water. Gentle daily movement, such as walking, helps the bowels stay regular and prevents stagnation from turning into heat.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Da Cheng Qi Tang](https://www.meandqi.com/knowledge-base/formulas/da-cheng-qi-tang)** | Major Order the Qi Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Cold, Vigorously Purges Heat Accumulation, Promotes Bowel Movement, Moves Qi and Relieves Distension | The classic formula to purge severe heat accumulation in the intestines, relieve constipation, and clear the dry yellow coating. |
+| **[Zeng Ye Cheng Qi Tang](https://www.meandqi.com/knowledge-base/formulas/zeng-ye-cheng-qi-tang)** | Increase the Fluids and Order the Qi Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cold, Nourishes Yin and Generates Fluids, Purges Heat and Unblocks the Bowels, Softens Hardness and Moistens Dryness | Combines purgation with fluid-nourishing herbs for when heat and dryness have already damaged body fluids. |
+| **[Qing Wei San](https://www.meandqi.com/knowledge-base/formulas/qing-wei-san)** | Clear the Stomach Powder &#xB7; J&#x12B;n dynasty (&#x91D1;&#x671D;), c. 1276 CE | Cold, Clears Stomach Heat, Cools the Blood, Nourishes Yin | A classical formula used to clear excess heat from the Stomach that flares upward, causing toothache, swollen or bleeding gums, mouth sores, bad breath, and facial flushing. It works by draining Stomach Fire while cooling the Blood to address the inflammation and pain in the mouth and face. |
+| **[Lian Po Yin](https://www.meandqi.com/knowledge-base/formulas/lian-po-yin)** | Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE | Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness | A classical formula for treating acute digestive upsets caused by a combination of Dampness and Heat lodging in the Stomach and intestines. It addresses simultaneous vomiting and diarrhea, a feeling of fullness and stuffiness in the chest and upper abdomen, irritability, and dark scanty urine, particularly during hot and humid seasons. |
+| **[Yin Qiao San](https://www.meandqi.com/knowledge-base/formulas/yin-qiao-san)** | Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity | A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs. |
+| **[Long Dan Xie Gan Tang](https://www.meandqi.com/knowledge-base/formulas/long-dan-xie-gan-tang)** | Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE | Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel | A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area. |
+| **[Da Cheng Qi Tang](https://www.meandqi.com/knowledge-base/formulas/da-cheng-qi-tang)** | Major Order the Qi Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE | Cold, Vigorously Purges Heat Accumulation, Promotes Bowel Movement, Moves Qi and Relieves Distension | A powerful classical formula used to urgently clear severe Heat and blockage from the intestines. It is used for acute conditions involving constipation with strong abdominal pain and distension, high fever, and delirium, where the body needs rapid purging to prevent the illness from worsening. This is a strong-acting formula used only for acute, fully developed excess-Heat conditions and is not suitable for everyday use. |
+| **[Zeng Ye Cheng Qi Tang](https://www.meandqi.com/knowledge-base/formulas/zeng-ye-cheng-qi-tang)** | Increase the Fluids and Order the Qi Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE | Cold, Nourishes Yin and Generates Fluids, Purges Heat and Unblocks the Bowels, Softens Hardness and Moistens Dryness | A classical formula designed for constipation caused by a combination of internal heat and fluid depletion, where standard laxative approaches have failed. It works by replenishing the body&#x27;s fluids while gently clearing heat and softening hardened stool, using the principle of &#x27;raising the water to float the boat&#x27;. It is especially suited for people who are constipated and also showing signs of dryness such as dry mouth, dry lips, and a parched tongue. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Da Huang](https://www.meandqi.com/knowledge-base/herbs/da-huang)** | Rhubarb root and rhizome |  | Purgatively clears heat from the Large Intestine and moves the bowels, directly addressing the root of the dry yellow coating. |
+| **[Mang Xiao](https://www.meandqi.com/knowledge-base/herbs/mang-xiao)** | Mirabilite |  | Softens dry, hard stools and clears heat, helping to relieve the abdominal distension. |
+| **[Huang Lian](https://www.meandqi.com/knowledge-base/herbs/huang-lian)** | Coptis rhizome | Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+| **[Jin Yin Hua](https://www.meandqi.com/knowledge-base/herbs/jin-yin-hua)** | Honeysuckle flower | Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery |  |
+| **[Lian Qiao](https://www.meandqi.com/knowledge-base/herbs/lian-qiao)** | Forsythia fruit | Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat |  |
+| **[Bo He](https://www.meandqi.com/knowledge-base/herbs/bo-he)** | Peppermint herb | Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat |  |
+| **[Long Dan Cao](https://www.meandqi.com/knowledge-base/herbs/long-dan-cao)** | Chinese gentian root | Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner |  |
+| **[Zhi Zi](https://www.meandqi.com/knowledge-base/herbs/zhi-zi)** | Gardenia fruit | Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice |  |
+| **[Da Huang](https://www.meandqi.com/knowledge-base/herbs/da-huang)** | Rhubarb root and rhizome | Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity |  |
+| **[Mang Xiao](https://www.meandqi.com/knowledge-base/herbs/mang-xiao)** | Mirabilite | Cold, Purges Heat and Unblocks the Bowels, Softens Hardness and Moistens Dryness, Clears Heat and Reduces Swelling |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Front-Mu point of the Large Intestine, relieves abdominal pain and promotes bowel movement. |
+| **ST-37** | [Shangjuxu ST-37](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37) | Sh&#xE0;ng j&#xF9; x&#x16B; | Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat | Lower He-Sea point of the Large Intestine, clears heat and moves stagnation in the bowels. |
+| **SJ-6** | [Zhigou SJ-6](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/zhigou-sj-6) | Zh&#x12B; G&#x14D;u | Regulates Qi and removes Qi Stagnation., Clears Heat in Large Intestine | Key point for constipation, moves Qi in the Triple Burner to ease the passage of stool. |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | Clears Stomach and Intestine heat, alleviates thirst and irritability. |
+
+---
+
+## Frequently Asked Questions
+### Why is my tongue coating yellow?
+In TCM, yellow coating indicates heat. It's like a warning light. The shade and texture tell us more: a thin yellow coat suggests early or superficial heat, a thick dry coat points to deep fire, and a greasy yellow coat signals damp-heat. It's not just oral hygiene; it's your body's way of signaling an internal imbalance that needs attention.
+
+### Can I just scrape off the yellow coating?
+Scraping removes the visible coating but doesn't address the underlying heat. In TCM, we treat the root cause so the coating clears naturally. While gentle tongue scraping is fine for hygiene, it won't solve the problem if the heat persists - the coating will return until the internal imbalance is corrected.
+
+### How long does it take for the yellow coating to go away?
+It depends on the pattern. Exterior-Heat often clears in a few days. Stomach Fire and Damp-Heat may take 2-4 weeks. If the heat is deep-seated, it could be 4-6 weeks. We monitor the coating as a gauge of progress, and it usually lightens and thins gradually as the internal heat resolves.
+
+### Is a yellow tongue coating serious?
+Most yellow coatings are not emergencies, but they signal an imbalance that should be addressed. If accompanied by high fever, severe abdominal pain, or jaundice, seek urgent care (see Safety section). Otherwise, a TCM practitioner can help identify and treat the underlying pattern before it leads to more bothersome symptoms.
+
+### What foods should I avoid if my tongue is yellow?
+Avoid heating foods like spicy dishes, alcohol, fried foods, and excessive red meat. Also cut down on dairy and sugar, which can create dampness. Focus on cooling, hydrating foods like cucumber, watermelon, and leafy greens. Even small dietary shifts can help the coating fade faster.
+
+### Can stress cause a yellow tongue coating?
+Stress itself doesn't directly turn the coating yellow, but it can trigger heat patterns - particularly Liver-related heat that rises and affects the tongue. Chronic stress can lead to Damp-Heat or Stomach Fire, which then manifest as a yellow coating. So indirectly, yes, stress is often a contributing factor.
+
+### Do I need acupuncture for a yellow tongue?
+Acupuncture is often helpful, especially for patterns like Stomach Fire or Liver/Gallbladder Damp-Heat, as it helps clear heat and regulate the organs. Herbal medicine is the primary treatment, but acupuncture can speed up recovery and relieve associated symptoms like bloating or irritability. Your practitioner will advise what's best for your pattern.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/yellow-tongue-coating](https://www.meandqi.com/knowledge-base/conditions/yellow-tongue-coating)*

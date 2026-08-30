@@ -1,0 +1,162 @@
+# Mo Han Lian (墨旱莲)
+**English Name**: Eclipта herb (False Daisy)  
+**Category**: Yin-tonifying herbs (补阴药), Hemostatic herbs (止血药), Herbs that cool the Blood and stop bleeding (凉血止血药)  
+**Scientific Name**: Eclipta prostrata (L.) L.  
+**Pharmaceutical Name**: Herba Ecliptae  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Sweet (甘 gān), Sour (酸 suān)  
+**Channels Entered**: Liver, Kidneys  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Eclipta is a gentle herb used to nourish the Liver and Kidneys, making it helpful for premature greying of hair, dizziness, ringing in the ears, and lower back weakness. It also cools the Blood and helps control various types of bleeding such as nosebleeds, heavy periods, and blood in the urine. It is most commonly combined with Nü Zhen Zi (privet fruit) in the classical formula Er Zhi Wan.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Hair Health, Kidney Health, Uterine Bleeding Support, Liver Health
+- **TCM Actions**: Nourishes Liver and Kidney Yin, Cools the Blood and Stops Bleeding, Darkens the hair and strengthens the teeth, Clears Heat from the Blood Level
+
+### How these actions work
+'Nourishes Liver and Kidney Yin' means this herb replenishes the Yin (the cooling, moistening, and nourishing aspect) of the Liver and Kidney organ systems. When Liver and Kidney Yin becomes depleted, common signs include premature greying of hair, dizziness, tinnitus (ringing in the ears), blurry vision, lower back and knee weakness, and loose teeth. Eclipta is sweet and sour in taste, which gives it a tonifying and astringent quality, and its cold nature helps clear the low-grade heat that often accompanies Yin Deficiency. It is one of the gentler Yin tonics and does not cause the heavy, cloying feeling that richer herbs like prepared Rehmannia can.
+'Cools the Blood and stops bleeding' means Eclipta clears excess heat from the Blood level, which in TCM is understood as the underlying driver of many types of abnormal bleeding. When heat enters the Blood, it can force blood out of the vessels, causing nosebleeds, blood in the urine, vomiting blood, heavy menstrual periods, or bleeding gums. Because Eclipta is cold in nature and enters the Liver (which stores Blood), it directly addresses this mechanism. It is especially suited to bleeding caused by Yin Deficiency with internal heat, rather than bleeding from trauma or cold conditions.
+'Darkens the hair and strengthens the teeth' reflects the classical understanding that the health of hair and teeth depends on adequate Kidney essence and Liver Blood. When Eclipta nourishes Liver and Kidney Yin, hair quality improves and premature greying can be addressed. The classical name 'Mò Hàn Lián' (ink-like dry lotus) comes from the dark juice that flows when the fresh plant is crushed, and this signature was traditionally associated with its ability to darken hair. For loose teeth, Eclipta's Kidney-nourishing action is key, since TCM holds that the Kidneys govern the bones, and the teeth are considered an extension of bone.
+
+---
+
+## Patterns Addressed
+### Heart and Kidney Yin Deficiency
+- **Explanation**: Eclipta directly addresses Liver and Kidney Yin Deficiency through its sweet and sour taste combined with its cold thermal nature. The sweet taste nourishes and tonifies the depleted Yin, while the sour taste has an astringent, consolidating effect that helps retain essence. Its cold nature clears the low-grade Empty Heat that typically accompanies Yin Deficiency. By entering both the Liver and Kidney channels, it replenishes the shared Yin resource of these two organ systems (which are linked through the 'Liver and Kidney share the same source' relationship). This restores the Kidney's ability to produce marrow and nourish bone (addressing loose teeth and weak lower back) and the Liver's capacity to nourish the sinews and hair (addressing premature greying and hair loss).
+- **Clinical Signs & Symptoms**:
+  - **Premature Greying of Hair**: From Kidney essence and Liver Blood failing to nourish the hair
+
+### Yin Deficiency
+- **Explanation**: When Liver and Kidney Yin becomes severely depleted, the body loses its cooling and anchoring capacity, and Empty Heat rises. This generates symptoms like night sweats, hot flashes, dry throat, and restless insomnia. Eclipta's cold nature clears this Empty Heat while its sweet and sour flavours replenish the Yin that is failing to control the Yang. Unlike strongly cold herbs that simply suppress heat (such as Huang Lian), Eclipta addresses the root of Empty Heat by nourishing the Yin that keeps it in check. It is mild enough for long-term use, making it suitable for chronic Yin Deficiency conditions.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Nosebleeds
+- **TCM Interpretation**: Nosebleeds (epistaxis) are commonly attributed in TCM to heat in the Blood or in the Lung and Stomach channels. Heat has a rising, agitating nature, and when it enters the Blood level, it can force blood upward and out through the nose. In some cases, the underlying driver is Yin Deficiency: when cooling Yin fluids are insufficient, Empty Heat builds up and disturbs the Blood. Recurrent nosebleeds in someone with signs of Yin Deficiency (dry throat, night sweats, hot palms) point toward this mechanism.
+- **Why it Helps**: Eclipta cools Blood-level Heat through its cold nature and Liver channel affinity, directly reducing the heat that pushes blood out of the nasal vessels. For acute nosebleeds, the fresh juice of the herb can be applied topically or taken internally. For recurrent nosebleeds with underlying Yin Deficiency, it nourishes the depleted Yin to prevent the heat from recurring. It is commonly paired with Ce Bai Ye (Platycladus leaf) or Bai Mao Gen (white cogon grass root) for enhanced hemostatic effect.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 6–12g
+- **Maximum Dosage**: Up to 30g in decoction for acute bleeding conditions, under practitioner supervision. For fresh herb juice, traditional sources describe using up to 120g (4 liang) of fresh material.
+- **Dosage Notes**: Use the standard range of 6–12g for nourishing Liver and Kidney Yin (e.g. for premature greying, dizziness, tinnitus). For acute bleeding conditions such as hematemesis, epistaxis, or uterine bleeding, higher doses of 15–30g may be used. When using fresh herb externally for traumatic bleeding, an appropriate amount of the crushed plant is applied directly. Fresh juice taken internally is traditionally prepared from larger quantities (60–120g of fresh herb) pressed and mixed with boiled water. To mitigate its cold impact on the Stomach, classical physicians recommended combining it with ginger juice or Sichuan pepper, particularly for longer-term use.
+- **Preparation**: No special decoction handling required. Mo Han Lian is decocted normally with other herbs. Fresh herb can be crushed for juice (internally or externally) or mashed into a poultice for topical application on bleeding wounds.
+
+---
+
+## Processing Methods
+### M&#xF2; H&#xE0;n Li&#xE1;n T&#xE0;n (&#x58A8;&#x65F1;&#x83B2;&#x70AD;)
+- **Processing Method**: The dried herb is stir-fried over high heat until the exterior is charred black but the interior retains some original colour (the standard 'charring' method for hemostatic herbs).
+- **How it Changes Properties**: Charring enhances the herb's hemostatic (stop-bleeding) effect while reducing its cold nature somewhat. The astringent quality of the charred form is stronger, making it more effective at physically stopping bleeding. The Yin-nourishing action is somewhat diminished compared to the raw form.
+- **When to Use**: When the primary goal is to stop active bleeding rather than to nourish Yin. Preferred for acute bleeding episodes such as bloody stool, heavy uterine bleeding, or vomiting blood where the bleeding needs to be controlled quickly.
+
+---
+
+## Common Herb Pairs
+### Nu Zhen Zi (Ratio: 1:1 (equal parts by weight))
+- **Description**: This is the most famous pairing for Eclipta, forming the classical formula Er Zhi Wan. Together they powerfully nourish Liver and Kidney Yin without being heavy or cloying. Nü Zhen Zi is sweet, bitter, and cool, complementing Eclipta's sweet, sour, and cold nature. Both enter the Liver and Kidney channels, and their combined effect is a gentle but thorough Yin replenishment that also clears Empty Heat, darkens greying hair, and stabilises bleeding.
+- **When to Use**: Liver and Kidney Yin Deficiency presenting with premature greying of hair, dizziness, tinnitus, blurred vision, lower back and knee weakness, or heavy menstrual bleeding from Yin Deficiency Heat.
+
+### Di Huang (Ratio: 1:1 to 1:2 (Eclipta 10g : Sheng Di Huang 10&#x2013;20g))
+- **Description**: Eclipta nourishes Yin and stops bleeding, while raw Rehmannia (Sheng Di Huang) powerfully clears Heat and cools the Blood while generating fluids. Together they reinforce each other's Blood-cooling and Yin-nourishing effects. Eclipta emphasises Yin nourishment while Sheng Di Huang emphasises clearing Heat, making the pair more comprehensive than either herb alone.
+- **When to Use**: Blood Heat bleeding with Yin Deficiency, such as vomiting blood, nosebleeds, blood in the urine, or heavy menstrual bleeding accompanied by signs of heat (red tongue, rapid pulse) and Yin depletion (dry throat, night sweats).
+
+### Ce Bai Ye (Ratio: 1:1 (Eclipta 10g : Ce Bai Ye 10g))
+- **Description**: Eclipta cools Blood and nourishes Yin, while Ce Bai Ye (Platycladus leaf, often charred) astringes and stops bleeding with a cooling nature. Together they provide a strong hemostatic combination that cools Blood Heat from two angles: Eclipta treats the root (Yin Deficiency) while Ce Bai Ye directly astringes the bleeding.
+- **When to Use**: Acute or recurrent bleeding from Blood Heat, especially nosebleeds, hemoptysis, or bloody stool.
+
+### He Shou Wu (Ratio: 1:1 to 1:2 (Eclipta 10g : He Shou Wu 10&#x2013;20g))
+- **Description**: Both herbs nourish the Liver and Kidney and are classically associated with darkening the hair. Prepared He Shou Wu (Zhi He Shou Wu) tonifies Liver Blood and Kidney essence, while Eclipta nourishes Liver and Kidney Yin. Together they address both Blood and Yin aspects of hair nourishment, making the combination more effective for premature greying and hair loss than either herb alone.
+- **When to Use**: Premature greying, hair loss, or thinning hair from combined Liver Blood and Kidney Yin Deficiency, especially in middle-aged patients showing signs of early ageing.
+
+---
+
+## Key Formulas
+Er Zhi Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Mo Han Lian is classified as non-toxic in the Chinese Pharmacopoeia and classical texts. The Tang Ben Cao explicitly states it is 'non-toxic' (无毒). No significant toxic components have been identified in modern pharmacological studies. The main clinical concern is not toxicity but rather its cold nature, which can cause abdominal pain and diarrhea in individuals with Spleen and Stomach deficiency cold. Classical physicians such as those in the Ben Cao Jing Shu recommended combining it with ginger juice to prevent gastrointestinal discomfort.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe at standard doses during pregnancy, but caution is advised. Mo Han Lian's cold nature could potentially affect Spleen and Stomach function. While no specific teratogenic or uterine-stimulating effects have been documented, its Blood-cooling and Blood-moving properties warrant conservative use during pregnancy. Pregnant women with Spleen Yang deficiency or cold constitutions should avoid this herb. Use under practitioner supervision only.
+- **Breastfeeding**: No specific contraindications for breastfeeding have been documented in classical or modern sources. Mo Han Lian's cold nature means that excessive doses could theoretically affect the nursing infant's digestion through transfer in breast milk. Breastfeeding mothers with cold constitutions or infants with digestive weakness should use this herb cautiously. Standard doses under practitioner guidance are generally considered acceptable.
+- **Children**: Mo Han Lian can be used in children at reduced doses appropriate to age and body weight, typically one-third to one-half of the adult dose. Its cold nature means it should be used cautiously in children with weak digestion or tendency toward loose stools. For external use (fresh herb poultice for bleeding wounds), it is generally well tolerated in children. Not suitable for prolonged unsupervised use in young children due to the risk of Spleen and Stomach impairment from its cold nature.
+
+### Drug Interactions
+No well-documented pharmaceutical drug interactions have been established for Mo Han Lian in clinical literature. However, based on its known pharmacological profile, the following theoretical considerations apply:
+- Anticoagulant and antiplatelet medications: Mo Han Lian has demonstrated hemostatic (bleeding-stopping) activity. While this would theoretically oppose anticoagulants like warfarin, the interaction has not been clinically studied. Patients on blood-thinning medications should inform their healthcare provider before using this herb.
+- Hepatically metabolized drugs: Given the herb's hepatoprotective properties and potential effects on liver enzyme activity (through wedelolactone and other coumestans), there is a theoretical possibility of altered drug metabolism, though this has not been confirmed in human studies.
+- Paracetamol (acetaminophen): One preclinical pharmacokinetic study found that wedelolactone did not significantly alter paracetamol bioavailability in rats, and may provide hepatoprotective benefit against paracetamol-induced liver damage.
+
+### Dietary Advice
+Because Mo Han Lian is cold in nature, avoid excessive consumption of cold, raw, or icy foods while taking it, especially for individuals with weaker digestion. Warm, easily digestible foods that support the Spleen and Stomach (such as congee, cooked vegetables, and ginger tea) can help counteract the herb's cold nature. Adding a small amount of fresh ginger to meals may be beneficial, as classical sources specifically recommended ginger to prevent the gastrointestinal discomfort that Mo Han Lian's cold nature can cause.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Eclipta prostrata (L.) L. is a small annual herb in the Asteraceae (daisy) family, typically growing 10–60 cm tall. The stems are cylindrical with longitudinal ridges, erect or prostrate, and covered with fine white hairs. The leaves are opposite, nearly sessile, lance-shaped with entire or finely toothed margins, and dark green in colour. Small white flower heads (2–6 mm in diameter) appear at the stem tips and leaf axils during summer and autumn.
+The plant's most distinctive feature is its dark ink-like juice: when the stem or leaves are broken or rubbed, a black liquid seeps out, giving rise to its Chinese name "ink drought lotus" (墨旱莲). The small fruits are flattened, elliptical achenes resembling tiny lotus seed pods, which accounts for the "lotus" (莲) in the name. It grows readily in moist environments such as stream banks, field edges, ditches, and roadsides, and is found throughout tropical and subtropical regions worldwide.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to autumn, harvested when the flowers are in bloom, then sun-dried.
+- **Primary Growing Regions**: Mo Han Lian is distributed throughout all provinces of China, growing wild in moist habitats along rivers, ditches, field borders, and roadsides. The primary commercial production regions are Jiangsu, Zhejiang, Jiangxi, and Hubei provinces. Southern China generally produces more abundant wild harvests due to the plant's preference for warm, humid environments. It is also widely distributed in tropical and subtropical regions globally, including India, Southeast Asia, Brazil, and parts of Africa.
+- **Quality Indicators**: Good quality dried Mo Han Lian should be dark green (墨绿色) in colour, with intact stems and leaves. The stems should be greenish-brown or dark green with visible longitudinal ridges. When the herb is soaked in water and the stems and leaves are rubbed, they should produce a distinctive black colour, confirming authenticity. The taste should be mildly salty (味微咸) with a faint aroma. Look for specimens with visible small white flower heads or small dark-coloured fruit clusters. Avoid material that is yellowed, mouldy, heavily fragmented, or mixed with excessive roots and soil. The best quality is described classically as 'green in colour, free of impurities' (以色绿、无杂质者为佳).
+
+### Identity & Adulterants
+Mo Han Lian (墨旱莲) must be carefully distinguished from Hong Han Lian (红旱莲), which refers to the whole plant of Hypericum ascyron L. (Hypericaceae family), a completely different herb with different properties. The Chinese Pharmacopoeia specifically notes this distinction.
+A common adulterant is Chao Tian Wei Ling Cai (朝天委陵菜, Potentilla supina), which has an upright hollow stem with grey-green or yellow-green surfaces, compound leaves (unlike Mo Han Lian's simple lance-shaped leaves), and small round aggregate fruits. Critically, when soaked in water, this adulterant does NOT produce the characteristic black colour that genuine Mo Han Lian does.
+Another adulterant is the whole plant of Hypericum sampsonii (元宝草), which has red-brown stems and different fruit morphology. The key authentication test is the black ink test: when genuine Mo Han Lian is rubbed in water, it produces a distinctive black discolouration. No common adulterant replicates this feature.
+
+---
+
+## References
+### Classical Texts
+#### Tang Ben Cao (《唐本草》, Tang Dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Mo Han Lian's original name was Jin Ling Cao (金陵草), first appearing in Sun Simiao's Qian Jin Yue Ling (《千金·月令》) during the Tang Dynasty, where it was noted to "benefit the beard and hair, turning white to black." The Tang Xin Xiu Ben Cao (《新修本草》, also known as the Tang Ben Cao) formally renamed it Li Chang (鳢肠, literally "snakehead fish intestine") and recorded its ability to treat bloody dysentery and promote hair growth. The name "Li" refers to the black snakehead fish, an allusion to the inky black juice that oozes from the broken stems.
+Li Shizhen explained the etymology in the Ben Cao Gang Mu: the soft stems exude ink-like juice when snapped, hence the folk name "ink vegetable" (墨菜), while the small fruits resemble miniature lotus pods, giving rise to the "lotus" (莲) in the name. The herb has been a cornerstone of hair-darkening remedies throughout Chinese medical history. Its most celebrated formula pairing is Er Zhi Wan (二至丸, "Pill of the Two Solstices"), recorded in Wang Ang's Yi Fang Ji Jie (《医方集解》), which combines Mo Han Lian (harvested at the summer solstice) with Nu Zhen Zi (女贞子, harvested at the winter solstice) to nourish Liver and Kidney Yin. This elegant pairing reflects the classical principle of harvesting herbs at the peak of their seasonal Qi.
+In Ayurvedic medicine, the same plant (known as Bhringaraj) has a parallel history as a premier rejuvenating herb for the liver and hair, illustrating the cross-cultural recognition of its therapeutic properties.
+
+### Modern Scientific Research
+1. **[Comprehensive review on traditional uses, phytochemistry and pharmacology of Eclipta prostrata (2019)](https://doi.org/10.1016/j.jep.2019.112109)**
+   *Journal: Feng L, Zhai YY, Xu J, Yao WF, Cao YD, Cheng FF, Bao BH, Zhang L. Journal of Ethnopharmacology, 2019, 245, 112109.*
+   A major review covering both Chinese and English research on Mo Han Lian. The study catalogued over 70 chemical compounds including coumestans (wedelolactone, demethylwedelolactone), flavonoids (luteolin, apigenin), triterpenoid saponins, and thiophene derivatives. It confirmed pharmacological support for traditional uses including hepatoprotective, hemostatic, anti-inflammatory, anti-osteoporotic, and hair growth-promoting activities, while also noting emerging potential in cancer, dementia, and diabetes research.
+
+2. **[Hepatoprotective effect of wedelolactone against Concanavalin A-induced liver injury in mice (2018)](https://doi.org/10.1142/S0192415X1850043X)**
+   *Journal: Luo Q, Ding J, Zhu L, Chen F, Xu L. American Journal of Chinese Medicine, 2018, 46(4), 819-833.*
+   This preclinical study investigated wedelolactone, a key coumestan compound from Mo Han Lian, in a mouse model of immune-mediated liver injury. Pretreatment with wedelolactone significantly reduced serum transaminase levels and liver damage severity. The mechanism involved attenuation of pro-inflammatory cytokines (TNF-alpha, IFN-gamma, IL-6) and inhibition of NF-kappaB signaling, supporting the traditional use of Mo Han Lian for liver diseases.
+
+3. **[Eclipta prostrata ethnomedicinal uses, chemical constituents, and biological activities (review, 2021)](https://doi.org/10.3390/biom11111738)**
+   *Journal: Devkota HP, Joshi KR. Biomolecules, 2021, 11(11), 1738.*
+   A systematic review that compiled information on the phytochemistry and biological activities of Eclipta prostrata from multiple databases. It identified coumestan derivatives, phenolic acid derivatives, flavonoids, triterpenoid and steroid saponins, and substituted thiophenes as the major bioactive compound classes. The review confirmed antimicrobial, anticancer, hepatoprotective, neuroprotective, and hair growth-promoting activities, while noting that most studies are preclinical and properly designed clinical trials are needed.
+
+4. **[Integrated spatial metabolomics and transcriptomics decipher the hepatoprotection mechanisms of wedelolactone and demethylwedelolactone on NAFLD (2024)](https://pubmed.ncbi.nlm.nih.gov/38644035/)**
+   *Journal: Published in Journal of Pharmaceutical and Biomedical Analysis / related journal, 2024.*
+   Using a zebrafish model of liver injury, this study employed cutting-edge spatial metabolomics and transcriptomics to compare the hepatoprotective mechanisms of wedelolactone and demethylwedelolactone, the two signature coumestans of Mo Han Lian. Both compounds significantly improved liver function and reduced fat accumulation, but through distinct mechanisms: wedelolactone primarily modulated steroid biosynthesis and fatty acid metabolism pathways, while demethylwedelolactone acted through different routes.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/mo-han-lian](https://www.meandqi.com/knowledge-base/herbs/mo-han-lian)*

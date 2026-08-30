@@ -1,0 +1,158 @@
+# Sha Ji (沙棘)
+**English Name**: Sea buckthorn fruit  
+**Category**: Food stagnation-relieving herbs (消食药), Phlegm-transforming herbs (化痰药)  
+**Scientific Name**: Hippophae rhamnoides L.  
+**Pharmaceutical Name**: Hippophae Fructus  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Sour (酸 suān), Astringent (涩 sè)  
+**Channels Entered**: Spleen, Stomach, Lungs, Heart  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Sea buckthorn fruit is a bright orange berry used for centuries in Tibetan and Mongolian medicine, now widely recognized in Chinese medicine as well. It supports digestion by warming and strengthening the Spleen and Stomach, helps resolve stubborn coughs with phlegm, and promotes healthy blood circulation. Exceptionally rich in vitamin C and antioxidants, it is considered both a food and a medicine.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Digestive Health, Respiratory Health, Vascular Health, Immune Support
+- **TCM Actions**: Resolves Phlegm and Stops Cough, Promotes Digestion and Resolves Food Stagnation, Invigorates Blood and Dispels Stasis, Warms and tonifies the Spleen, Generates Fluids
+
+### How these actions work
+'Stops cough and resolves Phlegm' means Sha Ji enters the Lung channel and helps the body clear excess mucus from the airways. It has a long history in Tibetan and Mongolian medicine for treating chronic cough with copious sputum, and it is often concentrated into a paste (Sha Ji Gao) specifically for this purpose. This action is particularly relevant for chronic bronchitis and lingering coughs with thick, difficult-to-expectorate phlegm.
+'Promotes digestion and relieves food stagnation' refers to Sha Ji's ability to warm and support the Spleen and Stomach, helping break down food that has accumulated and is causing bloating, abdominal pain, or poor appetite. Its sour taste stimulates digestive secretions, while its warm nature gently activates sluggish digestion. This makes it suitable for people with weak Spleen Qi who feel tired after eating and experience chronic indigestion.
+'Invigorates Blood and dispels stasis' means Sha Ji can get stuck or sluggish blood moving again. It enters the Heart channel and is particularly noted for addressing chest pain from Blood stasis (a pattern called 'chest impediment' in TCM). It is also used for traumatic injuries with bruising and swelling, and for menstrual irregularities caused by Blood stasis such as amenorrhea (absent periods).
+'Generates fluids' relates to Sha Ji's sour and sweet flavours, which stimulate the body's production of nourishing fluids. This is helpful when someone is thirsty or dehydrated, particularly after illness or in dry climates.
+
+---
+
+## Patterns Addressed
+### Spleen Qi Deficiency
+- **Explanation**: Sha Ji is warm in nature and enters the Spleen and Stomach channels, directly warming and tonifying the Spleen Qi that is deficient in this pattern. Its sour-sweet flavour combination helps generate digestive fluids and stimulate appetite, while its warm nature counteracts the cold tendency that accompanies Spleen Qi Deficiency. It addresses the core issue of weak transformation and transportation by strengthening the Spleen's ability to process food.
+- **Clinical Signs & Symptoms**:
+  - **Poor Appetite**: Reduced desire to eat due to weak Spleen Qi
+  - **Indigestion**: Food sitting heavily, feeling of fullness after meals
+
+### Phlegm
+- **Explanation**: Sha Ji enters the Lung channel and directly resolves Phlegm while stopping cough. Its warm nature helps transform cold-Damp Phlegm that has accumulated in the Lungs. Additionally, by strengthening the Spleen (the organ responsible for transforming Dampness and preventing Phlegm production), Sha Ji addresses the root cause of Phlegm generation, not just the symptom of cough.
+- **Clinical Signs & Symptoms**:
+  - **Productive Cough**: Chronic cough with copious sputum
+  - **Chest Stiffness**: Sensation of fullness and congestion in the chest
+
+---
+
+## Commonly Used For
+### Chronic Bronchitis
+- **Arises from**: Phlegm
+- **TCM Interpretation**: TCM understands chronic bronchitis primarily as a condition of Phlegm accumulating in the Lungs, often rooted in Spleen weakness. When the Spleen fails to properly transform fluids, excess Dampness collects and is 'stored' in the Lungs as Phlegm. Over time, this Phlegm obstructs the Lung's descending function, causing persistent cough, copious sputum, and difficulty breathing. The condition tends to worsen in cold or damp weather because these external factors further impair the Spleen and congest the Lungs.
+- **Why it Helps**: Sha Ji directly addresses both the branch (Lung Phlegm) and root (Spleen weakness) of chronic bronchitis. Its warm nature and Lung channel affinity allow it to resolve Phlegm and stop cough, while its Spleen-strengthening action helps prevent new Phlegm from forming. Tibetan and Mongolian medical traditions have long used Sha Ji paste (Sha Ji Gao) as a core remedy for chronic cough. Modern clinical reports have confirmed that sea buckthorn oral preparations can significantly relieve coughing and sputum symptoms in chronic bronchitis.
+
+### Angina
+- **TCM Interpretation**: TCM understands angina as a form of 'chest impediment' (Xiong Bi), where Blood stasis and/or Phlegm obstruct the flow of Qi and Blood through the Heart's vessels. The characteristic stabbing or fixed chest pain reflects stagnant Blood that cannot circulate freely. Contributing factors often include Qi Deficiency (not enough force to push Blood), cold congealing the vessels, or Phlegm-turbidity blocking the channels.
+- **Why it Helps**: Sha Ji enters the Heart channel and has a notable Blood-invigorating action that is particularly directed toward the chest. By dispersing Blood stasis in the Heart vessels, it helps relieve the obstruction causing chest pain. Modern pharmacological research on sea buckthorn total flavonoids has shown they can improve coronary blood flow, reduce cardiac oxygen consumption, and inhibit platelet aggregation, providing a biomedical rationale for this traditional use. The extracted flavonoids are used in modern Chinese patent medicines for cardiovascular conditions.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 3-10g
+- **Maximum Dosage**: Up to 15g in decoction for severe cough or Blood stasis conditions, under practitioner guidance.
+- **Dosage Notes**: Use lower doses (3-6g) for mild digestive support and appetite promotion. Use moderate to higher doses (6-10g) for cough with copious phlegm or chest pain due to Blood stasis. When used as a concentrated paste (沙棘膏, Sha Ji Gao), smaller amounts are needed as potency is increased. Sea buckthorn total flavonoid extracts (e.g., Xin Da Kang capsules) are dosed according to the specific product formulation rather than raw herb equivalents. The fruit's high acidity means it is best taken after meals to avoid stomach discomfort.
+- **Preparation**: No special decoction handling required. The dried fruit is decocted normally. For concentrated use, the fruit can be simmered and reduced to a thick paste (沙棘膏). In Tibetan and Mongolian medicine, it is also commonly prepared as a powdered form for direct oral administration.
+
+---
+
+## Processing Methods
+*No specific processing methods listed.*
+
+---
+
+## Common Herb Pairs
+### Yu Gan Zi (Ratio: 1:1)
+- **Description**: Sha Ji and Yu Gan Zi (Phyllanthus fruit/Amla) together combine sour-warm and sour-cool properties to resolve Phlegm, stop cough, and generate fluids. Yu Gan Zi adds a cooling, throat-soothing quality that balances Sha Ji's warmth, while both herbs share strong Lung-directed and Phlegm-resolving actions.
+- **When to Use**: Chronic cough with copious phlegm, especially when there is also dryness or heat in the throat alongside the Phlegm congestion.
+
+### Mu Xiang (Ratio: Sha Ji 180g : Mu Xiang 150g (as in Wu Wei Sha Ji San))
+- **Description**: Sha Ji promotes digestion and moves Blood while Mu Xiang (Aucklandia/Costus root) powerfully moves Qi and alleviates pain. Together they address both Qi stagnation and Blood stasis in the chest and abdomen, relieving distension, bloating, and pain more effectively than either herb alone.
+- **When to Use**: Epigastric and abdominal pain with bloating and food stagnation, or chest fullness with pain. This pair appears together in the classical Mongolian formula Wu Wei Sha Ji San.
+
+### Gan Cao (Ratio: 2:1 (Sha Ji to Gan Cao))
+- **Description**: Sha Ji's sour-warm digestive and Phlegm-resolving actions are harmonized and gently supplemented by Gan Cao (Licorice), which tonifies the Spleen, moistens the Lungs, and moderates the other herbs. Together they create a balanced approach to chronic cough and weak digestion.
+- **When to Use**: Chronic cough with phlegm accompanied by Spleen deficiency and general weakness. This pairing also appears in Wu Wei Sha Ji San.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Sha Ji is classified as non-toxic in the Chinese Pharmacopoeia. Animal toxicity studies indicate a wide safety margin: the oral LD50 of sea buckthorn fruit juice concentrate in mice is reported at approximately 20.4 g/kg, and the LD50 of the extract at approximately 10 g/kg, both indicating very low acute toxicity. Subacute toxicity studies in rodents have also shown the herb and its oil to be safe at standard doses. No significant toxic components have been identified in the fruit. The main caution is that the fruit's high organic acid content may cause stomach discomfort in sensitive individuals if taken in large amounts on an empty stomach.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy contraindication is recorded in classical or modern Chinese Pharmacopoeia sources for Sha Ji at standard doses. However, because the herb has Blood-invigorating and stasis-dispersing (活血散瘀) properties, it should be used with caution during pregnancy, particularly in the first trimester. Blood-moving herbs carry a theoretical risk of stimulating uterine activity. Pregnant women should consult a qualified practitioner before use.
+- **Breastfeeding**: No specific contraindication for breastfeeding has been documented in classical TCM or the Chinese Pharmacopoeia. As a recognized food-medicine dual-use substance (药食同源), Sha Ji at standard dietary or medicinal doses is generally considered compatible with breastfeeding. Its rich vitamin and nutrient content may even support maternal health. However, there are no formal clinical studies on transfer of active compounds into breast milk, so caution and practitioner guidance are advisable.
+- **Children**: Sha Ji is a recognized food-medicine dual-use plant and is generally considered safe for children at appropriately reduced doses. For children, dosage is typically reduced to one-third to one-half of the adult dose depending on age and body weight. Sea buckthorn juice or syrup preparations are commonly used in pediatric settings in Tibetan and Mongolian medical traditions for cough and digestive complaints. As with all herbs for children, practitioner supervision is recommended.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications: Sha Ji has demonstrated Blood-invigorating properties and its total flavonoids can inhibit platelet aggregation and thrombus formation. Concurrent use with warfarin, heparin, aspirin, or clopidogrel may theoretically increase bleeding risk. Monitoring of coagulation parameters is advisable.
+Lipid-lowering medications (statins, fibrates): Sea buckthorn has been shown to reduce serum triglycerides and cholesterol in clinical studies. Additive lipid-lowering effects are possible when combined with pharmaceutical agents, potentially requiring dose adjustment.
+Antihypertensive medications: Although clinical evidence is limited, some preclinical data suggest sea buckthorn may have mild blood pressure-lowering effects. Patients on antihypertensives should be monitored.
+
+### Dietary Advice
+When taking Sha Ji for Spleen-strengthening and digestive purposes, avoid excessive cold, raw, or greasy foods that could burden the digestive system and counteract the herb's warming, digestion-promoting effects. Because of the fruit's high natural acidity, it is best consumed after meals rather than on an empty stomach. Pairing with bland, easily digestible foods is recommended. When using Sha Ji for Blood stasis conditions, avoid excessively cold or chilled foods and beverages, which can impede blood circulation.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Sea buckthorn (Hippophae rhamnoides L.) is a hardy, deciduous shrub or small tree in the Elaeagnaceae family. It typically grows 1 to 5 meters tall, though specimens in mountain valleys can reach up to 18 meters. The branches are dense, stiff, and bear numerous sharp thorns. Young twigs are brownish-green, covered in silvery-white scales with brownish tints, while older bark is rough and grey-black.
+The leaves are narrow and lance-shaped (3 to 8 cm long, up to 1 cm wide), green on the upper surface and distinctive silvery-white beneath due to dense scale-like hairs. The plant is dioecious, meaning male and female flowers occur on separate plants. Small yellowish flowers appear in spring (April to May) before the leaves fully emerge, and are wind-pollinated. The fruit is a small round berry (4 to 8 mm in diameter), ripening to bright orange-yellow or orange-red in autumn (September to October). The berries cling tightly to the branches and are extremely rich in vitamin C, carotenoids, flavonoids, and fatty acids.
+Sea buckthorn is exceptionally tough, tolerating extreme cold (down to minus 43°C), drought, poor soils, salt, and wind. It has an aggressive, suckering root system that fixes nitrogen through symbiotic bacteria, making it a pioneer species for erosion control and land reclamation on sandy and degraded soils.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Autumn and winter (September to November), when the fruit is ripe or has frozen hard on the branches.
+- **Primary Growing Regions**: Sha Ji is widely distributed across the temperate and cold-temperate regions of China's north and west. The largest natural populations are found in Inner Mongolia (ranked first nationally with nearly 590 ten-thousand mu) and Shanxi Province (ranked second with approximately 580 ten-thousand mu), concentrated in the Lüliang Mountains, Hengshan, Wutai Mountains, and Taihang Mountains. Other major production areas include Gansu, Qinghai, Shaanxi, Hebei, Sichuan (western), Ningxia, Xinjiang, and Tibet. The herb grows naturally on sun-facing ridges, valley floors, dried riverbeds, and slopes at elevations of 800 to 3,600 meters, typically in sandy, gravelly, or loess soils. It is extremely common on the Loess Plateau. Qinghai-Tibetan Plateau sea buckthorn is noted for particularly high nutritional content due to the harsh high-altitude environment. Xinjiang (especially Altai region) produces a large-fruited variety prized for commercial use.
+- **Quality Indicators**: Good quality dried Sha Ji berries are relatively large (5-8mm diameter), plump, and thick-fleshed. The surface should be orange-yellow to brownish-red, slightly wrinkled but oily in texture. The flesh should feel soft and unctuous (oil-rich) when pressed. Seeds inside should be brown, glossy, with white oily cotyledons when broken open. The aroma is faint but pleasant, and the taste should be distinctly sour and astringent. Avoid berries that are shrunken, dark brown or blackened, moldy, insect-damaged, or lacking oil content.
+
+### Identity & Adulterants
+Sha Ji fruit may sometimes be confused with other small orange or red berries. The Yunnan sea buckthorn (Hippophae rhamnoides subsp. yunnanensis) differs in having leaves with rusty-brown (rather than silvery-white) scales on the underside. Fruits of the related species Hippophae neurocarpa from the Qinghai-Tibet Plateau can also enter the market but have a somewhat different chemical profile. Authentic Sha Ji should show the characteristic silvery scale-hair remnants on the fruit surface, oily flesh, and a brown glossy seed with a central longitudinal groove. In commercial products (juices, extracts), adulteration with cheaper fruit concentrates or excessive dilution is a concern.
+
+---
+
+## References
+### Classical Texts
+#### 《四部医典》(Si Bu Yi Dian / rGyud bZhi)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Sha Ji (沙棘) has a long history spanning multiple medical traditions. It was originally a staple of Tibetan and Mongolian medicine rather than Han Chinese herbal practice. The Tibetan medical classic rGyud bZhi (《四部医典》, 8th century CE) contains over 30 passages and 60 references describing sea buckthorn's actions on the lungs, Spleen, and Blood. The earlier Tibetan text Yue Wang Yao Zhen (《月王药诊》) also records its ability to strengthen the body and aid digestion. In Mongolian tradition, the Ren Yao Bai Jing Jian (《认药白晶鉴》) similarly documents its medicinal value.
+A famous legend holds that during Genghis Khan's military campaigns around 1200 CE, exhausted and sickly war horses abandoned in a sea buckthorn forest were found to have recovered their vigor when the army returned. This story, whether historical or apocryphal, cemented the fruit's reputation as a powerful restorative. It is said the Daoist master Qiu Chuji later formulated a sea buckthorn prescription for Genghis Khan based on records in the Yue Wang Yao Zhen. An ancient Greek tradition similarly noted that sickly horses fed on sea buckthorn leaves regained glossy coats, giving the plant its Latin genus name Hippophae (from Greek hippos = horse, phaos = shining).
+Sea buckthorn was listed in the Chinese Pharmacopoeia in 1977 and was recognized as a "medicine-food homologous" (药食同源) substance in 1989. Since the 1980s, it has also played a major role in ecological conservation, serving as the lead species for reforestation and erosion control on China's Loess Plateau.
+
+### Modern Scientific Research
+1. **[Systematic Review and Meta-Analysis of RCTs: Sea Buckthorn and Metabolic Syndrome Factors (2022)]()**
+   *Journal: Geng Y, Wang J, Chen K, Li Q, Ping Z, Xue R, Zhang S. Phytotherapy Research, 2022, 36(11): 4101-4114.*
+   This meta-analysis pooled data from randomized controlled trials to assess whether sea buckthorn supplementation affects metabolic syndrome factors. The analysis found that sea buckthorn may beneficially influence circulating lipid metabolism (reducing total cholesterol and triglycerides), but did not significantly affect blood glucose, blood pressure, or BMI. The authors noted high heterogeneity among included studies and called for more clinical research.
+
+2. **[Systematic Review and Meta-Analysis: Sea Buckthorn and Blood Lipid Profiles (2017)]()**
+   *Journal: Guo X, Yang B, Cai W, Li D. Trends in Food Science & Technology, 2017, 61: 1-10.*
+   A systematic review and meta-analysis of 11 independent randomized controlled trials examined the effect of sea buckthorn on blood lipid profiles. The analysis found evidence that sea buckthorn consumption may help improve lipid parameters, supporting its traditional use for cardiovascular health. The authors noted that while results were promising, more large-scale trials are needed.
+
+3. **[Acute and Subchronic Toxicity Studies of Sea Buckthorn Oil in Rodents (2017)]()**
+   *Journal: Zhao P, Wang S, Liang C, Wang Y, Wen P, Wang F, Qin G. Regulatory Toxicology and Pharmacology, 2017, 91: 50-57.*
+   This study formally assessed the safety of sea buckthorn oil through acute and subchronic toxicity testing in rodents. No significant toxic effects were observed, supporting the safety of sea buckthorn oil at standard supplementation doses. The study provides foundational safety data for regulatory and clinical use.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/sha-ji](https://www.meandqi.com/knowledge-base/herbs/sha-ji)*

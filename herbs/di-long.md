@@ -1,0 +1,163 @@
+# Di Long (地龙)
+**English Name**: Earthworm  
+**Category**: Liver-calming and Wind-extinguishing herbs (平肝息风药), Wind-extinguishing and spasm-relieving herbs (息风止痉药)  
+**Scientific Name**: Pheretima aspergillum (E. Perrier)  
+**Pharmaceutical Name**: Pheretima  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Salty (咸 xián)  
+**Channels Entered**: Liver, Spleen, Urinary Bladder, Lungs  
+**Parts Used**: Animal — whole (全虫 quán chóng)  
+
+---
+
+## Summary
+Di Long (earthworm) is a classic animal-derived medicine used in Chinese medicine to address conditions involving blocked circulation, high fevers with seizures, wheezing from lung heat, and swelling with reduced urination. It is best known for its ability to open the body's network vessels, making it a key ingredient in formulas for stroke recovery and joint pain. Despite its unusual origin, it has a long history of safe use spanning over two thousand years.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Stroke Recovery, Joint and Muscle Health, Respiratory Health, Cardiovascular Health
+- **TCM Actions**: Settles Fright and Calms Convulsions, Calms the Liver and Extinguishes Wind, Unblocks the Channels and Collaterals, Calms Wheezing, Promotes Urination
+
+### How these actions work
+'Clears Heat and arrests convulsions' means Di Long can bring down high fevers and stop seizures or spasms triggered by excessive Heat. Its cold, salty nature makes it especially suited for acute febrile illnesses where Heat has stirred up internal Wind, causing delirium, convulsions, or loss of consciousness. This is one of its most classical uses, recorded since the Shen Nong Ben Cao Jing.
+'Extinguishes Wind and calms the Liver' refers to Di Long's ability to settle internal Wind patterns associated with the Liver, such as headaches, dizziness, or tremors caused by Liver Yang rising. Its salty taste softens and descends, helping to anchor rising Yang and settle agitated movement in the body.
+'Unblocks the channels and collaterals' is Di Long's most widely used action in modern practice. As an animal substance, Di Long has a penetrating, burrowing nature that allows it to reach deep into the body's network vessels (collaterals). This makes it highly valued for conditions where blockage in the channels causes paralysis, numbness, joint pain, or restricted movement, such as post-stroke hemiplegia or chronic joint pain (Bi syndrome).
+'Calms wheezing' means Di Long can relax the airways and ease breathing difficulty. This applies specifically to wheezing and asthma caused by Lung Heat. Its cold nature clears Heat from the Lungs while its channel-opening properties help relieve bronchial constriction. The active compound succinic acid is considered the main component responsible for this effect.
+'Promotes urination' means Di Long can help the body expel excess fluid through the urinary system. This is used in cases of edema with scanty urine, particularly when Heat is involved. It enters the Urinary Bladder channel, directly supporting this function.
+
+---
+
+## Patterns Addressed
+### Wind-Damp
+- **Explanation**: In Bi syndrome (painful obstruction) caused by Wind, Dampness, and Heat lodging in the joints and channels, Di Long's cold nature helps clear the Heat component while its channel-unblocking action directly addresses the obstruction. Its Liver channel entry is relevant because the Liver governs the sinews. By penetrating deep into the collaterals and clearing Heat, Di Long relieves the swollen, painful, hot joints characteristic of this pattern. It is often paired with other Wind-Damp resolving and Blood-moving herbs for chronic joint conditions.
+- **Clinical Signs & Symptoms**:
+  - **Numbness of the Limbs**: Limb numbness and heaviness
+
+### Phlegm-Heat in the Lungs
+- **Explanation**: When Heat accumulates in the Lungs, it can cause wheezing, coughing, and difficulty breathing. Di Long's cold nature clears Lung Heat, while its channel-opening properties help relax constricted airways. It enters the Lung channel and contains succinic acid, which modern research confirms can relax bronchial smooth muscle. This makes Di Long valuable for asthma and wheezing specifically associated with Heat, not Cold-type wheezing. It addresses both the root (Heat) and the symptom (bronchospasm).
+- **Clinical Signs & Symptoms**:
+  - **Hypochondrial Pain That Is Worse On Coughing And Breathing**: Cough with thick yellow phlegm
+
+---
+
+## Commonly Used For
+*No specific conditions listed.*
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 5-15g
+- **Maximum Dosage**: Up to 15-20g in decoction for severe conditions (acute stroke sequelae, severe asthma). When using fresh earthworms, up to 10-20g is used. As dry powder for oral ingestion, 1-2g per dose, up to 3-4g per dose in severe cases.
+- **Dosage Notes**: Lower doses (5-10g) are used for general Heat-clearing, relieving wheezing, and promoting urination. Higher doses (10-15g) are used for unblocking collaterals in stroke sequelae and stubborn joint pain. When taken as dried powder (ground and swallowed rather than decocted), the dose is much smaller: 1-2g per dose. Fresh Di Long is used at roughly double the dried decoction dose. Wine-processed Di Long (酒制地龙) enhances the Blood-activating and collateral-unblocking action and reduces the strong fishy odor. Note that boiling or high-temperature processing destroys some of the fibrinolytic enzyme (lumbrokinase) activity, so powder form may preserve more of the thrombolytic effect.
+- **Preparation**: When using Di Long as powder (ground and swallowed), it does not require decoction. For decoction, no special handling is needed. Wine-processing (酒制) is commonly used to enhance Blood-moving and collateral-opening effects and to reduce the strong fishy smell. The raw (unprocessed) form is preferred for clearing Heat and settling convulsions.
+
+---
+
+## Processing Methods
+### Ji&#x1D4; D&#xEC; L&#xF3;ng (&#x9152;&#x5730;&#x9F99;)
+- **Processing Method**: The cleaned, cut segments of Di Long are mixed evenly with yellow rice wine (huang jiu), briefly moistened until the wine is absorbed, then stir-fried over low heat until the surface turns brown. The standard ratio is 12.5 kg of rice wine per 100 kg of Di Long.
+- **How it Changes Properties**: Wine processing moderates Di Long's intensely cold and salty nature, making it less likely to injure the Spleen and Stomach. It also removes the strong fishy smell, making the herb easier to take. Most importantly, wine enhances Di Long's channel-unblocking and Blood-moving actions, because wine itself has a warm, dispersing nature that directs herbs into the channels and collaterals. Research shows that wine-processed Di Long is superior to raw Di Long for reducing blood viscosity and dissolving blood clots.
+- **When to Use**: Preferred for Wind-Damp Bi syndrome with joint pain and channel obstruction, and for post-stroke paralysis. Whenever the treatment priority is unblocking collaterals and moving Blood rather than clearing Heat, the wine-processed form is the better choice. Also preferred for patients with weaker digestion who cannot tolerate the raw form's strong fishy taste and cold nature.
+
+### Ch&#x1CE;o D&#xEC; L&#xF3;ng (&#x7092;&#x5730;&#x9F99;)
+- **Processing Method**: Clean Di Long segments are dry-fried over medium heat, or stir-fried with hot sand or talcum powder until puffed and crispy, then sieved to remove the sand or powder.
+- **How it Changes Properties**: Dry-frying makes the herb crispy and easier to grind into powder or decoct. It also reduces the fishy odor. However, heat processing does reduce the succinic acid content, which is the primary bronchodilating compound. The cold nature is somewhat moderated.
+- **When to Use**: Used when the treatment priority is clearing Heat and arresting convulsions or general channel-unblocking. Not the best choice when treating asthma, since the heat-sensitive succinic acid content is reduced. Raw Di Long retains the most succinic acid and is preferred for wheezing.
+
+---
+
+## Common Herb Pairs
+### Huang Qi (Ratio: Huang Qi 30-120g : Di Long 3-10g (heavily weighted toward Huang Qi as in Bu Yang Huan Wu Tang))
+- **Description**: Huang Qi strongly tonifies Qi to drive Blood circulation, while Di Long opens the collateral vessels so that the Qi-driven Blood can actually reach paralyzed or obstructed areas. Together they embody the principle of 'supplementing Qi to move Blood' combined with 'unblocking channels to restore function.' Neither herb alone achieves this as effectively: Huang Qi provides the motive force but lacks Di Long's penetrating reach into the network vessels.
+- **When to Use**: Post-stroke hemiplegia with Qi deficiency and Blood stasis. The classic presentation is paralysis, numbness, and weakness with a pale tongue and weak pulse.
+
+### Zhi Chuan Wu (Ratio: 1:1 (equal parts, as in Xiao Huo Luo Dan))
+- **Description**: Chuan Wu (prepared Aconite root) powerfully warms the channels, dispels Cold, and stops pain, while Di Long opens the collateral vessels and clears Heat. Together they address both the Cold obstruction in the channels (Chuan Wu) and the Phlegm-stasis blockage in the collaterals (Di Long). Di Long's cold nature also moderates Chuan Wu's intense heat, creating a more balanced therapeutic effect.
+- **When to Use**: Chronic Wind-Cold-Damp Bi syndrome with joint pain, stiffness, numbness, and restricted movement, as seen in Xiao Huo Luo Dan.
+
+### Gou Teng (Ratio: 1:1 (Di Long 10g : Gou Teng 10-15g))
+- **Description**: Both herbs calm the Liver and extinguish Wind, but through complementary mechanisms. Gou Teng (Uncaria hook) clears Liver Heat and calms Liver Yang rising, while Di Long's salty, cold nature descends and settles internal Wind from the channel level. Together they provide stronger Wind-extinguishing and Liver-calming effects than either herb alone.
+- **When to Use**: Liver Yang rising or Liver Wind stirring with headache, dizziness, tremors, or hypertension.
+
+### Ru Xiang (Ratio: Di Long 6-10g : Ru Xiang 3-6g)
+- **Description**: Ru Xiang (Frankincense) invigorates Blood and moves Qi to relieve pain, while Di Long opens the collateral vessels. Together they address both Qi-Blood stagnation (Ru Xiang) and collateral blockage (Di Long), creating a powerful channel-clearing, pain-relieving combination. This is one of the most historically common pairings in classical formulas containing Di Long.
+- **When to Use**: Traumatic injury, chronic joint pain, or any Bi syndrome where Blood stasis and channel obstruction coexist.
+
+---
+
+## Key Formulas
+Bu Yang Huan Wu Tang, Xiao Huo Luo Dan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Di Long is classified as non-toxic in the Ben Cao Gang Mu and modern Chinese Pharmacopoeia, though the original Shen Nong Ben Cao Jing listed it in the lower grade (implying caution). The earthworm body contains lumbrilysin (蚯蚓毒素), a hemolytic component, and lumbrofebin (蚯蚓解热碱), an antipyretic alkaloid. In processed dried form at standard dosages, these compounds do not cause significant toxicity. Overdosage may cause gastrointestinal discomfort (nausea, abdominal pain). Allergic reactions are the main safety concern: skin rash, itching, and in rare cases with injectable preparations, anaphylaxis-like symptoms (pallor, sweating, difficulty breathing, blood pressure drop). Raw, unprocessed earthworms may carry parasites or bacteria and should never be used internally without proper preparation.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Contraindicated in pregnancy. Di Long has strong channel-unblocking and collateral-penetrating properties. Classical sources (including the Chinese Pharmacopoeia notes) explicitly prohibit its use during pregnancy (孕妇禁服), citing the risk of disturbing the fetus (动胎). Research has also suggested potential teratogenic effects. There are no circumstances under which Di Long should be used during pregnancy without urgent medical justification.
+- **Breastfeeding**: There is limited specific data on Di Long during breastfeeding. Given its cold nature and bioactive protein content (including lumbrokinase and lumbrilysin), there is a theoretical risk of these components transferring through breast milk or of the cold nature affecting the nursing infant's digestion. Caution is advised, and it is generally not recommended during breastfeeding unless the clinical benefit clearly outweighs potential risks, under practitioner supervision.
+- **Children**: Di Long can be used in children for high fever with convulsions (acute childhood fright wind) at reduced, age-appropriate doses, typically one-third to one-half of the adult dose depending on the child's age and weight. It has a long history of pediatric use for febrile seizures. However, highly allergic children require extra caution. The strong fishy taste may cause nausea or vomiting in children, so powder form mixed with other herbs or encapsulated preparations may be better tolerated than decoction.
+
+### Drug Interactions
+Anticoagulant and antiplatelet drugs (warfarin, heparin, aspirin, clopidogrel, DOACs): Di Long contains lumbrokinase and other fibrinolytic proteins with demonstrated anticoagulant and thrombolytic activity. Concurrent use with pharmaceutical anticoagulants or antiplatelets may have an additive blood-thinning effect and increase bleeding risk. Regular monitoring of coagulation parameters (INR, PT) is advised if co-administration is necessary.
+Thrombolytic agents (alteplase, tenecteplase): Theoretical additive fibrinolytic effect. Concurrent use should be avoided or closely monitored.
+Antihypertensive drugs: Di Long has demonstrated hypotensive effects in animal studies and clinical use. Combined use with antihypertensive medications may potentiate blood pressure lowering, requiring dose adjustment and monitoring.
+
+### Dietary Advice
+Because Di Long is cold in nature, it is best to avoid excessively cold or raw foods while taking it, especially for individuals with weaker digestion. Warm, easily digestible foods help counterbalance its cold property. Avoid alcohol in excess unless the practitioner specifically prescribes wine-processed Di Long. If taking Di Long for its blood-moving properties, reducing intake of greasy, fatty foods may support therapeutic outcomes.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Di Long is not a plant but an animal-derived medicinal substance. It is the dried body of earthworms from the family Megascolecidae (钜蚓科). The Chinese Pharmacopoeia (2020 edition) recognizes four species: Pheretima aspergillum (参环毛蚓, called "Guang Di Long"), Pheretima vulgaris (通俗环毛蚓), Pheretima guillelmi (威廉环毛蚓), and Pheretima pectinifera (栉盲环毛蚓). The latter three are collectively called "Hu Di Long" (沪地龙).
+The largest species, P. aspergillum, reaches 11-38 cm in length and 5-12 mm in width, with a greyish-purple dorsal surface and paler ventral side. The body is long and cylindrical, tapering to a point at the front and blunter at the rear. It is composed of over 100 segments, each bearing a ring of bristle-like setae. Segments 14-16 form a distinctive smooth, lighter-colored band called the clitellum (生殖带), traditionally known as the "white collar" (白颈). Earthworms are nocturnal, living in moist, loose, organically rich soil at depths of 10-20 cm, and they are sensitive to light, salt, and vibration.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Guang Di Long: spring through autumn. Hu Di Long: summer.
+- **Primary Growing Regions**: Guang Di Long (广地龙, P. aspergillum) is considered the superior grade and is a recognized "Guang Yao" (广药, Guangdong medicinal). Its primary producing regions are Guangdong province (especially Boluo, Heshan, Nanhai, Panyu, Xinhui, Shunde, Jiangmen, Gaozhou, Huidong, Heyuan, and Xingning counties), Guangxi province (Rongxian, Hengxian, Lingshan, Beihai, Wuzhou, Beiliu), and Hainan and Fujian provinces.
+Hu Di Long (沪地龙, the other three species) is mainly produced in Shanghai, Zhejiang, Jiangsu, as well as Shandong, Henan, Anhui, and Fujian provinces.
+Guang Di Long from Guangdong and Guangxi is the most prized variety and is listed among Guangdong's "Ten Great Southern Medicines" (十大南药).
+- **Quality Indicators**: Guang Di Long (the premium grade): Dried pieces should be long (15-20 cm), flat and strip-shaped with slightly curled edges, about 1-2 cm wide. The dorsal surface is brownish-brown to purplish-grey, the ventral surface light yellowish-brown. The clitellum ("white collar") at segments 14-16 should be clearly visible and slightly glossy. Good specimens are light in weight, slightly leathery in texture, and difficult to break. They should have a characteristic fishy smell and a slightly salty taste. Prefer pieces that are large, plump, intact (not broken), and free of internal soil or mud residue. Avoid specimens that are excessively dark, moldy, insect-damaged, or still containing visible soil.
+
+### Identity & Adulterants
+The Di Long market has significant adulteration problems. The main concern is substitution with non-pharmacopoeia earthworm species. DNA sequencing studies of commercially sold Di Long have found that many products contain species other than the four official Pharmacopoeia species, particularly the cosmopolitan species Amynthas corticis or various Eisenia species, which have different active compound profiles and lower therapeutic efficacy. Another issue is the inclusion of excessive internal soil or mud to increase weight. Imported earthworm products (particularly from Southeast Asia) may be of unverified species origin. Authentic Guang Di Long can be distinguished by its larger size, distinct purplish-grey dorsal color, and the characteristic "white collar" clitellum pattern with visible reproductive pore structures.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (《神农本草经》)
+- **Original**: 味咸，寒。主治蛇瘕，去三虫、伏尸、鬼疰、蛊毒，杀长虫，仍自化作水。
+- **Translation**: Salty in flavor, cold in nature. Treats snake-induced abdominal masses, eliminates the three worms, expels latent corpse toxin and ghost afflictions, overcomes gu-poison, and kills long worms. It can dissolve itself into water.
+
+### Historical Context
+The medicinal use of earthworms in China dates back over two thousand years. The substance was first recorded in the Shen Nong Ben Cao Jing (circa 200 BCE-200 CE) under the name "Qiu Yin" (蚯蚓), classified in the "lower grade" (下品), which indicated it had strong medicinal action and should be used cautiously. Its original applications were primarily for parasitic diseases, abdominal masses, and infectious conditions.
+The name "Di Long" (地龙, literally "Earth Dragon") first appeared in the Song dynasty text Tu Jing Ben Cao (《图经本草》). This poetic renaming elevated the humble earthworm with the imagery of a dragon that moves through the earth, reflecting the creature's ability to penetrate, unblock, and move through passages, mirroring its therapeutic action of opening the channels and collaterals. By the Ming dynasty, Li Shizhen's Ben Cao Gang Mu greatly expanded the clinical indications to include febrile convulsions, urinary obstruction, wind-type joint pain, and many other conditions. Notably, although the Shen Nong Ben Cao Jing placed Di Long in the "toxic" lower category, later authorities including Li Shizhen reclassified it as non-toxic.
+In modern TCM, Di Long became a key ingredient in famous formulas such as Bu Yang Huan Wu Tang (补阳还五汤) by Wang Qingren (Qing dynasty, Yi Lin Gai Cuo), where it is paired with large doses of Huang Qi and Blood-moving herbs to treat post-stroke hemiplegia. Master practitioners like Zhu Liangchun have used Di Long with Shui Zhi (leech) to treat cerebral infarction, reflecting the modern emphasis on its Blood-activating and collateral-unblocking properties.
+
+### Modern Scientific Research
+1. **[Meta-analysis: Therapeutic Potential of Lumbrokinase in Acute Ischemic Stroke (2024)](https://pubmed.ncbi.nlm.nih.gov/see PMC11528390 related article/)**
+   *Journal: Multiple authors, systematic review published in PMC, 2024. Based on RCTs searched through July 2024.*
+   This systematic review and meta-analysis of randomized controlled trials found that lumbrokinase (the fibrinolytic enzyme from earthworms) combined with supportive care improved neurological function scores and reduced markers of thrombosis in acute ischemic stroke patients compared to standard care alone. No significant difference in adverse effects was found between groups. The authors concluded it may offer a safe, cost-effective adjunct in resource-limited settings, though evidence quality was moderate.
+
+2. **[Safety and Tolerability of Lumbrokinase DLBS1033 in Healthy Adults (Phase I, 2016)](https://doi.org/10.1055/s-0035-1569406)**
+   *Journal: Tjandrawinata R, Yunaidi D, Susanto L. Drug Research. 2016;66(06):293-299.*
+   This clinical safety trial evaluated oral lumbrokinase (DLBS1033) in healthy volunteers and found it to be safe and well-tolerated. No serious adverse events were reported, supporting the feasibility of oral earthworm-derived fibrinolytic therapy.
+
+3. **[Comprehensive Review: Pharmacological Effects of Bioactive Agents in Earthworm Extract (2024)](https://doi.org/10.1002/ame2.12465)**
+   *Journal: Zhu et al. Animal Models and Experimental Medicine. 2024 (Wiley Online Library).*
+   This review summarized the major bioactive compounds in earthworm extracts, including lumbrokinase (fibrinolytic), G-90 (anticoagulant), lysenin (hemolytic), antimicrobial peptides, and polyphenols. It detailed evidence for antithrombotic, anti-inflammatory, analgesic, antibacterial, antitumor, wound-healing, and blood sugar-regulating effects. The review highlighted that lumbrokinase's fibrin-specific action gives it an advantage over conventional thrombolytics by not causing hyperfibrinolysis-related bleeding.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/di-long](https://www.meandqi.com/knowledge-base/herbs/di-long)*

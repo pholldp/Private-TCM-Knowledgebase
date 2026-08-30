@@ -1,0 +1,224 @@
+# Dry Eyes (目干涩)
+**Pinyin**: mù gān sè | **Kind**: Symptom | **Category**: Eye & Vision Problems  
+**Synonyms**: Dry eye syndrome, Chronic dry eye syndrome, Dry and gritty eyes, Eye dryness or twitching | **Body Regions**: Face — Periorbital
+
+---
+
+## Preview Summary
+Dry eyes are rarely just about the eyes. In TCM, the root is almost always a deeper imbalance - depleted Yin, blocked fluids, or both - and most people notice their eyes, energy, a...
+
+---
+
+## Conventional Medicine View
+### Description
+Dry eye syndrome occurs when your tears can't provide adequate lubrication for your eyes. This can happen either because your eyes don't produce enough tears, or because the tears they do produce are of poor quality and evaporate too quickly. Common symptoms include a stinging, burning, or gritty sensation, sensitivity to light, blurred vision, and paradoxically, watery eyes as the eye overcompensates for the dryness. Diagnosis is typically made through a symptom questionnaire and eye exam, sometimes with tests to measure tear production and tear film stability. Risk factors include aging, hormonal changes, prolonged screen time, certain medications, and autoimmune conditions like Sjögren's syndrome.
+
+### Treatments
+Standard treatment usually begins with artificial tears and lubricating eye drops to replace moisture. For moderate to severe cases, doctors may prescribe anti-inflammatory eye drops like cyclosporine or lifitegrast, or use punctal plugs to block tear drainage. Additional measures include warm compresses, eyelid hygiene for blepharitis, and omega-3 supplements. In some cases, oral antibiotics or autologous serum eye drops are used.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, dry eyes are not simply a lack of tears - they are a sign that the body's system of fluid production and distribution is out of balance. The eyes are considered the opening of the Liver, and they depend on a continuous supply of nourishing Yin and Blood to stay moist and comfortable. When the Liver and Kidneys, which store the body's deepest Yin reserves, become depleted, the eyes are among the first places to feel the drought.
+This is why dry eyes often appear alongside lower back ache, night sweats, and a feeling of heat in the palms - all signs that the body's cooling, moistening resources are running low.
+But the Liver and Kidneys aren't the only players. The Lungs govern the spreading of fluids to the upper body, including the eyes. When Lung Yin is weak, the misting function fails, and dryness settles in the eyes, throat, and skin. Meanwhile, the Spleen and Stomach are responsible for transforming food and drink into usable fluids. If they become bogged down by Damp-Heat - a sticky, inflammatory congestion - clear fluids can't ascend to the eyes, leaving them dry even while the mouth feels sticky and the digestion is sluggish. And when both Qi and Yin are depleted, the body lacks both the energy to push fluids upward and the fluids themselves.
+This means that two people with the same Western diagnosis of dry eye syndrome may need completely different TCM treatments. One might need deep Yin nourishment with goji berries and prepared rehmannia, while another needs to clear Damp-Heat with herbs like Job's tears and cardamom before the eyes can moisten again. The key is identifying which pattern - or combination of patterns - is driving the dryness in your particular case.
+
+### Practitioner Diagnosis
+A practitioner first asks about accompanying sensations. If dry eyes come with blurred vision, dizziness, a sore lower back, and night sweats, the picture is often Kidney and Liver Yin Deficiency. The tongue is typically red with little coating, and the pulse feels thin and rapid - signs that the body’s deep moisture reserves are depleted, leaving the eyes without enough tears.
+When dry eyes are paired with a dry cough, hoarse voice, and a scratchy throat, Lung Yin Deficiency becomes the leading suspect. Here the lungs cannot spread fluids upward to moisten the eyes. The tongue is also red with scant coating, but the respiratory symptoms and absence of lower back trouble help distinguish it from the Kidney-Liver pattern.
+If the eyes feel gritty and dry yet the mouth feels sticky and the tongue has a greasy yellow coating, Damp-Heat in the Stomach and Spleen is likely. This pattern blocks clear yang from rising to the eyes while internal heat thickens fluids. A heavy sensation in the body, poor appetite, and loose or sticky stools are common clues that point away from pure dryness and toward damp-heat.
+When fatigue, a weak voice, and shortness of breath accompany dry eyes, Qi and Yin Deficiency is often at play. The body lacks both the energy to transport fluids and the moisture itself. The tongue may be pale or slightly red with little coating, and the pulse is weak and thready. This pattern blends signs of exhaustion with dryness, distinguishing it from the other patterns where energy levels are less affected.
+
+### Classical Reference
+> **Original**: 「白涩症者，不肿不赤，但觉干涩不爽。」
+> 
+> **Translation**: "White astringent syndrome: there is no swelling or redness, only a sensation of dryness and discomfort in the eyes."
+> 
+> — Source: *Yin Hai Jing Wei (Essential Subtleties on the Silver Sea)  ,  Chapter on White Astringent Syndrome 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Kidney and Liver Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/kidney-and-liver-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Dry, gritty eyes with blurred vision, Soreness and weakness of the lower back and knees, Night sweats and heat in the palms, soles, and chest, Dizziness and ringing in the ears, Dry mouth and throat
+- **Worse with**: Overwork and lack of sleep, Spicy, fried, or drying foods, Excessive screen time, Emotional stress, Dry, windy environments
+- **Better with**: Rest and adequate sleep, Moistening foods (e.g., pears, goji berries), Cool, humidified air, Gentle eye closing and palming
+- **Why this happens (Mechanism)**:
+  The Liver channel opens into the eyes, and the Kidneys govern the body's water and essence. When Yin-the cooling, moistening energy-runs low in these two organs, it is like a lake drying up: there is simply not enough fluid to produce tears and keep the eyes comfortably lubricated. The resulting dryness is often accompanied by blurred vision and a gritty sensation, because the eyes are not being nourished by rich Yin fluids.
+- **Tongue & Pulse**: Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine, rapid, and often wiry; the left Chi (Kidney) position feels weak.
+- **Triggers & Relief Explanation**: Kidney and Liver Yin Deficiency is a state of cooling moisture shortage. Late nights and overwork directly burn Yin, while spicy and fried foods act like adding heat to an already dry pot. Rest and Yin-nourishing foods help refill the body's reserves, just as rain replenishes a dried-up lake. Stress stirs up Liver Yang, which rises to the eyes and makes dryness and irritation worse, so calming the mind and avoiding eye strain are essential.
+- **Diet & Lifestyle**: Emphasize moistening, Yin-nourishing foods like pears, black sesame, goji berries, millet, and spinach. Avoid spicy, fried, and overly dry foods that consume fluids. Prioritize going to bed before 11 p.m., as late nights are a major drain on Yin. Gentle exercise like tai chi or walking is better than intense sweating, which can further deplete fluids.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Qi Ju Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/qi-ju-di-huang-wan)** | Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;) | Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat | The classic formula to nourish Liver and Kidney Yin and brighten the eyes, especially for dry, blurry vision and floaters. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit |  | Nourishes Liver and Kidney Yin and directly benefits the eyes, improving blurred vision and dryness. |
+| **[Ju Hua](https://www.meandqi.com/knowledge-base/herbs/ju-hua)** | Chrysanthemum flower |  | Clears the eyes and dispels wind-heat, relieving redness and irritation while guiding other herbs to the eyes. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Source point of the Kidney channel; strongly nourishes Kidney Yin to generate fluids. |
+| **BL-18** | [Ganshu BL-18](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18) | G&#x101;n Sh&#x16B; | Resolves Damp-Heat, Invigorates Liver Qi and Blood | Back-Shu point of the Liver; nourishes Liver Yin and clears deficiency heat from the eyes. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Source point of the Liver channel; regulates Liver Qi and subdues rising Yang that can irritate the eyes. |
+
+---
+
+### Lung Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/lung-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Dry, scratchy throat, Dry cough with little or no phlegm, Hoarse or weak voice, Afternoon low-grade fever or heat sensation
+- **Worse with**: Dry, heated, or air-conditioned rooms, Spicy, fried, or drying foods, Smoking or secondhand smoke, Excessive screen time
+- **Better with**: Moistening foods (e.g., pears, goji berries), A humidifier or steam inhalation, Rest and adequate sleep, Gentle breathing exercises
+- **Why this happens (Mechanism)**:
+  The Lungs govern the distribution of fluids to the upper body, including the eyes. When Lung Yin is depleted, this moistening function fails, leaving the eyes dry and gritty.
+The same dryness often affects the throat and airways, causing a persistent dry cough, hoarseness, and a scratchy throat. This pattern is often aggravated by dry environments and late afternoons when Yin energy naturally wanes.
+- **Tongue & Pulse**: Tongue: Red, thin body, dry with little or no coating; may have cracks. Pulse: Fine (thin) and rapid, especially weak in the right cun (Lung) position.
+- **Triggers & Relief Explanation**: Lung Yin deficiency means the body lacks cooling, moistening fluids. Dry environments and heating foods further deplete these fluids, while moistening foods and rest help rebuild Yin. Grief and stress can consume Lung Qi and Yin, worsening symptoms. Gentle breathing exercises support Lung function and help distribute moisture to the eyes.
+- **Diet & Lifestyle**: Eat moistening foods like pears, snow fungus soup, and honey. Avoid spicy, fried, or overly drying foods. Use a humidifier in dry rooms and take regular breaks from screens to rest your eyes. Gentle breathing exercises can help nourish Lung Yin.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Yang Yin Qing Fei Tang](https://www.meandqi.com/knowledge-base/formulas/yang-yin-qing-fei-tang)** | Nourish Yin and Clear the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, Qianlong era (~1764), first published 1838 CE | Cool, Nourishes Yin, Clears Lung Heat, Resolves Toxicity | Nourishes Lung Yin, moistens dryness, and clears deficiency heat to restore the Lungs&#x27; ability to distribute fluids to the eyes. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Moistens the Lungs and relieves dryness, specifically targeting the upper body. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Tonifies Lung Qi and Yin to restore the Lungs&#x27; moistening function. |
+| **LU-9** | [Taiyuan LU-9](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9) | T&#xE0;i Yu&#x101;n | Clears Phlegm, Descends Lung Qi | The Yuan-source point of the Lung channel, nourishes Lung Yin and benefits the throat and eyes. |
+
+---
+
+### Damp-Heat in Stomach and Spleen
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/damp-heat-in-stomach-and-spleen)*
+
+- **Clinical Signs & Symptoms**: Dry, gritty eyes, Sticky or bitter taste in the mouth, Bloating and fullness in the upper abdomen, Sticky or incomplete bowel movements, Heavy sensation in the body and limbs
+- **Worse with**: Greasy, fried, or rich foods, Dairy and sweets, Alcohol, Humid weather, Overeating, Sedentary lifestyle
+- **Better with**: Light, easily digestible meals, Bitter foods (e.g., dandelion greens), Gentle exercise, Cool environment, Avoiding heavy meals
+- **Why this happens (Mechanism)**:
+  Damp-Heat in the Stomach and Spleen creates a sticky, heavy obstruction in the middle of the body. This blockage prevents clear Yang Qi and nourishing fluids from rising up to the eyes, leaving them dry and gritty. At the same time, the heat component dries up moisture, while the dampness causes the telltale sticky mouth and digestive sluggishness.
+- **Tongue & Pulse**: Tongue: red body, possibly swollen with teeth marks, thick yellow greasy coating especially at centre and root. Pulse: soggy (Ru) and rapid (Shu), often slippery (Hua).
+- **Triggers & Relief Explanation**: Greasy, sweet, and heavy foods create Dampness and Heat in the Stomach and Spleen, which clogs the middle burner and blocks clear Yang from rising to the eyes. Alcohol and humid weather add more Damp-Heat. Light, bitter foods and exercise help the body transform and expel Dampness, unblocking the ascent of fluids and Qi to soothe the eyes.
+- **Diet & Lifestyle**: Eat light, cooked meals and avoid greasy, fried, or sugary foods that create Dampness. Bitter greens like dandelion and radish help clear Heat. Gentle daily movement like walking supports the Spleen in transforming Dampness. Avoid alcohol and rich dairy.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[San Ren Tang](https://www.meandqi.com/knowledge-base/formulas/san-ren-tang)** | Three-Seed Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE | Slightly Cool, Clears Damp-Heat, Promotes Qi Movement in the San Jiao, Transforms Dampness | The primary formula to clear Damp-Heat from the middle burner, unblock Qi, and allow fluids to reach the eyes. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root |  | Clears Heat and dries Dampness from the Stomach and Spleen. |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Dries Dampness and strengthens the Spleen to restore proper fluid metabolism. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Leaches out Dampness without harming Yin fluids, helping to unblock the middle burner. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **REN-12** | [Zhongwan REN-12](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12) | Zh&#x14D;ng W&#x1CE;n | Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain | Harmonizes the middle burner and resolves Dampness. |
+| **ST-25** | [Tianshu ST-25](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25) | Ti&#x101;n sh&#x16B; | Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus | Regulates the intestines and clears Damp-Heat from the Stomach. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | A key point to drain Dampness from the body. |
+| **ST-44** | [Neiting ST-44](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/neiting-st-44) | N&#xE8;i T&#xED;ng | Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat | Clears Stomach Heat and calms the rising of turbid Qi. |
+
+---
+
+### Qi and Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/qi-and-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Persistent fatigue and lack of strength, Dry mouth with little desire to drink, Shortness of breath, worse with exertion, Night sweats, Warm sensation in palms and soles, Pale or red tongue with thin coating
+- **Worse with**: Overwork and lack of sleep, Spicy, fried, or drying foods, Hot, dry weather, Emotional stress
+- **Better with**: Rest and adequate sleep, Warm, moistening foods, Gentle exercise, Cool environment
+- **Why this happens (Mechanism)**:
+  Qi is the force that moves fluids upward to moisten the eyes, while Yin provides the actual moisture. When both are deficient, the body simply doesn't have enough resources to produce tears or transport them to the eyes. The result is dry, gritty eyes that come with deep fatigue and a dry mouth - signs that the whole body is running low on both fuel and lubrication.
+- **Tongue & Pulse**: Tongue: red or pale-red body, thin or absent coating, dry surface. Pulse: fine (thin) and weak, possibly rapid.
+- **Triggers & Relief Explanation**: Overwork and lack of sleep drain Qi and Yin further, while spicy and fried foods consume Yin and generate heat. Hot, dry environments accelerate fluid loss. Rest and naps allow Qi to recover; moistening foods replenish Yin fluids; gentle movement circulates Qi without depleting it.
+- **Diet & Lifestyle**: Eat warm, moistening foods such as congee, soups, pears, and honey. Avoid spicy, fried, and drying foods. Prioritize rest and avoid overwork to conserve Qi and Yin. Gentle exercise like Tai Chi or walking is better than intense workouts.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Sheng Mai San](https://www.meandqi.com/knowledge-base/formulas/sheng-mai-san)** | Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE | Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin | Nourishes both Qi and Yin, generates fluids, and relieves the dryness, fatigue, and shortness of breath characteristic of this pattern. |
+| **[Qi Ju Di Huang Wan](https://www.meandqi.com/knowledge-base/formulas/qi-ju-di-huang-wan)** | Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;) | Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat | A classical formula that nourishes the Liver and Kidneys to support eye health and clear vision. It is used for blurred vision, dry eyes, sensitivity to light, excessive tearing in wind, dizziness, and ringing in the ears caused by Liver and Kidney Yin deficiency. Built on the famous Liu Wei Di Huang Wan (Six-Ingredient Rehmannia Pill) with the addition of goji berry and chrysanthemum flower for their vision-supporting properties. |
+| **[Yang Yin Qing Fei Tang](https://www.meandqi.com/knowledge-base/formulas/yang-yin-qing-fei-tang)** | Nourish Yin and Clear the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, Qianlong era (~1764), first published 1838 CE | Cool, Nourishes Yin, Clears Lung Heat, Resolves Toxicity | A classical formula designed to nourish the body&#x27;s moisture and cool the Lungs, primarily used for dry, sore throats with a parched feeling in the nose and mouth. It is well suited for chronic sore throat, dry cough, and throat inflammation that arise from an underlying deficiency of the body&#x27;s fluids, leaving the Lungs and throat dry and vulnerable to irritation or infection. |
+| **[San Ren Tang](https://www.meandqi.com/knowledge-base/formulas/san-ren-tang)** | Three-Seed Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE | Slightly Cool, Clears Damp-Heat, Promotes Qi Movement in the San Jiao, Transforms Dampness | A classical formula designed to clear dampness and mild heat that has become trapped throughout the body, especially when dampness is the dominant problem. It is commonly used for conditions involving a heavy body feeling, poor appetite, chest stuffiness, and afternoon fever, often seen in hot and humid weather or with lingering infections. |
+| **[Sheng Mai San](https://www.meandqi.com/knowledge-base/formulas/sheng-mai-san)** | Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE | Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin | A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root |  | Tonifies Qi and generates fluids to combat fatigue and dryness. |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Nourishes Yin and moistens dryness, especially in the mouth and eyes. |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry |  | Astringes Qi and Yin, preventing further leakage of precious fluids. |
+| **[Gou Qi Zi](https://www.meandqi.com/knowledge-base/herbs/gou-qi-zi)** | Chinese Wolfberry Fruit | Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes |  |
+| **[Ju Hua](https://www.meandqi.com/knowledge-base/herbs/ju-hua)** | Chrysanthemum flower | Slightly Cool, Disperses Wind-Heat, Calms the Liver and Subdues Yang, Clears Liver Heat and Brightens the Eyes |  |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root | Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability |  |
+| **[Huang Qin](https://www.meandqi.com/knowledge-base/herbs/huang-qin)** | Baical skullcap root | Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding |  |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Dang Shen](https://www.meandqi.com/knowledge-base/herbs/dang-shen)** | Codonopsis root | Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi |  |
+| **[Wu Wei Zi](https://www.meandqi.com/knowledge-base/herbs/wu-wei-zi)** | Schisandra berry | Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Spleen and Stomach Qi to generate fluids and lift clear Yang to the eyes. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Nourishes Yin and blood, moistening the eyes and calming the mind. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Strengthens Qi and promotes fluid production, helping to distribute moisture upward. |
+
+---
+
+## Frequently Asked Questions
+### Can TCM really help dry eyes that don't respond to eye drops?
+Yes. While eye drops replace moisture on the surface, TCM works to restore your body's own ability to produce and distribute tears. This means treating the underlying imbalance - whether it's a Yin deficiency in the Liver and Kidneys or a blockage from Damp-Heat - rather than just masking symptoms. Many people who have tried artificial tears for months without lasting relief find that herbs and acupuncture gradually improve their natural tear production and comfort, often within a few weeks.
+
+### How long does it take to see results with TCM for dry eyes?
+Most people notice a difference within 2 to 4 weeks of consistent treatment. Excess patterns like Damp-Heat may respond faster, while Yin-deficient patterns that have built up over years may take 3 to 6 months to fully rehydrate the eyes. Acupuncture once or twice a week combined with daily herbal formulas typically shows initial improvement in eye comfort, reduced grittiness, and less reliance on artificial tears within the first month.
+
+### What dietary changes can help with dry eyes?
+Focus on moistening, Yin-nourishing foods like pears, goji berries, black sesame seeds, spinach, and cucumber. Avoid drying and heating foods such as spicy dishes, deep-fried foods, excessive coffee, and alcohol, which can further deplete your body's fluids. For Damp-Heat patterns, reduce greasy, sweet, and dairy-heavy foods that create internal dampness. Eating small, regular meals and staying well-hydrated with room-temperature water also supports tear production.
+
+### Can I use TCM alongside my prescription eye drops?
+Yes, TCM can safely complement most conventional dry eye treatments. Continue using your prescribed drops or medications as directed. Herbal formulas and acupuncture work systemically and do not interfere with topical eye treatments. Always inform both your TCM practitioner and your eye doctor about all treatments you're using so they can coordinate care. If you're taking oral medications for other conditions, bring the full list to your TCM consultation.
+
+### Which acupuncture points are used for dry eyes?
+Acupuncture for dry eyes typically uses points on the legs, feet, back, and around the eyes. Common points include Taixi (KI-3) and Ganshu (BL-18) to nourish Liver and Kidney Yin, Feishu (BL-13) and Taiyuan (LU-9) to support Lung Yin, and Zusanli (ST-36) with Sanyinjiao (SP-6) to build Qi and Yin. Local points near the eyes may be needled very gently or stimulated with moxibustion. Your practitioner selects points based on your specific pattern.
+
+### Is TCM safe for dry eyes during pregnancy?
+Acupuncture is generally safe during pregnancy when performed by a trained practitioner, though some points are avoided. Herbal formulas require more caution; many Yin-nourishing herbs are safe, but a qualified TCM practitioner will tailor the prescription specifically for pregnancy. Always tell your practitioner if you are pregnant or trying to conceive. For urgent eye symptoms or sudden vision changes, seek immediate medical care regardless of pregnancy status.
+
+---
+
+## Modern Scientific Research
+1. **Acupuncture for dry eye: a systematic review and meta-analysis**
+   *Journal/Publication: Liu Z, et al. Acupuncture for dry eye: a systematic review and meta-analysis. Evidence-Based Complementary and Alternative Medicine. 2019;2019:9272715.*
+   This meta-analysis pooled data from multiple RCTs and found that acupuncture significantly improved tear film breakup time and Schirmer I test scores compared to artificial tears, with a low risk of adverse events.
+
+2. **Efficacy of Qi Ju Di Huang Wan in treating dry eye syndrome: a randomized controlled trial**
+   *Journal/Publication: Zhang M, et al. Efficacy of Qi Ju Di Huang Wan in treating dry eye syndrome: a randomized controlled trial. Journal of Traditional Chinese Medicine. 2018;38(5):754-760.*
+   In this RCT, patients taking Qi Ju Di Huang Wan showed significant improvement in dry eye symptoms, tear secretion, and corneal staining scores compared to placebo, supporting its use for Kidney and Liver Yin Deficiency pattern.
+
+3. **Chinese herbal medicine for dry eye: a systematic review of randomized controlled trials**
+   *Journal/Publication: Chen Y, et al. Chinese herbal medicine for dry eye: a systematic review of randomized controlled trials. Frontiers in Pharmacology. 2020;11:572.*
+   This review analyzed 18 RCTs and concluded that Chinese herbal medicine, particularly formulas nourishing Yin and moistening the Lungs, was more effective than artificial tears in improving symptoms and tear film stability, though methodological quality was variable.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/dry-eyes](https://www.meandqi.com/knowledge-base/conditions/dry-eyes)*

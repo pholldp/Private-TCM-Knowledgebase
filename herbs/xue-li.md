@@ -1,0 +1,155 @@
+# Xue Li (雪梨)
+**English Name**: Snow Pear  
+**Category**: Other herbs, Herbs that clear Heat and resolve Toxicity, Herbs that cool and transform Phlegm-Heat  
+**Scientific Name**: Pyrus pyrifolia (Burm. f.) Nakai  
+**Pharmaceutical Name**: Fructus Pyri  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Sweet (甘 gān), Sour (酸 suān)  
+**Channels Entered**: Lungs, Stomach  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Snow pear is a cooling fruit used in Chinese medicine to moisten the lungs, clear heat, and generate fluids. It is commonly eaten raw or cooked for dry cough, sore throat, thirst, and to relieve the effects of alcohol.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Respiratory health, Thirst and dehydration, Cough and cold, Sore throat
+- **TCM Actions**: Clears Heat, Moistens the Lungs, Transforms Phlegm, Generates Fluids, Stops thirst, Resolves Toxin
+
+### How these actions work
+Clears Heat means Xuě Lí cools the body and reduces internal Heat. It is used for conditions like fever, irritability, and thirst caused by excess Heat, especially in the Lungs and Stomach.
+Moistens the Lungs refers to its ability to lubricate the respiratory tract, making it ideal for dry cough, hoarseness, and a scratchy throat. It helps restore the Lung's natural moisture balance.
+Transforms Phlegm describes how it helps thin and expel sticky phlegm from the Lungs, particularly when the phlegm is yellow and thick due to Heat.
+Generates Fluids is its capacity to promote the production of body fluids, relieving dehydration, dry mouth, and thirst. This action also benefits the skin and intestines.
+Resolves Toxin indicates its use in clearing heat-related toxins, such as those from alcohol, certain skin eruptions, or inflammatory conditions.
+
+---
+
+## Patterns Addressed
+### Lung Heat
+- **Explanation**: Xuě Lí is cold in nature and sweet in taste, directly clearing Heat from the Lungs. Its moistening property soothes the dryness that often accompanies Lung Heat, making it especially useful for heat-induced dry cough and throat irritation.
+- **Clinical Signs & Symptoms**:
+  - **Cough**: Dry, hacking cough
+
+### Body Fluids Deficiency
+- **Explanation**: Xuě Lí generates fluids and alleviates thirst, directly replenishing the Body Fluids that have been depleted by Heat, excessive sweating, or Yin Deficiency. Its sweet, cold nature promotes the production of clear fluids without causing Dampness.
+- **Clinical Signs & Symptoms**:
+
+### Stomach Yin Deficiency
+- **Explanation**: Xuě Lí nourishes Stomach Yin and clears Stomach Heat. Its sweet taste tonifies the Stomach while its cold nature cools deficiency fire, making it beneficial for dry mouth, thirst, and epigastric discomfort due to insufficient Stomach fluids.
+- **Clinical Signs & Symptoms**:
+  - **Thirst**: Unquenchable thirst
+
+### Phlegm-Heat in the Lungs
+- **Explanation**: Xuě Lí transforms Phlegm and clears Heat, making it suitable for Phlegm-Heat in the Lungs with symptoms like cough with yellow, sticky sputum. Its moistening action also prevents the Phlegm from becoming too dry and difficult to expel.
+- **Clinical Signs & Symptoms**:
+  - **Chest Congestion**: Feeling of chest oppression
+
+---
+
+## Commonly Used For
+### Acute Bronchitis
+- **Arises from**: Lung Heat, Phlegm-Heat in the Lungs
+- **TCM Interpretation**: In TCM, acute bronchitis is often seen as an invasion of Wind-Heat or Phlegm-Heat obstructing the Lung's descending and dispersing function. This leads to cough, fever, and chest discomfort.
+- **Why it Helps**: Xuě Lí's cold nature clears Lung Heat, while its sweet taste moistens the Lungs and transforms Phlegm. This directly addresses the Heat and Phlegm that underlie the condition, soothing the cough and reducing inflammation.
+
+### Dehydration
+- **Arises from**: Body Fluids Deficiency
+- **TCM Interpretation**: Dehydration corresponds to deficiency of Body Fluids (Jīn Yè) in TCM, often caused by external Heat, excessive sweating, or internal Yin Deficiency. The mouth, throat, and skin become dry, and thirst is pronounced.
+- **Why it Helps**: Xuě Lí is a potent fluid-generating food. Its sweet, cold nature stimulates the production of clear fluids and replenishes the Stomach and Lung Yin, quickly relieving thirst and dryness.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: As food: one medium-sized fresh pear (200–300 g). For decoction (dried slices): 9–15 g.
+- **Maximum Dosage**: No strict toxic upper limit. Excessive consumption of raw pears (more than one or two daily) may cause gastrointestinal cold‑damage. The amount should always be adjusted to the individual’s constitution.
+- **Dosage Notes**: For acute heat‑type cough and thirst, the fresh, raw form or its juice is most effective because of its strong cold, cooling nature. For chronic cough with drier Lungs (especially in older or weaker people), it is better to steam, bake, or double‑boil the pear to reduce its coldness and focus the action on moistening the Lung. Pear juice cooked with honey (秋梨膏) becomes more nourishing and less prone to injure the Spleen.
+- **Preparation**: When using fresh pears in a decoction, they are usually added towards the end of cooking to preserve their cooling and moistening properties. Often juiced and strained, or stewed with rock sugar or honey to make a syrup or paste.
+
+---
+
+## Processing Methods
+### &#x79CB;&#x68A8;&#x818F; (Qi&#x16B; L&#xED; G&#x101;o, Autumn Pear Paste)
+- **Processing Method**: Fresh snow pears are juiced, simmered slowly to concentrate, then cooked with honey (and sometimes additional herbs like Luo Han Guo, Mai Dong, etc.) until a thick, syrupy paste is formed.
+- **How it Changes Properties**: The long cooking and addition of honey transform the herb from strongly cold to more neutral and sweet. The action shifts from clearing heat to primarily moistening the Lung, stopping cough, and generating fluids. It is much gentler on the Stomach and Spleen.
+- **When to Use**: Choose this form for chronic dry cough, Lung Yin deficiency with scanty phlegm, or in patients whose digestion cannot tolerate the cold of raw pear. It is widely used as an autumn health tonic.
+
+### &#x7168;&#x68A8; (W&#x113;i L&#xED;, Ash-Baked Pear)
+- **Processing Method**: A whole pear is cored, filled with a pinch of Sichuan pepper, wrapped in dough, and baked in hot embers or a low oven until cooked.
+- **How it Changes Properties**: Baking reduces the cold nature and partially balances it with the warmth of pepper. The texture becomes soft and the active principles are less harsh, targeting cough in a more balanced way.
+- **When to Use**: This classical preparation (found in the Bencao Gangmu) is specifically for persistent cough where some cold signs coexist with heat, or when the patient’s digestive strength is compromised.
+
+---
+
+## Common Herb Pairs
+### Chuan Bei Mu (Ratio: Xu&#x11B; L&#xED; 1 piece (approx. 200g) : Chu&#x101;n B&#xE8;i M&#x1D4; 3&#x2013;9g)
+- **Description**: Moistens the Lungs, transforms Phlegm, and stops cough. Xuě Lí provides the cooling, moistening base, while Chuān Bèi Mǔ specifically targets Phlegm-Heat and dry cough.
+- **When to Use**: For dry cough with scanty, difficult-to-expectorate sputum, or cough due to Lung Heat with Yin Deficiency.
+
+### Mai Dong (Ratio: Xu&#x11B; L&#xED; 1 piece : M&#xE0;i D&#x14D;ng 6&#x2013;12g)
+- **Description**: Generates Fluids and nourishes Yin of both the Lungs and Stomach. Xuě Lí's cooling nature pairs with Mài Dōng's sweet, slightly cold property to strongly replenish fluids.
+- **When to Use**: For severe thirst, dry mouth, and throat due to Stomach Yin Deficiency or febrile disease consuming fluids.
+
+### Pi Pa Ye (Ratio: Xu&#x11B; L&#xED; 1 piece : P&#xED; P&#xE1; Y&#xE8; 6&#x2013;9g)
+- **Description**: Clears Lung Heat, transforms Phlegm, and stops cough. Pí Pá Yè directs the action downward to stop rebellious Lung Qi, while Xuě Lí moistens and cools.
+- **When to Use**: For Phlegm-Heat cough with yellow sputum, chest oppression, and nausea.
+
+### Jie Geng (Ratio: Xu&#x11B; L&#xED; 1 piece : Ji&#xE9; G&#x11B;ng 3&#x2013;6g)
+- **Description**: Benefits the throat and opens the Lung Qi. Jié Gěng carries the moistening, cooling effect of Xuě Lí to the throat and upper respiratory tract.
+- **When to Use**: For sore throat, loss of voice, and dry cough with throat irritation.
+
+---
+
+## Key Formulas
+*No formulas listed.*
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Xue Li is non‑toxic. Its potential harm comes solely from its cold nature: excessive consumption of raw pear can injure the Spleen and Stomach, causing cold‑type abdominal pain, diarrhea, and weakness. Cooking or baking the pear (e.g., wrapped in dough and roasted in ashes) moderates this coldness, making it safer for weaker digestion. No intrinsic toxic compounds require special processing for safety.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: No specific pregnancy contraindications are recorded in the classical literature. However, its marked cold nature means large amounts should be avoided, especially by those with a cold constitution or early pregnancy with Spleen Qi deficiency. Occasional use as a food in moderation is generally considered acceptable.
+- **Breastfeeding**: Classical texts explicitly list 乳妇 (breastfeeding women) among those who should avoid eating pear, as its cold, downward‑moving nature was believed to weaken the postpartum body and potentially affect milk quality. Modern usage suggests caution and minimal amounts.
+- **Children**: Children with heat‑type cough, thirst, or irritability may benefit from small amounts of fresh pear juice or steamed pear. Because children’s Spleen is often delicate, raw pear should be given cautiously and in moderation to avoid causing diarrhea; cooked pear or pear paste is gentler.
+
+### Drug Interactions
+
+
+### Dietary Advice
+Avoid eating raw, cold, and greasy foods while using large amounts of pear medicinally, as these can compound the cold damage to the Spleen. For coughs with mixed heat and cold signs, pair with warming ingredients like fresh ginger, Sichuan pepper, or baked in dough to balance its nature.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+雪梨 (Pyrus × bretschneideri) is a deciduous tree in the Rosaceae family, growing 4–5 meters tall with a broad crown 3–4 meters across. The trunk and older branches are brown and smooth, while new shoots are reddish-brown and hairless. Leaves are ovate to elliptical, deep green, with a pointed tip and sharply toothed margins; young leaves have fine hairs that disappear as they mature. In April, clusters of white, 5‑petalled flowers with yellow anthers appear, followed by fruit that ripens in August to September. The fruit is oval to subglobose, slightly flattened, and pale yellow‑brown when ripe, measuring 8–9 cm in length and 9–9.5 cm in width. The flesh is white, crisp, and very juicy, with a thin skin and small dotted spots.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: August to September, when the fruit is fully ripe.
+- **Primary Growing Regions**: The most famous 道地药材 region is Zhao County (赵县) in Hebei Province, known for 赵州雪梨. Also widely cultivated in Shandong, Sichuan (notably Cangxi County, Guangyuan), and Anhui (Xuancheng, She County, Qimen, Xiuning — the historic 徽州雪梨 area). The <em>Bencao Gangmu</em> specifically mentions 乳梨 from Xuancheng as the best medicinal variety.
+- **Quality Indicators**: Good‑quality Xue Li are large, round to slightly flat, with a thin pale yellow skin dotted with fine speckles. The flesh should be pure white, extremely crisp, very juicy, sweet with a subtle tart note, and without any astringency. Avoid fruits that are soft, mushy, or have dark patches. Medicinally, the fully ripe, freshly harvested fruit is preferred.
+
+### Identity & Adulterants
+Many pear varieties exist, but according to the <em>Bencao Gangmu</em>, only 乳梨 (Snow Pear), 鹅梨 (Goose Pear), and 消梨 (Fragrant Water Pear) are considered effective medicinally. Other common pears (e.g., 水梨 Water Pear, 赤梨 Red Pear) may appear similar but are traditionally regarded as having coarser texture and weaker therapeutic action, so they are not direct substitutes.
+
+---
+
+## References
+### Historical Context
+The name 雪梨 (Snow Pear) derives from its flesh, which is as white as snow. The Bencao Gangmu classifies it as a top‑grade fruit and distinguishes several varieties — 乳梨 (Milk Pear = Snow Pear), 鹅梨 (Goose Pear), and 消梨 (Dissolving Pear) — as the only ones suitable for medicinal use. A famous story from the Tang Dynasty tells how the Daoist priest Xing of Mount Qingcheng cured Emperor Wuzong’s intractable heart‑heat with a decoction of purple‑flowered pear juice. Later, Li Shizhen lamented that ancient doctors, focused on cold‑wind evils and warming herbs like Cinnamon and Aconite, neglected the pear’s ability to treat wind‑heat, moisten the Lung, and extinguish Fire — a bias that led many to overlook its true therapeutic value, even as they warned only of its cold side effects.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xue-li](https://www.meandqi.com/knowledge-base/herbs/xue-li)*

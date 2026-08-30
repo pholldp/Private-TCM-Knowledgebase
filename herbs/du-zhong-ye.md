@@ -1,0 +1,173 @@
+# Du Zhong Ye (杜仲叶)
+**English Name**: Eucommia leaf  
+**Category**: Yang-tonifying herbs (补阳药)  
+**Scientific Name**: Eucommia ulmoides Oliv.  
+**Pharmaceutical Name**: Folium Eucommiae  
+**Toxicity**: Non-toxic  
+**Temperature**: Warm | **Taste**: Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Liver, Kidneys  
+**Parts Used**: Leaf (叶 yè)  
+
+---
+
+## Summary
+Eucommia leaf comes from the same tree as the more commonly used Eucommia bark (Du Zhong) and shares many of its benefits. It is a warming herb traditionally used to strengthen the lower back and knees, support bone and joint health, and help manage blood pressure. In 2023, it was officially classified as a food-medicine dual-use substance in China, making it widely available as a health tea.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Bone and Joint Health, Blood Pressure Support, Lower Back and Knee Health, Immune Support
+- **TCM Actions**: Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Lowers Blood Pressure
+
+### How these actions work
+'Tonifies the Liver and Kidneys' means this herb nourishes and strengthens the Liver and Kidney organ systems, which in TCM theory govern the health of tendons, ligaments, and bones respectively. When these systems are weakened, people may experience lower back pain, weak knees, dizziness, or fatigue. Eucommia leaf gently warms and replenishes these organ systems, making it especially suitable for people whose weakness is accompanied by cold sensations.
+'Strengthens sinews and bones' refers to its ability to support the structural tissues of the body: tendons, ligaments, and the skeletal system. This action flows directly from its Liver and Kidney tonifying effect, since in TCM the Liver governs the sinews (tendons and ligaments) and the Kidneys govern the bones. It is commonly used for soreness and weakness in the lower back and knees, as well as general limb weakness.
+'Lowers blood pressure' is a modern clinical application recognized in the Chinese Pharmacopoeia. The leaf contains pinoresinol diglucoside and chlorogenic acid, which have been shown to relax blood vessels and reduce blood pressure. This makes Eucommia leaf particularly valued for people with hypertension who also have underlying Liver-Kidney deficiency.
+
+---
+
+## Patterns Addressed
+### Kidney Yang Deficiency
+- **Explanation**: Eucommia leaf is warm in nature and enters the Kidney channel, directly warming Kidney Yang. When Kidney Yang is deficient, its warming and supporting functions decline, leading to cold sensations in the lower back and knees, general fatigue, and frequent urination. The herb's warm, pungent nature counters the cold that accumulates when Kidney Yang is weak, while its tonifying action rebuilds the foundation of Yang in the lower body. Its ability to strengthen bones reflects the TCM principle that the Kidneys govern bones, so tonifying Kidney Yang directly improves bone and skeletal strength.
+- **Clinical Signs & Symptoms**:
+
+### Spleen and Kidney Qi Deficiency
+- **Explanation**: Eucommia leaf enters both the Liver and Kidney channels, making it well suited for the combined deficiency pattern where both organ systems are depleted. The Liver governs the sinews (tendons and ligaments) while the Kidneys govern the bones. When both are deficient together, the structural support of the body weakens, producing symptoms concentrated in the lower back, knees, and limbs. The herb's pungent taste helps circulate Qi through these channels, while its warm, tonifying nature replenishes both Liver and Kidney simultaneously. Classical texts note that Eucommia 'enters the Liver to tonify the Kidney,' reflecting the mother-child relationship between these organs in Five Phase theory.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Hypertension
+- **Arises from**: Spleen and Kidney Qi Deficiency
+- **TCM Interpretation**: In TCM, hypertension is often understood as Liver Yang rising, which can stem from an underlying deficiency of Liver and Kidney Yin or Yang. When the Kidneys are weakened, they fail to anchor Yang downward, allowing it to surge upward and cause headaches, dizziness, and elevated blood pressure. In many older patients, this rising Yang coexists with deficiency in the lower body, producing simultaneous symptoms of high blood pressure above and weak lower back and knees below.
+- **Why it Helps**: Eucommia leaf addresses hypertension from the root level by tonifying the Liver and Kidneys. By strengthening the foundation of these organ systems, it helps the body anchor Yang Qi and prevent it from surging upward. Modern research has confirmed that Eucommia leaf contains pinoresinol diglucoside, chlorogenic acid, and quercetin, which promote blood vessel relaxation through the nitric oxide pathway and regulate the RhoA/ROCK signaling pathway. This dual action, working both through the traditional TCM mechanism of tonifying deficiency and through direct vascular relaxation, makes it especially well suited for hypertensive patients who also have lower back pain and general weakness.
+
+### Lower Back Pain
+- **Arises from**: Kidney Yang Deficiency
+- **TCM Interpretation**: TCM considers the lower back to be the 'mansion of the Kidneys.' Chronic lower back pain that is dull, aching, worsened by cold or fatigue, and improved by warmth and rest is typically attributed to Kidney deficiency. The Kidneys provide the foundational warmth and structural support for the lumbar spine. When Kidney Yang declines, especially with aging or overwork, the lower back loses its nourishment and warming support, resulting in persistent soreness and weakness.
+- **Why it Helps**: Eucommia leaf's warm nature and Kidney-entering channel affinity make it a direct match for cold-type lower back pain. It warms and tonifies Kidney Yang, restoring the warming support that the lumbar region needs. Its simultaneous action on the Liver channel helps strengthen the sinews and ligaments that stabilize the spine. Research on Eucommia also suggests anti-inflammatory properties and the ability to promote bone metabolism, which may contribute to structural improvements in the lumbar region.
+
+### Osteoporosis
+- **Arises from**: Kidney Yang Deficiency
+- **TCM Interpretation**: In TCM, the Kidneys 'govern the bones and produce marrow.' Osteoporosis is understood as a decline in Kidney essence (Jing) that progressively weakens the skeletal system. This view aligns with the observation that bone density loss accelerates with aging, which TCM attributes to the natural decline of Kidney Qi and essence over a lifetime. The condition is especially common in post-menopausal women, whom TCM understands as experiencing a marked depletion of Kidney Yin and Yang.
+- **Why it Helps**: Eucommia leaf tonifies the Kidneys and strengthens bones, directly addressing the root mechanism of osteoporosis in TCM terms. Modern pharmacological studies have found that kaempferol and other compounds in Eucommia leaf can promote bone cell (osteoblast) differentiation and improve bone metabolism, potentially supporting bone mineral density. The herb's gentle warming action also supports the overall vitality of the Kidney system that sustains bone health throughout life.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 15-30g
+- **Maximum Dosage**: Up to 30g in standard decoction; higher doses are used in Du Zhong tea protocols (up to 30g or more daily as tea infusion) but should be under practitioner guidance.
+- **Dosage Notes**: The standard decoction dose is 15 to 30g. For general Liver and Kidney tonification and lower back/knee support, 15 to 20g is typical. For blood pressure support, higher doses around 20 to 30g are often used, sometimes as a daily tea rather than a traditional decoction. Salt-processed Du Zhong Ye (yan chao) is preferred when targeting the Kidney, as salt processing is classically understood to direct the herb's actions downward to the Kidney. When used as a tea (steeped rather than decocted), the active compounds may be less fully extracted, so slightly higher quantities are sometimes used.
+- **Preparation**: No special decoction handling required. Du Zhong Ye can be decocted normally with other herbs. It is also commonly prepared as a simple tea infusion (steeped in hot water for 5 to 10 minutes). Salt-processed Du Zhong Ye (yan chao du zhong ye) is a common processed form where the leaves are sprayed with salt water and dry-fried until lightly scorched, which is said to enhance the herb's Kidney-directing properties.
+
+---
+
+## Processing Methods
+### Y&#xE1;n Ch&#x1CE;o D&#xF9; Zh&#xF2;ng Y&#xE8; (&#x76D0;&#x7092;&#x675C;&#x4EF2;&#x53F6;)
+- **Processing Method**: The clean, dried Eucommia leaves are sprinkled evenly with salt water, left to absorb briefly, then stir-fried in a wok over moderate heat until slightly charred spots appear. The standard ratio is 2 kg of salt per 100 kg of leaves.
+- **How it Changes Properties**: Salt-frying enhances the herb's ability to enter the Kidney channel, strengthening its Kidney-tonifying and lower-back-supporting actions. The salt acts as a guide (引经药) directing the herb's effects downward to the Kidneys and lower body. The thermal nature remains warm. The processing also breaks down some of the gutta-percha (rubber content) in the leaf, allowing the active constituents to dissolve more readily into water during decoction.
+- **When to Use**: Preferred when the primary goal is to tonify the Kidneys for lower back pain, knee weakness, or frequent urination. The salt-processed form is the standard clinical form for decoction, as it improves both the therapeutic direction and the extractability of active compounds.
+
+---
+
+## Common Herb Pairs
+### Xu Duan (Ratio: 1:1 (e.g. 15g each))
+- **Description**: Eucommia leaf and Xu Duan (Teasel root) are a classical pairing for strengthening the Liver and Kidneys while supporting sinews and bones. Eucommia leaf excels at warming and tonifying to maintain structural integrity, while Xu Duan is better at reconnecting and knitting damaged tissue. Together they address both the underlying deficiency and the structural damage.
+- **When to Use**: Chronic lower back and knee pain from Liver-Kidney deficiency, especially following injury or in cases where bones and tendons need repair alongside tonification.
+
+### Sang Ji Sheng (Ratio: 1:1 (e.g. 15g each))
+- **Description**: Sang Ji Sheng (Mulberry mistletoe) supplements the Liver and Kidneys, strengthens sinews and bones, and also expels Wind-Dampness. Paired with Eucommia leaf, the combination tonifies the root deficiency while simultaneously addressing any pathogenic Wind-Dampness lodged in the channels, providing more comprehensive relief for joint and back pain.
+- **When to Use**: Lower back and knee pain in elderly patients where Kidney deficiency coexists with Wind-Dampness obstruction, or for hypertension with concurrent joint stiffness.
+
+### Niu Xi (Ratio: 1:1 (e.g. 15g each))
+- **Description**: Niu Xi (Achyranthes root) directs the action of herbs downward to the lower body and also tonifies the Liver and Kidneys. When combined with Eucommia leaf, Niu Xi guides the tonifying effect specifically to the lower back and knees, while adding its own Blood-invigorating properties to address any stagnation in the lower limbs.
+- **When to Use**: Lower back pain and weak knees with heaviness in the legs, or when the therapeutic effect needs to be focused on the lower body.
+
+### Bu Gu Zhi (Ratio: 1:1 (e.g. 10-15g each))
+- **Description**: Bu Gu Zhi (Psoralea fruit) is a strongly warming Kidney Yang tonic. Together with Eucommia leaf, the pair powerfully warms the Kidney Yang and strengthens the lower back, providing a more robust warming effect than either herb alone.
+- **When to Use**: Kidney Yang deficiency with pronounced cold signs: cold lower back, frequent urination, impotence, or cold limbs.
+
+---
+
+## Key Formulas
+Li Zhong Wan
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Du Zhong Ye is classified as non-toxic in the Ben Cao Gang Mu and is recognized as a food-and-medicine dual-use substance in China. Animal toxicity studies show that oral administration of the water decoction at 40g/kg daily for 3 days in mice produced no abnormal effects, and 12g/kg daily for 21 days in rats showed no tissue damage. The intraperitoneal injection LD50 in mice is approximately 8.64 g/kg, but this route of administration is not clinically relevant to oral use. At standard decoction dosages (15 to 30g), there are no known toxic concerns. Prolonged continuous use beyond 3 weeks at high doses is sometimes cautioned against in popular sources, but this is not based on strong pharmacological evidence.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe and potentially beneficial during pregnancy at standard doses. Traditionally, Du Zhong (bark) is a well-known herb for calming a restless fetus (an tai) and preventing miscarriage due to Kidney deficiency. While Du Zhong Ye (the leaf) is not as commonly used in classical pregnancy formulas as the bark, pharmacological studies show that water decoctions and alcohol extracts of Eucommia leaves have an inhibitory (relaxing) effect on the isolated uterus of rats and rabbits, which could theoretically support its traditional use in stabilizing pregnancy. However, formal clinical safety data specific to the leaf during pregnancy are lacking. Pregnant women should consult a qualified practitioner before use.
+- **Breastfeeding**: No specific safety data are available regarding the transfer of Du Zhong Ye constituents through breast milk. The herb has been consumed as a food-grade tea in China and Japan for decades without reports of adverse effects on breastfeeding women or infants. However, given the lack of formal pharmacokinetic studies during lactation, nursing mothers should use standard caution and consult a practitioner before use.
+- **Children**: No specific classical or modern paediatric dosage guidelines exist for Du Zhong Ye. As with most Chinese herbs, dosage for children should be reduced proportionally based on age and body weight, generally to one-third to one-half of the adult dose for children over 6 years. Its warm, tonifying nature means it is best suited for children with clear signs of Kidney or Liver deficiency (such as delayed skeletal development or weakness in the lower limbs) rather than for general use. Not typically used in very young children (under 3 years) without specific clinical indication and practitioner guidance.
+
+### Drug Interactions
+Antihypertensive medications: Du Zhong Ye contains compounds (notably pinoresinol diglucoside and chlorogenic acid) with demonstrated blood pressure-lowering effects. Concurrent use with antihypertensive drugs (ACE inhibitors, beta-blockers, calcium channel blockers, diuretics) may result in additive hypotensive effects. Blood pressure should be monitored if combining these.
+Anticoagulant/antiplatelet drugs: Some phenolic compounds in Eucommia leaves may have mild blood-thinning properties. While clinically significant interactions have not been well documented, caution is advisable when combining with warfarin, heparin, or antiplatelet agents.
+Hypoglycaemic medications: Animal studies suggest Du Zhong Ye may influence glucose metabolism and liver glycogen levels. Diabetic patients on insulin or oral hypoglycaemics should monitor blood sugar if using Du Zhong Ye concurrently.
+
+### Dietary Advice
+When taking Du Zhong Ye to tonify the Liver and Kidneys, it is best to avoid excessive cold, raw foods (such as ice water, raw salads, cold dairy) which can impair Spleen and Kidney Yang and counteract the herb's warming, tonifying actions. Foods that support Kidney function, such as black sesame seeds, walnuts, bone broth, and dark-coloured beans, complement its therapeutic direction. For those using it to support blood pressure, a reduced-sodium diet is advisable to maximise effectiveness.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Eucommia ulmoides Oliver is a deciduous tree that can grow up to 20 meters tall, belonging to the family Eucommiaceae. It is the sole surviving species in its family, making it a rare living fossil unique to China and classified as a national second-class protected plant. The young branches are smooth and yellowish-brown with pith. The bark, branches, and leaves all contain a characteristic rubber-like substance (guttapercha).
+The leaves are simple, alternate, elliptical or ovate, 7 to 15 cm long and 3.5 to 6.5 cm wide, with a pointed tip, a broadly wedge-shaped base, and serrated margins. Young leaves have soft hairs on both surfaces, while mature leaves are smooth above with sparse hairs along the veins beneath. The leaf stalk is 1 to 2 cm long. The most distinctive feature of the leaves is that when torn or broken, fine silvery-white elastic rubber threads can be seen connecting the fragments, much like the tree's bark.
+The tree is dioecious (male and female flowers on separate plants). Flowers are small, without petals, appearing at the same time as the leaves or slightly before, blooming in April to May. The fruit is a flat, winged samara, oval-oblong in shape, ripening around September. The tree grows naturally in mountain forests and is widely cultivated across central and southern China.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer to autumn, when branches and leaves are most lush and abundant, then sun-dried or dried at low temperature.
+- **Primary Growing Regions**: Du Zhong Ye is produced across central and southern China. The primary growing regions include Sichuan, Guizhou, Hubei, Yunnan, Shaanxi (notably Lueyang County, which holds the designation "Hometown of Du Zhong" and whose Du Zhong has been recognized as a geographical indication product), Henan, Hunan (especially the Zhangjiajie/Cili area, home to the largest wild Eucommia forests in the world), Gansu, and Zhejiang. Historically, the finest bark was considered to come from Sichuan and Guizhou. The Qinling Mountains region of Shaanxi is noted for particularly high concentrations of active compounds (pinoresinol diglucoside and chlorogenic acid) in both bark and leaves.
+- **Quality Indicators**: Good quality Du Zhong Ye consists of intact or minimally broken leaves that are yellow-green in colour with a slight sheen. When flattened, complete leaves should be elliptical or ovate, 7 to 15 cm long and 3.5 to 7 cm wide. The texture should be brittle and the leaves should crumble easily when rubbed. The key identifying feature is that when a leaf is broken, fine silvery-white elastic rubber threads (guttapercha) should be visible connecting the broken edges. The taste should be slightly bitter and the smell faint. Avoid leaves that are excessively dark, damp, mouldy, or lack visible rubber threads when broken, as these indicate poor quality or improper storage.
+
+### Identity & Adulterants
+Du Zhong Ye (Eucommia leaf) must be distinguished from Du Zhong Pi (Eucommia bark), which is the more traditionally used part of the same tree and has somewhat different clinical applications (bark is more commonly used for calming the fetus). The leaf is sometimes used as a substitute for the bark in clinical practice due to its lower cost and sustainability advantages, though they share similar active compounds. Leaves of other tree species could potentially be confused with Du Zhong Ye in the dried, crumbled state. The key authentication test is the presence of fine, elastic, silvery-white rubber threads visible when the leaf is broken. No genuine Du Zhong Ye substitute will have this characteristic guttapercha. Additionally, Du Zhong Ye should not be confused with Du Zhong Teng (杜仲藤, Parabarium micranthum), which is an entirely different plant used in folk medicine.
+
+---
+
+## References
+### Classical Texts
+#### 《本草纲目》 <em>Ben Cao Gang Mu</em> (Li Shizhen, Ming Dynasty)
+- **Original**: 
+- **Translation**: 
+
+### Historical Context
+Du Zhong has one of the longest histories of any Chinese medicinal material, with records stretching back over 2,000 years. The bark (Du Zhong Pi) was first documented in the Shen Nong Ben Cao Jing, where it was listed as a superior-grade herb. The name "Du Zhong" (杜仲) is traditionally attributed to a legendary figure named Du Zhong who discovered the tree's medicinal properties and is said to have achieved immortality through its use. Older names include "Si Xian" (思仙, "longing for immortality") and "Si Zhong" (思仲, "remembering Zhong"), reflecting these legends. Li Shizhen noted that the herb was also called "Mian" (檰) in the Jiangnan region because of its cotton-like rubber threads.
+Historically, only the bark was used medicinally, requiring 15 to 20 years of tree growth before harvest. The pivotal shift came in the Song and Jin-Yuan periods, when practitioners first recognized that the leaves, flowers, and fruit had therapeutic effects similar to the bark. Modern pharmacological research confirmed that the active compounds in the leaves (particularly chlorogenic acid and pinoresinol diglucoside) are comparable to or even exceed those in the bark. As a result, Du Zhong Ye was officially included in the Chinese Pharmacopoeia in 2005, and in 2023, it was added to the national "food and medicine dual-use" list. The famous Ming Dynasty physician Li Shizhen expanded classical understanding by highlighting that Du Zhong is not merely a Kidney tonic, crediting the Jin Dynasty physician Wang Haogu with identifying it as a Liver channel herb that "moistens Liver dryness and supplements Liver deficiency." In Japan, Du Zhong tea made from the leaves became extremely popular beginning in the 1980s as a health beverage for blood pressure support.
+
+### Modern Scientific Research
+1. **[Health-Promoting Properties of Eucommia ulmoides: A Review (2016)](https://pubmed.ncbi.nlm.nih.gov/27034700/)**
+   *Journal: He X, Wang J, Li M, Hao D, Yang Y, Zhang C, He R, Tao R. Evidence-Based Complementary and Alternative Medicine, 2016, Article ID 5765873.*
+   A comprehensive review of the active compounds in Eucommia ulmoides (bark, leaf, and seed) and their health-promoting properties. The review found that the plant's lignans, iridoids, phenolics, and flavonoids exhibit antioxidant, anti-inflammatory, antimicrobial, anticancer, cardioprotective, and neuroprotective activities. The leaf showed particularly strong antioxidant radical scavenging activity (81.4%), exceeding that of the roasted bark extract.
+
+2. **[Eucommia ulmoides Leaf Extract Protects Against Atherosclerosis in ApoE Knockout Mice (Animal study, 2020)]()**
+   *Journal: Hashikawa-Hobara N, Hashikawa N, Sugiman N, Hosoo S, Hirata T, Yamaguchi Y, Yamasaki H, Kawasaki H, Nishibe S. Journal of Food Science, 2020, 85(11): 4018-4024.*
+   This study investigated the effect of Eucommia leaf extract (ELE) on atherosclerosis development in apolipoprotein E knockout mice. ELE reduced atherosclerotic lesions and suppressed inflammatory cytokine expression, with improvements in peritoneal macrophage function. The findings support the traditional cardiovascular applications of Du Zhong leaves.
+
+3. **[Eucommia ulmoides Leaf (EUL) Extract Enhances NO Production in Ox-LDL-Treated Human Endothelial Cells (In vitro study, 2018)]()**
+   *Journal: Lee GH, Lee HY, Choi MK, Choi AH, Shin TS, Chae HJ. Biomedicine & Pharmacotherapy, 2018, 97: 1164-1172.*
+   This study showed that Eucommia leaf aqueous extract and its component aucubin significantly restored nitric oxide (NO) levels in human endothelial cells exposed to oxidized LDL. The findings help explain the vascular protective and blood pressure-lowering mechanisms of Du Zhong leaves at the cellular level.
+
+4. **[Exploratory Single-Arm Clinical Trial on Eucommia Leaf Extract Effects on Blood Pressure and Oxidative Stress (Clinical trial, 2025)]()**
+   *Journal: Satonaka A et al. International Journal of Nephrology, 2025, 5598055, 10 pages.*
+   A small exploratory clinical trial in 17 participants (including 9 with mild chronic kidney disease) administered a tablet containing Eucommia leaf extract for approximately 33 days. The study investigated effects on blood pressure and related clinical markers, building on the traditional use of Du Zhong tea for hypertension management.
+
+5. **[Eucommia ulmoides Leaf Extract Ameliorates Steatosis Induced by High-fat Diet in Rats (Animal study, 2019)](https://pubmed.ncbi.nlm.nih.gov/30781653/)**
+   *Journal: Lee GH, Lee HY, Park SA, Shin TS, Chae HJ. Nutrients, 2019, 11(2): 426.*
+   Rats on a high-fat diet were given Eucommia leaf extract at 100 or 200 mg/kg for 6 to 8 weeks. The extract prevented liver fat accumulation (hepatic steatosis) by reducing ER stress and oxidative stress and improving lysosomal function. This supports potential applications in fatty liver disease prevention.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/du-zhong-ye](https://www.meandqi.com/knowledge-base/herbs/du-zhong-ye)*

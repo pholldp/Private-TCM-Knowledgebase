@@ -1,0 +1,216 @@
+# ปมประสาทซีสต์ (筋瘤)
+**คำอ่านพินอิน**: jīn liú | **ประเภท**: Condition | **หมวดหมู่**: ก้อน บวม และฝี, ปัญหามือ ข้อมือ และเล็บ  
+**ชื่อเรียกอื่นๆ**: Ganglion cysts | **บริเวณร่างกาย**: Wrist
+
+---
+
+## บทสรุปย่อ (Preview Summary)
+ปมประสาทซีสต์ไม่ได้เป็นเพียงก้อนเนื้อที่ต้องระบายออกไปเท่านั้น แต่ยังรวมถึงเนื้อสัมผัสของมัน อะไรที่ทำให้ดีขึ้นหรือแย่ลง และพลังงานโดยรวมและการย่อยอาหารของคุณเผยให้เห็นว่ารูปแบบ TCM ใดอยู่เบื้องหลัง รักษาสิ่งนั้น...
+
+---
+
+## มุมมองทางการแพทย์แผนปัจจุบัน (Conventional Medicine View)
+### คำอธิบาย (Description)
+A ganglion cyst is a benign, fluid-filled sac that forms on or near joints and tendons, most commonly on the back of the wrist. It arises when synovial fluid leaks from a joint or tendon sheath and collects in a sac. Ganglion cysts can range from pea-sized to larger, sometimes causing discomfort, aching, or limited motion if they press on a nerve. Diagnosis is usually straightforward through physical examination, sometimes confirmed with ultrasound or MRI if the cyst is deep or atypical. Many cysts are harmless and may even disappear on their own.
+
+### การรักษาหลัก (Treatments)
+Conventional management often begins with watchful waiting, especially if the cyst is painless. If treatment is needed, options include aspiration (draining the fluid with a needle) or surgical excision to remove the cyst and its stalk. Immobilization with a splint may help reduce discomfort. Aspiration has a high recurrence rate because the cyst wall often remains, while surgery is more definitive but carries risks like scarring, infection, or nerve damage.
+
+---
+
+## มุมมองทางการแพทย์แผนจีน (Traditional Chinese Medicine View)
+### ความเข้าใจเกี่ยวกับการแพทย์แผนจีน (TCM Understanding)
+In TCM, a ganglion cyst is seen as a physical manifestation of stagnation - either of Phlegm-Dampness, Blood, or both. The body's fluids are meant to circulate and nourish tissues, but when they become sluggish and congeal, they can form a palpable lump. The wrist is a common site because it's a busy crossroads of sinews and channels, easily injured by repetitive strain, which disrupts the smooth flow of Qi and Blood. TCM doesn't view the cyst as an isolated event but as a local expression of a systemic pattern.
+The Spleen plays a central role: it transforms and transports fluids. When the Spleen is weakened - often by poor diet, overwork, or fatigue - it fails to manage dampness, which thickens into Phlegm. Phlegm can then settle in the channels and joints, creating a soft, doughy cyst. This is the Phlegm in the Channels pattern. Alternatively, repeated strain or trauma leads to local Blood Stagnation, producing a firmer, more painful cyst with a purplish hue - the Blood Stagnation pattern.
+Sometimes the root is a deficiency: if Qi is too weak to move blood effectively, the blood pools and stagnates, forming a cyst that worsens with fatigue. This Qi Deficiency causing Blood Stagnation pattern is common in people who feel drained and whose cyst drags or feels heavy. A less common but distinct pattern is Damp-Cold, where external Cold and Dampness invade the joint, causing the cyst to feel better with warmth and worse with cold. The tongue and pulse help differentiate these patterns, guiding a tailored treatment.
+
+### การวินิจฉัยโดยแพทย์แผนจีน (Practitioner Diagnosis)
+A practitioner starts by examining the lump’s texture and asking about its onset. If the cyst feels soft, movable, and somewhat doughy, and you feel heaviness in the limb, Phlegm in the Channels is the primary pattern. The tongue may be swollen with a greasy coating, and the pulse often feels slippery, pointing to dampness and phlegm obstructing the flow of Qi and blood.
+When the lump is firm, fixed, and perhaps dark or painful to the touch, Blood Stagnation is more prominent. This often follows an injury or repetitive strain. The tongue may show purplish discoloration or stasis spots, and the pulse feels choppy or wiry, reflecting blood that has congealed locally.
+If the cyst enlarges after standing or fatigue, and you experience a dragging sensation, shortness of breath, or abdominal distension, Qi Deficiency is the root cause. The tongue is pale with a thin white coat, and the pulse is weak and forceless. This pattern suggests the body lacks the vital Qi to move blood properly, leading to stagnation.
+A cyst that feels better with warmth, along with cold limbs, a general aversion to cold, and clear urine, indicates Damp-Cold congealing the sinews. The tongue is pale with a white greasy coating, and the pulse is deep and slow. This pattern often arises from exposure to cold-damp environments or a constitution that tends toward cold.
+
+---
+
+## กลุ่มอาการการแพทย์แผนจีนและการรักษา (TCM Patterns and Treatment)
+
+### Phlegm in the Channels joints and muscles
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/phlegm-in-the-channels-joints-and-muscles)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Firm, fixed lump near a joint (often wrist), Dull ache or stiffness that worsens with activity, Heavy or numb sensation in the limb, Purplish or dark discolouration around the lump, Stabbing pain at the lump site
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp weather, Greasy, heavy, or sweet foods, Prolonged inactivity, Repetitive overuse or strain of the joint, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Gentle movement or stretching, Warm compress on the cyst, Eating light, non-greasy foods, Dry, warm weather
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When the body fails to transform and transport fluids properly, those fluids thicken into a sticky, turbid substance called phlegm-damp. Rather than circulating smoothly, this phlegm-damp can settle and congeal in the channels and joints, much like sediment collecting in a slow-moving stream. Over time, it hardens into a palpable lump - the ganglion cyst - that obstructs the flow of Qi and blood in the area. Repetitive strain or local injury can trigger this stagnation, causing the cyst to grow or become tender.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: purple body with stasis spots, white greasy coating, distended sublingual veins. Pulse: wiry and choppy (Xian Se) or wiry and slippery (Xian Hua).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Phlegm-damp is a heavy, sticky pathogen that congeals more in cold and damp conditions, so warmth and movement help disperse it. Greasy and sweet foods create more internal dampness, feeding the cyst, while a clean, light diet starves the phlegm. Overuse or prolonged stillness both cause local stagnation - one by exhausting Qi, the other by allowing fluids to pool - so balanced, gentle activity keeps the channels open without strain.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Minimize damp-producing foods like dairy, fried foods, refined sugar, and cold drinks. Instead, emphasize lightly cooked vegetables, whole grains like barley, and small amounts of warming spices such as ginger and turmeric. Gentle, regular movement of the affected joint helps prevent further stagnation, but avoid repetitive strain that aggravates the cyst.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xiong Gui Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/xiong-gui-er-chen-tang)** | Chuanxiong and Angelica Two-Aged Decoction &#xB7; M&#xED;ng dynasty, c. 1549&#x2013;1575 CE | Warm, Dries Dampness and Transforms Phlegm, Nourishes and invigorates Blood, Regulates Qi and Harmonizes the Middle Burner | Transforms phlegm-damp, invigorates blood, and unblocks the channels - directly addressing the phlegm-stasis knot that forms the cyst. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome |  | Dries dampness and transforms phlegm, the core herb for dissolving the phlegm accumulation. |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel |  | Regulates Qi and dries dampness, helping to break up the stagnant phlegm. |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria |  | Leeches out dampness and strengthens the Spleen to prevent new phlegm from forming. |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Moves blood and Qi powerfully to break up the local stagnation around the cyst. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes and moves blood, preventing the drying herbs from damaging the blood while still resolving stasis. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-40** | [Fenglong ST-40](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40) | F&#x113;ng L&#xF3;ng | Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices | The master point for phlegm; transforms phlegm and dampness throughout the body. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Resolves dampness and moves blood; a key point for phlegm-damp conditions. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood and breaks stasis, helping to soften the hardened lump. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Moves Qi in the upper body and is particularly effective for wrist-area cysts. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Moves stagnant Liver Qi and blood, supporting smooth flow through the channels. |
+
+---
+
+### Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Firm, fixed lump near a joint (often wrist), Stabbing pain at the lump site, Pain worsens at night, Dark lips or nails, Dark circles under the eyes
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold weather, Repetitive overuse or strain of the joint, Pressure on the lump, Emotional stress
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on the cyst, Gentle movement or stretching, Resting the affected joint, Warm foods and drinks
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Repeated strain or injury to the wrist leads to local blood stasis in the sinews, forming a firm, fixed lump. Stagnant blood fails to nourish the area, causing stabbing pain that worsens with pressure and at night.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (Se) or wiry (Xian).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: <p>Cold congeals blood and worsens stagnation, while warmth encourages flow and eases pain. Repetitive strain and pressure cause local blood stasis, so rest and gentle movement help disperse it. Emotional stress constrains Liver Qi, which can lead to blood stasis; calming the mind helps smooth the flow of Qi and blood.</p>
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Avoid cold, raw foods and iced drinks, which can congeal blood and worsen stasis. Include warming spices like turmeric, ginger, and black pepper to promote circulation. Gentle wrist exercises and warm compresses help keep blood moving; avoid repetitive strain that may aggravate the lump.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | Invigorates blood, removes stasis, and promotes Qi circulation to dissolve the lump. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome |  | Moves blood and Qi to relieve stasis and pain. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes and invigorates blood, helping to soften the mass. |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel |  | Breaks up stagnant blood and reduces hard lumps. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Moves Qi and blood throughout the body to relieve stasis. |
+| **LR-3** | [Taichong LR-3](https://www.meandqi.com/knowledge-base/acupuncture/liver-meridian/taichong-lr-3) | T&#xE0;i ch&#x14D;ng | Subdues Liver Yang, Clears Interior Wind | Spreads Liver Qi and invigorates blood, easing local pain. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood and breaks stasis, especially for lumps. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes blood and soothes the sinews. |
+
+---
+
+### Qi Deficiency causing Blood Stagnation
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/qi-deficiency-causing-blood-stagnation)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Fatigue and lack of strength, Shortness of breath with reluctance to speak, Cyst feels heavy or dragging, worse with fatigue, Pale-dark or dusky complexion, Cyst improves with rest
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Repetitive overuse or strain of the joint, Prolonged standing or overwork, Fatigue and exhaustion, Cold foods and drinks, Cold, damp weather
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Resting the affected joint, Gentle warmth, Warm foods and drinks, Gentle movement or stretching
+- **กลไกการเกิดอาการ (Why this happens)**:
+  Qi is the body's vital force that keeps blood moving. When Qi is deficient-often from chronic fatigue, overuse, or poor digestion-it lacks the strength to circulate blood properly. Blood then pools and stagnates in the local sinews and joints, forming a firm, heavy cyst that drags and worsens with exertion.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: pale-purple body with possible stasis spots, teeth marks, and a thin white coat. Pulse: deep (Chen), fine (Xi), and choppy (Se).
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Qi deficiency fails to move blood, so overuse and fatigue further deplete Qi, worsening stagnation and making the cyst feel heavier and more painful. Rest and gentle movement conserve Qi and encourage blood circulation. Warmth and nourishing foods support the Spleen and Stomach to generate Qi, while cold and dampness weaken digestion and congeal blood, aggravating the stasis.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Eat warm, cooked foods that tonify Qi, such as rice, oats, sweet potato, and small amounts of lean meat. Incorporate blood-moving spices like turmeric and ginger. Avoid raw, cold, and greasy foods that weaken digestion. Gentle movement like walking or tai chi helps Qi flow, but avoid overusing the affected joint. Rest with the limb elevated when the cyst feels heavy or painful.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | The primary formula to tonify Qi and lift the sinking, typically modified with blood-invigorating herbs like Dan Shen and Tao Ren to address the stasis. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root |  | Strongly tonifies Qi to propel blood circulation and reduce dragging sensations. |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root |  | Nourishes and moves blood, helping to soften the cyst while supporting Qi. |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root |  | Invigorates blood and breaks up local stasis without damaging Qi. |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel |  | Breaks up congealed blood and reduces the firmness of the cyst. |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Tonifies Qi and blood, strengthening the body&#x27;s ability to move stagnation. |
+| **SP-10** | [Xuehai SP-10](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10) | Xu&#xE8; H&#x1CE;i | Cools the Blood, Invigorates Blood and removes Stagnation | Invigorates blood and resolves stasis, directly targeting the cyst. |
+| **SP-6** | [Sanyinjiao SP-6](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6) | S&#x101;n Y&#x12B;n Ji&#x101;o | Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination | Harmonizes blood and strengthens the Spleen to generate more Qi. |
+| **REN-6** | [Qihai REN-6](https://www.meandqi.com/knowledge-base/acupuncture/directing-vessel/qihai-ren-6) | Q&#xEC; H&#x1CE;i | Tonifies Original Qi, Lifting sinking Qi | Tonifies Qi and lifts the sinking, reducing the heavy dragging sensation. |
+
+---
+
+### Damp-Cold
+*ลิงก์รายละเอียดกลุ่มอาการ: [หน้าหลักข้อมูลกลุ่มอาการ (ภาษาอังกฤษ)](https://www.meandqi.com/knowledge-base/patterns/damp-cold)*
+
+- **สัญญาณและอาการทางคลินิก (Clinical Signs)**: Cyst feels better with warmth, Cold hands and feet, Heavy or numb sensation in the limb, Aversion to cold, Pale, swollen tongue with thick white greasy coating
+- **สิ่งกระตุ้นให้อาการแย่ลง (Worse with)**: Cold, damp weather, Cold foods and drinks, Prolonged standing or overwork, Exposure to drafts
+- **สิ่งช่วยให้อาการดีขึ้น (Better with)**: Warm compress on the cyst, Warm foods and drinks, Resting the affected joint, Dry, warm weather
+- **กลไกการเกิดอาการ (Why this happens)**:
+  When Cold and Dampness invade the body, they can settle in the sinews and joints, especially in the wrist. Cold has a contracting, slowing effect on circulation, while Dampness is heavy and sticky, causing fluids to congeal into a palpable cyst. This combination makes the lump feel better with warmth and worse in cold, damp weather, often accompanied by cold limbs and a heavy sensation throughout the body.
+- **ลักษณะลิ้นและชีพจร (Tongue & Pulse)**: Tongue: Pale, swollen, teeth-marked body with thick white greasy coating, excessively moist. Pulse: Deep, slow, and slippery or soggy.
+- **อธิบายสิ่งกระตุ้นและการทุเลาอาการ (Triggers & Relief Explanation)**: Cold and Dampness are the root causes of this pattern. Cold contracts and stagnates, while Dampness is heavy and sticky, so anything that warms and dries helps to disperse the congealed fluids. Conversely, exposure to cold or dampness, and cold foods, exacerbate the stagnation and fluid accumulation, making the cyst feel worse.
+- **คำแนะนำด้านอาหารและการดำเนินชีวิต (Diet & Lifestyle)**: Keep the wrist warm, especially in cold weather, and avoid exposure to dampness. Eat warm, cooked foods like soups and stews, and steer clear of raw, cold, or greasy foods that burden the Spleen and generate Dampness. Gentle movement like stretching can help keep Qi flowing, but avoid overstraining the affected joint.
+
+#### ตำรับยาที่แนะนำ (Recommended Formulas)
+| ชื่อตำรับยา | คำแปลชื่อ | สรรพคุณและลักษณะทางเภสัชวิทยา | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Dang Gui Si Ni Tang](https://www.meandqi.com/knowledge-base/formulas/dang-gui-si-ni-tang)** | Tangkuei Decoction for Frigid Extremities &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms the Channels and Disperses Cold, Nourishes Blood and Unblocks the Vessels, Promotes blood circulation through the meridians | Warms the channels, dispels Cold, and moves blood to resolve the congealed Damp-Cold cyst. |
+| **[Xiong Gui Er Chen Tang](https://www.meandqi.com/knowledge-base/formulas/xiong-gui-er-chen-tang)** | Chuanxiong and Angelica Two-Aged Decoction &#xB7; M&#xED;ng dynasty, c. 1549&#x2013;1575 CE | Warm, Dries Dampness and Transforms Phlegm, Nourishes and invigorates Blood, Regulates Qi and Harmonizes the Middle Burner | A classical gynecological formula that combines phlegm-dissolving and dampness-drying herbs with blood-nourishing and Qi-moving herbs. It is designed for women whose menstrual irregularities or difficulty conceiving stem from phlegm and dampness blocking the reproductive system, often seen in those with a heavier body constitution. |
+| **[Xue Fu Zhu Yu Tang](https://www.meandqi.com/knowledge-base/formulas/xue-fu-zhu-yu-tang)** | Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE | Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation | A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body. |
+| **[Bu Zhong Yi Qi Tang](https://www.meandqi.com/knowledge-base/formulas/bu-zhong-yi-qi-tang)** | Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE | Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi | A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine. |
+| **[Dang Gui Si Ni Tang](https://www.meandqi.com/knowledge-base/formulas/dang-gui-si-ni-tang)** | Tangkuei Decoction for Frigid Extremities &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE | Warm, Warms the Channels and Disperses Cold, Nourishes Blood and Unblocks the Vessels, Promotes blood circulation through the meridians | A classical warming formula used to improve circulation to the hands and feet and relieve cold-related pain. It works by nourishing the Blood and warming the channels when poor Blood supply and Cold cause the extremities to feel icy, numb, or painful. Commonly used for conditions such as Raynaud&#x27;s disease, chilblains, menstrual cramps, and joint pain that worsen in cold weather. |
+
+#### สมุนไพรที่แนะนำ (Recommended Herbs)
+| ชื่อสมุนไพร | คำแปลชื่อ | ลักษณะรสและอุณหภูมิ | คำอธิบาย |
+| :--- | :--- | :--- | :--- |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig |  | Warms the channels and promotes circulation to dispel Cold from the sinews. |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome |  | Dries Dampness and strengthens the Spleen to prevent further fluid accumulation. |
+| **[Ban Xia](https://www.meandqi.com/knowledge-base/herbs/ban-xia)** | Pinellia rhizome | Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention |  |
+| **[Chen Pi](https://www.meandqi.com/knowledge-base/herbs/chen-pi)** | Tangerine peel | Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner |  |
+| **[Fu Ling](https://www.meandqi.com/knowledge-base/herbs/fu-ling)** | Poria | Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm |  |
+| **[Chuan Xiong](https://www.meandqi.com/knowledge-base/herbs/chuan-xiong)** | Sichuan lovage rhizome | Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain |  |
+| **[Dang Gui](https://www.meandqi.com/knowledge-base/herbs/dang-gui)** | Chinese Angelica root | Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation |  |
+| **[Tao Ren](https://www.meandqi.com/knowledge-base/herbs/tao-ren)** | Peach kernel | Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing |  |
+| **[Huang Qi](https://www.meandqi.com/knowledge-base/herbs/huang-qi)** | Astragalus root | Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema |  |
+| **[Dan Shen](https://www.meandqi.com/knowledge-base/herbs/dan-shen)** | Red sage root | Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability |  |
+| **[Gui Zhi](https://www.meandqi.com/knowledge-base/herbs/gui-zhi)** | Cinnamon twig | Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi |  |
+| **[Cang Zhu](https://www.meandqi.com/knowledge-base/herbs/cang-zhu)** | Atractylodes rhizome | Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold |  |
+
+#### จุดฝังเข็มที่แนะนำ (Recommended Acupuncture Points)
+| รหัสจุด | ชื่อจุดฝังเข็ม | คำแปลชื่อ | สรรพคุณ | คำอธิบาย |
+| :--- | :--- | :--- | :--- | :--- |
+| **ST-36** | [Zusanli ST-36](https://www.meandqi.com/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36) | Z&#xFA; S&#x101;n L&#x1D0; | Tonifies Qi and Blood, Tonifies the Stomach and Spleen | Strengthens Spleen Qi to transform Dampness; use moxibustion to warm Cold. |
+| **SP-9** | [Yinlingquan SP-9](https://www.meandqi.com/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9) | Y&#x12B;n L&#xED;ng Qu&#xE1;n | Regulates the Spleen, Resolves Dampness | Resolves Dampness and promotes fluid metabolism, reducing swelling. |
+| **SJ-5** | [Waiguan SJ-5](https://www.meandqi.com/knowledge-base/acupuncture/triple-burner-meridian/waiguan-sj-5) | W&#xE0;i Gu&#x101;n | Expels Wind-Heat, Removes Obstructions from the Channel | Local point for wrist cysts, moves Qi in the channel and dispels Cold-Damp. |
+
+---
+
+## คำถามที่พบบ่อย (Frequently Asked Questions)
+### Can acupuncture really make a ganglion cyst disappear?
+Yes, for many people. Acupuncture stimulates local circulation and helps break down the stagnation - whether it's Phlegm, Blood, or Cold - that formed the cyst. Combined with herbal medicine, it can gradually soften and shrink the lump. Success depends on the pattern and how long the cyst has been present; recent cysts from strain often respond faster than chronic ones tied to deeper deficiency.
+
+### Will the cyst come back after TCM treatment?
+TCM aims to correct the underlying imbalance that caused the cyst, not just remove it. When treatment addresses the root - such as strengthening the Spleen to prevent Phlegm or moving Blood to prevent stasis - recurrence is less likely. However, if you return to the same repetitive strain or dietary habits that created it, a new cyst could form. Your practitioner will guide you on lifestyle adjustments to maintain results.
+
+### Is it safe to try TCM if I've already had my cyst drained or surgically removed?
+Absolutely. TCM can be an excellent complement to conventional procedures. After aspiration or surgery, acupuncture and herbs can support healing, reduce scarring, and help prevent the cyst from returning by addressing the root imbalance. Just inform your TCM practitioner about any recent procedures so they can adjust the treatment accordingly.
+
+### Do I need to change my diet to treat a ganglion cyst?
+Diet plays a supportive role. To reduce Phlegm and Dampness - common factors in cysts - it helps to cut back on greasy, sweet, and dairy-heavy foods. Warm, cooked meals are easier on the Spleen. If your pattern involves Cold, avoid raw and cold foods. Your practitioner will give you specific advice based on your pattern, but these general shifts often make a noticeable difference in how you feel.
+
+### Does acupuncture for a ganglion cyst hurt? Do you put needles directly into the cyst?
+Most people find acupuncture very tolerable. The needles are hair-thin and cause little to no pain. While practitioners may place needles around the cyst to improve local circulation, they rarely insert them directly into the cyst itself - instead, they target points along the affected channels and on the body to address the root pattern. The sensation is usually a mild ache or tingling, not sharp pain.
+
+### How do I know which TCM pattern I have?
+A qualified TCM practitioner will assess your tongue, pulse, and overall symptoms - including the cyst's texture, what makes it better or worse, and any digestive or energy issues - to identify the dominant pattern. The self-assessment guide on this page can give you clues, but a professional diagnosis is essential because patterns often overlap and treatment must be tailored precisely.
+
+### Can TCM treat ganglion cysts in other places, like the foot or finger?
+Yes. While the wrist is most common, ganglion cysts can appear on the foot, ankle, or finger. TCM treats the pattern, not the location, so the same principles apply. Your practitioner will select acupuncture points and herbs according to the underlying imbalance, with local points adjusted to the cyst's location.
+
+### What if the cyst is painful or growing? Should I still try TCM first?
+If the cyst is painful but not showing signs of infection or nerve compression, TCM can be very helpful to relieve pain and reduce size. However, if it's growing rapidly, causing numbness, or you have severe pain, see a doctor to rule out complications. You can still use TCM alongside conventional care, but always prioritize safety - see our urgent care section for red flags.
+
+---
+
+*ลิงก์ข้อมูลต้นฉบับภาษาอังกฤษ: [Me & Qi Original Page](https://www.meandqi.com/knowledge-base/conditions/ganglion-cyst)*

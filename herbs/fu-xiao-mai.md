@@ -1,0 +1,159 @@
+# Fu Xiao Mai (浮小麦)
+**English Name**: Blighted wheat  
+**Category**: Stabilizing and binding herbs (收涩药), Herbs that stabilize the Exterior and stop sweating (固表止汗药)  
+**Scientific Name**: Triticum aestivum L.  
+**Pharmaceutical Name**: Fructus Tritici Levis  
+**Toxicity**: Non-toxic  
+**Temperature**: Cool | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Heart  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Fu Xiao Mai is the light, shriveled grain of wheat that floats in water, used in Chinese medicine primarily to stop excessive sweating caused by underlying weakness. It gently nourishes the Heart and clears low-grade Heat from deficiency, making it especially helpful for night sweats, spontaneous sweating, and the kind of lingering warmth that comes with prolonged fatigue or recovery from illness.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Excessive Sweating, Menopausal support, Sleep Support, Post-Illness Recovery
+- **TCM Actions**: Consolidates the Exterior and Stops Sweating, Tonifies Qi, Clears Deficiency Heat
+
+### How these actions work
+'Consolidates the exterior and stops sweating' means Fu Xiao Mai helps tighten the body's surface layer so that fluids (sweat) are not leaking out uncontrollably. In TCM, sweating that happens without physical exertion (spontaneous sweating) or during sleep (night sweats) signals that the body's defensive barrier is weak. Fu Xiao Mai enters the Heart channel, and since sweat is considered 'the fluid of the Heart,' it works by nourishing the Heart and anchoring its fluids. This is why it is used for both types of abnormal sweating, whether from Qi deficiency or Yin deficiency.
+'Tonifies Qi' refers to Fu Xiao Mai's gentle ability to support the body's vital Qi, particularly Heart Qi and the defensive Qi (Wei Qi) at the body surface. It is a mild tonic rather than a powerful one, which makes it safe for long-term use and suitable even for children or those recovering from illness.
+'Clears deficiency Heat' means it helps relieve the low-grade, lingering warmth that arises when the body's cooling Yin fluids are depleted. This is not the high fever of an acute infection, but rather the afternoon flushing, night sweats, and sensation of heat in the palms and soles that accompanies chronic exhaustion or what classical texts call 'bone-steaming Heat' (骨蒸劳热). Its cool nature gently clears this Heat without further damaging the body's resources.
+
+---
+
+## Patterns Addressed
+### Qi Deficiency
+- **Explanation**: When the body's Qi is deficient, particularly Heart Qi and Lung Qi, the defensive barrier at the surface becomes weak and cannot hold fluids in properly. This leads to spontaneous sweating that worsens with exertion. Fu Xiao Mai is sweet and enters the Heart channel, directly nourishing Heart Qi and stabilizing the Heart's fluids. Its gentle Qi-tonifying nature supports the Wei Qi (defensive Qi) at the body surface, helping to close the pores and stop the leaking of sweat. Its cool temperature prevents it from adding unwanted Heat in an already weakened state.
+- **Clinical Signs & Symptoms**:
+  - **Spontaneous Sweat**: Sweating without exertion, worsening with activity
+
+### Yin Deficiency
+- **Explanation**: When Yin fluids are depleted, the body's cooling mechanism fails and deficiency Heat rises, particularly at night. Sweat escapes during sleep (night sweats) because Yin can no longer anchor Yang. Fu Xiao Mai's cool nature directly addresses this deficiency Heat, while its sweet flavour gently nourishes depleted fluids. By entering the Heart channel, it calms the Heart spirit that becomes restless from Yin deficiency, and its astringent quality helps contain the leaking of precious Yin fluids through the skin.
+- **Clinical Signs & Symptoms**:
+
+### Heart Qi and Yin Deficiency
+- **Explanation**: The Heart governs sweat as its fluid. When both Heart Qi and Heart Yin are depleted, the Heart cannot properly govern its fluids or house the spirit. This leads to both sweating and emotional instability. Fu Xiao Mai specifically enters the Heart channel, simultaneously nourishing Heart Qi and Heart Yin. Its sweet, cool nature calms the spirit and anchors Heart fluids, addressing both the sweating and the restlessness, palpitations, and emotional symptoms that accompany Heart deficiency.
+- **Clinical Signs & Symptoms**:
+  - **Spontaneous Sweat**: Sweating alongside emotional disturbance
+
+---
+
+## Commonly Used For
+### Night sweats
+- **Arises from**: Yin Deficiency, Heart Qi and Yin Deficiency
+- **TCM Interpretation**: TCM understands night sweats as a failure of the body's Yin to anchor Yang during sleep. During the night, Yin is dominant and should keep fluids contained. When Yin is deficient, residual Yang (in the form of deficiency Heat) forces fluids outward through the skin. The Heart is central to this process because sweat is considered the Heart's fluid. When Heart Yin is depleted, the Heart cannot hold its fluids, and they escape during the vulnerable state of sleep.
+- **Why it Helps**: Fu Xiao Mai directly enters the Heart channel, where it nourishes Heart Qi and Heart Yin simultaneously. Its cool thermal nature gently clears the deficiency Heat that drives fluids outward at night, while its sweet flavour replenishes the depleted Qi and fluids. Classical texts note that its light, floating physical nature allows it to reach the body surface and 'consolidate the pores,' giving it a dual action of both nourishing the root cause (Heart deficiency) and addressing the branch symptom (leaking sweat).
+
+### Spontaneous Sweat
+- **Arises from**: Yin Deficiency, Heart Qi and Yin Deficiency
+- **TCM Interpretation**: TCM views menopause as a natural decline of Kidney Yin and Essence, which disrupts the balance between Yin and Yang throughout the body. As Kidney Yin wanes, deficiency Heat rises, causing hot flushes, sweating, and restlessness. The Heart, which depends on Kidney Water ascending to cool it, becomes overheated and agitated, leading to mood swings, anxiety, insomnia, and episodes of crying. This is closely related to what classical texts call 'Zang Zao' (脏躁, organ restlessness).
+- **Why it Helps**: Fu Xiao Mai addresses multiple aspects of menopausal discomfort. Its cool nature clears deficiency Heat responsible for hot flushes, while its ability to consolidate the exterior stops the sweating that often accompanies them. By nourishing Heart Qi and calming the spirit, it helps with the emotional instability, irritability, and sleep disturbances common during menopause. It is frequently used in large doses (up to 60g) for menopausal sweating, often combined with other Heart-nourishing and Yin-replenishing herbs.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 15–30g
+- **Maximum Dosage**: Up to 60g in severe or persistent sweating conditions, under practitioner guidance. As a food-grade herb with very low toxicity risk, higher doses are generally well tolerated.
+- **Dosage Notes**: For stopping sweating (the primary use), dry-frying (炒) the grains lightly before decocting enhances the astringent effect. The standard decoction dose is 15–30g. When used as a powder (such as in Du Sheng San), the dose is typically 3–5g per serving, taken with rice water. Higher doses in the 30–60g range may be used for stubborn or severe sweating. For clearing deficiency Heat and bone-steaming disorder, it is typically combined with Yin-nourishing herbs such as Mai Dong, Sheng Di, and Di Gu Pi rather than used alone.
+- **Preparation**: For enhanced sweat-stopping effect, lightly dry-fry (炒) the grains over a gentle fire until they turn brownish-yellow before decocting. This is the traditional processing method and is recommended for treating sweating disorders. If wrapping in cloth (纱布包煎) is available, it can prevent small grain fragments from making the decoction cloudy.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o F&#xFA; Xi&#x1CE;o M&#xE0;i (&#x7092;&#x6D6E;&#x5C0F;&#x9EA6;)
+- **Processing Method**: Stir-fried in a dry pan over gentle heat until the surface turns golden-brown (棕黄色), then removed and cooled.
+- **How it Changes Properties**: Stir-frying enhances Fu Xiao Mai's astringent, sweat-stopping action. The mild charring concentrates its binding quality, making it more effective at sealing the body surface and stopping perspiration. The thermal nature shifts slightly warmer, and the Qi-tonifying effect is mildly strengthened. The Heat-clearing action is somewhat reduced.
+- **When to Use**: Use stir-fried Fu Xiao Mai when the primary goal is maximizing its sweat-stopping power, particularly for stubborn spontaneous sweating or night sweats. The raw form is preferred when deficiency Heat is prominent and its cooling, Heat-clearing action is also needed.
+
+---
+
+## Common Herb Pairs
+### Huang Qi (Ratio: Huang Qi 30g : Fu Xiao Mai 15-30g)
+- **Description**: Huang Qi powerfully tonifies Qi and consolidates the exterior defensive barrier, while Fu Xiao Mai nourishes Heart Qi and clears deficiency Heat. Together they address the root cause (Qi deficiency) and the symptom (sweating) from complementary angles. Huang Qi strengthens from within while Fu Xiao Mai anchors fluids at the surface.
+- **When to Use**: Spontaneous sweating from Qi deficiency with fatigue, shortness of breath, and a weak pulse. Especially useful when sweating worsens with physical exertion.
+
+### Ma Huang Gen (Ratio: 1:1 to 2:1 (Ma Huang Gen 10g : Fu Xiao Mai 15-30g))
+- **Description**: Ma Huang Gen is a specialist sweat-stopping herb that purely astringes the pores, while Fu Xiao Mai adds Qi-tonifying and Heat-clearing actions. Together they provide both symptomatic relief (closing the pores) and root support (nourishing Heart Qi and clearing deficiency Heat), making the anti-sweating effect stronger and more balanced.
+- **When to Use**: Persistent sweating (either spontaneous or night sweats) that has not responded to single herbs alone. This pair forms the core of the classic Mu Li San formula.
+
+### Mu Li Ke (Ratio: Mu Li 30g : Fu Xiao Mai 30g)
+- **Description**: Mu Li (Oyster shell) is heavy and descending, anchoring floating Yang and astringing fluids through its salty and astringent nature. Fu Xiao Mai is light and ascending, reaching the body surface to consolidate pores while nourishing the Heart. Together they create a top-to-bottom approach, calming the spirit, anchoring Yang, and sealing the surface all at once.
+- **When to Use**: Self-sweating or night sweats accompanied by palpitations, anxiety, and restlessness. Particularly useful when both the Heart spirit and surface defence are compromised.
+
+### Wu Wei Zi (Ratio: Wu Wei Zi 6-10g : Fu Xiao Mai 15-30g)
+- **Description**: Wu Wei Zi (Schisandra) is sour and astringent, excelling at containing leaking fluids and tonifying the Kidneys. Combined with Fu Xiao Mai's Heart-nourishing and Heat-clearing actions, the pair addresses sweating from both the Heart (upper) and Kidney (lower) levels, making it effective for Yin-deficiency sweating patterns.
+- **When to Use**: Night sweats from Yin deficiency with dry mouth, heat in the palms and soles, and a thin rapid pulse.
+
+---
+
+## Key Formulas
+Mu Li San, Gan Mai Da Zao Tang, Ba Zheng San
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Situations where Fu Xiao Mai should not be used or requires extra caution
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe at standard doses during pregnancy. Fu Xiao Mai is a mild, food-grade herb (shriveled wheat grain) with no known uterine-stimulating or teratogenic properties. It is commonly used in dietary therapy in China, including for pregnant and postpartum women with sweating disorders. However, as with all herbs during pregnancy, use should follow practitioner guidance.
+- **Breastfeeding**: Generally considered safe during breastfeeding. Fu Xiao Mai is a food-grade medicinal substance (shriveled wheat grain) with no known harmful components that would transfer through breast milk. It has been used traditionally in postpartum dietary recipes in China. No special concerns have been reported.
+- **Children**: Fu Xiao Mai is considered safe and gentle for pediatric use. It is commonly included in children's formulas and proprietary medicines (such as Xu Han Ting Ke Li / 虚汗停颗粒) for childhood sweating disorders. Dosage should be reduced proportionally by age and body weight. For young children, roughly one-third to one-half of the adult dose (5–15g) is typical. It can also be prepared as a simple food-style decoction with red dates for easier administration.
+
+### Drug Interactions
+No significant drug interactions have been reported in clinical literature. As a food-grade herb composed primarily of starch, protein, and small amounts of vitamins and lipids, Fu Xiao Mai has very low pharmacological potency and minimal interaction potential. However, because it has mild blood-lipid-lowering effects reported in animal studies, theoretically it could have an additive effect with lipid-lowering medications, though this is not clinically established.
+
+### Dietary Advice
+When taking Fu Xiao Mai for sweating disorders, avoid excessively spicy, pungent, and sweat-promoting foods such as raw ginger, chili peppers, and black pepper, as these work against the herb's astringent action. Warm, easily digestible foods that support the Spleen and Qi are preferred, such as congee, red dates, and well-cooked grains. Cold and raw foods should also be limited if there is underlying Qi deficiency.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Triticum aestivum L. (common wheat) is an annual grass in the Poaceae (Gramineae) family. The plant grows 40–100 cm tall, occasionally reaching up to 150 cm, with thin hollow stems (culms) and lance-shaped leaf blades 6–16 mm wide that start soft and hairy before becoming stiff and smooth. The flower heads are erect spike-shaped clusters (ears), 5–10 cm long, containing spikelets with 3–9 florets each. The glumes are oval, 6–8 mm long, and the outer lemmas are oblong-lanceolate, 8–10 mm, sometimes tipped with an awn.
+The medicinal product, Fu Xiao Mai, consists specifically of the immature, shriveled, and lightweight caryopses (grain fruits) that have not fully developed. These are separated from healthy plump grains by winnowing or water flotation: when placed in water, these lightweight kernels float to the surface while sound grains sink, hence the name 'floating wheat' (浮小麦). The dried grains are oblong, about 2–6 mm long and 1.5–2.5 mm in diameter, yellowish-white to pale brown, with a wrinkled surface and a deep longitudinal groove on the belly side.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Early to mid-summer (around the summer solstice), when the wheat crop reaches maturity. The shriveled, lightweight grains are separated during harvest by winnowing or water flotation.
+- **Primary Growing Regions**: Fu Xiao Mai is produced across all major wheat-growing regions of China and has no single dominant 'terroir' region. Wheat is one of the most widely cultivated crops in China, and Fu Xiao Mai is simply collected from the shriveled, lightweight grains during the normal wheat harvest. Major wheat-producing provinces include Henan, Shandong, Hebei, Anhui, Jiangsu, and Shaanxi. Winter wheat varieties are generally preferred for medicinal use.
+- **Quality Indicators**: Good quality Fu Xiao Mai grains should be uniformly sized, lightweight, and float readily when placed in water. The surface should be yellowish-white to pale brown in color, slightly wrinkled, with a clearly visible deep longitudinal groove on the belly side. The grains should be dry and brittle, with a white cross-section that has a starchy, powdery quality. They should have no discernible odor and a bland taste. Plump, heavy, fully developed wheat kernels that sink in water are NOT suitable for use as Fu Xiao Mai and should be rejected. Avoid grains that are moldy, insect-damaged, dark in color, or mixed with excessive chaff and soil.
+
+### Identity & Adulterants
+The most common issue is substitution or confusion with Xiao Mai (小麦, mature plump wheat, also called Huai Xiao Mai 淮小麦). Although both come from the same plant Triticum aestivum, they have distinct clinical applications: Fu Xiao Mai (the shriveled, floating grains) primarily stops sweating and clears deficiency Heat, while Xiao Mai (the plump grains) primarily nourishes the Heart and calms the spirit, as used in Gan Mai Da Zao Tang. Some regions have historically used plump wheat grains in place of Fu Xiao Mai, which significantly weakens the astringent, sweat-stopping effect. The key identification test is the water flotation test: authentic Fu Xiao Mai should float in water, whereas mature Xiao Mai sinks. Any batch where most grains sink should be considered adulterated or incorrect.
+
+---
+
+## References
+### Classical Texts
+#### Ben Cao Gang Mu (本草纲目) — Li Shizhen, Ming Dynasty
+- **Original**: 「益气除热，止自汗盗汗，骨蒸虚热，妇人劳热。」
+- **Translation**: "Supplements Qi and clears Heat, stops spontaneous sweating and night sweats, steaming bone disorder with deficiency Heat, and women's taxation Heat."
+
+### Historical Context
+The name Fu Xiao Mai (浮小麦, 'floating wheat') comes from its defining physical characteristic: when placed in water, these shriveled, immature grains float to the surface while plump, healthy wheat kernels sink. The term first appeared as a medicinal substance in the Song Dynasty text Tai Ping Sheng Hui Fang (太平圣惠方, compiled circa 978 CE). According to a well-known story, the physician Wang Huaiyin (王怀隐) discovered its sweat-stopping properties by accident. When treating a woman with emotional disturbance using Gan Mai Da Zao Tang (the classical formula from the Jin Gui Yao Lue), his pharmacy received a batch of substandard, shriveled wheat by mistake. The patient's emotional symptoms improved as expected, but her concurrent night sweating also resolved unexpectedly. After further investigation, Wang realized it was specifically the lightweight, floating wheat grains that possessed this unique astringent property. He then intentionally used these 'floating wheat' grains to treat sweating disorders with consistent success, and recorded the findings in the Tai Ping Sheng Hui Fang.
+It is important to distinguish Fu Xiao Mai from Xiao Mai (小麦, also called Huai Xiao Mai 淮小麦), which refers to the mature, plump wheat grain. Xiao Mai is the herb used in Zhang Zhongjing's classical formula Gan Mai Da Zao Tang for 'visceral agitation' (脏躁), where its primary action is to nourish the Heart and calm the spirit. Fu Xiao Mai, by contrast, is classified as an astringent (收涩药) whose primary action is stopping sweat. Later texts including the Ben Cao Meng Quan (明代, by Chen Jiamo) and Li Shizhen's Ben Cao Gang Mu further elaborated on Fu Xiao Mai's properties, confirming its ability to clear deficiency Heat and stop both spontaneous sweating and night sweats. The single-herb preparation 'Du Sheng San' (独圣散), recorded in the Wei Sheng Bao Jian (卫生宝鉴), uses Fu Xiao Mai alone (roasted and ground to powder) for treating persistent deficiency sweating.
+
+### Modern Scientific Research
+1. **[Anxiolytic and antidepressant effect of Crataegus pinnatifida (Shan Zha): biochemical mechanisms (preclinical study, 2022)](https://doi.org/10.1038/s41398-022-01970-6)**
+   *Journal: Bel-Ami Bhatt S, et al. Translational Psychiatry, 2022, 12, Article 196.*
+   This study examined a novel herbal treatment (NHT) consisting of four herbs including Triticum aestivum (Fu Xiao Mai) for anxiolytic and antidepressant effects in stressed mice. Fu Xiao Mai extract activated the 5-HT1A serotonin receptor significantly more effectively than escitalopram (a standard SSRI antidepressant) in electrophysiology experiments. The combination formula and its individual components showed antidepressant-like and anxiolytic-like behavioral effects with concurrent increases in brain BDNF levels.
+
+2. **[General Health Benefits and Pharmacological Activities of Triticum aestivum L. (narrative review, 2022)](https://pubmed.ncbi.nlm.nih.gov/35335312/)**
+   *Journal: Moshawih S, Juperi RNA, Paneerselvam GS, et al. Molecules, 2022, 27(6), 1948.*
+   A comprehensive narrative review of the pharmacological activities and phytochemistry of Triticum aestivum (common wheat). The review summarized evidence for anticancer, antimicrobial, antidiabetic, hypolipidemic, and antioxidant properties of wheat and its various preparations. Wheat was found to be a good source of dietary fiber, phenolic acids, alkylresorcinols, lignans, carotenoids, tocopherols, and tocotrienols.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/fu-xiao-mai](https://www.meandqi.com/knowledge-base/herbs/fu-xiao-mai)*

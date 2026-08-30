@@ -1,0 +1,179 @@
+# Yin Chen (茵陈)
+**English Name**: Virgate Wormwood Herb  
+**Category**: Dampness-draining herbs (利水渗湿药), Dampness-draining and jaundice-relieving herbs (利湿退黄药)  
+**Scientific Name**: Artemisia capillaris Thunb.  
+**Pharmaceutical Name**: Herba Artemisiae Scopariae  
+**Toxicity**: Non-toxic  
+**Temperature**: Slightly Cool | **Taste**: Bitter (苦 kǔ), Acrid / Pungent (辛 xīn)  
+**Channels Entered**: Spleen, Stomach, Liver, Gallbladder  
+**Parts Used**: Whole plant / Aerial parts (全草 quán cǎo)  
+
+---
+
+## Summary
+Yin Chen is the most widely used herb in Chinese medicine for treating jaundice and supporting liver and gallbladder health. It works by clearing excess dampness and heat from the digestive and hepatobiliary systems, and is often taken as a tea or combined with other herbs in formulas for liver complaints, yellowing of the skin or eyes, and certain skin conditions.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Liver Health, Liver and Gallbladder Health, Digestive Health, Skin Health
+- **TCM Actions**: Clears Heat and Drains Dampness, Promotes bile flow and relieves jaundice, Clears Damp-Heat from the Liver and Gallbladder, Dries Dampness and Stops Itching
+
+### How these actions work
+'Clears Heat and drains Dampness' is Yīn Chén's central action. When Dampness and Heat become entangled in the middle of the body, particularly in the digestive organs and the Liver-Gallbladder system, they can create a heavy, sluggish state with symptoms like nausea, a feeling of fullness, and sticky yellow tongue coating. Yīn Chén's bitter and slightly pungent taste allows it to both dry out this Dampness and cool down the Heat. Its slightly cool temperature makes it particularly suited for conditions where Heat is a prominent factor.
+'Promotes bile flow and relieves jaundice' (利胆退黄 lì dǎn tuì huáng) is what Yīn Chén is most famous for. When Dampness and Heat steam the Liver and Gallbladder, bile overflows and stains the skin and eyes yellow. Yīn Chén directly addresses this by clearing the obstruction and helping the body eliminate the accumulated bile pigment through urination. It is considered the single most important herb for jaundice in the entire Chinese materia medica, effective for both 'bright yellow' jaundice (from Heat) and 'dull yellow' jaundice (from Cold), depending on which supporting herbs are combined with it.
+'Clears Damp sores and relieves itching' extends Yīn Chén's Dampness-clearing action to the skin. It can be used internally or as an external wash for Damp-Heat skin conditions that produce weeping lesions, rashes, or itching.
+
+---
+
+## Patterns Addressed
+### Liver and Gallbladder Damp-Heat
+- **Explanation**: Yīn Chén directly targets the core pathomechanism of Liver and Gallbladder Damp-Heat. When Dampness and Heat accumulate in the Liver and Gallbladder, bile is forced out of its normal channels, producing jaundice, dark urine, and a bitter taste in the mouth. Yīn Chén's bitter taste dries the Dampness while its slightly cool nature clears the Heat. It enters the Liver, Gallbladder, Spleen, and Stomach channels, giving it direct access to the organs involved. This makes it the single most important herb for this pattern, often serving as the King herb in formulas that address it.
+- **Clinical Signs & Symptoms**:
+
+### Damp-Heat
+- **Explanation**: When Damp-Heat lodges in the Spleen and Stomach, it disrupts digestion and creates symptoms like heavy limbs, a bloated abdomen, poor appetite, and a thick greasy tongue coating. Yīn Chén enters the Spleen and Stomach channels and uses its bitter, pungent nature to separate the Dampness from the Heat, draining both through the urine. While it does not directly tonify the Spleen, it clears the pathogenic factors that are blocking Spleen function. This is especially relevant in cases where Damp-Heat in the middle burner has not yet produced full jaundice but is causing digestive disturbance and malaise.
+- **Clinical Signs & Symptoms**:
+  - **Loose Stools**: Sticky, foul-smelling stools
+
+---
+
+## Commonly Used For
+### Jaundice
+- **Arises from**: Liver and Gallbladder Damp-Heat
+- **TCM Interpretation**: In TCM, jaundice is understood as a condition where bile (which TCM associates with the Gallbladder) overflows from its normal pathways and stains the skin, eyes, and urine. This happens when Dampness and Heat become entangled in the Liver-Gallbladder system, blocking the normal flow and metabolism of bile. The Shang Han Lun describes this as 'stagnant Heat in the interior' (瘀热在里). The character of the yellow color is diagnostically important: bright, fresh yellow like an orange indicates Heat predominance (called 'Yang jaundice'), while a dull, smoky yellow suggests Cold and Dampness predominance ('Yin jaundice').
+- **Why it Helps**: Yīn Chén is the single most important herb for jaundice in all of Chinese medicine, a status it has held since the Shen Nong Ben Cao Jing. Its bitter, slightly cool nature directly clears the Damp-Heat that causes bile to overflow. Modern pharmacological research has confirmed that it stimulates bile secretion and promotes bile excretion, providing a biomedical basis for this classical use. Crucially, Yīn Chén can be used for both Heat-type and Cold-type jaundice by changing its companion herbs: combined with cooling herbs like Zhī Zǐ (gardenia) and Dà Huáng (rhubarb), it treats bright-yellow jaundice; combined with warming herbs like Fù Zǐ (aconite) and Gān Jiāng (dried ginger), it treats dull-yellow jaundice.
+
+### Hepatitis
+- **Arises from**: Liver and Gallbladder Damp-Heat, Damp-Heat
+- **TCM Interpretation**: TCM views viral hepatitis primarily through the lens of Damp-Heat invading the Liver and Gallbladder systems. The virus is understood as an external pathogenic factor that triggers an internal accumulation of Dampness and Heat, which then disrupts the Liver's function of ensuring smooth flow throughout the body. The Spleen is also involved because it is responsible for transforming and transporting fluids; when overwhelmed, it allows Dampness to accumulate. Symptoms like fatigue, poor appetite, nausea, dark urine, and elevated liver enzymes all point to this Damp-Heat obstruction.
+- **Why it Helps**: Yīn Chén addresses the core Damp-Heat pathology that TCM identifies in hepatitis. It clears Heat from the Liver and Gallbladder while draining Dampness downward through urination. Modern research has demonstrated hepatoprotective effects, including reducing serum transaminase levels, suppressing inflammatory cytokines like IFN-gamma and TNF-alpha, and preventing ethanol-induced liver cell damage. In clinical practice, Yīn Chén-based formulas like Yīn Chén Hāo Tāng have shown effectiveness in treating acute icteric hepatitis, with studies reporting high rates of jaundice resolution and normalization of liver enzymes.
+
+### Cholecystitis
+- **Arises from**: Liver and Gallbladder Damp-Heat
+- **TCM Interpretation**: TCM understands cholecystitis as Damp-Heat accumulating specifically in the Gallbladder, obstructing the flow of bile and creating pain, distension, and inflammation in the right upper abdomen and hypochondrium. The condition often involves Liver Qi stagnation as well, since the Liver and Gallbladder are paired organs. When the Gallbladder's function of storing and releasing bile is disrupted by Damp-Heat, this can produce nausea, a bitter taste, fever, and referred pain to the shoulder.
+- **Why it Helps**: Yīn Chén enters the Gallbladder channel directly and promotes bile flow (choleretic action), which is central to treating cholecystitis. By clearing Damp-Heat from the Liver and Gallbladder, it addresses both the inflammation and the bile stasis. For cholecystitis and gallstones, it is typically combined with herbs that move Liver Qi (like Yù Jīn or Chái Hú) and clear Heat more aggressively (like Zhī Zǐ or Lóng Dǎn Cǎo) to create a comprehensive treatment approach.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: 6-15g
+- **Maximum Dosage**: Up to 30g in standard decoctions for severe damp-heat jaundice; some classical and modern sources use up to 60g (as in Yin Chen Hao Tang original proportions) under practitioner supervision for acute conditions.
+- **Dosage Notes**: The standard textbook range is 6-15g for general damp-heat conditions. For acute damp-heat jaundice (yang huang), higher doses of 15-30g or more are commonly used, with Yin Chen often decocted first before other herbs are added (as specified in the original Yin Chen Hao Tang). For milder conditions such as damp-heat skin rashes, itching, or preventive liver support, the lower range (6-10g) is sufficient. The spring-harvested Mian Yin Chen is considered to have stronger choleretic (bile-promoting) and antimicrobial action. The autumn-harvested Hua Yin Chen contains more coumarin and flavonoid compounds. For external use in skin conditions (damp sores, itching), an appropriate amount is decocted and used as a wash with no strict gram limit.
+- **Preparation**: In the classical Yin Chen Hao Tang (from the Shang Han Lun), Yin Chen is specified to be decocted first: the original instructions call for boiling Yin Chen in water first, reducing the volume by half, then adding the other herbs (Zhi Zi and Da Huang) and continuing to cook. This "decoct first" method helps to fully extract its active compounds. In standard multi-herb prescriptions, Yin Chen is often simply decocted with the other herbs. For external use, it is decocted and the liquid used as a wash for skin conditions.
+
+---
+
+## Processing Methods
+### Ch&#x1CE;o Y&#x12B;n Ch&#xE9;n (&#x7092;&#x8335;&#x9648;)
+- **Processing Method**: Stir-fried over gentle heat until the herb turns slightly yellow. The fire must be carefully controlled to avoid scorching.
+- **How it Changes Properties**: Stir-frying moderates Yīn Chén's cool nature, making it less harsh on the Stomach. The volatile oil content is reduced by approximately 30%, which weakens the antipyretic and choleretic effects but makes the herb gentler on the digestive system. The flavonoid compounds remain relatively stable, preserving antioxidant activity.
+- **When to Use**: When treating patients with Damp-Heat conditions who also have a weak Spleen and Stomach. The stir-fried form is preferred for chronic conditions requiring longer-term use, such as chronic hepatitis during recovery, where the raw herb's cold nature might aggravate digestive weakness.
+
+### Ji&#x1D4; Y&#x12B;n Ch&#xE9;n (&#x9152;&#x8335;&#x9648;)
+- **Processing Method**: The herb segments are mixed with yellow rice wine (ratio approximately 10:1), allowed to absorb the wine, then stir-fried over gentle heat until dry.
+- **How it Changes Properties**: Wine processing slightly warms the herb's nature and enhances its ability to move through the channels, adding a mild Blood-invigorating quality. The wine helps guide the herb's action upward and outward, complementing its natural descending tendency.
+- **When to Use**: When Damp-Heat in the Liver and Gallbladder is accompanied by Blood stasis, such as in chronic liver disease with fixed pain, spider nevi, or dark complexion. This form has been used historically since the Song dynasty.
+
+---
+
+## Common Herb Pairs
+### Zhi Zi (Ratio: Y&#x12B;n Ch&#xE9;n 15&#x2013;30g : Zh&#x12B; Z&#x1D0; 9&#x2013;12g)
+- **Description**: Yīn Chén and Zhī Zǐ (gardenia fruit) form the core herb pair for treating Damp-Heat jaundice. Yīn Chén clears Dampness and promotes bile flow while Zhī Zǐ clears Heat from the Triple Burner and guides the Damp-Heat downward through the urine. Together they are more effective than either alone at both clearing Heat and draining Dampness simultaneously.
+- **When to Use**: When jaundice presents with bright yellow skin and eyes, scanty dark urine, a bitter taste in the mouth, and a yellow greasy tongue coating, indicating Heat predominance within the Damp-Heat pattern. This is the foundational pair in Yīn Chén Hāo Tāng.
+
+### Da Huang (Ratio: Y&#x12B;n Ch&#xE9;n 18g : D&#xE0; Hu&#xE1;ng 6g (as in Y&#x12B;n Ch&#xE9;n H&#x101;o T&#x101;ng))
+- **Description**: Yīn Chén drains Damp-Heat via the urine, while Dà Huáng (rhubarb) purges Heat and stagnation downward through the bowels. Together they open both the urinary and intestinal routes of elimination, ensuring that Damp-Heat is expelled from the body completely. Dà Huáng also invigorates Blood, which helps resolve the stasis component of severe jaundice.
+- **When to Use**: When Damp-Heat jaundice is accompanied by constipation or incomplete bowel movements, abdominal fullness, and a strong, forceful pulse. The addition of Dà Huáng to Yīn Chén provides the 'purging' force needed when Heat is severe and accumulating.
+
+### Zhi Fu Zi (Ratio: Y&#x12B;n Ch&#xE9;n 18g : F&#xF9; Z&#x1D0; 9g (as in Y&#x12B;n Ch&#xE9;n S&#xEC; N&#xEC; T&#x101;ng))
+- **Description**: This pair illustrates Yīn Chén's versatility. Fù Zǐ (aconite) is hot and strongly warms the interior, rescuing depleted Yang. When paired with Yīn Chén, the two address 'Yin jaundice' (阴黄), where Cold-Dampness rather than Damp-Heat is the cause. Fù Zǐ warms the Spleen and Kidney Yang to transform the Cold-Dampness, while Yīn Chén still performs its jaundice-resolving function.
+- **When to Use**: For cold-type jaundice with dull, smoky-yellow skin coloring, cold limbs, fatigue, loose stools, pale tongue with white coating, and a deep, slow pulse. This is the core pair in Yīn Chén Sì Nì Tāng.
+
+### Ze Xie (Ratio: Y&#x12B;n Ch&#xE9;n 30g : Z&#xE9; Xi&#xE8; 9g)
+- **Description**: Zé Xiè (alisma) strongly promotes urination and drains Dampness from the lower body. Combined with Yīn Chén, the pair powerfully opens the waterways to flush Damp-Heat downward and out through the urine. This pairing emphasizes the Dampness-draining route when urinary difficulty is a prominent symptom.
+- **When to Use**: When Damp-Heat jaundice is dominated by Dampness rather than Heat, presenting with difficult urination, a heavy body, chest tightness, a bland taste in the mouth, and a greasy tongue coating. This pair forms part of the Yīn Chén Wǔ Líng Sǎn formula.
+
+---
+
+## Key Formulas
+Yin Chen Hao Tang, Wu Ling San, Yin Chen Hao Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Yin Chen is classified as non-toxic in the Chinese Pharmacopoeia and has a long history of safe use, including as a food (spring shoots are eaten as a vegetable in many parts of China). In animal studies, the oral LD50 in mice was found to be approximately 7.25 g/kg, indicating a wide safety margin at standard therapeutic doses. At very high doses (above 15g in concentrated extract form), some sources report possible adverse effects including nausea, bloating, dizziness, numbness, tremors, and cardiac rhythm disturbances. At standard decoction doses of 6-30g, the herb is well tolerated. Skin contact with some Artemisia species can occasionally cause contact dermatitis in sensitive individuals.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Yin Chen should be avoided during pregnancy. Laboratory studies have shown that Yin Chen infusion can stimulate uterine smooth muscle contraction in animal models (demonstrated in non-pregnant rabbits and postpartum guinea pigs). While the herb is classified as non-toxic and is even eaten as a food vegetable, its uterine-stimulating properties and its cold, downward-draining nature make it inadvisable during pregnancy. If absolutely necessary for severe jaundice in a pregnant patient, it should only be used under close practitioner supervision with appropriate dose modification.
+- **Breastfeeding**: There is insufficient reliable data specifically addressing the safety of Yin Chen during breastfeeding. While the herb has a long history of traditional food use (young shoots eaten as a spring vegetable), its active compounds including scoparone and volatile oils could potentially transfer into breast milk. Its cold, bitter, and damp-draining properties may also theoretically affect lactation. It is advisable to avoid use during breastfeeding unless specifically prescribed by a qualified practitioner, and if used, the lowest effective dose for the shortest duration is recommended.
+- **Children**: Yin Chen has a long traditional history of use in pediatric jaundice, including neonatal jaundice (a condition where it appears in the proprietary medicine Yin Zhi Huang). Children under 12 should use Yin Chen only under the supervision of a qualified practitioner. Dosage should be reduced proportionally based on age and body weight (typically one-third to one-half of the adult dose for school-age children). For infants and neonates, Yin Chen is typically administered as part of standardised preparations (e.g. Yin Zhi Huang oral liquid or granules) rather than raw decoction, with dosing per manufacturer guidelines. Clinical reports have used sugar syrup preparations with age-graded dosing: 12 mL for ages 1-3, 15 mL for ages 3-5, and 30 mL for ages 5-10, three times daily.
+
+### Drug Interactions
+Lithium: Yin Chen has diuretic properties. By increasing urinary output, it may reduce the body's ability to excrete lithium, potentially increasing lithium levels and the risk of lithium toxicity. People taking lithium should use Yin Chen with caution and under medical monitoring.
+Sedative medications (CNS depressants): Research suggests that Artemisia capillaris may have sedative-hypnotic effects, possibly mediated through GABA-A receptor potentiation. Concurrent use with sedative drugs (benzodiazepines, barbiturates, sleep medications) may have an additive effect, increasing drowsiness and central nervous system depression.
+Anticoagulant/antiplatelet agents: Scoparone, a key compound in Yin Chen, has demonstrated anticoagulant properties in laboratory studies. Theoretically, concurrent use with warfarin, heparin, or antiplatelet drugs may increase bleeding risk, though clinical data are limited.
+Pre-surgical caution: Due to its potential sedative and anticoagulant properties, it is advisable to discontinue Yin Chen at least two weeks before scheduled surgery.
+
+### Dietary Advice
+While taking Yin Chen, it is generally advisable to avoid greasy, heavily fried, or rich foods, as the herb is treating damp-heat conditions and such foods can generate more dampness and heat. Alcohol should be avoided, particularly when treating liver and gallbladder conditions, as alcohol adds heat and toxicity to the Liver. Cold and raw foods are generally acceptable in moderation since the herb itself is cooling, but in cases where Yin Chen is combined with warming herbs for cold-damp (yin) jaundice, cold foods should be limited. Light, easily digestible foods that support Spleen function are recommended.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Yin Chen is the dried aerial part of two closely related Asteraceae family plants: Artemisia scoparia Waldst. et Kit. (known as Bin Hao or "beach wormwood") and Artemisia capillaris Thunb. (Yin Chen Hao). Both are perennial or semi-shrubby herbs with a strongly aromatic scent.
+Artemisia capillaris grows 40–120 cm tall, with a single or few reddish-brown stems that become woody at the base. The lower leaves are oval, 2–5 cm long, and covered in brownish-yellow to grayish-yellow silky hairs. As the plant matures, the lower leaf hairs shed, and the middle leaves become finely divided into narrow, thread-like segments (giving the species its name capillaris, meaning "hair-like"). Numerous tiny egg-shaped flower heads form dense panicle-like clusters, blooming from July to October. The small oblong fruits (achenes) are yellowish-brown. The plant grows on hillsides, riverbanks, sandy and gravelly ground at low to moderate elevations (100–2700 m), preferring warm, humid climates.
+The key botanical feature distinguishing A. capillaris from other wormwoods: its old stems survive winter and new shoots sprout from them in spring, which is the origin of the name "Yin Chen" (literally "relying on the old [to grow] again").
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Spring harvest (Mian Yin Chen): collected when seedlings are 6-10 cm tall, typically in the second to third lunar month (March-April). Autumn harvest (Hua Yin Chen): cut when flower buds have formed or flowers are just opening, typically in September-October.
+- **Primary Growing Regions**: Yin Chen grows widely across China and East Asia. The best-quality material, traditionally considered the premier 道地药材 (daodi yaocai) source, comes from Shaanxi province (known as "Xi Yin Chen" or Western Yin Chen). The species Artemisia scoparia (Bin Hao/Zhu Mao Hao) is primarily produced in Shaanxi, Hebei, and Shanxi. Artemisia capillaris (Yin Chen Hao proper) is mainly produced in Shandong, Jiangsu, Zhejiang, Fujian, and Anhui. Other producing areas include Henan, Hubei, Sichuan, Gansu, Hunan, and Guangdong. The plant also grows in Korea, Japan, the Philippines, Vietnam, and Southeast Asia.
+- **Quality Indicators**: Mian Yin Chen (spring harvest, preferred): Good quality pieces are curled into soft, fluffy ball-like clusters, greyish-white to greyish-green in colour, entirely covered in dense white downy hairs, and soft as cotton wool. The stems should be very fine (1.5-2.5 cm long, 1-2 mm diameter). When the white hairs are removed, clear longitudinal striations should be visible on the stem. Texture should be crisp and easily broken. The aroma should be distinctly fragrant and clean, with a slightly bitter taste. The best quality is tender, soft, greyish-green, and strongly aromatic.
+Hua Yin Chen (autumn harvest): Stems are cylindrical, multi-branched, 30-100 cm long, 2-8 mm diameter, with a pale purple or purple surface showing longitudinal striations and short soft hairs. It is lightweight and brittle with a whitish cross-section. The aroma should be fragrant and the taste slightly bitter. Flower heads should be small and ovoid.
+Avoid material that is woody, darkened, musty, or has lost its characteristic aroma.
+
+### Identity & Adulterants
+The most important substitution issue involves "Bei Yin Chen" (North Yin Chen), which in some regions (particularly Taiwan) refers to Origanum vulgare L. (oregano, a Lamiaceae family plant), not a true Artemisia. Bei Yin Chen has different properties (clearing summerheat, promoting sweating, reducing swelling) and cannot replace genuine Yin Chen for treating jaundice. Other potential adulterants include various local Artemisia species that may be sold as Yin Chen but have different chemical profiles and therapeutic effects. The two legitimate source species (Artemisia scoparia and Artemisia capillaris) can be distinguished from each other by chemical tests: A. scoparia contains higher levels of p-hydroxyacetophenone (reacts strongly with 2,4-dinitrophenylhydrazine to form an orange-red precipitate), while A. capillaris shows minimal reaction. In practice, both species are accepted as legitimate sources of Yin Chen in the Chinese Pharmacopoeia, though their chemical compositions differ somewhat, with A. scoparia richer in scoparone and A. capillaris richer in chlorogenic acid.
+
+---
+
+## References
+### Classical Texts
+#### Shen Nong Ben Cao Jing (Divine Farmer's Classic of Materia Medica)
+- **Original**: 味苦平，主风湿寒热，邪气热结黄疸，久服轻身，益气耐老，面白悦。
+- **Translation**: Bitter in flavour, neutral in nature. It treats wind-damp, alternating cold and heat, pathogenic Qi, heat binding with jaundice. Long-term use lightens the body, benefits Qi, resists aging, and brightens the complexion.
+
+### Historical Context
+Yin Chen has one of the longest documented histories of any Chinese herb, first recorded as an upper-grade herb in the Shen Nong Ben Cao Jing (Divine Farmer's Classic, compiled around the Han Dynasty). Its name carries a poetic etymology: Chen Cangqi of the Tang Dynasty explained that the old stems survive winter and new growth springs from them each year, hence "Yin" (relying on, growing from) "Chen" (the old). The character "Hao" (wormwood) was added later.
+A famous folk legend associates Yin Chen with the physician Hua Tuo (c. 140–208 CE). According to tradition, Hua Tuo struggled to treat a jaundice patient until he discovered the patient had recovered after eating young spring wormwood. Through years of experimentation, Hua Tuo determined that only the tender spring shoots (harvested in the third lunar month) were effective, not the mature autumn plant. He reportedly composed the well-known rhyme: "Third-month Yin Chen, fourth-month Hao; after the fifth and sixth month, only good for firewood." Li Shizhen recorded a similar saying in the Ben Cao Gang Mu. This teaching remains clinically relevant today, as modern analysis confirms that the concentration of active compounds (particularly scoparone and chlorogenic acid) differs significantly between the spring seedlings and autumn harvest.
+The herb's greatest classical prominence comes from Zhang Zhongjing's Yin Chen Hao Tang (Artemisia Yinchenhao Decoction) in the Shang Han Lun, a formula pairing Yin Chen with Zhi Zi and Da Huang that remains a cornerstone treatment for damp-heat jaundice. Literary figures also celebrated Yin Chen as a delicacy: the Tang poet Du Fu compared its spring fragrance to lotus root, while Su Dongpo of the Song Dynasty praised it as a prized seasonal vegetable.
+
+### Modern Scientific Research
+1. **[Review: The Pharmacological Effects and Pharmacokinetics of Active Compounds of Artemisia capillaris (2021)](https://doi.org/10.3390/biomedicines9101412)**
+   *Journal: Hsueh TP, Lin WL, Dalley JW, Tsai TH. Biomedicines. 2021;9(10):1412.*
+   This comprehensive review found that the key bioactive compounds in Yin Chen (scoparone, capillarisin, scopoletin, chlorogenic acid) exhibit antioxidant, anti-inflammatory, antisteatotic (anti-fatty liver), antiviral, and antitumor properties. The herb's pharmacological effects support its traditional use for viral hepatitis, cirrhosis, and liver cancer, and extend to metabolic syndrome, psoriasis, and enterovirus infections.
+
+2. **[In vitro study: Scoparone Attenuates Hepatic Stellate Cell Activation Through Inhibiting TGF-β/Smad Signaling Pathway (2017)](https://pubmed.ncbi.nlm.nih.gov/28623783/)**
+   *Journal: Yan H, et al. Biomedicine & Pharmacotherapy. 2017;93:931-938.*
+   This study demonstrated that scoparone, a major active compound from Artemisia capillaris, significantly inhibited the proliferation and activation of hepatic stellate cells (the key cells driving liver fibrosis) by blocking the TGF-β/Smad signaling pathway. These findings suggest potential for treating liver fibrosis.
+
+3. **[In vitro study: Scoparone from Artemisia capillaris Inhibits the Release of Inflammatory Mediators in RAW 264.7 Cells (2005)](https://pubmed.ncbi.nlm.nih.gov/15789752/)**
+   *Journal: Jang SI, Kim YJ, Lee WY, et al. Archives of Pharmacal Research. 2005;28(2):203-208.*
+   Scoparone from Yin Chen showed no toxicity to resting immune cells but significantly reduced production of inflammatory mediators (nitric oxide, PGE2, TNF-alpha, IL-1beta, IL-6) in activated macrophages by suppressing iNOS and COX-2 expression. This supports the herb's traditional use in inflammatory hepatobiliary conditions.
+
+4. **[In vitro study: Artemisia capillaris Leaves Inhibit Cell Proliferation and Induce Apoptosis in Hepatocellular Carcinoma (2018)]()**
+   *Journal: Ha JH, Jang J, Chung SI, Yoon Y. BMC Complementary and Alternative Medicine. 2018;18(1):131.*
+   An ethanol extract from Artemisia capillaris leaves strongly suppressed growth of human liver cancer cell lines (HepG2 and Huh7) and induced apoptosis (programmed cell death) through caspase-3 and PARP cleavage pathways, including in an in vivo mouse xenograft model. The anticancer effect appeared to be synergistic among multiple compounds rather than attributable to any single ingredient.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/yin-chen](https://www.meandqi.com/knowledge-base/herbs/yin-chen)*

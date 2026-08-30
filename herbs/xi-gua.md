@@ -1,0 +1,173 @@
+# Xi Gua (西瓜)
+**English Name**: Watermelon  
+**Category**: Heat-clearing herbs, Herbs that clear Summer-Heat (清热解暑药)  
+**Scientific Name**: Citrullus lanatus (Thunb.) Matsum. et Nakai  
+**Pharmaceutical Name**: Fructus Citrulli  
+**Toxicity**: Non-toxic  
+**Temperature**: Cold | **Taste**: Sweet (甘 gān)  
+**Channels Entered**: Heart, Stomach, Urinary Bladder  
+**Parts Used**: Fruit (果 guǒ / 果实 guǒ shí)  
+
+---
+
+## Summary
+Watermelon is one of the most popular summer fruits in Chinese medicine, prized for its ability to cool the body, quench thirst, and promote healthy urination during hot weather. Classical physicians called it the 'natural White Tiger Decoction' because its cold, sweet nature rivals that famous formula's power to clear intense heat. It is best suited for people experiencing overheating, excessive thirst, and scanty dark urine, but should be avoided by those with a cold, weak digestive system.
+
+---
+
+## What This Herb Does
+- **Therapeutic Focus**: Summer Heat Relief, Urinary Health, Summer wellness, Oral and Dental Health
+- **TCM Actions**: Clears Summer-Heat, Generates Fluids and Relieves Thirst, Eliminates Irritability, Promotes Urination, Clears Damp-Heat and Resolves Jaundice
+
+### How these actions work
+'Clears Summerheat' is the primary and most celebrated action of watermelon. Summerheat is a seasonal pathogenic factor unique to the hot summer months that causes high fever, profuse sweating, intense thirst, and agitation. Watermelon's cold nature and sweet flavour powerfully cool the body and dispel this heat. Classical physicians compared it to the famous Bái Hǔ Tāng (White Tiger Decoction), calling watermelon the 'natural White Tiger Decoction' (天生白虎汤) because it could match that formula's ability to clear intense heat from the Qi level.
+'Generates fluids and relieves thirst' refers to watermelon's ability to replenish the body's fluids when they have been damaged by heat. When Summerheat or high fever consumes body fluids, a person becomes extremely thirsty, with a dry mouth and scanty urine. Watermelon's sweet, cold, and abundantly juicy nature directly nourishes these depleted fluids.
+'Eliminates restlessness and irritability' means watermelon can calm the agitation that arises when heat disturbs the Heart. Because it enters the Heart channel, it is especially good at clearing the type of heat that causes mental restlessness, irritability, and difficulty sleeping during hot weather.
+'Promotes urination' means watermelon helps the body pass more urine, which in TCM is a key way of draining heat and dampness downward and out of the body. This action makes it useful for conditions involving scanty, dark urine, mild edema, or fluid retention.
+'Reduces jaundice' refers to watermelon's supportive role in treating icteric hepatitis and other conditions involving yellowing of the skin and eyes. By promoting urination and clearing damp-heat, it helps the body eliminate the pathological dampness and heat that TCM associates with jaundice.
+
+---
+
+## Patterns Addressed
+### Summer-Heat
+- **Explanation**: Summerheat is a seasonal pathogenic factor that attacks during the hottest months, causing high fever, profuse sweating, intense thirst, and agitation. Watermelon directly addresses this pattern because its cold thermal nature powerfully clears the Summerheat from the Qi level, while its sweet flavour generates fluids to replace those lost through sweating. Its affinity for the Heart channel allows it to calm the mental restlessness and irritability that Summerheat characteristically produces when it disturbs the Heart. Its action on the Stomach channel helps relieve the intense thirst caused by heat damaging Stomach fluids, and its Bladder channel affinity supports the drainage of heat through increased urination.
+- **Clinical Signs & Symptoms**:
+
+### Bright Yang Stomach Heat
+- **Explanation**: When excessive heat accumulates in the Stomach, it scorches fluids and flares upward, causing intense thirst, mouth sores, and a burning sensation in the epigastrium. Watermelon enters the Stomach channel and its cold, sweet nature directly quenches Stomach fire while simultaneously replenishing the fluids that the heat has consumed. The sweet flavour nourishes the Stomach without further burdening it, making watermelon a gentle yet effective way to address Stomach Heat, particularly when manifesting as oral sores or burning thirst.
+- **Clinical Signs & Symptoms**:
+
+### Damp-Heat in the Bladder
+- **Explanation**: When damp-heat lodges in the Bladder, it disrupts normal urination, causing scanty, painful, dark urine and sometimes edema. Watermelon's cold nature clears the heat component while its diuretic action promotes the drainage of dampness through increased urination. Its affinity for the Bladder channel means it delivers its cooling, fluid-moving action directly to the organ responsible for water metabolism, helping restore normal urinary function.
+- **Clinical Signs & Symptoms**:
+
+---
+
+## Commonly Used For
+### Heat Stroke
+- **Arises from**: Summer-Heat
+- **TCM Interpretation**: TCM understands heatstroke as a Summerheat invasion. Summerheat is an intense, yang pathogenic factor that attacks during the hottest months. It damages the body on two fronts: it generates intense internal heat (causing high fever, flushed face, and agitation) and it depletes vital fluids through excessive sweating (causing extreme thirst, dry mouth, and scanty urine). The Heart is particularly vulnerable because Summerheat has a natural affinity for the Heart channel, which is why mental confusion and restlessness are hallmark symptoms. In severe cases, the Qi itself collapses from the combined effect of heat and fluid loss.
+- **Why it Helps**: Watermelon is ideally matched to heatstroke because its cold thermal nature directly counters the intense heat, while its abundant sweet juice replenishes the fluids lost to sweating. Its channel entry into the Heart calms the mental agitation and irritability, while its Stomach channel affinity addresses the burning thirst. Its Bladder channel action promotes urination, providing another route for the body to expel heat downward. This dual action of clearing heat while simultaneously generating fluids is why classical physicians gave watermelon the revered title 'natural White Tiger Decoction' (天生白虎汤), comparing it to the most powerful Qi-level heat-clearing formula in TCM.
+
+### Mouth Ulcers
+- **Arises from**: Bright Yang Stomach Heat
+- **TCM Interpretation**: TCM views many cases of mouth ulcers as the result of heat (usually from the Stomach or Heart) flaring upward along the channels to the mouth, lips, and tongue. When Stomach heat is excessive, it scorches the tissues of the oral cavity, causing painful sores, redness, and swelling. This is often accompanied by intense thirst, bad breath, and a preference for cold drinks. The condition tends to worsen in summer when external heat compounds the internal heat burden.
+- **Why it Helps**: Watermelon enters the Heart and Stomach channels and its cold nature directly clears the heat that drives these oral sores. Historically, the Dān Xī Xīn Fǎ recommended slowly sipping watermelon juice for severe mouth sores. Its gentle, sweet, cooling action reduces the fire without harsh bitter-cold herbs that might further injure the Stomach. By promoting urination, it also provides a downward outlet for the accumulated heat, drawing it away from the mouth area.
+
+---
+
+## Dosage & Preparation
+- **Standard Dosage**: Fresh fruit: 500–2000g (eaten as food). Dried rind (Xi Gua Cui Yi): 9–30g in decoction. Fresh rind: 60–120g.
+- **Maximum Dosage**: As a food, there is no strict toxic upper limit, but classical sources warn against overconsumption. For medicinal dried rind decoction, up to 30g is standard; fresh rind up to 120g.
+- **Dosage Notes**: As a food-medicine, watermelon is primarily consumed fresh in summer for its heat-clearing and fluid-generating benefits. The dried outer rind (Xi Gua Cui Yi) is the form most commonly used in decoctions, at 9–30g, for conditions like summer-heat irritability, scanty urination, oedema, and mouth sores. Fresh watermelon juice can be taken in larger amounts (one bowlful at a time, sipped slowly) for acute heat conditions with high fever and intense thirst. For people with weak Spleen-Stomach function, smaller amounts should be used and the fruit should not be ice-cold. The Ben Cao Hui Yan describes treating Yangming-level Heat with fever and thirst by slowly drinking a bowl of fresh red-fleshed watermelon juice.
+- **Preparation**: As a food-medicine, watermelon is typically consumed fresh and raw, or its juice is drunk directly. The dried rind (Xi Gua Cui Yi) is decocted normally with no special handling required. For Watermelon Frost (Xi Gua Shuang), a special preparation is used: the fruit is hollowed out, packed with mirabilite (Mang Xiao), sealed, and hung in a cool ventilated place until white crystals form on the outer rind surface, which are then scraped off and collected.
+
+---
+
+## Processing Methods
+### X&#x12B; Gu&#x101; Cu&#xEC; Y&#x12B; (&#x897F;&#x74DC;&#x7FE0;&#x8863;)
+- **Processing Method**: The green outer rind of the watermelon is separated from both the hard outer skin and the red flesh. The rind is washed, cut into strips, and sun-dried for storage and later use in decoctions.
+- **How it Changes Properties**: The rind retains the same sweet, cold properties as the flesh but with reduced sweetness and enhanced diuretic action. It is slightly cooler and more bland (淡) in taste compared to the flesh. Its channel entry remains Heart, Stomach, and Bladder. The rind form is more practical for use in decocted prescriptions and can be stored long-term, unlike the perishable fresh fruit.
+- **When to Use**: When watermelon needs to be incorporated into a formal herbal decoction (the flesh is too watery for decoctions). Xi Gua Cui Yi is the standard form used in classical formulas like Qing Luo Yin and Qing Shu Yi Qi Tang. It is preferred when the diuretic and heat-clearing actions are more important than the fluid-generating action of the fresh juice.
+
+### X&#x12B; Gu&#x101; Shu&#x101;ng (&#x897F;&#x74DC;&#x971C;)
+- **Processing Method**: A watermelon is hollowed out and packed with Glauber's salt (Mang Xiao / Pí Xiāo). The melon is sealed, hung in a cool, ventilated location, and over days to weeks a white crystalline frost precipitates on the outer surface, which is collected and refined.
+- **How it Changes Properties**: The resulting substance is salty and cold (no longer sweet), entering the Lung, Stomach, and Large Intestine channels. It loses the fluid-generating and Summerheat-clearing actions entirely and gains powerful topical heat-clearing, fire-draining, swelling-reducing, and pain-relieving actions for the throat and mouth. This is a fundamentally different substance from the original fruit.
+- **When to Use**: For sore throat, tonsillitis, mouth ulcers, and gum inflammation. Xi Gua Shuang is applied topically as a powder to the affected area. It is known as the 'Sacred Medicine of Throat Medicine' (喉科圣药) and is the basis for the widely used commercial product Guilin Xi Gua Shuang.
+
+---
+
+## Common Herb Pairs
+### He Ye (Ratio: 1:1 (both around 6g when using Xi Gua Cui Yi))
+- **Description**: Watermelon (or its rind, Xi Gua Cui Yi) paired with Lotus Leaf (He Ye) creates a powerful Summerheat-clearing duo. Watermelon clears heat and generates fluids from within, while Lotus Leaf's light, ascending nature disperses Summerheat from the exterior and raises clear Yang. Together they address both the internal heat and the head symptoms (dizziness, muzzy-headedness) of Summerheat.
+- **When to Use**: Summerheat with both thirst and head symptoms such as dizziness, heaviness, and muzzy-headedness, as seen in Qing Luo Yin.
+
+### Xi Yang Shen (Ratio: Xi Gua Cui Yi 30g : Xi Yang Shen 6g (5:1))
+- **Description**: Watermelon rind (Xi Gua Cui Yi) combined with American Ginseng (Xi Yang Shen) addresses Summerheat with Qi and Yin depletion. Xi Gua Cui Yi clears the Summerheat directly, while Xi Yang Shen replenishes the Qi and Yin that Summerheat has consumed. This pairing treats both the cause (heat) and consequence (Qi-Yin damage) simultaneously.
+- **When to Use**: Summerheat with significant fatigue, shortness of breath, and thirst, indicating that both Qi and fluids have been damaged. This is the core pairing of Wang Mengying's Qing Shu Yi Qi Tang.
+
+### Jin Yin Hua (Ratio: 1:1 (both around 6g))
+- **Description**: Watermelon rind paired with fresh Honeysuckle Flower combines two light, cool substances for clearing Summerheat from the upper body. Jin Yin Hua adds aromatic, heat-clearing and toxin-resolving power, while Xi Gua Cui Yi contributes cooling and fluid-generating action. Together they clear Summerheat while also addressing any toxic-heat component.
+- **When to Use**: Mild Summerheat affecting the Lung channel, with low-grade fever, slight thirst, and head discomfort. This pairing appears in Qing Luo Yin from the Wen Bing Tiao Bian.
+
+---
+
+## Key Formulas
+Qing Luo Yin, Qing Shu Yi Qi Tang
+
+---
+
+## Safety & Warnings
+### Toxicity Classification
+Non-toxic
+Watermelon is classified as non-toxic (无毒) across all major classical sources, including the Ri Yong Ben Cao, Yin Shan Zheng Yao, and Ben Cao Gang Mu. There are no toxic components of concern. The primary safety issue is not toxicity but rather overconsumption causing gastrointestinal distress (abdominal distension, diarrhoea, vomiting) due to its cold nature and high water and sugar content. Classical sources warn that excessive intake 'injures the Spleen and promotes Dampness.' The Yuan Dynasty physician Li Pengfei noted that a regional governor who ate too much watermelon in summer developed severe leg and back pain by autumn, illustrating the consequences of cold accumulation from overconsumption.
+
+### Contraindications
+*No specific contraindications listed.*
+
+### Classical Incompatibilities
+
+
+### Special Populations
+- **Pregnancy**: Generally considered safe when consumed as a food in moderate amounts during pregnancy. Watermelon can help with hydration and may relieve pregnancy-related heartburn and nausea. However, its cold nature means excessive consumption may cause digestive discomfort, especially in women with a tendency toward Spleen deficiency or loose stools. Its high sugar content should also be considered for those with gestational diabetes. Classical sources list the postpartum period (产后) as a time to avoid watermelon, as the cold nature may impair recovery of Qi and Blood. There is no known mechanism of uterine stimulation or teratogenicity.
+- **Breastfeeding**: Generally safe when consumed as a food in moderation during breastfeeding. Watermelon provides hydration and nutrients that can support milk production. However, in TCM theory, excessive consumption of cold-natured foods by the nursing mother may indirectly affect the infant through breast milk, potentially contributing to digestive upset or loose stools in sensitive babies. Mothers with weak digestion or those whose infants have loose stools should limit intake. No specific toxic components are known to transfer through breast milk.
+- **Children**: Watermelon is generally suitable for children as a seasonal food. Children under age 3 should be given only small amounts due to their immature digestive systems and the cold nature of the fruit, which can easily cause diarrhoea and stomach upset in young children. For older children, moderate amounts are fine during hot weather. Refrigerated watermelon should be avoided for young children or those with weak digestion. The seeds should be removed for very young children to prevent choking. When using the dried rind medicinally, reduce the adult dose proportionally based on age and body weight.
+
+### Drug Interactions
+Antihypertensive medications: Watermelon contains L-citrulline, which the body converts to L-arginine and then to nitric oxide, a vasodilator. Consuming large amounts of watermelon alongside blood pressure-lowering drugs (ACE inhibitors, ARBs, calcium channel blockers, diuretics) may produce an additive blood pressure-lowering effect, potentially causing hypotension, dizziness, or lightheadedness.
+Nitrate medications: Drugs that increase blood flow to the heart, such as nitroglycerin and isosorbide, should be used with caution alongside large watermelon consumption. The combined vasodilatory effects could cause a dangerous drop in blood pressure.
+Potassium-sparing diuretics: Watermelon is rich in potassium. Combined with potassium-sparing diuretics (spironolactone, amiloride), excessive consumption could contribute to hyperkalaemia. Potassium levels should be monitored.
+Note: These interactions are primarily relevant when watermelon or L-citrulline is consumed in concentrated or supplemental quantities, rather than ordinary dietary intake.
+
+### Dietary Advice
+While consuming watermelon medicinally, avoid eating it together with oily or greasy foods, as classical sources note this combination can further damage the Spleen. Avoid ice-cold or heavily refrigerated watermelon, as this intensifies the cold nature and is more likely to cause digestive upset. Pair with warming foods like ginger tea if mild stomach discomfort occurs after eating watermelon. People with cold constitutions or during cooler seasons should consume watermelon sparingly and at room temperature.
+
+---
+
+## Botanical & Sourcing
+### Botanical Description
+Citrullus lanatus (Thunb.) Matsum. et Nakai is an annual trailing vine in the Cucurbitaceae (gourd) family. The stems are slender, creeping along the ground, with distinct ridged grooves and forked tendrils. The leaves are alternate, triangular-ovate to broadly ovate, 8–20 cm long and 5–18 cm wide, deeply three-lobed with further irregular pinnate divisions, and covered in fine hairs on both surfaces.
+The plant is monoecious, bearing separate male and female yellow flowers in leaf axils. Male flowers are about 2–2.5 cm in diameter with a funnel-shaped corolla. Female flowers are somewhat larger. The fruit is a large pepo (gourd-type fruit), round to oblong, typically 20–40 cm in diameter, with a smooth green rind often marked with darker green stripes. The flesh (pulp) is juicy and typically red, pink, or sometimes yellow, containing numerous flat, oval seeds that can be black, red, white, or yellow.
+Watermelon thrives in warm, dry climates with ample sunlight, preferring temperatures of 20–35°C and well-drained sandy loam soils. It is drought-tolerant but not cold-hardy. Flowering and fruiting occur in summer.
+
+### Sourcing & Harvesting
+- **Harvesting Season**: Summer (typically June to August), when the fruit is fully ripe.
+- **Primary Growing Regions**: Watermelon is cultivated across virtually all provinces of China. Unlike most medicinal herbs, it does not have a single recognized 'terroir' (道地药材) region, as it is primarily a food crop. However, regions known for producing particularly high-quality, sweet watermelons include Xinjiang (especially Hami, Turfan, and the Junggar Basin areas), Ningxia (especially Zhongwei, famous for its 'selenium-sand watermelons'), Shandong, Henan, Hebei, and Anhui. In southern China, smaller-fruited varieties predominate, while northern regions grow larger varieties. Guangxi and Hainan are important for off-season production. Globally, watermelon originated in sub-Saharan Africa and is now widely grown in tropical and temperate regions worldwide, with China being by far the world's largest producer.
+- **Quality Indicators**: Good quality medicinal watermelon fruit should be large, with a deep red flesh (红瓤) and a sweet taste. The flesh should be firm but juicy, not mushy or mealy. A ripe watermelon sounds hollow and deep when tapped (a crisp sound indicates under-ripeness). The rind should be firm and uniformly coloured. For the dried rind (Xi Gua Pi / Xi Gua Cui Yi used medicinally), good quality pieces are thin, greenish on the outer surface, yellowish-white inside with visible vascular bundle patterns, brittle in texture, odourless, and bland in taste. Avoid darkened, mouldy, or overly thick rind pieces.
+
+### Identity & Adulterants
+As a common fresh fruit, watermelon itself is rarely adulterated. The main concern is with the dried medicinal rind (Xi Gua Cui Yi, 西瓜翠衣): it may sometimes be confused with winter melon (Dong Gua, 冬瓜) rind, which has different properties. Xi Gua Cui Yi should be clearly greenish on the outer surface with visible network-like vascular bundles, while winter melon rind is thicker and has a waxy bloom. For the prepared product Watermelon Frost (Xi Gua Shuang), counterfeit versions may substitute inferior crystalline powders that lack the authentic preparation method involving mirabilite and natural crystallisation.
+
+---
+
+## References
+### Classical Texts
+#### 《日用本草》(Rì Yòng Běn Cǎo, Daily Use Materia Medica)
+- **Original**: 消暑热，解烦渴，宽中下气，利小水，治血痢。
+- **Translation**: Clears summer-heat, relieves restless thirst, relaxes the middle and descends Qi, promotes urination, and treats bloody dysentery.
+
+### Historical Context
+The name Xi Gua (西瓜, literally 'Western Melon') reflects the traditional belief that the fruit was introduced to China from the western regions. According to the Ben Cao Gang Mu, the Song-era scholar Hu Qiao obtained watermelon seeds while among the Khitan people, who had in turn acquired them from the Uyghurs (回纥). This account places the introduction of watermelon into central China around the Five Dynasties period (10th century CE). However, the botanist Tao Hongjing (陶弘景) of the Liang Dynasty noted a 'cold melon' (寒瓜) from the Yongjia region centuries earlier, which Li Shizhen believed was an earlier, unnamed form of watermelon already present in eastern Zhejiang before it became widespread.
+Archaeological evidence complicates this narrative further: watermelon seeds have been found in Han Dynasty tombs in Guangxi and Jiangsu, and reportedly even at a Neolithic site in Zhejiang, potentially pushing the history of watermelon in China back thousands of years. The famous nickname 'Natural White Tiger Decoction' (天生白虎汤), attributed to Wang Ying's Shi Wu Ben Cao (《食物本草》), compares its heat-clearing and fluid-generating power to the classical formula Bai Hu Tang from the Shang Han Lun. This vivid comparison cemented watermelon's identity as the quintessential summer-heat remedy in Chinese medicine.
+A related medicinal product, Watermelon Frost (西瓜霜, Xi Gua Shuang), is made by packing the hollowed rind with mirabilite (Glauber's salt) and collecting the white crystals that form on the outer surface. This preparation became one of the most celebrated throat remedies in Chinese medicine, often called a 'sacred medicine for throat disorders' (喉科圣药).
+
+### Modern Scientific Research
+1. **[Watermelon and L-Citrulline in Cardio-Metabolic Health: Review of the Evidence 2000-2020 (Narrative Review, 2022)](https://pubmed.ncbi.nlm.nih.gov/34894302/)**
+   *Journal: Hong MY, Beidler J, Hooshmand S, Figueroa A, Kern M. Current Atherosclerosis Reports, 2022, 24(4), 223-234.*
+   This review examined preclinical and clinical trial evidence on watermelon and its signature compound L-citrulline for cardiovascular and metabolic health. The authors found that watermelon and L-citrulline supplementation reduced blood pressure in human trials and identified emerging benefits for glucose homeostasis, gut health, and brain health through nitric oxide bioavailability in tissues.
+
+2. **[Effects of L-citrulline supplementation and watermelon consumption on vascular function and cardiometabolic risk markers: A meta-analysis of RCTs in adults (Meta-analysis, 2022)](https://pubmed.ncbi.nlm.nih.gov/34863321/)**
+   *Journal: Smeets ETHC, Mensink RP, Joris PJ. British Journal of Nutrition, 2022, 128(7), 1393-1406.*
+   This meta-analysis of 17 randomised controlled trials found that longer-term L-citrulline supplementation significantly improved vascular endothelial function (flow-mediated dilation increased by 0.9 percentage points), while longer-term watermelon consumption improved arterial stiffness (pulse wave velocity decreased by 0.9 m/s). Postprandial glucose also decreased by 0.6 mmol/L after watermelon consumption.
+
+3. **[L-citrulline supplementation and watermelon intake reduce blood pressure in middle-aged and older adults: A systematic review and meta-analysis of RCTs (Meta-analysis, 2025)](https://pubmed.ncbi.nlm.nih.gov/40789388/)**
+   *Journal: Li P, Chen JF, Li K, Zhao J. Complementary Therapies in Medicine, 2025.*
+   A meta-analysis of 15 RCTs involving 415 middle-aged and elderly participants found that L-citrulline supplementation and watermelon intake significantly reduced systolic blood pressure by 4.02 mmHg and diastolic blood pressure by 2.54 mmHg. Combined supplementation of L-citrulline and L-arginine showed even more pronounced effects.
+
+4. **[Potential roles of Citrulline and watermelon extract on metabolic and inflammatory variables in diabetes mellitus (Systematic Review, 2020)](https://pubmed.ncbi.nlm.nih.gov/31612510/)**
+   *Journal: Aguayo E, Martínez-Sánchez A, Fernández-Lobato B, Alacid F. Diabetology & Metabolic Syndrome, 2020, 12, 40.*
+   This systematic review of 8 studies found that citrulline and watermelon extract supplementation increased nitric oxide synthesis, significantly reduced blood glucose in four studies, and decreased inflammatory biomarkers in two studies. The authors concluded these interventions could improve glycaemic status and inflammation in diabetes, though further mechanistic research is needed.
+
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/herbs/xi-gua](https://www.meandqi.com/knowledge-base/herbs/xi-gua)*

@@ -1,0 +1,74 @@
+# Chuan Xin Lian Kang Tang (穿心莲抗汤)
+**English Name**: Andrographis Anti-Inflammatory Decoction  
+**Category**: Heat-clearing formulas, Heat-clearing and toxin-resolving formulas  
+**Dynasty/Source**: Modern Chinese patent medicine formula (现代中成药方剂), widely standardized in Chinese Pharmacopoeia  
+**Temperature**: Cold | **Form**: Decoction (Tang)
+
+---
+
+## Summary
+A simple but powerful heat-clearing formula used to fight infections and inflammation throughout the body. It is commonly taken at the onset of colds, sore throats, and other conditions caused by excessive heat and toxins, working as a natural anti-inflammatory that targets the lungs, throat, and digestive system.
+
+---
+
+## Key Metadata
+- **TCM Actions**: Clears Heat and Resolves Toxicity, Clears Lung Heat, Cools the Blood, Reduces swelling and inflammation, Drains Fire, Clears Liver Fire, Drains Dampness
+- **Therapeutic Focus**: Immune Support, Respiratory Health, Throat Health, Infection Support
+- **Target Organs**: Lungs, Stomach, Large Intestine, Liver, Small Intestine, Urinary Bladder
+- **Patterns Addressed**: 
+- **Conditions Treated**: Sore Throat, Common Cold, Urinary Tract Infection, Bronchitis, Gastroenteritis, Dysentery, Pneumonia, Sore, Sinusitis, Tonsillitis, Lumps
+- **Other Names**: Chuan Xin Lian Kang Yan Pian (穿心莲抗炎片, Andrographis Anti-Inflammatory Tablet), Chuan Xin Lian Kang Yan Wan (穿心莲抗炎丸, Andrographis Anti-Inflammatory Pill), InflamClear
+
+---
+
+## Ingredients Composition
+| Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Chuan Xin Lian** | Andrographis | *King* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Large Intestine, Urinary Bladder | The chief herb and namesake of the formula. Chuan Xin Lian powerfully clears heat and resolves toxins, with a particular affinity for the Lung and Large Intestine channels. It addresses the core pathomechanism of toxic heat invading the body, directly combating infection and inflammation in the upper respiratory tract, throat, and intestines. |
+| **Ban Lan Gen** | Isatis root | *Deputy* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Stomach | Reinforces the King herb's heat-clearing and toxin-resolving action. Ban Lan Gen has a special affinity for the throat, cooling the blood and relieving swelling in the pharynx. It also has broad anti-viral properties that complement Chuan Xin Lian's antibacterial strength, broadening the formula's range against epidemic pathogens. |
+| **Pu Gong Ying** | Dandelion | *Assistant* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Stomach | Clears heat, resolves toxins, and disperses swelling and nodulations. Pu Gong Ying adds a dampness-draining quality and helps reduce abscesses and inflammatory swellings. It also gently supports Liver Qi flow and has a milder nature that softens the intense bitterness and cold of the other two herbs. |
+
+---
+
+## Scientific Research
+
+1. [Systematic review and meta-analysis of Andrographis paniculata for acute respiratory tract infections (2017)](https://doi.org/10.1371/journal.pone.0181780) (*Hu XY, Wu RH, Logue M, Blondel C, Lai LYW, Stuart B, et al. PLoS One, 2017, 12(8): e0181780*)
+> A comprehensive review of 33 randomized controlled trials involving 7,175 patients found that Andrographis paniculata preparations improved cough and sore throat symptoms compared to placebo, and appeared to shorten the time to symptom resolution in acute respiratory infections. The authors concluded the herb appears beneficial and safe but noted that study quality was generally poor.
+2. [Systematic review and meta-analysis on safety of Andrographis paniculata (2021)](https://doi.org/10.1002/pds.5190) (*Worakunphanich W, Thavorncharoensap M, Youngkong S, Thadanipon K, Thakkinstian A. Pharmacoepidemiology and Drug Safety, 2021, 30(6): 727-739*)
+> This systematic review and meta-analysis evaluated adverse event incidence from oral Andrographis paniculata monotherapy. The review concluded that while some adverse events can occur (mainly mild gastrointestinal complaints), the herb may be generally safe when used orally in standard preparations. The authors emphasized the need for larger, higher-quality safety studies.
+3. [Systematic review on adverse effects of andrographolide derivatives vs. herbal preparations of Andrographis paniculata (2022)](https://doi.org/10.3389/fphar.2022.773282) (*Front Pharmacol, 2022, 13: 773282*)
+> A large review of 262 clinical studies found that injectable andrographolide derivative medications can cause serious adverse reactions including rare anaphylaxis, while oral herbal preparations of Andrographis paniculata were found to be essentially safe, with adverse reactions limited mainly to mild gastrointestinal and skin complaints.
+4. [Preclinical study on herb-drug interaction between andrographolide and warfarin in rats (2018)](https://pubmed.ncbi.nlm.nih.gov/29983086/) (*Pharmaceutical Biology, 2018, 56(1): 398-404*)
+> This study found that andrographolide pretreatment increased the systemic exposure of warfarin in rats, likely by inhibiting CYP3A4 and CYP2C9 enzymes responsible for warfarin metabolism. The authors cautioned that dose adjustment should be considered when andrographolide and warfarin are used together.
+
+---
+
+## Safety & Usage Guidelines
+
+### Pregnancy
+Contraindicated during pregnancy. Chuan Xin Lian (Andrographis paniculata), the chief herb in this formula, has demonstrated anti-fertility effects in animal studies and may have uterine-stimulating properties. Its strongly bitter and cold nature also poses a risk of disrupting the stability needed to support pregnancy. Additionally, Xia Ku Cao (Prunella) and Bai Hua She She Cao (Oldenlandia) are cold-natured herbs that may further compromise the delicate balance required during gestation. Women who are pregnant or trying to conceive should not use this formula.
+
+### Breastfeeding
+Use with caution during breastfeeding. While there is no direct evidence of harm to nursing infants, the strongly bitter and cold properties of the formula's herbs (particularly Chuan Xin Lian and Bai Hua She She Cao) may theoretically transfer through breast milk and affect the infant's immature digestive system, potentially causing loose stools or decreased appetite. There is also limited safety data on andrographolide transfer into human breast milk. If acute treatment is needed, short-term use under professional supervision may be acceptable, but the infant should be monitored for any digestive changes. Prolonged use should be avoided.
+
+### Children
+This formula may be used in children under professional guidance, but requires significant dosage reduction due to its strongly bitter and cold nature. General guidelines: children under 3 years should generally avoid this formula; children aged 3 to 6 may take approximately one-quarter to one-third of the adult dose; children aged 7 to 12 may take approximately half the adult dose; adolescents over 12 may take two-thirds to the full adult dose. The bitter taste can be challenging for children, so tablet or teapill forms are often preferred. Duration should be kept short (3 to 5 days). Monitor closely for signs of digestive upset such as loose stools, nausea, or decreased appetite, which indicate the cold nature is affecting the child's Spleen. Discontinue immediately if these signs appear.
+
+### Drug Interactions
+Anticoagulant and antiplatelet medications (e.g. warfarin, heparin, aspirin, clopidogrel): Andrographolide, the main active compound in Chuan Xin Lian, has been shown in preclinical studies to potentially increase warfarin levels by inhibiting CYP3A4 and CYP2C9 enzyme activity. Lab studies also suggest possible inhibition of platelet aggregation. Patients on blood-thinning medications should use this formula only under medical supervision with appropriate monitoring of coagulation parameters.
+CYP450 substrate medications: Andrographis extract has been shown in laboratory studies to inhibit CYP1A2, CYP2C9, and CYP3A4. While the clinical significance in humans has not been fully established, this could theoretically alter the metabolism of many commonly prescribed drugs including certain statins, calcium channel blockers, benzodiazepines, and immunosuppressants. Caution is warranted when combining this formula with any medication metabolized by these enzymes.
+Antihypertensive medications: Andrographis may have mild blood pressure-lowering effects. Concurrent use with antihypertensive drugs could theoretically produce additive hypotensive effects. Blood pressure should be monitored.
+Immunosuppressant medications: Because Andrographis has immune-stimulating properties, long-term use may theoretically reduce the effectiveness of immunosuppressant drugs used after organ transplant or for autoimmune conditions.
+Hypoglycemic medications: Some evidence suggests andrographolide may influence blood sugar regulation. People taking diabetes medications should monitor blood glucose levels more closely if using this formula.
+
+
+---
+
+## Administration Details
+
+- **Best Time to Take**: 30 minutes after meals, 2 to 3 times daily, to reduce potential gastrointestinal irritation from the formula's bitter-cold nature.
+- **Typical Duration**: Acute use: 3 to 7 days. Not intended for prolonged use due to its strongly bitter and cold nature.
+- **Dietary Advice**: While taking this formula, avoid spicy, fried, greasy, and heavily seasoned foods, as these generate internal Heat and counteract the formula's cooling action. Avoid alcohol and smoking, which add Heat and Toxin to the body. Avoid rich, heavy, or tonifying foods (such as lamb, ginger tea, or strong herbal tonics) that may trap the pathogen inside. Favor light, easily digestible foods such as congee, steamed vegetables, pear, mung bean soup, and chrysanthemum tea, which support the body's Heat-clearing process. Stay well hydrated with room-temperature or slightly warm water. Because the formula is very cold in nature, avoid simultaneously eating cold or raw foods (such as ice cream or cold salads) to prevent excessive strain on digestion.
+
+---
+*Original URL: [https://www.meandqi.com/knowledge-base/formulas/chuan-xin-lian-kang-tang](https://www.meandqi.com/knowledge-base/formulas/chuan-xin-lian-kang-tang)*

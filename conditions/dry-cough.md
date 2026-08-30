@@ -1,0 +1,239 @@
+# Dry Cough (干咳)
+**Pinyin**: gān ké | **Kind**: Symptom | **Category**: Cough  
+**Synonyms**: Cough Without Phlegm, Nonproductive Cough, Hacking Cough, Dry cough with little or no phlegm, Dry cough with little or no mucus, Dry cough with no phlegm or very scanty sticky phlegm, Dry cough with scanty sticky phlegm, Cough with little sputum, Dry cough with little or sticky sputum, Dry cough with little phlegm, Dry cough with no or scanty sticky sputum, Dry cough with no phlegm or phlegm that is scanty and sticky, Night Dry Coughing, Dry Cough Which Is Worse In The Evening, Dry Cough Intensifies At Night, Evening Exacerbation Of Dry Cough | **Body Regions**: Chest
+
+---
+
+## Preview Summary
+A dry cough that starts suddenly in autumn with chills is a different condition from one that has lingered for months and worsens at night. TCM treats them with distinct formulas, ...
+
+---
+
+## Conventional Medicine View
+### Description
+A dry cough is a cough that produces little or no mucus. It can be triggered by viral infections, allergies, asthma, acid reflux, certain medications, or environmental irritants like dry air or smoke. When it lasts less than three weeks, it is usually considered acute; beyond eight weeks, it becomes chronic.
+Doctors typically investigate the cause with a physical exam, chest X-ray, or lung function tests. Treatment often targets the underlying condition - antihistamines for allergies, inhalers for asthma, or simply time and hydration for a post-viral cough.
+
+### Treatments
+Conventional care for a dry cough may include over-the-counter cough suppressants (dextromethorphan), lozenges, or humidified air. If a specific cause is identified, treatment might include antihistamines, nasal steroids, proton pump inhibitors for reflux, or bronchodilators. For persistent or severe coughs, prescription medications like codeine or gabapentin are sometimes used, though they carry side effects and dependency risks.
+
+---
+
+## Traditional Chinese Medicine View
+### TCM Understanding
+In TCM, the Lungs are the organ most sensitive to dryness. They govern the body's Qi and control the opening and closing of the pores, but they also need a fine layer of moisture to keep the airways supple and the voice clear. When that moisture is stripped away - by external dry air or by internal deficiency - the Lung Qi rebels upward instead of descending, and a dry cough begins.
+External causes are common in autumn or in heated indoor spaces. Cool, dry air can invade as a pathogen called Dry Cold, constricting the Lungs and producing a hacking cough with chills and no sweat. Warm, dry air creates Dry Heat, which consumes fluids more aggressively, leading to a scratchy throat, thirst, and sticky phlegm that is hard to bring up. Both are acute patterns that can resolve quickly once the invading dryness is dispersed and the Lungs are moistened.
+Internal patterns develop more slowly. When Lung Yin - the cooling, moistening energy of the Lungs - becomes depleted through overwork, chronic illness, or smoking, the airways lose their natural lubrication. The cough becomes chronic, often worse at night, and may be accompanied by a dry throat, night sweats, or a feeling of heat in the palms.
+If this deep deficiency drags on, it can pull on the Kidney Yin, which is the body's root reserve. Then the cough becomes even drier and is joined by low back soreness and fatigue. TCM treats each of these five patterns with its own specific herbal formula and acupuncture strategy.
+
+### Practitioner Diagnosis
+A TCM practitioner first asks when the cough started and what it feels like. A dry cough that appears suddenly in autumn or after exposure to dry, cool air points toward an external invasion. If it has been lingering for weeks or months and worsens at night, an internal deficiency pattern is more likely.
+If the dry cough is accompanied by chills, a scratchy throat, a thin white tongue coating, and a wiry pulse, the picture fits Exterior Dry Cold invading the Lungs. This pattern is common in cool, dry seasons and responds to formulas like Xing Su San (杏苏散), which gently disperse cool dryness and moisten the lungs.
+When the dry cough comes with a dry, sore throat, thirst, and sticky phlegm that is hard to bring up, the practitioner suspects Dry-Heat or Dry-Fire. The tongue may be redder with a thin yellow coating and the pulse feels rapid. This warm-dryness often appears in late summer or heated indoor environments, and calls for cooling, moistening herbs like those in Qing Zao Jiu Fei Tang (清燥救肺汤).
+A broader pattern called Lung Dryness shows a dry, hacking cough with scanty or no sputum and a dry sensation deep in the chest. This can arise from unresolved external dryness or from early yin deficiency. The tongue appears red with little moisture. The practitioner will ask about thirst and skin dryness to gauge fluid loss and may recommend Sha Shen Mai Dong Tang (沙参麦冬汤) to nourish lung fluids.
+If the dry cough has been present for a long time, worsens in the evening or at night, and the person also has a dry mouth and throat, Lung Yin Deficiency is the key pattern. The tongue is red with very little or no coating, and the pulse is thin and rapid. This internal deficiency requires deep nourishment of lung yin over a longer period.
+When dry cough becomes chronic and is joined by night sweats, lower back soreness, and a feeling of heat in the palms and soles, the deficiency has deepened to involve both Kidney and Lung Yin. The kidneys fail to send moisture up to the lungs, leading to a stubborn dry cough. This pattern needs simultaneous support of kidney and lung yin.
+
+### Classical Reference
+> **Original**: 「五藏六府皆令人咳，非独肺也。…… 肺咳之状，咳而喘息有音，甚则唾血。」
+> 
+> **Translation**: "All five zang and six fu organs can cause cough, not only the Lung. ... The cough of the Lung is characterized by coughing with panting and audible breath sounds, and in severe cases, spitting of blood. This passage established the foundational TCM understanding that dry cough can arise from multiple organ imbalances, not just the Lung itself."
+> 
+> — Source: *Huáng Dì Nèi Jīng (Yellow Emperor's Inner Classic), Sù Wèn  ,  Chapter 38, On Cough (Ké Lùn) 									·
+More references*
+
+---
+
+## TCM Patterns and Treatment
+
+### Exterior Dry Cold invading the Lungs
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/exterior-dry-cold-invading-the-lungs)*
+
+- **Clinical Signs & Symptoms**: Dry cough with little or thin watery phlegm, Chills and absence of sweating, Dry nose, mouth, and throat, Mild headache and slight body aches, Often triggered by cool, dry autumn weather, No significant fever or thirst
+- **Worse with**: Cold, dry, windy weather, Icy or raw foods and drinks, Overwork and late nights, Exposure to air conditioning or drafts
+- **Better with**: Warm drinks and soups, Steam inhalation or humidifier, Staying covered and warm, Rest in a calm, draft-free room
+- **Why this happens (Mechanism)**:
+  When cool, dry air invades the body, it constricts the Lung’s ability to open, spread, and descend Qi. This blockage forces the Lung Qi to rebel upward, producing a dry, hacking cough. Because the pathogen is cold-dry rather than hot-dry, the body’s fluids are not boiled into thick phlegm - instead, the Lung struggles to produce any moisture at all, leaving the cough dry or with only a little thin, watery sputum.
+The dryness also steals moisture from the nose, throat, and lips, while the cold component shuts the pores, causing chills without sweating and a mild headache as the defensive Qi fights at the surface.
+- **Tongue & Pulse**: Tongue: normal body colour (light red), thin white dry coating. Pulse: floating (浮 fú) and wiry (弦 xián).
+- **Triggers & Relief Explanation**: This pattern is an exterior invasion of cold-dryness. Warmth and moisture counteract the cold and dryness, helping the Lung open and spread Qi again. Cold, dry air and raw, chilly foods reinforce the pathogen, tightening the Lung and worsening the cough. Rest allows defensive Qi to focus on expelling the invader rather than being diverted to other activities.
+- **Diet & Lifestyle**: Keep the neck and chest covered against cool winds. Drink warm fluids like ginger tea with a little pear to moisten the throat. Use a humidifier at home and avoid dry, heated rooms. Steer clear of raw, cold foods and icy drinks, which can tighten the Lung further.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Xing Su San](https://www.meandqi.com/knowledge-base/formulas/xing-su-san)** | Apricot Kernel and Perilla Leaf Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Slightly Warm, Gently disperses Cool Dryness, Diffuses Lung Qi, Resolves Phlegm | The classic formula to gently disperse cool-dryness, open the Lung, and stop dry cough. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Zi Su Ye](https://www.meandqi.com/knowledge-base/herbs/zi-su-ye)** | Perilla leaf |  | Disperses exterior cold and opens the chest to relieve the cough. |
+| **[Xing Ren](https://www.meandqi.com/knowledge-base/herbs/xing-ren)** | Bitter apricot kernel |  | Moistens the Lung and redirects rebellious Qi downward to calm the hacking cough. |
+| **[Jie Geng](https://www.meandqi.com/knowledge-base/herbs/jie-geng)** | Balloon flower root |  | Opens and diffuses the Lung Qi, helping to expel the pathogen and soothe the throat. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | The back-shu point of the Lung; used with moxibustion or warm needling to dispel cold-dryness and regulate Lung Qi. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | Releases the exterior, opens the nose, and directs Lung Qi downward to stop cough. |
+| **BL-12** | [Fengmen BL-12](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/fengmen-bl-12) | F&#x113;ng M&#xE9;n | Expels Exterior Wind, Strengthens the Defensive Qi | Dispels wind-cold from the surface and strengthens the Lung&#x2019;s defensive function. |
+
+---
+
+### Dry-Heat or Dry-Fire
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/dry-heat-or-dry-fire)*
+
+- **Clinical Signs & Symptoms**: Dry cough with scanty sticky phlegm or none, Dry nose, mouth, and throat, Thirst with desire to drink, Mild fever or feeling of heat, Dry cracked lips and skin
+- **Worse with**: Spicy or fried foods, Hot, dry weather or indoor heating, Excessive talking, Smoke or pollution, Alcohol and coffee
+- **Better with**: Drinking cool water or pear juice, Resting in a cool room, Steam inhalation or humidifier, Moistening foods like pear, lily bulb, or white fungus soup, Avoiding spicy foods
+- **Why this happens (Mechanism)**:
+  Warm, dry external pathogens first attack the Lung, the organ most sensitive to dryness. The dryness consumes the Lung's moisture, leaving the airways parched and irritated, while the heat component drives Qi upward. This combination produces a persistent dry cough with scanty, sticky phlegm that is hard to expel.
+- **Tongue & Pulse**: Tongue: red and dry, often with cracks, a thin dry yellow coating, and a red tip. Pulse: floating and rapid, especially full at the right cun (Lung) position.
+- **Triggers & Relief Explanation**: Dry-Heat cough arises when warm, dry external pathogens invade the Lung and consume its fluids. Spicy and fried foods, alcohol, and hot weather add internal heat and further dry out the body, aggravating the cough. Cool, moist foods and environments help replenish fluids and counteract the dryness, while rest conserves Yin and allows the Lung to recover. Steam inhalation directly moistens the airways and soothes irritation.
+- **Diet & Lifestyle**: Drink plenty of warm fluids, such as pear juice or honey water. Avoid spicy, fried, or drying foods. Use a humidifier to keep indoor air moist, and rest your voice to spare the throat.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Qing Zao Jiu Fei Tang](https://www.meandqi.com/knowledge-base/formulas/qing-zao-jiu-fei-tang)** | Eliminate Dryness and Rescue the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, 1658 CE | Cool, Clears Heat and Moistens the Lungs, Nourishes Yin and Generates Fluids, Strengthens the Spleen and Lungs | The classic formula for dry-heat invading the Lungs; it clears heat, moistens dryness, and restores the Lung&#x27;s descending function. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Sang Ye](https://www.meandqi.com/knowledge-base/herbs/sang-ye)** | Mulberry leaf |  | Clears heat and moistens dryness, especially in the upper body. |
+| **[Xing Ren](https://www.meandqi.com/knowledge-base/herbs/xing-ren)** | Bitter apricot kernel |  | Directs Lung Qi downward and stops dry cough. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | The Lung Back-Shu point, directly calms cough and regulates Lung Qi. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | The Luo point of the Lung, releases the exterior and stops cough. |
+| **LI-4** | [Hegu LI-4](https://www.meandqi.com/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4) | H&#xE9; G&#x1D4; | Expels Exterior Wind, Regulates Defensive Qi | Clears heat and dispels external pathogens, often paired with Lieque. |
+| **DU-14** | [Dazhui DU-14](https://www.meandqi.com/knowledge-base/acupuncture/governing-vessel/dazhui-du-14) | D&#xE0; Chu&#xED; | Clears Wind-Heat, Releases the Exterior | Clears heat, especially useful when fever is present. |
+
+---
+
+### Lung Dryness
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/lung-dryness)*
+
+- **Clinical Signs & Symptoms**: Dry cough with scanty sticky phlegm or none, Dry nose, mouth, and throat, Dry cracked lips and skin, Slight fever and mild aversion to wind
+- **Worse with**: Dry, windy weather, Spicy or fried foods, Smoke or pollution, Excessive talking
+- **Better with**: Sipping warm water or pear juice, Steam inhalation or humidifier, Avoiding dry, windy weather, Rest and gentle breathing
+- **Why this happens (Mechanism)**:
+  Dryness invades the Lungs, depleting the fluids that keep the airways moist. Without enough moisture, the Lung Qi rebels upward, causing a dry, hacking cough with little or no phlegm.
+The dryness also affects the nose, mouth, and throat, leading to a parched sensation and thirst. A slight fever and mild aversion to wind may accompany, indicating an exterior attack.
+- **Tongue & Pulse**: Tongue: red body, dry surface, thin white or thin yellow dry coating. Pulse: floating and may be rapid, often fine.
+- **Triggers & Relief Explanation**: Dryness depletes Lung fluids, so moistening foods and humid air replenish them, while dry environments and spicy foods further consume fluids, worsening the cough.
+- **Diet & Lifestyle**: Eat moistening foods like pear, white fungus, and honey. Avoid spicy, dry, or fried foods. Use a humidifier in dry environments and stay well hydrated.
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Bei Sha Shen](https://www.meandqi.com/knowledge-base/herbs/bei-sha-shen)** | Coastal Glehnia Root |  | Nourishes Lung Yin and generates fluids, the chief herb for Lung Dryness. |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Moistens the Lungs, clears heat, and eases the throat. |
+| **[Sang Ye](https://www.meandqi.com/knowledge-base/herbs/sang-ye)** | Mulberry leaf |  | Clears and moistens the Lungs to relieve dryness. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Back-Shu point of the Lung; regulates Lung Qi and relieves cough. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | Lung Luo-Connecting point; releases the exterior and stops cough. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Nourishes Yin and moistens the throat to ease dryness. |
+
+---
+
+### Lung Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/lung-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Dry cough that worsens at night, Dry cough with scanty sticky phlegm or none, Dry nose, mouth, and throat, Night sweats, Afternoon fever or feeling of heat, Restlessness and irritability
+- **Worse with**: Hot, dry weather or indoor heating, Spicy or fried foods, Smoking and alcohol, Overwork and late nights, Emotional stress and worry
+- **Better with**: Steam inhalation or humidifier, Warm pear or honey tea, Adequate sleep and going to bed early, Moistening foods like pear, lily bulb, or white fungus soup
+- **Why this happens (Mechanism)**:
+  Lung Yin is the cooling, moistening aspect of the Lungs. When it becomes depleted - often from chronic illness, overwork, or smoking - the Lungs lose their ability to keep the airways moist and to properly descend Qi. This leads to a dry, non-productive cough.
+The deficiency also generates empty heat, which further dries the Lung, making any phlegm scanty and sticky. Because Yin energy is naturally lowest at night, the cough tends to worsen in the evening and overnight.
+- **Tongue & Pulse**: Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine (thin) and rapid, especially weak at the right cun (Lung) position.
+- **Triggers & Relief Explanation**: Lung Yin Deficiency means the body's cooling and moistening resources are low. Dry air, spicy foods, and stimulants further consume Yin and generate heat, intensifying the dry cough. Rest, especially at night, is when Yin regenerates; staying up late depletes it. Moistening foods and humidifiers directly replenish the fluids the Lungs need to soothe the airways and descend Qi properly.
+- **Diet & Lifestyle**: Eat moistening, Yin-nourishing foods like pear, white fungus, lily bulb, and honey. Avoid spicy, fried, or overly hot foods, as well as smoking and alcohol, which consume Yin. Use a humidifier in dry environments and get plenty of rest, especially avoiding late nights that deplete Yin further.
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Bei Sha Shen](https://www.meandqi.com/knowledge-base/herbs/bei-sha-shen)** | Coastal Glehnia Root |  | Nourishes Lung Yin and generates fluids, the key herb for Lung dryness. |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root |  | Moistens the Lungs, clears heat, and eases the throat. |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Tonifies Lung Yin and regulates Lung Qi. |
+| **LU-9** | [Taiyuan LU-9](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9) | T&#xE0;i Yu&#x101;n | Clears Phlegm, Descends Lung Qi | The Yuan-source point of the Lung channel, strengthens Lung Yin and Qi. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Nourishes Kidney Yin to support the Lungs and benefits the throat. |
+
+---
+
+### Kidney and Lung Yin Deficiency
+*Pattern Link: [Detailed Pattern Page](/knowledge-base/patterns/kidney-and-lung-yin-deficiency)*
+
+- **Clinical Signs & Symptoms**: Dry cough with scanty sticky phlegm or none, Low back and knee soreness and weakness, Night sweats, Afternoon fever or feeling of heat, Flushed cheekbones, Tinnitus or dizziness
+- **Worse with**: Overwork and late nights, Spicy or fried foods, Hot, dry weather or indoor heating, Smoke or pollution, Emotional stress and worry
+- **Better with**: Steam inhalation or humidifier, Eating pears or honey, Warm water sipped slowly, Adequate sleep and going to bed early, Rest and gentle breathing
+- **Why this happens (Mechanism)**:
+  A dry cough that lingers for a long time can drain the Lung's moisture and Yin. The Kidneys are the root of all Yin in the body, so when Lung Yin runs low, it eventually pulls on Kidney Yin. Once Kidney Yin can no longer send moisture up to the Lungs, the cough becomes deeper and drier, and other signs of Yin deficiency like night sweats, lower back soreness, and a sensation of heat in the palms and soles begin to appear.
+- **Tongue & Pulse**: Tongue: red, thin, and dry with little or no coating; cracks may appear. Pulse: fine (细 xì) and rapid (数 shuò), especially weak at the Lung (right cun) and Kidney (left chi) positions.
+- **Triggers & Relief Explanation**: Kidney and Lung Yin deficiency is a deep emptiness of the body's cooling, moistening resources. Overwork, late nights, and stress burn through Yin and generate heat, which further dries the Lungs and triggers coughing. Spicy and fried foods add heat and dryness. In contrast, rest, early nights, and moistening foods help preserve and rebuild Yin, while a humid environment soothes the dry airway directly.
+- **Diet & Lifestyle**: Focus on moistening, Yin-nourishing foods like pear, lily bulb, black sesame, honey, and congee. Avoid spicy, fried, or drying foods, as well as alcohol and coffee. Prioritize rest and go to bed early - staying up late is especially depleting for Kidney Yin. A cool-mist humidifier in the bedroom can help soothe a dry throat and cough at night.
+
+#### Recommended Formulas
+| Formula Name | Translation | Actions & Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Bai He Gu Jin Tang](https://www.meandqi.com/knowledge-base/formulas/bai-he-gu-jin-tang)** | Lily Bulb Decoction to Preserve the Metal &#xB7; M&#xED;ng dynasty, c. 1573 CE | Cool, Nourishes Yin and Moistens Dryness, Nourishes Kidney Yin, Resolves Phlegm and Stops Cough | Nourishes Lung and Kidney Yin, clears deficiency heat, and stops coughing. It is the classic formula for a deep Yin deficiency cough with blood-streaked sputum and night sweats. |
+| **[Xing Su San](https://www.meandqi.com/knowledge-base/formulas/xing-su-san)** | Apricot Kernel and Perilla Leaf Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE | Slightly Warm, Gently disperses Cool Dryness, Diffuses Lung Qi, Resolves Phlegm | A classical formula used to treat autumn coughs with chills, thin phlegm, nasal congestion, and dry throat caused by cool, dry weather. It gently disperses the cold-dry pathogen from the body&#x27;s exterior while restoring the Lung&#x27;s ability to manage fluids and resolve phlegm. |
+| **[Qing Zao Jiu Fei Tang](https://www.meandqi.com/knowledge-base/formulas/qing-zao-jiu-fei-tang)** | Eliminate Dryness and Rescue the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, 1658 CE | Cool, Clears Heat and Moistens the Lungs, Nourishes Yin and Generates Fluids, Strengthens the Spleen and Lungs | A classical formula for dry, irritated lungs caused by warm-dry environmental conditions that have damaged both the moisture and Qi of the Lungs. It is commonly used for dry cough with no phlegm, wheezing, dry throat and nose, thirst, and mild fever, especially during dry autumn weather or after a feverish illness has dried out the respiratory system. |
+| **[Bai He Gu Jin Tang](https://www.meandqi.com/knowledge-base/formulas/bai-he-gu-jin-tang)** | Lily Bulb Decoction to Preserve the Metal &#xB7; M&#xED;ng dynasty, c. 1573 CE | Cool, Nourishes Yin and Moistens Dryness, Nourishes Kidney Yin, Resolves Phlegm and Stops Cough | A classical formula for nourishing the Lungs and Kidneys when they have become too dry and hot internally. It is commonly used for chronic dry cough, sore throat, blood-tinged sputum, night sweats, and afternoon fevers caused by a deep depletion of the body&#x27;s moistening fluids. The name means &quot;Lily Bulb Decoction to Preserve the Metal,&quot; where &quot;Metal&quot; refers to the Lungs in TCM&#x27;s Five Phase system. |
+
+#### Recommended Herbs
+| Herb Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- |
+| **[Bai He](https://www.meandqi.com/knowledge-base/herbs/bai-he)** | Lily bulb |  | Moistens the Lungs, clears heat, and calms a dry, irritated cough. |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root |  | Replenishes Kidney Yin and essence, the deep source of moisture for the whole body. |
+| **[Zi Su Ye](https://www.meandqi.com/knowledge-base/herbs/zi-su-ye)** | Perilla leaf | Warm, Releases the Exterior and Disperses Wind-Cold, Regulates Qi and Harmonizes the Middle Burner, Resolves Seafood Poisoning |  |
+| **[Xing Ren](https://www.meandqi.com/knowledge-base/herbs/xing-ren)** | Bitter apricot kernel | Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels |  |
+| **[Jie Geng](https://www.meandqi.com/knowledge-base/herbs/jie-geng)** | Balloon flower root | Neutral, Diffuses Lung Qi, Expels Phlegm, Benefits the Throat |  |
+| **[Sang Ye](https://www.meandqi.com/knowledge-base/herbs/sang-ye)** | Mulberry leaf | Cold, Disperses Wind-Heat, Clears Heat and Moistens the Lungs, Clears Liver Heat and Brightens the Eyes |  |
+| **[Bei Sha Shen](https://www.meandqi.com/knowledge-base/herbs/bei-sha-shen)** | Coastal Glehnia Root | Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat |  |
+| **[Mai Dong](https://www.meandqi.com/knowledge-base/herbs/mai-dong)** | Ophiopogon root | Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability |  |
+| **[Bai He](https://www.meandqi.com/knowledge-base/herbs/bai-he)** | Lily bulb | Slightly Cool, Nourishes Lung Yin, Clears the Heart and calms the spirit, Stops Cough |  |
+| **[Shu Di Huang](https://www.meandqi.com/knowledge-base/herbs/shu-di-huang)** | Prepared Rehmannia root | Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow |  |
+
+#### Recommended Acupuncture Points
+| Point Code | Point Name | Translation | Properties | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **BL-13** | [Feishu BL-13](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13) | F&#xE8;i Sh&#x16B; | Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi | Back-Shu point of the Lung; directly nourishes Lung Yin and stops coughing. |
+| **BL-23** | [Shenshu BL-23](https://www.meandqi.com/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23) | Sh&#xE8;n Sh&#x16B; | Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence | Back-Shu point of the Kidney; strengthens Kidney Yin to support the Lungs. |
+| **KI-3** | [Taixi KI-3](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3) | T&#xE0;i X&#x12B; | Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi | Kidney Yuan-source point; deeply tonifies Kidney Yin and anchors deficiency fire. |
+| **KI-6** | [Zhaohai KI-6](https://www.meandqi.com/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6) | Zh&#xE0;o H&#x1CE;i | Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel | Nourishes Yin, benefits the throat, and clears deficiency heat. |
+| **LU-7** | [Lieque LU-7](https://www.meandqi.com/knowledge-base/acupuncture/lung-meridian/lieque-lu-7) | Li&#xE8; qu&#x113; | Descends and diffuses the Lung Qi, Expels Wind from the Exterior | Luo-connecting point of the Lung; directs Lung Qi downward and eases a dry cough. |
+
+---
+
+## Frequently Asked Questions
+### Can TCM help a dry cough that has lasted for weeks?
+Yes, especially if conventional treatments haven't worked. A lingering dry cough often signals an internal pattern like Lung Yin Deficiency or Lung Dryness, which TCM addresses by nourishing the moisture of the Lungs rather than just suppressing the cough. Many people see improvement within two to four weeks of herbs and acupuncture, though deeper deficiencies may take longer.
+
+### What foods should I eat or avoid with a dry cough?
+Favour moistening foods like pears, apples, honey, white fungus, lily bulb, and tofu. Warm soups and congee are gentle on the throat. Avoid spicy, fried, or greasy foods, alcohol, and coffee - these are drying and can irritate the Lungs further. If your cough is from a cold-dry pattern, warm drinks and ginger can help; if from heat, cool water and pear juice are better.
+
+### Is it safe to take Chinese herbs with my prescription cough medicine?
+In most cases, yes, but always inform both your TCM practitioner and your doctor about everything you are taking. Some herbs have mild sedative effects and could increase drowsiness if combined with codeine or similar drugs. A qualified herbalist will adjust the formula to avoid any overlap and ensure safety.
+
+### How quickly will acupuncture relieve my dry cough?
+Many people feel some throat comfort and reduced coughing immediately after a session, but lasting relief builds over several treatments. For acute dry coughs, 2-3 sessions may be enough. Chronic cases typically require weekly acupuncture for 4-6 weeks alongside herbs to address the root deficiency.
+
+### Why does my dry cough get worse at night?
+In TCM, night-time is when Yin energy should be most active, cooling and moistening the body. If you are already Yin-deficient, the balance tips further, and the Lungs become even drier. This is why a cough from Lung Yin Deficiency or Kidney and Lung Yin Deficiency often intensifies in the evening or when lying down. Treatment focuses on rebuilding Yin to correct this pattern.
+
+### Can children take Chinese herbs for a dry cough?
+Yes, children respond well to TCM, but the dosage and formula must be tailored to their age and constitution. Pediatric formulas are gentler and often come as granules or syrups. Always consult a practitioner experienced in treating children, and never give adult doses.
+
+---
+
+*Original URL: [https://www.meandqi.com/knowledge-base/conditions/dry-cough](https://www.meandqi.com/knowledge-base/conditions/dry-cough)*
