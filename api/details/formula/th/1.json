@@ -1,0 +1,778 @@
+{
+  "id": 1,
+  "name": "Jia Wei Xiao Yao San",
+  "thai_name": "ผง Wanderer ฟรีและเสริมง่าย",
+  "chinese_name": "加味逍遥散",
+  "english_name": "Augmented Free and Easy Wanderer Powder",
+  "url": "/knowledge-base/formulas/jia-wei-xiao-yao-san",
+  "summary": "สูตรคลาสสิกที่ใช้กันอย่างแพร่หลายสำหรับความเครียดทางอารมณ์ ความหงุดหงิด และความไม่สมดุลของฮอร์โมน ช่วยบรรเทาตับ ขจัดความร้อนภายในจากความหงุดหงิด เสริมสร้างการย่อยอาหาร และบำรุงเลือด มีประโยชน์โดยเฉพาะอย่างยิ่งสำหรับความผิดปกติของประจำเดือน อาการวัยหมดประจำเดือน ความวิตกกังวล และอารมณ์แปรปรวนที่เกิดจากความเครียดและความอ่อนแอที่แฝงอยู่",
+  "categories": "[\"สูตรที่ประสานกัน สูตรควบคุม Qi\"]",
+  "tcm_actions": "[\"บำรุงตับ แก้ข้อจำกัด ขจัดความร้อนจากตับและเลือด บำรุงเลือด เสริมสร้างม้าม ประสานตับและม้าม ควบคุมประจำเดือน\"]",
+  "therapeutic_focus": "[\"ความเครียดและความวิตกกังวล สุขภาพประจำเดือน การสนับสนุนวัยหมดประจำเดือน การสนับสนุนการนอนหลับ\"]",
+  "target_organs": "[\"ตับ\", \"ม้าม\", \"หัวใจ\"]",
+  "temperature": "เย็นเล็กน้อย",
+  "preparation_form": "ยาผง (ซ่าน / San)",
+  "dynasty": "Nèi Kē Zhāi Yào (内科摘要, Summary of Internal Medicine) by Xuē Jǐ (薛己)",
+  "conditions": "[\"อาการวัยหมดประจำเดือน\", \"อาการซึมเศร้า\", \"กลุ่มอาการก่อนมีประจำเดือน\", \"ประจำเดือนมาไม่ปกติ\", \"ความวิตกกังวล\", \"นอนไม่หลับ\", \"โรคตับอักเสบเรื้อรัง\", \"โรคเต้านมอักเสบเรื้อรัง\", \"โรคกระเพาะเรื้อรัง\", \"ประจำเดือน\", \"สิว\", \"อาการลำไส้แปรปรวน\"]",
+  "patterns": "[]",
+  "other_names": "[\"Dan Zhi Xiao Yao San (丹栀逍遥散, Moutan and Gardenia Free and Easy Wanderer Powder)\", \"Dan Zhi Xiao Yao Wan (丹栀逍遥丸, Moutan and Gardenia Free and Easy Wanderer Pill)\", \"Free and Easy Wanderer Plus\"]",
+  "pregnancy": "ใช้ด้วยความระมัดระวัง (慎用) สูตรนี้ประกอบด้วยหมู่ด่านปี่ (เปลือกเมาตัน) ซึ่งช่วยเติมพลังให้เลือด และมักได้รับการเตือนไม่ให้ตั้งครรภ์เนื่องจากมีศักยภาพในการกระตุ้นการทำงานของมดลูก ดังกุย (ราก Angelica) ยังช่วยเคลื่อนย้ายเลือด และในทางทฤษฎีสามารถส่งเสริมการไหลเวียนของประจำเดือนได้ Zhi Zi (ผลไม้พุด) มีลักษณะเย็นและมีฤทธิ์ลดลงอย่างมาก แม้ว่าสมุนไพรเหล่านี้จะไม่จัดว่าเป็นยาทำแท้งที่ต้องห้ามอย่างเคร่งครัด (禁用) แต่การผสมผสานระหว่างการเคลื่อนย้ายเลือดและการให้ความร้อนทำให้สูตรนี้ไม่เหมาะสำหรับการใช้เป็นประจำในระหว่างตั้งครรภ์โดยไม่มีการดูแลจากผู้เชี่ยวชาญ เภสัชตำรับจีนแสดงรายการแบบฟอร์มสิทธิบัตรยา (Jia Wei Xiao Yao Wan) ว่า \"สตรีมีครรภ์ใช้ด้วยความระมัดระวัง\" (孕妇慎用) หากหญิงตั้งครรภ์มีรูปแบบตรงตามที่สูตรนี้ปฏิบัติ แพทย์ที่มีคุณสมบัติเหมาะสมอาจสั่งยาฉบับแก้ไขโดยลดขนาดยาลง แต่ควรหลีกเลี่ยงการรับประทานยาด้วยตนเองในระหว่างตั้งครรภ์",
+  "breastfeeding": "โดยทั่วไปถือว่าเข้ากันได้กับการให้นมบุตรเมื่อรับประทานในขนาดมาตรฐานภายใต้คำแนะนำของผู้เชี่ยวชาญ แต่ควรใช้ความระมัดระวัง Gan Cao (ชะเอมเทศ) มีไกลซีร์ไรซิน ซึ่งสามารถถ่ายโอนไปยังน้ำนมแม่ได้ในทางทฤษฎี และส่งผลต่อความสมดุลของอิเล็กโทรไลต์ของทารกหากได้รับในปริมาณสูง แม้ว่าจะยังไม่มีการศึกษาอย่างดีก็ตาม Mu Dan Pi และ Zhi Zi เป็นสมุนไพรที่ทำให้เย็นลงโดยไม่มีผลเสียใดๆ ต่อการให้นมบุตรหรือการให้นมบุตรในปริมาณการรักษาตามปกติ Dang Gui และ Bai Shao มักใช้หลังคลอดในการแพทย์แผนจีนเพื่อช่วยฟื้นฟูเลือด และไม่ถือว่าเป็นอันตรายระหว่างให้นมบุตร อย่างไรก็ตาม เนื่องจากลักษณะการทำความเย็นของสูตรในทางทฤษฎีสามารถลดการผลิตน้ำนมในมารดาที่มีภาวะพร่องม้าม-ยัง (ความเย็นทำให้การย่อยอาหารและการผลิตน้ำนมอ่อนลงตามทฤษฎี TCM) มารดาที่มีปริมาณน้ำนมน้อยจึงควรใช้ด้วยความระมัดระวัง ไม่มีการศึกษาทางเภสัชจลนศาสตร์อย่างเป็นทางการเกี่ยวกับการถ่ายโอนน้ำนมแม่สำหรับสูตรนี้ แนะนำให้มีการดูแลอย่างมืออาชีพ",
+  "children": "แหล่งข้อมูลคลาสสิก เช่น Nei Ke Zhai Yao กล่าวถึงการใช้ยาในเด็ก รวมถึงแผลในปากและลิ้น และอาการแน่นหน้าอก/เต้านมในเด็ก สูตรนี้สามารถใช้ได้ในเด็กเมื่อรูปแบบเข้ากันได้อย่างชัดเจน (ข้อจำกัดของตับโดยมีอาการความร้อนและม้ามอ่อนแรง) แต่ต้องลดขนาดยาลงอย่างมากตามอายุและน้ำหนักตัว คำแนะนำทั่วไปคือประมาณหนึ่งในสามถึงครึ่งหนึ่งของปริมาณผู้ใหญ่สำหรับเด็กอายุ 6-12 ปี และหนึ่งในสี่สำหรับเด็กอายุต่ำกว่า 6 ปี ลักษณะความเย็นและขมของ Zhi Zi (Gardenia) และ Mu Dan Pi (เปลือกภูเขา) อาจรุนแรงต่อระบบย่อยอาหารที่ยังไม่บรรลุนิติภาวะ ดังนั้นเด็กที่มีการย่อยอาหารไม่ดีจึงอาจทนต่อสูตรนี้ไม่ดี รูปแบบเม็ดยาหรือเม็ดเข้มข้นที่มีขนาดยาลดลงเป็นที่นิยมมากกว่ายาต้มแบบเต็มๆ เพื่อความอร่อย โดยทั่วไปสูตรนี้ไม่ได้ใช้กับเด็กเล็ก (อายุต่ำกว่า 3 ปี) และควรกำหนดโดยแพทย์ที่มีคุณสมบัติเหมาะสมซึ่งสามารถแยกแยะรูปแบบได้อย่างถูกต้องเท่านั้น ในญี่ปุ่น ยาคัมโป (คามิ-โชโย-ซัง) ใช้ในกุมารเวชศาสตร์สำหรับอาการหงุดหงิดและอารมณ์แปรปรวน โดยทั่วไปจะต้องปรับขนาดยาอย่างระมัดระวัง",
+  "drug_interactions": "ยาแก้ซึมเศร้า (SSRIs, SNRIs, tricyclics): Jia Wei Xiao Yao San อาจส่งผลต่อเซโรโทนิน, โดปามีนและวิถีทาง GABA การใช้ยาร่วมกับเซโรโทเนอร์จิกสามารถเพิ่มความเสี่ยงของผลข้างเคียงที่เกี่ยวข้องกับเซโรโทนินในทางทฤษฎีได้ การทดลองทางคลินิกได้รวมสูตรนี้เข้ากับยาแก้ซึมเศร้าและรายงานเหตุการณ์ไม่พึงประสงค์ที่ลดลงมากกว่าที่จะเกิดเพิ่มขึ้น แต่ยังคงแนะนำให้มีการติดตามอย่างใกล้ชิด และควรหลีกเลี่ยงการรวมยาด้วยตนเองโดยไม่ได้รับคำแนะนำจากผู้เชี่ยวชาญ\nยาลดความดันโลหิตและยาขับปัสสาวะ: Gan Cao (รากชะเอมเทศ) มี glycyrrhizin ซึ่งอาจทำให้กักเก็บโซเดียม สูญเสียโพแทสเซียม และความดันโลหิตสูง สิ่งนี้อาจต่อต้านยาลดความดันโลหิตหรือทำให้ภาวะโพแทสเซียมในเลือดต่ำลงเมื่อใช้ร่วมกับยาขับปัสสาวะที่ทำให้โพแทสเซียมลดลง ผู้ป่วยที่รับประทานยาลดความดันโลหิตควรได้รับการตรวจติดตามปริมาณชะเอมเทศ\nWarfarin และสารกันเลือดแข็ง: Dang Gui (Angelica sinensis) มีคูมารินและอาจเพิ่มผลของยาต้านการแข็งตัวของเลือด มู่ดันปี่ยังมีคุณสมบัติในการทำให้เลือดชุ่มชื่นเล็กน้อย การใช้ร่วมกับวาร์ฟารินหรือยาละลายลิ่มเลือดอื่นๆ อาจเพิ่มความเสี่ยงต่อการตกเลือด และรับประกันการติดตาม INR\nสารเคมีบำบัด (5-fluorouracil, paclitaxel, tamoxifen): การศึกษาพรีคลินิกแสดงให้เห็นว่า Jia Wei Xiao Yao San สามารถเปลี่ยนเภสัชจลนศาสตร์ของยาเคมีบำบัดบางชนิดได้ JWXYS ขนาดสูงช่วยเพิ่มครึ่งชีวิตของ 5-FU ในสมองในขณะที่ลดการกวาดล้าง สูตรนี้ลด AUC และ Cmax ของยา Paclitaxel ลงประมาณ 1.5 เท่า สำหรับทามอกซิเฟน ปริมาณปานกลางถึงสูงไม่ส่งผลต่อน้ำหนักเนื้องอกหรือการแสดงออกของยีนที่สำคัญอย่างมีนัยสำคัญ แต่ขนาดต่ำแสดงการแสดงออกของ LC3-II ที่ลดลง ปฏิสัมพันธ์เหล่านี้อิงตามแบบจำลองของสัตว์ และความสำคัญทางคลินิกยังไม่ชัดเจน แต่การให้คำปรึกษาด้วยความระมัดระวังและการปรึกษาจากแพทย์ด้านเนื้องอกวิทยาถือเป็นสิ่งสำคัญ\nการบำบัดทดแทนฮอร์โมนและยาคุมกำเนิด: Dang Gui และ Gan Cao ต่างก็มีคุณสมบัติเป็นฮอร์โมนเอสโตรเจนเล็กน้อย แม้ว่าสูตรนี้ไม่ได้รับการพิสูจน์ว่าทำหน้าที่เป็นไฟโตเอสโตรเจน แต่ผู้ป่วยที่มีภาวะไวต่อฮอร์โมน (เช่น มะเร็งเต้านม ER+) ควรปรึกษาความเสี่ยงและประโยชน์กับแพทย์ก่อนใช้\nคอร์ติโคสเตียรอยด์และดิจอกซิน: Glycyrrhizin ใน Gan Cao สามารถกระตุ้นผลกระทบของคอร์ติโคสเตียรอยด์และทำให้ภาวะโพแทสเซียมในเลือดแย่ลง ซึ่งเป็นอันตรายอย่างยิ่งในผู้ป่วยที่รับประทานดิจอกซิน (โพแทสเซียมต่ำเพิ่มความเป็นพิษของดิจอกซิน)",
+  "best_time_to_take": "หลังอาหาร วันละ 2-3 ครั้ง การรับประทานอาหารหลังอาหารจะช่วยปกป้องกระเพาะจากสมุนไพรที่ทำให้เย็นและขม (Zhi Zi, Mu Dan Pi) และส่งเสริมการทำงานของม้ามให้แข็งแรง",
+  "typical_duration": "โดยทั่วไปจะใช้เวลา 4-8 สัปดาห์ แล้วประเมินใหม่ อาจดำเนินต่อไปได้นานกว่าสำหรับอาการเรื้อรังภายใต้คำแนะนำของผู้เชี่ยวชาญ แต่โดยทั่วไปไม่แนะนำอย่างต่อเนื่องเกิน 6 เดือนโดยไม่มีการประเมินซ้ำ",
+  "dietary_advice": "ในขณะที่ใช้สูตรนี้ ควรหลีกเลี่ยงอาหารมันเยิ้ม ทอด หรืออุดมไปด้วยมากเกินไป ซึ่งอาจขัดขวางการไหลของ Qi และทำให้ตับทำงานหนักขึ้น อาหารรสเผ็ดร้อน (พริก แอลกอฮอล์เข้มข้น กาแฟมากเกินไป) ควรจำกัด เนื่องจากอาหารเหล่านั้นจะสร้างความร้อนภายในและขัดขวางการทำความเย็นของสูตร อาหารดิบและอาหารเย็น (ไอศกรีม สลัดเย็น เครื่องดื่มเย็น) ควรได้รับการดูแลในระดับปานกลาง เนื่องจากอาหารเหล่านี้อาจทำให้ม้ามอ่อนแอลง ซึ่งสูตรนี้กำลังทำงานเพื่อเสริมสร้างความแข็งแรง\nอาหารที่สนับสนุนการทำงานของสูตร ได้แก่ ธัญพืชที่ไม่รุนแรงและย่อยง่าย (ข้าว ลูกเดือย) ผักใบเขียวที่ปรุงสุกเล็กน้อย (โดยเฉพาะผักใบเขียวซึ่งช่วยบำรุงตับ) ชามิ้นต์หรือเก๊กฮวยในปริมาณเล็กน้อย (ที่ช่วยคลายความร้อนและบรรเทาตับอย่างอ่อนโยน) และอาหารที่ช่วยบำรุงเลือด เช่น ผักใบเขียว หัวบีท และอินทผลัมสีแดงในปริมาณเล็กน้อย โดยทั่วไปตำราคลาสสิกแนะนำให้รักษาสภาวะทางอารมณ์ที่สงบในระหว่างการรักษา และหลีกเลี่ยงความโกรธและความกังวลที่มากเกินไป เนื่องจากความปั่นป่วนทางอารมณ์จะทำให้อาการที่สูตรกำลังรักษาแย่ลงโดยตรง",
+  "ingredients": [
+    {
+      "herb_name": "Chai Hu",
+      "english_name": "รากบูพลูรัม",
+      "role": "ราชา (King)",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "ราก Angelica จีน",
+      "role": "ขุนนาง (Deputy)",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Bai Shao",
+      "english_name": "รากดอกโบตั๋นสีขาว",
+      "role": "ขุนนาง (Deputy)",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Mu Dan Pi",
+      "english_name": "เปลือกรากดอกโบตั๋นต้นไม้",
+      "role": "ขุนนาง (Deputy)",
+      "dosage": "3 - 6g"
+    },
+    {
+      "herb_name": "Zhi Zi",
+      "english_name": "ผลไม้พุด",
+      "role": "ขุนนาง (Deputy)",
+      "dosage": "3 - 6g"
+    },
+    {
+      "herb_name": "Bai Zhu",
+      "english_name": "เหง้า Atractylodes สีขาว",
+      "role": "ผู้ช่วย (Assistant)",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Fu Ling",
+      "english_name": "โพเรีย",
+      "role": "ผู้ช่วย (Assistant)",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Bo He",
+      "english_name": "สมุนไพรเปปเปอร์มินท์",
+      "role": "ผู้ส่งสาร (Envoy)",
+      "dosage": "2 - 3g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "รากชะเอมเทศ",
+      "role": "ผู้ส่งสาร (Envoy)",
+      "dosage": "3 - 6g"
+    }
+  ],
+  "research": [
+    {
+      "id": 1,
+      "formula_id": 1,
+      "title": "Meta-analysis of 14 RCTs: Free and Easy Wanderer Plus (Jia Wei Xiao Yao San) for depressive disorders (2012)",
+      "description": "This meta-analysis identified 14 high-quality RCTs evaluating Jia Wei Xiao Yao San (referred to as Free and Easy Wanderer Plus) in patients with depressive disorders. The pooled results showed statistically greater treatment effects for the formula as monotherapy compared to placebo, and for the formula combined with conventional antidepressants compared to antidepressants alone. Patients taking the formula experienced fewer adverse events such as dizziness, headache, dry mouth, nausea, and constipation compared to those on conventional antidepressants alone. The authors noted that while evidence remains limited, the overall benefit profile appeared favorable.",
+      "url": "https://doi.org/10.1016/j.jpsychires.2012.01.022",
+      "periodical": "Qin F, Wu XA, Tang Y, Huang Q, Zhang ZJ, Yuan JH. Journal of Psychiatric Research, 2012, 46(5), 586-594."
+    },
+    {
+      "id": 2,
+      "formula_id": 1,
+      "title": "Review: Jiawei Xiaoyao San in treatment of anxiety disorder and anxiety (2023)",
+      "description": "This comprehensive review examined both animal experiments and clinical trials of Jia Wei Xiao Yao San for anxiety disorders. Clinical trials showed the formula could reduce anxiety symptoms when used alone and reduce adverse reactions when combined with conventional anxiolytics. Preclinical studies demonstrated reduced anxiety-like behavior in animal models. Proposed mechanisms include regulation of the hypothalamic-pituitary-adrenal (HPA) axis, modulation of neurotransmitter levels (serotonin, dopamine, GABA), promotion of neurogenesis, and regulation of related enzyme synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37265769/",
+      "periodical": "Chinese Herbal Medicines, 2023, 15(3), 345-352."
+    },
+    {
+      "id": 3,
+      "formula_id": 1,
+      "title": "Multicenter RCT: Jia Wei Xiao Yao San vs. sertraline for mild-to-moderate depression and anxiety (2019)",
+      "description": "In this 8-week multicenter trial, 192 patients with mild-to-moderate depression and anxiety were randomized to receive either Jia Wei Xiao Yao San or sertraline. The formula group showed similar improvements in Hamilton Depression Rating Scale (HAMD), Hamilton Anxiety Rating Scale (HAMA), and Clinical Global Impression Scale scores compared to sertraline. Benefits were sustained at 12-week follow-up. The formula also improved sleep quality and was associated with a lower rate of adverse events, though the difference did not reach statistical significance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31680482/",
+      "periodical": "Rui D et al. Journal of Traditional Chinese Medicine, 2019."
+    },
+    {
+      "id": 4,
+      "formula_id": 1,
+      "title": "Pharmacokinetic interaction study: Jia Wei Xiao Yao San with paclitaxel in rats (2016)",
+      "description": "This preclinical study investigated herb-drug interactions between Jia Wei Xiao Yao San and paclitaxel in a rat model. The formula decreased the area under the curve (AUC) and peak concentration (Cmax) of paclitaxel by approximately 1.5-fold in both plasma and lymph, and increased paclitaxel's half-life from 73 to 111 minutes. These findings suggest the formula may alter paclitaxel pharmacokinetics, likely through effects on CYP3A4 enzymes and P-glycoprotein transport, and warrant caution when co-administering with chemotherapy.",
+      "url": "https://doi.org/10.1155/2016/5765260",
+      "periodical": "Wen KC et al. Evidence-Based Complementary and Alternative Medicine, 2016, Article ID 5765260."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 27,
+      "name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "pattern_id": 263,
+      "name": "Jia Wei Xiao Yao San"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 40,
+      "pattern_name": "Obstruction Of the Spleen By Dampness with Liver Qi Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 40,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 63,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 63,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 75,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 75,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 97,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 97,
+      "pattern_name": "Qi-Phlegm",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 109,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 109,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 138,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 138,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 179,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 179,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 182,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 182,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 200,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 200,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 200,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 234,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 234,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 291,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 291,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 294,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 294,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 312,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 312,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 314,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 314,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 336,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 336,
+      "pattern_name": "Blood Stagnation and Phlegm in the Uterus",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 338,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 338,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 373,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 373,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 386,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 386,
+      "pattern_name": "Damp-Heat invading the Spleen",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 434,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 434,
+      "pattern_name": "Lung Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 487,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 487,
+      "pattern_name": "Heat in the Blood",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 492,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 492,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 620,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 620,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 688,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 688,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 838,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 838,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 851,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 851,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 856,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 856,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 856,
+      "pattern_name": "Heart and Kidney Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 857,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 857,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 861,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 861,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 862,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 862,
+      "pattern_name": "Exterior Cold invading with Interior Heat from Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 865,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 865,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 867,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 867,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 871,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 871,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 883,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 883,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 888,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 888,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 897,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 897,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 911,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 911,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 914,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 914,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 925,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 925,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 927,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 927,
+      "pattern_name": "Wind-Cold",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 966,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 966,
+      "pattern_name": "Damp-Heat in the Liver",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1058,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1058,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1107,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1107,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1133,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1133,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1176,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1176,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1186,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1186,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1191,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1191,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1221,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1221,
+      "pattern_name": "Stomach and Lung Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1287,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1287,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1323,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1323,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1328,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1328,
+      "pattern_name": "Kidney and Heart Qi Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1331,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1331,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1386,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1386,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1388,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1388,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1417,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1417,
+      "pattern_name": "Full-Heat in the Small Intestine",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1434,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1434,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1452,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1452,
+      "pattern_name": "Disharmony between Heart and Kidneys",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1475,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1475,
+      "pattern_name": "Qi-Phlegm",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1478,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1478,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1491,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1491,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1497,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1497,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1535,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1535,
+      "pattern_name": "Qi-Phlegm",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1570,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1570,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1578,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    },
+    {
+      "condition_id": 1578,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Jia Wei Xiao Yao San"
+    }
+  ]
+}

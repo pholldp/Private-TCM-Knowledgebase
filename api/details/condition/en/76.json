@@ -1,0 +1,655 @@
+{
+  "id": 76,
+  "name": "Paralysis",
+  "url": "/knowledge-base/conditions/paralysis",
+  "kind": "Condition",
+  "pinyin": "tān huàn",
+  "chinese_name": "瘫痪",
+  "preview_text": "Paralysis in TCM is not one disease but five distinct patterns - Wind-Phlegm, Qi and Blood Deficiency, Blood Stagnation, Phlegm-Heat, and Wind-Cold-Damp - each with its own treatme...",
+  "categories": "[\"Brain & Nervous System Conditions\", \"Paralysis & Movement Disorders\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Inability To Move\", \"Loss Of Movement\"]",
+  "conventional_description": "In Western medicine, paralysis is the loss of muscle function in part of your body, caused by a disruption in the nerve signals that travel from the brain to the muscles. It can be localized, affecting just one limb or the face, or generalized, impacting larger areas. Common causes include stroke, spinal cord injury, multiple sclerosis, cerebral palsy, and traumatic nerve damage. Diagnosis typically involves neurological exams, imaging like MRI or CT scans, and nerve conduction studies to pinpoint the location and extent of the injury.",
+  "conventional_treatments": "Conventional treatment focuses on addressing the underlying cause when possible and maximizing remaining function. This often includes physical therapy to maintain muscle strength and prevent contractures, occupational therapy to adapt daily activities, and medications such as muscle relaxants or pain relievers. In some cases, surgery may be performed to relieve pressure on nerves or repair damaged tissue. Assistive devices like braces, wheelchairs, or electrical stimulation units are also commonly used.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands paralysis primarily as a blockage or collapse of the body's network of channels (meridians) that carry Qi and Blood to the muscles and sinews. When these pathways are obstructed, the limbs lose their command and nourishment. The organs most commonly involved are the Liver, which governs the smooth flow of Qi and stores Blood, and the Spleen, which produces the Qi and transforms fluids. If the Spleen is weak, it can generate phlegm, a sticky pathological substance that can physically clog the channels. If the Liver is imbalanced, it can generate internal Wind, which sweeps phlegm upward to suddenly block the orifices of the heart and brain, causing acute paralysis like a stroke.\nBut obstruction is only half the story. Paralysis can also arise from a profound deficiency, where the body simply lacks the resources to power movement. When Qi and Blood are severely depleted, the muscles become flaccid and weak, unable to respond even if the channels are open. This is why one person's paralysis may be stiff and painful while another's is limp and weak - they represent opposite poles of TCM pathology, excess versus deficiency.\nThat is why the same Western diagnosis of paralysis can have multiple TCM causes. A sudden, dense paralysis with a rattling throat and greasy tongue coating points to Wind-Phlegm. Gradual, flaccid weakness with fatigue and a pale tongue suggests Qi and Blood Deficiency. Paralysis after trauma with sharp, fixed pain indicates Blood Stagnation. Heavy limbs with constipation and a thick yellow tongue coat signal Phlegm-Heat in the middle burner. And paralysis that worsens in cold, damp weather with a heavy sensation is often Wind-Cold-Damp invasion. Each pattern requires a fundamentally different treatment strategy.",
+  "classical_quote": "「The five Zang organs can all cause Wei syndrome... When the Lung is hot and the body fluids are scorched, the skin and body hair become weak, thin, and withered...」",
+  "classical_translation": "\"This chapter describes how dysfunction of the internal organs leads to flaccidity and inability to move, laying the foundation for understanding paralysis as a disorder of the Zang-fu and channels.\"",
+  "classical_source": "Huang Di Nei Jing (Yellow Emperor's Inner Classic) - Su Wen, Chapter 44  ,  Wei Lun (Treatise on Atrophy) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner begins by asking how the paralysis started - suddenly or gradually - and what other signals the body is sending. The speed of onset, the quality of the weakness, and accompanying sensations like pain, heaviness, or dizziness are the first clues that point toward one pattern rather than another.\nIf the loss of movement struck abruptly, often alongside slurred speech or a heavy, dizzy head, the picture suggests Wind-Phlegm obstructing the meridians. The tongue may have a thin white or sticky coat, and the pulse feels wiry or slippery. This pattern is common in stroke-related paralysis, where internal wind sweeps phlegm upward to block the channels.\nWhen the weakness crept in slowly and the limbs feel floppy rather than stiff, accompanied by pale skin, fatigue, and breathlessness, the practitioner suspects Qi and Blood Deficiency. Here the muscles and tendons are undernourished. The tongue looks pale and puffy, and the pulse is thready and weak, telling a story of depletion rather than obstruction.\nParalysis that follows an injury, with sharp fixed pain and a dark or purplish tongue with stasis spots, points to Blood Stagnation.\nIf instead the limbs feel heavy and the person is constipated, irritable, and has a thick yellow greasy tongue coat with a rapid slippery pulse, Phlegm-Heat in the Middle Burner is the likely culprit.\nJoint pain that worsens with cold or damp, along with a white greasy tongue coat and a floating tight pulse, suggests an invasion of Wind-Cold-Damp.",
+  "patterns": [
+    {
+      "id": 371,
+      "condition_id": 76,
+      "pattern_name": "Wind-Phlegm",
+      "pattern_slug": "wind-phlegm",
+      "is_common": 0,
+      "symptoms": "[\"Sudden loss of movement (often one-sided)\", \"Severe dizziness or spinning sensation\", \"Copious white, frothy sputum\", \"Slurred or difficult speech\", \"Rattling or gurgling sound in the throat\", \"Numbness or tingling in the limbs\"]",
+      "worse_with": "Cold, damp environment, Heavy, greasy foods, Emotional stress, Prolonged inactivity",
+      "better_with": "Warm, dry environment, Light, easily digestible meals, Gentle movement",
+      "why_this_happens": "When the Spleen is weak, it fails to transform fluids, which thicken into phlegm. Stress or internal imbalance stirs up Liver Wind, and this Wind carries the phlegm upward to block the channels and orifices that control movement and speech. The sudden obstruction is what causes the paralysis, dizziness, and slurred speech typical of a stroke.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, swollen with teeth marks, white greasy coating. Pulse: wiry (弦 xián) and slippery (滑 huá).",
+      "why_triggers_reliefs_work": "Damp and cold congeal fluids into phlegm, while greasy foods directly create more phlegm, worsening the obstruction. Stress stirs Liver Wind, which can carry phlegm upward and trigger symptoms. Warmth, light eating, and gentle movement help resolve phlegm, move Qi, and prevent Wind from rising, making them natural allies in recovery.",
+      "diet_and_lifestyle": "Avoid damp-producing foods like dairy, sugar, cold drinks, and greasy fried items. Eat warm, light meals such as congee, steamed vegetables, and small amounts of lean protein. Keep the room warm and dry, and protect the neck from drafts. Once stable, gentle daily movement helps Qi flow and prevents phlegm stagnation.",
+      "formulas": [
+        {
+          "id": 848,
+          "pattern_id": 371,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "Clears Phlegm and opens the orifices, specifically for Wind-Phlegm blocking the channels and causing paralysis with speech difficulty."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1969,
+          "pattern_id": 371,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the core herb for Phlegm patterns."
+        },
+        {
+          "id": 1970,
+          "pattern_id": 371,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and relieves spasms, addressing the Wind component."
+        },
+        {
+          "id": 1971,
+          "pattern_id": 371,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to dry dampness and prevent further phlegm formation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1304,
+          "pattern_id": 371,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform Phlegm and clear the channels."
+        },
+        {
+          "id": 1305,
+          "pattern_id": 371,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels Wind and clears the head, especially for dizziness and speech issues."
+        },
+        {
+          "id": 1306,
+          "pattern_id": 371,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Regulates Qi and activates the channels, often used for paralysis of the upper limb."
+        },
+        {
+          "id": 1307,
+          "pattern_id": 371,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to resolve dampness and support recovery."
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "condition_id": 76,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Gradual, progressive limb weakness and muscle wasting\", \"Deep fatigue and shortness of breath on even slight exertion\", \"Pale or sallow complexion, pale lips and nail beds\", \"Dizziness or lightheadedness, especially when standing\", \"Heart palpitations and poor sleep\", \"Numbness or tingling in the limbs\", \"Poor appetite and spontaneous sweating\"]",
+      "worse_with": "Overwork and pushing through fatigue, Cold, raw foods, Emotional stress, Cold, damp environment",
+      "better_with": "Adequate rest and sleep, Warm, cooked meals, Gentle movement, Acupuncture and herbal tonics",
+      "why_this_happens": "Qi is the body's motive force, and Blood is the material that nourishes every tissue. When both are deeply depleted, the muscles and sinews no longer receive the fuel they need to contract and hold the body. This leads to a gradual, progressive weakness that can eventually make movement impossible.\nThis pattern often appears in the aftermath of a prolonged illness, after significant blood loss, or from years of overwork and poor nutrition. Without enough Qi to lift the limbs and enough Blood to moisten the tendons, the body simply cannot sustain voluntary movement.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or show teeth marks, with a thin white coating. Pulse: fine (thin) and weak, lacking force, especially in the right Guan (Spleen) position.",
+      "why_triggers_reliefs_work": "Qi and Blood are the body's fuel and building blocks. Rest and warm, nourishing food directly replenish them, while acupuncture and herbs stimulate the Spleen and Stomach to produce more. Overwork, cold, and emotional strain burn through Qi and congeal Blood, deepening the deficiency and leaving the limbs even less supported. Gentle movement helps circulate what Qi and Blood are present without wasting them, which is why it helps while vigorous exercise worsens the condition.",
+      "diet_and_lifestyle": "Prioritize warm, easily digested, nutrient-dense foods: bone broths, congee with red dates (jujube) and goji berries, slow-cooked stews with root vegetables, and small amounts of high-quality protein. Avoid cold, raw foods and iced drinks, which chill the Spleen and impair digestion. Gentle daily movement like seated Qigong or slow walking can help Qi circulation, but rest is non-negotiable - stop well before exhaustion.",
+      "formulas": [
+        {
+          "id": 849,
+          "pattern_id": 372,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, rebuilding the foundation needed to nourish the limbs and restore strength."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1972,
+          "pattern_id": 372,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi and lifts the sinking, helping to restore the force needed to move the limbs."
+        },
+        {
+          "id": 1973,
+          "pattern_id": 372,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and gently invigorates its circulation, bringing vital nourishment to the sinews and extremities."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1308,
+          "pattern_id": 372,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The master point for tonifying Qi and Blood; strengthens the Spleen and Stomach to generate postnatal vitality."
+        },
+        {
+          "id": 1309,
+          "pattern_id": 372,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen and Liver, supporting the production and movement of Blood."
+        },
+        {
+          "id": 1310,
+          "pattern_id": 372,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Replenishes the Sea of Qi, restoring the foundational energy needed to lift and stabilize the body."
+        },
+        {
+          "id": 1311,
+          "pattern_id": 372,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "The Back-Shu point of the Spleen; directly strengthens the organ that produces Qi and Blood from food."
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "condition_id": 76,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain in the paralyzed area\", \"Pain worsens at night or with rest\", \"Dark or purplish lips and nails\", \"Dusky complexion or dark circles under eyes\", \"History of trauma or surgery before paralysis\"]",
+      "worse_with": "Cold, damp environment, Prolonged inactivity, Cold, raw foods, Emotional stress",
+      "better_with": "Gentle movement, Warmth on the affected area, Light massage, Warm, cooked meals",
+      "why_this_happens": "When blood flow becomes sluggish or blocked-often after an injury, surgery, or long-standing circulatory problems-the channels that carry Qi and nutrients to the muscles and nerves are starved. This stasis creates a fixed, stabbing pain in the affected limb and prevents it from receiving the signals needed for movement, leading to paralysis. The pain typically worsens at night because stillness allows the stagnation to settle deeper.",
+      "tongue_and_pulse": "Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩 sè) like a knife scraping bamboo, or wiry (弦 xián) if Qi stagnation is present.",
+      "why_triggers_reliefs_work": "Cold and stillness cause blood to congeal like a stream freezing over, deepening the stasis that blocks the channels. Warmth, gentle movement, and massage act like thawing that stream-they encourage blood to flow again, easing pain and gradually restoring function. Stress tightens the Liver Qi, which further constricts blood vessels and worsens stagnation, so calming the mind is a direct way to unblock the channels.",
+      "diet_and_lifestyle": "Keep the body warm and avoid iced drinks and raw foods, which can congeal blood. Incorporate gentle blood-moving spices like turmeric, ginger, and a little black pepper into meals. Gentle daily movement-even passive range-of-motion exercises if active movement is limited-helps prevent further stasis. Avoid sitting or lying in one position for too long.",
+      "formulas": [
+        {
+          "id": 850,
+          "pattern_id": 373,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "The classic formula to invigorate blood and dispel stasis, directly targeting the blocked channels causing painful paralysis."
+        },
+        {
+          "id": 851,
+          "pattern_id": 373,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A broader-acting blood-moving formula that also regulates Qi, useful when emotional stress contributes to the stasis."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1974,
+          "pattern_id": 373,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up congealed blood and unblocks the channels to relieve stabbing pain."
+        },
+        {
+          "id": 1975,
+          "pattern_id": 373,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood circulation and helps restore flow to paralyzed limbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1312,
+          "pattern_id": 373,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The &#x27;Sea of Blood&#x27;-a primary point to invigorate blood and dissolve stasis."
+        },
+        {
+          "id": 1313,
+          "pattern_id": 373,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point for blood, used to move stagnant blood anywhere in the body."
+        },
+        {
+          "id": 1314,
+          "pattern_id": 373,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Promotes smooth blood flow and supports the Spleen&#x27;s role in holding blood within vessels."
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "condition_id": 76,
+      "pattern_name": "Phlegm-Heat in the Middle Burner",
+      "pattern_slug": "phlegm-heat-in-the-middle-burner",
+      "is_common": 0,
+      "symptoms": "[\"Limb heaviness with paralysis\", \"Constipation\", \"Epigastric fullness and bloating\", \"Thick yellow greasy tongue coating\", \"Bitter taste in the mouth\"]",
+      "worse_with": "Greasy, fried, or spicy food, Emotional stress, Hot, humid weather, Overeating or late-night meals",
+      "better_with": "Light, easily digestible meals, Regular bowel movements, Cool, airy environment, Gentle movement",
+      "why_this_happens": "When greasy, spicy food and emotional stress generate heat and phlegm, they can clog the stomach and intestines-the Middle Burner. This phlegm-heat mass blocks the normal downward movement of Qi, causing constipation, bloating, and a heavy, sluggish feeling. The trapped heat and turbid phlegm then rise to disturb the mind and spill into the meridians, obstructing the flow that powers the limbs and resulting in paralysis with a sense of heaviness.",
+      "tongue_and_pulse": "Tongue: red, swollen body with a thick yellow greasy coating, especially in the centre. Pulse: slippery (滑 huá) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Greasy, spicy, and heavy foods directly fuel the phlegm and heat that clog the middle burner, making the limbs feel even heavier and the bowels more stuck. Emotional stress stirs up Liver fire, which combines with phlegm to create more obstruction. A light, bland diet drains dampness and starves the heat, while regular bowel movements clear the blocked pathway, allowing Qi to descend and the channels to reopen. Cool, calm environments and gentle movement help disperse the stagnation without overheating the body.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sweet foods that create more phlegm and heat. Eat light, easily digested meals like congee, steamed vegetables, and small amounts of lean protein. Drink warm water throughout the day, but avoid iced or sugary drinks. Gentle daily movement, such as walking or stretching, helps keep Qi and bowels moving. Manage stress with deep breathing or quiet time, as frustration can fan the heat.",
+      "formulas": [
+        {
+          "id": 852,
+          "pattern_id": 374,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "Clears heat and transforms phlegm, harmonizes the stomach, and calms the mind. Ideal for phlegm-heat obstructing the middle burner and causing paralysis."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1976,
+          "pattern_id": 374,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears heat and drains fire, especially from the stomach and heart, to calm the mind."
+        },
+        {
+          "id": 1977,
+          "pattern_id": 374,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, directing rebellious Qi downward."
+        },
+        {
+          "id": 1978,
+          "pattern_id": 374,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "",
+          "description": "Clears heat and resolves phlegm, easing nausea and restlessness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1315,
+          "pattern_id": 374,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point for transforming phlegm and opening the channels throughout the body."
+        },
+        {
+          "id": 1316,
+          "pattern_id": 374,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the stomach and clears phlegm-heat from the middle burner."
+        },
+        {
+          "id": 1317,
+          "pattern_id": 374,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears stomach heat and relieves constipation, helping to unblock the bowels."
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "condition_id": 76,
+      "pattern_name": "Wind-Cold-Damp",
+      "pattern_slug": "wind-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Painful stiffness that improves with warmth\", \"Worsening in cold, damp, or windy weather\", \"Heaviness and aching of the limbs\", \"Numbness or tingling\", \"Aversion to cold and wind\"]",
+      "worse_with": "Cold, damp environment, Prolonged inactivity, Cold, raw foods, Exposure to drafts or wet clothing",
+      "better_with": "Warmth on the affected area, Gentle movement, Warm, dry environment, Spicy warm foods (ginger, cinnamon)",
+      "why_this_happens": "Wind, Cold, and Dampness are external pathogens that can invade the body's channels. When they settle into the muscles and joints, they block the flow of Qi and Blood, making the limbs feel heavy, stiff, and painful. Over time, this severe obstruction can shut down movement entirely, resulting in a painful type of paralysis that worsens in cold or damp weather.",
+      "tongue_and_pulse": "Tongue: pale or slightly swollen body with a white, greasy coating and a moist surface. Pulse: moderate (huan) or soggy (ru); may feel tight (jin) if Cold predominates.",
+      "why_triggers_reliefs_work": "Wind, Cold, and Dampness are the very pathogens obstructing the channels. Cold and damp environments, or cold foods, add more of these pathogens and thicken the obstruction, worsening paralysis and pain. Warmth, gentle movement, and warm foods help disperse the Cold and dry the Dampness, allowing Qi and Blood to flow again and gradually restoring movement.",
+      "diet_and_lifestyle": "Keep the body warm and dry. Use moxibustion or hot compresses on stiff areas. Eat warm, cooked foods like stews and soups with ginger, cinnamon, and black pepper. Avoid raw, cold, and greasy foods, and stay out of damp, chilly environments.",
+      "formulas": [
+        {
+          "id": 853,
+          "pattern_id": 375,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "The classic formula to expel Wind-Cold-Damp, warm the channels, and relieve painful obstruction, restoring movement."
+        },
+        {
+          "id": 854,
+          "pattern_id": 375,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "A classical formula used to clear heavy Phlegm that clouds the mind and blocks clear speech. It is primarily used when thick Phlegm obstructs the Heart&#x27;s orifices following stroke or similar conditions, causing a stiff tongue and difficulty speaking. The formula powerfully sweeps out Phlegm while also opening the sensory orifices and supporting the body&#x27;s underlying Qi."
+        },
+        {
+          "id": 855,
+          "pattern_id": 375,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 856,
+          "pattern_id": 375,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation."
+        },
+        {
+          "id": 857,
+          "pattern_id": 375,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 858,
+          "pattern_id": 375,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm."
+        },
+        {
+          "id": 859,
+          "pattern_id": 375,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "A classical formula used to relieve joint and muscle pain, stiffness, and numbness caused by Wind, Cold, and Dampness, especially when the body&#x27;s own defensive and nourishing functions are weakened. It is particularly well suited for pain and tightness in the neck, shoulders, arms, and upper body that worsens in cold or damp weather."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1979,
+          "pattern_id": 375,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "",
+          "description": "Strongly expels Wind-Damp from the lower body and relieves pain and stiffness."
+        },
+        {
+          "id": 1980,
+          "pattern_id": 375,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels, dispels Cold, and promotes circulation to the limbs."
+        },
+        {
+          "id": 1981,
+          "pattern_id": 375,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 1982,
+          "pattern_id": 375,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 1983,
+          "pattern_id": 375,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 1984,
+          "pattern_id": 375,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 1985,
+          "pattern_id": 375,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 1986,
+          "pattern_id": 375,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 1987,
+          "pattern_id": 375,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 1988,
+          "pattern_id": 375,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 1989,
+          "pattern_id": 375,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 1990,
+          "pattern_id": 375,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "Slightly Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Releases the Exterior",
+          "description": ""
+        },
+        {
+          "id": 1991,
+          "pattern_id": 375,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1318,
+          "pattern_id": 375,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels exterior Wind and clears the channels to relieve stiffness."
+        },
+        {
+          "id": 1319,
+          "pattern_id": 375,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "Master point for the sinews; eases joint stiffness and muscle spasm."
+        },
+        {
+          "id": 1320,
+          "pattern_id": 375,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Qi and moves Dampness, supporting limb recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 480,
+      "condition_id": 76,
+      "question": "Can acupuncture help with paralysis after a stroke?",
+      "answer": "Yes, acupuncture is one of the most widely used TCM therapies for post-stroke paralysis. It aims to reopen blocked channels, stimulate nerve function, and improve blood flow to the affected limbs. Many patients begin treatment as soon as they are medically stable, and research suggests that starting early can enhance motor recovery. A typical course involves 2-3 sessions per week for several months, often in combination with herbal medicine and physical therapy."
+    },
+    {
+      "id": 481,
+      "condition_id": 76,
+      "question": "How soon after a stroke can I start TCM treatment?",
+      "answer": "In many cases, TCM treatment can begin within days or weeks of a stroke, as soon as the patient is medically stable and no longer in the acute emergency phase. Acupuncture and herbal formulas are often introduced alongside conventional rehabilitation in the hospital setting. However, it is crucial to coordinate with your neurologist and TCM practitioner to ensure safety, especially if you are on blood thinners or other medications."
+    },
+    {
+      "id": 482,
+      "condition_id": 76,
+      "question": "Does TCM work for spinal cord injury paralysis?",
+      "answer": "TCM can be a valuable supportive therapy for spinal cord injury, focusing on reducing inflammation, promoting nerve regeneration, and maintaining muscle tone in the affected areas. Herbal formulas that invigorate blood and open channels are often used. Acupuncture may help manage pain and spasticity. While complete reversal of severe spinal cord damage is rare, many patients report improvements in sensation, bladder control, and quality of life when TCM is integrated with conventional rehabilitation."
+    },
+    {
+      "id": 483,
+      "condition_id": 76,
+      "question": "Are there any dietary changes that can support recovery from paralysis?",
+      "answer": "Yes, diet plays a supporting role in TCM treatment. In general, it is best to avoid cold, raw, and greasy foods, which can damage the Spleen and generate phlegm or dampness - both of which can obstruct the channels. Warm, cooked, and easily digestible meals are encouraged to support Qi and Blood production. Specific foods like walnuts, black sesame, and bone broths are often recommended to nourish the kidneys and sinews. Your practitioner may give more tailored advice based on your specific pattern."
+    },
+    {
+      "id": 484,
+      "condition_id": 76,
+      "question": "Is TCM safe to combine with my blood thinners or other medications?",
+      "answer": "TCM herbs and acupuncture can generally be used alongside conventional medications, but caution is needed with anticoagulants. Some herbs that invigorate blood, such as Hong Hua, may increase the risk of bleeding. Always inform both your TCM practitioner and your prescribing doctor about all medications and supplements you are taking. Acupuncture is generally safe when performed by a licensed professional, even for patients on blood thinners, though mild bruising may occur."
+    },
+    {
+      "id": 485,
+      "condition_id": 76,
+      "question": "Will I need to continue TCM treatment forever, or are the results lasting?",
+      "answer": "The goal of TCM is to correct the underlying imbalance so that the body can maintain function on its own. For acute conditions like post-stroke paralysis, a course of treatment lasting several months may be sufficient to achieve maximum recovery, after which you may only need occasional maintenance. For chronic degenerative conditions, longer-term or periodic treatment may be beneficial to sustain mobility and slow progression. Your practitioner will work with you to taper treatment as your condition stabilizes."
+    }
+  ],
+  "research": [
+    {
+      "id": 109,
+      "condition_id": 76,
+      "title": "Acupuncture for stroke rehabilitation",
+      "description": "Cochrane systematic review of 14 RCTs evaluating acupuncture for acute and subacute stroke. Found that acupuncture may improve motor function and reduce death or dependency, but evidence is limited by trial quality.",
+      "url": "",
+      "periodical": "Zhang S, Wu B, Liu M, et al. Acupuncture for stroke rehabilitation. Cochrane Database of Systematic Reviews. 2006;(3):CD004131."
+    }
+  ]
+}

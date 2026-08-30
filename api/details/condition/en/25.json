@@ -1,0 +1,709 @@
+{
+  "id": 25,
+  "name": "Osteomyelitis",
+  "url": "/knowledge-base/conditions/osteomyelitis",
+  "kind": "Condition",
+  "pinyin": "fù gǔ jū",
+  "chinese_name": "附骨疽",
+  "preview_text": "TCM distinguishes between a hot, acute bone infection that needs cooling and detoxifying, and a chronic, cold-damp one that needs warming and strengthening-and treating the right p...",
+  "categories": "[\"Infectious Diseases\", \"Bacterial Infections\", \"Bone & Skeletal Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Bone Infection\", \"Inflammation Of The Bone\", \"Chronic Osteomyelitis\", \"Chronic Bone Infection\", \"Long-lasting Bone Inflammation\", \"Persistent Bone Infection\"]",
+  "conventional_description": "Osteomyelitis is an infection of the bone, usually caused by bacteria (most often Staphylococcus aureus) that reach the bone through the bloodstream, a nearby infection, or a direct injury. It causes deep bone pain, swelling, redness, and warmth over the affected area, often with fever and chills. Without prompt treatment, the infection can destroy bone tissue and become chronic.\nDiagnosis typically involves blood tests, imaging (X-ray, MRI, or bone scan), and sometimes a bone biopsy to identify the exact germ. Treatment usually requires weeks of intravenous antibiotics, and sometimes surgery to remove dead or infected bone. Chronic cases can be difficult to cure and may recur for years.",
+  "conventional_treatments": "Conventional treatment centers on long-term antibiotics - often intravenous at first, then oral - lasting 4 to 8 weeks or longer. Surgery is frequently needed to drain abscesses, remove dead bone (debridement), or stabilize the bone. For chronic osteomyelitis, repeated surgeries and prolonged antibiotic courses are common, and in severe cases amputation may be necessary if the infection cannot be controlled.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees osteomyelitis as a deep invasion of pathogenic factors - most commonly toxic-heat, dampness, and blood stasis - into the bone and its surrounding tissues. The Kidneys govern the bones, so a constitutional weakness in Kidney Qi or Yin can make the bones more vulnerable to such invasions. When external toxins enter through a wound or internal heat flares from emotional stress and diet, the resulting obstruction of Qi and blood creates the intense pain, swelling, and pus that define the acute stage.\nHowever, TCM recognizes that not all bone infections are the same. In the early, acute phase, the pattern is usually one of toxic-heat stagnation - a fierce, hot, throbbing infection with fever and a red tongue. If the body's dampness is heavy, the infection becomes more lingering and purulent, with a greasy tongue coating and a feeling of heaviness. As the infection drags on, blood stasis sets in, causing fixed, stabbing pain that worsens at night and a dark purple tongue.\nIn chronic or recurrent cases, the body's yang energy may become depleted, allowing cold and dampness to settle deep in the bone - a pattern that feels cold and achy rather than hot. And when the infection has drained the body's reserves, Qi and blood deficiency emerges, leaving the wound unable to heal and the person pale, exhausted, and short of breath. Each of these patterns calls for a fundamentally different herbal strategy, which is why TCM can sometimes succeed where a one-size-fits-all antibiotic approach has stalled.",
+  "classical_quote": "「附骨疽者，由当风卧湿，风冷入于骨髓，与血气相搏，结聚成疽，深附于骨。」",
+  "classical_translation": "\"Osteomyelitis occurs when one lies in wind and dampness, allowing wind-cold to penetrate the bone marrow. It contends with the Qi and Blood, accumulates, and forms a deep-seated carbuncle that adheres to the bone.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Origin and Symptoms of Diseases)  ,  Chapter 33: Carbuncles and Deep-Rooted Sores \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "In the acute stage, a practitioner looks for signs of fierce heat and toxicity: the affected bone area is red, swollen, hot, and extremely painful, often with high fever and thirst. The tongue is red with a yellow greasy coating and the pulse is rapid and slippery. This pattern points to toxic-heat invading the bone and obstructing qi and blood, demanding immediate clearing and detoxification.\nWhen dampness mingles with heat, the infection tends to linger with a thick, yellowish pus and a sensation of heaviness in the limb. The tongue coating is distinctly yellow and greasy, and the pulse is slippery and rapid. This pattern suggests a smoldering, purulent process that requires drying dampness and cooling heat to prevent chronicity.\nChronic inflammation often leads to blood stasis. The pain becomes fixed, stabbing, and worse at night. The skin over the bone may appear dark or bruised, and the tongue is dark red or purple with stasis spots. The pulse feels wiry or choppy. This pattern indicates that qi and blood are obstructed in the collaterals, and treatment focuses on moving blood and relieving pain.\nIn more chronic or recurrent cases where the body’s yang is weakened, cold-damp can congeal in the bone. The pain is deep and cold, the limb feels chilly, and the person may have cold hands and feet. The tongue is pale with a white coating, and the pulse is deep and slow. This pattern calls for warming yang and dispelling cold-damp to restore circulation.\nAfter long-standing suppuration, the body’s qi and blood become exhausted. The wound may ooze thin, clear fluid and refuse to close, while the person feels deeply fatigued, with a sallow complexion and poor appetite. The tongue is pale with a thin white coating, and the pulse is weak and thready. This pattern signals the need to tonify qi and nourish blood to promote healing.",
+  "patterns": [
+    {
+      "id": 119,
+      "condition_id": 25,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "pattern_slug": "toxic-heat-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Deep, throbbing, unrelenting bone pain\", \"Localized redness, swelling, and intense heat over the bone\", \"High fever, often with chills\", \"Thick yellow pus discharge\", \"Intense thirst, dark scanty urine, constipation\"]",
+      "worse_with": "Spicy or fried foods, Alcohol, Overexertion, Hot weather",
+      "better_with": "Cooling compresses, Rest and elevation of the limb, Cooling foods like watermelon, Keeping the wound clean",
+      "why_this_happens": "In the acute stage of osteomyelitis, a powerful heat-toxin invades the bone, either from an external wound or from deep-seated internal heat. This toxic-heat obstructs the flow of Qi and Blood in the bone and surrounding tissues, causing intense local redness, swelling, heat, and severe, throbbing pain. As the battle between the body's defenses and the toxin intensifies, pus forms and may break through the skin, draining thick, yellow discharge.",
+      "tongue_and_pulse": "Tongue: deep red or crimson body with prickly papillae and a thick, dry yellow coating. Pulse: rapid (数 shuò) and forceful (实 shí), possibly slippery at the right guan position.",
+      "why_triggers_reliefs_work": "Toxic-heat is an excess heat pattern. Anything that adds heat-spicy foods, alcohol, hot weather-will fuel the fire, worsening inflammation and pain. Rest and cooling measures help the body contain the toxin and reduce heat, allowing the bone to heal. Keeping the wound clean prevents further toxic invasion.",
+      "diet_and_lifestyle": "Eat cooling, easy-to-digest foods like mung beans, cucumber, and watermelon. Strictly avoid spicy, greasy, and fried foods, as well as alcohol, which all add heat. Keep the affected limb elevated and at rest to reduce inflammation. Clean any wounds carefully to prevent further infection.",
+      "formulas": [
+        {
+          "id": 257,
+          "pattern_id": 119,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "This classic formula clears heat and resolves toxin, draining intense fire from all three burners to halt the acute bone infection."
+        },
+        {
+          "id": 258,
+          "pattern_id": 119,
+          "formula_name": "Jin Huang Gao",
+          "formula_url": "/knowledge-base/formulas/jin-huang-gao",
+          "translation": "Golden Yellow Ointment &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Cool, Clears Heat and Resolves Toxicity, Reduces Swelling and Alleviates Pain, Transforms Phlegm and Dissipates Nodules",
+          "description": "A topical paste that cools and reduces swelling; applied externally to draw out toxin and ease local pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 607,
+          "pattern_id": 119,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "The primary herb to clear heat and resolve toxin, especially for deep-seated sores and abscesses."
+        },
+        {
+          "id": 608,
+          "pattern_id": 119,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains intense fire and dries dampness, targeting the deep, smoldering heat in the bone."
+        },
+        {
+          "id": 609,
+          "pattern_id": 119,
+          "herb_name": "Pu Gong Ying",
+          "herb_url": "/knowledge-base/herbs/pu-gong-ying",
+          "translation": "Dandelion",
+          "properties": "",
+          "description": "Clears heat and resolves abscesses, particularly effective for suppurative bone infections."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 395,
+          "pattern_id": 119,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce. Clears heat and cools the blood to bring down fever and local inflammation."
+        },
+        {
+          "id": 396,
+          "pattern_id": 119,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. Dispels exterior wind and relieves severe pain along the channel."
+        },
+        {
+          "id": 397,
+          "pattern_id": 119,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduce. Clears heat and resolves toxin, a major point for high fever."
+        },
+        {
+          "id": 398,
+          "pattern_id": 119,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Reduce. Supports Qi while draining fire from the Stomach channel, aiding pus drainage."
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "condition_id": 25,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Deep, aching bone pain with a sensation of heaviness\", \"Swelling that is warm but not intensely red\", \"Thick yellow pus discharge\", \"Body feels heavy and sluggish, as if weighed down\", \"Chest and upper abdominal stuffiness\", \"Greasy, sticky sensation in the mouth with poor appetite\", \"Loose, sticky stools that feel incomplete\", \"Low-grade fever that worsens in the afternoon\"]",
+      "worse_with": "Greasy, fried, or spicy foods, Alcohol and dairy, Damp, humid weather, Prolonged inactivity",
+      "better_with": "Light, bland diet, Warm, dry environment, Gentle movement, Bitter vegetables and barley",
+      "why_this_happens": "Dampness and Heat are two pathological factors that combine to create a heavy, sticky, and lingering infection deep in the bone. The Dampness makes the infection turbid and difficult to clear, while the Heat drives inflammation, swelling, and the formation of pus. Together they obstruct the flow of Qi and Blood in the bone, leading to a chronic, suppurative process with thick, yellow discharge and a sensation of heaviness in the affected limb.",
+      "tongue_and_pulse": "Tongue: red body with a thick, yellow, greasy coating that is difficult to scrape off, often swollen with teeth marks. Pulse: slippery-rapid (滑数 huá shuò) or soggy-rapid.",
+      "why_triggers_reliefs_work": "Greasy, spicy, and sweet foods, as well as alcohol and dairy, generate internal Dampness and Heat, which directly feed the lingering infection. A damp environment adds external Dampness, making the body feel heavier and the swelling worse. A light, bland diet and gentle movement help the Spleen transform and transport fluids, drying up Dampness and clearing Heat. Bitter and draining foods like barley and bitter gourd directly leach out excess moisture and cool the inflammation, creating an internal environment where the infection cannot thrive.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sweet foods, as well as alcohol and dairy, which create more Dampness and Heat. Focus on light, easily digestible meals with plenty of cooked vegetables. Incorporate foods that naturally drain Dampness, such as barley, adzuki beans, and bitter gourd. Keep the body warm and dry, and avoid sitting or sleeping in damp environments. Gentle daily movement, like walking or stretching, helps Qi and fluids circulate and prevents Dampness from stagnating.",
+      "formulas": [
+        {
+          "id": 259,
+          "pattern_id": 120,
+          "formula_name": "Wu Wei Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/wu-wei-xiao-du-yin",
+          "translation": "Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules",
+          "description": "Clears Heat and resolves toxicity, often combined with herbs that drain Dampness to target the heavy, purulent infection."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 610,
+          "pattern_id": 120,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves toxicity, especially for suppurative infections."
+        },
+        {
+          "id": 611,
+          "pattern_id": 120,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness, reduces swelling, and helps expel pus from deep tissues."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 399,
+          "pattern_id": 120,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to transform Dampness and supports overall healing."
+        },
+        {
+          "id": 400,
+          "pattern_id": 120,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms Dampness and Phlegm, reducing the sticky discharge."
+        },
+        {
+          "id": 401,
+          "pattern_id": 120,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and resolves Dampness, especially in inflammatory conditions."
+        },
+        {
+          "id": 402,
+          "pattern_id": 120,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Drains Dampness and regulates the Spleen, Liver, and Kidney."
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "condition_id": 25,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing or boring bone pain\", \"Pain worsens at night and with pressure\", \"Dark or purplish skin around the affected bone\", \"Possible sinus tract with dark or thin discharge\", \"Purple body with stasis spots and distended dark sublingual veins\"]",
+      "worse_with": "Cold, damp weather, Prolonged inactivity, Pressure on the bone",
+      "better_with": "Gentle warmth, Gentle movement, Rest and elevation of the limb",
+      "why_this_happens": "When bone inflammation lingers, Qi and blood circulation in the area becomes sluggish and eventually obstructed. This creates deep, fixed stabbing pain because stagnant blood blocks the channels that nourish the bone. The pain often worsens at night when the body is still and blood flow slows further.",
+      "tongue_and_pulse": "Tongue: dark purple or dusky body, stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩, sè) or wiry (弦, xián).",
+      "why_triggers_reliefs_work": "Blood stasis is like a traffic jam in the vessels. Cold constricts and thickens blood, making the jam worse, while gentle warmth dilates vessels and encourages flow. Inactivity allows blood to pool and congeal; light movement pumps blood through the area. Pressure directly obstructs already-sluggish flow, so offloading the limb eases the pain.",
+      "diet_and_lifestyle": "Keep the affected area warm but not overheated. Gentle movement like walking or tai chi helps blood flow; avoid long periods of sitting or lying still. Eat warming, blood-moving foods such as turmeric, ginger, dark leafy greens, and small amounts of lean protein. Avoid cold, raw foods and icy drinks, which can congeal blood and worsen stasis.",
+      "formulas": [
+        {
+          "id": 260,
+          "pattern_id": 121,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "The classic formula for blood stasis causing deep, fixed pain anywhere in the body, including bones. It invigorates blood, unblocks channels, and stops pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 612,
+          "pattern_id": 121,
+          "herb_name": "Ru Xiang",
+          "herb_url": "/knowledge-base/herbs/ru-xiang",
+          "translation": "Frankincense resin",
+          "properties": "",
+          "description": "Frankincense powerfully invigorates blood and unblocks painful obstructions, especially deep in the bones and sinews."
+        },
+        {
+          "id": 613,
+          "pattern_id": 121,
+          "herb_name": "Mo Yao",
+          "herb_url": "/knowledge-base/herbs/mo-yao",
+          "translation": "Myrrh resin",
+          "properties": "",
+          "description": "Myrrh breaks up congealed blood and reduces swelling, often paired with frankincense for deep-seated stasis pain."
+        },
+        {
+          "id": 614,
+          "pattern_id": 121,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Angelica sinensis nourishes and moves blood, addressing both the stasis and the underlying blood dryness that can result from chronic inflammation."
+        },
+        {
+          "id": 615,
+          "pattern_id": 121,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Sichuan lovage root is a blood-moving herb that also guides other herbs to the site of pain, making it especially useful for bone-level stasis."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 403,
+          "pattern_id": 121,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The Gathering point for Blood; it invigorates blood circulation throughout the body and is essential for any stasis pattern."
+        },
+        {
+          "id": 404,
+          "pattern_id": 121,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Sea of Blood point that cools and moves blood, helping to resolve local stasis and pain."
+        },
+        {
+          "id": 405,
+          "pattern_id": 121,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The source point of the Liver channel; moving Liver Qi is crucial for moving blood, and it alleviates deep, fixed pain."
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "condition_id": 25,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "pattern_slug": "yang-deficiency-with-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Deep, dull, cold pain in the bone\", \"Worsens with cold and improves with warmth\", \"Cold hands and feet, pale complexion\", \"No thirst, prefers warm drinks\", \"Fatigue, desire to lie down\"]",
+      "worse_with": "Cold, damp weather, Cold foods and iced drinks, Overexertion, Immersion in cold water",
+      "better_with": "Warm compresses or heat packs, Warm, dry environment, Gentle movement, Warm drinks and soups",
+      "why_this_happens": "When the body's warming Yang energy is weak, it cannot transform and move fluids properly. Cold and dampness then settle deep in the bones, creating a chronic, low-grade infection that feels cold and achy rather than hot and angry. The lack of warmth slows circulation and healing, so the bone pain lingers, often with a pale, cool swelling and a thin, clear discharge if a sinus is present.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, white greasy moist coating. Pulse: deep (Chen), slow (Chi), possibly minute or fine (Wei).",
+      "why_triggers_reliefs_work": "Cold and dampness directly worsen the underlying Yang deficiency by further congealing fluids and chilling the channels, which is why cold exposure and damp environments intensify the bone pain. Warmth, rest, and warming foods support the body's Yang, helping to transform dampness, move Qi and blood, and gradually relieve the deep, cold ache.",
+      "diet_and_lifestyle": "Keep the affected area warm and dry; avoid cold, damp environments. Eat warming foods like ginger, cinnamon, lamb, and bone broths, and steer clear of raw, cold, or iced foods and drinks. Gentle daily movement like walking or tai chi helps move Qi without exhausting Yang.",
+      "formulas": [
+        {
+          "id": 261,
+          "pattern_id": 122,
+          "formula_name": "Yang He Tang",
+          "formula_url": "/knowledge-base/formulas/yang-he-tang",
+          "translation": "Yang-Heartening Decoction &#xB7; Q&#x12B;ng dynasty, 1740 CE (Qianlong 5th year)",
+          "properties": "Warm, Warms Yang, Tonifies Blood, Disperses Cold",
+          "description": "The primary formula to warm Yang, dispel cold-damp, and promote healing of chronic bone infections."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 616,
+          "pattern_id": 122,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms Kidney Yang and dispels deep cold from the bones."
+        },
+        {
+          "id": 617,
+          "pattern_id": 122,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms the interior and transforms cold-damp."
+        },
+        {
+          "id": 618,
+          "pattern_id": 122,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms and unblocks the channels, relieving cold pain in the limbs."
+        },
+        {
+          "id": 619,
+          "pattern_id": 122,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Qi to promote tissue repair and support Yang."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 406,
+          "pattern_id": 122,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxibustion on this point warms Kidney Yang, the root of the body&#x27;s warming fire."
+        },
+        {
+          "id": 407,
+          "pattern_id": 122,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion here directly strengthens the body&#x27;s Yang energy and dispels deep cold."
+        },
+        {
+          "id": 408,
+          "pattern_id": 122,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion on this point builds Qi and warms the channels to support healing."
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "condition_id": 25,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and weakness\", \"Pale or sallow complexion\", \"Non-healing wound with thin, clear discharge\", \"Dizziness or lightheadedness\", \"Poor appetite\", \"Heart palpitations\"]",
+      "worse_with": "Overexertion or prolonged standing, Cold, raw, or greasy foods, Excessive worry or mental strain",
+      "better_with": "Adequate rest and sleep, Warm, nourishing soups and congees, Gentle movement",
+      "why_this_happens": "When a bone infection drags on, the body's ongoing battle to contain pus and fight germs burns through its deepest reserves of Qi and Blood. These are the very substances that knit tissue together and power daily energy. As they become depleted, the wound loses its ability to close and instead weeps a thin, watery fluid, while the whole body sinks into a state of persistent exhaustion and pallor.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or show teeth marks, thin white coating. Pulse: fine (thin) and weak, possibly empty.",
+      "why_triggers_reliefs_work": "Qi and Blood deficiency means the body is running on empty. Rest conserves precious Qi, while warm, cooked foods are gentle on the Spleen and directly supply the raw materials for new Blood. Overexertion burns through the little Qi you have left, and cold or heavy foods further weaken the Spleen's ability to produce Blood, stalling wound healing and deepening fatigue.",
+      "diet_and_lifestyle": "Eat warm, easily digested foods like congee, bone broths, and stews with lean meats and root vegetables. Avoid raw, cold, or greasy items that burden digestion. Rest deeply, and when energy permits, do gentle stretching or walking to circulate Blood without depleting Qi.",
+      "formulas": [
+        {
+          "id": 262,
+          "pattern_id": 123,
+          "formula_name": "Tuo Li Xiao Du San",
+          "formula_url": "/knowledge-base/formulas/tuo-li-xiao-du-san",
+          "translation": "Support the Interior and Eliminate Toxin Powder &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Nourishes Blood, Supports the Interior (Tuo Li)",
+          "description": "Tonifies Qi and Blood while expelling lingering pus and toxin, specifically indicated for chronic non-healing wounds with clear discharge."
+        },
+        {
+          "id": 263,
+          "pattern_id": 123,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 264,
+          "pattern_id": 123,
+          "formula_name": "Jin Huang Gao",
+          "formula_url": "/knowledge-base/formulas/jin-huang-gao",
+          "translation": "Golden Yellow Ointment &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Cool, Clears Heat and Resolves Toxicity, Reduces Swelling and Alleviates Pain, Transforms Phlegm and Dissipates Nodules",
+          "description": "A classical external-use paste for treating hot, red, swollen, and painful skin conditions such as boils, abscesses, and soft tissue injuries. It clears Heat-toxin, reduces swelling, disperses stagnation, and relieves pain when applied topically to unbroken skin. Originally formulated as a powder (Ru Yi Jin Huang San), it is mixed with an oily base like sesame oil and beeswax to form the paste."
+        },
+        {
+          "id": 265,
+          "pattern_id": 123,
+          "formula_name": "Wu Wei Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/wu-wei-xiao-du-yin",
+          "translation": "Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules",
+          "description": "A classical formula that uses five potent heat-clearing herbs to fight infections and inflammation, especially boils, abscesses, and other skin infections that present with redness, swelling, heat, and pain. It is one of TCM&#x27;s most direct and powerful formulas for clearing toxic heat from the body."
+        },
+        {
+          "id": 266,
+          "pattern_id": 123,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "A classical formula for chronic body pain that has not responded to other treatments. It promotes blood circulation and opens the body&#x27;s channels to relieve stubborn pain in the shoulders, arms, lower back, legs, or throughout the whole body, especially when caused by blood stagnation combined with Wind and Dampness."
+        },
+        {
+          "id": 267,
+          "pattern_id": 123,
+          "formula_name": "Yang He Tang",
+          "formula_url": "/knowledge-base/formulas/yang-he-tang",
+          "translation": "Yang-Heartening Decoction &#xB7; Q&#x12B;ng dynasty, 1740 CE (Qianlong 5th year)",
+          "properties": "Warm, Warms Yang, Tonifies Blood, Disperses Cold",
+          "description": "A warming formula from external medicine (surgery) tradition, designed for deep, cold-type swellings and abscesses that are pale, painless, and slow to resolve. It works by warming Yang, nourishing Blood, and dispersing cold stagnation from the muscles, bones, and channels. Named &quot;Yang He&quot; (meaning &quot;warm and harmonious like spring sunshine&quot;), the idea is that it restores warmth to the body the way sunlight disperses cold, dark clouds."
+        },
+        {
+          "id": 268,
+          "pattern_id": 123,
+          "formula_name": "Tuo Li Xiao Du San",
+          "formula_url": "/knowledge-base/formulas/tuo-li-xiao-du-san",
+          "translation": "Support the Interior and Eliminate Toxin Powder &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Nourishes Blood, Supports the Interior (Tuo Li)",
+          "description": "A classical surgical formula designed to support the body&#x27;s own healing ability in chronic infections, abscesses, and slow-healing wounds. It works primarily by strengthening Qi and Blood so the body can expel toxins and generate new tissue, making it especially suited for people whose infections or sores linger because of underlying weakness or exhaustion."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 620,
+          "pattern_id": 123,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Strongly boosts Qi to raise energy and promote tissue repair."
+        },
+        {
+          "id": 621,
+          "pattern_id": 123,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and gently invigorates circulation to bring healing nutrients to the bone."
+        },
+        {
+          "id": 622,
+          "pattern_id": 123,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen, the source of new Qi and Blood, improving appetite and stamina."
+        },
+        {
+          "id": 623,
+          "pattern_id": 123,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 624,
+          "pattern_id": 123,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 625,
+          "pattern_id": 123,
+          "herb_name": "Pu Gong Ying",
+          "herb_url": "/knowledge-base/herbs/pu-gong-ying",
+          "translation": "Dandelion",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Promotes Urination and Relieves Stranguria",
+          "description": ""
+        },
+        {
+          "id": 626,
+          "pattern_id": 123,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 627,
+          "pattern_id": 123,
+          "herb_name": "Ru Xiang",
+          "herb_url": "/knowledge-base/herbs/ru-xiang",
+          "translation": "Frankincense resin",
+          "properties": "Warm, Invigorates Blood and Moves Qi, Alleviates Pain, Reduces Swelling",
+          "description": ""
+        },
+        {
+          "id": 628,
+          "pattern_id": 123,
+          "herb_name": "Mo Yao",
+          "herb_url": "/knowledge-base/herbs/mo-yao",
+          "translation": "Myrrh resin",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Alleviates Pain, Reduces Swelling",
+          "description": ""
+        },
+        {
+          "id": 629,
+          "pattern_id": 123,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 630,
+          "pattern_id": 123,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 631,
+          "pattern_id": 123,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 632,
+          "pattern_id": 123,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        },
+        {
+          "id": 633,
+          "pattern_id": 123,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 634,
+          "pattern_id": 123,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 635,
+          "pattern_id": 123,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 409,
+          "pattern_id": 123,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood and strengthens the body&#x27;s overall resilience."
+        },
+        {
+          "id": 410,
+          "pattern_id": 123,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and supports the Spleen in producing new vital substances."
+        },
+        {
+          "id": 411,
+          "pattern_id": 123,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Directly reinforces Spleen function to transform food into Qi and Blood."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 153,
+      "condition_id": 25,
+      "question": "Can TCM treat osteomyelitis without antibiotics?",
+      "answer": "For acute, severe osteomyelitis, TCM should always be used alongside conventional antibiotics, not instead of them. The infection can spread rapidly and become life-threatening. TCM herbs can powerfully clear heat and toxins, but they work best as a complement to antibiotics, potentially reducing the duration of antibiotic therapy and speeding recovery. In chronic, low-grade cases where antibiotics have failed or caused side effects, some patients do turn to TCM as the primary treatment, but this decision must be made with careful medical supervision."
+    },
+    {
+      "id": 154,
+      "condition_id": 25,
+      "question": "How long does it take to see results with TCM?",
+      "answer": "In acute cases with high fever and severe pain, many patients notice a reduction in pain and fever within the first week of combined treatment. For chronic osteomyelitis that has persisted for months or years, improvement is more gradual - you may see better energy, less pain, and improved wound healing over the first 4-6 weeks, with deeper resolution taking several months. Herbal formulas are typically taken daily, and acupuncture sessions once or twice a week."
+    },
+    {
+      "id": 155,
+      "condition_id": 25,
+      "question": "Is acupuncture safe directly over the infected bone?",
+      "answer": "Acupuncture needles are never inserted directly into the infected bone or through an open wound. Instead, points are chosen on healthy skin, often on the same limb but away from the infection site, as well as points on the back and abdomen that influence the underlying organ systems. Local points around the area can be used with caution to reduce swelling and pain, but your practitioner will always avoid any area that is acutely inflamed, abscessed, or has a sinus tract."
+    },
+    {
+      "id": 156,
+      "condition_id": 25,
+      "question": "Will I have to change my diet?",
+      "answer": "Yes - diet plays an important role in TCM treatment of osteomyelitis. Generally, you'll be advised to avoid greasy, fried, sugary, and spicy foods that create dampness and heat in the body, which can fuel the infection. Instead, focus on easily digestible, nourishing foods like congees, soups, and steamed vegetables. Specific recommendations depend on your pattern: cooling foods like watermelon and mung beans for heat patterns, warming soups and stews for cold-damp patterns, and blood-nourishing foods like dark leafy greens and bone broth for deficiency patterns."
+    },
+    {
+      "id": 157,
+      "condition_id": 25,
+      "question": "Can TCM help with bone healing after surgery?",
+      "answer": "Yes. After surgical debridement, TCM herbs that invigorate blood and nourish Qi and Blood can improve circulation to the surgical site, reduce swelling, and speed bone and soft tissue healing. Formulas often include herbs like Dang Gui, Huang Qi, and Xu Duan. Acupuncture can also help manage post-surgical pain and support overall recovery."
+    },
+    {
+      "id": 158,
+      "condition_id": 25,
+      "question": "Are there any side effects from the herbs?",
+      "answer": "When prescribed by a qualified TCM practitioner, herbal formulas for osteomyelitis are generally safe and well-tolerated. Some cooling herbs may cause mild digestive upset if your digestion is weak, which your practitioner will account for by adding digestive support herbs. Importantly, herbs that strongly invigorate blood (like Dang Gui, Chuan Xiong, and Ru Xiang) can interact with anticoagulant medications - always tell your practitioner and doctor about all medications you're taking."
+    }
+  ],
+  "research": [
+    {
+      "id": 45,
+      "condition_id": 25,
+      "title": "Chinese herbal medicine as an adjunctive treatment for osteomyelitis: a systematic review and meta-analysis",
+      "description": "This 2020 review pooled data from 14 RCTs involving over 1,200 patients. It found that adding Chinese herbal formulas to standard antibiotic therapy significantly increased the cure rate and reduced the time to wound healing compared to antibiotics alone. Formulas like Huang Lian Jie Du Tang and Wu Wei Xiao Du Yin were the most commonly studied. However, the authors noted a high risk of bias in many included trials.",
+      "url": "https://www.tmrjournals.com/public/articlePDF/20201201/81755c5f4dc70784fe41490a6c96c1f2.pdf",
+      "periodical": "Chen Y, Wang X, et al. Chinese herbal medicine as an adjunctive treatment for osteomyelitis: a systematic review and meta-analysis. TMR Integrative Medicine. 2020;4:e20012."
+    }
+  ]
+}

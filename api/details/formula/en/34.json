@@ -1,0 +1,795 @@
+{
+  "id": 34,
+  "name": "Juan Bi Tang",
+  "chinese_name": "蠲痹汤",
+  "english_name": "Remove Painful Obstruction Decoction",
+  "url": "/knowledge-base/formulas/juan-bi-tang",
+  "summary": "A classical formula used to relieve joint and muscle pain, stiffness, and numbness caused by Wind, Cold, and Dampness, especially when the body's own defensive and nourishing functions are weakened. It is particularly well suited for pain and tightness in the neck, shoulders, arms, and upper body that worsens in cold or damp weather.",
+  "categories": "[\"Wind-Damp dispelling formulas\"]",
+  "tcm_actions": "[\"Dispels Wind-Dampness\", \"Tonifies Qi and harmonizes the Protective and Nutritive Qi\", \"Invigorates Blood and Unblocks the Channels and Collaterals\", \"Relieves Painful Obstruction\", \"Secures the Exterior\"]",
+  "therapeutic_focus": "[\"Joint and Muscle Pain Relief\", \"Joint and Muscle Health\", \"Neck and Shoulder Tension\", \"Circulation Support\"]",
+  "target_organs": "[\"Liver\", \"Spleen\", \"Kidneys\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Yáng Shì Jiā Cáng Fāng (杨氏家藏方, Yang's Family Stored Formulas), Volume 4",
+  "conditions": "[\"Rheumatoid Arthritis\", \"Frozen Shoulder\", \"Neck Pain\", \"Osteoarthritis\", \"Ankylosing Spondylitis\", \"Sciatica\", \"Lower Back Pain\", \"Skin Numbness\"]",
+  "patterns": "[]",
+  "other_names": "[\"Juan Bi Tang (蠲痹汤, Remitting Bi Decoction)\"]",
+  "pregnancy": "Use with caution during pregnancy. Jiang Huang (Curcuma longa rhizome) activates Blood circulation and has been traditionally considered to promote movement of Blood, which could theoretically stimulate uterine activity. Qiang Huo is a strongly dispersing, acrid herb that should also be used cautiously. While no individual herb in the standard Yang Shi Jia Cang Fang version is a strong abortifacient, the overall Blood-moving and Wind-dispersing strategy of the formula warrants caution. A qualified practitioner should assess whether the benefits outweigh risks. If modifications using the Yi Xue Xin Wu version are employed (which adds Ru Xiang/Frankincense and Gui Zhi/Cinnamon Twig), the Blood-moving and warming properties are even stronger, increasing the caution level.",
+  "breastfeeding": "No specific classical or modern contraindications for breastfeeding have been established for the standard Yang Shi Jia Cang Fang version of Juan Bi Tang. The formula's herbs are generally mild to moderate in potency. However, the acrid, dispersing nature of Qiang Huo and Fang Feng means small amounts of their volatile components could theoretically pass into breast milk. Jiang Huang (turmeric rhizome) is widely used as a food spice and is generally considered safe, but its Blood-moving properties warrant some caution. A practitioner should be consulted before use during breastfeeding, and the infant should be monitored for any digestive changes.",
+  "children": "Juan Bi Tang is not commonly prescribed for children, as Bi syndrome due to Wind-Cold-Damp invasion with underlying Qi and Blood deficiency is primarily an adult condition. If used in adolescents (roughly age 12 and above) with confirmed Bi-pattern joint pain, dosages should be reduced to approximately 50-70% of adult levels depending on body weight. For younger children, the formula is generally not appropriate. A pediatric TCM practitioner should be consulted, as children's conditions presenting as joint pain more often require different diagnostic approaches. The formula contains no inherently toxic herbs in its standard composition.",
+  "drug_interactions": "Anticoagulants and antiplatelet drugs (e.g. warfarin, aspirin, clopidogrel): Dang Gui (Angelica sinensis) and Jiang Huang (Curcuma longa/turmeric) both have documented Blood-activating properties. Curcumin from Jiang Huang has been shown to have mild antiplatelet effects. Concurrent use with anticoagulants may increase bleeding risk and requires monitoring of INR/clotting parameters.\nAntihypertensive medications: Huang Qi (Astragalus) may modulate blood pressure. While typically it raises blood pressure slightly through Qi-tonifying action, interactions are possible in patients on blood-pressure-lowering medications. Monitor blood pressure when combining.\nImmunosuppressant drugs (e.g. methotrexate, biologics): Several clinical studies have combined Juan Bi Tang with methotrexate for rheumatoid arthritis. While these studies suggest additive benefit, the immune-modulating effects of both the formula and the drug mean that any combination use should be supervised by a qualified practitioner familiar with both TCM and conventional medicine.\nHypoglycemic agents: Huang Qi has been reported to have mild blood-sugar-lowering effects in some studies. Patients on insulin or oral hypoglycemics should monitor blood glucose levels.",
+  "best_time_to_take": "Warm, after meals (about 30 minutes), twice daily (morning and evening). Taking after meals reduces the risk of gastric irritation from the acrid herbs. The decoction should be taken warm to enhance the formula's warming, dispersing action.",
+  "typical_duration": "Chronic Bi syndrome: typically 4-8 weeks as an initial course, then reassessed. Sub-acute flare-ups: 2-4 weeks. Dosage and duration are adjusted by the practitioner based on symptom response.",
+  "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, iced drinks, raw sushi, and cold fruits) as these can worsen Cold-Damp accumulation in the channels and counteract the warming, dispersing nature of the formula. Greasy, heavy, and excessively sweet foods should also be limited, as they generate internal Dampness that aggravates Bi syndrome. Foods that support the formula's strategy include warm soups, ginger tea, moderate amounts of lamb or chicken (warming proteins), and cooked grains. Avoid exposure to cold, damp, and windy environments during treatment, as this can reintroduce the very pathogens the formula is working to expel. Moderate exercise to promote Qi and Blood circulation in the joints is beneficial, but overexertion should be avoided.",
+  "ingredients": [
+    {
+      "herb_name": "Qiang Huo",
+      "english_name": "Notopterygium root and rhizome",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Fang Feng",
+      "english_name": "Siler root",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Huang Qi",
+      "english_name": "Astragalus root",
+      "role": "Deputy",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "Chinese Angelica root",
+      "role": "Deputy",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Bai Shao",
+      "english_name": "White peony root",
+      "role": "Deputy",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Jiang Huang",
+      "english_name": "Turmeric rhizome",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "3g"
+    }
+  ],
+  "research": [
+    {
+      "id": 92,
+      "formula_id": 34,
+      "title": "Alleviation of Synovial Inflammation of Juanbi-Tang on Collagen-Induced Arthritis and TNF-Tg Mice Model (Preclinical, 2020)",
+      "description": "This animal study tested Juan Bi Tang (Yi Xue Xin Wu version) in two mouse models of rheumatoid arthritis. The formula significantly reduced joint inflammation, bone destruction, and cartilage damage in both collagen-induced arthritis mice and TNF-transgenic mice. It suppressed inflammatory macrophages and T cells, reduced pro-inflammatory cytokines (IL-6, IL-8), and inhibited MMP-1 expression. The mechanism appeared to involve blocking the NF-kappa B signaling pathway.",
+      "url": "https://doi.org/10.3389/fphar.2020.00045",
+      "periodical": "Wang T, Jia Q, Chen T, Yin H, Tian X, Lin X, Liu Y, Zhao Y, Wang Y, Shi Q, Huang C, Xu H, Liang Q. Frontiers in Pharmacology, 2020, 11:45."
+    },
+    {
+      "id": 93,
+      "formula_id": 34,
+      "title": "Systematic Investigation on the Anti-Rheumatoid Arthritis Material Basis and Mechanism of Juan Bi Tang. Part 1: Integrating Metabolic Profiles and Network Pharmacology (Preclinical, 2021)",
+      "description": "This study investigated the absorbed chemical components and anti-rheumatoid arthritis mechanisms of Juan Bi Tang (Yi Xue Xin Wu version) using HPLC-Q-TOF mass spectrometry in collagen-induced arthritis rats. Researchers identified 18 absorbed compounds and 17 metabolites. Network pharmacology analysis predicted that the formula's anti-RA activity works through the MAPK, FoxO, and Rap1 signaling pathways, validated by molecular docking.",
+      "url": "https://doi.org/10.1016/j.jpba.2021.114133",
+      "periodical": "Li J, Li L, Wang Y, Zhao Y, Hu P, Xu Z, Liu F, Liang Q, Tian X, Huang C. Journal of Pharmaceutical and Biomedical Analysis, 2021, 202:114133."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 42,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 50,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 53,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 53,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 55,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 200,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 202,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 207,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 223,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 249,
+      "name": "Juan Bi Tang"
+    },
+    {
+      "pattern_id": 263,
+      "name": "Juan Bi Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 6,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 6,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 9,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 9,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 11,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 11,
+      "pattern_name": "Stagnation of Cold in the Liver Channel",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 13,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 13,
+      "pattern_name": "Lung Heat",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 14,
+      "pattern_name": "Wind-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 14,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 16,
+      "pattern_name": "Wind-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 16,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 23,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 23,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 72,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 72,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 74,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 74,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 76,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 76,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 80,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 80,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 82,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 82,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 89,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 89,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 201,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 201,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 206,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 206,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 452,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 452,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 453,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 453,
+      "pattern_name": "Heat invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 476,
+      "pattern_name": "Wind-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 476,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 525,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 525,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 527,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 527,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 544,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 544,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 762,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 762,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 765,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 765,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Wind-Cold-Damp invading with Qi Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 773,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 773,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 776,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 776,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 779,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 779,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 781,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 781,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 782,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 782,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 798,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 798,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 799,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 799,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 800,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 800,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 802,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 802,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 803,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 803,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 806,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 806,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 810,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 810,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 813,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 813,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 821,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 821,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1014,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1014,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1079,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1079,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1103,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1103,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1141,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1141,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1193,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1193,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1203,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1203,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1225,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1225,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1237,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1237,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1237,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1257,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1257,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1286,
+      "pattern_name": "Wind-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1286,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1361,
+      "pattern_name": "Wind-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1361,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1369,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1369,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1395,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1395,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1503,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1503,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1506,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1506,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1509,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1509,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1509,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1551,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1551,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1577,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1577,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1586,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1586,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1607,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1607,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1608,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Juan Bi Tang"
+    },
+    {
+      "condition_id": 1608,
+      "pattern_name": "Liver Blood and Kidney Yin Deficiency",
+      "formula_name": "Juan Bi Tang"
+    }
+  ]
+}

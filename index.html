@@ -1608,9 +1608,14 @@
                     history: []
                 },
                 
-                init() {
-                    this.fetchFilters();
+                catalog: null,
+                
+                async init() {
+                    this.loading = true;
+                    await this.loadCatalog();
+                    await this.fetchFilters();
                     this.searchAll();
+                    this.loading = false;
                     
                     this.$watch('activeTab', () => {
                         this.advancedOpen = false;
@@ -1622,57 +1627,236 @@
                     }, { deep: true });
                 },
                 
+                async loadCatalog() {
+                    try {
+                        let res = await fetch(`api/catalog_${this.lang}.json`);
+                        this.catalog = await res.json();
+                    } catch (e) {
+                        console.error("Failed to load catalog", e);
+                    }
+                },
+                
                 async fetchFilters() {
                     try {
-                        let res = await fetch('/api/filters?lang=' + this.lang);
+                        let res = await fetch(`api/filters_${this.lang}.json`);
                         this.filterOptions = await res.json();
                     } catch (e) {
                         console.error("Failed to fetch filters", e);
                     }
                 },
                 
-                async searchTab(tab, reset = false) {
+                searchTab(tab, reset = false) {
+                    if (!this.catalog || !this.catalog[tab]) return;
                     this.loading = true;
+                    
                     if (reset) {
                         this.pagination[tab].page = 1;
                         this.results[tab] = [];
                     }
                     
-                    let queryParams = new URLSearchParams();
-                    queryParams.append('page', this.pagination[tab].page);
-                    queryParams.append('limit', this.pagination[tab].limit);
-                    queryParams.append('sort', this.sortOptions[tab]);
-                    queryParams.append('lang', this.lang);
+                    let list = [...this.catalog[tab]];
                     
-                    if (this.filters[tab].search) {
-                        queryParams.append('search', this.filters[tab].search);
+                    // 1. Text Search matching columns similar to app.py
+                    let searchVal = this.filters[tab].search.trim().toLowerCase();
+                    if (searchVal) {
+                        let terms = searchVal.split(/\s+/);
+                        list = list.filter(item => {
+                            return terms.every(term => {
+                                if (tab === 'formulas') {
+                                    let ingredientsText = (item.ingredients_list || []).map(i => (i.herb_name || '') + ' ' + (i.english_name || '')).join(' ').toLowerCase();
+                                    let actionsText = '';
+                                    try { actionsText = JSON.parse(item.tcm_actions || '[]').join(' ').toLowerCase(); } catch(e){}
+                                    return (item.name || '').toLowerCase().includes(term) ||
+                                           (item.chinese_name || '').toLowerCase().includes(term) ||
+                                           (item.english_name || '').toLowerCase().includes(term) ||
+                                           (item.thai_name || '').toLowerCase().includes(term) ||
+                                           (item.summary || '').toLowerCase().includes(term) ||
+                                           actionsText.includes(term) ||
+                                           (item.other_names || '').toLowerCase().includes(term) ||
+                                           ingredientsText.includes(term);
+                                } else if (tab === 'herbs') {
+                                    return (item.name || '').toLowerCase().includes(term) ||
+                                           (item.chinese_name || '').toLowerCase().includes(term) ||
+                                           (item.english_name || '').toLowerCase().includes(term) ||
+                                           (item.scientific_name || '').toLowerCase().includes(term) ||
+                                           (item.pharmaceutical_name || '').toLowerCase().includes(term) ||
+                                           (item.alternative_names || '').toLowerCase().includes(term) ||
+                                           (item.summary || '').toLowerCase().includes(term) ||
+                                           (item.tcm_actions || '').toLowerCase().includes(term);
+                                } else if (tab === 'conditions') {
+                                    return (item.name || '').toLowerCase().includes(term) ||
+                                           (item.chinese_name || '').toLowerCase().includes(term) ||
+                                           (item.pinyin || '').toLowerCase().includes(term) ||
+                                           (item.preview_text || '').toLowerCase().includes(term) ||
+                                           (item.synonyms || '').toLowerCase().includes(term);
+                                } else if (tab === 'patterns') {
+                                    return (item.name || '').toLowerCase().includes(term) ||
+                                           (item.chinese_name || '').toLowerCase().includes(term) ||
+                                           (item.pinyin || '').toLowerCase().includes(term) ||
+                                           (item.description || '').toLowerCase().includes(term) ||
+                                           (item.also_known_as || '').toLowerCase().includes(term) ||
+                                           (item.key_signs || '').toLowerCase().includes(term);
+                                }
+                                return false;
+                            });
+                        });
                     }
                     
-                    for (let [key, val] of Object.entries(this.filters[tab])) {
-                        if (key === 'search') continue;
-                        if (Array.isArray(val) && val.length > 0) {
-                            queryParams.append(key, val.join(','));
+                    // 2. Filters
+                    if (tab === 'formulas') {
+                        if (this.filters.formulas.categories.length > 0) {
+                            list = list.filter(item => {
+                                let cats = [];
+                                try { cats = JSON.parse(item.categories || '[]'); } catch(e){}
+                                return this.filters.formulas.categories.some(c => cats.includes(c));
+                            });
+                        }
+                        if (this.filters.formulas.therapeuticFocus.length > 0) {
+                            list = list.filter(item => {
+                                let focus = [];
+                                try { focus = JSON.parse(item.therapeutic_focus || '[]'); } catch(e){}
+                                return this.filters.formulas.therapeuticFocus.some(f => focus.includes(f));
+                            });
+                        }
+                        if (this.filters.formulas.targetOrgans.length > 0) {
+                            list = list.filter(item => {
+                                let organs = [];
+                                try { organs = JSON.parse(item.target_organs || '[]'); } catch(e){}
+                                return this.filters.formulas.targetOrgans.some(o => organs.includes(o));
+                            });
+                        }
+                        if (this.filters.formulas.temperature.length > 0) {
+                            list = list.filter(item => this.filters.formulas.temperature.includes(item.temperature));
+                        }
+                        if (this.filters.formulas.preparationForm.length > 0) {
+                            list = list.filter(item => this.filters.formulas.preparationForm.includes(item.preparation_form));
+                        }
+                        if (this.filters.formulas.conditions.length > 0) {
+                            list = list.filter(item => {
+                                let conds = [];
+                                try { conds = JSON.parse(item.conditions || '[]'); } catch(e){}
+                                return this.filters.formulas.conditions.some(c => conds.includes(c));
+                            });
+                        }
+                        if (this.filters.formulas.herbs.length > 0) {
+                            list = list.filter(item => {
+                                let herbs = (item.ingredients_list || []).map(i => i.herb_name);
+                                return this.filters.formulas.herbs.every(h => herbs.includes(h));
+                            });
                         }
                     }
                     
-                    try {
-                        let url = `/api/${tab}?${queryParams.toString()}`;
-                        let res = await fetch(url);
-                        let data = await res.json();
-                        
-                        if (reset) {
-                            this.results[tab] = data.results;
-                        } else {
-                            this.results[tab] = this.results[tab].concat(data.results);
+                    if (tab === 'herbs') {
+                        if (this.filters.herbs.categories.length > 0) {
+                            list = list.filter(item => {
+                                let cats = [];
+                                try { cats = JSON.parse(item.categories || '[]'); } catch(e){}
+                                return this.filters.herbs.categories.some(c => cats.includes(c));
+                            });
                         }
-                        
-                        this.pagination[tab].total = data.total;
-                        this.pagination[tab].hasMore = this.results[tab].length < data.total;
-                    } catch (e) {
-                        console.error(`Failed to fetch ${tab}`, e);
-                    } finally {
-                        this.loading = false;
+                        if (this.filters.herbs.temperature.length > 0) {
+                            list = list.filter(item => this.filters.herbs.temperature.includes(item.temperature));
+                        }
+                        if (this.filters.herbs.tastes.length > 0) {
+                            list = list.filter(item => {
+                                let tastes = [];
+                                try { tastes = JSON.parse(item.tastes || '[]'); } catch(e){}
+                                return this.filters.herbs.tastes.some(t => tastes.includes(t));
+                            });
+                        }
+                        if (this.filters.herbs.organAffinities.length > 0) {
+                            list = list.filter(item => {
+                                let organs = [];
+                                try { organs = JSON.parse(item.organ_affinities || '[]'); } catch(e){}
+                                return this.filters.herbs.organAffinities.some(o => organs.includes(o));
+                            });
+                        }
+                        if (this.filters.herbs.toxicity.length > 0) {
+                            list = list.filter(item => this.filters.herbs.toxicity.includes(item.toxicity));
+                        }
                     }
+                    
+                    if (tab === 'conditions') {
+                        if (this.filters.conditions.categories.length > 0) {
+                            list = list.filter(item => {
+                                let cats = [];
+                                try { cats = JSON.parse(item.categories || '[]'); } catch(e){}
+                                return this.filters.conditions.categories.some(c => cats.includes(c));
+                            });
+                        }
+                        if (this.filters.conditions.bodyRegions.length > 0) {
+                            list = list.filter(item => {
+                                let regions = [];
+                                try { regions = JSON.parse(item.body_regions || '[]'); } catch(e){}
+                                return this.filters.conditions.bodyRegions.some(r => regions.includes(r));
+                            });
+                        }
+                    }
+                    
+                    if (tab === 'patterns') {
+                        if (this.filters.patterns.nature.length > 0) {
+                            list = list.filter(item => this.filters.patterns.nature.includes(item.nature));
+                        }
+                        if (this.filters.patterns.organs.length > 0) {
+                            list = list.filter(item => {
+                                let organs = [];
+                                try { organs = JSON.parse(item.organs || '[]'); } catch(e){}
+                                return this.filters.patterns.organs.some(o => organs.includes(o));
+                            });
+                        }
+                        if (this.filters.patterns.byVitalSubstance.length > 0) {
+                            list = list.filter(item => {
+                                let subs = [];
+                                try { subs = JSON.parse(item.by_vital_substance || '[]'); } catch(e){}
+                                return this.filters.patterns.byVitalSubstance.some(s => subs.includes(s));
+                            });
+                        }
+                        if (this.filters.patterns.byPathogenicFactor.length > 0) {
+                            list = list.filter(item => {
+                                let facs = [];
+                                try { facs = JSON.parse(item.by_pathogenic_factor || '[]'); } catch(e){}
+                                return this.filters.patterns.byPathogenicFactor.some(f => facs.includes(f));
+                            });
+                        }
+                    }
+                    
+                    // 3. Sorting
+                    let sort = this.sortOptions[tab];
+                    list.sort((a, b) => {
+                        if (sort === 'name-asc') {
+                            return (a.name || '').localeCompare(b.name || '');
+                        } else if (sort === 'name-desc') {
+                            return (b.name || '').localeCompare(a.name || '');
+                        } else if (sort === 'category') {
+                            let catA = '';
+                            try { catA = JSON.parse(a.categories || '[]')[0] || ''; } catch(e){}
+                            let catB = '';
+                            try { catB = JSON.parse(b.categories || '[]')[0] || ''; } catch(e){}
+                            let catCompare = catA.localeCompare(catB);
+                            if (catCompare !== 0) return catCompare;
+                            return (a.name || '').localeCompare(b.name || '');
+                        } else if (sort === 'relevance' && searchVal) {
+                            let term = searchVal.split(/\s+/)[0];
+                            let nameA = (a.name || '').toLowerCase();
+                            let nameB = (b.name || '').toLowerCase();
+                            let scoreA = nameA.startsWith(term) ? 0 : (nameA.includes(term) ? 1 : 2);
+                            let scoreB = nameB.startsWith(term) ? 0 : (nameB.includes(term) ? 1 : 2);
+                            if (scoreA !== scoreB) return scoreA - scoreB;
+                            return (a.name || '').localeCompare(b.name || '');
+                        }
+                        return 0;
+                    });
+                    
+                    // 4. Pagination
+                    let page = this.pagination[tab].page;
+                    let limit = this.pagination[tab].limit;
+                    let totalCount = list.length;
+                    let paginatedResults = list.slice(0, page * limit);
+                    
+                    this.results[tab] = paginatedResults;
+                    this.pagination[tab].total = totalCount;
+                    this.pagination[tab].hasMore = paginatedResults.length < totalCount;
+                    this.loading = false;
                 },
                 
                 searchAll() {
@@ -1715,10 +1899,13 @@
                     this.searchTab('formulas', true);
                 },
                 
-                toggleLanguage() {
+                async toggleLanguage() {
                     this.lang = this.lang === 'en' ? 'th' : 'en';
-                    this.fetchFilters();
+                    this.loading = true;
+                    await this.loadCatalog();
+                    await this.fetchFilters();
                     this.searchAll();
+                    this.loading = false;
                 },
                 
                 async openDetail(type, key, pushToHistory = true) {
@@ -1736,7 +1923,23 @@
                     this.detailModal.data = null;
                     
                     try {
-                        let url = `/api/details?type=${type}&key=${encodeURIComponent(key)}&lang=${this.lang}`;
+                        let id = key;
+                        if (isNaN(key)) {
+                            let catalogName = type + 's';
+                            let list = this.catalog ? this.catalog[catalogName] : [];
+                            let item = list.find(x => 
+                                (x.name && x.name.toLowerCase() === key.toLowerCase()) || 
+                                (x.english_name && x.english_name.toLowerCase() === key.toLowerCase()) ||
+                                (x.chinese_name && x.chinese_name.toLowerCase() === key.toLowerCase())
+                            );
+                            if (item) {
+                                id = item.id;
+                            } else {
+                                throw new Error(`Item ${key} not found in catalog`);
+                            }
+                        }
+                        
+                        let url = `api/details/${type}/${this.lang}/${id}.json`;
                         let res = await fetch(url);
                         if (res.ok) {
                             this.detailModal.data = await res.json();

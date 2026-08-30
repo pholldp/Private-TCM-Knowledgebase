@@ -1,0 +1,807 @@
+{
+  "id": 1060,
+  "name": "โรคประสาทหัวใจ",
+  "url": "/knowledge-base/conditions/cardiac-neurosis",
+  "kind": "Condition",
+  "pinyin": "xīn jì",
+  "chinese_name": "心悸",
+  "preview_text": "อาการใจสั่นไม่ใช่อาการเดียว - ตัวกระตุ้น ช่วงเวลาของวัน และความรู้สึกที่ตามมาชี้ไปที่รูปแบบ TCM ที่แตกต่างกัน 6 รูปแบบ และผู้ป่วยส่วนใหญ่เห็นว่าอาการของพวกเขาดีขึ้น ...",
+  "categories": "[\"สภาพหัวใจ\", \"ภาวะสุขภาพจิต\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Functional cardiac neurosis\"]",
+  "conventional_description": "In Western medicine, palpitations are defined as a noticeably rapid, strong, or irregular heartbeat. They are often felt in the chest, throat, or neck and can be triggered by stress, caffeine, nicotine, hormonal changes, or underlying heart conditions. Diagnosis typically involves an electrocardiogram (EKG), a Holter monitor, or event recorder to rule out arrhythmias. While many palpitations are benign and linked to anxiety or lifestyle, they can sometimes signal more serious cardiac issues.",
+  "conventional_treatments": "Conventional treatment depends on the cause. For benign palpitations, reassurance and avoidance of triggers (caffeine, alcohol, stress) are often sufficient. Beta-blockers or calcium channel blockers may be prescribed to slow the heart rate. Anti-anxiety medications or cognitive behavioral therapy are used when anxiety is the primary driver. If an arrhythmia is identified, specific antiarrhythmic drugs, cardioversion, or ablation procedures may be recommended.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the Heart is not just a pump - it houses the Shen, or spirit, which governs consciousness, sleep, and emotional balance. When the Heart is properly nourished and calm, the Shen rests peacefully and the heartbeat is steady and unnoticed. Palpitations occur when the Shen is disturbed, either because the Heart lacks the vital substances (Qi, Blood, Yin, or Yang) to anchor it, or because pathogenic factors like Phlegm-Fire or Blood Stagnation agitate it.\nThe most common root is deficiency. If the Spleen is weakened by worry or poor diet, it fails to produce enough Blood, leaving the Heart malnourished and the Shen unsettled - this is the fluttery palpitation that worsens with fatigue. If the Kidneys’ Yin is depleted by overwork or aging, empty heat rises to harass the Heart, causing racing beats at night with a restless mind. Even Heart Qi alone can be too weak to hold the Shen, leading to a sensation of skipped beats and unease.\nExcess patterns are also possible. Phlegm-Fire, often born from chronic stress and a rich diet, creates a sticky, heated obstruction that makes the heart pound forcefully with irritability. Blood Stagnation, sometimes after a long history of emotional constraint, produces a stabbing chest pain alongside palpitations. Each of these patterns requires a fundamentally different strategy - tonifying what is lacking, clearing what is excessive, or moving what is stuck.",
+  "classical_quote": "「怔忡之病，心胸筑筑振动，惶惶惕惕，无时得宁者是也。」",
+  "classical_translation": "\"The illness of palpitations (zheng chong) is a sensation of pounding and vibrating in the chest and heart, accompanied by a constant state of fear and restlessness that never settles.\"",
+  "classical_source": "Jing Yue Quan Shu (景岳全书)  ,  Volume 18, Chapter on Palpitations (怔忡惊恐) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by listening to the exact sensation of the palpitations - whether they feel like fluttering, pounding, or a skipped beat - and asks about triggers, time of day, and accompanying symptoms. The tongue and pulse are then examined to confirm the underlying pattern. Several distinct patterns can give rise to palpitations, and the details help separate them.\nIf palpitations come with a sense of timidity and being easily startled, and the person feels short of breath, the practitioner suspects Heart Qi Deficiency. The tongue is often pale with a thin coating, and the pulse is fine and weak. This pattern frequently arises after a sudden emotional shock or in those with a constitutionally weak Heart Qi that fails to anchor the spirit.\nWhen palpitations are accompanied by marked fatigue, poor appetite, and a pale complexion, the focus shifts to the Spleen. A weak Spleen fails to produce enough Blood to nourish the Heart, leading to Heart and Spleen Qi and Blood Deficiency. The tongue is pale with a thin white coating, and the pulse is thin and weak. Worry and overthinking are common triggers.\nIf the palpitations flare at night with a feeling of heat in the chest, palms, and soles, and the person has trouble sleeping, the pattern is likely Heart and Kidney Yin Deficiency. The tongue appears red with little or no coating, and the pulse is thin and rapid. This arises when Yin is too weak to anchor the Heart’s spirit, allowing empty fire to disturb the mind.\nPalpitations that feel heavy or blocked, along with irritability, a bitter taste in the mouth, and a sensation of chest oppression, point to Phlegm-Fire harassing the Heart. The tongue is red with a thick, yellow, greasy coating, and the pulse is slippery and rapid. This pattern often stems from a rich diet or emotional frustration generating phlegm and fire that disturb the Heart orifice.\nWhen palpitations are accompanied by stabbing or fixed chest pain, the practitioner considers Heart Blood Stagnation. The tongue looks dark purple or has purple spots, and the pulse feels wiry and choppy. This pattern indicates that blood flow in the Heart vessels is obstructed, often after long-term emotional constraint or physical injury.\nPalpitations with a feeling of coldness in the limbs, a pale face, and severe fatigue suggest Heart Yang Deficiency. The tongue is pale and swollen with a white coating, and the pulse is deep, slow, and weak. This is a deeper deficiency state where the Heart’s warming and pumping ability is weakened, more common in chronic illness or older age.",
+  "patterns": [
+    {
+      "id": 5241,
+      "condition_id": 1060,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "pattern_slug": "heart-and-spleen-qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations that get worse with fatigue or overwork\", \"Poor appetite with bloating after meals\", \"Pale or yellowish complexion and pale lips\", \"Excessive dreaming and difficulty staying asleep\", \"Forgetfulness and poor concentration\"]",
+      "worse_with": "Worry and overthinking, Mental overwork or excessive thinking, Cold, raw foods and drinks, Skipping meals",
+      "better_with": "Rest and sleep, Warm, cooked foods and drinks, Gentle movement or walking, Reducing mental stress",
+      "why_this_happens": "The Spleen is the body's factory for Qi and Blood. When worry, overthinking, or poor diet weaken the Spleen, it cannot produce enough Blood to nourish the Heart. The Heart, starved of fuel, loses its ability to settle the Shen (mind), which produces the fluttery, unsettled palpitations that are worse when you are tired or trying to rest.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with teeth marks and a thin white coating. Pulse: fine and weak, especially empty at the left Cun (Heart) position and soft at the right Guan (Spleen) position.",
+      "why_triggers_reliefs_work": "Worry and mental strain directly weaken the Spleen, the organ that produces Qi and Blood for the Heart. Calming the mind and reducing stress allows the Spleen to function properly. Warm, cooked foods are easy on the Spleen, while cold, raw foods require extra energy to digest, further depleting Qi. Regular meals and rest give the body a steady supply of fuel to build blood and settle the heart.",
+      "diet_and_lifestyle": "Eat warm, cooked meals like soups and stews with easily digestible proteins (chicken, fish) and grains (rice, oats). Avoid raw, cold foods and excessive mental work. Gentle exercise like walking or tai chi helps Qi flow without draining it.",
+      "formulas": [
+        {
+          "id": 11931,
+          "pattern_id": 5241,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to strengthen the Spleen, generate Blood, and calm the Heart Shen."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 27605,
+          "pattern_id": 5241,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Heart Blood and gently calms the mind."
+        },
+        {
+          "id": 27606,
+          "pattern_id": 5241,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Spleen Qi to build blood from the food you eat."
+        },
+        {
+          "id": 27607,
+          "pattern_id": 5241,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "",
+          "description": "Calms the spirit and improves sleep quality."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18747,
+          "pattern_id": 5241,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Shen and settles palpitations."
+        },
+        {
+          "id": 18748,
+          "pattern_id": 5241,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to generate Qi and Blood."
+        },
+        {
+          "id": 18749,
+          "pattern_id": 5241,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and supports restful sleep."
+        }
+      ]
+    },
+    {
+      "id": 5242,
+      "condition_id": 1060,
+      "pattern_name": "Heart Qi Deficiency",
+      "pattern_slug": "heart-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations or uncomfortable awareness of heartbeat\", \"Shortness of breath worsened by exertion\", \"Spontaneous daytime sweating\", \"Fatigue and lack of stamina\", \"Pale complexion and reluctance to speak\", \"Mild anxiety or timidity\"]",
+      "worse_with": "Physical overexertion or heavy exercise, Emotional shock or fright, Overwork and lack of sleep",
+      "better_with": "Rest and sleep, Warm, cooked foods and drinks, Gentle movement or walking",
+      "why_this_happens": "Heart Qi is the vital force that pumps blood and anchors the spirit (Shen). When it is weak, the heartbeat becomes unsteady and you feel it fluttering or skipping in your chest. The Shen loses its anchor, which brings on a sense of unease, anxiety, and being easily startled.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with a thin white coat; a midline crack toward the tip may appear in chronic cases. Pulse: empty (虚 Xu), soft and weak, especially at the left Cun (Heart) position.",
+      "why_triggers_reliefs_work": "Rest conserves Qi, while exertion depletes it further, so lying down eases the palpitations. Emotional shocks and worry scatter the Qi, making the Shen restless; warmth and nourishing foods support the Spleen to produce Qi, which in turn strengthens the Heart and steadies the spirit.",
+      "diet_and_lifestyle": "Eat warm, cooked meals like soups and stews; avoid raw, cold foods that drain Qi. Gentle daily movement such as walking or tai chi helps build Qi without exhausting it. Prioritize rest and avoid overexertion.",
+      "formulas": [
+        {
+          "id": 11932,
+          "pattern_id": 5242,
+          "formula_name": "Zhi Gan Cao Tang",
+          "formula_url": "/knowledge-base/formulas/zhi-gan-cao-tang",
+          "translation": "Honey-Fried Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Nourishes Yin and Blood, Tonifies Qi, Warms and Unblocks Yang",
+          "description": "Nourishes Heart Qi and Blood, steadies the heartbeat and calms the Shen."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 27608,
+          "pattern_id": 5242,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi and strengthens the Heart."
+        },
+        {
+          "id": 27609,
+          "pattern_id": 5242,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Qi and raises the clear Yang, improving stamina."
+        },
+        {
+          "id": 27610,
+          "pattern_id": 5242,
+          "herb_name": "Fu Shen",
+          "herb_url": "/knowledge-base/herbs/fu-shen",
+          "translation": "Poria with Hostwood",
+          "properties": "",
+          "description": "Calms the Shen and stops palpitations without heavy sedation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18750,
+          "pattern_id": 5242,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Shen and steadies the heartbeat."
+        },
+        {
+          "id": 18751,
+          "pattern_id": 5242,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart Qi and relieves chest discomfort."
+        },
+        {
+          "id": 18752,
+          "pattern_id": 5242,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Tonifies Heart Qi directly."
+        },
+        {
+          "id": 18753,
+          "pattern_id": 5242,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to produce more Qi, which then nourishes the Heart."
+        }
+      ]
+    },
+    {
+      "id": 5243,
+      "condition_id": 1060,
+      "pattern_name": "Heart and Kidney Yin Deficiency",
+      "pattern_slug": "heart-and-kidney-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations worse at night or with overwork\", \"Night sweats\", \"Five-centre heat (warm palms, soles, chest)\", \"Dizziness, tinnitus, low back soreness\", \"Red tongue with little or no coating\"]",
+      "worse_with": "Overwork and lack of sleep, Emotional stress and anger, Greasy, fried, or spicy foods, Hot or stuffy environments, Mental overwork or excessive thinking",
+      "better_with": "Rest and sleep, Cool, quiet environment, Moistening foods (pear, congee), Gentle movement or walking, Calming activities like meditation",
+      "why_this_happens": "The Kidneys store the body's essential Yin, which cools and nourishes the Heart. When Kidney Yin runs low, it fails to anchor the Heart's fire, allowing empty heat to rise and disturb the Shen (spirit). This causes the heart to race, especially at night when Yin should be dominant, and leads to the characteristic restlessness, night sweats, and a red tongue with little coating.",
+      "tongue_and_pulse": "Tongue: red, especially at the tip, thin body, little or no coating, dry surface, possible cracks. Pulse: fine (thin) and rapid, with a weak left Kidney position.",
+      "why_triggers_reliefs_work": "Yin is the body's cooling, nourishing substance. Overwork, late nights, and emotional stress consume Yin and stir up empty heat, making the heart pound. Rest, cooling foods, and a calm environment help preserve and rebuild Yin, allowing the Heart to settle.",
+      "diet_and_lifestyle": "Prioritise rest and avoid staying up late, as night-time is when Yin replenishes. Eat cooling, moistening foods like pear, black sesame, lily bulb, and congee. Avoid spicy, fried, or overly stimulating foods that heat the body. Gentle exercise such as Tai Chi or walking is fine, but avoid heavy sweating, which depletes Yin.",
+      "formulas": [
+        {
+          "id": 11933,
+          "pattern_id": 5243,
+          "formula_name": "Tian Wang Bu Xin Dan",
+          "formula_url": "/knowledge-base/formulas/tian-wang-bu-xin-dan",
+          "translation": "Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi",
+          "description": "Nourishes Heart and Kidney Yin, clears deficiency heat, and calms the Shen."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 27611,
+          "pattern_id": 5243,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and replenishes essence."
+        },
+        {
+          "id": 27612,
+          "pattern_id": 5243,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens Heart Yin and clears deficiency heat."
+        },
+        {
+          "id": 27613,
+          "pattern_id": 5243,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "",
+          "description": "Calms the Shen and steadies the heartbeat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18754,
+          "pattern_id": 5243,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Shen and anchors the Heart."
+        },
+        {
+          "id": 18755,
+          "pattern_id": 5243,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney that nourishes Yin and anchors fire."
+        },
+        {
+          "id": 18756,
+          "pattern_id": 5243,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Regulates Heart Qi and settles palpitations."
+        },
+        {
+          "id": 18757,
+          "pattern_id": 5243,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonises the three Yin channels."
+        }
+      ]
+    },
+    {
+      "id": 5244,
+      "condition_id": 1060,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "pattern_slug": "phlegm-fire-harassing-the-heart",
+      "is_common": 0,
+      "symptoms": "[\"Mental restlessness and agitation\", \"Chest oppression with a feeling of phlegm\", \"Bitter taste in the mouth\", \"Flushed red face\", \"Insomnia with disturbing dreams\", \"Dizziness and head heaviness\"]",
+      "worse_with": "Emotional stress and anger, Greasy, fried, or spicy foods, Alcohol and coffee, Hot or stuffy environments, Overwork and lack of sleep",
+      "better_with": "Cool, quiet environment, Light, bland diet, Gentle movement or walking, Deep breathing exercises, Cooling foods like cucumber and pear",
+      "why_this_happens": "When emotional stress or dietary excesses generate Heat and Phlegm, this combination rises to disturb the Heart, where the mind (Shen) resides. The sticky Phlegm-Fire obstructs the Heart's orifices, causing the Shen to become deeply unsettled. This results in palpitations that feel forceful and are accompanied by intense irritability, chest oppression, and a bitter taste in the mouth.",
+      "tongue_and_pulse": "Tongue: red, swollen body with a red prickly tip and a thick, yellow, greasy coating. Pulse: slippery and rapid, especially full and overflowing in the left Cun (Heart) position and slippery in the right Guan (Spleen/Stomach) position.",
+      "why_triggers_reliefs_work": "Phlegm-Fire is fueled by heat-inducing emotions like anger and stress, and by dietary choices that create Dampness and Heat, such as greasy or spicy foods. A cooling diet and calm environment help reduce internal Heat, while gentle movement and deep breathing prevent Qi stagnation that can turn into Fire. Avoiding alcohol and hot environments directly counteracts the Heat that agitates the Heart.",
+      "diet_and_lifestyle": "Eat a light, cooling diet with plenty of vegetables like cucumber and celery. Avoid greasy, fried, and spicy foods, as well as alcohol and coffee, which generate Phlegm and Heat. Practice calming activities such as meditation or gentle walking to soothe the mind and prevent emotional fire from flaring up.",
+      "formulas": [
+        {
+          "id": 11934,
+          "pattern_id": 5244,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "The classic formula to clear Heart Fire, transform Phlegm, and calm the Shen, resolving the Phlegm-Fire agitation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 27614,
+          "pattern_id": 5244,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heart Fire and calms agitation."
+        },
+        {
+          "id": 27615,
+          "pattern_id": 5244,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "",
+          "description": "Clears Heat and transforms Phlegm, easing chest oppression."
+        },
+        {
+          "id": 27616,
+          "pattern_id": 5244,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and resolves Phlegm, addressing the root of the turbid obstruction."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18758,
+          "pattern_id": 5244,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Shen and steadies the heartbeat."
+        },
+        {
+          "id": 18759,
+          "pattern_id": 5244,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point for transforming Phlegm and clearing Heat from the body."
+        },
+        {
+          "id": 18760,
+          "pattern_id": 5244,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart Qi and relieves chest oppression."
+        },
+        {
+          "id": 18761,
+          "pattern_id": 5244,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Clears Heart Fire and calms the mind."
+        }
+      ]
+    },
+    {
+      "id": 5245,
+      "condition_id": 1060,
+      "pattern_name": "Heart Blood Stagnation",
+      "pattern_slug": "heart-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Stabbing or pricking chest pain in a fixed location\", \"Purple or dark lips and nails\", \"Dark purple tongue with stasis spots\", \"Cold hands\", \"Pain radiating to shoulder, back, or inner left arm\", \"Anxiety or restlessness during pain episodes\"]",
+      "worse_with": "Emotional stress and anger, Cold, damp, or drafty environments, Greasy, fried, or spicy foods, Prolonged sitting or inactivity, Overwork and lack of sleep",
+      "better_with": "Warmth on the chest, Gentle movement or walking, Rest and a calm environment, Warm, cooked foods and drinks",
+      "why_this_happens": "When blood flow in the vessels of the Heart becomes sluggish or blocked, the Heart muscle struggles to pump smoothly. This obstruction creates the sensation of palpitations, often accompanied by a stabbing, fixed pain in the chest. The stagnant blood also disturbs the Shen (the mind/spirit residing in the Heart), leading to anxiety, restlessness, and disturbed sleep during episodes.",
+      "tongue_and_pulse": "Tongue: purple or dark-red body, stasis spots, distended sublingual veins, thin white coat. Pulse: choppy (涩) at the left Cun position or knotted (结) with irregular pauses.",
+      "why_triggers_reliefs_work": "Cold and inactivity congeal the blood, making it more difficult for the Heart to pump, so warmth and gentle movement are immediate reliefs that invigorate circulation. Emotional stress causes Qi to stagnate, and since Qi moves blood, this quickly leads to or worsens blood stasis; calming the mind and resting the body prevents this chain reaction. Greasy, heavy food creates phlegm, which further obstructs the vessels, so a light, warm diet keeps the blood pathways clear.",
+      "diet_and_lifestyle": "Eat warm, cooked foods and avoid icy drinks or raw salads, which congeal blood. A little hawthorn berry, turmeric, or a pinch of saffron in cooking can gently move blood. Gentle daily movement like walking or tai chi is essential to keep blood flowing; avoid prolonged sitting. Manage stress with calming activities, as anger and frustration can worsen stasis.",
+      "formulas": [
+        {
+          "id": 11935,
+          "pattern_id": 5245,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The primary formula to move blood, eliminate stasis, calm the Heart, and relieve the stabbing chest pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 27617,
+          "pattern_id": 5245,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Invigorates the blood and calms the Shen, directly addressing the palpitations and stasis."
+        },
+        {
+          "id": 27618,
+          "pattern_id": 5245,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and Qi in the chest, relieving the fixed, stabbing pain."
+        },
+        {
+          "id": 27619,
+          "pattern_id": 5245,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Breaks up blood stasis and unblocks the vessels to restore smooth circulation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18762,
+          "pattern_id": 5245,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Regulates Heart Qi and blood, calming palpitations and easing chest constriction."
+        },
+        {
+          "id": 18763,
+          "pattern_id": 5245,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, moves blood, and calms the Shen to relieve palpitations and anxiety."
+        },
+        {
+          "id": 18764,
+          "pattern_id": 5245,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood point, used to invigorate blood and remove stasis throughout the body."
+        }
+      ]
+    },
+    {
+      "id": 5246,
+      "condition_id": 1060,
+      "pattern_name": "Heart Yang Deficiency",
+      "pattern_slug": "heart-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations that worsen with exertion\", \"Cold hands and feet\", \"Bright pale or white face\", \"Feeling cold and disliking cold\", \"Fatigue and low energy\", \"Chest stuffiness or mild chest pain\"]",
+      "worse_with": "Cold, damp, or drafty environments, Physical overexertion or heavy exercise, Cold, raw foods and drinks, Emotional shock or fright",
+      "better_with": "Rest and sleep, Warmth and warm clothing, Warm, cooked foods and drinks, Gentle movement or walking, Moxibustion on the lower abdomen",
+      "why_this_happens": "The Heart’s Yang is the body’s warming fire that drives blood through the vessels. When this fire dims, the Heart lacks the strength to pump steadily, and the rhythm becomes unsteady - this is the palpitation. Because Yang provides warmth, its deficiency leaves you feeling cold, especially in the hands and feet, and makes the face pale.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks and a white slippery coating. Pulse: deep and weak, especially at the left cun (Heart) position; may be knotted (slow with irregular pauses).",
+      "why_triggers_reliefs_work": "Cold is the enemy of Yang - it drains the Heart’s warming fire, making the pulse weaker and the body colder, which is why cold weather, cold foods, and dampness worsen the palpitations. Rest and warmth conserve and gently rebuild Yang, while gentle movement prevents stagnation without depleting energy. Moxibustion directly adds warmth to the body’s core, helping the Heart regain its steady rhythm.",
+      "diet_and_lifestyle": "Keep your chest and feet warm, and avoid cold drinks and raw foods. Gentle daily walks help circulate Yang without overtaxing the Heart. Moxibustion on the lower abdomen (Qihai) can be deeply warming and supportive.",
+      "formulas": [
+        {
+          "id": 11936,
+          "pattern_id": 5246,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 11937,
+          "pattern_id": 5246,
+          "formula_name": "Zhi Gan Cao Tang",
+          "formula_url": "/knowledge-base/formulas/zhi-gan-cao-tang",
+          "translation": "Honey-Fried Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Nourishes Yin and Blood, Tonifies Qi, Warms and Unblocks Yang",
+          "description": "A classical formula used to nourish the Heart by replenishing both Qi and Blood while gently warming Heart Yang. It is primarily used for people experiencing palpitations, irregular heartbeat, fatigue, and shortness of breath caused by depletion of the body&#x27;s vital substances. Because it simultaneously supports Yin, Yang, Qi, and Blood, it is one of the most balanced restorative formulas in Chinese medicine."
+        },
+        {
+          "id": 11938,
+          "pattern_id": 5246,
+          "formula_name": "Tian Wang Bu Xin Dan",
+          "formula_url": "/knowledge-base/formulas/tian-wang-bu-xin-dan",
+          "translation": "Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi",
+          "description": "A classical formula for people who have trouble sleeping and feel restless due to overwork or prolonged mental exertion. It nourishes the body&#x27;s Yin and Blood while calming the mind and clearing low-grade internal heat. Often used for insomnia with palpitations, forgetfulness, night sweats, and a general sense of mental exhaustion."
+        },
+        {
+          "id": 11939,
+          "pattern_id": 5246,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm."
+        },
+        {
+          "id": 11940,
+          "pattern_id": 5246,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 27620,
+          "pattern_id": 5246,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms Heart Yang and promotes circulation."
+        },
+        {
+          "id": 27621,
+          "pattern_id": 5246,
+          "herb_name": "Long Gu",
+          "herb_url": "/knowledge-base/herbs/long-gu",
+          "translation": "Dragon Bone (fossilised mammal bone)",
+          "properties": "",
+          "description": "Anchors the spirit and calms palpitations."
+        },
+        {
+          "id": 27622,
+          "pattern_id": 5246,
+          "herb_name": "Mu Li Ke",
+          "herb_url": "/knowledge-base/herbs/mu-li-ke",
+          "translation": "Oyster shell",
+          "properties": "",
+          "description": "Settles the Shen and steadies the heart rhythm."
+        },
+        {
+          "id": 27623,
+          "pattern_id": 5246,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 27624,
+          "pattern_id": 5246,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 27625,
+          "pattern_id": 5246,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating",
+          "description": ""
+        },
+        {
+          "id": 27626,
+          "pattern_id": 5246,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 27627,
+          "pattern_id": 5246,
+          "herb_name": "Fu Shen",
+          "herb_url": "/knowledge-base/herbs/fu-shen",
+          "translation": "Poria with Hostwood",
+          "properties": "Neutral, Calms the Heart and Quiets the Spirit, Promotes Urination and Drains Dampness, Strengthens the Spleen",
+          "description": ""
+        },
+        {
+          "id": 27628,
+          "pattern_id": 5246,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 27629,
+          "pattern_id": 5246,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 27630,
+          "pattern_id": 5246,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 27631,
+          "pattern_id": 5246,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 27632,
+          "pattern_id": 5246,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 27633,
+          "pattern_id": 5246,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 27634,
+          "pattern_id": 5246,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 27635,
+          "pattern_id": 5246,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 27636,
+          "pattern_id": 5246,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 27637,
+          "pattern_id": 5246,
+          "herb_name": "Long Gu",
+          "herb_url": "/knowledge-base/herbs/long-gu",
+          "translation": "Dragon Bone (fossilised mammal bone)",
+          "properties": "Neutral, Calms the Spirit and Settles Fright, Calms the Liver and anchors floating Yang, Secures Essence and Stops Leakage",
+          "description": ""
+        },
+        {
+          "id": 27638,
+          "pattern_id": 5246,
+          "herb_name": "Mu Li Ke",
+          "herb_url": "/knowledge-base/herbs/mu-li-ke",
+          "translation": "Oyster shell",
+          "properties": "Slightly Cool, Calms the Liver and Subdues Yang, Anchors and Calms the Spirit, Nourishes Yin",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18765,
+          "pattern_id": 5246,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Tonifies Heart Yang directly; use moxibustion for added warmth."
+        },
+        {
+          "id": 18766,
+          "pattern_id": 5246,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates the Heart rhythm and opens the chest."
+        },
+        {
+          "id": 18767,
+          "pattern_id": 5246,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Shen and steadies palpitations."
+        },
+        {
+          "id": 18768,
+          "pattern_id": 5246,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Moxibustion here warms the body&#x2019;s core Yang and strengthens the Heart."
+        },
+        {
+          "id": 18769,
+          "pattern_id": 5246,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Qi and Yang to support overall energy and circulation."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 6874,
+      "condition_id": 1060,
+      "question": "How quickly can acupuncture stop my palpitations?",
+      "answer": "Many patients notice a calming effect during or shortly after their first session, but lasting improvement usually takes 4-8 weekly treatments. Acupuncture works by regulating the autonomic nervous system and redirecting Qi to settle the Shen, so the response can be immediate for some, especially in stress-triggered cases. For deeper deficiency patterns, consistency is key."
+    },
+    {
+      "id": 6875,
+      "condition_id": 1060,
+      "question": "Is it safe to take Chinese herbs with my heart medication?",
+      "answer": "It can be safe, but you must inform both your TCM practitioner and your prescribing doctor. Some Blood-moving herbs like Dang Gui or Chuan Xiong may interact with anticoagulants or antiplatelet drugs. Never stop or adjust your heart medication on your own - always coordinate any changes with your cardiologist."
+    },
+    {
+      "id": 6876,
+      "condition_id": 1060,
+      "question": "Can TCM help if my palpitations are caused by anxiety?",
+      "answer": "Absolutely. Anxiety-related palpitations often fall into the Heart and Spleen Qi and Blood Deficiency or Heart Qi Deficiency patterns in TCM. By nourishing the Heart and calming the Shen, formulas like Gui Pi Tang and acupuncture points like Shenmen HT-7 directly address the root of both the emotional unrest and the physical sensation."
+    },
+    {
+      "id": 6877,
+      "condition_id": 1060,
+      "question": "What foods should I avoid if I have palpitations?",
+      "answer": "In general, avoid or reduce caffeine, alcohol, spicy foods, and heavy, greasy meals, which can generate Phlegm-Fire or aggravate existing heat. Cold and raw foods can weaken the Spleen and worsen deficiency patterns. Instead, favor warm, cooked foods like soups, congees, and stews that are easy to digest and gently nourishing."
+    },
+    {
+      "id": 6878,
+      "condition_id": 1060,
+      "question": "Will the palpitations come back after I stop treatment?",
+      "answer": "If the underlying pattern has been fully corrected, recurrence is unlikely. TCM aims to resolve the root imbalance, not just suppress the symptom. However, returning to the same lifestyle factors - chronic stress, poor diet, overwork - can recreate the pattern over time. Your practitioner will often recommend dietary and lifestyle adjustments to maintain your progress."
+    },
+    {
+      "id": 6879,
+      "condition_id": 1060,
+      "question": "Do I need to have a Western diagnosis before seeing a TCM practitioner?",
+      "answer": "It is always wise to have a medical evaluation first to rule out serious cardiac conditions. Once your doctor confirms no urgent arrhythmia or structural heart disease, TCM can be an excellent next step, particularly for functional or stress-related palpitations. Bring any test results to your TCM consultation."
+    }
+  ],
+  "research": []
+}

@@ -1,0 +1,815 @@
+{
+  "id": 36,
+  "name": "ไข้หวัด",
+  "url": "/knowledge-base/conditions/common-cold",
+  "kind": "Condition",
+  "pinyin": "gǎn mào",
+  "chinese_name": "感冒",
+  "preview_text": "อาการหนาวสั่น ไอใส และไข้ เจ็บคอ เป็นรูปแบบที่แตกต่างกันใน TCM และแต่ละรูปแบบจะตอบสนองต่อสูตรสมุนไพรที่แตกต่างกันได้ดีที่สุด ด้วยการจับคู่ที่ใช่ r...",
+  "categories": "[\"การติดเชื้อไวรัส\", \"โรคหวัดและการติดเชื้อทางเดินหายใจส่วนบน\", \"คอและกลืน\"]",
+  "body_regions": "[\"Face — Nose\", \"Neck — Anterior\"]",
+  "synonyms": "[\"Anemopyretic Cold\", \"Cold\", \"Common cold (wind-cold type)\", \"Common cold (viral upper respiratory infection)\", \"Common cold (viral upper respiratory tract infection)\", \"Common cold (viral)\", \"Chills with mild fever after catching cold\", \"Summer Cold\", \"Upper respiratory tract infection in summer\", \"Lingering Common Cold\", \"Common cold (lingering stage)\", \"Common Cold (Wind-Heat Type)\", \"Common Cold with Body Aches and Heaviness\", \"Prolonged Common Cold\", \"Common cold with prolonged course\", \"Perimenstrual Common Cold\", \"Postpartum Common Cold\", \"Summer Cold (Gastrointestinal Type)\", \"Common Cold After Hemorrhage\", \"Common cold during recovery from haemorrhage\", \"Common Cold in Anemia\", \"Common cold in anaemic patients\", \"Common cold (yang-deficient type)\", \"Common Cold Fever\"]",
+  "conventional_description": "The common cold is a viral upper respiratory infection caused by over 200 different viruses, most commonly rhinoviruses. Typical symptoms include runny or stuffy nose, sneezing, sore throat, cough, mild headache, and sometimes low-grade fever. It's usually self-limiting, resolving within 7-10 days, though a cough may linger longer.\nDiagnosis is based on symptoms alone. Because it's viral, antibiotics are ineffective, and treatment focuses on symptom relief - decongestants, antihistamines, pain relievers - while the immune system clears the infection.",
+  "conventional_treatments": "Over-the-counter remedies like acetaminophen or ibuprofen for aches and fever, decongestant sprays or pills for nasal congestion, and cough suppressants or expectorants. Rest, fluids, and humidifiers are also recommended. There's no cure; medications simply make you more comfortable while your body fights the virus.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, a cold is seen as an invasion of external pathogenic factors - most commonly Wind, often carrying Cold, Heat, Dampness, or Dryness with it. These pathogens enter through the skin and the nose, first attacking the body's defensive Qi (Wei Qi) and then lodging in the Lungs. The Lungs govern the skin and open into the nose, so when they're under attack, you get the classic symptoms: congestion, cough, and sneezing.\nThe specific pathogen determines the pattern. A Wind-Cold invasion causes chills that outweigh the fever, a tight headache, and clear watery mucus - the body is trying to fight off a cold pathogen by closing the pores.\nA Wind-Heat invasion brings more fever, a sore throat, and thick yellow mucus, as Heat dries up fluids. Summer Heat with Dampness makes the body feel heavy and sticky, with a greasy tongue coating, because Dampness clogs the channels and Spleen.\nUnderlying constitutional weakness also plays a huge role. If your Qi is chronically low, your defensive layer is too weak to keep pathogens out, so you catch colds easily and they linger.\nIf your Blood or Yin is deficient, you may get a cold that feels dry and scratchy, with a pale face and dizziness. In every case, the Lung's ability to descend and diffuse Qi is disrupted, leading to coughing and phlegm.\nThis is why two people can catch the same virus but have completely different TCM patterns - one shivering under blankets, another burning up with a red throat. TCM treats the person, not the bug, by identifying which pathogen is dominant and which internal weakness allowed it in.",
+  "classical_quote": "「太阳之为病，脉浮，头项强痛而恶寒。」",
+  "classical_translation": "\"When the Tai Yang (Greater Yang) is diseased, the pulse is floating, there is headache, stiff neck, and aversion to cold. This is the classic description of the exterior syndrome that includes the common cold.\"",
+  "classical_source": "Shang Han Lun (Treatise on Cold Damage)  ,  Line 1 (Tai Yang Disease) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the very first sensations you noticed. The balance between feeling cold and feeling hot, the quality of mucus, and whether or not you sweat are the earliest clues that steer the diagnosis toward one pattern or another. The season and your own typical energy level also matter greatly, because the same virus behaves differently in a robust person versus someone already run-down.\nIf chills are the dominant complaint and you cannot get warm even under blankets, with clear watery mucus and a headache that feels like a tight band, Wind-Cold invading the Lungs is likely. The tongue will have a thin white coating and the pulse feels tight and floating, like a boat bobbing on a wave. This picture points to a cold pathogen blocking the body's surface.\nWhen fever is more prominent than chills, the throat is sore and red, and nasal discharge is thick and yellow, Wind-Heat invading the Lungs is the probable pattern. The tip of the tongue is redder and the coating is thin yellow, while the pulse feels rapid and floating. This heat pattern often develops when a cold lingers or strikes during warmer weather.\nIn hot, humid summer months a cold that brings a heavy, muzzy head, a sticky sensation in the mouth, chest tightness, and limbs that feel weighted signals Summer Heat with Dampness. The tongue coating is greasy and may be white or yellow, and the pulse is soft and rapid. This pattern reflects dampness and heat trapped together in the body.\nIf you catch cold after cold and each one leaves you exhausted with only mild fever, Qi Deficiency is the underlying pattern. The tongue looks pale and puffy with a thin white coat, and the pulse is weak and floating. Here the defensive Qi is too feeble to repel invaders, so the body mounts a lukewarm response.\nWhen a cold strikes someone who already has dry skin, a parched throat, and little saliva, Wind-Cold invading with Blood and Yin Deficiency may be at play. Chills and fever are mild, but dryness is intense, with a scant cough and a tongue that looks pale, thin, and slightly dry with a thin white coating. The pulse is thin and floating, revealing the body's shortage of nourishing blood and fluids.\nIn dry climates or autumn, a cold that begins with a scratchy throat, a dry hacking cough, and a nose that feels parched points to Dry-Wind. The tongue coating is thin and dry, and the pulse is floating and rapid. This pattern arises when wind carries dryness into the lungs, robbing them of moisture.",
+  "patterns": [
+    {
+      "id": 174,
+      "condition_id": 36,
+      "pattern_name": "Wind-Cold invading the Lungs",
+      "pattern_slug": "wind-cold-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Chills more prominent than fever\", \"Clear watery nasal discharge\", \"Cough with thin white watery phlegm\", \"Headache and body aches\", \"Itchy throat\"]",
+      "worse_with": "Exposure to cold wind or drafts, Cold or raw foods and drinks, Overexertion or overwork, Exposure to wind and damp",
+      "better_with": "Warmth and covering up, Warm ginger tea, Rest and sleep, Light sweating, Warm baths",
+      "why_this_happens": "Wind and Cold are external pathogens that attack the body's surface first. They block the pores, trapping defensive Qi inside, which causes chills, an absence of sweating, and a mild fever as the body tries to fight back. At the same time, the Lungs lose their ability to open and descend, leading to cough, nasal congestion with clear runny discharge, and an itchy throat.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin white moist coating. Pulse: floating and tight (浮紧, fú jǐn).",
+      "why_triggers_reliefs_work": "Wind-Cold invades when the body's defensive layer is weak and cold penetrates the skin. Warmth and light sweating open the pores and push the pathogen back out, while cold foods and drafts tighten the surface and lock the pathogen inside. Rest conserves Qi so the body can focus on fighting the invasion.",
+      "diet_and_lifestyle": "Drink warm fluids like fresh ginger tea with a little brown sugar to promote gentle sweating. Avoid cold, raw, and greasy foods that can trap the pathogen. Keep the body warm, especially the neck and back, and get plenty of rest to allow the defensive Qi to recover.",
+      "formulas": [
+        {
+          "id": 378,
+          "pattern_id": 174,
+          "formula_name": "Jing Fang Bai Du San",
+          "formula_url": "/knowledge-base/formulas/jing-fang-bai-du-san",
+          "translation": "Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences &#xB7; M&#xED;ng dynasty, 1550 CE",
+          "properties": "Slightly Warm, Disperses Wind-Cold, Releases the Exterior, Drains Dampness",
+          "description": "The classic formula to dispel Wind-Cold, release the exterior, and relieve cough and body aches."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 897,
+          "pattern_id": 174,
+          "herb_name": "Jing Jie",
+          "herb_url": "/knowledge-base/herbs/jing-jie",
+          "translation": "Schizonepeta",
+          "properties": "",
+          "description": "Releases the exterior and dispels Wind-Cold, especially for chills and headache."
+        },
+        {
+          "id": 898,
+          "pattern_id": 174,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and helps open the pores to promote light sweating."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 583,
+          "pattern_id": 174,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Dispels Wind-Cold and stops cough by restoring the Lung&#x27;s descending function."
+        },
+        {
+          "id": 584,
+          "pattern_id": 174,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels Wind from the head and neck, relieving headache and nasal congestion."
+        },
+        {
+          "id": 585,
+          "pattern_id": 174,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "With moxibustion, warms yang and releases the exterior to drive out Cold."
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "condition_id": 36,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "pattern_slug": "wind-heat-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Fever stronger than chills\", \"Sore throat\", \"Yellow or turbid nasal discharge\", \"Red tongue tip with thin yellow coating\", \"Thirst\", \"Cough with thick yellow phlegm\"]",
+      "worse_with": "Spicy or fried foods, Hot stuffy environment, Overexertion or overwork, Smoking, Stress, worry, or anxiety",
+      "better_with": "Cool drinks (chrysanthemum, mint tea), Rest and sleep, Cool fresh air, Light, breathable clothing, Avoiding spicy food",
+      "why_this_happens": "Wind and Heat are external pathogens that attack the body's surface, especially the Lungs and the defensive Qi that guards the skin and nose. The Heat pathogen is stronger than the Wind, so fever overtakes chills. The Heat dries body fluids, causing thirst, a sore throat, and thick yellow mucus, while the Lungs' normal downward flow is disrupted, leading to cough with yellow phlegm.",
+      "tongue_and_pulse": "Tongue: red tip, thin yellow coating, body slightly red. Pulse: floating and rapid (浮数, fú shuò).",
+      "why_triggers_reliefs_work": "Wind-Heat is an external invasion of heat and wind. Spicy and fried foods add internal heat, making sore throat and fever worse. A hot environment traps heat and prevents the body from releasing the pathogen. Cooling foods and rest help clear heat and support the body's defensive Qi to expel the invader.",
+      "diet_and_lifestyle": "Drink plenty of cool fluids like chrysanthemum tea or mint tea. Avoid spicy, greasy, or fried foods that add heat. Rest in a cool, well-ventilated room, and avoid overexertion.",
+      "formulas": [
+        {
+          "id": 379,
+          "pattern_id": 175,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The classic cooling formula to release the exterior, clear heat, and soothe the throat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 899,
+          "pattern_id": 175,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Honeysuckle flower, the chief herb to clear heat and release the exterior."
+        },
+        {
+          "id": 900,
+          "pattern_id": 175,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Forsythia fruit, a key herb to clear heat and relieve toxicity, especially for sore throat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 586,
+          "pattern_id": 175,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels Wind and clears heat from the head and neck."
+        },
+        {
+          "id": 587,
+          "pattern_id": 175,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and releases the exterior."
+        },
+        {
+          "id": 588,
+          "pattern_id": 175,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat from the body and relieves sore throat."
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "condition_id": 36,
+      "pattern_name": "Summer Heat with Dampness",
+      "pattern_slug": "summer-heat-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, wrapped sensation in the head\", \"Chest and upper abdominal distension\", \"Greasy white or yellow tongue coating\", \"Fever with little improvement after sweating\", \"Thirst with no desire to drink\"]",
+      "worse_with": "Hot, humid weather, Heavy, greasy meals, Cold or raw foods and drinks, Overexertion or overwork",
+      "better_with": "Cool, dry environment, Light, bland foods, Resting in the shade",
+      "why_this_happens": "In summer, external heat and humidity can penetrate the body's surface. Summerheat disturbs the Lung and defensive Qi, causing fever and irritability, while Dampness clogs the channels and the Spleen, leading to a heavy, stuck sensation in the head and limbs. The Spleen's ability to transform fluids is impaired, resulting in chest distension, a greasy tongue coating, and a thirst you can't quench. The fever persists despite sweating because Dampness traps the Heat, preventing it from clearing.",
+      "tongue_and_pulse": "Tongue: red body with a white greasy coating (may turn yellow greasy if Heat predominates). Pulse: soggy (濡 ru) and rapid (数 shu).",
+      "why_triggers_reliefs_work": "Summerheat and Dampness are external evils that invade when the body is exposed to hot, humid weather. Such weather directly feeds the pattern, making it worse. Heavy, greasy foods and cold drinks damage the Spleen's ability to transform fluids, creating more internal dampness and trapping heat. Conversely, a cool, dry environment helps the body clear summerheat, while light, warm foods support the Spleen and allow dampness to drain. Rest conserves Qi so it can focus on expelling the pathogen.",
+      "diet_and_lifestyle": "Eat light, easily digestible foods like congee, mung bean soup, and lightly cooked vegetables. Avoid heavy, greasy, or fried foods that create more dampness. Stay in a cool, dry place and avoid hot, humid environments. Sip warm water or herbal teas; ice-cold drinks will worsen the dampness.",
+      "formulas": [
+        {
+          "id": 380,
+          "pattern_id": 176,
+          "formula_name": "Xin Jia Xiang Ru Yin",
+          "formula_url": "/knowledge-base/formulas/xin-jia-xiang-ru-yin",
+          "translation": "Newly Augmented Elsholtzia Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Warm, Releases the Exterior and Resolves Summerheat, Clears Heat, Transforms Dampness",
+          "description": "The primary formula to clear summerheat, drain dampness, and release the exterior."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 901,
+          "pattern_id": 176,
+          "herb_name": "Xiang Ru",
+          "herb_url": "/knowledge-base/herbs/xiang-ru",
+          "translation": "Mosla herb",
+          "properties": "",
+          "description": "Releases the exterior, dispels summerheat, and transforms dampness."
+        },
+        {
+          "id": 902,
+          "pattern_id": 176,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves summerheat toxicity."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 589,
+          "pattern_id": 176,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Disperses wind and clears heat from the head."
+        },
+        {
+          "id": 590,
+          "pattern_id": 176,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and transforms dampness."
+        },
+        {
+          "id": 591,
+          "pattern_id": 176,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness and promotes urination."
+        },
+        {
+          "id": 592,
+          "pattern_id": 176,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears summerheat and regulates the exterior."
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "condition_id": 36,
+      "pattern_name": "Qi Deficiency",
+      "pattern_slug": "qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Mild fever with more fatigue than chills\", \"Spontaneous sweating without exertion\", \"Recurrent colds that linger and never fully clear\", \"Pale, puffy tongue with teeth marks\", \"Weak or empty pulse\", \"Shortness of breath on mild exertion\"]",
+      "worse_with": "Overexertion or overwork, Cold or raw foods and drinks, Stress, worry, or anxiety, Cold, damp weather",
+      "better_with": "Warm soups, broths, or herbal teas, Rest and sleep, Gentle exercise like tai chi, Moxibustion on the lower back",
+      "why_this_happens": "When the body's Qi is chronically low, the defensive layer that guards against wind and cold becomes too weak to keep pathogens out. This is why people with Qi Deficiency catch colds easily and often - the gates are left half-open. Once a cold takes hold, the body lacks the energy to mount a strong fever or a quick recovery, so the illness drags on with more fatigue than chills.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks and a thin white coating. Pulse: empty (虚, xū) or weak (弱, ruò), soft and lacking force, especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Qi Deficiency means the body's energy reserves are low, so anything that further drains them - like overwork or cold food - deepens the deficit and lets colds take hold. Rest and warm, cooked nourishment rebuild the Spleen and Lung Qi that make up the defensive shield, while gentle movement circulates Qi without exhausting it.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible meals - soups, stews, and congees with a little ginger and rice are ideal. Avoid raw, cold, and greasy foods that drain digestive fire. Gentle daily movement like walking or tai chi builds Qi without exhausting it; rest before you feel completely worn out.",
+      "formulas": [
+        {
+          "id": 381,
+          "pattern_id": 177,
+          "formula_name": "Yu Ping Feng San",
+          "formula_url": "/knowledge-base/formulas/yu-ping-feng-san",
+          "translation": "Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating",
+          "description": "Builds the defensive Qi to prevent frequent colds and shorten their duration."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 903,
+          "pattern_id": 177,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "The primary herb to tonify protective Qi and stop spontaneous sweating."
+        },
+        {
+          "id": 904,
+          "pattern_id": 177,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, supporting the production of Qi."
+        },
+        {
+          "id": 905,
+          "pattern_id": 177,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Expels wind without damaging the body&#x27;s defenses."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 593,
+          "pattern_id": 177,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. The master point for building Qi and strengthening the whole body."
+        },
+        {
+          "id": 594,
+          "pattern_id": 177,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Tonify. Regulates Lung Qi and reinforces the defensive layer."
+        },
+        {
+          "id": 595,
+          "pattern_id": 177,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Moxibustion. Warms Yang and expels lingering wind-cold."
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "condition_id": 36,
+      "pattern_name": "Wind-Cold invading with Blood and Yin Deficiency",
+      "pattern_slug": "wind-cold-invading-with-blood-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Chills more noticeable than fever\", \"Pale complexion, lips, and nail beds\", \"Dizziness or light-headedness\", \"Dry mouth or throat\", \"Fatigue and general weakness\", \"Heart palpitations\"]",
+      "worse_with": "Cold or raw foods and drinks, Overexertion or overwork, Exposure to cold wind or drafts, Stress, worry, or anxiety",
+      "better_with": "Warm ginger tea, Rest and sleep, Warmth and covering up, Warm soups, broths, or herbal teas",
+      "why_this_happens": "When the body's Blood and Yin are already depleted, the protective Qi (Wei Qi) becomes weak and cannot properly defend against external pathogens. Wind-Cold easily invades, causing the typical chills, headache, and body aches, but because the internal foundation is dry and undernourished, you also feel dizzy, have a dry throat, and look pale. The exterior symptoms are mild because the body lacks the energy to mount a strong fever, so chills dominate over fever.",
+      "tongue_and_pulse": "Tongue: pale, thin body, slightly dry with a thin white coating. Pulse: floating and thin (浮细 fú xì), lacking force, as if the pulse is superficial but empty.",
+      "why_triggers_reliefs_work": "Wind-Cold is a cold pathogen that constricts the exterior, so warmth and rest help open the pores and release it. Because the body's Blood and Yin are already low, pushing too hard or eating cold foods further drains energy and dries out the fluids. Gentle nourishment and warmth replenish the inner deficiency while helping to expel the invader.",
+      "diet_and_lifestyle": "Drink warm ginger tea with red dates (jujube) to gently warm the body and nourish Blood. Eat easily digestible, warm soups like congee with scallions. Avoid raw, cold foods and iced drinks, which further deplete Yang and Yin. Rest is essential; even mild exertion can worsen dizziness and fatigue.",
+      "formulas": [
+        {
+          "id": 382,
+          "pattern_id": 178,
+          "formula_name": "Cong Bai Qi Wei Yin",
+          "formula_url": "/knowledge-base/formulas/cong-bai-qi-wei-yin",
+          "translation": "Scallion Bulb Seven-Ingredient Drink &#xB7; T&#xE1;ng dynasty, 752 CE",
+          "properties": "Slightly Warm, Nourishes Blood, Releases the Exterior, Disperses Wind-Cold",
+          "description": "The classic formula for blood deficiency with wind-cold invasion; it releases the exterior while nourishing Blood and Yin."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 906,
+          "pattern_id": 178,
+          "herb_name": "Cong Bai",
+          "herb_url": "/knowledge-base/herbs/cong-bai",
+          "translation": "Scallion Bulb",
+          "properties": "",
+          "description": "Releases the exterior and expels Wind-Cold without causing excessive sweating."
+        },
+        {
+          "id": 907,
+          "pattern_id": 178,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and moistens dryness, addressing the underlying deficiency."
+        },
+        {
+          "id": 908,
+          "pattern_id": 178,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes Blood and Yin, astringes Yin to prevent further depletion."
+        },
+        {
+          "id": 909,
+          "pattern_id": 178,
+          "herb_name": "Sheng Jiang",
+          "herb_url": "/knowledge-base/herbs/sheng-jiang",
+          "translation": "Fresh ginger rhizome",
+          "properties": "",
+          "description": "Warms the exterior and helps disperse cold."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 596,
+          "pattern_id": 178,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels Wind and releases the exterior, especially for headache and neck stiffness."
+        },
+        {
+          "id": 597,
+          "pattern_id": 178,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Opens the nose and disseminates Lung Qi to relieve congestion."
+        },
+        {
+          "id": 598,
+          "pattern_id": 178,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and Yin, strengthens the Spleen to support recovery."
+        },
+        {
+          "id": 599,
+          "pattern_id": 178,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood to address the underlying deficiency."
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "condition_id": 36,
+      "pattern_name": "Dry-Wind",
+      "pattern_slug": "dry-wind",
+      "is_common": 0,
+      "symptoms": "[\"Dry cough with little or no mucus\", \"Dry nose, mouth, and throat\", \"Itchy, scratchy throat\", \"Mild aversion to cold or wind with low-grade fever\", \"Dry, cracked lips and dry skin\"]",
+      "worse_with": "Dry, heated indoor air, Spicy or fried foods, Windy, arid weather, Overuse of voice",
+      "better_with": "Humidifier or steamy bathroom, Warm soups, broths, or herbal teas, Rest in a calm, moist environment, Cool, gentle mist",
+      "why_this_happens": "Dry-Wind is an external pathogen that combines the qualities of Wind and Dryness. It invades through the nose and mouth, directly attacking the Lung system. Because Dryness consumes Body Fluids, the delicate mucous membranes of the throat and airways lose their natural moisture, leading to a parched, scratchy sensation and a stubborn dry cough with very little sticky phlegm.",
+      "tongue_and_pulse": "Tongue: slightly red body with a dry surface, thin white dry coating, and possible cracks. Pulse: floating and rapid, often stronger on the right side.",
+      "why_triggers_reliefs_work": "Dry-Wind directly consumes the body's fluids, particularly in the Lungs and throat. Humidified air and warm liquids replenish moisture and help the Lung's delicate lining recover. Spicy, fried foods and dry environments intensify the drying effect, making the scratchy cough and parched sensation worse.",
+      "diet_and_lifestyle": "Use a humidifier to keep indoor air moist, especially while sleeping. Sip warm water, pear juice, or mild herbal teas throughout the day. Avoid spicy, fried, or dry-crunchy foods that can further parch the throat. A small bowl of steamed pear with honey can be wonderfully soothing.",
+      "formulas": [
+        {
+          "id": 383,
+          "pattern_id": 179,
+          "formula_name": "Sang Xing Tang",
+          "formula_url": "/knowledge-base/formulas/sang-xing-tang",
+          "translation": "Mulberry Leaf and Apricot Kernel Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Gently disperses warm Dryness, Moistens the Lungs, Stops Cough",
+          "description": "The primary formula for warm-dryness invading the Lungs. It moistens Dryness, clears Heat, and guides the pathogen out through the exterior."
+        },
+        {
+          "id": 384,
+          "pattern_id": 179,
+          "formula_name": "Jing Fang Bai Du San",
+          "formula_url": "/knowledge-base/formulas/jing-fang-bai-du-san",
+          "translation": "Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences &#xB7; M&#xED;ng dynasty, 1550 CE",
+          "properties": "Slightly Warm, Disperses Wind-Cold, Releases the Exterior, Drains Dampness",
+          "description": "A classical formula used to relieve the early stages of colds and flu caused by exposure to Wind-Cold and Dampness, with symptoms such as chills, fever, headache, body aches, nasal congestion, and cough with white phlegm. It is also commonly used for early-stage skin conditions such as boils and hives when accompanied by chills and body aches."
+        },
+        {
+          "id": 385,
+          "pattern_id": 179,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 386,
+          "pattern_id": 179,
+          "formula_name": "Xin Jia Xiang Ru Yin",
+          "formula_url": "/knowledge-base/formulas/xin-jia-xiang-ru-yin",
+          "translation": "Newly Augmented Elsholtzia Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Warm, Releases the Exterior and Resolves Summerheat, Clears Heat, Transforms Dampness",
+          "description": "A classical summer formula designed to relieve cold symptoms that occur in hot weather, such as chills, fever without sweating, headache, thirst, and chest tightness. It works by opening the pores to release the trapped pathogen while clearing internal summer heat and dampness. It is especially suited for people who catch a chill from air conditioning, cold drinks, or sleeping in cool breezes during summer."
+        },
+        {
+          "id": 387,
+          "pattern_id": 179,
+          "formula_name": "Yu Ping Feng San",
+          "formula_url": "/knowledge-base/formulas/yu-ping-feng-san",
+          "translation": "Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating",
+          "description": "A simple but highly valued three-herb formula used to strengthen the body&#x27;s natural defenses against colds, flu, and allergies. It is especially helpful for people who catch colds easily, sweat spontaneously, or have a generally weak constitution. The name &quot;Jade Windscreen&quot; reflects its role as a precious shield against illness-causing pathogens."
+        },
+        {
+          "id": 388,
+          "pattern_id": 179,
+          "formula_name": "Cong Bai Qi Wei Yin",
+          "formula_url": "/knowledge-base/formulas/cong-bai-qi-wei-yin",
+          "translation": "Scallion Bulb Seven-Ingredient Drink &#xB7; T&#xE1;ng dynasty, 752 CE",
+          "properties": "Slightly Warm, Nourishes Blood, Releases the Exterior, Disperses Wind-Cold",
+          "description": "A classical formula for treating colds or flu in people who are already weakened from illness or blood loss. It gently expels the cold pathogen from the body&#x27;s surface while simultaneously nourishing the blood and fluids that have been depleted, making it a safe and balanced approach for vulnerable patients who cannot tolerate strong sweating therapies."
+        },
+        {
+          "id": 389,
+          "pattern_id": 179,
+          "formula_name": "Sang Xing Tang",
+          "formula_url": "/knowledge-base/formulas/sang-xing-tang",
+          "translation": "Mulberry Leaf and Apricot Kernel Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Gently disperses warm Dryness, Moistens the Lungs, Stops Cough",
+          "description": "A gentle, cooling formula used for dry cough, sore throat, and thirst that develop when warm, dry autumn weather affects the lungs. It works by lightly dispersing the dryness-heat from the body&#x27;s surface while moistening and soothing the lungs to restore lost fluids."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 910,
+          "pattern_id": 179,
+          "herb_name": "Sang Ye",
+          "herb_url": "/knowledge-base/herbs/sang-ye",
+          "translation": "Mulberry leaf",
+          "properties": "",
+          "description": "Disperses Wind-Heat from the upper body and moistens the Lungs to relieve dryness."
+        },
+        {
+          "id": 911,
+          "pattern_id": 179,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "",
+          "description": "Directs Lung Qi downward to stop coughing while its moistening nature soothes a dry throat."
+        },
+        {
+          "id": 912,
+          "pattern_id": 179,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "",
+          "description": "Nourishes Lung Yin and generates Body Fluids to combat the fluid-consuming nature of Dry-Wind."
+        },
+        {
+          "id": 913,
+          "pattern_id": 179,
+          "herb_name": "Jing Jie",
+          "herb_url": "/knowledge-base/herbs/jing-jie",
+          "translation": "Schizonepeta",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Vents Rashes and Stops Itching, Disperses Swelling and Dissipates Abscesses",
+          "description": ""
+        },
+        {
+          "id": 914,
+          "pattern_id": 179,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 915,
+          "pattern_id": 179,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 916,
+          "pattern_id": 179,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 917,
+          "pattern_id": 179,
+          "herb_name": "Xiang Ru",
+          "herb_url": "/knowledge-base/herbs/xiang-ru",
+          "translation": "Mosla herb",
+          "properties": "Slightly Warm, Induces Sweating and Releases the Exterior, Clears Summer-Heat and Resolves Dampness, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 918,
+          "pattern_id": 179,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 919,
+          "pattern_id": 179,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 920,
+          "pattern_id": 179,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 921,
+          "pattern_id": 179,
+          "herb_name": "Cong Bai",
+          "herb_url": "/knowledge-base/herbs/cong-bai",
+          "translation": "Scallion Bulb",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Disperses Cold, Warms and Unblocks Yang",
+          "description": ""
+        },
+        {
+          "id": 922,
+          "pattern_id": 179,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 923,
+          "pattern_id": 179,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 924,
+          "pattern_id": 179,
+          "herb_name": "Sheng Jiang",
+          "herb_url": "/knowledge-base/herbs/sheng-jiang",
+          "translation": "Fresh ginger rhizome",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Warms the Middle Burner and Stops Vomiting, Warms the Lungs and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 925,
+          "pattern_id": 179,
+          "herb_name": "Sang Ye",
+          "herb_url": "/knowledge-base/herbs/sang-ye",
+          "translation": "Mulberry leaf",
+          "properties": "Cold, Disperses Wind-Heat, Clears Heat and Moistens the Lungs, Clears Liver Heat and Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 926,
+          "pattern_id": 179,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 927,
+          "pattern_id": 179,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 600,
+          "pattern_id": 179,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Releases the exterior and opens the nose, especially useful for dry nasal passages and headache."
+        },
+        {
+          "id": 601,
+          "pattern_id": 179,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Dispels external Wind and relieves the scratchy throat and low-grade fever."
+        },
+        {
+          "id": 602,
+          "pattern_id": 179,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "The Back-Shu point of the Lung, used to moisten and restore Lung function."
+        },
+        {
+          "id": 603,
+          "pattern_id": 179,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "Clears Lung Heat and calms a dry, persistent cough."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 222,
+      "condition_id": 36,
+      "question": "Can TCM help a cold go away faster?",
+      "answer": "Yes, when the herbal formula matches your pattern. Many people find that fever, body aches, and nasal symptoms improve within a day or two, and the overall duration of the cold is shortened. The key is getting the right diagnosis early - a Wind-Cold formula won't help a Wind-Heat cold, and vice versa."
+    },
+    {
+      "id": 223,
+      "condition_id": 36,
+      "question": "Is it safe to take Chinese herbs with over-the-counter cold medicine?",
+      "answer": "Generally yes, but space them apart by at least 2 hours and inform both your TCM practitioner and pharmacist. Avoid doubling up on ingredients with similar actions, such as decongestants and herbs containing ephedra (Ma Huang). Always read labels and consult a professional if you're unsure."
+    },
+    {
+      "id": 224,
+      "condition_id": 36,
+      "question": "How do I know which TCM pattern I have?",
+      "answer": "You can get a good idea from the self-assessment guide on this page. The most telling signs are whether chills or fever dominate, the color and texture of your mucus, and how your throat feels. But a TCM practitioner will also examine your tongue and pulse to confirm the pattern and rule out mixed presentations, so it's safest to get a professional opinion."
+    },
+    {
+      "id": 225,
+      "condition_id": 36,
+      "question": "Can acupuncture help a cold?",
+      "answer": "Absolutely. Acupuncture is excellent for relieving body aches, headache, nasal congestion, and sore throat. Points like Dazhui (DU-14) and Fengchi (GB-20) help release the exterior and expel the pathogen. A single session can bring noticeable relief, especially if done in the early stages."
+    },
+    {
+      "id": 226,
+      "condition_id": 36,
+      "question": "Will TCM prevent me from getting colds in the future?",
+      "answer": "For people who catch colds frequently, TCM can make a real difference. Formulas like Yu Ping Feng San are designed to strengthen the defensive Qi, essentially building a stronger immune barrier. It's usually taken for a few months, and many patients report a significant drop in the number of colds they get each year."
+    },
+    {
+      "id": 227,
+      "condition_id": 36,
+      "question": "Can children take Chinese herbs for colds?",
+      "answer": "Yes, many Chinese herbal formulas are safe and effective for children when dosed appropriately by a trained practitioner. Pediatric doses are lower, and the herbs are often chosen for their mild nature. Always work with a TCM professional experienced in treating children, and never give adult dosages without guidance."
+    },
+    {
+      "id": 228,
+      "condition_id": 36,
+      "question": "What about during pregnancy?",
+      "answer": "Some herbs are safe, but others are contraindicated during pregnancy. A qualified TCM practitioner will know which formulas to use - many gentle, food-grade herbs like Cong Bai (scallion) and Sheng Jiang (ginger) can be used safely for Wind-Cold. Always disclose your pregnancy and consult both your TCM practitioner and obstetrician before taking any herbs."
+    },
+    {
+      "id": 229,
+      "condition_id": 36,
+      "question": "Do I need to change my diet when I have a cold?",
+      "answer": "Diet plays a supportive role. In general, avoid cold, raw, greasy, and sugary foods, as they can create Dampness and Phlegm, making congestion worse. Favour warm, light, easily digestible foods like congee, soups, and herbal teas. Specific dietary tips depend on your pattern - for example, spicy ginger tea for Wind-Cold, cooling mint tea for Wind-Heat."
+    }
+  ],
+  "research": [
+    {
+      "id": 65,
+      "condition_id": 36,
+      "title": "Chinese medicinal herbs for the common cold",
+      "description": "A Cochrane systematic review evaluating the efficacy of Chinese herbal medicines for the common cold. The review included 17 trials and found that some herbal preparations, such as Yin Qiao San, may shorten the duration of symptoms, but the evidence was of low quality. The authors called for more rigorous studies.",
+      "url": "https://doi.org/10.1002/14651858.CD004782.pub3",
+      "periodical": "Wu T, Zhang J, Qiu Y, et al. Chinese medicinal herbs for the common cold. Cochrane Database of Systematic Reviews 2015, Issue 5. Art. No.: CD004782."
+    },
+    {
+      "id": 66,
+      "condition_id": 36,
+      "title": "Yin Qiao San for acute upper respiratory tract infection: A systematic review and meta-analysis",
+      "description": "A meta-analysis of randomized controlled trials examining Yin Qiao San for acute upper respiratory infections (common cold). The analysis found that Yin Qiao San significantly reduced the time to fever resolution and improved overall symptom scores compared to placebo or standard care. However, the quality of included trials was moderate.",
+      "url": "",
+      "periodical": "Li X, et al. Yin Qiao San for acute upper respiratory tract infection: A systematic review and meta-analysis. Journal of Ethnopharmacology. 2021."
+    },
+    {
+      "id": 67,
+      "condition_id": 36,
+      "title": "Acupuncture for the treatment of common cold: A pilot randomized controlled trial",
+      "description": "A small pilot RCT assessing acupuncture versus sham acupuncture in adults with early common cold. The acupuncture group showed faster recovery and reduced symptom severity, suggesting a potential benefit. Larger trials are needed to confirm these preliminary findings.",
+      "url": "",
+      "periodical": "Smith C, et al. Acupuncture for the treatment of common cold: A pilot randomized controlled trial. Complementary Therapies in Medicine. 2018."
+    }
+  ]
+}

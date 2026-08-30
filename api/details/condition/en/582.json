@@ -1,0 +1,767 @@
+{
+  "id": 582,
+  "name": "Heart Attack",
+  "url": "/knowledge-base/conditions/heart-attack",
+  "kind": "Condition",
+  "pinyin": "zhēn xīn tòng",
+  "chinese_name": "真心痛",
+  "preview_text": "The type of chest pain is your clearest clue: a fixed, stabbing pain that worsens at night points to Blood Stagnation and responds well to herbs like Dan Shen, while a heavy, smoth...",
+  "categories": "[\"Heart Conditions\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Coronary Thrombosis\", \"Myocardial Infarction\", \"Acute Cardiac Infarction\", \"Acute Myocardial Infarction\", \"Blood Vessel Heart Rupture\", \"Cardiac Attack\", \"Coronary Accident\", \"Coronary Infarction\", \"Sudden Heart Attack\"]",
+  "conventional_description": "A heart attack, or myocardial infarction, occurs when blood flow to a part of the heart muscle is blocked, usually by a clot in a coronary artery. Without oxygen, the heart muscle begins to die. The classic symptom is severe chest pain or pressure, often radiating to the left arm, jaw, or back, accompanied by sweating, nausea, and shortness of breath. Diagnosis is confirmed through an electrocardiogram, blood tests for cardiac enzymes, and angiography. Immediate treatment is critical to restore blood flow and minimize permanent damage.",
+  "conventional_treatments": "Emergency treatment focuses on restoring blood flow, typically with clot-dissolving drugs, angioplasty with stenting, or coronary bypass surgery. Post-attack, most patients are prescribed a lifelong regimen of medications. These include antiplatelet drugs like aspirin or clopidogrel to prevent new clots, statins to lower cholesterol, beta-blockers to reduce the heart's workload, and ACE inhibitors to lower blood pressure. Cardiac rehabilitation programs combine supervised exercise, dietary counseling, and stress management to support recovery.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands a heart attack as a catastrophic blockage of the Heart's vessels, but the reason for that blockage varies profoundly from person to person. In one person, emotional turmoil or chronic stress stagnates the Qi, which then congeals into Blood stasis that physically clots within the vessels. In another, a diet heavy in greasy, sweet, or damp-producing foods overwhelms the Spleen, creating thick, turbid Phlegm that accumulates in the chest and obstructs the Heart's channels. In a third, a deep internal Cold - often from a constitutional Yang deficiency - constricts the vessels so severely that Blood cannot flow. And in a fourth, the heart muscle is simply too starved of Qi and Yin to pump effectively, leading to a slow-moving crisis of deficiency rather than a sudden blockage of excess. Each of these mechanisms leads to the same Western diagnosis, but the TCM treatment for recovery is completely different.",
+  "classical_quote": "「真心痛，手足青至节，心痛甚，旦发夕死，夕发旦死。」",
+  "classical_translation": "\"True heart pain: the hands and feet turn cyanotic up to the joints, the heart pain is severe. If it occurs in the morning, death comes by evening; if it occurs in the evening, death comes by morning. This is the earliest classical description of acute myocardial infarction, emphasising its sudden and lethal nature.\"",
+  "classical_source": "Ling Shu (Spiritual Pivot)  ,  Chapter 24: On the Origins of Disease \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first asks what the chest pain feels like and what makes it worse. A fixed, stabbing pain that worsens at night points toward Heart Blood Stagnation, often with a dark purple tongue and a choppy pulse. In contrast, a heavy, oppressive tightness with a sensation of fullness suggests Phlegm in the Chest, where the tongue coating is thick and greasy and the pulse feels slippery.\nAnother pattern emerges when cold is the main trigger. If the chest pain is severe, constricting, and noticeably worse in cold weather or after exposure to cold, the practitioner suspects Heart Vessel obstructed by cold. The tongue appears pale, and the pulse feels tight or deep and slow. This pattern often strikes suddenly and demands urgent warming.\nWhen the pain is less intense but accompanied by fatigue, palpitations, and a dry mouth, the root is likely a deficiency. Qi and Yin Deficiency typically shows a red tongue with little coating and a weak pulse, often during recovery.\nIf the person also feels profoundly weak, short of breath, and the tongue is pale or dark with a weak and choppy pulse, Qi Deficiency causing Blood Stagnation is the picture-the Qi is too depleted to move blood properly.\nA deeper constitutional weakness appears when the chest pain comes with cold limbs, an aversion to cold, and lower back soreness. This is Disharmony between Heart and Kidneys from Kidney Yang Deficiency. The tongue is pale and swollen, and the pulse is deep and weak. It signals that the body’s foundational fire is failing to warm the heart, making the person vulnerable to repeated attacks.",
+  "patterns": [
+    {
+      "id": 2806,
+      "condition_id": 582,
+      "pattern_name": "Heart Blood Stagnation",
+      "pattern_slug": "heart-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Stabbing pain in a fixed location\", \"Purple or dark discolouration of lips and nails\", \"Pain that radiates to the shoulder, upper back, or inner left arm\", \"Dark purple tongue with stasis spots\", \"Choppy or knotted pulse\"]",
+      "worse_with": "Emotional stress, Cold weather or exposure, Heavy, greasy foods, Overexertion or overwork",
+      "better_with": "Rest, Warmth, Gentle walking, Deep, slow breathing",
+      "why_this_happens": "When the Heart vessels become blocked by stagnant Blood, the flow of Qi and Blood to the heart muscle is critically reduced. This obstruction produces the classic stabbing or crushing chest pain that is fixed in one spot and often radiates to the left arm. The stagnation also disrupts the Heart's rhythm, leading to palpitations, anxiety, and a choppy or knotted pulse.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots, distended sublingual veins, thin white coat. Pulse: choppy (涩 Sè) or knotted (结 Jié), especially at the left Cun position.",
+      "why_triggers_reliefs_work": "Emotional stress causes Qi to stagnate, and since Qi moves Blood, this directly worsens the blood stasis blocking the Heart vessels. Cold congeals and slows the flow of Blood, making the blockage tighter. Greasy food generates phlegm and dampness that further obstruct the vessels. Rest and warmth, on the other hand, allow Qi and Blood to flow more smoothly, while gentle movement encourages circulation without straining the Heart.",
+      "diet_and_lifestyle": "Avoid heavy, greasy, and fried foods that can create phlegm and further clog the vessels. Eat warming, light meals like soups with ginger and a little garlic. Gentle daily movement such as walking helps keep Blood flowing, but avoid overexertion. Manage stress with slow breathing or meditation, as anger and frustration can worsen stagnation.",
+      "formulas": [
+        {
+          "id": 6402,
+          "pattern_id": 2806,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The primary formula to invigorate Blood and dispel stasis in the chest, unblocking the Heart vessels and relieving pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14994,
+          "pattern_id": 2806,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Invigorates Blood, dispels stasis, and calms the Heart, making it essential for chest pain from blood stasis."
+        },
+        {
+          "id": 14995,
+          "pattern_id": 2806,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Unblocks stagnant Blood and relieves pain, especially in the chest and upper body."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10104,
+          "pattern_id": 2806,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "The empirical point for chest pain; moves Qi and Blood in the Heart channel and calms the spirit."
+        },
+        {
+          "id": 10105,
+          "pattern_id": 2806,
+          "acupoint_code": "REN-17",
+          "acupoint_name": "Shanzhong REN-17",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17",
+          "translation": "Sh&#x101;n Zh&#x14D;ng",
+          "properties": "Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi",
+          "description": "Unblocks the chest, regulates Qi, and relieves the sensation of constriction."
+        },
+        {
+          "id": 10106,
+          "pattern_id": 2806,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Regulates Heart Qi and Blood, addressing the root of the stagnation."
+        }
+      ]
+    },
+    {
+      "id": 2807,
+      "condition_id": 582,
+      "pattern_name": "Phlegm in Chest",
+      "pattern_slug": "phlegm-in-chest",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, oppressive chest sensation (not sharp stabbing)\", \"Nausea or vomiting of sticky phlegm\", \"Greasy white coating on the tongue\", \"Coughing with copious white sticky sputum\", \"Feeling of fullness behind the breastbone\", \"Poor appetite and heavy, sluggish body\"]",
+      "worse_with": "Heavy, greasy foods, Cold or raw foods and drinks, Damp or humid weather, Lying down immediately after eating, Overeating",
+      "better_with": "Warm, light meals, Ginger tea, Gentle walking, Dry, warm environment, Avoiding dairy and greasy foods",
+      "why_this_happens": "When the Spleen is weakened-often by a diet heavy in greasy or damp-producing foods-it fails to transform fluids, and these fluids congeal into turbid phlegm. This phlegm accumulates in the chest, physically clogging the heart vessels and blocking the flow of Qi and blood. The result is a heavy, suffocating chest oppression rather than the sharp stabbing pain of pure blood stasis, often accompanied by nausea and a greasy tongue coating that are the hallmarks of phlegm obstruction.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks; thick white greasy coating; moist surface. Pulse: slippery (滑 huá), like beads rolling under the fingers, often with a wiry quality.",
+      "why_triggers_reliefs_work": "Phlegm forms when the Spleen's transforming function is overwhelmed, usually by a diet rich in heavy, greasy, or cold foods that create dampness. These damp residues congeal into turbid phlegm, which then rises to obstruct the chest. Warm, light, and cooked foods support the Spleen and help it transform dampness, while ginger directly warms the middle burner and dissolves phlegm. Gentle movement prevents stagnation of Qi and fluids, and a dry environment avoids adding external dampness to an already overloaded system. Conversely, overeating, cold foods, and damp surroundings burden the Spleen further, generating more phlegm and worsening the chest oppression.",
+      "diet_and_lifestyle": "Avoid heavy, greasy, fried, and dairy-rich foods, as well as cold and raw items, which all generate dampness and phlegm. Focus on warm, cooked, easily digestible meals such as congee with a little ginger. Sip warm ginger tea throughout the day to help transform phlegm. Gentle daily movement like walking or tai chi helps keep Qi and fluids moving. Keep your living space dry and well-ventilated, and avoid damp, humid environments.",
+      "formulas": [
+        {
+          "id": 6403,
+          "pattern_id": 2807,
+          "formula_name": "Gua Lou Xie Bai Ban Xia Tang",
+          "formula_url": "/knowledge-base/formulas/gua-lou-xie-bai-ban-xia-tang",
+          "translation": "Trichosanthes, Allium, and Pinellia Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Unblocks Yang in the Chest, Resolves Phlegm, Regulates Qi and Widens the Chest",
+          "description": "Classic formula to open the chest, transform phlegm, and unblock the heart vessels."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14996,
+          "pattern_id": 2807,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the key herb for phlegm in the chest."
+        },
+        {
+          "id": 14997,
+          "pattern_id": 2807,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Opens the chest, clears phlegm, and relieves the oppressive sensation."
+        },
+        {
+          "id": 14998,
+          "pattern_id": 2807,
+          "herb_name": "Xie Bai",
+          "herb_url": "/knowledge-base/herbs/xie-bai",
+          "translation": "Chinese garlic bulb",
+          "properties": "",
+          "description": "Unblocks Yang Qi in the chest and disperses cold, helping to move the phlegm obstruction."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10107,
+          "pattern_id": 2807,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for phlegm; transforms phlegm and drains dampness."
+        },
+        {
+          "id": 10108,
+          "pattern_id": 2807,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach; regulates the middle burner and resolves phlegm."
+        },
+        {
+          "id": 10109,
+          "pattern_id": 2807,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, regulates Heart Qi, and relieves oppression."
+        }
+      ]
+    },
+    {
+      "id": 2808,
+      "condition_id": 582,
+      "pattern_name": "Heart Vessel obstructed",
+      "pattern_slug": "heart-vessel-obstructed",
+      "is_common": 0,
+      "symptoms": "[\"Severe, viselike chest pain\", \"Pain worsens with cold exposure\", \"Cold sweating during episodes\", \"Pain radiates to shoulder or inner arm\", \"Dark or purplish lips\"]",
+      "worse_with": "Cold weather or exposure, Emotional stress, Overexertion or overwork, Cold or raw foods and drinks, Damp or humid weather",
+      "better_with": "Warmth, Rest, Warm drinks, Deep, slow breathing",
+      "why_this_happens": "Cold invades the heart vessel, causing it to constrict and congeal. This traps Qi and blood, leading to severe, viselike chest pain. The cold also weakens heart Yang, so cold sweating breaks out and the tongue turns purple as blood stasis sets in.",
+      "tongue_and_pulse": "Tongue: purple or dark body with possible stasis spots and distended sublingual veins, thin white coat. Pulse: knotted (slow with irregular pauses) or deep-slow.",
+      "why_triggers_reliefs_work": "Cold constricts the heart vessels, worsening the obstruction, so warmth and warm drinks relax them. Rest preserves Yang Qi, while overwork depletes it and triggers pain. Emotional stress stirs up Qi stagnation, adding to the blockage.",
+      "diet_and_lifestyle": "Keep the chest warm and avoid cold drafts. Eat warm, cooked foods like soups and stews, and sip ginger tea. Gentle walking helps circulation, but rest fully during acute episodes.",
+      "formulas": [
+        {
+          "id": 6404,
+          "pattern_id": 2808,
+          "formula_name": "Zhi Shi Xie Bai Gui Zhi Tang",
+          "formula_url": "/knowledge-base/formulas/zhi-shi-xie-bai-gui-zhi-tang",
+          "translation": "Immature Bitter Orange, Chinese Chive, and Cinnamon Twig Decoction &#xB7; Han dynasty, ~200 CE",
+          "properties": "Warm, Unblocks yang and dissipates clumps, Moves qi and transforms phlegm, Descends qi and opens the chest",
+          "description": "Warms chest yang, dispels cold, and opens the vessels to relieve constricting pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14999,
+          "pattern_id": 2808,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and unblocks yang to counteract cold constriction."
+        },
+        {
+          "id": 15000,
+          "pattern_id": 2808,
+          "herb_name": "Xie Bai",
+          "herb_url": "/knowledge-base/herbs/xie-bai",
+          "translation": "Chinese garlic bulb",
+          "properties": "",
+          "description": "Opens the chest and expels cold, directly targeting the obstruction."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10110,
+          "pattern_id": 2808,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates heart Qi and stops chest pain."
+        },
+        {
+          "id": 10111,
+          "pattern_id": 2808,
+          "acupoint_code": "REN-17",
+          "acupoint_name": "Shanzhong REN-17",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17",
+          "translation": "Sh&#x101;n Zh&#x14D;ng",
+          "properties": "Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi",
+          "description": "Opens the chest and disperses cold to relieve oppression."
+        },
+        {
+          "id": 10112,
+          "pattern_id": 2808,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Warms and tonifies heart yang to strengthen the heart."
+        },
+        {
+          "id": 10113,
+          "pattern_id": 2808,
+          "acupoint_code": "REN-8",
+          "acupoint_name": "Shenque REN-8",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shenque-ren-8",
+          "translation": "Sh&#xE9;n Qu&#x113;",
+          "properties": "Warms and rescues the Yang, Strengthens the Spleen",
+          "description": "With moxibustion, expels cold and rescues yang during acute episodes."
+        }
+      ]
+    },
+    {
+      "id": 2809,
+      "condition_id": 582,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, oppressive chest discomfort rather than sharp stabbing pain\", \"Profound fatigue and shortness of breath worsened by even mild exertion\", \"Dry mouth and throat with little desire to drink\", \"Night sweats and a warm sensation in the palms, soles, and chest\", \"Heart palpitations, especially when tired\", \"Dizziness and a weak, quiet voice\"]",
+      "worse_with": "Overexertion or overwork, Spicy, fried, or drying foods, Lack of sleep or late nights, Excessive heat or hot weather, Emotional stress",
+      "better_with": "Rest, Warm, light meals, Gentle walking, Cool, quiet environments",
+      "why_this_happens": "Qi is the body's motive force, and Yin is the cooling, moistening substance that anchors it. When both are chronically low, the heart muscle becomes undernourished and too weak to pump blood effectively. In a heart attack, this deficiency creates an underlying vulnerability - the heart lacks the energy to push through even a small blockage, leading to a dull, oppressive chest discomfort, crushing fatigue, and palpitations rather than the sharp, stabbing pain of pure stagnation. This pattern is especially common during recovery or in people whose constitution has been worn down by overwork, illness, or chronic stress.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, possibly cracked and dry. Pulse: fine (thin) and weak, often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are like a candle's flame and wax - overexertion, stress, and lack of sleep burn through both, leaving the heart flickering and weak. Spicy and drying foods act like a hot wind, consuming the body's cooling moisture and worsening the dry mouth, night sweats, and palpitations. Rest, nourishing moist foods, and gentle movement conserve the flame and replenish the wax, allowing the heart to beat with steady strength again.",
+      "diet_and_lifestyle": "Rest is non-negotiable - conserve your energy like a precious resource and avoid pushing through fatigue. Eat small, frequent, warm, moistening meals such as rice congee, steamed pears, and lightly cooked vegetables; avoid spicy, fried, or drying foods that consume Yin. Gentle practices like restorative yoga or slow walking help Qi flow without depleting it. Prioritize sleep, especially before midnight, to rebuild Yin.",
+      "formulas": [
+        {
+          "id": 6405,
+          "pattern_id": 2809,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "The foundational formula to powerfully tonify Qi and generate Yin fluids, directly restoring the heart&#x27;s energy and moisture."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15001,
+          "pattern_id": 2809,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Strongly tonifies the original Qi to lift severe fatigue and strengthen the heart&#x27;s pumping action."
+        },
+        {
+          "id": 15002,
+          "pattern_id": 2809,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Heart Yin and moistens dryness, calming palpitations and quenching thirst."
+        },
+        {
+          "id": 15003,
+          "pattern_id": 2809,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes sweat and preserves Qi and Yin, preventing further leakage of precious fluids."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10114,
+          "pattern_id": 2809,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates heart rhythm and calms the Shen, directly addressing chest discomfort and palpitations."
+        },
+        {
+          "id": 10115,
+          "pattern_id": 2809,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies both Qi and Yin by harmonizing the Spleen, Liver, and Kidney, and anchors night sweats."
+        },
+        {
+          "id": 10116,
+          "pattern_id": 2809,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Moxibustion or gentle needling here strongly fortifies the body&#x27;s core Qi, combating the profound fatigue."
+        }
+      ]
+    },
+    {
+      "id": 2810,
+      "condition_id": 582,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "pattern_slug": "qi-deficiency-causing-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing chest pain\", \"Severe fatigue and weakness, even at rest\", \"Shortness of breath on minimal exertion\", \"Pale face with a greyish or dusky tinge\", \"Weak voice and reluctance to speak\"]",
+      "worse_with": "Overexertion or overwork, Cold weather or exposure, Emotional stress, Heavy, greasy foods, Standing for long periods",
+      "better_with": "Rest, Warmth, Warm, light meals, Gentle walking, Positive, calm mood",
+      "why_this_happens": "When Heart Qi is too weak to push blood through the vessels, circulation slows and blood begins to stagnate. This stagnation creates the fixed, stabbing chest pain of a heart attack, while the underlying Qi deficiency leaves you profoundly exhausted, breathless, and pale. The pain often worsens with even mild effort because exertion further drains the already depleted Qi.",
+      "tongue_and_pulse": "Tongue: pale body with a purplish or dark tinge, possible stasis spots, teeth marks, distended sublingual veins, thin white coat. Pulse: deep (Chen), fine or weak, and choppy (Se).",
+      "why_triggers_reliefs_work": "Overexertion and prolonged standing drain Qi, leaving even less energy to propel blood and worsening stagnation and pain. Cold congeals blood, further obstructing the already sluggish flow. Stress and anxiety stagnate Liver Qi, which compounds the chest obstruction. Rest and warmth conserve Qi and encourage blood to move, while small, warm meals are easy to digest and support Qi production without burdening the weakened system. Gentle walking and a calm mood keep Qi flowing smoothly without depleting the reserves.",
+      "diet_and_lifestyle": "Prioritize rest and avoid overexertion. Eat small, warm, easily digestible meals such as congee, steamed vegetables, and lean proteins. Include Qi-building foods like oats, sweet potato, and rice, and add a pinch of turmeric or a few hawthorn berries to gently move blood. Keep the chest and body warm, and practice slow, deep breathing to support Qi flow.",
+      "formulas": [
+        {
+          "id": 6406,
+          "pattern_id": 2810,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "Powerfully tonifies Qi and activates blood circulation to remove stasis from the heart vessels, addressing both the root deficiency and the branch excess."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15004,
+          "pattern_id": 2810,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Massively tonifies Qi to restore the heart&#x27;s propulsive force."
+        },
+        {
+          "id": 15005,
+          "pattern_id": 2810,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates blood without causing dryness, gently easing stasis."
+        },
+        {
+          "id": 15006,
+          "pattern_id": 2810,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and Qi in the chest to relieve fixed pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10117,
+          "pattern_id": 2810,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, calms the heart, and regulates Qi and blood flow."
+        },
+        {
+          "id": 10118,
+          "pattern_id": 2810,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood to strengthen the foundation."
+        },
+        {
+          "id": 10119,
+          "pattern_id": 2810,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The meeting point of Blood; activates blood and resolves stasis."
+        }
+      ]
+    },
+    {
+      "id": 2811,
+      "condition_id": 582,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "pattern_slug": "disharmony-between-heart-and-kidneys-caused-by-kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Severe constricting chest pain that worsens with cold and fatigue\", \"Cold lower back and knees\", \"Cold feet and legs\", \"Sensation of heat or flushing in the upper body\", \"Palpitations and mental restlessness\", \"Fatigue and frequent clear urination\"]",
+      "worse_with": "Cold weather or exposure, Cold or raw foods and drinks, Overexertion or overwork, Emotional stress, Standing for long periods",
+      "better_with": "Warmth, Rest, Ginger tea, Gentle walking, Moxibustion on the lower back",
+      "why_this_happens": "The Kidneys hold the body's foundational Yang, which warms and drives the Heart. When Kidney Yang is deeply depleted, the Heart loses its propelling force, allowing blood to move sluggishly and cold to settle in the vessels. This produces the severe, constricting chest pain that worsens with cold and fatigue. Meanwhile, the failing Kidney Yang can no longer anchor the Heart's Fire, so a disturbing heat and restlessness often rises in the chest, even as the lower body remains cold.",
+      "tongue_and_pulse": "Tongue: pale, puffy and teeth-marked with a moist white coat; the tip may be slightly redder. Pulse: deep, slow and weak, especially at the Chi (Kidney) positions; the left Chi is particularly feeble, and the Cun (Heart) position may feel slightly wiry.",
+      "why_triggers_reliefs_work": "Cold and overwork further deplete Kidney Yang, worsening the cold congealing in the heart vessels and the separation of upper heat and lower cold. Warmth, rest, and warming foods support Yang, helping to drive out cold and restore the upward flow of Kidney Yang to the Heart. Gentle movement promotes Qi and blood circulation without straining the already depleted Yang.",
+      "diet_and_lifestyle": "Eat warming, cooked foods like soups, stews, and ginger; avoid raw, cold, and icy items. Keep the lower back and feet warm, and use gentle movement like walking to support circulation without exhausting Qi. Rest when fatigued and avoid heavy lifting.",
+      "formulas": [
+        {
+          "id": 6407,
+          "pattern_id": 2811,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The primary formula to powerfully warm and tonify Kidney Yang, restoring the root of the body&#x27;s Yang to drive out cold and support Heart function."
+        },
+        {
+          "id": 6408,
+          "pattern_id": 2811,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 6409,
+          "pattern_id": 2811,
+          "formula_name": "Gua Lou Xie Bai Ban Xia Tang",
+          "formula_url": "/knowledge-base/formulas/gua-lou-xie-bai-ban-xia-tang",
+          "translation": "Trichosanthes, Allium, and Pinellia Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Unblocks Yang in the Chest, Resolves Phlegm, Regulates Qi and Widens the Chest",
+          "description": "A classical formula for chest pain that radiates to the back, difficulty breathing, and inability to lie flat, caused by phlegm blocking the chest. Originally recorded by Zhang Zhongjing for a condition called &#x27;chest obstruction,&#x27; it works by clearing away accumulated phlegm, restoring warmth and openness to the chest, and directing Qi downward. In modern practice it is most commonly used alongside conventional treatment for coronary heart disease and angina."
+        },
+        {
+          "id": 6410,
+          "pattern_id": 2811,
+          "formula_name": "Zhi Shi Xie Bai Gui Zhi Tang",
+          "formula_url": "/knowledge-base/formulas/zhi-shi-xie-bai-gui-zhi-tang",
+          "translation": "Immature Bitter Orange, Chinese Chive, and Cinnamon Twig Decoction &#xB7; Han dynasty, ~200 CE",
+          "properties": "Warm, Unblocks yang and dissipates clumps, Moves qi and transforms phlegm, Descends qi and opens the chest",
+          "description": "A classical formula from the Jin Gui Yao Lue used to treat chest pain, stuffiness, and shortness of breath caused by weakness of chest yang and accumulation of phlegm. It warms and unblocks the chest, dissolves phlegm, and moves stagnant qi to relieve discomfort."
+        },
+        {
+          "id": 6411,
+          "pattern_id": 2811,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        },
+        {
+          "id": 6412,
+          "pattern_id": 2811,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        },
+        {
+          "id": 6413,
+          "pattern_id": 2811,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15007,
+          "pattern_id": 2811,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Powerfully warms Kidney Yang, dispels cold, and relieves constricting chest pain."
+        },
+        {
+          "id": 15008,
+          "pattern_id": 2811,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms the Kidneys and guides the fire back to the lower body, easing the sensation of heat in the chest."
+        },
+        {
+          "id": 15009,
+          "pattern_id": 2811,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 15010,
+          "pattern_id": 2811,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 15011,
+          "pattern_id": 2811,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 15012,
+          "pattern_id": 2811,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 15013,
+          "pattern_id": 2811,
+          "herb_name": "Xie Bai",
+          "herb_url": "/knowledge-base/herbs/xie-bai",
+          "translation": "Chinese garlic bulb",
+          "properties": "Warm, Unblocks Chest Yang and Disperses Bound Knots, Moves Qi and Resolves Stagnation, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        },
+        {
+          "id": 15014,
+          "pattern_id": 2811,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 15015,
+          "pattern_id": 2811,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 15016,
+          "pattern_id": 2811,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 15017,
+          "pattern_id": 2811,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        },
+        {
+          "id": 15018,
+          "pattern_id": 2811,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 15019,
+          "pattern_id": 2811,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 15020,
+          "pattern_id": 2811,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 15021,
+          "pattern_id": 2811,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 15022,
+          "pattern_id": 2811,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10120,
+          "pattern_id": 2811,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms the Gate of Vitality and strengthens Kidney Yang. Moxibustion is especially beneficial."
+        },
+        {
+          "id": 10121,
+          "pattern_id": 2811,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Directly tonifies Kidney Qi and Yang to support the Heart."
+        },
+        {
+          "id": 10122,
+          "pattern_id": 2811,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Warms the lower burner and anchors Yang, relieving cold limbs."
+        },
+        {
+          "id": 10123,
+          "pattern_id": 2811,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest and calms the Heart, alleviating pain and palpitations."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3790,
+      "condition_id": 582,
+      "question": "Can TCM replace my heart medications after a heart attack?",
+      "answer": "No. Never stop or adjust heart medications without your cardiologist's guidance. TCM can be a powerful partner in your recovery - helping to rebuild energy, reduce lingering chest discomfort, and improve overall well-being - but it is not a substitute for antiplatelet drugs, statins, or blood pressure medications. The strongest approach is integrated: Western medicine to manage the acute risk, TCM to rebuild the underlying constitution and address the fatigue, anxiety, and weakness that medications alone often cannot reach."
+    },
+    {
+      "id": 3791,
+      "condition_id": 582,
+      "question": "Which herbs are safe to take with my blood thinners?",
+      "answer": "This is a critical question because many herbs that invigorate Blood and move stasis - such as Dan Shen, Dang Gui, or Chuan Xiong - can potentiate the effects of anticoagulant and antiplatelet drugs like warfarin, clopidogrel, or aspirin, increasing the risk of bleeding. Always inform both your cardiologist and your TCM practitioner of every substance you are taking. A qualified TCM practitioner will select herbs that are safe for your specific medication profile and adjust formulas accordingly. Never self-prescribe."
+    },
+    {
+      "id": 3792,
+      "condition_id": 582,
+      "question": "I am exhausted all the time after my heart attack. Can TCM help with this fatigue?",
+      "answer": "Yes, and this is one of TCM's greatest strengths in cardiac recovery. Post-heart-attack fatigue is often a sign of Qi and Yin Deficiency - the heart and body have been profoundly depleted and need to be rebuilt, not just medicated. Herbal formulas like Sheng Mai San are designed specifically to nourish the Qi and Yin of the heart, improving energy, reducing palpitations, and restoring a sense of vitality. Many patients report this as the most noticeable benefit of integrated care."
+    },
+    {
+      "id": 3793,
+      "condition_id": 582,
+      "question": "How soon after a heart attack can I start acupuncture?",
+      "answer": "Acupuncture can often begin during the inpatient recovery phase, once the patient is hemodynamically stable and cleared by their cardiologist. Early treatment focuses on calming the Shen, reducing anxiety, and gently moving Qi to prevent stagnation. More vigorous points to invigorate Blood are introduced gradually during outpatient rehabilitation. Always seek treatment from a practitioner experienced in cardiac cases who will communicate with your medical team."
+    },
+    {
+      "id": 3794,
+      "condition_id": 582,
+      "question": "Will I need to change my diet?",
+      "answer": "Yes, but the changes are tailored to your specific TCM pattern, which is more nuanced than general \"heart-healthy\" advice. If your attack was driven by Phlegm, you will avoid damp-producing foods like dairy, sugar, and greasy meals. If Blood Stagnation is your root, you will favor foods that gently invigorate circulation, like hawthorn, onion, and turmeric. Your practitioner will give you a clear, pattern-specific list - it is not a one-size-fits-all diet."
+    },
+    {
+      "id": 3795,
+      "condition_id": 582,
+      "question": "Can the chest pain I still feel after my heart attack be treated?",
+      "answer": "Many patients experience lingering chest discomfort or anxiety-driven chest tightness even after their vessels have been successfully stented or bypassed. In TCM, this often signals residual Blood Stagnation or Qi Stagnation in the Heart channel. Acupuncture and herbs can be very effective at relieving this pain, especially when it is not caused by a new blockage. However, any new or worsening chest pain must be evaluated immediately by a cardiologist to rule out a new cardiac event."
+    }
+  ],
+  "research": [
+    {
+      "id": 862,
+      "condition_id": 582,
+      "title": "Effect of Tongxinluo on Clinical Outcomes in Patients With ST-Segment Elevation Myocardial Infarction: The CTS-AMI Randomized Clinical Trial",
+      "description": "This large, double‑blind, placebo‑controlled RCT from China enrolled 3,797 patients with STEMI. Adding Tongxinluo to guideline‑directed therapy significantly reduced the 30‑day rate of major adverse cardiac and cerebrovascular events (MACCE), including cardiac death, myocardial reinfarction, and stroke, without increasing serious bleeding. It is one of the first TCM herbal trials to demonstrate a hard clinical endpoint in a top‑tier medical journal.",
+      "url": "https://doi.org/10.1001/jama.2023.18719",
+      "periodical": "Yang Y, Li X, Chen G, et al. JAMA. 2023;330(16):1534-1545."
+    },
+    {
+      "id": 863,
+      "condition_id": 582,
+      "title": "Chinese herbal medicine for acute myocardial infarction",
+      "description": "A Cochrane systematic review that assessed the efficacy and safety of Chinese herbal medicine (CHM) as an adjunct to standard care for acute MI. The review included 26 RCTs and found that CHM may reduce mortality and improve symptoms, but the evidence was of low quality due to risk of bias and small sample sizes. The authors called for more rigorous trials.",
+      "url": "https://doi.org/10.1002/14651858.CD008650.pub2",
+      "periodical": "Wu T, Chen X, Liu G, et al. Cochrane Database of Systematic Reviews. 2015, Issue 9. Art. No.: CD008650."
+    }
+  ]
+}

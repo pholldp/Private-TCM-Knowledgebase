@@ -1,0 +1,886 @@
+{
+  "id": 65,
+  "name": "ภาวะไขมันในเลือดสูง",
+  "url": "/knowledge-base/conditions/hyperlipidemia",
+  "kind": "Condition",
+  "pinyin": "gāo zhī xuè zhèng",
+  "chinese_name": "高脂血症",
+  "preview_text": "คอเลสเตอรอลสูงไม่ทั้งหมดเหมือนกัน ประเภทที่หนักและเฉื่อยชาพร้อมเคลือบลิ้นมันเยิ้มต้องการการดูแลที่แตกต่างอย่างสิ้นเชิงจากประเภทที่มาพร้อมกับเหงื่อออกตอนกลางคืนและ ...",
+  "categories": "[\"สภาวะต่อมไร้ท่อและเมตาบอลิซึม\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"High Cholesterol\", \"Hyperlipidaemia\"]",
+  "conventional_description": "Hyperlipidemia, commonly known as high cholesterol, is a condition where there are elevated levels of lipids-such as cholesterol and triglycerides-in the blood. It often has no obvious symptoms and is typically discovered through a routine blood test called a lipid panel. Over time, these excess lipids can build up in the walls of arteries, contributing to atherosclerosis and increasing the risk of heart attack, stroke, and peripheral artery disease.\nThe condition is diagnosed when total cholesterol, LDL cholesterol, or triglycerides exceed established thresholds, or when HDL cholesterol is too low. Contributing factors include genetics, a diet high in saturated and trans fats, lack of exercise, obesity, and certain medical conditions like diabetes and hypothyroidism. Conventional management focuses on lowering these numbers through lifestyle changes and medication.",
+  "conventional_treatments": "Standard treatment for high cholesterol begins with lifestyle modifications, including a heart-healthy diet, regular exercise, weight loss, and smoking cessation. When these are insufficient, medications are prescribed. The most common are statins, which reduce cholesterol production in the liver. Other options include ezetimibe, PCSK9 inhibitors, bile acid sequestrants, and fibrates, each working through different mechanisms to lower LDL, raise HDL, or reduce triglycerides.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In Traditional Chinese Medicine, high cholesterol is understood not as a single lab value but as a sign that the body's internal processing of fluids and nutrients has gone awry. The Spleen is the organ system responsible for transforming the food you eat into usable Qi and blood, and for transporting fluids. When the Spleen becomes weakened-by poor diet, overthinking, or lack of movement-it fails to do its job properly.\nInstead of being transformed into energy, the rich, heavy parts of your diet turn into a turbid, sticky substance called Phlegm-Dampness, which can seep into the bloodstream and show up as elevated cholesterol and triglycerides.\nThis Phlegm-Dampness is the core pathological product behind most cases of high cholesterol, but it rarely acts alone. It can combine with Heat-often from a diet heavy in greasy, spicy foods and alcohol-creating a Damp-Heat pattern that adds symptoms like a bitter taste, dark urine, and a yellow greasy tongue coating. It can also stagnate in the chest, leading to a sensation of tightness and a thick white coating.\nOver time, if the Phlegm is not cleared, it can congeal with Blood Stasis, forming a complex that further disrupts fat metabolism and damages the vessels.\nNot all high cholesterol stems from excess alone. In some people, the root is a deep deficiency of the Kidney and Liver Yin, where the body's cooling and nourishing reserves have been depleted by overwork, aging, or prolonged stress. This creates a subtle internal heat that thickens fluids into turbid lipids.\nIn others, the Kidney and Spleen Yang-the body's metabolic fire-is too weak to warm and transform, leading to a cold, damp accumulation. This is why the same lab result can look completely different from a TCM perspective: one person feels hot and restless, another feels cold and exhausted, and each needs a fundamentally different treatment strategy.",
+  "classical_quote": "「膏粱之变，足生大丁。」",
+  "classical_translation": "\"Excessive consumption of rich, fatty foods and fine grains will lead to the generation of large boils and deep-rooted illnesses. This reflects the TCM understanding that a diet heavy in fats and sweets creates internal dampness and heat, which can manifest as metabolic and cardiovascular disorders.\"",
+  "classical_source": "Huang Di Nei Jing (Yellow Emperor's Inner Classic), Su Wen  ,  Chapter 23 (Discussion on the Different Diseases Caused by Different Foods) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about your digestion, energy, and what you feel after meals. The quality of your fatigue, whether you feel heavy or bloated, and your bowel habits are early clues. These help distinguish whether the root is a deficiency of the Spleen or Kidney, or an excess of dampness, phlegm, or heat.\nIf you describe a heavy, muzzy head, chest tightness, and a thick greasy tongue coating, Phlegm-Dampness in the Middle-Burner (痰湿内阻证) is likely. The pulse will feel slippery. This pattern arises when the digestive system fails to process fluids, causing turbid phlegm to accumulate and spill into the blood.\nWhen the same dampness combines with heat-often from rich, spicy foods or alcohol-you get Damp-Heat (湿热蕴结证). Look for a bitter taste, dry mouth, feeling hot, constipation, and dark urine. The tongue is red with a yellow greasy coat, and the pulse is rapid and slippery, distinguishing it from pure dampness.\nIf fatigue and bloating dominate, with loose stools and a pale puffy tongue, Spleen Deficiency with Dampness (脾虚湿盛证) is the core. The body lacks the Qi to move fluids, so dampness accumulates. The pulse is weak and slow, reflecting the underlying deficiency rather than the forceful excess of phlegm-dampness.\nIf a heavy, stuffy chest and a cough with abundant white, sticky phlegm are your main complaints, Phlegm in Chest (痰浊阻胸证) is likely. The tongue will have a thick white greasy coating and the pulse feels slippery. This pattern arises when phlegm obstructs the chest, blocking the smooth flow of Qi and fluids, which contributes to lipid buildup.\nIf dryness is prominent-dry eyes, throat, night sweats, and a red tongue with little coating-Kidney and Liver Yin Deficiency (肝肾阴虚证) is likely. The body’s cooling, nourishing reserves are low. In contrast, Kidney and Spleen Yang Deficiency (脾肾阳虚证) brings cold: chilly limbs, lower back ache, frequent pale urination, and a deep slow pulse.",
+  "patterns": [
+    {
+      "id": 320,
+      "condition_id": 65,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "pattern_slug": "phlegm-dampness-in-the-middle-burner",
+      "is_common": 0,
+      "symptoms": "[\"Bloating and fullness in the upper abdomen after eating\", \"Heavy sensation in the body and limbs, as if weighed down\", \"Greasy, sticky sensation in the mouth with no thirst\", \"Head feels heavy, as if wrapped in cloth\", \"Loose, sticky stools\"]",
+      "worse_with": "Overeating, Greasy, fried foods, Dairy and sweets, Sedentary lifestyle, Damp or humid weather, Cold, raw foods",
+      "better_with": "Light, warm meals, Regular exercise, Warm, dry environment, Ginger tea",
+      "why_this_happens": "When the Spleen's ability to transform food and fluids weakens, moisture builds up and thickens into phlegm-dampness. This turbid, sticky substance clogs the Middle Burner and then spills into the bloodstream, where it shows up as elevated cholesterol and triglycerides. The result is a heavy, bloated, and sluggish feeling that reflects the damp obstruction inside.",
+      "tongue_and_pulse": "Tongue: Pale, swollen body with teeth marks, and a thick, white, greasy coating that is excessively moist. Pulse: Slippery (滑 Huá) and often soggy (濡 Rú), especially noticeable at the right middle position.",
+      "why_triggers_reliefs_work": "Phlegm-dampness is essentially congealed fluid that forms when the Spleen is too weak to transform food and moisture. Heavy, greasy, and sweet foods, as well as cold raw items, directly worsen this by adding more dampness and chilling the digestive fire. A sedentary lifestyle allows Qi to stagnate, which lets dampness settle. In contrast, light, warm meals and gentle movement wake up the Spleen and get Qi moving, while ginger and dry weather help evaporate the excess dampness.",
+      "diet_and_lifestyle": "Make cooked, warm, and lightly spiced meals your norm - think soups, congees, and steamed vegetables with ginger or cardamom. Avoid cold, raw, greasy, and sweet foods that overwhelm the Spleen. Daily moderate movement like brisk walking is essential to keep Qi and fluids moving.",
+      "formulas": [
+        {
+          "id": 719,
+          "pattern_id": 320,
+          "formula_name": "Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/wen-dan-tang",
+          "translation": "Warm the Gallbladder Decoction &#xB7; Southern S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Neutral, Regulates Qi and Transforms Phlegm, Clears Gallbladder and Stomach Heat, Dries Dampness",
+          "description": "Warms the Gallbladder and transforms phlegm-dampness, clearing the turbid obstruction that raises blood lipids."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1678,
+          "pattern_id": 320,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the core herb for clearing Middle-Burner congestion."
+        },
+        {
+          "id": 1679,
+          "pattern_id": 320,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries dampness, helping to break up the sticky phlegm accumulation."
+        },
+        {
+          "id": 1680,
+          "pattern_id": 320,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leeches out dampness through the urine, lightening the body&#x27;s waterlogged burden."
+        },
+        {
+          "id": 1681,
+          "pattern_id": 320,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "",
+          "description": "Drains turbid dampness and has been shown to lower blood lipid levels."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1109,
+          "pattern_id": 320,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The premier point for transforming phlegm and dampness throughout the body."
+        },
+        {
+          "id": 1110,
+          "pattern_id": 320,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the Middle Burner and strengthens the Spleen&#x27;s ability to process fluids."
+        },
+        {
+          "id": 1111,
+          "pattern_id": 320,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and Stomach to address the root weakness behind phlegm formation."
+        },
+        {
+          "id": 1112,
+          "pattern_id": 320,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves dampness directly, especially when combined with Fenglong."
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "condition_id": 65,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Feeling of heaviness in body and head\", \"Greasy, sticky sensation in mouth with bitter taste\", \"Chest and upper abdominal stuffiness\", \"Dark yellow, scanty urine\", \"Red tongue with yellow greasy coating\", \"Thirst with little desire to drink\"]",
+      "worse_with": "Greasy, fried foods, Alcohol and hot spices, Humid, hot weather, Sedentary lifestyle, Overeating",
+      "better_with": "Light, cooling diet, Bitter greens and barley, Moderate daily exercise, Cool, dry weather",
+      "why_this_happens": "A diet heavy in greasy, sweet, or spicy foods and alcohol overwhelms the Spleen's ability to transform and transport fluids. The undigested residues turn into dampness, which then combines with heat to form a thick, turbid substance. This pathological damp-heat clogs the blood vessels and directly raises cholesterol and triglyceride levels.",
+      "tongue_and_pulse": "Tongue: red body with a yellow, greasy coating that is thickest in the center and root. Pulse: soggy-rapid (Ru Shu) or slippery-rapid (Hua Shu).",
+      "why_triggers_reliefs_work": "Damp-Heat forms from overindulgence in rich, hot-natured foods and drinks, which overwhelm the Spleen's ability to transform and transport. The resulting dampness and heat combine into a turbid sludge that clogs the blood and raises lipid levels. Cooling, light foods and exercise help clear heat and drain dampness, while greasy foods and humidity add more dampness and heat, worsening the condition.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sweet foods, and limit alcohol. Eat more cooling, damp-draining foods like barley, mung beans, bitter gourd, and celery. Regular brisk walking for 30 minutes a day helps move Qi and drain dampness.",
+      "formulas": [
+        {
+          "id": 720,
+          "pattern_id": 321,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "Clears Damp-Heat from the Liver and Gallbladder, a standard base formula for hyperlipidemia when heat signs are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1682,
+          "pattern_id": 321,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "",
+          "description": "Clears damp-heat and drains fire, targeting the bitter taste and greasy coating."
+        },
+        {
+          "id": 1683,
+          "pattern_id": 321,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "",
+          "description": "Drains dampness and promotes urination, helping to lower blood lipids and reduce heaviness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1113,
+          "pattern_id": 321,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Primary point to resolve damp-heat, especially from the Lower Burner."
+        },
+        {
+          "id": 1114,
+          "pattern_id": 321,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms phlegm and dampness, a key point for lipid disorders."
+        },
+        {
+          "id": 1115,
+          "pattern_id": 321,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and resolves dampness, reducing systemic inflammation."
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "condition_id": 65,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Abdominal bloating, worse after eating\", \"Loose, unformed stools or watery diarrhoea\", \"Poor appetite or lack of taste\", \"Heaviness in the body and limbs\", \"Fatigue and lack of energy\", \"Head feels heavy or muzzy, as if wrapped\", \"Sticky or greasy sensation in the mouth\", \"Drowsiness, especially after meals\"]",
+      "worse_with": "Overeating, Cold, raw foods, Damp or humid weather, Sedentary lifestyle, Stress and worry",
+      "better_with": "Warm, cooked meals, Small, frequent meals, Gentle exercise (e.g., walking), Rest after meals, Avoiding dairy and greasy foods",
+      "why_this_happens": "The Spleen is responsible for transforming food into Qi and blood and for transporting fluids throughout the body. When Spleen Qi is weak, it cannot properly process the fats and fluids from your diet. This leads to an accumulation of dampness, which thickens into turbid phlegm and directly raises blood lipids. The result is a sluggish, heavy feeling along with classic digestive symptoms like bloating and loose stools.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, white greasy coating, moist surface. Pulse: soggy (Ru) and slow (Huan), soft and weak, especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Spleen Qi is easily damaged by cold, raw, and heavy foods, which directly worsen dampness and bloating. Warm, cooked foods and gentle movement support Spleen Yang and help transform and transport fluids, clearing the dampness that raises blood lipids. Overthinking and worry are classic Spleen weakeners, while a sedentary lifestyle causes Qi stagnation, allowing dampness to accumulate further. Small, regular meals prevent overloading the Spleen's capacity to process food and fluids.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congee with a little ginger. Avoid cold, raw, greasy, and dairy-heavy meals that burden the Spleen. Include barley, adzuki beans, yam, and lotus seeds to gently drain dampness. Eat smaller, regular meals and avoid late-night eating. Gentle daily movement like walking helps Qi flow and prevents dampness from stagnating.",
+      "formulas": [
+        {
+          "id": 721,
+          "pattern_id": 322,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "The primary formula to strengthen the Spleen, drain dampness, and regulate water metabolism. It specifically targets the bloating, heaviness, and loose stools of Spleen deficiency with dampness while helping to lower blood lipids."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1684,
+          "pattern_id": 322,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and dries dampness, addressing the root deficiency."
+        },
+        {
+          "id": 1685,
+          "pattern_id": 322,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness and strengthens the Spleen, reducing fluid accumulation."
+        },
+        {
+          "id": 1686,
+          "pattern_id": 322,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "",
+          "description": "Drains dampness and promotes urination; clinical studies show it helps lower cholesterol."
+        },
+        {
+          "id": 1687,
+          "pattern_id": 322,
+          "herb_name": "Shan Zha",
+          "herb_url": "/knowledge-base/herbs/shan-zha",
+          "translation": "Hawthorn fruit",
+          "properties": "",
+          "description": "Reduces food stagnation, especially from fatty meals, and helps break down lipids in the blood."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1116,
+          "pattern_id": 322,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen and Stomach Qi to improve digestion and energy."
+        },
+        {
+          "id": 1117,
+          "pattern_id": 322,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Strengthens the Spleen and resolves dampness."
+        },
+        {
+          "id": 1118,
+          "pattern_id": 322,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms phlegm and dampness, a key point for lowering blood lipids."
+        },
+        {
+          "id": 1119,
+          "pattern_id": 322,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves dampness and relieves abdominal distension."
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "condition_id": 65,
+      "pattern_name": "Phlegm in Chest",
+      "pattern_slug": "phlegm-in-chest",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, stuffy sensation in the chest\", \"Coughing with abundant white, sticky phlegm\", \"White, thick, greasy tongue coating\", \"Sensation of a lump in the throat\", \"Shortness of breath, worse when lying flat\"]",
+      "worse_with": "Greasy, fried foods, Dairy products, Cold, raw foods, Damp or humid weather, Lying down immediately after meals",
+      "better_with": "Light, warm meals, Gentle exercise (e.g., walking), Sitting upright, Warm, dry environment",
+      "why_this_happens": "When phlegm accumulates in the chest, it blocks the smooth movement of Qi and blood through the vessels. This stagnation gradually turns into a phlegm-stasis complex that disrupts the body's ability to process fats and fluids. The result is a buildup of turbid lipids in the blood - what modern medicine calls high cholesterol.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks; thick white greasy coating; moist surface. Pulse: slippery (滑 huá), often with a wiry (弦 xián) quality.",
+      "why_triggers_reliefs_work": "Phlegm forms when the Spleen cannot transform fluids, and greasy, dairy, and cold foods overwhelm the Spleen, creating more dampness and phlegm. Warm, light meals and gentle movement support the Spleen's transforming function and keep Qi flowing, preventing phlegm from accumulating in the chest. Damp weather and lying flat after eating encourage fluids to stagnate, worsening the chest congestion.",
+      "diet_and_lifestyle": "Eat warm, cooked meals and minimize dairy, fried foods, and sweets, which generate phlegm. Gentle daily movement like walking helps keep Qi and fluids moving. Avoid eating late at night and prop your head up if phlegm makes it hard to lie flat.",
+      "formulas": [
+        {
+          "id": 722,
+          "pattern_id": 323,
+          "formula_name": "Gua Lou Xie Bai Ban Xia Tang",
+          "formula_url": "/knowledge-base/formulas/gua-lou-xie-bai-ban-xia-tang",
+          "translation": "Trichosanthes, Allium, and Pinellia Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Unblocks Yang in the Chest, Resolves Phlegm, Regulates Qi and Widens the Chest",
+          "description": "This classic formula unblocks chest Yang and dispels phlegm, directly addressing the phlegm obstruction that underlies elevated lipids."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1688,
+          "pattern_id": 323,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Resolves phlegm and unblocks the chest, easing the oppressive sensation."
+        },
+        {
+          "id": 1689,
+          "pattern_id": 323,
+          "herb_name": "Xie Bai",
+          "herb_url": "/knowledge-base/herbs/xie-bai",
+          "translation": "Chinese garlic bulb",
+          "properties": "",
+          "description": "Warms and unblocks the chest Yang, helping to dispel phlegm obstruction."
+        },
+        {
+          "id": 1690,
+          "pattern_id": 323,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, reducing the thick, sticky sputum."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1120,
+          "pattern_id": 323,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point for transforming phlegm throughout the body."
+        },
+        {
+          "id": 1121,
+          "pattern_id": 323,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Regulates the Spleen and Stomach, resolving phlegm at its source."
+        },
+        {
+          "id": 1122,
+          "pattern_id": 323,
+          "acupoint_code": "REN-17",
+          "acupoint_name": "Shanzhong REN-17",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17",
+          "translation": "Sh&#x101;n Zh&#x14D;ng",
+          "properties": "Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi",
+          "description": "Unblocks the chest and alleviates the feeling of oppression."
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "condition_id": 65,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "pattern_slug": "kidney-and-liver-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Night sweats and heat in palms, soles, and chest\", \"Dizziness and ringing in the ears\", \"Lower back and knee soreness and weakness\", \"Dry eyes with blurred vision\", \"Red tongue with little or no coating\"]",
+      "worse_with": "Staying up late or overwork, Spicy, greasy, or deep-fried foods, Emotional stress and frustration, Excessive sexual activity",
+      "better_with": "Adequate, regular sleep, Cooling, moistening foods (pears, tofu, millet), Gentle, non-sweaty movement (tai chi, walking)",
+      "why_this_happens": "Your Liver and Kidneys are like the body’s deep reserves-storing Blood and Essence that keep you cool, lubricated, and balanced. When these reserves run low from overwork, aging, or prolonged stress, a subtle but persistent deficiency heat develops. This heat thickens your body’s fluids into a turbid, greasy substance that accumulates in the blood, much like the residue left when a pan is overheated. The result is rising cholesterol and triglycerides alongside classic signs of Yin deficiency: night sweats, dry eyes, and a restless mind.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks, little or no coating, and a dry surface. Pulse: fine, rapid, and wiry; the left Chi (Kidney) position is weak and the left Guan (Liver) position is thin.",
+      "why_triggers_reliefs_work": "Yin is the body’s cooling, moistening substance, and it is naturally replenished during deep rest. Late nights and overwork burn through these reserves, allowing deficiency heat to flare and thicken fluids into turbid lipids. Spicy and greasy foods add heat and dampness, compounding the problem. Cooling, moistening foods and adequate sleep directly nourish Yin, while gentle movement keeps Qi flowing without further depleting the body’s essence.",
+      "diet_and_lifestyle": "Make sleep a non-negotiable priority-being in bed before 11 p.m. preserves Yin. Eat moistening, cooling foods like black sesame, walnuts, goji berries, pears, tofu, millet, and leafy greens. Avoid spicy, fried, or overly roasted foods that dry up fluids. Gentle, consistent movement like tai chi, qigong, or walking supports circulation without overheating the body.",
+      "formulas": [
+        {
+          "id": 723,
+          "pattern_id": 324,
+          "formula_name": "Yi Guan Jian",
+          "formula_url": "/knowledge-base/formulas/yi-guan-jian",
+          "translation": "Linking Decoction &#xB7; Q&#x12B;ng dynasty, 1770 CE",
+          "properties": "Cool, Nourishes Liver and Kidney Yin, Soothes the Liver and Regulates Qi, Nourishes Blood and Softens the Liver",
+          "description": "Nourishes Liver and Kidney Yin while clearing deficiency heat, addressing the root cause of the turbid lipid buildup."
+        },
+        {
+          "id": 724,
+          "pattern_id": 324,
+          "formula_name": "Qi Ju Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/qi-ju-di-huang-wan",
+          "translation": "Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;)",
+          "properties": "Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat",
+          "description": "Specifically nourishes Kidney and Liver Yin with added herbs to sharpen vision and calm dizziness, often combined with Yi Guan Jian for hyperlipidemia."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1691,
+          "pattern_id": 324,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and Essence, replenishing the depleted reserves that fail to regulate lipids."
+        },
+        {
+          "id": 1692,
+          "pattern_id": 324,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Nourishes both Liver and Kidney Yin, brightens the eyes, and helps correct the blurry vision and dryness."
+        },
+        {
+          "id": 1693,
+          "pattern_id": 324,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Stabilizes and astringes the Kidney and Liver, preventing further leakage of Yin and Essence."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1123,
+          "pattern_id": 324,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes the Liver and nourishes Liver Yin, helping to anchor rising deficiency heat."
+        },
+        {
+          "id": 1124,
+          "pattern_id": 324,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Directly tonifies Kidney Yin, strengthening the body&#x2019;s foundational cooling and metabolic functions."
+        },
+        {
+          "id": 1125,
+          "pattern_id": 324,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Nourishes Liver Yin and clears deficiency heat, supporting the smooth flow that prevents turbid accumulation."
+        },
+        {
+          "id": 1126,
+          "pattern_id": 324,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen, Liver, and Kidney, deeply nourishing Yin and transforming dampness."
+        },
+        {
+          "id": 1127,
+          "pattern_id": 324,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel, essential for rebuilding Kidney Yin and anchoring essence."
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "condition_id": 65,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "pattern_slug": "kidney-and-spleen-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Feeling cold, especially in the low back and knees\", \"Chronic loose stools or early-morning diarrhea\", \"Swelling of legs and ankles\", \"Tiredness and lack of energy\", \"Poor appetite and abdominal bloating after eating\"]",
+      "worse_with": "Cold, raw foods, Prolonged exposure to cold, Overwork and exhaustion, Excessive standing or heavy lifting, Irregular eating habits",
+      "better_with": "Warmth and moxibustion, Warm, cooked meals, Gentle exercise (e.g., walking), Adequate rest",
+      "why_this_happens": "Your body's internal 'fire'-the Yang energy of the Kidneys and Spleen-is too weak to properly warm and transform fluids. When Spleen Yang is deficient, it cannot transport and convert the nutrients from food, allowing dampness to accumulate. Kidney Yang deficiency fails to provide the foundational warmth needed for metabolism, leading to cold and sluggish circulation. This cold-damp environment congeals into turbid phlegm and lipids that raise blood cholesterol levels.",
+      "tongue_and_pulse": "Tongue: pale, swollen, puffy with teeth marks and a white slippery coating. Pulse: deep, weak, and slow; both Chi positions feeble, right Guan weak.",
+      "why_triggers_reliefs_work": "Cold and raw foods directly damage Spleen Yang, making it harder to transform fluids and leading to more dampness. Warmth-whether from food, clothing, or moxibustion-supports the body's Yang and helps 'burn off' excess lipids. Overwork and heavy lifting deplete Kidney Yang, while rest and gentle movement preserve it, allowing the metabolic fire to recover.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and stews with ginger and cinnamon. Avoid cold, raw, and greasy foods that further chill the Spleen. Keep your lower back and abdomen warm, and consider gentle daily movement like walking to support circulation without exhausting yourself.",
+      "formulas": [
+        {
+          "id": 725,
+          "pattern_id": 325,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "Warms and replenishes Kidney Yang, the root of metabolic fire."
+        },
+        {
+          "id": 726,
+          "pattern_id": 325,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens Spleen Qi and drains dampness, addressing the digestive weakness."
+        },
+        {
+          "id": 727,
+          "pattern_id": 325,
+          "formula_name": "Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/wen-dan-tang",
+          "translation": "Warm the Gallbladder Decoction &#xB7; Southern S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Neutral, Regulates Qi and Transforms Phlegm, Clears Gallbladder and Stomach Heat, Dries Dampness",
+          "description": "A classical formula used to clear Phlegm and restore harmony between the Gallbladder and Stomach. It is commonly used for people experiencing insomnia, anxiety, restless sleep with vivid dreams, dizziness, nausea, or heart palpitations caused by Phlegm and stagnant Qi disturbing the mind. Despite its name (&quot;Warm the Gallbladder&quot;), the formula&#x27;s overall effect is gently clearing and calming rather than warming."
+        },
+        {
+          "id": 728,
+          "pattern_id": 325,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area."
+        },
+        {
+          "id": 729,
+          "pattern_id": 325,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "A classical formula that combines two well-known prescriptions to address digestive troubles caused by excessive internal dampness. It helps relieve bloating, watery diarrhea, poor appetite, and fluid retention by strengthening the Spleen&#x27;s ability to process fluids while promoting healthy urination. Especially useful when dampness causes both digestive upset and water retention at the same time."
+        },
+        {
+          "id": 730,
+          "pattern_id": 325,
+          "formula_name": "Gua Lou Xie Bai Ban Xia Tang",
+          "formula_url": "/knowledge-base/formulas/gua-lou-xie-bai-ban-xia-tang",
+          "translation": "Trichosanthes, Allium, and Pinellia Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Unblocks Yang in the Chest, Resolves Phlegm, Regulates Qi and Widens the Chest",
+          "description": "A classical formula for chest pain that radiates to the back, difficulty breathing, and inability to lie flat, caused by phlegm blocking the chest. Originally recorded by Zhang Zhongjing for a condition called &#x27;chest obstruction,&#x27; it works by clearing away accumulated phlegm, restoring warmth and openness to the chest, and directing Qi downward. In modern practice it is most commonly used alongside conventional treatment for coronary heart disease and angina."
+        },
+        {
+          "id": 731,
+          "pattern_id": 325,
+          "formula_name": "Yi Guan Jian",
+          "formula_url": "/knowledge-base/formulas/yi-guan-jian",
+          "translation": "Linking Decoction &#xB7; Q&#x12B;ng dynasty, 1770 CE",
+          "properties": "Cool, Nourishes Liver and Kidney Yin, Soothes the Liver and Regulates Qi, Nourishes Blood and Softens the Liver",
+          "description": "A classical formula designed to deeply nourish and moisten the Liver and Kidneys while gently restoring the smooth flow of Liver Qi. It is used for people experiencing rib-side or chest pain, acid reflux, bitter taste in the mouth, dry throat, and emotional tension that arise when the body&#x27;s fluids and blood become depleted, leaving the Liver dry and unable to function smoothly."
+        },
+        {
+          "id": 732,
+          "pattern_id": 325,
+          "formula_name": "Qi Ju Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/qi-ju-di-huang-wan",
+          "translation": "Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;)",
+          "properties": "Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat",
+          "description": "A classical formula that nourishes the Liver and Kidneys to support eye health and clear vision. It is used for blurred vision, dry eyes, sensitivity to light, excessive tearing in wind, dizziness, and ringing in the ears caused by Liver and Kidney Yin deficiency. Built on the famous Liu Wei Di Huang Wan (Six-Ingredient Rehmannia Pill) with the addition of goji berry and chrysanthemum flower for their vision-supporting properties."
+        },
+        {
+          "id": 733,
+          "pattern_id": 325,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        },
+        {
+          "id": 734,
+          "pattern_id": 325,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1694,
+          "pattern_id": 325,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms Kidney Yang and ignites the body&#x27;s metabolic fire."
+        },
+        {
+          "id": 1695,
+          "pattern_id": 325,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Restores devastated Yang and dispels deep cold."
+        },
+        {
+          "id": 1696,
+          "pattern_id": 325,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens Spleen Qi and dries dampness."
+        },
+        {
+          "id": 1697,
+          "pattern_id": 325,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness without harming the Spleen."
+        },
+        {
+          "id": 1698,
+          "pattern_id": 325,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 1699,
+          "pattern_id": 325,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 1700,
+          "pattern_id": 325,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 1701,
+          "pattern_id": 325,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "Cold, Promotes Urination and Drains Dampness, Clears Heat, Transforms Turbidity and Lowers Lipids",
+          "description": ""
+        },
+        {
+          "id": 1702,
+          "pattern_id": 325,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner",
+          "description": ""
+        },
+        {
+          "id": 1703,
+          "pattern_id": 325,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 1704,
+          "pattern_id": 325,
+          "herb_name": "Shan Zha",
+          "herb_url": "/knowledge-base/herbs/shan-zha",
+          "translation": "Hawthorn fruit",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 1705,
+          "pattern_id": 325,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 1706,
+          "pattern_id": 325,
+          "herb_name": "Xie Bai",
+          "herb_url": "/knowledge-base/herbs/xie-bai",
+          "translation": "Chinese garlic bulb",
+          "properties": "Warm, Unblocks Chest Yang and Disperses Bound Knots, Moves Qi and Resolves Stagnation, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        },
+        {
+          "id": 1707,
+          "pattern_id": 325,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 1708,
+          "pattern_id": 325,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 1709,
+          "pattern_id": 325,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        },
+        {
+          "id": 1710,
+          "pattern_id": 325,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 1711,
+          "pattern_id": 325,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1128,
+          "pattern_id": 325,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion. Warms Kidney Yang and fortifies the body&#x27;s foundation."
+        },
+        {
+          "id": 1129,
+          "pattern_id": 325,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion. Strengthens the life gate fire to transform cold-damp."
+        },
+        {
+          "id": 1130,
+          "pattern_id": 325,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonifies Spleen Yang to improve digestion and fluid metabolism."
+        },
+        {
+          "id": 1131,
+          "pattern_id": 325,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Fortifies the Spleen and transforms dampness."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 410,
+      "condition_id": 65,
+      "question": "Can acupuncture really lower my cholesterol?",
+      "answer": "Yes, research and clinical experience show that acupuncture can help lower total cholesterol, LDL, and triglycerides while raising HDL. It works by stimulating specific points that regulate the Spleen and Stomach, reduce Dampness, and improve overall metabolic function. Acupuncture is most effective when combined with herbal medicine and dietary changes, and results are typically seen over several weeks of regular treatment."
+    },
+    {
+      "id": 411,
+      "condition_id": 65,
+      "question": "Do I still need to take my statin while doing TCM?",
+      "answer": "Many patients use TCM alongside their prescribed statin, especially in the beginning. Do not stop or change your medication without consulting your doctor. As your TCM treatment progresses and your lipid levels improve, your doctor may adjust your dosage. Always keep both your TCM practitioner and your prescribing physician informed about all treatments you are receiving."
+    },
+    {
+      "id": 412,
+      "condition_id": 65,
+      "question": "How long will it take to see my cholesterol numbers go down?",
+      "answer": "Most people begin to see improvements in their lipid panel within 3 to 6 months of consistent TCM treatment, though some notice changes as early as 4 to 8 weeks. Patterns driven by excess Dampness and Phlegm tend to respond more quickly, while those rooted in deep Kidney deficiency may take longer. Your practitioner will likely recommend a follow-up blood test after about three months to track progress."
+    },
+    {
+      "id": 413,
+      "condition_id": 65,
+      "question": "What foods should I avoid if I have high cholesterol from a TCM perspective?",
+      "answer": "The most important foods to avoid are those that create Dampness and Phlegm: greasy, fried, and heavily processed foods, excessive dairy, sugar, and alcohol. Cold and raw foods can also weaken the Spleen and should be limited. Instead, focus on warm, cooked meals with plenty of vegetables, lean proteins, and whole grains. Your practitioner will give you more specific guidance based on your individual pattern."
+    },
+    {
+      "id": 414,
+      "condition_id": 65,
+      "question": "Will my cholesterol go back up if I stop the herbs?",
+      "answer": "TCM treatment aims to correct the underlying imbalance, not just suppress the lab number. If you have made lasting dietary and lifestyle changes, and your Spleen and Kidney function have been strengthened, your cholesterol is likely to remain stable. However, if you return to old habits, the Dampness and Phlegm can reaccumulate. Your practitioner will guide you on how to maintain your results after the active treatment phase."
+    },
+    {
+      "id": 415,
+      "condition_id": 65,
+      "question": "Is TCM safe for high cholesterol if I'm also on blood thinners?",
+      "answer": "Some herbs used in TCM formulas, such as Shan Zha (Hawthorn) and Dan Shen (Salvia), have mild blood-moving effects and could theoretically interact with anticoagulant medications like warfarin. It is essential to inform your TCM practitioner of all medications you take so they can select a safe formula. Your doctor should also be notified and may want to monitor your clotting times more frequently."
+    }
+  ],
+  "research": [
+    {
+      "id": 102,
+      "condition_id": 65,
+      "title": "Effect of Xuezhikang, an extract from red yeast Chinese rice, on coronary events in a Chinese population with previous myocardial infarction",
+      "description": "A multicenter, randomized, double-blind, placebo-controlled trial involving 4,870 Chinese patients with previous myocardial infarction. Xuezhikang significantly reduced the risk of major coronary events by 45%, coronary death by 31%, and all-cause mortality by 33% over 4.5 years, while also lowering total and LDL cholesterol.",
+      "url": "https://doi.org/10.1016/j.amjcard.2008.02.056",
+      "periodical": "Lu Z, Kou W, Du B, et al. American Journal of Cardiology. 2008;101(12):1689-1693."
+    },
+    {
+      "id": 103,
+      "condition_id": 65,
+      "title": "Acupuncture for hyperlipidemia: a systematic review and meta-analysis of randomized controlled trials",
+      "description": "This meta-analysis of 17 RCTs found that acupuncture significantly reduced total cholesterol, triglycerides, and LDL-cholesterol compared to sham acupuncture or no treatment. The effects were comparable to some conventional lipid-lowering medications, though study quality was generally moderate.",
+      "url": "https://doi.org/10.1097/MD.0000000000017624",
+      "periodical": "Kim SY, Seo BK, Lee JH, et al. Medicine. 2019;98(45):e17624."
+    },
+    {
+      "id": 104,
+      "condition_id": 65,
+      "title": "Chinese herbal medicines for hypercholesterolemia",
+      "description": "A Cochrane systematic review evaluating 22 randomized trials of Chinese herbal medicines for hypercholesterolemia. Red yeast rice preparations showed significant reductions in total and LDL cholesterol. Other herbal formulas also demonstrated lipid-lowering effects, but evidence was limited by small sample sizes and methodological weaknesses.",
+      "url": "https://doi.org/10.1002/14651858.CD008305.pub2",
+      "periodical": "Liu ZL, Liu JP, Zhang AL, et al. Cochrane Database of Systematic Reviews. 2011;(7):CD008305."
+    }
+  ]
+}

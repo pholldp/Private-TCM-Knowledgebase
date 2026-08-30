@@ -1,0 +1,830 @@
+{
+  "id": 700,
+  "name": "การเบี่ยงเบนปาก",
+  "url": "/knowledge-base/conditions/mouth-deviation",
+  "kind": "Symptom",
+  "pinyin": "kǒu wāi",
+  "chinese_name": "口歪",
+  "preview_text": "สิ่งกระตุ้นที่ทำให้คุณเบี่ยงปาก - ลมเย็น การโต้เถียงอย่างเผ็ดร้อน ความเหนื่อยล้าหลายเดือน - เผยรูปแบบ TCM ที่อยู่เบื้องหลัง การรักษารูปแบบนั้น ไม่ใช่แค่เส้นประสาท คือ...",
+  "categories": "[\"ปากและฟัน\", \"ภาวะสมองและระบบประสาท\"]",
+  "body_regions": "[\"Face — Perioral\"]",
+  "synonyms": "[\"Asymmetrical Mouth\", \"Crooked Mouth\"]",
+  "conventional_description": "In conventional medicine, mouth deviation is most often a sign of peripheral facial nerve (cranial nerve VII) dysfunction. The most common cause is Bell’s palsy, a sudden, usually temporary weakness or paralysis of the muscles on one side of the face, thought to be linked to viral inflammation. Other causes include stroke (central facial palsy), Lyme disease, trauma, or tumors.\nDiagnosis is typically made through a neurological exam: the doctor checks for forehead sparing (present in stroke, absent in Bell's palsy), asks you to raise your eyebrows, smile, and close your eyes tightly. Imaging may be ordered if stroke is suspected.",
+  "conventional_treatments": "For Bell’s palsy, the standard approach is a short course of oral corticosteroids (like prednisone) to reduce nerve inflammation, sometimes combined with antiviral medication. Eye protection (lubricating drops, taping the eyelid shut at night) is critical if the eye cannot close. Physical therapy and facial exercises may be recommended. Stroke requires emergency hospital care and rehabilitation.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, mouth deviation is called “wry mouth” (口歪, kǒu wāi) and is understood as an obstruction of the channels that supply the face. The Yangming channels (Stomach and Large Intestine) and the Shaoyang channel (Gallbladder) run prominently across the cheeks, jaw, and around the mouth. When these channels are blocked, Qi and Blood cannot reach the facial muscles, causing them to weaken and pull to one side.\nExternal Wind is the most common acute trigger. Wind attacks the upper body suddenly and can carry Cold (making the face stiff and tight), Heat (bringing redness and sore throat), or Phlegm (creating a heavy, numb sensation). This is why Bell’s palsy often strikes after exposure to a draft, an open window, or a cold breeze-the Wind penetrates the superficial channels and obstructs them.\nInternal imbalances can also cause mouth deviation, even without an obvious external trigger. Liver Qi stagnation from stress, Liver Yang rising from yin deficiency, or long-standing Qi and Blood deficiency can all weaken the facial channels or generate internal Wind that blocks them. In these cases, the deviation may come on more gradually and be accompanied by emotional upset, dizziness, or deep fatigue.\nThe crucial insight is that the same Western diagnosis-Bell’s palsy, for example-can manifest as any of these TCM patterns. The treatment must match the pattern: dispel Wind-Cold for one person, soothe Liver Qi for another, nourish Blood for a third. This is why TCM can often help people who do not recover fully with steroids alone.",
+  "classical_quote": "「寸口脉浮而紧，紧则为寒，浮则为虚，寒虚相搏，邪在皮肤。浮者血虚，络脉空虚，贼邪不泻，或左或右，邪气反缓，正气即急，正气引邪，㖞僻不遂。」",
+  "classical_translation": "\"When the pulse at the cun position is floating and tight, tightness indicates cold, floating indicates deficiency; cold and deficiency contend, and the pathogenic factor resides in the skin. Floating indicates blood deficiency, the collaterals are empty, and the invading pathogen fails to dissipate, causing deviation to either side; the pathogenic factor causes flaccidity on one side while the healthy side remains tense, pulling the mouth and eyes awry.\"",
+  "classical_source": "Jin Gui Yao Lue (Synopsis of Prescriptions of the Golden Chamber)  ,  Chapter 5: Pulse, Syndrome and Treatment of Wind-Stroke and Joint Diseases \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by asking what happened just before the mouth deviation appeared. Was there a blast of cold wind, a stressful event, a fever, or a long period of fatigue? The trigger and the first few hours of symptoms provide the strongest clues to the underlying pattern.\nIf the mouth deviated suddenly after exposure to cold or wind, and the face feels tight and stiff, that points to a Wind-Cold invasion. The tongue coating is thin and white, and the pulse feels tight and floating. This pattern is very common in acute Bell’s palsy.\nWhen the deviation comes with a sore throat, fever, or a feeling of heat, it suggests Wind-Heat. Here the tongue is redder with a thin yellow coating, and the pulse is rapid and floating. The body’s reaction is more inflammatory, and the face may feel warm rather than cold.\nSome people notice a heavy, numb sensation in the face along with the deviation. They may have a history of phlegm or sinus congestion. This is Wind-Phlegm obstructing the channels. The tongue looks swollen with a greasy white coating, and the pulse is wiry and slippery. Dizziness or a foggy head often accompanies it.\nIf the mouth deviation appeared after a period of intense emotional stress, frustration, or depression, Liver Qi Stagnation is likely at play. The person may feel chest tightness, sigh frequently, and have a poor appetite. The pulse is wiry, reflecting the constrained flow of Qi that eventually disrupts the facial muscles.\nWhen the deviation is accompanied by dizziness, a throbbing headache, a flushed face, and irritability, the pattern is Liver Yang Rising. This internal wind stirs upward, causing facial distortion. The tongue is red with little coating, and the pulse is wiry and rapid. High blood pressure often overlaps with this picture.\nIn cases that drag on for weeks or months, the face may feel weak and flaccid rather than tight. The tongue is pale, the pulse is thin and weak. This points to Qi and Blood Deficiency, where the body lacks the resources to nourish and repair the facial nerves and muscles. Recovery is slow and requires building strength, not just expelling pathogens.",
+  "patterns": [
+    {
+      "id": 3435,
+      "condition_id": 700,
+      "pattern_name": "Wind-Cold",
+      "pattern_slug": "wind-cold",
+      "is_common": 0,
+      "symptoms": "[\"Sudden onset after exposure to cold wind\", \"Facial tightness and stiffness\", \"Chills and aversion to cold\", \"Thin white tongue coating\", \"Floating tight pulse\"]",
+      "worse_with": "Exposure to cold wind or drafts, Cold or raw foods and icy drinks, Overwork or fatigue, Emotional stress, anger, or frustration",
+      "better_with": "Warmth or warm compress on the face, Staying in a warm, draft-free room, Warm ginger tea, Gentle movement or exercise",
+      "why_this_happens": "When cold wind strikes the face, it penetrates the superficial channels that nourish the muscles. Cold has a contracting nature, so it tightens and obstructs the flow of Qi and Blood. This sudden blockage leaves the facial muscles stiff and unable to move, causing the mouth to pull to one side.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin, white, moist coating. Pulse: floating and tight (fu jin).",
+      "why_triggers_reliefs_work": "Wind-Cold contracts the channels, so warmth and rest help relax the muscles and restore flow. Cold foods and drafts worsen the blockage, while gentle massage and warm drinks encourage circulation and expel the pathogen.",
+      "diet_and_lifestyle": "Keep the face protected from wind and cold. Wear a scarf outdoors and avoid sitting in drafts. Sip warm ginger tea to help dispel cold. Eat warm, easily digested foods and avoid raw, cold items and icy drinks.",
+      "formulas": [
+        {
+          "id": 7836,
+          "pattern_id": 3435,
+          "formula_name": "Ge Gen Tang",
+          "formula_url": "/knowledge-base/formulas/ge-gen-tang",
+          "translation": "Kudzu Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Induces Sweating and Releases the Exterior, Softens and Relaxes the Sinews",
+          "description": "Releases the exterior, dispels Wind-Cold, and relaxes the sinews to restore facial muscle function."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 18315,
+          "pattern_id": 3435,
+          "herb_name": "Ge Gen",
+          "herb_url": "/knowledge-base/herbs/ge-gen",
+          "translation": "Kudzu root",
+          "properties": "",
+          "description": "Releases the exterior, relaxes the sinews, and guides herbs to the face."
+        },
+        {
+          "id": 18316,
+          "pattern_id": 3435,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "",
+          "description": "Strongly dispels Wind-Cold and opens the superficial channels."
+        },
+        {
+          "id": 18317,
+          "pattern_id": 3435,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and promotes circulation to the face."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 12383,
+          "pattern_id": 3435,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. Dispels exterior wind and unblocks the face."
+        },
+        {
+          "id": 12384,
+          "pattern_id": 3435,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point to correct mouth deviation; stimulate with even method."
+        },
+        {
+          "id": 12385,
+          "pattern_id": 3435,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Reduce. Expels Wind-Cold and clears the head."
+        }
+      ]
+    },
+    {
+      "id": 3436,
+      "condition_id": 700,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Sudden onset after exposure to wind and heat\", \"Fever and mild chills\", \"Sore, red throat\", \"Thirst with desire to drink\", \"Nasal discharge thick and yellow\", \"Red tip and edges of the tongue\"]",
+      "worse_with": "Exposure to wind and heat, Spicy, greasy, or fried foods, Overwork or fatigue, Emotional stress, anger, or frustration",
+      "better_with": "Cool, quiet rest, Plenty of fluids, Cool compresses on the face, Avoiding wind and heat exposure",
+      "why_this_happens": "Wind-Heat is an external pathogen that enters through the mouth and nose, then travels upward along the channels to the face. The heat component obstructs the flow of Qi and blood in the facial channels, while the wind component causes sudden, erratic movement. This combination deprives the facial muscles of proper nourishment and control, resulting in acute mouth deviation, often alongside the classic signs of a Wind-Heat invasion like fever and sore throat.",
+      "tongue_and_pulse": "Tongue: red tip and edges, thin yellow or thin white-to-yellow coating. Pulse: floating and rapid.",
+      "why_triggers_reliefs_work": "Wind-Heat invades from the outside, so exposure to wind and heat worsens the condition by reinforcing the pathogen. Spicy and greasy foods create internal heat, adding fuel to the fire. Rest and cool environments help the body dispel the exterior pathogen without generating more heat. Fluids help cool and moisten, while cooling compresses directly soothe the affected area. Emotional upset stirs up internal fire, making the heat component harder to clear.",
+      "diet_and_lifestyle": "Rest in a cool, quiet room and avoid direct drafts or fans. Drink plenty of water, peppermint tea, or chrysanthemum tea. Eat light, easy-to-digest foods like congee and steamed vegetables; strictly avoid spicy, greasy, or fried foods that generate internal heat.",
+      "formulas": [
+        {
+          "id": 7837,
+          "pattern_id": 3436,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The classic formula to release exterior Wind-Heat and clear heat; for mouth deviation, it is often combined with herbs that dispel wind from the facial channels."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 18318,
+          "pattern_id": 3436,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases exterior Wind-Heat and soothes the throat; its light, ascending nature helps clear the head and face."
+        },
+        {
+          "id": 18319,
+          "pattern_id": 3436,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat and relieves toxicity, especially in the upper body."
+        },
+        {
+          "id": 18320,
+          "pattern_id": 3436,
+          "herb_name": "Bai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/bai-fu-zi",
+          "translation": "Giant typhonium rhizome",
+          "properties": "",
+          "description": "Dispels wind and phlegm from the facial channels, crucial for correcting mouth deviation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 12386,
+          "pattern_id": 3436,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels Wind-Heat from the head and face, a primary point for external wind attacks."
+        },
+        {
+          "id": 12387,
+          "pattern_id": 3436,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Regulates the face and mouth; a key distal point for any facial disorder."
+        },
+        {
+          "id": 12388,
+          "pattern_id": 3436,
+          "acupoint_code": "LI-20",
+          "acupoint_name": "Yingxiang LI-20",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/yingxiang-li-20",
+          "translation": "Y&#xED;ng Xi&#x101;ng",
+          "properties": "Expels Exterior Wind, Removes obstructions from the Channel",
+          "description": "Local point to unblock the facial channel and restore muscle function."
+        },
+        {
+          "id": 12389,
+          "pattern_id": 3436,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and cools the blood, supporting the resolution of Wind-Heat."
+        }
+      ]
+    },
+    {
+      "id": 3437,
+      "condition_id": 700,
+      "pattern_name": "Wind-Phlegm",
+      "pattern_slug": "wind-phlegm",
+      "is_common": 0,
+      "symptoms": "[\"Numbness or tingling in the face\", \"Copious white frothy sputum\", \"Dizziness or vertigo\", \"Heaviness in the body or limbs\", \"Chest stuffiness or nausea\"]",
+      "worse_with": "Dairy and greasy foods, Cold, damp weather, Emotional stress, anger, or frustration, Overwork or fatigue",
+      "better_with": "Warmth or warm compress on the face, Light, non-greasy meals, Rest and avoiding wind, Gentle movement or exercise",
+      "why_this_happens": "When the Spleen is weak, it fails to transform fluids, which accumulate into Phlegm. This Phlegm then combines with internal Wind (often stirred by Liver imbalance) and rushes upward to obstruct the channels of the face. The blockage of Qi and blood causes the muscles to lose control, leading to mouth deviation, numbness, and a sensation of heaviness.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, swollen with teeth marks, white greasy coating. Pulse: wiry and slippery (弦滑 xián huá).",
+      "why_triggers_reliefs_work": "Phlegm is a thick, sticky substance formed from improperly transformed fluids, and dairy, greasy, and cold foods directly contribute to its production. Cold and dampness further congeal Phlegm, while stress stirs Liver Wind, driving the Phlegm upward. Warmth and gentle movement help the Qi flow and break down Phlegm, while rest prevents the stirring of Wind. By avoiding phlegm-forming foods and protecting the face from cold, you reduce the obstruction in the channels, allowing the muscles to recover.",
+      "diet_and_lifestyle": "Avoid dairy, greasy, and cold foods that create Phlegm. Eat warm, light meals like congee with ginger. Protect the face from wind and cold; a scarf is helpful. Gentle exercise like walking helps Qi move and transforms Phlegm.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 18321,
+          "pattern_id": 3437,
+          "herb_name": "Bai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/bai-fu-zi",
+          "translation": "Giant typhonium rhizome",
+          "properties": "",
+          "description": "Dispels Wind-Phlegm and unblocks the facial channels."
+        },
+        {
+          "id": 18322,
+          "pattern_id": 3437,
+          "herb_name": "Jiang Can",
+          "herb_url": "/knowledge-base/herbs/jiang-can",
+          "translation": "Silkworm",
+          "properties": "",
+          "description": "Extinguishes internal Wind and resolves Phlegm, especially for facial spasm."
+        },
+        {
+          "id": 18323,
+          "pattern_id": 3437,
+          "herb_name": "Quan Xie",
+          "herb_url": "/knowledge-base/herbs/quan-xie",
+          "translation": "Scorpion",
+          "properties": "",
+          "description": "Extinguishes Wind and stops spasms, guiding the formula to the face."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 12390,
+          "pattern_id": 3437,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point to regulate Qi and blood in the cheek and mouth."
+        },
+        {
+          "id": 12391,
+          "pattern_id": 3437,
+          "acupoint_code": "ST-6",
+          "acupoint_name": "Jiache ST-6",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/jiache-st-6",
+          "translation": "Ji&#xE1; Ch&#x113;",
+          "properties": "Expels Wind",
+          "description": "Local point for facial paralysis, helps restore muscle function."
+        },
+        {
+          "id": 12392,
+          "pattern_id": 3437,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Distal point for face and mouth disorders, dispels Wind."
+        },
+        {
+          "id": 12393,
+          "pattern_id": 3437,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Key point to resolve Phlegm throughout the body."
+        },
+        {
+          "id": 12394,
+          "pattern_id": 3437,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Subdues internal Wind and regulates Liver Qi."
+        }
+      ]
+    },
+    {
+      "id": 3438,
+      "condition_id": 700,
+      "pattern_name": "Liver Qi Stagnation",
+      "pattern_slug": "liver-qi-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Mouth deviation triggered or worsened by emotional stress\", \"Chest tightness or rib-side distension\", \"Frequent sighing\", \"Irritability or mood swings\", \"Poor appetite\"]",
+      "worse_with": "Emotional stress, anger, or frustration, Fatty or greasy foods, Alcohol",
+      "better_with": "Emotional calm and relaxation, Gentle movement or exercise, Warmth or warm compress on the face",
+      "why_this_happens": "Emotional stress, frustration, and suppressed anger cause the Liver to lose its ability to keep Qi moving smoothly. The stagnant Qi then disrupts the flow of Qi and blood in the facial channels, especially the Yangming channels that govern the face, leading to facial muscle dysfunction and mouth deviation.\nUnlike patterns caused by external wind, this type often appears or worsens during periods of emotional tension and is accompanied by classic signs of Liver Qi stagnation such as chest tightness and frequent sighing.",
+      "tongue_and_pulse": "Tongue: normal or slightly dark body, red or slightly purple sides, thin white coat. Pulse: wiry (弦 xián), taut like a guitar string.",
+      "why_triggers_reliefs_work": "Emotional stress and frustration directly stagnate Liver Qi, which is the root mechanism of this pattern, so calming the mind and moving the body help restore the smooth flow that the facial muscles need. Greasy foods and alcohol burden the Liver and worsen stagnation, while warm compresses locally encourage Qi and blood circulation in the affected channels.",
+      "diet_and_lifestyle": "Prioritize stress management through gentle daily movement like walking or tai chi. Avoid or reduce alcohol, coffee, and greasy or spicy foods, which can aggravate Liver stagnation. Incorporate aromatic herbs like mint or rose tea to gently move Qi.",
+      "formulas": [
+        {
+          "id": 7838,
+          "pattern_id": 3438,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "The primary formula to soothe the Liver, move Qi, and restore smooth flow to the facial channels."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 18324,
+          "pattern_id": 3438,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes the Liver and relieves stagnation, the chief herb for moving constrained Qi."
+        },
+        {
+          "id": 18325,
+          "pattern_id": 3438,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "",
+          "description": "Unblocks stagnant Liver Qi and eases emotional frustration."
+        },
+        {
+          "id": 18326,
+          "pattern_id": 3438,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver and harmonizes the blood, preventing the moving herbs from being too drying."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 12395,
+          "pattern_id": 3438,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. The primary point to course Liver Qi and calm emotional tension."
+        },
+        {
+          "id": 12396,
+          "pattern_id": 3438,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. Moves Qi powerfully in the face and head, helping to restore facial symmetry."
+        },
+        {
+          "id": 12397,
+          "pattern_id": 3438,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point on the face to regulate the Yangming channel and directly address mouth deviation."
+        }
+      ]
+    },
+    {
+      "id": 3439,
+      "condition_id": 700,
+      "pattern_name": "Liver Yang Rising",
+      "pattern_slug": "liver-yang-rising",
+      "is_common": 0,
+      "symptoms": "[\"Throbbing or distending headache, especially at the temples\", \"Dizziness and vertigo\", \"Flushed face and red eyes\", \"Irritability and quick temper\", \"Tinnitus (ringing in the ears)\", \"Dry mouth and throat\"]",
+      "worse_with": "Emotional stress, anger, or frustration, Alcohol and spicy foods, Hot, stuffy environments, Overwork or fatigue",
+      "better_with": "Rest in a quiet, dark room, Cool compress on the forehead, Chrysanthemum or peppermint tea, Gentle movement or exercise",
+      "why_this_happens": "When the Liver's Yin and Blood are too weak to anchor its Yang, that Yang energy surges upward like steam from a boiling pot. This upward rush stirs internal Wind, which travels along the channels to the face. The turbulent Wind disrupts the flow of Qi and Blood in the facial muscles, causing the mouth to suddenly pull to one side.",
+      "tongue_and_pulse": "Tongue: red body, redder at the sides, with a thin dry yellow or scanty coating. Pulse: wiry (弦 xián), may be fine and rapid if Yin deficiency is prominent.",
+      "why_triggers_reliefs_work": "Anger and frustration surge Liver Qi upward, directly fueling the rising Yang that causes this pattern. Alcohol and spicy foods add heat, making the Yang even more unruly. Rest, cool environments, and calming teas help anchor the Yang back down, while gentle movement keeps Qi flowing without stirring up the Wind.",
+      "diet_and_lifestyle": "Keep meals simple and cooling: celery, cucumber, chrysanthemum tea, and plenty of leafy greens. Avoid alcohol, coffee, and spicy or fried foods that add heat. Regular gentle exercise like walking or tai chi helps Qi flow smoothly, but avoid intense, competitive workouts that stir Yang. Prioritize winding down before bed to protect Yin.",
+      "formulas": [
+        {
+          "id": 7839,
+          "pattern_id": 3439,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "The classic formula to calm Liver Yang and extinguish internal Wind, settling the head and face."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 18327,
+          "pattern_id": 3439,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms Liver Yang and extinguishes Wind, especially effective for dizziness and facial deviation."
+        },
+        {
+          "id": 18328,
+          "pattern_id": 3439,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "",
+          "description": "Pacifies Liver Yang and relieves spasms, helping to settle the upward disturbance."
+        },
+        {
+          "id": 18329,
+          "pattern_id": 3439,
+          "herb_name": "Shi Jue Ming",
+          "herb_url": "/knowledge-base/herbs/shi-jue-ming",
+          "translation": "Abalone shell",
+          "properties": "",
+          "description": "Anchors the floating Yang and clears the head, reducing headache and irritability."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 12398,
+          "pattern_id": 3439,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Subdues rising Liver Yang and extinguishes Wind."
+        },
+        {
+          "id": 12399,
+          "pattern_id": 3439,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Reduce. Clears the head and extinguishes internal Wind."
+        },
+        {
+          "id": 12400,
+          "pattern_id": 3439,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Reduce. Calms the mind and helps descending Yang."
+        }
+      ]
+    },
+    {
+      "id": 3440,
+      "condition_id": 700,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Mouth deviation that persists for weeks or months without full recovery\", \"Facial muscles feel weak and flabby rather than tight or twitching\", \"Pale or sallow complexion and pale lips\", \"Deep, persistent fatigue and reluctance to speak\", \"Dizziness or lightheadedness, especially when standing up\", \"Poor appetite and spontaneous sweating\"]",
+      "worse_with": "Overwork or fatigue, Skipping meals or poor nutrition, Emotional stress, anger, or frustration, Exposure to cold wind or drafts",
+      "better_with": "Warm, nourishing meals, Gentle movement or exercise, Adequate rest and sleep, Emotional calm and relaxation",
+      "why_this_happens": "Qi and Blood are the building blocks that nourish every muscle and channel in the body. When they become deficient over time, the facial muscles lose their support and become weak and slack. This is why the mouth may start to droop or deviate gradually rather than suddenly, and why it often lingers for months without improvement.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or show teeth marks, with a thin white coating. Pulse: fine (thin) and weak, lacking force.",
+      "why_triggers_reliefs_work": "Qi and Blood are produced from food and rest, so nourishing meals and adequate sleep directly replenish the deficiency. Overwork and poor diet drain the very resources the body needs to hold the facial muscles in place. Emotional stress knots the Liver Qi, which further weakens the Spleen's ability to generate Blood, while cold wind contracts the already undernourished channels, making the deviation worse.",
+      "diet_and_lifestyle": "Eat warm, cooked, nourishing foods like bone broth, congee with red dates (大枣, dà zǎo) and goji berries (枸杞子, gǒu qǐ zǐ), and lightly cooked leafy greens. Avoid raw, cold, and greasy foods that burden the Spleen. Gentle daily movement like walking or tai chi helps build Qi without draining it. Prioritize rest and avoid overwork.",
+      "formulas": [
+        {
+          "id": 7840,
+          "pattern_id": 3440,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, addressing the root deficiency that fails to nourish the facial channels."
+        },
+        {
+          "id": 7841,
+          "pattern_id": 3440,
+          "formula_name": "Ge Gen Tang",
+          "formula_url": "/knowledge-base/formulas/ge-gen-tang",
+          "translation": "Kudzu Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Induces Sweating and Releases the Exterior, Softens and Relaxes the Sinews",
+          "description": "A classical formula for the early stages of colds and flu with chills, body aches, and stiffness of the neck and upper back. It works by releasing the body surface to expel cold, while generating fluids to relax tense muscles and sinews. Also commonly used for diarrhea that occurs alongside cold symptoms."
+        },
+        {
+          "id": 7842,
+          "pattern_id": 3440,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 7843,
+          "pattern_id": 3440,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints."
+        },
+        {
+          "id": 7844,
+          "pattern_id": 3440,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising."
+        },
+        {
+          "id": 7845,
+          "pattern_id": 3440,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 18330,
+          "pattern_id": 3440,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, helping to bring nourishment to the face."
+        },
+        {
+          "id": 18331,
+          "pattern_id": 3440,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi and lifts the sinking, supporting the muscles that hold the mouth in place."
+        },
+        {
+          "id": 18332,
+          "pattern_id": 3440,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to produce more Qi and Blood from food."
+        },
+        {
+          "id": 18333,
+          "pattern_id": 3440,
+          "herb_name": "Ge Gen",
+          "herb_url": "/knowledge-base/herbs/ge-gen",
+          "translation": "Kudzu root",
+          "properties": "Cool, Releases the muscle layer and clears Heat, Generates Fluids and Relieves Thirst, Vents Rashes",
+          "description": ""
+        },
+        {
+          "id": 18334,
+          "pattern_id": 3440,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Disperses Wind-Cold, Descends Lung Qi and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 18335,
+          "pattern_id": 3440,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 18336,
+          "pattern_id": 3440,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 18337,
+          "pattern_id": 3440,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 18338,
+          "pattern_id": 3440,
+          "herb_name": "Bai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/bai-fu-zi",
+          "translation": "Giant typhonium rhizome",
+          "properties": "Warm, Dispels Wind-Phlegm, Dries Dampness and Transforms Phlegm, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 18339,
+          "pattern_id": 3440,
+          "herb_name": "Jiang Can",
+          "herb_url": "/knowledge-base/herbs/jiang-can",
+          "translation": "Silkworm",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Dispels Wind and Stops Pain, Transforms Phlegm and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 18340,
+          "pattern_id": 3440,
+          "herb_name": "Quan Xie",
+          "herb_url": "/knowledge-base/herbs/quan-xie",
+          "translation": "Scorpion",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Unblocks the Channels and Alleviates Pain, Resolves Toxicity and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 18341,
+          "pattern_id": 3440,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 18342,
+          "pattern_id": 3440,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 18343,
+          "pattern_id": 3440,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 18344,
+          "pattern_id": 3440,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 18345,
+          "pattern_id": 3440,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "Cool, Extinguishes Wind and Stops Spasms, Courses the Liver and Drains Heat, Calms the Liver and Subdues Yang",
+          "description": ""
+        },
+        {
+          "id": 18346,
+          "pattern_id": 3440,
+          "herb_name": "Shi Jue Ming",
+          "herb_url": "/knowledge-base/herbs/shi-jue-ming",
+          "translation": "Abalone shell",
+          "properties": "Cold, Calms the Liver and Subdues Yang, Clears Liver Heat, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 18347,
+          "pattern_id": 3440,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 18348,
+          "pattern_id": 3440,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 18349,
+          "pattern_id": 3440,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 12401,
+          "pattern_id": 3440,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood at the source, strengthening the Spleen and Stomach to build nourishment."
+        },
+        {
+          "id": 12402,
+          "pattern_id": 3440,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen, Liver, and Kidney to support overall vitality."
+        },
+        {
+          "id": 12403,
+          "pattern_id": 3440,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "A local point on the face that directly stimulates the muscles around the mouth to restore function."
+        },
+        {
+          "id": 12404,
+          "pattern_id": 3440,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "The command point of the face, used to move Qi and Blood into the facial channels."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 4557,
+      "condition_id": 700,
+      "question": "Is my crooked mouth from Bell’s palsy or a stroke?",
+      "answer": "If you cannot raise your eyebrow and wrinkle your forehead on the affected side, it is more likely Bell’s palsy (peripheral). If you can still raise your eyebrow (forehead movement is preserved), it could be a stroke (central) and needs emergency evaluation. TCM treats both, but stroke is a medical emergency first. See the Safety section for red-flag symptoms that require urgent care."
+    },
+    {
+      "id": 4558,
+      "condition_id": 700,
+      "question": "How quickly can acupuncture and herbs help?",
+      "answer": "Many people notice subtle signs of returning movement-a tiny twitch, better lip control-within the first 2 weeks. The speed depends on the pattern: acute wind invasions respond fastest, while deficiency patterns take longer. Consistency with treatment is key."
+    },
+    {
+      "id": 4559,
+      "condition_id": 700,
+      "question": "Can I use TCM alongside the steroids my doctor prescribed?",
+      "answer": "Yes. There are no known major interactions between the herbs commonly used for mouth deviation and corticosteroids. Always inform both your TCM practitioner and your doctor about all treatments you are receiving. Do not stop prescribed medications without medical advice."
+    },
+    {
+      "id": 4560,
+      "condition_id": 700,
+      "question": "Will my face go back to normal completely?",
+      "answer": "The majority of people with Bell’s palsy recover fully, especially with early treatment. TCM can improve the odds and reduce the risk of lingering tightness or synkinesis. For those who have had deviation for months, improvement is still possible but may be slower and partial."
+    },
+    {
+      "id": 4561,
+      "condition_id": 700,
+      "question": "Does acupuncture on the face hurt?",
+      "answer": "Facial acupuncture uses very fine needles and is usually described as a mild sensation-a quick pinch or a dull ache. The points are chosen to stimulate the nerves and muscles gently. Most people find it quite tolerable, and the relief it brings is worth it."
+    },
+    {
+      "id": 4562,
+      "condition_id": 700,
+      "question": "What can I eat to support recovery?",
+      "answer": "In general, favor warm, cooked foods that are easy to digest. Avoid cold, raw, and greasy foods that can create Dampness and Phlegm, which clog the channels. Ginger tea is excellent for Wind-Cold patterns. For Wind-Heat, avoid spicy and fried foods. Your practitioner will give you specific guidance based on your pattern."
+    }
+  ],
+  "research": [
+    {
+      "id": 1039,
+      "condition_id": 700,
+      "title": "Acupuncture for Bell's palsy",
+      "description": "A Cochrane systematic review of 14 RCTs (1,541 participants). Acupuncture may improve recovery rate and reduce time to recovery compared to drug therapy alone, but evidence is limited by high risk of bias in included trials.",
+      "url": "https://doi.org/10.1002/14651858.CD002914.pub3",
+      "periodical": "Chen N, Zhou M, He L, Zhou D, Li N. Acupuncture for Bell's palsy. Cochrane Database Syst Rev. 2015;(8):CD002914."
+    },
+    {
+      "id": 1040,
+      "condition_id": 700,
+      "title": "A multicentre randomized controlled trial of acupuncture for Bell's palsy",
+      "description": "A large RCT from China showing that acupuncture plus prednisone was significantly more effective than prednisone alone in improving facial nerve function and reducing sequelae.",
+      "url": "https://doi.org/10.1503/cmaj.110990",
+      "periodical": "Liang F, Li Y, Yu S, et al. A multicentre randomized controlled trial of acupuncture for Bell's palsy. CMAJ. 2012;184(5):E278-E285."
+    },
+    {
+      "id": 1041,
+      "condition_id": 700,
+      "title": "Acupuncture for Bell's palsy: a systematic review and meta-analysis",
+      "description": "A meta-analysis of 14 RCTs concluding that acupuncture is an effective adjunctive therapy for Bell's palsy, with a significant improvement in cure rate compared to conventional treatment alone.",
+      "url": "https://doi.org/10.1136/acupmed-2014-010547",
+      "periodical": "Zhang R, Wu T, Wang L, et al. Acupuncture for Bell's palsy: a systematic review and meta-analysis of randomized controlled trials. Acupunct Med. 2014;32(4):308-316."
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "id": 188,
+  "name": "อาหารเป็นพิษ",
+  "url": "/knowledge-base/conditions/food-poisoning",
+  "kind": "Condition",
+  "pinyin": "shí dú",
+  "chinese_name": "食毒",
+  "preview_text": "TCM มองว่าอาหารเป็นพิษไม่ใช่แมลงเพียงตัวเดียว แต่เป็นรูปแบบเฉพาะของความไม่สมดุล ไม่ว่าจะเป็นความร้อน ความเย็น ชื้น หรือความเมื่อยล้า และปรับแต่งการรักษาเพื่อขับสารพิษและตกค้าง...",
+  "categories": "[\"การติดเชื้อทางเดินอาหาร\", \"พิษและเกี่ยวข้องกับแอลกอฮอล์\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Toxic Gastroenteritis\"]",
+  "conventional_description": "In Western medicine, food poisoning is an illness caused by eating contaminated food. Bacteria, viruses, parasites, or their toxins irritate the lining of the stomach and intestines, leading to nausea, vomiting, diarrhea, abdominal cramps, and sometimes fever. Diagnosis is usually based on symptoms and a history of recent food intake; stool tests may be done in severe or persistent cases. Most cases resolve on their own within a few days with rest and hydration.",
+  "conventional_treatments": "Conventional treatment focuses on preventing dehydration and managing symptoms. This typically includes drinking plenty of fluids, oral rehydration solutions, and rest. Over-the-counter anti-diarrheal medications may be used cautiously, but they are often avoided if there is fever or bloody stools. In bacterial cases, antibiotics may be prescribed, and antiemetics can help control severe nausea and vomiting.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands food poisoning as an invasion of external toxins that disrupt the Spleen and Stomach, the organs responsible for digestion and fluid metabolism. The Stomach normally sends food downward, while the Spleen transforms it into energy and sends the clear upward. When spoiled or contaminated food enters, this delicate balance is thrown off: Stomach Qi rebels upward causing nausea and vomiting, and Spleen Qi sinks downward causing diarrhea.\nThe nature of the toxin and your body's response determine which pattern emerges. If the food is simply undigested and stagnant, you get sour belching and a thick tongue coating - that's Food Stagnation. If the toxin generates heat and dampness, you'll see foul diarrhea, a yellow greasy tongue, and a heavy sensation - Damp-Heat. Cold or raw foods can directly damage Spleen Yang, leading to Cold-Damp with watery stools and chills. In severe cases, a virulent toxin can create Toxic-Heat with high fever and bloody stools.\nThis is why TCM doesn't have one remedy for food poisoning. A formula that clears Damp-Heat would be wrong for someone with Cold-Damp, just as a warming formula would worsen Toxic-Heat. By matching the treatment to the exact pattern, TCM can often resolve symptoms within a day or two, while also strengthening the digestive system to prevent a lingering weakness.",
+  "classical_quote": "「食毒，以瓜蒂散吐之。」",
+  "classical_translation": "\"For food poisoning, use Gua Di San (Melon Stalk Powder) to induce vomiting.\"",
+  "classical_source": "Jin Gui Yao Lue (Essential Prescriptions of the Golden Cabinet)  ,  Chapter 24: On the Pulse, Symptom Complex and Treatment of Food Poisoning \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first asks about the onset and what was eaten. Sudden nausea, vomiting, and diarrhea right after a heavy or questionable meal point strongly toward Food Stagnation in the Stomach. The tongue coating is thick and greasy, and the pulse feels slippery and full. This pattern is about undigested food rebelling, so the body tries to expel it upward and downward.\nWhen the diarrhea smells foul and the abdominal pain is cramping with a sensation of heat, the picture shifts to Damp-Heat in the Stomach and Spleen. The tongue shows a yellow, greasy coating, and the pulse is rapid and slippery. A low-grade fever and a heavy, lethargic feeling help separate this from simple food stagnation, because the spoiled food has brewed into internal heat and dampness.\nIf the diarrhea is watery and accompanied by cold abdominal cramps, chills, and a pale tongue with a white coating, the practitioner considers Cold-Damp invading the Spleen. This often follows eating cold or raw contaminated food. The pulse tends to be slow or tight, and the person lacks the heat signs seen in damp-heat, making the distinction clear.\nSevere cases with high fever, bloody stools, and signs of systemic toxicity indicate Toxic-Heat. The tongue is deep red with a thick yellow coating, and the pulse is rapid and forceful. This pattern is an emergency; the body is overwhelmed by virulent toxins, and the practitioner looks for delirium, extreme thirst, and dark urine to confirm the depth of heat invasion.\nIn some people, food toxins combine with preexisting phlegm-damp, causing Phlegm-Dampness in the Middle-Burner. The chief complaints are chest oppression, persistent nausea, and a thick, greasy tongue coating. Diarrhea may be less explosive, but the heavy, stuck sensation and a slippery pulse tell the practitioner that the problem has lodged deeper in the digestive tract.",
+  "patterns": [
+    {
+      "id": 952,
+      "condition_id": 188,
+      "pattern_name": "Food Stagnation in the Stomach",
+      "pattern_slug": "food-stagnation-in-the-stomach",
+      "is_common": 0,
+      "symptoms": "[\"Sour, rotten-smelling belching\", \"Epigastric fullness and distension worse with pressure\", \"Nausea or vomiting of sour, undigested food\", \"Relief after vomiting\", \"Foul-smelling flatulence and loose stools with sour odour\", \"Thick, greasy tongue coating (often curd-like, thickest in centre)\"]",
+      "worse_with": "Overeating or eating spoiled food, Greasy, fried, or heavy meals, Cold or raw foods, Lying down immediately after eating",
+      "better_with": "Vomiting (relieves distension), Light, bland congee, Warm ginger tea, Rest and fasting",
+      "why_this_happens": "When you eat spoiled, contaminated, or simply too much food, your Stomach cannot process it properly. The undigested mass sits and ferments, blocking the normal downward movement of Stomach Qi. Trapped Qi then rebels upward as sour belching and vomiting, while the putrefying food rushes downward as foul-smelling diarrhea.\nThis is an acute excess pattern-the digestive system is physically overwhelmed, not weakened. The turbid stagnation produces the hallmark thick, greasy tongue coating and a slippery, full pulse.",
+      "tongue_and_pulse": "Tongue: normal body with a thick, greasy, curd-like coating, thickest in the centre. Pulse: slippery (Hua) and full (Shi), most prominent at the right middle (guan) position.",
+      "why_triggers_reliefs_work": "Food stagnation is a physical obstruction that blocks Stomach Qi from descending. Vomiting forcibly clears the obstruction, giving immediate relief. Light, warm foods place no extra burden on the Stomach and gently support Spleen Qi, allowing the digestive system to recover. Fasting gives the Stomach time to process the accumulated food without adding more. Overeating or heavy, greasy, and cold foods directly worsen the stagnation-they are harder to digest and further impair the Stomach's downward movement. Lying down after eating makes it harder for Qi to descend, trapping the stagnation and increasing bloating.",
+      "diet_and_lifestyle": "During the acute phase, rest your digestion completely-fast for a few hours or sip only warm water or light rice congee. Reintroduce food with small portions of bland, easily digested meals like plain congee, steamed vegetables, or clear broth. Avoid all greasy, fried, dairy, raw, and cold foods until your appetite and tongue coating normalize. Gentle walking after meals can help Qi descend.",
+      "formulas": [
+        {
+          "id": 2218,
+          "pattern_id": 952,
+          "formula_name": "Bao He Wan",
+          "formula_url": "/knowledge-base/formulas/bao-he-wan",
+          "translation": "Preserve Harmony Pill &#xB7; Yu&#xE1;n dynasty (&#x5143;&#x671D;), ~1347 CE",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Moves Qi",
+          "description": "The primary formula to resolve food retention, harmonize the Stomach, and descend rebellious Qi."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5062,
+          "pattern_id": 952,
+          "herb_name": "Shan Zha",
+          "herb_url": "/knowledge-base/herbs/shan-zha",
+          "translation": "Hawthorn fruit",
+          "properties": "",
+          "description": "Powerfully digests meat and greasy food, breaking down the stagnation at its source."
+        },
+        {
+          "id": 5063,
+          "pattern_id": 952,
+          "herb_name": "Lai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/lai-fu-zi",
+          "translation": "Radish seed",
+          "properties": "",
+          "description": "Promotes the downward movement of Qi, relieving epigastric distension and belching."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3385,
+          "pattern_id": 952,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach; harmonizes the middle burner and descends rebellious Stomach Qi."
+        },
+        {
+          "id": 3386,
+          "pattern_id": 952,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, regulates digestion, and alleviates abdominal distension."
+        },
+        {
+          "id": 3387,
+          "pattern_id": 952,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Stops nausea and vomiting by calming the Stomach and opening the chest."
+        }
+      ]
+    },
+    {
+      "id": 953,
+      "condition_id": 188,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Foul-smelling, sticky diarrhea\", \"Abdominal pain with a feeling of heaviness\", \"Bitter or sticky taste in the mouth\", \"Heavy limbs and a foggy head\", \"Thick yellow greasy tongue coating\", \"Low-grade fever that persists despite sweating\"]",
+      "worse_with": "Greasy, fried foods, Dairy products, Alcohol, Damp, humid weather, Overexertion, Stress and worry",
+      "better_with": "Light, bland congee, Rest and lying down, Peppermint tea, Warm compress on abdomen",
+      "why_this_happens": "When contaminated food is consumed, it creates Dampness and Heat directly in the digestive tract. The Spleen and Stomach become overwhelmed and cannot transform or transport properly, so Dampness accumulates and combines with Heat. This disturbs the Intestines, causing foul-smelling, sticky diarrhea, while the rising Heat leads to nausea and a bitter taste in the mouth.",
+      "tongue_and_pulse": "Tongue: Red body, possibly swollen with teeth marks, with a thick yellow greasy coating especially at the centre and root. Pulse: Soggy (Ru) and rapid (Shu), often slippery (Hua).",
+      "why_triggers_reliefs_work": "Damp-Heat is aggravated by greasy, fried, and dairy foods because they directly create more Dampness and Heat in the digestive system. Humid weather and overwork weaken the Spleen, making it harder to transform Dampness. Rest, light foods, and warm fluids support the Spleen's ability to clear Dampness and cool the Heat, while peppermint and ginger help settle the Stomach and disperse turbidity.",
+      "diet_and_lifestyle": "Drink plenty of warm water or light barley tea to help flush Dampness. Avoid all greasy, fried, dairy, and sugary foods, which create more Dampness. Eat small amounts of easily digested congee with a little ginger to support the Spleen. Rest and avoid heavy exertion until the digestive system recovers.",
+      "formulas": [
+        {
+          "id": 2219,
+          "pattern_id": 953,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "Clears Heat and resolves Dampness in the Spleen and Stomach, especially for acute gastroenteritis with foul diarrhea and a greasy tongue coating."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5064,
+          "pattern_id": 953,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, targeting the Stomach and Intestines."
+        },
+        {
+          "id": 5065,
+          "pattern_id": 953,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi and resolves Dampness, relieving abdominal bloating and fullness."
+        },
+        {
+          "id": 5066,
+          "pattern_id": 953,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Transforms turbid Dampness and lifts the heavy foggy sensation in the head."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3388,
+          "pattern_id": 953,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach, harmonizes the middle burner and resolves Dampness."
+        },
+        {
+          "id": 3389,
+          "pattern_id": 953,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "He-Sea point of the Stomach, strengthens the Spleen and resolves Dampness."
+        },
+        {
+          "id": 3390,
+          "pattern_id": 953,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Meeting point of the three leg Yin channels, resolves Dampness and regulates the Spleen."
+        },
+        {
+          "id": 3391,
+          "pattern_id": 953,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Front-Mu point of the Large Intestine, stops diarrhea and clears Damp-Heat from the Intestines."
+        }
+      ]
+    },
+    {
+      "id": 954,
+      "condition_id": 188,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "pattern_slug": "cold-damp-invading-the-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Watery diarrhea without strong odor\", \"Abdominal cramping that feels better with warmth\", \"Heavy sensation in the limbs and head\", \"Pale, swollen tongue with thick white greasy coating\", \"No fever, or only mild chills\"]",
+      "worse_with": "Cold or raw foods, Dairy products, Greasy, fried foods, Cold weather or drafts",
+      "better_with": "Warm compress on abdomen, Rest in a warm bed, Warm ginger tea, Light, bland congee",
+      "why_this_happens": "Eating cold, raw, or spoiled food overwhelms the Spleen's ability to transform and transport. The Spleen Yang is directly damaged, causing internal Cold to accumulate and Dampness to form. This Cold-Damp obstructs the Middle Burner, leading to watery diarrhea, cramping, and that heavy, bloated sensation.",
+      "tongue_and_pulse": "Tongue: pale and swollen with teeth marks, thick white greasy coating that is excessively moist. Pulse: soggy (Ru) or slippery (Hua) and slow (Chi), especially soft in the right Guan position.",
+      "why_triggers_reliefs_work": "Cold-Damp directly injures Spleen Yang, so cold and raw foods make the pattern worse by adding more Cold and Dampness. Warmth, rest, and warm foods gently restore Spleen Yang, helping the body transform and drain the excess Dampness that causes diarrhea and bloating.",
+      "diet_and_lifestyle": "Avoid all cold, raw, and greasy foods until the diarrhea stops. Stick to warm, easy-to-digest meals like plain rice congee or cooked millet. Sip warm ginger tea throughout the day to support Spleen Yang and keep the abdomen covered and warm.",
+      "formulas": [
+        {
+          "id": 2220,
+          "pattern_id": 954,
+          "formula_name": "Huo Xiang Zheng Qi San",
+          "formula_url": "/knowledge-base/formulas/huo-xiang-zheng-qi-san",
+          "translation": "Agastache Powder to Rectify the Qi &#xB7; S&#xF2;ng dynasty, 1078 CE",
+          "properties": "Warm, Aromatically Transforms Dampness, Disperses Wind-Cold from the Exterior, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "Dispels Cold-Damp, harmonizes the Stomach, and stops vomiting and diarrhea. Ideal for acute gastroenteritis from cold-damp food poisoning."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5067,
+          "pattern_id": 954,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "",
+          "description": "Aromatic herb that transforms Dampness, harmonizes the Middle Burner, and stops nausea."
+        },
+        {
+          "id": 5068,
+          "pattern_id": 954,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and warms the Spleen, relieving the heavy, bloated feeling."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3392,
+          "pattern_id": 954,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Moxa on this point warms the Middle Burner and resolves Dampness."
+        },
+        {
+          "id": 3393,
+          "pattern_id": 954,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to restore transport function."
+        },
+        {
+          "id": 3394,
+          "pattern_id": 954,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves Dampness and promotes urination to drain excess fluids."
+        }
+      ]
+    },
+    {
+      "id": 955,
+      "condition_id": 188,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever\", \"Bloody diarrhea\", \"Severe abdominal pain\", \"Restlessness and agitation\", \"Intense thirst with desire for cold drinks\", \"Dark scanty urine\"]",
+      "worse_with": "Spicy or fried food, Alcohol, Hot weather or overheating, Stress and agitation, Overexertion",
+      "better_with": "Cool drinks, Rest in a cool environment, Light, bland congee, Cold compresses on forehead",
+      "why_this_happens": "When contaminated food carries a particularly virulent toxin, it can directly generate intense Heat and Fire in the Stomach and Intestines. This aggressive Heat burns through the body's protective Qi and penetrates deeper, causing high fever and systemic toxicity. The Heat scorches the blood vessels in the intestines, leading to bloody diarrhea, while rising Heat disturbs the mind, causing restlessness and agitation.",
+      "tongue_and_pulse": "Tongue: red body with prickly raised papillae (thorns) and a dry yellow coating. Pulse: rapid (shu) and forceful (you li), often full (shi) or overflowing (hong).",
+      "why_triggers_reliefs_work": "Toxic-Heat is an aggressive internal Fire that consumes Yin and damages the blood. Cooling foods and rest help lower the internal temperature and preserve fluids, while spicy, greasy, or heating substances add fuel to the Fire. Stress and overexertion further agitate the Qi and worsen the Heat, so calm and quiet are essential to allow the body to clear the toxin.",
+      "diet_and_lifestyle": "Drink plenty of cool fluids like water or light herbal teas to help flush toxins. Eat only bland, easily digested foods such as congee once the acute phase passes. Avoid all spicy, greasy, or fried foods, alcohol, and caffeine until full recovery. Rest is essential to conserve Qi for fighting the toxin.",
+      "formulas": [
+        {
+          "id": 2221,
+          "pattern_id": 955,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "The primary formula to drain Fire and resolve Toxin from all three burners, especially when high fever and bloody diarrhea are present."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5069,
+          "pattern_id": 955,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Cold and bitter, clears Heat and dries Dampness, resolves Fire toxicity, especially targeting the Stomach and Intestines."
+        },
+        {
+          "id": 5070,
+          "pattern_id": 955,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Drains Fire, eliminates irritability, cools the blood, and guides Heat out through the urine."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3395,
+          "pattern_id": 955,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Major point to clear Heat and cool the blood, used for high fever and skin eruptions."
+        },
+        {
+          "id": 3396,
+          "pattern_id": 955,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears Stomach Heat and alleviates abdominal pain and diarrhea."
+        },
+        {
+          "id": 3397,
+          "pattern_id": 955,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and stops bleeding, useful for bloody diarrhea due to Heat toxin."
+        }
+      ]
+    },
+    {
+      "id": 956,
+      "condition_id": 188,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "pattern_slug": "phlegm-dampness-in-the-middle-burner",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, sluggish sensation in the body and limbs\", \"Feeling of oppression and stuffiness in the chest and upper abdomen\", \"Nausea without violent vomiting\", \"Loose, sticky stools\", \"Greasy, sticky taste in the mouth\", \"Drowsiness and mental fogginess\"]",
+      "worse_with": "Cold or raw foods, Dairy products, Greasy, fried foods, Damp, humid weather, Overeating, Sedentary lifestyle",
+      "better_with": "Warm, cooked foods, Warm ginger tea, Gentle walking, Dry, warm environment, Resting in a semi-upright position",
+      "why_this_happens": "If your digestion is already sluggish and prone to phlegm-dampness, contaminated food adds a toxic burden that your Spleen cannot manage. The Spleen's ability to transform and transport fluids stalls, so dampness thickens into phlegm and blocks the middle of your torso. This creates a heavy, stuck sensation in the chest and stomach, persistent nausea, and a thick greasy coating on the tongue.",
+      "tongue_and_pulse": "Tongue: pale and swollen with teeth marks, thick white greasy coating that looks wet. Pulse: slippery (滑 huá) and often soft or soggy, especially at the right middle position.",
+      "why_triggers_reliefs_work": "Phlegm-dampness forms when the Spleen is too weak to transform fluids, and it is worsened by anything cold, raw, or greasy that further burdens digestion. Warm, dry foods and a dry environment help the Spleen warm up and evaporate dampness, while gentle movement moves Qi so that phlegm cannot settle and stagnate.",
+      "diet_and_lifestyle": "Avoid cold, raw, greasy, and dairy foods that produce dampness. Eat warm, cooked, easily digestible foods like congee with a little ginger. Gentle daily movement helps Qi flow and clear phlegm. Use warming kitchen spices such as ginger, cardamom, and a small amount of black pepper.",
+      "formulas": [
+        {
+          "id": 2222,
+          "pattern_id": 956,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "The foundational formula to dry Dampness and transform Phlegm in the Middle Burner, relieving nausea and chest stuffiness."
+        },
+        {
+          "id": 2223,
+          "pattern_id": 956,
+          "formula_name": "Bao He Wan",
+          "formula_url": "/knowledge-base/formulas/bao-he-wan",
+          "translation": "Preserve Harmony Pill &#xB7; Yu&#xE1;n dynasty (&#x5143;&#x671D;), ~1347 CE",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Moves Qi",
+          "description": "A gentle, time-tested formula for the uncomfortable, heavy feeling after overeating or consuming rich, greasy foods. It helps break down accumulated food, relieves bloating, acid reflux, nausea, and belching, and restores normal digestive movement. Often described as &#x27;digestive first aid&#x27; in Chinese medicine, it works by clearing the blockage rather than masking symptoms."
+        },
+        {
+          "id": 2224,
+          "pattern_id": 956,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "A classical formula for treating acute digestive upsets caused by a combination of Dampness and Heat lodging in the Stomach and intestines. It addresses simultaneous vomiting and diarrhea, a feeling of fullness and stuffiness in the chest and upper abdomen, irritability, and dark scanty urine, particularly during hot and humid seasons."
+        },
+        {
+          "id": 2225,
+          "pattern_id": 956,
+          "formula_name": "Huo Xiang Zheng Qi San",
+          "formula_url": "/knowledge-base/formulas/huo-xiang-zheng-qi-san",
+          "translation": "Agastache Powder to Rectify the Qi &#xB7; S&#xF2;ng dynasty, 1078 CE",
+          "properties": "Warm, Aromatically Transforms Dampness, Disperses Wind-Cold from the Exterior, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "A classical formula used to relieve symptoms of gastrointestinal upset combined with a cold, especially during summer. It addresses chills, nausea, vomiting, diarrhea, abdominal bloating, and a heavy feeling in the head caused by exposure to cold and dampness that disrupt digestion. One of the most widely used formulas in Chinese medicine for &quot;stomach flu&quot; type complaints."
+        },
+        {
+          "id": 2226,
+          "pattern_id": 956,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 2227,
+          "pattern_id": 956,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5071,
+          "pattern_id": 956,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, stopping nausea and vomiting."
+        },
+        {
+          "id": 5072,
+          "pattern_id": 956,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Strengthens the Spleen and drains Dampness, reducing sticky stools and heaviness."
+        },
+        {
+          "id": 5073,
+          "pattern_id": 956,
+          "herb_name": "Shan Zha",
+          "herb_url": "/knowledge-base/herbs/shan-zha",
+          "translation": "Hawthorn fruit",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 5074,
+          "pattern_id": 956,
+          "herb_name": "Lai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/lai-fu-zi",
+          "translation": "Radish seed",
+          "properties": "Neutral, Reduces Food Stagnation and Eliminates Distension, Descends Qi and Transforms Phlegm, Descends Lung Qi and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 5075,
+          "pattern_id": 956,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 5076,
+          "pattern_id": 956,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 5077,
+          "pattern_id": 956,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach",
+          "description": ""
+        },
+        {
+          "id": 5078,
+          "pattern_id": 956,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "Slightly Warm, Aromatically Transforms Dampness, Harmonizes the Stomach and Stops Vomiting, Releases the Exterior and Resolves Summerheat",
+          "description": ""
+        },
+        {
+          "id": 5079,
+          "pattern_id": 956,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 5080,
+          "pattern_id": 956,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 5081,
+          "pattern_id": 956,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 5082,
+          "pattern_id": 956,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3398,
+          "pattern_id": 956,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and resolves Dampness."
+        },
+        {
+          "id": 3399,
+          "pattern_id": 956,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform Phlegm throughout the body."
+        },
+        {
+          "id": 3400,
+          "pattern_id": 956,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonises the Stomach and descends rebellious Qi to ease nausea and fullness."
+        },
+        {
+          "id": 3401,
+          "pattern_id": 956,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Alleviates nausea and chest oppression."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1202,
+      "condition_id": 188,
+      "question": "Can TCM treat food poisoning at home?",
+      "answer": "Mild cases of food stagnation or simple indigestion can often be managed at home with rest, ginger tea, and bland congee. However, for more severe symptoms like fever, bloody stools, or inability to keep fluids down, you should seek medical attention immediately. TCM herbal formulas should be prescribed by a qualified practitioner who can identify the correct pattern. Self-prescribing the wrong herbs can make things worse."
+    },
+    {
+      "id": 1203,
+      "condition_id": 188,
+      "question": "What herbs are commonly used for food poisoning?",
+      "answer": "It depends on the pattern. For simple food stagnation, Bao He Wan with Shan Zha (hawthorn berry) helps digest the backlog. For Damp-Heat with foul diarrhea, Lian Po Yin uses Huang Lian (coptis) to clear heat and dry dampness. Cold-Damp cases benefit from Huo Xiang Zheng Qi San, which warms and transforms dampness. All these formulas are tailored to the individual and should be taken under guidance."
+    },
+    {
+      "id": 1204,
+      "condition_id": 188,
+      "question": "How quickly does acupuncture work for nausea and vomiting?",
+      "answer": "Acupuncture can relieve nausea and vomiting very quickly, often within minutes of needle insertion. Points like Neiguan (PC-6) and Zusanli (ST-36) are particularly effective at calming rebellious Stomach Qi. Many patients feel a reduction in nausea during the session itself. For acute food poisoning, one or two treatments may be enough to settle the stomach."
+    },
+    {
+      "id": 1205,
+      "condition_id": 188,
+      "question": "Is TCM safe for children with food poisoning?",
+      "answer": "Yes, TCM can be very gentle and effective for children. Acupuncture may be replaced by acupressure or pediatric tuina massage for young children. Herbal dosages are adjusted for the child's weight and constitution. However, children dehydrate faster than adults, so any sign of dehydration or high fever should prompt an immediate visit to a doctor. Always consult a pediatric TCM practitioner."
+    },
+    {
+      "id": 1206,
+      "condition_id": 188,
+      "question": "Can I take TCM herbs with antibiotics?",
+      "answer": "In many cases, yes, but it's essential to inform both your TCM practitioner and your doctor. Some herbs can interact with antibiotics or alter their effectiveness. Typically, herbs and antibiotics are taken a few hours apart to avoid interactions. Your TCM practitioner will adjust the formula if you are on medication. Never stop prescribed antibiotics without your doctor's approval."
+    },
+    {
+      "id": 1207,
+      "condition_id": 188,
+      "question": "What should I eat while recovering from food poisoning?",
+      "answer": "Stick to bland, easy-to-digest foods like plain congee, steamed rice, or well-cooked vegetables. Avoid raw, cold, greasy, spicy, or dairy-heavy foods, as they burden the weakened Spleen and Stomach. Warm ginger tea can help settle nausea and warm the digestive system. Gradually reintroduce normal foods as your appetite returns and your stools normalize."
+    }
+  ],
+  "research": [
+    {
+      "id": 278,
+      "condition_id": 188,
+      "title": "Huo Xiang Zheng Qi San for acute gastroenteritis: a systematic review and meta-analysis",
+      "description": "A meta-analysis of 12 RCTs involving 1,245 patients found that Huo Xiang Zheng Qi San, alone or combined with conventional treatment, significantly improved total effective rate and reduced time to resolution of diarrhoea and vomiting compared to conventional treatment alone. Adverse events were minimal.",
+      "url": "",
+      "periodical": "Zhang Y, et al. Huo Xiang Zheng Qi San for acute gastroenteritis: a systematic review and meta-analysis. Chinese Journal of Integrative Medicine. 2018;24(7):534-540."
+    },
+    {
+      "id": 279,
+      "condition_id": 188,
+      "title": "Acupuncture for acute diarrhoea in adults: a Cochrane systematic review",
+      "description": "This Cochrane review evaluated acupuncture for acute diarrhoea and found that acupuncture may reduce the duration of diarrhoea and improve stool frequency compared to no treatment or sham acupuncture, but the evidence was of low certainty due to small sample sizes and risk of bias.",
+      "url": "https://doi.org/10.1002/14651858.CD013275",
+      "periodical": "Liang L, et al. Acupuncture for acute diarrhoea in adults. Cochrane Database of Systematic Reviews. 2019;Issue 7. Art. No.: CD013275."
+    },
+    {
+      "id": 280,
+      "condition_id": 188,
+      "title": "Antimicrobial and anti-inflammatory activities of Huang Lian Jie Du Tang and its relevance to foodborne illness",
+      "description": "An in vitro study demonstrated that Huang Lian Jie Du Tang and its major alkaloids (berberine, baicalin) inhibited growth of common foodborne pathogens including Salmonella and Staphylococcus aureus, and reduced pro-inflammatory cytokine production in intestinal epithelial cells.",
+      "url": "https://doi.org/10.1038/s41598-017-15733-7",
+      "periodical": "Li X, et al. Antimicrobial and anti-inflammatory activities of a traditional Chinese herbal formula Huang-Lian-Jie-Du-Tang. Scientific Reports. 2017;7:15733."
+    }
+  ]
+}

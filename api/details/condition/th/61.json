@@ -1,0 +1,683 @@
+{
+  "id": 61,
+  "name": "หลายเส้นโลหิตตีบ",
+  "url": "/knowledge-base/conditions/multiple-sclerosis",
+  "kind": "Condition",
+  "pinyin": "duō fā xìng yìng huà",
+  "chinese_name": "多发性硬化",
+  "preview_text": "กุญแจสำคัญในการจัดการ MS ใน TCM คือการระบุว่ารากเกิดจากการขาดไตหยิน ชี่ม้าม หรือร่วมกับความชื้นและความร้อน และผู้ป่วยจำนวนมากพบว่า ...",
+  "categories": "[\"การอักเสบเรื้อรัง\", \"ภาวะสมองและระบบประสาท\", \"สภาวะภูมิคุ้มกันและภูมิต้านทานตนเอง\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"MS\", \"Disseminated Sclerosis\"]",
+  "conventional_description": "Multiple sclerosis (MS) is a chronic autoimmune disease in which the immune system mistakenly attacks the protective myelin sheath covering nerve fibers in the brain and spinal cord. This damage disrupts communication between the brain and the rest of the body, leading to a wide range of unpredictable symptoms including fatigue, numbness or tingling, muscle weakness, vision problems, difficulty with coordination and balance, and cognitive changes. MS is typically diagnosed through a combination of neurological examination, MRI scans showing lesions, and sometimes lumbar puncture or evoked potential tests. The disease course varies widely - some people experience relapsing-remitting episodes, while others have a steadily progressive decline.",
+  "conventional_treatments": "Conventional treatment for MS focuses on three goals: modifying the disease course, managing acute relapses, and alleviating symptoms. Disease-modifying therapies (DMTs) - including injectables, oral medications, and infused monoclonal antibodies - aim to reduce the frequency and severity of relapses and slow progression. Acute relapses are often treated with high-dose corticosteroids to shorten the attack. Symptom management may include medications for spasticity, fatigue, pain, bladder dysfunction, and depression, along with physical and occupational therapy to maintain function.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, multiple sclerosis is understood through the Kidney, Liver, and Spleen systems, which together govern the brain, spinal cord, muscles, and sinews. The Kidneys store essence (Jing) and produce marrow, which fills the brain and spinal cord. When Kidney Yin or Yang is deficient, the marrow is poorly nourished, leading to the demyelination and nerve dysfunction seen in MS. This is why many people experience progressive weakness, dizziness, and vision problems - the very symptoms of Kidney and Liver Yin Deficiency.\nThe Spleen transforms food into Qi and blood, which fuel the muscles and limbs. When Spleen Qi is weak - often from overwork, poor diet, or chronic illness - the body cannot generate enough energy to support movement. This results in the profound fatigue and heaviness that are hallmarks of MS. Spleen deficiency also allows dampness to accumulate, creating a sticky internal environment that can suddenly flare into acute symptoms.\nDuring relapses, pathogens like dampness, heat, or phlegm can invade the already weakened system. Damp-Heat pouring downward can cause sudden limb weakness and a heavy sensation, while Phlegm-Heat rising to the head can blur vision and cloud thinking. These acute patterns are often superimposed on a background of chronic deficiency, which is why MS symptoms can shift so dramatically.\nFinally, long-standing Qi deficiency can fail to move blood, leading to Blood Stagnation. This causes fixed stabbing pains, numbness, and a dark complexion - symptoms often seen in later stages. Because MS can manifest as any of these patterns, or a combination, TCM treatment is always tailored to the individual’s current presentation, not a one-size-fits-all protocol.",
+  "classical_quote": "「The five zang organs all have wei syndrome... When the lung is hot and the lobes are scorched, the skin and hair become weak, thin, and withered, and the pathogen stays, causing wei syndrome of the feet.」",
+  "classical_translation": "\"This passage describes the core mechanism of wei syndrome (atrophy), which in MS corresponds to limb weakness and wasting. It links the condition to heat in the organs, particularly the lung, but later sections expand to include deficiencies of the spleen, liver, and kidneys, which align with the Spleen Qi Deficiency and Kidney and Liver Yin Deficiency patterns seen in MS.\"",
+  "classical_source": "Huang Di Nei Jing (Su Wen)  ,  Chapter 44: Wei Lun (On Atrophy Syndrome) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "To tell the patterns apart, a practitioner first looks at whether the symptoms are chronic and gradual or acute and sudden. The root of the illness often lies in a deeper deficiency, while flare-ups can bring on more intense, hot, or stagnant patterns. The tongue and pulse are especially helpful here, because they reveal what is happening inside even when the person is between attacks.\nIf the main picture is progressive weakness, dry eyes, blurred vision, night sweats, and a sore low back, then Kidney and Liver Yin Deficiency (肝肾阴虚, gān shèn yīn xū) is likely. The tongue will be red with little or no coating, and the pulse will feel thin and rapid. This pattern points to a deep lack of moisture and essence that fails to nourish the nerves and sinews.\nWhen the dominant complaint is heavy fatigue, muscle wasting, poor appetite, and loose stools, Spleen and Stomach Qi Deficiency (脾胃气虚, pí wèi qì xū) is the key. The tongue appears pale and swollen, with a thin white coat, and the pulse is weak and deep. Here the digestive system is too depleted to make enough Qi and blood to support the limbs.\nDuring an acute relapse, sudden limb weakness with a heavy sensation, chest tightness, and a greasy yellow tongue coating point to Damp-Heat invading the Spleen (湿热浸淫, shī rè jìn yín). The pulse will be slippery and rapid. This pattern reflects an external or internal damp-heat attack that obstructs the Spleen’s control over the muscles, causing rapid loss of strength.\nIf dizziness, blurred vision, a foggy head, and urinary or bowel retention are prominent, Phlegm-Heat in the Middle Burner (中焦痰热, zhōng jiāo tán rè) is often present. The tongue will have a sticky yellow coating, and the pulse will be slippery and fast. This pattern describes phlegm and heat clouding the clear senses and disrupting fluid metabolism.\nWhen symptoms worsen after exertion and include fixed stabbing pains, numbness, a dark complexion, and a tongue with purple spots, Qi Deficiency causing Blood Stagnation (气虚血瘀, qì xū xuè yū) is at work. The pulse will feel choppy or tight. Long-standing weakness has slowed the blood flow, creating local stagnation that adds pain and sensory loss to the fatigue.",
+  "patterns": [
+    {
+      "id": 302,
+      "condition_id": 61,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "pattern_slug": "kidney-and-liver-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Soreness and weakness of lower back and knees\", \"Dry eyes and blurred vision\", \"Dizziness and tinnitus\", \"Night sweats with heat in palms, soles, and chest\", \"Insomnia with restless, vivid dreams\"]",
+      "worse_with": "Overwork and fatigue, Emotional stress, Greasy or fried foods, Excessive heat and sweating",
+      "better_with": "Adequate rest and sleep, Cool, moistening foods like pears and black sesame, Gentle movement or tai chi, Cool environment",
+      "why_this_happens": "The Kidneys store essence and produce marrow, which fills the brain and spinal cord. The Liver governs the sinews and stores blood. When Kidney and Liver Yin become depleted, the brain and spinal cord lose their nourishment, leading to the progressive weakness and coordination problems of MS.\nAt the same time, dry, undernourished sinews become stiff and spastic, while deficiency heat rises to cause dizziness, blurred vision, and night sweats.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine, rapid, and wiry; left Chi (Kidney) position weak, left Guan (Liver) thin and slightly wiry.",
+      "why_triggers_reliefs_work": "Kidney and Liver Yin are already depleted, so overwork, stress, and spicy foods that generate internal heat or consume fluids worsen the deficiency. Rest, cooling moistening foods, and gentle movement help conserve Yin and calm deficiency heat, allowing the sinews and marrow to be nourished.",
+      "diet_and_lifestyle": "Eat moistening, Yin-nourishing foods like black sesame, walnuts, goji berries, pears, and bone broths. Avoid spicy, fried, and greasy foods that generate heat. Prioritize rest and avoid late nights; gentle movement like tai chi or qigong helps preserve Yin without exhaustion.",
+      "formulas": [
+        {
+          "id": 679,
+          "pattern_id": 302,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "Deeply nourishes Kidney Yin and replenishes essence, addressing the root deficiency in multiple sclerosis."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1571,
+          "pattern_id": 302,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Nourishes Kidney Yin and essence, the primary herb for replenishing marrow."
+        },
+        {
+          "id": 1572,
+          "pattern_id": 302,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Nourishes Liver and Kidney Yin, improves vision and dizziness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1045,
+          "pattern_id": 302,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yin and strengthens the lower back."
+        },
+        {
+          "id": 1046,
+          "pattern_id": 302,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Nourishes Liver Yin and benefits the sinews."
+        },
+        {
+          "id": 1047,
+          "pattern_id": 302,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of Kidney, replenishes essence and Yin."
+        },
+        {
+          "id": 1048,
+          "pattern_id": 302,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes Liver, Spleen, and Kidney; nourishes Yin and calms the mind."
+        },
+        {
+          "id": 1049,
+          "pattern_id": 302,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes the Liver and subdues rising Yang, easing dizziness and irritability."
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "condition_id": 61,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Limb heaviness and weakness\", \"Poor appetite and bloating that worsens after eating\", \"Loose stools\", \"Shortness of breath and reluctance to speak\", \"Sallow or pale complexion\"]",
+      "worse_with": "Overeating or large meals, Cold raw foods and icy drinks, Overwork and fatigue, Damp or cold weather, Prolonged sitting or inactivity",
+      "better_with": "Warm, easy-to-digest meals, Rest after eating, Gentle movement or tai chi, Warm abdominal compress",
+      "why_this_happens": "The Spleen and Stomach are the engines that turn food into Qi and blood. When they are weak, the body cannot produce enough nourishment to fuel the muscles and limbs. This leads to the deep fatigue, heaviness, and progressive weakness that are central to chronic multiple sclerosis.\nBecause the Spleen also governs the raising of clear Qi, its deficiency can cause a sinking sensation and a reluctance to move or speak. The digestive symptoms-poor appetite, bloating after eating, and loose stools-are direct signs that the Spleen is failing to transform and transport food.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tooth-marked body with thin white coating. Pulse: weak, soft, and forceless, especially at the right Guan (Middle) position.",
+      "why_triggers_reliefs_work": "<p>The Spleen thrives on warmth and routine. Overeating, cold foods, and damp environments overwhelm its ability to transform and transport, leading to more bloating and fatigue. Rest after meals allows the Spleen to focus on digestion, and gentle movement circulates Qi without draining it. Warmth supports Spleen Yang, which is the metabolic fire that turns food into usable energy.</p>",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods such as soups, congees, and steamed vegetables. Avoid cold, raw, greasy, and overly sweet foods that burden the Spleen. Take small, frequent meals rather than large portions. Gentle daily movement like walking or tai chi helps Qi flow without depleting it, and adequate rest is essential-especially after meals.",
+      "formulas": [
+        {
+          "id": 680,
+          "pattern_id": 303,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "The primary formula to strengthen Spleen Qi and lift the sinking Qi, directly countering the fatigue and limb heaviness of MS."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1573,
+          "pattern_id": 303,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully boosts Spleen Qi and lifts the sinking Qi, combating fatigue and muscle weakness."
+        },
+        {
+          "id": 1574,
+          "pattern_id": 303,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Strengthens the Spleen and augments Qi, improving appetite and energy."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1050,
+          "pattern_id": 303,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The premier point to tonify Spleen and Stomach Qi, strengthening the limbs."
+        },
+        {
+          "id": 1051,
+          "pattern_id": 303,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen, Liver, and Kidney, supporting Qi and blood production."
+        },
+        {
+          "id": 1052,
+          "pattern_id": 303,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "The Back-Shu point of the Spleen, directly tonifies Spleen Qi and addresses digestive weakness."
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "condition_id": 61,
+      "pattern_name": "Damp-Heat invading the Spleen",
+      "pattern_slug": "damp-heat-invading-the-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Limb heaviness and weakness\", \"Stuffiness and fullness in the chest and upper abdomen\", \"Nausea and poor appetite\", \"Loose stools\", \"Sticky or greasy taste in the mouth\", \"Thirst with little desire to actually drink\"]",
+      "worse_with": "Greasy or fried foods, Hot and humid weather, Overeating or large meals, Prolonged sitting or inactivity, Alcohol",
+      "better_with": "Warm, easy-to-digest meals, Cool environment, Gentle movement or tai chi, Avoiding overeating",
+      "why_this_happens": "In multiple sclerosis, the Spleen governs the muscles and limbs. When external Dampness and Heat invade, they clog the Spleen's ability to transform and transport fluids. This creates a sticky, heavy obstruction that blocks the flow of clear Yang to the muscles, leading to the sudden limb weakness and fatigue that can appear during acute relapses.\nThe accumulated Damp-Heat also rises to the chest and head, causing the characteristic stuffiness, nausea, and mental fogginess. Because the Spleen is overwhelmed, it cannot separate pure from impure, so stools become loose and sticky, and a greasy yellow coating appears on the tongue.",
+      "tongue_and_pulse": "Tongue: Red body with a thick, yellow, greasy coating that is densest in the centre and root. Pulse: Soggy (Ru) and rapid (Shu), or slippery (Hua) and rapid, especially in the right middle position.",
+      "why_triggers_reliefs_work": "Dampness and Heat are the core pathogens here. Greasy and sweet foods create more internal Dampness, while a hot, humid environment adds external Damp-Heat, directly worsening the Spleen's blockage. Light meals and a dry environment remove the fuel. Gentle movement activates the Spleen's Qi to transform and transport fluids, preventing stagnation.",
+      "diet_and_lifestyle": "Avoid damp-producing and heating foods entirely during a flare: no dairy, sugar, fried foods, alcohol, or rich meats. Eat light, cooked vegetables and grains like barley and millet. Gentle, consistent movement like walking helps the Spleen move Qi and transform Dampness, but avoid exercising to exhaustion. Keep your living environment cool and dry.",
+      "formulas": [
+        {
+          "id": 681,
+          "pattern_id": 304,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "Clears Heat and transforms Dampness in the Spleen and Stomach, relieving the epigastric stuffiness and nausea central to this pattern."
+        },
+        {
+          "id": 682,
+          "pattern_id": 304,
+          "formula_name": "Huo Pu Xia Ling Tang",
+          "formula_url": "/knowledge-base/formulas/huo-po-xia-ling-tang",
+          "translation": "Agastache, Magnolia Bark, Pinellia and Poria Decoction &#xB7; Q&#x12B;ng dynasty, 1861 CE",
+          "properties": "Slightly Warm, Aromatically Transforms Dampness, Moves Qi, Releases the Exterior",
+          "description": "Aromatic formula that awakens the Spleen, resolves turbid Dampness, and clears Heat, ideal for the heavy body and loose sticky stools."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1575,
+          "pattern_id": 304,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Dries Dampness and clears Heat from the Middle Burner, targeting the greasy yellow tongue coating."
+        },
+        {
+          "id": 1576,
+          "pattern_id": 304,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi and dries Dampness to relieve abdominal distension and chest stuffiness."
+        },
+        {
+          "id": 1577,
+          "pattern_id": 304,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Strongly dries Dampness and strengthens the Spleen, addressing the heavy sensation in the limbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1053,
+          "pattern_id": 304,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The primary point to drain Dampness from the Spleen channel, reducing limb heaviness."
+        },
+        {
+          "id": 1054,
+          "pattern_id": 304,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach, harmonises the Middle Burner and resolves Damp-Heat."
+        },
+        {
+          "id": 1055,
+          "pattern_id": 304,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears Heat from the Stomach channel and alleviates nausea and sticky taste."
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "condition_id": 61,
+      "pattern_name": "Phlegm-Heat in the Middle Burner",
+      "pattern_slug": "phlegm-heat-in-the-middle-burner",
+      "is_common": 0,
+      "symptoms": "[\"Epigastric fullness and nausea\", \"Dizziness and blurred vision\", \"Urinary retention or constipation\", \"Bitter taste and sticky yellow sputum\", \"Sensation of heat in the chest and abdomen\"]",
+      "worse_with": "Greasy or fried foods, Dairy and sweets, Hot and humid weather, Alcohol, Emotional stress",
+      "better_with": "Warm, easy-to-digest meals, Gentle movement or tai chi, Avoiding greasy and dairy, Acupuncture and moxibustion",
+      "why_this_happens": "When the Spleen and Stomach are weakened, they fail to transform fluids properly, and dampness accumulates into phlegm. If this phlegm combines with internal heat, a sticky, turbid phlegm-heat forms in the Middle Burner. This phlegm-heat can rise to cloud the clear orifices of the head, leading to dizziness, blurred vision, and a heavy, foggy sensation. It can also obstruct the lower burner, disrupting the bladder and bowel and causing urinary retention or constipation.",
+      "tongue_and_pulse": "Tongue: red, swollen body with a thick yellow greasy coating, especially in the centre. Pulse: slippery (滑 huá) and rapid (数 shuò), possibly wiry at the right guan position.",
+      "why_triggers_reliefs_work": "Greasy, sweet, and dairy foods directly generate phlegm and dampness, while alcohol and spicy foods add heat, fueling phlegm-heat in the Middle Burner. Emotional stress can cause Liver Qi to invade the Stomach, worsening nausea and fullness. Warm, light meals and gentle movement support the Spleen's ability to transform fluids, while acupuncture and herbs clear heat and resolve phlegm, restoring balance to the digestive system and clearing the head.",
+      "diet_and_lifestyle": "Avoid greasy, fried, sweet, and dairy-rich foods, which create phlegm and dampness. Eat warm, lightly cooked meals like congee, steamed vegetables, and barley. Sip warm water with a slice of ginger to support digestion. Gentle daily movement, such as walking after meals, helps Qi flow and prevents phlegm from stagnating.",
+      "formulas": [
+        {
+          "id": 683,
+          "pattern_id": 305,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "Clears heat and transforms phlegm, specifically targeting phlegm-heat obstructing the Middle Burner, which helps resolve dizziness, nausea, and urinary retention in MS."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1578,
+          "pattern_id": 305,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, targeting the Middle Burner to relieve epigastric fullness and bitter taste."
+        },
+        {
+          "id": 1579,
+          "pattern_id": 305,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Transforms Phlegm and stops nausea, addressing the sticky sputum and vomiting."
+        },
+        {
+          "id": 1580,
+          "pattern_id": 305,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries Dampness, helping to relieve abdominal bloating and support phlegm transformation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1056,
+          "pattern_id": 305,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "A key point to transform Phlegm and Dampness, alleviating dizziness and a heavy head."
+        },
+        {
+          "id": 1057,
+          "pattern_id": 305,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Harmonizes the Stomach, stops nausea, and relieves epigastric stuffiness."
+        },
+        {
+          "id": 1058,
+          "pattern_id": 305,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach, regulates the Middle Burner and resolves Dampness."
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "condition_id": 61,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "pattern_slug": "qi-deficiency-causing-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain that worsens with pressure or exertion\", \"Numbness or tingling in the limbs\", \"Dark or dusky facial complexion\", \"Fatigue and heaviness that worsen after mild activity\", \"Shortness of breath and reluctance to speak\"]",
+      "worse_with": "Overwork and fatigue, Cold environments, Greasy or fried foods, Emotional stress",
+      "better_with": "Gentle movement or tai chi, Warmth and rest, Warm, easy-to-digest meals, Deep breathing",
+      "why_this_happens": "In multiple sclerosis, long-standing Qi deficiency means the body lacks the vital force needed to push blood through the vessels. When blood flow slows and stagnates, it creates fixed, stabbing pain, numbness, and a dark or purplish complexion. This pattern often develops after years of illness, when Qi is too weak to maintain healthy circulation in the nerves and muscles.",
+      "tongue_and_pulse": "Tongue: pale body with a dark or purplish tinge, possible stasis spots, teeth marks, thin white coat. Pulse: deep (沉 chén), fine or weak (细/弱 xì/ruò), and choppy (涩 sè).",
+      "why_triggers_reliefs_work": "This pattern is driven by Qi deficiency that fails to move blood. Overexertion drains Qi further, making blood stasis worse and triggering pain and numbness. Rest and warmth conserve Qi and encourage smooth flow, while gentle movement invigorates circulation without overtaxing the body. Nourishing, warm foods build the Qi needed to push blood, and deep breathing helps Qi descend and spread evenly.",
+      "diet_and_lifestyle": "Gentle daily movement like tai chi or slow walking helps move Qi and blood without depleting reserves. Eat warm, nourishing foods such as bone broths, stewed ginger, and congee with jujube dates. Avoid raw, cold foods and overexertion, which weaken digestion and drain Qi.",
+      "formulas": [
+        {
+          "id": 684,
+          "pattern_id": 306,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "The classic formula for Qi deficiency with blood stasis, it powerfully tonifies Qi and activates blood to restore circulation and relieve pain."
+        },
+        {
+          "id": 685,
+          "pattern_id": 306,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "A classical formula designed to deeply nourish Kidney Yin and replenish the body&#x27;s vital essence and marrow. It is used when there is significant depletion of the body&#x27;s fundamental nourishing fluids and substances, leading to symptoms such as dizziness, lower back and knee weakness, night sweats, dry mouth and throat, and a general state of thinning or exhaustion. Unlike milder Yin-nourishing formulas, Zuo Gui Wan is a purely replenishing formula without any draining ingredients, making it suitable for more severe deficiency."
+        },
+        {
+          "id": 686,
+          "pattern_id": 306,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine."
+        },
+        {
+          "id": 687,
+          "pattern_id": 306,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "A classical formula for treating acute digestive upsets caused by a combination of Dampness and Heat lodging in the Stomach and intestines. It addresses simultaneous vomiting and diarrhea, a feeling of fullness and stuffiness in the chest and upper abdomen, irritability, and dark scanty urine, particularly during hot and humid seasons."
+        },
+        {
+          "id": 688,
+          "pattern_id": 306,
+          "formula_name": "Huo Pu Xia Ling Tang",
+          "formula_url": "/knowledge-base/formulas/huo-po-xia-ling-tang",
+          "translation": "Agastache, Magnolia Bark, Pinellia and Poria Decoction &#xB7; Q&#x12B;ng dynasty, 1861 CE",
+          "properties": "Slightly Warm, Aromatically Transforms Dampness, Moves Qi, Releases the Exterior",
+          "description": "A classical formula used to clear dampness from the body when it becomes trapped both on the surface and internally, causing symptoms like mild fever, a heavy feeling in the body, chest tightness, poor appetite, a greasy taste in the mouth, and a white slippery tongue coating. It works by using aromatic herbs to transform dampness, bitter-warm herbs to dry dampness, and bland herbs to drain dampness through urination, addressing all three levels of the body simultaneously."
+        },
+        {
+          "id": 689,
+          "pattern_id": 306,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm."
+        },
+        {
+          "id": 690,
+          "pattern_id": 306,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1581,
+          "pattern_id": 306,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi and strengthens the body&#x27;s ability to move blood."
+        },
+        {
+          "id": 1582,
+          "pattern_id": 306,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates blood, easing stasis and pain."
+        },
+        {
+          "id": 1583,
+          "pattern_id": 306,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and Qi, particularly effective for stabbing pain."
+        },
+        {
+          "id": 1584,
+          "pattern_id": 306,
+          "herb_name": "Di Long",
+          "herb_url": "/knowledge-base/herbs/di-long",
+          "translation": "Earthworm",
+          "properties": "",
+          "description": "Unblocks collaterals and channels, helping relieve numbness and limb weakness."
+        },
+        {
+          "id": 1585,
+          "pattern_id": 306,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 1586,
+          "pattern_id": 306,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 1587,
+          "pattern_id": 306,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 1588,
+          "pattern_id": 306,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 1589,
+          "pattern_id": 306,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 1590,
+          "pattern_id": 306,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 1591,
+          "pattern_id": 306,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 1592,
+          "pattern_id": 306,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 1593,
+          "pattern_id": 306,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 1594,
+          "pattern_id": 306,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 1595,
+          "pattern_id": 306,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 1596,
+          "pattern_id": 306,
+          "herb_name": "Di Long",
+          "herb_url": "/knowledge-base/herbs/di-long",
+          "translation": "Earthworm",
+          "properties": "Cold, Settles Fright and Calms Convulsions, Calms the Liver and Extinguishes Wind, Unblocks the Channels and Collaterals",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1059,
+          "pattern_id": 306,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonifies Qi to strengthen the propelling force of blood."
+        },
+        {
+          "id": 1060,
+          "pattern_id": 306,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Qi and blood, supporting overall energy and circulation."
+        },
+        {
+          "id": 1061,
+          "pattern_id": 306,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and dispels stasis, addressing pain and dark complexion."
+        },
+        {
+          "id": 1062,
+          "pattern_id": 306,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes blood and Qi, and calms numbness and tingling."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 384,
+      "condition_id": 61,
+      "question": "Can acupuncture and Chinese herbs help with MS fatigue?",
+      "answer": "Yes, fatigue is one of the most common reasons people with MS seek TCM. In TCM, fatigue often stems from Spleen Qi Deficiency or Kidney Yin Deficiency. Acupuncture at points like Zusanli ST-36 and Sanyinjiao SP-6, combined with herbs such as Huang Qi (Astragalus), can strengthen Qi and improve energy. Many patients notice a gradual lift in fatigue within 3-6 weeks of consistent treatment."
+    },
+    {
+      "id": 385,
+      "condition_id": 61,
+      "question": "Is it safe to combine TCM with my disease-modifying medications?",
+      "answer": "Generally, yes, but it’s crucial that both your neurologist and TCM practitioner know exactly what you are taking. Some herbs can interact with immunosuppressants or anticoagulants - for example, Dang Gui and Chuan Xiong have mild blood-thinning effects. Always inform both providers of any changes, and never stop prescribed medications without medical advice."
+    },
+    {
+      "id": 386,
+      "condition_id": 61,
+      "question": "How long before I notice improvement?",
+      "answer": "Many people feel some improvement in energy, sleep, or spasticity within the first month of treatment. However, deeper changes - such as reduced relapse frequency or better walking stability - typically take 3-6 months of regular acupuncture and herbs. Deficiency patterns take longer to rebuild than acute excess patterns, so patience is key."
+    },
+    {
+      "id": 387,
+      "condition_id": 61,
+      "question": "Do I need to change my diet?",
+      "answer": "Dietary adjustments can significantly support your treatment. In general, favor warm, cooked foods like soups, congees, and steamed vegetables to support the Spleen. Avoid cold, raw, and iced items, as well as greasy, sugary, and dairy-heavy foods, which create dampness and phlegm. Your practitioner may fine-tune recommendations based on your specific pattern."
+    },
+    {
+      "id": 388,
+      "condition_id": 61,
+      "question": "Can TCM prevent MS relapses?",
+      "answer": "While no treatment can guarantee relapse prevention, TCM aims to strengthen the body’s resilience and correct the underlying imbalances that make relapses more likely. By nourishing Kidney Yin, boosting Spleen Qi, and clearing dampness or heat, many patients experience fewer and milder flare-ups over time. Consistent maintenance treatment is often part of a long-term strategy."
+    },
+    {
+      "id": 389,
+      "condition_id": 61,
+      "question": "Does acupuncture help with muscle stiffness and spasticity?",
+      "answer": "Yes, acupuncture can help relax tight muscles and reduce spasticity. Points like Yanglingquan GB-34 (the influential point for sinews) and local points along affected limbs are commonly used. Regular sessions, sometimes combined with moxibustion, can improve flexibility and comfort. Be sure to tell your practitioner about any areas of severe spasticity so they can adjust needle technique."
+    }
+  ],
+  "research": []
+}

@@ -1,0 +1,404 @@
+{
+  "id": 1600,
+  "name": "คางทูม",
+  "url": "/knowledge-base/conditions/mumps",
+  "kind": "Condition",
+  "pinyin": "zhà sāi",
+  "chinese_name": "痄腮",
+  "preview_text": "คางทูมใน TCM ไม่ได้เกิดได้กับทุกคน - ระยะลมร้อนช่วงแรก ไข้สูงพิษความร้อนสูงสุด และอาการบวมที่ลูกอัณฑะในเวลาต่อมาเป็นรูปแบบที่แตกต่างกันสามรูปแบบ โดยแต่ละรูปแบบจะรักษาด้วย...",
+  "categories": "[\"การติดเชื้อไวรัส\", \"โรคติดเชื้อ\", \"ปากและฟัน\"]",
+  "body_regions": "[\"Face — Jaw\"]",
+  "synonyms": "[\"Epidemic Parotitis\", \"Masseter muscle mumps\", \"Mumps (epidemic parotitis)\"]",
+  "conventional_description": "Mumps is a contagious viral infection caused by the mumps virus, primarily affecting the parotid salivary glands located just below and in front of the ears. It spreads through respiratory droplets or direct contact. Typical symptoms include fever, headache, muscle aches, fatigue, and painful swelling of one or both parotid glands, which can make chewing and swallowing uncomfortable.\nDiagnosis is usually based on the characteristic swelling and may be confirmed with blood tests or a cheek swab. While vaccination has dramatically reduced cases, outbreaks still occur, especially in unvaccinated populations. Complications can include orchitis (testicular inflammation), meningitis, and rarely, hearing loss.",
+  "conventional_treatments": "There is no specific antiviral treatment for mumps; care focuses on relieving symptoms. Doctors recommend rest, plenty of fluids, and over-the-counter pain relievers like acetaminophen or ibuprofen to manage fever and pain. Cool compresses applied to the swollen glands can also help. In cases of orchitis, supportive measures such as scrotal support and pain medication are used. The MMR vaccine remains the most effective prevention.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees mumps as an invasion of external Wind-Heat toxin that enters through the mouth and nose. This pathogen lodges in the Shaoyang channel - the energetic pathway of the Gallbladder and Triple Burner that runs along the sides of the head and jaw. The body's defensive Wei Qi tries to push the invader out, causing the mild fever, chills, and puffy swelling that mark the early Wind-Heat pattern. This is the exterior stage, and the tongue may show a thin yellow coating with a floating, rapid pulse.\nIf the body can't clear the toxin, it sinks deeper and transforms into intense Toxic-Heat Stagnation. The parotid glands become hard, hot, and exquisitely painful. High fever, thirst, and a deep red tongue with a thick yellow coating signal that heat has accumulated. This is the full-blown peak of the illness, and treatment must aggressively clear heat and resolve toxicity to prevent further damage.\nIn some children, especially those with a pre-existing tendency toward dampness, the toxin can combine with internal damp-heat and travel downward along the Liver channel. The Liver channel passes through the genital region, so this pattern manifests as painful testicular swelling (orchitis) or lower abdominal pain.\nThe tongue becomes red with a greasy yellow coating, and the pulse turns wiry and slippery. Recognizing this shift early allows TCM to drain damp-heat from the Liver channel before lasting harm occurs.",
+  "classical_quote": "",
+  "classical_translation": "",
+  "classical_source": "",
+  "tcm_diagnosis": "A TCM practitioner begins by asking when the swelling started and how the symptoms have evolved. The timing and intensity of the fever, the degree of parotid swelling, and the presence of any other discomforts are the first clues that point toward one pattern rather than another.\nIf the signs are mild-a low-grade fever, slight chills, and a puffy but not rock‑hard swelling on one or both sides of the jaw-this suggests the Wind‑Heat pattern. The tongue may look slightly red with a thin white or thin yellow coating, and the pulse feels floating and rapid. This is the early, exterior stage of mumps.\nWhen the fever climbs high, the swelling becomes large, hard, and intensely painful to touch, and the person is very thirsty, the picture shifts to Toxic‑Heat Stagnation. The tongue is red with a thicker yellow coat, and the pulse is slippery and rapid. This full‑blown stage signals that heat toxin has accumulated deeply in the parotid region.\nIf, after the cheek swelling appears, pain and swelling develop in the testicles or lower abdomen, the practitioner looks for the Damp‑Heat in the Liver Channel pattern. The tongue may be red with a yellow, greasy coating, and the pulse is often wiry and rapid. This pattern explains the mumps complication of orchitis, where damp‑heat travels down the liver channel.",
+  "patterns": [
+    {
+      "id": 7798,
+      "condition_id": 1600,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Mild fever with chills\", \"Soft, puffy swelling behind the jaw, not yet rock-hard\", \"Sore throat and headache\", \"Mild pain that worsens when chewing\"]",
+      "worse_with": "Wind or draft exposure, Spicy, fried, or greasy foods, Overexertion or stress, Cold foods or iced drinks",
+      "better_with": "Rest in a warm, quiet room, Warm fluids and light congee, Cool compresses on the swollen area",
+      "why_this_happens": "Mumps often begins when Wind-Heat toxin enters through the mouth and nose and settles in the Shaoyang channel, which runs through the sides of the face and jaw. The body's defensive Qi fights the invader at the surface, causing mild fever and chills. The trapped toxin and disrupted flow of Qi and fluids then produce a soft, puffy swelling below the ear - the first sign of parotid gland involvement.",
+      "tongue_and_pulse": "Tongue: red tip and edges, thin yellow or thin white-to-yellow coating. Pulse: floating and rapid.",
+      "why_triggers_reliefs_work": "Wind-Heat invades the body through the mouth and nose, so rest and a calm environment help the defensive Qi push it back out. Cooling foods and drinks clear heat without damaging the stomach, while spicy or greasy foods add more heat and worsen inflammation. Wind exposure brings more pathogen in and can drive it deeper, while cold items trap the heat inside rather than letting it resolve.",
+      "diet_and_lifestyle": "Rest in a warm, draft-free room. Sip warm fluids like chrysanthemum or peppermint tea. Eat light, easy-to-digest foods such as congee and steamed vegetables, and avoid dairy, sugar, and cold drinks that can trap the heat.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 40796,
+          "pattern_id": 7798,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Releases the exterior and guides the other herbs to the Shaoyang channel where the swelling sits."
+        },
+        {
+          "id": 40797,
+          "pattern_id": 7798,
+          "herb_name": "Ge Gen",
+          "herb_url": "/knowledge-base/herbs/ge-gen",
+          "translation": "Kudzu root",
+          "properties": "",
+          "description": "Relieves muscle tension and helps bring the heat out through a light sweat."
+        },
+        {
+          "id": 40798,
+          "pattern_id": 7798,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat and toxin, especially from the upper body, to reduce the parotid swelling."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27789,
+          "pattern_id": 7798,
+          "acupoint_code": "ST-6",
+          "acupoint_name": "Jiache ST-6",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/jiache-st-6",
+          "translation": "Ji&#xE1; Ch&#x113;",
+          "properties": "Expels Wind",
+          "description": "A local point directly over the parotid gland to move Qi and blood and reduce swelling."
+        },
+        {
+          "id": 27790,
+          "pattern_id": 7798,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "A powerful distal point to release the exterior and stop pain anywhere in the face."
+        },
+        {
+          "id": 27791,
+          "pattern_id": 7798,
+          "acupoint_code": "SJ-5",
+          "acupoint_name": "Waiguan SJ-5",
+          "acupoint_url": "/knowledge-base/acupuncture/triple-burner-meridian/waiguan-sj-5",
+          "translation": "W&#xE0;i Gu&#x101;n",
+          "properties": "Expels Wind-Heat, Removes Obstructions from the Channel",
+          "description": "Opens the Shaoyang channel and pushes Wind-Heat out from the surface."
+        },
+        {
+          "id": 27792,
+          "pattern_id": 7798,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat from the entire body and strengthens the defensive Qi."
+        }
+      ]
+    },
+    {
+      "id": 7799,
+      "condition_id": 1600,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "pattern_slug": "toxic-heat-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"High fever with intense heat sensation\", \"Parotid swelling that is hard, hot, and severely painful\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine or constipation\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Alcohol and coffee, Hot and humid weather, Overexertion or lack of rest, Emotional stress",
+      "better_with": "Cool drinks and foods, Rest in a cool room, Cool compresses on the swollen area, Light, bland diet, Drinking plenty of fluids",
+      "why_this_happens": "When the initial wind-heat invasion is not fully cleared, the toxic heat penetrates deeper and accumulates along the Shaoyang channel, which runs through the parotid area. This intense heat and toxin cause severe inflammation, making the glands hard, hot, and exquisitely painful. The body’s righteous Qi battles the pathogen, producing a high fever, while the heat consumes fluids, leading to intense thirst, dark urine, and constipation.",
+      "tongue_and_pulse": "Tongue: deep red or crimson body, possibly with prickly papillae, and a thick dry yellow coating. Pulse: rapid (shu) and forceful (shi), may be overflowing (hong).",
+      "why_triggers_reliefs_work": "Toxic-Heat Stagnation is an excess heat condition where pathological fire and toxin have built up in the body. Cooling foods, rest, and cold compresses help to drain this heat and soothe inflammation, while spicy, greasy foods, alcohol, and hot environments add more fuel to the fire, worsening the swelling and fever. Emotional stress can stir up Liver Fire, which further fans the flames, so staying calm and rested is crucial.",
+      "diet_and_lifestyle": "Focus on cooling, light foods like congee, steamed vegetables, and plenty of fluids such as water or herbal teas (chrysanthemum, honeysuckle). Avoid all spicy, fried, and greasy foods, as well as alcohol and coffee. Rest in a cool, well-ventilated room and apply a cold compress to the swollen area to ease discomfort.",
+      "formulas": [
+        {
+          "id": 17721,
+          "pattern_id": 7799,
+          "formula_name": "Pu Ji Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/pu-ji-xiao-du-yin",
+          "translation": "Universal Benefit Drink to Eliminate Toxin &#xB7; J&#x12B;n dynasty, 1202 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Disperses Swelling and Dissipates Nodules",
+          "description": "The classic formula for epidemic parotitis at the toxic-heat stage; clears heat, resolves toxin, and disperses swelling."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 40799,
+          "pattern_id": 7799,
+          "herb_name": "Ban Lan Gen",
+          "herb_url": "/knowledge-base/herbs/ban-lan-gen",
+          "translation": "Isatis root",
+          "properties": "",
+          "description": "Clears heat and resolves toxin, especially effective for mumps."
+        },
+        {
+          "id": 40800,
+          "pattern_id": 7799,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses swelling and clears heat toxin."
+        },
+        {
+          "id": 40801,
+          "pattern_id": 7799,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears heat and dries dampness, targeting the Shaoyang channel."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27793,
+          "pattern_id": 7799,
+          "acupoint_code": "ST-6",
+          "acupoint_name": "Jiache ST-6",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/jiache-st-6",
+          "translation": "Ji&#xE1; Ch&#x113;",
+          "properties": "Expels Wind",
+          "description": "Local point to reduce parotid swelling and pain."
+        },
+        {
+          "id": 27794,
+          "pattern_id": 7799,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears heat and alleviates pain throughout the body."
+        },
+        {
+          "id": 27795,
+          "pattern_id": 7799,
+          "acupoint_code": "SJ-5",
+          "acupoint_name": "Waiguan SJ-5",
+          "acupoint_url": "/knowledge-base/acupuncture/triple-burner-meridian/waiguan-sj-5",
+          "translation": "W&#xE0;i Gu&#x101;n",
+          "properties": "Expels Wind-Heat, Removes Obstructions from the Channel",
+          "description": "Disperses heat from the Shaoyang channel to reduce swelling."
+        },
+        {
+          "id": 27796,
+          "pattern_id": 7799,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and reduces high fever."
+        }
+      ]
+    },
+    {
+      "id": 7800,
+      "condition_id": 1600,
+      "pattern_name": "Damp-Heat in the Liver Channel",
+      "pattern_slug": "damp-heat-in-the-liver-channel",
+      "is_common": 0,
+      "symptoms": "[\"Testicular pain and swelling\", \"Bitter taste in the mouth\", \"Dark, scanty urine\", \"Fullness or discomfort along the ribs\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Alcohol, Emotional stress, Physical overexertion",
+      "better_with": "Cool compress on the scrotum, Light, bland diet, Rest and lying down, Drinking barley water",
+      "why_this_happens": "In mumps, the initial wind-heat toxin invades the shaoyang channel and causes the familiar cheek swelling. If damp-heat already lurks in the body-often from a diet heavy in greasy, sweet, or spicy foods-the toxin can combine with dampness and travel downward along the Liver channel. Because the Liver channel wraps around the genitals, the damp-heat settles there, producing the classic complication of painful, swollen testicles a few days after the parotid swelling appears.",
+      "tongue_and_pulse": "Tongue: red body with redder sides, yellow greasy coating thicker at centre and root. Pulse: wiry, slippery, and rapid.",
+      "why_triggers_reliefs_work": "Spicy, greasy, and sugary foods create dampness and heat, which directly feed the damp-heat descending into the Liver channel. Alcohol and emotional stress further stagnate Liver Qi, making the channel more congested. Cooling compresses and damp-draining foods like barley water help clear heat and leach out dampness, while rest prevents Qi from being stirred up and pushing damp-heat downward.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sugary foods that generate dampness and heat. Eat cooling, damp-draining foods like mung bean soup, barley water, cucumber, and watermelon. Drink plenty of fluids and rest until the swelling subsides.",
+      "formulas": [
+        {
+          "id": 17722,
+          "pattern_id": 7800,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "Clears damp-heat from the Liver channel and is the primary formula for testicular pain and swelling after mumps."
+        },
+        {
+          "id": 17723,
+          "pattern_id": 7800,
+          "formula_name": "Pu Ji Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/pu-ji-xiao-du-yin",
+          "translation": "Universal Benefit Drink to Eliminate Toxin &#xB7; J&#x12B;n dynasty, 1202 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Disperses Swelling and Dissipates Nodules",
+          "description": "A classical formula designed to clear intense heat and toxins from the head and face, and to relieve sore throat and swelling. It was originally created during an epidemic to treat severe facial swelling, fever, and throat obstruction caused by Wind-Heat toxins attacking the upper body. Today it is widely used for conditions such as mumps, tonsillitis, facial erysipelas, and other acute infections with prominent redness, swelling, and pain of the head and face."
+        },
+        {
+          "id": 17724,
+          "pattern_id": 7800,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 40802,
+          "pattern_id": 7800,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "",
+          "description": "The main herb that drains damp-heat from the Liver and Gallbladder and resolves testicular swelling."
+        },
+        {
+          "id": 40803,
+          "pattern_id": 7800,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 40804,
+          "pattern_id": 7800,
+          "herb_name": "Ge Gen",
+          "herb_url": "/knowledge-base/herbs/ge-gen",
+          "translation": "Kudzu root",
+          "properties": "Cool, Releases the muscle layer and clears Heat, Generates Fluids and Relieves Thirst, Vents Rashes",
+          "description": ""
+        },
+        {
+          "id": 40805,
+          "pattern_id": 7800,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 40806,
+          "pattern_id": 7800,
+          "herb_name": "Ban Lan Gen",
+          "herb_url": "/knowledge-base/herbs/ban-lan-gen",
+          "translation": "Isatis root",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 40807,
+          "pattern_id": 7800,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 40808,
+          "pattern_id": 7800,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27797,
+          "pattern_id": 7800,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes the Liver and clears damp-heat from the channel, directly relieving testicular pain."
+        },
+        {
+          "id": 27798,
+          "pattern_id": 7800,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Resolves dampness and supports the lower jiao to drain turbid fluids."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 10381,
+      "condition_id": 1600,
+      "question": "Can TCM help prevent mumps complications like orchitis?",
+      "answer": "Yes, TCM's pattern-based approach aims to prevent complications by treating the underlying imbalance before it progresses. When damp-heat signs appear - such as a greasy tongue coating or a sensation of heaviness - a practitioner can add herbs to drain damp-heat from the Liver channel, potentially averting testicular swelling. Early intervention is key, so consult a TCM practitioner as soon as mumps is diagnosed or if you notice any testicular discomfort."
+    },
+    {
+      "id": 10382,
+      "condition_id": 1600,
+      "question": "Is acupuncture safe for children with mumps?",
+      "answer": "Acupuncture is generally safe for children when performed by a licensed practitioner using very fine needles and gentle techniques. For mumps, points are often selected on the face (like Jiache ST-6) and hands, and sessions are brief. Many practitioners also use non-needle methods like acupressure or moxibustion for young children. Always inform the practitioner of your child's full medical history beforehand."
+    },
+    {
+      "id": 10383,
+      "condition_id": 1600,
+      "question": "How soon can herbs reduce the swelling?",
+      "answer": "Herbal formulas for the Wind-Heat pattern often begin to soften the swelling and lower fever within 1-2 days. For Toxic-Heat Stagnation, where the swelling is harder and more inflamed, it may take 3-4 days to see noticeable reduction. Consistent dosing - typically 2-3 times daily - is important. If swelling worsens or breathing becomes difficult, seek urgent medical care immediately (see Safety section)."
+    },
+    {
+      "id": 10384,
+      "condition_id": 1600,
+      "question": "Can I combine TCM herbs with over-the-counter pain relievers?",
+      "answer": "In most cases, yes, but with caution. Acetaminophen and ibuprofen do not have known severe interactions with the herbs commonly used for mumps, but some herbs like Chai Hu (Bupleurum) may have mild blood-thinning properties. Always tell both your TCM practitioner and your doctor about all medications and supplements you or your child are taking. Never exceed recommended doses of pain relievers."
+    },
+    {
+      "id": 10385,
+      "condition_id": 1600,
+      "question": "What foods should be avoided during mumps?",
+      "answer": "Avoid greasy, fried, spicy, and very sweet foods, as these create dampness and heat that can worsen the condition. Cold drinks and raw foods may weaken digestion and should be limited. Instead, focus on light, warm, easily digestible foods like rice congee, steamed vegetables, and barley water, which help clear dampness and support recovery."
+    },
+    {
+      "id": 10386,
+      "condition_id": 1600,
+      "question": "How do I know which TCM pattern I have?",
+      "answer": "The pattern is determined by your symptoms and tongue/pulse diagnosis. Mild fever, slight chills, and a puffy but soft swelling suggest Wind-Heat. High fever with a hard, very painful swelling and intense thirst points to Toxic-Heat Stagnation. Testicular pain or lower abdominal discomfort after cheek swelling indicates Damp-Heat in the Liver Channel. A TCM practitioner will conduct a full assessment to confirm the pattern and prescribe accordingly."
+    },
+    {
+      "id": 10387,
+      "condition_id": 1600,
+      "question": "Will TCM help if my child has already had the MMR vaccine?",
+      "answer": "Yes. The MMR vaccine greatly reduces the risk of mumps, but breakthrough infections can still occur, especially in close-contact settings. TCM treats the current illness based on the presenting pattern, regardless of vaccination status. The goal is to resolve symptoms quickly and prevent complications. TCM does not replace vaccination; it complements it by managing the infection when it occurs."
+    }
+  ],
+  "research": [
+    {
+      "id": 2364,
+      "condition_id": 1600,
+      "title": "Clinical observation on modified Pu Ji Xiao Du Yin for 60 cases of mumps in children",
+      "description": "An RCT involving 60 children with mumps compared modified Pu Ji Xiao Du Yin to conventional antiviral therapy. The herbal group showed a significantly faster resolution of fever (mean 2.5 days vs. 4.1 days) and parotid swelling, with a total effective rate of 93.3%.",
+      "url": "",
+      "periodical": "Zhang W, Li M, Chen X. Clinical observation on modified Pu Ji Xiao Du Yin for 60 cases of mumps in children. Journal of Traditional Chinese Medicine. 2012;53(4):312-314."
+    },
+    {
+      "id": 2365,
+      "condition_id": 1600,
+      "title": "Acupuncture at Jiache (ST6) combined with herbal medicine for epidemic parotitis: a randomized controlled trial",
+      "description": "Eighty patients were randomized to receive either acupuncture at Jiache ST6 plus standard herbal care or herbal care alone. The acupuncture group experienced a statistically significant reduction in the duration of parotid swelling and pain, with no adverse events reported.",
+      "url": "",
+      "periodical": "Li H, Wang Y, Chen J. Acupuncture at Jiache (ST6) combined with herbal medicine for epidemic parotitis: a randomized controlled trial. Chinese Acupuncture & Moxibustion. 2015;35(8):789-792."
+    },
+    {
+      "id": 2366,
+      "condition_id": 1600,
+      "title": "Systematic review of Chinese herbal medicine for mumps",
+      "description": "A meta-analysis of 15 RCTs involving over 1,200 patients found that Chinese herbal medicine, particularly formulas based on Pu Ji Xiao Du Yin, had a pooled effective rate of 95% for treating mumps. The review noted that all included trials were conducted in China and most lacked blinding, indicating a moderate risk of bias.",
+      "url": "",
+      "periodical": "Wang F, Liu S, Huang Z. Systematic review of Chinese herbal medicine for mumps. Chinese Journal of Evidence-Based Medicine. 2018;18(2):145-152."
+    }
+  ]
+}

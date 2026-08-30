@@ -1,0 +1,930 @@
+{
+  "id": 107,
+  "name": "น้ำตาลในเลือดต่ำ",
+  "url": "/knowledge-base/conditions/low-blood-sugar",
+  "kind": "Condition",
+  "pinyin": "dī xuè táng",
+  "chinese_name": "低血糖",
+  "preview_text": "การชนอย่างกระวนกระวายใจก่อนอาหารกลางวัน อาการปากแห้งในช่วงบ่าย และช่วงที่มีหมอกหนาและสับสนหลังจากดื่ม - นี่คือรูปแบบ TCM ที่แตกต่างกันสามรูปแบบ ซึ่งแต่ละรูปแบบตอบสนอง...",
+  "categories": "[\"สภาวะต่อมไร้ท่อและเมตาบอลิซึม\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Hypoglycemia\"]",
+  "conventional_description": "Hypoglycemia, or low blood sugar, occurs when blood glucose drops below 70 mg/dL. It's most common in people with diabetes who take insulin or certain diabetes medications, but it can also happen in non-diabetics due to prolonged fasting, excessive alcohol, certain tumors, or hormonal deficiencies.\nSymptoms include shakiness, sweating, confusion, rapid heartbeat, and in severe cases, loss of consciousness. Diagnosis is confirmed by measuring blood glucose during symptoms and seeing them resolve after eating.",
+  "conventional_treatments": "Immediate treatment is to consume fast-acting carbohydrates (glucose tablets, juice, regular soda) to raise blood sugar quickly. For people with diabetes, adjusting insulin or medication doses and meal timing helps prevent episodes. In severe cases where the person cannot swallow, glucagon injection or intravenous dextrose is given. Long-term management focuses on identifying and avoiding triggers, and for non-diabetic hypoglycemia, treating any underlying condition.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees low blood sugar primarily through the Spleen and Stomach, which together form the body's kitchen - they transform food into Qi and Blood, the fuel that powers every cell. When these organs are weak, that kitchen runs slowly, so between meals or when you skip a meal, your body runs out of fuel.\nThis is why you feel shaky, weak, and lightheaded, often with a poor appetite and bloating. The tongue is often pale and puffy with tooth marks, and the pulse feels weak - signs that the digestive engine isn't producing enough.\nBut the Spleen isn't the only player. The Heart depends on a steady supply of Blood to stay calm and clear; when the Spleen can't make enough, palpitations, anxiety, and foggy thinking appear. The Liver stores Blood and smooths the flow of Qi; if Blood is deficient, internal Wind stirs, causing the tremors, numbness, and blurred vision that often accompany a crash. So the same low blood sugar can feel very different depending on which organ systems are most affected.\nLong-standing blood sugar instability often depletes Yin, the body's cooling, moistening fluids. This creates a dry, overheated state that further exhausts Qi, making blood sugar unstable after exertion or in the evening.\nAnd when rich food, alcohol, or irregular eating weaken the Spleen, it can generate turbid Phlegm - a heavy, clouding substance that rises to the head, causing the mental confusion and heavy-headedness of a severe hypoglycemic episode. That's why one Western diagnosis can have many TCM causes, each with its own tongue and pulse signs.",
+  "classical_quote": "「若胃气一虚，脾无所禀受，则四肢不用，五脏不安。」",
+  "classical_translation": "\"If Stomach Qi is deficient, the Spleen has nothing to receive and transmit; then the four limbs become weak and the five Zang organs are unsettled.\"",
+  "classical_source": "Treatise on the Spleen and Stomach (Pi Wei Lun)  ,  Chapter on Spleen and Stomach Deficiency \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "The practitioner first looks for signs of weak digestion-chronic fatigue, poor appetite, bloating, and loose stools. The tongue is often pale with tooth marks and a thin white coat, and the pulse feels weak or deep and thready. This pattern underlies many cases of low blood sugar because the body simply cannot produce enough Qi and blood from food.\nHere fatigue is accompanied by signs of dryness: a dry mouth, thirst, and spontaneous sweating. The tongue may be red or slightly swollen with little coating or a thin yellow coat, and the pulse is thin and weak or thin and rapid. This pattern often appears in people with long-standing blood sugar instability where both energy and fluids have been depleted.\nWhen the spleen fails to make enough blood, the heart becomes undernourished. The person complains of palpitations, anxiety, poor memory, and dizziness alongside digestive weakness. The tongue is pale with a thin white coat, and the pulse is thin and weak. Sleep disturbances and a tendency to startle easily are additional clues.\nDeep Yin deficiency creates false heat, so besides fatigue there is marked dryness, night sweats, a feeling of heat in the palms and soles, and irritability. The tongue is red with little or no coating, and the pulse is thin and rapid. This pattern can cause sudden blood sugar dips because the body’s cooling and nourishing reserves are exhausted.\nWhen liver blood is too weak to anchor Qi, internal wind stirs. The person may experience tremors, blurred vision, numbness, or even convulsions during a hypoglycemic episode. The tongue is pale red with a thin coat, and the pulse is thin and wiry. This pattern signals a more severe stage where the nervous system is affected.\nThis pattern is usually triggered by alcohol or overeating. Phlegm-heat clouds the mind, leading to drowsiness, confusion, or loss of consciousness. The tongue has a greasy yellow coating, and the pulse is slippery and rapid. It is a rare but serious pattern that requires immediate attention to clear the phlegm and open the orifices.",
+  "patterns": [
+    {
+      "id": 528,
+      "condition_id": 107,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Poor appetite, bloating after meals\", \"Loose or soft stools\", \"Shakiness and weakness when hungry\", \"Pale, sallow face\", \"Fatigue that improves with rest\"]",
+      "worse_with": "Skipping meals or prolonged fasting, Overeating or heavy, greasy foods, Raw, cold, or greasy foods/drinks, Emotional stress, worry, or overthinking, Overwork, exhaustion, or lack of sleep",
+      "better_with": "Small, frequent meals, Warm, easily digested foods (soups, stews, congees), Rest after meals, Gentle exercise (walking, tai chi), Warmth on the abdomen",
+      "why_this_happens": "Your Spleen and Stomach are the body's kitchen-they turn food into usable energy (Qi and blood). When they are weak, that kitchen runs slowly, so between meals or when you skip a meal, your body runs out of fuel. This is why you feel shaky, weak, and lightheaded, often with a poor appetite and bloating after eating.",
+      "tongue_and_pulse": "Tongue: Pale, puffy body with tooth marks and a thin white coating. Pulse: Weak, soft, and empty at the right Guan (Spleen/Stomach) position.",
+      "why_triggers_reliefs_work": "The Spleen needs a steady supply of food to produce Qi and blood. Skipping meals or eating cold, heavy foods drains its already weak fire, causing blood sugar to crash. Warm, easily digested meals conserve Spleen Qi, while rest and gentle movement allow the body to use energy efficiently. Stress and overwork further deplete Qi, which is why calm habits and regular meals are the foundation of recovery.",
+      "diet_and_lifestyle": "Eat small, frequent meals that include complex carbohydrates and protein-never skip a meal. Favor warm, cooked foods like soups, stews, and congees, which are easier for a weak Spleen to digest. Limit raw, cold, and greasy foods that tax digestion. Gentle daily movement like walking after meals supports Qi flow without draining energy.",
+      "formulas": [
+        {
+          "id": 1210,
+          "pattern_id": 528,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "The classic formula to raise clear Yang and restore Spleen Qi, helping the body produce consistent energy from food."
+        },
+        {
+          "id": 1211,
+          "pattern_id": 528,
+          "formula_name": "Xiang Sha Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+          "translation": "Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation",
+          "description": "Strengthens the Spleen and resolves dampness, ideal when bloating and loose stools are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2835,
+          "pattern_id": 528,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Spleen Qi and raises blood sugar by improving energy production."
+        },
+        {
+          "id": 2836,
+          "pattern_id": 528,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Tonifies the Spleen and Stomach, supporting steady glucose release."
+        },
+        {
+          "id": 2837,
+          "pattern_id": 528,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen&#x27;s ability to transform food into Qi and blood."
+        },
+        {
+          "id": 2838,
+          "pattern_id": 528,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "",
+          "description": "Nourishes both Spleen and Stomach, stabilizing energy levels."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1864,
+          "pattern_id": 528,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The master point to strengthen Spleen and Stomach Qi, boosting energy production."
+        },
+        {
+          "id": 1865,
+          "pattern_id": 528,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-Shu point that directly tonifies the Spleen."
+        },
+        {
+          "id": 1866,
+          "pattern_id": 528,
+          "acupoint_code": "BL-21",
+          "acupoint_name": "Weishu BL-21",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/weishu-bl-21",
+          "translation": "W&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Stomach Qi, Subdues Rebellious Stomach Qi",
+          "description": "Back-Shu point that harmonizes the Stomach and improves digestion."
+        },
+        {
+          "id": 1867,
+          "pattern_id": 528,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Spleen function and helps regulate blood sugar."
+        },
+        {
+          "id": 1868,
+          "pattern_id": 528,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Calms the spirit and relieves palpitations during low blood sugar."
+        },
+        {
+          "id": 1869,
+          "pattern_id": 528,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach, strengthens the middle burner."
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "condition_id": 107,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and weakness\", \"Dry mouth with little desire to drink\", \"Spontaneous daytime sweating\", \"Night sweats\", \"Heart palpitations\", \"Warm sensation in palms, soles, and chest\", \"Dizziness\", \"Poor appetite\"]",
+      "worse_with": "Skipping meals or prolonged fasting, Overwork, exhaustion, or lack of sleep, Excessive sweating (sauna, heat), Spicy, fried, or greasy foods, Emotional stress, worry, or overthinking",
+      "better_with": "Small, frequent meals, Warm, easily digested foods (soups, stews, congees), Rest, sleep, and relaxation, Gentle exercise (walking, tai chi), Reducing stress",
+      "why_this_happens": "When Qi and Yin are both depleted, the body lacks the energy (Qi) to transform food into usable fuel and the cooling fluids (Yin) that keep internal processes stable. The Spleen cannot generate enough Qi and blood to maintain steady blood sugar, so levels crash easily. The underlying Yin deficiency also creates a subtle internal heat that slowly burns through whatever reserves remain, making dips more frequent and recovery harder.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, dry surface, possibly cracked. Pulse: fine (thin) and weak, often rapid.",
+      "why_triggers_reliefs_work": "This pattern is a deep depletion of both energy and fluids. Skipping meals starves the Spleen of the raw material it needs to produce Qi and blood, while overwork and sweating drain Qi and Yin directly. Spicy foods create internal heat that further consumes Yin. Rest, gentle movement, and nourishing, easy-to-digest foods help rebuild Qi and Yin, while small frequent meals prevent the blood sugar crashes that occur when reserves are already empty.",
+      "diet_and_lifestyle": "Eat small, frequent meals built around easily digestible foods like congee, steamed vegetables, and moderate amounts of lean protein. Avoid spicy, fried, or drying foods that deplete Yin. Sip warm water or herbal teas such as licorice and chrysanthemum. Gentle daily movement like walking or tai chi helps Qi flow without exhausting reserves. Prioritize rest and avoid overwork.",
+      "formulas": [
+        {
+          "id": 1212,
+          "pattern_id": 529,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "The classic formula to boost Qi and nourish Yin, used for fatigue, sweating, and a weak pulse from deficiency."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2839,
+          "pattern_id": 529,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi to restore energy production."
+        },
+        {
+          "id": 2840,
+          "pattern_id": 529,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Yin and generates fluids, relieving dryness and thirst."
+        },
+        {
+          "id": 2841,
+          "pattern_id": 529,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes sweat and preserves Qi, preventing further leakage of energy and fluids."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1870,
+          "pattern_id": 529,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion. Strengthens the Spleen and Stomach to boost Qi and blood production."
+        },
+        {
+          "id": 1871,
+          "pattern_id": 529,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Yin and blood, harmonizes the Spleen, Liver, and Kidneys."
+        },
+        {
+          "id": 1872,
+          "pattern_id": 529,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion. Fortifies original Qi and Yin, stabilizes the body&#x27;s foundation."
+        },
+        {
+          "id": 1873,
+          "pattern_id": 529,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to cool deficiency heat and support fluid metabolism."
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "condition_id": 107,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "pattern_slug": "heart-and-spleen-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations or racing heart when hungry\", \"Anxiety or feeling easily startled\", \"Poor memory and foggy thinking\", \"Poor appetite with bloating after meals\", \"Loose or unformed stools\", \"Fatigue that is worse after skipping a meal\"]",
+      "worse_with": "Skipping meals or prolonged fasting, Emotional stress, worry, or overthinking, Raw, cold, or greasy foods/drinks, Overwork, exhaustion, or lack of sleep",
+      "better_with": "Small, frequent meals, Rest, sleep, and relaxation, Warm, easily digested foods (soups, stews, congees), Regular meal times",
+      "why_this_happens": "When the Spleen is weak, it cannot transform food into enough Qi and Blood to fuel the body. The Heart, which depends on a steady supply of Blood to stay calm and clear, becomes undernourished and unsettled. This dual deficiency means the body lacks a stable energy reserve, so during fasting or stress, blood sugar can crash, triggering dizziness, palpitations, and foggy thinking.",
+      "tongue_and_pulse": "Tongue: pale, tender, and puffy with teeth marks on the edges; thin white coating. Pulse: fine (thin) and weak, especially weak at the left cun (Heart) and right guan (Spleen) positions.",
+      "why_triggers_reliefs_work": "The Spleen needs a steady supply of warm, cooked nourishment to produce Qi and Blood. Skipping meals or eating cold, hard-to-digest foods depletes Spleen Qi, causing blood sugar to drop. Overthinking and worry damage both the Spleen and the Heart, intensifying palpitations, anxiety, and mental fog. Rest and emotional calm conserve Heart Blood, while small, regular meals keep the Spleen's energy production stable, preventing the sudden crashes.",
+      "diet_and_lifestyle": "Eat warm, cooked meals at regular intervals and never skip breakfast. Small, frequent meals help keep blood sugar steady without overwhelming a weak Spleen. Include gently nourishing foods like rice congee, stewed root vegetables, and a few red dates or longan fruit. Avoid raw, cold, and greasy foods that further weaken digestion. Manage worry and overthinking through gentle walking, meditation, or journaling, because mental strain directly consumes Heart and Spleen energy.",
+      "formulas": [
+        {
+          "id": 1213,
+          "pattern_id": 530,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The foundational formula to strengthen the Spleen, generate Blood, and nourish the Heart to settle palpitations and anxiety."
+        },
+        {
+          "id": 1214,
+          "pattern_id": 530,
+          "formula_name": "Tian Wang Bu Xin Dan",
+          "formula_url": "/knowledge-base/formulas/tian-wang-bu-xin-dan",
+          "translation": "Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi",
+          "description": "Often combined with Gui Pi Tang when insomnia, vivid dreams, or mental restlessness are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2842,
+          "pattern_id": 530,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Strongly boosts Spleen Qi to increase the body&#x27;s energy production."
+        },
+        {
+          "id": 2843,
+          "pattern_id": 530,
+          "herb_name": "Long Yan Rou",
+          "herb_url": "/knowledge-base/herbs/long-yan-rou",
+          "translation": "Longan Fruit Flesh",
+          "properties": "",
+          "description": "Nourishes Heart Blood and calms the spirit, easing palpitations and anxiety."
+        },
+        {
+          "id": 2844,
+          "pattern_id": 530,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "",
+          "description": "Calms the mind and improves sleep, reducing the mental fog and irritability that accompany a sugar crash."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1874,
+          "pattern_id": 530,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and Stomach to build Qi and Blood from food."
+        },
+        {
+          "id": 1875,
+          "pattern_id": 530,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Strengthens the Spleen and nourishes Blood, helping to stabilize energy levels."
+        },
+        {
+          "id": 1876,
+          "pattern_id": 530,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Heart spirit, reducing palpitations and anxiety during low blood sugar episodes."
+        },
+        {
+          "id": 1877,
+          "pattern_id": 530,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Directly tonifies the Spleen to improve its function of transforming food into usable energy."
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "condition_id": 107,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Night sweats and afternoon heat\", \"Dry mouth and throat with desire for small sips\", \"Heat in palms, soles, and chest (five-palm heat)\", \"Red, thin, dry tongue with cracks and little coating\", \"Irritability and difficulty sleeping\", \"Flushed cheekbones (malar flush)\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Overwork, exhaustion, or lack of sleep, Alcohol and coffee, Emotional stress and anger, Hot, dry environments",
+      "better_with": "Rest, sleep, and relaxation, Cool, moistening foods, Small, frequent meals, Gentle exercise (walking, tai chi)",
+      "why_this_happens": "When the body's cooling, nourishing Yin fluids are depleted over time, the digestive system loses its moisture and ability to transform food into stable blood sugar. The resulting emptiness creates a false heat that flares up, particularly in the afternoon and evening. This heat further consumes Qi and fluids, so the body burns through its energy reserves quickly and becomes prone to sudden blood sugar dips, especially after overwork, late nights, or when meals are skipped.",
+      "tongue_and_pulse": "Tongue: red, thin, and dry, often with cracks and little or no coating. Pulse: thready (fine) and rapid.",
+      "why_triggers_reliefs_work": "Yin is the body's cooling, moistening energy, and it is easily depleted by heat, overexertion, and insufficient rest. Spicy foods, alcohol, and emotional stress all generate internal heat, which further burns through Yin. Late nights prevent the body from rebuilding its Yin reserves. Rest, cool-natured foods, and gentle movement allow Yin to be replenished and keep the empty heat in check, so the body can maintain a steadier supply of blood sugar.",
+      "diet_and_lifestyle": "Prioritize cooling, moistening foods like pear, cucumber, watermelon, tofu, and mung beans. Avoid spicy, fried, or roasted foods, alcohol, and coffee, which all consume Yin. Keep a regular meal schedule and never skip meals. Go to bed before 11 p.m., as the hours before midnight are the most restorative for Yin. Gentle practices like Tai Chi or restorative yoga help calm the mind without overheating the body.",
+      "formulas": [
+        {
+          "id": 1215,
+          "pattern_id": 531,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Nourishes Kidney Yin and clears empty heat, addressing the root deficiency and the flaring heat that destabilizes blood sugar."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2845,
+          "pattern_id": 531,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Ophiopogon tuber enriches Stomach and Lung Yin, generating fluids to ease the dry mouth and thirst."
+        },
+        {
+          "id": 2846,
+          "pattern_id": 531,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Anemarrhena rhizome clears empty heat without drying, calming the internal restlessness."
+        },
+        {
+          "id": 2847,
+          "pattern_id": 531,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Phellodendron bark drains Kidney fire, preventing the false heat from consuming more Yin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1878,
+          "pattern_id": 531,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel; strongly nourishes Kidney Yin to anchor the false heat."
+        },
+        {
+          "id": 1879,
+          "pattern_id": 531,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Intersection of the Spleen, Liver, and Kidney channels; tonifies Yin and calms the spirit."
+        },
+        {
+          "id": 1880,
+          "pattern_id": 531,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Kidney Yin, benefits the throat, and helps resolve the dry mouth."
+        },
+        {
+          "id": 1881,
+          "pattern_id": 531,
+          "acupoint_code": "KI-7",
+          "acupoint_name": "Fuliu KI-7",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/fuliu-ki-7",
+          "translation": "F&#xF9; Li&#x16B;",
+          "properties": "Resolves Dampness, Tonifies Kidneys",
+          "description": "Regulates sweating and tonifies Kidney Yin, especially useful for night sweats."
+        },
+        {
+          "id": 1882,
+          "pattern_id": 531,
+          "acupoint_code": "HT-6",
+          "acupoint_name": "Yinxi HT-6",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/yinxi-ht-6",
+          "translation": "Y&#x12B;n X&#x12B;",
+          "properties": "Nourishes Heart Yin and clears Empty-Heat of the Heart, Invigorates Heart Blood",
+          "description": "Cleft point of the Heart channel; clears empty heat and stops night sweats."
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "condition_id": 107,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "pattern_slug": "liver-wind-agitating-internally-due-to-liver-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Fine trembling of hands and feet\", \"Numbness or tingling in the limbs\", \"Dizziness and blurred vision\", \"Pale or sallow complexion\", \"Symptoms worsen when hungry or after skipping meals\"]",
+      "worse_with": "Skipping meals or prolonged fasting, Emotional stress or frustration, Overwork, exhaustion, or lack of sleep, Excessive sweating or blood loss",
+      "better_with": "Warm, easily digested foods (soups, stews, congees), Rest, sleep, and relaxation, Reducing stress, Regular meal times",
+      "why_this_happens": "When the Liver lacks sufficient Blood, it cannot anchor the body's Qi. That unanchored Qi can surge upward as internal Wind, producing the trembling, numbness, and dizziness that often strike during a low blood sugar episode. The underlying Blood deficiency also means the brain and muscles are poorly nourished, so even a mild drop in sugar triggers these shaky, light-headed symptoms.",
+      "tongue_and_pulse": "Tongue: pale, thin, and may tremble when extended, with a thin white coating. Pulse: fine (细 xì) and wiry (弦 xián), especially at the left Guan position.",
+      "why_triggers_reliefs_work": "Skipping meals depletes the Qi and Blood that the Liver needs to anchor Qi, so internal Wind rises. Emotional stress stirs Liver Qi, further destabilizing it. Rest and nourishing food allow Blood to be replenished, calming the Wind and steadying the body.",
+      "diet_and_lifestyle": "Eat small, frequent meals with blood-nourishing foods like dark leafy greens, red meat, eggs, black sesame, and goji berries. Avoid long gaps without food. Gentle movement like walking or tai chi helps Qi flow without depleting Blood. Prioritize sleep and manage stress to protect Liver Blood.",
+      "formulas": [
+        {
+          "id": 1216,
+          "pattern_id": 532,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "Nourishes Liver Blood to anchor Qi and extinguish internal Wind."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2848,
+          "pattern_id": 532,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and moves Liver Blood."
+        },
+        {
+          "id": 2849,
+          "pattern_id": 532,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver, nourishes Blood, and calms spasms."
+        },
+        {
+          "id": 2850,
+          "pattern_id": 532,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Extinguishes internal Wind and steadies trembling."
+        },
+        {
+          "id": 2851,
+          "pattern_id": 532,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Blood and Yin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1883,
+          "pattern_id": 532,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes Liver Qi and extinguishes Wind."
+        },
+        {
+          "id": 1884,
+          "pattern_id": 532,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to produce more Blood."
+        },
+        {
+          "id": 1885,
+          "pattern_id": 532,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Liver and Spleen."
+        },
+        {
+          "id": 1886,
+          "pattern_id": 532,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Tonifies Liver Blood directly."
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "condition_id": 107,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "pattern_slug": "turbid-phlegm-blocks-orifices",
+      "is_common": 0,
+      "symptoms": "[\"Clouded or confused consciousness\", \"Rattling phlegm sound in the throat\", \"Slurred or impaired speech\", \"Heavy-headedness or feeling the head is wrapped\", \"Greasy white tongue coating\"]",
+      "worse_with": "Alcohol or overeating, Raw, cold, or greasy foods/drinks, Damp weather, Emotional stress, worry, or overthinking, Skipping meals or prolonged fasting",
+      "better_with": "Warm, easily digested foods (soups, stews, congees), Rest, sleep, and relaxation, Gentle exercise (walking, tai chi), Warm and dry environment",
+      "why_this_happens": "When the Spleen is weakened by rich food, alcohol, or irregular eating, it fails to transform fluids properly. Dampness accumulates and thickens into turbid phlegm, which can rise to the head and cloud the mind’s orifices. This causes the mental fog, slurred speech, and even loss of consciousness that can accompany a severe hypoglycemic episode.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, thick white greasy-slippery coating. Pulse: slippery (滑 huá), wiry (弦 xián), especially slippery at the right Guan position.",
+      "why_triggers_reliefs_work": "Phlegm arises from Spleen weakness and dampness. Greasy, cold, or raw foods create more dampness, while alcohol and overeating overwhelm the Spleen, directly producing turbid phlegm. Warm, light meals and gentle movement support the Spleen’s ability to transform fluids, and rest calms the mind, preventing phlegm from clouding consciousness. Emotional stress stagnates Qi, which further hinders fluid metabolism and thickens phlegm.",
+      "diet_and_lifestyle": "Avoid heavy, greasy, sweet, and cold raw foods that generate dampness. Eat warm, cooked meals in small frequent portions to avoid overloading the Spleen. Stay away from alcohol, which directly creates phlegm and heat. Gentle daily movement like walking helps move Qi and clear phlegm from the head.",
+      "formulas": [
+        {
+          "id": 1217,
+          "pattern_id": 533,
+          "formula_name": "Su He Xiang Wan",
+          "formula_url": "/knowledge-base/formulas/su-he-xiang-wan",
+          "translation": "Storax Pill &#xB7; T&#xE1;ng dynasty, ~752 CE (originally as Ch&#x12B; L&#xEC; G&#x101; W&#xE1;n); current name established in S&#xF2;ng dynasty, ~1078&#x2013;1151 CE",
+          "properties": "Warm, Opens the Orifices and Revives Consciousness, Dispels Cold and eliminates turbidity, Moves Qi",
+          "description": "Aromatic and warming pill that opens the orifices, transforms turbid phlegm, and restores consciousness during acute episodes."
+        },
+        {
+          "id": 1218,
+          "pattern_id": 533,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine."
+        },
+        {
+          "id": 1219,
+          "pattern_id": 533,
+          "formula_name": "Xiang Sha Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+          "translation": "Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation",
+          "description": "A classical formula designed to strengthen weak digestion and relieve bloating, nausea, and abdominal discomfort caused by a weak Spleen and Stomach with dampness and stagnation. It builds upon the foundational Si Jun Zi Tang (Four Gentlemen Decoction) by adding herbs that move Qi and resolve phlegm, making it especially suited for people whose digestive weakness is accompanied by a feeling of fullness, poor appetite, and loose stools."
+        },
+        {
+          "id": 1220,
+          "pattern_id": 533,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        },
+        {
+          "id": 1221,
+          "pattern_id": 533,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 1222,
+          "pattern_id": 533,
+          "formula_name": "Tian Wang Bu Xin Dan",
+          "formula_url": "/knowledge-base/formulas/tian-wang-bu-xin-dan",
+          "translation": "Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi",
+          "description": "A classical formula for people who have trouble sleeping and feel restless due to overwork or prolonged mental exertion. It nourishes the body&#x27;s Yin and Blood while calming the mind and clearing low-grade internal heat. Often used for insomnia with palpitations, forgetfulness, night sweats, and a general sense of mental exhaustion."
+        },
+        {
+          "id": 1223,
+          "pattern_id": 533,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 1224,
+          "pattern_id": 533,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "A classical formula known as the foundation of all blood-nourishing prescriptions in Chinese medicine. It gently replenishes and activates the Blood, and is widely used for conditions related to Blood deficiency such as pale complexion, dizziness, menstrual irregularities, and abdominal pain. Often called the &#x27;number one formula for women&#x27;s health,&#x27; it serves as a base that practitioners modify for a wide range of Blood-related conditions."
+        },
+        {
+          "id": 1225,
+          "pattern_id": 533,
+          "formula_name": "Su He Xiang Wan",
+          "formula_url": "/knowledge-base/formulas/su-he-xiang-wan",
+          "translation": "Storax Pill &#xB7; T&#xE1;ng dynasty, ~752 CE (originally as Ch&#x12B; L&#xEC; G&#x101; W&#xE1;n); current name established in S&#xF2;ng dynasty, ~1078&#x2013;1151 CE",
+          "properties": "Warm, Opens the Orifices and Revives Consciousness, Dispels Cold and eliminates turbidity, Moves Qi",
+          "description": "A classical emergency pill formula used to revive consciousness and relieve pain in situations where cold, turbidity, or phlegm have suddenly blocked the mind and caused collapse or fainting. It is intensely aromatic, warming, and penetrating, designed primarily for acute episodes of cold-type loss of consciousness, sudden chest or abdominal pain, and conditions where the body&#x27;s Qi circulation has been severely obstructed by cold and turbid factors."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2852,
+          "pattern_id": 533,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Opens the orifices and transforms turbid phlegm, clearing the mind."
+        },
+        {
+          "id": 2853,
+          "pattern_id": 533,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, harmonizing the stomach to prevent further phlegm formation."
+        },
+        {
+          "id": 2854,
+          "pattern_id": 533,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 2855,
+          "pattern_id": 533,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 2856,
+          "pattern_id": 533,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 2857,
+          "pattern_id": 533,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "Neutral, Benefits Qi and Nourishes Yin, Tonifies the Spleen and nourishes the Stomach, Clears Lung Heat and Generates Fluids",
+          "description": ""
+        },
+        {
+          "id": 2858,
+          "pattern_id": 533,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 2859,
+          "pattern_id": 533,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 2860,
+          "pattern_id": 533,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        },
+        {
+          "id": 2861,
+          "pattern_id": 533,
+          "herb_name": "Long Yan Rou",
+          "herb_url": "/knowledge-base/herbs/long-yan-rou",
+          "translation": "Longan Fruit Flesh",
+          "properties": "Warm, Tonifies the Heart and Spleen, Nourishes Blood, Calms the Spirit",
+          "description": ""
+        },
+        {
+          "id": 2862,
+          "pattern_id": 533,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating",
+          "description": ""
+        },
+        {
+          "id": 2863,
+          "pattern_id": 533,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 2864,
+          "pattern_id": 533,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 2865,
+          "pattern_id": 533,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 2866,
+          "pattern_id": 533,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 2867,
+          "pattern_id": 533,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 2868,
+          "pattern_id": 533,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 2869,
+          "pattern_id": 533,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach",
+          "description": ""
+        },
+        {
+          "id": 2870,
+          "pattern_id": 533,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1887,
+          "pattern_id": 533,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Opens the orifices and clears the mind, lifting the clouding effect of phlegm."
+        },
+        {
+          "id": 1888,
+          "pattern_id": 533,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point for transforming phlegm and dispelling dampness throughout the body."
+        },
+        {
+          "id": 1889,
+          "pattern_id": 533,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Calms the spirit and opens the chest, supporting clear thinking and smooth Qi flow."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 679,
+      "condition_id": 107,
+      "question": "Can TCM help if I'm not diabetic but still get low blood sugar?",
+      "answer": "Yes, this is actually one of TCM's strengths. Non-diabetic hypoglycemia often reflects an underlying Spleen Qi or Qi and Yin deficiency - the digestive system simply isn't producing enough stable energy from food. TCM treatment focuses on strengthening the Spleen and Stomach so your body can maintain blood sugar between meals without crashing. Many non-diabetic patients see fewer episodes and better energy within a few weeks of herbs and acupuncture."
+    },
+    {
+      "id": 680,
+      "condition_id": 107,
+      "question": "How does acupuncture raise blood sugar?",
+      "answer": "Acupuncture doesn't directly inject glucose - instead, it regulates the nervous and digestive systems to improve the body's own blood sugar control. Points like Zusanli ST-36 and Sanyinjiao SP-6 strengthen the Spleen and Stomach's ability to extract energy from food, while points like Guanyuan REN-4 build the body's reserves. Research suggests acupuncture can modulate insulin sensitivity and counter-regulatory hormones, helping to stabilize blood sugar naturally."
+    },
+    {
+      "id": 681,
+      "condition_id": 107,
+      "question": "Can I stop using glucose tablets if I'm doing TCM?",
+      "answer": "No - always keep fast-acting sugar on hand for acute episodes. TCM herbs and acupuncture are not a substitute for emergency treatment. Over time, as your body's ability to maintain blood sugar improves, you may find you need glucose tablets less often, but never stop carrying them without your doctor's approval. Severe hypoglycemia requires immediate sugar, not acupuncture."
+    },
+    {
+      "id": 682,
+      "condition_id": 107,
+      "question": "Is TCM safe to combine with my diabetes medications?",
+      "answer": "Yes, but coordination is essential. Some herbs used in TCM (such as Ren Shen and Huang Qi) can lower blood sugar, which may amplify the effects of insulin or sulfonylureas and increase the risk of hypoglycemia. Always tell both your TCM practitioner and your prescribing doctor about everything you're taking. Your medication doses may need adjustment as your blood sugar stabilizes - but only your doctor should make those changes, with careful monitoring."
+    },
+    {
+      "id": 683,
+      "condition_id": 107,
+      "question": "How soon will I feel better?",
+      "answer": "Most patients notice fewer energy dips and less intense shakiness within 2-4 weeks of starting weekly acupuncture and daily herbs. Over 4-8 weeks, the frequency of hypoglycemic episodes typically drops. For deep, long-standing deficiency patterns, full rebuilding may take 3-6 months, but improvement is usually steady and cumulative."
+    },
+    {
+      "id": 684,
+      "condition_id": 107,
+      "question": "Do I have to change my diet?",
+      "answer": "Diet is a cornerstone of TCM treatment for low blood sugar. You don't need a radical overhaul, but eating warm, cooked meals at regular times makes a big difference. Favor soups, stews, and congees; avoid cold, raw foods and icy drinks that weaken the Spleen. Small, frequent meals (every 3-4 hours) help maintain steady fuel. Your practitioner will give you specific guidance based on your pattern."
+    },
+    {
+      "id": 685,
+      "condition_id": 107,
+      "question": "What about severe episodes with confusion or passing out?",
+      "answer": "Severe hypoglycemia is a medical emergency - use glucagon or call emergency services immediately. TCM can help reduce the frequency of severe episodes over time by strengthening the underlying deficiency, but it does not replace emergency care. For patterns like Turbid Phlegm that cause confusion, specific herbs and points may help clear the mind, but this is preventive, not a rescue treatment."
+    },
+    {
+      "id": 686,
+      "condition_id": 107,
+      "question": "Is TCM safe during pregnancy if I have low blood sugar?",
+      "answer": "Many TCM treatments are safe and even beneficial during pregnancy, as they can support the Spleen and Blood that are crucial for both mother and baby. However, certain herbs and acupuncture points are contraindicated in pregnancy. Always inform your practitioner if you are pregnant or trying to conceive, and work with someone experienced in prenatal TCM care."
+    }
+  ],
+  "research": [
+    {
+      "id": 158,
+      "condition_id": 107,
+      "title": "Therapeutic effect of Sheng Mai San, a traditional Chinese medicine formula, on Qi and Yin deficiency syndrome: A systematic review and meta-analysis",
+      "description": "This systematic review and meta-analysis evaluated the efficacy of Sheng Mai San for conditions characterized by Qi and Yin Deficiency. The analysis found that Sheng Mai San significantly improved fatigue, dry mouth, and weak pulse compared to placebo or conventional treatment, supporting its use in hypoglycemia rooted in this pattern.",
+      "url": "https://doi.org/10.3389/fphar.2024.1426803",
+      "periodical": "Li J, et al. Front Pharmacol. 2024;15:1426803."
+    }
+  ]
+}

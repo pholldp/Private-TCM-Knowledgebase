@@ -1,0 +1,795 @@
+{
+  "id": 586,
+  "name": "Thrombophlebitis",
+  "url": "/knowledge-base/conditions/thrombophlebitis",
+  "kind": "Condition",
+  "pinyin": "xuè shuān xìng jìng mài yán",
+  "chinese_name": "血栓性静脉炎",
+  "preview_text": "A red, hot, swollen leg with a greasy yellow tongue coating points to Damp-Heat; a dark, purplish, hardened cord with stabbing pain signals Blood Stagnation with Heat. With the rig...",
+  "categories": "[\"Blood & Vascular Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[]",
+  "conventional_description": "Thrombophlebitis is inflammation of a vein caused by a blood clot. It typically occurs in the legs, causing pain, swelling, redness, and warmth along the affected vein. Superficial thrombophlebitis affects veins near the skin's surface, while deep vein thrombosis (DVT) involves deeper veins and carries a risk of the clot breaking loose and traveling to the lungs (pulmonary embolism). Diagnosis is usually made with ultrasound imaging.",
+  "conventional_treatments": "Treatment depends on whether the clot is superficial or deep. Superficial thrombophlebitis is often managed with warm compresses, compression stockings, and nonsteroidal anti-inflammatory drugs (NSAIDs). Deep vein thrombosis requires anticoagulant medications (blood thinners) like heparin or warfarin to prevent clot extension and embolism. In some cases, thrombolytic therapy or surgical removal may be necessary.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands thrombophlebitis as a condition of obstructed blood flow in the veins, but the obstruction is rarely just a simple clot. It's always a combination of Blood Stasis - the blood is not moving properly - and another factor that caused it to stagnate and congeal. That second factor might be Damp-Heat (heavy, hot moisture clogging the vessels), Cold-Dampness (cold and moisture slowing circulation), or even a deep deficiency of Yang energy that fails to warm and move the blood.\nThe Spleen plays a central role because it transforms fluids and keeps them moving. When the Spleen is weak, dampness accumulates, and this dampness can combine with heat from emotional stress or diet to create Damp-Heat. Damp-Heat is heavy and sticky; it sinks to the legs and obstructs the veins, causing the classic red, hot, swollen limb. If the heat intensifies, it can become toxic, damaging the vein wall and leading to ulceration - a pattern called Toxic-Heat.\nAlternatively, if the body's Yang energy is deficient - often from chronic illness or aging - the blood vessels lose their warmth and propulsion. Cold and dampness congeal, leading to a pale, cold, heavy limb with chronic swelling. This is the Kidney and Spleen Yang Deficiency pattern. And after the acute inflammation resolves, the body may be left depleted of Qi and Blood, resulting in lingering weakness and a tendency for the clot to recur.\nBecause each pattern has a different root, TCM treatment is tailored. One person needs cooling and drying herbs to clear Damp-Heat, another needs warming and strengthening herbs to rebuild Yang. This is why a single Western diagnosis like thrombophlebitis maps to multiple TCM patterns - and why the same medication doesn't work for everyone.",
+  "classical_quote": "「血受热则煎熬成块。」",
+  "classical_translation": "\"When blood is invaded by heat, it is scorched and congeals into clots. This passage from Wang Qingren's 1830 treatise directly describes the pathogenesis of thrombophlebitis: stagnant blood, when combined with heat, forms solid obstructions in the vessels.\"",
+  "classical_source": "Yi Lin Gai Cuo (Correction of Errors in the Medical World)  ,  Volume 1, Section on Blood Stasis \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first inspects the limb's color and temperature. A red, hot, swollen, and painful limb with a greasy yellow tongue coating and a slippery rapid pulse points to Damp-Heat-heat and moisture clogging the vessels.\nIf the limb is instead dark purple, feels warm but not intensely hot, and the pain is a deep ache with a purplish tongue and a wiry or choppy rapid pulse, Blood Stagnation with Heat is the core, where stagnant blood generates local heat.\nWhen the inflammation escalates to intense redness, possible ulceration, and severe pain, accompanied by systemic fever and a deep-red tongue with a yellow greasy coating and a flooding rapid pulse, Toxic-Heat has developed. This dangerous intensification creates toxic fire from heat and stasis, demanding immediate recognition and strong heat-clearing, detoxifying herbs.\nIf the limb feels heavy, numb, and cold to the touch, with pale skin, aversion to cold, and a white greasy tongue coating with a deep thready slow pulse, Damp-Cold is obstructing the channels.\nIn contrast, when morning edema, a sore lower back, and cold intolerance dominate, with a pale tongue and thin white coating and a deep thready pulse, the root is Kidney and Spleen Yang Deficiency-the body lacks the warmth to move fluids.\nIn the recovery or chronic atrophic phase, the pain is mild, the limb muscles may waste, and the skin becomes dry. The tongue appears pale and swollen with a white slippery coating, and the pulse is deep, thready, and weak. This Qi and Blood Deficiency pattern reflects depleted resources after a long illness, calling for gentle nourishment rather than strong dispersing methods.",
+  "patterns": [
+    {
+      "id": 2830,
+      "condition_id": 586,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Swollen, hot, painful limb\", \"Red or dark red skin over the affected vein\", \"Heavy, dragging sensation in the limb\", \"Yellow greasy tongue coating\", \"Slippery rapid pulse\", \"Bitter taste or sticky sensation in the mouth\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol, Hot or humid weather, Prolonged sitting or standing",
+      "better_with": "Elevating the leg, Cool compresses, Light, bland meals, Gentle walking",
+      "why_this_happens": "Damp-Heat is a combination of excess moisture and heat that builds up inside the body, often from diet, environment, or impaired digestion. In thrombophlebitis, this heavy, hot, sticky pathogen sinks down into the lower limbs, obstructing the flow of Qi and Blood in the veins. The blockage causes swelling, redness, and a hot, painful sensation along the affected vein. The greasy nature of Dampness makes the inflammation linger and the limb feel heavy.",
+      "tongue_and_pulse": "Tongue: red body with a thick yellow greasy coating. Pulse: slippery and rapid (滑数 Huá Shuò).",
+      "why_triggers_reliefs_work": "Damp-Heat thrives on heavy, greasy foods and stagnant, humid conditions, which add more moisture and heat to the body. Cooling, light foods and elevating the limb help drain excess fluid and reduce inflammation. Gentle movement encourages circulation, preventing further stasis, while rest and cool applications calm the local heat.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sweet foods that create Damp-Heat. Eat cooling, light foods like barley, mung beans, cucumber, and celery. Stay hydrated but avoid excessive cold drinks. Gentle walking and elevating the leg when resting help circulation and reduce swelling.",
+      "formulas": [
+        {
+          "id": 6457,
+          "pattern_id": 2830,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "This classic formula clears Damp-Heat, drains dampness, and guides the action to the lower limbs, reducing swelling and inflammation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15114,
+          "pattern_id": 2830,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens the Spleen to prevent further accumulation."
+        },
+        {
+          "id": 15115,
+          "pattern_id": 2830,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness, reduces swelling, and cools Heat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10188,
+          "pattern_id": 2830,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains Dampness from the lower burner and alleviates swelling."
+        },
+        {
+          "id": 10189,
+          "pattern_id": 2830,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and resolves stasis, reducing heat and pain."
+        },
+        {
+          "id": 10190,
+          "pattern_id": 2830,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen and drains Damp-Heat from the lower body."
+        },
+        {
+          "id": 10191,
+          "pattern_id": 2830,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to transform Dampness and supports overall Qi."
+        }
+      ]
+    },
+    {
+      "id": 2831,
+      "condition_id": 586,
+      "pattern_name": "Blood Stagnation with Heat",
+      "pattern_slug": "blood-stagnation-with-heat",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain in the vein\", \"Dark purplish discoloration of the skin\", \"Sensation of local warmth\", \"Pain worse at night and with pressure\", \"Thirst with desire to rinse mouth but not swallow\", \"Restlessness and irritability\"]",
+      "worse_with": "Stress and anger, Spicy, greasy, or fried foods, Hot or humid weather, Prolonged sitting or standing",
+      "better_with": "Elevating the leg, Cool compresses, Gentle walking, Drinking plenty of water",
+      "why_this_happens": "In thrombophlebitis, blood stasis is the root cause. When blood flow becomes sluggish and obstructed in the veins, it can stagnate for a long time, and this long-standing stasis generates heat. The heat further thickens and congeals the blood, creating a vicious cycle that results in a hard, dark, and painful vein with a distinct sensation of warmth.",
+      "tongue_and_pulse": "Tongue: reddish-purple body with stasis spots, distended sublingual veins, and a thin dry yellow coating. Pulse: choppy (涩 sè) and rapid (数 shuò), often wiry (弦 xián) at the left Guan position.",
+      "why_triggers_reliefs_work": "Spicy foods and hot weather introduce external or dietary heat that fans the flames of the blood stasis heat, making the vein more swollen and painful. Prolonged immobility allows blood to stagnate further, while stress stirs Liver Qi, which can lead to more stasis and heat. Cooling measures and gentle movement help clear heat and move blood, breaking the vicious cycle.",
+      "diet_and_lifestyle": "Choose cooling, blood-moving foods like celery, eggplant, mung beans, and plenty of water. Strictly avoid spicy, greasy, and fried foods that add heat. Gentle walking and keeping the legs elevated help circulation, but avoid prolonged standing or sitting. A cool compress can soothe local warmth.",
+      "formulas": [
+        {
+          "id": 6458,
+          "pattern_id": 2831,
+          "formula_name": "Tao He Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/tao-he-cheng-qi-tang",
+          "translation": "Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels",
+          "description": "This formula breaks up static blood and drains heat downward, directly addressing the root of blood stasis generating heat in the affected vein."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15116,
+          "pattern_id": 2831,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks blood stasis and promotes circulation, essential for dissolving the hard, clotted mass."
+        },
+        {
+          "id": 15117,
+          "pattern_id": 2831,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks the channels, reducing pain and discoloration."
+        },
+        {
+          "id": 15118,
+          "pattern_id": 2831,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Cools the blood and moves stasis, easing the local warmth and swelling."
+        },
+        {
+          "id": 15119,
+          "pattern_id": 2831,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Drains heat and pushes out stagnant blood, relieving the sensation of heat and fullness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10192,
+          "pattern_id": 2831,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools and invigorates blood to break stasis in the lower limbs."
+        },
+        {
+          "id": 10193,
+          "pattern_id": 2831,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Moves Liver Qi and blood, smoothing the flow and reducing pain."
+        },
+        {
+          "id": 10194,
+          "pattern_id": 2831,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat from the body and helps calm the restlessness that accompanies blood stasis heat."
+        },
+        {
+          "id": 10195,
+          "pattern_id": 2831,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes blood and resolves stasis, supporting the healing of the vein."
+        }
+      ]
+    },
+    {
+      "id": 2832,
+      "condition_id": 586,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"Dark red, swollen limb that may ulcerate or form pus\", \"Intense, burning pain that is worse with heat\", \"High fever with restlessness and irritability\", \"Intense thirst for cold drinks, dark scanty urine, constipation\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol, Heat exposure (hot baths, sauna), Stress and anger",
+      "better_with": "Cool compresses, Elevating the leg, Cooling foods (mung beans, cucumber), Drinking plenty of water",
+      "why_this_happens": "When stagnant blood and dampness in the vessels are not cleared, they can smolder and intensify into a toxic fire that scorches the blood and tissues. This toxic heat directly damages the vein walls, causing severe redness, swelling, and a tendency to ulcerate, with intense burning pain. The toxin also spreads beyond the local area, triggering systemic signs like high fever, extreme thirst, and restlessness as the body’s fluids are consumed.",
+      "tongue_and_pulse": "Tongue: deep red body with prickly thorns and dry yellow or greasy coating. Pulse: flooding (hong) and rapid (shu), forceful.",
+      "why_triggers_reliefs_work": "Toxic heat is a fiery, aggressive pathogen that thrives on more heat and dampness. Spicy foods, alcohol, and external heat feed the fire and worsen inflammation, while stress and anger stir up liver fire that fans the toxin. Cooling foods and compresses directly counter the heat, rest prevents further irritation, and hydration helps replenish the fluids that the fever and toxin consume.",
+      "diet_and_lifestyle": "Avoid all spicy, greasy, and fried foods, as well as alcohol, which add heat and dampness. Eat cooling, detoxifying foods like mung beans, cucumber, watermelon, and dandelion greens. Rest the affected limb and keep it elevated; gentle movement is okay, but avoid overheating. Drink plenty of water to help cool the blood and flush toxins.",
+      "formulas": [
+        {
+          "id": 6459,
+          "pattern_id": 2832,
+          "formula_name": "Si Miao Yong An Tang",
+          "formula_url": "/knowledge-base/formulas/si-miao-yong-an-tang",
+          "translation": "Four Valiant Ingredients Decoction for Well-Being &#xB7; Q&#x12B;ng dynasty, 1846 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Invigorates Blood and Dispels Stasis, Alleviates Pain",
+          "description": "Clears heat, resolves toxin, cools blood, and invigorates blood to relieve the severe pain, redness, and ulceration of toxic-heat thrombophlebitis."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15120,
+          "pattern_id": 2832,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxin, the primary herb for toxic fire in the blood."
+        },
+        {
+          "id": 15121,
+          "pattern_id": 2832,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "",
+          "description": "Cools blood and nourishes yin to counteract the fluid damage caused by intense heat."
+        },
+        {
+          "id": 15122,
+          "pattern_id": 2832,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Invigorates blood and reduces swelling, ensuring that cooling herbs do not congeal blood stasis."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10196,
+          "pattern_id": 2832,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Reducing. Cools blood and invigorates blood to clear heat and resolve stasis."
+        },
+        {
+          "id": 10197,
+          "pattern_id": 2832,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "Reducing. Clears heat from the Lung and cools blood in the upper body."
+        },
+        {
+          "id": 10198,
+          "pattern_id": 2832,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Reducing. Drains damp-heat from the lower burner and eases swelling."
+        },
+        {
+          "id": 10199,
+          "pattern_id": 2832,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reducing. Clears liver fire and invigorates blood to relieve pain."
+        }
+      ]
+    },
+    {
+      "id": 2833,
+      "condition_id": 586,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "pattern_slug": "kidney-and-spleen-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Limb edema worse in the morning\", \"Cold intolerance and cold limbs\", \"Sore and cold lower back and knees\", \"Chronic loose stools or early-morning diarrhea\", \"Tiredness and lack of energy\"]",
+      "worse_with": "Cold weather or drafts, Prolonged sitting or standing, Overexertion or overwork, Raw or cold foods",
+      "better_with": "Warmth and warm compresses, Elevating the leg, Gentle walking, Moxibustion",
+      "why_this_happens": "When the warming fire of the Kidneys and the transforming power of the Spleen are both weak, the body cannot move fluids or keep blood vessels warm. Cold and damp accumulate, slowing circulation and causing blood to congeal in the veins of the legs. The result is chronic, pitting edema and aching that is worse in the morning, because Yang is at its lowest after a night of rest.",
+      "tongue_and_pulse": "Tongue: pale, swollen, and puffy with teeth marks; white slippery coating. Pulse: deep, weak, and slow.",
+      "why_triggers_reliefs_work": "Cold and overwork deplete the body's Yang, the very energy needed to warm the blood and move fluids. Warmth, rest, and gentle movement support Yang, encouraging fluid drainage and easing pain. Elevation assists the weakened Spleen's ability to return fluids upward, while moxibustion adds warming energy directly into the meridians.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and stews; avoid raw, cold, and greasy items. Keep the legs elevated when resting and wear warm socks. Gentle daily walking helps circulation, but avoid standing still for long periods.",
+      "formulas": [
+        {
+          "id": 6460,
+          "pattern_id": 2833,
+          "formula_name": "Zhen Wu Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-wu-tang",
+          "translation": "True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness",
+          "description": "The classic formula to warm Kidney and Spleen Yang, dispel cold, and transform water, directly addressing the edema and coldness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15123,
+          "pattern_id": 2833,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms the Kidney Yang and dispels deep cold, reigniting the body&#x27;s warming fire."
+        },
+        {
+          "id": 15124,
+          "pattern_id": 2833,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, supporting fluid transformation."
+        },
+        {
+          "id": 15125,
+          "pattern_id": 2833,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out excess dampness and reduces swelling without damaging the Spleen."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10200,
+          "pattern_id": 2833,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxibustion here warms Kidney Yang and fortifies the lower back."
+        },
+        {
+          "id": 10201,
+          "pattern_id": 2833,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Moxibustion on this point strengthens Spleen Yang and improves fluid metabolism."
+        },
+        {
+          "id": 10202,
+          "pattern_id": 2833,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Yang, boosting overall energy and limb circulation."
+        },
+        {
+          "id": 10203,
+          "pattern_id": 2833,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Directly invigorates the life-gate fire, warming the whole body."
+        }
+      ]
+    },
+    {
+      "id": 2834,
+      "condition_id": 586,
+      "pattern_name": "Damp-Cold",
+      "pattern_slug": "damp-cold",
+      "is_common": 0,
+      "symptoms": "[\"Limb feels heavy, numb, and cold to the touch\", \"Pale or slightly dusky skin, no redness or heat\", \"Aversion to cold, preference for warmth\", \"Pain or stiffness worse in cold, damp weather\", \"Poor appetite, loose stools, or a bland taste in the mouth\"]",
+      "worse_with": "Cold weather or drafts, Prolonged sitting or standing, Raw or cold foods",
+      "better_with": "Warmth and warm compresses, Gentle walking, Warm, cooked meals, Moxibustion",
+      "why_this_happens": "When the body is exposed to prolonged cold and dampness, or when the Spleen's ability to transform fluids is weak, Cold and Dampness can combine and seep into the channels. This heavy, sticky obstruction slows the flow of Qi and blood, causing the limb to feel heavy, numb, and cold. The sluggish circulation allows blood to stagnate locally, forming a clot that feels like a hard cord under the skin, but without the redness and heat seen in hotter patterns.",
+      "tongue_and_pulse": "Tongue: pale, swollen, often with teeth marks, and a thick white greasy coating that looks excessively moist. Pulse: deep, slow, and slippery or soggy.",
+      "why_triggers_reliefs_work": "Damp-Cold is heavy, sticky, and contracting by nature. Cold and moisture from the environment or diet directly feed the pattern, thickening the Dampness and further slowing circulation, which makes the limb feel colder and more painful. Warmth and drying methods do the opposite-they melt the Cold, evaporate the Dampness, and get Qi and blood moving again, which is why moxibustion, warm food, and gentle exercise bring relief.",
+      "diet_and_lifestyle": "Keep the affected limb warm with soft wool or cotton coverings, and avoid exposure to cold, damp environments. Eat warm, cooked foods like soups and stews, and include warming spices such as ginger, cinnamon, and black pepper. Gentle daily movement like walking helps keep Qi and blood moving, but avoid overexertion or prolonged sitting. Moxibustion at home on the lower abdomen or legs can also provide deep, penetrating warmth.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 15126,
+          "pattern_id": 2834,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and promotes the flow of Yang Qi to the limbs."
+        },
+        {
+          "id": 15127,
+          "pattern_id": 2834,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens the Spleen to address the root of fluid accumulation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10204,
+          "pattern_id": 2834,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "With moxibustion. Strengthens the Spleen and Stomach to transform Dampness and generate Qi and blood."
+        },
+        {
+          "id": 10205,
+          "pattern_id": 2834,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "With moxibustion. Resolves Dampness and promotes circulation in the lower limbs."
+        },
+        {
+          "id": 10206,
+          "pattern_id": 2834,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "With moxibustion. Benefits the sinews and joints, and helps dispel Damp-Cold from the channels."
+        },
+        {
+          "id": 10207,
+          "pattern_id": 2834,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "With moxibustion. Warms the body&#x27;s fundamental Yang to drive out deep Cold."
+        }
+      ]
+    },
+    {
+      "id": 2835,
+      "condition_id": 586,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Mild, lingering dull ache\", \"Muscle wasting or thinning of the limb\", \"Dry, pale skin\", \"Persistent fatigue and weakness\", \"Dizziness or lightheadedness\", \"Poor appetite\"]",
+      "worse_with": "Overexertion or overwork, Cold weather or drafts, Raw or cold foods, Stress and anger",
+      "better_with": "Rest and adequate sleep, Warm, cooked meals, Gentle walking, Elevating the leg",
+      "why_this_happens": "After the acute inflammation of thrombophlebitis subsides, the body's Qi and Blood are often left severely depleted. Without enough Qi to propel circulation and enough Blood to nourish the vessel walls, the veins become weak and fail to recover fully. This leads to lingering dull ache, muscle wasting, and a heavy sensation in the affected limb long after the redness and heat have gone.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, with a thin white coating. Pulse: deep, thready, and weak.",
+      "why_triggers_reliefs_work": "Qi and Blood Deficiency means the body's engine is running on empty. Overexertion and cold further drain the little Qi you have, while rest and warm, nutrient-dense foods provide the raw materials to rebuild. Gentle movement prevents blood from pooling without exhausting you, and elevating the limb uses gravity to assist the weakened veins.",
+      "diet_and_lifestyle": "Eat warm, easily digested, nourishing foods like chicken bone broth, congee with red dates, and gently cooked leafy greens. A small handful of goji berries daily can help build Blood. Avoid cold raw foods and iced drinks, which tax the Spleen. Gentle walking or tai chi is ideal-enough to move Qi and Blood without draining your reserves.",
+      "formulas": [
+        {
+          "id": 6461,
+          "pattern_id": 2835,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, restoring the nourishment needed for vessel repair and muscle recovery."
+        },
+        {
+          "id": 6462,
+          "pattern_id": 2835,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "A classical four-herb formula used to clear heat and dampness from the lower body. It is commonly applied for hot, swollen, painful joints (especially in the knees and feet), lower limb weakness, and conditions like gout and eczema that involve a combination of inflammation and heavy, waterlogged tissue. The formula works by cooling inflammation, drying excess moisture, strengthening digestion to stop dampness at its source, and directing the formula&#x27;s effects downward to the legs and lower body."
+        },
+        {
+          "id": 6463,
+          "pattern_id": 2835,
+          "formula_name": "Tao He Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/tao-he-cheng-qi-tang",
+          "translation": "Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels",
+          "description": "A classical formula used to break up blood stasis and clear heat from the lower abdomen. It is commonly applied for lower abdominal pain with a sense of tightness and fullness, dark-coloured menstrual blood or stools, restlessness, and nighttime fevers caused by stagnant blood binding with heat in the lower body."
+        },
+        {
+          "id": 6464,
+          "pattern_id": 2835,
+          "formula_name": "Si Miao Yong An Tang",
+          "formula_url": "/knowledge-base/formulas/si-miao-yong-an-tang",
+          "translation": "Four Valiant Ingredients Decoction for Well-Being &#xB7; Q&#x12B;ng dynasty, 1846 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Invigorates Blood and Dispels Stasis, Alleviates Pain",
+          "description": "A focused, four-herb formula designed to clear intense toxic heat from the blood vessels while restoring healthy blood circulation. Originally created for gangrene of the fingers and toes, it is now widely used for inflammatory vascular conditions such as Buerger&#x27;s disease, deep vein thrombosis, diabetic foot ulcers, and atherosclerosis when there are signs of heat, inflammation, and pain. The formula uses a small number of herbs in large doses for concentrated, powerful action."
+        },
+        {
+          "id": 6465,
+          "pattern_id": 2835,
+          "formula_name": "Zhen Wu Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-wu-tang",
+          "translation": "True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness",
+          "description": "A classical formula for people who feel persistently cold, experience swelling or puffiness (especially in the legs), have reduced urine output, and may suffer from dizziness, loose stools, or palpitations. These symptoms arise when the body&#x27;s warming energy is too weak to properly manage fluids, causing water to accumulate where it shouldn&#x27;t. Zhen Wu Tang warms the body&#x27;s core while gently helping it drain excess fluid through urination."
+        },
+        {
+          "id": 6466,
+          "pattern_id": 2835,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15128,
+          "pattern_id": 2835,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully boosts Qi to improve circulation and support tissue healing."
+        },
+        {
+          "id": 15129,
+          "pattern_id": 2835,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates Blood, helping to relieve the dull ache and dryness."
+        },
+        {
+          "id": 15130,
+          "pattern_id": 2835,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to build Qi and resolve residual dampness."
+        },
+        {
+          "id": 15131,
+          "pattern_id": 2835,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 15132,
+          "pattern_id": 2835,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 15133,
+          "pattern_id": 2835,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 15134,
+          "pattern_id": 2835,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 15135,
+          "pattern_id": 2835,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        },
+        {
+          "id": 15136,
+          "pattern_id": 2835,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 15137,
+          "pattern_id": 2835,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 15138,
+          "pattern_id": 2835,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "Cold, Clears Heat and Cools the Blood, Nourishes Yin and Generates Fluids, Purges Fire and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 15139,
+          "pattern_id": 2835,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 15140,
+          "pattern_id": 2835,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 15141,
+          "pattern_id": 2835,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 15142,
+          "pattern_id": 2835,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 15143,
+          "pattern_id": 2835,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 15144,
+          "pattern_id": 2835,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10208,
+          "pattern_id": 2835,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. The master point for building Qi and Blood after illness."
+        },
+        {
+          "id": 10209,
+          "pattern_id": 2835,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Nourishes Blood and supports the Spleen in transforming food into energy."
+        },
+        {
+          "id": 10210,
+          "pattern_id": 2835,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Tonify. Invigorates Blood circulation in the lower limbs without dispersing."
+        },
+        {
+          "id": 10211,
+          "pattern_id": 2835,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Moxibustion. Warms and tonifies the body&#x27;s core Qi to lift overall energy."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3816,
+      "condition_id": 586,
+      "question": "How does TCM treat thrombophlebitis differently from Western medicine?",
+      "answer": "Western medicine focuses on preventing clot extension and embolism with blood thinners, while TCM aims to resolve the root imbalance that caused the blood to stagnate in the first place. This means treatment is personalized: cooling and drying herbs for Damp-Heat, blood-moving herbs for stasis, or warming tonics for cold and deficiency. The goal is not just to manage the current clot but to restore healthy circulation so clots are less likely to form again."
+    },
+    {
+      "id": 3817,
+      "condition_id": 586,
+      "question": "Can I take Chinese herbs while on blood thinners?",
+      "answer": "It is possible, but requires close coordination with both your TCM practitioner and your prescribing doctor. Many Chinese herbs have mild blood-moving or antiplatelet effects, which could theoretically increase bleeding risk when combined with warfarin, heparin, or other anticoagulants. Never stop or adjust your medication without medical supervision. Always bring a full list of your medications to your TCM consultation, and keep your doctor informed about any herbs you are taking."
+    },
+    {
+      "id": 3818,
+      "condition_id": 586,
+      "question": "How long does it take to see results?",
+      "answer": "Most patients notice a reduction in pain and redness within the first 1-2 weeks of starting herbs. Swelling may take a bit longer to subside. Acupuncture typically provides some immediate relief of discomfort, but lasting improvement builds over several sessions. The total treatment duration depends on your pattern - acute heat patterns often resolve in 4-6 weeks, while chronic deficiency patterns may require 3-6 months to fully rebuild the body's strength and prevent recurrence."
+    },
+    {
+      "id": 3819,
+      "condition_id": 586,
+      "question": "Does acupuncture help with the pain of thrombophlebitis?",
+      "answer": "Yes, acupuncture can be very effective for reducing the local pain, heaviness, and discomfort of thrombophlebitis. Points on the affected limb and along the Spleen and Liver channels are selected to move stagnant blood and clear heat or dampness. Many patients experience a noticeable easing of pain after a session. However, acupuncture alone is rarely sufficient to dissolve a clot - it works best as part of a comprehensive plan that includes herbal medicine."
+    },
+    {
+      "id": 3820,
+      "condition_id": 586,
+      "question": "What dietary changes should I make?",
+      "answer": "Regardless of your pattern, avoid foods that create dampness and inflammation: greasy, fried, and heavily processed foods, excessive sugar, dairy, and alcohol. Eat light, easily digestible meals - steamed vegetables, lean proteins, and whole grains. Drink plenty of warm water to help keep the blood moving. If your pattern is hot, add cooling foods like cucumber and mung beans; if cold or deficient, favour warming spices like ginger and cooked rather than raw foods."
+    },
+    {
+      "id": 3821,
+      "condition_id": 586,
+      "question": "Is it safe to exercise with thrombophlebitis?",
+      "answer": "Gentle walking is usually encouraged to promote circulation, but avoid strenuous activity or prolonged standing that increases leg pressure. Always follow your doctor's advice regarding activity level, especially if you have a deep vein thrombosis. In TCM, moderate movement helps prevent Qi stagnation, but overexertion can weaken the Spleen and worsen dampness. Listen to your body and rest when the limb feels heavy or painful."
+    },
+    {
+      "id": 3822,
+      "condition_id": 586,
+      "question": "Can TCM prevent the clot from traveling to my lungs?",
+      "answer": "TCM is not a substitute for emergency medical care or anticoagulant therapy in preventing pulmonary embolism. If you have a diagnosed DVT, you must follow your doctor's treatment plan. TCM can support overall vascular health and reduce the underlying tendency toward clot formation, but it does not provide immediate protection against clot migration. Seek emergency care immediately if you experience sudden shortness of breath, chest pain, or coughing up blood."
+    }
+  ],
+  "research": []
+}

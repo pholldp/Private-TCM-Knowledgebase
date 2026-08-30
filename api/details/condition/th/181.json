@@ -1,0 +1,899 @@
+{
+  "id": 181,
+  "name": "แผลในกระเพาะอาหาร",
+  "url": "/knowledge-base/conditions/gastric-ulcer",
+  "kind": "Condition",
+  "pinyin": "wèi yáng",
+  "chinese_name": "胃疡",
+  "preview_text": "แผลในกระเพาะอาหารไม่เหมือนกันทั้งหมด แผลพุพองที่เกิดจากความเครียด แน่นเฟ้อ เรอ แผลเย็นที่รู้สึกดีขึ้นด้วยขวดน้ำร้อน แสบแห้งและเรอ...",
+  "categories": "[\"แผลในกระเพาะอาหารและโรคกระเพาะ\", \"ปัญหาทางเดินอาหาร\"]",
+  "body_regions": "[\"Abdomen — Upper\"]",
+  "synonyms": "[\"Gastric Ulcers\", \"Stomach Ulcer\", \"Stomach Ulcers\", \"Ulceration In The Stomach\"]",
+  "conventional_description": "A gastric ulcer is an open sore in the lining of the stomach. In conventional medicine, it's most commonly caused by infection with Helicobacter pylori bacteria or long-term use of non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen. The hallmark symptom is a burning or gnawing pain in the upper abdomen, often occurring between meals or at night, and sometimes relieved by eating or antacids.\nDiagnosis is typically made through endoscopy, where a camera is passed down the throat to directly view the ulcer and take biopsies. While acid-suppressing medications can heal the ulcer, the underlying vulnerability of the stomach lining often remains.",
+  "conventional_treatments": "Standard treatment includes proton pump inhibitors (PPIs) like omeprazole to reduce stomach acid, along with antibiotics if H. pylori is present. Antacids or H2 blockers may provide symptom relief. Patients are advised to avoid NSAIDs, alcohol, and spicy foods. Treatment usually lasts 4-8 weeks, and repeat endoscopy may be done to confirm healing.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the Stomach is seen as a pot that cooks and breaks down food, relying on a steady downward flow of Qi to move its contents through the digestive tract. When this downward movement is disrupted - by emotional stress, poor diet, or constitutional weakness - Qi stagnates, heat builds, or the lining becomes undernourished, and an ulcer can form. The location of the ulcer is in the Stomach, but the root cause often lies in the Liver or Spleen.\nThe Liver is responsible for the smooth flow of Qi throughout the body. When stress, frustration, or anger cause Liver Qi to stagnate, it often 'invades' the Stomach horizontally, disrupting its normal downward rhythm. This leads to distending pain, belching, and acid reflux - the classic stress-triggered ulcer pattern. This is why emotional regulation is a central part of TCM treatment for many ulcer patients.\nThe Spleen, on the other hand, is the digestive engine that transforms food into Qi and Blood. When Spleen Qi is weak - from overwork, irregular eating, or chronic illness - the Stomach lining doesn't receive enough nourishment to repair itself. This creates a dull, chronic ache that worsens after meals and is accompanied by fatigue and bloating. Over time, this deficiency can deepen into a cold pattern where the pain is relieved by warmth and pressure, or a dryness pattern where the stomach lacks its protective Yin fluids.\nOther patterns include damp-heat from rich, greasy foods and alcohol, which creates a burning, heavy sensation, and blood stasis from long-standing ulcers, where the pain becomes fixed and stabbing. Because each pattern has a different root, TCM treatment is never one-size-fits-all. A practitioner will differentiate based on the pain quality, tongue and pulse, and accompanying symptoms to select the right combination of herbs and acupuncture.",
+  "classical_quote": "「清气在下，则生飧泄；浊气在上，则生䐜胀。」",
+  "classical_translation": "\"When clear Qi is in the lower burner, it gives rise to undigested food diarrhea; when turbid Qi is in the upper burner, it gives rise to epigastric distention and fullness. This describes the basic mechanism of Stomach Qi failing to descend, which underlies many gastric ulcer patterns.\"",
+  "classical_source": "Huang Di Nei Jing (Su Wen)  ,  Chapter 5, Discussion of the Correspondences of Yin and Yang \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by listening to exactly how the stomach ulcer (胃疡, wèi yáng) pain feels and what makes it better or worse. The nature of the discomfort - whether it is sharp, dull, burning, or stabbing - is the first big clue that points toward one pattern rather than another. Timing, triggers, and the symptoms that come along with the pain all help to narrow the picture.\nWhen stress and mood swings are the main trigger and the pain feels distending or moves around, Liver Qi Stagnation invading the Stomach is likely. The person often belches frequently, feels a tightness under the ribs, and the tongue may look normal with a thin white coat while the pulse has a wiry, tight quality that reflects the stuck energy.\nIf the pain is dull, comes on after meals, and is accompanied by bloating and a feeling of heaviness, the pattern shifts toward Spleen and Stomach Qi Deficiency. Fatigue and a pale tongue with a thin white coating are common, and the pulse feels weak and thready. This pattern often underlies chronic ulcers in people who skip meals or overwork.\nPain that feels better with warmth, pressure, or eating, and worse on an empty stomach or after cold food, points to Stomach Yang Deficient and Cold. Cold hands and feet, a preference for warm drinks, and a slow, weak pulse support this picture. The tongue is pale and may look puffy with a slippery white coat.\nA burning, gnawing pain that comes with a bitter taste in the mouth and sticky bowel movements suggests Damp-Heat in the Stomach and Spleen. The tongue coating is thick, greasy, and yellow, and the pulse is rapid and slippery. This pattern is often seen when there is an infection like Helicobacter pylori or after a period of rich, greasy eating.\nWhen the pain is a subtle, gnawing hunger sensation but there is no real desire to eat, and the mouth feels dry, Stomach Yin Deficiency is at play. The tongue is red with little or no coating, and the pulse is thin and rapid. This pattern tends to develop after long-standing heat or a chronic illness that has drained the body’s fluids.\nIf the pain is fixed in one spot and feels stabbing rather than dull or burning, Stomach Blood Stagnation is suspected. The tongue may be purplish or show dark spots, and the pulse is choppy. This pattern indicates that the ulcer has been present for a long time and has led to deeper tissue damage.",
+  "patterns": [
+    {
+      "id": 913,
+      "condition_id": 181,
+      "pattern_name": "Liver Qi Stagnation invading the Stomach",
+      "pattern_slug": "liver-qi-stagnation-invading-the-stomach",
+      "is_common": 0,
+      "symptoms": "[\"Distending, bloating pain in the upper abdomen\", \"Pain radiates to the ribs or sides\", \"Worsens with emotional stress, anger, or frustration\", \"Frequent belching and acid reflux\", \"Irritability, moodiness, and frequent sighing\"]",
+      "worse_with": "Emotional stress, Irregular eating habits, Fatty, greasy, or spicy foods, Alcohol",
+      "better_with": "Relaxation and stress reduction, Gentle walking or stretching, Warm, cooked meals",
+      "why_this_happens": "When emotional stress, frustration, or anger builds up, the Liver's smooth flow of Qi becomes stagnant. This stuck Liver Qi then invades the Stomach horizontally, disrupting its normal downward movement. As a result, Stomach Qi rebels upward, causing distending pain, belching, and acid reflux. Over time, this persistent disharmony can erode the stomach lining and contribute to ulcer formation.",
+      "tongue_and_pulse": "Tongue: normal or slightly red body with redder sides, thin white coat. Pulse: wiry (弦 xián), like a taut guitar string, especially at the left middle position.",
+      "why_triggers_reliefs_work": "Emotional stress directly causes Liver Qi to stagnate and then invade the Stomach, which is the very mechanism of this pattern. Overeating or consuming greasy, spicy foods further burdens the Stomach and exacerbates rebellious Qi. Relaxation, gentle movement, and mindful eating help to smooth the flow of Liver Qi and restore the Stomach's normal downward movement, thereby relieving pain and preventing ulcer aggravation.",
+      "diet_and_lifestyle": "Stress management is the cornerstone of treatment. Incorporate gentle movement such as walking, yoga, or tai chi to keep Qi flowing smoothly. Eat regular, smaller meals in a relaxed environment and avoid skipping meals. Steer clear of spicy, greasy, or cold foods that can further disrupt the Stomach.",
+      "formulas": [
+        {
+          "id": 2120,
+          "pattern_id": 913,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "The primary formula to soothe the Liver, regulate Qi, and harmonize the Stomach, relieving distension and pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 4840,
+          "pattern_id": 913,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes Liver Qi stagnation, addressing the root cause of the disharmony."
+        },
+        {
+          "id": 4841,
+          "pattern_id": 913,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "",
+          "description": "Regulates Qi and alleviates distension and pain in the epigastrium."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3231,
+          "pattern_id": 913,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Calms the mind, regulates Stomach Qi, and relieves nausea and belching."
+        },
+        {
+          "id": 3232,
+          "pattern_id": 913,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes Liver Qi and subdues rebellious Qi that invades the Stomach."
+        },
+        {
+          "id": 3233,
+          "pattern_id": 913,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the Stomach and alleviates epigastric pain."
+        },
+        {
+          "id": 3234,
+          "pattern_id": 913,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to support overall digestive function."
+        }
+      ]
+    },
+    {
+      "id": 914,
+      "condition_id": 181,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull epigastric discomfort or ache\", \"Bloating and fullness that worsens after meals\", \"Poor appetite or reduced desire to eat\", \"Loose or poorly formed stools\", \"Fatigue and physical weakness\", \"Sallow or pale complexion\"]",
+      "worse_with": "Overeating or large meals, Raw and cold foods, Overwork or overexertion, Irregular eating habits",
+      "better_with": "Warm, cooked meals, Small, frequent meals, Rest after meals, Warmth on the belly",
+      "why_this_happens": "When the Spleen and Stomach lack the Qi they need to digest food properly, every meal becomes a burden. Food sits in the stomach, causing bloating and a dull ache, while the stomach lining is left undernourished and vulnerable. Over time, this persistent weakness and poor tissue repair allows an ulcer to form.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and often slightly enlarged with tooth marks on the sides; thin white coating. Pulse: weak, soft, and forceless, especially at the right middle (guan) position.",
+      "why_triggers_reliefs_work": "In Spleen and Stomach Qi Deficiency, the digestive fire is too weak to process heavy, raw, or cold foods, so they sit in the stomach and worsen bloating and pain. Overeating overwhelms the already depleted Qi, while fatigue and irregular meals further drain it. Warm, cooked, and easily digestible meals give the Spleen less work to do, and small portions prevent stagnation. Rest after eating conserves Qi for digestion, helping the stomach lining to heal.",
+      "diet_and_lifestyle": "Eat warm, cooked, and easily digestible meals - think soups, congees, and stewed vegetables. Avoid raw, cold, and greasy foods that demand extra digestive fire. Eat small, regular meals and rest briefly after eating to give your Spleen a chance to work.",
+      "formulas": [
+        {
+          "id": 2121,
+          "pattern_id": 914,
+          "formula_name": "Xiang Sha Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+          "translation": "Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation",
+          "description": "The classic formula to strengthen Spleen and Stomach Qi, reduce bloating, and restore digestive function."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 4842,
+          "pattern_id": 914,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Gentle tonic that strengthens Spleen and Stomach Qi without causing stagnation."
+        },
+        {
+          "id": 4843,
+          "pattern_id": 914,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and powerfully reinforces the Spleen&#x2019;s transforming ability."
+        },
+        {
+          "id": 4844,
+          "pattern_id": 914,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness and supports the Spleen, helping to firm up loose stools."
+        },
+        {
+          "id": 4845,
+          "pattern_id": 914,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi in the middle burner and eases post-meal bloating."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3235,
+          "pattern_id": 914,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-mu point of the Stomach; harmonizes the middle burner and relieves epigastric pain."
+        },
+        {
+          "id": 3236,
+          "pattern_id": 914,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Master point for the abdomen; powerfully strengthens Spleen and Stomach Qi."
+        },
+        {
+          "id": 3237,
+          "pattern_id": 914,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-shu point of the Spleen; directly tonifies Spleen Qi when needled with reinforcing technique."
+        },
+        {
+          "id": 3238,
+          "pattern_id": 914,
+          "acupoint_code": "BL-21",
+          "acupoint_name": "Weishu BL-21",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/weishu-bl-21",
+          "translation": "W&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Stomach Qi, Subdues Rebellious Stomach Qi",
+          "description": "Back-shu point of the Stomach; strengthens Stomach function and alleviates dull pain."
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "condition_id": 181,
+      "pattern_name": "Stomach Yang Deficient and Cold",
+      "pattern_slug": "stomach-yang-deficient-and-cold",
+      "is_common": 0,
+      "symptoms": "[\"Dull, aching upper belly pain\", \"Pain improves with warmth and gentle pressure\", \"Vomiting of clear watery fluid\", \"Cold hands and feet\", \"Loose stools\", \"Tiredness and lack of energy\"]",
+      "worse_with": "Cold weather or air conditioning, Raw and cold foods, Overwork or overexertion, Emotional stress, Skipping meals",
+      "better_with": "Warmth on the belly, Gentle abdominal pressure, Warm, cooked meals, Rest and lying down, Ginger tea",
+      "why_this_happens": "Stomach Yang is the digestive fire that warms and transforms food. When it becomes deficient and cold, the stomach loses its ability to properly break down what you eat, allowing cold and dampness to accumulate. This leads to a dull, aching pain that feels better with warmth and gentle pressure, because cold constricts the flow of Qi and blood, while warmth relaxes and moves them. The weakened Yang also fails to manage fluids, so clear watery fluid may be vomited or appear in loose stools.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks; white slippery coating. Pulse: deep, slow, weak, especially at the right Guan (Stomach/Spleen) position.",
+      "why_triggers_reliefs_work": "Cold further weakens the already deficient Stomach Yang and constricts Qi flow, worsening the dull ache. Warmth and gentle pressure help move Qi and blood, supporting the digestive fire and easing pain. Warm, cooked foods require less energy to digest and do not tax the weakened Yang, while ginger directly warms the middle. Rest conserves Qi that would otherwise be spent on activity, and stress depletes Spleen Qi, which is often already compromised in this pattern.",
+      "diet_and_lifestyle": "Eat warm, cooked, easy-to-digest foods like soups, stews, and congee. Avoid cold, raw, and iced items completely. Sip ginger or cinnamon tea between meals. Keep your belly warm with a scarf or hot water bottle, and rest when tired. Gentle daily walking supports Qi flow without draining your energy.",
+      "formulas": [
+        {
+          "id": 2122,
+          "pattern_id": 915,
+          "formula_name": "Huang Qi Jian Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/huang-qi-jian-zhong-tang",
+          "translation": "Astragalus Decoction to Construct the Middle &#xB7; H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Tonifies the Middle and Augments Qi, Relaxes Spasms and Relieves Urgency, Tonifies Qi and Generates Blood",
+          "description": "Warms the middle burner, tonifies Qi, and dispels cold, directly addressing the deficient Stomach Yang."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 4846,
+          "pattern_id": 915,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi and raises Yang to strengthen the digestive fire."
+        },
+        {
+          "id": 4847,
+          "pattern_id": 915,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms the middle and dispels cold, easing the dull aching pain."
+        },
+        {
+          "id": 4848,
+          "pattern_id": 915,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, improving appetite and reducing loose stools."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3239,
+          "pattern_id": 915,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "With moxibustion, directly warms the Stomach and alleviates pain."
+        },
+        {
+          "id": 3240,
+          "pattern_id": 915,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen and Stomach Qi, the master point for digestive weakness."
+        },
+        {
+          "id": 3241,
+          "pattern_id": 915,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Strengthens the Spleen&#x27;s transforming and transporting function."
+        },
+        {
+          "id": 3242,
+          "pattern_id": 915,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Warms the body&#x27;s core Yang and dispels internal cold."
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "condition_id": 181,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Burning epigastric pain\", \"Bitter or sticky taste in the mouth\", \"Sticky or incomplete bowel movements\", \"Thick yellow greasy tongue coating\", \"Heavy feeling in the body and limbs\"]",
+      "worse_with": "Greasy, fried, or rich foods, Alcohol, Spicy foods, Hot, humid weather, Overeating or large meals",
+      "better_with": "Light, bland meals, Cooling foods like cucumber or mung beans, Gentle walking after meals, Rest in a dry, cool environment",
+      "why_this_happens": "When greasy, spicy foods or alcohol overwhelm the digestive system, they create a heavy, sticky dampness that mixes with heat. This damp-heat settles in the stomach and spleen, blocking the normal downward flow of stomach Qi and generating burning pain. Over time, the trapped heat and dampness can damage the stomach lining, leading to ulcer formation.",
+      "tongue_and_pulse": "Tongue: red body with a thick, yellow, greasy coating, especially at the center and root. Pulse: soggy (Ru) and rapid (Shu), often slippery (Hua).",
+      "why_triggers_reliefs_work": "Damp-heat in the stomach and spleen arises from a diet heavy in greasy, spicy, or rich foods and from living in a damp, hot environment. These triggers introduce more dampness and heat, worsening the burning pain and sticky sensations. Light, cooling foods and gentle movement help clear dampness and heat, allowing stomach Qi to descend smoothly again.",
+      "diet_and_lifestyle": "Eat light, easily digestible meals like congee and steamed vegetables. Avoid greasy, fried, and spicy foods, as well as alcohol. Gentle daily exercise such as walking helps move dampness and supports digestion.",
+      "formulas": [
+        {
+          "id": 2123,
+          "pattern_id": 916,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "The core formula to clear damp-heat from the stomach and spleen, relieving burning pain and sticky sensation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 4849,
+          "pattern_id": 916,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears heat and dries dampness from the middle burner, targeting the burning pain."
+        },
+        {
+          "id": 4850,
+          "pattern_id": 916,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi and resolves dampness, reducing epigastric bloating and fullness."
+        },
+        {
+          "id": 4851,
+          "pattern_id": 916,
+          "herb_name": "Pu Gong Ying",
+          "herb_url": "/knowledge-base/herbs/pu-gong-ying",
+          "translation": "Dandelion",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity; especially useful when H. pylori infection is present."
+        },
+        {
+          "id": 4852,
+          "pattern_id": 916,
+          "herb_name": "Lu Gen",
+          "herb_url": "/knowledge-base/herbs/lu-gen",
+          "translation": "Reed rhizome",
+          "properties": "",
+          "description": "Clears stomach heat and generates fluids, easing thirst without desire to drink."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3243,
+          "pattern_id": 916,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and alleviates epigastric pain."
+        },
+        {
+          "id": 3244,
+          "pattern_id": 916,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Regulates the stomach and spleen, strengthening digestive function."
+        },
+        {
+          "id": 3245,
+          "pattern_id": 916,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves dampness and promotes urination to drain damp-heat."
+        },
+        {
+          "id": 3246,
+          "pattern_id": 916,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears heat from the stomach channel, relieving burning pain and bad breath."
+        }
+      ]
+    },
+    {
+      "id": 917,
+      "condition_id": 181,
+      "pattern_name": "Stomach Yin Deficiency",
+      "pattern_slug": "stomach-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, gnawing burning pain\", \"Dry mouth and throat\", \"Hunger without desire to eat\", \"Dry stools or constipation\", \"Red tongue with little or no coating, especially dry in the center\"]",
+      "worse_with": "Spicy foods, Alcohol, Late nights and overwork, Emotional stress, Dry, hot weather",
+      "better_with": "Small, frequent meals, Moistening foods (porridge, pears, honey), Warm, not hot, drinks, Rest after meals, Gentle walking or stretching",
+      "why_this_happens": "Stomach Yin is the cooling, moistening fluid that protects the stomach lining. When it runs low - often after a long illness, chronic stress, or too many spicy, drying foods - the stomach becomes dry and fragile. This leaves the lining vulnerable to its own acids, creating a gnawing, dull burning pain that feels like a slow fire in the pit of the stomach.\nWithout enough Yin, the stomach also struggles to receive food, so you may feel hungry but have no real appetite, and the mouth and throat stay dry. The ulcer forms in this hot, dry environment, like a crack in parched earth.",
+      "tongue_and_pulse": "Tongue: Red, thin body, dry centre, little or no coating, possible cracks. Pulse: Fine (Xi) and rapid (Shu).",
+      "why_triggers_reliefs_work": "Stomach Yin is easily consumed by heat and dryness. Spicy and fried foods, alcohol, and coffee act like fire in the stomach, burning up the protective fluids and making the lining even drier and more painful. Overwork and emotional stress also drain Yin, especially late at night when the body should be restoring itself. On the other hand, moistening foods and warm liquids replenish the stomach’s cooling layer, while rest and gentle movement allow the body to rebuild Yin without creating more heat.",
+      "diet_and_lifestyle": "Eat small, frequent meals of soft, moistening foods - congee, steamed pears, honey water, and cooked spinach. Avoid all spicy, fried, or roasted foods, and keep alcohol and coffee to an absolute minimum. Sip warm water or herbal teas (like chrysanthemum) throughout the day, but avoid gulping large amounts. A short rest after meals helps the stomach use its fluids wisely. Gentle, restorative movement like Tai Chi or walking supports fluid metabolism without overheating the body.",
+      "formulas": [
+        {
+          "id": 2124,
+          "pattern_id": 917,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "The classic formula to nourish Stomach Yin and generate fluids, often modified with Shi Hu (Dendrobium) and Fo Shou (Finger Citron fruit) for gastric ulcers."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 4853,
+          "pattern_id": 917,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "",
+          "description": "Nourishes Stomach Yin and clears mild deficiency heat."
+        },
+        {
+          "id": 4854,
+          "pattern_id": 917,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Generates fluids and moistens the stomach and throat."
+        },
+        {
+          "id": 4855,
+          "pattern_id": 917,
+          "herb_name": "Shi Hu",
+          "herb_url": "/knowledge-base/herbs/shi-hu",
+          "translation": "Dendrobium stem",
+          "properties": "",
+          "description": "Deeply nourishes Stomach Yin and is especially useful for chronic dry stomach pain."
+        },
+        {
+          "id": 4856,
+          "pattern_id": 917,
+          "herb_name": "Yu zhu",
+          "herb_url": "/knowledge-base/herbs/yu-zhu",
+          "translation": "Solomon&#x27;s seal rhizome",
+          "properties": "",
+          "description": "Moistens dryness without being cloying, soothes the stomach lining."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3247,
+          "pattern_id": 917,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "The main point for all stomach conditions; calms the stomach and directs Qi downward."
+        },
+        {
+          "id": 3248,
+          "pattern_id": 917,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Stomach and Spleen, supports Yin production."
+        },
+        {
+          "id": 3249,
+          "pattern_id": 917,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonizes the Spleen, Liver and Kidney."
+        },
+        {
+          "id": 3250,
+          "pattern_id": 917,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel; supports the body&#x2019;s deepest Yin reserves."
+        },
+        {
+          "id": 3251,
+          "pattern_id": 917,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Harmonizes the stomach, relieves nausea and dull epigastric pain."
+        }
+      ]
+    },
+    {
+      "id": 918,
+      "condition_id": 181,
+      "pattern_name": "Stomach Blood Stagnation",
+      "pattern_slug": "stomach-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Sharp stabbing pain fixed in one spot\", \"Pain worsens with pressure on the abdomen\", \"Pain worse at night\", \"Vomiting dark or coffee-ground material\", \"Black tarry stools\", \"Dark purplish tongue with stasis spots\", \"Dull or darkened complexion\", \"Choppy (rough, uneven) pulse\"]",
+      "worse_with": "Greasy, fried, or rich foods, Alcohol, Raw and cold foods, Emotional stress, Overwork or overexertion",
+      "better_with": "Gentle walking or stretching, Small, frequent meals, Hawthorn berry tea, Rest in a calm environment",
+      "why_this_happens": "When a gastric ulcer persists for a long time, the local blood flow in the stomach lining becomes sluggish and eventually congeals. This stagnant blood blocks the channels, creating a sharp, fixed pain that feels like a knife. The obstruction also damages small vessels, which can leak blood into the stomach, leading to dark vomit or black tarry stools.",
+      "tongue_and_pulse": "Tongue: dark purple body with possible stasis spots, distended sublingual veins, thin white coat. Pulse: choppy (Se) or wiry (Xian), rough and uneven.",
+      "why_triggers_reliefs_work": "Blood stasis pain is caused by congealed blood that obstructs the stomach's channels. Cold and greasy foods further congeal blood and create dampness, while stress and overexertion stagnate Qi, tightening the obstruction. Gentle movement and small warm meals help Qi flow and gradually disperse the stasis. Hawthorn berry tea gently invigorates blood and aids digestion, and rest allows the body to focus on healing.",
+      "diet_and_lifestyle": "Choose small, warm, easily digestible meals like congee or well-cooked vegetables. Avoid cold, raw, greasy, and spicy foods, as well as alcohol and strong coffee, which can further congeal blood or irritate the ulcer. Gentle daily walking helps move Qi and blood without straining the stomach. A cup of hawthorn berry tea (Shan Zha) between meals can gently invigorate blood and aid digestion. Rest during acute pain flares.",
+      "formulas": [
+        {
+          "id": 2125,
+          "pattern_id": 918,
+          "formula_name": "Shi Xiao San",
+          "formula_url": "/knowledge-base/formulas/shi-xiao-san",
+          "translation": "Sudden Smile Powder &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1151 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Dissipates Nodules and Softens Hardness, Alleviates Pain",
+          "description": "Invigorates blood and stops pain; a classic pair for stabbing epigastric pain from blood stasis."
+        },
+        {
+          "id": 2126,
+          "pattern_id": 918,
+          "formula_name": "Dan Shen Yin",
+          "formula_url": "/knowledge-base/formulas/dan-shen-yin",
+          "translation": "Salvia Drink &#xB7; Q&#x12B;ng dynasty, 1801 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain",
+          "description": "Moves Qi and blood in the Stomach to relieve fixed pain and fullness."
+        },
+        {
+          "id": 2127,
+          "pattern_id": 918,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints."
+        },
+        {
+          "id": 2128,
+          "pattern_id": 918,
+          "formula_name": "Xiang Sha Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+          "translation": "Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation",
+          "description": "A classical formula designed to strengthen weak digestion and relieve bloating, nausea, and abdominal discomfort caused by a weak Spleen and Stomach with dampness and stagnation. It builds upon the foundational Si Jun Zi Tang (Four Gentlemen Decoction) by adding herbs that move Qi and resolve phlegm, making it especially suited for people whose digestive weakness is accompanied by a feeling of fullness, poor appetite, and loose stools."
+        },
+        {
+          "id": 2129,
+          "pattern_id": 918,
+          "formula_name": "Huang Qi Jian Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/huang-qi-jian-zhong-tang",
+          "translation": "Astragalus Decoction to Construct the Middle &#xB7; H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Tonifies the Middle and Augments Qi, Relaxes Spasms and Relieves Urgency, Tonifies Qi and Generates Blood",
+          "description": "A warming, strengthening formula for people with chronic weakness, fatigue, and digestive discomfort marked by abdominal cramping, poor appetite, and spontaneous sweating. It gently rebuilds the body&#x27;s core digestive strength and Qi, making it especially well suited for long-standing stomach problems with cold sensitivity and general exhaustion."
+        },
+        {
+          "id": 2130,
+          "pattern_id": 918,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "A classical formula for treating acute digestive upsets caused by a combination of Dampness and Heat lodging in the Stomach and intestines. It addresses simultaneous vomiting and diarrhea, a feeling of fullness and stuffiness in the chest and upper abdomen, irritability, and dark scanty urine, particularly during hot and humid seasons."
+        },
+        {
+          "id": 2131,
+          "pattern_id": 918,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "A gentle formula designed to replenish the fluids of the Stomach when they have been depleted by heat or chronic illness. It is commonly used for dry mouth and throat, poor appetite despite feeling hungry, and a red tongue with little coating. The formula uses sweet, cooling, moistening herbs to restore the Stomach&#x27;s natural lubrication and digestive function."
+        },
+        {
+          "id": 2132,
+          "pattern_id": 918,
+          "formula_name": "Shi Xiao San",
+          "formula_url": "/knowledge-base/formulas/shi-xiao-san",
+          "translation": "Sudden Smile Powder &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1151 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Dissipates Nodules and Softens Hardness, Alleviates Pain",
+          "description": "A remarkably simple two-herb powder used to relieve pain caused by blood stagnation. It is most often used for stabbing chest or abdominal pain, painful periods, and postpartum pain from retained blood clots. The name &#x27;Sudden Smile&#x27; reflects how quickly and unexpectedly the pain resolves after taking it."
+        },
+        {
+          "id": 2133,
+          "pattern_id": 918,
+          "formula_name": "Dan Shen Yin",
+          "formula_url": "/knowledge-base/formulas/dan-shen-yin",
+          "translation": "Salvia Drink &#xB7; Q&#x12B;ng dynasty, 1801 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain",
+          "description": "A simple three-herb formula used to relieve chest and stomach pain caused by poor blood circulation and stagnant Qi. It works by promoting blood flow and easing Qi movement in the chest and abdomen. The source text notes it is especially effective for women."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 4857,
+          "pattern_id": 918,
+          "herb_name": "San Qi",
+          "herb_url": "/knowledge-base/herbs/san-qi",
+          "translation": "Notoginseng root",
+          "properties": "",
+          "description": "Stops bleeding, transforms stasis, and promotes healing of the ulcer."
+        },
+        {
+          "id": 4858,
+          "pattern_id": 918,
+          "herb_name": "Yan Hu Suo",
+          "herb_url": "/knowledge-base/herbs/yan-hu-suo",
+          "translation": "Corydalis rhizome",
+          "properties": "",
+          "description": "Invigorates blood and powerfully stops pain in the epigastric region."
+        },
+        {
+          "id": 4859,
+          "pattern_id": 918,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 4860,
+          "pattern_id": 918,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 4861,
+          "pattern_id": 918,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 4862,
+          "pattern_id": 918,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 4863,
+          "pattern_id": 918,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 4864,
+          "pattern_id": 918,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 4865,
+          "pattern_id": 918,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 4866,
+          "pattern_id": 918,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        },
+        {
+          "id": 4867,
+          "pattern_id": 918,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 4868,
+          "pattern_id": 918,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 4869,
+          "pattern_id": 918,
+          "herb_name": "Pu Gong Ying",
+          "herb_url": "/knowledge-base/herbs/pu-gong-ying",
+          "translation": "Dandelion",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Promotes Urination and Relieves Stranguria",
+          "description": ""
+        },
+        {
+          "id": 4870,
+          "pattern_id": 918,
+          "herb_name": "Lu Gen",
+          "herb_url": "/knowledge-base/herbs/lu-gen",
+          "translation": "Reed rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Generates Fluids and Relieves Thirst, Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 4871,
+          "pattern_id": 918,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 4872,
+          "pattern_id": 918,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 4873,
+          "pattern_id": 918,
+          "herb_name": "Shi Hu",
+          "herb_url": "/knowledge-base/herbs/shi-hu",
+          "translation": "Dendrobium stem",
+          "properties": "Slightly Cool, Benefits the Stomach and Generates Fluids, Nourishes Yin and clears Heat, Nourishes Kidney Yin",
+          "description": ""
+        },
+        {
+          "id": 4874,
+          "pattern_id": 918,
+          "herb_name": "Yu zhu",
+          "herb_url": "/knowledge-base/herbs/yu-zhu",
+          "translation": "Solomon&#x27;s seal rhizome",
+          "properties": "Slightly Cool, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 4875,
+          "pattern_id": 918,
+          "herb_name": "San Qi",
+          "herb_url": "/knowledge-base/herbs/san-qi",
+          "translation": "Notoginseng root",
+          "properties": "Warm, Dispels Stasis and Stops Bleeding, Invigorates Blood and Dispels Stasis, Reduces Swelling and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 4876,
+          "pattern_id": 918,
+          "herb_name": "Yan Hu Suo",
+          "herb_url": "/knowledge-base/herbs/yan-hu-suo",
+          "translation": "Corydalis rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3252,
+          "pattern_id": 918,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Regulates Stomach Qi and directly stops epigastric pain."
+        },
+        {
+          "id": 3253,
+          "pattern_id": 918,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, moves Qi to support blood circulation."
+        },
+        {
+          "id": 3254,
+          "pattern_id": 918,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point for blood; invigorates blood and resolves stasis."
+        },
+        {
+          "id": 3255,
+          "pattern_id": 918,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest and alleviates epigastric pain by regulating Qi flow."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1157,
+      "condition_id": 181,
+      "question": "Can TCM heal a stomach ulcer without antibiotics?",
+      "answer": "Yes, TCM can heal ulcers by restoring the stomach's self-repair mechanisms, even when H. pylori is present. Herbs like Huang Lian (Coptis) have natural antibacterial properties, but the primary goal is to change the environment in the stomach so the bacteria can't thrive. Many patients heal without antibiotics, though severe or complicated cases may still need conventional treatment. Always discuss with your doctor if you've been diagnosed with H. pylori."
+    },
+    {
+      "id": 1158,
+      "condition_id": 181,
+      "question": "How long will it take to feel better?",
+      "answer": "Most people notice less pain and bloating within the first 1-2 weeks of herbs and acupuncture. Complete healing of the ulcer, confirmed by endoscopy, typically takes 6-12 weeks. The timeline depends on the pattern: stress-related ulcers often respond faster than those rooted in long-standing digestive weakness."
+    },
+    {
+      "id": 1159,
+      "condition_id": 181,
+      "question": "Can I keep taking my PPI medication while doing TCM?",
+      "answer": "Yes, TCM can be safely combined with proton pump inhibitors. Many patients start TCM while still on their prescribed medication. As your symptoms improve, you can work with your doctor to gradually taper the PPI - never stop suddenly, as this can cause rebound acid. Inform both your TCM practitioner and your doctor about all treatments you're using."
+    },
+    {
+      "id": 1160,
+      "condition_id": 181,
+      "question": "Will the ulcer come back after TCM treatment?",
+      "answer": "TCM aims to correct the underlying imbalance that made you susceptible to ulcers in the first place. When the root pattern - whether it's Liver Qi stagnation, Spleen deficiency, or damp-heat - is fully addressed, recurrence is much less likely than with acid suppression alone. However, long-term dietary and lifestyle habits play a big role in staying well, and occasional maintenance treatments may be recommended."
+    },
+    {
+      "id": 1161,
+      "condition_id": 181,
+      "question": "Do I need to change my diet?",
+      "answer": "Yes, diet is a cornerstone of TCM ulcer treatment. Across all patterns, we recommend warm, cooked, easily digestible foods like congee, steamed vegetables, and soups. Avoid raw, cold, spicy, and greasy foods, as well as alcohol and coffee. Small, frequent meals are better than large ones. Your practitioner will give you specific advice based on your pattern - for example, someone with a cold-type ulcer benefits from warming spices like ginger, while someone with damp-heat should avoid them."
+    },
+    {
+      "id": 1162,
+      "condition_id": 181,
+      "question": "What does acupuncture for stomach ulcers feel like?",
+      "answer": "Acupuncture for digestive issues uses points on the abdomen, legs, and arms. The needles are hair-thin and most people feel only a slight pinch or a dull ache. Many patients find the sessions deeply relaxing, which itself helps reduce stress-related ulcer patterns. Points like Zusanli (ST-36) on the lower leg are especially effective for strengthening the Stomach and Spleen."
+    }
+  ],
+  "research": [
+    {
+      "id": 276,
+      "condition_id": 181,
+      "title": "Treatment of gastric ulcer, traditional Chinese medicine may be a better choice",
+      "description": "A narrative review examining the use of traditional Chinese medicine for gastric ulcer, highlighting Ban Xia Xie Xin Tang as the most frequently prescribed formula. The review discusses mechanisms including regulation of gastric acid, anti-inflammatory effects, and promotion of mucosal repair, and suggests TCM offers advantages in long-term management with fewer side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38278376",
+      "periodical": "Li X, et al. (2024). Treatment of gastric ulcer, traditional Chinese medicine may be a better choice. Medicine, 103(4), e38266."
+    }
+  ]
+}

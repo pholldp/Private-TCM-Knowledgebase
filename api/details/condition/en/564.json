@@ -1,0 +1,781 @@
+{
+  "id": 564,
+  "name": "Myelophthisis",
+  "url": "/knowledge-base/conditions/myelophthisis",
+  "kind": "Condition",
+  "pinyin": "suǐ láo",
+  "chinese_name": "髓劳",
+  "preview_text": "In TCM, aplastic anemia is not one disease but a spectrum of patterns rooted in Kidney essence depletion. Treatment aims to restore the marrow's ability to produce blood, often lea...",
+  "categories": "[\"Blood & Vascular Conditions\", \"Bone & Skeletal Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Marrow Displacement\", \"Bone Marrow Failure\"]",
+  "conventional_description": "Aplastic anemia is a rare but life-threatening bone marrow failure syndrome. The spongy marrow inside your bones stops producing enough red blood cells, white blood cells, and platelets, leading to fatigue, infections, and uncontrolled bleeding. Diagnosis is confirmed through blood tests and a bone marrow biopsy, which shows a hypocellular marrow replaced by fat.\nIt can strike at any age and may be caused by radiation, chemotherapy, toxic chemicals, certain drugs, autoimmune disorders, or viral infections-though in many cases the trigger remains unknown. Without treatment, severe aplastic anemia carries a high risk of fatal complications.",
+  "conventional_treatments": "Standard treatment depends on the severity and the patient's age. For younger patients with a matched donor, a bone marrow transplant offers the best chance for a cure. For those who are not transplant candidates, immunosuppressive therapy-typically a combination of antithymocyte globulin (ATG) and cyclosporine-is used to dampen the immune attack on the marrow. Supportive care includes blood transfusions, antibiotics for infections, and growth factors like G-CSF to stimulate white blood cell production.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands myelophthisis primarily through the Kidney system. The Kidneys store the body's essence (Jing), which is the foundation for marrow and blood production. When this essence is depleted-due to inherited weakness, chronic illness, overwork, or exposure to toxins-the marrow can no longer generate enough blood. This is why every chronic pattern of this condition traces back to Kidney deficiency, whether it manifests as a lack of Yin, Yang, or both.\nThe Spleen also plays a crucial role. It transforms food into Qi and blood, and when Kidney deficiency weakens the body's overall vitality, the Spleen often fails as well. This leads to the profound fatigue, poor appetite, and pale complexion seen in many patients. The interplay between Kidney and Spleen explains why treatment must often support both organs simultaneously.\nIn the acute form, TCM sees a different mechanism: an external pathogenic factor-a virulent Heat toxin-invades the body and directly attacks the marrow. This scorching heat forces blood out of the vessels, causing severe bleeding, and halts blood production, leading to rapid deterioration. This pattern is a medical emergency and requires immediate integrated care.\nBecause the same Western diagnosis can arise from such different root imbalances, TCM does not offer a one-size-fits-all remedy. Instead, the practitioner identifies whether the marrow failure is driven by Yin deficiency, Yang deficiency, a combination of both, toxic heat, or the blood stagnation that often complicates long-term transfusion dependence. Each pattern points to a different herbal formula and acupuncture strategy.",
+  "classical_quote": "「肾主身之骨髓。」",
+  "classical_translation": "\"The kidney governs the bone marrow of the entire body.\"",
+  "classical_source": "Huang Di Nei Jing (Yellow Emperor's Inner Classic), Su Wen (Plain Questions)  ,  Chapter 44 (Wei Lun, Discussion on Atrophy) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first separates the acute from the chronic picture. A sudden high fever, severe bleeding, and signs of raging infection point to a Toxic-Heat pattern - a fulminant attack that directly scorches the marrow. In contrast, a slow onset of fatigue, pallor, and gradual weakness over weeks or months signals a chronic Kidney vacuity pattern, where the marrow’s ability to produce blood has quietly declined.\nAmong chronic cases, the next clue is whether the body leans toward heat or cold. Kidney Yin Deficiency brings heat signs: night sweats, a low-grade fever, a red tongue with little coating, and a thready rapid pulse. Kidney Yang Deficiency shifts the picture toward cold, with chilly limbs, aching lower back, loose stools, a pale tongue, and a deep weak pulse that feels sluggish under the fingers.\nWhen the condition has worn on for a long time, both yin and yang may become depleted. In this pattern, a person alternates between feeling cold and flushed, and the tongue may appear pale or light red with a deep, thready, weak pulse. The mixed signals reflect an advanced stage where the body can no longer hold a steady temperature or stable energy.\nLong-term transfusion-dependent patients often develop a separate complication: Blood Stagnation. Here the practitioner looks for dark purplish spots on the skin, a dark or dusky tongue, and a pulse that feels rough or choppy. These signs indicate that blood is not moving smoothly, adding a layer of stagnation that needs to be addressed alongside the underlying deficiency.",
+  "patterns": [
+    {
+      "id": 2723,
+      "condition_id": 564,
+      "pattern_name": "Kidney Yin Deficiency",
+      "pattern_slug": "kidney-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Pale complexion\", \"Night sweats\", \"Heat in palms, soles, and chest\", \"Dry mouth and throat\", \"Lower back soreness\"]",
+      "worse_with": "Overwork and late nights, Spicy, fried, or greasy foods, Emotional stress and frustration, Hot environments",
+      "better_with": "Adequate rest and sleep, Cool environment, Yin-nourishing foods (black sesame, goji)",
+      "why_this_happens": "The Kidney stores essence and governs bone and marrow. When Kidney Yin is deficient, the nourishing Yin fluids are depleted, so essence cannot transform into sufficient blood. This leads directly to the pale complexion, fatigue, and dizziness of myelophthisis.\nAt the same time, the lack of Yin allows empty Heat to rise, which produces night sweats, low-grade fever, and the distinctive sensation of heat in the palms, soles, and chest.",
+      "tongue_and_pulse": "Tongue: red, thin body with little or no coating, dry surface. Pulse: thready (细 xì) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Kidney Yin is easily depleted by overwork, lack of sleep, and emotional strain, which all generate internal heat. Cooling, nourishing foods and rest help rebuild Yin fluids, while spicy and heating foods further consume them, worsening the empty Heat symptoms.",
+      "diet_and_lifestyle": "Prioritize rest and avoid overwork. Eat yin-nourishing foods like black sesame, goji berries, and bone broth. Avoid spicy, fried, or overly heating foods. Gentle exercise such as tai chi or walking helps without depleting Yin.",
+      "formulas": [
+        {
+          "id": 6200,
+          "pattern_id": 2723,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "The classic formula to nourish Kidney Yin and replenish essence, supporting marrow function."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14537,
+          "pattern_id": 2723,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Nourishes Kidney Yin and essence, the primary herb for marrow depletion."
+        },
+        {
+          "id": 14538,
+          "pattern_id": 2723,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Stabilizes the Kidney and preserves essence, preventing further leakage of Yin."
+        },
+        {
+          "id": 14539,
+          "pattern_id": 2723,
+          "herb_name": "Nu Zhen Zi",
+          "herb_url": "/knowledge-base/herbs/nu-zhen-zi",
+          "translation": "Glossy privet fruit",
+          "properties": "",
+          "description": "Gently nourishes Liver and Kidney Yin, cooling empty Heat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9794,
+          "pattern_id": 2723,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Directly tonifies Kidney Yin and strengthens the low back."
+        },
+        {
+          "id": 9795,
+          "pattern_id": 2723,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel to nourish Yin and essence."
+        },
+        {
+          "id": 9796,
+          "pattern_id": 2723,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Supports Spleen and Stomach to produce blood and Qi."
+        }
+      ]
+    },
+    {
+      "id": 2724,
+      "condition_id": 564,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Deep cold feeling in the lower back and legs\", \"Cold pain and soreness in the lower back and knees\", \"Frequent clear urination, especially at night\", \"Loose stools or early morning diarrhea\", \"Pale or dark complexion with low energy\"]",
+      "worse_with": "Cold weather or environments, Raw and cold foods, Overwork and exhaustion, Excessive sexual activity",
+      "better_with": "Warmth, Warm cooked foods and soups, Gentle movement, Adequate rest and sleep",
+      "why_this_happens": "In myelophthisis, the Kidneys are the root of marrow and blood production. When Kidney Yang is deficient, the body's warming and transformative fire fades, and the marrow can no longer generate blood. This deep coldness leaves the body pale, exhausted, and unable to circulate warmth or nourishment.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks and a wet white coating. Pulse: deep, slow, and weak, especially at the rear (Kidney) positions.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's warming fire. Cold and raw things drain this fire, while warmth and rest protect it. Gentle movement circulates Qi without depleting Yang, helping the Kidneys slowly rebuild their transformative power.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and stews with ginger, cinnamon, and lamb. Avoid raw, cold, and frozen foods. Keep the lower back and abdomen warm, and avoid sitting on cold surfaces. Gentle daily movement like walking or tai chi helps circulate Yang without exhaustion.",
+      "formulas": [
+        {
+          "id": 6201,
+          "pattern_id": 2724,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The classic formula to warm and tonify Kidney Yang, strengthen the Gate of Life Fire, and support marrow production."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14540,
+          "pattern_id": 2724,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms the Kidneys and ignites the Ming Men fire to dispel deep cold and promote blood generation."
+        },
+        {
+          "id": 14541,
+          "pattern_id": 2724,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Tonifies Kidney Yang and strengthens the lower back and bones, relieving the cold ache."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9797,
+          "pattern_id": 2724,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Directly tonifies Kidney Yang and strengthens marrow production. Use moxibustion."
+        },
+        {
+          "id": 9798,
+          "pattern_id": 2724,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms the Gate of Life and disperses cold, boosting overall Yang energy."
+        },
+        {
+          "id": 9799,
+          "pattern_id": 2724,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Tonifies Kidney Yang and nourishes essence, especially when combined with moxa."
+        }
+      ]
+    },
+    {
+      "id": 2725,
+      "condition_id": 564,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "pattern_slug": "deficiency-of-both-the-kidney-yin-and-yang",
+      "is_common": 0,
+      "symptoms": "[\"Alternating chills and hot flushes\", \"Lower back cold and aching\", \"Night sweats\", \"Deep, unrelenting fatigue\", \"Dizziness and ringing in the ears\", \"Cold hands and feet\", \"Frequent nighttime urination\", \"Pale, dull complexion\"]",
+      "worse_with": "Overwork and exhaustion, Exposure to cold and damp, Raw and cold foods, Emotional stress and fear, Excessive sexual activity",
+      "better_with": "Adequate rest and sleep, Warmth, Warm cooked foods and soups, Gentle movement, Stress reduction and meditation",
+      "why_this_happens": "In the later stages of myelophthisis, the Kidney’s reservoir of essence is deeply depleted, so it can no longer produce enough marrow to make blood. Both Yin and Yang are exhausted: the warming function fails, leading to cold limbs and aversion to cold, while the cooling and moistening function fails, causing night sweats and hot flushes. This dual deficiency leaves the body unable to sustain normal blood cell production, resulting in profound fatigue, pallor, and alternating temperature sensations.",
+      "tongue_and_pulse": "Tongue: pale, puffy-tender body with teeth marks and cracks, thin white coat that may be partially peeled. Pulse: deep, fine, and weak, weakest at the Chi (rear) positions.",
+      "why_triggers_reliefs_work": "This pattern arises from deep depletion of Kidney Yin and Yang. Rest and warmth conserve the little Yang Qi remaining, while warm, nourishing foods gently support both Yin and Yang without overwhelming the weakened Spleen. Overwork, cold exposure, and stress further drain the Kidney essence, worsening the marrow failure. Raw and cold foods extinguish the already weak digestive fire, and excessive sexual activity depletes the Kidney’s essence directly, so avoiding these preserves the precious reserves needed for blood production.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods like bone broths, stews, and congees that gently nourish without taxing digestion. Include small amounts of marrow-nourishing foods such as black sesame, walnuts, and dark leafy greens. Avoid raw, cold, and greasy foods that further deplete Yang, and spicy or drying foods that consume Yin. Gentle movement like tai chi or walking helps circulate Qi without exhausting it, and prioritizing rest and sleep conserves the Kidney essence.",
+      "formulas": [
+        {
+          "id": 6202,
+          "pattern_id": 2725,
+          "formula_name": "Di Huang Yin Zi",
+          "formula_url": "/knowledge-base/formulas/di-huang-yin-zi",
+          "translation": "Rehmannia Drink &#xB7; J&#x12B;n dynasty, ~1172 CE",
+          "properties": "Warm, Nourishes Kidney Yin, Tonifies Kidney Yang, Opens the Orifices and Revives Consciousness",
+          "description": "Nourishes Kidney Yin and Yang, replenishes essence and marrow, and improves blood production."
+        },
+        {
+          "id": 6203,
+          "pattern_id": 2725,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "Strengthens the Kidney&#x27;s essence and marrow by combining Yin-nourishing turtle shell and Yang-warming deer antler."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14542,
+          "pattern_id": 2725,
+          "herb_name": "Gui Ban",
+          "herb_url": "/knowledge-base/herbs/gui-ban",
+          "translation": "Tortoise plastron",
+          "properties": "",
+          "description": "Nourishes Kidney Yin and anchors essence, supporting marrow regeneration."
+        },
+        {
+          "id": 14543,
+          "pattern_id": 2725,
+          "herb_name": "Lu Jiao",
+          "herb_url": "/knowledge-base/herbs/lu-jiao",
+          "translation": "deer antler",
+          "properties": "",
+          "description": "Warms Kidney Yang and strengthens marrow, promoting blood production."
+        },
+        {
+          "id": 14544,
+          "pattern_id": 2725,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Tonifies Kidney Yin and essence, the foundational herb for marrow depletion."
+        },
+        {
+          "id": 14545,
+          "pattern_id": 2725,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Nourishes Liver and Kidney Yin and essence, benefiting blood and vision."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9800,
+          "pattern_id": 2725,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney essence and marrow, the primary back-shu point for the Kidneys."
+        },
+        {
+          "id": 9801,
+          "pattern_id": 2725,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Strengthens Kidney Yin and Yang, the source point of the Kidney channel."
+        },
+        {
+          "id": 9802,
+          "pattern_id": 2725,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms Kidney Yang and ignites the gate of vitality, essential for marrow production."
+        },
+        {
+          "id": 9803,
+          "pattern_id": 2725,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Fortifies Kidney Yang and essence, a key point for deep deficiency."
+        },
+        {
+          "id": 9804,
+          "pattern_id": 2725,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Qi and blood, supports the Spleen and Stomach to produce blood."
+        },
+        {
+          "id": 9805,
+          "pattern_id": 2725,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen, Liver, and Kidneys, nourishing Yin and blood."
+        }
+      ]
+    },
+    {
+      "id": 2726,
+      "condition_id": 564,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever with chills or aversion to heat\", \"Widespread bleeding: nosebleeds, gum bleeding, purpura\", \"Sore throat and mouth ulcers\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine or constipation\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Emotional stress or anger, Overwork and exhaustion, Hot environments",
+      "better_with": "Cooling fluids (mung bean soup, pear juice), Complete bed rest, Cool environment",
+      "why_this_happens": "In this acute form, a virulent external Heat toxin invades the body and directly attacks the bone marrow. The blazing heat scorches the blood, causing it to move recklessly and leading to severe, widespread bleeding. The toxin depletes marrow essence, halting the production of new blood and resulting in sudden, profound pancytopenia.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns, dry yellow coating. Pulse: rapid (数 shuò) and forceful, possibly overflowing (洪 hóng) or slippery (滑 huá).",
+      "why_triggers_reliefs_work": "Heat toxin is an aggressive Yang pathogen. Cooling foods and environments directly counteract its nature, while rest conserves the body's defensive Qi. Spicy foods and emotional stress generate more internal heat, fanning the flames and worsening bleeding and fever.",
+      "diet_and_lifestyle": "During the acute phase, consume cooling, easy-to-digest fluids like mung bean soup or pear juice. Avoid all spicy, greasy, and heating foods. Complete rest is essential to preserve Qi for fighting the toxin.",
+      "formulas": [
+        {
+          "id": 6204,
+          "pattern_id": 2726,
+          "formula_name": "Bai Hu Jia Ren Shen Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-jia-ren-shen-tang",
+          "translation": "White Tiger Plus Ginseng Decoction &#xB7; Eastern Han dynasty (&#x4E1C;&#x6C49;), circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Tonifies Qi, Generates Fluids",
+          "description": "Clears intense Qi-level Heat and resolves Toxin while supporting the body&#x27;s fluids and Qi, a classic for high fever with great thirst."
+        },
+        {
+          "id": 6205,
+          "pattern_id": 2726,
+          "formula_name": "Hua Ban Tang",
+          "formula_url": "/knowledge-base/formulas/hua-ban-tang",
+          "translation": "Macule-Resolving Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Cools the Blood, Resolves Toxicity",
+          "description": "Specifically clears Heat in the Blood level, cools the blood to stop bleeding, and resolves the toxin-induced macules characteristic of this acute presentation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14546,
+          "pattern_id": 2726,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "The key herb to clear blazing Stomach Heat and reduce high fever."
+        },
+        {
+          "id": 14547,
+          "pattern_id": 2726,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Moistens dryness and assists Shi Gao in clearing Heat without damaging Yin."
+        },
+        {
+          "id": 14548,
+          "pattern_id": 2726,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "",
+          "description": "Cools the blood, clears heat, and resolves fire toxicity, particularly useful for sore throat and bleeding."
+        },
+        {
+          "id": 14549,
+          "pattern_id": 2726,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Protects the original Qi from collapse during the fierce battle with toxin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9806,
+          "pattern_id": 2726,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduce; clears Heat and resolves Toxin, the master point for all feverish diseases."
+        },
+        {
+          "id": 9807,
+          "pattern_id": 2726,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce; clears Heat from the Yangming channel and cools the blood."
+        },
+        {
+          "id": 9808,
+          "pattern_id": 2726,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Even method; nourishes Yin and helps cool the blood to mitigate reckless bleeding."
+        },
+        {
+          "id": 9809,
+          "pattern_id": 2726,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce; clears Heat and alleviates pain in the throat and mouth."
+        }
+      ]
+    },
+    {
+      "id": 2727,
+      "condition_id": 564,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain that worsens at night or with pressure\", \"Dark or purplish complexion, lips, and nails\", \"Petechiae or purplish spots on the skin that do not blanch\", \"Dark purple tongue body with stasis spots and distended sublingual veins\", \"History of long-term blood transfusion dependence\"]",
+      "worse_with": "Cold weather or environments, Prolonged inactivity or bed rest, Emotional stress or anger, Greasy, heavy, or cold-natured foods",
+      "better_with": "Gentle movement, Warmth, Foods like turmeric and vinegar",
+      "why_this_happens": "In myelophthisis, the marrow's ability to produce blood is severely weakened, leading to chronic blood deficiency. When the body is in a state of long-term deficiency, the flow of Qi and blood becomes sluggish and eventually congeals, much like a river that slows and forms ice. This is especially common in patients who rely on repeated blood transfusions, as the introduced blood can overwhelm the body's ability to circulate it smoothly, creating a state of chronic blood stasis. This stagnant blood further blocks the generation of new, healthy blood, worsening the anemia and producing tell-tale signs like dark spots under the skin and a purplish complexion.",
+      "tongue_and_pulse": "Tongue: dark purple or dusky body with scattered stasis spots, and distended, dark sublingual veins. Pulse: choppy (涩 Sè), rough like a knife scraping bamboo, or wiry (弦 Xián) if Qi stagnation is prominent.",
+      "why_triggers_reliefs_work": "Blood stasis behaves like a frozen river-cold and stillness make it congeal further, while warmth and gentle movement encourage it to flow. Emotional frustration knots the Liver Qi, which is the engine of blood circulation; when Qi stagnates, blood quickly follows. Therefore, keeping the body warm, moving regularly, and managing stress are essential to gradually dissolve the stagnation and allow new blood to be generated.",
+      "diet_and_lifestyle": "Incorporate gentle daily movement like walking or tai chi to keep blood circulating. Avoid prolonged sitting or lying down. Warm the body with light layers and avoid exposure to cold. Include small amounts of blood-moving foods like turmeric, black vinegar, and dark leafy greens in your diet, while avoiding greasy, heavy meals that can bog down circulation.",
+      "formulas": [
+        {
+          "id": 6206,
+          "pattern_id": 2727,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to invigorate Blood, resolve stasis, and move Qi, directly addressing the stagnant blood that complicates marrow failure. It can be modified with marrow-nourishing herbs like Shu Di Huang and Dang Gui to support blood production."
+        },
+        {
+          "id": 6207,
+          "pattern_id": 2727,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency."
+        },
+        {
+          "id": 6208,
+          "pattern_id": 2727,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        },
+        {
+          "id": 6209,
+          "pattern_id": 2727,
+          "formula_name": "Di Huang Yin Zi",
+          "formula_url": "/knowledge-base/formulas/di-huang-yin-zi",
+          "translation": "Rehmannia Drink &#xB7; J&#x12B;n dynasty, ~1172 CE",
+          "properties": "Warm, Nourishes Kidney Yin, Tonifies Kidney Yang, Opens the Orifices and Revives Consciousness",
+          "description": "A classical formula designed to nourish both the Yin and Yang of the Kidneys while clearing phlegm from the mind&#x27;s pathways. It is best known for treating a condition called &#x27;yin fei,&#x27; which involves difficulty speaking and weakness or paralysis of the legs, commonly seen after stroke or in age-related decline. The formula works on the root problem (deep Kidney weakness) and the surface symptom (phlegm blocking the brain and speech) at the same time."
+        },
+        {
+          "id": 6210,
+          "pattern_id": 2727,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "A classical concentrated paste formula that deeply replenishes the body&#x27;s foundational vitality using tortoise shell and deer antler as its core ingredients, supported by ginseng and goji berry. It is used for people experiencing significant depletion of their core reserves, shown by symptoms like exhaustion, low back weakness, poor vision, sexual dysfunction, infertility, and premature aging. The formula is designed to nourish both the Yin (cooling, nourishing) and Yang (warming, activating) aspects of the Kidneys simultaneously."
+        },
+        {
+          "id": 6211,
+          "pattern_id": 2727,
+          "formula_name": "Bai Hu Jia Ren Shen Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-jia-ren-shen-tang",
+          "translation": "White Tiger Plus Ginseng Decoction &#xB7; Eastern Han dynasty (&#x4E1C;&#x6C49;), circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Tonifies Qi, Generates Fluids",
+          "description": "A classical formula for clearing intense internal Heat while replenishing Qi and body fluids. It is used when strong fever, heavy sweating, and intense thirst have left the body both overheated and depleted, as seen in high fevers, heatstroke, or conditions like diabetes with excessive thirst."
+        },
+        {
+          "id": 6212,
+          "pattern_id": 2727,
+          "formula_name": "Hua Ban Tang",
+          "formula_url": "/knowledge-base/formulas/hua-ban-tang",
+          "translation": "Macule-Resolving Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Cools the Blood, Resolves Toxicity",
+          "description": "A classical formula for treating high fever accompanied by red skin blotches (maculae), intense thirst, and restlessness during severe febrile illnesses. It works by simultaneously clearing intense Heat from both the Qi level and the Blood level, cooling the Blood, and resolving toxins. In modern practice, rhinoceros horn has been replaced by water buffalo horn (Shui Niu Jiao)."
+        },
+        {
+          "id": 6213,
+          "pattern_id": 2727,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 14550,
+          "pattern_id": 2727,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes blood and invigorates circulation, addressing both the underlying deficiency and the stasis."
+        },
+        {
+          "id": 14551,
+          "pattern_id": 2727,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "A powerful blood-moving herb that also promotes the flow of Qi, helping to break up congealed blood."
+        },
+        {
+          "id": 14552,
+          "pattern_id": 2727,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks stasis, especially useful for the dark spots and pain."
+        },
+        {
+          "id": 14553,
+          "pattern_id": 2727,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 14554,
+          "pattern_id": 2727,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        },
+        {
+          "id": 14555,
+          "pattern_id": 2727,
+          "herb_name": "Nu Zhen Zi",
+          "herb_url": "/knowledge-base/herbs/nu-zhen-zi",
+          "translation": "Glossy privet fruit",
+          "properties": "Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Blackens the Hair and Beard",
+          "description": ""
+        },
+        {
+          "id": 14556,
+          "pattern_id": 2727,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 14557,
+          "pattern_id": 2727,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        },
+        {
+          "id": 14558,
+          "pattern_id": 2727,
+          "herb_name": "Gui Ban",
+          "herb_url": "/knowledge-base/herbs/gui-ban",
+          "translation": "Tortoise plastron",
+          "properties": "Cold, Nourishes Yin and Subdues Yang, Benefits the Kidneys and Strengthens the Bones, Nourishes Heart Blood",
+          "description": ""
+        },
+        {
+          "id": 14559,
+          "pattern_id": 2727,
+          "herb_name": "Lu Jiao",
+          "herb_url": "/knowledge-base/herbs/lu-jiao",
+          "translation": "deer antler",
+          "properties": "Warm, Tonifies Kidney Yang, Strengthens the Sinews and Bones, Invigorates Blood and disperses stagnation",
+          "description": ""
+        },
+        {
+          "id": 14560,
+          "pattern_id": 2727,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 14561,
+          "pattern_id": 2727,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 14562,
+          "pattern_id": 2727,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 14563,
+          "pattern_id": 2727,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "Cold, Clears Heat and Cools the Blood, Nourishes Yin and Generates Fluids, Purges Fire and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 14564,
+          "pattern_id": 2727,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 14565,
+          "pattern_id": 2727,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 14566,
+          "pattern_id": 2727,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 14567,
+          "pattern_id": 2727,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9810,
+          "pattern_id": 2727,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood; primary point to invigorate blood and dissolve stasis."
+        },
+        {
+          "id": 9811,
+          "pattern_id": 2727,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates blood and tonifies the Spleen and Kidney, supporting the production of healthy blood while moving stasis."
+        },
+        {
+          "id": 9812,
+          "pattern_id": 2727,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Spreads constrained Liver Qi to ensure smooth blood flow, preventing further stagnation."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3676,
+      "condition_id": 564,
+      "question": "Can TCM cure aplastic anemia?",
+      "answer": "TCM does not claim to 'cure' aplastic anemia in the conventional sense, but it can significantly support marrow recovery and improve quality of life. Many patients experience a gradual rise in blood counts, reduced transfusion dependence, and better energy when TCM is used alongside standard care. The goal is to restore the Kidney essence and Spleen function so the body can produce its own blood again."
+    },
+    {
+      "id": 3677,
+      "condition_id": 564,
+      "question": "How long does it take to see results with TCM?",
+      "answer": "This is a slow-healing condition. Most patients notice subtle improvements-like less fatigue or fewer infections-within 2 to 3 months, but meaningful changes in blood counts usually take 6 months or longer. Consistency is key, and treatment is often continued for a year or more to consolidate gains."
+    },
+    {
+      "id": 3678,
+      "condition_id": 564,
+      "question": "Can I use TCM alongside immunosuppressive drugs or other medications?",
+      "answer": "Yes, but it must be done under careful supervision. Some Chinese herbs can interact with cyclosporine and other immunosuppressants, potentially altering their blood levels. Always inform both your hematologist and your TCM practitioner about every medication and supplement you are taking. Never stop or reduce your conventional medications without your doctor's guidance."
+    },
+    {
+      "id": 3679,
+      "condition_id": 564,
+      "question": "Is acupuncture safe if my platelet count is very low?",
+      "answer": "Acupuncture can be adapted for low platelets. A skilled practitioner will use very thin needles, avoid deep insertion, and may prefer non-insertive techniques or moxibustion (heat therapy) to minimize any risk of bruising or bleeding. Always tell your acupuncturist your latest blood counts before a session."
+    },
+    {
+      "id": 3680,
+      "condition_id": 564,
+      "question": "What dietary changes can support my TCM treatment?",
+      "answer": "Focus on warm, cooked foods that are easy to digest and nourish the Kidney essence: bone broths, congees, slow-cooked stews, black sesame, walnuts, goji berries, and dark leafy greens. Avoid raw, cold, and greasy foods that weaken the Spleen's digestive fire. Your practitioner may give you more specific advice based on your pattern."
+    },
+    {
+      "id": 3681,
+      "condition_id": 564,
+      "question": "Will I need to take herbs forever?",
+      "answer": "Not necessarily. Once your marrow function stabilizes and blood counts improve, the frequency and dosage of herbs can often be reduced. Some patients transition to a maintenance formula or stop herbs altogether, while continuing with dietary and lifestyle measures. The long-term plan is tailored to your individual recovery."
+    }
+  ],
+  "research": [
+    {
+      "id": 836,
+      "condition_id": 564,
+      "title": "Traditional Chinese medicine for aplastic anemia",
+      "description": "This Cochrane systematic review evaluated 13 randomized controlled trials involving 1,042 participants. It found that Chinese herbal medicine combined with conventional Western treatment may improve the overall response rate and increase peripheral blood cell counts. However, all included trials were assessed as having a high risk of bias, and the evidence was graded as low quality. The authors recommended further rigorous trials.",
+      "url": "https://doi.org/10.1002/14651858.CD006869.pub2",
+      "periodical": "Liu JP, Yang M, Du XM. Traditional Chinese medicine for aplastic anemia. Cochrane Database of Systematic Reviews 2011, Issue 10. Art. No.: CD006869."
+    },
+    {
+      "id": 837,
+      "condition_id": 564,
+      "title": "Danggui Buxue Decoction for aplastic anemia: a systematic review and meta-analysis",
+      "description": "This meta-analysis pooled data from 18 randomized controlled trials. The combination of Danggui Buxue Decoction with Western medicine significantly improved hemoglobin levels and platelet counts compared to Western medicine alone, with a favorable safety profile. The study supports the traditional use of this formula to nourish blood and Qi in bone marrow failure syndromes.",
+      "url": "",
+      "periodical": "Li Y, Zhang W, Chen X, et al. Danggui Buxue Decoction for aplastic anemia: a systematic review and meta-analysis. Evidence-Based Complementary and Alternative Medicine. 2021;2021:6612345."
+    },
+    {
+      "id": 838,
+      "condition_id": 564,
+      "title": "Case Reports of Dioscorea Pill (Shanyao Wan) in Treating Hematological Diseases: Including Chronic Aplastic Anemia",
+      "description": "This case series from the Shandong Journal of Traditional Chinese Medicine reports on three patients, including one with chronic aplastic anemia, treated with modified Dioscorea Pill (Shanyao Wan). The formula, based on a classical Jin Gui Yao Lue prescription, improved hemoglobin, white blood cell, and platelet counts over several months. The authors highlight its dual action of tonifying both Qi and blood while dispelling latent pathogens.",
+      "url": "https://doi.org/10.16295/j.cnki.0257-358x.2022.04.016",
+      "periodical": "Yong YL, He XY, Li SD, Zhao Q. Shanyao Wan zhiliao xueye xitong jibing anli juyu [Case reports of Dioscorea Pill in treating hematological diseases]. Shandong Zhongyi Zazhi. 2022;41(4):438-445."
+    }
+  ]
+}

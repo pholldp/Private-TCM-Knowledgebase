@@ -1,0 +1,453 @@
+{
+  "id": 20,
+  "name": "Measles",
+  "url": "/knowledge-base/conditions/measles",
+  "kind": "Condition",
+  "pinyin": "má zhěn",
+  "chinese_name": "麻疹",
+  "preview_text": "TCM sees measles as a predictable journey through three stages, and by matching treatment to the exact stage, herbs can speed recovery, bring down fever safely, and prevent the lin...",
+  "categories": "[\"Infectious Diseases\", \"Viral Infections\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Early Stage Measles\", \"Beginning Of Measles\", \"Measles (early stage)\", \"Early-stage measles\"]",
+  "conventional_description": "Measles is a highly contagious viral infection caused by the measles virus. It spreads through respiratory droplets and typically begins with fever, cough, runny nose, and conjunctivitis, followed by a characteristic red rash that starts on the face and spreads downward. Diagnosis is usually based on the classic clinical picture and can be confirmed with blood tests. While most people recover fully, complications such as pneumonia, encephalitis, and severe dehydration are possible, especially in young children, adults, and those with weakened immunity.",
+  "conventional_treatments": "Conventional management is mainly supportive: rest, fluids, and fever control with acetaminophen or ibuprofen. Vitamin A supplementation is recommended to reduce the risk of complications and mortality, particularly in children. There is no specific antiviral drug for measles. Prevention relies on the MMR (measles, mumps, rubella) vaccine, which is highly effective.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, measles is understood as an invasion of a seasonal epidemic toxin, called má dú (麻毒), that enters through the mouth and nose. It first attacks the Lung and its defensive exterior, causing the early symptoms of fever, cough, sneezing, and red watery eyes. At this stage, the body's defensive Qi is trying to push the pathogen out, and the goal of treatment is to help it do so - to vent the rash outward, not suppress it.\nIf the toxin is not fully vented, it deepens and transforms into intense Toxic-Heat that floods the whole body. This is the eruptive stage: high fever, a dense dark-red rash, extreme thirst, and irritability. The heat has moved into the blood and is consuming body fluids. Treatment here must clear the heat aggressively and cool the blood to prevent complications like convulsions or pneumonia.\nAfter the rash fades, the body is often left in a state of Qi and Yin Deficiency. The intense fever has burned up both energy and cooling fluids, leaving behind a low-grade fever, deep fatigue, dry mouth, and a lingering cough. This recovery phase requires gentle tonics to rebuild the body rather than more clearing herbs. So three different patterns - Wind-Heat, Toxic-Heat, and Qi and Yin Deficiency - map onto the natural progression of measles, and each needs its own treatment strategy.",
+  "classical_quote": "「麻为阳毒，由肺胃蕴热，复感时邪而发。初起发热咳嗽，眼泪汪汪，疹点先见于耳后发际，渐及全身。治宜透发为主，不可骤用寒凉，使毒内陷。」",
+  "classical_translation": "\"Measles is a yang toxin; it arises when latent heat in the Lung and Stomach combines with an external seasonal pathogen. Initially there is fever, cough, and watery eyes. The rash first appears behind the ears and at the hairline, then gradually spreads over the whole body. Treatment should focus on promoting eruption; one must not abruptly use cold, bitter herbs, or the toxin may be driven inward.\"",
+  "classical_source": "Yi Zong Jin Jian (Golden Mirror of Medicine)  ,  Volume on Smallpox and Measles (Dou Zhen Xin Fa Yao Jue) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first asks about the timeline of the illness. Measles follows a fairly predictable path, and knowing whether the rash is just beginning, at its peak, or fading helps narrow the patterns right away. The early days belong to one picture, the full-blown eruption to another, and the recovery to a third.\nIn the early stage the practitioner looks for a Wind-Heat pattern. The child or adult will have a rising fever, cough, runny nose, sneezing, and red, watery eyes that dislike light. The tongue tip is red with a thin yellow coat, and the pulse feels floating and rapid. These are signs that the measles toxin is still at the body’s surface, trying to break through.\nWhen the rash appears densely and the fever spikes high, the picture shifts to Toxic-Heat. The person is intensely hot, very thirsty, irritable, and may have a red face. The rash is a deep red or even purplish, covering the body. The tongue is red with a dry yellow coat, and the pulse becomes flooding and rapid. This tells the practitioner the heat has moved deep into the qi level and must be cleared forcefully.\nAfter the rash fades, if the person feels wiped out, with a lingering low fever, dry mouth, poor appetite, and a tired, washed-out look, the pattern is Qi and Yin Deficiency. The tongue may be red with little coating or pale and thin, and the pulse is thready and weak. The heat has consumed the body’s fluids and vital energy, so the focus turns to gentle nourishment rather than clearing.",
+  "patterns": [
+    {
+      "id": 101,
+      "condition_id": 20,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Fever greater than chills, mild sweating\", \"Sore, red throat\", \"Cough with yellow phlegm\", \"Red, watery eyes\", \"Rash begins behind ears, spreads to face\", \"Thirst and dry mouth\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Exposure to wind and cold, Overexertion, Emotional stress",
+      "better_with": "Plenty of rest, Warm herbal teas, Light, bland foods, Cool, fresh air (avoid drafts)",
+      "why_this_happens": "Measles begins when the wind-heat epidemic toxin (麻毒) invades through the mouth and nose, lodging first in the Lung and its defensive exterior. The pathogen obstructs the Lung’s ability to diffuse and descend Qi, causing fever, cough, and sore throat. The body’s defensive Qi fights to push the toxin outward through the skin, producing the earliest red spots behind the ears and along the hairline. This early stage is a classic exterior wind-heat pattern, with heat symptoms more prominent than chills.",
+      "tongue_and_pulse": "Tongue: red tip and edges with a thin yellow (or white-to-yellow) coating. Pulse: floating and rapid.",
+      "why_triggers_reliefs_work": "Rest conserves the body’s defensive Qi, allowing it to focus on pushing the measles toxin outward. Warm fluids and light foods support the Stomach and Spleen without generating dampness or heat, while spicy and greasy foods add internal heat and can drive the rash deeper. Exposure to wind can trap the exterior pathogen and prevent it from being released, so a calm, protected environment aids recovery.",
+      "diet_and_lifestyle": "Rest in a well-ventilated room away from drafts. Drink plenty of warm fluids like chrysanthemum tea or pear juice to soothe the throat and help release the pathogen. Eat light, easy-to-digest foods such as rice congee; avoid spicy, greasy, and cold foods that can trap the heat and worsen the rash.",
+      "formulas": [
+        {
+          "id": 218,
+          "pattern_id": 101,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The classic formula to release exterior wind-heat, clear lung heat, and vent the measles rash in its early stage."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 511,
+          "pattern_id": 101,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, helping to vent the rash."
+        },
+        {
+          "id": 512,
+          "pattern_id": 101,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses wind-heat and clears heat, especially from the upper body."
+        },
+        {
+          "id": 513,
+          "pattern_id": 101,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases the exterior, soothes the throat, and encourages the rash to surface."
+        },
+        {
+          "id": 514,
+          "pattern_id": 101,
+          "herb_name": "Chan Tui",
+          "herb_url": "/knowledge-base/herbs/chan-tui",
+          "translation": "Cicada Slough",
+          "properties": "",
+          "description": "Vents rashes and stops itching, guiding the measles toxin outward."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 336,
+          "pattern_id": 101,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduced. Releases exterior wind-heat and relieves sore throat."
+        },
+        {
+          "id": 337,
+          "pattern_id": 101,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduced. Clears heat from the body, especially for fever and skin eruptions."
+        },
+        {
+          "id": 338,
+          "pattern_id": 101,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Reduced. Clears lung heat and stops cough."
+        },
+        {
+          "id": 339,
+          "pattern_id": 101,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduced. Clears heat and releases the exterior; crucial for fever in measles."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "condition_id": 20,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever (often 39&#xB0;C or higher)\", \"Dense, dark-red or purple rash covering the body\", \"Intense thirst with craving for cold drinks\", \"Restlessness and irritability\", \"Red, sore throat\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Hot environment, Overexertion, Emotional stress",
+      "better_with": "Cool drinks, Cool, comfortable environment, Light, bland foods, Cool compresses on forehead",
+      "why_this_happens": "In measles, the initial wind-heat can progress inward if not resolved, transforming into toxic-heat that floods the body. The intense heat and toxin surge into the blood and erupt through the skin as a dense, dark-red rash. At the same time, the heat consumes body fluids, causing the high fever, extreme thirst, and restlessness that mark this eruptive stage.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns and dry yellow coating. Pulse: rapid (shu) and forceful, often full or overflowing.",
+      "why_triggers_reliefs_work": "Toxic-Heat is an intense interior heat condition. Anything that adds heat (spicy food, hot environment, stress) fuels the fire and worsens symptoms. Cooling measures (cool drinks, rest, light foods) help to clear heat and protect the body's fluids, allowing the rash to resolve smoothly.",
+      "diet_and_lifestyle": "Drink plenty of cool water and eat light, cooling foods like watermelon juice and mung bean soup. Avoid spicy, fried, or greasy foods that add heat. Rest in a cool, well-ventilated room.",
+      "formulas": [
+        {
+          "id": 219,
+          "pattern_id": 102,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "The primary formula to clear toxic-heat, reduce fever, and resolve the measles rash."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 515,
+          "pattern_id": 102,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains fire and resolves toxin, targeting the intense fever and irritability."
+        },
+        {
+          "id": 516,
+          "pattern_id": 102,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and relieves toxicity, helping to bring the rash to the surface and resolve it."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 340,
+          "pattern_id": 102,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Meeting point of all yang channels; powerfully reduces fever."
+        },
+        {
+          "id": 341,
+          "pattern_id": 102,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat from the body and skin, alleviating the rash."
+        },
+        {
+          "id": 342,
+          "pattern_id": 102,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and alleviates the intense, dark-red rash."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "condition_id": 20,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Lingering low-grade fever, worse in the afternoon\", \"Deep fatigue and lack of strength\", \"Dry mouth and throat with little desire to drink\", \"Night sweats\", \"Poor appetite\"]",
+      "worse_with": "Overexertion, Spicy, greasy, or fried foods, Alcohol and coffee, Emotional stress, Lack of sleep",
+      "better_with": "Plenty of rest, Warm, moistening foods like pear congee, Adequate hydration, Cool, comfortable environment",
+      "why_this_happens": "During the eruptive stage of measles, the body’s Qi and fluids are mobilised to push the rash out. That intense heat consumes both Qi and Yin, so once the rash fades the body is left depleted. The result is a lingering low-grade fever, deep fatigue, and dry mouth-classic signs that the body’s fuel (Qi) and coolant (Yin) are both running low.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, dry surface, possibly cracked. Pulse: fine (thin) and weak, often rapid.",
+      "why_triggers_reliefs_work": "<p>After measles, the body is like a pot that has boiled dry-heat has consumed the fluids (Yin) and the fire’s strength (Qi) is nearly spent. Rest conserves what little Qi remains, while moistening foods and fluids gently replenish Yin without overwhelming the weak digestion. Spicy or fried foods add heat and further dry out fluids, and overexertion squanders the Qi the body desperately needs for repair. A cool environment soothes residual heat without shocking the system.</p>",
+      "diet_and_lifestyle": "Focus on gentle, easy-to-digest, moistening foods. Congee made with pear, lily bulb (bai he), or white wood ear is ideal. Sip warm water or chrysanthemum tea through the day. Avoid spicy, fried, or greasy foods that can dry out fluids further. Prioritise rest and keep activity very light until energy returns.",
+      "formulas": [
+        {
+          "id": 220,
+          "pattern_id": 103,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "Boosts both Qi and Yin, often combined with Liu Wei Di Huang Wan to nourish Kidney Yin and clear residual heat."
+        },
+        {
+          "id": 221,
+          "pattern_id": 103,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "Nourishes Yin to address the root of the deficiency after heat has consumed fluids."
+        },
+        {
+          "id": 222,
+          "pattern_id": 103,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 223,
+          "pattern_id": 103,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 224,
+          "pattern_id": 103,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        },
+        {
+          "id": 225,
+          "pattern_id": 103,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 517,
+          "pattern_id": 103,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens the lungs and stomach, nourishes Yin, and clears lingering heat."
+        },
+        {
+          "id": 518,
+          "pattern_id": 103,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi to restore energy and strengthen the body&#x2019;s recovery."
+        },
+        {
+          "id": 519,
+          "pattern_id": 103,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 520,
+          "pattern_id": 103,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 521,
+          "pattern_id": 103,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 522,
+          "pattern_id": 103,
+          "herb_name": "Chan Tui",
+          "herb_url": "/knowledge-base/herbs/chan-tui",
+          "translation": "Cicada Slough",
+          "properties": "Cold, Disperses Wind-Heat, Benefits the Throat and Restores the Voice, Vents Rashes and Stops Itching",
+          "description": ""
+        },
+        {
+          "id": 523,
+          "pattern_id": 103,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 524,
+          "pattern_id": 103,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 525,
+          "pattern_id": 103,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 343,
+          "pattern_id": 103,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and blood, strengthens digestion to rebuild energy."
+        },
+        {
+          "id": 344,
+          "pattern_id": 103,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonises the Spleen, Liver, and Kidney."
+        },
+        {
+          "id": 345,
+          "pattern_id": 103,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel, deeply nourishes Yin and clears deficiency heat."
+        },
+        {
+          "id": 346,
+          "pattern_id": 103,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Back-Shu point of the Lung, soothes any residual cough and supports lung Yin."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 121,
+      "condition_id": 20,
+      "question": "Can TCM treat measles?",
+      "answer": "Yes, TCM has a long history of managing measles and its complications. It does not replace the need for medical monitoring - especially in severe cases - but herbal formulas and acupuncture can support the body through each stage: helping the rash emerge, controlling fever, and speeding recovery. Always work with a qualified TCM practitioner and keep your doctor informed."
+    },
+    {
+      "id": 122,
+      "condition_id": 20,
+      "question": "Is it safe to use Chinese herbs alongside conventional care for measles?",
+      "answer": "Generally yes, when prescribed by a trained practitioner. The herbs used are typically gentle and work alongside rest and fluids. However, never combine herbs with any prescribed medications without consulting both your doctor and your TCM practitioner. If the patient is taking acetaminophen or ibuprofen, herbs are usually fine, but always disclose everything."
+    },
+    {
+      "id": 123,
+      "condition_id": 20,
+      "question": "How quickly can TCM help reduce fever in measles?",
+      "answer": "In the early Wind-Heat stage, the right formula can often bring the fever down within 24 to 48 hours, while also encouraging the rash to emerge. In the Toxic-Heat stage, stronger heat-clearing herbs may be needed and can take 2-3 days to noticeably lower a high fever. Fever is a normal part of the body's response; the goal is not to suppress it abruptly but to guide it safely through the illness."
+    },
+    {
+      "id": 124,
+      "condition_id": 20,
+      "question": "Can TCM prevent measles complications like pneumonia or encephalitis?",
+      "answer": "While no approach can guarantee prevention, TCM's strategy of fully venting the rash and clearing heat in the early and peak stages may reduce the likelihood of the toxin sinking deeper into the Lungs or disturbing the Heart (which, in TCM terms, corresponds to neurological complications). Close monitoring for any warning signs remains essential."
+    },
+    {
+      "id": 125,
+      "condition_id": 20,
+      "question": "What foods should be avoided during measles?",
+      "answer": "During the illness, avoid spicy, greasy, fried, or very cold foods, as they can hinder the rash from emerging fully or trap heat inside. Also steer clear of seafood and other potential 'wind' triggers. Light, easily digested foods like rice porridge, pear, and chrysanthemum tea are ideal. After the rash fades, nourishing soups and congees help rebuild strength."
+    },
+    {
+      "id": 126,
+      "condition_id": 20,
+      "question": "Can children take Chinese herbs for measles?",
+      "answer": "Yes, children can take TCM herbal formulas, but the dosage must be carefully adjusted by a qualified practitioner. Many classic measles formulas are designed specifically for pediatric use. Never give adult dosages to a child, and always have the child monitored by a pediatrician alongside TCM care."
+    },
+    {
+      "id": 127,
+      "condition_id": 20,
+      "question": "Does acupuncture help with measles?",
+      "answer": "Acupuncture is less commonly used as the primary treatment during the acute rash stage, but it can be very helpful for managing high fever, severe cough, or irritability. Specific points on the arms and back can help clear heat and support the Lungs. In the recovery phase, acupuncture and moxibustion can boost Qi and Yin to combat fatigue and lingering cough."
+    }
+  ],
+  "research": [
+    {
+      "id": 41,
+      "condition_id": 20,
+      "title": "A retrospective study on the efficacy of integrating traditional Chinese medicine with Western medicine in the treatment of adult measles",
+      "description": "This retrospective study analysed 60 adult measles patients, comparing outcomes between those who received combined TCM-Western therapy and those who received Western medicine alone. The integrated group showed significantly shorter fever duration and faster rash resolution, suggesting that TCM herbal therapy may improve clinical recovery in adult measles.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12297466",
+      "periodical": "Zhang X, Liu Y, Wang H, et al. A retrospective study on the efficacy of integrating traditional Chinese medicine with Western medicine in the treatment of adult measles. BMC Complement Med Ther. 2024;24:156."
+    }
+  ]
+}

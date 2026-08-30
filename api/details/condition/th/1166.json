@@ -1,0 +1,682 @@
+{
+  "id": 1166,
+  "name": "ความเจ็บปวดเฉพาะที่",
+  "url": "/knowledge-base/conditions/localized-pain",
+  "kind": "Symptom",
+  "pinyin": "gù dìng tòng",
+  "chinese_name": "固定痛",
+  "preview_text": "ในการแพทย์แผนจีน ความเจ็บปวดที่ไม่เคยหายไปจากจุดใดจุดหนึ่งไม่ได้เป็นเพียงอาการเท่านั้น แต่ยังเป็นแผนงานอีกด้วย โดยการอ่านตัวอักษร เราสามารถระบุได้ว่าเลือดชะงักงัน ความเย็นชื้น หรือขาดอย่างล้ำลึก...",
+  "categories": "[\"อาการปวดตามร่างกายทั่วไป\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Fixed Localized Pain\", \"Pain in a fixed location\"]",
+  "conventional_description": "From a Western medical perspective, localized pain is typically traced to a specific anatomical structure: a joint, muscle, tendon, ligament, or nerve. Common causes include injury, overuse, arthritis, tendinitis, bursitis, or nerve compression. Diagnosis relies on physical examination, patient history, and imaging such as X-ray, MRI, or ultrasound to identify tissue damage or inflammation. The pain is usually described by its quality (sharp, dull, throbbing) and its exact location, and treatment is directed at the affected tissue.",
+  "conventional_treatments": "Standard treatment for localized pain includes rest, ice or heat, physical therapy, and over-the-counter or prescription anti-inflammatory medications (NSAIDs). For more persistent cases, corticosteroid injections, nerve blocks, or surgery may be considered. The approach aims to reduce inflammation, relieve pain, and restore function, often without addressing systemic factors that may predispose the area to repeated injury or slow healing.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In Traditional Chinese Medicine, pain that stays in one place tells a different story than pain that moves. A fixed, unchanging location points to a physical blockage in the channels—something is stuck. This is the concept of stagnation: when Qi, Blood, or fluids like Phlegm or Dampness are obstructed in a specific area, they create a localized, unchanging pain. By examining the quality of the pain—sharp, heavy, dull, or nodular—a TCM practitioner can identify exactly what is stuck and choose the appropriate treatment to unblock it.",
+  "classical_quote": "「寒气客于脉外则脉寒，脉寒则缩踡，缩踡则脉绌急，绌急则外引小络，故卒然而痛，得炅则痛立止。」",
+  "classical_translation": "\"When cold Qi lodges outside the vessels, the vessels become cold and contract, causing sudden, fixed pain. Applying heat stops the pain immediately. This describes how cold-induced stagnation leads to localized pain.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen  ,  Chapter 39, Ju Tong Lun (On Pain) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first asks about the nature of the pain. Blood Stagnation produces a sharp, stabbing sensation that is fixed in one spot and worsens with pressure or at night. The tongue will show a dark purple body with possible stasis spots, and the pulse feels choppy or wiry.\nIf the pain is fixed but partially eases with gentle movement or pressure, Qi and Blood Stagnation is likely. This pattern often accompanies emotional stress, and the tongue may appear dark or have distended sublingual veins. The pulse is typically wiry and tense.\nDamp-Cold obstruction creates a heavy, aching pain that is deeply fixed and intensifies in cold or damp weather. Warmth brings relief. The tongue is pale with a thick, white, greasy coating, and the pulse is deep, slow, and slippery.\nPhlegm in the Channels leads to a fixed, stabbing pain that may feel nodular or lumpy. The tongue often shows a purple body with stasis spots and a greasy coat; the pulse is wiry and choppy, or slippery if Phlegm dominates.\nIn long-standing cases where the pain is fixed but accompanied by weakness, sore lower back and knees, and a dull complexion, the root is Painful Obstruction with Liver and Kidney Deficiency. The tongue is pale, and the pulse is weak and thready, reflecting the body's depleted reserves.",
+  "patterns": [
+    {
+      "id": 5764,
+      "condition_id": 1166,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain\", \"Pain worsens at night\", \"Pain worse with pressure\", \"Dark purplish lips or nails\", \"Dark menstrual blood with clots\"]",
+      "worse_with": "Nighttime, Cold weather, Prolonged inactivity, Pressure on the painful area, Emotional stress",
+      "better_with": "Gentle movement, Applying warmth, Light stretching",
+      "why_this_happens": "When blood flow becomes stagnant, it blocks the channels and vessels, creating a fixed, knife-like pain that does not move. The stasis is like a traffic jam in the body's circulation, and because blood flow naturally slows at night, the pain intensifies. Pressure further obstructs the already blocked area, making it feel worse.",
+      "tongue_and_pulse": "Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩, sè) or wiry (弦, xián).",
+      "why_triggers_reliefs_work": "Blood stasis obstructs the channels, so warmth and gentle movement promote circulation and help dissolve the blockage. Cold and inactivity congeal the blood, making the stagnation worse. Pressure directly compresses the already blocked area, while nighttime slows circulation further, both intensifying the fixed pain. Stress constrains Qi, which then fails to move blood, adding to the stasis.",
+      "diet_and_lifestyle": "Eat warm, cooked foods and avoid cold, raw items that congeal blood. Gentle daily movement like walking or tai chi helps keep Qi and blood flowing. Do not sit or lie down for long periods; take breaks to stretch.",
+      "formulas": [
+        {
+          "id": 13066,
+          "pattern_id": 5764,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to invigorate blood, remove stasis, and relieve fixed pain."
+        },
+        {
+          "id": 13067,
+          "pattern_id": 5764,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "Specifically targets blood stasis causing generalized body pain and stiffness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30291,
+          "pattern_id": 5764,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up stagnant blood and relieves stabbing pain."
+        },
+        {
+          "id": 30292,
+          "pattern_id": 5764,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood circulation and dissolves stasis."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20623,
+          "pattern_id": 5764,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood; strongly moves blood and dispels stasis."
+        },
+        {
+          "id": 20624,
+          "pattern_id": 5764,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates blood and promotes smooth flow in the lower body."
+        },
+        {
+          "id": 20625,
+          "pattern_id": 5764,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Moves Liver Qi and blood to unblock stagnation throughout the body."
+        }
+      ]
+    },
+    {
+      "id": 5765,
+      "condition_id": 1166,
+      "pattern_name": "Qi And Blood Stagnation",
+      "pattern_slug": "qi-and-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain\", \"Distending pain in the chest or rib area\", \"Irritability or mood swings\", \"Dark purple tongue or stasis spots\", \"Dark menstrual blood with clots\"]",
+      "worse_with": "Emotional stress, Cold weather, Prolonged inactivity, Pressure on the painful area, Fatigue",
+      "better_with": "Gentle movement, Applying warmth, Emotional calm, Deep breathing, Light stretching",
+      "why_this_happens": "When emotional stress or frustration knots the Liver Qi, the smooth flow of blood slows and eventually stagnates in the channels. This creates a fixed, stabbing pain because the blood is trapped in one place, while the underlying Qi stagnation also produces a distending sensation in the chest and ribs. The pain is worse with pressure because pressing further obstructs the already sluggish flow.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots, distended sublingual veins, thin white coat. Pulse: wiry (xian) and choppy (se), feeling like a taut guitar string that scrapes unevenly.",
+      "why_triggers_reliefs_work": "Stress and emotional upset knot the Liver Qi, which directly worsens blood stasis and pain. Cold contracts the vessels, making blood flow even more sluggish. Gentle movement and warmth help circulate Qi and blood through the obstructed channel, while rest and calm prevent further Qi stagnation. Pressure aggravates because it further compresses the already blocked flow.",
+      "diet_and_lifestyle": "Eat warm, cooked foods and include gentle blood-moving spices like turmeric, ginger, and black pepper. Avoid cold, raw foods and excessive dairy that can congeal blood. Regular, moderate exercise like walking or yoga helps keep Qi and blood flowing. Practice stress-reduction techniques, as emotional tension directly aggravates this pattern.",
+      "formulas": [
+        {
+          "id": 13068,
+          "pattern_id": 5765,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to invigorate blood and smooth Liver Qi, especially for chest and upper body fixed pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30293,
+          "pattern_id": 5765,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and relieves pain."
+        },
+        {
+          "id": 30294,
+          "pattern_id": 5765,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves both blood and Qi, guiding herbs to the site of pain."
+        },
+        {
+          "id": 30295,
+          "pattern_id": 5765,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes Liver Qi stagnation that underlies the stasis."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20626,
+          "pattern_id": 5765,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Combined with Hegu to open the Four Gates and powerfully move Qi and blood."
+        },
+        {
+          "id": 20627,
+          "pattern_id": 5765,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Moves Qi and blood throughout the body, especially for upper body pain."
+        },
+        {
+          "id": 20628,
+          "pattern_id": 5765,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and dispels stasis."
+        },
+        {
+          "id": 20629,
+          "pattern_id": 5765,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point for blood, used to activate circulation."
+        }
+      ]
+    },
+    {
+      "id": 5766,
+      "condition_id": 1166,
+      "pattern_name": "Damp-Cold",
+      "pattern_slug": "damp-cold",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, aching, fixed pain\", \"Often in lower back, joints, or abdomen\", \"Worse in cold or damp weather\", \"Feeling of heaviness in body and limbs, cold hands and feet\", \"Poor appetite, loose stools, bloating\", \"Pale, swollen tongue with thick white greasy coating\"]",
+      "worse_with": "Cold, damp weather, Cold or raw foods and drinks, Prolonged inactivity, Raw, greasy, or sweet foods, Exposure to cold water",
+      "better_with": "Applying warmth, Warm, dry weather, Warm, nourishing foods and drinks, Gentle movement, Moxibustion",
+      "why_this_happens": "When Cold and Dampness invade the body, they congeal and obstruct the channels and collaterals. Cold contracts and freezes, while Dampness is heavy and sticky, so together they block the free flow of Qi and blood. This creates a deep, heavy, fixed pain that feels worse in cold and damp weather and better with warmth.",
+      "tongue_and_pulse": "Tongue: pale, swollen with tooth marks and a thick white greasy coating, excessively moist. Pulse: deep, slow, and slippery.",
+      "why_triggers_reliefs_work": "Cold contracts and freezes, while Dampness is heavy and sticky. Together they block the channels, causing fixed pain. Warmth and dryness disperse Cold and Dampness, allowing Qi and blood to flow again. Cold and damp environments, as well as cold or greasy foods, add more Cold and Dampness to the body, worsening the blockage.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and stews. Avoid raw, cold, and greasy foods that create more Dampness. Keep the painful area warm with a heating pad or warm compress. Gentle exercise like walking or stretching can help move Qi and Dampness, but avoid overexertion in cold, wet weather.",
+      "formulas": [
+        {
+          "id": 13069,
+          "pattern_id": 5766,
+          "formula_name": "Gan Jiang Ling Zhu Tang",
+          "formula_url": "/knowledge-base/formulas/gan-jiang-ling-zhu-tang",
+          "translation": "Licorice, Ginger, Poria, and Atractylodes Decoction &#xB7; H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Warms the Interior and Dispels Cold, Strengthens the Spleen and Resolves Dampness, Percolates Dampness to Stop Diarrhea",
+          "description": "Warms the interior, dispels Cold, and drains Dampness to relieve fixed pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30296,
+          "pattern_id": 5766,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms the middle and expels Cold, relieving pain."
+        },
+        {
+          "id": 30297,
+          "pattern_id": 5766,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains Dampness and promotes urination to reduce heaviness."
+        },
+        {
+          "id": 30298,
+          "pattern_id": 5766,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens the Spleen to transform fluids."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20630,
+          "pattern_id": 5766,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxa. Strengthens Spleen and dispels Dampness."
+        },
+        {
+          "id": 20631,
+          "pattern_id": 5766,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves Dampness and opens the water passages."
+        },
+        {
+          "id": 20632,
+          "pattern_id": 5766,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxa. Warms the body&#x27;s core Yang to drive out Cold."
+        },
+        {
+          "id": 20633,
+          "pattern_id": 5766,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxa. Warms the Kidney and dispels Cold-Damp from the lower back."
+        }
+      ]
+    },
+    {
+      "id": 5767,
+      "condition_id": 1166,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "pattern_slug": "phlegm-in-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain\", \"Hard, nodular swelling near joints\", \"Purplish or dark skin discoloration around the affected joints\", \"Numbness or heavy sensation in the limbs\", \"Joint stiffness with difficulty bending or straightening\"]",
+      "worse_with": "Cold, damp weather, Greasy, heavy meals, Prolonged inactivity, Emotional stress",
+      "better_with": "Warm, dry weather, Gentle movement, Light, warm meals, Dry heat on the joints",
+      "why_this_happens": "When the body’s fluids don’t circulate properly, they can condense into a thick, sticky substance called Phlegm. This Phlegm can settle deep into the channels that run through your joints and muscles. There it mixes with stagnant blood to form hard, fixed lumps and nodules that physically block the flow of Qi and blood, causing a sharp, stabbing pain that stays in one spot and feels worse with pressure.",
+      "tongue_and_pulse": "Tongue: purple body with stasis spots, white greasy coating, distended sublingual veins. Pulse: wiry (Xian) and choppy (Se), or wiry and slippery (Hua) if Phlegm predominates.",
+      "why_triggers_reliefs_work": "Phlegm and blood stasis are congealed by cold and dampness, so warmth and dry conditions help dissolve them. Gentle movement encourages Qi and blood flow, preventing further stagnation. Heavy, greasy foods produce more Phlegm, while stress disrupts Qi flow, worsening stasis.",
+      "diet_and_lifestyle": "Avoid dairy, greasy, and overly sweet foods, which generate dampness and Phlegm. Eat warming, lightly spiced meals and keep your joints mobile with gentle daily movement like walking or tai chi to keep Qi and fluids flowing.",
+      "formulas": [
+        {
+          "id": 13070,
+          "pattern_id": 5767,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "The primary formula to unblock the channels, move blood, and relieve the fixed, nodular pain. It is often combined with Phlegm-transforming herbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30299,
+          "pattern_id": 5767,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms Phlegm, helping to dissolve the sticky obstructions in the channels."
+        },
+        {
+          "id": 30300,
+          "pattern_id": 5767,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "",
+          "description": "Reaches deep into the channels to sweep out stubborn Phlegm lodged in the joints and muscles."
+        },
+        {
+          "id": 30301,
+          "pattern_id": 5767,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Vigorously moves blood and breaks up the blood stasis that binds with Phlegm to cause fixed pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20634,
+          "pattern_id": 5767,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for Phlegm; reduces Phlegm and clears the channels."
+        },
+        {
+          "id": 20635,
+          "pattern_id": 5767,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and dispels stasis, directly addressing the blood component of the blockage."
+        },
+        {
+          "id": 20636,
+          "pattern_id": 5767,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Promotes the smooth flow of Qi and blood throughout the body, helping to dislodge stagnation."
+        }
+      ]
+    },
+    {
+      "id": 5768,
+      "condition_id": 1166,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "pattern_slug": "painful-obstruction-with-liver-and-kidney-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, aching pain that is fixed and chronic\", \"Lower back soreness and knee weakness\", \"Worse in cold or damp weather\", \"Fatigue and lack of stamina\", \"Pale or dull complexion\", \"Numbness or tingling in the limbs\"]",
+      "worse_with": "Cold, damp weather, Overexertion or prolonged standing, Cold or raw foods and drinks, Emotional stress, Inadequate rest",
+      "better_with": "Applying warmth, Gentle movement, Warm, nourishing foods and drinks, Rest and adequate sleep, Massage with warming oils",
+      "why_this_happens": "In this pattern, the Liver and Kidneys have been weakened by long-standing illness, overwork, or aging. The Liver stores Blood and the Kidneys govern the bones and marrow, so when they become deficient they can no longer nourish the sinews and joints. This leads to a deep, chronic ache that stays in one place because the underlying weakness affects specific areas-most often the lower back and knees-leaving the tissues underfed and vulnerable to cold and damp.",
+      "tongue_and_pulse": "Tongue: pale, thin body with a thin white coating. Pulse: fine, weak, and slow, especially weak at the Chi (rear) position.",
+      "why_triggers_reliefs_work": "This pattern is rooted in deficiency-the body’s Qi, Blood, and Essence are already low. Cold and damp further block the channels and deplete Yang, making the pain worse. Overexertion drains what little resource is left. Warmth, gentle movement, and nourishing foods support the Liver and Kidney, build Blood and Qi, and help the sinews stay supple. Rest allows the deep reserves to be rebuilt rather than spent.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like bone broths, stews, and congees with a little ginger or cinnamon. Avoid cold drinks, raw salads, and icy foods that chill the body. Gentle movement such as tai chi, qigong, or slow walking keeps the joints mobile without draining your reserves. Keep the painful area wrapped and warm, especially in damp weather. Prioritize rest and avoid pushing through fatigue-this pattern needs nourishment, not more effort.",
+      "formulas": [
+        {
+          "id": 13071,
+          "pattern_id": 5768,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "The classic formula to tonify Liver and Kidney, nourish Blood, and dispel Wind-Cold-Dampness, addressing both the root deficiency and the chronic fixed pain."
+        },
+        {
+          "id": 13072,
+          "pattern_id": 5768,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 13073,
+          "pattern_id": 5768,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "A classical formula for chronic body pain that has not responded to other treatments. It promotes blood circulation and opens the body&#x27;s channels to relieve stubborn pain in the shoulders, arms, lower back, legs, or throughout the whole body, especially when caused by blood stagnation combined with Wind and Dampness."
+        },
+        {
+          "id": 13074,
+          "pattern_id": 5768,
+          "formula_name": "Gan Jiang Ling Zhu Tang",
+          "formula_url": "/knowledge-base/formulas/gan-jiang-ling-zhu-tang",
+          "translation": "Licorice, Ginger, Poria, and Atractylodes Decoction &#xB7; H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Warms the Interior and Dispels Cold, Strengthens the Spleen and Resolves Dampness, Percolates Dampness to Stop Diarrhea",
+          "description": "A classical four-herb formula from the Jin Gui Yao Lue used to warm the body&#x27;s core and clear cold Dampness from the lower back and lower body. It is best suited for people experiencing cold, heavy, aching pain in the lumbar region that worsens in damp or cold weather, with a sensation as if sitting in water. The formula works by strengthening the digestive system&#x27;s ability to process fluids and disperse cold, rather than by directly treating the Kidneys."
+        },
+        {
+          "id": 13075,
+          "pattern_id": 5768,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "A classical formula for chronic joint and lower back pain caused by long-term exposure to cold and dampness, combined with underlying weakness of the Liver, Kidneys, Qi, and Blood. It works on two fronts: expelling cold, wind, and dampness from the joints and sinews while also strengthening the body&#x27;s constitution to prevent recurrence. It is especially suited for older adults or anyone whose pain has persisted for a long time and is accompanied by weakness, stiffness, or numbness in the lower body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30302,
+          "pattern_id": 5768,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "",
+          "description": "Dispels wind-dampness and powerfully relieves lower body pain."
+        },
+        {
+          "id": 30303,
+          "pattern_id": 5768,
+          "herb_name": "Sang Ji Sheng",
+          "herb_url": "/knowledge-base/herbs/sang-ji-sheng",
+          "translation": "Mulberry Mistletoe",
+          "properties": "",
+          "description": "Tonifies Liver and Kidney, strengthens sinews and bones, and calms the womb."
+        },
+        {
+          "id": 30304,
+          "pattern_id": 5768,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Warms and tonifies the Kidneys, especially good for lower back and knee weakness."
+        },
+        {
+          "id": 30305,
+          "pattern_id": 5768,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 30306,
+          "pattern_id": 5768,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 30307,
+          "pattern_id": 5768,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 30308,
+          "pattern_id": 5768,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 30309,
+          "pattern_id": 5768,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        },
+        {
+          "id": 30310,
+          "pattern_id": 5768,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 30311,
+          "pattern_id": 5768,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 30312,
+          "pattern_id": 5768,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 30313,
+          "pattern_id": 5768,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "Warm, Warms the Lungs and Transforms Phlegm-Fluids, Moves Qi and Dissipates Nodules, Unblocks the Channels and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 30314,
+          "pattern_id": 5768,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "Slightly Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Releases the Exterior",
+          "description": ""
+        },
+        {
+          "id": 30315,
+          "pattern_id": 5768,
+          "herb_name": "Sang Ji Sheng",
+          "herb_url": "/knowledge-base/herbs/sang-ji-sheng",
+          "translation": "Mulberry Mistletoe",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Dispels Wind-Dampness",
+          "description": ""
+        },
+        {
+          "id": 30316,
+          "pattern_id": 5768,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20637,
+          "pattern_id": 5768,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and Essence, the root of chronic bone and joint pain."
+        },
+        {
+          "id": 20638,
+          "pattern_id": 5768,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Nourishes Liver Blood to soften and strengthen the sinews."
+        },
+        {
+          "id": 20639,
+          "pattern_id": 5768,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel, used to reinforce Kidney Yin and Yang."
+        },
+        {
+          "id": 20640,
+          "pattern_id": 5768,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "Meeting point of the sinews, eases joint stiffness and pain."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7575,
+      "condition_id": 1166,
+      "question": "What does it mean if my pain is fixed in one place?",
+      "answer": "In Chinese medicine, a pain that doesn't move suggests a physical blockage in the channels at that spot. This is different from moving pain, which is often caused by Wind. The nature of the fixed pain-sharp, heavy, dull, or nodular-helps identify what is stuck, such as stagnant blood, cold-dampness, or phlegm."
+    },
+    {
+      "id": 7576,
+      "condition_id": 1166,
+      "question": "Can acupuncture really help with fixed pain?",
+      "answer": "Yes, acupuncture is particularly effective for localized pain because needles can be placed directly into the painful area (ashi points) to break up stagnation. Distal points along the affected channel are also used to restore smooth flow. Many patients feel immediate, though sometimes temporary, relief after a session, with cumulative improvement over several treatments."
+    },
+    {
+      "id": 7577,
+      "condition_id": 1166,
+      "question": "How long does TCM treatment take for fixed pain?",
+      "answer": "Excess patterns like Blood Stagnation or Damp-Cold often respond in 2-4 weeks of weekly acupuncture and daily herbs. Chronic deficiency patterns, where the body's reserves are depleted, may need 3-6 months of consistent treatment. Your practitioner will reassess your progress regularly and adjust the plan accordingly."
+    },
+    {
+      "id": 7578,
+      "condition_id": 1166,
+      "question": "Can I take TCM herbs with my pain medication?",
+      "answer": "In most cases, yes, but it is essential to tell both your TCM practitioner and your doctor about everything you are taking. Some blood-moving herbs can interact with blood thinners like warfarin or aspirin. Never stop prescribed medication abruptly; work with your doctor to taper if your pain improves with TCM."
+    },
+    {
+      "id": 7579,
+      "condition_id": 1166,
+      "question": "Is fixed pain always a sign of blood stasis?",
+      "answer": "Not always. While Blood Stagnation is the most common cause of sharp, stabbing fixed pain, other patterns can also produce unchanging pain. Cold-Dampness creates a heavy, fixed ache that worsens in cold weather. Phlegm in the channels can form fixed, nodular pain. And chronic deficiency can cause a dull, fixed ache due to lack of nourishment. A TCM practitioner uses your full symptom picture, tongue, and pulse to differentiate."
+    },
+    {
+      "id": 7580,
+      "condition_id": 1166,
+      "question": "What foods should I avoid if I have fixed pain?",
+      "answer": "Generally, avoid cold and raw foods, as cold constricts the channels and worsens stagnation. If your pain feels heavy and is worse in damp weather, also reduce dairy, sugar, and greasy foods. Iced drinks are best avoided entirely, as they introduce internal cold that can contribute to blockage over time."
+    }
+  ],
+  "research": [
+    {
+      "id": 1739,
+      "condition_id": 1166,
+      "title": "Acupuncture for chronic pain: update of an individual patient data meta-analysis",
+      "description": "This landmark meta-analysis pooled raw data from nearly 18,000 patients in high-quality RCTs. It found that acupuncture is significantly superior to both sham acupuncture and no-acupuncture controls for chronic back and neck pain, osteoarthritis, and headache, with effects that persist at 12 months. The study confirms acupuncture as a reasonable evidence-based option for chronic localized pain.",
+      "url": "",
+      "periodical": "Vickers AJ, Vertosick EA, Lewith G, et al. Acupuncture for chronic pain: update of an individual patient data meta-analysis. J Pain. 2018;19(5):455-474."
+    },
+    {
+      "id": 1740,
+      "condition_id": 1166,
+      "title": "Xuefu Zhuyu decoction for angina pectoris: a systematic review of randomized controlled trials",
+      "description": "This systematic review evaluated multiple RCTs of Xue Fu Zhu Yu Tang for stable angina pectoris, a condition characterized by fixed, stabbing chest pain. The review concluded that the formula, when added to conventional treatment, improved angina symptoms and ECG findings. It provides clinical evidence that moving blood and Qi can relieve fixed pain rooted in stasis.",
+      "url": "",
+      "periodical": "Wang J, Xiong X. Xuefu Zhuyu decoction for angina pectoris: a systematic review of randomized controlled trials. J Tradit Chin Med. 2012;32(4):505-513."
+    }
+  ]
+}

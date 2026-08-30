@@ -1,0 +1,608 @@
+{
+  "id": 40,
+  "name": "Xuan Bi Tang",
+  "chinese_name": "宣痹汤",
+  "english_name": "Obstruction-Relieving Decoction",
+  "url": "/knowledge-base/formulas/xuan-bi-tang",
+  "summary": "A classical formula designed to clear Damp-Heat from the channels and joints. It is commonly used for hot, swollen, painful joints with restricted movement, fever and chills, and a yellow greasy tongue coating. Often applied in conditions like gouty arthritis, rheumatoid arthritis, and other inflammatory joint diseases caused by the accumulation of dampness and heat in the body's meridian pathways.",
+  "categories": "[\"Dampness-resolving formulas\", \"Wind-Damp dispelling formulas\"]",
+  "tcm_actions": "[\"Clears Heat and Drains Dampness\", \"Unblocks the Channels and Collaterals\", \"Relieves Painful Obstruction\", \"Promotes Urination and Drains Dampness\", \"Opens Lung Qi to transform Dampness\"]",
+  "therapeutic_focus": "[\"Bone and Joint Health\", \"Inflammation Support\", \"Pain Management\", \"Gout support\"]",
+  "target_organs": "[\"Lungs\", \"Spleen\", \"Urinary Bladder\", \"Stomach\"]",
+  "temperature": "Cool",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Wen Bing Tiao Bian (温病条辨, Systematic Differentiation of Warm Diseases) by Wu Jutong (吴鞠通), Volume 2, Middle Jiao Chapter",
+  "conditions": "[\"Gout\", \"Rheumatoid Arthritis\", \"Rheumatic Fever\", \"Osteoarthritis\", \"Ankylosing Spondylitis\", \"Arthritis\"]",
+  "patterns": "[]",
+  "other_names": "[]",
+  "pregnancy": "Contraindicated during pregnancy. The formula contains Ban Xia (Pinellia rhizome), which is classified as a pregnancy-prohibited herb in traditional texts due to its potential to disturb fetal development. Fang Ji (Stephania root) is also traditionally cautioned against in pregnancy. Xing Ren (apricot kernel) contains amygdalin, which can be toxic in large doses and is generally avoided during pregnancy. Women who are pregnant or planning to become pregnant should not take this formula.",
+  "breastfeeding": "Use with caution during breastfeeding. Ban Xia (Pinellia) and Fang Ji (Stephania root) are potent herbs whose active compounds may transfer into breast milk, though specific data on lactation safety is limited. Xing Ren (apricot kernel) contains small amounts of amygdalin, which could theoretically pose a risk to nursing infants. If use is considered clinically necessary, it should be under the supervision of a qualified practitioner with close monitoring of the infant for any adverse reactions such as digestive upset.",
+  "children": "This formula is not commonly prescribed for young children. If indicated in older children or adolescents with clear Damp-Heat Bi syndrome, dosages should be reduced proportionally based on age and body weight, typically to one-third to one-half of the adult dose. Particular caution is needed with Xing Ren (apricot kernel) and Ban Xia (Pinellia), both of which have mild toxicity profiles that are more concerning in children. Fang Ji species identification must be strictly verified to ensure Han Fang Ji (Stephania tetrandra) is used rather than Guang Fang Ji (Aristolochia fangchi), which contains nephrotoxic aristolochic acid. Use in children should always be supervised by an experienced practitioner.",
+  "drug_interactions": "Diuretics: Hua Shi (Talcum), Chi Xiao Dou Pi (Adzuki bean skin), Yi Yi Ren (Coix seed), and Fang Ji (Stephania root) all have diuretic properties. Taking this formula alongside pharmaceutical diuretics (such as furosemide or hydrochlorothiazide) may potentiate fluid loss and electrolyte imbalance, particularly potassium depletion.\nAnti-hypertensive medications: Fang Ji (Stephania tetrandra) contains tetrandrine, an alkaloid with documented hypotensive and calcium channel-blocking activity. Concurrent use with blood-pressure-lowering drugs may cause excessive hypotension.\nAnticoagulants and antiplatelet agents: Some herbs in this formula (notably Lian Qiao and Zhi Zi) may have mild blood-thinning effects. Patients on warfarin, heparin, or antiplatelet drugs should be monitored for signs of increased bleeding.\nUric acid-lowering medications (allopurinol, febuxostat): When used for gouty arthritis, this formula may have additive effects on uric acid reduction. While this can be therapeutically beneficial, it should be monitored by a healthcare provider to prevent excessive uric acid lowering, which can paradoxically trigger gout flares.",
+  "best_time_to_take": "30 minutes after meals, 2-3 times daily, taken warm as a decoction.",
+  "typical_duration": "Acute flares: 1-2 weeks; chronic Damp-Heat Bi: 4-8 weeks with periodic reassessment and modification by a practitioner.",
+  "dietary_advice": "Avoid greasy, fried, and rich foods that generate Dampness and Heat internally. Reduce or eliminate alcohol, especially beer and spirits, which strongly promote Dampness and raise uric acid. Avoid shellfish, organ meats, red meat, and high-purine foods, which aggravate the underlying Damp-Heat condition. Limit spicy, hot foods that can intensify internal Heat. Favor bland, easily digestible foods such as mung beans, winter melon, barley (Job's tears), cucumber, and leafy greens, which support Dampness resolution. Stay well hydrated with room-temperature or slightly warm water to support the formula's diuretic action.",
+  "ingredients": [
+    {
+      "herb_name": "Fang Ji",
+      "english_name": "Fourstamen Stephania Root",
+      "role": "King",
+      "dosage": "15g"
+    },
+    {
+      "herb_name": "Xing Ren",
+      "english_name": "Bitter apricot kernel",
+      "role": "Deputy",
+      "dosage": "15g"
+    },
+    {
+      "herb_name": "Yi Yi Ren",
+      "english_name": "Job&#x27;s Tears seed",
+      "role": "Deputy",
+      "dosage": "15g"
+    },
+    {
+      "herb_name": "Hua Shi",
+      "english_name": "Talc",
+      "role": "Assistant",
+      "dosage": "15g"
+    },
+    {
+      "herb_name": "Lian Qiao",
+      "english_name": "Forsythia fruit",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Zhi Zi",
+      "english_name": "Gardenia fruit",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Ban Xia",
+      "english_name": "Pinellia rhizome",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Can Sha",
+      "english_name": "Silkworm droppings",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Chi Xiao Dou",
+      "english_name": "Adzuki bean",
+      "role": "Assistant",
+      "dosage": "9g"
+    }
+  ],
+  "research": [],
+  "associated_patterns": [
+    {
+      "pattern_id": 57,
+      "name": "Xuan Bi Tang"
+    },
+    {
+      "pattern_id": 222,
+      "name": "Xuan Bi Tang"
+    },
+    {
+      "pattern_id": 281,
+      "name": "Xuan Bi Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 6,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 6,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 44,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 44,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 205,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 205,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 762,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 762,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 765,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 765,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 779,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 779,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 781,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 781,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 782,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 782,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 785,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 785,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 788,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 788,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 790,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 790,
+      "pattern_name": "Cold invading the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 796,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 796,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 799,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 799,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 800,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 800,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 802,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 802,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 803,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 803,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 805,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 805,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 810,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 810,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 811,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 811,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 812,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 812,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 813,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 813,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 814,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 814,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 820,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 820,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 822,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 822,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 942,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 942,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1069,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1069,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1079,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1079,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1103,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1103,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1174,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1174,
+      "pattern_name": "Heat invading the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1193,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1193,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1203,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1203,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1257,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1257,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1324,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1324,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1361,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1361,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1375,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1375,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1396,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1396,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1440,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1440,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1456,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1456,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1468,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1468,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1482,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1482,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1508,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1508,
+      "pattern_name": "Cold invading the Channels joints and muscles",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1515,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1515,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1552,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1552,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1572,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1572,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1581,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    },
+    {
+      "condition_id": 1581,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Xuan Bi Tang"
+    }
+  ]
+}

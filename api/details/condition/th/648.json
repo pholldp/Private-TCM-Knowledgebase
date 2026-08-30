@@ -1,0 +1,785 @@
+{
+  "id": 648,
+  "name": "Pertussis",
+  "url": "/knowledge-base/conditions/pertussis",
+  "kind": "Condition",
+  "pinyin": "bǎi rì ké",
+  "chinese_name": "百日咳",
+  "preview_text": "โรคไอกรนไม่ใช่โรคเดียว แต่เป็นการเดินทางผ่านรูปแบบ TCM ที่แตกต่างกัน และการรักษาในระยะที่เหมาะสมด้วยสมุนไพรที่เหมาะสมสามารถลดอาการเจ็บป่วยได้ และช่วยให้เด็กๆ หลีกเลี่ยง ...",
+  "categories": "[\"โรคหวัดและการติดเชื้อทางเดินหายใจส่วนบน\", \"การติดเชื้อแบคทีเรีย\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Whooping Cough\", \"Pertussis (whooping cough)\"]",
+  "conventional_description": "Whooping cough (pertussis) is a highly contagious respiratory infection caused by the bacterium Bordetella pertussis. It begins with mild cold-like symptoms - runny nose, low-grade fever, and a mild cough - before progressing to severe, uncontrollable coughing fits that end with a characteristic “whoop” sound as the person gasps for air. The coughing can be so violent that it causes vomiting, exhaustion, and even rib fractures. Diagnosis is usually confirmed with a nasal swab or blood test, and while the illness is most dangerous in infants, it can affect people of any age.",
+  "conventional_treatments": "Antibiotics such as azithromycin are most effective when given in the very early stages, but they do little to shorten the cough once the spasmodic phase has begun. Supportive care - rest, fluids, and a humidifier - is the mainstay, along with careful monitoring for complications like pneumonia. Cough suppressants are generally not recommended. Vaccination remains the primary public health strategy for prevention.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, whooping cough is seen as an invasion of an epidemic warm toxin (时疫, shí yì) that attacks the Lungs through the nose and mouth. The early stage mirrors a common cold, but the key difference is that this particular toxin has a strong tendency to generate phlegm and heat deep inside the Lungs. The initial defensive reaction can present as either Wind-Heat (sore throat, yellow discharge) or Wind-Cold (chills, clear discharge), depending on the child's constitution and the nature of the invading pathogen.\nAs the toxin penetrates deeper, it transforms into intense Heat that “cooks” the body's fluids into thick, sticky phlegm. This phlegm blocks the airways and disrupts the Lung's natural downward movement of Qi. The result is the violent, paroxysmal coughing that tries to expel the obstruction - the hallmark of the Phlegm-Heat or Cold-Phlegm stage. The “whoop” is the sound of Qi desperately trying to get past the blockage.\nAfter the heat and coughing have raged for weeks, the body's resources are drained. The prolonged fever and phlegm-heat consume the Lung's Yin fluids, leading to a dry, tickling cough that is worse at night. Alternatively, the Spleen - the organ that produces Qi from food - becomes exhausted, leaving a weak, lingering cough with poor appetite and fatigue. This is why TCM tailors treatment so precisely to the stage: clearing the pathogen, draining phlegm, and then rebuilding the body's reserves.",
+  "classical_quote": "「咳嗽连声，面红目赤，涕泪交流，咳后有鸡鸣声。」",
+  "classical_translation": "\"The coughing occurs in continuous bursts, the face turns red, the eyes become bloodshot, tears and nasal discharge flow, and after the cough there is a sound like a rooster crowing.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Causes and Symptoms of Diseases)  ,  Volume 48, Pediatric Diseases \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "In the first week or two, pertussis looks much like a common cold. The key question is whether the invading pathogen is Wind-Heat or Wind-Cold. A sore throat, thick yellow or sticky sputum, and a thin yellow tongue coating with a floating, rapid pulse point to Wind-Heat invading the Lungs. Clear, watery nasal discharge, thin white sputum, a pale tongue with a thin white coating, and a floating, tight pulse suggest Wind-Cold invading the Lungs.\nAs the coughing intensifies into violent spasms, the focus shifts to the phlegm obstructing the Lungs. If the phlegm is sticky, yellow, and difficult to expel, with a red tongue, a yellow greasy coating, and a rapid, slippery pulse, the pattern is Phlegm-Heat in the Lungs. When the spasms bring up thick white phlegm, a feeling of chest tightness, a pale tongue with a white greasy coating, and a deep, slow pulse, the diagnosis leans toward Cold-Phlegm in the Lungs.\nOnce the worst spasms subside, the body is often left depleted. A dry, hacking cough with very little phlegm, a red tongue with scanty coating, and a thin, rapid pulse indicates that the prolonged heat has injured Lung Yin. If the cough is weak and accompanied by poor appetite, loose stools, a pale tongue, and a weak pulse, the pattern is Spleen Qi Deficiency, reflecting a digestive system too tired to support recovery.",
+  "patterns": [
+    {
+      "id": 3163,
+      "condition_id": 648,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "pattern_slug": "wind-heat-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Cough with thick yellow phlegm\", \"Fever more pronounced than chills\", \"Sore, red throat\", \"Yellow nasal discharge\", \"Thirst and dry mouth\"]",
+      "worse_with": "Spicy, fried, or sugary foods, Smoky, dry, or dusty air, Overexertion and talking, Exposure to wind and drafts",
+      "better_with": "Rest and adequate sleep, Cool, fresh air, Warm water, pear juice, Light, moistening soups",
+      "why_this_happens": "In pertussis, the epidemic warm toxin (时疫, shí yì) enters through the nose and mouth and first attacks the Lung’s defensive exterior. This creates a Wind-Heat pattern that blocks the Lung’s ability to diffuse and descend Qi, triggering the early cough. The heat dries body fluids, leading to a sore throat, thirst, and yellow mucus, while the lingering exterior fight causes fever with mild chills.",
+      "tongue_and_pulse": "Tongue: red tip with thin yellow coating, body slightly red. Pulse: floating (浮 fú) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Wind-Heat is an exterior pathogen that dries and heats the Lungs. Rest and cooling fluids help the body expel the invader and moisten the airways, while spicy, fried, or dry environments add more heat and worsen throat irritation and cough. Keeping the air fresh and the throat covered prevents wind from re-entering the weakened exterior.",
+      "diet_and_lifestyle": "Rest in a cool, well-ventilated room and sip plenty of warm water. Eat light, moistening foods like pear juice, congee, and steamed vegetables, while avoiding spicy, fried, or greasy dishes that can worsen the heat. Keep the throat warm and avoid talking or coughing forcefully.",
+      "formulas": [
+        {
+          "id": 7199,
+          "pattern_id": 3163,
+          "formula_name": "Sang Ju Yin",
+          "formula_url": "/knowledge-base/formulas/sang-ju-yin",
+          "translation": "Mulberry Leaf and Chrysanthemum Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Lung Heat, Restores Lung Diffusing and Descending Functions",
+          "description": "Dispels Wind-Heat, clears the Lung, and stops cough - the classic formula for the early catarrhal stage of pertussis with a red-tipped tongue and floating-rapid pulse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16886,
+          "pattern_id": 3163,
+          "herb_name": "Sang Ye",
+          "herb_url": "/knowledge-base/herbs/sang-ye",
+          "translation": "Mulberry leaf",
+          "properties": "",
+          "description": "Dispels Wind-Heat from the Lungs and moistens dryness to ease the throat."
+        },
+        {
+          "id": 16887,
+          "pattern_id": 3163,
+          "herb_name": "Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ju-hua",
+          "translation": "Chrysanthemum flower",
+          "properties": "",
+          "description": "Clears Heat from the upper body and helps release the exterior."
+        },
+        {
+          "id": 16888,
+          "pattern_id": 3163,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Light and aromatic, it opens the exterior and cools the throat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11403,
+          "pattern_id": 3163,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Release the exterior and stimulate the descending of Lung Qi to stop cough."
+        },
+        {
+          "id": 11404,
+          "pattern_id": 3163,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Dispels Wind and relieves the sore throat and fever."
+        },
+        {
+          "id": 11405,
+          "pattern_id": 3163,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "Clears Heat from the Lungs and soothes a dry, painful throat."
+        }
+      ]
+    },
+    {
+      "id": 3164,
+      "condition_id": 648,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "pattern_slug": "phlegm-heat-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Paroxysmal coughing fits with whooping sound\", \"Thick yellow sticky phlegm that is hard to expel\", \"Flushed face and chest oppression during fits\", \"Restlessness and irritability\", \"Thirst with desire for cold drinks\"]",
+      "worse_with": "Dairy and greasy food, Spicy, fried, or sugary foods, Hot, stuffy, or dry indoor air, Emotional stress, worry, or crying",
+      "better_with": "Light, cooling foods such as pear, radish, or white fungus, Warm herbal teas (chrysanthemum, mint), Rest and adequate sleep",
+      "why_this_happens": "After the early stage of pertussis, the epidemic toxin and any lingering Wind-Heat transform into intense Heat inside the Lungs. This Heat cooks the body fluids into thick, sticky Phlegm, which clogs the airways and blocks the normal downward movement of Lung Qi. The blocked Qi then erupts in violent, paroxysmal coughing fits until the phlegm is finally dislodged, producing the characteristic whooping sound as air is sucked back in.",
+      "tongue_and_pulse": "Tongue: Red body, yellow greasy coating, may have red prickles on the front third. Pulse: Slippery and rapid (滑数 huá shuò).",
+      "why_triggers_reliefs_work": "Greasy, dairy, and sugary foods create more Dampness and Phlegm in the body, directly feeding the obstruction in the Lungs. Spicy and hot foods add more Heat, making the phlegm even stickier and harder to expel. Cooling, light foods and rest help clear Heat, while warm herbal teas gently disperse Lung Qi and thin the phlegm, making it easier to cough out.",
+      "diet_and_lifestyle": "Avoid all dairy, greasy, fried, and sugary foods, which generate Phlegm and Dampness. Spicy and very hot foods worsen the Heat. Eat light, cooling, easily digestible foods like pear, radish, and congee. Keep the room air fresh and slightly humidified; gentle steam inhalation can help loosen sticky phlegm.",
+      "formulas": [
+        {
+          "id": 7200,
+          "pattern_id": 3164,
+          "formula_name": "Sang Bai Pi Tang",
+          "formula_url": "/knowledge-base/formulas/sang-bai-pi-tang",
+          "translation": "Mulberry Root Bark Decoction &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Cold, Clears Lung Heat, Descends Lung Qi and Stops Cough, Resolves Phlegm",
+          "description": "Clears Lung Heat and resolves Phlegm; the primary formula for the paroxysmal stage."
+        },
+        {
+          "id": 7201,
+          "pattern_id": 3164,
+          "formula_name": "Ting Li Da Zao Xie Fei Tang",
+          "formula_url": "/knowledge-base/formulas/ting-li-da-zao-xie-fei-tang",
+          "translation": "Lepidium Seed and Jujube Decoction to Drain the Lungs &#xB7; H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Clears Lung Heat, Promotes Bowel and Urinary Movement, Descends Qi and calms wheezing",
+          "description": "Drains Phlegm and descends Lung Qi, often combined with Sang Bai Pi Tang for severe spasms."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16889,
+          "pattern_id": 3164,
+          "herb_name": "Sang Bai Pi",
+          "herb_url": "/knowledge-base/herbs/sang-bai-pi",
+          "translation": "Mulberry root bark",
+          "properties": "",
+          "description": "Cools the Lungs and stops coughing by draining Heat from the upper burner."
+        },
+        {
+          "id": 16890,
+          "pattern_id": 3164,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Dries Dampness and clears Lung Heat, reducing the thick yellow phlegm."
+        },
+        {
+          "id": 16891,
+          "pattern_id": 3164,
+          "herb_name": "Ting Li Zi",
+          "herb_url": "/knowledge-base/herbs/ting-li-zi",
+          "translation": "Pepperweed seed",
+          "properties": "",
+          "description": "Powerfully drains Phlegm and directs rebellious Lung Qi downward."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11406,
+          "pattern_id": 3164,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Back-Shu point of the Lung; reduces Lung Heat and stops coughing."
+        },
+        {
+          "id": 11407,
+          "pattern_id": 3164,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "He-Sea point of the Lung; clears Heat and resolves Phlegm from the organ."
+        },
+        {
+          "id": 11408,
+          "pattern_id": 3164,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Luo-Connecting point; the master point for dissolving Phlegm anywhere in the body."
+        }
+      ]
+    },
+    {
+      "id": 3165,
+      "condition_id": 648,
+      "pattern_name": "Lung Yin Deficiency",
+      "pattern_slug": "lung-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry cough with scanty, sticky phlegm or no phlegm\", \"Dry, scratchy throat and hoarse voice\", \"Afternoon low-grade fever or feeling of heat\", \"Night sweats\", \"Hot sensation in the palms and soles\"]",
+      "worse_with": "Hot, stuffy, or dry indoor air, Spicy, fried, or sugary foods, Overexertion or late nights, Smoky, dry, or dusty air",
+      "better_with": "Humidified air, Light, cooling foods such as pear, radish, or white fungus, Rest and adequate sleep, Cool, moistening drinks",
+      "why_this_happens": "After the intense spasmodic coughing stage of pertussis, the epidemic toxin and prolonged heat have consumed the Lung's Yin fluids. The Lungs become dry and lose their ability to moisten and descend Qi properly. This dryness and the resulting empty-heat irritate the airways, producing a persistent dry, tickling cough with very little phlegm.",
+      "tongue_and_pulse": "Tongue: red, dry, with little or no coating, possibly cracked. Pulse: thin (fine) and rapid, especially weak at the right cun position.",
+      "why_triggers_reliefs_work": "Lung Yin Deficiency means the respiratory tract is dry and easily irritated. Spicy and dry foods, as well as dry air, further consume fluids and provoke coughing. Moistening foods and humidified air directly replenish the lost Yin and soothe the airways, while rest conserves the body's remaining fluids and allows the Lungs to heal.",
+      "diet_and_lifestyle": "Focus on moistening, cooling foods like pear, white fungus soup, and lily bulb. Avoid spicy, fried, or overly dry foods. Use a humidifier in dry rooms and prioritize rest to allow Yin to recover.",
+      "formulas": [
+        {
+          "id": 7202,
+          "pattern_id": 3165,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "Nourishes Lung Yin, moistens dryness, and stops the dry cough characteristic of the recovery stage."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16892,
+          "pattern_id": 3165,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "",
+          "description": "Nourishes Lung Yin and clears mild empty-heat from the Lungs."
+        },
+        {
+          "id": 16893,
+          "pattern_id": 3165,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens the Lungs, promotes fluid production, and soothes a dry, irritated throat."
+        },
+        {
+          "id": 16894,
+          "pattern_id": 3165,
+          "herb_name": "Yu zhu",
+          "herb_url": "/knowledge-base/herbs/yu-zhu",
+          "translation": "Solomon&#x27;s seal rhizome",
+          "properties": "",
+          "description": "Generates fluids and moistens dryness without being cloying, ideal for lingering dry cough."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11409,
+          "pattern_id": 3165,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Tonifies Lung Yin and regulates Lung Qi to stop chronic dry cough."
+        },
+        {
+          "id": 11410,
+          "pattern_id": 3165,
+          "acupoint_code": "LU-9",
+          "acupoint_name": "Taiyuan LU-9",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9",
+          "translation": "T&#xE0;i Yu&#x101;n",
+          "properties": "Clears Phlegm, Descends Lung Qi",
+          "description": "The Yuan-source point of the Lung channel, it reinforces Lung Qi and Yin."
+        },
+        {
+          "id": 11411,
+          "pattern_id": 3165,
+          "acupoint_code": "KI-7",
+          "acupoint_name": "Fuliu KI-7",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/fuliu-ki-7",
+          "translation": "F&#xF9; Li&#x16B;",
+          "properties": "Resolves Dampness, Tonifies Kidneys",
+          "description": "Tonifies Kidney Yin to support the Lungs and clear deficiency-heat."
+        }
+      ]
+    },
+    {
+      "id": 3166,
+      "condition_id": 648,
+      "pattern_name": "Spleen Qi Deficiency",
+      "pattern_slug": "spleen-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Lingering cough with a low, weak sound\", \"Poor appetite\", \"Loose stools\", \"Fatigue and lack of energy\", \"Pale complexion\", \"Abdominal bloating after eating\"]",
+      "worse_with": "Overeating or large meals, Cold or raw foods and drinks, Overexertion, Damp, chilly weather or environments, Emotional stress, worry, or crying",
+      "better_with": "Warm, easily digestible meals, Rest and adequate sleep, Small, frequent meals, Gentle abdominal massage",
+      "why_this_happens": "After the intense coughing spasms and heat of the earlier stages, the body's Qi is depleted. The Spleen, which produces Qi from food, becomes weak, especially in children.\nWhen Spleen Qi is insufficient, it fails to generate enough Qi for the Lungs, leaving a weak, lingering cough. The Spleen also fails to transform fluids, so thin white phlegm may persist.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with tooth marks and a thin white coating. Pulse: weak and soft, especially at the right guan (Spleen) position.",
+      "why_triggers_reliefs_work": "Spleen Qi is easily damaged by overwork, irregular eating, and cold foods. Rest and warm, easy-to-digest foods conserve and support Spleen Qi, allowing it to generate the Qi needed to heal the Lungs. Overexertion and cold raw foods further weaken the Spleen, prolonging the cough and fatigue.",
+      "diet_and_lifestyle": "Eat warm, easy-to-digest foods such as rice congee, steamed vegetables, and small amounts of lean protein. Avoid raw, cold, and greasy foods that tax the Spleen. Rest is crucial; avoid overexertion until energy returns.",
+      "formulas": [
+        {
+          "id": 7203,
+          "pattern_id": 3166,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens Spleen Qi, transforms dampness, and helps resolve the residual thin phlegm that drives the lingering cough."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16895,
+          "pattern_id": 3166,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and helps restore energy and appetite after prolonged illness."
+        },
+        {
+          "id": 16896,
+          "pattern_id": 3166,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Lung and Spleen Qi, reducing fatigue and supporting the weak cough."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11412,
+          "pattern_id": 3166,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen Qi and raises overall energy."
+        },
+        {
+          "id": 11413,
+          "pattern_id": 3166,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Directly strengthens the Spleen&#x27;s function of transforming and transporting."
+        },
+        {
+          "id": 11414,
+          "pattern_id": 3166,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi to stop the lingering cough."
+        }
+      ]
+    },
+    {
+      "id": 3167,
+      "condition_id": 648,
+      "pattern_name": "Wind-Cold invading the Lungs",
+      "pattern_slug": "wind-cold-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Clear watery nasal discharge\", \"Thin white watery phlegm\", \"Chills more prominent than fever\", \"Itchy throat\", \"Heavy muffled cough sound\", \"Absence of sweating\"]",
+      "worse_with": "Cold drafts or air conditioning, Cold or raw foods and drinks, Exposure to wind and drafts, Overexertion, Damp, chilly weather or environments",
+      "better_with": "Warm ginger tea, Warmth and covering up, Steam inhalation, Warm drinks and soups, Rest and adequate sleep",
+      "why_this_happens": "In the early stage of pertussis, the external epidemic toxin can manifest as Wind-Cold. The Cold pathogen invades the Lung's exterior, blocking the Lung's ability to diffuse and descend Qi. This results in a heavy, muffled cough with thin white phlegm, clear nasal discharge, and chills. If the Cold is not expelled, it may transform into heat and phlegm, progressing to the more severe spasmodic stage.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin white moist coating. Pulse: floating (浮 fú) and tight (紧 jǐn).",
+      "why_triggers_reliefs_work": "Wind-Cold invades the exterior and constrains the Lung Qi, so warmth and warm fluids help release the exterior and expel the pathogen. Cold and wind aggravate the constriction, while rest conserves the body's defensive Qi to fight the infection.",
+      "diet_and_lifestyle": "Keep warm, especially the neck and chest. Sip warm ginger tea with a little brown sugar to help dispel Cold. Avoid cold drinks, raw fruits, and icy foods that can chill the Lungs. Rest in a warm, draft-free room and avoid overexertion.",
+      "formulas": [
+        {
+          "id": 7204,
+          "pattern_id": 3167,
+          "formula_name": "Xing Su San",
+          "formula_url": "/knowledge-base/formulas/xing-su-san",
+          "translation": "Apricot Kernel and Perilla Leaf Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Warm, Gently disperses Cool Dryness, Diffuses Lung Qi, Resolves Phlegm",
+          "description": "The go-to formula for Wind-Cold cough in the early stage of pertussis, it disperses Cold, diffuses Lung Qi, and stops cough."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16897,
+          "pattern_id": 3167,
+          "herb_name": "Zi Su Ye",
+          "herb_url": "/knowledge-base/herbs/zi-su-ye",
+          "translation": "Perilla leaf",
+          "properties": "",
+          "description": "Warms the Lungs and disperses Wind-Cold to relieve cough and nasal congestion."
+        },
+        {
+          "id": 16898,
+          "pattern_id": 3167,
+          "herb_name": "Jie Geng",
+          "herb_url": "/knowledge-base/herbs/jie-geng",
+          "translation": "Balloon flower root",
+          "properties": "",
+          "description": "Opens the Lungs and directs Qi downward to stop cough and expel phlegm."
+        },
+        {
+          "id": 16899,
+          "pattern_id": 3167,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "",
+          "description": "Moistens the Lungs and stops cough, especially for thin white sputum."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11415,
+          "pattern_id": 3167,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "The command point of the head and neck; releases the exterior and diffuses Lung Qi to stop cough."
+        },
+        {
+          "id": 11416,
+          "pattern_id": 3167,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Expels Wind-Cold, relieves headache and nasal congestion."
+        },
+        {
+          "id": 11417,
+          "pattern_id": 3167,
+          "acupoint_code": "BL-12",
+          "acupoint_name": "Fengmen BL-12",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/fengmen-bl-12",
+          "translation": "F&#x113;ng M&#xE9;n",
+          "properties": "Expels Exterior Wind, Strengthens the Defensive Qi",
+          "description": "Dispels Wind-Cold and regulates Lung Qi to stop cough."
+        }
+      ]
+    },
+    {
+      "id": 3168,
+      "condition_id": 648,
+      "pattern_name": "Cold-Phlegm in the Lungs",
+      "pattern_slug": "cold-phlegm-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Violent coughing fits with thick white phlegm\", \"Chest tightness and a feeling of stuffiness\", \"Feeling cold, no thirst, craving warm drinks\", \"Wheezing or a gurgling sound in the throat\"]",
+      "worse_with": "Cold or raw foods and drinks, Damp, chilly weather or environments, Dairy products (increase phlegm), Lying flat immediately after eating",
+      "better_with": "Warm drinks and soups, Keeping the chest warm, Steam inhalation, Rest and adequate sleep",
+      "why_this_happens": "In pertussis, the epidemic toxin invades the Lungs, but when the body’s constitution leans toward cold and dampness, the normal phlegm response turns into a cold, sticky obstruction. This cold phlegm blocks the airways and forces the Lung Qi to rebel upward, producing the violent, paroxysmal coughing fits with thick white sputum that define this less common variant.\nBecause the phlegm is cold rather than hot, the body feels chilled, there is little thirst, and the chest feels tight and oppressed, as if something is stuck that won’t move.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with a thick white greasy or slippery coating. Pulse: slippery and slow.",
+      "why_triggers_reliefs_work": "Cold and dampness are the root of this pattern, so anything that chills the body or adds moisture will thicken the phlegm and make the cough worse. Warmth, on the other hand, helps the Lung Qi move, thins the sticky secretions, and restores the downward flow of breathing. Avoiding dairy and heavy, greasy foods prevents the formation of new phlegm, while steam and warm liquids directly loosen the cold obstruction.",
+      "diet_and_lifestyle": "Keep the chest and neck warmly covered, and avoid cold or raw foods and drinks. Sip warm ginger tea with a touch of honey to gently warm the Lungs and thin the phlegm. Steam inhalation with a few drops of eucalyptus oil can help loosen the thick sputum and ease breathing.",
+      "formulas": [
+        {
+          "id": 7205,
+          "pattern_id": 3168,
+          "formula_name": "Xiao Qing Long Tang",
+          "formula_url": "/knowledge-base/formulas/xiao-qing-long-tang",
+          "translation": "Minor Blue-Green Dragon Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Warms the Lungs and Transforms Phlegm-Fluids, Descends Lung Qi and Calms Wheezing",
+          "description": "The classical formula to warm the Lungs, resolve cold phlegm, and stop the spasmodic cough."
+        },
+        {
+          "id": 7206,
+          "pattern_id": 3168,
+          "formula_name": "Sang Ju Yin",
+          "formula_url": "/knowledge-base/formulas/sang-ju-yin",
+          "translation": "Mulberry Leaf and Chrysanthemum Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Lung Heat, Restores Lung Diffusing and Descending Functions",
+          "description": "A gentle, cooling formula used for early-stage colds and respiratory infections marked by cough as the main symptom, with mild fever, slight thirst, and a floating rapid pulse. It gently clears Wind-Heat from the Lungs and restores their natural ability to regulate breathing and stop coughing."
+        },
+        {
+          "id": 7207,
+          "pattern_id": 3168,
+          "formula_name": "Sang Bai Pi Tang",
+          "formula_url": "/knowledge-base/formulas/sang-bai-pi-tang",
+          "translation": "Mulberry Root Bark Decoction &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Cold, Clears Lung Heat, Descends Lung Qi and Stops Cough, Resolves Phlegm",
+          "description": "A classical formula for clearing Heat from the Lungs and resolving thick phlegm that causes wheezing, cough, and difficulty breathing. It is commonly used for acute flare-ups of chronic bronchitis, asthma, and other respiratory conditions where the key signs are yellow or sticky phlegm, loud wheezing, chest tightness, and signs of internal Heat such as thirst and restlessness."
+        },
+        {
+          "id": 7208,
+          "pattern_id": 3168,
+          "formula_name": "Ting Li Da Zao Xie Fei Tang",
+          "formula_url": "/knowledge-base/formulas/ting-li-da-zao-xie-fei-tang",
+          "translation": "Lepidium Seed and Jujube Decoction to Drain the Lungs &#xB7; H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Clears Lung Heat, Promotes Bowel and Urinary Movement, Descends Qi and calms wheezing",
+          "description": "A small but powerful classical formula with just two ingredients, used to drain accumulated phlegm and fluids from the lungs. It is designed for acute situations where thick phlegm and water congestion cause severe wheezing, chest tightness, difficulty breathing when lying down, and facial swelling. The jujube dates in the formula protect the digestive system from the potent draining action of the Descurainia seeds."
+        },
+        {
+          "id": 7209,
+          "pattern_id": 3168,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "A gentle, cooling formula used to restore moisture and fluids to the Lungs and Stomach when they have become dried out. It is commonly used for persistent dry cough, dry throat, thirst, and other symptoms of dryness, particularly during autumn or following a feverish illness. The formula nourishes without being heavy, making it well-suited for conditions where the body&#x27;s natural moistening fluids have been depleted."
+        },
+        {
+          "id": 7210,
+          "pattern_id": 3168,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 7211,
+          "pattern_id": 3168,
+          "formula_name": "Xing Su San",
+          "formula_url": "/knowledge-base/formulas/xing-su-san",
+          "translation": "Apricot Kernel and Perilla Leaf Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Warm, Gently disperses Cool Dryness, Diffuses Lung Qi, Resolves Phlegm",
+          "description": "A classical formula used to treat autumn coughs with chills, thin phlegm, nasal congestion, and dry throat caused by cool, dry weather. It gently disperses the cold-dry pathogen from the body&#x27;s exterior while restoring the Lung&#x27;s ability to manage fluids and resolve phlegm."
+        },
+        {
+          "id": 7212,
+          "pattern_id": 3168,
+          "formula_name": "Xiao Qing Long Tang",
+          "formula_url": "/knowledge-base/formulas/xiao-qing-long-tang",
+          "translation": "Minor Blue-Green Dragon Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Warms the Lungs and Transforms Phlegm-Fluids, Descends Lung Qi and Calms Wheezing",
+          "description": "A classical formula for coughs, wheezing, and breathing difficulty caused by catching cold when there is already fluid buildup in the lungs. It works by warming the lungs, clearing accumulated thin watery phlegm, and helping the body expel the cold. Best suited for people with copious thin, watery, or frothy phlegm, chills, and a wet-looking tongue coating."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16900,
+          "pattern_id": 3168,
+          "herb_name": "Xi Xin",
+          "herb_url": "/knowledge-base/herbs/xi-xin",
+          "translation": "Wild Ginger",
+          "properties": "",
+          "description": "Warms the Lung and powerfully dispels cold phlegm deep in the airways."
+        },
+        {
+          "id": 16901,
+          "pattern_id": 3168,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms the sticky white phlegm that obstructs breathing."
+        },
+        {
+          "id": 16902,
+          "pattern_id": 3168,
+          "herb_name": "Sang Ye",
+          "herb_url": "/knowledge-base/herbs/sang-ye",
+          "translation": "Mulberry leaf",
+          "properties": "Cold, Disperses Wind-Heat, Clears Heat and Moistens the Lungs, Clears Liver Heat and Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 16903,
+          "pattern_id": 3168,
+          "herb_name": "Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ju-hua",
+          "translation": "Chrysanthemum flower",
+          "properties": "Slightly Cool, Disperses Wind-Heat, Calms the Liver and Subdues Yang, Clears Liver Heat and Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 16904,
+          "pattern_id": 3168,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 16905,
+          "pattern_id": 3168,
+          "herb_name": "Sang Bai Pi",
+          "herb_url": "/knowledge-base/herbs/sang-bai-pi",
+          "translation": "Mulberry root bark",
+          "properties": "Cold, Clears Lung Heat, Stops Cough and Calms Wheezing, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 16906,
+          "pattern_id": 3168,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 16907,
+          "pattern_id": 3168,
+          "herb_name": "Ting Li Zi",
+          "herb_url": "/knowledge-base/herbs/ting-li-zi",
+          "translation": "Pepperweed seed",
+          "properties": "Cold, Drains the Lungs and calms wheezing, Promotes Urination and Reduces Edema, Descends Qi and Transforms Phlegm",
+          "description": ""
+        },
+        {
+          "id": 16908,
+          "pattern_id": 3168,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 16909,
+          "pattern_id": 3168,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 16910,
+          "pattern_id": 3168,
+          "herb_name": "Yu zhu",
+          "herb_url": "/knowledge-base/herbs/yu-zhu",
+          "translation": "Solomon&#x27;s seal rhizome",
+          "properties": "Slightly Cool, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 16911,
+          "pattern_id": 3168,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 16912,
+          "pattern_id": 3168,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 16913,
+          "pattern_id": 3168,
+          "herb_name": "Zi Su Ye",
+          "herb_url": "/knowledge-base/herbs/zi-su-ye",
+          "translation": "Perilla leaf",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Regulates Qi and Harmonizes the Middle Burner, Resolves Seafood Poisoning",
+          "description": ""
+        },
+        {
+          "id": 16914,
+          "pattern_id": 3168,
+          "herb_name": "Jie Geng",
+          "herb_url": "/knowledge-base/herbs/jie-geng",
+          "translation": "Balloon flower root",
+          "properties": "Neutral, Diffuses Lung Qi, Expels Phlegm, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 16915,
+          "pattern_id": 3168,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 16916,
+          "pattern_id": 3168,
+          "herb_name": "Xi Xin",
+          "herb_url": "/knowledge-base/herbs/xi-xin",
+          "translation": "Wild Ginger",
+          "properties": "Warm, Disperses Wind-Cold, Dispels Cold and Alleviates Pain, Unblocks the Nasal Passages",
+          "description": ""
+        },
+        {
+          "id": 16917,
+          "pattern_id": 3168,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11418,
+          "pattern_id": 3168,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and relieves coughing and wheezing."
+        },
+        {
+          "id": 11419,
+          "pattern_id": 3168,
+          "acupoint_code": "BL-12",
+          "acupoint_name": "Fengmen BL-12",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/fengmen-bl-12",
+          "translation": "F&#x113;ng M&#xE9;n",
+          "properties": "Expels Exterior Wind, Strengthens the Defensive Qi",
+          "description": "Expels Wind and Cold from the Lung and strengthens the defensive Qi."
+        },
+        {
+          "id": 11420,
+          "pattern_id": 3168,
+          "acupoint_code": "REN-17",
+          "acupoint_name": "Shanzhong REN-17",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17",
+          "translation": "Sh&#x101;n Zh&#x14D;ng",
+          "properties": "Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi",
+          "description": "Descends rebellious Lung Qi and opens the chest to resolve phlegm."
+        },
+        {
+          "id": 11421,
+          "pattern_id": 3168,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Fortifies the Spleen to dry dampness and prevent phlegm from forming."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 4222,
+      "condition_id": 648,
+      "question": "Can TCM treat whooping cough even after the antibiotics have stopped working?",
+      "answer": "Yes. Once the spasmodic coughing stage has begun, antibiotics are no longer the main tool, but TCM herbs can make a real difference. Formulas that clear Phlegm-Heat, descend Lung Qi, and stop spasms can reduce the severity and frequency of the coughing fits, help expel sticky phlegm, and ease the vomiting that often follows. This is the stage where TCM shines."
+    },
+    {
+      "id": 4223,
+      "condition_id": 648,
+      "question": "Is herbal medicine safe for babies and young children with whooping cough?",
+      "answer": "Yes, when prescribed by a qualified TCM practitioner. Pediatric doses are carefully adjusted by weight, and many of the herbs used - like mulberry leaf, apricot seed, and licorice - are gentle and have a long history of safe use in children. That said, infants under 6 months with whooping cough are at high risk for apnea and should be under medical supervision. TCM can be used alongside hospital care, but never as a substitute for emergency monitoring in very young babies."
+    },
+    {
+      "id": 4224,
+      "condition_id": 648,
+      "question": "How soon can I expect the coughing fits to improve with TCM?",
+      "answer": "During the spasmodic stage, many parents notice a reduction in the intensity and number of coughing fits within 3-5 days of starting the correct herbal formula. The whoop may soften, and the child may bring up phlegm more easily. Full resolution of the cough still takes time, but TCM aims to make those weeks much more bearable and prevent the cough from dragging on into a chronic dry or weak cough."
+    },
+    {
+      "id": 4225,
+      "condition_id": 648,
+      "question": "Can acupuncture help a child with whooping cough?",
+      "answer": "Acupuncture can be very helpful, but for young children, practitioners often use non-needle techniques like acupressure, laser acupuncture, or pediatric tui na massage instead. Points like Chize (LU-5) and Fenglong (ST-40) help calm the cough and transform phlegm. For older children and adults, fine needles may be used briefly. The treatment is gentle and well tolerated."
+    },
+    {
+      "id": 4226,
+      "condition_id": 648,
+      "question": "Should I stop the antibiotics if I start TCM herbs?",
+      "answer": "No. If your doctor has prescribed antibiotics, especially in the early stage, you should complete the full course as directed. TCM herbs can be taken alongside antibiotics to manage symptoms and support recovery, but always inform both your TCM practitioner and your doctor about all medications and supplements being used."
+    },
+    {
+      "id": 4227,
+      "condition_id": 648,
+      "question": "My child was vaccinated but still got whooping cough. Can TCM still help?",
+      "answer": "Absolutely. The pertussis vaccine reduces the risk of severe illness but does not provide lifelong immunity, and vaccinated children can still catch a milder form. TCM treats the pattern of illness that is present, regardless of vaccination status. The herbs work with the body's own response to clear the pathogen and restore balance, and many parents find that the cough resolves faster than it would with watchful waiting alone."
+    }
+  ],
+  "research": []
+}

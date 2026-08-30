@@ -1,0 +1,780 @@
+{
+  "id": 786,
+  "name": "โรคข้ออักเสบ",
+  "url": "/knowledge-base/conditions/arthritis",
+  "kind": "Condition",
+  "pinyin": "bì zhèng",
+  "chinese_name": "痹证",
+  "preview_text": "ประเภทของอาการปวดข้ออักเสบ ไม่ว่าจะเคลื่อนไหว แสบร้อน หรือรู้สึกหนัก เผยให้เห็นรูปแบบที่เกิดขึ้น และผู้ป่วยส่วนใหญ่จะเห็นการบรรเทาอย่างมีนัยสำคัญภายใน 6-12 สัปดาห์ของการฝังเข็มแบบกำหนดเป้าหมาย",
+  "categories": "[\"เงื่อนไขข้อและข้ออักเสบ\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Arthritic Symptoms\", \"Joint Inflammation\", \"Arthritis Symptoms\", \"Arthropathy\"]",
+  "conventional_description": "In Western medicine, arthritis refers to inflammation of one or more joints, causing pain, swelling, stiffness, and reduced range of motion. The term covers over 100 different conditions, the most common being osteoarthritis (wear-and-tear degeneration) and rheumatoid arthritis (an autoimmune attack on the joint lining). Diagnosis typically involves a physical exam, imaging such as X-rays or MRI, and blood tests to detect inflammatory markers or specific antibodies.\nTreatment focuses on reducing inflammation, managing pain, and preserving joint function, often with a combination of medications, physical therapy, and sometimes surgery. While this approach can effectively control symptoms, it generally treats arthritis as a uniform inflammatory process rather than differentiating the underlying constitutional patterns that TCM identifies.",
+  "conventional_treatments": "Conventional management usually starts with nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or naproxen, and may progress to corticosteroids for acute flares. For autoimmune types such as rheumatoid arthritis, disease-modifying antirheumatic drugs (DMARDs) including methotrexate and biologic agents are used to slow the immune attack. Physical therapy, exercise, weight management, and joint replacement surgery are also common components of care.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM views arthritis - known as Bi Syndrome (痹证, bì zhèng) - as an obstruction of Qi and Blood in the channels and joints. The name itself means “blockage,” and the core mechanism is that something is preventing the smooth flow of vital substances through the body. That “something” can be an external pathogen like Wind, Cold, or Dampness that has invaded when the body's protective Qi is weak, or it can be an internal accumulation of Damp Heat, Phlegm, or stagnant Blood.\nWhen external factors are to blame, the quality of the pain tells the story. A pain that wanders from joint to joint points to Wind; a fixed, stabbing pain that worsens with cold suggests Cold; a heavy, numb sensation that flares in humid weather indicates Dampness. These often combine, as in the very common Wind-Cold-Damp pattern, where all three invaders lodge in the channels together.\nOver time, if the obstruction isn't cleared, the body's internal balance suffers. Dampness can transform into Heat, creating swollen, red, burning joints. Chronic stagnation can congeal into Phlegm and Blood Stasis, leading to hard, knobby deformities and fixed pain. Meanwhile, the constant battle drains Qi and Blood, or the Liver and Kidneys - the organs that nourish the sinews and bones - become depleted, resulting in a dull, chronic ache that's worse with activity and better with rest.\nThis is why a single Western diagnosis of arthritis can manifest so differently in different people. TCM doesn't just treat “arthritis” - it treats the specific pattern of obstruction and deficiency that is causing your unique pain. By identifying whether the root is an external invasion, an internal heat, a stagnation, or a deep weakness, the practitioner can choose herbs, acupuncture points, and lifestyle advice that directly address what's really going on.",
+  "classical_quote": "「风寒湿三气杂至，合而为痹也。其风气胜者为行痹，寒气胜者为痛痹，湿气胜者为著痹也。」",
+  "classical_translation": "\"When the three Qi of wind, cold, and dampness arrive together and combine, they form Bi (painful obstruction). When wind predominates it is called wandering Bi; when cold predominates it is called painful Bi; when dampness predominates it is called fixed Bi.\"",
+  "classical_source": "Huang Di Nei Jing (Su Wen)  ,  Chapter 43, Bi Lun (On Painful Obstruction) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking what the pain actually feels like and what makes it better or worse. The quality of the ache, the look of the joint, and the response to weather or warmth are the first clues that point toward one pattern rather than another.\nIf the pain moves from joint to joint and flares up in windy or damp weather, a Wind-Cold-Damp invasion is likely. The practitioner will check whether the pain is more wandering (Wind), fixed and intensely cold (Cold), or heavy and numb (Damp) to fine‑tune the approach. The tongue often shows a thin white coating, and the pulse feels floating, tight, or soggy.\nWhen a joint is hot, red, swollen, and unbearably painful, Damp Heat in the channels is the typical picture. The person usually feels worse with warmth and better with a cool compress. The tongue appears red with a yellow, greasy coat, and the pulse is rapid and slippery - signs that confirm heat and dampness are trapped inside.\nChronic arthritis that creates fixed, bony swellings or deformities points to Phlegm lodged in the channels. The pain is deep and heavy, often with a sense of stiffness that does not shift. The tongue may look purplish with a greasy coating, and the pulse is wiry or rough, reflecting long‑standing stagnation of fluids and blood.\nWhen the pain is dull, persistent, and accompanied by deep fatigue, poor appetite, or pale lips and nails, a practitioner suspects Qi and Blood Deficiency. The tongue is pale and the pulse is thin and weak, showing that the body lacks the resources to nourish the joints and recover from daily wear and tear.\nIf the main complaints are a sore, weak lower back and knees, along with reduced mobility and a feeling that the bones themselves are fragile, Liver and Kidney Deficiency is often at the root. The tongue is pale with a thin coating, and the pulse is deep and weak, especially at the positions linked to the Kidneys and Liver.",
+  "patterns": [
+    {
+      "id": 3872,
+      "condition_id": 786,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "pattern_slug": "painful-obstruction-with-wind-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Pain worsens in cold, damp weather\", \"Stiffness with limited range of motion\", \"Heaviness or numbness in the limbs\", \"Swelling without redness or heat\", \"Pain relieved by warmth\"]",
+      "worse_with": "Cold, damp weather, Prolonged rest or inactivity, Cold or raw foods, Wind exposure",
+      "better_with": "Warmth or warm compresses, Gentle movement, Warm, nourishing food and drinks, Warm, dry climate",
+      "why_this_happens": "Arthritis in this pattern begins when Wind, Cold, and Dampness invade the body's channels, especially when the body's protective Qi is already weakened. Wind causes the pain to move from joint to joint, Cold contracts the channels and makes the pain sharp and fixed, and Dampness creates a heavy, swollen, numb sensation. Together they block the flow of Qi and Blood in the joints, producing the characteristic stiffness, aching, and weather-sensitive pain.",
+      "tongue_and_pulse": "Tongue: pale, slightly swollen body with teeth marks, white greasy coating, moist surface. Pulse: wiry and tight, or soggy and slow if Dampness predominates.",
+      "why_triggers_reliefs_work": "Wind, Cold, and Damp are the very pathogens that invade the channels and obstruct Qi and Blood. Cold and damp weather, wind exposure, and raw foods all introduce or exacerbate these pathogens. Warmth, gentle movement, and warming foods help to dispel Cold, dry Dampness, and keep Qi and Blood moving, which relieves the obstruction and pain.",
+      "diet_and_lifestyle": "Keep joints warm, especially in cold or damp weather. Gentle, regular movement like stretching or tai chi helps keep Qi and Blood moving. Avoid cold, raw foods and icy drinks; instead eat warming foods like soups with ginger, cinnamon, and black pepper.",
+      "formulas": [
+        {
+          "id": 8807,
+          "pattern_id": 3872,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "The classic formula to expel Wind, Cold, and Dampness and unblock painful obstruction."
+        },
+        {
+          "id": 8808,
+          "pattern_id": 3872,
+          "formula_name": "Yi Yi Ren Tang",
+          "formula_url": "/knowledge-base/formulas/yi-yi-ren-tang",
+          "translation": "Coix Decoction &#xB7; Q&#x12B;ng dynasty, ca. 1839 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Disperses Cold, Unblocks the Channels and Collaterals",
+          "description": "Especially useful when Dampness predominates, causing pronounced heaviness and swelling."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20478,
+          "pattern_id": 3872,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Dispels Wind and Dampness, alleviating wandering pain."
+        },
+        {
+          "id": 20479,
+          "pattern_id": 3872,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "",
+          "description": "Warms the channels and expels Wind-Damp, especially for upper body arthritis."
+        },
+        {
+          "id": 20480,
+          "pattern_id": 3872,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and promotes circulation to relieve cold-induced pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13894,
+          "pattern_id": 3872,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Dispels Wind-Damp and benefits the joints, especially in the upper limbs."
+        },
+        {
+          "id": 13895,
+          "pattern_id": 3872,
+          "acupoint_code": "SJ-5",
+          "acupoint_name": "Waiguan SJ-5",
+          "acupoint_url": "/knowledge-base/acupuncture/triple-burner-meridian/waiguan-sj-5",
+          "translation": "W&#xE0;i Gu&#x101;n",
+          "properties": "Expels Wind-Heat, Removes Obstructions from the Channel",
+          "description": "Releases the exterior and drives out Wind-Cold-Damp from the channels."
+        },
+        {
+          "id": 13896,
+          "pattern_id": 3872,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to transform Dampness and supports overall vitality."
+        }
+      ]
+    },
+    {
+      "id": 3873,
+      "condition_id": 786,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "pattern_slug": "painful-obstruction-due-to-damp-heat-in-channels",
+      "is_common": 0,
+      "symptoms": "[\"Joints are red, swollen, and hot to the touch\", \"Pain is relieved by cold compresses and worsened by warmth\", \"Heavy, aching sensation in the limbs\", \"Thirst with a desire to drink cold fluids\", \"Irritability and restlessness\", \"Yellow, greasy tongue coating\"]",
+      "worse_with": "Hot compresses or heat, Spicy and fried foods, Alcohol, Humid, hot weather, Overexertion, Stress and anger",
+      "better_with": "Cold compresses, Rest, Cooling foods (cucumber, mung beans), Cool, dry environment, Gentle movement",
+      "why_this_happens": "Dampness and Heat combine and invade the channels, creating a sticky, hot obstruction that blocks the flow of Qi and Blood. The Heat causes the redness, swelling, and intense burning pain, while the Dampness adds heaviness and makes the joints feel puffy and stiff. This combination often triggers the acute, inflammatory flare-ups of arthritis.",
+      "tongue_and_pulse": "Tongue: red body, possibly slightly swollen, with a yellow greasy coating. Pulse: slippery and rapid.",
+      "why_triggers_reliefs_work": "Damp-Heat is a sticky, hot obstruction. Cold applications and cooling foods directly counteract the Heat, reducing inflammation, while rest preserves Qi so the body can clear the pathogen. Gentle movement helps move stagnant fluids and drain Dampness without overheating the joints. Heat, spicy foods, and humid environments add more Heat and Dampness, thickening the blockage and worsening pain. Emotional stress stirs Liver Qi, which can transform into Heat and fuel the fire in the joints.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods, alcohol, and red meat, which generate damp-heat. Eat cooling, damp-draining foods like mung beans, cucumber, watermelon, and barley. Apply cold compresses to inflamed joints during flare-ups. Rest the affected joints, but when pain subsides, gentle movement like swimming or tai chi helps prevent stiffness and drains dampness.",
+      "formulas": [
+        {
+          "id": 8809,
+          "pattern_id": 3873,
+          "formula_name": "Xuan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/xuan-bi-tang",
+          "translation": "Obstruction-Relieving Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Unblocks the Channels and Collaterals, Relieves Painful Obstruction",
+          "description": "The classic formula for Damp-Heat Bi, it clears heat, drains dampness, and unblocks the channels to reduce hot, swollen joints."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20481,
+          "pattern_id": 3873,
+          "herb_name": "Fang Ji",
+          "herb_url": "/knowledge-base/herbs/fang-ji",
+          "translation": "Fourstamen Stephania Root",
+          "properties": "",
+          "description": "Dispels wind-damp and clears heat from the channels, easing swollen, painful joints."
+        },
+        {
+          "id": 20482,
+          "pattern_id": 3873,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains dampness and clears heat, relieving heavy, aching limbs."
+        },
+        {
+          "id": 20483,
+          "pattern_id": 3873,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat and resolves toxins, reducing redness and inflammation."
+        },
+        {
+          "id": 20484,
+          "pattern_id": 3873,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Cools blood and drains damp-heat through the urine, calming irritability and thirst."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13897,
+          "pattern_id": 3873,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and regulates the immune response, a key point for febrile and inflammatory conditions."
+        },
+        {
+          "id": 13898,
+          "pattern_id": 3873,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and dampness from the channels, especially useful for elbow and upper limb arthritis."
+        },
+        {
+          "id": 13899,
+          "pattern_id": 3873,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Alleviates pain and clears heat, a master point for any painful condition in the body."
+        },
+        {
+          "id": 13900,
+          "pattern_id": 3873,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Drains stomach heat and calms inflammation, helping to clear the source of damp-heat."
+        }
+      ]
+    },
+    {
+      "id": 3874,
+      "condition_id": 786,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "pattern_slug": "phlegm-in-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain\", \"Hard, firm joint swellings\", \"Purplish skin around affected joints\", \"Numbness or heavy sensation in the limbs\", \"Subcutaneous nodules near joints\"]",
+      "worse_with": "Cold, damp weather, Sedentary lifestyle, Greasy, heavy foods, Overeating",
+      "better_with": "Warmth or warm compresses, Gentle movement, Dry weather, Light, non-greasy meals",
+      "why_this_happens": "In chronic arthritis, Qi and Blood fail to move freely through the joints. This stagnation allows Dampness to condense into Phlegm, a thick, turbid substance that combines with static Blood to form hard, fixed blockages. The result is knobby swelling, stabbing pain, and eventual deformity.",
+      "tongue_and_pulse": "Tongue: purple body with stasis spots, white greasy coating, distended sublingual veins. Pulse: wiry and choppy (Se), or wiry and slippery (Hua) if Phlegm predominates.",
+      "why_triggers_reliefs_work": "Phlegm and Blood Stasis are Yin pathogens that congeal with cold and damp, so warmth and movement help disperse them. Greasy, heavy foods directly generate more Phlegm, while a sedentary lifestyle allows stagnation to deepen. Dry weather and light meals reduce the Dampness burden, allowing Qi and Blood to flow more freely.",
+      "diet_and_lifestyle": "Avoid dairy, fried foods, sugar, and cold drinks, which create Phlegm and Dampness. Eat warming, blood-moving foods like turmeric, ginger, and dark leafy greens. Gentle daily movement such as walking or tai chi helps prevent stagnation.",
+      "formulas": [
+        {
+          "id": 8810,
+          "pattern_id": 3874,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "Dispels Blood Stasis and unblocks the channels to relieve fixed, stabbing joint pain."
+        },
+        {
+          "id": 8811,
+          "pattern_id": 3874,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "Dries Dampness and transforms Phlegm, the root of the hard swellings and heaviness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20485,
+          "pattern_id": 3874,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "",
+          "description": "Penetrates the channels to dissolve stubborn Phlegm lodged in the joints."
+        },
+        {
+          "id": 20486,
+          "pattern_id": 3874,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up Blood Stasis to relieve fixed pain."
+        },
+        {
+          "id": 20487,
+          "pattern_id": 3874,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, reducing swelling."
+        },
+        {
+          "id": 20488,
+          "pattern_id": 3874,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates Blood and unblocks the channels."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13901,
+          "pattern_id": 3874,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for Phlegm; transforms Dampness and clears the channels."
+        },
+        {
+          "id": 13902,
+          "pattern_id": 3874,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates Blood and dispels Stasis in the joints."
+        },
+        {
+          "id": 13903,
+          "pattern_id": 3874,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates Blood and resolves Dampness."
+        },
+        {
+          "id": 13904,
+          "pattern_id": 3874,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "Influential point of the sinews, eases joint stiffness."
+        }
+      ]
+    },
+    {
+      "id": 3875,
+      "condition_id": 786,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "pattern_slug": "painful-obstruction-with-qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, aching joint pain that worsens with exertion\", \"Numbness or tingling in the limbs\", \"Profound fatigue and lack of strength\", \"Pale face and lips\", \"Shortness of breath on mild exertion\", \"Poor appetite\"]",
+      "worse_with": "Overexertion, Cold, damp weather, Skipping meals or eating cold raw foods, Prolonged standing",
+      "better_with": "Rest, Warmth or warm compresses, Warm, nourishing food and drinks, Gentle movement",
+      "why_this_happens": "When arthritis persists for a long time, the body's Qi and Blood can become deeply depleted. These are the vital substances that nourish and warm every joint, muscle, and sinew. Without enough Qi to move and Blood to moisten, the channels become undernourished and sluggish, leading to a chronic, dull ache that feels worse after any exertion.\nThis is not the sharp, weather-driven pain of a fresh wind-damp invasion. Instead, the joints ache because they are literally starving for nourishment. The weakness, pale complexion, and fatigue that accompany the pain are direct signs that the body's reserves are running low, making it hard to recover from daily activities.",
+      "tongue_and_pulse": "Tongue: Pale body, possibly thin with teeth marks on the edges, and a thin white coating. Pulse: Fine (Xi) and weak (Ruo), and may feel slower than normal. It is often weakest in the rear (Chi) positions.",
+      "why_triggers_reliefs_work": "When Qi and Blood are already deficient, any exertion spends reserves the body does not have, making the dull ache and fatigue much worse. Cold and dampness are heavy, obstructive forces that further slow the already sluggish circulation in the channels, so keeping warm and dry is essential. Rest and nourishing food, on the other hand, are the most direct ways to rebuild Qi and Blood. Gentle movement helps to keep what little Qi there is flowing without creating the stagnation that comes from total inactivity, but it must never be pushed to the point of exhaustion.",
+      "diet_and_lifestyle": "Focus on warm, easily digestible, and nourishing foods. Bone broths, slow-cooked stews with root vegetables, congees, and small amounts of high-quality animal protein can help rebuild Qi and Blood. Avoid raw, cold, and greasy foods that further tax a weak Spleen. Gentle movement like tai chi or short walks is beneficial, but always stop before you feel tired-pushing through fatigue will only deepen the deficiency.",
+      "formulas": [
+        {
+          "id": 8812,
+          "pattern_id": 3875,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "The classic formula for chronic Bi syndrome with deficiency. It simultaneously tonifies Liver and Kidney, nourishes Qi and Blood, and gently dispels lingering wind-damp to relieve pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20489,
+          "pattern_id": 3875,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates its circulation, directly addressing the Blood deficiency that starves the joints."
+        },
+        {
+          "id": 20490,
+          "pattern_id": 3875,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi to restore strength, stop spontaneous sweating, and help the body generate new Blood."
+        },
+        {
+          "id": 20491,
+          "pattern_id": 3875,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "",
+          "description": "Dispels wind-damp from the lower back and legs, relieving the dull ache without depleting the body&#x27;s reserves."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13905,
+          "pattern_id": 3875,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. The master point for building Qi and Blood, strengthening the Spleen and Stomach to generate more nourishment for the channels."
+        },
+        {
+          "id": 13906,
+          "pattern_id": 3875,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Nourishes Blood and supports the Spleen, calming the numbness and tingling caused by malnourishment."
+        },
+        {
+          "id": 13907,
+          "pattern_id": 3875,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonify with moxa. The Back-Shu point of the Spleen, essential for boosting the body&#x27;s ability to transform food into Qi and Blood."
+        }
+      ]
+    },
+    {
+      "id": 3876,
+      "condition_id": 786,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "pattern_slug": "painful-obstruction-with-liver-and-kidney-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Chronic dull joint pain, worse in cold or damp weather\", \"Lower back and knee soreness and weakness\", \"Numbness or tingling in the limbs\", \"Fatigue and lack of stamina\", \"Pale or dull complexion\"]",
+      "worse_with": "Cold, damp weather, Overexertion, Cold or raw foods, Inadequate rest",
+      "better_with": "Warmth or warm compresses, Gentle movement, Rest, Warm, nourishing food and drinks, Warm, dry climate",
+      "why_this_happens": "The Liver governs the sinews and the Kidneys govern the bones. When age or chronic illness depletes their essence and blood, the joints, lower back, and knees lose their deep nourishment. This leaves the body vulnerable to cold and damp, which easily settle into the weakened areas and cause the dull, persistent ache and stiffness typical of degenerative arthritis.",
+      "tongue_and_pulse": "Tongue: pale, thin body with a thin white coating. Pulse: fine (thin), weak, and slow, especially weak in the Chi (rear) positions.",
+      "why_triggers_reliefs_work": "Liver and Kidney deficiency means the body's core is cold and undernourished. External cold and damp easily invade because there is not enough Yang Qi to resist them. Warming and nourishing habits replenish the depleted essence and help Qi and blood circulate, easing stiffness and ache.",
+      "diet_and_lifestyle": "Eat warming, nourishing foods like bone broths, black beans, walnuts, and goji berries. Avoid cold, raw foods and damp environments. Gentle exercises such as tai chi or walking help maintain joint mobility without overtaxing the Kidneys.",
+      "formulas": [
+        {
+          "id": 8813,
+          "pattern_id": 3876,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "The classic formula to tonify Liver and Kidney, nourish blood, and expel wind-damp from chronic painful obstruction."
+        },
+        {
+          "id": 8814,
+          "pattern_id": 3876,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "A classical formula used to relieve joint and muscle pain, stiffness, and numbness caused by Wind, Cold, and Dampness, especially when the body&#x27;s own defensive and nourishing functions are weakened. It is particularly well suited for pain and tightness in the neck, shoulders, arms, and upper body that worsens in cold or damp weather."
+        },
+        {
+          "id": 8815,
+          "pattern_id": 3876,
+          "formula_name": "Yi Yi Ren Tang",
+          "formula_url": "/knowledge-base/formulas/yi-yi-ren-tang",
+          "translation": "Coix Decoction &#xB7; Q&#x12B;ng dynasty, ca. 1839 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Disperses Cold, Unblocks the Channels and Collaterals",
+          "description": "A classical formula used to relieve joint and muscle pain caused by cold, wind, and dampness invading the body. It is especially helpful when joints feel heavy, swollen, stiff, or numb, and when symptoms worsen in cold or rainy weather. The formula works by draining excess dampness, warming the channels, improving circulation, and nourishing the blood to restore comfortable movement."
+        },
+        {
+          "id": 8816,
+          "pattern_id": 3876,
+          "formula_name": "Xuan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/xuan-bi-tang",
+          "translation": "Obstruction-Relieving Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Unblocks the Channels and Collaterals, Relieves Painful Obstruction",
+          "description": "A classical formula designed to clear Damp-Heat from the channels and joints. It is commonly used for hot, swollen, painful joints with restricted movement, fever and chills, and a yellow greasy tongue coating. Often applied in conditions like gouty arthritis, rheumatoid arthritis, and other inflammatory joint diseases caused by the accumulation of dampness and heat in the body&#x27;s meridian pathways."
+        },
+        {
+          "id": 8817,
+          "pattern_id": 3876,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "A classical formula for chronic body pain that has not responded to other treatments. It promotes blood circulation and opens the body&#x27;s channels to relieve stubborn pain in the shoulders, arms, lower back, legs, or throughout the whole body, especially when caused by blood stagnation combined with Wind and Dampness."
+        },
+        {
+          "id": 8818,
+          "pattern_id": 3876,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged."
+        },
+        {
+          "id": 8819,
+          "pattern_id": 3876,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "A classical formula for chronic joint and lower back pain caused by long-term exposure to cold and dampness, combined with underlying weakness of the Liver, Kidneys, Qi, and Blood. It works on two fronts: expelling cold, wind, and dampness from the joints and sinews while also strengthening the body&#x27;s constitution to prevent recurrence. It is especially suited for older adults or anyone whose pain has persisted for a long time and is accompanied by weakness, stiffness, or numbness in the lower body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20492,
+          "pattern_id": 3876,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "",
+          "description": "Expels wind-damp and is especially effective for lower body pain."
+        },
+        {
+          "id": 20493,
+          "pattern_id": 3876,
+          "herb_name": "Sang Ji Sheng",
+          "herb_url": "/knowledge-base/herbs/sang-ji-sheng",
+          "translation": "Mulberry Mistletoe",
+          "properties": "",
+          "description": "Nourishes Liver and Kidney, strengthens sinews and bones."
+        },
+        {
+          "id": 20494,
+          "pattern_id": 3876,
+          "herb_name": "Niu Xi",
+          "herb_url": "/knowledge-base/herbs/huai-niu-xi",
+          "translation": "Ox Knee Root",
+          "properties": "",
+          "description": "Tonifies Liver and Kidney and guides the formula to the lower back and knees."
+        },
+        {
+          "id": 20495,
+          "pattern_id": 3876,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 20496,
+          "pattern_id": 3876,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Dispels Wind-Dampness, Relieves Painful Obstruction",
+          "description": ""
+        },
+        {
+          "id": 20497,
+          "pattern_id": 3876,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 20498,
+          "pattern_id": 3876,
+          "herb_name": "Fang Ji",
+          "herb_url": "/knowledge-base/herbs/fang-ji",
+          "translation": "Fourstamen Stephania Root",
+          "properties": "Cold, Dispels Wind-Dampness and Alleviates Pain, Promotes Urination and Reduces Edema, Clears Heat from the Lower Jiao",
+          "description": ""
+        },
+        {
+          "id": 20499,
+          "pattern_id": 3876,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 20500,
+          "pattern_id": 3876,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 20501,
+          "pattern_id": 3876,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 20502,
+          "pattern_id": 3876,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "Warm, Warms the Lungs and Transforms Phlegm-Fluids, Moves Qi and Dissipates Nodules, Unblocks the Channels and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 20503,
+          "pattern_id": 3876,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 20504,
+          "pattern_id": 3876,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 20505,
+          "pattern_id": 3876,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 20506,
+          "pattern_id": 3876,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 20507,
+          "pattern_id": 3876,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 20508,
+          "pattern_id": 3876,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "Slightly Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Releases the Exterior",
+          "description": ""
+        },
+        {
+          "id": 20509,
+          "pattern_id": 3876,
+          "herb_name": "Sang Ji Sheng",
+          "herb_url": "/knowledge-base/herbs/sang-ji-sheng",
+          "translation": "Mulberry Mistletoe",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Dispels Wind-Dampness",
+          "description": ""
+        },
+        {
+          "id": 20510,
+          "pattern_id": 3876,
+          "herb_name": "Niu Xi",
+          "herb_url": "/knowledge-base/herbs/huai-niu-xi",
+          "translation": "Ox Knee Root",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Guides Herbs and Blood Downward, Supplements the Liver and Kidneys",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13908,
+          "pattern_id": 3876,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney essence to strengthen the bones and lower back."
+        },
+        {
+          "id": 13909,
+          "pattern_id": 3876,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms and reinforces Kidney Yang to dispel internal cold."
+        },
+        {
+          "id": 13910,
+          "pattern_id": 3876,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel, nourishing Yin and essence."
+        },
+        {
+          "id": 13911,
+          "pattern_id": 3876,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Qi and blood to support overall vitality and joint recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 5112,
+      "condition_id": 786,
+      "question": "How does acupuncture help arthritis pain?",
+      "answer": "Acupuncture works by stimulating specific points along the channels that traverse the affected joints, helping to unblock the stagnation of Qi and Blood that causes pain. It also prompts the release of endorphins and other natural pain-relieving chemicals. For arthritis, practitioners select points based on your pattern - for example, using points like Quchi (LI-11) and Waiguan (SJ-5) to expel Wind and Dampness, or Zusanli (ST-36) to strengthen Qi and Blood. Many patients feel immediate relief after a session, but lasting benefit builds over a series of treatments."
+    },
+    {
+      "id": 5113,
+      "condition_id": 786,
+      "question": "Can Chinese herbs replace my arthritis medication?",
+      "answer": "Chinese herbs can often reduce pain and inflammation to the point where some patients, in consultation with their doctor, are able to lower their medication dosage. However, you should never stop or change prescription drugs on your own. Herbs and medications can interact, especially blood-moving herbs like Dang Gui or Chuan Xiong with anticoagulants. Always work with both your TCM practitioner and your prescribing physician to coordinate care safely."
+    },
+    {
+      "id": 5114,
+      "condition_id": 786,
+      "question": "How long until I feel better?",
+      "answer": "Most people notice some improvement within 4-6 weeks of weekly acupuncture plus daily herbs. Acute, excess-type patterns (like a recent Wind-Cold-Damp invasion) tend to respond faster, sometimes in just a few sessions. Chronic, deficiency-based arthritis - where the body's reserves are low - takes longer, often 3-6 months, because the goal is to rebuild as well as relieve. Consistency is key; missing treatments or herbs can slow progress."
+    },
+    {
+      "id": 5115,
+      "condition_id": 786,
+      "question": "Is TCM safe if I'm on blood thinners?",
+      "answer": "Many TCM herbs that move Blood and unblock channels - such as Dang Gui, Chuan Xiong, or Hong Hua - can have a mild antiplatelet effect. If you take warfarin, aspirin, clopidogrel, or other anticoagulants, you must inform both your TCM practitioner and your prescribing doctor before starting herbs. Acupuncture is generally safe, but the practitioner should use gentle needling and avoid points that strongly invigorate Blood. Never stop your blood thinner without medical supervision."
+    },
+    {
+      "id": 5116,
+      "condition_id": 786,
+      "question": "What dietary changes can help arthritis in TCM?",
+      "answer": "In general, TCM recommends avoiding cold, raw, and greasy foods, which can create Dampness and worsen joint stiffness. Instead, favor warm, cooked meals and anti-inflammatory ingredients like ginger, turmeric, and bone broth. If your pattern is Damp Heat, you'll also want to cut back on spicy, fried, and rich foods. A TCM practitioner can give you more specific guidance based on your diagnosis, but starting with a warming, easily digestible diet is a solid foundation."
+    },
+    {
+      "id": 5117,
+      "condition_id": 786,
+      "question": "Will the results last after treatment stops?",
+      "answer": "When treatment successfully clears the obstruction and strengthens the underlying deficiency, the improvements can be long-lasting. However, arthritis is often a chronic condition, and many people benefit from periodic \"tune-up\" sessions - especially during seasonal changes or times of stress - to prevent recurrence. Your practitioner will also teach you lifestyle and dietary habits that help maintain the gains you've made."
+    }
+  ],
+  "research": [
+    {
+      "id": 1168,
+      "condition_id": 786,
+      "title": "Acupuncture for peripheral joint osteoarthritis",
+      "description": "This Cochrane systematic review pooled data from 16 trials involving 3498 participants and found that acupuncture significantly reduces pain and improves function in osteoarthritis of the knee and hip compared to sham acupuncture and usual care.",
+      "url": "https://doi.org/10.1002/14651858.CD001977.pub2",
+      "periodical": "Manheimer E, Cheng K, Linde K, et al. Acupuncture for peripheral joint osteoarthritis. Cochrane Database of Systematic Reviews. 2010;(1):CD001977."
+    },
+    {
+      "id": 1169,
+      "condition_id": 786,
+      "title": "Acupuncture for chronic knee pain: a randomized clinical trial",
+      "description": "This landmark 2004 trial randomized 570 patients with knee osteoarthritis to true acupuncture, sham acupuncture, or education. At 26 weeks, true acupuncture produced significantly greater improvements in pain and function than sham.",
+      "url": "https://doi.org/10.7326/0003-4819-141-12-200412210-00006",
+      "periodical": "Berman BM, Lao L, Langenberg P, et al. Effectiveness of acupuncture as adjunctive therapy in osteoarthritis of the knee: a randomized, controlled trial. Annals of Internal Medicine. 2004;141(12):901-10."
+    },
+    {
+      "id": 1170,
+      "condition_id": 786,
+      "title": "Du Huo Ji Sheng Tang for knee osteoarthritis: a systematic review and meta-analysis",
+      "description": "This 2016 meta-analysis of 14 randomized trials concluded that Du Huo Ji Sheng Tang, alone or combined with conventional therapy, significantly reduced pain and improved physical function in knee osteoarthritis, with a favorable safety profile.",
+      "url": "https://doi.org/10.1016/j.jep.2016.04.049",
+      "periodical": "Chen B, Zhan H, Marszalek J, et al. Du Huo Ji Sheng Tang for knee osteoarthritis: a systematic review and meta-analysis. Journal of Ethnopharmacology. 2016;188:134-43."
+    }
+  ]
+}

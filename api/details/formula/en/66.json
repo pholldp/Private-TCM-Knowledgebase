@@ -1,0 +1,927 @@
+{
+  "id": 66,
+  "name": "Ge Xia Zhu Yu Tang",
+  "chinese_name": "膈下逐瘀汤",
+  "english_name": "Drive Out Stasis Below the Diaphragm Decoction",
+  "url": "/knowledge-base/formulas/ge-xia-zhu-yu-tang",
+  "summary": "A classical formula for fixed abdominal pain, masses, or bloating caused by blood stasis and Qi stagnation below the diaphragm. It works by vigorously moving stagnant blood while also promoting the smooth flow of Qi in the abdomen and flanks, and is commonly used for conditions such as liver enlargement, uterine fibroids, endometriosis, and chronic pelvic pain.",
+  "categories": "[\"Blood-invigorating and stasis-resolving formulas\"]",
+  "tcm_actions": "[\"Invigorates Blood and Dispels Stasis\", \"Moves Qi and Alleviates Pain\", \"Disperses Accumulations and Dissipates Nodules\", \"Soothes the Liver and Regulates Qi\"]",
+  "therapeutic_focus": "[\"Abdominal Pain Relief\", \"Liver Health\", \"Women's Reproductive Health\", \"Digestive Health\"]",
+  "target_organs": "[\"Liver\", \"Spleen\", \"Stomach\"]",
+  "temperature": "Slightly Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Yi Lin Gai Cuo (医林改错, Correcting the Errors in the Forest of Medicine) by Wang Qing-Ren",
+  "conditions": "[\"Endometriosis\", \"Cirrhosis\", \"Amenorrhea\", \"Chronic Pelvic Inflammatory Disease\", \"Hepatomegaly\", \"Uterine Fibroids\", \"Ovarian Cysts\", \"Chronic Hepatitis\", \"Acute Pancreatitis\", \"Dyspepsia\", \"Infertility\"]",
+  "patterns": "[]",
+  "other_names": "[]",
+  "pregnancy": "Contraindicated in pregnancy. This formula contains several herbs with strong Blood-moving and stasis-breaking actions that pose serious risks during pregnancy. Tao Ren (Peach Kernel) and Hong Hua (Safflower) are well-known for their ability to stimulate uterine contractions and promote menstrual flow, making them potentially abortifacient. Dan Pi (Moutan Bark) cools and moves Blood and is also classified as cautioned or contraindicated in pregnancy. Wu Ling Zhi (Trogopterus Dung) has strong Blood-dispersing action. The combined effect of these herbs creates a formula with significant potential to cause uterine bleeding, threatened miscarriage, or premature labor. This formula should not be used at any stage of pregnancy.",
+  "breastfeeding": "Use with caution during breastfeeding. While there are no classical prohibitions specifically regarding lactation, several herbs in this formula have potent Blood-moving properties (Tao Ren, Hong Hua, Wu Ling Zhi, Dan Pi) whose active compounds may transfer into breast milk in small amounts. The potential effects on a nursing infant are not well studied. Yan Hu Suo (Corydalis) contains alkaloids (including tetrahydropalmatine) with analgesic and sedative properties that could theoretically affect an infant through breast milk. If the formula is clinically necessary for the mother, a qualified practitioner should weigh the benefits against potential risks and monitor both mother and infant. It may be advisable to use reduced dosages and to time feedings to minimize infant exposure.",
+  "children": "Wang Qingren himself noted that Ge Xia Zhu Yu Tang could be used for childhood abdominal masses (小儿痞块), making it one of the few Blood-moving formulas with a classical pediatric indication. However, in children, dosages must be significantly reduced according to age and body weight, typically to one-third to one-half of the adult dose for school-age children, and further reduced for younger children. The formula's strong Blood-moving nature means it should only be used in pediatric cases where clear signs of Blood stasis and abdominal masses are present, and only under the supervision of an experienced practitioner. Duration of use in children should be shorter and closely monitored. This formula is not suitable for infants or toddlers.",
+  "drug_interactions": "Anticoagulant and antiplatelet medications: Multiple herbs in this formula (Tao Ren, Hong Hua, Dan Pi, Chi Shao, Dang Gui, Chuan Xiong, Wu Ling Zhi) have demonstrated antiplatelet aggregation and blood-activating effects. Combined use with warfarin, heparin, aspirin, clopidogrel, or direct oral anticoagulants (DOACs) may increase bleeding risk. INR and bleeding time should be monitored if concurrent use is unavoidable.\nGan Cao (Licorice) interactions: Gan Cao (甘草) in this formula contains glycyrrhizin, which can cause pseudoaldosteronism with prolonged use. It may interact with antihypertensive medications (by promoting sodium retention and potassium loss), corticosteroids (potentiating hypokalemic effects), digoxin and cardiac glycosides (hypokalemia increases toxicity risk), and diuretics (compounding electrolyte imbalances).\nYan Hu Suo (Corydalis) interactions: Contains tetrahydropalmatine and other alkaloids with analgesic and mild sedative properties. It may potentiate the effects of CNS depressants, sedatives, or opioid analgesics, and may interact with dopaminergic medications.\nHepatically metabolized drugs: Given the formula's strong action on liver circulation and its use in liver conditions, it may theoretically alter hepatic drug metabolism. Patients taking medications with narrow therapeutic windows that are liver-metabolized should use caution.",
+  "best_time_to_take": "30 minutes to 1 hour after meals, twice daily (morning and evening). Taking it after meals reduces potential gastrointestinal irritation from the Blood-moving herbs.",
+  "typical_duration": "Typically prescribed for 2-8 weeks depending on condition severity, then reassessed. For acute pain with stasis, shorter courses of 1-2 weeks may suffice. For chronic masses or liver conditions, longer courses of 1-3 months with periodic reassessment are common.",
+  "dietary_advice": "Avoid cold, raw, and frozen foods and beverages, as these can constrict blood vessels and counteract the formula's Blood-moving action. Reduce greasy, fatty, and fried foods, which can generate Dampness and impede Qi flow in the Liver and Spleen. Avoid excessive alcohol, which produces Damp-Heat and can worsen Liver stagnation. Favor lightly cooked, warm foods that support smooth Qi circulation, such as leafy greens, small amounts of vinegar-dressed dishes, and foods with gentle Blood-moving properties like hawthorn, turmeric, and dark leafy vegetables. Avoid overeating, as an overly full Stomach burdens the sub-diaphragmatic region where this formula is directed.",
+  "ingredients": [
+    {
+      "herb_name": "Tao Ren",
+      "english_name": "Peach kernel",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Hong Hua",
+      "english_name": "Safflower flower",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Wu Ling Zhi",
+      "english_name": "Flying squirrel feces",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "Chinese Angelica root",
+      "role": "Deputy",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Chuan Xiong",
+      "english_name": "Sichuan lovage rhizome",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Chi Shao",
+      "english_name": "Red peony root",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Mu Dan Pi",
+      "english_name": "Tree peony root bark",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Xiang Fu",
+      "english_name": "Nutgrass Galingale Rhizome",
+      "role": "Assistant",
+      "dosage": "4.5g"
+    },
+    {
+      "herb_name": "Wu Yao",
+      "english_name": "Lindera root",
+      "role": "Assistant",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Yan Hu Suo",
+      "english_name": "Corydalis rhizome",
+      "role": "Assistant",
+      "dosage": "3g"
+    },
+    {
+      "herb_name": "Zhi Ke",
+      "english_name": "Bitter orange fruit",
+      "role": "Assistant",
+      "dosage": "4.5g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "9g"
+    }
+  ],
+  "research": [
+    {
+      "id": 166,
+      "formula_id": 66,
+      "title": "Gexia-Zhuyu Tang prevents dimethylnitrosamine-induced liver fibrosis through inhibition of hepatic stellate cell proliferation (Animal study, 2012)",
+      "description": "This preclinical study in rats investigated GZT's effects on chemically-induced liver fibrosis. Oral administration of GZT significantly decreased liver enzyme levels (GOT and GPT) and reduced the expression of fibrosis markers including collagen alpha-1(I) and alpha-smooth muscle actin. The researchers concluded that GZT exhibited both hepatoprotective and antifibrogenic effects, suggesting it may be useful in preventing the development of liver fibrosis.",
+      "url": "https://doi.org/10.1016/j.jep.2012.06.005",
+      "periodical": "Chen JY, Chen HL, Cheng JC, Lin HJ, Tung YT, Lin CF, Chen CM. Journal of Ethnopharmacology, 2012, 142(3): 811-818."
+    },
+    {
+      "id": 167,
+      "formula_id": 66,
+      "title": "Pharmacodynamic evaluation of Gexia Zhuyu Decoction in the treatment of NAFLD and the molecular mechanism underlying the TRPM4 pathway regulation (Animal study, 2021)",
+      "description": "Using mouse models of nonalcoholic fatty liver disease (NAFLD) at various progression stages, this study found that the Gexia Zhuyu decoction reduced serum ALT, AST, and liver triglyceride levels while increasing HDL and SOD levels. Fatty changes, inflammation, and fibrous tissue proliferation in liver tissue were all relieved. The mechanism appeared to involve regulation of the TRPM4 protein pathway via miRNA-24 expression changes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34887931/",
+      "periodical": "Zhao T, Yang S, Liu CH, Wang YH, Tao H, Zhou H, Liu CH. Canadian Journal of Gastroenterology and Hepatology, 2021, Article ID 6668498."
+    },
+    {
+      "id": 168,
+      "formula_id": 66,
+      "title": "Modified Gexia-Zhuyu Tang inhibits gastric cancer progression by restoring gut microbiota and regulating pyroptosis (Animal study, 2024)",
+      "description": "This preclinical study used mouse xenograft models of gastric cancer to investigate a modified version of GZT. The study found that the modified formula inhibited tumor growth, altered gut microbiota composition (assessed by 16S rRNA sequencing), and regulated pyroptosis (a form of programmed cell death). The researchers suggested this provided a theoretical basis for clinical use of modified GZT in gastric cancer treatment.",
+      "url": "https://doi.org/10.1186/s12935-024-03215-6",
+      "periodical": "Zhao T, Yu Z. Cancer Cell International, 2024, 24: 21."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 35,
+      "name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 37,
+      "name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 40,
+      "name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 84,
+      "name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 124,
+      "name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 136,
+      "name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 240,
+      "name": "Ge Xia Zhu Yu Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 106,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 106,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 113,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 113,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 113,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 113,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 114,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 114,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 116,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 116,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 117,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 117,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 118,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 118,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 126,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 126,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 128,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 128,
+      "pattern_name": "Large Intestine Qi Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 132,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 132,
+      "pattern_name": "Spleen Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 139,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 139,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 139,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 142,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 142,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 166,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 166,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 184,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 184,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 190,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 190,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 194,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 194,
+      "pattern_name": "Rebellious Liver Qi invading the Spleen",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 223,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 223,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 226,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 226,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 227,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 227,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 230,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 230,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 231,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 231,
+      "pattern_name": "Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 234,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 234,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 235,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 235,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 236,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 236,
+      "pattern_name": "Spleen Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 239,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 239,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 306,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 306,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 312,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 312,
+      "pattern_name": "Stagnation of Cold in the Liver Channel",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 313,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 313,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 313,
+      "pattern_name": "Blood Stagnation and Phlegm in the Uterus",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 313,
+      "pattern_name": "Blood Stagnation and Phlegm in the Uterus",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 324,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 324,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 327,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 327,
+      "pattern_name": "Phlegm in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 328,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 328,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 389,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 389,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 397,
+      "pattern_name": "Blood Stagnation in the Directing and Penetrating Vessels",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 397,
+      "pattern_name": "Damp-Phlegm in the Uterus",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 398,
+      "pattern_name": "Blood Stagnation in the Directing and Penetrating Vessels",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 398,
+      "pattern_name": "Damp-Phlegm in the Uterus",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 399,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 399,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 400,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 400,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 400,
+      "pattern_name": "Kidney Qi Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 401,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 401,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 402,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 402,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 403,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 403,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 431,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 431,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 443,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 443,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 541,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 541,
+      "pattern_name": "Heart Vessel obstructed",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 576,
+      "pattern_name": "Pericardium Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 576,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 683,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 683,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 929,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 929,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 946,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 946,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 948,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 948,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 969,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 969,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1047,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1047,
+      "pattern_name": "Blood Stagnation in the Directing and Penetrating Vessels",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1071,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1071,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1072,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1072,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1104,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1104,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1136,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1136,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1145,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1145,
+      "pattern_name": "Kidney Qi Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1166,
+      "pattern_name": "Blood Stagnation in the Directing and Penetrating Vessels",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1166,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1213,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1213,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1239,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1239,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1252,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1252,
+      "pattern_name": "Spleen Qi Sinking",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1268,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1268,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1269,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1269,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1277,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1277,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1343,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1343,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1367,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1367,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1406,
+      "pattern_name": "Blood Stagnation in the Directing and Penetrating Vessels",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1406,
+      "pattern_name": "Full Cold in the Directing and Penetraing Vessels",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1417,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1417,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1421,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1421,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1432,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1432,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1436,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1436,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1449,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1449,
+      "pattern_name": "Liver and Gallbladder Damp-Heat",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1458,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1458,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1483,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1483,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1496,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1496,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1504,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1504,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1580,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1580,
+      "pattern_name": "Damp-Heat in the Liver",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1591,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1591,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Ge Xia Zhu Yu Tang"
+    }
+  ]
+}

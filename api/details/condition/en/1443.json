@@ -1,0 +1,775 @@
+{
+  "id": 1443,
+  "name": "Peritonitis",
+  "url": "/knowledge-base/conditions/peritonitis",
+  "kind": "Condition",
+  "pinyin": "fù mó yán",
+  "chinese_name": "腹膜炎",
+  "preview_text": "In TCM, the quality of the pain-whether burning and distended, stabbing and fixed, or associated with massive fluid accumulation-reveals the underlying pattern driving the peritoni...",
+  "categories": "[\"Abdominal Pain\", \"Infectious Diseases\"]",
+  "body_regions": "[\"Abdomen — Middle\"]",
+  "synonyms": "[]",
+  "conventional_description": "Peritonitis is inflammation of the peritoneum, the thin membrane lining the abdominal cavity. It is most often caused by a bacterial infection, which may be primary (spontaneous, often in people with liver disease and ascites) or secondary (from a perforation in the digestive tract, such as a ruptured appendix or ulcer). Typical symptoms include severe abdominal pain that worsens with movement, a rigid or tender belly, fever, nausea, vomiting, and bloating. Diagnosis is made through physical examination, blood tests, imaging studies, and sometimes analysis of ascitic fluid.",
+  "conventional_treatments": "Treatment for peritonitis is urgent and typically involves intravenous antibiotics to fight the infection, along with supportive care such as fluids and pain management. If the peritonitis is secondary to a perforation or abscess, emergency surgery is often required to repair the hole and clean the abdominal cavity. In cases of spontaneous bacterial peritonitis, long-term antibiotics may be prescribed to prevent recurrence, especially in patients with cirrhosis.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees peritonitis as an invasion of the peritoneum by external pathogenic factors - most commonly Damp-Heat and Toxic-Heat. These pathogens block the normal flow of Qi and blood in the abdomen, leading to the hallmark symptoms of pain, distension, and fever. The Spleen and Stomach (middle burner) and the Intestines and Kidneys (lower burner) are the organ systems most affected. In the early stages, the body's struggle against these pathogens creates an excess pattern, with intense heat, dampness, and stagnation.\nIf the inflammation is not resolved, it can congeal the blood, leading to Blood Stagnation. Here the pain becomes fixed, stabbing, and worse with pressure, and the tongue turns dark purple with stasis spots. Over time, the prolonged battle can exhaust the body's vital energy, shifting the condition into a mixed excess-deficiency or pure deficiency pattern. This is especially common in chronic conditions like cirrhosis, where Kidney Yang Deficiency fails to transform fluids, causing massive ascites and creating a waterlogged environment prone to infection.\nBecause the same Western diagnosis can arise from different TCM patterns, treatment is highly individualized. A patient with high fever, severe constipation, and a rigid abdomen suggests Bright Yang Fire in the Stomach and Intestines, requiring strong purgation. Another with a dull, burning pain, yellow greasy tongue coating, and loose stools points to Damp-Heat in the Lower Burner, needing cooling and drying herbs.\nA third with massive ascites, cold limbs, and a pale puffy tongue indicates Kidney Yang Deficiency with water overflowing, where warming and diuretic herbs are essential. This differentiation allows TCM to address not just the infection but the terrain that allowed it to take hold.",
+  "classical_quote": "「阳明之为病，胃家实是也。」",
+  "classical_translation": "\"The Yangming disease is characterized by excess in the Stomach and Intestines. This is the earliest description of the Bright Yang Fire pattern, where heat and dry stools accumulate in the abdomen, causing rigidity, pain, and high fever - the classic presentation of acute secondary peritonitis.\"",
+  "classical_source": "Treatise on Cold Damage (Shāng Hán Lùn)  ,  Identification of Yangming Disease \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the character of the abdominal pain and what else is happening in the body. The Damp-Heat in the Lower Burner pattern is marked by a sense of fullness, distension, and a dull or burning pain, often with fever and a yellow cast to the skin or eyes. The tongue is red with a thick, greasy yellow coating, and the pulse feels slippery and rapid.\nIf the pain is more distending and comes with belching, chest oppression, and emotional irritability, the practitioner considers Qi and Blood Stagnation. Here the flow of Qi is blocked, and the pulse often feels wiry or hesitant. The tongue may be dark red with stasis spots, indicating that both the movement of Qi and the circulation of blood are impeded.\nWhen blood stasis dominates, the pain becomes sharp and stabbing, fixed in one spot, and a mass may be felt. The tongue turns dark purple with visible stasis spots, and the pulse is hesitant or choppy. This pattern often develops after prolonged damp-heat or inflammation has congealed the blood, and the stabbing quality is the key differentiator.\nIn acute secondary peritonitis, the Bright Yang Fire pattern appears suddenly with high fever, a rigid board-like abdomen, and rebound tenderness. The tongue is red with a dry yellow coating, and the pulse is forceful and rapid. This signals a severe fu-organ heat excess that requires urgent intervention, and its dramatic onset sets it apart from the more gradual damp-heat or stagnation patterns.\nToxic-Heat represents a dangerous escalation. The person feels intensely hot, the mouth is bitter, and the tongue coating may be yellow, greasy, or even scorched. The pulse is rapid and slippery, and systemic signs of toxicity are prominent. This pattern is less common but critical to recognize, because it indicates that the infection is overwhelming the body's defenses.\nFinally, in patients with long-standing liver disease and ascites, Kidney Yang Deficiency with Water overflowing may underlie the condition. Massive abdominal swelling, edema in the legs, and a pale, swollen tongue with a white greasy coating point to a deep weakness that allows water to accumulate, making the peritoneum vulnerable to infection. The pulse is deep and slow, reflecting the yang deficiency.",
+  "patterns": [
+    {
+      "id": 7069,
+      "condition_id": 1443,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "pattern_slug": "damp-heat-in-the-lower-burner",
+      "is_common": 0,
+      "symptoms": "[\"Lower abdominal pain and distension\", \"Fever that worsens in the afternoon\", \"Yellow greasy tongue coating thickest at root\", \"Heavy sensation in the legs and lower body\", \"Foul-smelling stools or diarrhea\", \"Thirst with no desire to drink much\"]",
+      "worse_with": "Greasy or fried foods, Alcohol, Damp or humid weather, Overexertion, Spicy foods",
+      "better_with": "Light congee and steamed vegetables, Rest, Cool environment, Avoiding alcohol",
+      "why_this_happens": "Damp-Heat is a pathogenic combination of heaviness and inflammation that settles in the lower burner-the region housing the intestines, bladder, and peritoneum. When this sticky, hot obstruction accumulates, it blocks the normal flow of Qi and blood, causing the peritoneum to become swollen, painful, and distended.\nThis pattern often arises when external damp-heat invades, or when internal imbalances from diet and stress generate dampness and heat that sink downward. The result is the classic peritonitis picture of lower abdominal pain, fever, and a thick yellow tongue coating, as the body's inflammatory response becomes trapped in the abdominal cavity.",
+      "tongue_and_pulse": "Tongue: Red body, slightly swollen, with a yellow greasy coating thickest at the root. Pulse: Slippery (Hua) and rapid (Shu), may be soggy (Ru), more pronounced at the Chi (rear) position.",
+      "why_triggers_reliefs_work": "Greasy, fried, and spicy foods generate dampness and heat internally, directly fueling the pathogenic factors that cause this pattern. Alcohol is especially damaging as it combines dampness and heat. A light, bland diet and rest allow the digestive system to recover and the body to clear the infection without additional burden. A cool, dry environment helps counteract the damp-heat.",
+      "diet_and_lifestyle": "Eat small, frequent meals of easily digested foods like congee and steamed vegetables. Avoid all greasy, fried, spicy, and sweet foods, as well as alcohol, which create dampness and heat. Stay in a cool, dry environment and get plenty of rest to allow the body to fight the infection.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 37029,
+          "pattern_id": 7069,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges heat and dampness from the lower burner and unblocks the bowels to relieve abdominal distension."
+        },
+        {
+          "id": 37030,
+          "pattern_id": 7069,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools the blood and resolves stasis, targeting the inflammatory swelling of the peritoneum."
+        },
+        {
+          "id": 37031,
+          "pattern_id": 7069,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and promotes circulation in the abdomen, easing fixed pain."
+        },
+        {
+          "id": 37032,
+          "pattern_id": 7069,
+          "herb_name": "Dong Gua Zi",
+          "herb_url": "/knowledge-base/herbs/dong-gua-zi",
+          "translation": "Winter melon seed",
+          "properties": "",
+          "description": "Drains pus and dampness, helping to clear infected fluid from the peritoneal cavity."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 25258,
+          "pattern_id": 7069,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the intestines and relieves abdominal pain and distension."
+        },
+        {
+          "id": 25259,
+          "pattern_id": 7069,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "The lower he-sea point of the large intestine, clears damp-heat from the bowel."
+        },
+        {
+          "id": 25260,
+          "pattern_id": 7069,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the lower burner and eases the heavy sensation in the body."
+        }
+      ]
+    },
+    {
+      "id": 7070,
+      "condition_id": 1443,
+      "pattern_name": "Qi And Blood Stagnation",
+      "pattern_slug": "qi-and-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing abdominal pain\", \"Pain worse with pressure\", \"Abdominal distension and bloating\", \"Feeling of oppression or tightness in the chest\", \"Dark purplish tongue with stasis spots\", \"Possible hard, immovable masses in the abdomen\"]",
+      "worse_with": "Stress, anger, or frustration, Cold or raw foods, Prolonged inactivity",
+      "better_with": "Gentle movement (walking, stretching), Warmth on the abdomen, Calm, stress-free environment",
+      "why_this_happens": "When inflammation lingers in the abdomen, the normal flow of Qi gets stuck, creating a sensation of bloating, distension, and pressure. As the stagnation deepens, blood flow also becomes sluggish and congeals, turning the pain into a fixed, stabbing sensation that worsens with touch. This pattern often follows an acute damp-heat episode, leaving behind a tangled knot of Qi and blood that the body cannot easily clear on its own.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots, distended sublingual veins, thin white coat. Pulse: wiry (弦 xián) and choppy (涩 sè), like a taut guitar string scraping bamboo.",
+      "why_triggers_reliefs_work": "Stress and anger directly knot up the Liver Qi, which is the engine that keeps blood moving; when Qi stagnates, blood follows, intensifying the stabbing pain. Cold foods and inactivity both congeal and slow down circulation, making stagnation worse. Gentle movement and warmth, on the other hand, encourage Qi to flow and blood to move, naturally easing the fixed pain and bloating.",
+      "diet_and_lifestyle": "Eat small, warm meals and avoid icy or raw foods that can congeal blood. Gentle daily movement like walking or tai chi helps keep Qi flowing, but avoid overexertion that can strain the abdomen. Manage stress and frustration, as emotional tension directly worsens Qi stagnation.",
+      "formulas": [
+        {
+          "id": 16117,
+          "pattern_id": 7070,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to invigorate blood and move Qi, especially effective for stabbing pain in the chest and abdomen when stagnation is prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 37033,
+          "pattern_id": 7070,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and relieves fixed abdominal pain."
+        },
+        {
+          "id": 37034,
+          "pattern_id": 7070,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves both blood and Qi, helping to unblock the stuck flow in the abdomen."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 25261,
+          "pattern_id": 7070,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Spreads Liver Qi and relieves distension and pain."
+        },
+        {
+          "id": 25262,
+          "pattern_id": 7070,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Powerfully moves Qi and blood throughout the body."
+        },
+        {
+          "id": 25263,
+          "pattern_id": 7070,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood, used to invigorate circulation and dissolve stasis."
+        }
+      ]
+    },
+    {
+      "id": 7071,
+      "condition_id": 1443,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing abdominal pain\", \"Pain worse at night\", \"Dark purplish tongue with stasis spots\", \"Palpable abdominal masses or hard lumps\"]",
+      "worse_with": "Cold weather or air conditioning, Emotional stress, Prolonged sitting or inactivity, Rich, greasy foods",
+      "better_with": "Gentle exercise (walking, tai chi), Warmth applied to the abdomen, Rest and relaxation, Warm cooked meals",
+      "why_this_happens": "When inflammation persists in the peritoneum, the local circulation becomes sluggish and stagnant, forming blood stasis. This stagnant blood creates a fixed, stabbing pain that is worse with pressure and at night, and may form palpable masses. The stasis blocks the normal flow of Qi and blood, causing the characteristic dark purple tongue and choppy pulse.",
+      "tongue_and_pulse": "Tongue: purple or dusky body, stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩, Sè) or wiry (弦, Xián).",
+      "why_triggers_reliefs_work": "Cold congeals blood and worsens stasis, so warmth and gentle movement help blood flow. Stress and emotional upset cause Qi stagnation, which leads to blood stasis, so relaxation and stress management are key. Sedentary habits slow circulation, while gentle exercise invigorates Qi and blood. Greasy foods create dampness that can obstruct blood flow, so a light, warming diet supports healing.",
+      "diet_and_lifestyle": "Eat warming, blood-moving foods like turmeric, ginger, and small amounts of lean meat. Avoid cold, raw foods and excessive dairy, which can congeal blood. Gentle movement like walking or tai chi helps keep Qi and blood flowing.",
+      "formulas": [
+        {
+          "id": 16118,
+          "pattern_id": 7071,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to invigorate blood and dispel stasis in the chest and abdomen, with added herbs to move Qi and relieve pain."
+        },
+        {
+          "id": 16119,
+          "pattern_id": 7071,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A foundational blood-invigorating formula that can be modified for abdominal stasis to break up stagnant blood and nourish the blood."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 37035,
+          "pattern_id": 7071,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and relieves pain, especially for abdominal stasis masses."
+        },
+        {
+          "id": 37036,
+          "pattern_id": 7071,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks stagnation, helping to dissolve stasis and ease stabbing pain."
+        },
+        {
+          "id": 37037,
+          "pattern_id": 7071,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves both blood and Qi, targeting the lower abdomen to relieve fixed pain from stasis."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 25264,
+          "pattern_id": 7071,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood point, directly invigorates blood and dispels stasis."
+        },
+        {
+          "id": 25265,
+          "pattern_id": 7071,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates blood and moves Qi in the lower abdomen, essential for breaking up stasis."
+        },
+        {
+          "id": 25266,
+          "pattern_id": 7071,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Moves Liver Qi and blood, relieving the tension and pain that accompany blood stasis."
+        }
+      ]
+    },
+    {
+      "id": 7072,
+      "condition_id": 1443,
+      "pattern_name": "Bright Yang Fire in Stomach and Intestines",
+      "pattern_slug": "bright-yang-fire-in-stomach-and-intestines",
+      "is_common": 0,
+      "symptoms": "[\"Abdominal pain worse with pressure\", \"Constipation with dry, hard stools\", \"High fever, often peaking in the afternoon\", \"Intense thirst for cold drinks\", \"Foul-smelling gas and bad breath\"]",
+      "worse_with": "Spicy or greasy food, Alcohol, Stress, Overexertion, Hot weather",
+      "better_with": "Cool drinks, Rest and lying still, Passing stool, Cool environment",
+      "why_this_happens": "In peritonitis, intense heat accumulates in the Stomach and Intestines, much like a fire burning inside the abdomen. This heat dries up body fluids, leading to severe constipation with hard, dry stools. The trapped heat and waste cause extreme pressure, distension, and pain that worsens with any touch, while the body tries to cool itself with high fever and sweating.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns, thick dry yellow coating that may crack. Pulse: deep, forceful, and rapid.",
+      "why_triggers_reliefs_work": "Spicy, greasy foods and alcohol add more heat and dampness to the already overburdened digestive system, worsening the internal fire. Stress can cause Qi to stagnate, further trapping heat. Cool drinks and a cool environment help counteract the excess heat, while rest conserves energy and prevents agitation. Passing stool removes the accumulated waste and heat, directly addressing the root cause of the pain and distension.",
+      "diet_and_lifestyle": "Avoid all hot, spicy, and greasy foods, as well as alcohol. Focus on light, cooling foods like congee, steamed vegetables, and plenty of warm water. Rest is essential - movement can aggravate the abdominal pain. Once the acute phase passes, gentle walking helps restore Qi flow.",
+      "formulas": [
+        {
+          "id": 16120,
+          "pattern_id": 7072,
+          "formula_name": "Da Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/da-cheng-qi-tang",
+          "translation": "Major Order the Qi Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Vigorously Purges Heat Accumulation, Promotes Bowel Movement, Moves Qi and Relieves Distension",
+          "description": "The classic formula to purge intense heat and dry stool from the intestines, relieving distension and pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 37038,
+          "pattern_id": 7072,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Clears heat and forcefully moves the bowels to relieve constipation."
+        },
+        {
+          "id": 37039,
+          "pattern_id": 7072,
+          "herb_name": "Mang Xiao",
+          "herb_url": "/knowledge-base/herbs/mang-xiao",
+          "translation": "Mirabilite",
+          "properties": "",
+          "description": "Softens hard, dry stool and assists purging."
+        },
+        {
+          "id": 37040,
+          "pattern_id": 7072,
+          "herb_name": "Zhi Shi",
+          "herb_url": "/knowledge-base/herbs/zhi-shi",
+          "translation": "Immature Bitter Orange Fruit",
+          "properties": "",
+          "description": "Breaks up Qi stagnation in the abdomen to reduce distension."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 25267,
+          "pattern_id": 7072,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the intestines and alleviates abdominal pain."
+        },
+        {
+          "id": 25268,
+          "pattern_id": 7072,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "Lower He-Sea point of the Large Intestine, clears heat and promotes bowel movement."
+        },
+        {
+          "id": 25269,
+          "pattern_id": 7072,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Ying-Spring point of the Stomach channel, drains Stomach Fire."
+        }
+      ]
+    },
+    {
+      "id": 7073,
+      "condition_id": 1443,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever with a burning sensation throughout the body\", \"Severe, constant abdominal pain with rigidity and rebound tenderness\", \"Intense thirst with a desire for cold drinks\", \"Restlessness, irritability, and in severe cases, delirium\", \"Red tongue body with raised, prickly papillae and a dry yellow coating\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Emotional stress and anger, Hot, stuffy environments",
+      "better_with": "Cool drinks and cooling foods, Rest in a cool, quiet room, Gentle, slow breathing",
+      "why_this_happens": "In peritonitis, a severe infection can overwhelm the body's defenses, causing Heat to accumulate and transform into a deep, toxic Fire. This Fire toxin burns through the tissues of the abdomen, creating intense inflammation, pus formation, and a dangerous systemic reaction. The result is a high fever and a burning, unrelenting pain that signals the body is fighting a severe internal infection.",
+      "tongue_and_pulse": "Tongue: red body with prickly raised papillae (thorns), dry yellow coating. Pulse: rapid (数 shuò) and forceful (有力 yǒu lì), often full (实 shí) or overflowing (洪 hóng).",
+      "why_triggers_reliefs_work": "Toxic-Heat is an aggressive, fiery pathogen that consumes body fluids and disturbs the mind. Heating foods and emotional stress add more Fire, intensifying the infection. Cooling foods and rest help to clear Heat, protect fluids, and allow the body's resources to focus on resolving the toxin.",
+      "diet_and_lifestyle": "This is a medical emergency requiring hospital care. Once stable, avoid all spicy, greasy, and heating foods. Drink plenty of cool water and consume light, cooling foods like mung bean soup, watermelon, and cucumber. Complete rest is essential to preserve the body's energy for fighting the infection.",
+      "formulas": [
+        {
+          "id": 16121,
+          "pattern_id": 7073,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "The primary formula to clear Heat, resolve Fire toxicity, and cool the Blood, addressing the systemic infection and high fever."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 37041,
+          "pattern_id": 7073,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heat, dries Dampness, and resolves Fire toxicity, targeting the deep infection."
+        },
+        {
+          "id": 37042,
+          "pattern_id": 7073,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears Heat, eliminates irritability, and drains Damp-Heat, helping to calm the mind and reduce fever."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 25270,
+          "pattern_id": 7073,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduce. Clears Heat and resolves Toxin, powerfully reducing fever."
+        },
+        {
+          "id": 25271,
+          "pattern_id": 7073,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce. Clears Heat from the body and cools the Blood, relieving abdominal inflammation."
+        }
+      ]
+    },
+    {
+      "id": 7074,
+      "condition_id": 1443,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "pattern_slug": "kidney-yang-deficiency-with-water-overflowing",
+      "is_common": 0,
+      "symptoms": "[\"Massive abdominal distension (ascites)\", \"Edema of legs and ankles\", \"Feeling of cold, especially in the lower body\", \"Scanty or difficult urination\", \"Soreness and weakness of the lower back\", \"Fatigue and heaviness in the limbs\", \"Loose stools or diarrhea\"]",
+      "worse_with": "Cold, damp environments, Overwork and exhaustion, Raw, cold foods and iced drinks, Standing for long periods",
+      "better_with": "Applying warmth to the abdomen, Rest and lying down, Warm soups and ginger tea, Gentle walking",
+      "why_this_happens": "Kidney Yang is the body's root warming force, driving fluid metabolism. When it weakens, it fails to warm the Spleen and transform water. Fluids accumulate in the abdomen as massive ascites and in the legs as edema, creating a stagnant, waterlogged environment that is highly vulnerable to infection. This underlying deficiency pattern is often seen in advanced cirrhosis, where the accumulated water-damp sets the stage for peritonitis to take hold.",
+      "tongue_and_pulse": "Tongue: pale, puffy, teeth-marked body with a white slippery coating; the surface looks excessively wet. Pulse: deep, slow, and weak; the Chi (proximal) position is especially faint.",
+      "why_triggers_reliefs_work": "Kidney Yang deficiency creates internal cold and a failure to transform water. Warmth and warm foods directly support Yang, helping to evaporate excess fluids. Rest conserves Qi, while overwork depletes Yang further. Cold and dampness worsen the deficiency, allowing water-damp to accumulate even more. Gentle movement encourages Qi circulation without draining the body's reserves.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congees. Avoid raw, cold, and greasy foods that chill the Spleen. Gentle movement like walking or tai chi helps Qi flow, but rest when fatigued. Keep the lower back and abdomen warm with a hot water bottle or belly band.",
+      "formulas": [
+        {
+          "id": 16122,
+          "pattern_id": 7074,
+          "formula_name": "Zhen Wu Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-wu-tang",
+          "translation": "True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness",
+          "description": "The classical formula to warm Kidney Yang, strengthen the Spleen, and promote urination to reduce water overflow."
+        },
+        {
+          "id": 16123,
+          "pattern_id": 7074,
+          "formula_name": "Wu Ling San",
+          "formula_url": "/knowledge-base/formulas/wu-ling-san",
+          "translation": "Five-Ingredient Powder with Poria &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Slightly Warm, Promotes Urination and Drains Dampness, Warms Yang and Transforms Qi, Releases the Exterior",
+          "description": "Helps drain water-damp through the urine, easing ascites and edema while supporting fluid transformation."
+        },
+        {
+          "id": 16124,
+          "pattern_id": 7074,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 16125,
+          "pattern_id": 7074,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation."
+        },
+        {
+          "id": 16126,
+          "pattern_id": 7074,
+          "formula_name": "Da Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/da-cheng-qi-tang",
+          "translation": "Major Order the Qi Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Vigorously Purges Heat Accumulation, Promotes Bowel Movement, Moves Qi and Relieves Distension",
+          "description": "A powerful classical formula used to urgently clear severe Heat and blockage from the intestines. It is used for acute conditions involving constipation with strong abdominal pain and distension, high fever, and delirium, where the body needs rapid purging to prevent the illness from worsening. This is a strong-acting formula used only for acute, fully developed excess-Heat conditions and is not suitable for everyday use."
+        },
+        {
+          "id": 16127,
+          "pattern_id": 7074,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 16128,
+          "pattern_id": 7074,
+          "formula_name": "Zhen Wu Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-wu-tang",
+          "translation": "True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness",
+          "description": "A classical formula for people who feel persistently cold, experience swelling or puffiness (especially in the legs), have reduced urine output, and may suffer from dizziness, loose stools, or palpitations. These symptoms arise when the body&#x27;s warming energy is too weak to properly manage fluids, causing water to accumulate where it shouldn&#x27;t. Zhen Wu Tang warms the body&#x27;s core while gently helping it drain excess fluid through urination."
+        },
+        {
+          "id": 16129,
+          "pattern_id": 7074,
+          "formula_name": "Wu Ling San",
+          "formula_url": "/knowledge-base/formulas/wu-ling-san",
+          "translation": "Five-Ingredient Powder with Poria &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Slightly Warm, Promotes Urination and Drains Dampness, Warms Yang and Transforms Qi, Releases the Exterior",
+          "description": "A classical formula used to help the body process and move fluids properly, relieving water retention, swelling, and difficulty urinating. It is especially helpful when someone feels thirsty but cannot quench the thirst, or when drinking water leads to vomiting. Often called &quot;the foremost formula for regulating water metabolism&quot; in Chinese medicine."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 37043,
+          "pattern_id": 7074,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms the Kidneys and ignites the gate of vitality, supporting Yang and transforming water."
+        },
+        {
+          "id": 37044,
+          "pattern_id": 7074,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Promotes urination and leaches out dampness without damaging the Spleen."
+        },
+        {
+          "id": 37045,
+          "pattern_id": 7074,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to dry dampness and support fluid transformation."
+        },
+        {
+          "id": 37046,
+          "pattern_id": 7074,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "",
+          "description": "Drains water from the lower body and reduces edema and ascites."
+        },
+        {
+          "id": 37047,
+          "pattern_id": 7074,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 37048,
+          "pattern_id": 7074,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat",
+          "description": ""
+        },
+        {
+          "id": 37049,
+          "pattern_id": 7074,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 37050,
+          "pattern_id": 7074,
+          "herb_name": "Dong Gua Zi",
+          "herb_url": "/knowledge-base/herbs/dong-gua-zi",
+          "translation": "Winter melon seed",
+          "properties": "Cool, Clears Lung Heat and Transforms Phlegm, Expels Pus and Reduces Swelling, Drains Dampness",
+          "description": ""
+        },
+        {
+          "id": 37051,
+          "pattern_id": 7074,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 37052,
+          "pattern_id": 7074,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 37053,
+          "pattern_id": 7074,
+          "herb_name": "Mang Xiao",
+          "herb_url": "/knowledge-base/herbs/mang-xiao",
+          "translation": "Mirabilite",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Softens Hardness and Moistens Dryness, Clears Heat and Reduces Swelling",
+          "description": ""
+        },
+        {
+          "id": 37054,
+          "pattern_id": 7074,
+          "herb_name": "Zhi Shi",
+          "herb_url": "/knowledge-base/herbs/zhi-shi",
+          "translation": "Immature Bitter Orange Fruit",
+          "properties": "Slightly Cool, Breaks Qi and Eliminates Focal Distention, Promotes Digestion and Resolves Food Stagnation, Transforms Phlegm and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 37055,
+          "pattern_id": 7074,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 37056,
+          "pattern_id": 7074,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 37057,
+          "pattern_id": 7074,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 37058,
+          "pattern_id": 7074,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 37059,
+          "pattern_id": 7074,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 37060,
+          "pattern_id": 7074,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "Cold, Promotes Urination and Drains Dampness, Clears Heat, Transforms Turbidity and Lowers Lipids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 25272,
+          "pattern_id": 7074,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and Yang, strengthening the root of fluid metabolism."
+        },
+        {
+          "id": 25273,
+          "pattern_id": 7074,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms Kidney Yang directly, like adding fire under a pot to evaporate excess water."
+        },
+        {
+          "id": 25274,
+          "pattern_id": 7074,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Warms the lower burner and promotes urination to relieve water accumulation."
+        },
+        {
+          "id": 25275,
+          "pattern_id": 7074,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The main point for draining dampness, especially from the abdomen and lower limbs."
+        },
+        {
+          "id": 25276,
+          "pattern_id": 7074,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to transform dampness and generate Qi and blood."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 9373,
+      "condition_id": 1443,
+      "question": "Can TCM treat peritonitis without antibiotics?",
+      "answer": "Peritonitis is a serious, potentially life-threatening infection. TCM should never be used as a substitute for emergency antibiotics or surgery. However, TCM can be used alongside conventional treatment to support recovery, reduce pain and distension, and address the underlying patterns that may predispose you to recurrence. Always seek immediate medical care for suspected peritonitis, and inform your doctors about any herbs you are taking."
+    },
+    {
+      "id": 9374,
+      "condition_id": 1443,
+      "question": "Is acupuncture safe during an active peritonitis episode?",
+      "answer": "Acupuncture is generally not applied directly to the abdomen during an acute peritonitis episode, as the area is inflamed and extremely sensitive. However, a skilled practitioner may use distal points on the arms and legs to help relieve pain, reduce fever, and support organ function without disturbing the infected area. Always ensure your acupuncturist is aware of your diagnosis and works in coordination with your medical team."
+    },
+    {
+      "id": 9375,
+      "condition_id": 1443,
+      "question": "Can Chinese herbs interact with my antibiotics?",
+      "answer": "Some herbs used for peritonitis, such as Da Huang (rhubarb root), have a mild laxative effect and may influence gut motility or absorption. While serious interactions are uncommon, it is important to take herbs and antibiotics at least one hour apart. Always provide a full list of your medications to your TCM practitioner and inform your doctor that you are using Chinese herbs."
+    },
+    {
+      "id": 9376,
+      "condition_id": 1443,
+      "question": "What should I eat while recovering from peritonitis with TCM?",
+      "answer": "Stick to light, easily digestible foods that don't create Dampness or Heat. Warm congee, steamed vegetables, and clear broths are ideal. Avoid greasy, fried, spicy, and raw or cold foods, as well as alcohol and sugar. If you have ascites, your practitioner may also advise limiting salt and fluid intake to ease the burden on your Kidneys and Spleen."
+    },
+    {
+      "id": 9377,
+      "condition_id": 1443,
+      "question": "Can TCM prevent peritonitis from coming back?",
+      "answer": "In chronic conditions like cirrhosis with ascites, TCM can be very helpful in reducing the frequency of spontaneous bacterial peritonitis. By strengthening the Spleen and Kidneys, transforming Dampness, and moving Blood stasis, herbal formulas can improve the body's resilience and create an internal environment less hospitable to infection. Many patients find that long-term TCM care, combined with conventional monitoring, leads to fewer hospitalizations."
+    },
+    {
+      "id": 9378,
+      "condition_id": 1443,
+      "question": "Are there any side effects from the herbs used for peritonitis?",
+      "answer": "When prescribed by a qualified practitioner based on your specific pattern, the formulas are generally well tolerated. Some clearing-heat and purging herbs can cause mild loose stools, which is often an intended effect to drain Damp-Heat. If you experience excessive diarrhea, cramping, or any other discomfort, your practitioner will adjust the formula. Never self-prescribe, as using the wrong herbs for your pattern can worsen your condition."
+    }
+  ],
+  "research": []
+}

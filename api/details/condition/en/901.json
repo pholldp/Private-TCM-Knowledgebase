@@ -1,0 +1,833 @@
+{
+  "id": 901,
+  "name": "Malnutrition",
+  "url": "/knowledge-base/conditions/malnutrition",
+  "kind": "Condition",
+  "pinyin": "gān zhèng",
+  "chinese_name": "疳证",
+  "preview_text": "Malnutrition is not just about what you eat-it's about what your body can absorb. TCM identifies the exact stage of digestive breakdown and treats it accordingly, often restoring a...",
+  "categories": "[\"Malnutrition\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Nutritional Deficiency\", \"Poor Nutrition\", \"Undernourishment\"]",
+  "conventional_description": "Malnutrition refers to deficiencies, excesses, or imbalances in a person's intake of energy and/or nutrients. It can result from inadequate food intake, malabsorption, or increased nutritional needs due to illness. In children, it often manifests as stunting (low height for age), wasting (low weight for height), or underweight. Diagnosis typically involves measuring weight, height, and mid-upper arm circumference, along with blood tests for specific nutrient levels.",
+  "conventional_treatments": "Standard treatment focuses on correcting nutritional deficits through therapeutic foods (such as ready-to-use therapeutic food for severe acute malnutrition), micronutrient supplementation, and treatment of underlying medical conditions. Community-based management programs provide structured refeeding and monitoring. For mild to moderate cases, dietary counseling and fortified foods are used.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, malnutrition is understood as a disorder of the Spleen and Stomach's ability to transform and transport food essence (Gu Qi). The Spleen is responsible for extracting the purest energy from what we eat and sending it upward to nourish the whole body. When the Spleen's Qi is weak-whether from improper feeding, chronic illness, or constitutional factors-this transformation fails, and the body slowly starves even if food is eaten.\nAs the condition deepens, undigested food can stagnate in the Stomach, generating dampness and heat. This is the stage where the belly becomes distended and foul-smelling stools appear. Over time, if the Spleen continues to fail, the body's deeper reserves of Qi and Blood are depleted, leading to the severe wasting, pallor, and developmental delays seen in advanced malnutrition. The Kidneys, which store the body's foundational Essence, may eventually be affected, causing growth retardation and bone weakness.\nThis is why TCM does not treat all malnutrition the same way. A child with early Spleen Qi Deficiency needs gentle tonification and dietary adjustment, while a child with Damp-Heat stagnation needs clearing and transforming herbs before tonification can begin. The same Western diagnosis of malnutrition thus unfolds into distinct patterns that require different treatment strategies.",
+  "classical_quote": "「疳皆脾胃病，亡津液之所作也。」",
+  "classical_translation": "\"All malnutrition diseases are disorders of the Spleen and Stomach, caused by the depletion of body fluids.\"",
+  "classical_source": "小儿药证直诀 (Key to Therapeutics of Children's Diseases)  ,  Volume 1, Discussion on Malnutrition \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner begins by asking about appetite and energy. If a child eats poorly, loses weight gradually, and tires easily, the early pattern of Spleen Qi Deficiency is likely. The tongue looks pale and puffy with a thin white coat, and the pulse feels weak. This pattern reflects a digestive engine that simply lacks the strength to turn food into nourishment.\nWhen food intake is irregular or excessive, undigested matter can sit in the stomach. The key questions then shift to bloating and stool quality. A distended belly, belching of foul air, and bulky stools with undigested bits point to Food Stagnation in the Stomach. The tongue coating becomes thick and greasy, and the pulse feels slippery, like a bead rolling under the finger.\nIf the stagnation persists, heat and dampness brew inside. The child becomes irritable, the belly feels hot and tight, and stools turn foul‑smelling or sticky. A yellow, greasy tongue coating and a rapid, slippery pulse confirm Damp‑Heat in the Stomach and Spleen. This middle‑stage picture shows the body struggling to clear the accumulated waste.\nWhen malnutrition drags on, the deeper stores of Qi and Blood run dry. The child looks severely wasted, with a dull, sallow face and extreme weakness. The tongue appears pale with little coating, and the pulse is thin and feeble. This Qi and Blood Deficiency signals that the body’s reserves are exhausted, and simple dietary adjustments are no longer enough.\nA different late‑stage pattern emerges when Yin fluids are consumed. The child appears withered and dry, with a parched mouth and a tongue that is red with a peeled or patchy coating. A thin, rapid pulse supports Spleen Yin Deficiency. The practitioner distinguishes this from pure Blood deficiency by the dryness and the tongue’s appearance.\nIn the most profound cases, the Kidney essence that fuels growth becomes depleted. The child fails to thrive, with delayed walking or talking and a frail frame. The tongue is pale and the pulse is deep and weak. This Kidney Essence Deficiency pattern tells the practitioner that the very foundation of development has been compromised and a long, restorative approach is needed.",
+  "patterns": [
+    {
+      "id": 4442,
+      "condition_id": 901,
+      "pattern_name": "Spleen Qi Deficiency",
+      "pattern_slug": "spleen-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Poor appetite\", \"Abdominal bloating after eating\", \"Loose stools\", \"Fatigue and lack of energy\", \"Pale complexion\"]",
+      "worse_with": "Overeating, Raw, cold foods, Skipping meals, Excessive worry, Overwork",
+      "better_with": "Warm, cooked meals, Small frequent meals, Gentle walks, Rest after eating, Warm compresses on abdomen",
+      "why_this_happens": "When the Spleen's Qi is weakened by improper feeding or chronic illness, it cannot transform food into the energy and nutrients the body needs. This leads to poor appetite, bloating after meals, and loose stools, while the lack of nourishment causes gradual weight loss and fatigue. It is the early, foundational stage of malnutrition.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with tooth marks, thin white coating. Pulse: weak and soft, especially at the right Guan (middle position).",
+      "why_triggers_reliefs_work": "The Spleen's job is to transform food into Qi and Blood, but when its Qi is weak, it needs easily digestible, warm foods that don't require extra energy to process. Cold, raw foods further weaken the digestive fire, while overeating or skipping meals overwhelms or starves the Spleen. Rest conserves the Qi needed for digestion, and gentle movement prevents stagnation without depleting energy.",
+      "diet_and_lifestyle": "Eat small, frequent meals of warm, easily digestible foods such as congee, soups, and steamed vegetables. Avoid raw, cold, greasy, or overly sweet foods that burden the Spleen. Gentle daily movement like walking helps circulate Qi, but avoid overexertion. Rest after meals and maintain a calm, regular eating schedule.",
+      "formulas": [
+        {
+          "id": 10101,
+          "pattern_id": 4442,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "The classic formula to strengthen Spleen Qi and resolve dampness, ideal for poor appetite, loose stools, and fatigue."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 23437,
+          "pattern_id": 4442,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and dries dampness, improving digestion and energy."
+        },
+        {
+          "id": 23438,
+          "pattern_id": 4442,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "",
+          "description": "Nourishes the Spleen and Stomach, helping to build strength and stop diarrhea."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15918,
+          "pattern_id": 4442,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen and Stomach Qi, boosts energy and appetite."
+        },
+        {
+          "id": 15919,
+          "pattern_id": 4442,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner, strengthens the Spleen&#x27;s transformative function."
+        },
+        {
+          "id": 15920,
+          "pattern_id": 4442,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Spleen function and resolves dampness, improving digestion."
+        },
+        {
+          "id": 15921,
+          "pattern_id": 4442,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Nourishes the body&#x27;s Qi, helping to restore vitality."
+        }
+      ]
+    },
+    {
+      "id": 4443,
+      "condition_id": 901,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Bloating and fullness in the upper abdomen\", \"Sticky or incomplete bowel movements, often foul-smelling\", \"Bitter or sticky taste in the mouth\", \"Thick, yellow, greasy tongue coating\", \"Heavy feeling in the body and limbs\", \"Irritability and fussiness\"]",
+      "worse_with": "Greasy or fried foods, Sweets and dairy products, Overeating or irregular meals, Damp or humid weather",
+      "better_with": "Bland, easily digested foods, Small, frequent meals, Dry, well-ventilated environment, Gentle movement after eating",
+      "why_this_happens": "When malnutrition sets in, a weakened Spleen struggles to transform food into nourishment. Undigested food sits and ferments, creating a heavy, sticky damp-heat that clogs the digestive system. This damp-heat further impairs appetite and absorption, leading to bloating, foul-smelling stools, and the irritability often seen in the middle stage of malnutrition.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen with teeth marks, and a thick yellow greasy coating, especially at the centre and root. Pulse: soggy (Ru) and rapid (Shu), often also slippery (Hua).",
+      "why_triggers_reliefs_work": "Damp-heat in malnutrition is born from a weak Spleen that cannot process food, so heavy, greasy, and sweet foods feed the dampness and heat, making the bloating and foul stools worse. Light, bland foods and regular small meals give the Spleen a chance to recover without overwhelming it. A dry environment and gentle movement help disperse the sticky dampness, while acupuncture points like Zhongwan and Zusanli directly restore the digestive organs' ability to transform and transport, clearing the underlying stagnation.",
+      "diet_and_lifestyle": "Offer small, frequent meals of light, easily digested foods such as congee, steamed vegetables, and well-cooked grains. Strictly avoid greasy, fried, sugary, and dairy-heavy foods, which create more dampness. Keep the living space dry and airy, and encourage gentle movement after meals to help Qi flow.",
+      "formulas": [
+        {
+          "id": 10102,
+          "pattern_id": 4443,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "Clears heat and resolves dampness from the Stomach and Spleen, directly addressing the damp-heat accumulation that drives this stage of malnutrition."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 23439,
+          "pattern_id": 4443,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears heat and dries dampness, especially from the Stomach and Intestines."
+        },
+        {
+          "id": 23440,
+          "pattern_id": 4443,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi and resolves dampness, relieving the bloated, stuck feeling."
+        },
+        {
+          "id": 23441,
+          "pattern_id": 4443,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, helping to clear the greasy coating."
+        },
+        {
+          "id": 23442,
+          "pattern_id": 4443,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness through the urine, lightening the heavy sensation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15922,
+          "pattern_id": 4443,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonises the Stomach and resolves dampness in the middle burner."
+        },
+        {
+          "id": 15923,
+          "pattern_id": 4443,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and transforms dampness, restoring digestive function."
+        },
+        {
+          "id": 15924,
+          "pattern_id": 4443,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the lower body and supports the Spleen."
+        },
+        {
+          "id": 15925,
+          "pattern_id": 4443,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears Stomach heat and calms irritability."
+        }
+      ]
+    },
+    {
+      "id": 4444,
+      "condition_id": 901,
+      "pattern_name": "Food Stagnation in the Stomach",
+      "pattern_slug": "food-stagnation-in-the-stomach",
+      "is_common": 0,
+      "symptoms": "[\"Aversion to food and its smell\", \"Belching with sour, rotten odour\", \"Epigastric fullness and distension worse after eating\", \"Foul-smelling flatulence like rotten eggs\", \"Thick greasy tongue coating, especially in the centre\"]",
+      "worse_with": "Overeating or forced feeding, Greasy, fried, or heavy foods, Raw cold foods and iced drinks, Irregular meal times, Eating late at night",
+      "better_with": "Warm congee or light soups, Gentle abdominal massage, Rest after eating, Small, frequent meals, Warm water",
+      "why_this_happens": "In malnutrition, especially in children, overfeeding or inappropriate foods can overwhelm an already weak Spleen. The undigested food then sits in the Stomach, creating a blockage that prevents the transformation of nutrients into Qi and Blood. This stagnation generates foul-smelling gas and heat, further suppressing appetite and trapping the body in a cycle of poor intake and poor absorption.",
+      "tongue_and_pulse": "Tongue: normal body, thick greasy or curd-like coating, thickest in the centre. Pulse: slippery (滑 huá) and full, especially at the right middle position.",
+      "why_triggers_reliefs_work": "Overeating and heavy foods create a burden the Stomach cannot handle, worsening the stagnation. Light, warm foods and gentle massage help move Qi and break down the accumulated mass, allowing the Stomach to descend and the Spleen to transform nutrients again.",
+      "diet_and_lifestyle": "Offer small, frequent, easily digestible meals such as congee with a little ginger. Avoid all greasy, fried, raw, and cold foods until the coating clears. A gentle clockwise abdominal massage after meals can help move stagnant food.",
+      "formulas": [
+        {
+          "id": 10103,
+          "pattern_id": 4444,
+          "formula_name": "Bao He Wan",
+          "formula_url": "/knowledge-base/formulas/bao-he-wan",
+          "translation": "Preserve Harmony Pill &#xB7; Yu&#xE1;n dynasty (&#x5143;&#x671D;), ~1347 CE",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Moves Qi",
+          "description": "The classic formula to reduce food stagnation, harmonize the Stomach, and guide Qi downward."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 23443,
+          "pattern_id": 4444,
+          "herb_name": "Shan Zha",
+          "herb_url": "/knowledge-base/herbs/shan-zha",
+          "translation": "Hawthorn fruit",
+          "properties": "",
+          "description": "Specifically breaks down stagnation from meat and fatty foods."
+        },
+        {
+          "id": 23444,
+          "pattern_id": 4444,
+          "herb_name": "Shen Qu",
+          "herb_url": "/knowledge-base/herbs/shen-qu",
+          "translation": "Medicated leaven",
+          "properties": "",
+          "description": "Helps digest grains and alcohol, reducing fermentation."
+        },
+        {
+          "id": 23445,
+          "pattern_id": 4444,
+          "herb_name": "Lai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/lai-fu-zi",
+          "translation": "Radish seed",
+          "properties": "",
+          "description": "Moves Qi and resolves food accumulation, especially relieving belching and distension."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15926,
+          "pattern_id": 4444,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front Mu point of the Stomach; resolves food stagnation and descends rebellious Stomach Qi."
+        },
+        {
+          "id": 15927,
+          "pattern_id": 4444,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, promoting digestion and Qi transformation."
+        },
+        {
+          "id": 15928,
+          "pattern_id": 4444,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Harmonizes the Stomach and stops nausea and vomiting."
+        },
+        {
+          "id": 15929,
+          "pattern_id": 4444,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates intestinal Qi and relieves bloating and foul diarrhea."
+        }
+      ]
+    },
+    {
+      "id": 4445,
+      "condition_id": 901,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Severe emaciation and weight loss\", \"Dull, pale or sallow complexion\", \"Extreme fatigue and weakness\", \"Heart palpitations and dizziness\", \"Dry, rough skin and pale lips\", \"Poor appetite with little interest in food\"]",
+      "worse_with": "Overexertion or excessive activity, Raw, cold, or iced foods and drinks, Greasy, heavy, or hard-to-digest meals, Emotional stress or prolonged worry",
+      "better_with": "Warm, soft, easily digested meals, Adequate rest and gentle daily routine, Mild, consistent nourishment in small portions",
+      "why_this_happens": "When the Spleen has been weak for a long time-often from poor feeding or chronic illness-it loses the ability to turn food into the Qi and Blood that nourish the whole body. Over time this deep exhaustion leaves the child severely wasted, with a dull, pale complexion and almost no energy. The body is literally running on empty, unable to build muscle, support growth, or keep the mind clear.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks on the edges, thin white coating. Pulse: fine (thin) and weak, especially at the right middle position (Spleen).",
+      "why_triggers_reliefs_work": "In Qi and Blood Deficiency the Spleen’s digestive fire is very weak, so raw, cold, or heavy foods easily overwhelm it and worsen malabsorption. Rest and gentle warmth preserve the little Qi that remains, while small, warm, nourishing meals provide the building blocks for new Blood without straining the system. Overexertion and stress further drain Qi and Blood, which is why calm, consistent care is the foundation of recovery.",
+      "diet_and_lifestyle": "Focus on warm, easily digested foods like congee, slow-cooked stews, and soups. Small, frequent meals are better than large ones-the Spleen needs gentle rebuilding, not a sudden heavy load. Include modest amounts of high-quality protein and cooked vegetables, and avoid raw, cold, or greasy foods that sap digestive fire.",
+      "formulas": [
+        {
+          "id": 10104,
+          "pattern_id": 4445,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood when the whole body is depleted, often used in the advanced dry-malnutrition stage."
+        },
+        {
+          "id": 10105,
+          "pattern_id": 4445,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "Strengthens the Spleen and nourishes Heart Blood; especially helpful when poor sleep and palpitations accompany the malnutrition."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 23446,
+          "pattern_id": 4445,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, improving the pale, dull complexion."
+        },
+        {
+          "id": 23447,
+          "pattern_id": 4445,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi to lift energy and support the Spleen&#x27;s ability to build Blood."
+        },
+        {
+          "id": 23448,
+          "pattern_id": 4445,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Blood and Yin, helping to moisten dry skin and fill out wasted tissues."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15930,
+          "pattern_id": 4445,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The master point to strengthen the Spleen and Stomach, boosting Qi and Blood production."
+        },
+        {
+          "id": 15931,
+          "pattern_id": 4445,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen, Liver, and Kidney to support Blood formation and resolve dampness."
+        },
+        {
+          "id": 15932,
+          "pattern_id": 4445,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "The Sea of Qi; moxibustion here warms and replenishes the deepest Qi."
+        },
+        {
+          "id": 15933,
+          "pattern_id": 4445,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Fortifies the body&#x27;s foundation, pairing with Qihai to deeply nourish Qi and Blood."
+        }
+      ]
+    },
+    {
+      "id": 4446,
+      "condition_id": 901,
+      "pattern_name": "Spleen Yin Deficiency",
+      "pattern_slug": "spleen-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Hunger without desire to eat\", \"Dry mouth, dry lips, and dry throat\", \"Dry stools or constipation\", \"Thin body with dry, lusterless skin\", \"Warm palms and soles, low-grade afternoon heat\", \"Fatigue and a dull, sallow complexion\"]",
+      "worse_with": "Spicy, fried, or drying foods, Overwork and late nights, Dry, heated environments",
+      "better_with": "Moist, cooling foods (pear, congee), Rest and early nights, Small, frequent meals",
+      "why_this_happens": "Long-standing malnutrition can exhaust not just the Spleen's energy but also its cooling, moistening Yin fluids. Without enough Yin, the Spleen cannot properly transform food into nourishing essence, leading to a distinctive pattern of dryness alongside wasting. The body becomes thin and withered, with a persistent dry mouth and a hunger that is never satisfied because the digestive",
+      "tongue_and_pulse": "Tongue: Red, thin body with small transverse cracks on the sides, little or no coating, dry surface. Pulse: Fine (thin), possibly slightly rapid, weak overall and especially at the right middle (Guan) position.",
+      "why_triggers_reliefs_work": "Spicy and fried foods are heating and drying, which directly consumes the Spleen's scarce Yin fluids. Overwork and staying up late further deplete Yin, while rest and cooling, moist foods help preserve and rebuild the body's nourishing fluids.",
+      "diet_and_lifestyle": "Focus on moist, easy-to-digest foods such as congee with Chinese yam, pear, or lily bulb. Eat small, frequent meals and avoid dry, spicy, or fried foods that consume Yin. Prioritize rest and avoid overwork, especially in the afternoon when the body's heat sensation may rise.",
+      "formulas": [
+        {
+          "id": 10106,
+          "pattern_id": 4446,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "Nourishes Stomach Yin, generates fluids, and moistens dryness, directly addressing the dry mouth, poor appetite, and hunger without desire to eat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 23449,
+          "pattern_id": 4446,
+          "herb_name": "Shi Hu",
+          "herb_url": "/knowledge-base/herbs/shi-hu",
+          "translation": "Dendrobium stem",
+          "properties": "",
+          "description": "Nourishes Stomach Yin, clears deficiency heat, and promotes fluid production to relieve dry mouth and thirst."
+        },
+        {
+          "id": 23450,
+          "pattern_id": 4446,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens the lungs and stomach, generates fluids, and eases the dry throat and irritability."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15934,
+          "pattern_id": 4446,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and Stomach, supporting the transformation of food into Yin and Blood."
+        },
+        {
+          "id": 15935,
+          "pattern_id": 4446,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonizes the Spleen, helping to resolve dryness and fatigue."
+        },
+        {
+          "id": 15936,
+          "pattern_id": 4446,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Strengthens Kidney Yin to support the body&#x27;s foundational fluids and assist Spleen Yin recovery."
+        }
+      ]
+    },
+    {
+      "id": 4447,
+      "condition_id": 901,
+      "pattern_name": "Kidney Essence Deficiency",
+      "pattern_slug": "kidney-essence-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Delayed growth and development\", \"Weakness and soreness of lower back and knees\", \"Poor memory and difficulty concentrating\", \"Frequent urination at night\", \"Premature greying or hair loss\"]",
+      "worse_with": "Overwork and exhaustion, Cold, raw foods, Fear and anxiety, Inadequate sleep, Chronic illness",
+      "better_with": "Warm, nourishing foods, Adequate rest and sleep, Gentle exercise, Consistent daily routine, Keeping warm",
+      "why_this_happens": "The Kidneys store the body's foundational Essence (Jing), which governs growth, development, and bone strength. When malnutrition persists for a long time, the Spleen's failure to produce enough Qi and Blood eventually drains the Kidney's reserves. This leads to growth retardation, delayed milestones, and profound weakness, particularly in the lower back and knees.",
+      "tongue_and_pulse": "Tongue: pale, thin body with little or no coating, possible fine cracks. Pulse: fine (thin) and deep, especially weak at both Chi positions.",
+      "why_triggers_reliefs_work": "Kidney Essence is the deepest level of the body's substance, governing growth and vitality. Overwork, fear, and cold drain this Essence, while rest, warmth, and nourishing foods help replenish it. Gentle movement supports circulation without further depleting reserves.",
+      "diet_and_lifestyle": "Focus on warm, nutrient-dense foods like bone broths, congees with black sesame and walnuts, and small amounts of high-quality protein. Prioritize deep, restful sleep and avoid overexertion. Gentle activities like tai chi or walking can help without draining energy.",
+      "formulas": [
+        {
+          "id": 10107,
+          "pattern_id": 4447,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "A classic formula to nourish Kidney Essence and strengthen bones, often used for growth retardation in children."
+        },
+        {
+          "id": 10108,
+          "pattern_id": 4447,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 10109,
+          "pattern_id": 4447,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "A classical formula for treating acute digestive upsets caused by a combination of Dampness and Heat lodging in the Stomach and intestines. It addresses simultaneous vomiting and diarrhea, a feeling of fullness and stuffiness in the chest and upper abdomen, irritability, and dark scanty urine, particularly during hot and humid seasons."
+        },
+        {
+          "id": 10110,
+          "pattern_id": 4447,
+          "formula_name": "Bao He Wan",
+          "formula_url": "/knowledge-base/formulas/bao-he-wan",
+          "translation": "Preserve Harmony Pill &#xB7; Yu&#xE1;n dynasty (&#x5143;&#x671D;), ~1347 CE",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Moves Qi",
+          "description": "A gentle, time-tested formula for the uncomfortable, heavy feeling after overeating or consuming rich, greasy foods. It helps break down accumulated food, relieves bloating, acid reflux, nausea, and belching, and restores normal digestive movement. Often described as &#x27;digestive first aid&#x27; in Chinese medicine, it works by clearing the blockage rather than masking symptoms."
+        },
+        {
+          "id": 10111,
+          "pattern_id": 4447,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 10112,
+          "pattern_id": 4447,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 10113,
+          "pattern_id": 4447,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "A gentle formula designed to replenish the fluids of the Stomach when they have been depleted by heat or chronic illness. It is commonly used for dry mouth and throat, poor appetite despite feeling hungry, and a red tongue with little coating. The formula uses sweet, cooling, moistening herbs to restore the Stomach&#x27;s natural lubrication and digestive function."
+        },
+        {
+          "id": 10114,
+          "pattern_id": 4447,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "A classical concentrated paste formula that deeply replenishes the body&#x27;s foundational vitality using tortoise shell and deer antler as its core ingredients, supported by ginseng and goji berry. It is used for people experiencing significant depletion of their core reserves, shown by symptoms like exhaustion, low back weakness, poor vision, sexual dysfunction, infertility, and premature aging. The formula is designed to nourish both the Yin (cooling, nourishing) and Yang (warming, activating) aspects of the Kidneys simultaneously."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 23451,
+          "pattern_id": 4447,
+          "herb_name": "Zi He Che",
+          "herb_url": "/knowledge-base/herbs/zi-he-che",
+          "translation": "Human placenta",
+          "properties": "",
+          "description": "Profoundly tonifies Kidney Essence and promotes growth and development."
+        },
+        {
+          "id": 23452,
+          "pattern_id": 4447,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Nourishes Kidney Yin and Essence, supporting bone health."
+        },
+        {
+          "id": 23453,
+          "pattern_id": 4447,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 23454,
+          "pattern_id": 4447,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "Neutral, Benefits Qi and Nourishes Yin, Tonifies the Spleen and nourishes the Stomach, Clears Lung Heat and Generates Fluids",
+          "description": ""
+        },
+        {
+          "id": 23455,
+          "pattern_id": 4447,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 23456,
+          "pattern_id": 4447,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 23457,
+          "pattern_id": 4447,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 23458,
+          "pattern_id": 4447,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 23459,
+          "pattern_id": 4447,
+          "herb_name": "Shan Zha",
+          "herb_url": "/knowledge-base/herbs/shan-zha",
+          "translation": "Hawthorn fruit",
+          "properties": "Slightly Warm, Promotes Digestion and Resolves Food Stagnation, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 23460,
+          "pattern_id": 4447,
+          "herb_name": "Shen Qu",
+          "herb_url": "/knowledge-base/herbs/shen-qu",
+          "translation": "Medicated leaven",
+          "properties": "Warm, Promotes Digestion and Resolves Food Stagnation, Harmonizes the Stomach, Strengthens the Spleen",
+          "description": ""
+        },
+        {
+          "id": 23461,
+          "pattern_id": 4447,
+          "herb_name": "Lai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/lai-fu-zi",
+          "translation": "Radish seed",
+          "properties": "Neutral, Reduces Food Stagnation and Eliminates Distension, Descends Qi and Transforms Phlegm, Descends Lung Qi and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 23462,
+          "pattern_id": 4447,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 23463,
+          "pattern_id": 4447,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 23464,
+          "pattern_id": 4447,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 23465,
+          "pattern_id": 4447,
+          "herb_name": "Shi Hu",
+          "herb_url": "/knowledge-base/herbs/shi-hu",
+          "translation": "Dendrobium stem",
+          "properties": "Slightly Cool, Benefits the Stomach and Generates Fluids, Nourishes Yin and clears Heat, Nourishes Kidney Yin",
+          "description": ""
+        },
+        {
+          "id": 23466,
+          "pattern_id": 4447,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 23467,
+          "pattern_id": 4447,
+          "herb_name": "Zi He Che",
+          "herb_url": "/knowledge-base/herbs/zi-he-che",
+          "translation": "Human placenta",
+          "properties": "Warm, Warms the Kidneys and Secures Essence, Tonifies Qi, Nourishes Blood",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15937,
+          "pattern_id": 4447,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonify. Directly strengthens Kidney Essence."
+        },
+        {
+          "id": 15938,
+          "pattern_id": 4447,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonify. Nourishes Kidney Yin and Essence."
+        },
+        {
+          "id": 15939,
+          "pattern_id": 4447,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion. Fortifies the body&#x27;s foundational Essence."
+        },
+        {
+          "id": 15940,
+          "pattern_id": 4447,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion. Warms and tonifies Kidney Yang to support Essence."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 5853,
+      "condition_id": 901,
+      "question": "Can TCM really help a malnourished child gain weight?",
+      "answer": "Yes, by strengthening the Spleen and Stomach. TCM herbs and dietary therapy work to improve the body's ability to transform food into usable nourishment. When digestion improves, appetite returns, stools become more formed, and weight gain follows naturally. The approach is gradual and tailored to the child's specific pattern."
+    },
+    {
+      "id": 5854,
+      "condition_id": 901,
+      "question": "How long does it take to see results with TCM for malnutrition?",
+      "answer": "For early-stage patterns like Spleen Qi Deficiency or Food Stagnation, improvements in appetite and energy often appear within 2-4 weeks of consistent herbal and dietary therapy. Deeper patterns such as Qi and Blood Deficiency or Kidney Essence Deficiency, where the body's reserves are severely depleted, may need 3-6 months or more of steady rebuilding before significant weight gain and growth catch-up occur."
+    },
+    {
+      "id": 5855,
+      "condition_id": 901,
+      "question": "Is acupuncture safe for malnourished children?",
+      "answer": "Yes, when performed by a trained pediatric TCM practitioner using very fine needles and gentle techniques. Often, acupressure or laser acupuncture is used instead for very young or weak children to avoid discomfort. Points like Zusanli (ST-36) and Sanyinjiao (SP-6) are commonly stimulated to strengthen digestion and energy."
+    },
+    {
+      "id": 5856,
+      "condition_id": 901,
+      "question": "Do I need to change my child's diet during TCM treatment?",
+      "answer": "Yes, dietary therapy is a cornerstone of TCM treatment for malnutrition. The practitioner will recommend warm, easily digested foods like congee, well-cooked vegetables, and soups, and advise avoiding raw, cold, greasy, or overly sweet foods that burden the Spleen. Small, frequent meals are preferred over large portions."
+    },
+    {
+      "id": 5857,
+      "condition_id": 901,
+      "question": "Can TCM be combined with conventional nutritional supplements?",
+      "answer": "Absolutely. TCM can safely complement conventional nutritional rehabilitation. Herbal formulas and dietary therapy work to strengthen the digestive system, which may improve tolerance to therapeutic foods and reduce refeeding diarrhea. Always inform both your TCM practitioner and your pediatrician of all treatments being used."
+    },
+    {
+      "id": 5858,
+      "condition_id": 901,
+      "question": "What are the signs that the treatment is working?",
+      "answer": "The first signs are often increased appetite, better digestion (less bloating, firmer stools), and more stable energy. Weight gain typically follows, though in severe chronic cases it may be gradual. A child who was previously lethargic may become more active and playful as Qi and Blood are replenished."
+    }
+  ],
+  "research": [
+    {
+      "id": 1371,
+      "condition_id": 901,
+      "title": "Clinical Research Progress on TCM Treatment of Pediatric Malnutrition (中医治疗小儿疳证的临床研究进展)",
+      "description": "This review article summarizes the TCM approach to childhood malnutrition, covering pattern differentiation, commonly used herbal formulas (such as Shen Ling Bai Zhu San, Bao He Wan, and Zi Sheng Jian Pi Wan), acupuncture points (including Si Feng and Zusanli), and pediatric tui na techniques. It reports that TCM therapies consistently improve appetite, weight, and digestive symptoms, with effective rates above 90% in many studies, though it notes the need for larger, more rigorous trials.",
+      "url": "",
+      "periodical": "Author(s) not listed. Clinical Research Progress on TCM Treatment of Pediatric Malnutrition. Traditional Chinese Medicine [journal name in Chinese]. Published online. Available at: https://pdf.hanspub.org/tcm_2272784.pdf"
+    },
+    {
+      "id": 1372,
+      "condition_id": 901,
+      "title": "Differentiation and Treatment of Childhood Malnutrition with Dong's Xiao Gan Formula Based on the Theory 'All Malnutrition Is Due to the Spleen and Stomach' (基于“疳皆脾胃病”理论的董氏消疳方辨治小儿疳积经验)",
+      "description": "This clinical experience paper presents Dong's Xiao Gan Formula, a tailored herbal prescription for pediatric malnutrition due to Spleen Qi Deficiency with food accumulation. The formula includes Dang Shen, Bai Zhu, Shan Yao, and digestive herbs like Chao Gu Ya. Case reports show marked improvement in appetite, weight gain, and reduction of abdominal distention, with the formula adjusted as the child's condition shifts from excess to deficiency.",
+      "url": "",
+      "periodical": "Author(s) not listed. Differentiation and Treatment of Childhood Malnutrition with Dong's Xiao Gan Formula Based on the Theory 'All Malnutrition Is Due to the Spleen and Stomach'. Published online at biomedrxiv. Available at: https://www.biomedrxiv.org.cn/article/pdf/display/10.12201/bmr.202603.00003"
+    }
+  ]
+}

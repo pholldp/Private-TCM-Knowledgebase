@@ -1,0 +1,877 @@
+{
+  "id": 97,
+  "name": "Diabetes Insipidus",
+  "url": "/knowledge-base/conditions/diabetes-insipidus",
+  "kind": "Condition",
+  "pinyin": "niào bēng zhèng",
+  "chinese_name": "尿崩症",
+  "preview_text": "The type of thirst and urine tells the whole story - burning thirst with night sweats points to Kidney Yin Deficiency, while a deep chill with clear, frequent urination points to K...",
+  "categories": "[\"Endocrine & Metabolic Conditions\", \"Urinary & Bladder Problems\"]",
+  "body_regions": "[]",
+  "synonyms": "[]",
+  "conventional_description": "Diabetes insipidus is a rare condition where the body can't properly regulate fluid balance. The kidneys produce large volumes of very dilute urine - sometimes several gallons a day - which triggers overwhelming thirst. It's caused either by a lack of antidiuretic hormone (ADH, also called vasopressin) from the pituitary gland, or by the kidneys' inability to respond to it. Diagnosis usually involves a water deprivation test, urine concentration measurements, and sometimes an MRI to check the pituitary.",
+  "conventional_treatments": "Central diabetes insipidus is typically treated with desmopressin, a synthetic form of ADH that reduces urine output. Nephrogenic diabetes insipidus may be managed with thiazide diuretics, a low-salt diet, and sometimes NSAIDs, all aimed at helping the kidneys conserve water. Ensuring free access to water is essential to prevent dehydration.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the Kidneys are the master control center for water in the body. They not only filter and excrete urine but also hold onto the body's deepest reserves of Yin and Yang - the cooling moisture and warming fire that keep everything in balance. When Kidney Yin is depleted, a dry, restless heat builds up, forcing water out before it can be used. When Kidney Yang is weak, the water simply passes through without being transformed into usable fluids, leading to copious, clear urine.\nThe Spleen and Lungs also play a central role. The Spleen transforms what you drink into usable moisture, and the Lungs spread it throughout the body. If the Spleen is weak and dampness accumulates, you feel thirsty but heavy, and fluids can't rise to moisten your mouth. This is why one person with diabetes insipidus might feel hot, restless, and have a red tongue, while another feels cold, exhausted, and has a pale, puffy tongue - they have the same Western diagnosis but completely opposite TCM patterns.\nBecause the root cause can be Yin deficiency, Yang deficiency, Qi weakness, or even phlegm obstruction, treatment must be tailored. The goal is to identify which part of the body's water-management system is out of balance and correct it, rather than simply replacing a missing hormone.",
+  "classical_quote": "「肺移寒于肾，为涌水。涌水者，按腹不坚，水气客于大肠，疾行则鸣濯濯，如囊裹浆，水之病也。」",
+  "classical_translation": "\"When the Lung transmits cold to the Kidney, this causes gushing water. Gushing water means that when you press the abdomen it is not hard; water qi lodges in the large intestine, and when the person walks quickly there is a splashing sound as if a bag were filled with liquid. This is a water disease.\"",
+  "classical_source": "Huang Di Nei Jing (Yellow Emperor's Inner Classic), Su Wen  ,  Chapter 47, Qi Jue Lun (Discussion on Reversal of Qi) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by listening carefully to the quality of the thirst and urination. Questions focus on whether the thirst feels dry and heating or is accompanied by a heavy, bloated sensation, and whether the urine is pale and copious or scanty and dark. The answers immediately narrow the field toward one of the main patterns behind diabetes insipidus.\nWhen intense thirst, a dry mouth, night sweats, and a sensation of heat in the palms and soles dominate the picture, the tongue is typically red with little coating and the pulse is fine and rapid - this points to Kidney Yin Deficiency, where deficiency heat consumes fluids.\nIn contrast, if the person feels cold, has a pale puffy tongue with a white coating, and a deep slow pulse, the pattern is Kidney Yang Deficiency; here the Kidney fails to warm and transform fluids, so urine is profuse and clear.\nIf fatigue, a pale face, and breathlessness accompany the thirst and frequent urination, and the tongue is pale with a thin coating while the pulse is weak, Qi and Yin Deficiency is likely. When poor appetite, a feeling of heaviness, chest oppression, and a thick greasy tongue coating appear alongside thirst, the practitioner considers Spleen Deficiency with Dampness, where the digestive system cannot manage fluids properly, leaving dampness to accumulate.\nIn less common presentations, a sensation of fullness in the chest, copious phlegm, and a thick white greasy tongue coating with a slippery pulse suggest Phlegm‑Dampness obstructing the middle burner. A very long‑standing case may develop Blood Stagnation, indicated by a dark tongue with purple spots and a choppy pulse; this pattern disrupts fluid metabolism further and requires careful differentiation.",
+  "patterns": [
+    {
+      "id": 473,
+      "condition_id": 97,
+      "pattern_name": "Kidney Yin Deficiency",
+      "pattern_slug": "kidney-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Frequent, large-volume urination\", \"Dry mouth and throat\", \"Night sweats\", \"Heat in the palms, soles, and chest\", \"Lower back and knee soreness\"]",
+      "worse_with": "Spicy, fried, or drying foods, Overwork and late nights, Hot, dry environments, Emotional stress and frustration",
+      "better_with": "Cool, quiet environments, Moistening foods (e.g., pear), Rest and adequate sleep, Warm drinks (water, herbal tea)",
+      "why_this_happens": "Kidney Yin is the body's deep cooling and moistening reserve. When it runs low, a dry, restless heat builds internally. This empty heat drives water out through the kidneys before the body can use it, causing intense thirst and large volumes of urine.",
+      "tongue_and_pulse": "Tongue: red, thin body with little or no coating, dry surface, possible cracks. Pulse: fine (细 xì) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Kidney Yin deficiency generates empty heat that consumes fluids. Spicy foods, overwork, and stress further deplete Yin and fan the flames, worsening thirst and urination. Cooling, moistening foods and rest replenish Yin and calm the heat, helping the body retain fluids.",
+      "diet_and_lifestyle": "Eat moistening foods like pear, black sesame, and tofu. Avoid spicy, greasy, and drying foods. Prioritize rest and avoid overwork, which consumes Yin. Gentle daily movement like tai chi or walking is beneficial.",
+      "formulas": [
+        {
+          "id": 1080,
+          "pattern_id": 473,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Nourishes Kidney Yin and clears deficiency heat, addressing the root of thirst and polyuria."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2535,
+          "pattern_id": 473,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and replenishes fluids."
+        },
+        {
+          "id": 2536,
+          "pattern_id": 473,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears heat and nourishes Yin, eases thirst."
+        },
+        {
+          "id": 2537,
+          "pattern_id": 473,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Clears deficiency heat from the lower burner."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1678,
+          "pattern_id": 473,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yin and strengthens the lower back."
+        },
+        {
+          "id": 1679,
+          "pattern_id": 473,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney; nourishes Yin and clears deficiency heat."
+        },
+        {
+          "id": 1680,
+          "pattern_id": 473,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen and Kidney, benefits Yin and fluids."
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "condition_id": 97,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Feeling cold all over, especially low back and legs\", \"Profuse, clear, watery urine\", \"Waking at night to urinate (nocturia)\", \"Cold, aching lower back and knees\", \"Deep fatigue and low spirits\", \"Pale, puffy tongue with teeth marks\"]",
+      "worse_with": "Cold weather or drafts, Cold and raw foods, Overwork and late nights, Excessive sexual activity",
+      "better_with": "Applying warmth to affected area, Warm soups and drinks, Rest and adequate sleep, Gentle movement or exercise",
+      "why_this_happens": "Your Kidneys are like a pilot light that warms your whole body and helps manage fluids. When that pilot light grows dim - what we call Kidney Yang Deficiency - there isn't enough warmth to transform water into usable moisture. Instead, fluids pass straight through, producing large amounts of clear, watery urine. Because your body is losing so much water, it sends a constant signal of thirst, even though you're drinking plenty. The coldness you feel in your lower back, knees, and limbs is the same Yang deficiency failing to warm you from the core.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks and a wet white coating. Pulse: deep, slow, and weak, especially at the rear (Kidney) positions.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's foundational warmth, much like a furnace. Cold foods, cold environments, and overwork act like pouring water on that fire, worsening chill and fluid leakage. Warmth, rest, and nourishing foods add fuel to the furnace, helping the body transform fluids into usable moisture and hold urine properly.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congees. Favor warming spices such as ginger, cinnamon, and a little black pepper. Keep your lower back and feet warm - a hot water bottle over the low back in the evening is a simple, powerful habit. Gentle daily movement, like walking or tai chi, supports circulation without draining your reserves. Avoid overwork and late nights, which deplete Yang energy.",
+      "formulas": [
+        {
+          "id": 1081,
+          "pattern_id": 474,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "Strengthens the Gate of Life Fire, ideal when coldness and low sex drive are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2538,
+          "pattern_id": 474,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Powerfully warms Kidney Yang and dispels internal cold."
+        },
+        {
+          "id": 2539,
+          "pattern_id": 474,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Ignites the Gate of Life Fire and drives warmth to the lower back and limbs."
+        },
+        {
+          "id": 2540,
+          "pattern_id": 474,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Nourishes Kidney essence to anchor the Yang, preventing dryness from strong warming herbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1681,
+          "pattern_id": 474,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Directly tonifies Kidney Yang and strengthens the low back."
+        },
+        {
+          "id": 1682,
+          "pattern_id": 474,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms the Gate of Life Fire to improve fluid metabolism."
+        },
+        {
+          "id": 1683,
+          "pattern_id": 474,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Fortifies the body&#x27;s root Yang and helps the bladder hold urine."
+        },
+        {
+          "id": 1684,
+          "pattern_id": 474,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel, used with moxibustion to warm and consolidate."
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "condition_id": 97,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Fatigue and lack of strength\", \"Dry mouth with little desire to drink\", \"Frequent pale urination, especially at night\", \"Shortness of breath on exertion\", \"Spontaneous daytime sweating\", \"Warm palms and soles\"]",
+      "worse_with": "Overwork and late nights, Spicy, fried, or drying foods, Hot, dry environments, Emotional stress, Excessive sweating",
+      "better_with": "Rest and adequate sleep, Gentle movement or exercise, Moistening foods (e.g., pear), Stress reduction",
+      "why_this_happens": "Qi is the body's holding force, and when it is weak, fluids leak out as frequent, pale urination. At the same time, Yin is the cooling moisture that moistens the mouth and body, and its deficiency leaves the mouth dry and the body easily overheated. Because the Qi is too weak to generate a strong thirst, the desire to drink is surprisingly mild, yet the dryness and fatigue remain relentless.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, dry surface, possibly cracked. Pulse: fine, weak, and often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are easily depleted by overwork, sweating, and stress, which further weaken the body's ability to hold fluids and generate moisture. Rest and gentle movement conserve Qi, while moistening foods replenish Yin. Spicy and dry things consume Yin, and emotional strain tightens Qi flow, making it harder for the body to retain precious fluids.",
+      "diet_and_lifestyle": "Prioritize rest and avoid overwork, as pushing through fatigue drains Qi further. Gentle movement like walking or tai chi helps Qi circulate without depleting it. Eat warm, moistening foods such as rice congee with Chinese yam and goji berries, and snack on pear or apple. Avoid spicy, fried, and overly dry foods that consume Yin.",
+      "formulas": [
+        {
+          "id": 1082,
+          "pattern_id": 475,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "Tonifies Qi and generates fluids to address the root deficiency of both Qi and Yin."
+        },
+        {
+          "id": 1083,
+          "pattern_id": 475,
+          "formula_name": "Yang Yin Qing Fei Tang",
+          "formula_url": "/knowledge-base/formulas/yang-yin-qing-fei-tang",
+          "translation": "Nourish Yin and Clear the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, Qianlong era (~1764), first published 1838 CE",
+          "properties": "Cool, Nourishes Yin, Clears Lung Heat, Resolves Toxicity",
+          "description": "Nourishes Yin, clears mild deficiency heat, and moistens dryness in the upper body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2541,
+          "pattern_id": 475,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Gently tonifies Spleen and Lung Qi to restore energy and fluid-holding power."
+        },
+        {
+          "id": 2542,
+          "pattern_id": 475,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Qi and consolidates the exterior to reduce fluid loss through urine and sweat."
+        },
+        {
+          "id": 2543,
+          "pattern_id": 475,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Yin and moistens the mouth and throat to relieve dryness."
+        },
+        {
+          "id": 2544,
+          "pattern_id": 475,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes fluids and preserves Yin, helping to curb frequent urination and sweating."
+        },
+        {
+          "id": 2545,
+          "pattern_id": 475,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "",
+          "description": "Nourishes Lung and Stomach Yin to generate body fluids."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1685,
+          "pattern_id": 475,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonifies Qi and strengthens the body&#x27;s ability to hold fluids."
+        },
+        {
+          "id": 1686,
+          "pattern_id": 475,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies both Qi and Yin while supporting Spleen and Kidney function."
+        },
+        {
+          "id": 1687,
+          "pattern_id": 475,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to anchor fluids and cool deficiency heat."
+        },
+        {
+          "id": 1688,
+          "pattern_id": 475,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen and Stomach to build Qi and transform fluids."
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "condition_id": 97,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Thirst but no desire to drink, or preference for warm drinks\", \"Feeling of heaviness in the body and limbs\", \"Abdominal bloating, worse after eating\", \"Loose or unformed stools\", \"Poor appetite or lack of taste\", \"Head feels heavy or muzzy, as if wrapped\"]",
+      "worse_with": "Cold and raw foods, Damp or humid weather, Overeating, especially heavy or greasy meals, Sedentary lifestyle, Excessive worry and overthinking",
+      "better_with": "Warm, light meals, Gentle movement or exercise, Dry, warm environment, Small, frequent meals",
+      "why_this_happens": "Your Spleen is the engine that transforms the food and drink you take in into usable fluids and energy. When it is weak, that transformation stalls, and instead of being absorbed, water accumulates as dampness that sloshes around without nourishing you. This is why you feel thirsty-your tissues aren’t getting moisture-yet the fluid you drink passes straight out as urine, often heavy and cloudy. The dampness also drags you down, leaving your limbs heavy and your belly bloated.",
+      "tongue_and_pulse": "Tongue: Pale, swollen body with teeth marks on the edges, and a white greasy coating that looks moist. Pulse: Soggy (Ru) and slow (Huan), or slippery (Hua) like a bead rolling.",
+      "why_triggers_reliefs_work": "A weak Spleen can’t manage water, so fluid turns into dampness instead of moisture. Cold, raw, and greasy foods demand too much digestive fire, adding more dampness and bloating, while worry knots the Spleen Qi. Warm, cooked meals and gentle movement give the Spleen just enough heat and motion to transform fluids again, so thirst and heavy urination ease.",
+      "diet_and_lifestyle": "Eat warm, cooked meals like soups and stews with a little ginger or cardamom-these gently fire up your Spleen. Avoid cold drinks, raw salads, dairy, and greasy food, all of which add more dampness. Light daily movement like walking or stretching keeps Qi moving and helps dry out the damp, but don’t exercise to exhaustion.",
+      "formulas": [
+        {
+          "id": 1084,
+          "pattern_id": 476,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens the Spleen and drains dampness, restoring the body&#x2019;s ability to absorb and distribute fluids properly."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2546,
+          "pattern_id": 476,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness and gently strengthens the Spleen, helping to separate clear fluids from turbid."
+        },
+        {
+          "id": 2547,
+          "pattern_id": 476,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and dries dampness, addressing the root deficiency behind the fluid imbalance."
+        },
+        {
+          "id": 2548,
+          "pattern_id": 476,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "",
+          "description": "Aromatic herb that transforms dampness and revives the Spleen, easing heaviness and bloating."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1689,
+          "pattern_id": 476,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The primary point to drain dampness from the body, especially from the lower burner."
+        },
+        {
+          "id": 1690,
+          "pattern_id": 476,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen Qi and strengthens the middle burner to improve fluid transformation."
+        },
+        {
+          "id": 1691,
+          "pattern_id": 476,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and resolves dampness, relieving abdominal fullness."
+        },
+        {
+          "id": 1692,
+          "pattern_id": 476,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates water metabolism and supports Spleen function, reducing heaviness and urinary frequency."
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "condition_id": 97,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "pattern_slug": "phlegm-dampness-in-the-middle-burner",
+      "is_common": 0,
+      "symptoms": "[\"Feeling of fullness and stuffiness in the upper abdomen\", \"Heavy, sluggish body and limbs\", \"Thick, greasy white tongue coating\", \"Nausea and poor appetite\", \"Thirst with a sticky mouth and no strong desire to drink\"]",
+      "worse_with": "Heavy, greasy, or fried foods, Damp, humid weather, Overeating, especially heavy or greasy meals, Sedentary lifestyle, Dairy products, Cold and raw foods",
+      "better_with": "Warm, light meals, Gentle movement or exercise, Dry, warm environment, Warm drinks (water, herbal tea), Avoiding overeating",
+      "why_this_happens": "The Spleen transforms fluids into usable moisture. When weakened by poor diet or constitution, it fails to process fluids, which then accumulate as sticky dampness and phlegm. This obstruction blocks the middle burner, preventing clear fluids from rising to moisten the mouth (causing thirst) and allowing turbid fluids to descend excessively, leading to profuse urination. The result is a paradoxical picture of thirst and polyuria alongside a heavy, bloated sensation and a thick, greasy tongue coating.",
+      "tongue_and_pulse": "Tongue: pale and swollen with teeth marks, thick white greasy coating, excessively moist. Pulse: slippery (滑 huá) and possibly soggy (濡 rú), especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Phlegm-dampness arises when a weakened Spleen fails to transform fluids, which then accumulate into a sticky obstruction. Heavy, greasy foods and damp environments add to this burden, while warm, light meals and gentle movement help the Spleen transform and transport fluids, clearing the middle burner and restoring normal thirst and urination.",
+      "diet_and_lifestyle": "Focus on warm, cooked meals with plenty of lightly cooked vegetables and grains. Avoid raw, cold, and greasy foods that burden the Spleen and generate dampness. Gentle daily movement like walking helps Qi flow and dries dampness.",
+      "formulas": [
+        {
+          "id": 1085,
+          "pattern_id": 477,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "The foundational formula to dry dampness and transform phlegm, unblocking the middle burner and restoring fluid distribution."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2549,
+          "pattern_id": 477,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, relieving the heavy, stuck sensation in the abdomen."
+        },
+        {
+          "id": 2550,
+          "pattern_id": 477,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries dampness, helping to unblock the middle burner and improve appetite."
+        },
+        {
+          "id": 2551,
+          "pattern_id": 477,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Strengthens the Spleen and leaches out dampness, directing fluids back into proper circulation."
+        },
+        {
+          "id": 2552,
+          "pattern_id": 477,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "",
+          "description": "Promotes urination to eliminate excess dampness, reducing the burden on the kidneys and easing polyuria."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1693,
+          "pattern_id": 477,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and transforms dampness, relieving abdominal fullness."
+        },
+        {
+          "id": 1694,
+          "pattern_id": 477,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the intestines and drains dampness, addressing loose stools and bloating."
+        },
+        {
+          "id": 1695,
+          "pattern_id": 477,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform phlegm and clear dampness from the whole body."
+        },
+        {
+          "id": 1696,
+          "pattern_id": 477,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to support fluid metabolism and reduce dampness generation."
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "condition_id": 97,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain in lower abdomen or back\", \"Dark purplish lips and nails\", \"Dark menstrual blood with clots\", \"Tongue with purple spots\", \"Pain that worsens at night\"]",
+      "worse_with": "Cold weather or drafts, Prolonged sitting, Emotional stress, Cold and raw foods",
+      "better_with": "Applying warmth to affected area, Gentle movement or exercise, Eating warming spices",
+      "why_this_happens": "In diabetes insipidus, the chronic loss of fluids can deplete Yin and cause the blood to become thicker and more sluggish, eventually leading to blood stasis. This stasis obstructs the channels that distribute fluids, worsening the body's ability to manage thirst and urination. Patients may notice fixed pains, dark lips and nails, and a purplish tongue as signs of this complication.",
+      "tongue_and_pulse": "Tongue: purple or dusky body, stasis spots, distended dark sublingual veins. Pulse: choppy (Se) or wiry (Xian).",
+      "why_triggers_reliefs_work": "Blood stasis is like a traffic jam in the vessels; warmth and movement help dissolve the jam, while cold and inactivity make it worse. Emotional stress constricts Qi flow, further blocking blood.",
+      "diet_and_lifestyle": "Gentle regular movement like walking or tai chi helps keep blood flowing. Avoid cold raw foods that can congeal blood. Include warming spices like turmeric and ginger in cooking, and eat dark leafy greens to nourish blood.",
+      "formulas": [
+        {
+          "id": 1086,
+          "pattern_id": 478,
+          "formula_name": "Tao He Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/tao-he-cheng-qi-tang",
+          "translation": "Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels",
+          "description": "Invigorates blood and breaks stasis, especially when there is lower abdominal pain and dark urine."
+        },
+        {
+          "id": 1087,
+          "pattern_id": 478,
+          "formula_name": "Dan Shen Yin",
+          "formula_url": "/knowledge-base/formulas/dan-shen-yin",
+          "translation": "Salvia Drink &#xB7; Q&#x12B;ng dynasty, 1801 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain",
+          "description": "A simpler blood-moving formula that can be used for milder stasis with thirst."
+        },
+        {
+          "id": 1088,
+          "pattern_id": 478,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 1089,
+          "pattern_id": 478,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        },
+        {
+          "id": 1090,
+          "pattern_id": 478,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        },
+        {
+          "id": 1091,
+          "pattern_id": 478,
+          "formula_name": "Yang Yin Qing Fei Tang",
+          "formula_url": "/knowledge-base/formulas/yang-yin-qing-fei-tang",
+          "translation": "Nourish Yin and Clear the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, Qianlong era (~1764), first published 1838 CE",
+          "properties": "Cool, Nourishes Yin, Clears Lung Heat, Resolves Toxicity",
+          "description": "A classical formula designed to nourish the body&#x27;s moisture and cool the Lungs, primarily used for dry, sore throats with a parched feeling in the nose and mouth. It is well suited for chronic sore throat, dry cough, and throat inflammation that arise from an underlying deficiency of the body&#x27;s fluids, leaving the Lungs and throat dry and vulnerable to irritation or infection."
+        },
+        {
+          "id": 1092,
+          "pattern_id": 478,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 1093,
+          "pattern_id": 478,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged."
+        },
+        {
+          "id": 1094,
+          "pattern_id": 478,
+          "formula_name": "Tao He Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/tao-he-cheng-qi-tang",
+          "translation": "Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels",
+          "description": "A classical formula used to break up blood stasis and clear heat from the lower abdomen. It is commonly applied for lower abdominal pain with a sense of tightness and fullness, dark-coloured menstrual blood or stools, restlessness, and nighttime fevers caused by stagnant blood binding with heat in the lower body."
+        },
+        {
+          "id": 1095,
+          "pattern_id": 478,
+          "formula_name": "Dan Shen Yin",
+          "formula_url": "/knowledge-base/formulas/dan-shen-yin",
+          "translation": "Salvia Drink &#xB7; Q&#x12B;ng dynasty, 1801 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain",
+          "description": "A simple three-herb formula used to relieve chest and stomach pain caused by poor blood circulation and stagnant Qi. It works by promoting blood flow and easing Qi movement in the chest and abdomen. The source text notes it is especially effective for women."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2553,
+          "pattern_id": 478,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Invigorates blood and clears heat, addressing both stasis and thirst."
+        },
+        {
+          "id": 2554,
+          "pattern_id": 478,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks blood stasis and lubricates the intestines, aiding fluid balance."
+        },
+        {
+          "id": 2555,
+          "pattern_id": 478,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 2556,
+          "pattern_id": 478,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 2557,
+          "pattern_id": 478,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 2558,
+          "pattern_id": 478,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 2559,
+          "pattern_id": 478,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 2560,
+          "pattern_id": 478,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 2561,
+          "pattern_id": 478,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 2562,
+          "pattern_id": 478,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 2563,
+          "pattern_id": 478,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        },
+        {
+          "id": 2564,
+          "pattern_id": 478,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 2565,
+          "pattern_id": 478,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 2566,
+          "pattern_id": 478,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 2567,
+          "pattern_id": 478,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "Slightly Warm, Aromatically Transforms Dampness, Harmonizes the Stomach and Stops Vomiting, Releases the Exterior and Resolves Summerheat",
+          "description": ""
+        },
+        {
+          "id": 2568,
+          "pattern_id": 478,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 2569,
+          "pattern_id": 478,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 2570,
+          "pattern_id": 478,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "Cold, Promotes Urination and Drains Dampness, Clears Heat, Transforms Turbidity and Lowers Lipids",
+          "description": ""
+        },
+        {
+          "id": 2571,
+          "pattern_id": 478,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 2572,
+          "pattern_id": 478,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1697,
+          "pattern_id": 478,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood, the primary point to invigorate blood and dispel stasis."
+        },
+        {
+          "id": 1698,
+          "pattern_id": 478,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and moves blood in the channels, often combined with Xuehai."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 615,
+      "condition_id": 97,
+      "question": "Can acupuncture and herbs really reduce my excessive thirst and urination?",
+      "answer": "Yes, many patients experience a noticeable decrease in thirst and urine volume within 2-4 weeks of starting TCM treatment. The approach works by addressing the underlying pattern - whether that's cooling deficiency heat, warming a weak Kidney Yang, or strengthening the Spleen to properly manage fluids. Results vary, but consistent treatment often leads to lasting improvement."
+    },
+    {
+      "id": 616,
+      "condition_id": 97,
+      "question": "Can I use TCM alongside my desmopressin or other medications?",
+      "answer": "Yes, TCM can generally be used alongside conventional treatments. However, you should never stop or adjust your medication without consulting your prescribing doctor. Some herbs may influence fluid balance, so it's essential that both your TCM practitioner and your medical doctor are aware of all treatments you're receiving. See our Safety section for more on combining therapies."
+    },
+    {
+      "id": 617,
+      "condition_id": 97,
+      "question": "Will I need to change my diet?",
+      "answer": "Diet plays a supporting role. While there's no single diet for everyone, most people benefit from eating warm, cooked meals and avoiding icy drinks, excessive raw foods, and greasy or processed items that burden the Spleen. Your practitioner will give you specific guidance based on your pattern - for example, moistening foods for Yin deficiency or warming spices for Yang deficiency."
+    },
+    {
+      "id": 618,
+      "condition_id": 97,
+      "question": "Is diabetes insipidus curable with TCM?",
+      "answer": "Many patients achieve significant and lasting symptom control, especially when the underlying imbalance is corrected. In some cases, especially those with a clear reversible pattern, the condition may resolve enough that medication can be reduced or discontinued under medical supervision. However, outcomes depend on the cause and duration of the condition. TCM aims to restore the body's own ability to manage water, which can lead to long-term stability."
+    },
+    {
+      "id": 619,
+      "condition_id": 97,
+      "question": "What does a typical treatment session look like?",
+      "answer": "Treatment usually involves a combination of acupuncture and a custom herbal formula. Acupuncture sessions are typically weekly for the first 4-8 weeks, using points on the lower back, legs, and abdomen to support Kidney and Spleen function. Herbs are taken daily in powder, capsule, or decoction form. Your practitioner will adjust the formula as your symptoms change."
+    },
+    {
+      "id": 620,
+      "condition_id": 97,
+      "question": "Are there any side effects from the herbs?",
+      "answer": "When prescribed by a qualified TCM practitioner, herbal formulas are generally safe and well-tolerated. Some herbs, such as Zhi Fu Zi (aconite), are used only after careful processing to remove toxicity. Always inform your practitioner of any medications you're taking, as certain blood-moving herbs may interact with anticoagulants. Mild digestive upset can occasionally occur but is usually temporary."
+    }
+  ],
+  "research": []
+}

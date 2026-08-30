@@ -1,0 +1,682 @@
+{
+  "id": 960,
+  "name": "Loss of Voice",
+  "url": "/knowledge-base/conditions/loss-of-voice",
+  "kind": "Symptom",
+  "pinyin": "shī yīn",
+  "chinese_name": "失音",
+  "preview_text": "The sudden voice loss after a cold versus the gradual, chronic hoarseness are different patterns in TCM - and each has its own treatment, often restoring voice within days to weeks...",
+  "categories": "[\"Voice & Hoarseness\", \"Speech & Communication\"]",
+  "body_regions": "[\"Neck — Anterior\"]",
+  "synonyms": "[\"Aphonia\", \"Inability to speak or very faint voice\", \"Sudden Loss Of Voice\"]",
+  "conventional_description": "In Western medicine, loss of voice (aphonia) means you cannot produce sound or can only whisper. It often begins as hoarseness and may be caused by acute laryngitis - inflammation of the vocal cords from a viral infection, voice strain, or irritants. Other causes include vocal cord nodules, polyps, paralysis, or functional voice disorders where no structural problem is seen.\nDiagnosis typically involves a laryngoscopy to look at the vocal cords. Treatment focuses on voice rest, hydration, humidified air, and addressing the underlying cause - antibiotics if bacterial, corticosteroids for severe inflammation, speech therapy for muscle tension, or surgery for growths. Most acute cases resolve within one to two weeks.",
+  "conventional_treatments": "Standard care for acute voice loss includes complete voice rest, hydration, steam inhalation, and avoiding irritants like smoke. If a bacterial infection is present, antibiotics may be prescribed. For persistent hoarseness or nodules, speech therapy and vocal hygiene are first-line. Severe inflammation may be treated with a short course of corticosteroids. Structural lesions like large polyps or nodules may require microsurgery.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the voice is governed by the Lungs, which open into the throat and are traditionally compared to a metal bell. When the Lungs are clear and their Qi flows smoothly, the voice rings clear. When something obstructs that flow - whether an external pathogen like Wind-Heat or internal phlegm - the bell is muffled, and the voice becomes hoarse or disappears. This is called 'solid metal cannot ring' (金实不鸣, jīn shí bù míng) for excess patterns. In deficiency patterns, the bell is broken - 'broken metal cannot ring' (金破不鸣, jīn pò bù míng) - because Lung Qi or Yin is too weak to produce sound. TCM treatment aims to either clear the obstruction or repair the bell.",
+  "classical_quote": "「金实不鸣，金破不鸣。」",
+  "classical_translation": "\"When the Metal (Lung) is solid [obstructed by excess], it does not ring; when the Metal is broken [deficient], it does not ring. This describes the two fundamental mechanisms of voice loss: excess pathogens blocking the throat, or deficiency of Lung Qi and Yin failing to nourish the vocal cords.\"",
+  "classical_source": "Huang Di Nei Jing (Yellow Emperor's Inner Classic), Su Wen  ,  Chapter 27, Discussion on the Separation and Union of True and Evil \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking how the voice loss started and what it feels like. The timing - whether it came on suddenly or gradually - and the quality of the hoarseness provide the first clues that separate external invasion patterns from internal deficiency or stagnation patterns.\nWhen the voice disappears abruptly after exposure to wind, the next question is whether there is a sore, red throat with fever and thirst (Wind-Heat) or chills, body aches, and a runny nose with clear mucus (Wind-Cold). The tongue and pulse help confirm: a red tongue with a yellow coating and a rapid pulse favor Wind-Heat, while a pale tongue with a thin white coating and a tight pulse point to Wind-Cold.\nIf the voice has been gradually weakening and tires easily with talking, a practitioner looks for signs of Lung Qi Deficiency. The voice is low and faint, and the person often feels short of breath and fatigued. The tongue is pale with a thin white coating, and the pulse is weak, especially at the Lung position.\nA muffled, heavy voice that comes with a constant sensation of phlegm stuck in the throat suggests Damp-Phlegm obstructing the vocal cords. The tongue coating is thick and greasy, and the pulse is slippery. This pattern often arises from dietary habits or chronic sinus congestion that produces excess phlegm.\nLong-standing hoarseness or voice loss, especially when vocal cord nodules or thickening are present, points to Qi and Blood Stagnation. The tongue may appear dark or have purple spots, and the pulse feels choppy. This pattern reflects a chronic blockage that prevents the free flow of Qi and blood to the throat.",
+  "patterns": [
+    {
+      "id": 4740,
+      "condition_id": 960,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "pattern_slug": "wind-heat-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Sudden hoarseness or complete voice loss\", \"Sore, red, or swollen throat\", \"Fever with mild chills (fever more prominent)\", \"Thirst, dry mouth\", \"Yellow nasal discharge\"]",
+      "worse_with": "Overusing the voice, Spicy, fried, or greasy foods, Exposure to wind or cold, Smoking or alcohol, Dry or cold air",
+      "better_with": "Complete voice rest, Sipping warm water or pear juice, Cool, humid air, Throat lozenges or licorice tea",
+      "why_this_happens": "Your voice depends on the Lungs, which open into the throat. When Wind-Heat invades from outside, it clogs the Lung's ability to spread and descend Qi, trapping heat in the throat. This sudden obstruction scorches the vocal cords, causing acute hoarseness or complete voice loss, often with a hot, painful throat.",
+      "tongue_and_pulse": "Tongue: red tip, thin yellow coating, body slightly red. Pulse: floating (fu) and rapid (shu).",
+      "why_triggers_reliefs_work": "Wind-Heat obstructs Lung Qi and scorches the throat. Resting the voice allows the Qi to recover, while warm, moistening fluids help clear heat and soothe dryness. Spicy, fried foods and overuse of the voice add more heat and strain, while wind and cold can trap the pathogen, worsening the condition.",
+      "diet_and_lifestyle": "Rest your voice completely for a day or two. Sip warm water, pear juice, or loquat leaf tea. Eat cooling, moistening foods like pear, lily bulb, and tofu. Avoid spicy, fried, and greasy foods that generate heat. Protect your throat from wind and cold.",
+      "formulas": [
+        {
+          "id": 10756,
+          "pattern_id": 4740,
+          "formula_name": "Sang Ju Yin",
+          "formula_url": "/knowledge-base/formulas/sang-ju-yin",
+          "translation": "Mulberry Leaf and Chrysanthemum Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Lung Heat, Restores Lung Diffusing and Descending Functions",
+          "description": "A classic formula to release the exterior, clear Lung Heat, and restore the voice by diffusing Lung Qi."
+        },
+        {
+          "id": 10757,
+          "pattern_id": 4740,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "Another effective formula that clears Wind-Heat and benefits the throat, especially when sore throat is prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24921,
+          "pattern_id": 4740,
+          "herb_name": "Jie Geng",
+          "herb_url": "/knowledge-base/herbs/jie-geng",
+          "translation": "Balloon flower root",
+          "properties": "",
+          "description": "Opens the throat and guides the formula upward to restore the voice."
+        },
+        {
+          "id": 24922,
+          "pattern_id": 4740,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases Wind-Heat and cools the throat with its aromatic coolness."
+        },
+        {
+          "id": 24923,
+          "pattern_id": 4740,
+          "herb_name": "Pang Da Hai",
+          "herb_url": "/knowledge-base/herbs/pang-da-hai",
+          "translation": "Malva nut",
+          "properties": "",
+          "description": "Moistens dryness and soothes a strained, hoarse voice."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16954,
+          "pattern_id": 4740,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Expels Wind-Heat and relieves throat pain."
+        },
+        {
+          "id": 16955,
+          "pattern_id": 4740,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Releases the exterior and opens the voice by descending Lung Qi."
+        },
+        {
+          "id": 16956,
+          "pattern_id": 4740,
+          "acupoint_code": "LU-11",
+          "acupoint_name": "Shaoshang LU-11",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/shaoshang-lu-11",
+          "translation": "Sh&#x1CE;o sh&#x101;ng",
+          "properties": "Expels Exterior Wind, Diffuses and descends Lung Qi",
+          "description": "Bleeding this point quickly reduces throat swelling and heat."
+        },
+        {
+          "id": 16957,
+          "pattern_id": 4740,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels Wind and clears Heat from the head and neck."
+        }
+      ]
+    },
+    {
+      "id": 4741,
+      "condition_id": 960,
+      "pattern_name": "Wind-Cold invading the Lungs",
+      "pattern_slug": "wind-cold-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Sudden hoarseness or complete loss of voice\", \"Chills more prominent than any fever\", \"Clear, watery nasal discharge\", \"No sweating\", \"Thin, white, moist tongue coating\", \"Floating, tight pulse\"]",
+      "worse_with": "Exposure to wind or cold, Cold or raw foods and drinks, Overusing the voice",
+      "better_with": "Warm ginger tea, Complete voice rest, Steam inhalation or warm steamy air, Warm scarf around neck, Light sweating",
+      "why_this_happens": "Wind-Cold attacks the Lungs from the outside, like a sudden draft closing a door. The Cold causes the Lung Qi to tighten and stagnate, preventing it from rising to the throat to produce a clear voice. This is the classic \"solid metal cannot ring\" (金实不鸣, jīn shí bù míng) mechanism-the throat is physically open but the energy to vibrate the vocal cords is blocked.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin, white, moist coating. Pulse: floating (fú) and tight (jǐn), like a taut rope felt at the surface.",
+      "why_triggers_reliefs_work": "<p>Wind-Cold tightens and blocks the Lung Qi, so anything cold-weather, food, or drink-deepens that constriction and silences the voice further. Warmth and rest do the opposite: they relax the tightened channels, encourage a light sweat to push the pathogen out, and allow the Lung Qi to rise and vibrate the vocal cords again. Voice rest prevents additional strain on the already-blocked throat mechanism.</p>",
+      "diet_and_lifestyle": "Drink plenty of warm fluids like fresh ginger tea with a touch of honey. Keep your neck and chest protected with a scarf, and avoid cold or raw foods entirely. Rest your voice completely-whispering can strain it further. A gentle steam inhalation with a few drops of eucalyptus or peppermint oil can help open the airways.",
+      "formulas": [
+        {
+          "id": 10758,
+          "pattern_id": 4741,
+          "formula_name": "San Ao Tang",
+          "formula_url": "/knowledge-base/formulas/san-ao-tang",
+          "translation": "Three-Unbinding Decoction &#xB7; Song dynasty (&#x5B8B;&#x671D;), circa 1078&#x2013;1110 CE",
+          "properties": "Warm, Disseminates Lung Qi, Releases the exterior, Stops cough",
+          "description": "The core formula to expel Wind-Cold, release the exterior, and restore the Lung&#x27;s ability to diffuse Qi, directly addressing the sudden voice loss."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24924,
+          "pattern_id": 4741,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "",
+          "description": "Releases the exterior, disperses Cold, and opens the constrained Lung Qi to allow the voice to return."
+        },
+        {
+          "id": 24925,
+          "pattern_id": 4741,
+          "herb_name": "Jie Geng",
+          "herb_url": "/knowledge-base/herbs/jie-geng",
+          "translation": "Balloon flower root",
+          "properties": "",
+          "description": "Carries the formula upward to the throat, soothes irritation, and helps clear phlegm that may muffle the voice."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16958,
+          "pattern_id": 4741,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "The main point to release the exterior, expel Wind-Cold, and open the Lung to restore the voice."
+        },
+        {
+          "id": 16959,
+          "pattern_id": 4741,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Strongly expels external pathogens and relieves the constriction in the throat area."
+        },
+        {
+          "id": 16960,
+          "pattern_id": 4741,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "A local point directly on the throat to benefit the vocal cords and encourage sound production."
+        }
+      ]
+    },
+    {
+      "id": 4742,
+      "condition_id": 960,
+      "pattern_name": "Lung Qi Deficiency",
+      "pattern_slug": "lung-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Low, weak voice that tires easily\", \"Reluctance to speak\", \"Shortness of breath worsened by exertion\", \"Spontaneous daytime sweating\", \"Pale complexion and fatigue\", \"Sensitivity to wind and frequent colds\"]",
+      "worse_with": "Overusing the voice, Dry or cold air, Fatigue and overwork, Cold or raw foods and drinks",
+      "better_with": "Complete voice rest, Warm, cooked meals, Gentle deep breathing, Steam inhalation or warm steamy air",
+      "why_this_happens": "The Lungs govern the voice - they provide the Qi that pushes sound outward. When Lung Qi is weak, the voice becomes low and faint because there simply is not enough power behind it. This is a gradual loss, not sudden; the voice tires easily and may fade to a whisper after speaking for a while. It often follows a long illness, overwork, or chronic overuse that has drained the Lung's energy.",
+      "tongue_and_pulse": "Tongue: pale, tender body with possible teeth marks and a thin white coating. Pulse: weak, especially in the right cun (Lung) position.",
+      "why_triggers_reliefs_work": "Lung Qi is the force behind your voice. Overusing it, breathing cold air, or pushing through fatigue all drain that force further, causing the voice to fail. Rest, warmth, and nourishing foods rebuild Lung Qi, while gentle breathing trains the Lungs to hold and use Qi efficiently. Because the Lungs are delicate and dislike cold and dryness, warm moisture and easy-to-digest meals protect them and help the voice return.",
+      "diet_and_lifestyle": "Eat warm, cooked, and easily digestible foods - soups, congees, and stews are ideal. Pears, lily bulb (百合, bǎi hé), and a little honey can gently moisten the throat. Avoid icy drinks and raw foods, which chill the Lungs and weaken Qi further. Rest your voice as much as possible; even whispering can strain the cords when Qi is low. Gentle breathing exercises or slow walking in fresh air can help rebuild Lung capacity without exhausting you.",
+      "formulas": [
+        {
+          "id": 10759,
+          "pattern_id": 4742,
+          "formula_name": "Bu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/bu-fei-tang",
+          "translation": "Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE",
+          "properties": "Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough",
+          "description": "The classic formula to tonify Lung Qi, strengthening the voice by restoring the Lung&#x27;s power to propel sound."
+        },
+        {
+          "id": 10760,
+          "pattern_id": 4742,
+          "formula_name": "Yu Ping Feng San",
+          "formula_url": "/knowledge-base/formulas/yu-ping-feng-san",
+          "translation": "Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating",
+          "description": "Stabilizes the exterior and boosts Lung Qi to reduce susceptibility to wind and cold, which can worsen voice loss."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24926,
+          "pattern_id": 4742,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Lung Qi and raises the clear Yang, giving the voice more strength and endurance."
+        },
+        {
+          "id": 24927,
+          "pattern_id": 4742,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully supplements the body&#x27;s original Qi, directly addressing the root exhaustion behind the weak voice."
+        },
+        {
+          "id": 24928,
+          "pattern_id": 4742,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "",
+          "description": "Moistens the throat and harmonizes the formula, easing the strain on tired vocal cords."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16961,
+          "pattern_id": 4742,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Tonify. Opens the Lung meridian and benefits the throat, helping to project the voice."
+        },
+        {
+          "id": 16962,
+          "pattern_id": 4742,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Tonify with moxa. The Back-Shu point of the Lungs, directly strengthens Lung Qi."
+        },
+        {
+          "id": 16963,
+          "pattern_id": 4742,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. Builds overall Qi and Blood, supporting the Lungs through the Earth-Metal relationship."
+        }
+      ]
+    },
+    {
+      "id": 4743,
+      "condition_id": 960,
+      "pattern_name": "Damp-Phlegm",
+      "pattern_slug": "damp-phlegm",
+      "is_common": 0,
+      "symptoms": "[\"Sensation of phlegm stuck in the throat\", \"Voice sounds muffled or hoarse\", \"Copious white phlegm that is easy to cough up\", \"Heaviness in the body and limbs\", \"Thick white greasy tongue coating\"]",
+      "worse_with": "Damp, humid weather, Greasy, sweet, or dairy-rich foods, Sedentary lifestyle",
+      "better_with": "Warm, dry environment, Light, cooked meals without dairy, Gentle exercise like walking",
+      "why_this_happens": "When the Spleen is weak and fails to transform fluids, Dampness accumulates and congeals into Phlegm. This sticky Phlegm can rise to block the throat and vocal cords, muffling the voice and creating a sensation of something stuck. The voice becomes hoarse or temporarily lost, especially when phlegm is abundant and the body feels heavy and sluggish.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, thick white greasy coating, wet surface. Pulse: slippery (滑 huá).",
+      "why_triggers_reliefs_work": "Dampness and Phlegm thrive in humid conditions and are fueled by heavy, greasy, or sweet foods that weaken the Spleen's ability to transform fluids. A warm, dry environment and light, cooked meals support the Spleen, while gentle movement stimulates Qi flow to help clear the phlegm obstruction.",
+      "diet_and_lifestyle": "Avoid dairy, greasy, and sugary foods that create Dampness. Eat warm, cooked meals with plenty of vegetables. Gentle daily exercise like walking helps move Qi and transform Phlegm.",
+      "formulas": [
+        {
+          "id": 10761,
+          "pattern_id": 4743,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "The classic formula to dry Dampness and transform Phlegm, clearing the obstruction that muffles the voice."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24929,
+          "pattern_id": 4743,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, directly addressing the root obstruction."
+        },
+        {
+          "id": 24930,
+          "pattern_id": 4743,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries Dampness, helping to break up phlegm accumulation."
+        },
+        {
+          "id": 24931,
+          "pattern_id": 4743,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Strengthens the Spleen and leaches out Dampness to prevent further phlegm formation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16964,
+          "pattern_id": 4743,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Resolves Phlegm and Dampness, the key distal point for all phlegm disorders."
+        },
+        {
+          "id": 16965,
+          "pattern_id": 4743,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to transform Dampness, addressing the root."
+        },
+        {
+          "id": 16966,
+          "pattern_id": 4743,
+          "acupoint_code": "REN-22",
+          "acupoint_name": "Tiantu REN-22",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/tiantu-ren-22",
+          "translation": "Ti&#x101;n T&#x16B;",
+          "properties": "Descends Lung Qi, Benefits the throat and voice",
+          "description": "Local point to open the throat and benefit the voice."
+        }
+      ]
+    },
+    {
+      "id": 4744,
+      "condition_id": 960,
+      "pattern_name": "Qi And Blood Stagnation",
+      "pattern_slug": "qi-and-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Long-standing hoarseness or voice loss\", \"Vocal cord nodules or thickening found on examination\", \"Fixed, stabbing sensation in the throat or chest\", \"Chest tightness or a feeling of oppression\", \"Irritability or mood swings\"]",
+      "worse_with": "Emotional stress and frustration, Cold or raw foods and drinks, Overusing the voice, Sedentary lifestyle, Cold, damp weather",
+      "better_with": "Warm compress on the throat, Gentle neck and shoulder stretches, Warm, cooked meals, Emotional calm and stress reduction",
+      "why_this_happens": "When Qi flow is blocked by emotional tension or chronic stress, Blood can no longer move smoothly through the throat. Over time, this stagnation causes the vocal cords to thicken or develop nodules, much like a river silting up. The result is a persistent, rough hoarseness or voice loss that does not resolve with simple rest.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots, distended sublingual veins, and a thin white coat. Pulse: wiry (弦 xián) and choppy (涩 sè), like a knife scraping bamboo.",
+      "why_triggers_reliefs_work": "Emotional stress causes Liver Qi to stagnate, which over time leads to Blood stasis in the throat. Calming the mind and gentle movement help unblock this stagnation. Cold and raw foods congeal Blood, while warmth and gentle exercise encourage its smooth flow. Overusing the voice strains the already compromised vocal cords, so rest is essential.",
+      "diet_and_lifestyle": "Avoid cold, raw foods and icy drinks, which congeal Blood and worsen stagnation. Sip warm rose or turmeric tea to move Liver Qi. Gentle daily movement like walking or qigong keeps Qi flowing, and deep breathing helps release chest tightness. Give your voice regular rest and avoid straining it.",
+      "formulas": [
+        {
+          "id": 10762,
+          "pattern_id": 4744,
+          "formula_name": "Sang Ju Yin",
+          "formula_url": "/knowledge-base/formulas/sang-ju-yin",
+          "translation": "Mulberry Leaf and Chrysanthemum Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Lung Heat, Restores Lung Diffusing and Descending Functions",
+          "description": "A gentle, cooling formula used for early-stage colds and respiratory infections marked by cough as the main symptom, with mild fever, slight thirst, and a floating rapid pulse. It gently clears Wind-Heat from the Lungs and restores their natural ability to regulate breathing and stop coughing."
+        },
+        {
+          "id": 10763,
+          "pattern_id": 4744,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 10764,
+          "pattern_id": 4744,
+          "formula_name": "San Ao Tang",
+          "formula_url": "/knowledge-base/formulas/san-ao-tang",
+          "translation": "Three-Unbinding Decoction &#xB7; Song dynasty (&#x5B8B;&#x671D;), circa 1078&#x2013;1110 CE",
+          "properties": "Warm, Disseminates Lung Qi, Releases the exterior, Stops cough",
+          "description": "A simple, classical three-herb formula used to open the lungs and relieve cough, wheezing, nasal congestion, and chest tightness caused by catching cold. It is one of the most basic and widely used building-block formulas for respiratory complaints in Chinese medicine, often serving as a starting point that practitioners modify for specific situations."
+        },
+        {
+          "id": 10765,
+          "pattern_id": 4744,
+          "formula_name": "Bu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/bu-fei-tang",
+          "translation": "Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE",
+          "properties": "Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough",
+          "description": "A classical formula designed to strengthen weak lungs and support breathing. It is used for people with a long-standing weak cough, shortness of breath, a quiet or feeble voice, and a tendency to sweat easily, all signs that the Lung&#x27;s Qi has become depleted over time."
+        },
+        {
+          "id": 10766,
+          "pattern_id": 4744,
+          "formula_name": "Yu Ping Feng San",
+          "formula_url": "/knowledge-base/formulas/yu-ping-feng-san",
+          "translation": "Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating",
+          "description": "A simple but highly valued three-herb formula used to strengthen the body&#x27;s natural defenses against colds, flu, and allergies. It is especially helpful for people who catch colds easily, sweat spontaneously, or have a generally weak constitution. The name &quot;Jade Windscreen&quot; reflects its role as a precious shield against illness-causing pathogens."
+        },
+        {
+          "id": 10767,
+          "pattern_id": 4744,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24932,
+          "pattern_id": 4744,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up congealed Blood and dispels stasis in the throat."
+        },
+        {
+          "id": 24933,
+          "pattern_id": 4744,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates Blood circulation and helps dissolve nodules."
+        },
+        {
+          "id": 24934,
+          "pattern_id": 4744,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Cools the Blood while gently moving stagnation, easing throat pain."
+        },
+        {
+          "id": 24935,
+          "pattern_id": 4744,
+          "herb_name": "Jie Geng",
+          "herb_url": "/knowledge-base/herbs/jie-geng",
+          "translation": "Balloon flower root",
+          "properties": "Neutral, Diffuses Lung Qi, Expels Phlegm, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 24936,
+          "pattern_id": 4744,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 24937,
+          "pattern_id": 4744,
+          "herb_name": "Pang Da Hai",
+          "herb_url": "/knowledge-base/herbs/pang-da-hai",
+          "translation": "Malva nut",
+          "properties": "Cold, Clears Heat and Moistens the Lungs, Benefits the Throat and Restores the Voice, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 24938,
+          "pattern_id": 4744,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Disperses Wind-Cold, Descends Lung Qi and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 24939,
+          "pattern_id": 4744,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 24940,
+          "pattern_id": 4744,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 24941,
+          "pattern_id": 4744,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 24942,
+          "pattern_id": 4744,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 24943,
+          "pattern_id": 4744,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 24944,
+          "pattern_id": 4744,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 24945,
+          "pattern_id": 4744,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 24946,
+          "pattern_id": 4744,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 24947,
+          "pattern_id": 4744,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16967,
+          "pattern_id": 4744,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates Blood and dispels stasis throughout the body."
+        },
+        {
+          "id": 16968,
+          "pattern_id": 4744,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Spreads constrained Liver Qi and moves Blood stagnation."
+        },
+        {
+          "id": 16969,
+          "pattern_id": 4744,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "A local point that directly benefits the throat and vocal cords."
+        },
+        {
+          "id": 16970,
+          "pattern_id": 4744,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Regulates Qi flow in the head and neck, helping to open the voice."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 6235,
+      "condition_id": 960,
+      "question": "How quickly can TCM help me get my voice back?",
+      "answer": "For a sudden loss of voice due to a cold or flu, TCM often works quickly - many people notice improvement within 2-3 days of starting herbs and acupuncture, and the voice may return fully within a week. Chronic hoarseness or voice loss that has lasted for months takes longer, typically 4-8 weeks of consistent treatment to see meaningful change, and up to several months for structural issues like nodules."
+    },
+    {
+      "id": 6236,
+      "condition_id": 960,
+      "question": "Can acupuncture help with vocal cord nodules?",
+      "answer": "Yes, acupuncture is often used to move Qi and Blood in the throat area, which can help soften nodules and reduce their size over time. Combined with herbal formulas that resolve phlegm and invigorate Blood, acupuncture can be a valuable part of a long-term plan, though significant improvement usually takes 3-6 months and works best alongside voice therapy and vocal rest."
+    },
+    {
+      "id": 6237,
+      "condition_id": 960,
+      "question": "Is it safe to combine Chinese herbs with voice therapy or medications?",
+      "answer": "Generally yes, and many patients do both. Herbs that moisten the throat and resolve phlegm can support the work you do in speech therapy. If you are taking corticosteroids or other prescription medications, always inform both your TCM practitioner and your doctor. Some herbs, like licorice root (Gān Cǎo), can affect blood pressure or interact with diuretics, so full disclosure is essential."
+    },
+    {
+      "id": 6238,
+      "condition_id": 960,
+      "question": "What foods should I avoid when I lose my voice?",
+      "answer": "In TCM, cold, raw, and greasy foods are thought to create Dampness and Phlegm that can clog the throat, so it's best to avoid ice-cold drinks, dairy, fried foods, and rich desserts during voice loss. Spicy, hot foods can aggravate Wind-Heat patterns. Instead, favor warm, cooked meals, pears, honey, and ginger tea (for Cold patterns) or chrysanthemum tea (for Heat patterns)."
+    },
+    {
+      "id": 6239,
+      "condition_id": 960,
+      "question": "Why does my voice keep going out every time I get a cold?",
+      "answer": "This often points to an underlying Lung Qi Deficiency. When the Lungs are weak, they cannot resist external pathogens, and even a mild cold can obstruct the throat and cause voice loss. TCM treatment would focus on strengthening Lung Qi between colds with herbs like Huáng Qí (Astragalus) and acupuncture, so that your voice becomes more resilient."
+    },
+    {
+      "id": 6240,
+      "condition_id": 960,
+      "question": "Does TCM treatment for voice loss hurt?",
+      "answer": "Acupuncture uses very thin needles and is generally not painful; you may feel a slight pinch or a dull ache at certain points. Many people find it relaxing. Herbal treatment involves drinking decoctions or taking pills, which are not painful at all. Any discomfort is mild and temporary."
+    }
+  ],
+  "research": []
+}

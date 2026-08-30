@@ -1,0 +1,748 @@
+{
+  "id": 1161,
+  "name": "วัณโรคลำไส้",
+  "url": "/knowledge-base/conditions/intestinal-tuberculosis",
+  "kind": "Condition",
+  "pinyin": "cháng láo",
+  "chinese_name": "肠痨",
+  "preview_text": "วัณโรคในลำไส้ไม่ใช่โรคเดียวใน TCM แต่เป็นภาพรวมของรูปแบบตั้งแต่ความร้อนชื้นไปจนถึงการขาดสารอาหารลึก และเมื่อรักษารูปแบบที่ถูกต้อง ผู้ป่วยจำนวนมากจะมองเห็น...",
+  "categories": "[\"วัณโรค\", \"ปัญหาลำไส้และลำไส้\", \"โรคติดเชื้อ\"]",
+  "body_regions": "[\"Abdomen — Middle\"]",
+  "synonyms": "[\"Intestinal tuberculosis (chronic)\"]",
+  "conventional_description": "Intestinal tuberculosis is a form of extrapulmonary tuberculosis caused by Mycobacterium tuberculosis, typically spreading from a primary lung infection. It most often affects the ileocecal region, leading to abdominal pain, chronic diarrhea or constipation, weight loss, low-grade fever, and night sweats. Diagnosis relies on imaging, endoscopy with biopsy, and microbiological culture. Standard treatment requires a prolonged course of multiple antibiotics (usually 6-9 months) to fully eradicate the bacteria.",
+  "conventional_treatments": "The cornerstone of treatment is a multidrug anti-tuberculosis regimen, typically including isoniazid, rifampin, pyrazinamide, and ethambutol for an initial intensive phase, followed by a continuation phase. Surgery may be necessary for complications such as strictures, perforation, or fistula formation. Nutritional support is also critical due to malabsorption and weight loss.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, intestinal tuberculosis is seen not just as a bacterial invasion, but as a collapse of the body’s internal environment - primarily the Spleen and Stomach’s ability to transform and transport. When the Spleen is weak, dampness accumulates, creating a fertile ground for pathogens. Chronic dampness can transform into heat, causing inflammation and ulceration, which manifests as bloody, sticky diarrhea and a burning sensation.\nThe Liver often becomes involved when emotional stress disrupts the smooth flow of Qi. This stagnant Liver Qi attacks the weakened Spleen, leading to alternating diarrhea and constipation with cramping pain that worsens with tension. Over time, the chronic infection drains Qi and Blood, leaving the person profoundly fatigued and pale, or it can damage Yang, resulting in cold limbs and urgent early-morning diarrhea.\nLong-standing inflammation may also obstruct the flow of blood in the local channels, producing fixed, stabbing pain and dark blood clots in the stool. This means the same Western diagnosis can manifest as Damp-Heat, Spleen Deficiency, Liver-Spleen disharmony, Qi and Blood Deficiency, Yang Deficiency, or Blood Stagnation. TCM treatment therefore targets the specific pattern, not just the bacteria, aiming to restore the internal terrain so the body can heal fully.",
+  "classical_quote": "「肠痈者，由寒温不适，喜怒无度，使邪气与荣卫相干，在于肠内，遇热加之，血气蕴积，结聚成痈，热积不散，血肉腐坏，化而为脓。」",
+  "classical_translation": "\"Intestinal abscess arises when cold and heat are not properly regulated and emotions are excessive, causing pathogenic Qi to contend with the nutritive and defensive Qi inside the intestines. When heat is added, blood and Qi accumulate and bind into an abscess. If the heat does not disperse, the flesh and blood rot and transform into pus.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Origins and Symptoms of Diseases)  ,  Volume 17, Section on Intestinal Abscess (肠痈) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner first asks about the stool itself and the belly sensation. With Damp-Heat in the Large Intestine, the stool is sticky, often with mucus or fresh blood, and the person feels an urgent, burning sensation around the anus. The tongue is red with a thick, greasy yellow coat, and the pulse feels slippery and rapid - signs that heat and moisture are trapped in the bowel.\nWhen the picture is dominated by Spleen Deficiency with Dampness, the main complaint is chronic loose stools and a heavy, bloated feeling after eating. Fatigue and poor appetite are very noticeable because the Spleen struggles to transform food. The tongue is pale and puffy with a white, greasy coating, and the pulse is weak and slippery, reflecting a tired digestive system overwhelmed by dampness.\nIf emotional ups and downs clearly trigger the gut symptoms, the practitioner considers Rebellious Liver Qi invading the Spleen. Here the hallmark is alternating diarrhea and constipation, with cramping pain that moves or comes in waves. The tongue may look normal or slightly dusky, but the pulse is distinctly wiry - a tight, guitar-string quality that reveals the Liver’s tension attacking the Spleen.\nLong-standing illness can drain the body’s reserves into a Qi and Blood Deficiency state. Stools may be loose or contain tiny streaks of blood, but the person looks pale, feels deeply tired, and may get dizzy. The tongue is pale and thin, the pulse is fine and weak. These signs point not to active inflammation but to a profound lack of nourishment after months of chronic gut trouble.\nWhen the disease has worn down the body’s inner fire, Kidney and Spleen Yang Deficiency emerges. The classic clue is early-morning diarrhea - an urgent need to rush to the toilet right after waking - accompanied by cold hands and feet and a deep, slow pulse. The tongue is pale and swollen, often with a wet coating, signaling that the warming, transforming energy of the body is too weak to hold the stool.\nRarely, persistent blockages lead to Blood Stagnation. The pain becomes fixed, sharp, or stabbing rather than moving, and the stool may contain dark clots. The tongue looks purplish or has tiny dark spots, and the pulse feels rough or choppy. This pattern usually develops after months of unresolved Qi stagnation or deficiency, and it alerts the practitioner that the local circulation in the bowel wall is severely impaired.",
+  "patterns": [
+    {
+      "id": 5736,
+      "condition_id": 1161,
+      "pattern_name": "Damp-Heat in the Large Intestine",
+      "pattern_slug": "damp-heat-in-the-large-intestine",
+      "is_common": 0,
+      "symptoms": "[\"Abdominal pain and cramping\", \"Urgent straining with incomplete evacuation\", \"Mucus or blood in stools\", \"Burning sensation at the anus\", \"Foul-smelling yellow-brown stools\", \"Thick yellow greasy tongue coating\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol, Damp, hot weather, Emotional stress, Overeating",
+      "better_with": "Light, bland diet, Cooling foods like cucumber and mung beans, Adequate rest and sleep, Warm water",
+      "why_this_happens": "Dampness and Heat combine and settle in the Large Intestine, much like a stagnant, hot swamp forming inside the gut. The Heat inflames the intestinal lining, causing cramping, bleeding, and a burning sensation at the anus, while the Dampness creates sticky, foul-smelling stools and a constant feeling of incomplete evacuation. This toxic mixture erodes the mucosa, leading to the passage of mucus and blood, and generates the urgent, straining diarrhea that is the hallmark of this pattern in intestinal tuberculosis.",
+      "tongue_and_pulse": "Tongue: red body with a thick, yellow, greasy coating, thickest at the centre and root. Pulse: slippery (滑 huá) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "<p>Spicy, greasy, and fried foods, as well as alcohol, directly introduce more Heat and Dampness into the body, fueling the pathogenic fire in the intestines. Emotional stress disrupts the Liver's smooth flow of Qi, which can generate Heat and aggravate the gut.</p>\n<p>A light, bland diet and cooling foods help drain Dampness and clear Heat, taking the fuel away from the fire. Rest conserves Qi, allowing the body to focus its resources on clearing the pathogen rather than digesting heavy meals.</p>",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and deep-fried foods, as well as dairy, alcohol, and raw cold foods, which all worsen Damp-Heat. Focus on light, easily digested meals like rice congee, steamed vegetables, and well-cooked grains. Drink plenty of warm water and consider adding cooling, dampness-draining foods such as cucumber, mung beans, and barley.",
+      "formulas": [
+        {
+          "id": 12997,
+          "pattern_id": 5736,
+          "formula_name": "Bai Tou Weng Tang",
+          "formula_url": "/knowledge-base/formulas/bai-tou-weng-tang",
+          "translation": "Pulsatilla Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Stops Dysentery",
+          "description": "The classic formula for Damp-Heat in the Large Intestine, clearing Heat, drying Dampness, and stopping dysentery."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30150,
+          "pattern_id": 5736,
+          "herb_name": "Bai Tou Weng",
+          "herb_url": "/knowledge-base/herbs/bai-tou-weng",
+          "translation": "Chinese Anemone Root",
+          "properties": "",
+          "description": "Clears Heat and resolves toxicity, specifically targeting intestinal Damp-Heat and stopping diarrhea with blood."
+        },
+        {
+          "id": 30151,
+          "pattern_id": 5736,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains Dampness, clears Heat, and stops dysentery, calming the inflamed gut."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20522,
+          "pattern_id": 5736,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Front Mu point of the Large Intestine, regulates bowel function and resolves Damp-Heat stagnation."
+        },
+        {
+          "id": 20523,
+          "pattern_id": 5736,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "Lower He-Sea point of the Large Intestine, clears Heat and Dampness from the bowels."
+        },
+        {
+          "id": 20524,
+          "pattern_id": 5736,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools the Blood, helping to reduce intestinal inflammation."
+        }
+      ]
+    },
+    {
+      "id": 5737,
+      "condition_id": 1161,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Loose, unformed stools without burning or blood\", \"Abdominal bloating that worsens after eating\", \"Heaviness in the body and limbs\", \"Poor appetite and fatigue\", \"Pale, swollen tongue with teeth marks and a white greasy coating\"]",
+      "worse_with": "Cold, raw, or greasy foods, Overeating, Damp or humid environments, Prolonged sitting or inactivity, Worry and overthinking",
+      "better_with": "Warm, cooked, easily digestible meals, Gentle exercise like walking or stretching, Adequate rest and sleep, Warm compress on the abdomen",
+      "why_this_happens": "The Spleen is in charge of transforming food into Qi and managing moisture in the body. When it becomes weak, digestion falters and fluids are not processed properly, so dampness builds up. This dampness then settles in the intestines, making the stools chronically loose and causing bloating, heaviness, and fatigue.\nOver time, the persistent dampness creates a sluggish, boggy environment in the gut that allows the tuberculosis pathogen to linger, while the ongoing infection further drains the Spleen's energy.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks and a white, greasy coating; moist surface. Pulse: soggy (Ru) and slow (Huan), soft and lacking force.",
+      "why_triggers_reliefs_work": "Cold and raw foods damage the Spleen's Yang energy, increasing dampness, while greasy foods create more dampness directly. Overeating overwhelms the already weak Spleen. Damp environments add external dampness to the body, and inactivity allows Qi to stagnate, which traps dampness. Worry and overthinking are known in Chinese medicine to directly weaken the Spleen. Warm, easily digestible foods gently support Spleen Qi and dry dampness. Gentle movement promotes Qi circulation, helping to transform and move dampness. Rest conserves Qi, and warmth supports Spleen Yang, all of which help the gut heal.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and congee. Avoid raw, cold, and greasy foods that burden the Spleen. Small, frequent meals are easier to digest. Gentle daily movement, like walking, helps Qi flow and reduces dampness. Keep the abdomen warm.",
+      "formulas": [
+        {
+          "id": 12998,
+          "pattern_id": 5737,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "The classic formula to strengthen the Spleen, drain dampness, and stop diarrhea."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30152,
+          "pattern_id": 5737,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, the chief herb for Spleen deficiency with loose stools."
+        },
+        {
+          "id": 30153,
+          "pattern_id": 5737,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains dampness and supports Spleen function, helping to firm the stools."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20525,
+          "pattern_id": 5737,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Directly tonifies Spleen Qi and resolves dampness."
+        },
+        {
+          "id": 20526,
+          "pattern_id": 5737,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to improve digestion and energy."
+        },
+        {
+          "id": 20527,
+          "pattern_id": 5737,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen and drains dampness from the lower body."
+        }
+      ]
+    },
+    {
+      "id": 5738,
+      "condition_id": 1161,
+      "pattern_name": "Rebellious Liver Qi invading the Spleen",
+      "pattern_slug": "rebellious-liver-qi-invading-the-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Abdominal pain that precedes diarrhea and eases after bowel movement\", \"Alternating loose stools and constipation\", \"Distension and fullness along the ribs\", \"Irritability, moodiness, and frequent sighing\", \"Symptoms triggered or worsened by emotional stress\"]",
+      "worse_with": "Stress, anger, or frustration, Irregular eating habits, Cold, raw, or greasy foods, Overwork and insufficient rest",
+      "better_with": "Emotional calm and relaxation, Warm, cooked, easily digestible meals, Gentle exercise like walking or stretching, Consistent meal times",
+      "why_this_happens": "Emotional stress, frustration, or long-standing worry cause Liver Qi to stagnate and then surge upward, much like a tree branch snapping back. This rebellious Qi attacks the Spleen, which is responsible for transforming food into energy and keeping bowel movements regular. When the Spleen is under attack, it cannot do its job, leading to loose stools, bloating, and abdominal pain that often strikes just before a bowel movement. In intestinal tuberculosis, this dynamic creates a cycle where stress triggers painful, urgent diarrhea, while the chronic illness itself drains the Spleen further, making it even more vulnerable to Liver attacks.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, possible teeth marks, thin white coating that may be slightly greasy. Pulse: wiry overall, left guan position distinctly wiry, right guan softer.",
+      "why_triggers_reliefs_work": "Stress and anger directly cause Liver Qi to rise and attack the Spleen, which is the core mechanism of this pattern. Calmness and relaxation allow Liver Qi to flow smoothly, preventing the attack. Warm, cooked foods support Spleen Yang and are easier to transform, while cold or raw foods further weaken the Spleen and generate dampness, making diarrhea worse. Regular meal times and gentle exercise help harmonize the Liver and Spleen, keeping Qi moving in the right direction.",
+      "diet_and_lifestyle": "Prioritize emotional calm through meditation, gentle yoga, or walking in nature. Eat warm, cooked meals at regular times, favoring easily digestible foods like congee, stewed vegetables, and lean proteins. Avoid cold, raw, and greasy foods that burden the Spleen, and limit alcohol and caffeine, which can stir up Liver Qi. Incorporate mildly pungent foods like fennel, coriander, or peppermint tea to help move stagnant Qi.",
+      "formulas": [
+        {
+          "id": 12999,
+          "pattern_id": 5738,
+          "formula_name": "Tong Xie Yao Fang",
+          "formula_url": "/knowledge-base/formulas/tong-xie-yao-fang",
+          "translation": "Important Formula for Painful Diarrhea &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Strengthens the Spleen, Nourishes Blood and Softens the Liver, Drains Dampness",
+          "description": "The classic formula for Liver invading Spleen, it soothes the Liver, strengthens the Spleen, and stops diarrhea."
+        },
+        {
+          "id": 13000,
+          "pattern_id": 5738,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "Used when Liver Qi stagnation is more pronounced, with significant rib-side pain and emotional depression."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30154,
+          "pattern_id": 5738,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver, alleviates spasmodic pain, and harmonizes with the Spleen."
+        },
+        {
+          "id": 30155,
+          "pattern_id": 5738,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies the Spleen, dries dampness, and helps firm up loose stools."
+        },
+        {
+          "id": 30156,
+          "pattern_id": 5738,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi in the middle burner, reducing bloating and supporting digestion."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20528,
+          "pattern_id": 5738,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The primary point to smooth Liver Qi and subdue rebellious energy."
+        },
+        {
+          "id": 20529,
+          "pattern_id": 5738,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, builds Qi, and improves digestive function."
+        },
+        {
+          "id": 20530,
+          "pattern_id": 5738,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Calms the mind, regulates Liver Qi, and eases stress-related symptoms."
+        },
+        {
+          "id": 20531,
+          "pattern_id": 5738,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "The Back-Shu point of the Liver, directly soothes Liver Qi stagnation."
+        }
+      ]
+    },
+    {
+      "id": 5739,
+      "condition_id": 1161,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Pale or sallow complexion, pale lips and nail beds\", \"Persistent fatigue and weakness, worse with exertion\", \"Dizziness and heart palpitations\", \"Poor appetite and loose stools, sometimes with blood\", \"Spontaneous sweating during the day\"]",
+      "worse_with": "Overwork and insufficient rest, Cold, raw, or greasy foods, Emotional stress, Irregular eating habits",
+      "better_with": "Adequate rest and sleep, Warm, cooked, easily digestible meals, Gentle exercise like walking or stretching, Keeping the abdomen warm",
+      "why_this_happens": "Intestinal tuberculosis is a chronic infection that slowly erodes the body's resources. Prolonged diarrhea and blood-streaked stools drain both Qi and Blood. As the Spleen weakens, it fails to produce fresh Blood, leading to a vicious cycle of worsening fatigue, pallor, and poor tissue repair. The intestines become undernourished, making it difficult to heal and recover.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks on edges, with a thin white coating. Pulse: fine (thready) and weak, especially in the right Guan position.",
+      "why_triggers_reliefs_work": "Qi and Blood are produced by the Spleen from food and rest. Warm, easily digested meals provide the raw material, while rest conserves energy for rebuilding. Overwork, stress, and irregular eating directly drain Spleen Qi and Blood, worsening the deficiency cycle. Cold and raw foods further injure the Spleen's digestive fire, making it even harder to recover.",
+      "diet_and_lifestyle": "Focus on warm, easily digestible, nutrient-dense foods like congee, bone broths, and well-cooked vegetables. Avoid raw, cold, or greasy foods that tax the Spleen. Gentle daily movement such as walking or tai chi helps Qi flow without depleting reserves. Prioritize rest and avoid overwork; even mental stress can consume Qi and Blood.",
+      "formulas": [
+        {
+          "id": 13001,
+          "pattern_id": 5739,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, strengthening the Spleen to stop chronic diarrhea and rebuild vitality."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30157,
+          "pattern_id": 5739,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, helping to heal intestinal tissues."
+        },
+        {
+          "id": 30158,
+          "pattern_id": 5739,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi and raises the Spleen&#x27;s ability to transform food into energy, stopping fatigue and spontaneous sweating."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20532,
+          "pattern_id": 5739,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. Strengthens the Spleen and Stomach to generate Qi and Blood."
+        },
+        {
+          "id": 20533,
+          "pattern_id": 5739,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Nourishes Blood and harmonizes the Spleen, especially beneficial for chronic diarrhea."
+        },
+        {
+          "id": 20534,
+          "pattern_id": 5739,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonify with moxibustion. Directly reinforces Spleen Qi to stop loose stools."
+        }
+      ]
+    },
+    {
+      "id": 5740,
+      "condition_id": 1161,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "pattern_slug": "kidney-and-spleen-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Early-morning diarrhea (around 5 AM)\", \"Undigested food in stools\", \"Cold hands and feet, aversion to cold\", \"Sore and cold lower back and knees\", \"Pale, swollen tongue with teeth marks\"]",
+      "worse_with": "Cold raw foods and iced drinks, Cold damp weather, Overwork and insufficient rest, Emotional stress",
+      "better_with": "Warm, cooked, easily digestible meals, Warm compress on the abdomen, Adequate rest and sleep, Moxibustion on lower back",
+      "why_this_happens": "When Kidney and Spleen Yang are both weakened, the body’s internal fire is too low to warm the digestive system or hold fluids properly. The Spleen cannot transform food, so it passes through undigested and loose, while the Kidney’s failure to secure the lower gate leads to urgent, early-morning diarrhea. This deep cold leaves the abdomen aching, the limbs chilled, and the whole system drained of energy.",
+      "tongue_and_pulse": "Tongue: pale, swollen and puffy with teeth marks, white slippery coating. Pulse: deep, weak and slow; both Chi positions especially feeble, right Guan soft and weak.",
+      "why_triggers_reliefs_work": "Kidney and Spleen Yang are like the body’s pilot light - when they are low, every cold or draining influence snuffs them out further. Cold foods and damp environments directly chill the digestive fire, while overwork and stress consume the little Yang that remains. Conversely, warmth, rest, and moxibustion gently feed that fire, allowing the Spleen to transform food and the Kidney to hold the gates, so diarrhea and coldness gradually ease.",
+      "diet_and_lifestyle": "Eat only warm, cooked, easily digestible foods - think soups, congees, and stews - and avoid all raw, cold, or iced items. Keep your abdomen and lower back warm with a belly band or hot water bottle. Gentle daily walking helps move Qi without draining energy, while moxibustion at home on the lower back can be deeply restorative.",
+      "formulas": [
+        {
+          "id": 13002,
+          "pattern_id": 5740,
+          "formula_name": "Si Shen Wan",
+          "formula_url": "/knowledge-base/formulas/si-shen-wan",
+          "translation": "Four Miracle Pill &#xB7; Ming dynasty (&#x660E;&#x4EE3;), mid-16th century",
+          "properties": "Warm, Warms the Kidneys, Warms and strengthens the Spleen, Binds the intestines and stops diarrhea",
+          "description": "The classic formula to warm Kidney and Spleen Yang and astringe the intestines, stopping early-morning diarrhea."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30159,
+          "pattern_id": 5740,
+          "herb_name": "Bu Gu Zhi",
+          "herb_url": "/knowledge-base/herbs/bu-gu-zhi",
+          "translation": "Psoralea fruit",
+          "properties": "",
+          "description": "Warms Kidney Yang and astringes the intestines to halt chronic diarrhea."
+        },
+        {
+          "id": 30160,
+          "pattern_id": 5740,
+          "herb_name": "Wu Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/wu-zhu-yu",
+          "translation": "Evodia fruit",
+          "properties": "",
+          "description": "Disperses deep cold from the Spleen and Kidney, easing abdominal pain and diarrhea."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20535,
+          "pattern_id": 5740,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yang; often used with moxibustion to strengthen the lower back and warm the body."
+        },
+        {
+          "id": 20536,
+          "pattern_id": 5740,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "The gate of life - moxa here powerfully warms the entire body and restores Yang."
+        },
+        {
+          "id": 20537,
+          "pattern_id": 5740,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Fortifies the Spleen and Stomach to improve appetite and transform food."
+        }
+      ]
+    },
+    {
+      "id": 5741,
+      "condition_id": 1161,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing abdominal pain that does not move\", \"Pain worsens at night and with pressure\", \"Dark blood clots in the stool\", \"Dark or purplish tongue with stasis spots\", \"Palpable tender masses in the lower abdomen\"]",
+      "worse_with": "Cold or raw foods and drinks, Emotional stress, Prolonged sitting or inactivity, Cold, damp environments",
+      "better_with": "Warm compress on the abdomen, Gentle exercise like walking or stretching, Warm, cooked, easily digestible meals, Rest and stress reduction",
+      "why_this_happens": "After months or years of intestinal tuberculosis, chronic inflammation and Qi stagnation gradually obstruct the flow of blood in the local collaterals. This creates a fixed, stabbing pain in the abdomen that does not move, as the stagnant blood forms tiny clots and blocks the vessels. The same stasis damages the intestinal lining, leading to dark, clotted blood in the stool and sometimes palpable tender masses.",
+      "tongue_and_pulse": "Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩 Sè) or wiry (弦 Xián).",
+      "why_triggers_reliefs_work": "<p>Cold constricts and congeals, which directly thickens Blood and worsens stasis, so warmth and gentle movement are natural antidotes. Stress knots the Liver Qi, and since Qi moves Blood, any emotional tension deepens the blockage, making rest and emotional calm essential. Movement and warm foods encourage the smooth flow of Qi and Blood, helping to gradually dissolve the long‑standing stasis in the intestinal vessels.</p>",
+      "diet_and_lifestyle": "Keep the abdomen warm and avoid cold or raw foods, which can congeal Blood and worsen stasis. Gentle daily movement like walking helps keep Qi and Blood flowing. Eat warm, cooked, easily digested meals with a little spice like ginger or turmeric to support circulation. Manage stress, as emotional tension can tighten the Liver Qi and deepen the stasis.",
+      "formulas": [
+        {
+          "id": 13003,
+          "pattern_id": 5741,
+          "formula_name": "Shao Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shao-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis from the Lower Abdomen Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Warms the Channels and Disperses Cold, Moves Qi and Alleviates Pain",
+          "description": "The primary formula to invigorate Blood, dispel stasis, warm the lower burner, and relieve fixed abdominal pain and blood clots."
+        },
+        {
+          "id": 13004,
+          "pattern_id": 5741,
+          "formula_name": "Bai Tou Weng Tang",
+          "formula_url": "/knowledge-base/formulas/bai-tou-weng-tang",
+          "translation": "Pulsatilla Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Stops Dysentery",
+          "description": "A classical formula from the Shang Han Lun used to treat severe intestinal infections with bloody diarrhea, abdominal pain, and an urgent need to use the toilet. It works by clearing intense Heat and toxins from the intestines and cooling the Blood to stop the bleeding. It is most commonly applied to acute dysentery and active flares of inflammatory bowel conditions when Heat is the dominant factor."
+        },
+        {
+          "id": 13005,
+          "pattern_id": 5741,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 13006,
+          "pattern_id": 5741,
+          "formula_name": "Tong Xie Yao Fang",
+          "formula_url": "/knowledge-base/formulas/tong-xie-yao-fang",
+          "translation": "Important Formula for Painful Diarrhea &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Strengthens the Spleen, Nourishes Blood and Softens the Liver, Drains Dampness",
+          "description": "A classical four-herb formula used to relieve abdominal pain accompanied by diarrhea, especially when symptoms are triggered or worsened by stress and emotional upset. It works by strengthening the digestive system (Spleen) while calming the Liver, which in TCM theory is responsible for the cramping pain that precedes each episode of diarrhea."
+        },
+        {
+          "id": 13007,
+          "pattern_id": 5741,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints."
+        },
+        {
+          "id": 13008,
+          "pattern_id": 5741,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 13009,
+          "pattern_id": 5741,
+          "formula_name": "Si Shen Wan",
+          "formula_url": "/knowledge-base/formulas/si-shen-wan",
+          "translation": "Four Miracle Pill &#xB7; Ming dynasty (&#x660E;&#x4EE3;), mid-16th century",
+          "properties": "Warm, Warms the Kidneys, Warms and strengthens the Spleen, Binds the intestines and stops diarrhea",
+          "description": "A classical warming formula used for chronic early-morning diarrhea caused by weakness and coldness in the Kidneys and Spleen. It warms the Kidney fire to support digestion and firms up the intestines to stop diarrhea, making it especially suited for people who wake before dawn with urgent loose stools, poor appetite, cold limbs, and fatigue."
+        },
+        {
+          "id": 13010,
+          "pattern_id": 5741,
+          "formula_name": "Shao Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shao-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis from the Lower Abdomen Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Warms the Channels and Disperses Cold, Moves Qi and Alleviates Pain",
+          "description": "A classical formula designed to warm the lower abdomen, improve Blood circulation, and relieve pain. It is particularly well suited for women experiencing menstrual cramps, irregular periods, or fertility difficulties linked to Cold and Blood stasis in the pelvic area. The formula combines warming herbs with Blood-moving herbs to address both the underlying Cold and the resulting stagnation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30161,
+          "pattern_id": 5741,
+          "herb_name": "Yan Hu Suo",
+          "herb_url": "/knowledge-base/herbs/yan-hu-suo",
+          "translation": "Corydalis rhizome",
+          "properties": "",
+          "description": "Strongly moves Blood and Qi to stop stabbing pain."
+        },
+        {
+          "id": 30162,
+          "pattern_id": 5741,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates Blood, helping to dissolve stasis without causing dryness."
+        },
+        {
+          "id": 30163,
+          "pattern_id": 5741,
+          "herb_name": "Pu Huang",
+          "herb_url": "/knowledge-base/herbs/pu-huang",
+          "translation": "Cattail pollen",
+          "properties": "",
+          "description": "Stops bleeding while simultaneously moving Blood, ideal for blood-streaked or clotted stools."
+        },
+        {
+          "id": 30164,
+          "pattern_id": 5741,
+          "herb_name": "Bai Tou Weng",
+          "herb_url": "/knowledge-base/herbs/bai-tou-weng",
+          "translation": "Chinese Anemone Root",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood and Stops Dysentery, Dries Dampness and kills parasites",
+          "description": ""
+        },
+        {
+          "id": 30165,
+          "pattern_id": 5741,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 30166,
+          "pattern_id": 5741,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 30167,
+          "pattern_id": 5741,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 30168,
+          "pattern_id": 5741,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 30169,
+          "pattern_id": 5741,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 30170,
+          "pattern_id": 5741,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 30171,
+          "pattern_id": 5741,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 30172,
+          "pattern_id": 5741,
+          "herb_name": "Bu Gu Zhi",
+          "herb_url": "/knowledge-base/herbs/bu-gu-zhi",
+          "translation": "Psoralea fruit",
+          "properties": "Warm, Tonifies Kidney Yang, Secures Essence and Stops Enuresis, Warms the Middle Burner and Stops Diarrhea",
+          "description": ""
+        },
+        {
+          "id": 30173,
+          "pattern_id": 5741,
+          "herb_name": "Wu Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/wu-zhu-yu",
+          "translation": "Evodia fruit",
+          "properties": "Hot, Dispels Cold and Alleviates Pain, Directs Rebellious Qi Downward and Stops Vomiting, Assists Yang and stops diarrhea",
+          "description": ""
+        },
+        {
+          "id": 30174,
+          "pattern_id": 5741,
+          "herb_name": "Yan Hu Suo",
+          "herb_url": "/knowledge-base/herbs/yan-hu-suo",
+          "translation": "Corydalis rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi, Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 30175,
+          "pattern_id": 5741,
+          "herb_name": "Pu Huang",
+          "herb_url": "/knowledge-base/herbs/pu-huang",
+          "translation": "Cattail pollen",
+          "properties": "Neutral, Stops Bleeding, Invigorates Blood and Dispels Stasis, Promotes Urination and Relieves Stranguria",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20538,
+          "pattern_id": 5741,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The Meeting point of Blood; invigorates Blood and dispels stasis throughout the body."
+        },
+        {
+          "id": 20539,
+          "pattern_id": 5741,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Sea of Blood; specifically moves Blood in the lower abdomen and relieves stasis pain."
+        },
+        {
+          "id": 20540,
+          "pattern_id": 5741,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes Blood and alleviates abdominal pain by connecting the Spleen, Liver, and Kidney channels."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7543,
+      "condition_id": 1161,
+      "question": "Can Chinese medicine cure intestinal tuberculosis?",
+      "answer": "No. Antibiotics are essential to kill the tuberculosis bacteria and must be taken exactly as prescribed. TCM works alongside conventional treatment to strengthen the body's resistance, reduce drug side effects, and restore healthy digestion. It does not replace anti-TB medication."
+    },
+    {
+      "id": 7544,
+      "condition_id": 1161,
+      "question": "Is it safe to take Chinese herbs with my TB medications?",
+      "answer": "In general, yes, but you must inform both your TCM practitioner and your doctor about all medications and herbs you are taking. Some herbs may affect liver function, so your liver enzymes should be monitored regularly, especially during the intensive phase of treatment. Never stop or alter your antibiotic regimen without medical advice."
+    },
+    {
+      "id": 7545,
+      "condition_id": 1161,
+      "question": "How does acupuncture help with intestinal tuberculosis?",
+      "answer": "Acupuncture can help regulate bowel movements, relieve abdominal pain and bloating, and improve appetite by stimulating specific points on the abdomen and legs. It also has a calming effect on the nervous system, which can be especially helpful if stress worsens your symptoms. Many patients feel more relaxed and experience less cramping after just a few sessions."
+    },
+    {
+      "id": 7546,
+      "condition_id": 1161,
+      "question": "Will I need to change my diet?",
+      "answer": "Yes, dietary adjustments are a key part of recovery. A TCM practitioner will recommend foods that are easy to digest and avoid those that create dampness, such as cold, raw, greasy, and dairy-heavy foods. This supports the Spleen and helps the herbs work more effectively. Simple changes often lead to noticeable improvements in bloating and stool consistency."
+    },
+    {
+      "id": 7547,
+      "condition_id": 1161,
+      "question": "How long until I see results?",
+      "answer": "Most people notice improvements in energy and stool consistency within 2-4 weeks. However, full rebuilding of digestive strength can take several months, especially if you are very weak or have had the condition for a long time. Consistency with herbs and acupuncture is key to lasting progress."
+    },
+    {
+      "id": 7548,
+      "condition_id": 1161,
+      "question": "Can children or pregnant women use TCM for this condition?",
+      "answer": "Yes, but with caution. Herbal formulas must be carefully adjusted by a qualified practitioner to be safe during pregnancy or for children. Acupuncture is generally safe when performed by an experienced practitioner. Always consult your doctor first to ensure the treatment plan is appropriate for your situation."
+    }
+  ],
+  "research": [
+    {
+      "id": 1727,
+      "condition_id": 1161,
+      "title": "Efficacy and safety of Shenling Baizhu San combined with anti-tuberculosis therapy for intestinal tuberculosis: a randomized controlled trial",
+      "description": "This Chinese RCT enrolled 68 patients with intestinal tuberculosis and compared standard anti-TB drugs alone versus the same drugs plus Shenling Baizhu San. After 8 weeks, the combination group showed significantly faster improvement in diarrhea, abdominal distension, and appetite, with fewer gastrointestinal adverse events. The study suggests that Spleen-fortifying herbal therapy can enhance tolerance to anti-TB medication.",
+      "url": "",
+      "periodical": "Wang L, Zhang H, Li X, et al. Chinese Journal of Integrated Traditional and Western Medicine on Digestion, 2019."
+    },
+    {
+      "id": 1728,
+      "condition_id": 1161,
+      "title": "Adjunctive Chinese herbal medicine for tuberculosis: a systematic review and meta-analysis",
+      "description": "This meta-analysis included 17 RCTs with over 2,000 tuberculosis patients, some of whom had intestinal involvement. Herbal formulas used alongside standard therapy improved sputum conversion rates, reduced liver toxicity from anti-TB drugs, and alleviated gastrointestinal symptoms. The review highlights the potential of Spleen-strengthening and Dampness-transforming formulas, though it notes significant heterogeneity and risk of bias across studies.",
+      "url": "",
+      "periodical": "Chen Y, Liu J, Zhang M. Evidence-Based Complementary and Alternative Medicine, 2018."
+    }
+  ]
+}

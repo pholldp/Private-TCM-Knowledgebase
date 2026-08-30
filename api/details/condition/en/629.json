@@ -1,0 +1,764 @@
+{
+  "id": 629,
+  "name": "Silicosis",
+  "url": "/knowledge-base/conditions/silicosis",
+  "kind": "Condition",
+  "pinyin": "xī fèi",
+  "chinese_name": "矽肺",
+  "preview_text": "In TCM, the type of phlegm you cough up - white and sticky versus yellow and thick - reveals whether the core problem is Dampness or Heat, guiding entirely different herbal strateg...",
+  "categories": "[\"Lung & Breathing Conditions\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Pneumonoconiosis\", \"Silica Dust Lung Disease\"]",
+  "conventional_description": "Silicosis is a progressive occupational lung disease caused by inhaling tiny particles of crystalline silica dust, typically from mining, construction, or manufacturing. Over years or decades, these particles lodge deep in the lungs, triggering inflammation and irreversible scarring (fibrosis) that stiffens the lung tissue. Common symptoms include chronic dry cough, shortness of breath with exertion, fatigue, and increased susceptibility to respiratory infections. Diagnosis is based on a history of silica exposure, chest X-ray or CT scan showing characteristic nodules or masses, and pulmonary function tests.",
+  "conventional_treatments": "There is no cure for silicosis, and the lung scarring cannot be reversed. Management focuses on preventing further exposure, symptom relief, and slowing progression. This includes bronchodilators for wheezing, oxygen therapy for low blood oxygen levels, vaccinations to prevent respiratory infections, and prompt antibiotic treatment for infections. In advanced cases, lung transplantation may be considered. Pulmonary rehabilitation programs help maintain exercise capacity and quality of life.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In Chinese medicine, silicosis begins with an invasion of external pathogens - the tiny silica dust particles inhaled over years act as a toxic, sticky substance that the Lungs cannot clear. This dust lodges deep in the Lung tissue, obstructing the normal flow of Qi and body fluids. The Lungs, which govern the descending and dispersing of Qi, become congested, and the trapped fluids congeal into Dampness and then thick Phlegm. This is why the earliest and most common TCM pattern is Damp-Phlegm in the Lungs, marked by copious white, sticky sputum and a heavy sensation in the chest.\nWhen the stagnant Phlegm sits too long or when an external infection strikes, it can transform into Heat, creating the Phlegm-Heat pattern. The sputum turns yellow or green, the chest feels tight and hot, and fever may appear. This is the TCM understanding of an acute flare or superimposed infection in a silicosis patient. The tongue becomes red with a greasy yellow coat, and the pulse turns rapid and slippery. Treating this pattern requires clearing Heat while still transforming Phlegm - a different strategy than the drying approach used for cold Damp-Phlegm.\nAs the disease wears on, the constant burden of fighting the dust pathogen depletes the body's core energy. The Lungs weaken, and because the Spleen is the source of Qi, it too becomes exhausted, leading to Spleen and Lung Qi Deficiency. The cough becomes weak, fatigue is profound, and the patient catches every cold. In the later fibrotic stages, years of Qi stagnation cause Blood Stagnation - the dark, fixed pain and purplish tongue that reflect scarred, poorly circulated tissue. Eventually, the Kidneys and even the Heart can become involved, as the Kidneys fail to grasp the Lung Qi downward, causing severe breathlessness and palpitations.\nThis progression explains why silicosis is not one pattern but a sequence of overlapping patterns that can shift over time. A patient may have Damp-Phlegm as a baseline, flare into Phlegm-Heat during an infection, and simultaneously suffer from underlying Qi deficiency. TCM diagnosis carefully reads the sputum, the tongue, and the pulse to determine which pattern is dominant at any given moment, allowing treatment to be precisely targeted.",
+  "classical_quote": "「肺痿之病，从何得之？师曰：或从汗出，或从呕吐，或从消渴，小便利数，或从便难，又被快药下利，重亡津液，故得之。」",
+  "classical_translation": "\"How does the disease of lung atrophy arise? The master says: It may follow profuse sweating, repeated vomiting, wasting-thirst with frequent urination, or difficult defecation treated with harsh purgatives - all cause severe loss of fluids, and thus it arises.\"",
+  "classical_source": "Jin Gui Yao Lue (Essentials from the Golden Cabinet)  ,  Chapter 7: On Lung Atrophy, Lung Abscess, Cough, and Upper-Breath Disease \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner first asks about the sputum. If it is white, sticky, and copious, with a sensation of fullness in the chest, the picture points toward Damp-Phlegm in the Lungs. This is the most common early pattern in silicosis, where the inhaled dust has congealed into dampness. The tongue coating is thick and greasy, and the pulse feels slippery, like beads rolling under the finger.\nWhen an acute flare or infection occurs, the picture shifts sharply. Sputum turns yellow and sticky, and the person may feel feverish with a tight, oppressive sensation in the chest. This is Phlegm-Heat in the Lungs. The tongue becomes red with a yellow greasy coat, and the pulse turns rapid and slippery. The practitioner looks for this pattern to decide whether to focus on clearing heat rather than just drying dampness.\nAs the disease wears on, the body’s energy runs low. The cough becomes weak and the sputum thin. Breathlessness and fatigue dominate, and the person catches colds easily. This is Spleen and Lung Qi Deficiency. The tongue looks pale and the pulse is weak and thready. The practitioner checks for this pattern to gauge how much the body’s core strength has been depleted, which changes the treatment from clearing phlegm to building Qi.\nLater, the lungs become stiff and scarred, and a fixed, stabbing chest pain emerges. The sputum may be hard to cough out and tinged with blood. This points to Blood Stagnation. The tongue appears purplish with stasis spots, and the pulse is choppy. The practitioner identifies this pattern to add herbs that move blood and soften the hardened tissue, rather than only addressing phlegm.\nIn advanced silicosis, the whole system weakens. Palpitations, insomnia, severe fatigue, and lower back soreness signal that the heart and kidneys are involved. This is Kidney and Heart Qi Deficiency. The tongue is pale with a thin coat, and the pulse is deep and weak. The practitioner looks for this pattern to support the deepest reserves of the body, as the condition has moved beyond the lungs.",
+  "patterns": [
+    {
+      "id": 3065,
+      "condition_id": 629,
+      "pattern_name": "Damp-Phlegm in the Lungs",
+      "pattern_slug": "damp-phlegm-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Copious white sticky phlegm that is easy to expectorate\", \"Chest heaviness and tightness\", \"Poor appetite and bloating after eating\", \"Heavy, tired feeling in the whole body\"]",
+      "worse_with": "Cold or damp weather, Greasy, fried, or dairy foods, Sedentary lifestyle, Overeating or heavy meals, Exposure to dust or smoke, Excessive worry",
+      "better_with": "Warmth, Gentle exercise, Dry, airy rooms, Warm, light meals, Rest",
+      "why_this_happens": "Inhaled silica dust acts as a heavy, sticky external pathogen that settles in the Lungs and obstructs the flow of Qi. The Lungs lose their ability to descend and disperse fluids, so body fluids congeal into Dampness and then thick Phlegm. The Spleen, overwhelmed by the burden of processing this sticky Phlegm, also weakens, creating a cycle that fills the chest with copious white sputum and a heavy, congested sensation.",
+      "tongue_and_pulse": "Tongue: Pale, swollen body with teeth marks and a thick white greasy coating. Pulse: Slippery (hua, 滑), like beads rolling beneath the fingers.",
+      "why_triggers_reliefs_work": "Damp-Phlegm is a cold, heavy, and sticky pathogen that obstructs the Lungs. Cold and damp environments add external Dampness, worsening the condition. Greasy and dairy foods create internal Dampness and burden the Spleen, leading to more Phlegm. Sedentary habits allow Qi to stagnate, while gentle movement helps Qi flow and transforms Dampness. Warmth and dry air help disperse the cold, sticky Phlegm, while light, warm foods support Spleen function and reduce phlegm production.",
+      "diet_and_lifestyle": "Avoid cold, raw, and greasy foods, as well as dairy, which all promote Dampness and Phlegm. Eat warm, cooked meals like congee, soups, and lightly steamed vegetables. Ginger tea can help warm the Lungs and transform Phlegm. Gentle daily movement such as walking or tai chi helps Qi flow and prevents stagnation, but avoid overexertion.",
+      "formulas": [
+        {
+          "id": 6967,
+          "pattern_id": 3065,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "The foundational formula to dry Dampness and transform Phlegm in the Lungs, often modified with herbs to strengthen the Spleen and descend Lung Qi."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16346,
+          "pattern_id": 3065,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, stops coughing."
+        },
+        {
+          "id": 16347,
+          "pattern_id": 3065,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries Dampness, helping to break up Phlegm."
+        },
+        {
+          "id": 16348,
+          "pattern_id": 3065,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Strengthens Spleen and leaches out Dampness to reduce phlegm production."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11052,
+          "pattern_id": 3065,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and resolves Phlegm."
+        },
+        {
+          "id": 11053,
+          "pattern_id": 3065,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform Phlegm and Dampness."
+        },
+        {
+          "id": 11054,
+          "pattern_id": 3065,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen to support transformation of Dampness."
+        },
+        {
+          "id": 11055,
+          "pattern_id": 3065,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Opens the chest and promotes descending of Lung Qi."
+        }
+      ]
+    },
+    {
+      "id": 3066,
+      "condition_id": 629,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "pattern_slug": "phlegm-heat-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Cough with thick yellow or green sticky sputum\", \"Chest oppression and fullness\", \"Fever or sensation of body heat\", \"Restlessness and irritability\", \"Thirst with desire to drink\"]",
+      "worse_with": "Spicy or greasy foods, Hot humid weather, Exposure to dust or smoke, Emotional stress, Overexertion",
+      "better_with": "Cool fresh air, Eating pears and radish, Drinking plenty of water, Rest, Avoiding dust and smoke",
+      "why_this_happens": "Inhaled silica dust settles deep in the Lungs, damaging their ability to spread and descend Qi and fluids. This trapped fluid thickens into Phlegm. When the Phlegm stagnates for too long, it generates Heat, or an external infection combines with the internal Phlegm to create Phlegm-Heat. The Heat and sticky Phlegm block the airways, producing the hallmark yellow phlegm, chest oppression, and fever seen during acute flare-ups of silicosis.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen at the front, with a yellow greasy coating and red prickles on the front third. Pulse: slippery (hua) and rapid (shu), strongest at the right cun position.",
+      "why_triggers_reliefs_work": "Phlegm-Heat thrives on anything that adds Heat or thickens Phlegm. Spicy and greasy foods, hot environments, and smoking all fuel Heat and Phlegm formation. Emotional stress, especially anger, stirs up Fire, which can combine with Phlegm. Cooling foods and rest help clear Heat, while pears and radish specifically thin and expel Phlegm. Avoiding dust and smoke removes the very irritants that triggered the condition, giving the Lungs a chance to recover.",
+      "diet_and_lifestyle": "Avoid greasy, spicy, and heating foods that generate Phlegm and Heat. Eat cooling, phlegm-resolving foods like pear, radish, and water chestnut. Stay well hydrated. Minimize exposure to dust, smoke, and hot, humid environments. Gentle breathing exercises can help keep the airways open.",
+      "formulas": [
+        {
+          "id": 6968,
+          "pattern_id": 3066,
+          "formula_name": "Qing Qi Hua Tan Wan",
+          "formula_url": "/knowledge-base/formulas/qing-qi-hua-tan-wan",
+          "translation": "Clear Qi and Transform Phlegm Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Regulates Qi and stops cough, Descends Lung Qi and Calms Wheezing",
+          "description": "Clears Lung Heat and transforms Phlegm to relieve cough, chest oppression, and difficulty breathing."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16349,
+          "pattern_id": 3066,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Lung Heat and dries Dampness, targeting the root of the yellow sputum."
+        },
+        {
+          "id": 16350,
+          "pattern_id": 3066,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Transforms hot Phlegm and relieves chest oppression."
+        },
+        {
+          "id": 16351,
+          "pattern_id": 3066,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "",
+          "description": "Stops cough and directs Lung Qi downward to ease breathing."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11056,
+          "pattern_id": 3066,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Back-Shu point of the Lung; used with reducing method to clear Lung Heat and open the chest."
+        },
+        {
+          "id": 11057,
+          "pattern_id": 3066,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "He-Sea point of the Lung; reduces Heat and stops coughing."
+        },
+        {
+          "id": 11058,
+          "pattern_id": 3066,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Luo point of the Stomach; the key point to transform Phlegm throughout the body."
+        },
+        {
+          "id": 11059,
+          "pattern_id": 3066,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Meeting point of all Yang channels; clears Heat and calms the spirit."
+        }
+      ]
+    },
+    {
+      "id": 3067,
+      "condition_id": 629,
+      "pattern_name": "Spleen and Lung Qi Deficiency",
+      "pattern_slug": "spleen-and-lung-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Weak cough with thin, watery, or white phlegm (not sticky)\", \"Shortness of breath worse with exertion\", \"Profound fatigue and general weakness\", \"Poor appetite with abdominal bloating after eating\", \"Weak, low voice and reluctance to speak\", \"Pale, puffy face without lustre\"]",
+      "worse_with": "Overexertion, Cold or raw foods, Cold or damp weather, Excessive worry, Catching a cold or flu",
+      "better_with": "Rest, Warmth, Warm, light meals, Gentle exercise, Deep breathing exercises",
+      "why_this_happens": "In silicosis, inhaled silica dust first damages the Lungs, weakening their ability to descend Qi and causing a chronic, weak cough. Over time, the Lungs draw heavily on the Spleen - the source of Qi - which becomes depleted, leading to poor appetite, bloating, and loose stools. The combined deficiency results in profound fatigue, a soft voice, and breathlessness that worsens with even mild exertion, reflecting the progressive decline in both respiratory and digestive energy.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks and a thin white coating. Pulse: overall weak and forceless, especially in the right cun (Lung) and right guan (Spleen) positions, which feel empty.",
+      "why_triggers_reliefs_work": "This pattern is rooted in a deep deficit of Qi. Overwork and physical exhaustion drain the already scarce Qi, while raw, cold foods extinguish the Spleen's digestive fire, leading to more phlegm and fatigue. Worry directly knots the Spleen Qi. Conversely, rest allows the body to conserve and rebuild Qi; warm, cooked foods are easily transformed into energy; and gentle exercise like qigong moves Qi without depleting it, while avoiding drafts protects the Lung's defensive Qi.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible meals like soups and congees. Avoid raw, cold, and greasy foods that tax the Spleen. Gentle daily movement such as walking or qigong helps circulate Qi without exhausting it. Protect yourself from wind and cold to prevent respiratory infections.",
+      "formulas": [
+        {
+          "id": 6969,
+          "pattern_id": 3067,
+          "formula_name": "Bu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/bu-fei-tang",
+          "translation": "Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE",
+          "properties": "Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough",
+          "description": "Tonifies Lung Qi and strengthens the Spleen to reduce chronic cough and fatigue."
+        },
+        {
+          "id": 6970,
+          "pattern_id": 3067,
+          "formula_name": "Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/liu-jun-zi-tang",
+          "translation": "Six Gentlemen Decoction &#xB7; M&#xED;ng dynasty, 1515 CE (also recorded in the Yu&#xE1;n dynasty text Shi Yi De Xiao Fang, ~1337 CE)",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "Classic for Spleen and Lung Qi deficiency with dampness, especially when phlegm is thin but plentiful."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16352,
+          "pattern_id": 3067,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Lung and Spleen Qi, reduces shortness of breath and spontaneous sweating."
+        },
+        {
+          "id": 16353,
+          "pattern_id": 3067,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Gently strengthens the Spleen and Lung, improving appetite and energy."
+        },
+        {
+          "id": 16354,
+          "pattern_id": 3067,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and strengthens the Spleen to reduce phlegm production."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11060,
+          "pattern_id": 3067,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Directly tonifies Lung Qi to relieve cough and breathlessness."
+        },
+        {
+          "id": 11061,
+          "pattern_id": 3067,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Strengthens Spleen Qi to transform phlegm and improve appetite."
+        },
+        {
+          "id": 11062,
+          "pattern_id": 3067,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Master point for Qi deficiency, boosting overall energy and digestion."
+        },
+        {
+          "id": 11063,
+          "pattern_id": 3067,
+          "acupoint_code": "LU-9",
+          "acupoint_name": "Taiyuan LU-9",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9",
+          "translation": "T&#xE0;i Yu&#x101;n",
+          "properties": "Clears Phlegm, Descends Lung Qi",
+          "description": "Yuan-source point of the Lung, nourishes Lung Qi and regulates respiration."
+        }
+      ]
+    },
+    {
+      "id": 3068,
+      "condition_id": 629,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing chest pain\", \"Pain worse at night and with pressure\", \"Dark purplish lips and nail beds\", \"Dark purple tongue with stasis spots\", \"Rough, dry, scaly skin\", \"Distended dark veins under the tongue\"]",
+      "worse_with": "Cold or damp weather, Sedentary lifestyle, Emotional stress, Cold or raw foods",
+      "better_with": "Warmth, Gentle exercise, Deep breathing exercises, Blood-moving foods",
+      "why_this_happens": "In silicosis, inhaled silica dust acts as a stubborn pathogen that lodges in the Lung collaterals, obstructing the smooth flow of Qi and Blood over many years. As the disease progresses into the fibrotic stage, the chronic stagnation congeals into Blood Stasis. This produces the hallmark fixed, stabbing chest pain and the purplish discoloration of the tongue, lips, and nail beds, reflecting blood that is no longer moving freely through the chest.",
+      "tongue_and_pulse": "Tongue: dark purple body, possible stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (Se) or wiry (Xian).",
+      "why_triggers_reliefs_work": "Blood Stasis means the blood is thick and sluggish, like traffic in a jam. Cold and inactivity make it congeal further, while warmth and gentle movement help it flow. Emotional stress tightens the Liver Qi, which governs the smooth circulation of Blood, worsening the stagnation. So warming, moving, and relaxing habits are key to breaking up the stasis and easing the chest pain.",
+      "diet_and_lifestyle": "Eat warming, blood-moving foods like turmeric, ginger, garlic, black fungus, and a small amount of saffron. Avoid cold and raw foods that congeal the blood. Gentle daily movement such as walking or Qi Gong is essential to keep circulation flowing. Strictly avoid further dust exposure and smoking, which damage the Lung collaterals.",
+      "formulas": [
+        {
+          "id": 6971,
+          "pattern_id": 3068,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The primary formula to invigorate Blood and dispel Stasis in the chest, directly addressing the fibrotic pain and stagnation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16355,
+          "pattern_id": 3068,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and soothes cough due to blood stasis in the chest."
+        },
+        {
+          "id": 16356,
+          "pattern_id": 3068,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks stagnation, easing the fixed stabbing pain."
+        },
+        {
+          "id": 16357,
+          "pattern_id": 3068,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves both Blood and Qi in the chest, relieving pain and tightness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11064,
+          "pattern_id": 3068,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "Influential point of Blood. Invigorates Blood and dispels stasis in the chest."
+        },
+        {
+          "id": 11065,
+          "pattern_id": 3068,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Sea of Blood. Regulates Blood and resolves stasis throughout the body."
+        },
+        {
+          "id": 11066,
+          "pattern_id": 3068,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Lung Back-Shu point. Regulates Lung Qi and opens the chest to relieve pain and breathlessness."
+        }
+      ]
+    },
+    {
+      "id": 3069,
+      "condition_id": 629,
+      "pattern_name": "Kidney and Heart Qi Deficiency",
+      "pattern_slug": "kidney-and-heart-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations that worsen with any exertion\", \"Severe fatigue unrelieved by rest\", \"Lower back and knee soreness and weakness\", \"Frequent nighttime urination\", \"Poor memory and difficulty concentrating\", \"Spontaneous sweating even when not hot\"]",
+      "worse_with": "Overexertion, Emotional stress, Cold or damp weather, Overeating or heavy meals",
+      "better_with": "Rest, Warmth, Warm, light meals, Deep breathing exercises",
+      "why_this_happens": "In advanced silicosis, years of inhaled silica dust have deeply damaged the Lungs, exhausting Lung Qi. The Lungs govern Qi, and the Kidneys are supposed to grasp that Qi and anchor it downward. When Lung Qi collapses, the Kidneys lose their ability to receive Qi, leading to severe shortness of breath on the slightest activity and a deep, aching weakness in the lower back and knees. Because the Heart and Kidneys share a fundamental connection through the Shao Yin channels, depleted Kidney Qi fails to support Heart Qi, causing palpitations, restless sleep, poor memory, and a profound fatigue that rest does not fix.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with tooth marks; thin white coating. Pulse: fine and weak, especially at the left cun (Heart) and both chi (Kidney) positions.",
+      "why_triggers_reliefs_work": "Physical activity and prolonged standing drain the already depleted Kidney and Heart Qi, triggering breathlessness and palpitations. Rest and lying down conserve Qi and allow the Kidneys to anchor it. Cold constricts and consumes Yang Qi, while warmth helps Qi move and protects the Kidneys. Overeating burdens the Spleen, which is the source of postnatal Qi, so small warm meals support rather than exhaust the body's energy supply. Gentle breathing exercises help the Lungs descend Qi to the Kidneys without overexertion.",
+      "diet_and_lifestyle": "Eat warm, easy-to-digest foods like congee, stews, and root vegetables to protect the Spleen and build Qi. Avoid raw, cold, and greasy foods that drain digestive fire. Gentle breathing exercises and very light walking can help Qi flow without depleting it; stop well before you feel tired. Prioritize deep rest and keep the lower back warm.",
+      "formulas": [
+        {
+          "id": 6972,
+          "pattern_id": 3069,
+          "formula_name": "Da Bu Yuan Jian",
+          "formula_url": "/knowledge-base/formulas/da-bu-yuan-jian",
+          "translation": "Great Tonify the Basal Decoction &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Qi and Generates Blood, Supplements the Liver and Kidneys, Nourishes Essence and Blood",
+          "description": "The primary formula to deeply tonify Kidney Qi and Essence, supporting the Heart and Lungs in advanced deficiency."
+        },
+        {
+          "id": 6973,
+          "pattern_id": 3069,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged."
+        },
+        {
+          "id": 6974,
+          "pattern_id": 3069,
+          "formula_name": "Qing Qi Hua Tan Wan",
+          "formula_url": "/knowledge-base/formulas/qing-qi-hua-tan-wan",
+          "translation": "Clear Qi and Transform Phlegm Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Regulates Qi and stops cough, Descends Lung Qi and Calms Wheezing",
+          "description": "A classical formula for coughs with thick, sticky, yellow phlegm caused by Heat and Phlegm congesting the Lungs. It clears Heat, breaks down stubborn Phlegm, and restores the normal downward flow of Lung Qi to relieve coughing, chest fullness, and wheezing."
+        },
+        {
+          "id": 6975,
+          "pattern_id": 3069,
+          "formula_name": "Bu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/bu-fei-tang",
+          "translation": "Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE",
+          "properties": "Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough",
+          "description": "A classical formula designed to strengthen weak lungs and support breathing. It is used for people with a long-standing weak cough, shortness of breath, a quiet or feeble voice, and a tendency to sweat easily, all signs that the Lung&#x27;s Qi has become depleted over time."
+        },
+        {
+          "id": 6976,
+          "pattern_id": 3069,
+          "formula_name": "Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/liu-jun-zi-tang",
+          "translation": "Six Gentlemen Decoction &#xB7; M&#xED;ng dynasty, 1515 CE (also recorded in the Yu&#xE1;n dynasty text Shi Yi De Xiao Fang, ~1337 CE)",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "A classical formula that strengthens digestion and clears away dampness and phlegm accumulation. It is used for people who experience poor appetite, bloating, loose stools, nausea, and fatigue due to a weakened digestive system that has allowed excess moisture and phlegm to build up in the body."
+        },
+        {
+          "id": 6977,
+          "pattern_id": 3069,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 6978,
+          "pattern_id": 3069,
+          "formula_name": "Da Bu Yuan Jian",
+          "formula_url": "/knowledge-base/formulas/da-bu-yuan-jian",
+          "translation": "Great Tonify the Basal Decoction &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Qi and Generates Blood, Supplements the Liver and Kidneys, Nourishes Essence and Blood",
+          "description": "A classical formula created by the renowned Ming dynasty physician Zhang Jingyue to powerfully restore Qi, Blood, and the vital essence of the Liver and Kidneys. It is used for deep exhaustion and depletion where the body&#x27;s foundational reserves of Qi and Blood have been severely drained, leading to fatigue, lower back pain, dizziness, tinnitus, and a feeble pulse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16358,
+          "pattern_id": 3069,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi of both Heart and Lung, calming palpitations and improving breathlessness."
+        },
+        {
+          "id": 16359,
+          "pattern_id": 3069,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Nourishes Kidney Essence and supports the Kidneys in grasping Qi, easing lower back weakness."
+        },
+        {
+          "id": 16360,
+          "pattern_id": 3069,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes Lung and Kidney Qi to stop spontaneous sweating and calm the restless spirit."
+        },
+        {
+          "id": 16361,
+          "pattern_id": 3069,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 16362,
+          "pattern_id": 3069,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 16363,
+          "pattern_id": 3069,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 16364,
+          "pattern_id": 3069,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 16365,
+          "pattern_id": 3069,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 16366,
+          "pattern_id": 3069,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 16367,
+          "pattern_id": 3069,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 16368,
+          "pattern_id": 3069,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 16369,
+          "pattern_id": 3069,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 16370,
+          "pattern_id": 3069,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 16371,
+          "pattern_id": 3069,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 16372,
+          "pattern_id": 3069,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 16373,
+          "pattern_id": 3069,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 16374,
+          "pattern_id": 3069,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 16375,
+          "pattern_id": 3069,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11067,
+          "pattern_id": 3069,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Tonifies Heart Qi and calms the spirit, relieving palpitations and insomnia."
+        },
+        {
+          "id": 11068,
+          "pattern_id": 3069,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Strengthens Kidney Qi to grasp Lung Qi and reduce breathlessness and back soreness."
+        },
+        {
+          "id": 11069,
+          "pattern_id": 3069,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Directly supplements Heart Qi to address fatigue and chest discomfort."
+        },
+        {
+          "id": 11070,
+          "pattern_id": 3069,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and supports the lower back and knees."
+        },
+        {
+          "id": 11071,
+          "pattern_id": 3069,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds postnatal Qi to support overall energy and stamina."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 4101,
+      "condition_id": 629,
+      "question": "Can acupuncture help with silicosis breathing difficulties?",
+      "answer": "Yes, acupuncture can help open the chest and improve breathing by relaxing the muscles around the ribcage and calming the nervous system. Points on the back (such as Feishu BL-13) and chest (like Danzhong CV-17) are used to strengthen Lung function and transform phlegm. Many patients notice easier, deeper breathing after a series of treatments, though the effect is supportive rather than curative."
+    },
+    {
+      "id": 4102,
+      "condition_id": 629,
+      "question": "Are Chinese herbs safe with my oxygen therapy?",
+      "answer": "In general, yes. Herbal formulas are taken orally and do not interfere with supplemental oxygen. However, you should always inform both your TCM practitioner and your pulmonologist about all therapies you are using. Some herbs may have mild effects on blood pressure or circulation, so coordination of care is important, especially if you have advanced disease."
+    },
+    {
+      "id": 4103,
+      "condition_id": 629,
+      "question": "How long does it take to see results from TCM treatment?",
+      "answer": "Most patients notice some improvement in phlegm and cough within the first 4-8 weeks. Energy levels and resistance to infection typically improve more gradually over 3-6 months. TCM does not reverse existing scarring, so the goal is to slow progression, manage symptoms, and enhance quality of life. Consistency with herbs and acupuncture appointments is key to seeing steady progress."
+    },
+    {
+      "id": 4104,
+      "condition_id": 629,
+      "question": "Will TCM reverse the scarring in my lungs?",
+      "answer": "TCM cannot reverse established fibrotic scarring. However, by transforming phlegm, moving blood stasis, and strengthening Lung and Kidney Qi, treatment may help slow further fibrotic changes and improve the function of remaining healthy lung tissue. Patients often report less breathlessness and fewer infections, which can make a meaningful difference in daily life."
+    },
+    {
+      "id": 4105,
+      "condition_id": 629,
+      "question": "Do I need to change my diet while taking Chinese herbs?",
+      "answer": "Diet plays a supporting role. In general, you'll want to avoid cold, raw, and greasy foods that burden the Spleen and generate more phlegm. Dairy, sugar, and excessive wheat can increase phlegm production for many people. Warm, cooked foods like congee, soups, and steamed vegetables are encouraged, along with pears and white fungus to moisten the Lungs without creating Dampness. Your practitioner will give you specific guidance based on your pattern."
+    },
+    {
+      "id": 4106,
+      "condition_id": 629,
+      "question": "Can I use TCM alongside my bronchodilators and other medications?",
+      "answer": "Yes, TCM is typically used as a complementary therapy. Herbs and acupuncture can work alongside inhalers and other medications without known major interactions. However, some herbs that move blood may have mild blood-thinning properties, so if you take anticoagulants, inform both your TCM practitioner and your doctor. Never stop or adjust your prescribed medications without consulting your physician."
+    }
+  ],
+  "research": [
+    {
+      "id": 927,
+      "condition_id": 629,
+      "title": "Research progress of Chinese medicine pulmonary rehabilitation technique in treatment of pneumoconiosis",
+      "description": "A comprehensive review of TCM pulmonary rehabilitation for pneumoconiosis, summarizing evidence from herbal medicine, acupuncture, acupoint application, and traditional exercise therapies. The review found that TCM interventions improve clinical symptoms, exercise tolerance, and quality of life, and may slow disease progression when combined with conventional treatment.",
+      "url": "https://doi.org/10.16369/j.oher.issn.1007-1326.2024.04.026",
+      "periodical": "Liang XB, Li SY, Chen D. Research progress of Chinese medicine pulmonary rehabilitation technique in treatment of pneumoconiosis. Occup Health & Emerg Rescue. 2024;42(4):533-538."
+    },
+    {
+      "id": 928,
+      "condition_id": 629,
+      "title": "Clinical observation on modified Bufei Decoction for pneumoconiosis with lung qi deficiency",
+      "description": "An RCT of 74 pneumoconiosis patients with lung qi deficiency. The group receiving modified Bufei Decoction plus standard care showed significantly greater improvement in TCM symptom scores, COPD assessment test scores, and lung function parameters compared to standard care alone, suggesting the formula can reduce inflammation and oxidative stress.",
+      "url": "",
+      "periodical": "Gong XW, et al. Clinical observation on modified Bufei Decoction for pneumoconiosis with lung qi deficiency. Chin J Ind Med. 2019;36(3):345-348."
+    },
+    {
+      "id": 929,
+      "condition_id": 629,
+      "title": "Clinical efficacy of Guben Yifei Decoction for pneumoconiosis with lung-kidney qi deficiency",
+      "description": "A clinical trial evaluating Guben Yifei Decoction in patients with pneumoconiosis and lung-kidney qi deficiency. The herbal group demonstrated marked relief of cough, sputum, and shortness of breath, and an increase in 6-minute walk distance, indicating improved functional capacity and quality of life.",
+      "url": "",
+      "periodical": "Li YT. Clinical efficacy of Guben Yifei Decoction for pneumoconiosis with lung-kidney qi deficiency. J Tradit Chin Med. 2020;38(2):112-115."
+    }
+  ]
+}

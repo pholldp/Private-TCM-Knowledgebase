@@ -1,0 +1,821 @@
+{
+  "id": 170,
+  "name": "Bu Yang Huan Wu Tang",
+  "chinese_name": "补阳还五汤",
+  "english_name": "Tonify the Yang to Restore Five-Tenths Decoction",
+  "url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+  "summary": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body's Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions.",
+  "categories": "[\"Blood-invigorating and stasis-resolving formulas\"]",
+  "tcm_actions": "[\"Tonifies Qi\", \"Invigorates Blood and Dispels Stasis\", \"Unblocks the Channels and Collaterals\"]",
+  "therapeutic_focus": "[\"Stroke Recovery\", \"Circulation Support\", \"Neurological Health\", \"Mobility and Flexibility\"]",
+  "target_organs": "[\"Spleen\", \"Liver\", \"Heart\", \"Brain\"]",
+  "temperature": "Slightly Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Yi Lin Gai Cuo (醫林改錯, Corrections of Errors in the Field of Medicine) by Wang Qing-Ren (王清任)",
+  "conditions": "[\"Stroke\", \"Peripheral Neuropathy\", \"Facial Paralysis\", \"Hemiplegia\", \"Coronary Artery Disease\", \"Raynaud's Disease\", \"Sciatica\", \"Muscle Atrophy\", \"Chronic Nephritis\", \"Deep Vein Thrombosis\"]",
+  "patterns": "[]",
+  "other_names": "[\"Buyang Huanwu Decoction\"]",
+  "pregnancy": "Contraindicated during pregnancy. The formula contains several herbs that strongly invigorate Blood and dispel stasis: Tao Ren (Peach Kernel), Hong Hua (Safflower), Chuan Xiong (Chuanxiong Rhizome), Chi Shao (Red Peony Root), and Dang Gui Wei (Angelica tail). These herbs promote blood circulation and can stimulate uterine contractions, posing a risk of miscarriage or premature labor. Tao Ren and Hong Hua are specifically listed as pregnancy-prohibited (妊娠禁忌) herbs in standard Chinese pharmacopoeia references. This formula should not be used during any stage of pregnancy.",
+  "breastfeeding": "Use with caution during breastfeeding. While there is no specific classical prohibition, the formula contains multiple blood-activating herbs (Tao Ren, Hong Hua, Chuan Xiong, Chi Shao, Dang Gui Wei) whose active compounds may transfer into breast milk. The large dose of Huang Qi (Astragalus) is generally considered safe, but the cumulative blood-moving effect of the other ingredients warrants caution. If the formula is clinically necessary for the mother (e.g. post-stroke recovery), a practitioner should carefully weigh the benefits against potential risks, consider reducing the blood-activating herbs, and monitor the infant for any unusual signs such as easy bruising or loose stools.",
+  "children": "Bu Yang Huan Wu Tang is not a standard pediatric formula, as its primary indication (post-stroke hemiplegia from Qi deficiency and Blood stasis) mainly affects adults and the elderly. However, historical sources note it has been applied for pediatric conditions such as poliomyelitis sequelae causing limb weakness, where the pattern fits Qi deficiency with Blood stasis.\nIf used in children, significant dose reductions are essential. Typical adjustments: children under 6 should receive roughly one-quarter to one-third of the adult dose; children 6-12 about one-half. The Huang Qi dose in particular must be started low and increased gradually. The blood-moving herbs (Tao Ren, Hong Hua) should be used at the minimum effective dose. A qualified practitioner experienced in pediatric prescribing should supervise all use in children.",
+  "drug_interactions": "Anticoagulants and antiplatelet agents (warfarin, heparin, aspirin, clopidogrel, DOACs): This is the most clinically significant interaction. The formula contains five blood-activating herbs. Dang Gui Wei (Angelica tail) contains coumarin constituents such as ferulic acid that have been shown to inhibit platelet aggregation and increase prothrombin time. Hong Hua (Safflower) and Tao Ren (Peach Kernel) also have documented antiplatelet and antithrombotic effects. Chuan Xiong (Chuanxiong Rhizome) contains ligustilide and senkyunolide I, which have been shown in pharmacokinetic studies to interact with warfarin metabolism. Combined use may significantly increase bleeding risk and should be avoided or carefully monitored with INR testing.\nAntihypertensive medications: The large dose of Huang Qi (Astragalus) may have blood pressure-modulating effects. In some studies, Astragalus has shown mild hypotensive activity, which could potentiate the effects of antihypertensive drugs. However, in other contexts its Qi-lifting action may counteract the intended blood pressure reduction. Blood pressure should be monitored closely.\nHypoglycemic agents (metformin, sulfonylureas, insulin): Huang Qi (Astragalus) has documented blood glucose-lowering effects. Concurrent use with diabetes medications may increase the risk of hypoglycemia. Blood sugar monitoring is advised.\nImmunosuppressants: Huang Qi has known immunostimulant properties, including enhanced macrophage phagocytosis and increased antibody production. This may theoretically counteract the effects of immunosuppressive drugs used after organ transplantation or in autoimmune conditions.",
+  "best_time_to_take": "Warm, on an empty stomach or 30-60 minutes before meals, once or twice daily. Taking it before meals enhances absorption of the Qi-tonifying Huang Qi.",
+  "typical_duration": "Long-term use, typically 4-12 weeks or longer, reassessed regularly by a practitioner. The original text states that the formula must be taken persistently to show results, and should be continued even after improvement (every 3-8 days) to prevent relapse.",
+  "dietary_advice": "Favor foods that support Qi and Blood: cooked whole grains, root vegetables, lean proteins, warm soups, and easily digestible meals. Foods like congee with red dates, millet porridge, and lightly cooked greens are ideal.\nAvoid cold and raw foods (salads, ice cream, cold drinks, raw fruit) as these can impair the Spleen's ability to generate Qi, working against the formula's intent. Avoid greasy, heavy, and overly rich foods that can create Dampness and Phlegm, potentially blocking the collaterals the formula is trying to open. Limit alcohol, as it generates Heat and can interact unpredictably with the blood-moving herbs. Also avoid excessively spicy or heating foods, as the patient may already have impaired circulation and inflammation in the vessels.",
+  "ingredients": [
+    {
+      "herb_name": "Huang Qi",
+      "english_name": "Astragalus root",
+      "role": "King",
+      "dosage": "30 - 120g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "Chinese Angelica root",
+      "role": "Deputy",
+      "dosage": "6 - 10g"
+    },
+    {
+      "herb_name": "Chi Shao",
+      "english_name": "Red peony root",
+      "role": "Assistant",
+      "dosage": "5 - 10g"
+    },
+    {
+      "herb_name": "Chuan Xiong",
+      "english_name": "Sichuan lovage rhizome",
+      "role": "Assistant",
+      "dosage": "3 - 10g"
+    },
+    {
+      "herb_name": "Tao Ren",
+      "english_name": "Peach kernel",
+      "role": "Assistant",
+      "dosage": "3 - 10g"
+    },
+    {
+      "herb_name": "Hong Hua",
+      "english_name": "Safflower flower",
+      "role": "Assistant",
+      "dosage": "3 - 10g"
+    },
+    {
+      "herb_name": "Di Long",
+      "english_name": "Earthworm",
+      "role": "Assistant",
+      "dosage": "3 - 10g"
+    }
+  ],
+  "research": [
+    {
+      "id": 373,
+      "formula_id": 170,
+      "title": "Systematic review and meta-analysis of BHD for acute ischemic stroke (19 RCTs, 2012)",
+      "description": "This systematic review and meta-analysis assessed 19 randomized controlled trials (1,444 patients) evaluating Buyang Huanwu Decoction for acute ischemic stroke. The pooled results showed a statistically significant improvement in clinical effectiveness rates when BHD was used as an adjunct to conventional treatment (RR 1.18, 95% CI 1.12 to 1.24). No life-threatening adverse effects were noted, though the overall methodological quality of the included trials was limited.",
+      "url": "",
+      "periodical": "Hao CZ, Wu F, Shen J, Lu L, Fu DL, Liao WJ, et al. Evidence-Based Complementary and Alternative Medicine. 2012; Article ID 630124."
+    },
+    {
+      "id": 374,
+      "formula_id": 170,
+      "title": "Meta-analysis of BHD for ischemic stroke rehabilitation (2021)",
+      "description": "A systematic review and meta-analysis evaluating Buyang Huanwu Decoction for ischemic stroke rehabilitation, searching seven databases up to March 2019. The study found that BHD used alongside conventional treatment improved clinical outcomes in the rehabilitation phase. The authors noted the formula was widely used and well-tolerated but called for higher-quality trials.",
+      "url": "",
+      "periodical": "Gao L, Xiao Z, Jia C, Wang W. Health and Quality of Life Outcomes. 2021; 19(1):79."
+    },
+    {
+      "id": 375,
+      "formula_id": 170,
+      "title": "Nationwide propensity-matched cohort study of BYHWT and post-stroke epilepsy risk (2018)",
+      "description": "Using Taiwan's National Health Insurance database, this large-scale study compared 8,971 propensity-matched pairs of stroke patients who did and did not receive Bu Yang Huan Wu Tang. Over a follow-up period of 5-9 years, patients receiving the formula had a significantly reduced risk of developing post-stroke epilepsy (HR 0.69, 95% CI 0.61-0.77), with a dose-dependent decrease in epilepsy risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30568447/",
+      "periodical": "Weng SW, Chen TL, Yeh CC, Liao CC, Lane HL, Lin JG, Shih CC. Neuropsychiatric Disease and Treatment. 2018; 14:3285-3297."
+    },
+    {
+      "id": 376,
+      "formula_id": 170,
+      "title": "Systematic review and meta-analysis of BHD for vascular dementia (18 RCTs, 2022)",
+      "description": "This systematic review included 18 randomized controlled trials with 1,254 participants assessing Bu Yang Huan Wu Tang for vascular dementia. When used alongside Western medicine, BHD showed significant improvement in MMSE scores (MD 1.42, 95% CI 0.28 to 2.56) and Hasegawa Dementia Scale scores (MD 3.91, 95% CI 2.87 to 4.94). Only minor or no adverse events were reported. Quality of evidence ranged from very low to moderate.",
+      "url": "",
+      "periodical": "Kim DW, Kim SH, Kook HJ, Jung IC. Complementary Therapies in Clinical Practice. 2022; 47:101547."
+    },
+    {
+      "id": 377,
+      "formula_id": 170,
+      "title": "Systematic review of BHD neuroprotective effects in animal models of focal cerebral ischemia (2013)",
+      "description": "A systematic review and meta-analysis of 56 preclinical studies (1,270 animals) evaluating BHD in animal models of focal cerebral ischemia. BHD showed a 37% improvement in outcomes across all doses compared to controls. The review identified neuroprotective mechanisms including anti-inflammatory, anti-apoptotic, and angiogenesis-promoting effects. Methodological quality of included studies was generally low.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23861695/",
+      "periodical": "Wei RL, Teng HJ, Yin B, Xu Y, Du Y, He FP, Chu KT, Luo BY, Zheng GQ. Evidence-Based Complementary and Alternative Medicine. 2013; Article ID 893489."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 70,
+      "name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "pattern_id": 84,
+      "name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "pattern_id": 125,
+      "name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "pattern_id": 277,
+      "name": "Bu Yang Huan Wu Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 8,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 8,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 38,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 38,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 53,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 53,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 56,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 56,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 71,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 71,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 86,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 86,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 87,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 87,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 93,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 93,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 111,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 111,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 235,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 235,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 242,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 242,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 305,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 305,
+      "pattern_name": "Kidney and Liver Yin Deficiency causing Heat in the Blood",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 306,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 306,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 392,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 392,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 483,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 483,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 488,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 488,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 497,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 497,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 500,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 500,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 514,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 514,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 521,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 521,
+      "pattern_name": "Cold invading the Channels joints and muscles",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 533,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 533,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 537,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 537,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 541,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 541,
+      "pattern_name": "Heart Vessel obstructed",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 570,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 570,
+      "pattern_name": "Lung and Heart Qi Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 582,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 582,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 583,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 583,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 585,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 585,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 587,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 587,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 596,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 596,
+      "pattern_name": "Heart Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 600,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 600,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 602,
+      "pattern_name": "Blood and Qi Deficiency with Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 602,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 603,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 603,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 604,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 604,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 609,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 609,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 657,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 657,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 706,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 706,
+      "pattern_name": "Wind-Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 714,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 714,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 762,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 762,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 771,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 771,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 772,
+      "pattern_name": "Blood and Qi Deficiency with Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 772,
+      "pattern_name": "Blood and Qi Deficiency with Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 777,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 777,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 786,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 786,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 787,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 787,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 885,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 885,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 887,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 887,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 888,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 888,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 948,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 948,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1059,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1059,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1084,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1084,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1097,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1097,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1106,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1106,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1107,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1107,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1117,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1117,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1158,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1158,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1160,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1160,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1181,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1181,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1232,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1232,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1247,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1247,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1285,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1285,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1294,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1294,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1312,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1312,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1346,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1346,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Liver Yang Rising with Blood and Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1395,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1395,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1442,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1442,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1454,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1454,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1526,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    },
+    {
+      "condition_id": 1526,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Bu Yang Huan Wu Tang"
+    }
+  ]
+}

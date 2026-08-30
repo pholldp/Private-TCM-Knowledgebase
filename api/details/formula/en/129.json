@@ -1,0 +1,674 @@
+{
+  "id": 129,
+  "name": "Di Tan Tang",
+  "chinese_name": "涤痰汤",
+  "english_name": "Phlegm-Flushing Decoction",
+  "url": "/knowledge-base/formulas/di-tan-tang",
+  "summary": "A classical formula used to clear heavy Phlegm that clouds the mind and blocks clear speech. It is primarily used when thick Phlegm obstructs the Heart's orifices following stroke or similar conditions, causing a stiff tongue and difficulty speaking. The formula powerfully sweeps out Phlegm while also opening the sensory orifices and supporting the body's underlying Qi.",
+  "categories": "[\"Phlegm-resolving formulas\", \"Orifice-opening formulas\"]",
+  "tcm_actions": "[\"Scours Phlegm and Opens the Orifices\", \"Clears Heat and Transforms Phlegm\", \"Regulates Qi and resolves turbidity\", \"Tonifies Qi and Strengthens the Spleen\", \"Dries Dampness\"]",
+  "therapeutic_focus": "[\"Stroke Recovery\", \"Cognitive Health and Memory\", \"Neurological Health\", \"Phlegm and Congestion Relief\"]",
+  "target_organs": "[\"Heart\", \"Spleen\", \"Lungs\", \"Stomach\", \"Brain\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Qi Xiao Liang Fang (奇效良方, Wondrous and Effective Formulas), Volume 1",
+  "conditions": "[\"Stroke\", \"Seizures\", \"Aphasia\", \"Mental Exhaustion\", \"Schizophrenia\", \"Viral Myocarditis\", \"Dementia\"]",
+  "patterns": "[]",
+  "other_names": "[\"Di Tan San (涤痰散, Phlegm-Flushing Powder)\"]",
+  "pregnancy": "Contraindicated during pregnancy. The formula contains Tian Nan Xing (Arisaema) and Ban Xia (Pinellia), both classified as toxic substances in classical texts that are traditionally prohibited during pregnancy. Even though the Tian Nan Xing in this formula is processed with bile (Dan Nan Xing) and the Ban Xia is washed or ginger-prepared to reduce toxicity, sufficient safety data for pregnant women does not exist. Zhi Shi (immature bitter orange) also has a downward-directing, Qi-breaking action that could theoretically stimulate uterine contractions. This formula should not be used during any stage of pregnancy.",
+  "breastfeeding": "Use with caution during breastfeeding. While there is no specific classical prohibition against using Di Tan Tang during lactation, several herbs raise concerns. Tian Nan Xing (Arisaema), even in its bile-processed form (Dan Nan Xing), is classified as toxic and its components could potentially transfer through breast milk. Ban Xia (Pinellia) also has mild toxicity in raw form, though processing reduces this significantly. There is no modern pharmacological data on the excretion of these herbs' active compounds into human breast milk. If the formula is clinically necessary for the nursing mother, close monitoring of the infant for any adverse effects (digestive upset, unusual drowsiness) is advisable, and the lowest effective dose should be used for the shortest necessary duration. A qualified practitioner should supervise treatment.",
+  "children": "Di Tan Tang has historical precedent for pediatric use. The Yi Zong Jin Jian (医宗金鉴) includes a modified version called Qing Xin Di Tan Tang (清心涤痰汤) with added Mai Dong, Suan Zao Ren, and Huang Lian, specifically for children after acute convulsive episodes (急惊风) with residual Spleen deficiency and Phlegm accumulation. For standard Di Tan Tang, pediatric dosage should typically be reduced to one-third to one-half of the adult dose depending on the child's age and body weight. The formula contains Tian Nan Xing, classified as mildly toxic, so particular care is needed. Children under 3 years old should generally not receive this formula unless under close supervision of an experienced practitioner. The formula's bitter and acrid taste may be poorly tolerated by children, and honey or jujube can be added to improve palatability.",
+  "drug_interactions": "Gan Cao (Glycyrrhiza/Licorice root) in this formula may interact with several drug classes. Glycyrrhizin can cause pseudoaldosteronism (sodium retention, potassium loss, elevated blood pressure), potentially interfering with antihypertensive medications, diuretics (especially potassium-sparing types), cardiac glycosides (digoxin) where hypokalemia increases toxicity risk, and corticosteroids by potentiating their mineralocorticoid effects.\nRen Shen (Ginseng) has known interactions with warfarin and other anticoagulants (may reduce anticoagulant effect), MAO inhibitors (potential for headache, tremor, mania), and hypoglycemic agents (may enhance blood sugar-lowering effects, requiring dose monitoring).\nBan Xia (Pinellia) and Tian Nan Xing (Arisaema) contain calcium oxalate crystals and various alkaloids. Although processing significantly reduces toxicity, caution is warranted when used alongside sedatives or CNS depressants, as the formula's overall Phlegm-clearing and orifice-opening action may interact with drugs affecting neurological function.\nPatients taking antiepileptic drugs (a common scenario given the formula's traditional use for seizure-like presentations) should have their medication levels monitored, as herb-drug interactions could theoretically alter drug metabolism or efficacy. Any use alongside Western pharmaceuticals should be supervised by both a qualified herbalist and the prescribing physician.",
+  "best_time_to_take": "After meals (食后服), as specified in the classical instructions, to protect the Stomach from the formula's strong drying and acrid properties. Typically taken twice daily, morning and evening.",
+  "typical_duration": "Acute use: 5-14 days for stroke-related aphasia or acute Phlegm obstruction; reassessed frequently as the condition evolves. Longer courses of 2-4 weeks may be used for chronic Phlegm conditions, with formula modifications as symptoms change.",
+  "dietary_advice": "Avoid foods that generate Phlegm and Dampness: dairy products, greasy or deep-fried foods, excessive sugar and sweets, cold or raw foods, and heavy starchy items. Also avoid alcohol, which generates Dampness and Heat. Favor easily digestible, lightly cooked foods such as congee (rice porridge), steamed vegetables, and clear soups. Mildly aromatic foods like fresh ginger, tangerine peel tea, and small amounts of radish can support the formula's Phlegm-resolving action. Meals should be moderate in portion and taken at regular times to support Spleen function.",
+  "ingredients": [
+    {
+      "herb_name": "Dan Nan Xing",
+      "english_name": "Bile Arisaema",
+      "role": "King",
+      "dosage": "6 - 8g"
+    },
+    {
+      "herb_name": "Ban Xia",
+      "english_name": "Pinellia rhizome",
+      "role": "King",
+      "dosage": "6 - 8g"
+    },
+    {
+      "herb_name": "Zhi Shi",
+      "english_name": "Immature Bitter Orange Fruit",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Ju Hong",
+      "english_name": "Tangerine Peel (red outer layer)",
+      "role": "Deputy",
+      "dosage": "4 - 5g"
+    },
+    {
+      "herb_name": "Shi Chang Pu",
+      "english_name": "Acorus rhizome",
+      "role": "Assistant",
+      "dosage": "3g"
+    },
+    {
+      "herb_name": "Zhu Ru",
+      "english_name": "Bamboo shavings",
+      "role": "Assistant",
+      "dosage": "2 - 3g"
+    },
+    {
+      "herb_name": "Fu Ling",
+      "english_name": "Poria",
+      "role": "Assistant",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Ren Shen",
+      "english_name": "Ginseng root",
+      "role": "Assistant",
+      "dosage": "3g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "1.5 - 2g"
+    }
+  ],
+  "research": [
+    {
+      "id": 281,
+      "formula_id": 129,
+      "title": "Systematic review and meta-analysis of Di-Tan Decoction for post-stroke neurological disorders (2021)",
+      "description": "This meta-analysis reviewed 11 randomized clinical trials involving 992 participants (490 controls, 502 receiving Di Tan Tang). The analysis found that the odds of alleviating post-stroke neurological symptoms were significantly better in the Di Tan Tang group compared to Western medicine controls (OR 0.30, 95% CI 0.21-0.43, P < 0.00001). Across multiple stroke assessment scales (NFA, HDS, NIHSS), symptoms were less severe in the treatment group. No adverse effects were observed in any of the 11 trials. However, the authors noted that 6 of the 11 studies had high risk of bias and called for more rigorous future studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33941339/",
+      "periodical": "Kwon HK, et al. Chinese Journal of Natural Medicines, 2021, 19(5): 339-350."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 86,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 114,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 114,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 115,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 116,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 117,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 237,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 238,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 255,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 255,
+      "name": "Di Tan Tang"
+    },
+    {
+      "pattern_id": 256,
+      "name": "Di Tan Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 36,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 36,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 72,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 72,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 76,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 76,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 82,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 82,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 90,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 90,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 92,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 92,
+      "pattern_name": "Qi-Phlegm",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 101,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 101,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 205,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 205,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 232,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 232,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 407,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 407,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 408,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 408,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 412,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 412,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 524,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 524,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 754,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 754,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 844,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 844,
+      "pattern_name": "Obstruction Of the Spleen By Dampness with Liver Qi Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 849,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 849,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 851,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 851,
+      "pattern_name": "Heart and Kidney Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 862,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 862,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 866,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 866,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 869,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 869,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 873,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 873,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 874,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 874,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 875,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 875,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 876,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 876,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 884,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 884,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 884,
+      "pattern_name": "Heart Yang Collapsing",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 885,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 885,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 890,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 890,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 962,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 962,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 968,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 968,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1038,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1038,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1094,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1094,
+      "pattern_name": "Liver Fire Invading the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1107,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1107,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1207,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1207,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1217,
+      "pattern_name": "Phlegm in Chest",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1217,
+      "pattern_name": "Qi Stagnation in Chest",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1229,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1229,
+      "pattern_name": "Heat in Pericardium",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1235,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1235,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1238,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1238,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1250,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1250,
+      "pattern_name": "Disharmony between Heart and Kidneys",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1263,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1263,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1275,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1275,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1279,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1279,
+      "pattern_name": "Summer-Heat",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1296,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1296,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1303,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1303,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1307,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1307,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1309,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1309,
+      "pattern_name": "Damp-Heat invading the Spleen",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1322,
+      "pattern_name": "Phlegm in Chest",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1322,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Liver Yang Rising with Blood and Yin Deficiency",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1423,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1423,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1459,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1459,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1523,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Di Tan Tang"
+    },
+    {
+      "condition_id": 1523,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Di Tan Tang"
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "id": 1391,
+  "name": "โรคหลังไวรัส",
+  "url": "/knowledge-base/conditions/post-viral-syndrome",
+  "kind": "Condition",
+  "pinyin": "bìng hòu xū sǔn",
+  "chinese_name": "病后虚损",
+  "preview_text": "ความเหนื่อยล้าหลังไวรัสทุกอย่างไม่เหมือนกัน: อ่อนเพลียลึกถึงกระดูกด้วยใบหน้าซีดเซียว, แขนขาอ่อนล้าและไม่อยากอาหาร และปากแห้ง กระสับกระส่ายพร้อมเหงื่อออกตอนกลางคืน...",
+  "categories": "[\"โรคติดเชื้อ\", \"การติดเชื้อไวรัส\", \"การฟื้นตัวและหลังการผ่าตัด\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Influenza and post-viral syndromes\", \"Post-Infectious Lingering Symptoms\", \"Lingering symptoms after illness\"]",
+  "conventional_description": "Post-viral syndrome refers to a collection of lingering symptoms that persist for weeks or months after the acute phase of a viral infection, such as influenza, Epstein-Barr virus, or COVID-19. The most common complaints are profound fatigue, brain fog, unrefreshing sleep, muscle aches, and post-exertional malaise - a crash after even minor physical or mental effort. Diagnosis is made clinically, based on the history of a preceding infection and the exclusion of other causes, as there is no single lab test. The condition can significantly impair quality of life and daily functioning.",
+  "conventional_treatments": "Conventional treatment for post-viral syndrome is supportive, as there is no single medication that cures it. Doctors typically recommend rest, gradual return to activity, and symptom management - pain relievers for body aches, sleep aids for insomnia, and sometimes low-dose antidepressants for fatigue or mood. Graded exercise therapy and cognitive behavioral therapy are sometimes offered, though their effectiveness remains debated, especially for those with post-exertional malaise.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, a viral illness is seen as an invasion of external pathogenic factors - Wind, Cold, Heat, or Dampness - that the body fights off using its protective Qi. That battle consumes resources. After the fever breaks and the acute symptoms clear, the body is often left in a state of depletion where the Spleen, the organ that turns food into Qi and Blood, is too weak to replenish what was lost.\nThis is why fatigue, poor appetite, and brain fog are so common after a flu or COVID-19: the engine that creates your daily energy has stalled.\nBut the Spleen is only one piece of the picture. If the illness burned hotter or lasted longer, it can consume the body’s Yin - the cooling, moistening fluids that keep tissues lubricated and calm. That leads to a different kind of fatigue, one with a dry mouth, night sweats, and a restless heat in the palms and soles.\nAlternatively, if the patient’s constitution was already cold or the illness depleted their deepest warming energy, Kidney Yang deficiency can set in, leaving them perpetually chilled, with an aching lower back and frequent urination. The Heart, which houses the mind and relies on a steady supply of Blood, may also become undernourished, causing palpitations, insomnia, and anxiety.\nThis is why TCM does not treat all post-viral fatigue the same way. The same Western diagnosis of “post-viral syndrome” can stem from six different underlying patterns, each with its own characteristic tongue appearance, pulse quality, and set of symptoms. A practitioner listens for the details - does the fatigue ease after eating or worsen? Is there a feeling of heat or cold? What does the tongue look like? - to pinpoint exactly which reserves have been drained and which organ systems need support.\nImportantly, TCM also checks for lingering pathogens. Sometimes a low-grade Dampness or Heat remains trapped in the body after the acute infection, blocking the Spleen’s ability to recover. In these cases, simply tonifying will not work; the lingering pathogen must be gently cleared first so that the tonic herbs can be absorbed. This layered approach - clear any remnants, then rebuild the foundation - is central to the TCM strategy for post-viral recovery.",
+  "classical_quote": "「病人脉已解，而日暮微烦，以病新差，人强与谷，脾胃气尚弱，不能消谷，故令微烦，损谷则愈。」",
+  "classical_translation": "\"After the pulse has returned to normal, slight vexation in the evening occurs because the patient has just recovered and was forced to eat too much; the Spleen and Stomach Qi is still weak and cannot digest the food, so slight vexation appears. Reducing food intake will lead to recovery.\"",
+  "classical_source": "Shang Han Lun (Treatise on Cold Damage)  ,  Chapter on Yin-Yang Yi and Recovery from Fatigue after Illness (辨阴阳易差后劳复病脉证并治) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "To determine the precise pattern behind post-viral fatigue, a TCM practitioner first asks about the nature of the tiredness and what other symptoms accompany it. If the exhaustion comes with a pale face, dizziness, and a feeling of being easily winded, it often points to a straightforward Qi and Blood Deficiency, where the body's vital energy and nourishing blood were both used up fighting the illness.\nWhen the fatigue centers on the digestive system - poor appetite, bloating after eating, loose stools, and a heavy sensation in the limbs - the focus shifts to Spleen and Stomach Qi Deficiency. Here the organs that turn food into energy are still sluggish. A pale, slightly swollen tongue with tooth marks and a weak pulse confirm this digestive weakness.\nSome people notice that their heart is also affected: palpitations, trouble sleeping, or anxiousness that lingers alongside the fatigue and poor appetite. This suggests a Heart and Spleen Qi and Blood Deficiency, where the Spleen's failure to generate enough Blood leaves the Heart undernourished. The tongue may appear pale and the pulse is often thin and weak.\nWhen the illness burned hotter or longer, it may have consumed the body's cooling, moistening Yin fluids. A dry mouth, persistent thirst, and constipation with a red tongue that lacks a normal coating indicate Stomach and Spleen Yin Deficiency.\nIf deeper signs like lower back soreness, night sweats, and a feeling of heat in the palms and soles appear, the Yin loss has reached the Kidney and Liver level.\nIn contrast, a person who feels persistently cold, mentally foggy, and has frequent clear urination is showing a Kidney Yang Deficiency, where the body's warming fire has dimmed.",
+  "patterns": [
+    {
+      "id": 6832,
+      "condition_id": 1391,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and weakness\", \"Pale or sallow complexion\", \"Dizziness or lightheadedness\", \"Heart palpitations or fluttering\", \"Spontaneous sweating\", \"Pale lips and nail beds\"]",
+      "worse_with": "Overwork and mental stress, Skipping meals or irregular eating, Cold, raw, or greasy foods, Excessive physical activity or overexertion, Lack of sleep or late nights",
+      "better_with": "Warm, cooked meals, Gentle movement like walking, Rest and quiet, Warmth",
+      "why_this_happens": "Fighting off a virus burns through the body's reserves of Qi (vital energy) and Blood. After the infection clears, the Spleen-the organ that makes Qi and Blood from food-is often too weak to replenish them. Without enough Qi to power the body and enough Blood to nourish it, every system slows down, leaving you with a deep fatigue that rest alone cannot fix, along with dizziness and a pale, drawn look.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine (thin) and weak, especially weak at the right Guan position (Spleen/Stomach).",
+      "why_triggers_reliefs_work": "Qi and Blood are the body's fuel; after illness, they are depleted. Warm, cooked foods and gentle movement support the Spleen in producing more Qi and Blood, while rest allows the body to rebuild. Overwork, stress, and cold foods further drain Spleen Qi and consume Blood, deepening the deficiency. Moxibustion and warmth directly stimulate the body's ability to generate Qi and Blood, accelerating recovery.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like congee, soups, and stews to ease digestion. Include blood-nourishing foods such as dark leafy greens, beets, dates, and small amounts of red meat or bone broth. Avoid raw, cold, and greasy foods that tax the Spleen. Prioritize gentle movement like walking or qigong to stimulate Qi and Blood without depleting energy. Rest deeply and avoid overwork; recovery takes time.",
+      "formulas": [
+        {
+          "id": 15544,
+          "pattern_id": 6832,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, restoring energy and color after illness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35784,
+          "pattern_id": 6832,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, helping to restore color and reduce dizziness."
+        },
+        {
+          "id": 35785,
+          "pattern_id": 6832,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi, boosting energy and strengthening the body&#x27;s recovery."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24395,
+          "pattern_id": 6832,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion. Strengthens the Spleen and Stomach to generate Qi and Blood."
+        },
+        {
+          "id": 24396,
+          "pattern_id": 6832,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Moxibustion. Nourishes Blood and calms the mind."
+        },
+        {
+          "id": 24397,
+          "pattern_id": 6832,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Moxibustion. Fortifies original Qi and restores vitality."
+        }
+      ]
+    },
+    {
+      "id": 6833,
+      "condition_id": 1391,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Poor appetite, no desire to eat\", \"Abdominal bloating that worsens after eating\", \"Loose or poorly formed stools\", \"Fatigue and heavy sensation in the limbs\", \"Pale or sallow complexion\"]",
+      "worse_with": "Cold, raw, or greasy foods, Overeating or large meals, Overwork and mental stress, Excessive physical activity or overexertion",
+      "better_with": "Warm, cooked meals, Small, frequent meals, Rest after eating, Gentle warmth on abdomen",
+      "why_this_happens": "After fighting off a virus, the body's Qi is often drained. The Spleen and Stomach, which turn food into energy and nourishment, are particularly vulnerable. When they become weakened, they can no longer efficiently extract Qi from food, leading to poor appetite, bloating, and loose stools. This digestive sluggishness means the body isn't refueling properly, which is why fatigue and heavy limbs persist long after the acute illness is gone.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tooth-marked with a thin white coating. Pulse: weak and soft, especially at the right Guan (Spleen-Stomach) position.",
+      "why_triggers_reliefs_work": "The Spleen needs warmth and regular, gentle nourishment to transform food into Qi. Raw, cold foods and overwork drain the Spleen's Yang and Qi, leading to digestive weakness and fatigue. Rest and warm, simple meals conserve energy and allow the Spleen to recover its function.",
+      "diet_and_lifestyle": "Favor warm, cooked foods like soups, stews, and congee. Eat small, regular meals and avoid raw, cold, or greasy foods that burden digestion. Gentle daily walking helps Qi flow without exhausting you.",
+      "formulas": [
+        {
+          "id": 15545,
+          "pattern_id": 6833,
+          "formula_name": "Si Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/si-jun-zi-tang",
+          "translation": "Four Gentlemen Decoction &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "The foundational formula to tonify Spleen Qi and improve digestion."
+        },
+        {
+          "id": 15546,
+          "pattern_id": 6833,
+          "formula_name": "Xiang Sha Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+          "translation": "Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation",
+          "description": "For cases with more bloating and loose stools, this adds herbs to move Qi and resolve dampness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35786,
+          "pattern_id": 6833,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens Spleen Qi and dries dampness, reducing bloating and loose stools."
+        },
+        {
+          "id": 35787,
+          "pattern_id": 6833,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Gently tonifies Spleen and Stomach Qi without overheating."
+        },
+        {
+          "id": 35788,
+          "pattern_id": 6833,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Supports the Spleen by draining excess dampness that can cause fatigue and heaviness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24398,
+          "pattern_id": 6833,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The master point for tonifying Qi and strengthening the Spleen and Stomach."
+        },
+        {
+          "id": 24399,
+          "pattern_id": 6833,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "The front-Mu point of the Stomach, regulates the middle burner and relieves bloating."
+        },
+        {
+          "id": 24400,
+          "pattern_id": 6833,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "The back-Shu point of the Spleen, directly nourishes Spleen Qi."
+        }
+      ]
+    },
+    {
+      "id": 6834,
+      "condition_id": 1391,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "pattern_slug": "heart-and-spleen-qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Heart palpitations or fluttering\", \"Difficulty staying asleep with excessive dreaming\", \"Poor appetite and bloating after meals\", \"Forgetfulness and poor concentration\", \"Pale or sallow complexion\"]",
+      "worse_with": "Overwork and mental stress, Cold, raw, or greasy foods, Skipping meals or irregular eating, Lack of sleep or late nights",
+      "better_with": "Warm, cooked meals, Rest and quiet, Consistent bedtime routine, Gentle movement like walking",
+      "why_this_happens": "After a viral illness, the Spleen's Qi is often left depleted, which means it cannot efficiently transform food into the Blood and Qi the body needs. Because the Heart relies on a steady supply of Blood to stay calm and anchored, this shortage leaves it undernourished and restless. The result is the classic mix of digestive fatigue and heart-related symptoms-palpitations, poor sleep, and mental fog-that lingers long after the infection has cleared.",
+      "tongue_and_pulse": "Tongue: Pale, puffy body with teeth marks and a thin white coating. Pulse: Fine and weak, especially empty in the left Cun (Heart) position and soft in the right Guan (Spleen) position.",
+      "why_triggers_reliefs_work": "Overwork and mental strain consume Heart Blood and weaken Spleen Qi, directly aggravating the root deficiency. Raw and cold foods chill the Spleen, making it harder to produce Blood, while irregular eating deprives the body of the steady nourishment it needs to rebuild. Warm, cooked meals and consistent rest, on the other hand, gently feed the Spleen's transformative fire and allow the Heart to settle, which is why they bring relief.",
+      "diet_and_lifestyle": "Focus on warm, easily digestible cooked foods like congee, soups, and stews. Include small amounts of blood-nourishing ingredients such as red dates (jujube), goji berries, and dark leafy greens. Avoid raw, cold, and greasy foods that further tax the Spleen. Gentle daily movement like walking or qigong helps Qi flow, but rest is essential-prioritize a regular sleep schedule and short breaks during the day.",
+      "formulas": [
+        {
+          "id": 15547,
+          "pattern_id": 6834,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to nourish Heart Blood and strengthen Spleen Qi, directly targeting post-viral palpitations, insomnia, and fatigue."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35789,
+          "pattern_id": 6834,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and helps anchor the restless Heart."
+        },
+        {
+          "id": 35790,
+          "pattern_id": 6834,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "",
+          "description": "Calms the mind and improves sleep quality."
+        },
+        {
+          "id": 35791,
+          "pattern_id": 6834,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Spleen Qi to rebuild the foundation for Blood production."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24401,
+          "pattern_id": 6834,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen Qi and promotes the generation of Qi and Blood."
+        },
+        {
+          "id": 24402,
+          "pattern_id": 6834,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and supports Spleen function."
+        },
+        {
+          "id": 24403,
+          "pattern_id": 6834,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Heart and settles the spirit to ease palpitations and insomnia."
+        },
+        {
+          "id": 24404,
+          "pattern_id": 6834,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Directly tonifies Heart Qi and Blood."
+        }
+      ]
+    },
+    {
+      "id": 6835,
+      "condition_id": 1391,
+      "pattern_name": "Stomach and Spleen Yin Deficiency",
+      "pattern_slug": "stomach-and-spleen-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry mouth and throat, desire to sip but not gulp\", \"Poor appetite, no desire to eat\", \"Dull burning discomfort in the upper abdomen\", \"Dry, hard stools\", \"Feeling of fullness after eating small amounts\"]",
+      "worse_with": "Spicy, fried, or drying foods, Overwork and mental stress, Hot weather or heated rooms, Alcohol and coffee, Overeating or large meals",
+      "better_with": "Cool, moist foods (pears, congee), Small, frequent meals, Rest and quiet, Cool drinks, sipped slowly",
+      "why_this_happens": "After a viral illness, a lingering low-grade fever or internal inflammatory process can slowly consume the Yin fluids of the Stomach and Spleen - the body's cooling and moistening reserves. Without enough Yin, the digestive tract becomes dry and undernourished, leading to a dull burning sensation, poor appetite, and stubborn dryness in the mouth and throat.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks in the centre, little or no coating, dry surface. Pulse: fine (Xi), possibly rapid (Shu), weak at the right Guan position.",
+      "why_triggers_reliefs_work": "Yin is the body's cooling and moistening substance. Spicy, fried, and drying foods consume Yin, intensifying the internal dryness and the dull burning sensation. Overwork and stress further deplete the body's resources, leaving less to nourish the digestive organs. Rest, cool drinks, and moistening foods help replenish Yin and soothe the Stomach, allowing the digestive system to recover its normal function.",
+      "diet_and_lifestyle": "Favor cool, moistening foods like pears, apples, congee, tofu, and spinach. Eat small, frequent meals rather than large ones. Avoid spicy, fried, or overly dry foods, and limit alcohol and coffee. Gentle rest and a calm environment help the body rebuild Yin reserves.",
+      "formulas": [
+        {
+          "id": 15548,
+          "pattern_id": 6835,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "Nourishes Stomach Yin and harmonizes the Stomach, relieving dryness and the dull burning sensation."
+        },
+        {
+          "id": 15549,
+          "pattern_id": 6835,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "Generates fluids and moistens both the Stomach and Lungs, ideal for post-viral dry mouth and fatigue."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35792,
+          "pattern_id": 6835,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "",
+          "description": "Nourishes Yin and generates fluids, especially for the Stomach and Lungs."
+        },
+        {
+          "id": 35793,
+          "pattern_id": 6835,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens the Stomach and Heart, eases dry mouth and restlessness."
+        },
+        {
+          "id": 35794,
+          "pattern_id": 6835,
+          "herb_name": "Yu zhu",
+          "herb_url": "/knowledge-base/herbs/yu-zhu",
+          "translation": "Solomon&#x27;s seal rhizome",
+          "properties": "",
+          "description": "Nourishes Yin without being cloying, soothes a dry, irritable Stomach."
+        },
+        {
+          "id": 35795,
+          "pattern_id": 6835,
+          "herb_name": "Shi Hu",
+          "herb_url": "/knowledge-base/herbs/shi-hu",
+          "translation": "Dendrobium stem",
+          "properties": "",
+          "description": "Specifically tonifies Stomach Yin and clears deficiency heat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24405,
+          "pattern_id": 6835,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the Stomach and regulates the middle burner, easing fullness and discomfort."
+        },
+        {
+          "id": 24406,
+          "pattern_id": 6835,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and Blood, supporting the Spleen and Stomach&#x27;s fluid metabolism."
+        },
+        {
+          "id": 24407,
+          "pattern_id": 6835,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonifies Kidney Yin to support the Stomach and Spleen, addressing the root of dryness."
+        },
+        {
+          "id": 24408,
+          "pattern_id": 6835,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Strengthens the Spleen&#x27;s ability to transform and transport fluids."
+        }
+      ]
+    },
+    {
+      "id": 6836,
+      "condition_id": 1391,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "pattern_slug": "kidney-and-liver-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Soreness and weakness of the lower back and knees\", \"Night sweats with heat in the palms, soles, and chest\", \"Dizziness and ringing in the ears\", \"Dry eyes with blurred vision\", \"Red tongue with little or no coating\"]",
+      "worse_with": "Overwork and pushing through fatigue, Spicy, fried, or drying foods, Alcohol and late nights, Overwork and mental stress",
+      "better_with": "Early nights and deep rest, Cooling, moistening foods and broths, Gentle movement like walking",
+      "why_this_happens": "After a viral illness the body can be left in a state of deep depletion where the cooling, moistening Yin of the Kidneys and Liver is drained. The Kidneys govern the bones and lower back, so when their Yin is insufficient, soreness and weakness settle into the low back and knees. The Liver opens into the eyes and its Yin anchors the Shen (mind); without that anchor, dry eyes, blurred vision, dizziness, and restless sleep with vivid dreams appear. The Yin deficit also allows deficiency heat to rise, creating night sweats and the characteristic sensation of heat in the palms, soles, and chest.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks, especially in the centre or root; coating scanty or absent; surface dry. Pulse: fine (thin), rapid, and often wiry; left Chi (Kidney) position weak or barely palpable.",
+      "why_triggers_reliefs_work": "Kidney and Liver Yin are the body's deepest cooling reserves. Overwork, stress, and late nights burn through these reserves, while spicy and drying foods add heat and consume fluids further. Rest, early nights, and moistening foods allow Yin to regenerate naturally, and gentle movement keeps Qi flowing without stoking deficiency fire.",
+      "diet_and_lifestyle": "Prioritise rest and avoid pushing through fatigue-Yin rebuilds during stillness and sleep. Eat moistening, cooling foods like pear, black sesame, goji berries, congee, and bone broths; steer clear of spicy, fried, and drying foods as well as alcohol and late nights. Gentle, grounding practices such as restorative yoga or walking in nature help settle the mind without overheating the body.",
+      "formulas": [
+        {
+          "id": 15550,
+          "pattern_id": 6836,
+          "formula_name": "Qi Ju Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/qi-ju-di-huang-wan",
+          "translation": "Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;)",
+          "properties": "Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat",
+          "description": "Nourishes Liver and Kidney Yin while specifically brightening the eyes and calming the head-ideal when dizziness, dry eyes, and blurred vision dominate."
+        },
+        {
+          "id": 15551,
+          "pattern_id": 6836,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "The classic foundation formula for Kidney and Liver Yin deficiency; it replenishes Yin, cools deficiency heat, and stabilises the lower back."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35796,
+          "pattern_id": 6836,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and essence to rebuild the depleted foundation."
+        },
+        {
+          "id": 35797,
+          "pattern_id": 6836,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Enriches Liver and Kidney Yin, moistens the eyes, and steadies dizziness."
+        },
+        {
+          "id": 35798,
+          "pattern_id": 6836,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Astringes the Kidney essence and consolidates Yin to reduce night sweats and lower back soreness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24409,
+          "pattern_id": 6836,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel; reinforces Kidney Yin and anchors deficiency heat."
+        },
+        {
+          "id": 24410,
+          "pattern_id": 6836,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Clears deficiency heat, moistens the throat, and calms the mind for better sleep."
+        },
+        {
+          "id": 24411,
+          "pattern_id": 6836,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Back-Shu point of the Kidney; directly tonifies Kidney Yin and strengthens the lower back."
+        },
+        {
+          "id": 24412,
+          "pattern_id": 6836,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Back-Shu point of the Liver; nourishes Liver Yin and supports clear vision and smooth Qi flow."
+        }
+      ]
+    },
+    {
+      "id": 6837,
+      "condition_id": 1391,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Deep cold sensation, especially in the lower back and legs\", \"Frequent urination, particularly waking at night to pee\", \"Soreness and weakness of the lower back and knees\", \"Mental dullness, low spirits, and a desire to sleep more than usual\"]",
+      "worse_with": "Exposure to cold weather or draughts, Cold, raw, or greasy foods, Overwork and prolonged standing, Excessive sexual activity",
+      "better_with": "Warmth on the lower back (hot water bottle, heating pad), Warm, cooked meals, Rest and avoiding overwork, Gentle movement like walking",
+      "why_this_happens": "After a long viral illness, the body's deepest reserves of Yang-the warming, motivating energy-can become exhausted. The Kidneys are the root of all Yang in the body, and when they are depleted, the internal fire that keeps you warm and drives metabolism dims. This leaves you feeling persistently cold, especially in the lower back and legs, and unable to generate the energy needed for daily life.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks on the edges, and a wet white coating. Pulse: deep, slow, and weak, especially at the rear (Kidney) positions.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's internal pilot light; it warms, transforms, and motivates. Cold environments and cold foods demand extra Yang just to keep the body warm, further draining an already depleted fire. Overwork and standing for long periods tax the Kidneys and lower back directly. Rest and warmth, on the other hand, conserve and gently replenish that Yang. Warm, easily digested foods provide energy without straining the digestive fire, while gentle movement encourages the smooth flow of Qi without exhausting it.",
+      "diet_and_lifestyle": "Emphasize warm, cooked foods like soups, stews, and congees, and use warming spices such as ginger, cinnamon, and cloves. Avoid cold, raw foods and iced drinks. Keep the lower back and feet warm, and a hot water bottle over the low back can be very comforting. Gentle, consistent movement like walking helps circulate Yang without overexertion.",
+      "formulas": [
+        {
+          "id": 15552,
+          "pattern_id": 6837,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The classic formula to warm and tonify Kidney Yang, replenishing the Gate of Life Fire to restore deep vitality."
+        },
+        {
+          "id": 15553,
+          "pattern_id": 6837,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 15554,
+          "pattern_id": 6837,
+          "formula_name": "Si Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/si-jun-zi-tang",
+          "translation": "Four Gentlemen Decoction &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "A foundational classical formula used to strengthen digestion and restore vitality. It gently tonifies the Spleen and Stomach to address fatigue, poor appetite, loose stools, and a pale complexion caused by Qi deficiency. All four herbs are mild and balanced, making this one of the gentlest and most widely used tonic formulas in Chinese medicine."
+        },
+        {
+          "id": 15555,
+          "pattern_id": 6837,
+          "formula_name": "Xiang Sha Liu Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+          "translation": "Aucklandia and Amomum Six Gentlemen Decoction &#xB7; Q&#x12B;ng dynasty, circa 1675 CE",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Harmonizes the Stomach, Moves Qi and Resolves Stagnation",
+          "description": "A classical formula designed to strengthen weak digestion and relieve bloating, nausea, and abdominal discomfort caused by a weak Spleen and Stomach with dampness and stagnation. It builds upon the foundational Si Jun Zi Tang (Four Gentlemen Decoction) by adding herbs that move Qi and resolve phlegm, making it especially suited for people whose digestive weakness is accompanied by a feeling of fullness, poor appetite, and loose stools."
+        },
+        {
+          "id": 15556,
+          "pattern_id": 6837,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 15557,
+          "pattern_id": 6837,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "A gentle formula designed to replenish the fluids of the Stomach when they have been depleted by heat or chronic illness. It is commonly used for dry mouth and throat, poor appetite despite feeling hungry, and a red tongue with little coating. The formula uses sweet, cooling, moistening herbs to restore the Stomach&#x27;s natural lubrication and digestive function."
+        },
+        {
+          "id": 15558,
+          "pattern_id": 6837,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "A gentle, cooling formula used to restore moisture and fluids to the Lungs and Stomach when they have become dried out. It is commonly used for persistent dry cough, dry throat, thirst, and other symptoms of dryness, particularly during autumn or following a feverish illness. The formula nourishes without being heavy, making it well-suited for conditions where the body&#x27;s natural moistening fluids have been depleted."
+        },
+        {
+          "id": 15559,
+          "pattern_id": 6837,
+          "formula_name": "Qi Ju Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/qi-ju-di-huang-wan",
+          "translation": "Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;)",
+          "properties": "Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat",
+          "description": "A classical formula that nourishes the Liver and Kidneys to support eye health and clear vision. It is used for blurred vision, dry eyes, sensitivity to light, excessive tearing in wind, dizziness, and ringing in the ears caused by Liver and Kidney Yin deficiency. Built on the famous Liu Wei Di Huang Wan (Six-Ingredient Rehmannia Pill) with the addition of goji berry and chrysanthemum flower for their vision-supporting properties."
+        },
+        {
+          "id": 15560,
+          "pattern_id": 6837,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency."
+        },
+        {
+          "id": 15561,
+          "pattern_id": 6837,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35799,
+          "pattern_id": 6837,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms Kidney Yang and directs the fire back to the Gate of Life, alleviating deep coldness."
+        },
+        {
+          "id": 35800,
+          "pattern_id": 6837,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Specifically strengthens the lower back and knees, the primary sites of discomfort in this pattern."
+        },
+        {
+          "id": 35801,
+          "pattern_id": 6837,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 35802,
+          "pattern_id": 6837,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 35803,
+          "pattern_id": 6837,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 35804,
+          "pattern_id": 6837,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 35805,
+          "pattern_id": 6837,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 35806,
+          "pattern_id": 6837,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating",
+          "description": ""
+        },
+        {
+          "id": 35807,
+          "pattern_id": 6837,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 35808,
+          "pattern_id": 6837,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 35809,
+          "pattern_id": 6837,
+          "herb_name": "Yu zhu",
+          "herb_url": "/knowledge-base/herbs/yu-zhu",
+          "translation": "Solomon&#x27;s seal rhizome",
+          "properties": "Slightly Cool, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 35810,
+          "pattern_id": 6837,
+          "herb_name": "Shi Hu",
+          "herb_url": "/knowledge-base/herbs/shi-hu",
+          "translation": "Dendrobium stem",
+          "properties": "Slightly Cool, Benefits the Stomach and Generates Fluids, Nourishes Yin and clears Heat, Nourishes Kidney Yin",
+          "description": ""
+        },
+        {
+          "id": 35811,
+          "pattern_id": 6837,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 35812,
+          "pattern_id": 6837,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 35813,
+          "pattern_id": 6837,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        },
+        {
+          "id": 35814,
+          "pattern_id": 6837,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 35815,
+          "pattern_id": 6837,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24413,
+          "pattern_id": 6837,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Directly warms the Gate of Life Fire, the source of the body&#x27;s Yang energy."
+        },
+        {
+          "id": 24414,
+          "pattern_id": 6837,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and strengthens the lower back."
+        },
+        {
+          "id": 24415,
+          "pattern_id": 6837,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Fortifies the body&#x27;s foundational Yang and supports urinary function."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 9032,
+      "condition_id": 1391,
+      "question": "How long does it take for acupuncture to work for post-viral fatigue?",
+      "answer": "Many people notice a subtle lift in energy and clearer thinking within the first 2-4 weekly sessions. Deeper rebuilding of Qi and Blood takes longer - most patients follow a treatment plan of 8-12 weeks, with herbs taken daily between visits. Those with Yin or Yang deficiency may need 3-6 months to feel fully restored because the body’s foundational reserves have been significantly drained."
+    },
+    {
+      "id": 9033,
+      "condition_id": 1391,
+      "question": "Can I take Chinese herbs with my regular medications?",
+      "answer": "In most cases, yes. The gentle tonic herbs commonly used for post-viral recovery - such as Dang Shen, Huang Qi, and Bai Zhu - have a very low risk of interaction with common medications like pain relievers or antihistamines. However, if you take blood thinners (warfarin, aspirin, clopidogrel) or immunosuppressants, always bring your full medication list to your TCM consultation. Herbs that move Blood, such as Dang Gui, may need to be adjusted. Never stop or change a prescribed medication without speaking to your doctor."
+    },
+    {
+      "id": 9034,
+      "condition_id": 1391,
+      "question": "What should I eat to help my recovery from post-viral fatigue?",
+      "answer": "Your digestive system is the engine that makes Qi and Blood, so the most important rule is to give it warm, cooked, easy-to-digest foods. Think congee, bone broths, steamed vegetables, and soups. Avoid raw salads, iced drinks, fried foods, and excessive dairy, which tax a weakened Spleen. Small, frequent meals work better than three large ones. Adding ginger, jujube dates, and a little rice wine to cooking can gently warm and strengthen digestion. If your mouth is dry and you feel hot (Yin deficiency), pears, tofu, and millet are cooling and moistening."
+    },
+    {
+      "id": 9035,
+      "condition_id": 1391,
+      "question": "Is post-viral syndrome the same as chronic fatigue syndrome?",
+      "answer": "Not necessarily. Post-viral syndrome is triggered by a specific acute infection and, in TCM, often involves a clearer pattern of depletion that can be rebuilt. Some people recover fully with time and proper support. If symptoms persist for many months or years and meet specific criteria, it may be diagnosed as myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), which TCM also treats but often involves more complex, deep-seated patterns. Early intervention with TCM may help prevent a slide into chronicity."
+    },
+    {
+      "id": 9036,
+      "condition_id": 1391,
+      "question": "Will the fatigue come back after I stop treatment?",
+      "answer": "When the underlying deficiency is fully corrected and the body’s reserves are rebuilt, the results tend to hold. A TCM practitioner will often continue herbs at a lower maintenance dose for several weeks after symptoms resolve to consolidate the gains. The key is not to rush back into a demanding schedule too soon - protecting your recovered Qi with adequate rest and a nourishing diet is essential to prevent a relapse."
+    },
+    {
+      "id": 9037,
+      "condition_id": 1391,
+      "question": "Can TCM help with the brain fog that lingers after a virus?",
+      "answer": "Yes, brain fog is a classic sign that the Spleen is too weak to produce enough clear Qi to rise to the head, or that Blood is insufficient to nourish the Heart and brain. Formulas like Gui Pi Tang (for Heart and Spleen deficiency) and Ba Zhen Tang (for Qi and Blood deficiency) are specifically designed to sharpen thinking by enriching the Blood and raising clear Qi. Acupuncture points such as Zusanli (ST-36) and Baihui (DU-20) also help lift mental cloudiness."
+    }
+  ],
+  "research": [
+    {
+      "id": 2060,
+      "condition_id": 1391,
+      "title": "Effectiveness of Five-Element Regulatory Therapy for post-COVID syndrome: a retrospective cohort study",
+      "description": "This retrospective cohort study compared 120 post-COVID patients receiving Five-Element Regulatory Therapy (individualized herbal decoctions based on elemental constitution) with 120 patients receiving standard care. The treatment group showed significantly greater improvements in fatigue, cough, and quality of life scores after 4 weeks, with no serious adverse events.",
+      "url": "https://doi.org/10.3389/fmed.2025.1621948",
+      "periodical": "Li Y, et al. Effectiveness of Five-Element Regulatory Therapy for post-COVID syndrome: a retrospective cohort study. Front Med (Lausanne). 2025;12:1621948."
+    },
+    {
+      "id": 2061,
+      "condition_id": 1391,
+      "title": "The Traditional Chinese Medicine Formula Jing Guan Fang for the Prevention of COVID-19: A Prospective, Open-Label, Controlled Clinical Trial",
+      "description": "This trial evaluated Jing Guan Fang, a herbal formula designed to strengthen defensive Qi and clear heat, in 300 high-risk individuals. Those taking the formula had a lower incidence of COVID-19 and, among those infected, milder symptoms and faster recovery, suggesting a role in post-viral prevention and recovery.",
+      "url": "https://doi.org/10.3389/fphar.2022.744439",
+      "periodical": "Zhang X, et al. The Traditional Chinese Medicine Formula Jing Guan Fang for the Prevention of COVID-19: A Prospective, Open-Label, Controlled Clinical Trial. Front Pharmacol. 2022;13:744439."
+    }
+  ]
+}

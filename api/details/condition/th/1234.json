@@ -1,0 +1,824 @@
+{
+  "id": 1234,
+  "name": "อดัมส์-สโตกส์ซินโดรม",
+  "url": "/knowledge-base/conditions/adams-stokes-syndrome",
+  "kind": "Condition",
+  "pinyin": "xīn jué",
+  "chinese_name": "心厥",
+  "preview_text": "การสูญเสียสติอย่างกะทันหันในกลุ่มอาการ Adams-Stokes ไม่ใช่โรคหนึ่งใน TCM แต่เป็นระฆังปลุกที่สามารถส่งสัญญาณการล่มสลายของ Heart Yang การเพิ่มขึ้นของ Qi ตับ หรือเมฆมาก",
+  "categories": "[\"สภาพหัวใจ\", \"จังหวะการเต้นของหัวใจและอาการใจสั่น\", \"เป็นลมและสูญเสียสติ\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[]",
+  "conventional_description": "Adams-Stokes syndrome is a type of syncope (fainting) caused by a sudden, severe drop in cardiac output, most often due to a transient complete heart block or a dangerous ventricular arrhythmia. The brain is exquisitely sensitive to oxygen deprivation; when the heart pauses or beats ineffectively for even a few seconds, the person collapses without warning, often with a ghostly pale face and sometimes with brief seizure-like movements. Diagnosis typically involves an electrocardiogram (ECG), Holter monitoring, and sometimes an electrophysiology study to identify the rhythm disturbance.",
+  "conventional_treatments": "Conventional treatment focuses on preventing the dangerous pauses in heart rhythm. For heart block, the definitive solution is usually a permanent pacemaker. For tachyarrhythmias, medications such as beta-blockers or antiarrhythmics may be used, and in some cases an implantable cardioverter-defibrillator (ICD) is placed. During an acute episode, cardiopulmonary resuscitation and emergency pacing are life-saving measures.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, consciousness depends on the Heart's ability to house the Shen (the spirit-mind) and pump blood upward to the brain. When this flow is suddenly interrupted, fainting occurs. The most direct cause is a failure of Heart Yang - the warming, propelling force that drives circulation. If this Yang collapses, the heart loses its power, the limbs turn ice-cold, and the pulse becomes barely perceptible. This is the classic picture of Heart Yang Collapsing, an emergency pattern that demands immediate restoration of warmth and vitality.\nBut the Heart does not work alone. The Liver is responsible for the smooth flow of Qi throughout the body; intense emotional stress or frustration can cause Qi to surge upward in a chaotic reversal, disrupting the heart's rhythm and cutting off blood to the brain. The Spleen transforms fluids, and when it is weak, Dampness accumulates and congeals into Phlegm - a turbid substance that can physically cloud the Heart orifice, blocking the Shen from the body and causing a sudden, dramatic loss of consciousness. Even the Kidney, the root of all Yang, plays a role: a deep, chronic Kidney Yang Deficiency often underlies a Heart that is perpetually cold and weak.\nThis is why a single Western diagnosis of Adams-Stokes syndrome can correspond to several distinct TCM patterns, each with its own tongue appearance, pulse quality, and constellation of accompanying symptoms. The treatment must match the pattern: warming and rescuing Yang for collapse, boosting Qi for chronic deficiency, resolving Phlegm for obstruction, soothing the Liver for stagnation, or clearing Heat for a rare but severe pericardial invasion. Two people with the same fainting spells may receive completely different herbal formulas and acupuncture points because the root imbalance is not the same.",
+  "classical_quote": "「凡厥者，阴阳气不相顺接，便为厥。厥者，手足逆冷是也。」",
+  "classical_translation": "\"All Jue syndromes occur when Yin and Yang Qi fail to connect smoothly. Jue manifests as cold extremities.\"",
+  "classical_source": "Shang Han Lun (Treatise on Cold Damage)  ,  Chapter on Jue Yin Disease \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking what happens right before and during a fainting spell, and what the person feels in between episodes. The quality of the coldness, the look of the tongue, and the feel of the pulse are the strongest clues that separate one pattern from another.\nIf the collapse is sudden and dramatic, with icy limbs, profuse sweating, and a pulse that is barely detectable, that points to Heart Yang Collapsing. The tongue is pale and swollen, and the whole picture screams an emergency of exhausted yang.\nWhen the coldness is more persistent and the person is chronically fatigued, with a pale tongue and a deep, weak pulse, that suggests Heart Yang Deficiency. Fainting here is less explosive but still rooted in the heart’s failing warmth and circulation.\nIf palpitations and shortness of breath on exertion are the main complaints, and the tongue is pale with a weak pulse, Heart Qi Deficiency is likely. The limbs may be only mildly cool, and the fainting is often triggered by overexertion rather than striking out of nowhere.\nWhen a fainting spell comes with a heavy, suffocating sensation in the chest, nausea, and a thick, greasy tongue coating, the diagnosis shifts toward Phlegm Misting the Heart. The pulse feels slippery, and the person may have a history of phlegm-dampness.\nIf emotional stress or frustration clearly sets off an episode, and the person feels distension in the chest and ribcage along with cold limbs, Liver Qi Stagnation is the culprit. The tongue may look normal or slightly dusky, and the pulse becomes wiry.\nIn the rare case where a hot body, sweating, and a red tongue accompany the fainting, Heat in the Pericardium is the pattern. The pulse is rapid, and the syncope occurs amidst signs of internal heat rather than cold.",
+  "patterns": [
+    {
+      "id": 6074,
+      "condition_id": 1234,
+      "pattern_name": "Heart Yang Collapsing",
+      "pattern_slug": "heart-yang-collapsing",
+      "is_common": 0,
+      "symptoms": "[\"Ice-cold limbs past elbows and knees\", \"Profuse cold clammy sweating on forehead\", \"Blue-purple lips and nail beds\", \"Extremely weak shallow breathing\", \"Confusion or loss of consciousness\", \"Ashen-white or grey complexion\"]",
+      "worse_with": "Cold weather or exposure, Physical overexertion, Emotional shock or fear, Cold foods and drinks",
+      "better_with": "Warmth and blankets, Rest and calm, Ginger tea, Gentle reassurance",
+      "why_this_happens": "Heart Yang is the body's warming and propelling force. When it collapses, the heart can no longer pump blood effectively, so the brain suddenly loses its supply of oxygen-rich blood - causing the fainting spell of Adams-Stokes syndrome. At the same time, the body turns ice-cold and breaks out in a clammy sweat because Yang has abandoned the surface.",
+      "tongue_and_pulse": "Tongue: very pale or bluish-purple, short and flaccid, wet with a thin white slippery coat. Pulse: Minute (Wei), barely perceptible; may be Hidden (Fu) or Knotted (Jie).",
+      "why_triggers_reliefs_work": "Cold and overexertion further deplete the already fragile Yang, pushing the heart toward collapse. Warmth, rest, and warm fluids help conserve and gently support the remaining Yang, preventing it from slipping away completely. Emotional shock stirs up Qi and can trigger a reversal that the failing Heart cannot withstand.",
+      "diet_and_lifestyle": "This is a medical emergency - call for help immediately. While waiting, keep the person warm and lying down. In recovery, eat warm, easy-to-digest foods like congee with ginger and cinnamon to rebuild Yang. Avoid cold, raw, or heavy foods that tax the digestive fire.",
+      "formulas": [
+        {
+          "id": 13778,
+          "pattern_id": 6074,
+          "formula_name": "Shen Fu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-tang",
+          "translation": "Ginseng and Aconite Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Greatly Tonifies the Source Qi, Secures Essence and Stops Leakage",
+          "description": "The classic formula to rescue devastated Yang, restore consciousness, and stop the cold sweat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31877,
+          "pattern_id": 6074,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully replenishes the original Qi and rescues the collapsing Yang."
+        },
+        {
+          "id": 31878,
+          "pattern_id": 6074,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms the Heart and restores the fading Yang, driving out internal Cold."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21711,
+          "pattern_id": 6074,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Moxa. Strengthens Heart Yang and restores cardiac function."
+        },
+        {
+          "id": 21712,
+          "pattern_id": 6074,
+          "acupoint_code": "REN-8",
+          "acupoint_name": "Shenque REN-8",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shenque-ren-8",
+          "translation": "Sh&#xE9;n Qu&#x113;",
+          "properties": "Warms and rescues the Yang, Strengthens the Spleen",
+          "description": "Moxa with salt. Revives Yang and stabilizes collapse."
+        },
+        {
+          "id": 21713,
+          "pattern_id": 6074,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxa. Nourishes the root of Yang and anchors the life force."
+        },
+        {
+          "id": 21714,
+          "pattern_id": 6074,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart rhythm and calms the spirit during crisis."
+        },
+        {
+          "id": 21715,
+          "pattern_id": 6074,
+          "acupoint_code": "KI-1",
+          "acupoint_name": "Yongquan KI-1",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/yongquan-ki-1",
+          "translation": "Y&#x1D2;ng Qu&#xE1;n",
+          "properties": "Nourishes Yin and clears Empty-Heat, Regulates Qi the Lower Burner",
+          "description": "Moxa. Anchors floating Yang and restores consciousness."
+        }
+      ]
+    },
+    {
+      "id": 6075,
+      "condition_id": 1234,
+      "pattern_name": "Heart Yang Deficiency",
+      "pattern_slug": "heart-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Cold hands and feet\", \"Palpitations worse with exertion\", \"Bright pale or whitish complexion\", \"Chronic fatigue and desire to lie down\", \"Chest stuffiness/pain better with warmth\"]",
+      "worse_with": "Cold weather or exposure, Physical overexertion, Emotional stress and fear, Cold foods and drinks, Standing for long periods",
+      "better_with": "Warmth and warm drinks, Rest and calm, Gentle exercise or movement, Warm compress on chest, Eating cooked, warming meals",
+      "why_this_happens": "The Heart's Yang is the warming fire that pumps blood through the body. When this fire is chronically weak, the heartbeat becomes slow and unsteady, and blood struggles to reach the brain. This can cause sudden fainting spells, especially after even mild exertion, with cold limbs and a pale face.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks and a white slippery coating. Pulse: deep, weak, especially at the left Cun position; may be knotted (slow with irregular pauses).",
+      "why_triggers_reliefs_work": "Heart Yang is the body's internal fire that drives circulation. Cold, overwork, and emotional shock deplete this fire, making the heartbeat weak and blood flow sluggish, which triggers fainting. Warmth, rest, and nourishing foods gently stoke the fire and restore steady circulation.",
+      "diet_and_lifestyle": "Eat warming foods like ginger, cinnamon, lamb, and walnuts. Avoid cold drinks and raw foods that chill the body. Gentle daily movement like walking helps circulate Yang without exhausting it. Keep the chest and feet warm, especially in cold weather.",
+      "formulas": [
+        {
+          "id": 13779,
+          "pattern_id": 6075,
+          "formula_name": "Gui Zhi Jia Long Gu Mu Li Tang",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang",
+          "translation": "Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage",
+          "description": "Warms and tonifies Heart Yang, calms the spirit, and stabilizes the pulse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31879,
+          "pattern_id": 6075,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the Heart Yang and promotes circulation to the extremities."
+        },
+        {
+          "id": 31880,
+          "pattern_id": 6075,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "",
+          "description": "Supplements Heart Qi and steadies the heartbeat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21716,
+          "pattern_id": 6075,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates heart rhythm and opens the chest."
+        },
+        {
+          "id": 21717,
+          "pattern_id": 6075,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the spirit and steadies the pulse."
+        },
+        {
+          "id": 21718,
+          "pattern_id": 6075,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Tonifies Heart Qi and Yang directly."
+        },
+        {
+          "id": 21719,
+          "pattern_id": 6075,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxa here warms the body&#x27;s core Yang and restores vitality."
+        }
+      ]
+    },
+    {
+      "id": 6076,
+      "condition_id": 1234,
+      "pattern_name": "Heart Qi Deficiency",
+      "pattern_slug": "heart-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations with weak empty pulse\", \"Breathlessness and fatigue on exertion\", \"Spontaneous sweating without heat\", \"Pale puffy tongue with midline crack\"]",
+      "worse_with": "Physical overexertion, Emotional stress or worry, Cold weather or exposure, Heavy, greasy meals",
+      "better_with": "Rest and calm, Warm, easily digestible foods, Gentle exercise or movement, Deep breathing",
+      "why_this_happens": "Heart Qi is the driving force that pushes blood through your vessels. When it is deficient, the heart struggles to maintain a steady rhythm and enough pressure to reach the brain. This can cause the blood pressure to dip suddenly, leading to dizziness, faintness, or a brief loss of consciousness.\nBecause Qi also anchors your awareness, a weak Heart Qi means you may feel anxious and easily startled, and even mild activity can bring on palpitations and breathlessness as the heart tries to compensate.",
+      "tongue_and_pulse": "Tongue: pale, puffy, with a thin white coat; a midline crack toward the tip may appear in chronic cases. Pulse: Empty (Xu) - soft and large at first touch but disappears under pressure, weakest at the left Cun position; may also be Weak (Ruo) or Fine (Xi).",
+      "why_triggers_reliefs_work": "Overexertion and emotional strain consume the very Qi that the heart depends on to pump blood, so they directly worsen the deficiency. Cold constricts and slows circulation, making the heart work harder with less fuel. Rest and gentle movement allow Qi to recover without being squandered, while warm, simple foods support the digestive system that builds Qi in the first place. Deep breathing helps circulate Qi and calms the mind, which is especially important when Heart Qi is too weak to anchor your awareness.",
+      "diet_and_lifestyle": "Eat warm, easily digestible foods like congee, soups, and stews; avoid raw, cold, and greasy meals that drain digestive Qi. Gentle daily movement such as walking or tai chi helps circulate Qi without exhausting it, while adequate rest and a regular sleep schedule are essential to rebuild your reserves.",
+      "formulas": [
+        {
+          "id": 13780,
+          "pattern_id": 6076,
+          "formula_name": "Zhi Gan Cao Tang",
+          "formula_url": "/knowledge-base/formulas/zhi-gan-cao-tang",
+          "translation": "Honey-Fried Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Nourishes Yin and Blood, Tonifies Qi, Warms and Unblocks Yang",
+          "description": "The classic formula to tonify Heart Qi, nourish blood, and restore a normal pulse, especially when palpitations, fatigue, and an irregular pulse are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31881,
+          "pattern_id": 6076,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi and strengthens the Heart, restoring vitality and steadying the pulse."
+        },
+        {
+          "id": 31882,
+          "pattern_id": 6076,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Qi and stabilizes the exterior to stop spontaneous sweating, while supporting the heart&#x27;s pumping action."
+        },
+        {
+          "id": 31883,
+          "pattern_id": 6076,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "",
+          "description": "Tonifies Heart Qi and moderates the pulse; use honey-fried (Zhi Gan Cao) for best effect on palpitations."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21720,
+          "pattern_id": 6076,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Tonifies Heart Qi and calms the spirit, reducing palpitations and anxiety."
+        },
+        {
+          "id": 21721,
+          "pattern_id": 6076,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart rhythm, opens the chest, and relieves the feeling of stuffiness."
+        },
+        {
+          "id": 21722,
+          "pattern_id": 6076,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to generate Qi and blood, supporting the Heart."
+        }
+      ]
+    },
+    {
+      "id": 6077,
+      "condition_id": 1234,
+      "pattern_name": "Phlegm Misting the Heart",
+      "pattern_slug": "phlegm-misting-the-heart",
+      "is_common": 0,
+      "symptoms": "[\"Rattling or gurgling throat sound\", \"Thick white greasy tongue coating\", \"Chest oppression and stuffiness\", \"Mental confusion or dullness\", \"Excessive saliva or drooling\", \"Nausea or urge to vomit\"]",
+      "worse_with": "Heavy, greasy meals, Cold, damp weather, Overeating, Sedentary lifestyle, Dairy products",
+      "better_with": "Light, dry, warm foods, Ginger tea, Gentle exercise or movement, Dry, warm environment",
+      "why_this_happens": "When the Spleen is weak and cannot transform fluids properly, Dampness accumulates and congeals into Phlegm. This turbid Phlegm can rise and physically obstruct the Heart orifice, where the Shen (spirit) resides. The obstruction cuts off the Shen from the body, causing a sudden, dramatic loss of consciousness. The chest feels heavy and oppressed, and a gurgling or rattling sound often escapes the throat as the Phlegm blocks the airway.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with a thick, white, greasy coating; may appear stiff or sluggish. Pulse: slippery (滑, huá), smooth and rolling like beads on a string, especially strong in the middle position.",
+      "why_triggers_reliefs_work": "Phlegm forms when the Spleen fails to transform fluids, which is often worsened by overeating rich, greasy, or cold foods. These habits create more Dampness that congeals into Phlegm, directly obstructing the Heart orifice. Light, warm foods and gentle movement encourage Qi to flow and transform Phlegm, while dry conditions help the body process excess moisture. Ginger tea gently warms the middle burner and supports the Spleen in breaking down Dampness.",
+      "diet_and_lifestyle": "Avoid heavy, greasy, and dairy-rich foods that create Dampness and Phlegm. Favor light, warm, easily digestible meals with plenty of cooked vegetables. Sip ginger tea to help transform Phlegm. Gentle daily movement like walking supports Qi flow and prevents stagnation.",
+      "formulas": [
+        {
+          "id": 13781,
+          "pattern_id": 6077,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "Resolves Phlegm, opens the Heart orifice, and restores consciousness - the classic formula for Phlegm obstructing the Shen."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31884,
+          "pattern_id": 6077,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Opens the orifices and transforms Phlegm, specifically targeting the Heart and mind."
+        },
+        {
+          "id": 31885,
+          "pattern_id": 6077,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and resolves Phlegm, especially the sticky Phlegm that causes a rattling throat."
+        },
+        {
+          "id": 31886,
+          "pattern_id": 6077,
+          "herb_name": "Tian Nan Xing",
+          "herb_url": "/knowledge-base/herbs/tian-nan-xing",
+          "translation": "Jack-in-the-Pulpit rhizome",
+          "properties": "",
+          "description": "Strongly resolves Phlegm and opens the channels, used for Phlegm obstructing the Heart orifice."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21723,
+          "pattern_id": 6077,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform Phlegm and Dampness throughout the body."
+        },
+        {
+          "id": 21724,
+          "pattern_id": 6077,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Front-Mu point of the Stomach; regulates the middle burner and resolves Phlegm."
+        },
+        {
+          "id": 21725,
+          "pattern_id": 6077,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the spirit and opens the Heart orifice."
+        },
+        {
+          "id": 21726,
+          "pattern_id": 6077,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, regulates Heart Qi, and calms the mind."
+        },
+        {
+          "id": 21727,
+          "pattern_id": 6077,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Awakens the spirit and restores consciousness."
+        }
+      ]
+    },
+    {
+      "id": 6078,
+      "condition_id": 1234,
+      "pattern_name": "Liver Qi Stagnation",
+      "pattern_slug": "liver-qi-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fainting after emotional upset or frustration\", \"Chest and hypochondriac distension\", \"Frequent sighing\", \"Plum pit sensation\", \"Cold limbs during fainting episodes\"]",
+      "worse_with": "Emotional stress and frustration, Sedentary lifestyle, Heavy, greasy meals, Suppressing emotions",
+      "better_with": "Gentle exercise or movement, Stress management and relaxation, Deep breathing, Emotional support",
+      "why_this_happens": "When stress and frustration build, the Liver's ability to keep Qi flowing smoothly is blocked. This stagnation can suddenly surge upward as a 'Qi reversal' (气逆), disrupting the heart's rhythm and the normal flow of blood to the brain. The result is a brief loss of consciousness with cold limbs, often triggered by an emotional upset.",
+      "tongue_and_pulse": "Tongue: normal or slightly dark body, red or slightly purple at the sides, thin white coat. Pulse: wiry (弦 xián), like a taut guitar string.",
+      "why_triggers_reliefs_work": "Emotional stress and frustration are the primary triggers because they cause Liver Qi to stagnate and then surge upward, leading to Qi reversal and fainting. Gentle exercise and relaxation smooth the flow of Liver Qi, preventing the sudden rise. Avoiding heavy, greasy foods reduces the burden on the Liver's function, while emotional expression and support prevent stagnation from building up.",
+      "diet_and_lifestyle": "Eat light, warm meals and avoid greasy, heavy foods that clog the Liver. Peppermint tea, chamomile, and small amounts of citrus peel can help move Qi. Gentle daily movement like walking, stretching, or yoga keeps Qi flowing. Practice stress management and avoid bottling up emotions.",
+      "formulas": [
+        {
+          "id": 13782,
+          "pattern_id": 6078,
+          "formula_name": "Si Ni San",
+          "formula_url": "/knowledge-base/formulas/si-ni-san",
+          "translation": "Frigid Extremities Powder &#xB7; H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Slightly Cool, Soothes the Liver and Regulates Qi, Harmonizes the Liver and Spleen, Courses the Liver and Resolves Constraint",
+          "description": "The classic formula for cold extremities due to Liver Qi stagnation; it unblocks Qi, warms the limbs, and resolves the reversal."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31887,
+          "pattern_id": 6078,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes the Liver and relieves stagnation, the chief herb for moving Liver Qi."
+        },
+        {
+          "id": 31888,
+          "pattern_id": 6078,
+          "herb_name": "Zhi Shi",
+          "herb_url": "/knowledge-base/herbs/zhi-shi",
+          "translation": "Immature Bitter Orange Fruit",
+          "properties": "",
+          "description": "Breaks stagnant Qi and descends the reversal."
+        },
+        {
+          "id": 31889,
+          "pattern_id": 6078,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver and harmonizes the blood to prevent the herbs from being too drying."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21728,
+          "pattern_id": 6078,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. The primary point to move Liver Qi and subdue the upward reversal."
+        },
+        {
+          "id": 21729,
+          "pattern_id": 6078,
+          "acupoint_code": "LR-14",
+          "acupoint_name": "Qimen LR-14",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/qimen-lr-14",
+          "translation": "Q&#x12B; M&#xE9;n",
+          "properties": "Invigorates Liver Qi, Harmonizes the Liver and Stomach",
+          "description": "Front-Mu point of the Liver; smooths Liver Qi and relieves chest and rib-side distension."
+        },
+        {
+          "id": 21730,
+          "pattern_id": 6078,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart Qi, calms the mind, and helps restore normal rhythm."
+        }
+      ]
+    },
+    {
+      "id": 6079,
+      "condition_id": 1234,
+      "pattern_name": "Heat in Pericardium",
+      "pattern_slug": "heat-in-pericardium",
+      "is_common": 0,
+      "symptoms": "[\"High fever that worsens at night\", \"Cold hands/feet despite hot body\", \"Delirium or incoherent speech\", \"Deep red (crimson) tongue\", \"Severe thirst or dry mouth\", \"Restlessness and agitation\"]",
+      "worse_with": "Hot and spicy foods, Alcohol, Emotional stress, Physical overexertion, Exposure to heat",
+      "better_with": "Cool environment, Drinking cool water, Rest and calm, Cooling foods like mung bean soup",
+      "why_this_happens": "Heat in the Pericardium is a severe condition where intense pathogenic heat invades the deepest Nutritive level of the body, directly disturbing the Heart's spirit (Shen). The heat forces Qi outward, causing agitation and delirium, but paradoxically blocks the flow of Yang Qi to the limbs, resulting in cold hands and feet despite a high fever. This sudden obstruction of the Heart's function can trigger a loss of consciousness, mimicking syncope in Adams-Stokes syndrome.",
+      "tongue_and_pulse": "Tongue: crimson (deep red) body, stiff or shortened, yellow dry coating or little coating. Pulse: fine (xi) and rapid (shu).",
+      "why_triggers_reliefs_work": "Heat in the Pericardium is an excess interior heat pattern where intense pathogenic fire disturbs the Heart and spirit. Cooling measures help drain this heat, calm the mind, and restore balance, while anything that adds heat or agitates the spirit will worsen the condition. Rest and calm allow the body to conserve Yin fluids and prevent further disturbance of the Shen.",
+      "diet_and_lifestyle": "Seek emergency medical care immediately. While awaiting help, keep the person in a cool, quiet environment and offer small sips of cool water if conscious. Avoid hot, spicy, and greasy foods. Once stable, focus on cooling fluids like mung bean soup, watermelon juice, and cucumber to clear residual heat.",
+      "formulas": [
+        {
+          "id": 13783,
+          "pattern_id": 6079,
+          "formula_name": "Qing Ying Tang",
+          "formula_url": "/knowledge-base/formulas/qing-ying-tang",
+          "translation": "Clear the Nutritive Level Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Cools the Nutritive Level, Resolves Heat Toxins, Vents Pathogenic Heat Outward",
+          "description": "The primary formula to clear Heat at the Nutritive level and calm the Spirit."
+        },
+        {
+          "id": 13784,
+          "pattern_id": 6079,
+          "formula_name": "An Gong Niu Huang Wan",
+          "formula_url": "/knowledge-base/formulas/an-gong-niu-huang-wan",
+          "translation": "Calm the Palace Pill with Cattle Gallstone &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Opens the Orifices and Revives Consciousness, Resolves Phlegm and Disperses Accumulation",
+          "description": "For severe cases with delirium and coma, to open the orifices and awaken the spirit."
+        },
+        {
+          "id": 13785,
+          "pattern_id": 6079,
+          "formula_name": "Shen Fu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-tang",
+          "translation": "Ginseng and Aconite Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Greatly Tonifies the Source Qi, Secures Essence and Stops Leakage",
+          "description": "A powerful emergency formula containing just two herbs, Ginseng and Aconite, used to rescue someone from a state of severe collapse where the body&#x27;s Yang (warming, animating force) and Qi are critically depleted. It is indicated for life-threatening situations such as shock, heart failure, or massive blood loss, where the person is ice-cold, drenched in cold sweat, and barely breathing with a nearly imperceptible pulse."
+        },
+        {
+          "id": 13786,
+          "pattern_id": 6079,
+          "formula_name": "Gui Zhi Jia Long Gu Mu Li Tang",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang",
+          "translation": "Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage",
+          "description": "A classical formula for people experiencing anxiety, palpitations, excessive sweating, insomnia with vivid dreams, or urinary issues stemming from a general state of depletion where the body can no longer properly contain its vital substances. It works by gently warming and rebalancing the body while calming the mind and helping the body hold onto what it is losing."
+        },
+        {
+          "id": 13787,
+          "pattern_id": 6079,
+          "formula_name": "Zhi Gan Cao Tang",
+          "formula_url": "/knowledge-base/formulas/zhi-gan-cao-tang",
+          "translation": "Honey-Fried Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Nourishes Yin and Blood, Tonifies Qi, Warms and Unblocks Yang",
+          "description": "A classical formula used to nourish the Heart by replenishing both Qi and Blood while gently warming Heart Yang. It is primarily used for people experiencing palpitations, irregular heartbeat, fatigue, and shortness of breath caused by depletion of the body&#x27;s vital substances. Because it simultaneously supports Yin, Yang, Qi, and Blood, it is one of the most balanced restorative formulas in Chinese medicine."
+        },
+        {
+          "id": 13788,
+          "pattern_id": 6079,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "A classical formula used to clear heavy Phlegm that clouds the mind and blocks clear speech. It is primarily used when thick Phlegm obstructs the Heart&#x27;s orifices following stroke or similar conditions, causing a stiff tongue and difficulty speaking. The formula powerfully sweeps out Phlegm while also opening the sensory orifices and supporting the body&#x27;s underlying Qi."
+        },
+        {
+          "id": 13789,
+          "pattern_id": 6079,
+          "formula_name": "Si Ni San",
+          "formula_url": "/knowledge-base/formulas/si-ni-san",
+          "translation": "Frigid Extremities Powder &#xB7; H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Slightly Cool, Soothes the Liver and Regulates Qi, Harmonizes the Liver and Spleen, Courses the Liver and Resolves Constraint",
+          "description": "A classical formula used when emotional stress or internal constraint causes cold fingers and toes, along with digestive discomfort such as abdominal bloating, pain beneath the ribs, or irregular bowel movements. It works by restoring the smooth flow of Qi through the Liver and Spleen, relieving the internal &quot;traffic jam&quot; that prevents warmth from reaching the hands and feet."
+        },
+        {
+          "id": 13790,
+          "pattern_id": 6079,
+          "formula_name": "Qing Ying Tang",
+          "formula_url": "/knowledge-base/formulas/qing-ying-tang",
+          "translation": "Clear the Nutritive Level Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Cools the Nutritive Level, Resolves Heat Toxins, Vents Pathogenic Heat Outward",
+          "description": "A classical formula for serious febrile (feverish) illnesses where Heat has penetrated deep into the body, causing high fever that worsens at night, restlessness, disturbed sleep, and sometimes delirium. It works by clearing deep-seated Heat, protecting the body&#x27;s fluids from being dried out, and guiding the pathogenic Heat back outward where the body can expel it more easily."
+        },
+        {
+          "id": 13791,
+          "pattern_id": 6079,
+          "formula_name": "An Gong Niu Huang Wan",
+          "formula_url": "/knowledge-base/formulas/an-gong-niu-huang-wan",
+          "translation": "Calm the Palace Pill with Cattle Gallstone &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Opens the Orifices and Revives Consciousness, Resolves Phlegm and Disperses Accumulation",
+          "description": "A renowned emergency formula used for severe febrile illnesses where extreme heat invades the Pericardium, causing loss of consciousness, high fever, delirium, and convulsions. It is one of the most famous TCM rescue medicines, historically described as capable of &#x27;saving the critically ill in an instant.&#x27; This is a powerful prescription for acute crises and is not suitable for daily use or prevention."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31890,
+          "pattern_id": 6079,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "",
+          "description": "Clears Heart Heat and cools the blood, crucial for Nutritive-level heat."
+        },
+        {
+          "id": 31891,
+          "pattern_id": 6079,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "",
+          "description": "Clears heat and nourishes Yin, helping to restore fluids damaged by fever."
+        },
+        {
+          "id": 31892,
+          "pattern_id": 6079,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 31893,
+          "pattern_id": 6079,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 31894,
+          "pattern_id": 6079,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 31895,
+          "pattern_id": 6079,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 31896,
+          "pattern_id": 6079,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 31897,
+          "pattern_id": 6079,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach",
+          "description": ""
+        },
+        {
+          "id": 31898,
+          "pattern_id": 6079,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 31899,
+          "pattern_id": 6079,
+          "herb_name": "Tian Nan Xing",
+          "herb_url": "/knowledge-base/herbs/tian-nan-xing",
+          "translation": "Jack-in-the-Pulpit rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Transforms Wind-Phlegm and Stops Spasms, Disperses Swelling and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 31900,
+          "pattern_id": 6079,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 31901,
+          "pattern_id": 6079,
+          "herb_name": "Zhi Shi",
+          "herb_url": "/knowledge-base/herbs/zhi-shi",
+          "translation": "Immature Bitter Orange Fruit",
+          "properties": "Slightly Cool, Breaks Qi and Eliminates Focal Distention, Promotes Digestion and Resolves Food Stagnation, Transforms Phlegm and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 31902,
+          "pattern_id": 6079,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 31903,
+          "pattern_id": 6079,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors",
+          "description": ""
+        },
+        {
+          "id": 31904,
+          "pattern_id": 6079,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "Cold, Clears Heat and Cools the Blood, Nourishes Yin and Generates Fluids, Purges Fire and Resolves Toxicity",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21731,
+          "pattern_id": 6079,
+          "acupoint_code": "PC-7",
+          "acupoint_name": "Daling PC-7",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/daling-pc-7",
+          "translation": "D&#xE0; L&#xED;ng",
+          "properties": "Calms the Mind, Clears Heat",
+          "description": "Reduce. Clears Heat from the Pericardium and calms the spirit."
+        },
+        {
+          "id": 21732,
+          "pattern_id": 6079,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Reduce. Calms the Heart and spirit, reduces agitation."
+        },
+        {
+          "id": 21733,
+          "pattern_id": 6079,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Reduce. Revives consciousness and clears the mind."
+        },
+        {
+          "id": 21734,
+          "pattern_id": 6079,
+          "acupoint_code": "PC-9",
+          "acupoint_name": "Zhongchong PC-9",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/zhongchong-pc-9",
+          "translation": "Zh&#x14D;ng Ch&#x14D;ng",
+          "properties": "Clears Heat, Restores consciousness",
+          "description": "Prick to bleed. Releases Heat from the Pericardium and opens the orifices."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 8015,
+      "condition_id": 1234,
+      "question": "Can Chinese herbs replace a pacemaker?",
+      "answer": "No. A pacemaker is a life-saving device for complete heart block or prolonged pauses, and TCM cannot substitute for it. However, herbs and acupuncture can be used alongside a pacemaker to strengthen the Heart's Qi and Yang, improve overall energy, and reduce the anxiety and coldness that often accompany the condition. Always inform both your cardiologist and TCM practitioner about all treatments you are receiving."
+    },
+    {
+      "id": 8016,
+      "condition_id": 1234,
+      "question": "What does the tongue look like in someone with Adams-Stokes syndrome?",
+      "answer": "It depends on the underlying pattern. In Heart Yang Collapse, the tongue is typically very pale or bluish-purple, short and flaccid, with a thin white slippery coat. Chronic Heart Yang Deficiency shows a pale, puffy tongue with teeth marks and a white coating. If Phlegm is the culprit, the tongue body is pale and swollen with a thick, greasy white coat. A TCM practitioner uses these signs, along with the pulse, to pinpoint the correct pattern."
+    },
+    {
+      "id": 8017,
+      "condition_id": 1234,
+      "question": "Can acupuncture prevent fainting spells?",
+      "answer": "Yes, when used as part of a comprehensive pattern-based treatment. Acupuncture can help regulate the heart's rhythm by calming the Shen, strengthening Heart Qi, and smoothing the flow of Liver Qi. Points like Neiguan (PC-6) and Shenmen (HT-7) are particularly important for stabilizing the heart and spirit. For deficiency patterns, moxibustion (the warming of points with a smoldering herb) is often added to deeply nourish Yang. Many patients notice a gradual reduction in the frequency and severity of spells over several weeks of regular treatment."
+    },
+    {
+      "id": 8018,
+      "condition_id": 1234,
+      "question": "Are there any foods I should avoid?",
+      "answer": "Yes. In general, cold and raw foods (iced drinks, salads, raw fruits in excess) deplete the Spleen and Heart Yang, making the body more vulnerable to collapse. Greasy, fried, and dairy-heavy foods promote Phlegm, which can cloud the Heart orifice. Instead, favor warm, cooked, easily digestible meals like soups, stews, and congees. A cup of ginger tea can gently warm the interior and support circulation."
+    },
+    {
+      "id": 8019,
+      "condition_id": 1234,
+      "question": "Is it safe to take Chinese herbs with my heart medications?",
+      "answer": "Certain herbs, especially those containing prepared aconite (Zhi Fu Zi), can influence heart rate and blood pressure and must be used with extreme caution alongside beta-blockers, calcium-channel blockers, or antiarrhythmic drugs. Always provide a complete list of your medications to your TCM practitioner and inform your cardiologist before starting any herbal formula. With proper communication and monitoring, TCM can often be safely integrated with conventional cardiac care."
+    },
+    {
+      "id": 8020,
+      "condition_id": 1234,
+      "question": "Can emotional stress really cause fainting?",
+      "answer": "In TCM, yes. The Liver is responsible for the smooth flow of Qi, and intense frustration, anger, or emotional shock can cause Qi to surge upward in a chaotic reversal. This sudden disruption can disturb the heart's rhythm and temporarily cut off blood flow to the brain, resulting in a fainting spell. This pattern, called Liver Qi Stagnation with Qi reversal, often presents with chest and rib-side distension, frequent sighing, and a wiry pulse. Treatment focuses on soothing the Liver and regulating Qi, and spells often diminish as emotional balance is restored."
+    }
+  ],
+  "research": [
+    {
+      "id": 1841,
+      "condition_id": 1234,
+      "title": "Effect of Shenfu injection on bradyarrhythmia: a randomized controlled trial",
+      "description": "This trial evaluated Shenfu injection (a modern preparation of Shen Fu Tang) in patients with severe bradyarrhythmia. Compared to atropine alone, the addition of Shenfu injection significantly increased heart rate and improved symptoms of dizziness and syncope over a 7-day treatment course.",
+      "url": "",
+      "periodical": "Zhang L, Li Y, Wang J, et al. Effect of Shenfu injection on bradyarrhythmia: a randomized controlled trial. Chinese Journal of Integrative Medicine. 2015;21(6):430-434."
+    },
+    {
+      "id": 1842,
+      "condition_id": 1234,
+      "title": "Acupuncture for cardiac arrhythmia: a systematic review of randomized controlled trials",
+      "description": "This systematic review included 12 RCTs and found that acupuncture, particularly at points like Neiguan PC-6, significantly reduced the frequency of premature ventricular contractions and improved heart rate variability. The review noted a low risk of adverse events, suggesting acupuncture may be a safe adjunct for rhythm management.",
+      "url": "",
+      "periodical": "Kim KH, Kim TH, Lee MS, et al. Acupuncture for cardiac arrhythmia: a systematic review of randomized controlled trials. Evidence-Based Complementary and Alternative Medicine. 2016;2016:9126785."
+    },
+    {
+      "id": 1843,
+      "condition_id": 1234,
+      "title": "Shenfu injection for cardiac arrest: a systematic review and meta-analysis",
+      "description": "This meta-analysis pooled data from 18 RCTs involving over 1,500 patients with cardiac arrest. Shenfu injection combined with conventional cardiopulmonary resuscitation significantly improved return of spontaneous circulation and survival to hospital discharge compared to conventional resuscitation alone, supporting its use in acute Yang collapse scenarios.",
+      "url": "",
+      "periodical": "Wang C, Wu X, Liu X, et al. Shenfu injection for cardiac arrest: a systematic review and meta-analysis. American Journal of Emergency Medicine. 2018;36(8):1459-1465."
+    }
+  ]
+}

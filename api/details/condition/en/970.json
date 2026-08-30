@@ -1,0 +1,752 @@
+{
+  "id": 970,
+  "name": "COVID-19",
+  "url": "/knowledge-base/conditions/covid-19",
+  "kind": "Condition",
+  "pinyin": "xīn guān fèi yán",
+  "chinese_name": "新冠肺炎",
+  "preview_text": "The heavy, damp fatigue and greasy tongue coating of many COVID-19 cases point to a dampness pathogen that conventional medicine doesn't directly address - and targeted herbal trea...",
+  "categories": "[\"Viral Infections\", \"Lung & Breathing Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"COVID-19 (Early Exterior Stage)\", \"COVID-19 (Damp-Type Presentations)\"]",
+  "conventional_description": "COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus, first identified in late 2019. It spreads primarily through respiratory droplets and can cause a wide range of symptoms, from mild cold-like signs to severe pneumonia, acute respiratory distress, and multi-organ failure. Common symptoms include fever, dry cough, shortness of breath, fatigue, and loss of taste or smell. Diagnosis is confirmed through PCR or rapid antigen testing, and imaging may reveal characteristic ground-glass opacities in the lungs.\nThe acute phase typically lasts one to two weeks, but a significant number of people experience prolonged symptoms - often called Long COVID or post-COVID condition - that can persist for months. These lingering issues frequently include debilitating fatigue, brain fog, chest tightness, and exercise intolerance, and they do not always correlate with the severity of the initial infection.",
+  "conventional_treatments": "For mild cases, management focuses on rest, hydration, and over-the-counter medications for fever and pain. Moderate to severe cases may require hospitalisation for oxygen support, corticosteroids like dexamethasone, and antiviral medications such as remdesivir or nirmatrelvir/ritonavir (Paxlovid) when given early. Monoclonal antibodies are sometimes used for high-risk patients. Post-COVID symptoms are often managed symptomatically, with pulmonary rehabilitation, graded exercise, and supportive care, but there is no single approved treatment for the lingering fatigue and cognitive issues.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, COVID-19 is classified as a pestilential disease (温疫, wēn yì) caused by an epidemic dampness pathogen that invades the body from the outside. The primary organs affected are the Lungs and the Spleen. The Lungs govern the body's defensive Qi and control breathing, so when the pathogen attacks, it obstructs the Lung's ability to disperse and descend Qi, leading to cough, chest tightness, and shortness of breath. The Spleen is responsible for transforming and transporting fluids; when overwhelmed by dampness, it cannot do its job, and the result is the heavy, achy fatigue, digestive upset, and thick greasy tongue coating that are the hallmark of this illness.\nWhat makes TCM's understanding so clinically useful is that it tracks how the same pathogen behaves differently depending on a person's constitution and the stage of illness. In some people, the dampness combines with cold, producing chills, body aches, and a white greasy tongue coating - the Damp-Cold pattern. In others, it combines with heat, causing a higher fever, a heavy sensation, and a yellow greasy coating - the Damp-Warmth pattern.\nAs the illness progresses, the trapped dampness can congeal into phlegm and combine with heat, creating the sticky yellow phlegm and laboured breathing of Phlegm-Heat in the Lungs. In severe cases, the heat turns toxic, leading to the high fever, extreme breathlessness, and dark red tongue of the Toxic-Heat pattern.\nThis staging also explains why recovery can be so prolonged. The battle against the pathogen consumes the body's Qi and Yin fluids, leaving the Lungs and Spleen weakened. The resulting Qi and Yin Deficiency pattern is what underpins the lingering fatigue, dry cough, night sweats, and brain fog that define post-COVID syndrome. Rather than treating all post-COVID fatigue as a single problem, TCM distinguishes between the person who still has hidden dampness, the person whose Qi has collapsed, and the person whose Yin has been scorched - and treats each accordingly.",
+  "classical_quote": "「温疫者，厉气流行，多兼秽浊……舌苔白腻或黄腻，治宜芳香化浊，分消湿热。」",
+  "classical_translation": "\"Epidemic diseases arise from pestilential qi circulating, often mixed with turbid filth... The tongue coating is white and greasy or yellow and greasy; treatment should use aromatic herbs to transform turbidity and separate the dampness and heat.\"",
+  "classical_source": "Wen Bing Tiao Bian (Systematic Differentiation of Warm Diseases)  ,  Chapter on Damp-Warmth \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first looks at the nature of the fever and the coating of the tongue. COVID‑19 is understood as an epidemic dampness pathogen, so the tongue coating is one of the most reliable early clues - a thick, greasy coating points toward dampness, while its colour helps separate cold from heat.\nIf the fever is mild and accompanied by a heavy, tired sensation, chest tightness, and a tongue with a yellow greasy coating, the picture is Damp‑Warmth. The pulse is often soggy and rapid, reflecting dampness and heat brewing together in the lung and stomach.\nWhen chills and body aches dominate, with a white greasy tongue coating and a pulse that feels deep and slow, the pattern is Damp‑Cold. Here the epidemic cold‑damp has invaded the exterior, and the body’s defensive Qi struggles to warm the surface, making the person feel cold and achy.\nAs the illness deepens, dampness can transform into phlegm and heat settles in the lungs. This Phlegm‑Heat in the Lungs pattern shows a cough with sticky yellow sputum, a feeling of oppression in the chest, and laboured breathing. The tongue becomes red with a yellow greasy coating, and the pulse grows rapid and slippery.\nIn severe cases, the pathogen turns into a Toxic‑Heat that blocks the lung. The fever spikes high, breathing is extremely difficult, and the tongue turns dark red with a thick, dry yellow coating. The pulse becomes rapid and forceful, signalling an internal blazing of epidemic toxin that demands immediate attention.\nDuring recovery, the body often shows Qi and Yin Deficiency. The fever has subsided, but the person feels deeply fatigued, short of breath, and the mouth is dry. The tongue appears pale or slightly red with a thin coating, and the pulse is weak and fine - a sign that the body’s vital energy and fluids need to be replenished.",
+  "patterns": [
+    {
+      "id": 4794,
+      "condition_id": 970,
+      "pattern_name": "Damp-Warmth",
+      "pattern_slug": "damp-warmth",
+      "is_common": 0,
+      "symptoms": "[\"Afternoon fever or fever that worsens in the evening\", \"Heavy body and fatigue, like wearing a wet coat\", \"Chest tightness and upper abdominal fullness\", \"Mental fogginess or dullness\", \"Loose yellowish stools\", \"Greasy yellow tongue coating\"]",
+      "worse_with": "Damp or humid environment, Greasy, fried, or sweet food, Overexertion and stress, Cold raw foods, Alcohol",
+      "better_with": "Warm dry weather, Rest and sleep, Light congee and soups, Aromatic herbs (ginger, mint), Gentle movement",
+      "why_this_happens": "When the epidemic damp-heat invades the body, it settles in the lungs and spleen. The dampness obstructs the flow of Lung Qi, causing chest tightness and cough, while the heat produces fever. The dampness weighs down the body, leading to heavy limbs and fatigue, and it clouds the mind, causing mental fogginess. Because damp-heat lingers in the middle burner, appetite disappears and stools become loose and yellowish.",
+      "tongue_and_pulse": "Tongue: red body with a yellow greasy coating, slightly swollen. Pulse: soggy and rapid, or in early stages fine and soggy.",
+      "why_triggers_reliefs_work": "Dampness thrives in humid environments and from heavy, greasy foods, which further burden the spleen. Rest and light foods give the spleen the energy to transform dampness, while aromatic herbs and gentle movement help disperse the dampness and clear the heat.",
+      "diet_and_lifestyle": "Eat light, warm, and easily digestible foods such as congee and steamed vegetables. Avoid dairy, sugar, greasy, and fried foods, which create dampness. Drink warm ginger or mint tea to aid digestion and dispel dampness. Rest well and avoid overexertion; gentle stretching or walking helps circulate Qi without depleting energy.",
+      "formulas": [
+        {
+          "id": 10872,
+          "pattern_id": 4794,
+          "formula_name": "Gan Lu Xiao Du Dan",
+          "formula_url": "/knowledge-base/formulas/gan-lu-xiao-du-dan",
+          "translation": "Sweet Dew Special Pill to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, c. 1733 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Transforms Turbidity, Resolves Toxicity",
+          "description": "Clears heat, resolves dampness, and detoxifies the epidemic toxin, especially suited for early-stage damp-warmth with fever, chest stuffiness, and greasy tongue."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 25202,
+          "pattern_id": 4794,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "",
+          "description": "Aromatic herb that transforms dampness, opens the chest, and revives the spleen."
+        },
+        {
+          "id": 25203,
+          "pattern_id": 4794,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears damp-heat from the lung and stomach, reducing fever and drying dampness."
+        },
+        {
+          "id": 25204,
+          "pattern_id": 4794,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains dampness, supports the spleen, and relieves heaviness and fatigue."
+        },
+        {
+          "id": 25205,
+          "pattern_id": 4794,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, helping to dispel the epidemic pathogen."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 17138,
+          "pattern_id": 4794,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and relieves chest tightness."
+        },
+        {
+          "id": 17139,
+          "pattern_id": 4794,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms dampness and phlegm, clearing the fog from the mind."
+        },
+        {
+          "id": 17140,
+          "pattern_id": 4794,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and transforms dampness, restoring appetite."
+        },
+        {
+          "id": 17141,
+          "pattern_id": 4794,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the body, easing heaviness and loose stools."
+        },
+        {
+          "id": 17142,
+          "pattern_id": 4794,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Releases the exterior and regulates Qi to help the body expel the pathogen."
+        }
+      ]
+    },
+    {
+      "id": 4795,
+      "condition_id": 970,
+      "pattern_name": "Damp-Cold",
+      "pattern_slug": "damp-cold",
+      "is_common": 0,
+      "symptoms": "[\"Heaviness in body and limbs\", \"Chills and aversion to cold, cold limbs\", \"White greasy tongue coating\", \"Loose stools or diarrhoea\", \"Poor appetite and bloating\", \"Cough with thin white sputum\"]",
+      "worse_with": "Cold and damp weather, Cold raw foods and iced drinks, Overexertion, Prolonged sitting or lying in damp places",
+      "better_with": "Warmth and warm drinks, Rest and staying dry, Eating warm congee or soups",
+      "why_this_happens": "In some outbreaks, the epidemic qi is of a cold-damp nature. This pathogen invades the Lungs and Spleen simultaneously. The cold-damp obstructs the Lung's ability to disperse and descend Qi, causing chest oppression and cough. It also overwhelms the Spleen's transformation and transport functions, leading to digestive symptoms like bloating, poor appetite, and loose stools. The heavy, sticky nature of dampness creates a sluggish, weighted-down sensation throughout the body.",
+      "tongue_and_pulse": "Tongue: pale, swollen with teeth marks, and a thick white greasy coating that looks excessively moist. Pulse: deep, slow, and slippery.",
+      "why_triggers_reliefs_work": "Cold and dampness are the core pathogens in this pattern. Cold constricts and slows circulation, while dampness is heavy and sticky, obstructing the flow of Qi. Therefore, warmth and drying foods and environments help to dispel cold and transform dampness, restoring the Spleen and Lung functions.",
+      "diet_and_lifestyle": "Keep the body warm and avoid damp environments. Eat warm, easily digestible foods like congee with ginger and scallion. Steer clear of cold, raw foods, dairy, and icy drinks, which can worsen internal dampness.",
+      "formulas": [
+        {
+          "id": 10873,
+          "pattern_id": 4795,
+          "formula_name": "Huo Xiang Zheng Qi San",
+          "formula_url": "/knowledge-base/formulas/huo-xiang-zheng-qi-san",
+          "translation": "Agastache Powder to Rectify the Qi &#xB7; S&#xF2;ng dynasty, 1078 CE",
+          "properties": "Warm, Aromatically Transforms Dampness, Disperses Wind-Cold from the Exterior, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "Releases exterior cold-damp, transforms interior dampness, and harmonizes the Spleen and Stomach, making it suitable for COVID-19 patients with chills, body heaviness, and digestive upset."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 25206,
+          "pattern_id": 4795,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "",
+          "description": "Aromatic herb that transforms dampness and releases exterior cold, relieving nausea and digestive stagnation."
+        },
+        {
+          "id": 25207,
+          "pattern_id": 4795,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and strengthens the Spleen, addressing the heavy body and loose stools."
+        },
+        {
+          "id": 25208,
+          "pattern_id": 4795,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Promotes Qi movement and dries dampness, easing abdominal bloating and chest oppression."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 17143,
+          "pattern_id": 4795,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and helps relieve cough and chest oppression."
+        },
+        {
+          "id": 17144,
+          "pattern_id": 4795,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to transform dampness and boost overall energy."
+        },
+        {
+          "id": 17145,
+          "pattern_id": 4795,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the body, reducing heaviness and digestive symptoms."
+        }
+      ]
+    },
+    {
+      "id": 4796,
+      "condition_id": 970,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "pattern_slug": "phlegm-heat-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Cough with copious thick yellow or green sputum\", \"Chest oppression and fullness\", \"Shortness of breath or rapid breathing\", \"Fever with thirst\", \"Restlessness and irritability\"]",
+      "worse_with": "Anger or frustration, Spicy, fried, or greasy food, Damp or stuffy environments, Overexertion",
+      "better_with": "Rest and sleep, Cool, fresh air, Light, non-greasy meals, Drinking plenty of warm fluids, Deep breathing exercises",
+      "why_this_happens": "In COVID-19, the initial dampness can stagnate and transform into phlegm, while the body's immune response generates heat. This combination creates a sticky, hot phlegm that clogs the lungs, blocking their ability to expand and descend Qi properly. The result is a deep cough with thick yellow sputum, chest oppression, and labored breathing.",
+      "tongue_and_pulse": "Tongue: Red body, possibly swollen at the front, with a yellow greasy coating; red prickles may appear on the front third. Pulse: Slippery and rapid (hua shu), strongest at the right cun position.",
+      "why_triggers_reliefs_work": "Phlegm-Heat is driven by dampness and heat. Greasy, spicy foods and damp environments feed the phlegm and heat, while stress stirs up internal fire. Rest, cooling foods, and fresh air help the lung Qi descend and clear the phlegm-heat, easing the cough and oppression.",
+      "diet_and_lifestyle": "Eat light, cooling foods like pear, radish, and water chestnut to help clear phlegm and heat. Avoid dairy, fried, and greasy foods that create more phlegm. Keep the air moist and practice gentle deep breathing to support the lungs.",
+      "formulas": [
+        {
+          "id": 10874,
+          "pattern_id": 4796,
+          "formula_name": "Qing Fei Pai Du Tang",
+          "formula_url": "/knowledge-base/formulas/qing-fei-pai-du-tang",
+          "translation": "Lung-Clearing and Detoxifying Decoction &#xB7; Modern, 2020 CE (based on H&#xE0;n dynasty classical formulas, ~200 CE)",
+          "properties": "Slightly Warm, Diffuses the Lungs and Expels Pathogenic Factors, Clears Heat and Resolves Toxicity, Transforms Dampness and Resolves Turbidity",
+          "description": "The primary formula for clearing heat, resolving phlegm, and ventilating the lung in COVID-19."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 25209,
+          "pattern_id": 4796,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Clears lung heat and eases thirst."
+        },
+        {
+          "id": 25210,
+          "pattern_id": 4796,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Resolves phlegm, opens the chest, and relieves oppression."
+        },
+        {
+          "id": 25211,
+          "pattern_id": 4796,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears heat and dries dampness, targeting the lung."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 17146,
+          "pattern_id": 4796,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and clears heat."
+        },
+        {
+          "id": 17147,
+          "pattern_id": 4796,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to resolve phlegm."
+        },
+        {
+          "id": 17148,
+          "pattern_id": 4796,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "Clears heat from the Lungs and relieves cough."
+        },
+        {
+          "id": 17149,
+          "pattern_id": 4796,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and reduces fever."
+        }
+      ]
+    },
+    {
+      "id": 4797,
+      "condition_id": 970,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and lack of strength\", \"Shortness of breath that worsens with activity\", \"Dry mouth and throat with little desire to drink\", \"Night sweats\", \"Warm sensation in palms, soles, and chest\", \"Heart palpitations\"]",
+      "worse_with": "Overwork and stress, Spicy, fried, or greasy food, Late nights and insufficient sleep, Excessive talking",
+      "better_with": "Rest and adequate sleep, Moistening foods like pear and congee, Gentle movement, Deep breathing and meditation",
+      "why_this_happens": "COVID-19 is an epidemic toxin that attacks the lungs with heat and dampness. The prolonged fever and the body's struggle to clear the pathogen consume both Qi and Yin fluids. After the acute illness passes, the lungs and spleen are left weakened, unable to generate enough energy and moisture, which leads to the persistent fatigue, dry mouth, and breathlessness of the recovery phase.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, possibly cracked and dry. Pulse: fine (thin) and weak, often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are like the body's fuel and coolant. After a high fever and prolonged illness, both are depleted. Rest and gentle movement allow the body to rebuild Qi without further draining Yin. Moistening, easy-to-digest foods nourish the Stomach Yin and Spleen Qi, while spicy or drying foods consume Yin fluids. Overwork and stress deplete Qi, and late nights damage Yin, so avoiding these is crucial for recovery.",
+      "diet_and_lifestyle": "Eat small, frequent meals of easy-to-digest, moistening foods like congee, pear, and tofu. Avoid spicy, fried, or drying foods. Gentle exercise like walking or Tai Chi helps rebuild Qi without exhausting Yin. Prioritize rest and sleep, and avoid overwork.",
+      "formulas": [
+        {
+          "id": 10875,
+          "pattern_id": 4797,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "Nourishes Yin and generates fluids, while tonifying Qi of the Lung and Stomach. Ideal for the dry mouth, fatigue, and residual cough of post-COVID recovery."
+        },
+        {
+          "id": 10876,
+          "pattern_id": 4797,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "Tonifies Qi and Yin, stabilizes the exterior to stop sweating, and calms palpitations. Useful when night sweats and heart palpitations are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 25212,
+          "pattern_id": 4797,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Lung Yin, generates fluids, and relieves dry mouth and throat."
+        },
+        {
+          "id": 25213,
+          "pattern_id": 4797,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Lung and Spleen Qi to relieve fatigue and shortness of breath."
+        },
+        {
+          "id": 25214,
+          "pattern_id": 4797,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes Yin fluids and stops night sweats, while calming the spirit."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 17150,
+          "pattern_id": 4797,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. Strengthens Spleen and Stomach to generate Qi and blood."
+        },
+        {
+          "id": 17151,
+          "pattern_id": 4797,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Nourishes Yin and harmonizes the Spleen, Liver, and Kidney."
+        },
+        {
+          "id": 17152,
+          "pattern_id": 4797,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonify with moxibustion. Fortifies original Qi to relieve fatigue."
+        }
+      ]
+    },
+    {
+      "id": 4798,
+      "condition_id": 970,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever\", \"Severe dyspnea (breathlessness)\", \"Dark red tongue with thick dry yellow coating\", \"Restlessness and irritability\"]",
+      "worse_with": "Spicy, fried, or greasy food, Overexertion, Emotional stress, Hot, stuffy environment",
+      "better_with": "Cool, well-ventilated room, Drinking plenty of cool water, Complete rest, Cooling foods like pear",
+      "why_this_happens": "When the epidemic toxin is especially virulent, it penetrates deeply and transforms into fierce Heat. This Toxic-Heat floods the Lungs, blocking their ability to breathe and descend Qi. The intense heat consumes body fluids, stirs up Phlegm, and can even disturb the mind, resulting in the high fever, severe breathlessness, and restlessness seen in critical COVID-19.",
+      "tongue_and_pulse": "Tongue: Red body with prickly thorns, dry yellow coating. Pulse: Rapid (shu) and forceful (you li), often full (shi) or slippery (hua).",
+      "why_triggers_reliefs_work": "Toxic-Heat is an intense interior Heat that consumes fluids and damages the Lungs. External heat and exertion add more Heat, while spicy foods fuel the fire. Cooling measures, rest, and fluids help to drain the Heat and preserve Yin, allowing the body to clear the toxin.",
+      "diet_and_lifestyle": "Consume cooling, moistening foods like pear, cucumber, and mung bean soup. Avoid spicy, greasy, and fried foods that generate more Heat. Rest completely and avoid any exertion to conserve Qi. Keep the room well-ventilated but not drafty.",
+      "formulas": [
+        {
+          "id": 10877,
+          "pattern_id": 4798,
+          "formula_name": "Qing Fei Pai Du Tang",
+          "formula_url": "/knowledge-base/formulas/qing-fei-pai-du-tang",
+          "translation": "Lung-Clearing and Detoxifying Decoction &#xB7; Modern, 2020 CE (based on H&#xE0;n dynasty classical formulas, ~200 CE)",
+          "properties": "Slightly Warm, Diffuses the Lungs and Expels Pathogenic Factors, Clears Heat and Resolves Toxicity, Transforms Dampness and Resolves Turbidity",
+          "description": "A broad-spectrum formula that clears heat, detoxifies, and restores lung function in severe COVID-19."
+        },
+        {
+          "id": 10878,
+          "pattern_id": 4798,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "Specifically targets intense Toxic-Heat at the Qi and Blood levels, used when high fever and systemic toxicity are prominent."
+        },
+        {
+          "id": 10879,
+          "pattern_id": 4798,
+          "formula_name": "Gan Lu Xiao Du Dan",
+          "formula_url": "/knowledge-base/formulas/gan-lu-xiao-du-dan",
+          "translation": "Sweet Dew Special Pill to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, c. 1733 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Transforms Turbidity, Resolves Toxicity",
+          "description": "A classical formula for conditions caused by the combination of Dampness and Heat lodged in the body, particularly during hot and humid seasons. It is commonly used for symptoms such as fever with fatigue, chest fullness, bloating, sore throat, jaundice, dark scanty urine, and a thick greasy tongue coating. The formula works by clearing Heat, resolving Dampness through urination, and using aromatic herbs to cut through the heaviness that Dampness creates in the digestive system."
+        },
+        {
+          "id": 10880,
+          "pattern_id": 4798,
+          "formula_name": "Huo Xiang Zheng Qi San",
+          "formula_url": "/knowledge-base/formulas/huo-xiang-zheng-qi-san",
+          "translation": "Agastache Powder to Rectify the Qi &#xB7; S&#xF2;ng dynasty, 1078 CE",
+          "properties": "Warm, Aromatically Transforms Dampness, Disperses Wind-Cold from the Exterior, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "A classical formula used to relieve symptoms of gastrointestinal upset combined with a cold, especially during summer. It addresses chills, nausea, vomiting, diarrhea, abdominal bloating, and a heavy feeling in the head caused by exposure to cold and dampness that disrupt digestion. One of the most widely used formulas in Chinese medicine for &quot;stomach flu&quot; type complaints."
+        },
+        {
+          "id": 10881,
+          "pattern_id": 4798,
+          "formula_name": "Qing Fei Pai Du Tang",
+          "formula_url": "/knowledge-base/formulas/qing-fei-pai-du-tang",
+          "translation": "Lung-Clearing and Detoxifying Decoction &#xB7; Modern, 2020 CE (based on H&#xE0;n dynasty classical formulas, ~200 CE)",
+          "properties": "Slightly Warm, Diffuses the Lungs and Expels Pathogenic Factors, Clears Heat and Resolves Toxicity, Transforms Dampness and Resolves Turbidity",
+          "description": "A modern composite formula developed during the COVID-19 pandemic to address respiratory infections caused by cold, dampness, and toxic pathogenic factors. It combines four classical formulas from the 2,000-year-old Shang Han Lun to open the Lungs, resolve dampness, clear heat, and expel toxins. Designed for use in acute febrile respiratory illness with cough, fatigue, and chest tightness."
+        },
+        {
+          "id": 10882,
+          "pattern_id": 4798,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "A gentle, cooling formula used to restore moisture and fluids to the Lungs and Stomach when they have become dried out. It is commonly used for persistent dry cough, dry throat, thirst, and other symptoms of dryness, particularly during autumn or following a feverish illness. The formula nourishes without being heavy, making it well-suited for conditions where the body&#x27;s natural moistening fluids have been depleted."
+        },
+        {
+          "id": 10883,
+          "pattern_id": 4798,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        },
+        {
+          "id": 10884,
+          "pattern_id": 4798,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "A powerful Heat-clearing formula used for severe epidemic febrile diseases where intense Heat and toxic pathogens have invaded both the Qi and Blood levels of the body. It addresses dangerously high fever, delirium, skin rashes, and bleeding by simultaneously cooling the blood and draining fire. This is an emergency formula for critical, life-threatening heat conditions and is not intended for mild or cold-type illnesses."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 25215,
+          "pattern_id": 4798,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves Toxin, a key herb for epidemic infections."
+        },
+        {
+          "id": 25216,
+          "pattern_id": 4798,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Heat and reduces swelling, often paired with Jinyinhua."
+        },
+        {
+          "id": 25217,
+          "pattern_id": 4798,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Strongly clears Lung and Stomach Heat, bringing down high fever."
+        },
+        {
+          "id": 25218,
+          "pattern_id": 4798,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Dries Dampness and clears Heat from the Lungs, helping to resolve the Phlegm-Heat component."
+        },
+        {
+          "id": 25219,
+          "pattern_id": 4798,
+          "herb_name": "Huo Xiang",
+          "herb_url": "/knowledge-base/herbs/huo-xiang",
+          "translation": "Patchouli herb",
+          "properties": "Slightly Warm, Aromatically Transforms Dampness, Harmonizes the Stomach and Stops Vomiting, Releases the Exterior and Resolves Summerheat",
+          "description": ""
+        },
+        {
+          "id": 25220,
+          "pattern_id": 4798,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 25221,
+          "pattern_id": 4798,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 25222,
+          "pattern_id": 4798,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 25223,
+          "pattern_id": 4798,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 25224,
+          "pattern_id": 4798,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 25225,
+          "pattern_id": 4798,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 25226,
+          "pattern_id": 4798,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 25227,
+          "pattern_id": 4798,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 25228,
+          "pattern_id": 4798,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 25229,
+          "pattern_id": 4798,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        },
+        {
+          "id": 25230,
+          "pattern_id": 4798,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 17153,
+          "pattern_id": 4798,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reducing method; clears Heat and resolves Toxin, especially for high fever."
+        },
+        {
+          "id": 17154,
+          "pattern_id": 4798,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reducing; clears Heat and cools the Blood, useful for systemic toxicity."
+        },
+        {
+          "id": 17155,
+          "pattern_id": 4798,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and alleviates dyspnea."
+        },
+        {
+          "id": 17156,
+          "pattern_id": 4798,
+          "acupoint_code": "EX-B-1",
+          "acupoint_name": "Dingchuan EX-B-1",
+          "acupoint_url": "/knowledge-base/acupuncture/dingchuan-ex-b-1",
+          "translation": "D&#xEC;ng Chu&#x1CE;n",
+          "properties": "Calms dyspnoea and wheezing",
+          "description": "Calms wheezing and breathlessness."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 6300,
+      "condition_id": 970,
+      "question": "Can TCM help with post-COVID fatigue and brain fog?",
+      "answer": "Yes, this is one of the areas where TCM really shines. Post-COVID exhaustion and mental cloudiness are most often understood in TCM as a combination of lingering dampness and depleted Qi and Yin. Herbal formulas that clear dampness, strengthen the Spleen, and nourish the Lungs can significantly improve energy levels and cognitive clarity. Many patients report feeling noticeably sharper and less drained within three to four weeks of starting treatment."
+    },
+    {
+      "id": 6301,
+      "condition_id": 970,
+      "question": "Is it safe to take Chinese herbs alongside Paxlovid or other COVID medications?",
+      "answer": "In many cases, yes, but it is essential that both your TCM practitioner and your medical doctor know exactly what you are taking. Some TCM formulas for COVID-19 contain ephedra (Mahuang), which can affect heart rate and blood pressure and may interact with certain medications. Your practitioner will adjust the formula to avoid overlap and monitor for any interactions. Never stop a prescribed antiviral or steroid abruptly without consulting your doctor."
+    },
+    {
+      "id": 6302,
+      "condition_id": 970,
+      "question": "How does TCM treat COVID-19 differently from Western medicine?",
+      "answer": "Western medicine focuses on stopping viral replication and managing inflammation with a standardised protocol. TCM instead looks at the specific pattern of dampness, heat, cold, and deficiency presenting in your body right now - and treats that pattern. This means two people with the same positive test might receive completely different herbal formulas because one has a damp-cold presentation and the other has a damp-heat presentation. The approach is fundamentally personalised."
+    },
+    {
+      "id": 6303,
+      "condition_id": 970,
+      "question": "What can I eat to recover faster from COVID-19?",
+      "answer": "During and after COVID-19, the Spleen's digestive function is often weakened, so the most important rule is to eat foods that are warm, cooked, and easy to digest. Congee, bone broths, steamed vegetables, and lightly cooked greens are ideal. Avoid raw, cold, greasy, and heavily sweetened foods, which create more dampness and burden the Spleen. If your pattern is damp-cold, adding a little ginger to your meals can help; if it is damp-warmth, pear and lotus root can moisten and cool."
+    },
+    {
+      "id": 6304,
+      "condition_id": 970,
+      "question": "Can acupuncture help with loss of smell and taste after COVID?",
+      "answer": "Yes. In TCM, the sense of smell is connected to the Lungs, and taste to the Spleen. When dampness blocks the upper orifices, these senses can be lost. Acupuncture points on the face, head, and limbs - combined with herbs that aromatically open the orifices - can help restore smell and taste. Many patients see gradual improvement over several weeks of treatment."
+    },
+    {
+      "id": 6305,
+      "condition_id": 970,
+      "question": "How long does TCM treatment for COVID-19 take to work?",
+      "answer": "For acute symptoms like fever and cough, herbal medicine can often bring relief within a few days. For the lingering fatigue, brain fog, and shortness of breath of post-COVID syndrome, most people feel a meaningful improvement within two to four weeks, though full restoration of deep energy reserves may take two to three months. The timeline depends on the severity of the initial illness and your underlying constitution."
+    },
+    {
+      "id": 6306,
+      "condition_id": 970,
+      "question": "Is TCM safe for children or elderly family members with COVID-19?",
+      "answer": "Yes, but the dosage and specific herbs must be carefully adjusted by a qualified practitioner. Children recover quickly and often need only gentle, mild formulas. Elderly patients may have underlying deficiencies that require a more nourishing approach while still clearing the pathogen. Always consult a practitioner experienced in treating these age groups."
+    }
+  ],
+  "research": [
+    {
+      "id": 1463,
+      "condition_id": 970,
+      "title": "Chinese herbal prescriptions for COVID-19 management: Special reference to Taiwan Chingguan Yihau (NRICM101)",
+      "description": "This systematic review examined the evidence for multiple TCM formulas used in COVID-19, including Qingfei Paidu decoction, Lianhua Qingwen capsules, and Taiwan's NRICM101. The review found that these formulas can shorten symptom duration, reduce severe conversion rates, and modulate immune responses. The core herbs-licorice, ephedra, gypsum, and bitter almond-provide synergistic antiviral and anti-inflammatory effects.",
+      "url": "https://doi.org/10.3389/fphar.2022.928106",
+      "periodical": "Ho LT, et al. Chinese herbal prescriptions for COVID-19 management: Special reference to Taiwan Chingguan Yihau (NRICM101). Frontiers in Pharmacology. 2022;13:928106."
+    },
+    {
+      "id": 1464,
+      "condition_id": 970,
+      "title": "Three medicines and three formulas in COVID-19: from traditional use to evidence-based application",
+      "description": "This review summarized the clinical evidence for the six most widely used TCM regimens in China: Jinhua Qinggan granules, Lianhua Qingwen capsules, Qingfei Paidu decoction, Xuanfei Baidu granules, Huashi Baidu granules, and Xuebijing injection. It reported that these interventions reduced fever duration, improved chest CT findings, and lowered mortality in severe cases compared to conventional care alone.",
+      "url": "",
+      "periodical": "Wang Y, et al. 'Three medicines and three formulas' in COVID-19: from traditional use to evidence-based application. Acupuncture and Herbal Medicine. 2023;3(4):309-321."
+    }
+  ]
+}

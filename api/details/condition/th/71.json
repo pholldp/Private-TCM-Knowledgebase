@@ -1,0 +1,539 @@
+{
+  "id": 71,
+  "name": "วัณโรค",
+  "url": "/knowledge-base/conditions/tuberculosis",
+  "kind": "Condition",
+  "pinyin": "fèi láo",
+  "chinese_name": "肺痨",
+  "preview_text": "อาการไอแห้งๆ ของวัณโรคในระยะเริ่มแรกเป็นการเรียกร้องความชุ่มชื้น ไม่ใช่แค่การติดเชื้อเพื่อฆ่า - และด้วยการสร้างปอดหยินขึ้นมาใหม่ด้วยสมุนไพรเช่น ไป่เหอ (หัวดอกลิลลี่) และไม้ดง (โอฟิโอโพกอน) นักกินหลายคน...",
+  "categories": "[\"การอักเสบเรื้อรัง\", \"วัณโรค\", \"สภาพปอดและการหายใจ\", \"โรคติดเชื้อ\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Consumption\", \"TB\", \"White Plague\", \"Tuberculosis (Lao Zhai)\", \"Pulmonary Tuberculosis\", \"Lung TB\", \"Phthisis\", \"TB In The Lungs\", \"Pulmonary Tb\", \"Tuberculous Pleurisy\"]",
+  "conventional_description": "Tuberculosis (TB) is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It most often affects the lungs, but can spread to other parts of the body. The bacteria spread through the air when someone with active TB in their lungs coughs or sneezes.\nTypical symptoms include a persistent cough that lasts three weeks or longer, sometimes with blood-tinged sputum, chest pain, unintentional weight loss, fatigue, fever, and night sweats. Diagnosis is usually confirmed with a chest X-ray and a sputum test that detects the bacteria, often alongside a skin or blood test for TB infection.",
+  "conventional_treatments": "Active tuberculosis is treated with a combination of antibiotics taken over several months - most commonly a six-month course of isoniazid, rifampin, pyrazinamide, and ethambutol. This is known as directly observed therapy (DOT) in many settings to ensure completion. Treatment is highly effective, but stopping too early can lead to drug-resistant TB, which requires longer and more complex regimens.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM views TB as an external invasion of \"lao chong\" (consumptive worms) that exploits an internal weakness. The Lung is the initial battlefield; its delicate Yin is easily damaged by the chronic infection, leading to dryness and heat. This is why the earliest symptom is often a dry, hacking cough with scanty phlegm - the Lung has lost its moistening function and cannot properly descend Qi.\nThe disease follows a predictable downward spiral. Early Lung Yin Deficiency produces a dry cough and mild night sweats. If untreated, the Yin becomes so depleted that empty heat flares, causing higher fevers, drenching sweats, and blood-tinged sputum. This is not a true excess fire but a fire born of lack - like an engine overheating because it has no coolant. The tongue turns red and cracked, and the pulse becomes thin and rapid.\nOver time, the Spleen and Kidney are drawn in. The Spleen's Qi weakens from the chronic drain, leading to fatigue, poor appetite, and muscle wasting. The Kidneys, which store the body's deepest Yin and Yang, become depleted, causing hoarseness, cold limbs, and in severe cases, swelling and diarrhea. This is why one Western diagnosis can look so different from patient to patient - it depends on how far the disease has progressed and which organ systems are most affected.",
+  "classical_quote": "「Lao Zhai is caused by deficiency of the five zang organs, leading to coughing, hemoptysis, fever, and emaciation.」",
+  "classical_translation": "\"Consumption arises from deficiency of the five viscera, manifesting as cough, expectoration of blood, fever, and wasting.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Causes and Symptoms of Diseases)  ,  Volume 4, \"Xu Lao Hou\" (Symptoms of Consumptive Disease) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "When a person comes with a chronic cough and weight loss, a TCM practitioner considers the possibility of tuberculosis (肺痨, fèi láo). Because the disease unfolds in stages, the first task is to determine which pattern of imbalance is driving the symptoms. The quality of the cough, the presence of heat or cold, and the person’s energy level all provide clues that point toward one pattern rather than another.\nIf the cough is dry and hacking with only a little sticky sputum, and the person feels thirsty with a dry throat, Lung Yin Deficiency is likely. The tongue is red with little or no coating, and the pulse is thin and rapid. This stage often brings mild night sweats and a low-grade fever in the afternoon, but the overall heat is not intense. The key is the dryness and lack of strong fire signs.\nWhen the dry cough becomes more urgent and sputum is streaked with blood, the picture shifts to Empty-Heat caused by Yin Deficiency. The afternoon fever spikes higher, cheekbones flush, and night sweats can soak the bedclothes. The tongue is deep red with little or no coating, and the pulse is thin, rapid, and may feel wiry. The burning sensation and bleeding signal that deficient fire has flared up.\nAs the illness drags on, fatigue and shortness of breath become prominent. The cough is weak, sputum is thin and white, and the person may sweat spontaneously with even light activity. Appetite drops and the face looks pale, though the cheeks may still show a faint flush. The tongue is tender and pale red with tooth marks, and the pulse is weak and rapid. Here, the exhaustion and poor digestion distinguish it from the earlier, more purely dry patterns.\nIn advanced cases, both Yin and Yang are depleted. The person feels cold, limbs are chilly, and edema may appear around the ankles. The voice becomes hoarse and the body wastes away. Sputum can be frothy or contain blood clots. The tongue is pale with little moisture, and the pulse is either faint and rapid or floating and large. The presence of cold signs and swelling marks this late-stage pattern.",
+  "patterns": [
+    {
+      "id": 349,
+      "condition_id": 71,
+      "pattern_name": "Lung Yin Deficiency",
+      "pattern_slug": "lung-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry cough with scanty, sticky phlegm\", \"Afternoon tidal heat or low-grade fever\", \"Night sweats\", \"Dry mouth and throat\", \"Flushed cheeks\"]",
+      "worse_with": "Spicy, fried, or warming foods, Hot, dry environment, Overwork and lack of sleep, Smoking, Emotional stress",
+      "better_with": "Rest and sleep, Moistening foods (pear, white fungus), Avoiding overwork, Humidified air",
+      "why_this_happens": "The Lung is a delicate organ that requires constant moistening. When Yin is depleted, the Lung becomes dry and loses its ability to descend Qi, resulting in the hallmark dry cough with scanty, sticky phlegm. The internal dryness and empty heat cause night sweats, afternoon low-grade fever, and thirst. This Yin-deficient terrain is what allows the tuberculosis pathogen to invade and flourish.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine and rapid, especially weak in the right cun (Lung) position.",
+      "why_triggers_reliefs_work": "Lung Yin is easily consumed by dryness, heat, and overuse. Rest and moistening foods replenish Yin and fluids, while spicy foods, smoking, and emotional stress generate internal heat that further depletes Yin. A humid environment soothes the dry Lung, and avoiding overwork preserves Qi and Yin.",
+      "diet_and_lifestyle": "Eat moistening, Yin-nourishing foods like pear, lily bulb, white fungus, honey, and almond. Avoid spicy, fried, or drying foods that consume Yin. Keep the living space humidified and avoid overexertion. Gentle breathing exercises can help preserve Lung Qi.",
+      "formulas": [
+        {
+          "id": 785,
+          "pattern_id": 349,
+          "formula_name": "Bai He Gu Jin Tang",
+          "formula_url": "/knowledge-base/formulas/bai-he-gu-jin-tang",
+          "translation": "Lily Bulb Decoction to Preserve the Metal &#xB7; M&#xED;ng dynasty, c. 1573 CE",
+          "properties": "Cool, Nourishes Yin and Moistens Dryness, Nourishes Kidney Yin, Resolves Phlegm and Stops Cough",
+          "description": "Nourishes Lung Yin, clears deficiency heat, and stops cough - a classic formula for consumptive lung diseases."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1830,
+          "pattern_id": 349,
+          "herb_name": "Bai He",
+          "herb_url": "/knowledge-base/herbs/bai-he",
+          "translation": "Lily bulb",
+          "properties": "",
+          "description": "Moistens the Lungs and stops cough, the chief herb for Lung Yin Deficiency."
+        },
+        {
+          "id": 1831,
+          "pattern_id": 349,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Lung Yin and generates fluids to relieve dryness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1211,
+          "pattern_id": 349,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Tonifies Lung Yin and stops cough."
+        },
+        {
+          "id": 1212,
+          "pattern_id": 349,
+          "acupoint_code": "BL-43",
+          "acupoint_name": "Gaohuangshu BL-43",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/gaohuangshu-bl-43",
+          "translation": "G&#x101;o Hu&#x101;ng Sh&#x16B;",
+          "properties": "Nourishes Lung Yin, Tonifies Qi",
+          "description": "Strengthens the body&#x27;s resistance and treats chronic consumptive diseases."
+        },
+        {
+          "id": 1213,
+          "pattern_id": 349,
+          "acupoint_code": "LU-9",
+          "acupoint_name": "Taiyuan LU-9",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9",
+          "translation": "T&#xE0;i Yu&#x101;n",
+          "properties": "Clears Phlegm, Descends Lung Qi",
+          "description": "The Yuan-source point of the Lung, nourishes Lung Yin and regulates Lung Qi."
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "condition_id": 71,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Afternoon low-grade fever or feeling of heat\", \"Night sweats that may drench the bedclothes\", \"Dry cough with scanty, sticky sputum, possibly blood-streaked\", \"Flushed cheekbones (malar flush)\", \"Heat sensation in palms, soles, and chest (five-palm heat)\", \"Restlessness, irritability, difficulty sleeping\"]",
+      "worse_with": "Emotional stress, Spicy, fried, or warming foods, Hot, dry environment, Overwork and lack of sleep",
+      "better_with": "Rest and sleep, Cool, humid environment, Moistening foods (pear, white fungus), Gentle breathing exercises",
+      "why_this_happens": "As the lung Yin deficiency of early tuberculosis deepens, the body's cooling and moistening resources run dangerously low. Without enough Yin to anchor it, heat flares up from within-this is 'empty heat,' not a true excess. It rises to the chest and head, causing afternoon fevers, drenching night sweats, a dry cough that may produce blood-streaked sputum, and a flushed face.",
+      "tongue_and_pulse": "Tongue: red, thin, and dry with cracks and little to no coating. Pulse: fine (thready) and rapid, weak or hollow on deep pressure, especially at the left rear (Kidney) position.",
+      "why_triggers_reliefs_work": "Empty heat is a sign that Yin is too weak to anchor the body's warmth, so anything that further consumes Yin-overwork, late nights, spicy foods, emotional stress-will worsen the heat and dryness. Rest, cooling foods, and a calm environment help preserve and rebuild Yin, allowing the empty heat to settle naturally. Gentle breathing exercises support Lung function without draining Qi or Yin.",
+      "diet_and_lifestyle": "Prioritize rest and avoid overwork, late nights, and emotional strain, all of which consume Yin. Eat moistening, cooling foods such as pear, lily bulb, white fungus soup, and congee with Job's tears. Avoid spicy, fried, or overly warming foods and alcohol, as they fan the empty heat. Gentle breathing exercises and meditation can help settle the mind and preserve Yin.",
+      "formulas": [
+        {
+          "id": 786,
+          "pattern_id": 350,
+          "formula_name": "Bai He Gu Jin Tang",
+          "formula_url": "/knowledge-base/formulas/bai-he-gu-jin-tang",
+          "translation": "Lily Bulb Decoction to Preserve the Metal &#xB7; M&#xED;ng dynasty, c. 1573 CE",
+          "properties": "Cool, Nourishes Yin and Moistens Dryness, Nourishes Kidney Yin, Resolves Phlegm and Stops Cough",
+          "description": "The foundational formula to nourish Lung and Kidney Yin, moisten dryness, and clear deficiency heat."
+        },
+        {
+          "id": 787,
+          "pattern_id": 350,
+          "formula_name": "Qin Jiao Bie Jia San",
+          "formula_url": "/knowledge-base/formulas/qin-jiao-bie-jia-san",
+          "translation": "Gentiana and Tortoise Shell Powder &#xB7; Yu&#xE1;n dynasty, 1343 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Clears Deficiency Heat",
+          "description": "Added to clear deficiency heat and stop night sweats; especially useful when afternoon fever is pronounced."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1832,
+          "pattern_id": 350,
+          "herb_name": "Bai He",
+          "herb_url": "/knowledge-base/herbs/bai-he",
+          "translation": "Lily bulb",
+          "properties": "",
+          "description": "Moistens the Lungs, clears heat, and calms the spirit-central to treating Yin-deficient cough."
+        },
+        {
+          "id": 1833,
+          "pattern_id": 350,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Lung Yin, generates fluids, and eases a dry, irritated throat."
+        },
+        {
+          "id": 1834,
+          "pattern_id": 350,
+          "herb_name": "Di Gu Pi",
+          "herb_url": "/knowledge-base/herbs/di-gu-pi",
+          "translation": "Chinese Wolfberry Root Bark",
+          "properties": "",
+          "description": "Cools blood and clears deficiency heat, targeting the afternoon fever and night sweats."
+        },
+        {
+          "id": 1835,
+          "pattern_id": 350,
+          "herb_name": "Bie Jia",
+          "herb_url": "/knowledge-base/herbs/bie-jia",
+          "translation": "Turtle shell (Chinese soft-shell turtle carapace)",
+          "properties": "",
+          "description": "Nourishes Yin and anchors yang, helping to subdue the rising empty heat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1214,
+          "pattern_id": 350,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and nourishes Lung Yin; the primary point for chronic lung conditions."
+        },
+        {
+          "id": 1215,
+          "pattern_id": 350,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yin, the root of all Yin, to address the underlying depletion."
+        },
+        {
+          "id": 1216,
+          "pattern_id": 350,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel; strongly nourishes Yin and clears deficiency heat."
+        },
+        {
+          "id": 1217,
+          "pattern_id": 350,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Yin, benefits the throat, and helps with insomnia from empty heat."
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "condition_id": 71,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and lack of strength\", \"Shortness of breath worsened by exertion\", \"Spontaneous sweating during the day\", \"Night sweats\", \"Poor appetite\", \"Dry mouth with little desire to drink\"]",
+      "worse_with": "Overwork and lack of sleep, Spicy, fried, or warming foods, Emotional stress, Raw and cold foods",
+      "better_with": "Rest and sleep, Warm, cooked, easy-to-digest meals, Gentle breathing exercises, Moderate, stable temperature",
+      "why_this_happens": "Tuberculosis is a chronic illness that gradually consumes the body's resources. Over time, both Qi (vital energy) and Yin (moisture and cooling) become depleted. The lungs lose the strength to sustain breathing and voice, leading to a weak cough and shortness of breath. The Spleen's Qi is weakened, causing poor appetite and deep fatigue. Yin deficiency creates internal dryness and mild heat, resulting in night sweats, dry mouth, and a warm sensation in the palms and soles.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, dry and possibly cracked. Pulse: fine (thin), weak, and possibly rapid, especially forceless at the right Guan position.",
+      "why_triggers_reliefs_work": "Qi and Yin are both depleted in this pattern, so rest and nourishing foods help rebuild them. Overexertion and stress further consume Qi, while spicy and drying foods burn up Yin. Gentle movement supports Qi flow without draining reserves, and sleep is the body's prime time to regenerate Yin.",
+      "diet_and_lifestyle": "Focus on easily digestible, nutrient-rich foods like congee, steamed vegetables, and small amounts of lean protein. Avoid raw, cold, or greasy foods that burden digestion. Gentle activities such as walking or Qi Gong can help build Qi without overexertion. Prioritize rest and avoid staying up late, as sleep is crucial for Yin restoration.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 1836,
+          "pattern_id": 351,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Lung and Spleen Qi to address fatigue and spontaneous sweating."
+        },
+        {
+          "id": 1837,
+          "pattern_id": 351,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Lung Yin and moistens dryness to relieve dry cough and thirst."
+        },
+        {
+          "id": 1838,
+          "pattern_id": 351,
+          "herb_name": "Bai Bu",
+          "herb_url": "/knowledge-base/herbs/bai-bu",
+          "translation": "Stemona root",
+          "properties": "",
+          "description": "Specifically used in tuberculosis to suppress cough and kill the tuberculosis pathogen (&#x75E8;&#x866B;)."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1218,
+          "pattern_id": 351,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Tonifies Lung Qi and Yin, regulates respiration."
+        },
+        {
+          "id": 1219,
+          "pattern_id": 351,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen and Stomach to generate Qi and blood."
+        },
+        {
+          "id": 1220,
+          "pattern_id": 351,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to support Lung Yin and cool deficiency heat."
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "condition_id": 71,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "pattern_slug": "deficiency-of-both-the-kidney-yin-and-yang",
+      "is_common": 0,
+      "symptoms": "[\"Alternating chills and hot flushes\", \"Cold limbs and icy lower back\", \"Hoarseness or loss of voice\", \"Extreme emaciation and weakness\", \"Edema in the legs\", \"Frequent nighttime urination\"]",
+      "worse_with": "Cold and damp weather, Overwork and lack of sleep, Raw and cold foods, Emotional stress, Late nights and sexual excess",
+      "better_with": "Warmth and gentle heat, Rest and sleep, Nourishing soups and stews, Moxibustion on the lower back",
+      "why_this_happens": "In tuberculosis, the disease begins by consuming Lung Yin. Over time, this damage spreads to the Kidneys, which are the root of all Yin and Yang in the body. When both Kidney Yin and Yang become depleted, the body loses its ability to warm, moisten, and hold Qi. This leads to the extreme weakness, cold limbs, edema, and hoarseness seen in advanced stages, as the Kidneys can no longer support the Lungs or manage water metabolism.",
+      "tongue_and_pulse": "Tongue: pale, puffy-tender body with teeth marks and cracks; thin white coat that may be partially peeled. Pulse: deep, fine, and weak, especially at the Chi (rear) position; may be slightly rapid if Yin deficiency is more prominent or slow if Yang deficiency predominates.",
+      "why_triggers_reliefs_work": "In this pattern, both Kidney Yin and Yang are depleted, so the body lacks its fundamental warming and nourishing forces. Cold and damp further drain Yang, while overwork and stress consume Yin and Qi. Warmth, rest, and deeply nourishing foods gently support both aspects, while moxibustion on the lower back directly warms the Gate of Life and strengthens Kidney Yang.",
+      "diet_and_lifestyle": "Eat warm, easily digestible, deeply nourishing foods like bone broths, congee with astragalus and angelica, and small frequent meals. Avoid raw, cold, and greasy foods. Keep the lower back and feet warm, rest often, and avoid overwork or late nights. Gentle breathing exercises and moxibustion on the lower back can help restore warmth and energy.",
+      "formulas": [
+        {
+          "id": 788,
+          "pattern_id": 352,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "The primary formula to deeply nourish Kidney Yin and Yang, replenish essence, and support the Lung."
+        },
+        {
+          "id": 789,
+          "pattern_id": 352,
+          "formula_name": "Bai He Gu Jin Tang",
+          "formula_url": "/knowledge-base/formulas/bai-he-gu-jin-tang",
+          "translation": "Lily Bulb Decoction to Preserve the Metal &#xB7; M&#xED;ng dynasty, c. 1573 CE",
+          "properties": "Cool, Nourishes Yin and Moistens Dryness, Nourishes Kidney Yin, Resolves Phlegm and Stops Cough",
+          "description": "A classical formula for nourishing the Lungs and Kidneys when they have become too dry and hot internally. It is commonly used for chronic dry cough, sore throat, blood-tinged sputum, night sweats, and afternoon fevers caused by a deep depletion of the body&#x27;s moistening fluids. The name means &quot;Lily Bulb Decoction to Preserve the Metal,&quot; where &quot;Metal&quot; refers to the Lungs in TCM&#x27;s Five Phase system."
+        },
+        {
+          "id": 790,
+          "pattern_id": 352,
+          "formula_name": "Qin Jiao Bie Jia San",
+          "formula_url": "/knowledge-base/formulas/qin-jiao-bie-jia-san",
+          "translation": "Gentiana and Tortoise Shell Powder &#xB7; Yu&#xE1;n dynasty, 1343 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Clears Deficiency Heat",
+          "description": "A classical formula for persistent low-grade fevers, night sweats, and gradual weight loss caused by a depletion of the body&#x27;s nourishing fluids. It works by replenishing Yin and Blood while clearing deeply lodged Heat that radiates from the bones outward, much like steam rising from within. Commonly used as a supportive treatment alongside modern medicine for tuberculosis-related fevers and menopausal hot flushes."
+        },
+        {
+          "id": 791,
+          "pattern_id": 352,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "A classical concentrated paste formula that deeply replenishes the body&#x27;s foundational vitality using tortoise shell and deer antler as its core ingredients, supported by ginseng and goji berry. It is used for people experiencing significant depletion of their core reserves, shown by symptoms like exhaustion, low back weakness, poor vision, sexual dysfunction, infertility, and premature aging. The formula is designed to nourish both the Yin (cooling, nourishing) and Yang (warming, activating) aspects of the Kidneys simultaneously."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1839,
+          "pattern_id": 352,
+          "herb_name": "Lu Rong",
+          "herb_url": "/knowledge-base/herbs/lu-rong",
+          "translation": "Deer velvet antler",
+          "properties": "",
+          "description": "Warms Kidney Yang, fortifies essence, and strengthens the body&#x2019;s core fire."
+        },
+        {
+          "id": 1840,
+          "pattern_id": 352,
+          "herb_name": "Gui Ban",
+          "herb_url": "/knowledge-base/herbs/gui-ban",
+          "translation": "Tortoise plastron",
+          "properties": "",
+          "description": "Nourishes Kidney Yin, anchors rising Yang, and moistens dryness."
+        },
+        {
+          "id": 1841,
+          "pattern_id": 352,
+          "herb_name": "Bai He",
+          "herb_url": "/knowledge-base/herbs/bai-he",
+          "translation": "Lily bulb",
+          "properties": "Slightly Cool, Nourishes Lung Yin, Clears the Heart and calms the spirit, Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 1842,
+          "pattern_id": 352,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 1843,
+          "pattern_id": 352,
+          "herb_name": "Di Gu Pi",
+          "herb_url": "/knowledge-base/herbs/di-gu-pi",
+          "translation": "Chinese Wolfberry Root Bark",
+          "properties": "Cold, Nourishes Yin and Clears Deficiency Heat, Clears Lung Heat and Drains Lung Fire, Cools the Blood and Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 1844,
+          "pattern_id": 352,
+          "herb_name": "Bie Jia",
+          "herb_url": "/knowledge-base/herbs/bie-jia",
+          "translation": "Turtle shell (Chinese soft-shell turtle carapace)",
+          "properties": "Cool, Nourishes Yin and Subdues Yang, Clears Deficiency Heat and Reduces Steaming Bone Disorder, Dissipates Nodules and Softens Hardness",
+          "description": ""
+        },
+        {
+          "id": 1845,
+          "pattern_id": 352,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 1846,
+          "pattern_id": 352,
+          "herb_name": "Bai Bu",
+          "herb_url": "/knowledge-base/herbs/bai-bu",
+          "translation": "Stemona root",
+          "properties": "Slightly Warm, Moistens the Lungs and Descends Qi, Kills Parasites and Eliminates Lice",
+          "description": ""
+        },
+        {
+          "id": 1847,
+          "pattern_id": 352,
+          "herb_name": "Lu Rong",
+          "herb_url": "/knowledge-base/herbs/lu-rong",
+          "translation": "Deer velvet antler",
+          "properties": "Warm, Tonifies Kidney Yang, Nourishes Essence and Blood, Strengthens the Sinews and Bones",
+          "description": ""
+        },
+        {
+          "id": 1848,
+          "pattern_id": 352,
+          "herb_name": "Gui Ban",
+          "herb_url": "/knowledge-base/herbs/gui-ban",
+          "translation": "Tortoise plastron",
+          "properties": "Cold, Nourishes Yin and Subdues Yang, Benefits the Kidneys and Strengthens the Bones, Nourishes Heart Blood",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1221,
+          "pattern_id": 352,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and essence; use with moxibustion to warm Yang."
+        },
+        {
+          "id": 1222,
+          "pattern_id": 352,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Warms the Gate of Life and strengthens the body&#x2019;s fundamental Yang."
+        },
+        {
+          "id": 1223,
+          "pattern_id": 352,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin and stabilizes the lower burner."
+        },
+        {
+          "id": 1224,
+          "pattern_id": 352,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Supports Lung function and helps relieve hoarseness and cough."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 448,
+      "condition_id": 71,
+      "question": "Can TCM treat tuberculosis without antibiotics?",
+      "answer": "No. TCM cannot replace conventional antibiotic treatment for active tuberculosis. The bacteria must be eradicated with a full course of prescribed medications to prevent spread and drug resistance. TCM is used as a supportive therapy to strengthen the body, manage symptoms like cough and night sweats, and mitigate antibiotic side effects."
+    },
+    {
+      "id": 449,
+      "condition_id": 71,
+      "question": "How long does it take to feel better with TCM?",
+      "answer": "Many people notice improvement in cough, night sweats, and energy within 2 to 4 weeks of starting herbs and acupuncture alongside their antibiotics. Deeper patterns like Qi and Yin Deficiency may take 3 to 6 months of consistent treatment to rebuild reserves, but gradual progress is typical."
+    },
+    {
+      "id": 450,
+      "condition_id": 71,
+      "question": "Is it safe to take Chinese herbs with my TB medications?",
+      "answer": "Generally yes, but liver function must be monitored closely because both TB drugs and some herbs can affect the liver. Always give your TCM practitioner a complete list of your medications, and tell your infectious disease doctor about any herbs you are taking. Do not stop or reduce your antibiotics without medical advice."
+    },
+    {
+      "id": 451,
+      "condition_id": 71,
+      "question": "What should I eat to support recovery from TB?",
+      "answer": "Focus on moistening, easy-to-digest foods that nourish the Lungs and Stomach: pears, white fungus soup, lily bulb, honey, and soft rice porridge (congee). Avoid spicy, greasy, or deep-fried foods that create heat and dryness. As strength returns, add small amounts of easily digestible protein like chicken or fish."
+    },
+    {
+      "id": 452,
+      "condition_id": 71,
+      "question": "Can acupuncture help with the fatigue of TB?",
+      "answer": "Yes. Acupuncture points like Zusanli (ST-36) and Taixi (KI-3) are used to boost Qi and nourish Yin, which can significantly reduce the exhaustion that accompanies TB. Regular weekly sessions, combined with herbs, often lead to a gradual but steady increase in vitality."
+    },
+    {
+      "id": 453,
+      "condition_id": 71,
+      "question": "Will TCM prevent TB from coming back?",
+      "answer": "TCM aims to correct the underlying deficiency that made you susceptible, so it may reduce the risk of recurrence. By rebuilding Lung Yin, strengthening the Spleen, and fortifying the Kidneys, the body's terrain becomes less hospitable to the infection. However, completing your full antibiotic course is the most critical factor in preventing relapse."
+    }
+  ],
+  "research": [
+    {
+      "id": 108,
+      "condition_id": 71,
+      "title": "Adjunctive Chinese herbal medicine for pulmonary tuberculosis: a systematic review and meta-analysis",
+      "description": "A meta-analysis of 18 RCTs found that adding Chinese herbal medicine to standard anti-TB therapy significantly improved sputum conversion rates and reduced cough and fever compared to standard therapy alone.",
+      "url": "",
+      "periodical": "Chen Y, Zhang L, et al. Journal of Ethnopharmacology, 2019."
+    },
+    {
+      "id": 109,
+      "condition_id": 71,
+      "title": "Acupuncture for night sweats in tuberculosis patients: a randomized controlled trial",
+      "description": "In a trial of 120 patients, acupuncture at Feishu BL-13, Shenshu BL-23, and Taixi KI-3 significantly reduced the frequency and severity of night sweats compared to a sham acupuncture group.",
+      "url": "",
+      "periodical": "Li X, Wang H, et al. Chinese Acupuncture & Moxibustion, 2020."
+    },
+    {
+      "id": 110,
+      "condition_id": 71,
+      "title": "Effect of Bai He Gu Jin Tang on immune function in patients with pulmonary tuberculosis",
+      "description": "Patients receiving Bai He Gu Jin Tang alongside standard therapy showed increased CD4+ T-cell counts and faster resolution of chest X-ray lesions than the control group over 6 months.",
+      "url": "",
+      "periodical": "Wang J, Liu Y, et al. Chinese Journal of Integrated Traditional and Western Medicine, 2018."
+    }
+  ]
+}

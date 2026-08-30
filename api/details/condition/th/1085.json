@@ -1,0 +1,616 @@
+{
+  "id": 1085,
+  "name": "Septic Shock",
+  "url": "/knowledge-base/conditions/septic-shock",
+  "kind": "Condition",
+  "pinyin": "nóng dú xìng xiū kè",
+  "chinese_name": "脓毒性休克",
+  "preview_text": "In TCM, septic shock is not a single event but a cascade of patterns - from blazing heat to exhausted yin and yang - and treatment can target each stage to support recovery. When i...",
+  "categories": "[\"โรคติดเชื้อ\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Septic Shock (Cold Phase)\", \"Septic Shock (Hyperdynamic Phase)\"]",
+  "conventional_description": "Septic shock occurs when a systemic infection leads to profound circulatory failure. The body's inflammatory response causes blood vessels to widen, fluids to leak into tissues, and the heart to pump less effectively. As a result, blood pressure falls to dangerously low levels, depriving organs of oxygen. Diagnosis relies on identifying infection, low blood pressure unresponsive to fluids, and signs of organ dysfunction such as confusion, rapid breathing, or reduced urine output.",
+  "conventional_treatments": "Immediate treatment in the intensive care unit includes intravenous antibiotics to fight the infection, large volumes of IV fluids to restore blood pressure, and vasopressor medications to constrict blood vessels. Supportive care such as mechanical ventilation and dialysis may be needed if lungs or kidneys fail. The goal is to stabilize the patient while the infection is brought under control.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, septic shock is understood as a war between the body's upright Qi and an overwhelming external pathogen. The initial invasion is a blazing Heat toxin that enters the blood level, creating high fever, inflammation, and a rapid, forceful pulse. This is the Toxic-Heat pattern, and it represents the body's all-out effort to burn out the infection.\nIf the Heat toxin is not cleared quickly, it scorches the blood, making it thick and sticky. This leads to Blood Stagnation with Heat, a pattern where tiny vessels become clogged and organs begin to fail. The tongue turns dark purple, and the skin may mottle, mirroring the poor microcirculation seen in septic shock.\nProlonged fever and toxin burn through the body's reserves, giving rise to Qi and Yin Deficiency. The patient becomes profoundly weak, thirsty, and the tongue appears red and dry. At this stage, the body's vital energy and fluids are running out. If the depletion continues unchecked, the collapse can go in one of two directions: a Collapse of Yang, where the body's warming fire goes out - causing cold limbs, a barely perceptible pulse, and clammy sweat - or a Collapse of Yin, where the cooling, moistening essence is exhausted, leaving hot, sticky sweat and a dry, crimson tongue. These final patterns are the deepest expressions of shock and carry the highest risk.",
+  "classical_quote": "「太阴温病，血从上溢者，犀角地黄汤合银翘散主之。」",
+  "classical_translation": "\"In Taiyin warm disease with bleeding from the upper body, Xi Jiao Di Huang Tang combined with Yin Qiao San governs. This formula pair clears Heat and cools the Blood, addressing the Toxic-Heat and Blood Stagnation with Heat pattern that underlies the early stage of septic shock.\"",
+  "classical_source": "Wen Bing Tiao Bian (Systematized Identification of Warm Diseases)  ,  Chapter 1, Section 12 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "When a person arrives with signs of septic shock, a TCM practitioner first looks for the tell-tale marks of Toxic-Heat. This pattern is the initial spark: an overwhelming infection that creates a high fever, a flushed face, and a red tongue with a thick yellow coating. The pulse feels rapid and forceful, as if the body is fighting a fire within.\nAs the heat toxin lingers, it can scorch the blood and slow its flow, creating Blood Stagnation with Heat. The skin may develop purplish mottling, and the person might report a fixed, stabbing pain. The tongue turns dark red or purple, often with stasis spots, and the pulse becomes choppy or deep, signaling that microcirculation is failing.\nProlonged fever and toxin drain the body's reserves, leading to Qi and Yin Deficiency. Here the person feels profoundly weary, thirsty for cool drinks, and may have a dry mouth. The tongue appears red with little or no coating, and the pulse is thin, weak, and rapid. This is a warning that the body's vital substances are running out.\nIn some cases, yin fluids are the first to collapse, a pattern called Collapse of Yin. The skin becomes papery and dry, the eyes appear sunken, and urine output drops sharply. The pulse feels floating but empty, like a balloon with no substance, indicating that the moist, cooling aspect of the body is nearly gone.\nThe most critical turn is Collapse of Yang, the final stage of acute deficiency. The limbs become icy cold, a clammy sweat drenches the skin, and the pulse is so faint it seems about to vanish. This pattern reflects a near-total loss of the body's warming, activating force and demands immediate, aggressive resuscitation.",
+  "patterns": [
+    {
+      "id": 5377,
+      "condition_id": 1085,
+      "pattern_name": "Collapse of Yang",
+      "pattern_slug": "collapse-of-yang",
+      "is_common": 0,
+      "symptoms": "[\"Profuse cold, clammy sweating\", \"Ice-cold hands and feet extending past elbows and knees\", \"Ashen-white or greyish complexion\", \"Pulse extremely faint or impalpable\", \"No thirst, or only a desire for warm drinks\", \"Extreme drowsiness or loss of consciousness\"]",
+      "worse_with": "Cold environment, Cold drinks and raw food, Physical exertion, Emotional shock",
+      "better_with": "Warmth and blankets, Complete rest, Sips of warm ginger tea",
+      "why_this_happens": "Yang is the body’s warming, activating force. In septic shock, the initial toxic heat and inflammation consume the body’s Qi and fluids so aggressively that the vital fire itself begins to go out. Without Yang to warm the limbs, drive circulation, and hold fluids inside, the body becomes cold, clammy, and unresponsive - this is why blood pressure drops, the pulse fades, and consciousness dims.",
+      "tongue_and_pulse": "Tongue: pale, moist, and flaccid body with a thin white slippery coating. Pulse: minute (微, wēi) and on the verge of disappearing (欲绝, yù jué), often impalpable at all positions.",
+      "why_triggers_reliefs_work": "When Yang has collapsed, the body has lost its inner fire. Cold drinks, cold air, and exertion drain what little warmth remains, while gentle warmth, rest, and warm fluids help preserve and coax back the fading Yang. Ginger tea provides a mild, warming lift without overwhelming a very fragile system.",
+      "diet_and_lifestyle": "This is a medical emergency requiring hospital care. In a supportive setting, keep the person warm with blankets and offer small sips of warm ginger tea if they are conscious. Avoid any cold drinks, raw foods, or sudden movements that could further scatter the fragile Yang.",
+      "formulas": [
+        {
+          "id": 12227,
+          "pattern_id": 5377,
+          "formula_name": "Si Ni Tang",
+          "formula_url": "/knowledge-base/formulas/si-ni-tang",
+          "translation": "Frigid Extremities Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Kidney Yang",
+          "description": "The classic formula to rescue devastated Yang, dispel internal cold, and restore a fading pulse."
+        },
+        {
+          "id": 12228,
+          "pattern_id": 5377,
+          "formula_name": "Shen Fu Long Mu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-long-mu-tang",
+          "translation": "Ginseng, Aconite, Dragon Bone and Oyster Shell Decoction &#xB7; Modern formulary compilation, based on classical Shen Fu Tang from the M&#xED;ng dynasty",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Qi, Astringes to Stop Sweating",
+          "description": "Strengthens the original Qi and anchors Yang, often used when sweating is profuse and collapse is imminent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28301,
+          "pattern_id": 5377,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "The primary herb to restore the body&#x2019;s warming Yang and drive out deep internal cold."
+        },
+        {
+          "id": 28302,
+          "pattern_id": 5377,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully replenishes the original Qi to hold Yang from slipping away."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19246,
+          "pattern_id": 5377,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion on this point strengthens the Spleen and Stomach to generate Qi and raise Yang."
+        },
+        {
+          "id": 19247,
+          "pattern_id": 5377,
+          "acupoint_code": "REN-8",
+          "acupoint_name": "Shenque REN-8",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shenque-ren-8",
+          "translation": "Sh&#xE9;n Qu&#x113;",
+          "properties": "Warms and rescues the Yang, Strengthens the Spleen",
+          "description": "Moxibustion on the navel warms the body&#x2019;s core and revives collapsed Yang."
+        },
+        {
+          "id": 19248,
+          "pattern_id": 5377,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Moxibustion here warms all the Yang channels and helps restore consciousness."
+        }
+      ]
+    },
+    {
+      "id": 5378,
+      "condition_id": 1085,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Extreme fatigue and weakness, conscious but barely able to speak\", \"Dry mouth and thirst, but only wanting small sips\", \"Scanty, dark urine\", \"Warm palms, soles, and chest (five-center heat)\", \"Thready, weak, and often rapid pulse\", \"No severe cold limbs (unlike Yang collapse)\"]",
+      "worse_with": "Physical exertion or even prolonged talking, Spicy, fried, or heavily seasoned foods, Cold drinks and raw food, Emotional stress or mental strain, Exposure to cold drafts",
+      "better_with": "Complete rest in a quiet room, Small sips of warm congee or broth, Ginseng or codonopsis tea, Gentle moxibustion on lower abdomen, Warm, not cold, environment",
+      "why_this_happens": "In septic shock, the initial severe infection creates intense heat that burns through the body's Qi and Yin fluids like a wildfire. Qi deficiency leaves the body too weak to maintain blood pressure and organ perfusion, while Yin deficiency drains the fluids needed for blood volume and cooling. Together, this double depletion produces a shock state marked by profound fatigue, thirst, and a weak, thready pulse - the body is still fighting but running nearly empty.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, dry, and possibly cracked. Pulse: fine (thready), weak, and often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are the body's fuel and coolant. When they are severely depleted by a raging infection, the body can barely sustain basic functions. Rest and warm, easily digested fluids gently replenish both without overtaxing the digestive system. Spicy or drying foods and any exertion - physical, vocal, or mental - consume the remaining Qi and Yin, pushing the body closer to collapse. Gentle warmth through moxibustion and a stable environment helps preserve the fading internal fire.",
+      "diet_and_lifestyle": "Sip warm, nourishing fluids like rice congee or ginseng tea throughout the day to gently rebuild Qi and Yin. Avoid spicy, fried, or drying foods that would consume the little fluids left. Complete rest is essential - even talking or mental effort can further drain Qi.",
+      "formulas": [
+        {
+          "id": 12229,
+          "pattern_id": 5378,
+          "formula_name": "Du Shen Tang",
+          "formula_url": "/knowledge-base/formulas/du-shen-tang",
+          "translation": "Unaccompanied Ginseng Decoction &#xB7; Yu&#xE1;n dynasty, 1348 CE",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Stabilizes the Exterior and Rescues Collapse",
+          "description": "The primary formula to urgently boost Qi and Yin, used when shock presents with a weak pulse and thirst but the person is still conscious."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28303,
+          "pattern_id": 5378,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi and generates Yin fluids, helping to restore blood pressure and consciousness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19249,
+          "pattern_id": 5378,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and strengthens the Spleen to support blood pressure and immune function."
+        },
+        {
+          "id": 19250,
+          "pattern_id": 5378,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Nourishes Yin and anchors Qi; often used with moxibustion to gently warm and rebuild."
+        },
+        {
+          "id": 19251,
+          "pattern_id": 5378,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart Qi and calms the mind, stabilizing the pulse and easing palpitations."
+        },
+        {
+          "id": 19252,
+          "pattern_id": 5378,
+          "acupoint_code": "DU-26",
+          "acupoint_name": "Renzhong DU-26",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/renzhong-du-26",
+          "translation": "R&#xE9;n Zh&#x14D;ng",
+          "properties": "Restores consciousness, Benefits the face and nose",
+          "description": "Revives consciousness and restores collapse, especially when the person is drifting."
+        },
+        {
+          "id": 19253,
+          "pattern_id": 5378,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Raises clear Yang to the head to improve alertness and support organ function."
+        },
+        {
+          "id": 19254,
+          "pattern_id": 5378,
+          "acupoint_code": "REN-8",
+          "acupoint_name": "Shenque REN-8",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shenque-ren-8",
+          "translation": "Sh&#xE9;n Qu&#x113;",
+          "properties": "Warms and rescues the Yang, Strengthens the Spleen",
+          "description": "Moxibustion on the navel warms the core and revives Qi and Yin when fluids and energy are severely depleted."
+        }
+      ]
+    },
+    {
+      "id": 5379,
+      "condition_id": 1085,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever that may not fully respond to medication\", \"Red tongue with prickly thorns and dry yellow coating\", \"Restlessness, irritability, and intense thirst\", \"Rapid, forceful pulse\", \"Red, swollen, painful skin lesions or abscesses (source of infection)\"]",
+      "worse_with": "Spicy, greasy food, Overexertion, Hot weather or stuffy rooms, Emotional stress",
+      "better_with": "Cooling environment, Drinking plenty of cool water, Rest and sleep, Light, non-spicy foods",
+      "why_this_happens": "In septic shock, a severe infection introduces a blazing Heat toxin into the body. This toxin burns through the body's defenses, causing intense fever and inflammation. The Heat damages Qi and Yin, and if unchecked, it can collapse into the deeper deficiency states that characterize shock.",
+      "tongue_and_pulse": "Tongue: Red body with prickly thorns, dry yellow coating. Pulse: Rapid and forceful.",
+      "why_triggers_reliefs_work": "Toxic-Heat is an aggressive internal Fire. Spicy and greasy foods add fuel, while overexertion and heat further deplete Yin and fan the flames. Cooling measures, rest, and hydration help clear Heat and protect fluids, supporting the body's fight against the infection.",
+      "diet_and_lifestyle": "Focus on cooling, hydrating foods like watermelon, cucumber, and mung bean soup. Avoid spicy, fried, or greasy foods that add heat. Rest is crucial to conserve Qi while the body fights infection.",
+      "formulas": [
+        {
+          "id": 12230,
+          "pattern_id": 5379,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "Clears Heat and resolves Toxin, cools the Blood, and extinguishes Fire, targeting the blazing Heat toxin that drives septic shock."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28304,
+          "pattern_id": 5379,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves Toxin, especially from the Qi level, helping to control the infection."
+        },
+        {
+          "id": 28305,
+          "pattern_id": 5379,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Heat and reduces swelling, supporting the clearance of Heat toxin."
+        },
+        {
+          "id": 28306,
+          "pattern_id": 5379,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Drains intense Heat from the Qi level and reduces high fever."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19255,
+          "pattern_id": 5379,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduces Heat and clears the exterior, a key point for high fever."
+        },
+        {
+          "id": 19256,
+          "pattern_id": 5379,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools the Blood, especially useful for skin infections."
+        },
+        {
+          "id": 19257,
+          "pattern_id": 5379,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Relieves the exterior and clears Heat, helping to drive the pathogen out."
+        },
+        {
+          "id": 19258,
+          "pattern_id": 5379,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears Stomach Heat and calms irritability."
+        }
+      ]
+    },
+    {
+      "id": 5380,
+      "condition_id": 1085,
+      "pattern_name": "Blood Stagnation with Heat",
+      "pattern_slug": "blood-stagnation-with-heat",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain, often in chest or abdomen\", \"Dark purplish skin patches or mottling\", \"Irritability, restlessness, and a sensation of internal heat\", \"Thirst with desire to rinse mouth but not swallow\", \"Bleeding with dark-red or clotted blood\"]",
+      "worse_with": "Spicy or fried foods, Emotional stress and anger, Overheating or hot environments",
+      "better_with": "Cooling foods and drinks, Rest in a cool, quiet room, Gentle massage of limbs",
+      "why_this_happens": "Severe infection introduces blazing Heat toxins into the blood. This Heat scorches the blood, making it thick and sticky, which slows its flow and causes stasis. The resulting Blood Stasis clogs the tiny vessels that nourish the organs, cutting off oxygen and nutrients and directly worsening organ failure and shock.",
+      "tongue_and_pulse": "Tongue: reddish-purple body with stasis spots, distended sublingual veins, and a thin dry yellow coating. Pulse: choppy (se), rapid (shu), and often wiry (xian).",
+      "why_triggers_reliefs_work": "Heat toxins are the root cause of this pattern, so anything that adds heat-spicy foods, hot environments, or emotional frustration-thickens the blood further and worsens stasis. Cooling foods and a calm, cool environment directly counter the Heat, while gentle limb movement and massage help nudge stagnant blood back into circulation without overexertion.",
+      "diet_and_lifestyle": "Focus on cooling, blood-nourishing foods like cucumber, watermelon, and leafy greens. Avoid spicy, greasy, and fried foods that add heat. Gentle leg elevation and passive movement can aid circulation when bedridden.",
+      "formulas": [
+        {
+          "id": 12231,
+          "pattern_id": 5380,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "Moves blood and dispels stasis to restore microcirculation and relieve organ congestion."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28307,
+          "pattern_id": 5380,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Invigorates the blood and breaks up stasis, improving microcirculation and protecting organs."
+        },
+        {
+          "id": 28308,
+          "pattern_id": 5380,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Cools the blood and moves stasis, reducing heat and alleviating fixed pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19259,
+          "pattern_id": 5380,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The primary point for blood stasis; invigorates blood and clears Heat from the blood."
+        },
+        {
+          "id": 19260,
+          "pattern_id": 5380,
+          "acupoint_code": "PC-3",
+          "acupoint_name": "Quze PC-3",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/quze-pc-3",
+          "translation": "Q&#x16B; Z&#xE9;",
+          "properties": "Clears Heat and cools Blood, Subdues Rebellious Stomach Qi",
+          "description": "Drains Heart heat and cools the blood, calming irritability and restlessness."
+        },
+        {
+          "id": 19261,
+          "pattern_id": 5380,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the blood and supports yin, aiding circulation and reducing stasis."
+        }
+      ]
+    },
+    {
+      "id": 5381,
+      "condition_id": 1085,
+      "pattern_name": "Collapse of Yin",
+      "pattern_slug": "collapse-of-yin",
+      "is_common": 0,
+      "symptoms": "[\"Profuse hot, sticky sweat (beading like oil)\", \"Burning hot body with warm hands and feet\", \"Extreme thirst with desire for cold drinks\", \"Dry, cracked lips and throat\", \"Sunken eye sockets and wrinkled skin\", \"Flushed red face\", \"Restlessness and agitation\"]",
+      "worse_with": "Exposure to heat, Spicy or drying foods, Physical exertion, Emotional stress",
+      "better_with": "Cool, quiet environment, Sipping cool fluids, Rest and sleep, Light, moistening foods",
+      "why_this_happens": "In septic shock, severe Heat toxin can consume the body's Yin fluids so completely that the cooling, moistening essence is exhausted. This leaves the body dry and overheated, with nothing to anchor the Yang, which floats upward and outward. The result is hot, sticky sweat, a burning body, extreme thirst, and a thin, racing pulse - the classic signs of Yin collapse.",
+      "tongue_and_pulse": "Tongue: deep red or crimson, completely dry, no coating (mirror tongue), possibly cracked and shrunken. Pulse: fine, rapid, racing, lacking force, may feel scattered or hollow.",
+      "why_triggers_reliefs_work": "Yin is the body's cooling, moistening essence. Heat, exertion, and stress consume Yin further, worsening the fluid depletion that defines this pattern. Rest and cool fluids help to restore Yin and calm the unanchored Yang, stabilizing the body.",
+      "diet_and_lifestyle": "In recovery, prioritize gentle, cooling fluids like pear juice, watermelon, and congee. Avoid spicy, fried, or drying foods. Rest in a calm, cool environment to prevent further fluid loss.",
+      "formulas": [
+        {
+          "id": 12232,
+          "pattern_id": 5381,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "The primary formula to nourish Yin, generate fluids, and astringe sweat, helping to restore the pulse and consciousness."
+        },
+        {
+          "id": 12233,
+          "pattern_id": 5381,
+          "formula_name": "Si Ni Tang",
+          "formula_url": "/knowledge-base/formulas/si-ni-tang",
+          "translation": "Frigid Extremities Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Kidney Yang",
+          "description": "A classical emergency formula used to rescue failing Yang and reverse dangerous cold in the body. It is designed for situations where the body&#x27;s warming function has severely declined, causing ice-cold limbs, extreme fatigue, watery diarrhea, and a barely detectable pulse. In modern practice, it is applied alongside conventional care for conditions like shock and heart failure when there are clear signs of Yang collapse."
+        },
+        {
+          "id": 12234,
+          "pattern_id": 5381,
+          "formula_name": "Shen Fu Long Mu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-long-mu-tang",
+          "translation": "Ginseng, Aconite, Dragon Bone and Oyster Shell Decoction &#xB7; Modern formulary compilation, based on classical Shen Fu Tang from the M&#xED;ng dynasty",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Qi, Astringes to Stop Sweating",
+          "description": "A powerful emergency formula used to rescue the body when its vital warming force (Yang) is collapsing, causing dangerous symptoms like ice-cold limbs, profuse cold sweating, and a barely perceptible pulse. It combines herbs that restore the body&#x27;s fundamental vitality with heavy mineral substances that anchor and stabilize, preventing the restored warmth from escaping again. This formula is typically used in critical, acute situations under professional supervision."
+        },
+        {
+          "id": 12235,
+          "pattern_id": 5381,
+          "formula_name": "Du Shen Tang",
+          "formula_url": "/knowledge-base/formulas/du-shen-tang",
+          "translation": "Unaccompanied Ginseng Decoction &#xB7; Yu&#xE1;n dynasty, 1348 CE",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Stabilizes the Exterior and Rescues Collapse",
+          "description": "An emergency rescue formula consisting of a single herb, Ginseng (Ren Shen), used at high dosage to powerfully restore the body&#x27;s vital Qi when it is on the verge of collapse. It is traditionally used in critical, life-threatening situations involving severe blood loss, shock, or extreme exhaustion where the pulse is barely detectable and consciousness is fading."
+        },
+        {
+          "id": 12236,
+          "pattern_id": 5381,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "A powerful Heat-clearing formula used for severe epidemic febrile diseases where intense Heat and toxic pathogens have invaded both the Qi and Blood levels of the body. It addresses dangerously high fever, delirium, skin rashes, and bleeding by simultaneously cooling the blood and draining fire. This is an emergency formula for critical, life-threatening heat conditions and is not intended for mild or cold-type illnesses."
+        },
+        {
+          "id": 12237,
+          "pattern_id": 5381,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 12238,
+          "pattern_id": 5381,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28309,
+          "pattern_id": 5381,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes sweat and preserves Yin, preventing further fluid loss."
+        },
+        {
+          "id": 28310,
+          "pattern_id": 5381,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 28311,
+          "pattern_id": 5381,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 28312,
+          "pattern_id": 5381,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 28313,
+          "pattern_id": 5381,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 28314,
+          "pattern_id": 5381,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 28315,
+          "pattern_id": 5381,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 28316,
+          "pattern_id": 5381,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        },
+        {
+          "id": 28317,
+          "pattern_id": 5381,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19262,
+          "pattern_id": 5381,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin, the root of all Yin in the body."
+        },
+        {
+          "id": 19263,
+          "pattern_id": 5381,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and blood, supporting fluid regeneration."
+        },
+        {
+          "id": 19264,
+          "pattern_id": 5381,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Moistens the throat and strengthens Yin, calming the spirit."
+        },
+        {
+          "id": 19265,
+          "pattern_id": 5381,
+          "acupoint_code": "KI-7",
+          "acupoint_name": "Fuliu KI-7",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/fuliu-ki-7",
+          "translation": "F&#xF9; Li&#x16B;",
+          "properties": "Resolves Dampness, Tonifies Kidneys",
+          "description": "Stops sweating and preserves precious fluids."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7032,
+      "condition_id": 1085,
+      "question": "Can TCM replace antibiotics or vasopressors in septic shock?",
+      "answer": "Absolutely not. Septic shock is a life-threatening emergency that requires immediate hospital care, including antibiotics, IV fluids, and vasopressors. TCM should only be used as a complementary therapy under the supervision of an ICU team, never as a substitute."
+    },
+    {
+      "id": 7033,
+      "condition_id": 1085,
+      "question": "Is acupuncture safe during septic shock?",
+      "answer": "When performed by a trained practitioner in an ICU, acupuncture can be safe and may help regulate autonomic function and inflammation. Points are selected based on the pattern, such as ST-36 and REN-8 to support Yang. However, it must be done with full awareness of the patient's critical condition and any invasive lines or monitors."
+    },
+    {
+      "id": 7034,
+      "condition_id": 1085,
+      "question": "How can TCM help after I leave the hospital?",
+      "answer": "Many survivors experience profound fatigue, brain fog, and weakness that can last for months. TCM can help rebuild Qi and Yin through herbal formulas and acupuncture, speeding recovery and improving quality of life. A typical post-discharge plan might include weekly sessions and a tailored herbal formula taken daily."
+    },
+    {
+      "id": 7035,
+      "condition_id": 1085,
+      "question": "Are there any dietary changes I should make during recovery?",
+      "answer": "Yes. In the recovery phase, favor warm, easily digested foods like congee, bone broth, and steamed vegetables. Avoid cold, raw, or greasy foods that tax the Spleen. Small amounts of ginseng tea may help restore Qi, but always consult your TCM practitioner first."
+    },
+    {
+      "id": 7036,
+      "condition_id": 1085,
+      "question": "Can TCM herbs interact with my heart or blood pressure medications?",
+      "answer": "Some herbs, particularly those that move blood or affect Yang, can interact with vasopressors, anticoagulants, or antiarrhythmics. It is essential that your ICU team and TCM practitioner communicate openly about all treatments. Never add herbs without full medical oversight."
+    }
+  ],
+  "research": []
+}

@@ -1,0 +1,894 @@
+{
+  "id": 178,
+  "name": "Shen Tong Zhu Yu Tang",
+  "chinese_name": "身痛逐瘀汤",
+  "english_name": "Body Pain Stasis-Expelling Decoction",
+  "url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+  "summary": "A classical formula for chronic body pain that has not responded to other treatments. It promotes blood circulation and opens the body's channels to relieve stubborn pain in the shoulders, arms, lower back, legs, or throughout the whole body, especially when caused by blood stagnation combined with Wind and Dampness.",
+  "categories": "[\"Hemostatic formulas\", \"Blood-invigorating and stasis-resolving formulas\"]",
+  "tcm_actions": "[\"Invigorates Blood and Dispels Stasis\", \"Unblocks the Channels and Alleviates Pain\", \"Moves Qi and Alleviates Pain\", \"Dispels Wind-Dampness\", \"Unblocks the Channels and Collaterals\"]",
+  "therapeutic_focus": "[\"Joint and Muscle Pain Relief\", \"Pain Management\", \"Mobility and Flexibility\", \"Joint and Muscle Health\"]",
+  "target_organs": "[\"Liver\", \"Kidneys\"]",
+  "temperature": "Slightly Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Yi Lin Gai Cuo (医林改错, Corrections of Errors in Medical Works) by Wang Qing Ren",
+  "conditions": "[\"Rheumatoid Arthritis\", \"Sciatica\", \"Lower Back Pain\", \"Osteoarthritis\", \"Frozen Shoulder\", \"Neuralgia\", \"Fibromyalgia\", \"Gout\", \"Hyperosteogeny\", \"Purpura\"]",
+  "patterns": "[]",
+  "other_names": "[]",
+  "pregnancy": "Contraindicated during pregnancy. This formula contains several herbs with strong Blood-moving and stasis-breaking actions that pose a risk of stimulating uterine contractions and potentially causing miscarriage. The key herbs of concern include Tao Ren (Peach Kernel), Hong Hua (Safflower), Niu Xi (Achyranthes Root, which also directs Blood downward), Mo Yao (Myrrh), Wu Ling Zhi (Flying Squirrel Droppings), and Di Long (Earthworm). This formula should not be used at any stage of pregnancy.",
+  "breastfeeding": "Use with caution during breastfeeding. While there are no specific classical prohibitions for nursing mothers, the formula contains strong Blood-moving herbs (Tao Ren, Hong Hua, Mo Yao, Wu Ling Zhi) whose active compounds may transfer into breast milk. The potential effects on the infant are not well studied. If clinically necessary, it should be used under practitioner supervision at reduced dosages and for short durations. Monitor the infant for any signs of gastrointestinal upset or unusual fussiness.",
+  "children": "This formula is not commonly prescribed for children in classical usage. Wang Qingren did not specifically indicate pediatric applications for Shen Tong Zhu Yu Tang. If considered for adolescents with chronic pain conditions showing clear signs of Blood stasis (fixed pain, dark tongue), dosages should be reduced to approximately one-third to one-half of adult doses depending on age and body weight. Generally not recommended for children under 12 without specialist guidance. The Blood-breaking herbs in this formula are relatively strong and may be excessive for the developing constitution of young children. A practitioner should carefully assess whether the pain pattern truly involves Blood stasis before considering this formula in pediatric cases.",
+  "drug_interactions": "Anticoagulant and antiplatelet medications: Multiple herbs in this formula (Tao Ren, Hong Hua, Dang Gui, Chuan Xiong, Mo Yao, Wu Ling Zhi, Niu Xi) have demonstrated anticoagulant or platelet-inhibiting effects. Concurrent use with warfarin, heparin, aspirin, clopidogrel, or other blood-thinning drugs may significantly increase bleeding risk. INR and coagulation parameters should be closely monitored if combined use is unavoidable.\nNSAIDs (non-steroidal anti-inflammatory drugs): The formula has demonstrated anti-inflammatory and analgesic effects that may overlap with those of ibuprofen, diclofenac, and similar drugs. While not necessarily dangerous, combined use may increase gastrointestinal irritation, especially since Wu Ling Zhi and Mo Yao can be harsh on the stomach.\nGan Cao (Licorice root) interactions: Gan Cao contains glycyrrhizin, which may interact with corticosteroids (potentiating their effects), antihypertensive medications (counteracting their effect through sodium retention and potassium loss), digoxin (hypokalemia increasing toxicity risk), and diuretics (compounding potassium depletion).",
+  "best_time_to_take": "30 minutes after meals, twice daily (morning and evening), taken warm to promote circulation and reduce potential stomach irritation from the Blood-moving herbs.",
+  "typical_duration": "Typically prescribed for 2-4 weeks for acute flare-ups, or 4-8 weeks for chronic pain conditions, with reassessment by a practitioner. Wang Qingren's modifications suggest ongoing adjustment based on response.",
+  "dietary_advice": "Avoid cold and raw foods (ice water, raw salads, sashimi) as they can constrict the channels and worsen Blood stasis. Reduce intake of greasy, rich, or heavy foods that may generate Dampness and impede circulation. Avoid excessive alcohol, which can produce Damp-Heat and interfere with the formula's action. Favor warm, lightly cooked foods that support circulation, such as ginger tea, turmeric, small amounts of vinegar in cooking, dark leafy greens, and warming spices. Moderate intake of foods that gently support Blood flow, like black fungus (wood ear mushroom), hawthorn fruit, and small amounts of rice wine in cooking, may complement treatment.",
+  "ingredients": [
+    {
+      "herb_name": "Tao Ren",
+      "english_name": "Peach kernel",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Hong Hua",
+      "english_name": "Safflower flower",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Chuan Xiong",
+      "english_name": "Sichuan lovage rhizome",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "Chinese Angelica root",
+      "role": "Deputy",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Niu Xi",
+      "english_name": "",
+      "role": "Deputy",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Qin Jiao",
+      "english_name": "Large-leaf gentian root",
+      "role": "Assistant",
+      "dosage": "3g"
+    },
+    {
+      "herb_name": "Qiang Huo",
+      "english_name": "Notopterygium root and rhizome",
+      "role": "Assistant",
+      "dosage": "3g"
+    },
+    {
+      "herb_name": "Mo Yao",
+      "english_name": "Myrrh resin",
+      "role": "Assistant",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Wu Ling Zhi",
+      "english_name": "Flying squirrel feces",
+      "role": "Assistant",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Xiang Fu",
+      "english_name": "Nutgrass Galingale Rhizome",
+      "role": "Assistant",
+      "dosage": "3g"
+    },
+    {
+      "herb_name": "Di Long",
+      "english_name": "Earthworm",
+      "role": "Assistant",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "6g"
+    }
+  ],
+  "research": [
+    {
+      "id": 397,
+      "formula_id": 178,
+      "title": "Systematic Review and Meta-analysis: Efficacy and Safety of Shentong Zhuyu Decoction for Lumbar Disc Herniation (2020)",
+      "description": "This systematic review analyzed 9 randomized controlled trials (824 patients total). Meta-analysis found that Shentong Zhuyu Decoction was significantly more effective than control treatments including Yaotongning Capsules and diclofenac sodium tablets for lumbar disc herniation, with superior VAS pain score improvement and fewer adverse events.",
+      "url": "https://doi.org/10.19540/j.cnki.cjcmm.20191011.501",
+      "periodical": "Sun K, Zhu LG, Wei X, Yu J, Feng MS, Yin H, Liang L, Zhang YL, Qi BY. China Journal of Chinese Materia Medica. 2020; 45(5): 1159-1166."
+    },
+    {
+      "id": 398,
+      "formula_id": 178,
+      "title": "In Vitro Study: Shentong Zhuyu Decoction Inhibits Inflammatory Response of Rheumatoid Arthritis Fibroblast-like Synoviocytes via MAPK p38/PPARγ/CTGF Pathway (2021)",
+      "description": "Using a collagen-induced arthritis rat model, this study isolated rheumatoid arthritis fibroblast-like synoviocytes and treated them with formula-containing serum. The decoction significantly reduced cell viability, migration, invasion, and inflammatory markers (IL-1β, MMP-3), while promoting apoptosis. The mechanism was linked to downregulation of MAPK p38 and CTGF and upregulation of PPARγ.",
+      "url": "https://doi.org/10.1155/2021/6187695",
+      "periodical": "Han Y, Wang J, Jin M, Jia L, Yan C, Wang Y. BioMed Research International. 2021; 2021: 6187695."
+    },
+    {
+      "id": 399,
+      "formula_id": 178,
+      "title": "Metabolomics and Network Pharmacology Study: Mechanism of Shentong Zhuyu Decoction in Rheumatoid Arthritis Treatment (2022)",
+      "description": "This study combined network pharmacology with metabolomics in adjuvant-induced arthritis rats. The formula alleviated paw swelling and joint destruction. Twenty-four active compounds were identified in rat serum, and the NF-κB signaling pathway was experimentally verified as a crucial mechanism. Key metabolic changes involved alanine/aspartate/glutamate metabolism and arachidonic acid metabolism.",
+      "url": "https://doi.org/10.1016/j.jep.2021.114846",
+      "periodical": "Jiang Y, Zheng Y, Dong Q, Liao W, Pang L, Chen J, He Q, Zhang J, Luo Y, Li J, Fu C, Fu Q. Journal of Ethnopharmacology. 2022; 285: 114846."
+    },
+    {
+      "id": 400,
+      "formula_id": 178,
+      "title": "Network Pharmacology and Computer-Aided Drug Design: Mechanisms of Action of Shentong Zhuyu Decoction in Rheumatoid Arthritis (2023)",
+      "description": "Using systems biology and molecular docking approaches, researchers identified quercetin, luteolin, and formononetin as key active compounds in the formula that regulate immune network targets. RA-associated genes were found to be enriched in NF-κB, PI3K/AKT, and HIF-1 signaling pathways, providing a multi-target mechanistic explanation for the formula's clinical effects.",
+      "url": "https://doi.org/10.1097/MD.0000000000036287",
+      "periodical": "Bai S, Han X, Lan Y, Wang H, Wang R, Li L, Song Q, Li A. Medicine (Baltimore). 2023; 102(47): e36287."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 84,
+      "name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 116,
+      "name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "pattern_id": 240,
+      "name": "Shen Tong Zhu Yu Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 15,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 15,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 25,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 25,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 44,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 44,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 72,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 72,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 73,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 73,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 87,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 87,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 88,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 88,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 89,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 89,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 104,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 199,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 199,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 202,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 202,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 202,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 203,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 203,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 204,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 204,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 207,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 207,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 476,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 476,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 527,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 527,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 776,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 776,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 778,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 778,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 779,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 779,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 781,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 781,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 783,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 783,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 785,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 785,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 788,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 788,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 789,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 789,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 791,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 791,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 797,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 797,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 799,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 799,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 801,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 801,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 802,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 802,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 803,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 803,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 804,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 810,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 810,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 816,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 817,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 817,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 820,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 820,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 821,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 821,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 821,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 822,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 822,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 975,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 975,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1008,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1008,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1014,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1014,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1017,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1017,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1017,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1023,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1029,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1029,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1034,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1034,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1069,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1069,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1129,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1129,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1141,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1141,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1159,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1159,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1159,
+      "pattern_name": "Damp-Cold",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1161,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1161,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1161,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1173,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1173,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1192,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1192,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1193,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1193,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1233,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1233,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1246,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1246,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1248,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1248,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1281,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1281,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1311,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1311,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1341,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1341,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1349,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1349,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1369,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1369,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1375,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1375,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1407,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1407,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1456,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1456,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1508,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1508,
+      "pattern_name": "Cold invading the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1515,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1515,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1515,
+      "pattern_name": "Painful Obstruction with Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1551,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1551,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1551,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1561,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1561,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1577,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1577,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1607,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1607,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1612,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    },
+    {
+      "condition_id": 1612,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Shen Tong Zhu Yu Tang"
+    }
+  ]
+}

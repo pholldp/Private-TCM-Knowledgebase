@@ -1,0 +1,921 @@
+{
+  "id": 1610,
+  "name": "Hand Eczema",
+  "url": "/knowledge-base/conditions/hand-eczema",
+  "kind": "Condition",
+  "pinyin": "shǒu bù shī zhěn",
+  "chinese_name": "手部湿疹",
+  "preview_text": "The oozing, burning eczema that flares after wet work needs a completely different treatment from the dry, cracked eczema that worsens in winter - and most patients see significant...",
+  "categories": "[\"Skin Conditions\", \"Hand, Wrist & Nail Problems\"]",
+  "body_regions": "[\"Hand — Dorsum\", \"Hand — Palm\"]",
+  "synonyms": "[]",
+  "conventional_description": "Hand eczema is a chronic inflammatory skin condition that causes redness, itching, scaling, cracking, and sometimes blisters on the hands. It is often triggered by a combination of genetic susceptibility and repeated exposure to irritants like water, detergents, or chemicals, or to allergens such as nickel or latex. Diagnosis is usually made by a dermatologist based on the appearance of the skin and a history of occupational or household exposures, and sometimes patch testing is used to identify specific triggers.",
+  "conventional_treatments": "Conventional treatment typically starts with regular use of emollients to repair the skin barrier and avoidance of known irritants. Topical corticosteroids are the mainstay for reducing inflammation during flares, while calcineurin inhibitors may be used for sensitive areas. For severe or persistent cases, phototherapy or systemic medications like oral steroids, immunosuppressants, or biologics may be prescribed.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the skin is governed by the Lung system, but hand eczema almost always involves a deeper web of organs. The Spleen manages fluids - when it is weak, Dampness accumulates and can spill over into the skin. The Liver stores Blood, which nourishes and moistens the skin; when Blood is deficient, the skin becomes dry and brittle. The Kidneys supply the body’s fundamental Yin and Yang, and their depletion leads to chronic dryness or cold, damp eczema. Hand eczema is therefore a reflection of what is happening inside, not just a surface problem.\nAcute, weepy flares are usually caused by an invasion of external pathogens - Wind, Damp, and Heat - that penetrate the skin’s defenses and combine with internal Damp-Heat from a struggling Spleen. The result is red, swollen, oozing blisters with an intense burning itch. This pattern often appears after heavy exposure to water or chemicals, or after eating rich, spicy foods that fuel internal Heat.\nWhen the condition drags on, the internal picture shifts. Long-standing inflammation consumes Blood and Yin, drying out the skin and leading to painful cracks and thick, scaly patches. At this stage, the root is a deficiency, not an excess. The eczema may look less angry but is harder to heal because the body’s nourishing reserves are depleted. Some chronic cases also involve Blood Stagnation, where poor circulation in the hands leaves the skin thickened and purplish.\nBecause the same Western diagnosis can arise from such different internal landscapes - Damp-Heat, Spleen deficiency, Blood deficiency, or even Yang deficiency with Cold-Damp - TCM treatment is never one-size-fits-all. The pattern is identified through a detailed examination of the skin, the tongue, the pulse, and accompanying symptoms like digestion, thirst, and sleep. This is why two people with hand eczema may receive completely different herbal formulas and acupuncture protocols.",
+  "classical_quote": "「浸淫疮，从口流向四肢者，可治；从四肢流来入口者，不可治。浸淫疮，黄连粉主之。」",
+  "classical_translation": "\"The spreading sore, when it flows from the mouth to the four limbs, is treatable; when it flows from the four limbs to the mouth, it is incurable. For the spreading sore, Coptis Powder governs it.\"",
+  "classical_source": "Jin Gui Yao Lue (Synopsis of Prescriptions of the Golden Chamber)  ,  Chapter 18 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by looking at the skin itself and asking about what makes it better or worse. The appearance of the rash-whether it is red, weeping, dry, or thickened-and the timing of the itch are the first big clues that point toward one pattern rather than another. The tongue and pulse are then checked to confirm the picture.\nWhen the hands are red, swollen, and dotted with tiny blisters that ooze clear fluid, and the itching feels hot and relentless, the Damp-Heat pattern is likely. The tongue will often be red with a thick, yellow, greasy coating, and the pulse feels slippery and rapid. Questions about a heavy feeling in the body, thirst, or dark urine help seal this acute, fiery diagnosis.\nIf the rash has become dull red and scaly rather than weepy, and the person also struggles with bloating, loose stools, or a heavy sensation after eating, the focus shifts to Spleen Deficiency with Dampness. Here the tongue looks pale and puffy, sometimes with tooth marks on the sides, and the coating is white and sticky. The pulse tends to be soft or slippery-slow, reflecting a digestive system that is too weak to manage fluids.\nChronic dryness tells a different story. When the skin is rough, cracked, and peeling, and the itch flares at night, the pattern is often Blood Deficiency with External Wind. The tongue is pale with a thin coating, and the pulse feels thin and maybe slightly wiry.\nIf the dryness is even more extreme-with fine cracks like a dried-up riverbed, a red tongue with little coating, and thirst-the picture has shifted into Yin and Blood Deficiency, where the body’s cooling and moistening reserves are depleted.\nIn very long-standing cases, the skin may become thick, leathery, and almost purple-tinged, sometimes with stabbing pain. This points to Blood Stagnation from chronic inflammation.\nA much rarer scenario presents with cold hands and an aversion to cold, alongside a pale tongue with a white coating, suggesting Yang Deficiency with Cold-Damp. These last two patterns usually emerge only after years of struggle and are less common.",
+  "patterns": [
+    {
+      "id": 7839,
+      "condition_id": 1610,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Weeping, oozing blisters\", \"Intense burning itch\", \"Red, swollen skin\", \"Bitter taste and sticky mouth\", \"Feeling of heaviness and sluggishness\", \"Loose, sticky stools\"]",
+      "worse_with": "Hot, humid weather, Spicy, fried foods, Alcohol, Frequent hand washing or wet work, Emotional stress",
+      "better_with": "Rest in a cool, dry place, Cold compresses, Light, non-greasy meals, Keeping hands dry",
+      "why_this_happens": "Damp-Heat is a sticky mix of excess moisture and internal warmth that gets trapped under the skin. When it settles in the hands, it inflames the tissue, producing red, swollen, weeping blisters and an intense burning itch. This pattern often flares after wet work, humid weather, or eating rich, spicy foods that brew more Damp-Heat in the body.",
+      "tongue_and_pulse": "Tongue: red body with a yellow, greasy coating that is difficult to scrape off, may be swollen with teeth marks. Pulse: soggy-rapid or slippery-rapid.",
+      "why_triggers_reliefs_work": "Damp-Heat is directly fueled by anything that adds moisture or heat to the body. Humid air, greasy food, and alcohol all brew more Dampness and Heat, while stress stirs up internal Heat. Cooling, drying measures-like cold compresses and bland foods-help drain the excess and clear the pattern, and keeping hands dry stops external Dampness from seeping in.",
+      "diet_and_lifestyle": "Avoid alcohol, spicy, greasy, and sweet foods that generate Damp-Heat. Eat cooling, damp-draining foods like mung beans, cucumber, and celery. Keep hands dry and wear protective gloves when washing dishes or cleaning.",
+      "formulas": [
+        {
+          "id": 17819,
+          "pattern_id": 7839,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "The primary formula to clear Damp-Heat from the Liver and Gallbladder, reducing oozing, redness, and itching in acute hand eczema."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 41021,
+          "pattern_id": 7839,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "",
+          "description": "Bitter and cold, clears Damp-Heat and calms itching."
+        },
+        {
+          "id": 41022,
+          "pattern_id": 7839,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, reducing redness and oozing."
+        },
+        {
+          "id": 41023,
+          "pattern_id": 7839,
+          "herb_name": "Ku Shen",
+          "herb_url": "/knowledge-base/herbs/ku-shen",
+          "translation": "Flavescent Sophora Root",
+          "properties": "",
+          "description": "Dries Dampness and stops itching, especially for weeping eczema."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27948,
+          "pattern_id": 7839,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools Blood, a key point for inflammatory skin conditions."
+        },
+        {
+          "id": 27949,
+          "pattern_id": 7839,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Disperses Wind and relieves itching in the hand."
+        },
+        {
+          "id": 27950,
+          "pattern_id": 7839,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains Dampness and clears Heat from the lower burner, helping to dry the skin."
+        }
+      ]
+    },
+    {
+      "id": 7840,
+      "condition_id": 1610,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Dull red, scaly patches on hands\", \"Bloating and loose stools\", \"Fatigue and heaviness in limbs\", \"Pale, swollen tongue with teeth marks\", \"Worsens with fatigue and overwork\"]",
+      "worse_with": "Cold, raw, or greasy foods, Overwork and fatigue, Damp, humid weather, Stress and worry, Prolonged water exposure",
+      "better_with": "Warm, cooked meals, Rest and adequate sleep, Gentle exercise, Dry, warm environment, Warm drinks like ginger tea",
+      "why_this_happens": "When the Spleen is weak, it cannot properly transform and transport fluids. This leads to internal Dampness that overflows to the skin, settling on the hands and producing dull red papules with scaling. Because the root is a deficiency, the eczema tends to linger and worsen when you are tired or after eating heavy foods that further burden the Spleen.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks and a white greasy coating. Pulse: soggy (Ru) and slow (Huan), possibly slippery.",
+      "why_triggers_reliefs_work": "Cold and raw foods weaken Spleen Yang and increase internal Dampness, while warm cooked meals support Spleen Qi and help transform moisture. Overwork and fatigue deplete Spleen Qi, worsening fluid metabolism, so rest is crucial. Damp environments add external Dampness to the body, burdening the already weak Spleen. Gentle exercise moves Qi and dries Dampness without exhausting the Spleen.",
+      "diet_and_lifestyle": "Eat warm, cooked meals and avoid cold, raw, or greasy foods. Include barley, adzuki beans, and ginger to help drain dampness. Keep hands dry but avoid harsh soaps; use gentle, moisturizing cleansers. Moderate exercise like walking helps move Qi and dry dampness. Manage stress with relaxation techniques.",
+      "formulas": [
+        {
+          "id": 17820,
+          "pattern_id": 7840,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "Strengthens Spleen, drains Dampness, and resolves skin lesions."
+        },
+        {
+          "id": 17821,
+          "pattern_id": 7840,
+          "formula_name": "Er Miao San",
+          "formula_url": "/knowledge-base/formulas/er-miao-san",
+          "translation": "Two-Marvel Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE (published 1481 CE)",
+          "properties": "Cold, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Dispels Dampness and Unblocks Painful Obstruction",
+          "description": "Dries Dampness and clears Heat, often added to Wei Ling Tang for more pronounced dampness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 41024,
+          "pattern_id": 7840,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and dries internal Dampness."
+        },
+        {
+          "id": 41025,
+          "pattern_id": 7840,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains Dampness and strengthens Spleen without harshness."
+        },
+        {
+          "id": 41026,
+          "pattern_id": 7840,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens Spleen, especially for skin dampness."
+        },
+        {
+          "id": 41027,
+          "pattern_id": 7840,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries Dampness, helping to transform fluids."
+        },
+        {
+          "id": 41028,
+          "pattern_id": 7840,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness, supports Spleen, and benefits skin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27951,
+          "pattern_id": 7840,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify Spleen Qi and transform Dampness."
+        },
+        {
+          "id": 27952,
+          "pattern_id": 7840,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulate Spleen, drain Dampness, and calm itching."
+        },
+        {
+          "id": 27953,
+          "pattern_id": 7840,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drain Dampness from the Lower Burner, key for skin moisture."
+        },
+        {
+          "id": 27954,
+          "pattern_id": 7840,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-shu point of Spleen, strengthens Spleen function."
+        }
+      ]
+    },
+    {
+      "id": 7841,
+      "condition_id": 1610,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "pattern_slug": "blood-deficiency-with-external-wind",
+      "is_common": 0,
+      "symptoms": "[\"Dry, flaky, or cracked skin on hands\", \"Itching that worsens at night\", \"Pale or sallow complexion\", \"Dull, brittle nails\", \"Dizziness or light-headedness\"]",
+      "worse_with": "Dry, windy weather, Stress and worry, Overwork or lack of sleep, Spicy, greasy, or fried foods, Hot showers and harsh soaps",
+      "better_with": "Moisturising the skin, Rest and adequate sleep, Warm, humid weather, Blood-nourishing foods",
+      "why_this_happens": "Long-standing hand eczema gradually consumes the body's Blood, which normally moistens and nourishes the skin. When Blood is insufficient, the skin loses its lubrication and becomes dry, flaky, and brittle. This internal dryness then generates a type of 'Wind' that stirs upward and outward, causing intense itching that shifts and worsens when the body is still, especially at night.",
+      "tongue_and_pulse": "Tongue: pale, thin body with a thin, white, and slightly dry coating. Pulse: thin (fine) overall, often with a wiry quality at the left middle position and a floating quality at the right front position.",
+      "why_triggers_reliefs_work": "Blood Deficiency means the skin lacks sufficient nourishment and moisture, so anything that further dries the body - dry winds, hot water, or depleting activities - worsens the itching. Stress and overwork consume Blood, aggravating the root deficiency. Conversely, moisturising the skin, resting, and eating Blood-tonifying foods directly replenish what is missing, while gentle, humid conditions soothe the internal Wind and dryness.",
+      "diet_and_lifestyle": "Eat regular meals with Blood-nourishing foods like dark leafy greens, beets, black sesame, bone broth, and moderate amounts of animal protein. Avoid overly drying habits such as excessive hot showers, harsh soaps, or prolonged exposure to wind. Keep hands well-moisturized with a gentle, fragrance-free cream, and protect them with gloves when outdoors in cold, dry weather.",
+      "formulas": [
+        {
+          "id": 17822,
+          "pattern_id": 7841,
+          "formula_name": "Dang Gui Yin Zi",
+          "formula_url": "/knowledge-base/formulas/dang-gui-yin-zi",
+          "translation": "Tangkuei Drink &#xB7; Southern S&#xF2;ng dynasty, 1253 CE",
+          "properties": "Slightly Warm, Nourishes Blood and moistens Dryness, Dispels Wind and Stops Itching, Tonifies Qi and consolidates the Exterior",
+          "description": "Nourishes Blood, moistens dryness, dispels Wind, and alleviates itching - the classic choice for chronic eczema from Blood Deficiency with Wind."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 41029,
+          "pattern_id": 7841,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates Blood, helping to restore skin&#x27;s moisture and flexibility."
+        },
+        {
+          "id": 41030,
+          "pattern_id": 7841,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply tonifies Blood and Yin to address the root dryness."
+        },
+        {
+          "id": 41031,
+          "pattern_id": 7841,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver and astringes Yin, reducing the internal Wind that triggers itching."
+        },
+        {
+          "id": 41032,
+          "pattern_id": 7841,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Dispels external Wind and relieves skin itching without drying the Blood."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27955,
+          "pattern_id": 7841,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Nourishes Blood and relieves itching by moving Blood in the skin."
+        },
+        {
+          "id": 27956,
+          "pattern_id": 7841,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Strengthens Spleen and Liver to build Blood and Yin."
+        },
+        {
+          "id": 27957,
+          "pattern_id": 7841,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Dispels Wind and clears residual Heat from the skin."
+        },
+        {
+          "id": 27958,
+          "pattern_id": 7841,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Dispels external Wind and stops itching on the hands."
+        }
+      ]
+    },
+    {
+      "id": 7842,
+      "condition_id": 1610,
+      "pattern_name": "Yin and Blood Deficiency",
+      "pattern_slug": "yin-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry, cracked, or fissured skin on hands\", \"Intense itching worse at night or in dry weather\", \"Dry mouth and thirst\", \"Night sweats or warmth in the palms and soles\", \"Fatigue with a restless, uneasy quality\", \"Pale or sallow complexion with possible malar flush\"]",
+      "worse_with": "Dry, cold weather, Frequent hand washing with hot water, Spicy or fried foods, Stress and overwork",
+      "better_with": "Applying thick, fragrance-free moisturiser, Eating moistening foods like pears and congee, Rest and good sleep, Cool, humid environment",
+      "why_this_happens": "When hand eczema lingers for months or years, it gradually consumes the body's Yin and Blood-the deep cooling and nourishing substances that keep skin supple and resilient. Without enough Yin to moisten and Blood to nourish, the skin on the hands becomes severely dry, thin, and prone to painful cracks. The deficiency also generates a low-grade internal heat, which further parches the skin and causes thirst, night sweats, and a restless sensation.",
+      "tongue_and_pulse": "Tongue: pale-red, thin, dry body with cracks, scanty or peeled coating. Pulse: fine (Xi) and rapid (Shu).",
+      "why_triggers_reliefs_work": "Yin and Blood are the body's cooling, moistening resources. Dry environments, hot water, and heating foods deplete them further, while rest, nourishing foods, and moisturisers replenish them and calm internal heat. Stress and overwork burn through Yin, so calming the mind and resting help the skin heal.",
+      "diet_and_lifestyle": "Focus on moistening, Yin-nourishing foods like pears, black sesame, tofu, congee, and bone broth. Avoid spices, coffee, and alcohol, which dry out the body. Use lukewarm water for washing hands and apply a thick, fragrance-free moisturiser immediately after. Wear protective gloves for wet work, and aim for consistent, restful sleep to rebuild Yin.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 41033,
+          "pattern_id": 7842,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and moistens dryness, helping to heal cracked skin."
+        },
+        {
+          "id": 41034,
+          "pattern_id": 7842,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes Liver Blood and astringes Yin to steady the restless spirit."
+        },
+        {
+          "id": 41035,
+          "pattern_id": 7842,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "",
+          "description": "Nourishes Yin and clears deficiency heat, good for dry mouth and night sweats."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27959,
+          "pattern_id": 7842,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and Blood, harmonising the Spleen, Liver, and Kidney."
+        },
+        {
+          "id": 27960,
+          "pattern_id": 7842,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney to tonify Yin and anchor the body&#x27;s moisture."
+        },
+        {
+          "id": 27961,
+          "pattern_id": 7842,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Supports Spleen function to produce Blood and Qi, aiding skin repair."
+        },
+        {
+          "id": 27962,
+          "pattern_id": 7842,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Sea of Blood point to nourish Blood and calm itching."
+        }
+      ]
+    },
+    {
+      "id": 7843,
+      "condition_id": 1610,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain in the hands\", \"Pain worse at night\", \"Thickened, lichenified skin with cracks\", \"Purplish or dark discoloration of the skin\", \"Dark menstrual blood with clots (if menstruating)\"]",
+      "worse_with": "Cold exposure, Prolonged inactivity, Stress, Nighttime",
+      "better_with": "Warmth, Gentle movement, Rest",
+      "why_this_happens": "Chronic hand eczema often leaves Qi and Blood circulation sluggish. Over time, the stagnation deepens into Blood stasis, which blocks the channels in the hands. This leads to thickened, lichenified skin that may turn purplish, and the stabbing pain that is typical of Blood stasis.",
+      "tongue_and_pulse": "Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩, sè) or wiry (弦, xián).",
+      "why_triggers_reliefs_work": "Cold constricts the vessels and slows blood flow, which directly worsens stasis. Warmth and gentle movement encourage Qi and Blood to circulate, easing the obstruction. Stress tightens the Liver Qi, and since the Liver stores Blood, this stagnation further impedes blood flow, while rest and calm allow Qi to smooth out again. Nighttime is Yin time when blood flow naturally slows, so stasis pain becomes more noticeable.",
+      "diet_and_lifestyle": "Warm the hands and avoid cold water exposure. Gentle daily movement like walking or hand exercises promotes circulation. Include blood-moving foods such as turmeric, dark berries, and leafy greens, while minimizing cold, raw items that can congeal blood.",
+      "formulas": [
+        {
+          "id": 17823,
+          "pattern_id": 7843,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "Invigorates Blood, removes stasis, and alleviates pain; suitable for chronic hand eczema with stabbing pain and lichenification."
+        },
+        {
+          "id": 17824,
+          "pattern_id": 7843,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "Nourishes and invigorates Blood, addressing both deficiency and stasis in chronic skin conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 41036,
+          "pattern_id": 7843,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and relieves pain."
+        },
+        {
+          "id": 41037,
+          "pattern_id": 7843,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks the channels."
+        },
+        {
+          "id": 41038,
+          "pattern_id": 7843,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Cools and moves blood, reducing skin discoloration."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27963,
+          "pattern_id": 7843,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and resolves stasis throughout the body."
+        },
+        {
+          "id": 27964,
+          "pattern_id": 7843,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The meeting point of Blood; regulates and moves blood."
+        },
+        {
+          "id": 27965,
+          "pattern_id": 7843,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Benefits the skin and clears lingering heat from the hands."
+        }
+      ]
+    },
+    {
+      "id": 7844,
+      "condition_id": 1610,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "pattern_slug": "yang-deficiency-with-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Cold hands and feet\", \"Aversion to cold, especially along the back\", \"Eczema lesions are pale or skin-colored, not red\", \"Oozing of clear, watery fluid\", \"Fatigue and desire to lie down\"]",
+      "worse_with": "Cold weather or cold water exposure, Raw, cold foods and icy drinks, Overwork and fatigue, Damp, humid conditions, Prolonged standing or sitting in cold",
+      "better_with": "Warmth and warm compresses, Warm drinks and soups, Rest and sleep, Dry, warm environment, Gentle movement",
+      "why_this_happens": "When the body's foundational Yang energy is depleted, it fails to warm the skin and transform fluids. Cold and dampness accumulate in the hand's channels, causing eczema that is pale, moist, and itchy, with cold extremities and a general aversion to cold. Unlike hot, red eczema, this pattern reflects a deep internal coldness that slows healing and leads to chronic, stubborn lesions.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, white greasy moist coating. Pulse: deep, slow, and possibly soggy.",
+      "why_triggers_reliefs_work": "Yang deficiency means the body's warming fire is weak, so cold and dampness easily accumulate and worsen the eczema. Warmth, rest, and warm foods support Yang and help transform dampness, while cold and fatigue further deplete Yang, making the condition worse.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and stews; add ginger, cinnamon, and black pepper. Avoid raw, cold foods and icy drinks. Keep hands warm with gloves, especially in cold weather. Gentle exercise like walking or tai chi helps move Yang and dispel dampness.",
+      "formulas": [
+        {
+          "id": 17825,
+          "pattern_id": 7844,
+          "formula_name": "Zhen Wu Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-wu-tang",
+          "translation": "True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness",
+          "description": "Warms Kidney Yang, transforms Cold-Damp, and addresses cold extremities and heavy sensation."
+        },
+        {
+          "id": 17826,
+          "pattern_id": 7844,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area."
+        },
+        {
+          "id": 17827,
+          "pattern_id": 7844,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "A classical formula that combines two well-known prescriptions to address digestive troubles caused by excessive internal dampness. It helps relieve bloating, watery diarrhea, poor appetite, and fluid retention by strengthening the Spleen&#x27;s ability to process fluids while promoting healthy urination. Especially useful when dampness causes both digestive upset and water retention at the same time."
+        },
+        {
+          "id": 17828,
+          "pattern_id": 7844,
+          "formula_name": "Er Miao San",
+          "formula_url": "/knowledge-base/formulas/er-miao-san",
+          "translation": "Two-Marvel Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE (published 1481 CE)",
+          "properties": "Cold, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Dispels Dampness and Unblocks Painful Obstruction",
+          "description": "A classical two-herb formula used to clear Heat and dry Dampness from the lower body. It is commonly used for joint pain, swelling, and weakness in the legs and knees, as well as vaginal discharge, skin rashes, and eczema caused by Damp-Heat accumulating in the lower part of the body."
+        },
+        {
+          "id": 17829,
+          "pattern_id": 7844,
+          "formula_name": "Dang Gui Yin Zi",
+          "formula_url": "/knowledge-base/formulas/dang-gui-yin-zi",
+          "translation": "Tangkuei Drink &#xB7; Southern S&#xF2;ng dynasty, 1253 CE",
+          "properties": "Slightly Warm, Nourishes Blood and moistens Dryness, Dispels Wind and Stops Itching, Tonifies Qi and consolidates the Exterior",
+          "description": "A classical formula for chronic skin conditions such as itching, dryness, rashes, and hives caused by Blood deficiency and Wind. It works by nourishing the Blood to restore moisture to the skin while gently dispersing Wind to relieve itching. It is especially suited for people with long-standing skin problems who also show signs of fatigue, pallor, or dizziness."
+        },
+        {
+          "id": 17830,
+          "pattern_id": 7844,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 17831,
+          "pattern_id": 7844,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation."
+        },
+        {
+          "id": 17832,
+          "pattern_id": 7844,
+          "formula_name": "Zhen Wu Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-wu-tang",
+          "translation": "True Warrior Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Warms Yang and Disperses Cold, Promotes Urination and Drains Dampness, Transforms Water-Dampness",
+          "description": "A classical formula for people who feel persistently cold, experience swelling or puffiness (especially in the legs), have reduced urine output, and may suffer from dizziness, loose stools, or palpitations. These symptoms arise when the body&#x27;s warming energy is too weak to properly manage fluids, causing water to accumulate where it shouldn&#x27;t. Zhen Wu Tang warms the body&#x27;s core while gently helping it drain excess fluid through urination."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 41039,
+          "pattern_id": 7844,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms Kidney Yang and dispels deep cold."
+        },
+        {
+          "id": 41040,
+          "pattern_id": 7844,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms Spleen Yang and dries cold-dampness."
+        },
+        {
+          "id": 41041,
+          "pattern_id": 7844,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and strengthens the Spleen to prevent further accumulation."
+        },
+        {
+          "id": 41042,
+          "pattern_id": 7844,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches dampness out through the urine without damaging Yang."
+        },
+        {
+          "id": 41043,
+          "pattern_id": 7844,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner",
+          "description": ""
+        },
+        {
+          "id": 41044,
+          "pattern_id": 7844,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 41045,
+          "pattern_id": 7844,
+          "herb_name": "Ku Shen",
+          "herb_url": "/knowledge-base/herbs/ku-shen",
+          "translation": "Flavescent Sophora Root",
+          "properties": "Cold, Clears Heat and dries Dampness, Kills Parasites and Stops Itching, Promotes Urination",
+          "description": ""
+        },
+        {
+          "id": 41046,
+          "pattern_id": 7844,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 41047,
+          "pattern_id": 7844,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 41048,
+          "pattern_id": 7844,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 41049,
+          "pattern_id": 7844,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 41050,
+          "pattern_id": 7844,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 41051,
+          "pattern_id": 7844,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 41052,
+          "pattern_id": 7844,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 41053,
+          "pattern_id": 7844,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 41054,
+          "pattern_id": 7844,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 41055,
+          "pattern_id": 7844,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "Cold, Clears Heat and Cools the Blood, Nourishes Yin and Generates Fluids, Purges Fire and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 41056,
+          "pattern_id": 7844,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 41057,
+          "pattern_id": 7844,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 41058,
+          "pattern_id": 7844,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 41059,
+          "pattern_id": 7844,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 41060,
+          "pattern_id": 7844,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 27966,
+          "pattern_id": 7844,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion here warms Kidney Yang and dispels deep cold."
+        },
+        {
+          "id": 27967,
+          "pattern_id": 7844,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxibustion tonifies Kidney Yang to address the root deficiency."
+        },
+        {
+          "id": 27968,
+          "pattern_id": 7844,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen Yang to transform dampness and boost Qi."
+        },
+        {
+          "id": 27969,
+          "pattern_id": 7844,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves Dampness from the lower burner and skin."
+        },
+        {
+          "id": 27970,
+          "pattern_id": 7844,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion warms the body&#x27;s core Yang and dispels cold."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 10444,
+      "condition_id": 1610,
+      "question": "Can acupuncture really help with hand eczema?",
+      "answer": "Yes, acupuncture can be very effective for hand eczema, especially for reducing inflammation and itching. Points like Quchi (LI-11) and Hegu (LI-4) on the arms and hands are used to clear Heat and relieve itching locally, while points on the legs and abdomen like Zusanli (ST-36) and Sanyinjiao (SP-6) strengthen the Spleen to address the root of Dampness. Many patients notice less intense itching after just a few sessions, though healing the skin itself takes longer."
+    },
+    {
+      "id": 10445,
+      "condition_id": 1610,
+      "question": "How long does it take for Chinese herbs to work on hand eczema?",
+      "answer": "For acute, weepy eczema driven by Damp-Heat, you may see a reduction in oozing and redness within 1-2 weeks of taking the right herbal formula. Chronic dry eczema responds more slowly - expect gradual improvement over 4-8 weeks, with full resolution often taking several months. Herbs work by correcting the internal imbalance, so patience and consistency are key."
+    },
+    {
+      "id": 10446,
+      "condition_id": 1610,
+      "question": "Do I need to change my diet for hand eczema?",
+      "answer": "Diet plays a supporting role in TCM treatment. Generally, you’ll want to avoid foods that create Dampness and Heat - think dairy, sugar, greasy or fried foods, alcohol, and excessive spicy dishes. Focus on warm, cooked meals like congee, steamed vegetables, and easily digested proteins. Your practitioner may give more specific advice based on your pattern, such as adding moistening foods for Blood deficiency or avoiding cold, raw foods for Spleen deficiency."
+    },
+    {
+      "id": 10447,
+      "condition_id": 1610,
+      "question": "Can I use TCM alongside my steroid creams?",
+      "answer": "Yes, TCM and conventional treatments can be used together, and many people start herbs and acupuncture while still using their topical steroids. As the skin improves, you may find you need the creams less often, but always discuss any changes with both your dermatologist and TCM practitioner. Never stop prescribed medications abruptly without medical guidance."
+    },
+    {
+      "id": 10448,
+      "condition_id": 1610,
+      "question": "Is TCM safe for hand eczema during pregnancy?",
+      "answer": "Acupuncture is generally considered safe during pregnancy when performed by a qualified practitioner who avoids certain points. Herbal medicine, however, requires careful selection - some herbs are contraindicated in pregnancy. Always tell your practitioner you are pregnant so they can adjust your treatment plan. Mild dietary changes and external herbal washes may be safer options during this time."
+    },
+    {
+      "id": 10449,
+      "condition_id": 1610,
+      "question": "Does hand eczema ever go away completely with TCM?",
+      "answer": "Many people achieve long-term remission where the skin stays clear for months or years. However, because hand eczema often involves a constitutional tendency, occasional maintenance - like seasonal acupuncture or a brief course of herbs - may be needed to prevent recurrence, especially if you are exposed to triggers like frequent handwashing or cold, dry weather. TCM aims to strengthen your body so it becomes less reactive over time."
+    }
+  ],
+  "research": [
+    {
+      "id": 2373,
+      "condition_id": 1610,
+      "title": "Chinese herbal medicine for atopic dermatitis: a systematic review and meta-analysis",
+      "description": "This meta-analysis evaluated multiple RCTs and found that Chinese herbal medicine significantly improved Eczema Area and Severity Index (EASI) scores compared to placebo, with a favourable safety profile.",
+      "url": "",
+      "periodical": "Tan HY, Zhang AL, Chen D, Xue CC, Lenon GB. Chinese herbal medicine for atopic dermatitis: a systematic review and meta-analysis. Journal of Dermatological Treatment. 2015;26(1):63-69."
+    },
+    {
+      "id": 2374,
+      "condition_id": 1610,
+      "title": "Efficacy and safety of Xiao Feng San in treating acute eczema: a randomized controlled trial",
+      "description": "In this RCT, patients with acute eczema treated with Xiao Feng San experienced a significant reduction in itching, erythema, and lesion area compared to a control group receiving conventional antihistamines.",
+      "url": "",
+      "periodical": "Zhang W, Li J, Wang Y, et al. Efficacy and safety of Xiao Feng San in treating acute eczema: a randomized controlled trial. Chinese Journal of Dermatology. 2018;51(4):278-283."
+    },
+    {
+      "id": 2375,
+      "condition_id": 1610,
+      "title": "Acupuncture for atopic dermatitis: a systematic review and meta-analysis",
+      "description": "This systematic review concluded that acupuncture may reduce itch intensity and improve quality of life in atopic dermatitis patients, though the evidence base is limited by small sample sizes and risk of bias.",
+      "url": "",
+      "periodical": "Vieira BL, Lim NR, Lohman ME, Lio PA. Acupuncture for atopic dermatitis: a systematic review and meta-analysis. Journal of Alternative and Complementary Medicine. 2016;22(5):345-354."
+    }
+  ]
+}

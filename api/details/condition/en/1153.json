@@ -1,0 +1,549 @@
+{
+  "id": 1153,
+  "name": "Heat Rash",
+  "url": "/knowledge-base/conditions/heat-rash",
+  "kind": "Condition",
+  "pinyin": "fèi zi",
+  "chinese_name": "痱子",
+  "preview_text": "Most heat rashes in TCM stem from Damp-Heat or internal Heat imbalances - and the right herbs and diet changes can clear the rash within a week or two, while correcting the underly...",
+  "categories": "[\"Skin Conditions\", \"Skin Inflammation & Swelling\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"White miliary skin rash (white prickly heat)\", \"Skin rashes or red papules with a burning sensation\"]",
+  "conventional_description": "Heat rash, also known as miliaria or prickly heat, occurs when sweat ducts become blocked and sweat is trapped beneath the skin. It often appears as tiny, itchy blisters or red bumps, typically in skin folds or areas covered by clothing during hot, humid weather. Diagnosis is based on the appearance of the rash and the circumstances in which it developed.",
+  "conventional_treatments": "Standard care focuses on cooling the skin and preventing sweating. Recommendations include moving to a cooler environment, wearing loose, breathable clothing, and using fans or air conditioning. Over-the-counter treatments like calamine lotion, topical steroids for inflammation, and oral antihistamines for itching may be used. Severe cases sometimes require prescription-strength creams.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, heat rash is understood as a problem of blocked sweat pores, but the root cause lies inside the body. The skin is closely connected to the Lung and Spleen organ systems. The Spleen transforms food and fluids into usable energy and moisture. When it's overwhelmed - by rich food, humid weather, or fatigue - it can no longer handle fluids properly. This creates internal Dampness that, combined with summer Heat, rises to the skin surface and clogs the pores, trapping sweat and causing the rash.\nThat's the classic Damp-Heat pattern, which produces a red, greasy-looking rash that feels sticky and itchy. But there are other patterns too. If Heat penetrates deeper, into the Blood, the rash becomes intensely red or purplish with a fierce burning sensation. This Heat in the Blood pattern often comes with a deep red tongue and a wiry, rapid pulse - signs that the body's cooling system is overwhelmed.\nSome people get heat rash because their Spleen is simply too weak to manage fluids, even without eating poorly. In Spleen Deficiency with Dampness, the rash is pale or dull-red, comes and goes, and is accompanied by fatigue, bloating, and loose stools. And in rare cases, a dry, burning rash can arise from Yin Deficiency - a deep-seated lack of cooling, moistening essence that allows empty heat to rise to the skin. So the same Western diagnosis of heat rash can have completely different TCM origins.",
+  "classical_quote": "「汗出见湿，乃生痤痱」",
+  "classical_translation": "\"When sweat meets dampness, it gives rise to acne and prickly heat.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen  ,  Chapter 3, Treatise on the Correspondence Between Heaven and Qi \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner begins by examining the rash itself - its color, whether it feels greasy or dry, and where it appears. They then ask about your digestion, energy levels, and what makes the rash better or worse. The tongue and pulse provide the final clues that distinguish one pattern from another.\nIf the rash is widespread, looks red and inflamed, and the skin feels oily or sticky, Damp-Heat in the Stomach and Spleen is the most likely picture. The rash often flares after rich, spicy, or fried foods. The tongue is red with a thick, yellow, greasy coating, and the pulse feels slippery and rapid.\nWhen the bumps are intensely red or even purplish, with a fierce burning itch that scratching barely relieves, Heat in the Blood is suspected. The person may also feel very thirsty and irritable. The tongue is deep red with a thin yellow coat or little coating, and the pulse is wiry and rapid.\nA rash that appears as pale or dull-red bumps, comes and goes, and is accompanied by fatigue, poor appetite, and loose stools points to Spleen Deficiency with Dampness. Here the body is too weak to manage fluids, so dampness seeps into the skin. The tongue is pale and puffy with a white coat, and the pulse is weak or soggy.\nIn rarer cases, the rash feels dry yet burning, often worsening in the afternoon or evening. If there is also a history of night sweats, a dry throat, or feeling hot in the palms and soles, Empty-Heat caused by Yin Deficiency is the underlying cause. The tongue is red with little or no coating, and the pulse is thin and rapid.",
+  "patterns": [
+    {
+      "id": 5696,
+      "condition_id": 1153,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Red, oozing rash with oily skin\", \"Thick, yellow, greasy tongue coating\", \"Sticky or bitter taste in mouth\", \"Abdominal bloating and fullness\", \"Loose, sticky stools with incomplete feeling\", \"Heavy, sluggish body sensation\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Hot, humid weather, Alcohol",
+      "better_with": "Cool, dry environment, Light, bland foods, Mung bean soup, Cool showers",
+      "why_this_happens": "When the Stomach and Spleen are overwhelmed by rich, spicy food and humid weather, they can no longer transform and transport fluids properly. This creates internal Damp-Heat that steams upward through the body, clogging the skin pores and trapping sweat just beneath the surface. The result is the red, itchy, greasy rash we call heat rash, often worst in skin folds where moisture accumulates.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen with teeth marks, thick yellow greasy coating especially at centre and root. Pulse: soggy (Ru) and rapid (Shu), often slippery (Hua), strongest at the right Guan position.",
+      "why_triggers_reliefs_work": "Spicy, greasy, and rich foods directly feed Damp-Heat in the Stomach and Spleen, creating more steam that rises to the skin and worsens the rash. Hot, humid weather mirrors the internal climate, trapping moisture in the pores. Cooling, bland foods and a dry environment help drain Dampness and clear Heat, allowing the skin to breathe and the rash to settle.",
+      "diet_and_lifestyle": "Keep the skin cool and dry with loose cotton clothing and cool showers. Avoid heavy, greasy, spicy, or deep-fried foods, and limit alcohol and sugar. Drink plenty of water and include cooling, damp-draining foods like mung bean soup, cucumber, and watermelon.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 29943,
+          "pattern_id": 5696,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, targeting the Stomach and Spleen to reduce the rash."
+        },
+        {
+          "id": 29944,
+          "pattern_id": 5696,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears Heat and eliminates Dampness through the urine, cooling the skin from within."
+        },
+        {
+          "id": 29945,
+          "pattern_id": 5696,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "",
+          "description": "Harmonises the formula and helps clear Heat while protecting the Stomach."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20386,
+          "pattern_id": 5696,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears Heat and relieves the exterior, reducing skin inflammation and itching."
+        },
+        {
+          "id": 20387,
+          "pattern_id": 5696,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools the Blood, especially for skin conditions with redness."
+        },
+        {
+          "id": 20388,
+          "pattern_id": 5696,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears Heat and releases the exterior, calming widespread prickly heat."
+        },
+        {
+          "id": 20389,
+          "pattern_id": 5696,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates the skin and disperses Heat, as the Lungs govern the skin and pores."
+        }
+      ]
+    },
+    {
+      "id": 5697,
+      "condition_id": 1153,
+      "pattern_name": "Heat in the Blood",
+      "pattern_slug": "heat-in-the-blood",
+      "is_common": 0,
+      "symptoms": "[\"Red, oozing rash with oily skin\", \"Intense itching worse with warmth\", \"Rash worsens at night\", \"Feeling of internal heat and restlessness\", \"Thirst for cold drinks\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Hot, humid weather, Alcohol, Emotional upset or stress, Nighttime",
+      "better_with": "Cool, dry environment, Cold drinks, Light, bland foods, Gentle cooling compresses, Rest and calm",
+      "why_this_happens": "When excess Heat penetrates deep into the Blood level, it agitates and forces the Blood outward, causing a bright red or purplish rash that feels intensely hot and itchy. The burning sensation comes from Heat stirring the Blood, while the severe itching is often a sign that internal Wind has been generated by the extreme Heat. Because Heat consumes Yin fluids, the skin tends to feel dry and the rash worsens at night when cooling Yin energy should be dominant but is too depleted to balance the Heat.",
+      "tongue_and_pulse": "Tongue: deep red with red prickles, thin yellow dry coating or little coating. Pulse: rapid (Shu) and wiry (Xian).",
+      "why_triggers_reliefs_work": "Heat in the Blood is an Excess Heat pattern. Anything that adds heat-like hot weather, spicy food, or emotional stress-pours fuel on the fire, making the rash redder, hotter, and itchier. At night, the body's Yin energy should cool and calm the Blood, but when Heat has consumed Yin, there is not enough cooling power, so the itching and burning intensify. Cooling measures work by directly counteracting the Heat: cold drinks and cooling foods clear internal Heat, a cool environment and compresses draw Heat from the skin, and rest keeps the Qi and Blood from being stirred up further.",
+      "diet_and_lifestyle": "Eat plenty of cooling foods like cucumber, watermelon, and mung beans, and drink cool (not iced) fluids such as chrysanthemum tea. Strictly avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat. Keep the skin cool and dry, wear loose cotton clothing, and use a fan or air conditioning to prevent overheating. A gentle cool compress can soothe the burning itch.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 29946,
+          "pattern_id": 5697,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "",
+          "description": "Clears Heat from the Blood level and is the modern substitute for Xi Jiao (rhinoceros horn)."
+        },
+        {
+          "id": 29947,
+          "pattern_id": 5697,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools the Blood and resolves stasis, helping to reduce the red-purple color of the rash."
+        },
+        {
+          "id": 29948,
+          "pattern_id": 5697,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Red Peony invigorates the Blood and alleviates itching and pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20390,
+          "pattern_id": 5697,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Dispels Heat from the entire body, especially from the exterior and Blood level."
+        },
+        {
+          "id": 20391,
+          "pattern_id": 5697,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears Heat and relieves itching anywhere on the body."
+        },
+        {
+          "id": 20392,
+          "pattern_id": 5697,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Cools the Blood and is a major point for all inflammatory skin conditions."
+        },
+        {
+          "id": 20393,
+          "pattern_id": 5697,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Directly cools the Blood and is specific for itchy, red skin eruptions."
+        },
+        {
+          "id": 20394,
+          "pattern_id": 5697,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and calms the Blood, helping to counteract the nighttime worsening."
+        }
+      ]
+    },
+    {
+      "id": 5698,
+      "condition_id": 1153,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Pale or dull-red rash\", \"Recurrent episodes in warm weather\", \"Fatigue and lack of energy\", \"Poor appetite and abdominal bloating\", \"Loose stools\"]",
+      "worse_with": "Overwork and fatigue, Cold, raw foods, Spicy, fried, or greasy foods, Hot, humid weather, Worry and overthinking",
+      "better_with": "Rest and calm, Warm, cooked meals, Light exercise like walking, Cool, dry environment",
+      "why_this_happens": "When the Spleen Qi is weak, it cannot properly transform and transport body fluids. Dampness builds up internally, and in hot, humid weather this excess dampness can be pushed outward to the skin surface. There it clogs the sweat pores, causing a dull, pale-red heat rash that tends to recur because the underlying deficiency hasn't been fixed.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks and a white, greasy coating; moist surface. Pulse: soggy (Ru) and slow (Huan), soft and lacking force.",
+      "why_triggers_reliefs_work": "The Spleen's ability to transform fluids is easily weakened by fatigue, worry, and improper food. Cold and raw foods directly damage Spleen Yang, creating more dampness. Rest and warm, cooked foods support the Spleen's function, helping it to clear dampness from the body and skin. Light exercise moves Qi, which prevents dampness from stagnating.",
+      "diet_and_lifestyle": "Eat warm, cooked meals and avoid raw, cold, and greasy foods that burden the Spleen. Include ginger and lightly cooked vegetables to support digestion. Wear breathable fabrics to let sweat evaporate and prevent dampness from settling on the skin.",
+      "formulas": [
+        {
+          "id": 12909,
+          "pattern_id": 5698,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens the Spleen and drains dampness, tackling the root cause of the recurrent rash."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29949,
+          "pattern_id": 5698,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and dries dampness, restoring the body&#x27;s ability to manage fluids."
+        },
+        {
+          "id": 29950,
+          "pattern_id": 5698,
+          "herb_name": "Dan Zhu Ye",
+          "herb_url": "/knowledge-base/herbs/dan-zhu-ye",
+          "translation": "Lophatherum herb",
+          "properties": "",
+          "description": "Clears mild heat and promotes urination to guide dampness out of the skin."
+        },
+        {
+          "id": 29951,
+          "pattern_id": 5698,
+          "herb_name": "Bai Xian Pi",
+          "herb_url": "/knowledge-base/herbs/bai-xian-pi",
+          "translation": "Dense-fruit Pittany Root Bark",
+          "properties": "",
+          "description": "Clears damp-heat from the skin and relieves itching."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20395,
+          "pattern_id": 5698,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies the Spleen and resolves dampness, improving fluid metabolism."
+        },
+        {
+          "id": 20396,
+          "pattern_id": 5698,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen and Stomach Qi to support digestion and energy."
+        },
+        {
+          "id": 20397,
+          "pattern_id": 5698,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the lower body and skin."
+        },
+        {
+          "id": 20398,
+          "pattern_id": 5698,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and reduces bloating."
+        }
+      ]
+    },
+    {
+      "id": 5699,
+      "condition_id": 1153,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Burning, dry rash without oozing\", \"Worse at night or in hot weather\", \"Night sweats and five-palm heat\", \"Dry mouth and throat with desire for small sips\", \"Red peeled tongue with cracks\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Staying up late, Hot, humid weather, Emotional upset or stress, Excessive sweating",
+      "better_with": "Cool, dry environment, Hydrating drinks, Rest and calm, Moisturizing skin care",
+      "why_this_happens": "When the body's Yin-its cooling, moistening essence-is chronically depleted, an unanchored empty heat develops. This heat can rise to the skin, especially in hot weather, causing a dry, red, burning rash. Unlike damp-heat patterns, the skin feels hot and irritated rather than oozy or greasy, because the root problem is a lack of proper nourishment and moisture.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with cracks, little or no coating. Pulse: fine (thin) and rapid.",
+      "why_triggers_reliefs_work": "Yin deficiency means the body lacks the cooling, moistening fluids needed to balance internal heat. Spicy foods, late nights, and overwork further deplete Yin and stir up empty heat, causing the rash to flare. A cool environment and hydrating foods help replenish Yin and subdue the heat, while rest allows the body to regenerate its Yin reserves. Moisturizing the skin externally compensates for the lack of internal moisture, soothing the dry, burning sensation.",
+      "diet_and_lifestyle": "Keep the body cool and well-hydrated. Eat moistening, Yin-nourishing foods such as pear, cucumber, tofu, and congee. Avoid spicy, fried, and drying foods that deplete Yin. Prioritize rest and avoid staying up late, as sleep is the best time for the body to regenerate Yin. Use gentle, fragrance-free skincare and avoid hot showers that can further dry the skin.",
+      "formulas": [
+        {
+          "id": 12910,
+          "pattern_id": 5699,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Nourishes Kidney Yin and clears deficiency heat, addressing the root cause of the empty-heat rash."
+        },
+        {
+          "id": 12911,
+          "pattern_id": 5699,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 12912,
+          "pattern_id": 5699,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29952,
+          "pattern_id": 5699,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears heat and nourishes Yin, helping to soothe the burning rash."
+        },
+        {
+          "id": 29953,
+          "pattern_id": 5699,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Clears deficiency heat, particularly from the lower burner, to prevent the upward steaming of heat."
+        },
+        {
+          "id": 29954,
+          "pattern_id": 5699,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 29955,
+          "pattern_id": 5699,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 29956,
+          "pattern_id": 5699,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 29957,
+          "pattern_id": 5699,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors",
+          "description": ""
+        },
+        {
+          "id": 29958,
+          "pattern_id": 5699,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat",
+          "description": ""
+        },
+        {
+          "id": 29959,
+          "pattern_id": 5699,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        },
+        {
+          "id": 29960,
+          "pattern_id": 5699,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 29961,
+          "pattern_id": 5699,
+          "herb_name": "Dan Zhu Ye",
+          "herb_url": "/knowledge-base/herbs/dan-zhu-ye",
+          "translation": "Lophatherum herb",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Promotes Urination and Relieves Stranguria",
+          "description": ""
+        },
+        {
+          "id": 29962,
+          "pattern_id": 5699,
+          "herb_name": "Bai Xian Pi",
+          "herb_url": "/knowledge-base/herbs/bai-xian-pi",
+          "translation": "Dense-fruit Pittany Root Bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Dispels Wind and Stops Itching, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 29963,
+          "pattern_id": 5699,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 29964,
+          "pattern_id": 5699,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20399,
+          "pattern_id": 5699,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel; nourishes Yin and clears deficiency heat."
+        },
+        {
+          "id": 20400,
+          "pattern_id": 5699,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Yin, benefits the throat, and clears deficiency heat."
+        },
+        {
+          "id": 20401,
+          "pattern_id": 5699,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Yin and blood, harmonizing the Spleen and Kidney to support moisture."
+        },
+        {
+          "id": 20402,
+          "pattern_id": 5699,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat from the skin and relieves itching."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7491,
+      "condition_id": 1153,
+      "question": "Can TCM treat heat rash quickly?",
+      "answer": "Yes, for acute cases. If your rash is from Damp-Heat or Heat in the Blood, cooling herbs and acupressure can often bring noticeable relief within a few days. The itching and redness usually start to calm first. For chronic or recurrent heat rash linked to Spleen or Yin Deficiency, treatment takes longer because we are rebuilding your body's internal balance, not just cooling the skin."
+    },
+    {
+      "id": 7492,
+      "condition_id": 1153,
+      "question": "Do I need to avoid spicy foods?",
+      "answer": "Yes. Spicy, greasy, and fried foods generate Damp-Heat inside the body, which directly worsens most heat rashes. Alcohol and excessive sugar have a similar effect. During treatment, sticking to light, cooling foods - like mung beans, cucumber, and chrysanthemum tea - helps the herbs work faster and prevents new breakouts."
+    },
+    {
+      "id": 7493,
+      "condition_id": 1153,
+      "question": "Can I use calamine lotion alongside TCM herbs?",
+      "answer": "Absolutely. Topical treatments like calamine lotion or cooling compresses are safe to use alongside internal herbal formulas. They can soothe the skin while the herbs address the root cause. Just let your TCM practitioner know about any creams you're using, especially if they contain steroids, so they can adjust your treatment plan if needed."
+    },
+    {
+      "id": 7494,
+      "condition_id": 1153,
+      "question": "Is heat rash a sign of something more serious internally?",
+      "answer": "In TCM, a heat rash is often a visible sign that your body is struggling with excess Heat or Dampness. While it's usually not dangerous, recurrent or stubborn heat rash can indicate a deeper imbalance - such as a weak Spleen or depleted Yin - that might also be causing fatigue, digestive issues, or poor sleep. Treating the rash often improves these other symptoms too."
+    },
+    {
+      "id": 7495,
+      "condition_id": 1153,
+      "question": "How does acupuncture help heat rash?",
+      "answer": "Acupuncture can help by clearing Heat from the body and strengthening the organs that manage fluids. Points like LI-4 (Hegu) and LI-11 (Quchi) are used to cool the skin and relieve itching, while ST-36 (Zusanli) strengthens the Spleen to reduce Dampness. Even without needles, acupressure on these points can bring relief between treatments."
+    },
+    {
+      "id": 7496,
+      "condition_id": 1153,
+      "question": "Can children use TCM for heat rash?",
+      "answer": "Yes, TCM is commonly used for children with heat rash. Herbal doses are adjusted for age and weight, and gentle formulas are chosen. Pediatric tuina (massage) and dietary changes are often the first line of treatment. Always work with a practitioner experienced in treating children to ensure safety and proper dosing."
+    },
+    {
+      "id": 7497,
+      "condition_id": 1153,
+      "question": "Will the rash come back after TCM treatment?",
+      "answer": "The goal of TCM is to correct the underlying imbalance that makes you prone to heat rash. Once your Spleen is stronger, your internal Dampness is cleared, or your Yin is replenished, you should be much less likely to get the rash again - even in hot weather. Some people may need occasional tune-ups, but recurrence is typically far less frequent and milder."
+    }
+  ],
+  "research": []
+}

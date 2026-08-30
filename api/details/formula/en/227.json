@@ -1,0 +1,1286 @@
+{
+  "id": 227,
+  "name": "Huang Lian Jie Du Tang",
+  "chinese_name": "黄连解毒汤",
+  "english_name": "Coptis Decoction to Relieve Toxicity",
+  "url": "/knowledge-base/formulas/huang-lian-jiao-du-tang",
+  "summary": "A powerful classical formula for clearing intense internal heat and toxins from the body. It is used when someone has high fever, irritability, restlessness, a dry mouth and throat, or infections with signs of strong heat. The formula combines four bitter, cold herbs that work together to cool all three regions of the body and resolve toxic heat.",
+  "categories": "[\"Heat-clearing formulas\", \"Heat-clearing and toxin-resolving formulas\"]",
+  "tcm_actions": "[\"Drains Fire\", \"Resolves Toxicity\", \"Clears Heat from the Three Burners\", \"Cools the Blood\"]",
+  "therapeutic_focus": "[\"Fever Management\", \"Skin Conditions\", \"Detoxification\", \"Cardiovascular Health\"]",
+  "target_organs": "[\"Heart\", \"Liver\", \"Stomach\", \"Large Intestine\", \"Lungs\", \"Urinary Bladder\"]",
+  "temperature": "Cold",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Zhou Hou Bei Ji Fang (肘后备急方) by Ge Hong; named in Wai Tai Mi Yao (外台秘要) by Wang Tao",
+  "conditions": "[\"Sepsis\", \"Eczema\", \"Pneumonia\", \"Dysentery\", \"Urinary Tract Infection\", \"Meningitis\", \"Encephalitis\", \"Acute Nephritis\", \"Acute Gastroenteritis\", \"Boils\", \"Stomatitis\", \"Periodontitis\", \"Otitis Media\"]",
+  "patterns": "[]",
+  "other_names": "[]",
+  "pregnancy": "Contraindicated during pregnancy. All four herbs in this formula are bitter and cold, and the overall formula has a strongly purging, downward-draining thermal nature that poses risks to the fetus. Huang Bai (Phellodendron bark) is traditionally listed among herbs to be used with caution during pregnancy. Zhi Zi (Gardenia fruit) also has a downward-draining action that may be harmful. The intensely cold nature of the entire formula could damage fetal development by injuring the mother's Spleen Yang and depleting Qi needed to sustain pregnancy. This formula should not be used during any trimester without urgent medical necessity and close supervision by a qualified practitioner.",
+  "breastfeeding": "Use with caution during breastfeeding. The bitter, cold compounds in this formula (particularly berberine from Huang Lian and Huang Bai) are known to transfer into breast milk. Berberine has been associated with potential risks to nursing infants, including possible displacement of bilirubin, which could theoretically worsen neonatal jaundice. The strongly bitter and cold nature of the formula may also reduce lactation by injuring the mother's Spleen Qi, which is the source of breast milk production in TCM theory. If the formula must be used during breastfeeding for an acute condition, it should be limited to the shortest possible course, and the infant should be monitored for any signs of digestive disturbance such as loose stools or reduced feeding.",
+  "children": "This formula can be used in children for acute excess Heat conditions but requires significant dosage reduction. General guidelines suggest one-quarter to one-third of the adult dose for children aged 3–6, and one-half of the adult dose for children aged 6–12. Because all four herbs are intensely bitter and cold, children are more susceptible to Spleen and Stomach damage than adults. The formula should only be used short-term (typically 1–3 days in children) for clearly identified excess Heat patterns, and should be discontinued as soon as symptoms improve. It is not suitable for infants under one year. The extremely bitter taste may cause difficulty with compliance, so honey or other flavour masking may be used if age-appropriate. A qualified practitioner should supervise all paediatric use.",
+  "drug_interactions": "Berberine-containing herbs (Huang Lian, Huang Bai): Berberine is a potent inhibitor of cytochrome P450 enzymes (particularly CYP3A4 and CYP2D6) and P-glycoprotein. This can increase blood levels of many pharmaceutical drugs metabolised through these pathways, including cyclosporine, statins (such as simvastatin and atorvastatin), certain antiarrhythmic drugs, and some benzodiazepines. Patients taking any medication with a narrow therapeutic index should exercise caution.\nHypoglycaemic medications: Modern research has demonstrated that HLJDD can lower blood glucose levels. When combined with insulin, metformin, or sulfonylureas, there is a risk of additive hypoglycaemia. Blood glucose should be monitored more frequently if this formula is used alongside diabetes medications.\nAnticoagulants and antiplatelet agents: The formula's ability to cool Blood and affect haemostasis means it should be used cautiously alongside warfarin, heparin, or antiplatelet drugs such as aspirin and clopidogrel. Berberine has been shown to affect platelet aggregation, which could increase bleeding risk.\nAntihypertensive medications: Both berberine and baicalin (from Huang Qin) have demonstrated blood-pressure-lowering effects. Concurrent use with antihypertensive drugs may produce additive hypotensive effects.",
+  "best_time_to_take": "Between meals or 30–60 minutes after meals, divided into two doses per day (morning and evening). Taking after meals can reduce the risk of stomach upset from the intensely bitter herbs.",
+  "typical_duration": "Acute use: 3–7 days. This is a strong purging formula not intended for prolonged administration. Reassess after 3 days and discontinue once Heat signs resolve.",
+  "dietary_advice": "Classical texts note that during the course of taking this formula, one should avoid pork and cold water (忌猪肉、冷水). More broadly, avoid greasy, fried, and rich foods that can generate internal Dampness and Heat, working against the formula's purpose. Spicy and hot foods (chilli, garlic, alcohol, lamb) should also be avoided as they can intensify internal Heat. Favour light, easily digestible foods such as rice congee, mung bean soup, cooling vegetables like cucumber, winter melon, and leafy greens. Adequate hydration with room-temperature or slightly warm water is important, as the bitter-cold herbs can be drying.",
+  "ingredients": [
+    {
+      "herb_name": "Huang Lian",
+      "english_name": "Coptis rhizome",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Huang Qin",
+      "english_name": "Baical skullcap root",
+      "role": "Deputy",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Huang Bo",
+      "english_name": "Phellodendron bark",
+      "role": "Assistant",
+      "dosage": "6g"
+    },
+    {
+      "herb_name": "Zhi Zi",
+      "english_name": "Gardenia fruit",
+      "role": "Assistant",
+      "dosage": "9g"
+    }
+  ],
+  "research": [
+    {
+      "id": 462,
+      "formula_id": 227,
+      "title": "Systematic Review and Meta-Analysis: Effect of Huang-Lian Jie-Du Decoction on Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus (2021)",
+      "description": "This systematic review searched six databases and included randomized controlled trials examining the effects of HLJDD on type 2 diabetes. The analysis found that HLJDD combined with metformin could reduce fasting blood glucose and HbA1c levels more effectively than metformin alone, and also showed improvements in lipid profiles including total cholesterol and triglycerides.",
+      "url": "https://doi.org/10.3389/fphar.2021.648861",
+      "periodical": "Hu Z, Yang M, Liu Y, Yang Q, Xie H, Peng S, Gao J, Xie C. Frontiers in Pharmacology, 2021, 12, 648861."
+    },
+    {
+      "id": 463,
+      "formula_id": 227,
+      "title": "Review Article: Huang-Lian Jie-Du Decoction — Phytochemical, Pharmacological and Pharmacokinetic Investigations (2019)",
+      "description": "A comprehensive review published in Chinese Medicine (Springer) summarizing evidence that HLJDD has demonstrated anti-inflammatory, anti-tumour, neuroprotective, hepatoprotective, hypoglycaemic, and antimicrobial activities. The review also characterised the pharmacokinetic profiles of major bioactive compounds including berberine, baicalin, and geniposide.",
+      "url": "https://doi.org/10.1186/s13020-019-0277-2",
+      "periodical": "Zhong Y, et al. Chinese Medicine, 2019, 14, 57."
+    },
+    {
+      "id": 464,
+      "formula_id": 227,
+      "title": "Preclinical Study: Protective Effects Against Polymicrobial Sepsis in Rats (2013)",
+      "description": "This animal study examined HLJDT in a cecal ligation and puncture sepsis model. Prophylactic administration of the formula protected rats from sepsis-induced lethality, reduced liver and lung injury, suppressed pro-inflammatory cytokines (TNF-alpha, IL-1, IL-6, IL-17A), and enhanced bacterial clearance through increased macrophage phagocytic activity.",
+      "url": "https://doi.org/10.1155/2013/909624",
+      "periodical": "Wei Y, et al. Evidence-Based Complementary and Alternative Medicine, 2013, 2013, 909624."
+    },
+    {
+      "id": 465,
+      "formula_id": 227,
+      "title": "Preclinical Study: Effects of HLJDT and Modified Formula on Amyloid-Beta Processing in Alzheimer's Disease Models (2014)",
+      "description": "This in vitro study compared the original HLJDT formula and a modified version (without Radix Scutellariae) on amyloid-beta precursor protein processing. The modified formula showed greater efficacy in reducing amyloid-beta generation, with berberine identified as a key active compound responsible for the neuroprotective effects.",
+      "url": "https://doi.org/10.1371/journal.pone.0092954",
+      "periodical": "Durairajan SSK, et al. PLoS ONE, 2014, 9(3), e92954."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 28,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 51,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 92,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 138,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 156,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 220,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 221,
+      "name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "pattern_id": 276,
+      "name": "Huang Lian Jie Du Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 20,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 20,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 25,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 25,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 40,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 40,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 45,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 45,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 105,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 105,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 109,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 109,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 111,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 111,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 112,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 112,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 118,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 118,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 166,
+      "pattern_name": "Damp-Heat in the Large Intestine",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 166,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 183,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 183,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 186,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 186,
+      "pattern_name": "Heat in Pericardium",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 212,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 212,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 219,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 219,
+      "pattern_name": "Liver Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 220,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 220,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 221,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 221,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 224,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 224,
+      "pattern_name": "Liver Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 228,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 228,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 302,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 302,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 329,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 329,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 357,
+      "pattern_name": "Damp-Heat in the Liver Channel",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 357,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 407,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 407,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 415,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 415,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 420,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 420,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 420,
+      "pattern_name": "Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 443,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 443,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 454,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 454,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 455,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 455,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 465,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 465,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 468,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 468,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 470,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 470,
+      "pattern_name": "Spleen Yang Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 477,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 477,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 485,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 485,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 495,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 495,
+      "pattern_name": "Wind-Cold invading with Yang Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 496,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 496,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 498,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 498,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 499,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 499,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 505,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 505,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 510,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 510,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 515,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 515,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 516,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 516,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 517,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 517,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 526,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 526,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 542,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 542,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 569,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 569,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 575,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 575,
+      "pattern_name": "Heart Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 599,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 599,
+      "pattern_name": "Heart Qi Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 642,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 642,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 662,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 662,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 673,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 673,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 689,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 689,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 716,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 716,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 729,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 729,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 729,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 737,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 737,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 787,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 787,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 833,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 833,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 838,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 838,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 857,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 857,
+      "pattern_name": "Exterior Cold invading with Interior Heat from Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 892,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 892,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 893,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 893,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 928,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 928,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 941,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 941,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 943,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 943,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 945,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 945,
+      "pattern_name": "Wind-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 973,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 973,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 984,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 984,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 985,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 985,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 985,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 993,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 993,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 995,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 995,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1001,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1001,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1004,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1004,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1013,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1013,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1032,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1032,
+      "pattern_name": "Spleen Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1035,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1035,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1049,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1049,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1053,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1053,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1094,
+      "pattern_name": "Liver Fire Invading the Heart",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1094,
+      "pattern_name": "Liver Fire Invading the Heart",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1095,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1095,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1110,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1110,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1133,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1133,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1154,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1154,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1164,
+      "pattern_name": "Yang Excess",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1164,
+      "pattern_name": "Yang Excess",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1178,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1178,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1184,
+      "pattern_name": "Excess-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1184,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1184,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1197,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1197,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1202,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1202,
+      "pattern_name": "Liver Wind agitating Internally due to extreme Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1204,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1204,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1207,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1207,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1227,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1227,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1230,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1230,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1236,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1236,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1242,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1242,
+      "pattern_name": "Yin and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1249,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1249,
+      "pattern_name": "Liver Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1259,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1259,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1298,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1298,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1325,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1325,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1329,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1329,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1343,
+      "pattern_name": "Damp-Heat in the Large Intestine",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1343,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1350,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1350,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1359,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1359,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1383,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1383,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1390,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1390,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1400,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1400,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1435,
+      "pattern_name": "Damp-Heat in the Large Intestine",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1435,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1435,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1439,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1439,
+      "pattern_name": "Exterior-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1443,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1443,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1477,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1477,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1489,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1489,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1490,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1490,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1513,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1513,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1576,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1576,
+      "pattern_name": "Heat victorious stirring Wind",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1587,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1587,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1615,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1615,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1617,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "formula_name": "Huang Lian Jie Du Tang"
+    },
+    {
+      "condition_id": 1617,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Huang Lian Jie Du Tang"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "id": 4,
+  "name": "Si Wu Tang",
+  "chinese_name": "四物汤",
+  "english_name": "Four-Substance Decoction",
+  "url": "/knowledge-base/formulas/si-wu-tang",
+  "summary": "A classical formula known as the foundation of all blood-nourishing prescriptions in Chinese medicine. It gently replenishes and activates the Blood, and is widely used for conditions related to Blood deficiency such as pale complexion, dizziness, menstrual irregularities, and abdominal pain. Often called the 'number one formula for women's health,' it serves as a base that practitioners modify for a wide range of Blood-related conditions.",
+  "categories": "[\"Blood-tonifying formulas\"]",
+  "tcm_actions": "[\"Nourishes Blood\", \"Nourishes Blood and Alleviates Pain\", \"Regulates menstruation\"]",
+  "therapeutic_focus": "[\"Menstrual Health\", \"Women's Health\", \"Blood Nourishment\", \"Postpartum recovery\"]",
+  "target_organs": "[\"Liver\", \"Heart\", \"Spleen\", \"Uterus\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Xiān Shòu Lǐ Shāng Xù Duàn Mì Fāng (仙授理伤续断秘方) by Lín Dào Rén, Tang dynasty; later recorded in Tài Píng Huì Mín Hé Jì Jú Fāng (太平惠民和剂局方), Song dynasty",
+  "conditions": "[\"Irregular Menstruation\", \"Anemia\", \"Amenorrhea\", \"Bleeding\", \"Threatened Miscarriage\", \"Postpartum Weakness\", \"Urticaria\", \"Psoriasis\", \"Purpura\", \"Tension Headache\", \"Alopecia\"]",
+  "patterns": "[]",
+  "other_names": "[\"Di Sui Tang (地髓汤, Marrow of the Earth Decoction)\", \"Si Wu Wan (四物丸, Four-Substance Pill)\"]",
+  "pregnancy": "Use with caution during pregnancy. The formula contains Chuan Xiong (Ligustici Rhizoma) and Dang Gui (Angelicae Sinensis Radix), both of which have Blood-moving properties that can stimulate uterine activity. Classical sources actually list Si Wu Tang among formulas used during pregnancy for restless fetus (胎动不安) but only with modification: the Tai Ping Hui Min He Ji Ju Fang specifies adding Ai Ye (Mugwort Leaf) and E Jiao (Donkey-Hide Gelatin) to stabilize the pregnancy and stop bleeding. The base formula should not be used during pregnancy without professional supervision and appropriate modification. It is not classified as absolutely contraindicated (unlike formulas with strongly abortifacient herbs), but the Blood-moving action of Chuan Xiong warrants caution, particularly in the first trimester.",
+  "breastfeeding": "Generally considered compatible with breastfeeding and is sometimes used postpartum to help replenish Blood lost during childbirth. Dang Gui and Shu Di Huang are traditionally regarded as beneficial for postpartum recovery. There are no well-documented reports of adverse effects on nursing infants from this formula. However, the Blood-moving properties of Chuan Xiong mean the formula should still be used under practitioner guidance. Women with very loose stools postpartum should be cautious due to the cloying nature of Shu Di Huang, which can worsen digestive weakness.",
+  "children": "Si Wu Tang is not routinely used in young children. Classical sources do not specifically address pediatric dosing for this formula. For adolescents who have begun menstruating and present with clear Blood deficiency patterns, it may be considered at reduced doses (typically one-third to one-half of the adult dose, adjusted by body weight). Children under 12 are generally not recommended to take this formula without specific clinical indication and practitioner supervision. The cloying, rich nature of Shu Di Huang can be particularly difficult for children's relatively delicate digestive systems to handle.",
+  "drug_interactions": "Anticoagulants and antiplatelet drugs (warfarin, heparin, aspirin, clopidogrel): Dang Gui (Angelica sinensis) contains coumarin-like compounds and has been shown in animal studies to affect the pharmacodynamics of warfarin, potentially prolonging prothrombin time at steady state. Chuan Xiong (Ligusticum chuanxiong) also has documented antiplatelet activity. Concurrent use of Si Wu Tang with anticoagulant or antiplatelet medications may increase the risk of bleeding. INR should be closely monitored if co-administration is unavoidable.\nHormone therapies and oral contraceptives: Laboratory studies have found that Si Wu Tang exhibits phytoestrogenic activity, producing gene expression changes in breast cancer cell lines similar to those caused by estradiol. While the clinical significance of this is uncertain, caution is warranted when combining the formula with hormone replacement therapy, oral contraceptives, or selective estrogen receptor modulators (e.g. tamoxifen).\nIron supplements: The tannins in Shu Di Huang and Bai Shao may theoretically reduce iron absorption if taken simultaneously. If iron supplementation is also prescribed, it is prudent to separate the doses by at least two hours.",
+  "best_time_to_take": "On an empty stomach, ideally 30 minutes to 1 hour before meals, taken warm, in two divided doses morning and evening. Classically specified as 'empty stomach, hot service' (空心热服).",
+  "typical_duration": "Often taken for 2-4 weeks per course, commonly starting after menstruation ends and continuing for 5-7 days each cycle. May be repeated over several menstrual cycles (2-3 months) under practitioner reassessment.",
+  "dietary_advice": "While taking Si Wu Tang, favor warm, cooked, easily digestible foods that support Blood production: dark leafy greens, red dates, goji berries, black sesame seeds, bone broth, lean red meat, and liver. Avoid cold, raw, and icy foods and drinks, which can impair the Spleen's ability to generate Blood and hinder the formula's warming action. Reduce greasy, heavy, and overly sweet foods, as these generate dampness that can counteract the formula (particularly if Shu Di Huang is already causing digestive heaviness). Limit excessively spicy food, strong tea, and coffee, which may scatter Blood and Qi. During menstruation, also avoid sour and astringent foods that may impede the smooth flow of Blood.",
+  "ingredients": [
+    {
+      "herb_name": "Shu Di Huang",
+      "english_name": "Prepared Rehmannia root",
+      "role": "King",
+      "dosage": "12 - 15g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "Chinese Angelica root",
+      "role": "Deputy",
+      "dosage": "9 - 12g"
+    },
+    {
+      "herb_name": "Bai Shao",
+      "english_name": "White peony root",
+      "role": "Assistant",
+      "dosage": "9 - 12g"
+    },
+    {
+      "herb_name": "Chuan Xiong",
+      "english_name": "Sichuan lovage rhizome",
+      "role": "Assistant",
+      "dosage": "6 - 9g"
+    }
+  ],
+  "research": [
+    {
+      "id": 12,
+      "formula_id": 4,
+      "title": "Randomized Placebo-Controlled Pilot Trial of Si Wu Tang for Primary Dysmenorrhea (2007)",
+      "description": "A double-blind, placebo-controlled pilot RCT in 78 young women in Taipei found that Si Wu Tang did not significantly reduce menstrual pain intensity at the end of 3-4 treatment cycles compared to placebo. However, a statistically significant pain-reducing effect unexpectedly appeared in the first post-treatment follow-up cycle, suggesting a possible delayed benefit. No adverse reactions were associated with the formula.",
+      "url": "https://doi.org/10.1371/journal.pone.0000719",
+      "periodical": "Yeh LLL, Liu JY, Lin KS, Liu YS, Chiou JM, Liang KY, et al. PLoS One. 2007; 2(8): e719."
+    },
+    {
+      "id": 13,
+      "formula_id": 4,
+      "title": "Systematic Review and Meta-Analysis of Taohong Siwu Tang for Primary Dysmenorrhea (2020)",
+      "description": "This systematic review of 5 RCTs found that modified Taohong Si Wu Tang (Si Wu Tang plus Tao Ren and Hong Hua) showed a favorable effect compared to NSAIDs for primary dysmenorrhea (RR 1.53, 95% CI 1.37-1.72), with moderate quality evidence. The review also found suggestive evidence for Si Wu Tang plus oral contraceptives over oral contraceptives alone.",
+      "url": "https://doi.org/10.1016/j.explore.2020.05.013",
+      "periodical": "Ji HR, Park KS, Woo HL, Lee MJ, Yoon JG, Lee HJ, Hwang DS, Lee CH, Jang JB, Lee JM. Explore. 2020; 16(5): 297-303."
+    },
+    {
+      "id": 14,
+      "formula_id": 4,
+      "title": "Si-Wu-Tang Prevents Oxidative Damage by Activating Nrf2-Mediated Detoxifying/Antioxidant Genes (Preclinical, 2014)",
+      "description": "This laboratory study demonstrated that Si Wu Tang strongly reduced hydrogen peroxide-induced cell death and apoptosis in non-cancerous breast epithelial cells (MCF-10A). The formula activated the Nrf2 cytoprotective pathway, which is a key cellular defense mechanism against oxidative stress, suggesting a potential chemopreventive mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24930357/",
+      "periodical": "Wen Z, Wang Z, Wang S, Ravber M, Shu G, Xie C, Chow MSS, Liang Y, Cao H, Huang Y, Zuo Z. J Ethnopharmacol. 2014; 155(1): 497-507."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 22,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 32,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 67,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 74,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 80,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 89,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 100,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 111,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 133,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 139,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 147,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 155,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 163,
+      "name": "Si Wu Tang"
+    },
+    {
+      "pattern_id": 246,
+      "name": "Si Wu Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 9,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 9,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 14,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 14,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 102,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 102,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 316,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 316,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 341,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 341,
+      "pattern_name": "Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 438,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 438,
+      "pattern_name": "Yin Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 447,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 447,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 448,
+      "pattern_name": "Yin and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 448,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 478,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 478,
+      "pattern_name": "Wind-Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 497,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 497,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 529,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 529,
+      "pattern_name": "Spleen not controlling Blood",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 536,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 536,
+      "pattern_name": "Interior Cold",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 542,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 542,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 548,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 548,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 558,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 558,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 571,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 571,
+      "pattern_name": "Heart Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 607,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 607,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 714,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 714,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 724,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 724,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 726,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 726,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 727,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 727,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 735,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 735,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 747,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 747,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 767,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 767,
+      "pattern_name": "Yin and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 780,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 780,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 845,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 845,
+      "pattern_name": "Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 846,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 846,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 902,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 902,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 910,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 910,
+      "pattern_name": "Lung Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 915,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 915,
+      "pattern_name": "Wind-Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 943,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 943,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 956,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 956,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 982,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 982,
+      "pattern_name": "Wind-Cold",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1009,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1009,
+      "pattern_name": "Interior Cold",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1030,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1030,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1046,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1046,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1057,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1057,
+      "pattern_name": "Wind-Cold invading with Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1062,
+      "pattern_name": "Blood Deficiency and Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1062,
+      "pattern_name": "Blood Deficiency and Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1077,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1077,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1082,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1082,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1105,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1105,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1105,
+      "pattern_name": "Liver Blood and Kidney Yin Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1105,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1108,
+      "pattern_name": "Stomach Qi Deficiency with Phelgm",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1108,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1132,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1132,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1163,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1163,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1167,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1167,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1175,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1175,
+      "pattern_name": "Blood Deficiency and Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1181,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1181,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1214,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1214,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1299,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1299,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1310,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1310,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1334,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1334,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1336,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1336,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1355,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1355,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1363,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1363,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1367,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1367,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1402,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1402,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1407,
+      "pattern_name": "Liver Blood and Kidney Yin Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1407,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1449,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1449,
+      "pattern_name": "Liver and Gallbladder Damp-Heat",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1464,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1464,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1475,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1475,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1475,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1536,
+      "pattern_name": "Liver Blood Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1536,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1592,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "formula_name": "Si Wu Tang"
+    },
+    {
+      "condition_id": 1592,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "formula_name": "Si Wu Tang"
+    }
+  ]
+}

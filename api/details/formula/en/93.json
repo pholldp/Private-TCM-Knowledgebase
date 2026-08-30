@@ -1,0 +1,1403 @@
+{
+  "id": 93,
+  "name": "Tian Ma Gou Teng Yin",
+  "chinese_name": "天麻钩藤饮",
+  "english_name": "Gastrodia and Uncaria Drink",
+  "url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+  "summary": "A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising.",
+  "categories": "[\"Internal Wind-extinguishing formulas\"]",
+  "tcm_actions": "[\"Calms the Liver and Extinguishes Wind\", \"Calms the Liver and Subdues Yang\", \"Clears Heat and Drains Fire\", \"Invigorates Blood and Dispels Stasis\", \"Supplements the Liver and Kidneys\", \"Calms the Spirit and Relieves Restlessness\"]",
+  "therapeutic_focus": "[\"Blood Pressure Support\", \"Headache and Dizziness Relief\", \"Sleep Support\", \"Neurological Health\"]",
+  "target_organs": "[\"Liver\", \"Kidneys\", \"Heart\"]",
+  "temperature": "Cool",
+  "preparation_form": "Draft (Yin)",
+  "dynasty": "Zhōng Yī Nèi Kē Zá Bìng Zhèng Zhì Xīn Yì (中医内科杂病证治新义) by Hú Guāngcí (胡光慈)",
+  "conditions": "[\"Hypertension\", \"Dizziness\", \"Insomnia\", \"Headaches\", \"Tinnitus\", \"Stroke\", \"Meniere's Disease\", \"Tremors\", \"Epilepsy\", \"Menopausal Symptoms\"]",
+  "patterns": "[]",
+  "other_names": "[\"Tian Ma Gou Teng Granules (天麻钩藤颗粒)\"]",
+  "pregnancy": "Contraindicated during pregnancy. The formula contains Chuan Niu Xi (Cyathula/Achyranthes root), which has a strong descending and Blood-moving action and is traditionally classified as contraindicated in pregnancy due to its ability to promote downward movement and potentially stimulate uterine contractions. Yi Mu Cao (Motherwort herb) is another ingredient of concern: it is a well-known uterine stimulant traditionally used to invigorate Blood and regulate menstruation, and is specifically contraindicated in pregnancy. The combination of these two Blood-moving herbs makes this formula unsuitable for pregnant women. Huang Qin (Scutellaria) in the formula is sometimes used to calm the fetus, but this does not outweigh the risks posed by the other ingredients.",
+  "breastfeeding": "Use with caution during breastfeeding. While there is no specific classical prohibition, several herbs in the formula warrant care. Yi Mu Cao (Motherwort) is a Blood-moving herb whose active alkaloids could potentially transfer through breast milk. Huang Qin (Scutellaria) is cold in nature and could theoretically affect the infant's digestion if transferred in significant amounts. The overall cooling and descending nature of the formula may not be ideal for postpartum women who are often in a state of Qi and Blood deficiency. Nursing mothers should consult a qualified practitioner before using this formula, and the infant should be monitored for any changes in feeding, stool, or temperament.",
+  "children": "This formula is not commonly prescribed for young children and has limited paediatric clinical data. In adolescents with early-onset hypertension showing a clear Liver Yang Rising pattern (headache, dizziness, irritability, wiry pulse), it may be considered with significant dosage reduction, typically 1/3 to 1/2 of the adult dose depending on age and body weight. The formula's cooling and descending nature should be used cautiously in children, as their constitutions tend toward Yang and their Spleen-Stomach systems are relatively delicate. The Blood-moving herbs (Chuan Niu Xi, Yi Mu Cao) should be reduced or removed in younger patients. A qualified paediatric TCM practitioner should supervise any use in children under 12.",
+  "drug_interactions": "Antihypertensive medications: This formula has demonstrated blood-pressure-lowering effects in clinical studies. When taken alongside Western antihypertensive drugs (ACE inhibitors, ARBs, calcium channel blockers, beta-blockers, or diuretics), there is a risk of additive hypotension. Blood pressure should be monitored regularly and medication doses may need adjustment to avoid excessive lowering.\nAnticoagulant and antiplatelet drugs: Chuan Niu Xi (Achyranthes) and Yi Mu Cao (Motherwort) both invigorate Blood circulation and have demonstrated effects on platelet aggregation and blood viscosity. When combined with warfarin, heparin, aspirin, clopidogrel, or direct oral anticoagulants (DOACs), there is a theoretical risk of increased bleeding. Coagulation parameters (INR for warfarin users) should be monitored more closely.\nSedative and anxiolytic medications: Ye Jiao Teng (Caulis Polygoni Multiflori) and Zhu Fu Shen (Poria with pine root) have calming, spirit-settling effects. Combined with benzodiazepines, barbiturates, or other CNS depressants, there may be additive sedative effects causing excessive drowsiness.\nHepatically-metabolised drugs: Huang Qin (Scutellaria) contains baicalein and baicalin, which have been shown in pharmacological studies to affect certain cytochrome P450 enzymes. This could theoretically alter the metabolism of drugs processed through the same pathways, though clinically significant interactions have not been well documented for this formula specifically.",
+  "best_time_to_take": "Twice daily, morning and evening, 30 minutes after meals. The decoction should be taken warm.",
+  "typical_duration": "Typically prescribed for 4–8 weeks, with reassessment by a practitioner. May be taken longer for chronic hypertension management under supervision.",
+  "dietary_advice": "While taking this formula, favour foods that calm the Liver and support Yin: celery, chrysanthemum tea, mung beans, leafy greens, pears, and bland grains. Avoid foods that aggravate Liver Yang and generate Heat or Wind: alcohol, coffee, spicy foods (chilli, pepper, garlic in excess), fried or greasy foods, lamb, and heavily roasted or barbecued meats. Rich, heavy foods and excessive salt should also be limited, as they can worsen hypertension and counteract the formula's descending action. Emotional agitation, anger, and excessive stress should be minimised, as these directly stir Liver Yang. Light, regular meals taken at consistent times support the formula's calming effect.",
+  "ingredients": [
+    {
+      "herb_name": "Tian Ma",
+      "english_name": "Gastrodia root",
+      "role": "King",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Gou Teng",
+      "english_name": "Gambir vine stems and hooks",
+      "role": "King",
+      "dosage": "12g"
+    },
+    {
+      "herb_name": "Shi Jue Ming",
+      "english_name": "Abalone shell",
+      "role": "Deputy",
+      "dosage": "18g"
+    },
+    {
+      "herb_name": "Chuan Niu Xi",
+      "english_name": "Cyathula root",
+      "role": "Deputy",
+      "dosage": "12g"
+    },
+    {
+      "herb_name": "Zhi Zi",
+      "english_name": "Gardenia fruit",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Huang Qin",
+      "english_name": "Baical skullcap root",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Du Zhong",
+      "english_name": "Eucommia bark",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Sang Ji Sheng",
+      "english_name": "Mulberry Mistletoe",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Yi Mu Cao",
+      "english_name": "Chinese motherwort",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Ye Jiao Teng",
+      "english_name": "Fleece-flower stem",
+      "role": "Assistant",
+      "dosage": "9g"
+    },
+    {
+      "herb_name": "Fu Shen",
+      "english_name": "Poria with Hostwood",
+      "role": "Assistant",
+      "dosage": "9g"
+    }
+  ],
+  "research": [
+    {
+      "id": 205,
+      "formula_id": 93,
+      "title": "Tianma Gouteng Yin as Adjunctive Treatment for Essential Hypertension: A Systematic Review of Randomized Controlled Trials (2013)",
+      "description": "This systematic review included 22 randomised controlled trials (totalling 1,808 patients) examining TGY combined with standard antihypertensive drugs versus antihypertensive drugs alone. The pooled results suggested that adding TGY to conventional treatment may further lower both systolic and diastolic blood pressure (by approximately 6.71 and 4.6 mmHg respectively) and improve clinical symptoms such as headache, dizziness, insomnia, and irritability. However, the authors noted that the overall methodological quality of the included trials was poor, and called for higher-quality research.",
+      "url": "",
+      "periodical": "Wang J, Feng B, Yang X, et al. Evidence-Based Complementary and Alternative Medicine, 2013, Volume 2013, Article ID 706125."
+    },
+    {
+      "id": 206,
+      "formula_id": 93,
+      "title": "Tianma Gouteng Yin Formula for Treating Primary Hypertension: Cochrane Systematic Review (2012)",
+      "description": "This Cochrane review searched multiple databases in English and Chinese to find randomised or quasi-randomised controlled trials comparing TGY to placebo or no treatment for primary hypertension. No trials meeting the strict Cochrane inclusion criteria (TGY versus placebo or no treatment alone) were identified. The review concluded that the efficacy of TGY compared to placebo remains uncertain, and called for properly designed placebo-controlled trials with clinically meaningful endpoints.",
+      "url": "",
+      "periodical": "Zhang HW, Tong J, Zhou G, Jia H, Jiang JY. Cochrane Database of Systematic Reviews, 2012, Issue 6, Art. No.: CD008166."
+    },
+    {
+      "id": 207,
+      "formula_id": 93,
+      "title": "Randomized Controlled Trials of Tianma Gouteng Decoction Combined with Nifedipine for Primary Hypertension: A Systematic Review and Meta-Analysis (2020)",
+      "description": "This meta-analysis included 14 studies with 1,537 hypertensive patients and specifically examined TGY combined with the calcium channel blocker nifedipine versus nifedipine alone. The combination group showed a significantly higher total efficacy rate and greater blood pressure reductions compared to nifedipine monotherapy. No serious adverse events were reported in the included studies, though the authors again noted limitations in trial quality.",
+      "url": "",
+      "periodical": "Tai J, et al. Evidence-Based Complementary and Alternative Medicine, 2020, Volume 2020, Article ID 5759083."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 108,
+      "name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "pattern_id": 110,
+      "name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "pattern_id": 153,
+      "name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "pattern_id": 246,
+      "name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "pattern_id": 253,
+      "name": "Tian Ma Gou Teng Yin"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 59,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 59,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 61,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 61,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 64,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 64,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 75,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 75,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 83,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 83,
+      "pattern_name": "Yang Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 91,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 91,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 94,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 94,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 198,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 198,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 205,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 205,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 207,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 207,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 232,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 232,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 251,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 251,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 289,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 289,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 356,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 356,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 358,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 358,
+      "pattern_name": "Phlegm",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 404,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 404,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 406,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 406,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 407,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 407,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 408,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 408,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 410,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 410,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 411,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 411,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 412,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 412,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 528,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 528,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 543,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 543,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 545,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 545,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 549,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 549,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 550,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 550,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 551,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 551,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 553,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 553,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 554,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 554,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 557,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 557,
+      "pattern_name": "Qi Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 558,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 558,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 559,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 559,
+      "pattern_name": "Wind-Cold",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 570,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 570,
+      "pattern_name": "Lung and Heart Qi Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 597,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 597,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 600,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 600,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 601,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 601,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 602,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 602,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 603,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 603,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 604,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 604,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 605,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 605,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 695,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 695,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 698,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 698,
+      "pattern_name": "Kidney and Spleen Yang Deficiency with Empty Cold",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 747,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 747,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 748,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 748,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 749,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 749,
+      "pattern_name": "Spleen not controlling Blood",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 751,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 751,
+      "pattern_name": "Qi Collapsing or Qi Sinking",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 754,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 754,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 755,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 755,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 763,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 763,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 766,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 766,
+      "pattern_name": "Cold invading the Channels joints and muscles",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 767,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 767,
+      "pattern_name": "Yin and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 774,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 774,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 775,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 775,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 780,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 780,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 867,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 867,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 871,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 871,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 871,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 872,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 872,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 881,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 881,
+      "pattern_name": "Heart Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 887,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 887,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 891,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 891,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 892,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 892,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 894,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 894,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 895,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 895,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 931,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 931,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 932,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 932,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 933,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 933,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 934,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 934,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 964,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 964,
+      "pattern_name": "Cold-Phlegm",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 968,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 968,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 976,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 976,
+      "pattern_name": "Dry-Wind",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 998,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 998,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 999,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 999,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1002,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1002,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1010,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1010,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1012,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1012,
+      "pattern_name": "Yang Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1025,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1025,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1033,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1033,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1043,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1043,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1059,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1059,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1061,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1061,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1064,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1064,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1092,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1092,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1096,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1096,
+      "pattern_name": "Lung Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1143,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1143,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1150,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1150,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1151,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1151,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1158,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1158,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1176,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1176,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1211,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1211,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1224,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1224,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1239,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1239,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1247,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1247,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1262,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1262,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1265,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1265,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1267,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1267,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1309,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1309,
+      "pattern_name": "Damp-Heat invading the Spleen",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1315,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1315,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Heart Qi Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1334,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1334,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Liver Yang Rising with Blood and Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1371,
+      "pattern_name": "Liver Yang Rising with Blood and Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1400,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1400,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1416,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1416,
+      "pattern_name": "Heat in Pericardium",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1424,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1424,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1425,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1425,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1454,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1454,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1464,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1464,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1465,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1465,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1467,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1467,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1471,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1471,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1528,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1528,
+      "pattern_name": "Heat invading the Pericardium",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1536,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1536,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1553,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1553,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1561,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1561,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1562,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1562,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1564,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1564,
+      "pattern_name": "Heat in Lessor Yang",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1576,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1576,
+      "pattern_name": "Heat victorious stirring Wind",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1582,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1582,
+      "pattern_name": "Spleen Qi Sinking",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1606,
+      "pattern_name": "Liver Yang Rising",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    },
+    {
+      "condition_id": 1606,
+      "pattern_name": "Terminal Yin stage",
+      "formula_name": "Tian Ma Gou Teng Yin"
+    }
+  ]
+}

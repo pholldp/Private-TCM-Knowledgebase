@@ -1,0 +1,798 @@
+{
+  "id": 1303,
+  "name": "Diabetic Ketoacidosis",
+  "url": "/knowledge-base/conditions/diabetic-ketoacidosis",
+  "kind": "Condition",
+  "pinyin": "xiāo kě bìng tóng zhèng suān zhòng dú",
+  "chinese_name": "消渴病酮症酸中毒",
+  "preview_text": "In TCM, the stage of DKA-blazing thirst, vomiting, confusion, or cold collapse-reveals which pattern has taken hold, and each pattern requires a different herbal strategy to suppor...",
+  "categories": "[\"Endocrine & Metabolic Conditions\", \"Diabetes\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Diabetic ketoacidosis (thirst component)\"]",
+  "conventional_description": "Diabetic ketoacidosis is a serious complication of diabetes that occurs when the body cannot use glucose for fuel because of a lack of insulin. Instead, it breaks down fat, producing acidic ketones that build up in the blood. This leads to a dangerous metabolic acidosis. Typical symptoms include extreme thirst, frequent urination, nausea, vomiting, abdominal pain, confusion, and a distinctive fruity-smelling breath. Diagnosis is made through blood tests showing high glucose, high ketones, and a low blood pH. DKA is a medical emergency requiring immediate hospital treatment.",
+  "conventional_treatments": "Standard treatment involves rapid intravenous fluids to correct dehydration, insulin infusion to lower blood glucose and halt ketone production, and careful replacement of electrolytes like potassium. Patients are monitored in an intensive care or high-dependency unit until the acidosis resolves and they can eat and drink safely. The underlying cause, such as infection or missed insulin, is also addressed.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees diabetic ketoacidosis as the end result of long-standing Xiao Ke (wasting-thirst disorder), where chronic Yin deficiency and dry heat have already weakened the body. When a trigger-infection, missed insulin, stress-pushes the system over the edge, heat explodes into a Bright Yang Stomach Heat crisis. The Stomach becomes a furnace, burning up fluids and creating the hallmark extreme thirst, while the Lungs struggle to cool and descend Qi, leading to deep, rapid breathing with a fruity odor.\nIf the crisis continues, the Spleen's ability to transform fluids fails completely. Dampness accumulates and thickens into turbid dampness that obstructs the Middle Burner-the digestive center. This produces nausea, vomiting, and a heavy, bloated sensation. The tongue becomes pale and swollen with a thick, greasy coat, and the pulse turns soggy. This obstruction blocks the normal downward movement of Stomach Qi, accelerating metabolic chaos.\nAs turbidity rises unchecked, it congeals into phlegm that can cloud the Heart orifices-the seat of the mind. Confusion, drowsiness, or even coma appear, often with rattling phlegm in the throat. In other cases, extreme fluid loss drains Kidney and Liver Yin so severely that it can no longer anchor Yang, stirring internal Wind. This leads to tremors, twitching, and a crimson, mirror-like tongue.\nFinally, the body's reserves may collapse entirely: Yin collapse brings a burning body, oily sweat, and a deep-red mirror tongue; Yang collapse brings cold limbs, a barely perceptible pulse, and a pale, moist tongue. Each of these six patterns-Bright Yang Stomach Heat, Turbid Dampness, Turbid Phlegm, Empty-Wind, Yin Collapse, and Yang Collapse-requires a different TCM strategy, but all demand immediate Western medical intervention.",
+  "classical_quote": "「热气留于胃，胃热则消谷，谷消故善饥。」",
+  "classical_translation": "\"When heat lodges in the Stomach, Stomach heat causes rapid digestion of food; the food is quickly consumed, hence there is constant hunger.\"",
+  "classical_source": "Huang Di Nei Jing, Su Wen  ,  Chapter 47 (Qi Bing Lun) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner sees diabetic ketoacidosis as a dangerous chain of events, not a single fixed state. The body moves through stages from blazing internal heat to toxic dampness, then to wind and eventual collapse. The first job is to identify which stage dominates by carefully observing thirst, nausea, mental clarity, and the telltale signs on the tongue and at the pulse.\nIn the early stage, Bright Yang Stomach Heat flares up. The person feels extreme thirst, a parched mouth, and may breathe rapidly with a fruity odor. The tongue is red with a thick yellow dry coat, and the pulse is rapid and flooding. These signs confirm that fierce heat in the Stomach and Lungs is consuming fluids and driving the crisis forward.\nAs the condition deepens, Turbid Dampness obstructs the Middle Burner. Nausea, vomiting, and abdominal bloating take center stage. The tongue is pale and swollen with a thick, greasy white coating, and the pulse feels soggy. This obstruction blocks normal digestive movement and accelerates the metabolic chaos.\nIf the turbidity rises further, Turbid Phlegm Blocks the Orifices. Confusion, drowsiness, or even coma appear, often with a rattling phlegm sound in the throat. The tongue coat becomes yellow and greasy, and the pulse turns slippery and wiry. This signals that phlegm is clouding the mind.\nIn the late stages, severe Yin deficiency stirs up Empty-Wind, causing tremors or convulsions. The tongue is red with little or no coating, and the pulse is thin and rapid. This wind arises because Yin is too depleted to anchor the body's Yang.\nCollapse of Yin presents with a burning hot body, profuse oily sweat, and extreme restlessness. The tongue is deep red and mirror-dry, and the pulse is fine, rapid, and weak. Unopposed heat rages as the last fluids drain away.\nCollapse of Yang follows when the body's vital fire extinguishes. The limbs become ice-cold, the sweat turns cold, the face is ashen, and the pulse is barely perceptible. This is the final, life-threatening stage of the crisis.",
+  "patterns": [
+    {
+      "id": 6413,
+      "condition_id": 1303,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "pattern_slug": "bright-yang-stomach-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever that does not break with sweating\", \"Profuse sweating\", \"Intense thirst with craving for ice-cold drinks\", \"Flushed red face\", \"Irritability and restlessness\", \"Deep, coarse breathing\"]",
+      "worse_with": "Hot weather or excessive heat, Greasy, fried, or spicy foods, Alcohol, Emotional stress, Overwork, exhaustion, or lack of sleep",
+      "better_with": "Cool, quiet environment, Cold drinks or cooling foods, Rest and adequate sleep",
+      "why_this_happens": "In diabetic ketoacidosis, long-standing diabetes heat flares into a Bright Yang Stomach Heat crisis. The Stomach becomes a furnace, burning up fluids and driving extreme thirst, while the heat forces fluids out through profuse sweat and urine, rapidly worsening dehydration. The body's Qi is overwhelmed, causing deep, coarse breathing and a flushed, hot body that does not cool even after sweating.",
+      "tongue_and_pulse": "Tongue: red body with a yellow, dry coating; early cracks may appear. Pulse: overflowing and surging (Hong), rapid (Shu).",
+      "why_triggers_reliefs_work": "Bright Yang Stomach Heat is an intense internal fire. Anything that adds heat-spicy food, hot weather, anger-fuels the fire, while cooling measures help extinguish it. Sweating is the body's attempt to release heat, but the fire is so strong that it continues despite sweating, so external cooling is essential to support the body's efforts. Rest prevents further consumption of Qi and fluids, allowing the body to focus on clearing the heat.",
+      "diet_and_lifestyle": "Seek emergency medical care immediately-this is a crisis. While under treatment, avoid all heating foods and drinks. Sip cool water or mild herbal teas like chrysanthemum to help clear heat. Do not eat spicy, greasy, or heavy foods, and rest completely in a cool, quiet space.",
+      "formulas": [
+        {
+          "id": 14565,
+          "pattern_id": 6413,
+          "formula_name": "Bai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-tang",
+          "translation": "White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids",
+          "description": "The classic formula to clear intense Stomach Heat, quench thirst, and generate body fluids."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 33617,
+          "pattern_id": 6413,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Powerfully clears Stomach fire, reduces high fever, and eases extreme thirst."
+        },
+        {
+          "id": 33618,
+          "pattern_id": 6413,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Nourishes Yin and assists in clearing heat, helping to moisten the dryness caused by the internal fire."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 22917,
+          "pattern_id": 6413,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce. Clears heat from the Yangming channel and cools the entire body."
+        },
+        {
+          "id": 22918,
+          "pattern_id": 6413,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Reduce. Clears Stomach fire directly, relieving thirst and irritability."
+        },
+        {
+          "id": 22919,
+          "pattern_id": 6413,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Even method. Nourishes Kidney Yin to support the body&#x27;s fluids and anchor the heat."
+        }
+      ]
+    },
+    {
+      "id": 6414,
+      "condition_id": 1303,
+      "pattern_name": "Turbid Dampness obstructing the Middle Burner",
+      "pattern_slug": "turbid-dampness-obstructing-the-middle-burner",
+      "is_common": 0,
+      "symptoms": "[\"Nausea and vomiting\", \"Upper abdominal bloating and distension\", \"Heavy sensation in body and limbs\", \"Thick greasy white tongue coating\", \"Poor appetite or no desire to eat\", \"Not thirsty\"]",
+      "worse_with": "Greasy, fried, or spicy foods, Overeating, Cold, raw, or dairy foods, Damp weather, Lying down immediately after eating",
+      "better_with": "Warm, light meals (congee, ginger tea), Gentle walking after meals, Warm compress on abdomen, Small frequent meals",
+      "why_this_happens": "Long-standing diabetes weakens the Spleen’s ability to transform fluids, allowing dampness to accumulate and thicken into turbid dampness. When this turbid dampness obstructs the Middle Burner, it blocks the Stomach’s downward movement and the Spleen’s upward flow, causing nausea, vomiting, and a heavy, bloated sensation in the abdomen. This obstruction is a key driver of the digestive shutdown and metabolic chaos seen in DKA.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks; thick, white, greasy coating concentrated in the center. Pulse: soggy (Ru) and moderate (Huan), possibly slippery (Hua); the right Guan position feels soft and indistinct.",
+      "why_triggers_reliefs_work": "Heavy, greasy, and cold foods directly generate dampness and overwhelm the already weakened Spleen, making the obstruction worse. Warm, light foods and gentle movement help the Spleen transform dampness and restore the normal downward flow of the Stomach. Warmth dries dampness and moves Qi, which relieves the stuck, bloated sensation.",
+      "diet_and_lifestyle": "Avoid cold, raw, greasy, and dairy-rich foods that generate dampness. Eat small, frequent meals of warm, cooked, easily digestible foods like congee with ginger. Gentle walking after meals helps move Qi and transform dampness. Keep the abdomen warm.",
+      "formulas": [
+        {
+          "id": 14566,
+          "pattern_id": 6414,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "Combines drying dampness with promoting urination to clear turbid dampness from the Middle Burner and relieve nausea and distension."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 33619,
+          "pattern_id": 6414,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Strongly dries dampness and strengthens the Spleen to address the root of turbid accumulation."
+        },
+        {
+          "id": 33620,
+          "pattern_id": 6414,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi and relieves abdominal bloating and distension."
+        },
+        {
+          "id": 33621,
+          "pattern_id": 6414,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Stops nausea and vomiting by directing rebellious Stomach Qi downward."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 22920,
+          "pattern_id": 6414,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Regulates Stomach Qi and resolves dampness in the Middle Burner."
+        },
+        {
+          "id": 22921,
+          "pattern_id": 6414,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and transforms dampness."
+        },
+        {
+          "id": 22922,
+          "pattern_id": 6414,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the body via urination."
+        },
+        {
+          "id": 22923,
+          "pattern_id": 6414,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Stops nausea and vomiting by harmonizing the Stomach."
+        },
+        {
+          "id": 22924,
+          "pattern_id": 6414,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Relieves abdominal distension and regulates intestinal Qi."
+        }
+      ]
+    },
+    {
+      "id": 6415,
+      "condition_id": 1303,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "pattern_slug": "turbid-phlegm-blocks-orifices",
+      "is_common": 0,
+      "symptoms": "[\"Mental confusion or foggy thinking\", \"Rattling phlegm sound in the throat\", \"Slurred speech or difficulty speaking\", \"Heavy-headedness or feeling the head is wrapped\", \"Thick, greasy white tongue coating\"]",
+      "worse_with": "Greasy, fried, or spicy foods, Cold, raw, or dairy foods, Emotional stress, Overeating, Overwork, exhaustion, or lack of sleep",
+      "better_with": "Warm, light meals (congee, ginger tea), Rest and adequate sleep, Acupuncture or acupressure",
+      "why_this_happens": "In diabetic ketoacidosis, long-standing Yin deficiency and internal heat generate turbid fluids. When the Spleen is weak, these fluids congeal into phlegm instead of being properly transformed. The phlegm rises to the head and obstructs the heart orifices-the seat of the mind-leading to clouded consciousness, confusion, and slurred speech. The unmistakable rattling phlegm sound in the throat signals that the airway and mind are both being choked by phlegm.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, thick white greasy-slippery coat. Pulse: slippery (Hua) and wiry (Xian).",
+      "why_triggers_reliefs_work": "Greasy, sweet, and cold foods directly create dampness and phlegm, fueling the obstruction. Emotional stress stagnates Qi, which then condenses into phlegm. Rest and light, warm foods support the Spleen's ability to transform fluids, preventing further phlegm accumulation and helping the mind clear.",
+      "diet_and_lifestyle": "Avoid dairy, greasy, fried, sweet, and cold raw foods-they generate dampness and phlegm. Eat small portions of warm, cooked, easily digestible meals like congee with ginger. Keep the mind calm and avoid overthinking. This is a medical emergency; seek immediate hospital care for any worsening confusion, deep rapid breathing, or loss of consciousness.",
+      "formulas": [
+        {
+          "id": 14567,
+          "pattern_id": 6415,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "The classic formula to sweep away phlegm and open the heart orifices, restoring mental clarity."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 33622,
+          "pattern_id": 6415,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Opens the orifices and clears phlegm from the sensory gates."
+        },
+        {
+          "id": 33623,
+          "pattern_id": 6415,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, especially from the chest and head."
+        },
+        {
+          "id": 33624,
+          "pattern_id": 6415,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries dampness, preventing further phlegm formation."
+        },
+        {
+          "id": 33625,
+          "pattern_id": 6415,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness through urination and strengthens the Spleen."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 22925,
+          "pattern_id": 6415,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Clears the mind and opens the sensory orifices."
+        },
+        {
+          "id": 22926,
+          "pattern_id": 6415,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform phlegm and dampness throughout the body."
+        },
+        {
+          "id": 22927,
+          "pattern_id": 6415,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, calms the mind, and regulates Qi to help resolve phlegm."
+        }
+      ]
+    },
+    {
+      "id": 6416,
+      "condition_id": 1303,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "pattern_slug": "empty-wind-agitating-in-the-interior",
+      "is_common": 0,
+      "symptoms": "[\"Trembling or twitching of the hands and feet\", \"Muscle spasms and wasting\", \"Severe fatigue and listlessness\", \"Deep red (crimson) tongue with little or no coating\", \"Dizziness and blurred vision\"]",
+      "worse_with": "Emotional stress, Greasy, fried, or spicy foods, Overwork, exhaustion, or lack of sleep, Hot weather or excessive heat",
+      "better_with": "Cool, quiet environment, Moistening, nourishing foods (pear, congee, broths), Rest and adequate sleep",
+      "why_this_happens": "In diabetic ketoacidosis, the extreme loss of fluids from intense thirst and urination drains the body's Yin reserves, especially of the Liver and Kidneys. When Yin becomes too weak to anchor Yang, internal Wind stirs, much like a sapling shaking in a drought. This Wind disturbs the sinews and vessels, causing the trembling, twitching, and muscle spasms that appear as the crisis deepens.",
+      "tongue_and_pulse": "Tongue: crimson, thin, dry, cracked, little or no coating (mirror-like), may tremble. Pulse: fine, rapid, wiry at the left Guan position, and weak on deep palpation.",
+      "why_triggers_reliefs_work": "This pattern arises because Yin is too depleted to hold Yang down, so anything that further consumes Yin (spicy heat, overwork, late nights) fans the internal Wind. Emotional stress stirs Liver Yang, which then transforms into Wind when Yin is absent. Cooling, moistening foods and rest help replenish Yin and anchor the rising Yang, calming the tremors.",
+      "diet_and_lifestyle": "Focus on deeply nourishing, moistening foods like millet congee, pear, black sesame, and pork bone broth. Avoid spicy, fried, or drying foods that further consume Yin. Gentle rest is essential; overwork and late nights deplete Kidney Yin and can provoke Wind. Keep the environment cool and calm.",
+      "formulas": [
+        {
+          "id": 14568,
+          "pattern_id": 6416,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Nourishes Yin and clears deficiency heat to extinguish internal Wind."
+        },
+        {
+          "id": 14569,
+          "pattern_id": 6416,
+          "formula_name": "Yu Nu Jian",
+          "formula_url": "/knowledge-base/formulas/yu-nu-jian",
+          "translation": "Jade Woman Decoction &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Cold, Clears Stomach Heat, Nourishes Kidney Yin, Drains Fire",
+          "description": "Clears Stomach heat and nourishes Yin to address the underlying fluid depletion."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 33626,
+          "pattern_id": 6416,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Extinguishes internal Wind and stops tremors."
+        },
+        {
+          "id": 33627,
+          "pattern_id": 6416,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Stomach Yin and generates fluids."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 22928,
+          "pattern_id": 6416,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to anchor Yang and calm Wind."
+        },
+        {
+          "id": 22929,
+          "pattern_id": 6416,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Yin and blood to moisten sinews."
+        },
+        {
+          "id": 22930,
+          "pattern_id": 6416,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Subdues internal Liver Wind."
+        },
+        {
+          "id": 22931,
+          "pattern_id": 6416,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Strengthens Kidney Yin at its source."
+        }
+      ]
+    },
+    {
+      "id": 6417,
+      "condition_id": 1303,
+      "pattern_name": "Collapse of Yin",
+      "pattern_slug": "collapse-of-yin",
+      "is_common": 0,
+      "symptoms": "[\"Profuse hot sticky sweat, beading like oil\", \"Burning hot body with warm extremities\", \"Intense restlessness and agitation\", \"Extreme thirst with craving for cold drinks\", \"Deep-red, shrunken tongue with no coating (mirror tongue)\"]",
+      "worse_with": "Greasy, fried, or spicy foods, Dehydration or fluid loss, Overwork, exhaustion, or lack of sleep, Emotional stress, Hot weather or excessive heat",
+      "better_with": "Cold drinks or cooling foods, Cool, quiet environment, Moistening, nourishing foods (pear, congee, broths), Medical rehydration and cooling",
+      "why_this_happens": "When diabetes persists, the body's Yin and fluids are slowly consumed by chronic heat. In a crisis, this drain accelerates until Yin collapses completely, leaving nothing to cool or anchor the body. The resulting unopposed heat rages internally, forcing out the last drops of fluid as oily sweat, parching the tongue to a mirror-like dryness, and pushing the mind into extreme restlessness.",
+      "tongue_and_pulse": "Tongue: deep red or crimson, completely dry with no coating (mirror tongue), possibly cracked and shrunken. Pulse: fine (thready) and rapid, weak on pressure, and may feel hollow.",
+      "why_triggers_reliefs_work": "Collapse of Yin means the body's cooling and moistening resources are nearly gone, leaving unopposed heat. Cooling fluids and rest directly replenish Yin and calm the fire, while hot foods, dehydration, and stress further consume the last drops of Yin and fan the flames, accelerating the collapse.",
+      "diet_and_lifestyle": "This is a medical emergency requiring immediate hospital care. Once stabilized, focus on cooling, Yin-nourishing fluids like pear juice, watermelon juice, or congee. Avoid all hot, spicy, or drying foods and alcohol, which further consume Yin and worsen heat.",
+      "formulas": [
+        {
+          "id": 14570,
+          "pattern_id": 6417,
+          "formula_name": "Bai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-tang",
+          "translation": "White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids",
+          "description": "Clears intense internal heat and thirst, and when combined with Yin-nourishing herbs, it helps rescue collapsing Yin and restore fluids."
+        },
+        {
+          "id": 14571,
+          "pattern_id": 6417,
+          "formula_name": "Zeng Ye Tang",
+          "formula_url": "/knowledge-base/formulas/zeng-ye-tang",
+          "translation": "Increase the Fluids Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Nourishes Yin and Generates Fluids, Moistens Dryness, Clears Heat",
+          "description": "Deeply nourishes Yin and generates fluids, directly addressing the severe fluid depletion that defines this pattern."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 33628,
+          "pattern_id": 6417,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Strongly clears blazing internal heat and quenches the extreme thirst."
+        },
+        {
+          "id": 33629,
+          "pattern_id": 6417,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Nourishes Yin and supports Shi Gao in cooling fire, while gently moistening dryness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 22932,
+          "pattern_id": 6417,
+          "acupoint_code": "KI-1",
+          "acupoint_name": "Yongquan KI-1",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/yongquan-ki-1",
+          "translation": "Y&#x1D2;ng Qu&#xE1;n",
+          "properties": "Nourishes Yin and clears Empty-Heat, Regulates Qi the Lower Burner",
+          "description": "Anchors the floating Yang and helps reverse the collapse of Yin by drawing fire downward."
+        },
+        {
+          "id": 22933,
+          "pattern_id": 6417,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the spirit and eases the intense restlessness and agitation."
+        },
+        {
+          "id": 22934,
+          "pattern_id": 6417,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Supports the generation of Qi and fluids to help stabilize the body."
+        },
+        {
+          "id": 22935,
+          "pattern_id": 6417,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin, harmonizes fluids, and strengthens the foundation."
+        }
+      ]
+    },
+    {
+      "id": 6418,
+      "condition_id": 1303,
+      "pattern_name": "Collapse of Yang",
+      "pattern_slug": "collapse-of-yang",
+      "is_common": 0,
+      "symptoms": "[\"Profuse cold sweating\", \"Ice-cold hands and feet\", \"Extremely faint or absent pulse\", \"Ashen-white or pale face\", \"Complete mental apathy or drowsiness\"]",
+      "worse_with": "Exposure to cold, Cold, raw, or dairy foods, Overwork, exhaustion, or lack of sleep, Emotional stress",
+      "better_with": "Immediate medical treatment, Warmth and blankets, Moxibustion on the lower abdomen, Warm fluids (if tolerated)",
+      "why_this_happens": "In diabetic ketoacidosis, prolonged intense heat and fluid loss first consume Yin, but eventually the body's Yang-the vital warming fire-also becomes exhausted. Without Yang to power the organs, the body loses its ability to stay warm, pump blood, and maintain consciousness. This leads to a life-threatening state of profound internal cold, shock, and collapse.",
+      "tongue_and_pulse": "Tongue: pale, moist, flaccid body with a thin white slippery coating. Pulse: minute (wēi) and on the verge of disappearing, extremely faint and thready.",
+      "why_triggers_reliefs_work": "When Yang has collapsed, the body’s internal fire is nearly extinguished. Cold environments, cold substances, and any strain further drain the last vestiges of Yang, pushing the person deeper into shock. Warmth, moxibustion, and rest help preserve and slowly reignite that vital fire, supporting the body’s ability to recover from the crisis.",
+      "diet_and_lifestyle": "This is a medical emergency-seek immediate hospital care. Once stabilized, introduce warm, easy-to-digest foods like congee with a pinch of ginger, and avoid all cold or raw items. Gentle moxibustion and keeping the body well-covered and warm are supportive.",
+      "formulas": [
+        {
+          "id": 14572,
+          "pattern_id": 6418,
+          "formula_name": "Hui Yang Jiu Ji Tang",
+          "formula_url": "/knowledge-base/formulas/hui-yang-jiu-ji-tang",
+          "translation": "Restore and Revive the Yang Decoction &#xB7; M&#xED;ng dynasty, 1445 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Qi and revives the pulse",
+          "description": "The core formula to rescue collapsed Yang, restore consciousness, and reverse the critical cold-shock state."
+        },
+        {
+          "id": 14573,
+          "pattern_id": 6418,
+          "formula_name": "Bai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-tang",
+          "translation": "White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids",
+          "description": "A powerful classical formula used to bring down high fever, relieve intense thirst, and restore body fluids when internal Heat has built up strongly in the body. It is one of the most important formulas in Chinese medicine for treating conditions with blazing fever, heavy sweating, and great thirst, such as severe infections, heatstroke, and certain inflammatory conditions."
+        },
+        {
+          "id": 14574,
+          "pattern_id": 6418,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "A classical formula that combines two well-known prescriptions to address digestive troubles caused by excessive internal dampness. It helps relieve bloating, watery diarrhea, poor appetite, and fluid retention by strengthening the Spleen&#x27;s ability to process fluids while promoting healthy urination. Especially useful when dampness causes both digestive upset and water retention at the same time."
+        },
+        {
+          "id": 14575,
+          "pattern_id": 6418,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "A classical formula used to clear heavy Phlegm that clouds the mind and blocks clear speech. It is primarily used when thick Phlegm obstructs the Heart&#x27;s orifices following stroke or similar conditions, causing a stiff tongue and difficulty speaking. The formula powerfully sweeps out Phlegm while also opening the sensory orifices and supporting the body&#x27;s underlying Qi."
+        },
+        {
+          "id": 14576,
+          "pattern_id": 6418,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 14577,
+          "pattern_id": 6418,
+          "formula_name": "Yu Nu Jian",
+          "formula_url": "/knowledge-base/formulas/yu-nu-jian",
+          "translation": "Jade Woman Decoction &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Cold, Clears Stomach Heat, Nourishes Kidney Yin, Drains Fire",
+          "description": "A classical formula that clears excess heat from the Stomach while nourishing Kidney Yin. It is commonly used for toothache, bleeding gums, headache, thirst, and other symptoms arising when Stomach fire burns upward and Kidney fluids are depleted. Often applied in modern practice for periodontitis, mouth ulcers, and diabetes with this underlying pattern."
+        },
+        {
+          "id": 14578,
+          "pattern_id": 6418,
+          "formula_name": "Zeng Ye Tang",
+          "formula_url": "/knowledge-base/formulas/zeng-ye-tang",
+          "translation": "Increase the Fluids Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Nourishes Yin and Generates Fluids, Moistens Dryness, Clears Heat",
+          "description": "A classical three-herb formula designed to replenish the body&#x27;s fluids and relieve constipation caused by internal dryness. It works by deeply moistening the intestines from within rather than using harsh laxatives, making it especially suited for dry, hard stools accompanied by thirst and a dry mouth following fevers or chronic dehydration."
+        },
+        {
+          "id": 14579,
+          "pattern_id": 6418,
+          "formula_name": "Hui Yang Jiu Ji Tang",
+          "formula_url": "/knowledge-base/formulas/hui-yang-jiu-ji-tang",
+          "translation": "Restore and Revive the Yang Decoction &#xB7; M&#xED;ng dynasty, 1445 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Qi and revives the pulse",
+          "description": "A powerful emergency formula used to restore the body&#x27;s warmth and vital functions when they are critically failing. It is designed for situations involving dangerously cold limbs, severe vomiting and diarrhea, a barely detectable or absent pulse, and extreme exhaustion. In modern practice, it is applied alongside standard medical care for conditions like shock, heart failure, and severe circulatory collapse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 33630,
+          "pattern_id": 6418,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms the middle burner and expels internal cold, supporting the revival of Yang."
+        },
+        {
+          "id": 33631,
+          "pattern_id": 6418,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the primal Qi to prevent complete collapse and support organ function."
+        },
+        {
+          "id": 33632,
+          "pattern_id": 6418,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 33633,
+          "pattern_id": 6418,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 33634,
+          "pattern_id": 6418,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 33635,
+          "pattern_id": 6418,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 33636,
+          "pattern_id": 6418,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 33637,
+          "pattern_id": 6418,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach",
+          "description": ""
+        },
+        {
+          "id": 33638,
+          "pattern_id": 6418,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 33639,
+          "pattern_id": 6418,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 33640,
+          "pattern_id": 6418,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 33641,
+          "pattern_id": 6418,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 33642,
+          "pattern_id": 6418,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        },
+        {
+          "id": 33643,
+          "pattern_id": 6418,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 22936,
+          "pattern_id": 6418,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxa on this point strongly warms and restores the body&#x27;s core Yang."
+        },
+        {
+          "id": 22937,
+          "pattern_id": 6418,
+          "acupoint_code": "REN-8",
+          "acupoint_name": "Shenque REN-8",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shenque-ren-8",
+          "translation": "Sh&#xE9;n Qu&#x113;",
+          "properties": "Warms and rescues the Yang, Strengthens the Spleen",
+          "description": "Moxa on the navel rescues Yang and reverses the collapse."
+        },
+        {
+          "id": 22938,
+          "pattern_id": 6418,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Directly tonifies the fire of the life gate to reignite the body&#x27;s vital warmth."
+        },
+        {
+          "id": 22939,
+          "pattern_id": 6418,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Used with moxa to raise clear Yang and restore consciousness."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 8470,
+      "condition_id": 1303,
+      "question": "Can acupuncture treat diabetic ketoacidosis?",
+      "answer": "No. DKA is a medical emergency that requires immediate hospital care with IV fluids and insulin. Acupuncture is not a treatment for acute DKA and should never delay emergency intervention. However, after the crisis has resolved, acupuncture can support long-term recovery by strengthening the Spleen, nourishing Yin, and helping to stabilize blood sugar patterns."
+    },
+    {
+      "id": 8471,
+      "condition_id": 1303,
+      "question": "Are there herbs that can help during a DKA episode?",
+      "answer": "In a hospital setting, certain TCM formulas like Bai Hu Tang (White Tiger Decoction) have been used alongside standard care to clear intense heat and replenish fluids. This must be done under strict medical supervision. Never attempt to treat DKA at home with herbs-it's too dangerous. The priority is always emergency medical treatment."
+    },
+    {
+      "id": 8472,
+      "condition_id": 1303,
+      "question": "Can TCM prevent DKA from happening again?",
+      "answer": "Yes, this is where TCM shines. After the acute episode, TCM works to correct the underlying patterns that made you vulnerable-typically chronic Yin deficiency, Spleen weakness, and latent heat. Through a combination of herbs, acupuncture, and dietary changes over several months, many patients find their diabetes becomes more stable and their risk of another crisis decreases."
+    },
+    {
+      "id": 8473,
+      "condition_id": 1303,
+      "question": "What does the fruity breath mean in TCM?",
+      "answer": "Fruity or acetone-smelling breath is a sign of severe Stomach and Lung heat in TCM. When internal heat rages out of control, it burns up fluids and produces a characteristic odor as the body's Qi and fluids are consumed. This corresponds to the Bright Yang Stomach Heat pattern and signals a dangerous level of heat that requires immediate cooling."
+    },
+    {
+      "id": 8474,
+      "condition_id": 1303,
+      "question": "How long does it take to recover from DKA with TCM support?",
+      "answer": "The acute phase resolves in hours to a couple of days with hospital treatment. TCM herbs used alongside can help ease thirst and nausea within the first 24-48 hours. Long-term constitutional rebuilding to prevent recurrence typically takes 3-6 months of consistent treatment, with weekly acupuncture and daily herbs."
+    },
+    {
+      "id": 8475,
+      "condition_id": 1303,
+      "question": "Is DKA always a medical emergency?",
+      "answer": "Yes. Even mild DKA can progress rapidly to life-threatening acidosis, coma, or death. If you have diabetes and experience symptoms like extreme thirst, vomiting, confusion, or rapid breathing, go to the emergency room immediately. TCM can complement your care afterward but cannot replace emergency intervention."
+    }
+  ],
+  "research": [
+    {
+      "id": 1920,
+      "condition_id": 1303,
+      "title": "Research progress on integrated traditional Chinese and Western medicine treatment of diabetic ketoacidosis",
+      "description": "This review summarizes TCM pattern differentiation and treatment principles for DKA, including the use of Bai Hu Tang for Bright Yang Stomach Heat, Di Tan Tang for Turbid Phlegm blocking the orifices, and Hui Yang Jiu Ji Tang for Collapse of Yang. It reports that integrated therapy may accelerate ketone clearance and improve clinical symptoms, but notes the need for higher-quality studies.",
+      "url": "http://www.cccm-em120.com/zhongxiyiguokan/31/630.pdf",
+      "periodical": "Author(s) unknown. 中西医结合治疗糖尿病酮症酸中毒的研究进展. Chinese Journal of Integrated Traditional and Western Medicine in Emergency Care (estimated). Year unknown."
+    }
+  ]
+}

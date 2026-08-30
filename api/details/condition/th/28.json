@@ -1,0 +1,810 @@
+{
+  "id": 28,
+  "name": "โรคเรื้อน",
+  "url": "/knowledge-base/conditions/leprosy",
+  "kind": "Condition",
+  "pinyin": "má fēng",
+  "chinese_name": "麻风",
+  "preview_text": "โรคเรื้อนใน TCM ไม่ใช่โรคเดียว แต่เป็นรูปแบบที่แตกต่างกันหกรูปแบบที่เกิดขึ้นตามระยะของการติดเชื้อ ในขณะที่ยาปฏิชีวนะทั่วไปฆ่าเชื้อแบคทีเรีย สมุนไพร TCM และการฝังเข็ม...",
+  "categories": "[\"โรคติดเชื้อ\", \"การติดเชื้อแบคทีเรีย\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Hansen's Disease\"]",
+  "conventional_description": "Leprosy (Hansen's disease) is a chronic infectious disease caused by the bacterium Mycobacterium leprae. It primarily affects the skin and peripheral nerves, but can also involve the eyes and upper respiratory tract. Typical symptoms include hypopigmented or reddish patches with loss of sensation, thickened nerves, muscle weakness, and over time, deformities in the hands, feet, and face if untreated.\nDiagnosis is made through a combination of clinical signs, skin biopsy, and slit-skin smear tests. The disease is curable with modern multi-drug therapy, but nerve damage that has already occurred may be permanent.",
+  "conventional_treatments": "Standard treatment for leprosy is multi-drug therapy (MDT), a combination of antibiotics-usually dapsone, rifampicin, and clofazimine-taken over 6 to 12 months or longer depending on the type of leprosy. During lepra reactions (acute inflammatory episodes), corticosteroids or other immunosuppressants are used to control inflammation and prevent further nerve damage. Surgery may be needed to correct deformities or protect damaged limbs.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, leprosy is considered a \"wind-disease\" (大风) caused by a special pathogenic factor called lì qì (疠气). This pestilential Qi enters the body through the skin and mucous membranes, particularly when your defensive Qi (Wei Qi) is weakened by overwork, poor diet, or emotional stress. Once inside, it lodges in the channels and collaterals-the network that connects your skin, muscles, and organs-and begins to obstruct the flow of Qi and Blood.\nThe initial stage often manifests as a Wind-Cold-Damp invasion. The lì qì mingles with external climatic factors, causing numbness, coldness, and wandering or fixed pain in the limbs. The channels become blocked, so Qi and Blood cannot reach the skin, leading to the pale, insensitive patches that are a hallmark of the disease.\nIn people with a strong constitution, however, the body may react fiercely, transforming the pathogen into Toxic-Heat. This results in red, hot, swollen nodules and plaques, sometimes with fever and thirst-an inflammatory battle that TCM treats by clearing Heat and detoxifying.\nAs the disease lingers, the obstruction thickens. Fluids stagnate and congeal into Phlegm, which creates firm, nodular swellings and thickened nerves. Blood flow becomes sluggish, leading to dark, painful patches and stabbing pain that worsens at night. Over years, the infection drains the body's Qi and Blood, causing fatigue, pale skin, and slow-healing ulcers.\nIn some cases, the chronic inflammation consumes Yin, creating a smoldering empty heat that causes burning ulcers, night sweats, and a red, dry tongue. Each of these six patterns-Wind-Cold-Damp, Toxic-Heat, Phlegm in the Channels, Blood Stagnation, Qi and Blood Deficiency, and Yin Deficiency with Empty Heat-requires a fundamentally different treatment approach.",
+  "classical_quote": "「疠者，有荣气热胕，其气不清，故使其鼻柱坏而色败，皮肤疡溃。」",
+  "classical_translation": "\"In leprosy, the nutritive Qi becomes hot and putrid, its Qi is not clear, therefore it causes the bridge of the nose to collapse and the complexion to deteriorate, and the skin to ulcerate.\"",
+  "classical_source": "Huang Di Nei Jing (Yellow Emperor's Inner Classic)  ,  Su Wen, Chapter 42 (Feng Lun - Discourse on Wind) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner first asks about the earliest sensations in the skin and limbs. If the story begins with numbness, a cold feeling, and wandering or fixed pain that worsens in damp or chilly weather, the picture points toward a Wind-Cold-Damp invasion. The tongue may show a thin white coat, and the pulse often feels floating or tight, confirming that external pathogens are lodged in the channels and collaterals.\nWhen the skin erupts into multiple red, warm nodules and plaques, the focus shifts to Toxic-Heat Stagnation. The practitioner looks for signs of heat - thirst, a yellow tongue coating, and a rapid, slippery pulse. Unlike the cold pattern, these lesions feel hot and may appear suddenly, signaling that toxic heat is simmering in the flesh and needs to be cleared quickly.\nAs nerves become visibly thickened and lumps feel firm but not particularly hot, the underlying mechanism is often Phlegm in the Channels. The tongue may be puffy with a greasy coat, and the pulse tends to be slippery. The key clue is a sense of heaviness and the doughy, non‑inflamed quality of the lumps, which tells the practitioner that stagnant fluids have congealed into Phlegm obstructing the meridians.\nIf dark red or purple patches appear and pain becomes sharp and fixed, Blood Stagnation is driving the picture. The tongue may show purple spots, and the pulse often feels choppy or wiry. The color change and the severity of the pain are the main signals that blood is no longer moving freely through the smallest vessels, leading to tissue damage and ulceration.\nAfter a long illness, when the skin turns pale, wounds heal slowly, and the person feels drained, Qi and Blood Deficiency takes center stage. The tongue is pale with a thin white coat, and the pulse is weak and thready. Here the body’s resources are depleted, so the focus is on the lack of vitality rather than on active inflammation or obstruction.\nIn advanced or smoldering cases, a practitioner may notice painful ulcers, a sensation of heat at night, and a dry mouth. This points to Empty‑Heat caused by Yin Deficiency. The tongue becomes red with little or no coating, and the pulse is thready and rapid. The heat is not from an outside invader but from a lack of cooling Yin, so the treatment approach shifts to nourishing and moistening.",
+  "patterns": [
+    {
+      "id": 136,
+      "condition_id": 28,
+      "pattern_name": "Wind-Cold-Damp",
+      "pattern_slug": "wind-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Numbness or tingling in limbs\", \"Joint and muscle pain worse in cold or damp\", \"Heaviness and stiffness of limbs\", \"Aversion to cold and wind\", \"Pain improves with warmth\", \"Wandering joint pain\"]",
+      "worse_with": "Exposure to cold or damp, Cold or raw foods, Prolonged inactivity, Wind exposure",
+      "better_with": "Warmth, Gentle movement, Dry weather, Hot drinks and soups, Rest",
+      "why_this_happens": "In early leprosy, the contagious li qi (疠气, pestilential Qi) combines with external Wind, Cold and Damp, invading the body when your defensive Qi is weak. These pathogens lodge in the skin, muscles and channels, blocking the flow of Qi and Blood. This obstruction creates the characteristic numbness, cold aching pain and heavy stiffness in the limbs-much like a severe Painful Obstruction (Bi) syndrome.",
+      "tongue_and_pulse": "Tongue: pale or slightly swollen body with a white greasy coating and a moist surface. Pulse: moderate (Huan) or slow, often tight (Jin); may be floating (Fu) or soggy (Ru).",
+      "why_triggers_reliefs_work": "Wind, Cold and Damp are the pathogens that obstruct the channels and cause pain, numbness and stiffness. Warmth and gentle movement promote the flow of Qi and Blood, helping to break through that obstruction. Cold, damp and inactivity encourage the pathogens to settle deeper, worsening the stagnation. Keeping dry and warm supports the body's own ability to expel the invading factors.",
+      "diet_and_lifestyle": "Keep the body warm and dry; avoid cold, raw foods and icy drinks. Gentle daily movement like walking or stretching helps Qi and Blood circulate. Warm soups with ginger, cinnamon or black pepper can support the channels. Protect skin from wind and damp with appropriate clothing.",
+      "formulas": [
+        {
+          "id": 293,
+          "pattern_id": 136,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "The primary formula to expel Wind-Cold-Damp, warm the channels and relieve pain in the limbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 697,
+          "pattern_id": 136,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and dispels Cold, easing stiffness and cold pain."
+        },
+        {
+          "id": 698,
+          "pattern_id": 136,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "",
+          "description": "Expels Wind-Damp and alleviates wandering pain and numbness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 454,
+          "pattern_id": 136,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels Wind-Cold and relieves limb pain and numbness."
+        },
+        {
+          "id": 455,
+          "pattern_id": 136,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen Qi to transform Dampness and support the channels."
+        },
+        {
+          "id": 456,
+          "pattern_id": 136,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Unblocks the channels and expels external Wind-Cold-Damp."
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "condition_id": 28,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "pattern_slug": "toxic-heat-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Red, swollen, hot nodules or plaques\", \"Pus discharge or abscess formation\", \"High fever\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine or constipation\"]",
+      "worse_with": "Greasy, fried, or spicy foods, Alcohol and coffee, Hot weather, Anger or frustration",
+      "better_with": "Cold drinks, Cool environment, Rest, Gentle cleansing of skin",
+      "why_this_happens": "In leprosy, the leprous toxin (疠气, lì qì) is a virulent Heat pathogen. When it invades a person with a strong constitution, it can trigger an intense inflammatory response. This Toxic-Heat accumulates in the skin and flesh, causing the red, swollen, hot nodules and plaques that are the hallmark of the lepromatous form. As the Heat deepens, it damages Blood and flesh, leading to abscesses and pus discharge.",
+      "tongue_and_pulse": "Tongue: deep red or crimson, prickly papillae, thick dry yellow coating. Pulse: rapid (shu) and forceful (shi), may be overflowing (hong).",
+      "why_triggers_reliefs_work": "Toxic-Heat is an excess Heat pattern. Spicy, greasy foods and alcohol generate internal Heat and add Toxin, while anger stirs up Liver Fire, which can worsen skin inflammation. Cold drinks and a cool environment help to clear Heat and protect body fluids, while rest conserves Qi and prevents further Heat generation. Gentle cleansing removes external irritants without aggravating the lesions.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods that add Heat to the body. Eat cooling foods like cucumber, watermelon, and mung beans. Drink plenty of water to help flush out Toxins. Keep the skin clean and avoid overheating or intense sun exposure.",
+      "formulas": [
+        {
+          "id": 294,
+          "pattern_id": 137,
+          "formula_name": "Xie Xin Tang",
+          "formula_url": "/knowledge-base/formulas/xie-xin-tang",
+          "translation": "Drain the Epigastrium Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Purges Fire and Resolves Toxicity, Clears Heat from the Three Burners, Cools the Blood and Stops Bleeding",
+          "description": "A classic formula using bitter cold herbs to purge Toxic-Heat from the body, especially useful when nodules are red and painful."
+        },
+        {
+          "id": 295,
+          "pattern_id": 137,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "A powerful formula to clear Heat and resolve Toxin from both the Qi and Blood levels, indicated for high fever, severe skin lesions, and pus formation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 699,
+          "pattern_id": 137,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heat and resolves Toxin, targeting painful, inflamed skin lesions."
+        },
+        {
+          "id": 700,
+          "pattern_id": 137,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, reducing swelling and redness."
+        },
+        {
+          "id": 701,
+          "pattern_id": 137,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges Heat and Toxins through the bowels, cooling the Blood and reducing abscess formation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 457,
+          "pattern_id": 137,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears Heat and relieves toxicity, especially useful for skin lesions on the face and upper body."
+        },
+        {
+          "id": 458,
+          "pattern_id": 137,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools Blood, a key point for red, swollen, hot skin conditions."
+        },
+        {
+          "id": 459,
+          "pattern_id": 137,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Drains Stomach Heat and calms inflammation, helping to reduce painful nodules."
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "condition_id": 28,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "pattern_slug": "phlegm-in-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Firm joint swelling that feels hard to the touch\", \"Hard lumps or nodules under the skin\", \"Purplish discolouration of the skin around affected joints\", \"Stubborn numbness or heavy sensation in the limbs\", \"Fixed stabbing pain in the joints or muscles\", \"Chest tightness and excessive phlegm or mucus\"]",
+      "worse_with": "Damp or humid environment, Greasy, fried, or spicy foods, Prolonged inactivity",
+      "better_with": "Warm, dry climate, Moderate daily exercise, Light, cooked meals with ginger",
+      "why_this_happens": "In leprosy, the lingering infection gradually transforms into Phlegm and Dampness that lodge in the channels and collaterals. This Phlegm congeals into firm nodules and thickens the nerves, creating a heavy, numb sensation. Over time the obstruction also traps Blood, leading to stabbing pain and purplish discolouration around the joints.",
+      "tongue_and_pulse": "Tongue: purple body with stasis spots, white greasy coating, and distended sublingual veins. Pulse: wiry (Xián) and choppy (Sè), or wiry and slippery (Huá) if Phlegm predominates.",
+      "why_triggers_reliefs_work": "Phlegm forms when the Spleen is overwhelmed by Dampness. Greasy foods and damp surroundings add to that burden, making Phlegm thicker and numbness worse. Warmth and movement help the Spleen transform Dampness, while ginger and light meals reduce the raw material for Phlegm, so the channels stay clearer.",
+      "diet_and_lifestyle": "Avoid damp-producing foods like dairy, greasy meals, and sugar, which thicken Phlegm. Eat warm, cooked dishes with radish, barley, and ginger to help dissolve Phlegm. Gentle daily movement - walking or stretching - keeps Qi flowing and prevents further stagnation.",
+      "formulas": [
+        {
+          "id": 296,
+          "pattern_id": 138,
+          "formula_name": "Xiao Huo Luo Dan",
+          "formula_url": "/knowledge-base/formulas/xiao-huo-luo-dan",
+          "translation": "Minor Collateral-Activating Elixir &#xB7; S&#xF2;ng dynasty, ~1078-1151 CE",
+          "properties": "Warm, Disperses Wind-Cold, Drains Dampness, Transforms Phlegm and unblocks the collaterals",
+          "description": "Invigorates the collaterals, transforms Phlegm, and dispels Blood Stasis - ideal for hard nodules and nerve thickening."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 702,
+          "pattern_id": 138,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "",
+          "description": "Warms the channels and dissolves stubborn Phlegm nodules in the joints and muscles."
+        },
+        {
+          "id": 703,
+          "pattern_id": 138,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, reducing the heavy, numb sensation."
+        },
+        {
+          "id": 704,
+          "pattern_id": 138,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Invigorates Blood and promotes Qi flow to relieve stabbing pain and purplish discolouration."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 460,
+          "pattern_id": 138,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform Phlegm and clear the channels."
+        },
+        {
+          "id": 461,
+          "pattern_id": 138,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Invigorates Blood and resolves Dampness to support Phlegm clearance."
+        },
+        {
+          "id": 462,
+          "pattern_id": 138,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Activates Blood circulation and helps reduce stasis-related pain and discolouration."
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "condition_id": 28,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain that worsens at night\", \"Dark red or purple skin patches, possibly ulcerated\", \"Hard lumps or nodules under the skin\", \"Pain worse with pressure\"]",
+      "worse_with": "Cold weather, Prolonged inactivity, Emotional stress, Cold or raw foods, Nighttime (pain intensifies)",
+      "better_with": "Warmth, Gentle movement, Eating warming spices (turmeric, ginger), Massage",
+      "why_this_happens": "In leprosy, the disease pathogen (疠气, lì qì) invades the channels and collaterals, causing a chronic obstruction of Qi and Blood flow. Over time, this stagnation deepens into Blood Stasis, where Blood congeals and fails to nourish the skin and nerves. This leads to the characteristic dark, purple skin patches, fixed stabbing pain, and hard lumps or nodules that define this pattern.",
+      "tongue_and_pulse": "Tongue: Purple or dusky body with possible stasis spots, distended dark sublingual veins, thin white coat. Pulse: Choppy (涩, sè) or wiry (弦, xián).",
+      "why_triggers_reliefs_work": "Blood Stagnation is like a frozen river - cold congeals and slows flow, while warmth and movement promote circulation. Stress constrains Liver Qi, which further stagnates Blood. Nighttime is Yin time, when Blood flow naturally slows, so pain intensifies. Gentle exercise, massage, and warming foods help break up stasis and restore smooth flow.",
+      "diet_and_lifestyle": "Eat warming, blood-moving foods like turmeric, ginger, black beans, and dark leafy greens. Avoid cold, raw foods and icy drinks that congeal Blood. Gentle daily exercise such as walking or Tai Chi helps keep circulation moving. Massage of the affected areas can also help disperse local stasis.",
+      "formulas": [
+        {
+          "id": 297,
+          "pattern_id": 139,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "Invigorates Blood, removes Stasis, and unblocks the channels to relieve pain and heal skin lesions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 705,
+          "pattern_id": 139,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and promotes healing of dark lesions."
+        },
+        {
+          "id": 706,
+          "pattern_id": 139,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates Blood circulation and reduces stabbing pain."
+        },
+        {
+          "id": 707,
+          "pattern_id": 139,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves Blood in the head and skin, alleviating fixed pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 463,
+          "pattern_id": 139,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood point, directly invigorates Blood and resolves stasis."
+        },
+        {
+          "id": 464,
+          "pattern_id": 139,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point of Blood, used to regulate and move stagnant Blood."
+        },
+        {
+          "id": 465,
+          "pattern_id": 139,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "With Hegu, opens the Four Gates to promote Qi and Blood circulation."
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "condition_id": 28,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Pale, poorly healing skin lesions\", \"Persistent fatigue and weakness\", \"Numbness or tingling in the limbs\", \"Sallow complexion and pale lips\", \"Dizziness or heart palpitations\"]",
+      "worse_with": "Overwork and late nights, Skipping meals or irregular eating, Exposure to cold or damp, Emotional stress",
+      "better_with": "Rest, Warm, nourishing meals, Gentle movement, Warmth, Stress reduction",
+      "why_this_happens": "Leprosy is a long, draining illness. Over time the infection consumes the body's Qi and Blood, the two most fundamental substances for energy and nourishment. When Qi is too weak to move and protect, and Blood is too scanty to moisten the skin and tissues, the characteristic pale, numb, slow-healing lesions emerge and the whole person feels depleted.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine (thin), weak, and may feel empty.",
+      "why_triggers_reliefs_work": "Qi and Blood are the body's fuel and moisture. Overwork, poor eating, and emotional strain all consume them further, deepening the fatigue and numbness. Rest, warm nourishing food, and gentle movement help the Spleen generate fresh Qi and Blood. Cold and damp block the channels and worsen the numbness, so warmth keeps circulation moving and the limbs more comfortable.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congees with lean meats, dark leafy greens, dates, and goji berries. Avoid raw, cold foods that tax the Spleen. Gentle daily movement such as walking or Tai Chi helps Qi flow without draining energy. Prioritize rest and sleep to allow the body to rebuild.",
+      "formulas": [
+        {
+          "id": 298,
+          "pattern_id": 140,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, strengthening the body&#x27;s foundation to promote skin healing and restore energy."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 708,
+          "pattern_id": 140,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and gently invigorates circulation, improving skin nourishment and reducing numbness."
+        },
+        {
+          "id": 709,
+          "pattern_id": 140,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi powerfully, boosting energy and supporting tissue repair."
+        },
+        {
+          "id": 710,
+          "pattern_id": 140,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to generate Qi and Blood from food, addressing the root of the deficiency."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 466,
+          "pattern_id": 140,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood, strengthens the Spleen and Stomach to support recovery."
+        },
+        {
+          "id": 467,
+          "pattern_id": 140,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen, Liver, and Kidney to improve skin and nerve health."
+        },
+        {
+          "id": 468,
+          "pattern_id": 140,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonifies original Qi to lift overall vitality."
+        },
+        {
+          "id": 469,
+          "pattern_id": 140,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates Blood and addresses skin issues rooted in Blood deficiency."
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "condition_id": 28,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Burning, painful ulcers that worsen at night\", \"Afternoon or evening low-grade fever (tidal heat)\", \"Heat sensation in the palms, soles, and chest\", \"Dry mouth and throat with desire to sip water\", \"Flushed cheekbones (malar flush)\", \"Restlessness and difficulty sleeping\"]",
+      "worse_with": "Greasy, fried, or spicy foods, Alcohol and coffee, Overwork and late nights, Emotional stress",
+      "better_with": "Cool environment, Rest, Cooling, moistening foods",
+      "why_this_happens": "Leprosy is a long, draining illness. Over months or years, the chronic inflammation and tissue damage consume the body's deep Yin reserves-the cooling, moistening foundation. When Yin becomes deficient, it can no longer anchor the body's warming Yang, and a low-grade, smoldering 'empty heat' rises upward like steam from a drying pot.\nThis empty heat flares especially at night, when Yin should be dominant. It makes existing skin ulcers burn and ache, dries the mouth and throat, and disturbs the mind with restlessness and insomnia. The tongue becomes red, thin, and cracked, mirroring the internal dryness.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with cracks, little or no coating. Pulse: fine (thin) and rapid.",
+      "why_triggers_reliefs_work": "Empty heat arises because Yin is too weak to hold the body's yang in check. Anything that further dries or heats the body-spicy food, alcohol, overwork, or emotional strain-adds fuel to this empty fire. Rest, a cool environment, and moistening foods help rebuild Yin and gently cool the fire, bringing relief.",
+      "diet_and_lifestyle": "Eat cooling, moistening foods like pear, lily bulb, tofu, mung beans, and cucumber. Avoid spicy, fried, or drying foods, and strictly limit alcohol and coffee. Prioritize rest, especially in the evening, and avoid overwork or late nights, which further consume Yin.",
+      "formulas": [
+        {
+          "id": 299,
+          "pattern_id": 141,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "The primary formula to nourish Yin and clear deficiency heat, cooling the empty fire that aggravates ulcers."
+        },
+        {
+          "id": 300,
+          "pattern_id": 141,
+          "formula_name": "Qing Hao Bie Jia Tang",
+          "formula_url": "/knowledge-base/formulas/qing-hao-bie-jia-tang",
+          "translation": "Artemisia and Turtle Shell Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Vents Pathogenic Heat Outward",
+          "description": "Used when night fever is prominent; it gently clears deficiency heat from the deeper Yin level."
+        },
+        {
+          "id": 301,
+          "pattern_id": 141,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "A classical formula used to relieve joint and muscle pain, stiffness, and numbness caused by Wind, Cold, and Dampness, especially when the body&#x27;s own defensive and nourishing functions are weakened. It is particularly well suited for pain and tightness in the neck, shoulders, arms, and upper body that worsens in cold or damp weather."
+        },
+        {
+          "id": 302,
+          "pattern_id": 141,
+          "formula_name": "Xie Xin Tang",
+          "formula_url": "/knowledge-base/formulas/xie-xin-tang",
+          "translation": "Drain the Epigastrium Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Purges Fire and Resolves Toxicity, Clears Heat from the Three Burners, Cools the Blood and Stops Bleeding",
+          "description": "A powerful three-herb formula used to clear intense internal Heat from all three Burners of the body. It is classically used for bleeding caused by Heat forcing the Blood out of its vessels (such as nosebleeds or vomiting blood), as well as for conditions like mouth sores, red swollen eyes, irritability, and constipation driven by excess Fire."
+        },
+        {
+          "id": 303,
+          "pattern_id": 141,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "A powerful Heat-clearing formula used for severe epidemic febrile diseases where intense Heat and toxic pathogens have invaded both the Qi and Blood levels of the body. It addresses dangerously high fever, delirium, skin rashes, and bleeding by simultaneously cooling the blood and draining fire. This is an emergency formula for critical, life-threatening heat conditions and is not intended for mild or cold-type illnesses."
+        },
+        {
+          "id": 304,
+          "pattern_id": 141,
+          "formula_name": "Xiao Huo Luo Dan",
+          "formula_url": "/knowledge-base/formulas/xiao-huo-luo-dan",
+          "translation": "Minor Collateral-Activating Elixir &#xB7; S&#xF2;ng dynasty, ~1078-1151 CE",
+          "properties": "Warm, Disperses Wind-Cold, Drains Dampness, Transforms Phlegm and unblocks the collaterals",
+          "description": "A powerful classical formula used to relieve joint and muscle pain, numbness, and stiffness caused by Wind, Cold, and Dampness lodged in the body&#x27;s channels. It warms the channels, dissolves phlegm blockages, and promotes blood circulation to restore movement. Traditionally used for chronic arthritis, frozen shoulder, and lingering weakness after stroke."
+        },
+        {
+          "id": 305,
+          "pattern_id": 141,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 306,
+          "pattern_id": 141,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 307,
+          "pattern_id": 141,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 308,
+          "pattern_id": 141,
+          "formula_name": "Qing Hao Bie Jia Tang",
+          "formula_url": "/knowledge-base/formulas/qing-hao-bie-jia-tang",
+          "translation": "Artemisia and Turtle Shell Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Vents Pathogenic Heat Outward",
+          "description": "A classical formula for lingering low-grade fevers that come on at night and ease by morning, especially after a prolonged illness. It works by nourishing the body&#x27;s depleted fluids (Yin) while gently venting trapped heat outward, addressing the root cause of the fever rather than just suppressing symptoms."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 711,
+          "pattern_id": 141,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Anemarrhena clears empty heat and generates fluids to relieve dry mouth and throat."
+        },
+        {
+          "id": 712,
+          "pattern_id": 141,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Moutan cools the blood and clears deficiency fire without injuring Yin."
+        },
+        {
+          "id": 713,
+          "pattern_id": 141,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 714,
+          "pattern_id": 141,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Dispels Wind-Dampness, Relieves Painful Obstruction",
+          "description": ""
+        },
+        {
+          "id": 715,
+          "pattern_id": 141,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 716,
+          "pattern_id": 141,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 717,
+          "pattern_id": 141,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 718,
+          "pattern_id": 141,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "Warm, Warms the Lungs and Transforms Phlegm-Fluids, Moves Qi and Dissipates Nodules, Unblocks the Channels and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 719,
+          "pattern_id": 141,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 720,
+          "pattern_id": 141,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 721,
+          "pattern_id": 141,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 722,
+          "pattern_id": 141,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 723,
+          "pattern_id": 141,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 724,
+          "pattern_id": 141,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 725,
+          "pattern_id": 141,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 726,
+          "pattern_id": 141,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 727,
+          "pattern_id": 141,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 470,
+          "pattern_id": 141,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel; tonifies Kidney Yin to anchor the empty fire."
+        },
+        {
+          "id": 471,
+          "pattern_id": 141,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and blood, supports the Spleen to generate fluids, and calms the mind."
+        },
+        {
+          "id": 472,
+          "pattern_id": 141,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Clears deficiency heat, moistens the throat, and benefits the Yin heel vessel."
+        },
+        {
+          "id": 473,
+          "pattern_id": 141,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Shen (spirit) to ease restlessness and improve sleep."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 172,
+      "condition_id": 28,
+      "question": "Can TCM cure leprosy?",
+      "answer": "TCM does not replace antibiotic treatment for leprosy. Antibiotics are essential to kill the bacteria and prevent transmission. TCM works alongside conventional treatment to manage symptoms, reduce nerve damage, calm lepra reactions, and rebuild the body's strength. The goal is to support your recovery and improve quality of life, not to replace MDT."
+    },
+    {
+      "id": 173,
+      "condition_id": 28,
+      "question": "How does acupuncture help with leprosy symptoms?",
+      "answer": "Acupuncture can stimulate nerve regeneration, reduce pain, and improve circulation in affected limbs. Points like Hegu (LI-4) and Quchi (LI-11) clear heat and promote skin healing, while Zusanli (ST-36) and Sanyinjiao (SP-6) strengthen the body's overall Qi and Blood. Local points around numb or painful areas are also used to directly target the obstruction. Many patients report a gradual improvement in sensation and a reduction in the heaviness or coldness of the limbs."
+    },
+    {
+      "id": 174,
+      "condition_id": 28,
+      "question": "Is it safe to take Chinese herbs with my leprosy medication?",
+      "answer": "Generally, yes, but you must always inform both your TCM practitioner and your prescribing doctor. Some herbs, especially those that clear heat or move blood, can interact with anti-inflammatory drugs or affect liver function. Regular blood tests may be recommended to monitor for any interactions. Never stop your antibiotics or change your MDT regimen without consulting your doctor."
+    },
+    {
+      "id": 175,
+      "condition_id": 28,
+      "question": "How long until I see improvement in numbness?",
+      "answer": "Numbness from nerve damage can be stubborn. Some patients notice subtle changes in sensation-like a return of temperature awareness or a tingling-within 4-6 weeks of acupuncture and herbs. Significant recovery may take 3-6 months or longer, depending on the extent of damage. Patience and consistency are essential, and even partial improvement can greatly enhance daily function."
+    },
+    {
+      "id": 176,
+      "condition_id": 28,
+      "question": "What diet should I follow?",
+      "answer": "Avoid cold, raw, and greasy foods that create Dampness and can worsen numbness and swelling. Favor warm, cooked meals that are easy to digest. Foods that nourish Qi and Blood-like bone broth, dates, dark leafy greens, and small amounts of lean meat-are helpful. Ginger and turmeric have natural anti-inflammatory properties and can be added to cooking. Stay hydrated and limit alcohol, which can aggravate Heat and inflammation."
+    },
+    {
+      "id": 177,
+      "condition_id": 28,
+      "question": "Can TCM prevent leprosy deformities?",
+      "answer": "By improving circulation and nerve function early in the disease, TCM may help slow the progression of deformities. However, it cannot reverse established bone changes or contractures. The best outcome comes from starting TCM as soon as possible after diagnosis, alongside MDT and good self-care, to protect the limbs and preserve function."
+    },
+    {
+      "id": 178,
+      "condition_id": 28,
+      "question": "Are there any exercises I can do?",
+      "answer": "Gentle movement like Tai Chi or Qi Gong can support circulation, maintain joint mobility, and prevent stiffness without overstraining damaged nerves. Avoid high-impact activities that could injure numb feet or hands. A physiotherapist or TCM practitioner can guide you on safe exercises tailored to your condition."
+    }
+  ],
+  "research": []
+}

@@ -1,0 +1,531 @@
+{
+  "id": 338,
+  "name": "Orchitis",
+  "url": "/knowledge-base/conditions/orchitis",
+  "kind": "Condition",
+  "pinyin": "zǐ yōng",
+  "chinese_name": "子痈",
+  "preview_text": "The sharp, hot pain of acute orchitis and the dull, cold ache of chronic orchitis are not the same disease - they are different patterns with different treatments, and TCM tailors ...",
+  "categories": "[\"Testicular & Scrotal Problems\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Inflamed Testicles\", \"Testicular Inflammation\", \"testicular swelling and pain\"]",
+  "conventional_description": "Orchitis is inflammation of one or both testicles, most often caused by a bacterial infection - including sexually transmitted infections - or by the mumps virus. The main symptoms are testicular pain, swelling, redness, and a feeling of heaviness, sometimes accompanied by fever, nausea, and discharge. Diagnosis typically involves a physical exam, urine tests, ultrasound to rule out torsion, and sometimes blood work. Treatment focuses on the underlying cause, usually with antibiotics for bacterial cases or supportive care for viral orchitis.",
+  "conventional_treatments": "Standard Western treatment depends on the cause. Bacterial orchitis is treated with antibiotics and may include anti-inflammatory medications for pain and swelling. Viral orchitis, such as that following mumps, is managed with rest, scrotal elevation, cold compresses, and pain relievers. In all cases, supportive measures like wearing supportive underwear and avoiding heavy lifting are recommended.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands orchitis primarily through the Liver channel, which wraps around the genitals. When Damp-Heat accumulates in this channel - often from a diet rich in greasy, spicy foods and alcohol, or from external damp-heat invasion - it pours downward into the scrotum. The Heat causes redness, swelling, and a burning sensation, while the Dampness creates heaviness and can lead to a thick, yellow tongue coating. This is the classic acute pattern of Damp-Heat in the Liver Channel.\nA separate acute pathway involves Toxic-Heat. When an epidemic toxin, such as the virus that causes mumps, invades the body, it can travel through the channels and settle in the testicles. This creates intense inflammation with high fever and a red, dry tongue. The body's defensive Qi is overwhelmed by a virulent external pathogen, and the treatment principle is to clear the toxin and cool the blood.\nWhen orchitis becomes chronic, the picture shifts. Persistent emotional stress or frustration can cause Liver Qi to stagnate. This stuck Qi fails to move fluids, which condense into phlegm. The phlegm and stagnant Qi then congeal in the epididymis into a hard, mildly painful nodule - the Qi-Phlegm pattern.\nIn other cases, a deeper deficiency of Kidney Yang leaves the lower body without its internal warmth, allowing cold to settle in the genitals. This leads to a chronic, dull ache that feels cold and is relieved by warmth, accompanied by fatigue and lower back soreness. Because the Kidney Yang is the root of the body's warming fire, this pattern requires long-term rebuilding.",
+  "classical_quote": "「湿热下注，结于阴囊，则为子痈，红肿热痛。」",
+  "classical_translation": "\"When damp-heat pours downward and accumulates in the scrotum, it causes testicular swelling, redness, heat, and pain.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (General Treatise on the Causes and Symptoms of Diseases)  ,  Volume 50 (Male Disorders) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first asks about the onset and quality of the pain. Acute, hot, and swollen testicles that flare up suddenly point toward the two acute patterns - Damp-Heat in the Liver Channel or Toxic-Heat. The tongue and pulse then help distinguish them.\nIf there is pronounced redness, a heavy sensation, and a thick yellow greasy tongue coating with a slippery rapid pulse, the diagnosis is Damp-Heat in the Liver Channel. This pattern often arises from dietary indulgence or external dampness, and the heat is palpable.\nWhen symptoms follow a case of mumps (epidemic parotitis) and come with high fever and a rapid pulse, the practitioner suspects Toxic-Heat. Here the tongue may be red with a yellow coat, but the key clue is the recent viral illness and the severity of the systemic fever.\nFor chronic orchitis, a hard nodule in the epididymis with only mild discomfort and a wiry slippery pulse suggests Qi-Phlegm. In contrast, if the pain is dull, worsens in cold weather, and the person feels generally cold with a pale tongue and deep thready pulse, the pattern is Kidney Yang Deficiency.",
+  "patterns": [
+    {
+      "id": 1668,
+      "condition_id": 338,
+      "pattern_name": "Damp-Heat in the Liver Channel",
+      "pattern_slug": "damp-heat-in-the-liver-channel",
+      "is_common": 0,
+      "symptoms": "[\"Sudden testicular swelling, redness, and burning pain\", \"Bitter taste in the mouth\", \"Dark, scanty urine or painful urination\", \"Yellow greasy tongue coating\", \"Feeling of heaviness in the scrotum\"]",
+      "worse_with": "Spicy, greasy, fried foods, Alcohol, Hot, humid weather, Anger and frustration, Sexual activity",
+      "better_with": "Cold compresses, Rest and scrotal elevation, Cooling foods (watermelon, mung beans), Drinking plenty of water, Avoiding alcohol and spices",
+      "why_this_happens": "The Liver channel wraps around the genitals. When Damp-Heat accumulates in this channel, often from a diet rich in greasy, spicy foods and alcohol, or from external damp-heat invasion, it pours downward into the scrotum. The Heat causes redness, swelling, and a burning sensation, while the Dampness adds heaviness and can lead to oozing or a feeling of wetness. The stagnation of Qi and Blood in the channel results in sharp pain.",
+      "tongue_and_pulse": "Tongue: red body with redder sides, thick yellow greasy coating at centre and root. Pulse: wiry, slippery, and rapid.",
+      "why_triggers_reliefs_work": "Spicy, greasy foods and alcohol directly create Damp-Heat in the body, which pours into the Liver channel and inflames the testicles. Anger and frustration stagnate Liver Qi, which quickly turns into Heat, adding fuel to the fire. Cold compresses and cooling foods counteract the Heat, while rest allows the body's Qi to focus on clearing the pathogen. Drinking water and eating damp-draining foods help flush Dampness out through urination, relieving the heaviness and swelling.",
+      "diet_and_lifestyle": "Avoid alcohol, spicy, greasy, and fried foods completely during the acute phase, as these generate Damp-Heat. Eat cooling, damp-draining foods like mung beans, watermelon, cucumber, and celery. Drink plenty of water to help flush the system. Rest with the scrotum elevated and apply cold compresses to reduce swelling. Avoid sexual activity until the inflammation subsides.",
+      "formulas": [
+        {
+          "id": 3860,
+          "pattern_id": 1668,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "The classic formula to clear Damp-Heat from the Liver and Gallbladder channels, reducing inflammation and pain in the genitals."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 8876,
+          "pattern_id": 1668,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "",
+          "description": "Clears Damp-Heat from the Liver and Gallbladder, drains fire, and is the chief herb for this pattern."
+        },
+        {
+          "id": 8877,
+          "pattern_id": 1668,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, targeting the upper and middle burners but also aiding the Liver channel."
+        },
+        {
+          "id": 8878,
+          "pattern_id": 1668,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears Heat, drains Dampness, and guides fire downward through the urine."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 6022,
+          "pattern_id": 1668,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The source point of the Liver channel; subdues Liver Yang, clears Liver fire, and regulates Qi to relieve pain."
+        },
+        {
+          "id": 6023,
+          "pattern_id": 1668,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "The fire point of the Liver channel; specifically clears Liver fire and drains Damp-Heat from the lower body."
+        },
+        {
+          "id": 6024,
+          "pattern_id": 1668,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The sea point of the Spleen channel; powerfully drains Dampness from the lower Jiao."
+        }
+      ]
+    },
+    {
+      "id": 1669,
+      "condition_id": 338,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"Severe burning pain in the testicles\", \"Sudden onset following mumps or high fever\", \"High fever, intense thirst, and irritability\", \"Red, hot, swollen scrotum\", \"Dry mouth and throat, dark scanty urine\"]",
+      "worse_with": "Spicy or greasy food, Alcohol, Hot weather or hot baths, Physical exertion, Stress or anger",
+      "better_with": "Cold compress, Rest, Cooling foods (e.g., mung bean soup), Plenty of fluids, Loose, cool clothing",
+      "why_this_happens": "When an epidemic toxin-such as the one that causes mumps-invades the body, it can travel through the channels and settle in the testicles. This toxic heat creates intense inflammation, leading to sudden, severe swelling, redness, heat, and pain. The body responds with a high fever as it fights the toxin.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns and a dry yellow coating. Pulse: rapid and forceful.",
+      "why_triggers_reliefs_work": "Toxic heat is a fiery pathogen that flares with anything that adds heat to the body-spicy food, alcohol, hot environments, and emotional stress all stir up internal fire. Cooling measures, rest, and clear fluids help drain the excess heat and soothe the inflammation.",
+      "diet_and_lifestyle": "Rest in a cool environment and apply cold compresses to the scrotum to reduce heat and swelling. Avoid spicy, greasy, or heating foods. Drink plenty of cooling fluids like chrysanthemum tea or mung bean soup.",
+      "formulas": [
+        {
+          "id": 3861,
+          "pattern_id": 1669,
+          "formula_name": "Pu Ji Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/pu-ji-xiao-du-yin",
+          "translation": "Universal Benefit Drink to Eliminate Toxin &#xB7; J&#x12B;n dynasty, 1202 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Disperses Swelling and Dissipates Nodules",
+          "description": "The classic formula for epidemic toxic heat, especially when orchitis follows mumps; it clears heat and resolves toxin."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 8879,
+          "pattern_id": 1669,
+          "herb_name": "Ban Lan Gen",
+          "herb_url": "/knowledge-base/herbs/ban-lan-gen",
+          "translation": "Isatis root",
+          "properties": "",
+          "description": "Clears epidemic toxin and is especially effective for mumps-related inflammation."
+        },
+        {
+          "id": 8880,
+          "pattern_id": 1669,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat, resolves toxin, and reduces swelling."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 6025,
+          "pattern_id": 1669,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and cools the blood to bring down fever and local inflammation."
+        },
+        {
+          "id": 6026,
+          "pattern_id": 1669,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Relieves pain and clears heat throughout the body."
+        },
+        {
+          "id": 6027,
+          "pattern_id": 1669,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and resolves toxin, especially for hot, swollen skin or tissues."
+        }
+      ]
+    },
+    {
+      "id": 1670,
+      "condition_id": 338,
+      "pattern_name": "Qi-Phlegm",
+      "pattern_slug": "qi-phlegm",
+      "is_common": 0,
+      "symptoms": "[\"Hard, fixed nodule in the epididymis\", \"Mild, dull testicular pain\", \"Pain and nodule size fluctuate with emotional stress\", \"Sensation of a lump in the throat\", \"Frequent sighing and irritability\", \"Chest stuffiness or upper abdominal fullness\"]",
+      "worse_with": "Stress and frustration, Greasy or dairy-rich foods, Sedentary lifestyle, Emotional upset",
+      "better_with": "Emotional calm and relaxation, Warm compress on the scrotum, Light, non-greasy meals, Gentle movement like walking, Deep breathing exercises",
+      "why_this_happens": "When emotional stress or frustration persists, Liver Qi gets stuck and fails to move fluids smoothly. These stagnant fluids condense into phlegm. The phlegm and stagnant Qi then settle in the scrotum, where they congeal into a hard, mildly painful nodule in the epididymis.",
+      "tongue_and_pulse": "Tongue: normal-coloured body, possibly slightly swollen, with a white greasy or slippery coating. Pulse: wiry (弦 xián) and slippery (滑 huá).",
+      "why_triggers_reliefs_work": "Emotional stress directly causes Liver Qi stagnation, which is the root of this pattern; calming the mind keeps Qi flowing. Greasy and cold foods generate phlegm and congeal stagnation, so a light diet and warmth help dissolve the nodule. Gentle movement and deep breathing stimulate Qi circulation in the lower abdomen, preventing phlegm from accumulating.",
+      "diet_and_lifestyle": "Avoid greasy, dairy-rich, and cold raw foods that create phlegm. Manage stress with gentle movement like walking or tai chi, and practice deep breathing to keep Qi flowing smoothly.",
+      "formulas": [
+        {
+          "id": 3862,
+          "pattern_id": 1670,
+          "formula_name": "Ju He Wan",
+          "formula_url": "/knowledge-base/formulas/ju-he-wan",
+          "translation": "Tangerine Seed Pill &#xB7; S&#xF2;ng dynasty, 1253 CE",
+          "properties": "Warm, Moves Qi, Alleviates Pain, Dissipates Nodules and Softens Hardness",
+          "description": "The primary formula to move Qi, resolve phlegm, and soften the hard nodule in the epididymis."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 8881,
+          "pattern_id": 1670,
+          "herb_name": "Ju He",
+          "herb_url": "/knowledge-base/herbs/ju-he",
+          "translation": "Tangerine seed",
+          "properties": "",
+          "description": "Moves Qi and softens hard nodules in the scrotum."
+        },
+        {
+          "id": 8882,
+          "pattern_id": 1670,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "",
+          "description": "Spreads Liver Qi and relieves stagnation."
+        },
+        {
+          "id": 8883,
+          "pattern_id": 1670,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 6028,
+          "pattern_id": 1670,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes Liver Qi stagnation, addressing the root of the phlegm."
+        },
+        {
+          "id": 6029,
+          "pattern_id": 1670,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms phlegm and clears the channels."
+        },
+        {
+          "id": 6030,
+          "pattern_id": 1670,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the lower jiao and moves Qi to relieve scrotal stagnation."
+        }
+      ]
+    },
+    {
+      "id": 1671,
+      "condition_id": 338,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, cold testicular pain\", \"Worse with cold and better with warmth\", \"Lower back and knee soreness\", \"Frequent urination, especially at night\", \"Fatigue and feeling cold all over\"]",
+      "worse_with": "Cold weather, Cold foods and drinks, Overwork and fatigue, Excessive sexual activity",
+      "better_with": "Applying warmth, Rest and sleep, Warm cooked foods, Gentle movement",
+      "why_this_happens": "The Kidneys are the root of the body's warming Yang. When Kidney Yang is deficient, the lower body loses its internal warmth, and cold can settle in the genitals. This cold causes the Qi and Blood in the testicles to congeal, leading to a chronic, dull ache that feels cold and is relieved by warmth. Unlike acute inflammation, there is no redness or heat-just a deep, lingering discomfort worsened by cold and fatigue.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks and a wet white coating. Pulse: deep, slow, and weak, especially at the Chi (third) position.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's foundational warming fire. Cold weather, cold foods, and overwork drain this fire, allowing cold to congeal in the lower body and worsen testicular pain. Warmth, rest, and warming foods replenish Yang, helping to dispel cold and ease pain.",
+      "diet_and_lifestyle": "Warm, cooked foods like lamb, ginger, and cinnamon help stoke the body's inner fire. Avoid cold drinks and raw salads, which dampen Yang. Keep the lower back and abdomen warm with a belly band or hot water bottle. Gentle daily movement, like walking, supports circulation without depleting energy. Rest when tired, as pushing through fatigue drains Kidney reserves.",
+      "formulas": [
+        {
+          "id": 3863,
+          "pattern_id": 1671,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The primary formula to warm and tonify Kidney Yang, dispelling cold and alleviating chronic testicular pain."
+        },
+        {
+          "id": 3864,
+          "pattern_id": 1671,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area."
+        },
+        {
+          "id": 3865,
+          "pattern_id": 1671,
+          "formula_name": "Pu Ji Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/pu-ji-xiao-du-yin",
+          "translation": "Universal Benefit Drink to Eliminate Toxin &#xB7; J&#x12B;n dynasty, 1202 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Disperses Swelling and Dissipates Nodules",
+          "description": "A classical formula designed to clear intense heat and toxins from the head and face, and to relieve sore throat and swelling. It was originally created during an epidemic to treat severe facial swelling, fever, and throat obstruction caused by Wind-Heat toxins attacking the upper body. Today it is widely used for conditions such as mumps, tonsillitis, facial erysipelas, and other acute infections with prominent redness, swelling, and pain of the head and face."
+        },
+        {
+          "id": 3866,
+          "pattern_id": 1671,
+          "formula_name": "Ju He Wan",
+          "formula_url": "/knowledge-base/formulas/ju-he-wan",
+          "translation": "Tangerine Seed Pill &#xB7; S&#xF2;ng dynasty, 1253 CE",
+          "properties": "Warm, Moves Qi, Alleviates Pain, Dissipates Nodules and Softens Hardness",
+          "description": "A classical formula designed to relieve testicular and scrotal swelling, hardness, and pain caused by Cold and Dampness accumulating in the lower body. It works by promoting the smooth flow of Qi and Blood through the groin area, warming the body to expel Cold, draining excess Dampness, and softening hard masses. Commonly used for conditions such as hernia, epididymitis, orchitis, and hydrocele."
+        },
+        {
+          "id": 3867,
+          "pattern_id": 1671,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 8884,
+          "pattern_id": 1671,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms Kidney Yang and dispels deep cold to relieve pain."
+        },
+        {
+          "id": 8885,
+          "pattern_id": 1671,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Ignites the Gate of Life Fire and drives warmth to the lower body."
+        },
+        {
+          "id": 8886,
+          "pattern_id": 1671,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Strengthens the lower back and knees while supporting Kidney Yang."
+        },
+        {
+          "id": 8887,
+          "pattern_id": 1671,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner",
+          "description": ""
+        },
+        {
+          "id": 8888,
+          "pattern_id": 1671,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 8889,
+          "pattern_id": 1671,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 8890,
+          "pattern_id": 1671,
+          "herb_name": "Ban Lan Gen",
+          "herb_url": "/knowledge-base/herbs/ban-lan-gen",
+          "translation": "Isatis root",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 8891,
+          "pattern_id": 1671,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 8892,
+          "pattern_id": 1671,
+          "herb_name": "Ju He",
+          "herb_url": "/knowledge-base/herbs/ju-he",
+          "translation": "Tangerine seed",
+          "properties": "Neutral, Moves Qi, Dissipates Nodules and Softens Hardness, Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 8893,
+          "pattern_id": 1671,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 8894,
+          "pattern_id": 1671,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 8895,
+          "pattern_id": 1671,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 8896,
+          "pattern_id": 1671,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 8897,
+          "pattern_id": 1671,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 6031,
+          "pattern_id": 1671,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxibustion to tonify Kidney Yang and warm the lower back."
+        },
+        {
+          "id": 6032,
+          "pattern_id": 1671,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion to ignite Ming Men Fire and disperse cold."
+        },
+        {
+          "id": 6033,
+          "pattern_id": 1671,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion to warm the lower jiao and relieve cold pain in the genitals."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 2194,
+      "condition_id": 338,
+      "question": "How quickly can TCM relieve the pain of orchitis?",
+      "answer": "For acute orchitis with redness, heat, and severe pain, many men feel noticeable relief within 2 to 3 days of starting herbal medicine and acupuncture. The herbs work to clear Heat and Dampness, which directly reduces inflammation. Acupuncture helps move stagnant Qi and Blood in the local channels, easing pain. Chronic, dull aches take longer - usually a couple of weeks before consistent improvement is felt."
+    },
+    {
+      "id": 2195,
+      "condition_id": 338,
+      "question": "Can I take Chinese herbs while on antibiotics for orchitis?",
+      "answer": "Yes, in most cases. Chinese herbal formulas for acute orchitis are often used alongside antibiotics to speed recovery and reduce lingering inflammation. However, always inform both your TCM practitioner and your prescribing doctor about all treatments you are receiving. Some herbs may influence drug metabolism, so coordination is essential. Never stop antibiotics early without your doctor's approval."
+    },
+    {
+      "id": 2196,
+      "condition_id": 338,
+      "question": "Is acupuncture safe for testicular inflammation?",
+      "answer": "Yes, when performed by a qualified practitioner. Acupuncture points are chosen on the lower abdomen, legs, and sometimes the lower back - not directly on the inflamed testicle. The goal is to clear Heat, move stagnation, and support the affected channels. It is a gentle, drug-free way to reduce pain and swelling, and it can be used in both acute and chronic cases."
+    },
+    {
+      "id": 2197,
+      "condition_id": 338,
+      "question": "What foods should I avoid if I have orchitis?",
+      "answer": "During an acute flare-up, avoid spicy, greasy, and deep-fried foods, as well as alcohol and coffee. These create Dampness and Heat, which worsen inflammation. Instead, eat cooling, light foods like watermelon, mung bean soup, cucumber, and plenty of water. For chronic cold-type pain, focus on warm, cooked foods and avoid raw, cold items straight from the fridge."
+    },
+    {
+      "id": 2198,
+      "condition_id": 338,
+      "question": "Does TCM work for chronic orchitis with a hard lump?",
+      "answer": "Yes, the Qi-Phlegm pattern specifically addresses hard, nodular swellings that linger after infection or injury. Herbal formulas like Ju He Wan are designed to move Liver Qi and transform Phlegm, gradually softening the lump over several weeks. Acupuncture and moxibustion can also be applied to promote local circulation. Patience is key - these nodules did not form overnight and will not disappear overnight, but consistent treatment often yields steady improvement."
+    },
+    {
+      "id": 2199,
+      "condition_id": 338,
+      "question": "Can orchitis come back after TCM treatment?",
+      "answer": "TCM aims to correct the underlying imbalance that made you susceptible in the first place. For example, if your orchitis was triggered by Damp-Heat from diet and lifestyle, treatment will clear that Damp-Heat and then advise on dietary changes to prevent it from reaccumulating. Recurrence is much less likely when the root pattern is resolved, but maintaining healthy habits is essential for long-term protection."
+    }
+  ],
+  "research": []
+}

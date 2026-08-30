@@ -1,0 +1,822 @@
+{
+  "id": 1420,
+  "name": "วัยหมดประจำเดือน",
+  "url": "/knowledge-base/conditions/menopause",
+  "kind": "Condition",
+  "pinyin": "jué jīng",
+  "chinese_name": "绝经",
+  "preview_text": "อาการร้อนวูบวาบไม่เหมือนกันทั้งหมด ใน TCM จังหวะเวลา สิ่งกระตุ้น และสัญญาณที่ตามมาเผยให้เห็นว่าต้นตอมาจากการขาดหยินไต ความเมื่อยล้าของตับ หรือความไม่มั่นคงของหัวใจและไต...",
+  "categories": "[\"วัยหมดประจำเดือน\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Menopause (perimenopause and post-menopause)\", \"Perimenopausal and menopausal syndrome\", \"Menopausal Symptoms\", \"Cessation Of Menstruation\", \"End Of Menstruation\", \"Menopausal\", \"Perimenopausal Syndrome\", \"Climacteric Syndrome\", \"Menopausal Syndrome\", \"Menopause Syndrome\", \"Periomenopausal Symptoms\", \"Symptoms Of Menopause\", \"Symptoms Of Perimenopause\", \"Perimenopause Symptoms\", \"Symptoms During Menopause Transition\", \"Menopause Symptoms\", \"Menopausal Syndrome (Cold-Dominant Type)\", \"Menopausal Syndrome (With Hot Flashes and Insomnia)\"]",
+  "conventional_description": "Menopause is defined as the permanent cessation of menstruation, diagnosed after 12 consecutive months without a period. It results from the natural decline of ovarian follicles and a significant drop in estrogen and progesterone levels. The transition, known as perimenopause, can span several years and bring a range of symptoms including hot flashes, night sweats, vaginal dryness, sleep disturbances, mood swings, and cognitive changes. Diagnosis is usually clinical, based on age and symptom pattern, with occasional hormone testing to rule out other causes.",
+  "conventional_treatments": "Standard Western treatments focus on symptom relief. Hormone replacement therapy (HRT) is the most effective for hot flashes and vaginal dryness but carries risks that require careful individual assessment. Non-hormonal options include low-dose antidepressants, gabapentin, and clonidine for vasomotor symptoms, as well as vaginal estrogen for urogenital issues. Lifestyle modifications such as layered clothing, avoiding triggers, and cognitive behavioral therapy are also recommended.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM views menopause as a natural life transition governed by the Kidneys. The Kidneys store Jing (essence), which fuels growth, reproduction, and aging. As a woman approaches menopause, her Kidney Jing naturally declines, leading to a weakening of both Kidney Yin (the body's cooling, moistening foundation) and Kidney Yang (the body's warming, activating fire). This decline is the root of all menopausal patterns.\nWhen Kidney Yin becomes too weak, it can no longer anchor the body's heat, allowing empty fire to flare upward - this is the classic mechanism behind hot flashes, night sweats, and a dry mouth. When Kidney Yang declines, the body loses its internal furnace, resulting in cold intolerance, low back soreness, and frequent urination. Often, both Yin and Yang are depleted together, creating a confusing mix of hot flashes and chills, plus profound fatigue.\nThe Kidneys do not act alone. Kidney Yin nourishes the Liver; when Yin is depleted, the Liver can become dry and overheated, leading to irritability, dizziness, and dry eyes. The Heart relies on Kidney Yin to keep its fire in check; when that fails, Heart Fire disturbs the mind, causing insomnia, palpitations, and anxiety. Even the Spleen can be affected, contributing to digestive sluggishness and weight changes. This is why two women with the same Western diagnosis may have entirely different symptom clusters - and why TCM treats each woman as a unique pattern.",
+  "classical_quote": "「女子七七，任脉虚，太冲脉衰少，天癸竭，地道不通，故形坏而无子也。」",
+  "classical_translation": "\"At age forty-nine, the Ren vessel becomes deficient, the Chong vessel weakens, Tian Gui (reproductive essence) is exhausted, the pathways of the earth (menstruation) are blocked, and the body deteriorates, so she can no longer conceive.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen  ,  Chapter 1, Shang Gu Tian Zhen Lun \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by listening closely to the quality of your heat and cold sensations. The timing and character of hot flashes, night sweats, and feelings of warmth versus chills are the first big clues.\nA woman who says she feels like a furnace at night but is fine during the day points toward Kidney Yin Deficiency, while one who always reaches for a sweater and has cold hands and feet points toward Kidney Yang Deficiency.\nIf the picture mixes both-perhaps hot flashes that come and go alongside deep fatigue and cold intolerance-the practitioner suspects Deficiency of both Kidney Yin and Yang. Here the tongue may appear pale with a thin coating or slightly red, and the pulse can feel thready and rapid or deep and weak. This mixed pattern often leaves a woman feeling profoundly drained, as if her internal thermostat is broken.\nWhen irritability, dizziness, tinnitus, or dry eyes accompany the heat, the practitioner looks toward Kidney and Liver Yin Deficiency, where the Kidneys fail to nourish the Liver. The tongue tends to be red with little coating and the pulse wiry and thready.\nIf instead insomnia, heart palpitations, and anxiety dominate, Disharmony between Heart and Kidneys is likely, with Kidney Yin unable to cool the Heart. A red tongue tip and a thready rapid pulse support this picture.\nStagnant Liver Qi turning into Fire adds a bitter taste, intense mood swings, and a sense of heat that flares with stress; the tongue may be red with a yellow coat and the pulse wiry and rapid.\nTo confirm, the practitioner examines the tongue and pulse. A pale, puffy tongue suggests Yang deficiency, while a red tongue with scanty coating signals Yin deficiency heat. The pulse speed and depth further refine the diagnosis-a rapid pulse points to heat, a deep weak pulse to cold. By weaving together these signs, the practitioner identifies which organ systems need the most support.",
+  "patterns": [
+    {
+      "id": 6964,
+      "condition_id": 1420,
+      "pattern_name": "Kidney Yin Deficiency",
+      "pattern_slug": "kidney-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Hot flashes and night sweats\", \"Heat in the palms, soles, and chest\", \"Dry mouth and throat\", \"Soreness and weakness of the lower back and knees\", \"Dizziness and tinnitus\", \"Insomnia with vivid dreaming\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Overwork and late nights, Stress and emotional strain, Excessive heat or saunas",
+      "better_with": "Cooling foods and drinks, Adequate sleep and rest, Gentle exercise or movement, Staying well-hydrated",
+      "why_this_happens": "As a woman approaches menopause, the Kidney's store of Yin essence naturally declines. Kidney Yin is the body's cooling and moistening foundation. When it runs low, it can no longer anchor the body's heat, allowing empty fire to flare upward. This is what produces the hallmark hot flashes that rise to the face, the night sweats, and the persistent dryness of the mouth and throat.",
+      "tongue_and_pulse": "Tongue: red, thin, and dry with little or no coating; cracks may be visible. Pulse: fine (细 xi) and rapid (数 shu), especially weak at the left rear (Kidney) position.",
+      "why_triggers_reliefs_work": "Kidney Yin Deficiency creates a state of internal heat from a lack of cooling moisture. Spicy foods and overwork burn up precious Yin, while rest and hydrating foods help rebuild it. Stress stirs up empty fire, so calming practices directly counteract the pattern's tendency to overheat.",
+      "diet_and_lifestyle": "Prioritize deeply hydrating, cooling foods like pear, black sesame, and goji berries. Avoid spicy, fried, and overly stimulating foods that can flare up empty heat. Gentle, restorative exercise like tai chi or walking in nature helps settle the mind without over-depleting Yin.",
+      "formulas": [
+        {
+          "id": 15860,
+          "pattern_id": 6964,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "The classic formula to nourish Kidney Yin and gently clear empty heat, ideal when dryness and heat are prominent."
+        },
+        {
+          "id": 15861,
+          "pattern_id": 6964,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Used when the empty heat is more intense, causing severe night sweats and pronounced hot flashes."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 36465,
+          "pattern_id": 6964,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "The primary herb to deeply nourish Kidney Yin and replenish essence."
+        },
+        {
+          "id": 36466,
+          "pattern_id": 6964,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Stabilizes the Kidney and astringes Yin to stop night sweats."
+        },
+        {
+          "id": 36467,
+          "pattern_id": 6964,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears empty heat without drying, especially for hot flashes and restlessness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24864,
+          "pattern_id": 6964,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel, used to tonify Kidney Yin directly."
+        },
+        {
+          "id": 24865,
+          "pattern_id": 6964,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "The back-shu point of the Kidney, strengthens the Kidney&#x27;s ability to store Yin."
+        },
+        {
+          "id": 24866,
+          "pattern_id": 6964,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Yin and cools the blood, excellent for night sweats and insomnia."
+        },
+        {
+          "id": 24867,
+          "pattern_id": 6964,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Yin and blood production across the Spleen, Liver, and Kidney channels."
+        }
+      ]
+    },
+    {
+      "id": 6965,
+      "condition_id": 1420,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Aversion to cold, especially lower body\", \"Cold, aching lower back and knees\", \"Frequent nighttime urination\", \"Fatigue and low spirits\", \"Pale or dark complexion\", \"Watery or profuse clear vaginal discharge\"]",
+      "worse_with": "Cold weather, Cold or raw foods, Overwork and late nights, Prolonged standing",
+      "better_with": "Warmth on lower back, Warm drinks and soups, Adequate sleep and rest, Gentle exercise or movement",
+      "why_this_happens": "Kidney Yang is the body's internal warming fire. During menopause, the Kidney's essence naturally declines, and if Yang weakens, the body loses its ability to stay warm. This leads to coldness, especially in the lower back and legs, because the lower back is the mansion of the Kidneys.\nThe lack of warmth also affects the Bladder, which cannot properly hold urine, causing frequent urination at night. The Chong and Ren vessels lose their warming function, so menstrual flow ceases and clear, watery vaginal discharge may appear. Overall, the body's metabolism slows, resulting in fatigue and low spirits.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks, wet white coating. Pulse: deep, slow, weak, especially at the right Chi position.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's warming fire. When it is deficient, cold easily invades and worsens symptoms. Warmth from food, drink, and external sources supplements that fire and dispels internal cold. Overwork and prolonged standing drain Qi and Yang further, so rest and gentle movement help preserve and gradually rebuild Kidney Yang.",
+      "diet_and_lifestyle": "Warm your diet with cooked foods, soups, and spices like ginger and cinnamon. Avoid cold, raw foods and icy drinks. Keep your lower back and feet warm, especially in cold weather. Gentle exercise like walking or tai chi helps move Qi without overtaxing your energy.",
+      "formulas": [
+        {
+          "id": 15862,
+          "pattern_id": 6965,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The classic formula to warm Kidney Yang and strengthen the Gate of Life Fire."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 36468,
+          "pattern_id": 6965,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms Kidney Yang and dispels internal cold."
+        },
+        {
+          "id": 36469,
+          "pattern_id": 6965,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Strengthens the lower back and knees by tonifying Kidney Yang."
+        },
+        {
+          "id": 36470,
+          "pattern_id": 6965,
+          "herb_name": "Lu Jiao",
+          "herb_url": "/knowledge-base/herbs/lu-jiao",
+          "translation": "deer antler",
+          "properties": "",
+          "description": "Warms and nourishes the Kidneys, supporting the Gate of Life."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24868,
+          "pattern_id": 6965,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonify. Back Shu point of the Kidney; directly warms Kidney Yang."
+        },
+        {
+          "id": 24869,
+          "pattern_id": 6965,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Tonify. The Gate of Life; strengthens the source of Yang in the body."
+        },
+        {
+          "id": 24870,
+          "pattern_id": 6965,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Tonify. Nourishes Kidney Yang and fortifies the Chong and Ren vessels."
+        },
+        {
+          "id": 24871,
+          "pattern_id": 6965,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonify. Source point of the Kidney; reinforces Kidney Qi and Yang."
+        }
+      ]
+    },
+    {
+      "id": 6966,
+      "condition_id": 1420,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "pattern_slug": "deficiency-of-both-the-kidney-yin-and-yang",
+      "is_common": 0,
+      "symptoms": "[\"Alternating chills and hot flushes\", \"Lower back cold and aching\", \"Deep fatigue and lack of vitality\", \"Frequent nighttime urination\", \"Loose stools or early-morning diarrhoea\", \"Dry mouth with no desire to drink\"]",
+      "worse_with": "Overwork and late nights, Cold or raw foods, Cold weather, Stress and emotional strain",
+      "better_with": "Warmth on lower back, Gentle exercise or movement, Warm drinks and soups, Regular sleep schedule, Moxibustion on Guanyuan",
+      "why_this_happens": "During menopause, the Kidney’s core energies naturally decline. When both Yin and Yang are depleted simultaneously, the body loses its ability to regulate temperature and generate vitality. This creates the hallmark mix of hot flashes and cold intolerance, as well as profound fatigue, because neither the cooling, moistening function of Yin nor the warming, activating function of Yang is sufficient.",
+      "tongue_and_pulse": "Tongue: pale, puffy-tender body with teeth marks and cracks; thin white coat that may be partially peeled. Pulse: deep, fine, and weak, weakest at the Chi (rear) position; may be slightly rapid if Yin deficiency dominates, or slow if Yang deficiency dominates.",
+      "why_triggers_reliefs_work": "This pattern reflects a deep depletion of the body's foundational Yin and Yang energies. Overwork and late nights further drain what little reserve remains, while cold foods and damp environments aggravate the Yang deficiency, leading to more chills and fatigue. Warmth, gentle movement, and nourishing cooked foods gently support the Kidneys without overwhelming them, and rest allows the body to slowly replenish its core resources.",
+      "diet_and_lifestyle": "Eat warm, nourishing foods like bone broths, congee with goji berries and walnuts, and lightly cooked vegetables. Avoid raw, cold foods and excessive spicy or greasy foods. Gentle daily movement such as walking or Tai Chi helps sustain energy without depleting it. Keep the lower back and feet warm, and practice stress-reducing activities like meditation.",
+      "formulas": [
+        {
+          "id": 15863,
+          "pattern_id": 6966,
+          "formula_name": "Er Xian Tang",
+          "formula_url": "/knowledge-base/formulas/er-xian-tang",
+          "translation": "Two Immortals Decoction &#xB7; Modern China, 1950s CE (developed by Professor Zhang Bornai at Shanghai University of TCM / Shuguang Hospital)",
+          "properties": "Slightly Warm, Tonifies Kidney Yang, Tonifies Kidney Essence, Drains Ministerial Fire",
+          "description": "The classic formula to simultaneously tonify Kidney Yin and Yang, warm the Yang without drying Yin, and nourish Yin without cloying."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 36471,
+          "pattern_id": 6966,
+          "herb_name": "Xian Mao",
+          "herb_url": "/knowledge-base/herbs/xian-mao",
+          "translation": "Curculigo rhizome",
+          "properties": "",
+          "description": "Warms Kidney Yang and strengthens bones, addressing coldness and low back pain."
+        },
+        {
+          "id": 36472,
+          "pattern_id": 6966,
+          "herb_name": "Yin Yang Huo",
+          "herb_url": "/knowledge-base/herbs/yin-yang-huo",
+          "translation": "Epimedium leaf",
+          "properties": "",
+          "description": "Tonifies Kidney Yang and dispels wind-dampness, improving vitality and libido."
+        },
+        {
+          "id": 36473,
+          "pattern_id": 6966,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears deficiency heat and moistens dryness, easing hot flashes and night sweats."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24872,
+          "pattern_id": 6966,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonify with moxibustion to strengthen Kidney Qi and balance Yin and Yang."
+        },
+        {
+          "id": 24873,
+          "pattern_id": 6966,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion warms Kidney Yang and dispels Cold."
+        },
+        {
+          "id": 24874,
+          "pattern_id": 6966,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen, Liver, and Kidneys, nourishing Yin and calming the spirit."
+        },
+        {
+          "id": 24875,
+          "pattern_id": 6966,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin and anchors deficiency heat."
+        }
+      ]
+    },
+    {
+      "id": 6967,
+      "condition_id": 1420,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "pattern_slug": "kidney-and-liver-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry eyes with blurred vision\", \"Irritability and short temper\", \"Dizziness and tinnitus\", \"Dull aching pain along the ribs\", \"Night sweats with heat in palms, soles, and chest\", \"Lower back and knee soreness\"]",
+      "worse_with": "Stress and emotional strain, Overwork and late nights, Spicy, greasy, or fried foods",
+      "better_with": "Cool, quiet environment, Adequate sleep and rest, Cooling foods and drinks, Gentle exercise or movement",
+      "why_this_happens": "During menopause, Kidney Yin naturally declines. The Kidneys and Liver share the same source, so when Kidney Yin becomes depleted, it can no longer moisten and nourish the Liver. The Liver then becomes dry and overheated, like a plant that isn't watered.\nThis Liver dryness and deficiency heat rise upward, causing irritability, dizziness, tinnitus, and dry eyes. The heat also flares at night, leading to night sweats and a feeling of heat in the palms, soles, and chest. Meanwhile, the lack of Yin nourishment weakens the lower back and knees, and disturbs the mind, resulting in insomnia and forgetfulness.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine and rapid, often wiry; weak at the left Chi (Kidney) and Guan (Liver) positions.",
+      "why_triggers_reliefs_work": "Stress, frustration, and overwork consume Yin fluids and stir up Liver Yang, worsening irritability and heat. Spicy and drying foods generate internal heat that further depletes Yin. Rest, cool environments, and moistening foods replenish Yin and calm the Liver, helping to anchor rising heat and soothe the mind.",
+      "diet_and_lifestyle": "Eat moistening, cooling foods like pears, black sesame, goji berries, and cucumber. Avoid spicy, greasy, and drying foods, as well as alcohol and coffee. Gentle daily movement such as tai chi or yoga helps smooth Liver Qi without depleting Yin. Prioritize rest and a regular sleep schedule, especially winding down early in the evening.",
+      "formulas": [
+        {
+          "id": 15864,
+          "pattern_id": 6967,
+          "formula_name": "Qi Ju Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/qi-ju-di-huang-wan",
+          "translation": "Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;)",
+          "properties": "Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat",
+          "description": "Nourishes Liver and Kidney Yin, especially indicated for dry eyes, blurred vision, dizziness, and lower back soreness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 36474,
+          "pattern_id": 6967,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and essence, the foundation for Liver Yin."
+        },
+        {
+          "id": 36475,
+          "pattern_id": 6967,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Nourishes Liver Yin and brightens the eyes, addressing dry eyes and blurred vision."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24876,
+          "pattern_id": 6967,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonifies Kidney Yin and anchors deficiency heat."
+        },
+        {
+          "id": 24877,
+          "pattern_id": 6967,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonizes the Liver and Kidney."
+        },
+        {
+          "id": 24878,
+          "pattern_id": 6967,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Regulates Liver function and nourishes Liver Yin."
+        }
+      ]
+    },
+    {
+      "id": 6968,
+      "condition_id": 1420,
+      "pattern_name": "Disharmony between Heart and Kidneys",
+      "pattern_slug": "disharmony-between-heart-and-kidneys",
+      "is_common": 0,
+      "symptoms": "[\"Difficulty falling or staying asleep\", \"Palpitations and anxiety\", \"Night sweats and five-palm heat\", \"Soreness and weakness of lower back and knees\", \"Vivid or disturbing dreams\"]",
+      "worse_with": "Stress and emotional strain, Spicy, greasy, or fried foods, Alcohol and caffeine, Overwork and late nights",
+      "better_with": "Cooling foods and drinks, Relaxation and stress reduction, Regular sleep schedule, Gentle exercise or movement",
+      "why_this_happens": "During menopause, the Kidney's Yin essence naturally declines. When Kidney Yin becomes too weak, it can no longer rise to cool the Heart, allowing Heart Fire to flare upward. This imbalance disturbs the mind (Shen), leading to the hallmark symptoms of insomnia, anxiety, and palpitations that are so common in this pattern.",
+      "tongue_and_pulse": "Tongue: red, thin body with redder tip, little or no coating, possible midline crack. Pulse: fine and rapid, weaker at the Chi position, more perceptible at the Cun position especially left.",
+      "why_triggers_reliefs_work": "Stress and anxiety stir up Heart Fire, which is the core problem in this pattern, while spicy and heating foods add more heat. Late nights and overwork deplete Kidney Yin, worsening the underlying deficiency. Cooling, Yin-nourishing foods and relaxation techniques help to calm the Heart and replenish Kidney Yin, restoring the balance between the two organs.",
+      "diet_and_lifestyle": "Eat cooling, Yin-nourishing foods like black beans, sesame seeds, goji berries, and cucumber. Avoid spicy, greasy, and heating foods, as well as caffeine and alcohol, especially in the evening. Practice relaxation techniques such as meditation or gentle yoga to calm the mind, and maintain a regular sleep schedule to protect Yin.",
+      "formulas": [
+        {
+          "id": 15865,
+          "pattern_id": 6968,
+          "formula_name": "Tian Wang Bu Xin Dan",
+          "formula_url": "/knowledge-base/formulas/tian-wang-bu-xin-dan",
+          "translation": "Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi",
+          "description": "Nourishes Heart Yin, clears Heart Fire, and calms the spirit while also supporting Kidney Yin."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 36476,
+          "pattern_id": 6968,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "",
+          "description": "Calms the spirit and nourishes the Heart to ease insomnia and anxiety."
+        },
+        {
+          "id": 36477,
+          "pattern_id": 6968,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heart Fire directly, reducing restlessness and palpitations."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24879,
+          "pattern_id": 6968,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Heart and spirit, reducing anxiety and insomnia."
+        },
+        {
+          "id": 24880,
+          "pattern_id": 6968,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to cool the Heart from below."
+        },
+        {
+          "id": 24881,
+          "pattern_id": 6968,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart Qi and calms the mind, especially for palpitations."
+        },
+        {
+          "id": 24882,
+          "pattern_id": 6968,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Yin and blood, harmonizing the Spleen and Kidneys."
+        }
+      ]
+    },
+    {
+      "id": 6969,
+      "condition_id": 1420,
+      "pattern_name": "Stagnant Liver Qi turning into Fire",
+      "pattern_slug": "stagnant-liver-qi-turning-into-fire",
+      "is_common": 0,
+      "symptoms": "[\"Irritability and angry outbursts\", \"Rib-side or chest distension and pain\", \"Bitter taste in the mouth\", \"Red tongue with yellow coating\", \"Wiry and rapid pulse\"]",
+      "worse_with": "Stress and emotional strain, Spicy, greasy, or fried foods, Alcohol and caffeine, Overwork and late nights",
+      "better_with": "Cooling foods and drinks, Relaxation and stress reduction, Gentle exercise or movement",
+      "why_this_happens": "During menopause, Kidney Yin naturally declines. When Yin is insufficient to nourish the Liver, Liver Qi becomes stagnant and depressed. Over time, this trapped Qi turns into Fire, which flares upward causing irritability, a bitter taste, and hot flashes that worsen with emotional stress.",
+      "tongue_and_pulse": "Tongue: red body, especially on the sides, with a dry yellow coating. Pulse: wiry (弦 xián) and rapid (数 shuò), strongest at the left middle position.",
+      "why_triggers_reliefs_work": "This pattern is driven by Liver Qi stagnation that generates Fire. Stress, frustration, and suppressed emotions directly aggravate the stagnation, while spicy, greasy foods and alcohol add more Heat to the body. Cooling foods and drinks help clear the Fire, and calming practices like deep breathing and gentle exercise smooth the flow of Liver Qi, reducing the pressure that causes outbursts and rib pain.",
+      "diet_and_lifestyle": "Choose cooling, calming foods like cucumber, celery, chrysanthemum tea, and mint. Avoid spicy, greasy, and fried foods, as well as alcohol, which add heat. Daily gentle movement like walking or yoga helps Qi flow. Prioritize stress management through meditation or journaling.",
+      "formulas": [
+        {
+          "id": 15866,
+          "pattern_id": 6969,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency."
+        },
+        {
+          "id": 15867,
+          "pattern_id": 6969,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 15868,
+          "pattern_id": 6969,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        },
+        {
+          "id": 15869,
+          "pattern_id": 6969,
+          "formula_name": "Er Xian Tang",
+          "formula_url": "/knowledge-base/formulas/er-xian-tang",
+          "translation": "Two Immortals Decoction &#xB7; Modern China, 1950s CE (developed by Professor Zhang Bornai at Shanghai University of TCM / Shuguang Hospital)",
+          "properties": "Slightly Warm, Tonifies Kidney Yang, Tonifies Kidney Essence, Drains Ministerial Fire",
+          "description": "A modern formula designed to address the hormonal and constitutional changes that occur around menopause, including hot flushes, mood changes, insomnia, fatigue, and cold limbs. It works by simultaneously warming and nourishing the Kidneys while clearing the excess heat that results from internal imbalance. Although originally developed for women, it is also used for men experiencing similar age-related changes."
+        },
+        {
+          "id": 15870,
+          "pattern_id": 6969,
+          "formula_name": "Qi Ju Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/qi-ju-di-huang-wan",
+          "translation": "Lycium Berry, Chrysanthemum and Rehmannia Pill &#xB7; Q&#x12B;ng dynasty (&#x6E05;&#x4EE3;)",
+          "properties": "Slightly Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Clears Liver Heat",
+          "description": "A classical formula that nourishes the Liver and Kidneys to support eye health and clear vision. It is used for blurred vision, dry eyes, sensitivity to light, excessive tearing in wind, dizziness, and ringing in the ears caused by Liver and Kidney Yin deficiency. Built on the famous Liu Wei Di Huang Wan (Six-Ingredient Rehmannia Pill) with the addition of goji berry and chrysanthemum flower for their vision-supporting properties."
+        },
+        {
+          "id": 15871,
+          "pattern_id": 6969,
+          "formula_name": "Tian Wang Bu Xin Dan",
+          "formula_url": "/knowledge-base/formulas/tian-wang-bu-xin-dan",
+          "translation": "Emperor of Heaven&#x27;s Special Pill to Tonify the Heart &#xB7; M&#xED;ng dynasty, 1638 CE",
+          "properties": "Cool, Nourishes Yin, Nourishes Blood, Tonifies Heart Qi",
+          "description": "A classical formula for people who have trouble sleeping and feel restless due to overwork or prolonged mental exertion. It nourishes the body&#x27;s Yin and Blood while calming the mind and clearing low-grade internal heat. Often used for insomnia with palpitations, forgetfulness, night sweats, and a general sense of mental exhaustion."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 36478,
+          "pattern_id": 6969,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes Liver Qi stagnation."
+        },
+        {
+          "id": 36479,
+          "pattern_id": 6969,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears Heat and drains Fire, especially from the Liver."
+        },
+        {
+          "id": 36480,
+          "pattern_id": 6969,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools the Blood and clears Liver Fire."
+        },
+        {
+          "id": 36481,
+          "pattern_id": 6969,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes Liver Blood and softens the Liver to ease pain."
+        },
+        {
+          "id": 36482,
+          "pattern_id": 6969,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 36483,
+          "pattern_id": 6969,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        },
+        {
+          "id": 36484,
+          "pattern_id": 6969,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 36485,
+          "pattern_id": 6969,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 36486,
+          "pattern_id": 6969,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        },
+        {
+          "id": 36487,
+          "pattern_id": 6969,
+          "herb_name": "Lu Jiao",
+          "herb_url": "/knowledge-base/herbs/lu-jiao",
+          "translation": "deer antler",
+          "properties": "Warm, Tonifies Kidney Yang, Strengthens the Sinews and Bones, Invigorates Blood and disperses stagnation",
+          "description": ""
+        },
+        {
+          "id": 36488,
+          "pattern_id": 6969,
+          "herb_name": "Xian Mao",
+          "herb_url": "/knowledge-base/herbs/xian-mao",
+          "translation": "Curculigo rhizome",
+          "properties": "Hot, Tonifies Kidney Yang, Strengthens the Sinews and Bones, Dispels Cold-Dampness",
+          "description": ""
+        },
+        {
+          "id": 36489,
+          "pattern_id": 6969,
+          "herb_name": "Yin Yang Huo",
+          "herb_url": "/knowledge-base/herbs/yin-yang-huo",
+          "translation": "Epimedium leaf",
+          "properties": "Warm, Tonifies Kidney Yang, Strengthens the Sinews and Bones, Dispels Wind-Dampness",
+          "description": ""
+        },
+        {
+          "id": 36490,
+          "pattern_id": 6969,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 36491,
+          "pattern_id": 6969,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating",
+          "description": ""
+        },
+        {
+          "id": 36492,
+          "pattern_id": 6969,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 36493,
+          "pattern_id": 6969,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 36494,
+          "pattern_id": 6969,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 36495,
+          "pattern_id": 6969,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat",
+          "description": ""
+        },
+        {
+          "id": 36496,
+          "pattern_id": 6969,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24883,
+          "pattern_id": 6969,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The primary point to move Liver Qi and subdue rising Fire."
+        },
+        {
+          "id": 24884,
+          "pattern_id": 6969,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "Drains Liver Fire and cools the Blood, especially for bitter taste and red eyes."
+        },
+        {
+          "id": 24885,
+          "pattern_id": 6969,
+          "acupoint_code": "LR-14",
+          "acupoint_name": "Qimen LR-14",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/qimen-lr-14",
+          "translation": "Q&#x12B; M&#xE9;n",
+          "properties": "Invigorates Liver Qi, Harmonizes the Liver and Stomach",
+          "description": "Alarm point of the Liver, relieves rib-side distension and chest oppression."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 9223,
+      "condition_id": 1420,
+      "question": "Can acupuncture and herbs really stop hot flashes?",
+      "answer": "Yes, many women experience a significant reduction in both the frequency and intensity of hot flashes. Acupuncture helps regulate the body's thermostat by calming the nervous system and balancing Yin and Yang, while herbs like Shu Di Huang and Zhi Mu directly nourish Kidney Yin and clear empty heat. The key is matching the treatment to your specific pattern - a Kidney Yin deficiency hot flash (dry, rising heat at night) responds to different points and herbs than a Liver stagnation hot flash (triggered by stress, with irritability)."
+    },
+    {
+      "id": 9224,
+      "condition_id": 1420,
+      "question": "How long does it take for TCM to work for menopause?",
+      "answer": "Most women begin to feel subtle shifts in sleep quality and emotional stability within the first 2-3 weeks. Hot flashes and night sweats often improve noticeably after 4-6 weeks of regular treatment. For deeper issues like bone density loss or long-standing insomnia, it may take 3-6 months of consistent care. TCM aims to rebuild your body's foundation, not just mask symptoms, so patience yields lasting results."
+    },
+    {
+      "id": 9225,
+      "condition_id": 1420,
+      "question": "Can I use TCM alongside hormone replacement therapy?",
+      "answer": "Yes, many women use acupuncture and herbs while on HRT, and some eventually reduce their HRT dose under medical supervision. However, you must inform both your TCM practitioner and your prescribing doctor about all treatments you are receiving. Herbs that move Blood (like Dang Gui) may interact with anticoagulants, so full disclosure is essential. Never stop HRT abruptly without your doctor's guidance."
+    },
+    {
+      "id": 9226,
+      "condition_id": 1420,
+      "question": "Does TCM help with mood swings and irritability?",
+      "answer": "Absolutely. TCM sees the emotional turbulence of menopause as a direct reflection of Liver imbalance. When Kidney Yin fails to nourish the Liver, Liver Qi stagnates and can turn into Fire, causing outbursts of anger or depression. Acupuncture points like Taichong (LR-3) and herbal formulas like Dan Zhi Xiao Yao San are specifically designed to smooth Liver Qi and clear heat, often bringing a sense of calm within a few treatments."
+    },
+    {
+      "id": 9227,
+      "condition_id": 1420,
+      "question": "What dietary changes should I make during menopause?",
+      "answer": "Across all patterns, it's wise to avoid spicy, greasy, and overly heating foods that can aggravate hot flashes. Favor cooling, moistening foods like cucumber, tofu, pear, and mung beans. Black sesame seeds, walnuts, and goji berries gently nourish Kidney essence. Reduce alcohol and caffeine if you experience hot flashes or insomnia. Specific pattern-based guidance is even more targeted - a TCM practitioner can help you fine-tune your diet."
+    },
+    {
+      "id": 9228,
+      "condition_id": 1420,
+      "question": "Is TCM safe during perimenopause?",
+      "answer": "When prescribed by a qualified practitioner, acupuncture and Chinese herbs are generally very safe during the menopausal transition. Acupuncture has minimal side effects, and herbal formulas are tailored to your exact pattern, avoiding ingredients that might be too warming or too cooling for your constitution. Always ensure your practitioner knows your full health history, including any medications or supplements you take."
+    }
+  ],
+  "research": [
+    {
+      "id": 2093,
+      "condition_id": 1420,
+      "title": "Acupuncture for menopausal hot flashes: a randomized controlled trial",
+      "description": "This RCT compared acupuncture to sham acupuncture and found that real acupuncture significantly reduced hot flash frequency and severity in menopausal women, with effects comparable to standard non-hormonal treatments.",
+      "url": "https://doi.org/10.1097/GME.0000000000000698",
+      "periodical": "Avis NE, Coeytaux RR, Isom S, Prevette K, Morgan T. Acupuncture for menopausal hot flashes: a randomized controlled trial. Menopause. 2016;23(11):1160-1167."
+    },
+    {
+      "id": 2094,
+      "condition_id": 1420,
+      "title": "Chinese herbal medicine for menopausal symptoms",
+      "description": "A Cochrane systematic review evaluating Chinese herbal medicine for menopausal symptoms. It found some evidence that certain herbal formulas may reduce hot flashes and improve quality of life, but concluded that overall evidence is limited by poor trial quality.",
+      "url": "",
+      "periodical": "Scheid V, Ward T, Cha WS, Watanabe K, Liao X. Chinese herbal medicine for menopausal symptoms. Cochrane Database Syst Rev. 2010;(5):CD004143."
+    },
+    {
+      "id": 2095,
+      "condition_id": 1420,
+      "title": "Acupuncture for menopausal hot flashes: a systematic review and meta-analysis",
+      "description": "This meta-analysis pooled data from 12 RCTs and found that acupuncture was associated with a significant reduction in hot flash frequency and severity, with benefits lasting up to 6 months.",
+      "url": "https://doi.org/10.1097/GME.0000000000000260",
+      "periodical": "Chiu HY, Pan CH, Shyu YK, Han BC, Tsai PS. Acupuncture for menopausal hot flashes: a systematic review and meta-analysis. Menopause. 2015;22(2):234-244."
+    }
+  ]
+}

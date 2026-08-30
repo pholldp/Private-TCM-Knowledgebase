@@ -1,0 +1,615 @@
+{
+  "id": 50,
+  "name": "เพมฟิกัส",
+  "url": "/knowledge-base/conditions/pemphigus",
+  "kind": "Condition",
+  "pinyin": "tiān pào chuāng",
+  "chinese_name": "天疱疮",
+  "preview_text": "การปรากฏตัวของแผลพุพองและความรู้สึกโดยรวมของคุณบอกเราว่าความไม่สมดุลภายในตัวใดที่ทำให้เกิดโรค และการรักษารากนั้นสามารถสงบเปลวไฟ เร่งการสมานตัว และช่วยฟื้นฟู...",
+  "categories": "[\"สภาวะภูมิคุ้มกันและภูมิต้านทานตนเอง\", \"สภาพผิว\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Autoimmune Blistering Disease\", \"Pemphigus Vulgaris\"]",
+  "conventional_description": "Pemphigus is a rare autoimmune blistering disease in which the immune system mistakenly attacks proteins that hold skin cells together. This causes painful, fragile blisters that rupture easily, leaving raw erosions on the skin and mucous membranes, often starting in the mouth. Diagnosis is confirmed through skin biopsy and blood tests for specific antibodies.\nConventional treatment aims to suppress the immune attack and prevent life-threatening complications like infection and fluid loss. While effective, long-term immunosuppression carries significant side effects, and relapses are common when medication is reduced.",
+  "conventional_treatments": "Standard care includes high-dose corticosteroids (such as prednisone) to rapidly control blistering, often combined with steroid-sparing immunosuppressants like azathioprine, mycophenolate mofetil, or rituximab. Wound care, pain management, and infection prevention are essential supportive measures.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, pemphigus is seen as a visible eruption of internal heat, dampness, and toxin. The Heart governs fire and the Spleen transforms fluids. When emotional strain or constitutional tendency stirs up Heart fire, and when poor diet or chronic stress weakens the Spleen, dampness accumulates. Heat and dampness combine and steam upward into the skin, producing the blisters and erosions characteristic of the disease.\nThe acute phase is dominated by blazing Toxic-Heat or smoldering Damp-Heat. Sudden, widespread, fiery-red blisters with high fever point to Toxic-Heat - an intense heat-toxin that must be cooled urgently. Recurring, itchy blisters with a greasy tongue coating and mouth sores reflect Damp-Heat, where Heart fire and Spleen dampness are locked in a cycle of inflammation.\nWhen the Spleen is too weak to manage fluids, a different picture emerges. Blisters become flaccid and easily broken, with persistent oozing and thick crusts. This Spleen Deficiency with Dampness pattern is less about acute fire and more about a sluggish, waterlogged system that cannot hold the skin together.\nFinally, after months of blistering, the body's Qi and Yin are deeply drained. The skin becomes dry, healing is slow, and fatigue is overwhelming - the Qi and Yin Deficiency pattern that requires gentle nourishment rather than strong cooling.",
+  "classical_quote": "「天疱疮者，乃心火妄动，脾湿随之，有疱浆水，破流津水，疼如火燎。」",
+  "classical_translation": "\"Pemphigus is caused by heart fire stirring and spleen dampness following; blisters with fluid, when broken, discharge watery fluid and pain like burning.\"",
+  "classical_source": "Wai Ke Zheng Zong (Orthodox Manual of External Medicine)  ,  Tian Pao Chuang \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by asking how the blisters began and what they look like now. Sudden, fiery blisters suggest heat; slow, flaccid ones suggest deficiency. They will also ask about thirst, energy, and digestion, because internal signs reveal which organ systems are out of balance. This careful questioning narrows the pattern down to one of four typical pictures.\nIf the blisters erupted suddenly with bright red, raw erosions and you feel intensely hot, thirsty, and irritable, this points strongly toward the Toxic-Heat pattern. The tongue will be crimson with a yellow coating, and the pulse will feel rapid and forceful, confirming a blazing heat toxin that needs urgent cooling.\nWhen blisters keep coming in waves, feel itchy, and are accompanied by a sticky, unpleasant thirst, mouth sores, and a heavy sensation, the practitioner suspects the Damp-Heat pattern. The tongue coating is greasy yellow, and the pulse is rapid and slippery, reflecting heart fire and spleen dampness steaming together.\nIf the blisters are flaccid and easily broken, with thick, stubborn crusts and a general feeling of heaviness and fatigue, the Spleen Deficiency with Dampness pattern is likely. A pale, swollen tongue with a greasy white coating and a slow, soft pulse reveal that the spleen is too weak to transform fluids, allowing dampness to accumulate.\nIn long-standing cases where active blistering has stopped but the skin is dry, peeling, and you feel exhausted, the Qi and Yin Deficiency pattern emerges. The tongue becomes pale and dry with little coating, and the pulse is thready and rapid. This late-stage picture reflects the body's vital resources being drained by the prolonged illness.",
+  "patterns": [
+    {
+      "id": 247,
+      "condition_id": 50,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"Large tense blisters that rupture quickly\", \"Bright red, burning erosions\", \"High fever with intense thirst for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine\", \"Constipation\"]",
+      "worse_with": "Spicy, fried, or rich foods, Emotional stress and anger, Hot weather or direct sun, Overexertion or physical strain",
+      "better_with": "Cool environment, Cold drinks and cooling foods, Adequate rest, Gentle cooling compresses",
+      "why_this_happens": "In pemphigus, an intense internal heat combined with toxin (toxic-heat) blazes upward and outward. This heat-toxin invades the skin, causing rapid formation of large, tense blisters that quickly rupture into bright red, burning erosions. The heat also stirs up the heart and lung, leading to high fever, extreme thirst, and restlessness.",
+      "tongue_and_pulse": "Tongue: red with prickly raised papillae and a dry yellow coating. Pulse: rapid and forceful, like a strong river current.",
+      "why_triggers_reliefs_work": "Toxic-heat is an excess fire condition; spicy, hot, and stressful factors stoke the fire and worsen blistering. Cooling measures like cold foods and rest directly counteract the heat, helping the body's defenses calm the outbreak.",
+      "diet_and_lifestyle": "Eat cooling, moistening foods like mung bean soup, watermelon, cucumber, and pear. Avoid spicy, greasy, or fried foods, alcohol, and coffee, which add heat. Keep the environment cool and rest as much as possible. Protect skin from sun and heat exposure.",
+      "formulas": [
+        {
+          "id": 540,
+          "pattern_id": 247,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "Used in combination to drain fire and relieve toxicity, especially when there are signs of systemic heat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1267,
+          "pattern_id": 247,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "",
+          "description": "Replaces rhinoceros horn to cool the blood and resolve toxin, targeting the root of the heat."
+        },
+        {
+          "id": 1268,
+          "pattern_id": 247,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and toxin from the skin, a key herb for eruptive diseases."
+        },
+        {
+          "id": 1269,
+          "pattern_id": 247,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains heart fire and damp-heat, reducing restlessness and blistering."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 850,
+          "pattern_id": 247,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduces fever and clears heat from the entire body."
+        },
+        {
+          "id": 851,
+          "pattern_id": 247,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat from the skin and cools the blood."
+        },
+        {
+          "id": 852,
+          "pattern_id": 247,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and alleviates skin eruptions."
+        },
+        {
+          "id": 853,
+          "pattern_id": 247,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Dispels heat and relieves pain in the face and body."
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "condition_id": 50,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Blisters that keep appearing, often with itching and heat\", \"Thirst with little desire to actually drink\", \"Sticky or bitter taste in the mouth\", \"Red, swollen skin lesions that may ooze\", \"Oral erosions or mouth sores\", \"Heavy, sluggish feeling in the body\"]",
+      "worse_with": "Spicy, fried, or rich foods, Alcohol, Humid or hot weather, Emotional stress and anger, Overwork and lack of sleep",
+      "better_with": "Cool, dry environment, Light, non-greasy foods, Adequate rest, Gentle movement like walking",
+      "why_this_happens": "When the Spleen is weakened by poor diet or chronic stress, it fails to transform fluids, allowing Dampness to accumulate. At the same time, emotional strain often stirs up Heart Fire. The Dampness and Heat combine and steam upward into the skin, producing the recurring, itchy blisters and erosions that are typical of pemphigus. The Heat causes thirst and a red tongue, while the Dampness creates a greasy coating and a sensation of heaviness.",
+      "tongue_and_pulse": "Tongue: red body with a yellow, greasy coating that is difficult to scrape off. Pulse: soggy-rapid (ru shu) or rapid.",
+      "why_triggers_reliefs_work": "Damp-Heat is a combination of internal dampness and heat. Greasy, spicy foods and alcohol directly add heat and dampness to the body, while humid weather makes it harder for dampness to evaporate. Stress and anger stir up Heart Fire, which then combines with Spleen dampness to flare up on the skin. Cooling, drying habits, a light diet, and emotional calm help the body clear both dampness and heat, allowing the blisters to heal and reducing new outbreaks.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sweet foods that create dampness and heat. Favour light, easily digestible meals with plenty of cooked vegetables, barley, mung beans, and coix seed (Job's tears). Drink warm water or mild herbal teas like chrysanthemum or dandelion. Keep the skin clean and dry, wear breathable cotton clothing, and manage emotional stress through gentle walking or meditation to prevent Heart Fire from flaring up.",
+      "formulas": [
+        {
+          "id": 541,
+          "pattern_id": 248,
+          "formula_name": "Er Miao San",
+          "formula_url": "/knowledge-base/formulas/er-miao-san",
+          "translation": "Two-Marvel Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE (published 1481 CE)",
+          "properties": "Cold, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Dispels Dampness and Unblocks Painful Obstruction",
+          "description": "A classic two-herb formula that powerfully dries dampness and clears heat, often combined to support the main prescription."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1270,
+          "pattern_id": 248,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears heat and dries dampness, targeting the skin inflammation and damp-heat in the Spleen."
+        },
+        {
+          "id": 1271,
+          "pattern_id": 248,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Drains heat from the Heart and San Jiao, cooling the blood and reducing irritability."
+        },
+        {
+          "id": 1272,
+          "pattern_id": 248,
+          "herb_name": "Yin Chen",
+          "herb_url": "/knowledge-base/herbs/yin-chen",
+          "translation": "Virgate Wormwood Herb",
+          "properties": "",
+          "description": "Specifically clears damp-heat and is a key herb for skin eruptions with oozing and itching."
+        },
+        {
+          "id": 1273,
+          "pattern_id": 248,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Gently leaches out dampness through the urine without harming the Spleen, easing the heavy sensation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 854,
+          "pattern_id": 248,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Clears Heart Fire and calms the mind, reducing the emotional heat that fuels the blisters."
+        },
+        {
+          "id": 855,
+          "pattern_id": 248,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Strengthens the Spleen to transform dampness and addresses the root of the condition."
+        },
+        {
+          "id": 856,
+          "pattern_id": 248,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Resolves dampness and harmonizes the Spleen, Liver, and Kidney, promoting skin healing."
+        },
+        {
+          "id": 857,
+          "pattern_id": 248,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Clears heat from the Heart and Pericardium, alleviating itching and restlessness."
+        },
+        {
+          "id": 858,
+          "pattern_id": 248,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "A major point for draining dampness from the body, especially when the skin is oozing."
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "condition_id": 50,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Flaccid, loose blisters that rupture easily\", \"Thick, moist crusts and oozing\", \"Abdominal bloating, worse after eating\", \"Loose or unformed stools\", \"Heaviness of the body and limbs\", \"Fatigue and lack of energy\"]",
+      "worse_with": "Cold, raw, or greasy foods, Damp or humid weather, Overeating or irregular meals, Mental fatigue and worry",
+      "better_with": "Warm, cooked, simple meals, Dry, warm environment, Moderate rest and gentle walking",
+      "why_this_happens": "When the Spleen's ability to transform and transport fluids is weakened, dampness accumulates inside the body. This dampness rises to the skin and undermines its integrity, causing blisters that are loose and flaccid rather than tight and inflamed. The persistent oozing and thick crusts are a direct sign that the Spleen is too weak to dry out the excess moisture.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks and a white, greasy coating. Pulse: soggy (Ru) and slow (Huan), often lacking force at the right Guan position.",
+      "why_triggers_reliefs_work": "This pattern is rooted in a Spleen too weak to transform fluids, so anything that adds more dampness (cold, raw, greasy foods, damp weather) makes the blisters and heaviness worse. Warm, drying foods and a calm routine give the Spleen the support it needs to clear the excess moisture and rebuild Qi.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods like congee, steamed vegetables, and well-cooked grains. Avoid raw, cold, greasy, dairy, and sugary items that produce dampness. Gentle daily movement like walking helps the Spleen move fluids, but avoid overexertion.",
+      "formulas": [
+        {
+          "id": 542,
+          "pattern_id": 249,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "Dries dampness and strengthens the Spleen, addressing the root of the fluid accumulation that causes the blisters."
+        },
+        {
+          "id": 543,
+          "pattern_id": 249,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Tonifies Spleen Qi and leaches out dampness, helping the skin heal by restoring the body&#x27;s ability to manage fluids."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1274,
+          "pattern_id": 249,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies the Spleen and dries dampness, the key herb for restoring the organ&#x27;s transport function."
+        },
+        {
+          "id": 1275,
+          "pattern_id": 249,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Leaches out dampness and strengthens the Spleen, reducing oozing and heaviness."
+        },
+        {
+          "id": 1276,
+          "pattern_id": 249,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "",
+          "description": "Promotes urination to drain dampness, helping to clear the skin&#x27;s moisture overload."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 859,
+          "pattern_id": 249,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonifies Spleen Qi and resolves dampness."
+        },
+        {
+          "id": 860,
+          "pattern_id": 249,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, boosts Qi to support healing."
+        },
+        {
+          "id": 861,
+          "pattern_id": 249,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the lower burner and stops oozing."
+        },
+        {
+          "id": 862,
+          "pattern_id": 249,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen, Liver, and Kidney while removing dampness."
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "condition_id": 50,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Skin dry, scaly, and slow to heal; blisters few or stopped\", \"Deep fatigue and lack of strength\", \"Shortness of breath, worse with exertion\", \"Night sweats and warm palms/soles/chest\", \"Dry mouth and throat with little desire to drink\", \"Dizziness or poor appetite\"]",
+      "worse_with": "Overexertion or physical strain, Emotional stress and worry, Spicy, fried, or rich foods, Hot, dry weather or overheated rooms, Late nights and insufficient sleep",
+      "better_with": "Adequate rest, Gentle movement like walking, Moistening, easy-to-digest foods, Cool environment",
+      "why_this_happens": "After weeks or months of blistering and inflammation, the body's Qi and Yin fluids are deeply drained. The heat and dampness that once drove the acute blisters have subsided, but they have left the skin parched, the energy low, and the healing sluggish. Without enough Qi to move blood and enough Yin to moisten tissues, the skin becomes dry, scaly, and slow to repair, while fatigue and night sweats set in.",
+      "tongue_and_pulse": "Tongue: pale-red or red body, thin or absent coating, possibly cracked and dry. Pulse: fine (thready) and weak, often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are the body's energy and moisture reserves. Rest, gentle movement, and nourishing foods replenish them, allowing the skin to heal. Overwork, stress, and drying habits burn through these reserves, leaving the skin parched and the body exhausted. A cool, calm environment helps preserve Yin and prevents the flare of any lingering heat.",
+      "diet_and_lifestyle": "Eat moistening, easy-to-digest foods like rice congee, pears, steamed vegetables, and a little high-quality protein. Avoid spicy, fried, and overly drying foods that can further deplete Yin. Prioritize gentle movement such as walking or tai chi, and protect your sleep - resting deeply is how the body rebuilds Qi and Yin.",
+      "formulas": [
+        {
+          "id": 544,
+          "pattern_id": 250,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classic formula to nourish Qi and Yin, especially of the Lungs and Heart. It restores energy and moisture to the skin after prolonged illness and can be modified with herbs that clear any lingering heat."
+        },
+        {
+          "id": 545,
+          "pattern_id": 250,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 546,
+          "pattern_id": 250,
+          "formula_name": "Er Miao San",
+          "formula_url": "/knowledge-base/formulas/er-miao-san",
+          "translation": "Two-Marvel Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE (published 1481 CE)",
+          "properties": "Cold, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Dispels Dampness and Unblocks Painful Obstruction",
+          "description": "A classical two-herb formula used to clear Heat and dry Dampness from the lower body. It is commonly used for joint pain, swelling, and weakness in the legs and knees, as well as vaginal discharge, skin rashes, and eczema caused by Damp-Heat accumulating in the lower part of the body."
+        },
+        {
+          "id": 547,
+          "pattern_id": 250,
+          "formula_name": "Wei Ling Tang",
+          "formula_url": "/knowledge-base/formulas/wei-ling-tang",
+          "translation": "Stomach-Calming Poria Decoction &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Promotes Urination and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner",
+          "description": "A classical formula that combines two well-known prescriptions to address digestive troubles caused by excessive internal dampness. It helps relieve bloating, watery diarrhea, poor appetite, and fluid retention by strengthening the Spleen&#x27;s ability to process fluids while promoting healthy urination. Especially useful when dampness causes both digestive upset and water retention at the same time."
+        },
+        {
+          "id": 548,
+          "pattern_id": 250,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 549,
+          "pattern_id": 250,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 1277,
+          "pattern_id": 250,
+          "herb_name": "Xi Yang Shen",
+          "herb_url": "/knowledge-base/herbs/xi-yang-shen",
+          "translation": "American ginseng root",
+          "properties": "",
+          "description": "Tonifies Qi and Yin, generates fluids, and gently clears residual heat without being too drying."
+        },
+        {
+          "id": 1278,
+          "pattern_id": 250,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Yin and moistens dryness, particularly benefiting the Lungs and skin to reduce scaling."
+        },
+        {
+          "id": 1279,
+          "pattern_id": 250,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors",
+          "description": ""
+        },
+        {
+          "id": 1280,
+          "pattern_id": 250,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 1281,
+          "pattern_id": 250,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 1282,
+          "pattern_id": 250,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 1283,
+          "pattern_id": 250,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 1284,
+          "pattern_id": 250,
+          "herb_name": "Yin Chen",
+          "herb_url": "/knowledge-base/herbs/yin-chen",
+          "translation": "Virgate Wormwood Herb",
+          "properties": "Slightly Cool, Clears Heat and Drains Dampness, Promotes bile flow and relieves jaundice, Clears Damp-Heat from the Liver and Gallbladder",
+          "description": ""
+        },
+        {
+          "id": 1285,
+          "pattern_id": 250,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 1286,
+          "pattern_id": 250,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 1287,
+          "pattern_id": 250,
+          "herb_name": "Ze Xie",
+          "herb_url": "/knowledge-base/herbs/ze-xie",
+          "translation": "Water plantain rhizome",
+          "properties": "Cold, Promotes Urination and Drains Dampness, Clears Heat, Transforms Turbidity and Lowers Lipids",
+          "description": ""
+        },
+        {
+          "id": 1288,
+          "pattern_id": 250,
+          "herb_name": "Xi Yang Shen",
+          "herb_url": "/knowledge-base/herbs/xi-yang-shen",
+          "translation": "American ginseng root",
+          "properties": "Cool, Benefits Qi and Nourishes Yin, Clears Deficiency Heat, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 1289,
+          "pattern_id": 250,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 863,
+          "pattern_id": 250,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to support skin hydration and cool deficiency heat."
+        },
+        {
+          "id": 864,
+          "pattern_id": 250,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen Qi to build post-illness vitality and improve digestion."
+        },
+        {
+          "id": 865,
+          "pattern_id": 250,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonifies Qi to lift energy, promote healing, and relieve fatigue."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 312,
+      "condition_id": 50,
+      "question": "Can TCM help me reduce my steroid dose?",
+      "answer": "Yes, many patients find that adding TCM helps control blistering and inflammation, which may allow their dermatologist to gradually taper corticosteroids. Herbs that clear heat and resolve dampness can reduce the internal drivers of flare-ups. Never stop or reduce steroids on your own - always coordinate any tapering with both your prescribing doctor and your TCM practitioner."
+    },
+    {
+      "id": 313,
+      "condition_id": 50,
+      "question": "Is acupuncture safe when I have open blisters?",
+      "answer": "Acupuncture points are chosen away from active lesions to avoid infection and discomfort. Your practitioner will not needle directly into blistered or eroded skin. Instead, they use distal points on the arms, legs, and back that influence the affected organs and channels, making treatment safe even during active flares."
+    },
+    {
+      "id": 314,
+      "condition_id": 50,
+      "question": "How long until I see results?",
+      "answer": "Many people notice fewer new blisters and less itching within the first 2-4 weeks of consistent herbal and acupuncture treatment. Deeper healing and stabilization, especially for chronic or deficiency patterns, may take several months. The goal is not just to clear this flare but to correct the underlying imbalance so you stay in remission longer."
+    },
+    {
+      "id": 315,
+      "condition_id": 50,
+      "question": "Do I have to change my diet?",
+      "answer": "Diet plays a supporting role. In general, it's best to avoid spicy, greasy, and heavily processed foods that generate internal heat and dampness. Favor cooling, easily digested foods like mung beans, cucumber, winter melon, and congee. Your practitioner will offer more specific guidance based on your pattern - for example, someone with Spleen Deficiency will need warming, cooked foods rather than cold, raw ones."
+    },
+    {
+      "id": 316,
+      "condition_id": 50,
+      "question": "Will the blisters come back after TCM treatment?",
+      "answer": "TCM aims to reduce the frequency and severity of relapses by addressing the root imbalance, not just suppressing symptoms. Many patients experience longer remissions and milder flares when they do occur. However, pemphigus is a chronic condition, and ongoing maintenance with herbs, diet, and periodic acupuncture may be needed to sustain results."
+    },
+    {
+      "id": 317,
+      "condition_id": 50,
+      "question": "Can I use TCM if I'm already on immunosuppressants?",
+      "answer": "Yes, TCM is frequently used alongside conventional immunosuppressive therapy. Herbs and acupuncture can support your body's resilience, reduce side effects like fatigue and poor digestion, and target the underlying heat and dampness. Always provide your TCM practitioner with a complete list of your medications, and inform your dermatologist about all herbs you are taking."
+    }
+  ],
+  "research": [
+    {
+      "id": 82,
+      "condition_id": 50,
+      "title": "Chinese Medicine Guideline for Pemphigus",
+      "description": "This clinical practice guideline, developed by the China Association of Chinese Medicine Dermatology Branch, outlines four main TCM patterns for pemphigus: Toxic-Heat, Damp-Heat, Spleen Deficiency with Dampness, and Qi and Yin Deficiency. It provides herbal formulas, acupuncture points, and dietary advice for each pattern.",
+      "url": "",
+      "periodical": "China Association of Chinese Medicine Dermatology Branch. Chinese Medicine Guideline for Pemphigus. 2018."
+    },
+    {
+      "id": 83,
+      "condition_id": 50,
+      "title": "Traditional Chinese Medicine Compounds in Pemphigus: A Review",
+      "description": "This review analyzes the pharmacological mechanisms of TCM compounds used in pemphigus, including their anti-inflammatory, antioxidant, and immunomodulatory effects. It highlights herbs like Huang Qin, Huang Lian, and Jin Yin Hua as potentially beneficial for controlling disease activity.",
+      "url": "https://doi.org/10.3389/fimmu.2025.1629288",
+      "periodical": "Authors not specified. Traditional Chinese Medicine Compounds in Pemphigus: A Review. Frontiers in Immunology. 2025;16:1629288."
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "id": 490,
+  "name": "Urticaria",
+  "url": "/knowledge-base/conditions/urticaria",
+  "kind": "Condition",
+  "pinyin": "yǐn zhěn",
+  "chinese_name": "瘾疹",
+  "preview_text": "สีและอุณหภูมิของลมพิษของคุณไม่ได้สุ่ม แต่เป็นเบาะแสในการวินิจฉัยที่ชี้โดยตรงไปยังรูปแบบ TCM ที่อยู่เบื้องหลัง และด้วยการรักษาเฉพาะรูปแบบที่ถูกต้อง ...",
+  "categories": "[\"ผิวหนังอักเสบและบวม\", \"สภาพผิว\", \"โรคภูมิแพ้\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Urticaria (hives)\", \"Red skin rashes or hives\", \"Wind rash\", \"Rashes that appear and disappear suddenly\", \"Hives\", \"Acute Urticaria\", \"Acute urticaria (wind-cold type)\", \"Cold-Induced Urticaria\", \"Urticaria (cold-induced with Heat signs)\", \"Urticaria or skin rashes triggered by cold exposure\"]",
+  "conventional_description": "Urticaria, commonly known as hives, is a skin condition characterized by raised, red or skin-colored wheals that appear suddenly and are intensely itchy. They can range from a few millimeters to several centimeters in size and may join together to form larger plaques. The reaction is caused by the release of histamine and other chemicals from mast cells in the skin, often triggered by allergens, infections, stress, or physical stimuli like cold or pressure. Diagnosis is usually based on the appearance and history of the rash, though allergy testing may be done for persistent cases.",
+  "conventional_treatments": "First-line treatment typically involves non-sedating antihistamines to block the histamine response and relieve itching. If these are not enough, doctors may add H2 blockers, short courses of oral corticosteroids, or in chronic cases, prescription medications like omalizumab (a biologic) or immunosuppressants. Identifying and avoiding triggers is also a key part of management.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, hives are understood as a battle between the body's protective Defensive Qi (Wei Qi) and an invading pathogen, most often Wind. Wind is the key culprit because it causes symptoms that appear suddenly, move around, and disappear just as quickly - exactly how hives behave. When Wind invades the skin, it disrupts the normal opening and closing of the pores, trapping Qi and fluids beneath the surface and producing the characteristic raised wheals.\nBut Wind rarely acts alone. It often teams up with Heat or Cold, which explains why some people get red, burning hives that worsen with warmth, while others get pale, less itchy wheals that flare in cold weather.\nThe digestive system also plays a central role: when the Spleen and Stomach are overloaded by rich, greasy, or spicy foods, they generate internal Dampness and Heat that can steam upward and erupt through the skin as bright, angry hives accompanied by bloating or loose stools.\nIn chronic cases, the picture shifts from external invasion to internal weakness. When Qi and Blood are deficient, the body's protective barrier is too weak to resist even mild triggers, leading to recurrent, pale hives that come and go with fatigue or stress. This is why TCM doesn't just treat the rash - it looks deeper to find the root imbalance, whether it's an acute excess of Wind-Heat, a lingering digestive issue, or a long-standing deficiency that needs to be rebuilt.",
+  "classical_quote": "「瘾疹者，由邪气客于皮肤，复逢风寒相折，则起风瘙瘾疹。」",
+  "classical_translation": "\"Urticaria (瘾疹) occurs when pathogenic Qi lodges in the skin, and then encounters Wind-Cold, which triggers the eruption of itchy wind wheals.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Causes and Symptoms of Diseases)  ,  Volume 2, Wind Diseases \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the color, temperature, and timing of your wheals, as well as any triggers and accompanying symptoms. These clues point toward one of the five main patterns behind urticaria. The tongue and pulse are then examined to confirm the diagnosis, because each pattern leaves its own signature on these internal signs.\nIf the wheals are bright red, feel burning hot, and flare up in warm weather or after hot food, Wind-Heat is likely. The tongue will be red with a thin yellow coating, and the pulse will feel floating and rapid. This pattern is very common in acute outbreaks that come on suddenly and itch intensely.\nWhen the wheals are pale or light-red, worsen in cold air or after cold drinks, and may be accompanied by chills, the picture shifts to Wind-Cold. Here the tongue is pale with a thin white coating, and the pulse is floating and tight. The body is essentially reacting to a cold invasion that traps wind in the skin.\nDigestive symptoms like abdominal pain, diarrhea, or constipation alongside bright red wheals suggest Damp-Heat in Stomach and Spleen. The tongue coating will be yellow and greasy, and the pulse will feel slippery and rapid. This pattern often follows a heavy, rich meal or long-standing digestive imbalance that generates internal heat and dampness.\nChronic or recurrent hives that are pale or skin-colored, with fatigue, dizziness, and a pale complexion, point to Qi and Blood Deficiency. The tongue looks pale with a thin coating, and the pulse is thin and weak. Here the body lacks the strength to defend itself, and minor triggers like stress or a slight breeze can set off an outbreak.\nA severe acute attack with bright red, burning wheals that merge into large plaques, high fever, and chills signals Toxic-Heat. The tongue is red with a yellow or dry coating, and the pulse is flooding and rapid. This is a more intense heat pattern that requires immediate attention to cool the blood and clear toxins.",
+  "patterns": [
+    {
+      "id": 2370,
+      "condition_id": 490,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Red, raised wheals with a burning sensation\", \"Wheals appear and disappear quickly, shifting locations\", \"Itching that intensifies in warmth and eases with coolness\", \"Sore throat, mild fever, and thirst\"]",
+      "worse_with": "Hot weather or warm rooms, Spicy, fried, or greasy foods, Alcohol, Emotional stress",
+      "better_with": "Cool compresses or cool showers, Drinking mint or chrysanthemum tea, Rest in a cool, well-ventilated room, Avoiding spicy and greasy foods",
+      "why_this_happens": "When Wind-Heat invades the body, it first attacks the skin and the Defensive (Wei) Qi that circulates at the surface. The Heat component makes the wheals red, hot, and intensely itchy, while the Wind nature causes them to appear and disappear suddenly. This acute pattern often follows exposure to warm wind, overheating, or spicy foods, and the rash worsens with warmth because Heat already inflames the skin.",
+      "tongue_and_pulse": "Tongue: red at tip and edges with a thin yellow coating. Pulse: floating (浮 fú) and rapid (数 shuò), easily felt at the surface.",
+      "why_triggers_reliefs_work": "Wind-Heat urticaria is driven by Heat and Wind trapped at the skin's surface. Heat-whether from the environment, food, or alcohol-adds fuel to the fire, making wheals redder and itchier. Cooling measures like cold compresses, cooling teas, and a calm environment help disperse that Heat, while avoiding spicy and greasy foods prevents further internal Heat from rising to the skin. Stress can stir up internal Wind, which is why emotional upset can also trigger or worsen the rash.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods, as well as alcohol, which add Heat to the body. Drink cooling teas like chrysanthemum, mint, or dandelion. Keep the environment cool and wear light, breathable clothing. A gentle rinse with cool water can soothe acute itching.",
+      "formulas": [
+        {
+          "id": 5408,
+          "pattern_id": 2370,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The classic formula to disperse Wind-Heat and release the exterior, especially when sore throat and fever are present."
+        },
+        {
+          "id": 5409,
+          "pattern_id": 2370,
+          "formula_name": "Xiao Feng San",
+          "formula_url": "/knowledge-base/formulas/xiao-feng-san",
+          "translation": "Eliminate Wind Powder &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Cool, Dispels Wind and Stops Itching, Clears Heat, Drains Dampness",
+          "description": "Specifically designed to eliminate Wind and clear Heat from the skin, stopping itching and reducing red wheals."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12757,
+          "pattern_id": 2370,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves toxicity at the surface, reducing redness and inflammation."
+        },
+        {
+          "id": 12758,
+          "pattern_id": 2370,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Wind-Heat and cools the skin, helping wheals fade."
+        },
+        {
+          "id": 12759,
+          "pattern_id": 2370,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases the exterior and vents rashes with its light, cooling nature."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8567,
+          "pattern_id": 2370,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and stops itching; a key point for all skin conditions with redness."
+        },
+        {
+          "id": 8568,
+          "pattern_id": 2370,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Dispels Wind and releases the exterior, calming the erratic appearance of wheals."
+        },
+        {
+          "id": 8569,
+          "pattern_id": 2370,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the Blood and relieves itching, especially when wheals are hot and red."
+        }
+      ]
+    },
+    {
+      "id": 2371,
+      "condition_id": 490,
+      "pattern_name": "Wind-Cold",
+      "pattern_slug": "wind-cold",
+      "is_common": 0,
+      "symptoms": "[\"Pale or light-red wheals\", \"Worse with cold exposure\", \"Chills with no sweating\", \"Headache and body aches\", \"No thirst or preference for warm drinks\"]",
+      "worse_with": "Cold weather, Cold wind or drafts, Cold drinks, Cold or raw foods, Dampness",
+      "better_with": "Warmth, Warm drinks, Ginger tea, Rest, Warm clothing",
+      "why_this_happens": "When Wind and Cold invade the body's surface, they obstruct the pores and block the flow of defensive Qi (Wei Qi). The skin loses its ability to open and close properly, so pale or light-red wheals erupt suddenly. Because Cold contracts and slows circulation, the itching and swelling intensify in cold conditions and ease with warmth.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with thin white moist coating. Pulse: floating and tight.",
+      "why_triggers_reliefs_work": "Wind-Cold invades the surface and constricts the pores, trapping defensive Qi. Cold and wind worsen this constriction, while warmth relaxes the surface and helps Qi flow again, easing the wheals. Warm drinks and ginger tea help push the pathogen out through a gentle sweat, which is why they bring relief.",
+      "diet_and_lifestyle": "Dress warmly and avoid drafts. Sip warm ginger tea to help release the exterior. Avoid cold drinks, raw foods, and swimming in cold water, which can trap cold in the body.",
+      "formulas": [
+        {
+          "id": 5410,
+          "pattern_id": 2371,
+          "formula_name": "Gui Zhi Ma Huang Ge Ban Tang",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-ma-huang-ge-ban-tang",
+          "translation": "Cinnamon Twig and Ephedra Half-and-Half Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Induces Mild Sweating to Release the Exterior, Harmonizes the Nutritive and Defensive Qi, Disperses Wind-Cold",
+          "description": "The primary formula to dispel Wind-Cold from the exterior, harmonize the protective and nutritive Qi, and stop itching."
+        },
+        {
+          "id": 5411,
+          "pattern_id": 2371,
+          "formula_name": "Jing Fang Bai Du San",
+          "formula_url": "/knowledge-base/formulas/jing-fang-bai-du-san",
+          "translation": "Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences &#xB7; M&#xED;ng dynasty, 1550 CE",
+          "properties": "Slightly Warm, Disperses Wind-Cold, Releases the Exterior, Drains Dampness",
+          "description": "An alternative to release the exterior and scatter cold, especially when body aches are prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12760,
+          "pattern_id": 2371,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and releases the exterior to relieve cold-type wheals."
+        },
+        {
+          "id": 12761,
+          "pattern_id": 2371,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "",
+          "description": "Disperses Wind-Cold and stops itching by opening the pores."
+        },
+        {
+          "id": 12762,
+          "pattern_id": 2371,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Expels Wind from the skin and alleviates itching without drying."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8570,
+          "pattern_id": 2371,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Dispels Wind from the skin and relieves itching."
+        },
+        {
+          "id": 8571,
+          "pattern_id": 2371,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Releases the exterior and alleviates itching by moving Qi."
+        },
+        {
+          "id": 8572,
+          "pattern_id": 2371,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels Wind and Cold from the head and neck."
+        },
+        {
+          "id": 8573,
+          "pattern_id": 2371,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Warms Yang and dispels Cold, especially for chills and body aches."
+        }
+      ]
+    },
+    {
+      "id": 2372,
+      "condition_id": 490,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Bright red wheals\", \"Abdominal bloating or pain\", \"Sticky or loose bowel movements\", \"Bitter or sticky taste in the mouth\", \"Thirst with little desire to drink\", \"Heavy, foggy feeling in the head or body\"]",
+      "worse_with": "Greasy, fried foods, Alcohol, Spicy, pungent foods, Hot, humid weather, Overeating",
+      "better_with": "Light, easily digestible meals, Cooling foods like cucumber or mung beans, Regular bowel movements, Gentle exercise like walking",
+      "why_this_happens": "When the digestive system is overloaded by rich, greasy, or spicy foods and alcohol, it can't process them properly. Dampness and Heat build up in the Stomach and Intestines, creating a kind of internal steam. This Damp-Heat then overflows into the skin, erupting as bright red, intensely itchy wheals that often flare up alongside abdominal bloating, pain, or bowel changes.",
+      "tongue_and_pulse": "Tongue: red body with a thick, yellow, greasy coating, especially at the centre and root. Pulse: soggy (Ru) and rapid (Shu), often also slippery (Hua).",
+      "why_triggers_reliefs_work": "Greasy, spicy foods and alcohol directly generate Dampness and Heat, which are the root cause of this pattern. They overload the Spleen and Stomach, causing the internal steam that erupts on the skin. Hot, humid weather adds external Damp-Heat, making matters worse. On the other hand, light, cooling foods and regular bowel movements help the body clear Damp-Heat. Gentle exercise moves Qi, which is essential for transforming and draining Dampness.",
+      "diet_and_lifestyle": "Eat light, easily digestible meals. Steer clear of greasy, fried, or very spicy foods, and avoid alcohol completely during a flare-up. Cooling foods like mung beans, cucumber, and celery can help. Gentle daily movement like walking supports digestion and helps clear Dampness. Do not overeat; eat until you are about 70% full.",
+      "formulas": [
+        {
+          "id": 5412,
+          "pattern_id": 2372,
+          "formula_name": "Fang Feng Tong Sheng San",
+          "formula_url": "/knowledge-base/formulas/fang-feng-tong-sheng-san",
+          "translation": "Saposhnikovia Sage-Like Powder &#xB7; J&#x12B;n dynasty, c. 1172 CE",
+          "properties": "Cool, Releases the Exterior and Disperses Wind-Cold, Clears Interior Heat, Purges Heat and Unblocks the Bowels",
+          "description": "Clears Heat and Dampness from the Stomach and Intestines, unblocks the bowels, and expels Wind to stop itching."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12763,
+          "pattern_id": 2372,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness from the digestive system."
+        },
+        {
+          "id": 12764,
+          "pattern_id": 2372,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Expels Wind and relieves itching, especially useful when hives are triggered by dietary factors."
+        },
+        {
+          "id": 12765,
+          "pattern_id": 2372,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness and supports the Spleen, helping to clear the root of the problem."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8574,
+          "pattern_id": 2372,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Harmonises the Stomach and resolves Dampness, a key point for digestive issues."
+        },
+        {
+          "id": 8575,
+          "pattern_id": 2372,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the Intestines and clears Damp-Heat from the bowels."
+        },
+        {
+          "id": 8576,
+          "pattern_id": 2372,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat from the body and stops itching."
+        },
+        {
+          "id": 8577,
+          "pattern_id": 2372,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms Dampness and Phlegm, addressing the underlying Damp-Heat."
+        }
+      ]
+    },
+    {
+      "id": 2373,
+      "condition_id": 490,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Pale or skin-colored wheals, not bright red\", \"Wheals worse at night and after fatigue\", \"Dizziness and lightheadedness\", \"Persistent fatigue and lack of energy\", \"Poor appetite\"]",
+      "worse_with": "Overwork and exhaustion, Skipping meals or irregular eating, Cold or raw foods, Emotional stress, Cold wind or drafts",
+      "better_with": "Adequate sleep and rest, Warm, easily digestible meals, Gentle exercise like walking, Stress reduction",
+      "why_this_happens": "When Qi and Blood are both insufficient, the body's protective Wei Qi becomes too weak to guard the skin against outside invaders like Wind. Blood deficiency also means the skin is not properly nourished, making it dry and reactive. The result is recurrent, pale or skin-colored wheals that appear when you are run down, tired, or stressed - a sign that your reserves cannot sustain a healthy barrier.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine and weak (细弱 xì ruò).",
+      "why_triggers_reliefs_work": "Qi and Blood Deficiency leaves the body's exterior unguarded. Rest and nourishing food replenish the Qi and Blood that build a strong defensive shield, while overwork, poor diet, and stress drain those reserves further. Cold wind easily penetrates a weakened exterior, provoking hives. By strengthening the Spleen and Blood, the skin becomes less reactive and breakouts fade.",
+      "diet_and_lifestyle": "Build your reserves with warm, nourishing foods: bone broth, congee, dark leafy greens, red dates, and small portions of high-quality protein. Avoid raw, cold, and greasy foods that tax the Spleen. Prioritize regular meals and adequate sleep. Gentle daily movement like walking or qigong helps circulate Qi without depleting it.",
+      "formulas": [
+        {
+          "id": 5413,
+          "pattern_id": 2373,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "Tonifies both Qi and Blood to address the root deficiency that leaves the skin vulnerable."
+        },
+        {
+          "id": 5414,
+          "pattern_id": 2373,
+          "formula_name": "Yu Ping Feng San",
+          "formula_url": "/knowledge-base/formulas/yu-ping-feng-san",
+          "translation": "Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating",
+          "description": "Strengthens the defensive Qi to prevent Wind from invading and triggering hives."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12766,
+          "pattern_id": 2373,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates Blood, easing the dryness and itch that come from Blood deficiency."
+        },
+        {
+          "id": 12767,
+          "pattern_id": 2373,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully boosts Qi and stabilizes the exterior, reducing the frequency of breakouts."
+        },
+        {
+          "id": 12768,
+          "pattern_id": 2373,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to build more Qi and Blood from food."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8578,
+          "pattern_id": 2373,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and Stomach to generate Qi and Blood."
+        },
+        {
+          "id": 8579,
+          "pattern_id": 2373,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and calms the skin."
+        },
+        {
+          "id": 8580,
+          "pattern_id": 2373,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Fortifies original Qi to reinforce the body&#x27;s defenses."
+        },
+        {
+          "id": 8581,
+          "pattern_id": 2373,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Nourishes Blood and relieves itching by extinguishing wind."
+        }
+      ]
+    },
+    {
+      "id": 2374,
+      "condition_id": 490,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever and chills\", \"Bright red wheals that quickly merge into large, burning plaques\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Constipation and dark scanty urine\", \"Red tongue body with prickly thorns and dry yellow coating\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Alcohol and coffee, Hot weather or hot showers, Emotional stress and anger, Overexertion and lack of sleep",
+      "better_with": "Cool room and cold compresses, Cooling foods like cucumber or mung beans, Plenty of water, Rest and quiet, Acupuncture that clears Heat",
+      "why_this_happens": "Toxic-Heat is a severe, blazing form of internal Heat that flares up when external pathogens like Wind-Heat or Damp-Heat are not cleared and instead sink deeper, or when intense emotional upset and rich, greasy food generate fire poison. This fierce Heat surges into the blood and skin, erupting as bright red, burning wheals that merge into large plaques. The Heat also disturbs the body's thermostat and fluids, producing high fever, chills, intense thirst, and a restless, agitated mind.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns, dry yellow coating. Pulse: rapid (shu) and forceful (you li), often surging (hong) or slippery (hua).",
+      "why_triggers_reliefs_work": "<p>Toxic-Heat is a fierce internal fire that consumes Yin and pushes Heat into the blood and skin. Cooling foods and cold compresses directly counteract the Heat, while rest and quiet conserve the body's Yin, which is being scorched. Spicy food, alcohol, and emotional stress add more Heat and stir up internal fire, making the wheals redder and more intense. Hot environments and overexertion further fan the flames, while gentle cooling and hydration help the body return to balance.</p>",
+      "diet_and_lifestyle": "Avoid all heating and stimulating foods - alcohol, coffee, spicy dishes, fried and greasy items, lamb, and shellfish. Embrace cooling, hydrating foods like cucumber, watermelon, mung bean soup, and plenty of room-temperature water. Rest in a cool, quiet space and avoid overheating; a lukewarm shower can calm burning skin without shocking it.",
+      "formulas": [
+        {
+          "id": 5415,
+          "pattern_id": 2374,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "Added to drain fire and eliminate toxin from all three burners, especially when fever and burning wheals are severe."
+        },
+        {
+          "id": 5416,
+          "pattern_id": 2374,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 5417,
+          "pattern_id": 2374,
+          "formula_name": "Xiao Feng San",
+          "formula_url": "/knowledge-base/formulas/xiao-feng-san",
+          "translation": "Eliminate Wind Powder &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Cool, Dispels Wind and Stops Itching, Clears Heat, Drains Dampness",
+          "description": "A classical formula for itchy, red skin rashes that may ooze fluid after scratching, such as eczema, hives, and allergic dermatitis. It works by dispersing Wind from the skin surface, clearing Heat, draining Dampness, and nourishing the Blood to address both the symptoms and the underlying causes of these skin eruptions."
+        },
+        {
+          "id": 5418,
+          "pattern_id": 2374,
+          "formula_name": "Gui Zhi Ma Huang Ge Ban Tang",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-ma-huang-ge-ban-tang",
+          "translation": "Cinnamon Twig and Ephedra Half-and-Half Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Induces Mild Sweating to Release the Exterior, Harmonizes the Nutritive and Defensive Qi, Disperses Wind-Cold",
+          "description": "A gentle classical formula for lingering colds that won&#x27;t fully resolve, combining two famous prescriptions (Gui Zhi Tang and Ma Huang Tang) at reduced doses. It promotes a mild sweat to clear the remaining cold pathogen trapped at the body&#x27;s surface while supporting the body&#x27;s own defensive systems. It is also widely used for cold-triggered skin itching and hives."
+        },
+        {
+          "id": 5419,
+          "pattern_id": 2374,
+          "formula_name": "Jing Fang Bai Du San",
+          "formula_url": "/knowledge-base/formulas/jing-fang-bai-du-san",
+          "translation": "Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences &#xB7; M&#xED;ng dynasty, 1550 CE",
+          "properties": "Slightly Warm, Disperses Wind-Cold, Releases the Exterior, Drains Dampness",
+          "description": "A classical formula used to relieve the early stages of colds and flu caused by exposure to Wind-Cold and Dampness, with symptoms such as chills, fever, headache, body aches, nasal congestion, and cough with white phlegm. It is also commonly used for early-stage skin conditions such as boils and hives when accompanied by chills and body aches."
+        },
+        {
+          "id": 5420,
+          "pattern_id": 2374,
+          "formula_name": "Fang Feng Tong Sheng San",
+          "formula_url": "/knowledge-base/formulas/fang-feng-tong-sheng-san",
+          "translation": "Saposhnikovia Sage-Like Powder &#xB7; J&#x12B;n dynasty, c. 1172 CE",
+          "properties": "Cool, Releases the Exterior and Disperses Wind-Cold, Clears Interior Heat, Purges Heat and Unblocks the Bowels",
+          "description": "A powerful classical formula that simultaneously addresses problems at the body&#x27;s surface and interior. It is used when someone has caught a Wind-Heat illness with fever, headache, constipation, and dark urine, all at the same time. It is also widely used in modern practice for skin conditions like hives and acne, and for obesity and metabolic concerns where internal Heat accumulation is the root cause."
+        },
+        {
+          "id": 5421,
+          "pattern_id": 2374,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 5422,
+          "pattern_id": 2374,
+          "formula_name": "Yu Ping Feng San",
+          "formula_url": "/knowledge-base/formulas/yu-ping-feng-san",
+          "translation": "Jade Windscreen Powder &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Secures the Exterior, Astringes to Stop Sweating",
+          "description": "A simple but highly valued three-herb formula used to strengthen the body&#x27;s natural defenses against colds, flu, and allergies. It is especially helpful for people who catch colds easily, sweat spontaneously, or have a generally weak constitution. The name &quot;Jade Windscreen&quot; reflects its role as a precious shield against illness-causing pathogens."
+        },
+        {
+          "id": 5423,
+          "pattern_id": 2374,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12769,
+          "pattern_id": 2374,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "",
+          "description": "Deeply cools the blood, clears Heart and Liver fire, and resolves toxin - a modern substitute for rhinoceros horn."
+        },
+        {
+          "id": 12770,
+          "pattern_id": 2374,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools the blood, clears Heat, and invigorates circulation to reduce red, swollen skin eruptions."
+        },
+        {
+          "id": 12771,
+          "pattern_id": 2374,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears intense Heat and resolves fire toxin, especially from the Heart and Stomach, which often reflect on the skin."
+        },
+        {
+          "id": 12772,
+          "pattern_id": 2374,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Drains fire, eliminates irritability, and guides Heat out through the urine, cooling the whole body."
+        },
+        {
+          "id": 12773,
+          "pattern_id": 2374,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 12774,
+          "pattern_id": 2374,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 12775,
+          "pattern_id": 2374,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 12776,
+          "pattern_id": 2374,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 12777,
+          "pattern_id": 2374,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Disperses Wind-Cold, Descends Lung Qi and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 12778,
+          "pattern_id": 2374,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 12779,
+          "pattern_id": 2374,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 12780,
+          "pattern_id": 2374,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 12781,
+          "pattern_id": 2374,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 12782,
+          "pattern_id": 2374,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 12783,
+          "pattern_id": 2374,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 12784,
+          "pattern_id": 2374,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors",
+          "description": ""
+        },
+        {
+          "id": 12785,
+          "pattern_id": 2374,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat",
+          "description": ""
+        },
+        {
+          "id": 12786,
+          "pattern_id": 2374,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 12787,
+          "pattern_id": 2374,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8582,
+          "pattern_id": 2374,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and stops itching - a key point for all hot, red skin conditions."
+        },
+        {
+          "id": 8583,
+          "pattern_id": 2374,
+          "acupoint_code": "BL-40",
+          "acupoint_name": "Weizhong BL-40",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/weizhong-bl-40",
+          "translation": "W&#x11B;i Zh&#x14D;",
+          "properties": "Cools the blood, Clears Summer-Heat",
+          "description": "Clears Heat and cools the blood; often bled to release fire toxin from the blood."
+        },
+        {
+          "id": 8584,
+          "pattern_id": 2374,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat, dispels Wind, and cools the skin - essential for acute urticaria."
+        },
+        {
+          "id": 8585,
+          "pattern_id": 2374,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears Heat and resolves toxin, especially when high fever is present."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3193,
+      "condition_id": 490,
+      "question": "Can acupuncture really stop hives?",
+      "answer": "Yes, especially during an acute outbreak. Acupuncture helps calm the immune response, dispel Wind, and cool the blood - which can relieve itching and reduce the size of wheals within a single session. For chronic hives, regular weekly treatments over several weeks work to correct the underlying imbalance so that outbreaks become less frequent and less intense."
+    },
+    {
+      "id": 3194,
+      "condition_id": 490,
+      "question": "How long does it take for Chinese herbs to work on hives?",
+      "answer": "Acute Wind-Heat or Wind-Cold hives often improve within a day or two of starting the right herbal formula. Damp-Heat and Toxic-Heat patterns may take a week or two to fully settle. Chronic hives rooted in Qi and Blood deficiency typically need 2-3 months of consistent herbal therapy to rebuild the body's reserves and break the cycle of recurrence."
+    },
+    {
+      "id": 3195,
+      "condition_id": 490,
+      "question": "Can I keep taking antihistamines while using Chinese herbs?",
+      "answer": "Yes, it's generally safe to combine them. Many patients start TCM while still using their usual antihistamines and then gradually reduce the medication as symptoms improve. Always tell both your TCM practitioner and your doctor about everything you're taking so they can coordinate your care safely."
+    },
+    {
+      "id": 3196,
+      "condition_id": 490,
+      "question": "What foods should I avoid if I have hives?",
+      "answer": "In TCM, spicy, greasy, and deep-fried foods, alcohol, shellfish, and excessive sugar are common triggers because they create internal Heat and Dampness. If your hives are linked to digestive symptoms, pay extra attention to how you feel after meals. Cooling foods like cucumber, mung beans, and chrysanthemum tea are often helpful, but the ideal diet depends on your specific pattern."
+    },
+    {
+      "id": 3197,
+      "condition_id": 490,
+      "question": "Why do my hives keep coming back even though I avoid triggers?",
+      "answer": "Recurring hives often point to an underlying deficiency - your body's protective Qi may be too weak to fend off everyday exposures. TCM sees this as a Qi and Blood deficiency pattern, where the skin isn't properly nourished and the immune barrier is fragile. Simply avoiding triggers isn't enough; the constitution needs to be strengthened with herbs, diet, and acupuncture to stop the cycle."
+    },
+    {
+      "id": 3198,
+      "condition_id": 490,
+      "question": "Is TCM safe for hives during pregnancy?",
+      "answer": "Yes, when guided by a qualified practitioner. Many acupuncture points and gentle herbal formulas are safe during pregnancy and can provide relief without the medications that are often restricted. However, certain herbs and strong points are avoided, so always make sure your practitioner knows you are pregnant before treatment begins."
+    }
+  ],
+  "research": [
+    {
+      "id": 728,
+      "condition_id": 490,
+      "title": "The Efficacy and Safety of a Fixed Combination of Chinese Herbal Medicine in Chronic Urticaria: A Randomized, Double-Blind, Placebo-Controlled Pilot Study",
+      "description": "This pilot RCT tested a fixed herbal formula based on Xiao-Feng San in patients with chronic urticaria. After 12 weeks, the herbal group showed significantly greater reduction in urticaria activity scores than placebo, with no serious adverse events. The formula targeted Wind-Heat and Damp-Heat patterns, common in chronic hives.",
+      "url": "https://doi.org/10.3389/fphar.2018.01474",
+      "periodical": "Chan, H. H. L., et al. Frontiers in Pharmacology, 2018."
+    },
+    {
+      "id": 729,
+      "condition_id": 490,
+      "title": "Efficacy and safety of modified Xiao-Feng Powder in the treatment of chronic urticaria: a systematic review and meta-analysis",
+      "description": "This meta-analysis pooled data from multiple RCTs on modified Xiao-Feng Powder (a classic formula for Wind-Heat and Damp-Heat urticaria). Results showed that the herbal formula significantly improved total effective rate and reduced recurrence compared to antihistamines alone, with a favorable safety profile.",
+      "url": "https://doi.org/10.1186/s13020-022-00642-3",
+      "periodical": "Zhang, Y., et al. Chinese Medicine, 2022."
+    }
+  ]
+}

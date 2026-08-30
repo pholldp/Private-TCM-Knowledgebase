@@ -1,0 +1,737 @@
+{
+  "id": 470,
+  "name": "Skin Burns",
+  "url": "/knowledge-base/conditions/skin-burns",
+  "kind": "Condition",
+  "pinyin": "shāo shāng",
+  "chinese_name": "烧伤",
+  "preview_text": "The same burn can be a raging fire in the first 48 hours and a deep exhaustion two weeks later - TCM treats each stage differently, and many patients find that herbs and acupunctur...",
+  "categories": "[\"Injuries, Burns & Wounds\", \"Skin Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Burns\", \"Minor Burns\", \"Burns and Scalds\", \"Burn wound\"]",
+  "conventional_description": "Burns are tissue injuries caused by heat, chemicals, electricity, radiation, or friction. They are classified by depth - first-degree (superficial, like sunburn), second-degree (partial thickness with blisters), and third-degree (full thickness, destroying all skin layers) - and by the percentage of body surface area involved.\nSymptoms range from pain, redness, and swelling to severe blistering, charring, and systemic shock. Diagnosis is clinical, based on appearance, history of injury, and sometimes imaging to assess deeper damage.",
+  "conventional_treatments": "Standard burn care begins with cooling the wound, gentle cleansing, and applying topical antibiotic ointments or advanced dressings to prevent infection and maintain a moist healing environment. Pain is managed with over-the-counter analgesics or prescription medications. Deeper burns may require intravenous fluids, tetanus prophylaxis, surgical debridement, and skin grafting. Severe burns are treated in specialized burn centers with multidisciplinary support.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM views a burn as a direct invasion of external Fire toxin (火毒, huǒ dú) that scorches the skin and penetrates deeper into the body. The initial injury is a fierce excess of Heat that flares up in the local tissues, causing the classic redness, swelling, heat, and intense pain. This Heat can quickly enter the Blood level, stirring up a systemic storm of high fever, thirst, and agitation - what TCM calls Toxic-Heat blazing in the Qi and Blood.\nBut the story doesn't end there. Fire toxin is a voracious consumer of fluids. As the burn progresses, the body's cooling, moistening Yin is rapidly depleted, especially if the person has a constitutional tendency toward dryness. This creates an Empty-Heat pattern where the fire is no longer balanced by Yin - the wound may still feel warm, but the person now has a dry mouth, night sweats, and a thin, rapid pulse.\nThe organs most affected are the Heart (which governs blood and houses the Shen), the Liver (which stores blood), and the Kidneys (the foundation of Yin).\nIf the burn is severe or prolonged, the Spleen's ability to produce Qi and hold blood within vessels can falter, leading to pale, oozing wounds and extreme fatigue. Eventually, both Qi and Yin may be depleted, leaving the person exhausted and slow to heal.\nIn the rarest and most severe cases, even the warming Yang of the Spleen can be exhausted, causing internal Cold and digestive collapse. This is why TCM doesn't treat a burn as a static wound - it treats it as a moving target, with different patterns dominating at different times.",
+  "classical_quote": "「凡汤火伤，急以冷水和药涂之，或浸之。」",
+  "classical_translation": "\"For all hot liquid and fire burns, immediately mix medicine with cold water and apply it to the wound, or soak the wound in it. This is one of the earliest recorded TCM instructions for cooling a burn and using herbal pastes to prevent further damage.\"",
+  "classical_source": "Zhou Hou Bei Ji Fang (Emergency Formulas to Keep Up One's Sleeve)  ,  Volume 5, Treatment of Burns and Scalds \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first looks at the burn wound itself and asks about the timeline. Burns are understood as a progression of heat and fluid loss, so whether the injury happened hours ago, days ago, or weeks ago is the first big clue that points toward one pattern over another.\nWhen the burn is very fresh and the area is bright red, swollen, intensely hot, and painful, the Toxic-Heat pattern dominates. The person may feel feverish and thirsty, and the tongue is red with a yellow coating while the pulse feels rapid and forceful. This is the body's acute defensive reaction to the fire toxin.\nAfter a few days, if the initial heat has consumed fluids, an Empty-Heat from Yin Deficiency pattern can appear. The wound may still be warm but the person has a lingering low fever, a dry mouth, and a tongue that is red with very little coating. The pulse feels thin and rapid, signaling that cooling nourishment is needed rather than more strong heat-clearing.\nWhen burns cause significant fluid loss and weaken the body's holding power, the Qi not controlling Blood pattern emerges. The person looks pale and feels exhausted, with oozing that seems slow to stop. The tongue is pale and the pulse is weak and thready, showing that the spleen Qi is too depleted to keep blood in the vessels.\nDuring the longer recovery phase, many people slip into a Qi and Yin Deficiency pattern. They have poor appetite, feel bloated and listless, and the tongue stays red with a scant coat while the pulse remains thready and fast. This reflects a deep depletion of both energy and fluids that needs gentle rebuilding.\nIn very severe or prolonged cases, the body's warming fire can be exhausted, leading to Spleen Yang Deficiency. The person feels cold, especially in the limbs and abdomen, and the tongue appears puffy and pale with teeth marks. The pulse is deep and slow, a sign that the digestive fire has dimmed and needs to be rekindled.",
+  "patterns": [
+    {
+      "id": 2270,
+      "condition_id": 470,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever or burning sensation all over\", \"Red, swollen, hot, and extremely painful burn site\", \"Intense thirst with a strong craving for cold drinks\", \"Dark, scanty urine or constipation\", \"Restlessness, irritability, or agitation\", \"Dry mouth and throat, flushed face\"]",
+      "worse_with": "Exposure to heat or sun, Spicy and fried foods, Alcohol or coffee, Emotional stress or anger",
+      "better_with": "Cool, clean compress on the burn, Cold or room-temperature drinks, Quiet, cool room, Mung bean soup or chrysanthemum tea",
+      "why_this_happens": "Burns are a direct invasion of Fire toxin into the skin. This external Heat blazes fiercely, scorching the local tissues and creating the classic signs of redness, swelling, heat, and intense pain. As the toxin penetrates deeper, it enters the Qi and Blood levels, stirring up a systemic storm of high fever, raging thirst, and restlessness - the body's own Qi fighting a losing battle against a formidable pathogen.",
+      "tongue_and_pulse": "Tongue: red body, often with prickly red thorns on the tip and centre, and a dry yellow coating. Pulse: rapid (数 shuò) and forceful, full (实 shí) or overflowing (洪 hóng), especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Toxic-Heat is an aggressive, blazing pathogen. Anything that adds more Heat - spicy food, alcohol, hot environments, or emotional frustration - fans the flames and intensifies symptoms. Cooling measures, both internally (cold drinks, cooling foods) and externally (cool compresses, rest in a cool space), directly counteract the Heat, giving the body's Qi a chance to regain control and prevent the toxin from sinking deeper.",
+      "diet_and_lifestyle": "Keep the burn clean and cool, and avoid any greasy, spicy, or fried foods that add internal Heat. Drink plenty of room-temperature water or mild cooling teas like chrysanthemum or mung bean soup. Rest in a calm, cool environment and avoid alcohol completely until the acute Heat subsides.",
+      "formulas": [
+        {
+          "id": 5179,
+          "pattern_id": 2270,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "The core formula to drain Fire and resolve Toxin, directly countering the intense Heat of acute burns."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12188,
+          "pattern_id": 2270,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heart Fire and drains Damp-Heat, a principal herb for resolving Fire toxin."
+        },
+        {
+          "id": 12189,
+          "pattern_id": 2270,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat from the upper burner and cools the Blood, reducing redness and swelling."
+        },
+        {
+          "id": 12190,
+          "pattern_id": 2270,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves toxicity, particularly effective for skin sores and burns."
+        },
+        {
+          "id": 12191,
+          "pattern_id": 2270,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Drains Heat from all three burners and cools the Blood, relieving irritability and thirst."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8209,
+          "pattern_id": 2270,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. Clears Heat from the face and body, alleviates pain, and expels exterior pathogens."
+        },
+        {
+          "id": 8210,
+          "pattern_id": 2270,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce. Drains Fire, cools the Blood, and calms skin inflammation."
+        },
+        {
+          "id": 8211,
+          "pattern_id": 2270,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Subdues Liver Fire and helps cool the Blood, calming restlessness."
+        },
+        {
+          "id": 8212,
+          "pattern_id": 2270,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Reduce or bleed. Cools the Blood and dispels Blood stasis, directly benefiting burned skin."
+        }
+      ]
+    },
+    {
+      "id": 2271,
+      "condition_id": 470,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Lingering low-grade fever or heat sensation\", \"Heat in the palms, soles, and chest (five-palm heat)\", \"Night sweats, especially during sleep\", \"Dry mouth and throat, worse in the evening\", \"Flushed cheekbones (malar flush)\", \"Irritability and restlessness\", \"Red tongue with little or no coating\"]",
+      "worse_with": "Spicy and fried foods, Overwork and overexertion, Emotional stress or anger",
+      "better_with": "Cooling, hydrating foods, Rest and sleep, Cool, humid environment",
+      "why_this_happens": "Burns are a direct assault of fire and heat, which rapidly consumes the body's cooling and moistening fluids (Yin). When these Yin fluids are severely depleted, the fire is no longer balanced, leaving behind an 'empty heat' that lingers even after the initial burn is treated. This internal heat rises, causing a persistent low-grade fever, intense dryness, and a characteristic sensation of heat in the palms, soles, and chest.",
+      "tongue_and_pulse": "Tongue: red, thin, and dry body with cracks; little to no coating. Pulse: fine (thready) and rapid.",
+      "why_triggers_reliefs_work": "Burns inherently deplete the body's Yin fluids. Spicy foods, late nights, and stress further consume Yin and generate empty heat, worsening the dry, hot symptoms. Rest and cooling, moistening foods help rebuild the Yin fluids, which naturally balances the excess heat, much like adding water to a boiling pot to calm it down.",
+      "diet_and_lifestyle": "Prioritize rest, especially at night, as sleep is when the body recovers Yin. Eat cooling, moistening foods like pears, watermelon, cucumber, and mung bean soup. Avoid spicy, fried, and overly hot foods that consume fluids and stir up empty heat.",
+      "formulas": [
+        {
+          "id": 5180,
+          "pattern_id": 2271,
+          "formula_name": "Yu Nu Jian",
+          "formula_url": "/knowledge-base/formulas/yu-nu-jian",
+          "translation": "Jade Woman Decoction &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Cold, Clears Stomach Heat, Nourishes Kidney Yin, Drains Fire",
+          "description": "Specifically formulated to nourish Stomach Yin and clear empty heat, ideal for the dry mouth and lingering fever after burns."
+        },
+        {
+          "id": 5181,
+          "pattern_id": 2271,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classic formula to deeply nourish Kidney Yin and drain empty fire, addressing the root cause of night sweats and five-palm heat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12192,
+          "pattern_id": 2271,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "The primary herb to deeply nourish Yin and replenish the vital fluids lost to the burn."
+        },
+        {
+          "id": 12193,
+          "pattern_id": 2271,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears heat and generates fluids, cooling the empty fire without drying out the body."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8213,
+          "pattern_id": 2271,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel, strongly nourishes Kidney Yin to cool the empty heat."
+        },
+        {
+          "id": 8214,
+          "pattern_id": 2271,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and regulates fluids, addressing overall dryness and heat sensations."
+        },
+        {
+          "id": 8215,
+          "pattern_id": 2271,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Kidney Yin and benefits the throat, excellent for dry mouth and night sweats."
+        },
+        {
+          "id": 8216,
+          "pattern_id": 2271,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "The back-shu point of the Kidneys, tonifies Kidney Yin and clears deficiency heat."
+        }
+      ]
+    },
+    {
+      "id": 2272,
+      "condition_id": 470,
+      "pattern_name": "Qi not controlling Blood",
+      "pattern_slug": "qi-not-controlling-blood",
+      "is_common": 0,
+      "symptoms": "[\"Burn wounds that ooze and bleed easily\", \"Pale, sallow complexion and lips\", \"Extreme fatigue and shortness of breath\", \"Poor appetite and loose stools\", \"Easy bruising\"]",
+      "worse_with": "Overwork and overexertion, Cold or raw foods and iced drinks, Excessive bleeding, Worry and pensiveness",
+      "better_with": "Rest and sleep, Warm, easily digestible foods, Gentle movement or walking",
+      "why_this_happens": "Severe burns cause a massive loss of fluids and Qi. When the Spleen Qi becomes too weak, it can no longer hold blood within the vessels, leading to persistent oozing from burn wounds and easy bruising. This pattern is marked by extreme fatigue, a pale complexion, and a weak pulse.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with teeth marks, thin white coating. Pulse: fine and weak, especially in the right middle position (Spleen).",
+      "why_triggers_reliefs_work": "Overexertion and raw, cold foods deplete Spleen Qi, making it even harder to hold blood in the vessels. Rest and warm, easily digested foods strengthen the Spleen's ability to control blood, while gentle movement supports Qi flow without exhausting it.",
+      "diet_and_lifestyle": "Eat warm, easily digestible foods like congee, soups, and stewed meats to support Spleen Qi. Avoid raw, cold, and greasy foods that further weaken digestion. Rest is crucial; avoid heavy exertion until strength returns.",
+      "formulas": [
+        {
+          "id": 5182,
+          "pattern_id": 2272,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "Tonifies Spleen Qi and Blood to stop bleeding by holding blood in the vessels."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12194,
+          "pattern_id": 2272,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and raises Yang to help hold blood within the vessels."
+        },
+        {
+          "id": 12195,
+          "pattern_id": 2272,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood to support tissue repair and prevent further bleeding."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8217,
+          "pattern_id": 2272,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonifies Qi and strengthens the body&#x27;s ability to hold blood."
+        },
+        {
+          "id": 8218,
+          "pattern_id": 2272,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen and Stomach to generate Qi and Blood."
+        },
+        {
+          "id": 8219,
+          "pattern_id": 2272,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonifies Spleen Qi directly to address the root deficiency."
+        }
+      ]
+    },
+    {
+      "id": 2273,
+      "condition_id": 470,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and weakness\", \"Poor appetite and abdominal bloating\", \"Dry mouth and throat with little desire to drink\", \"Warm sensation in palms and soles\"]",
+      "worse_with": "Overwork and overexertion, Spicy, fried, or drying foods, Stress and emotional strain, Dry, hot environments",
+      "better_with": "Rest and sleep, Warm, easily digestible foods, Moderate warmth, avoiding chills, Gentle movement or walking",
+      "why_this_happens": "After severe burns, the intense heat consumes the body's fluids (Yin) and the prolonged recovery exhausts the vital energy (Qi). This double depletion leaves you with persistent fatigue, a dry mouth, and poor appetite, which slow down wound healing and overall recovery.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with a thin or absent coating, dry and possibly cracked. Pulse: fine, weak, and often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are already depleted after a burn, so any further drain from overexertion, sweating, or spicy foods worsens fatigue and dryness. Rest, gentle warmth, and nourishing foods help rebuild the body's energy and fluids, supporting healing.",
+      "diet_and_lifestyle": "Eat warm, easily digestible foods like congee with Chinese yam and goji berries. Small, frequent meals help rebuild energy without straining digestion. Gentle rest and short walks are beneficial; avoid overexertion and spicy, drying foods.",
+      "formulas": [
+        {
+          "id": 5183,
+          "pattern_id": 2273,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "Nourishes Stomach Yin and boosts Qi, especially suited for post-burn fatigue with poor appetite and bloating."
+        },
+        {
+          "id": 5184,
+          "pattern_id": 2273,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "Replenishes Qi and Yin, reduces sweating, and supports recovery from fluid and energy loss."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12196,
+          "pattern_id": 2273,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi to restore energy."
+        },
+        {
+          "id": 12197,
+          "pattern_id": 2273,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Yin and generates fluids to relieve dry mouth."
+        },
+        {
+          "id": 12198,
+          "pattern_id": 2273,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes and preserves fluids, preventing further loss through sweat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8220,
+          "pattern_id": 2273,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and strengthens the Spleen to improve appetite and energy."
+        },
+        {
+          "id": 8221,
+          "pattern_id": 2273,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Supplements Spleen Qi, aiding digestion and recovery."
+        },
+        {
+          "id": 8222,
+          "pattern_id": 2273,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Nourishes Kidney Yin to support overall fluid balance."
+        },
+        {
+          "id": 8223,
+          "pattern_id": 2273,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the middle burner and relieves abdominal bloating."
+        }
+      ]
+    },
+    {
+      "id": 2274,
+      "condition_id": 470,
+      "pattern_name": "Spleen Yang Deficiency",
+      "pattern_slug": "spleen-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull abdominal pain that feels better with warmth and pressure\", \"Cold hands and feet, feeling chilly easily\", \"Loose watery stools, sometimes with undigested food\", \"Poor appetite and abdominal bloating after eating\", \"Puffiness or swelling of the limbs\"]",
+      "worse_with": "Cold or raw foods and iced drinks, Cold weather or drafts, Overwork and overexertion, Excessive fluid loss or prolonged illness",
+      "better_with": "A warm compress or hot water bottle on the abdomen, Warm, easily digestible foods, Rest and sleep, Warm environment",
+      "why_this_happens": "Severe or prolonged burns consume the body's Qi and fluids, and over time this can exhaust the warming Yang energy of the Spleen. When Spleen Yang is deficient, the digestive fire weakens and internal Cold develops, so the body cannot generate enough warmth, fluids are not transformed properly, and wounds heal very slowly.\nThis pattern is a late-stage complication: the initial heat toxin has faded, but the damage to Yang leaves the person feeling cold, bloated, and depleted, with loose stools and a pale, puffy tongue.",
+      "tongue_and_pulse": "Tongue: Pale, puffy, and tender, with scalloped edges and a white slippery coating. Pulse: Deep, slow, and weak, especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Spleen Yang is the body's digestive pilot light. Cold foods and environments extinguish that fire, while warmth and gentle nourishment stoke it back to life. Rest conserves the small amount of Qi and Yang remaining, allowing the body to direct energy toward healing rather than activity.",
+      "diet_and_lifestyle": "Eat only warm, cooked, easily digestible foods like congee, soups, and stews. Avoid all raw, cold, or iced items. Keep the abdomen and feet warm, and rest as much as possible to conserve Qi and Yang.",
+      "formulas": [
+        {
+          "id": 5185,
+          "pattern_id": 2274,
+          "formula_name": "Fu Zi Li Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/fu-zi-li-zhong-tang",
+          "translation": "Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner",
+          "description": "Warms the middle burner and dispels Cold, tonifying Spleen Yang to restore digestive function and warmth in late-stage burns."
+        },
+        {
+          "id": 5186,
+          "pattern_id": 2274,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 5187,
+          "pattern_id": 2274,
+          "formula_name": "Yu Nu Jian",
+          "formula_url": "/knowledge-base/formulas/yu-nu-jian",
+          "translation": "Jade Woman Decoction &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Cold, Clears Stomach Heat, Nourishes Kidney Yin, Drains Fire",
+          "description": "A classical formula that clears excess heat from the Stomach while nourishing Kidney Yin. It is commonly used for toothache, bleeding gums, headache, thirst, and other symptoms arising when Stomach fire burns upward and Kidney fluids are depleted. Often applied in modern practice for periodontitis, mouth ulcers, and diabetes with this underlying pattern."
+        },
+        {
+          "id": 5188,
+          "pattern_id": 2274,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 5189,
+          "pattern_id": 2274,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 5190,
+          "pattern_id": 2274,
+          "formula_name": "Yi Wei Tang",
+          "formula_url": "/knowledge-base/formulas/yi-wei-tang",
+          "translation": "Benefit the Stomach Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Protects the Stomach, Generates Fluids, Moistens Dryness",
+          "description": "A gentle formula designed to replenish the fluids of the Stomach when they have been depleted by heat or chronic illness. It is commonly used for dry mouth and throat, poor appetite despite feeling hungry, and a red tongue with little coating. The formula uses sweet, cooling, moistening herbs to restore the Stomach&#x27;s natural lubrication and digestive function."
+        },
+        {
+          "id": 5191,
+          "pattern_id": 2274,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        },
+        {
+          "id": 5192,
+          "pattern_id": 2274,
+          "formula_name": "Fu Zi Li Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/fu-zi-li-zhong-tang",
+          "translation": "Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner",
+          "description": "A warming formula used to strengthen the digestive system and restore warmth to the body. It is used for people who feel deeply cold in the abdomen, experience chronic loose stools or diarrhea, vomiting, poor appetite, and cold hands and feet caused by severe weakness and cold in the Spleen, Stomach, and Kidneys."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12199,
+          "pattern_id": 2274,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms the Spleen and Kidney Yang powerfully, driving out internal Cold."
+        },
+        {
+          "id": 12200,
+          "pattern_id": 2274,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms the middle burner and dispels Cold, stopping diarrhea and easing abdominal pain."
+        },
+        {
+          "id": 12201,
+          "pattern_id": 2274,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Strongly tonifies the original Qi and strengthens the Spleen, helping the body recover from severe depletion."
+        },
+        {
+          "id": 12202,
+          "pattern_id": 2274,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 12203,
+          "pattern_id": 2274,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 12204,
+          "pattern_id": 2274,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 12205,
+          "pattern_id": 2274,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 12206,
+          "pattern_id": 2274,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 12207,
+          "pattern_id": 2274,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 12208,
+          "pattern_id": 2274,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 12209,
+          "pattern_id": 2274,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 12210,
+          "pattern_id": 2274,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 12211,
+          "pattern_id": 2274,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 12212,
+          "pattern_id": 2274,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        },
+        {
+          "id": 12213,
+          "pattern_id": 2274,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 12214,
+          "pattern_id": 2274,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8224,
+          "pattern_id": 2274,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion. Tonifies Spleen Qi and Yang, strengthens the body&#x27;s core energy."
+        },
+        {
+          "id": 8225,
+          "pattern_id": 2274,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Moxibustion. Directly warms and reinforces Spleen Yang."
+        },
+        {
+          "id": 8226,
+          "pattern_id": 2274,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion. Kindles the body&#x27;s fundamental Yang fire to support the Spleen."
+        },
+        {
+          "id": 8227,
+          "pattern_id": 2274,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxibustion. Warms Kidney Yang, which is the root of all Yang, aiding Spleen recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3065,
+      "condition_id": 470,
+      "question": "Can TCM help with the pain of a fresh burn?",
+      "answer": "Yes. In the acute stage, TCM focuses on clearing Heat and cooling the Blood. Herbal formulas like Huang Lian Jie Du Tang can rapidly bring down the fiery sensation, and distal acupuncture points like Hegu (LI-4) and Quchi (LI-11) are used to clear heat and relieve pain without touching the injured skin. Many patients feel a noticeable reduction in throbbing and burning within a day of starting herbs."
+    },
+    {
+      "id": 3066,
+      "condition_id": 470,
+      "question": "Is acupuncture safe on burned skin?",
+      "answer": "Acupuncture needles are never inserted directly into burned tissue. Instead, practitioners use points on the limbs, back, and abdomen that influence the affected channels and organ systems. This allows them to cool heat, calm pain, and support healing without disturbing the wound. Topical herbal applications are also used with sterile technique and only on appropriate wounds."
+    },
+    {
+      "id": 3067,
+      "condition_id": 470,
+      "question": "Can herbs prevent scarring?",
+      "answer": "While no treatment can guarantee zero scarring, TCM can help minimize it. By clearing lingering Heat and promoting the generation of new skin and flesh (through nourishing Qi and Blood), herbs and topical pastes can reduce the redness and thickness of scars. Formulas that move Blood and resolve stasis, used under professional guidance, may also soften existing scars. Early, consistent treatment is key."
+    },
+    {
+      "id": 3068,
+      "condition_id": 470,
+      "question": "When should I see a TCM practitioner after a burn?",
+      "answer": "Ideally, as soon as possible after the burn has been stabilized medically. In the first 48 hours, a practitioner can use cooling herbs to limit the invasion of Fire toxin and reduce systemic symptoms like fever. Later, they can address lingering heat, fluid loss, and fatigue. Even weeks after the injury, TCM can help with slow-healing wounds or persistent weakness. Always seek emergency care first for any serious burn."
+    },
+    {
+      "id": 3069,
+      "condition_id": 470,
+      "question": "Can I use TCM alongside antibiotics or pain medications?",
+      "answer": "Yes, TCM is generally safe to combine with conventional burn care, but full disclosure is essential. Tell both your TCM practitioner and your doctor about all medications and herbs you are taking. Some herbs that move blood (like Dang Gui) may interact with anticoagulants, and sedating herbs should be used carefully with pain medications that cause drowsiness. Your practitioners can coordinate to avoid interactions."
+    },
+    {
+      "id": 3070,
+      "condition_id": 470,
+      "question": "Does TCM help with the fatigue and weakness after a burn?",
+      "answer": "Absolutely. This is one of TCM's strengths. Patterns like Qi and Yin Deficiency or Spleen Yang Deficiency are directly addressed with formulas like Sheng Mai San or Fu Zi Li Zhong Tang, which rebuild energy, warm the digestion, and restore fluids. Acupuncture and dietary therapy further support recovery, helping you regain strength much faster than rest alone."
+    }
+  ],
+  "research": [
+    {
+      "id": 692,
+      "condition_id": 470,
+      "title": "Expert consensus on traditional Chinese medicine adjuvant treatment of burn shock",
+      "description": "This 2025 expert consensus, developed by a national panel, systematically outlines TCM pattern differentiation for burn shock, including Toxic-Heat, Qi and Yin Deficiency, and Spleen Yang Deficiency. It recommends specific herbal formulas like Sheng Mai San and Fu Zi Li Zhong Tang, along with acupuncture protocols, to be used in conjunction with standard Western emergency care to stabilize patients and promote recovery.",
+      "url": "https://www.guidelines-registry.org/pp/uploads/2025/05/03/%E4%B8%AD%E8%8D%AF%E4%BC%91%E5%85%8B%E8%AF%8A%E7%96%97%E5%85%B1%E8%AF%86202504011_2ngdXxL.pdf",
+      "periodical": "Chinese Burn Shock TCM Adjuvant Treatment Expert Consensus Group. Expert consensus on traditional Chinese medicine adjuvant treatment of burn shock. Guidelines Registry, 2025."
+    },
+    {
+      "id": 693,
+      "condition_id": 470,
+      "title": "Research progress on traditional Chinese medicine treatment of burns",
+      "description": "This review summarizes the historical and modern application of Chinese herbal medicine for burns, covering external ointments, internal decoctions, and acupuncture. It highlights the anti-inflammatory, antimicrobial, and wound-healing properties of herbs like Huang Lian and Jin Yin Hua, and discusses pattern-based approaches for different burn stages, though it notes that large-scale clinical trials are still lacking.",
+      "url": "http://www.cccm-em120.com/zhongxiyiguokan/cccm/pdf/zhong2014-2/147.pdf",
+      "periodical": "Chen Z, et al. Research progress on traditional Chinese medicine treatment of burns. Chinese Journal of Integrated Traditional and Western Medicine in Intensive and Critical Care, 2014."
+    }
+  ]
+}

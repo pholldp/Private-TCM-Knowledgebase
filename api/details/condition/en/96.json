@@ -1,0 +1,837 @@
+{
+  "id": 96,
+  "name": "Chickenpox",
+  "url": "/knowledge-base/conditions/chickenpox",
+  "kind": "Condition",
+  "pinyin": "shuǐ dòu",
+  "chinese_name": "水痘",
+  "preview_text": "The secret to treating chickenpox with TCM is reading the blisters and the tongue: clear blisters and a thin coating mean the pathogen is still on the surface and can be gently rel...",
+  "categories": "[\"Viral Infections\", \"Skin Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[]",
+  "conventional_description": "Chickenpox is a highly contagious viral illness caused by the varicella-zoster virus. It typically begins with fever, fatigue, and loss of appetite, followed by an itchy rash that progresses from red spots to fluid-filled blisters and then crusts. The rash often appears on the trunk, face, and scalp before spreading. In healthy children, it's usually mild and self-limiting, lasting about a week.\nDiagnosis is based on the characteristic appearance of the rash and history of exposure. Complications are more common in adults, newborns, and those with weakened immune systems, and can include bacterial skin infections, pneumonia, or encephalitis.",
+  "conventional_treatments": "Standard care focuses on symptom relief and preventing complications. Antiviral medications like acyclovir may be prescribed for severe cases or high-risk patients, but they must be started early to be effective. Itching is managed with calamine lotion, oatmeal baths, and oral antihistamines. Acetaminophen is used for fever - aspirin is avoided due to the risk of Reye's syndrome. The varicella vaccine is the primary preventive measure, significantly reducing the incidence and severity of the disease.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees chickenpox as an invasion of an external \"epidemic toxin\" - a combination of heat and dampness that enters through the mouth and nose. The Lungs are the first line of defense because they govern the skin and the body's protective Qi. When the toxin attacks, the Lungs try to push it out to the surface, which is why the rash appears. The nature of the rash - whether the blisters are clear or cloudy, sparse or dense - tells the practitioner how deep the pathogen has gone and how strong the body's response is.\nIn the early stage, if the child's defensive Qi is relatively strong, the pathogen stays at the surface. This is the Wind-Heat invading the Lungs pattern, marked by a low fever, mild cough, and a rash of clear, separate blisters mostly on the trunk. The tongue is slightly red with a thin coating, and the pulse is floating and rapid. Treatment at this stage is about releasing the exterior and gently cooling the heat.\nIf the toxin is more virulent or the body can't contain it, the heat intensifies and moves deeper into the Qi and Nutritive levels. This is the Toxic-Heat pattern: the fever spikes, the blisters become dense and widespread with a dark red base, and the fluid turns cloudy. The tongue becomes red with a thick yellow coating, and the pulse is rapid and slippery. This is a more serious stage that requires aggressive clearing of heat and toxins to prevent the pathogen from penetrating even further.\nIn some children, the heat may stagnate in the skin itself, especially if the blisters are scratched and become secondarily infected. This Toxic-Heat Stagnation pattern shows as painful, pus-filled lesions with surrounding redness and swelling. The heat can also dive inward to the Pericardium, disturbing the spirit and causing high fever with delirium - a medical emergency.\nOr it can congeal into phlegm and obstruct the Lungs, leading to a severe cough and labored breathing. These deeper patterns are rare but illustrate why TCM's pattern differentiation is crucial: it guides treatment to the exact level of the illness and can intercept a dangerous progression.",
+  "classical_quote": "「水痘者，由风热毒气客于腠理，搏于气血，发于皮肤，状如水疱，故名水痘。」",
+  "classical_translation": "\"Chickenpox is caused by Wind-Heat toxic Qi lodging in the interstices, contending with Qi and Blood, erupting on the skin, appearing as water blisters, hence named water pox.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Origins and Symptoms of Diseases)  ,  Section on Shui Dou (水痘) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the fever and the rash. In the early stage of chickenpox, the clues are a low fever, a stuffy or runny nose, and a mild cough. The spots are sparse, mostly on the trunk, with clear fluid inside the blisters. This picture, along with a tongue that is slightly red with a thin white or thin yellow coating and a floating rapid pulse, points clearly to a Wind-Heat pattern invading the Lungs.\nWhen the fever spikes high and the child is intensely thirsty, the pattern has deepened. The blisters become dense and widespread, with a dark red base, and the fluid inside turns cloudy. The tongue is now red with a thick yellow greasy coating, and the pulse feels rapid and slippery. These are the hallmarks of Toxic-Heat blazing in the body, a more severe stage that requires aggressive cooling.\nIf the blisters become surrounded by angry red, swollen skin and are filled with pus, the practitioner looks for a secondary infection. This local stagnation of Toxic-Heat is a complication where the toxins are trapped in the skin itself. The tongue is red with a yellow coating, and the pulse is rapid, signaling a need to resolve toxicity and reduce swelling.\nIn rare and dangerous turns, the Heat can attack deeper organs. A sudden high fever with delirium, convulsions, or a loss of consciousness signals that Heat has invaded the Pericardium. The tongue is deep red with a dry yellow coating, and the pulse is rapid and fine. This is a serious condition that demands immediate professional care.\nAlternatively, a severe cough, wheezing, and labored breathing with a yellow greasy tongue coating indicates Phlegm-Heat obstructing the Lungs. This too is a critical development that requires urgent medical attention.",
+  "patterns": [
+    {
+      "id": 468,
+      "condition_id": 96,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "pattern_slug": "wind-heat-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Sparse, clear fluid-filled vesicles\", \"Low-grade fever\", \"Mild cough\", \"Sore, scratchy throat\", \"Thirst\", \"Red tongue tip with thin yellow coating\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Overexertion, Wind and drafts, Hot, stuffy environment, Scratching or picking at blisters",
+      "better_with": "Cooling drinks and foods, Rest in a cool, airy room, Light, bland foods, Cool environment, Gentle sweating",
+      "why_this_happens": "Chickenpox begins when Wind-Heat pathogens invade through the mouth and nose. They attack the Lungs and the body's defensive Qi, which governs the skin. The Lungs try to expel the heat, pushing it outward, which causes the characteristic clear vesicles. At the same time, Lung Qi is impaired, leading to a mild cough, sore throat, and low fever.",
+      "tongue_and_pulse": "Tongue: red tip, thin yellow coating. Pulse: floating and rapid (浮数 fú shuò).",
+      "why_triggers_reliefs_work": "Wind-Heat thrives on warmth and stagnation, so a hot environment, spicy foods, and overexertion can drive the pathogen deeper. Cooling drinks and light foods help clear heat and support the Lungs' ability to release the pathogen. Rest conserves the body's defensive Qi, while gentle sweating opens the pores and helps expel the Wind-Heat outward. A well-ventilated room prevents the accumulation of damp-heat, which worsens the vesicles.",
+      "diet_and_lifestyle": "Drink plenty of cooling fluids like water, chrysanthemum tea, or mung bean soup. Eat light, easily digestible foods such as congee and steamed vegetables. Avoid spicy, greasy, and fried foods that can worsen heat. Rest in a cool, well-ventilated room and keep the skin clean to prevent secondary infection. Do not scratch the blisters.",
+      "formulas": [
+        {
+          "id": 1068,
+          "pattern_id": 468,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The primary formula to release the exterior, clear heat, and resolve toxicity."
+        },
+        {
+          "id": 1069,
+          "pattern_id": 468,
+          "formula_name": "Liu Yi San",
+          "formula_url": "/knowledge-base/formulas/liu-yi-san",
+          "translation": "Six-to-One Powder &#xB7; J&#x12B;n dynasty, 1172 CE",
+          "properties": "Cold, Clears Summer-Heat, Drains Dampness, Promotes Urination",
+          "description": "Added to drain dampness and promote urination, clearing the damp-heat that causes vesicles."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2497,
+          "pattern_id": 468,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, the key herb for early-stage heat."
+        },
+        {
+          "id": 2498,
+          "pattern_id": 468,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Wind-Heat and reduces swelling."
+        },
+        {
+          "id": 2499,
+          "pattern_id": 468,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases the exterior and soothes the throat."
+        },
+        {
+          "id": 2500,
+          "pattern_id": 468,
+          "herb_name": "Niu Bang Zi",
+          "herb_url": "/knowledge-base/herbs/niu-bang-zi",
+          "translation": "Burdock fruit",
+          "properties": "",
+          "description": "Benefits the throat and eases cough."
+        },
+        {
+          "id": 2501,
+          "pattern_id": 468,
+          "herb_name": "Hua Shi",
+          "herb_url": "/knowledge-base/herbs/hua-shi",
+          "translation": "Talc",
+          "properties": "",
+          "description": "Drains dampness and clears heat, helping to dry vesicles."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1656,
+          "pattern_id": 468,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Release exterior and clear heat."
+        },
+        {
+          "id": 1657,
+          "pattern_id": 468,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Diffuse Lung Qi and stop cough."
+        },
+        {
+          "id": 1658,
+          "pattern_id": 468,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clear heat and expel wind."
+        },
+        {
+          "id": 1659,
+          "pattern_id": 468,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expel Wind-Heat from the head and neck."
+        },
+        {
+          "id": 1660,
+          "pattern_id": 468,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clear heat and cool the blood."
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "condition_id": 96,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"Dense rash with large, turbid vesicles\", \"High fever with flushed face\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Dark, scanty urine\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Hot, stuffy environment, Scratching or picking at blisters, Overexertion",
+      "better_with": "Cooling drinks and foods, Lukewarm baths with baking soda, Rest in a cool, airy room, Gentle cooling compresses on the skin",
+      "why_this_happens": "In chickenpox, when the early Wind-Heat is not properly expelled, the pathogenic evil can deepen and transform into intense Toxic-Heat. This blazing heat attacks the Qi and Nutritive (Ying) levels, pushing the rash to erupt densely across the body. The heat poisons the fluids inside the blisters, turning them cloudy and turbid, while the high fever, raging thirst, and restlessness appear because the body's fluids are being consumed by the internal fire.",
+      "tongue_and_pulse": "Tongue: red body, often with prickly thorns, and a dry yellow coating. Pulse: rapid (shu), slippery (hua), and forceful.",
+      "why_triggers_reliefs_work": "Toxic-Heat is a deep, aggressive internal fire that thrives on anything that adds heat or dampness, such as spicy food and hot weather. Scratching stirs up local heat and can lead to secondary infection. Cooling foods, tepid bathing, and rest help drain the fire, protect the body's fluids, and allow the immune system to contain the pathogen without overstimulation.",
+      "diet_and_lifestyle": "Keep the body cool and drink plenty of room-temperature water or mild mung bean soup. Avoid all spicy, greasy, and fried foods, which add internal heat. Wear soft, loose cotton clothing, keep fingernails short to prevent scratching, and bathe in lukewarm water without harsh soaps. Rest in a well-ventilated room away from direct sun.",
+      "formulas": [
+        {
+          "id": 1070,
+          "pattern_id": 469,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "A powerful formula that clears epidemic toxic-heat from all three burners and the Nutritive-Blood level, ideal when fever and skin signs are severe."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2502,
+          "pattern_id": 469,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, especially for skin eruptions."
+        },
+        {
+          "id": 2503,
+          "pattern_id": 469,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Dispels wind-heat and reduces toxic swellings, a key herb for pox diseases."
+        },
+        {
+          "id": 2504,
+          "pattern_id": 469,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Cools blood and invigorates circulation, reducing the red, inflamed root of the blisters."
+        },
+        {
+          "id": 2505,
+          "pattern_id": 469,
+          "herb_name": "Zi Cao",
+          "herb_url": "/knowledge-base/herbs/zi-cao",
+          "translation": "Gromwell root",
+          "properties": "",
+          "description": "Cools blood and promotes the eruption and resolution of rashes due to heat toxin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1661,
+          "pattern_id": 469,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "A major point to clear heat from the body and soothe skin inflammation."
+        },
+        {
+          "id": 1662,
+          "pattern_id": 469,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Expels surface pathogens and relieves fever, especially useful in the early stage of the rash."
+        },
+        {
+          "id": 1663,
+          "pattern_id": 469,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduces high fever by releasing the exterior and clearing internal heat."
+        },
+        {
+          "id": 1664,
+          "pattern_id": 469,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and alleviates itching, helping to calm the toxic skin reaction."
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "condition_id": 96,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "pattern_slug": "toxic-heat-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Pustular lesions with thick, foul-smelling pus\", \"Localized redness, swelling, and severe pain at lesion sites\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Deep red tongue with thick yellow coating\"]",
+      "worse_with": "Scratching or picking at blisters, Spicy, greasy, or fried foods, Hot, stuffy environment, Stress and emotional upset, Overexertion",
+      "better_with": "Cool environment, Cooling drinks and foods, Rest in a cool, airy room, Gentle cleansing of skin, Gentle cooling compresses on the skin",
+      "why_this_happens": "In chickenpox, when the vesicles are scratched or the body's defenses are low, external bacteria can invade the broken skin. This traps Toxic Heat in the local area, turning the clear blister fluid into thick, foul-smelling pus. The result is painful, swollen, and red pustules, often accompanied by systemic signs of intense Heat like high fever and thirst.",
+      "tongue_and_pulse": "Tongue: deep red or crimson body, possibly with prickly papillae, and a thick dry yellow coating. Pulse: rapid (shu) and forceful (shi).",
+      "why_triggers_reliefs_work": "Toxic-Heat Stagnation is a condition of intense localized heat and toxin. Scratching damages the skin further and introduces more pathogens, worsening the infection. Heat, spicy foods, and emotional stress increase internal heat, feeding the fire. Cooling measures, rest, and detoxifying foods help clear heat and reduce inflammation, allowing the body to resolve the infection.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and heat-producing foods. Drink plenty of water and consume cooling foods like watermelon, cucumber, and mung bean soup. Keep the skin clean and avoid scratching to prevent secondary infection. Rest in a cool, well-ventilated room.",
+      "formulas": [
+        {
+          "id": 1071,
+          "pattern_id": 470,
+          "formula_name": "Xian Fang Huo Ming Yin",
+          "formula_url": "/knowledge-base/formulas/xian-fang-huo-ming-yin",
+          "translation": "Immortal Formula Life-Giving Drink &#xB7; S&#xF2;ng dynasty, 1237 CE (original text by Ch&#xE9;n Z&#xEC;m&#xED;ng; annotated edition by Xu&#x113; J&#x1D0; in the M&#xED;ng dynasty)",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Invigorates Blood and Alleviates Pain",
+          "description": "Xian Fang Huo Ming Yin (&#x4ED9;&#x65B9;&#x6D3B;&#x547D;&#x996E;, Immortal Formula Life-Giving Drink) clears heat, resolves toxin, reduces swelling, and promotes the drainage of pus from infected pox lesions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2506,
+          "pattern_id": 470,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Jin Yin Hua (&#x91D1;&#x94F6;&#x82B1;, honeysuckle flower) powerfully clears heat and resolves toxin, the chief herb for infected sores."
+        },
+        {
+          "id": 2507,
+          "pattern_id": 470,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Chi Shao (&#x8D64;&#x828D;, red peony root) cools the blood, reduces swelling, and alleviates pain."
+        },
+        {
+          "id": 2508,
+          "pattern_id": 470,
+          "herb_name": "Ye Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ye-ju-hua",
+          "translation": "Wild chrysanthemum flower",
+          "properties": "",
+          "description": "Ye Ju Hua (&#x91CE;&#x83CA;&#x82B1;, wild chrysanthemum flower) strongly clears heat and resolves toxin, especially for skin infections."
+        },
+        {
+          "id": 2509,
+          "pattern_id": 470,
+          "herb_name": "Tian Hua Fen",
+          "herb_url": "/knowledge-base/herbs/tian-hua-fen",
+          "translation": "Trichosanthes root",
+          "properties": "",
+          "description": "Tian Hua Fen (&#x5929;&#x82B1;&#x7C89;, trichosanthes root) reduces swelling and helps expel pus."
+        },
+        {
+          "id": 2510,
+          "pattern_id": 470,
+          "herb_name": "Zao Jiao Ci",
+          "herb_url": "/knowledge-base/herbs/zao-jiao-ci",
+          "translation": "Chinese Honeylocust Spine",
+          "properties": "",
+          "description": "Zao Jiao Ci (&#x7682;&#x89D2;&#x523A;, gleditsia spine) promotes the drainage of pus and reduces swelling."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1665,
+          "pattern_id": 470,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears heat and alleviates pain throughout the body."
+        },
+        {
+          "id": 1666,
+          "pattern_id": 470,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat, cools the blood, and benefits the skin."
+        },
+        {
+          "id": 1667,
+          "pattern_id": 470,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and resolves toxin, especially useful for high fever."
+        },
+        {
+          "id": 1668,
+          "pattern_id": 470,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and reduces skin inflammation and itching."
+        },
+        {
+          "id": 1669,
+          "pattern_id": 470,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Supports healthy Qi while clearing heat and dampness."
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "condition_id": 96,
+      "pattern_name": "Heat in Pericardium",
+      "pattern_slug": "heat-in-pericardium",
+      "is_common": 0,
+      "symptoms": "[\"High fever with flushed face\", \"Delirium, incoherent speech, or loss of consciousness\", \"Cold hands and feet despite a burning hot body\", \"Convulsions or muscle twitching\", \"Crimson, stiff or shortened tongue\"]",
+      "worse_with": "Hot, stuffy environment, Spicy, greasy, or fried foods, Stress and emotional upset",
+      "better_with": "Rest in a cool, airy room, Cooling drinks and foods, Medical intervention",
+      "why_this_happens": "When the toxic Heat from chickenpox is extremely strong, it can overwhelm the body's defenses and penetrate deep into the Pericardium, which houses the mind and spirit. This intense Heat disturbs the Shen (spirit), causing high fever, delirium, and even loss of consciousness. The Heat also consumes body fluids, leading to a dry crimson tongue, and can stir internal Wind, triggering convulsions.",
+      "tongue_and_pulse": "Tongue: crimson (deep red) body, stiff or shortened, with a yellow dry coating or little coating at all. Pulse: fine (细 xì) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Heat in the Pericardium is an extreme interior Heat condition. Anything that adds Heat - spicy food, hot rooms, emotional stress - fans the flames and worsens the delirium. Cooling the environment and giving cooling fluids helps drain the excess Heat, while rest and calm prevent further agitation of the already disturbed Shen (spirit).",
+      "diet_and_lifestyle": "This is a medical emergency - seek urgent care. Keep the person cool, hydrated with small sips of water or light cooling teas like chrysanthemum, and in a quiet, dim room. Avoid all heating foods (spicy, fried, red meat) and stimulants.",
+      "formulas": [
+        {
+          "id": 1072,
+          "pattern_id": 471,
+          "formula_name": "Qing Gong Tang",
+          "formula_url": "/knowledge-base/formulas/qing-gong-tang",
+          "translation": "Clear the Palace Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heart Fire, Resolves Toxicity, Nourishes Yin",
+          "description": "The primary formula to clear Heat from the Pericardium, calm the spirit, and restore consciousness in acute febrile diseases."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2511,
+          "pattern_id": 471,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "",
+          "description": "Cools the blood, clears Heart Heat, and arrests convulsions."
+        },
+        {
+          "id": 2512,
+          "pattern_id": 471,
+          "herb_name": "Lian Zi Xin",
+          "herb_url": "/knowledge-base/herbs/lian-zi-xin",
+          "translation": "Lotus plumule",
+          "properties": "",
+          "description": "Drains Heart Fire and calms the spirit, especially useful for delirium."
+        },
+        {
+          "id": 2513,
+          "pattern_id": 471,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "",
+          "description": "Cools the blood, nourishes Yin, and helps soften the stiff tongue."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1670,
+          "pattern_id": 471,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Clears Heat from the Heart and calms the Shen."
+        },
+        {
+          "id": 1671,
+          "pattern_id": 471,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Directly soothes the Heart and spirit, easing restlessness and delirium."
+        },
+        {
+          "id": 1672,
+          "pattern_id": 471,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduces high fever by clearing Heat from all Yang channels."
+        },
+        {
+          "id": 1673,
+          "pattern_id": 471,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Dispels external and internal Heat, lowering body temperature."
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "condition_id": 96,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "pattern_slug": "phlegm-heat-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Cough with copious thick yellow or green sputum\", \"Shortness of breath and rapid, labored breathing\", \"Wheezing or gurgling sounds in the throat\", \"Chest tightness and feeling of oppression\", \"Fever with flushed face and thirst\", \"Restlessness and irritability\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Hot, stuffy environment, Lying flat on the back, Overexertion",
+      "better_with": "Cool, fresh air, Sitting upright, Cooling drinks and foods",
+      "why_this_happens": "In some children, the toxic heat from chickenpox sinks deeper into the body instead of staying on the skin. It congeals the body's fluids into a sticky, yellow phlegm that clogs the Lungs. This obstruction blocks the normal flow of Lung Qi, trapping heat and phlegm inside and making it hard to breathe.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen at the front, with a thick yellow greasy coating. Pulse: slippery and rapid (滑数 huá shuò), like beads rolling under the fingers.",
+      "why_triggers_reliefs_work": "Phlegm-Heat is a sticky, hot obstruction. Dairy and greasy foods generate more dampness and phlegm, literally fueling the blockage, while hot environments fan the internal heat. Cool air and upright posture help Lung Qi descend naturally, and warm fluids help loosen the phlegm so it can be coughed out more easily.",
+      "diet_and_lifestyle": "Keep the air moist with a cool-mist humidifier to soothe irritated airways. Offer small, frequent sips of warm water or pear juice to thin phlegm. Strictly avoid dairy, fried foods, and sugar, which create dampness and make phlegm thicker.",
+      "formulas": [
+        {
+          "id": 1073,
+          "pattern_id": 472,
+          "formula_name": "Ma Xing Shi Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ma-xing-shi-gan-tang",
+          "translation": "Ephedra, Apricot Kernel, Gypsum and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cool, Clears Lung Heat, Calms Wheezing, Disperses Wind-Heat",
+          "description": "The classic formula to clear heat from the Lungs and calm wheezing, often combined with Huang Lian Jie Du Tang to purge toxic heat."
+        },
+        {
+          "id": 1074,
+          "pattern_id": 472,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 1075,
+          "pattern_id": 472,
+          "formula_name": "Liu Yi San",
+          "formula_url": "/knowledge-base/formulas/liu-yi-san",
+          "translation": "Six-to-One Powder &#xB7; J&#x12B;n dynasty, 1172 CE",
+          "properties": "Cold, Clears Summer-Heat, Drains Dampness, Promotes Urination",
+          "description": "A simple two-herb powder used to relieve summertime heat and dampness. It addresses symptoms like fever, thirst, irritability, scanty dark urine, and diarrhea that arise when summer heat and dampness invade the body. It can also be applied externally to soothe heat rash (prickly heat)."
+        },
+        {
+          "id": 1076,
+          "pattern_id": 472,
+          "formula_name": "Qing Wen Bai Du Yin",
+          "formula_url": "/knowledge-base/formulas/qing-wen-bai-du-yin",
+          "translation": "Clear Epidemics and Overcome Toxin Drink &#xB7; Q&#x12B;ng dynasty, 1794 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Drains Fire",
+          "description": "A powerful Heat-clearing formula used for severe epidemic febrile diseases where intense Heat and toxic pathogens have invaded both the Qi and Blood levels of the body. It addresses dangerously high fever, delirium, skin rashes, and bleeding by simultaneously cooling the blood and draining fire. This is an emergency formula for critical, life-threatening heat conditions and is not intended for mild or cold-type illnesses."
+        },
+        {
+          "id": 1077,
+          "pattern_id": 472,
+          "formula_name": "Xian Fang Huo Ming Yin",
+          "formula_url": "/knowledge-base/formulas/xian-fang-huo-ming-yin",
+          "translation": "Immortal Formula Life-Giving Drink &#xB7; S&#xF2;ng dynasty, 1237 CE (original text by Ch&#xE9;n Z&#xEC;m&#xED;ng; annotated edition by Xu&#x113; J&#x1D0; in the M&#xED;ng dynasty)",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Invigorates Blood and Alleviates Pain",
+          "description": "A renowned classical formula used to treat red, hot, swollen, and painful skin infections such as boils, abscesses, and inflamed sores in their early stages. It works by clearing the internal Heat driving the infection, improving local blood circulation to reduce swelling and pain, and helping the body expel pus and toxins. Historically called &quot;the foremost formula in external medicine&quot; and &quot;the sacred remedy for abscesses,&quot; it is also applied in modern practice for conditions such as mastitis, inflammatory acne, tonsillitis, and appendicitis."
+        },
+        {
+          "id": 1078,
+          "pattern_id": 472,
+          "formula_name": "Qing Gong Tang",
+          "formula_url": "/knowledge-base/formulas/qing-gong-tang",
+          "translation": "Clear the Palace Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heart Fire, Resolves Toxicity, Nourishes Yin",
+          "description": "A classical formula designed for serious febrile illnesses where heat has penetrated deeply into the body, disturbing the mind and causing high fever with confusion or delirium. It works by clearing intense heat from around the Heart, counteracting toxins, and replenishing fluids that have been damaged by the illness. In modern practice it has been adapted for conditions such as viral encephalitis and myocarditis."
+        },
+        {
+          "id": 1079,
+          "pattern_id": 472,
+          "formula_name": "Ma Xing Shi Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ma-xing-shi-gan-tang",
+          "translation": "Ephedra, Apricot Kernel, Gypsum and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cool, Clears Lung Heat, Calms Wheezing, Disperses Wind-Heat",
+          "description": "A classical four-herb formula from the Shang Han Lun used when Heat becomes trapped in the Lungs, causing fever, cough, wheezing, and thirst. It works by cooling the Lungs and restoring normal breathing. Commonly used for respiratory infections such as bronchitis, pneumonia, and influenza when the person shows clear signs of Heat like a rapid pulse, yellow tongue coating, and thirst."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2514,
+          "pattern_id": 472,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Heavy and cold, it drenches the raging fire in the Lungs and cools the fever."
+        },
+        {
+          "id": 2515,
+          "pattern_id": 472,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Dries dampness and clears heat, specifically targeting the Lungs to thin the sticky phlegm."
+        },
+        {
+          "id": 2516,
+          "pattern_id": 472,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "",
+          "description": "Guides Lung Qi downward to stop the cough and ease the wheeze."
+        },
+        {
+          "id": 2517,
+          "pattern_id": 472,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Dissolves hot phlegm and opens the chest, relieving the oppressive tightness."
+        },
+        {
+          "id": 2518,
+          "pattern_id": 472,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 2519,
+          "pattern_id": 472,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 2520,
+          "pattern_id": 472,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 2521,
+          "pattern_id": 472,
+          "herb_name": "Niu Bang Zi",
+          "herb_url": "/knowledge-base/herbs/niu-bang-zi",
+          "translation": "Burdock fruit",
+          "properties": "Cold, Disperses Wind-Heat, Diffuses the Lungs and Expels Pathogenic Factors, Vents Rashes",
+          "description": ""
+        },
+        {
+          "id": 2522,
+          "pattern_id": 472,
+          "herb_name": "Hua Shi",
+          "herb_url": "/knowledge-base/herbs/hua-shi",
+          "translation": "Talc",
+          "properties": "Cold, Promotes Urination and Relieves Stranguria, Clears Heat and Resolves Summer-Heat, Dispels Dampness and promotes wound healing for external use",
+          "description": ""
+        },
+        {
+          "id": 2523,
+          "pattern_id": 472,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        },
+        {
+          "id": 2524,
+          "pattern_id": 472,
+          "herb_name": "Zi Cao",
+          "herb_url": "/knowledge-base/herbs/zi-cao",
+          "translation": "Gromwell root",
+          "properties": "Cold, Cools the Blood, Resolves Toxicity, Vents Rashes",
+          "description": ""
+        },
+        {
+          "id": 2525,
+          "pattern_id": 472,
+          "herb_name": "Ye Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ye-ju-hua",
+          "translation": "Wild chrysanthemum flower",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Clears Heat and Reduces Swelling, Courses the Liver and Drains Heat",
+          "description": ""
+        },
+        {
+          "id": 2526,
+          "pattern_id": 472,
+          "herb_name": "Tian Hua Fen",
+          "herb_url": "/knowledge-base/herbs/tian-hua-fen",
+          "translation": "Trichosanthes root",
+          "properties": "Cool, Clears Heat and Drains Fire, Generates Fluids and Relieves Thirst, Clears Heat and Moistens the Lungs",
+          "description": ""
+        },
+        {
+          "id": 2527,
+          "pattern_id": 472,
+          "herb_name": "Zao Jiao Ci",
+          "herb_url": "/knowledge-base/herbs/zao-jiao-ci",
+          "translation": "Chinese Honeylocust Spine",
+          "properties": "Warm, Reduces Swelling and Draws Out Toxins, Expels Pus, Expels Parasites",
+          "description": ""
+        },
+        {
+          "id": 2528,
+          "pattern_id": 472,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors",
+          "description": ""
+        },
+        {
+          "id": 2529,
+          "pattern_id": 472,
+          "herb_name": "Lian Zi Xin",
+          "herb_url": "/knowledge-base/herbs/lian-zi-xin",
+          "translation": "Lotus plumule",
+          "properties": "Cold, Clears Heart Fire, Calms the Spirit, Promotes Heart-Kidney Communication",
+          "description": ""
+        },
+        {
+          "id": 2530,
+          "pattern_id": 472,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "Cold, Clears Heat and Cools the Blood, Nourishes Yin and Generates Fluids, Purges Fire and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 2531,
+          "pattern_id": 472,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 2532,
+          "pattern_id": 472,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 2533,
+          "pattern_id": 472,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 2534,
+          "pattern_id": 472,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1674,
+          "pattern_id": 472,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "The Back-Shu point of the Lungs, used to regulate Lung Qi and clear heat."
+        },
+        {
+          "id": 1675,
+          "pattern_id": 472,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "The He-Sea point of the Lung channel, excellent for draining Lung Heat and stopping cough."
+        },
+        {
+          "id": 1676,
+          "pattern_id": 472,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for Phlegm, it transforms and expels the sticky phlegm obstructing the chest."
+        },
+        {
+          "id": 1677,
+          "pattern_id": 472,
+          "acupoint_code": "EX-B-1",
+          "acupoint_name": "Dingchuan EX-B-1",
+          "acupoint_url": "/knowledge-base/acupuncture/dingchuan-ex-b-1",
+          "translation": "D&#xEC;ng Chu&#x1CE;n",
+          "properties": "Calms dyspnoea and wheezing",
+          "description": "An extra point specifically for calming wheezing and opening the airways."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 608,
+      "condition_id": 96,
+      "question": "Is herbal medicine safe for my child with chickenpox?",
+      "answer": "Yes, when prescribed by a qualified TCM practitioner who adjusts the dosage for children. The herbs are chosen to be gentle yet effective, targeting the specific pattern of heat and dampness. Always inform your child's doctor about any herbal treatment, and never give herbs without professional guidance. Cooling herbs like Jin Yin Hua and Bo He are commonly used and are safe for children in appropriate doses."
+    },
+    {
+      "id": 609,
+      "condition_id": 96,
+      "question": "Can acupuncture really help a child with chickenpox?",
+      "answer": "Acupuncture can be very effective, but for children, practitioners often use gentle techniques like acupressure or very shallow needling, or they may focus on ear seeds or moxibustion. The points chosen help clear heat and calm the spirit, which can reduce fever and itching. Many children find relief after a session, and parents often notice their child is more comfortable and less irritable."
+    },
+    {
+      "id": 610,
+      "condition_id": 96,
+      "question": "How soon will the blisters stop itching?",
+      "answer": "With the right herbal formula, itching often decreases within the first 24-48 hours as the heat is cleared from the skin. Topical applications like cooled herbal washes (e.g., honeysuckle and mint tea) can also provide immediate relief. The key is to treat the underlying heat, not just the symptom, so the full course of herbs should be continued even after itching subsides."
+    },
+    {
+      "id": 611,
+      "condition_id": 96,
+      "question": "Can TCM prevent scarring from chickenpox?",
+      "answer": "TCM can help reduce scarring by preventing secondary infection and promoting healthy skin healing. Herbs that clear toxic heat and cool the blood, like Zi Cao and Chi Shao, are used to minimize skin damage. It's also important to avoid scratching; cooling compresses and herbs can reduce the urge to scratch, and keeping the skin clean and dry further lowers the risk of scars."
+    },
+    {
+      "id": 612,
+      "condition_id": 96,
+      "question": "What foods should my child avoid during chickenpox?",
+      "answer": "Avoid \"heating\" and greasy foods that can worsen inflammation, such as fried foods, spicy dishes, chocolate, and shellfish. Also avoid cold and raw foods that can damage the Spleen and create more dampness. Stick to light, easily digestible foods like congee, steamed vegetables, and mung bean soup. For more detailed guidance, see the dietary section below."
+    },
+    {
+      "id": 613,
+      "condition_id": 96,
+      "question": "Can TCM be used alongside antiviral medication like acyclovir?",
+      "answer": "Yes, TCM and antivirals can be used together safely. The herbs work on a different mechanism, supporting the body's own healing response. Always tell your doctor and TCM practitioner about all treatments your child is receiving to ensure coordinated care. There are no known direct interactions between standard chickenpox herbs and acyclovir."
+    },
+    {
+      "id": 614,
+      "condition_id": 96,
+      "question": "How do I know if the chickenpox is turning into a serious complication?",
+      "answer": "Watch for danger signs like high fever that won't come down, difficulty breathing, confusion or extreme drowsiness, severe headache, or blisters that become very red, swollen, and filled with pus. If any of these occur, seek urgent medical care. For a full list of red-flag symptoms, see the Safety section on this page."
+    }
+  ],
+  "research": []
+}

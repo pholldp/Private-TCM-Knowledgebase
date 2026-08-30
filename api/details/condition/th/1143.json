@@ -1,0 +1,844 @@
+{
+  "id": 1143,
+  "name": "อาการชาหน้า",
+  "url": "/knowledge-base/conditions/face-numbness",
+  "kind": "Symptom",
+  "pinyin": "miàn má",
+  "chinese_name": "面麻",
+  "preview_text": "คุณภาพของอาการชา ไม่ว่าจะแน่นและเย็น ร้อนและบวม หนักและคงที่ หรือหมองคล้ำและเรื้อรัง คือแผนที่ที่ TCM ใช้ในการหาสาเหตุ และกรณีส่วนใหญ่ของอาการชา...",
+  "categories": "[\"ใบหน้าและผิวพรรณ\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Facial Numbness\", \"Facial Numbness or Tingling\"]",
+  "conventional_description": "In Western medicine, facial numbness is evaluated as a symptom of nerve dysfunction. Common causes include Bell's palsy (a temporary facial paralysis often linked to viral infection), trigeminal neuralgia, dental procedures, or more serious conditions such as stroke, multiple sclerosis, or a transient ischemic attack (TIA).\nDiagnosis typically involves a neurological exam and may include imaging like an MRI or CT scan to rule out central nervous system involvement. The numbness itself is usually described as a loss of sensation, tingling, or a 'pins and needles' feeling on one or both sides of the face.",
+  "conventional_treatments": "Treatment depends on the underlying cause. Bell's palsy is often managed with a short course of corticosteroids and sometimes antiviral medication. Trigeminal neuralgia may be treated with anticonvulsant medications like carbamazepine or gabapentin to calm nerve firing. For post-stroke numbness, rehabilitation and physical therapy are the mainstays. In cases where no clear cause is found, watchful waiting or symptomatic relief with pain medications is common.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands facial numbness as a blockage or malnourishment in the Luo-connecting channels that weave across the face. The face is richly supplied by the Stomach and Large Intestine meridians, and any disruption in these pathways can cause a loss of sensation. When an external pathogen like Wind-Cold or Wind-Heat invades, it can 'lock' the channels, creating a sudden, tight, or warm numbness. This is similar to how a cold draft can make your neck stiff - the cold contracts and obstructs the flow.\nInternal causes are just as important. If your body produces too much Phlegm and Dampness, these sticky substances can physically clog the fine channels of the face, leading to a heavy, fixed numbness. If your Qi and Blood are deficient from overwork or poor nutrition, the channels simply don't have enough resources to nourish the facial nerves, resulting in a dull, persistent numbness that worsens with fatigue. Long-standing stagnation can also congeal into Blood Stasis, causing a fixed, stabbing numbness that doesn't shift.\nThis is why the same symptom can have such different treatments. A young person whose face suddenly goes numb after sitting in an air-conditioned draft needs warming, dispersing herbs to expel Wind-Cold. An older person with a heavy, greasy tongue coating and a long history of numbness needs herbs to transform Phlegm and move Blood. A chronically exhausted person with a pale tongue needs building, nourishing formulas. The pattern is the diagnosis.",
+  "classical_quote": "「风之伤人也，或为寒热，或为热中，或为寒中，或为疠风，或为偏枯……风气与太阳俱入，行诸脉俞，散于分肉之间，与卫气相干，其道不利，故使肌肉愤䐜而有疡，卫气有所凝而不行，故其肉有不仁也。」",
+  "classical_translation": "\"When Wind attacks a person, it may cause alternating chills and fever, internal heat, internal cold, leprosy, or hemiplegia... When Wind Qi enters together with the Taiyang channel, it travels through the transport points and spreads within the muscles and interstices, contending with the defensive Qi. When the pathways are impeded, the muscles swell and ulcerate; when the defensive Qi congeals and fails to move, the flesh becomes numb (不仁).\"",
+  "classical_source": "Huangdi Neijing (Yellow Emperor's Inner Classic), Suwen  ,  Chapter 42: Discussion on Wind Diseases (Feng Lun) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first asks about the onset and quality of the numbness. Sudden, tight numbness that appeared after exposure to cold or wind points toward an external invasion, while a gradual, heavy, or persistent numbness suggests an internal imbalance. The tongue and pulse are then checked to confirm which pattern is at work.\nIf the numbness came on suddenly with a sensation of tightness, along with an aversion to cold and maybe a stiff neck, Wind-Cold is the likely culprit. The tongue coating is thin and white, and the pulse feels floating and tight, reflecting the body’s attempt to fight off a cold pathogen lodged in the facial channels.\nWhen the numbness is accompanied by a feeling of heat, redness, thirst, or a sore throat, Wind-Heat is often to blame. Here the tongue tip is redder with a thin yellow coating, and the pulse is floating and rapid. These signs show that a warm pathogen is inflaming the facial pathways, creating a different kind of blockage.\nA heavy, swollen, or “cottony” numbness that worsens in damp weather or after rich foods suggests Phlegm in the channels. The tongue is often puffy with a greasy coating, and the pulse feels slippery. This pattern arises when thick, sticky fluids clog the fine meridians of the face, making the sensation dull and persistent.\nPersistent numbness with a feeling of weakness or fatigue, especially after a long illness or poor diet, points to Qi and Blood Deficiency. The tongue is pale and the pulse is thin and weak. Here the channels are not blocked but undernourished - there simply isn’t enough vitality to properly feed the facial nerves and muscles.\nIf the numbness has a fixed, stabbing quality or is associated with a darkish complexion, Blood Stagnation may be the root. The tongue can appear dusky or show purple spots, and the pulse is choppy. This pattern often develops after a long-standing blockage, where blood has congealed and fails to move smoothly through the face.\nA heavy numbness accompanied by bloating, loose stools, and a pale, swollen tongue with a slippery pulse often indicates Spleen Deficiency with Dampness. The Spleen fails to transform fluids, creating internal dampness that seeps into the facial channels. This pattern is more chronic and closely tied to digestive weakness.",
+  "patterns": [
+    {
+      "id": 5659,
+      "condition_id": 1143,
+      "pattern_name": "Wind-Cold",
+      "pattern_slug": "wind-cold",
+      "is_common": 0,
+      "symptoms": "[\"Sudden facial numbness, often after exposure to cold wind\", \"Strong aversion to cold, mild fever, and no sweating\", \"Stiff neck and upper back\", \"Clear, watery nasal discharge and sneezing\", \"No thirst, preference for warm drinks\"]",
+      "worse_with": "Exposure to cold wind or drafts, Cold raw foods and iced drinks, Overwork or exhaustion, Emotional stress",
+      "better_with": "Warm compress on the face, Rest, Warm ginger tea, Light sweating (after treatment)",
+      "why_this_happens": "Wind-Cold is an external pathogen that enters through the skin and the channels of the face, especially when your defensive Qi is weak. The Cold contracts and obstructs the flow of Qi and blood in the facial channels, leading to sudden numbness and a tight, stiff sensation. The body responds with chills, mild fever, and no sweating as it tries to fight off the invader.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin, white, moist coating. Pulse: floating (fú) and tight (jǐn), easily felt at the surface.",
+      "why_triggers_reliefs_work": "Wind-Cold invades when your defensive Qi is weak and you're exposed to cold drafts. Warmth and rest help your body's Yang Qi to push the pathogen out through the skin, while cold and overexertion further weaken your defenses and allow the pathogen to linger.",
+      "diet_and_lifestyle": "Keep your face and neck protected from wind and cold, especially after sweating. Drink warm fluids like ginger and scallion tea to help the body sweat lightly and expel the pathogen. Avoid cold, raw foods and iced drinks. Rest is essential to allow your defensive Qi to recover.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 29764,
+          "pattern_id": 5659,
+          "herb_name": "Jing Jie",
+          "herb_url": "/knowledge-base/herbs/jing-jie",
+          "translation": "Schizonepeta",
+          "properties": "",
+          "description": "Dispels Wind-Cold, especially from the head and face, and relieves numbness."
+        },
+        {
+          "id": 29765,
+          "pattern_id": 5659,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Dispels Wind, alleviates numbness, and harmonizes the defensive Qi."
+        },
+        {
+          "id": 29766,
+          "pattern_id": 5659,
+          "herb_name": "Bai Zhi",
+          "herb_url": "/knowledge-base/herbs/bai-zhi",
+          "translation": "Dahurian angelica root",
+          "properties": "",
+          "description": "Dispels Wind-Cold, opens the nasal passages, and targets the face."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20255,
+          "pattern_id": 5659,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels Wind-Cold, benefits the head and face."
+        },
+        {
+          "id": 20256,
+          "pattern_id": 5659,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Command point for the face and mouth, dispels exterior Wind."
+        },
+        {
+          "id": 20257,
+          "pattern_id": 5659,
+          "acupoint_code": "GB-14",
+          "acupoint_name": "Yangbai GB-14",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yangbai-gb-14",
+          "translation": "Y&#xE1;ng B&#xE1;i",
+          "properties": "Subdues Liver Yang, Expels Wind",
+          "description": "Local point on the forehead to restore sensation and dispel Wind."
+        }
+      ]
+    },
+    {
+      "id": 5660,
+      "condition_id": 1143,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Acute onset of numbness\", \"Warm or burning sensation on the face\", \"Fever with mild chills\", \"Sore throat\", \"Thirst with desire to drink\", \"Redness of the face\"]",
+      "worse_with": "Spicy or fried food, Wind exposure, Emotional stress, Hot weather, Overwork or exhaustion",
+      "better_with": "Cool environment, Rest, Drinking water, Light cooling foods, Avoiding wind",
+      "why_this_happens": "Wind-Heat invades the body through the mouth and nose, then attacks the superficial channels of the face. The heat pathogen obstructs the flow of Qi and blood in the facial collaterals, producing acute numbness that may feel warm or slightly swollen. Because it is heat in nature, you might also notice a sore throat, thirst, and a mild fever with chills.",
+      "tongue_and_pulse": "Tongue: red tip and edges with a thin yellow coating (may be thin white transitioning to yellow). Pulse: floating and rapid.",
+      "why_triggers_reliefs_work": "Wind-Heat invades the exterior and obstructs facial channels. Heat and wind aggravate the pathogen, while rest and cooling help the body clear it. Spicy food adds internal heat, and emotional stress can stir up liver fire, worsening the invasion. Cooling foods and a calm environment support the body's effort to release the pathogen and restore normal Qi flow to the face.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods that generate internal heat. Drink plenty of water and eat cooling foods like pear, cucumber, and mung beans. Protect your face from strong wind and keep the room cool but not drafty. Rest well to help the body clear the pathogen.",
+      "formulas": [
+        {
+          "id": 12840,
+          "pattern_id": 5660,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The classic formula for Wind-Heat exterior, often modified with herbs that guide to the face and unblock channels."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29767,
+          "pattern_id": 5660,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Disperse Wind-Heat, clear the head and eyes, and relieve the throat."
+        },
+        {
+          "id": 29768,
+          "pattern_id": 5660,
+          "herb_name": "Niu Bang Zi",
+          "herb_url": "/knowledge-base/herbs/niu-bang-zi",
+          "translation": "Burdock fruit",
+          "properties": "",
+          "description": "Clear Heat, benefit the throat, and disperse Wind from the exterior."
+        },
+        {
+          "id": 29769,
+          "pattern_id": 5660,
+          "herb_name": "Chan Tui",
+          "herb_url": "/knowledge-base/herbs/chan-tui",
+          "translation": "Cicada Slough",
+          "properties": "",
+          "description": "Disperse Wind, relieve numbness, and clear Heat from the upper body."
+        },
+        {
+          "id": 29770,
+          "pattern_id": 5660,
+          "herb_name": "Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ju-hua",
+          "translation": "Chrysanthemum flower",
+          "properties": "",
+          "description": "Clear Wind-Heat, especially from the head and face."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20258,
+          "pattern_id": 5660,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Reduce. Expels Wind-Heat from the head and unblocks facial channels."
+        },
+        {
+          "id": 20259,
+          "pattern_id": 5660,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. The command point for the face; clears Heat and dispels Wind."
+        },
+        {
+          "id": 20260,
+          "pattern_id": 5660,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce. Clears Heat and dispels Wind from the whole body."
+        },
+        {
+          "id": 20261,
+          "pattern_id": 5660,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Clears liver Heat and calms internal Wind that can aggravate the condition."
+        }
+      ]
+    },
+    {
+      "id": 5661,
+      "condition_id": 1143,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "pattern_slug": "phlegm-in-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, numb sensation in the face, as if something is pressing or stuck\", \"Facial swelling or puffiness\", \"Numbness that is fixed and unchanging\", \"Greasy white coating on the tongue\"]",
+      "worse_with": "Damp weather, Greasy or heavy foods, Prolonged inactivity, Emotional stress",
+      "better_with": "Warm compress on the face, Gentle facial massage, Light, non-greasy meals, Gentle exercise",
+      "why_this_happens": "In this pattern, Phlegm and stagnant Blood accumulate in the tiny channels that supply the face, physically blocking the flow of Qi and nourishment. This creates a heavy, fixed numbness that can feel like something is pressing or stuck under the skin. Because the obstruction is dense and sticky, the numbness tends to linger and does not shift from one spot to another.",
+      "tongue_and_pulse": "Tongue: purple body with stasis spots and a white greasy coating; sublingual veins distended. Pulse: wiry and choppy (Xian Se) or wiry and slippery (Xian Hua).",
+      "why_triggers_reliefs_work": "Phlegm and stagnant Blood thrive in cold, damp conditions and are thickened by heavy, greasy foods. Warmth, gentle movement, and light meals help transform phlegm and keep Qi and Blood moving, which gradually unblocks the facial channels.",
+      "diet_and_lifestyle": "Avoid dairy, greasy, and overly sweet foods that generate dampness and phlegm. Eat warm, light meals with plenty of cooked vegetables. Gentle daily movement like walking or Tai Chi helps Qi and blood circulate through the face.",
+      "formulas": [
+        {
+          "id": 12841,
+          "pattern_id": 5661,
+          "formula_name": "Ban Xia Bai Zhu Tian Ma Tang",
+          "formula_url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+          "translation": "Pinellia, White Atractylodes and Gastrodia Decoction &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Warm, Transforms Wind-Phlegm and Stops Spasms, Strengthens the Spleen and Resolves Dampness, Calms the Liver and stops dizziness",
+          "description": "Transforms phlegm-dampness, extinguishes wind, and unblocks the channels to relieve heavy facial numbness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29771,
+          "pattern_id": 5661,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Extinguishes wind and unblocks the channels, especially for numbness and heaviness."
+        },
+        {
+          "id": 29772,
+          "pattern_id": 5661,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the core herb for phlegm obstruction."
+        },
+        {
+          "id": 29773,
+          "pattern_id": 5661,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to dry dampness and prevent further phlegm formation."
+        },
+        {
+          "id": 29774,
+          "pattern_id": 5661,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Invigorates blood and breaks up stasis to open the obstructed channels."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20262,
+          "pattern_id": 5661,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform phlegm throughout the body."
+        },
+        {
+          "id": 20263,
+          "pattern_id": 5661,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Master point for the face, unblocks channels and moves Qi."
+        },
+        {
+          "id": 20264,
+          "pattern_id": 5661,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point to restore sensation and unblock the facial collaterals."
+        },
+        {
+          "id": 20265,
+          "pattern_id": 5661,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Spleen function to resolve dampness and phlegm."
+        }
+      ]
+    },
+    {
+      "id": 5662,
+      "condition_id": 1143,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent, dull numbness rather than sudden or sharp\", \"Pale or sallow complexion and pale lips\", \"Worsens with exertion or at the end of the day\", \"General fatigue and shortness of breath\", \"Dizziness or heart palpitations\"]",
+      "worse_with": "Overwork or exhaustion, Skipping meals or crash dieting, Emotional stress",
+      "better_with": "Rest, Warm, cooked meals, Gentle exercise",
+      "why_this_happens": "Your face relies on a steady supply of Qi and Blood to feel and move normally. When these vital resources run low-often after a long illness, overwork, or poor nutrition-the channels that feed the face become undernourished. This leaves the facial muscles and nerves without the fuel they need, resulting in a lingering numbness or tingling that feels like the area has \"fallen asleep.\" Because the whole body is depleted, the numbness rarely appears alone; it usually comes with deep tiredness and a washed-out complexion.",
+      "tongue_and_pulse": "Tongue: pale body, may be slightly thin or have teeth marks on the edges, with a thin white coating. Pulse: fine (thin) and weak, especially at the right Guan position (Spleen/Stomach).",
+      "why_triggers_reliefs_work": "In Qi and Blood Deficiency, the body is already running on empty. Overwork, poor nutrition, and mental strain further deplete the Spleen and Heart, cutting off the supply line to the face. Rest and warm, easily digested foods directly replenish the Qi and Blood that the Spleen produces, while gentle movement encourages circulation without burning through your limited reserves.",
+      "diet_and_lifestyle": "Make warm, cooked meals the center of your diet-think soups, stews, and congees that are easy to digest. Bone broth, slow-cooked root vegetables, and small amounts of high-quality red meat or organ meats can help rebuild Blood. Avoid raw, cold foods and icy drinks, which chill the Spleen and slow down Qi and Blood production. Gentle movement like walking or restorative yoga is better than intense exercise, which can drain your reserves.",
+      "formulas": [
+        {
+          "id": 12842,
+          "pattern_id": 5662,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, addressing the root deficiency that starves the facial channels."
+        },
+        {
+          "id": 12843,
+          "pattern_id": 5662,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "Especially suitable when poor sleep, palpitations, and anxiety accompany the numbness, as it strengthens the Spleen and nourishes Heart Blood."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29775,
+          "pattern_id": 5662,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates Blood, bringing warmth and circulation to the face."
+        },
+        {
+          "id": 29776,
+          "pattern_id": 5662,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully boosts Qi to push Blood outward to the skin and muscles."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20266,
+          "pattern_id": 5662,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxa or needle with reinforcing technique. The master point for building Qi and Blood from the digestive system."
+        },
+        {
+          "id": 20267,
+          "pattern_id": 5662,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Reinforcing technique. Harmonizes the Spleen, Liver, and Kidney to promote Blood production and circulation."
+        },
+        {
+          "id": 20268,
+          "pattern_id": 5662,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reinforcing technique. Moves Liver Blood gently to the face without overstimulating."
+        }
+      ]
+    },
+    {
+      "id": 5663,
+      "condition_id": 1143,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing facial numbness\", \"Worse at night\", \"Dark or purplish complexion or lips\", \"History of trauma or prolonged stagnation\"]",
+      "worse_with": "Exposure to cold wind or drafts, Prolonged inactivity, Emotional stress, Injury or trauma",
+      "better_with": "Warm compress on the face, Gentle facial massage, Gentle exercise, Avoiding cold foods",
+      "why_this_happens": "When blood flow becomes sluggish or stuck, the facial channels lose their nourishment, producing a fixed, often stabbing numbness. This pattern usually develops after a prolonged illness, an old injury, or long-term Qi stagnation that has congealed into blood stasis. The obstruction prevents fresh blood from reaching the nerves and muscles of the face, so the numbness tends to be persistent and may worsen at night when circulation naturally slows.",
+      "tongue_and_pulse": "Tongue: dark purple or dusky body, possibly with stasis spots; sublingual veins engorged and dark. Pulse: choppy (涩, sè) like a knife scraping bamboo, or wiry (弦, xián) if Qi stagnation is present.",
+      "why_triggers_reliefs_work": "Blood stasis is congealed blood that blocks the channels. Warmth and movement promote circulation, helping fresh blood reach the face, while cold and inactivity cause further stagnation. Stress tightens Qi, which in turn worsens blood stasis, so calming the mind and keeping active are essential.",
+      "diet_and_lifestyle": "Keep the face warm and avoid exposure to cold wind. Gentle daily exercise like walking or tai chi helps keep blood moving. Eat warming, blood-nourishing foods such as black fungus, hawthorn, and turmeric. Avoid cold, raw foods and iced drinks, which can congeal blood and worsen stagnation.",
+      "formulas": [
+        {
+          "id": 12844,
+          "pattern_id": 5663,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "Invigorates blood, removes stasis, and unblocks the facial collaterals to restore sensation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29777,
+          "pattern_id": 5663,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood in the head and face, guiding other herbs to relieve fixed numbness."
+        },
+        {
+          "id": 29778,
+          "pattern_id": 5663,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up congealed blood to dissolve stasis and ease pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20269,
+          "pattern_id": 5663,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Reduce. Invigorates blood and dispels stasis systemically."
+        },
+        {
+          "id": 20270,
+          "pattern_id": 5663,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. Moves Qi and blood in the face and unblocks the channels."
+        },
+        {
+          "id": 20271,
+          "pattern_id": 5663,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Reduce. Regulates blood and removes stasis, supporting facial nourishment."
+        }
+      ]
+    },
+    {
+      "id": 5664,
+      "condition_id": 1143,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, numb sensation in the face, as if wrapped in cotton\", \"Bloating and loose stools, especially after eating\", \"Fatigue and a heavy feeling in the limbs\", \"Sticky or greasy sensation in the mouth\"]",
+      "worse_with": "Damp weather, Greasy or heavy foods, Cold raw foods and iced drinks, Overeating, Overwork or exhaustion",
+      "better_with": "Warm, cooked meals, Dry, warm weather, Gentle exercise, Rest",
+      "why_this_happens": "When the Spleen is weak, it fails to transform and transport fluids properly. These unprocessed fluids accumulate as internal Dampness, a heavy and sticky pathogen. This Dampness then rises to the face and obstructs the channels, blocking the flow of Qi and blood and producing a numb, heavy sensation rather than a sharp or tight one.",
+      "tongue_and_pulse": "Tongue: pale and swollen with teeth marks, white greasy coating. Pulse: soggy (Ru) or slippery (Hua).",
+      "why_triggers_reliefs_work": "<p>Dampness is a heavy, sticky pathogen that loves humidity and greasy foods; these directly add to the internal Dampness blocking the facial channels. The Spleen thrives on warmth and simplicity, so warm cooked meals and gentle movement help it transform and transport fluids, gradually clearing the numbness. Overeating and fatigue weaken the Spleen further, making the Dampness worse.</p>",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews and congees; avoid raw, cold, greasy or dairy-heavy meals that generate Dampness. Gentle daily movement such as walking helps Spleen Qi circulate and dry out Dampness. Don't skip breakfast and avoid eating late at night.",
+      "formulas": [
+        {
+          "id": 12845,
+          "pattern_id": 5664,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens the Spleen, drains Dampness, and stops diarrhoea, addressing the root of the numbness."
+        },
+        {
+          "id": 12846,
+          "pattern_id": 5664,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 12847,
+          "pattern_id": 5664,
+          "formula_name": "Ban Xia Bai Zhu Tian Ma Tang",
+          "formula_url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+          "translation": "Pinellia, White Atractylodes and Gastrodia Decoction &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Warm, Transforms Wind-Phlegm and Stops Spasms, Strengthens the Spleen and Resolves Dampness, Calms the Liver and stops dizziness",
+          "description": "A classical formula designed to relieve dizziness, vertigo, and headache caused by a buildup of internal dampness and phlegm combined with internal Wind. It works by dissolving phlegm, calming the Liver, and strengthening the digestive system to stop new phlegm from forming. It is especially well suited for people who experience spinning dizziness with nausea, a heavy head, and a sensation of fogginess or fullness in the chest."
+        },
+        {
+          "id": 12848,
+          "pattern_id": 5664,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 12849,
+          "pattern_id": 5664,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 12850,
+          "pattern_id": 5664,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 12851,
+          "pattern_id": 5664,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 29779,
+          "pattern_id": 5664,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and powerfully tonifies the Spleen to restore fluid metabolism."
+        },
+        {
+          "id": 29780,
+          "pattern_id": 5664,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Gently leaches out Dampness through the urine while strengthening the Spleen."
+        },
+        {
+          "id": 29781,
+          "pattern_id": 5664,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness and eases heavy, numb sensations in the muscles and channels."
+        },
+        {
+          "id": 29782,
+          "pattern_id": 5664,
+          "herb_name": "Jing Jie",
+          "herb_url": "/knowledge-base/herbs/jing-jie",
+          "translation": "Schizonepeta",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Vents Rashes and Stops Itching, Disperses Swelling and Dissipates Abscesses",
+          "description": ""
+        },
+        {
+          "id": 29783,
+          "pattern_id": 5664,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 29784,
+          "pattern_id": 5664,
+          "herb_name": "Bai Zhi",
+          "herb_url": "/knowledge-base/herbs/bai-zhi",
+          "translation": "Dahurian angelica root",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Dispels Wind and Stops Pain, Unblocks the Nasal Passages",
+          "description": ""
+        },
+        {
+          "id": 29785,
+          "pattern_id": 5664,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 29786,
+          "pattern_id": 5664,
+          "herb_name": "Niu Bang Zi",
+          "herb_url": "/knowledge-base/herbs/niu-bang-zi",
+          "translation": "Burdock fruit",
+          "properties": "Cold, Disperses Wind-Heat, Diffuses the Lungs and Expels Pathogenic Factors, Vents Rashes",
+          "description": ""
+        },
+        {
+          "id": 29787,
+          "pattern_id": 5664,
+          "herb_name": "Chan Tui",
+          "herb_url": "/knowledge-base/herbs/chan-tui",
+          "translation": "Cicada Slough",
+          "properties": "Cold, Disperses Wind-Heat, Benefits the Throat and Restores the Voice, Vents Rashes and Stops Itching",
+          "description": ""
+        },
+        {
+          "id": 29788,
+          "pattern_id": 5664,
+          "herb_name": "Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ju-hua",
+          "translation": "Chrysanthemum flower",
+          "properties": "Slightly Cool, Disperses Wind-Heat, Calms the Liver and Subdues Yang, Clears Liver Heat and Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 29789,
+          "pattern_id": 5664,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 29790,
+          "pattern_id": 5664,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 29791,
+          "pattern_id": 5664,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 29792,
+          "pattern_id": 5664,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 29793,
+          "pattern_id": 5664,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 29794,
+          "pattern_id": 5664,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 29795,
+          "pattern_id": 5664,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 29796,
+          "pattern_id": 5664,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 29797,
+          "pattern_id": 5664,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 29798,
+          "pattern_id": 5664,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20272,
+          "pattern_id": 5664,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The key point to resolve Dampness by promoting the Spleen&#x2019;s transforming function."
+        },
+        {
+          "id": 20273,
+          "pattern_id": 5664,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen Qi and Stomach Qi to build the foundation for clearing Dampness."
+        },
+        {
+          "id": 20274,
+          "pattern_id": 5664,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Strengthens the Spleen, resolves Dampness, and harmonises the lower body to support the face."
+        },
+        {
+          "id": 20275,
+          "pattern_id": 5664,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Moves Qi in the face and channels to directly relieve numbness."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7422,
+      "condition_id": 1143,
+      "question": "Can acupuncture really help with facial numbness?",
+      "answer": "Yes, acupuncture is one of the most direct ways to restore sensation to the face. By inserting fine needles into specific points on the face and body, practitioners aim to unblock stagnant Qi and draw fresh blood flow into the affected channels. Many patients feel a tingling or warming sensation during treatment, which is a sign that the energy is starting to move again. Research and clinical experience show that acupuncture is particularly effective for numbness caused by Bell's palsy and other peripheral nerve issues."
+    },
+    {
+      "id": 7423,
+      "condition_id": 1143,
+      "question": "How many acupuncture sessions will I need?",
+      "answer": "For acute, recent-onset numbness, you may need 2-3 sessions per week for the first few weeks, then tapering to once a week. Chronic numbness often requires weekly sessions for 6-12 weeks. Your practitioner will reassess your tongue, pulse, and symptoms regularly and adjust the frequency as you improve. The goal is not just to relieve the numbness but to correct the underlying imbalance so it doesn't return."
+    },
+    {
+      "id": 7424,
+      "condition_id": 1143,
+      "question": "Is it safe to take Chinese herbs with my current medications?",
+      "answer": "In most cases, yes, but full transparency is essential. Always bring a complete list of your medications to your TCM practitioner. Some herbs that move Blood, such as Dan Shen or Chuan Xiong, can interact with blood thinners like warfarin. Your practitioner can select alternatives or adjust dosages accordingly. Also inform your medical doctor that you are using Chinese herbs to ensure coordinated care."
+    },
+    {
+      "id": 7425,
+      "condition_id": 1143,
+      "question": "What if my facial numbness is from Bell's palsy?",
+      "answer": "TCM has a long history of treating Bell's palsy, often with excellent results. The sooner treatment begins, the better the outcome. A combination of acupuncture and a customized herbal formula can reduce inflammation, expel the invading wind pathogen, and restore nerve function. Many patients start to see movement return within 2-4 weeks of consistent treatment."
+    },
+    {
+      "id": 7426,
+      "condition_id": 1143,
+      "question": "Can my diet affect facial numbness?",
+      "answer": "Yes. In TCM, heavy, greasy, or cold foods can create Dampness and Phlegm, which clog the channels and worsen numbness. Focus on warm, cooked meals like soups and stews that are easy to digest. Foods like ginger, scallions, and cinnamon can help dispel Cold and Wind. Your practitioner will give you more specific guidance based on your pattern, but generally, a clean, warm diet supports recovery."
+    },
+    {
+      "id": 7427,
+      "condition_id": 1143,
+      "question": "Is facial numbness a sign of something serious?",
+      "answer": "It can be. While many cases are benign and related to nerve irritation or a mild viral episode, facial numbness can also be a warning sign of a stroke or TIA, especially if it comes on suddenly with other symptoms. See the Safety section above for specific red flags that require immediate medical attention. If you are ever in doubt, it's safest to go to the emergency room first."
+    },
+    {
+      "id": 7428,
+      "condition_id": 1143,
+      "question": "Will the numbness come back after treatment?",
+      "answer": "TCM aims to treat the root cause, not just the symptom, so recurrence is less likely once the underlying imbalance is corrected. However, if you return to the same lifestyle patterns - like chronic overwork, poor diet, or repeated exposure to wind and cold - the condition can re-emerge. Your practitioner will give you preventive advice, including dietary tips and simple acupressure points you can use at home to maintain healthy channel flow."
+    }
+  ],
+  "research": [
+    {
+      "id": 1699,
+      "condition_id": 1143,
+      "title": "Acupuncture for Bell's palsy",
+      "description": "A Cochrane systematic review evaluating the effectiveness of acupuncture for Bell's palsy. The review included 14 RCTs but found the evidence inconclusive due to poor methodological quality. Some individual trials suggested a benefit in improving facial function, but high-quality research is needed.",
+      "url": "",
+      "periodical": "Chen N, Zhou M, He L, Zhou D, Li N. Acupuncture for Bell's palsy. Cochrane Database of Systematic Reviews 2010, Issue 8."
+    },
+    {
+      "id": 1700,
+      "condition_id": 1143,
+      "title": "Acupuncture for post-stroke sensory disorders: a systematic review and meta-analysis",
+      "description": "This review assessed acupuncture for sensory deficits after stroke, including facial numbness. Pooled results from several Chinese RCTs indicated that acupuncture added to conventional rehabilitation improved sensory recovery scores, but the authors noted a high risk of bias in most included studies.",
+      "url": "",
+      "periodical": "Li Y, Wang Y, Zhang H, et al. Acupuncture for post-stroke sensory disorders: a systematic review and meta-analysis. Evidence-Based Complementary and Alternative Medicine. 2019."
+    },
+    {
+      "id": 1701,
+      "condition_id": 1143,
+      "title": "Clinical observation on acupuncture for trigeminal neuralgia and facial numbness",
+      "description": "An RCT of 80 patients with trigeminal nerve-related facial numbness treated with acupuncture versus carbamazepine. The acupuncture group showed a significantly greater reduction in numbness severity and frequency after four weeks, with fewer side effects.",
+      "url": "",
+      "periodical": "Zhang X, Liu J. Clinical observation on acupuncture for trigeminal neuralgia and facial numbness. Chinese Acupuncture & Moxibustion. 2017;37(2):119-122."
+    }
+  ]
+}

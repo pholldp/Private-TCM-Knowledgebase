@@ -1,0 +1,969 @@
+{
+  "id": 16,
+  "name": "Ban Xia Bai Zhu Tian Ma Tang",
+  "chinese_name": "半夏白术天麻汤",
+  "english_name": "Pinellia, White Atractylodes and Gastrodia Decoction",
+  "url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+  "summary": "A classical formula designed to relieve dizziness, vertigo, and headache caused by a buildup of internal dampness and phlegm combined with internal Wind. It works by dissolving phlegm, calming the Liver, and strengthening the digestive system to stop new phlegm from forming. It is especially well suited for people who experience spinning dizziness with nausea, a heavy head, and a sensation of fogginess or fullness in the chest.",
+  "categories": "[\"Wind-Phlegm treating formulas\"]",
+  "tcm_actions": "[\"Transforms Wind-Phlegm and Stops Spasms\", \"Strengthens the Spleen and Resolves Dampness\", \"Calms the Liver and stops dizziness\", \"Directs Rebellious Qi Downward and Stops Vomiting\", \"Regulates Qi and Transforms Phlegm\"]",
+  "therapeutic_focus": "[\"Dizziness and Vertigo\", \"Blood Pressure Support\", \"Headache Relief\", \"Digestive Health\"]",
+  "target_organs": "[\"Spleen\", \"Liver\", \"Stomach\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Yi Xue Xin Wu (医学心悟, Medical Revelations) by Cheng Guopeng (程国彭), Volume 4, 'Dizziness' chapter",
+  "conditions": "[\"Vertigo\", \"Hypertension\", \"Headaches\", \"Nausea\", \"Epilepsy\", \"Atherosclerosis\", \"Hyperlipidemia\", \"Transitory Ischemic Attacks\", \"Facial Paralysis\", \"Tinnitus\"]",
+  "patterns": "[]",
+  "other_names": "[\"Ban Xia Tian Ma Wan (半夏天麻丸, Pinellia and Gastrodia Pill)\"]",
+  "pregnancy": "Use with caution during pregnancy. Ban Xia (Pinellia) is traditionally classified among herbs that require caution in pregnancy due to its acrid, drying, and downward-directing properties, which may theoretically disturb the fetus. While the processed form (Zhi Ban Xia or Jiang Ban Xia) used in modern formulations is considerably less toxic than raw Ban Xia, it is still generally avoided or used only under close supervision by a qualified practitioner during pregnancy. This formula should not be self-prescribed during pregnancy.",
+  "breastfeeding": "No specific contraindication has been established for breastfeeding. The herbs in this formula are generally mild, and none are known to produce significant toxic metabolites that transfer through breast milk. However, Ban Xia (Pinellia) is acrid and drying, and Gan Cao (Licorice) may theoretically affect fluid balance. Breastfeeding mothers should consult a qualified practitioner before use, especially regarding appropriate dosage adjustments, and the nursing infant should be monitored for any changes in feeding or stool patterns.",
+  "children": "This formula can be used in children with appropriate dosage reduction, guided by age and body weight. As a general guideline: children under 5 years may take roughly one-quarter to one-third of the adult dose; children aged 5-10 may take one-third to one-half; and children over 10 may take one-half to two-thirds. The classical case literature includes successful use in an 11-year-old child for epilepsy attributed to Wind-Phlegm. Ban Xia (Pinellia) should always be used in its processed form (Zhi Ban Xia) in pediatric prescriptions to minimize any irritant effects. A qualified practitioner should determine the appropriate dosage and monitor the child's response.",
+  "drug_interactions": "Gan Cao (Licorice): The glycyrrhizin in Gan Cao may interact with several classes of medications. It can cause potassium depletion and fluid retention, potentially interacting with diuretics (especially thiazides and loop diuretics, compounding potassium loss), cardiac glycosides such as digoxin (hypokalemia increases digoxin toxicity risk), corticosteroids (additive mineralocorticoid effects), and antihypertensive medications (fluid retention may counteract blood pressure-lowering effects).\nAntihypertensive drugs: Since this formula is frequently used for hypertension-related dizziness, patients taking conventional antihypertensives (ACE inhibitors, ARBs, calcium channel blockers, beta-blockers) should be monitored for additive blood pressure-lowering effects. Preclinical research has demonstrated the formula's vasodilatory properties through NO/cGMP pathways and calcium channel blockade.\nAnticoagulants and antiplatelet agents: While not a primary concern with this formula, some of the herbs may have mild effects on platelet function. Patients on warfarin or similar medications should have their INR monitored when starting or stopping this formula.",
+  "best_time_to_take": "30 minutes after meals, twice daily (morning and evening). The classical texts specify 'food yuan fu' (食远服), meaning taken between meals when the stomach is relatively empty but not completely fasting, to optimize absorption without irritating the stomach.",
+  "typical_duration": "Typically prescribed for 2-4 weeks for acute vertigo episodes, then reassessed. For chronic or recurrent conditions like phlegm-type hypertensive dizziness, it may be taken for 4-8 weeks with periodic reassessment and modification by a practitioner.",
+  "dietary_advice": "Avoid cold and raw foods (salads, ice cream, chilled drinks, raw fruits in excess) as these impair Spleen function and promote Dampness, directly working against the formula's purpose. Reduce intake of greasy, fatty, and fried foods as well as dairy products, which are considered Phlegm-generating in TCM. Limit alcohol and excessively sweet foods. Favor warm, lightly cooked, easy-to-digest meals. Foods that support the Spleen and resolve Dampness are helpful, such as cooked grains (rice, millet), cooked root vegetables, ginger, and small amounts of aromatic spices like cardamom. Avoid overeating, and eat at regular times.",
+  "ingredients": [
+    {
+      "herb_name": "Ban Xia",
+      "english_name": "Pinellia rhizome",
+      "role": "King",
+      "dosage": "9 - 12g"
+    },
+    {
+      "herb_name": "Tian Ma",
+      "english_name": "Gastrodia root",
+      "role": "King",
+      "dosage": "6 - 10g"
+    },
+    {
+      "herb_name": "Bai Zhu",
+      "english_name": "White Atractylodes rhizome",
+      "role": "Deputy",
+      "dosage": "15 - 18g"
+    },
+    {
+      "herb_name": "Fu Ling",
+      "english_name": "Poria",
+      "role": "Deputy",
+      "dosage": "6 - 10g"
+    },
+    {
+      "herb_name": "Ju Hong",
+      "english_name": "Tangerine Peel (red outer layer)",
+      "role": "Assistant",
+      "dosage": "6 - 10g"
+    },
+    {
+      "herb_name": "Sheng Jiang",
+      "english_name": "Fresh ginger rhizome",
+      "role": "Assistant",
+      "dosage": "3 - 6g (1 - 2 slices)"
+    },
+    {
+      "herb_name": "Da Zao",
+      "english_name": "Jujube fruit",
+      "role": "Assistant",
+      "dosage": "2 - 3 pieces"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "3 - 5g"
+    }
+  ],
+  "research": [
+    {
+      "id": 47,
+      "formula_id": 16,
+      "title": "Systematic Review and Meta-Analysis of BBTD for Vertebrobasilar Insufficiency Vertigo (2017)",
+      "description": "This systematic review analyzed randomized controlled trials of Ban Xia Bai Zhu Tian Ma Decoction for vertebrobasilar insufficiency vertigo. It found evidence suggesting the formula is effective for this type of vertigo, though the authors noted limitations in trial quality and called for more rigorous studies.",
+      "url": "",
+      "periodical": "Guo Z, Su Z, Wang Z, Luo X, Lai R. Complement Ther Med. 2017 Apr;31:27-38."
+    },
+    {
+      "id": 48,
+      "formula_id": 16,
+      "title": "Meta-Analysis and Network Pharmacology of BBTD for Hypertension (2022)",
+      "description": "A meta-analysis of 23 RCTs involving 2,041 patients found that adding Ban Xia Bai Zhu Tian Ma Decoction to conventional antihypertensive treatment improved clinical efficacy, blood pressure, blood lipids, homocysteine levels, endothelial function, and inflammation markers compared to conventional treatment alone. Network pharmacology analysis identified potential molecular mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36534045/",
+      "periodical": "Lin J, Wang Q, Xu S, Zhou S, Zhong D, Tan M, Zhang X, Yao K. Front Pharmacol. 2022 Dec 2;13:1025104."
+    },
+    {
+      "id": 49,
+      "formula_id": 16,
+      "title": "Preclinical Study on Anti-Hypertensive and Vasodilatory Effects of Amended BBTD (2018)",
+      "description": "This laboratory study investigated the vasodilatory mechanisms of an optimized Ban Xia Bai Zhu Tian Ma Tang formulation in isolated rat aortic rings. The formula demonstrated significant relaxation of blood vessels through multiple pathways including nitric oxide/cGMP signaling, potassium channel opening, and calcium channel blockade, providing pharmacological evidence for the formula's traditional antihypertensive use.",
+      "url": "",
+      "periodical": "Tan CS, Loh YC, Ng CH, Ch'ng YS, Asmawi MZ, Ahmad M, et al. Biomed Pharmacother. 2018 Jan;97:985-994."
+    },
+    {
+      "id": 50,
+      "formula_id": 16,
+      "title": "Systematic Review of BBTD for Essential Hypertension (2012)",
+      "description": "An early systematic review examining 16 randomized trials of the formula for essential hypertension. When used alone, the formula showed comparable blood pressure reduction to captopril. When combined with antihypertensive drugs, it showed additional benefits. However, the overall methodological quality of included trials was low, limiting the strength of conclusions.",
+      "url": "",
+      "periodical": "Xiong X, Yang X, Liu W, Feng B, Ma J, Du X, Wang P, Wang J. Evid Based Complement Alternat Med. 2012;2012:271462."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 41,
+      "name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "pattern_id": 86,
+      "name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "pattern_id": 117,
+      "name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "pattern_id": 237,
+      "name": "Ban Xia Bai Zhu Tian Ma Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 9,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 9,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 59,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 59,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 75,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 75,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 198,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 198,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 251,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 251,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 404,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 404,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 412,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 412,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 528,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 528,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 543,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 543,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 548,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 548,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 549,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 549,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 550,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 550,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 553,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 553,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 554,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 554,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 557,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 557,
+      "pattern_name": "Qi Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 558,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 558,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 559,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 559,
+      "pattern_name": "Wind-Cold",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 568,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 585,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 585,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 600,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 600,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 601,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 601,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 601,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 602,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 602,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 603,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 603,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 604,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 604,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 605,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 605,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 606,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 606,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 608,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 608,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 751,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 751,
+      "pattern_name": "Qi Collapsing or Qi Sinking",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 755,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 755,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 767,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 767,
+      "pattern_name": "Yin and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 768,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 774,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 774,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 780,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 780,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 805,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 805,
+      "pattern_name": "Painful Obstruction with Liver and Kidney Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 817,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 817,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 880,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 880,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 885,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 885,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 887,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 887,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 888,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 888,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 912,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 912,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 930,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 930,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 931,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 931,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 932,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 932,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 933,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 933,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 933,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 934,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 934,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 999,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 999,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1002,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1002,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1012,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1012,
+      "pattern_name": "Yang Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1038,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1038,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1043,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1043,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Fire",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1045,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1045,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1061,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1061,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1064,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1064,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1092,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1092,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1097,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1097,
+      "pattern_name": "Damp-Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1100,
+      "pattern_name": "Wind-Cold-Damp",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1138,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1138,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1151,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1151,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1158,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1158,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1263,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1263,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1265,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1265,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1265,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1267,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1267,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1275,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1275,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1315,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1315,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Heart Qi Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1334,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1334,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1335,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1335,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1354,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1354,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1425,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1425,
+      "pattern_name": "Kidney Essence Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1438,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1454,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1454,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1464,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1464,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1465,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1465,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1467,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1467,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1481,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1528,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1528,
+      "pattern_name": "Heat invading the Pericardium",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1553,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1553,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1564,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1564,
+      "pattern_name": "Heat in Lessor Yang",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1582,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1582,
+      "pattern_name": "Spleen Qi Sinking",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1586,
+      "pattern_name": "Wind-Phlegm",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    },
+    {
+      "condition_id": 1586,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Ban Xia Bai Zhu Tian Ma Tang"
+    }
+  ]
+}

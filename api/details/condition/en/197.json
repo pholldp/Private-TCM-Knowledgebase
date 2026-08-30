@@ -1,0 +1,717 @@
+{
+  "id": 197,
+  "name": "Appendicitis",
+  "url": "/knowledge-base/conditions/appendicitis",
+  "kind": "Condition",
+  "pinyin": "cháng yōng",
+  "chinese_name": "肠痈",
+  "preview_text": "In TCM, appendicitis is not one disease but a moving target that shifts from damp-heat to toxic-heat to blood stagnation. The right herbs at the right stage can often halt the prog...",
+  "categories": "[\"Bowel & Intestinal Problems\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Appendix Infection\", \"Appendicitis (early stage)\", \"Acute Appendicitis\", \"Ruptured Appendix\", \"Sudden Inflammation Of The Appendix\", \"Periappendiceal Abscess\", \"Abscesses Around The Appendix\", \"Abscesses Near The Appendix\", \"Periappendical Abscesses\"]",
+  "conventional_description": "Appendicitis is the sudden inflammation of the appendix, a small finger-shaped pouch attached to the large intestine. It usually begins when the appendix becomes blocked - by hardened stool, a foreign body, or swollen lymph tissue - allowing bacteria to multiply rapidly inside. The classic symptom is pain that starts around the navel and migrates to the lower right abdomen, often accompanied by nausea, vomiting, and low-grade fever. Without prompt treatment, the inflamed appendix can rupture, spilling infection into the abdominal cavity and causing a life-threatening condition called peritonitis. Diagnosis is typically confirmed through physical examination, blood tests, and imaging such as ultrasound or CT scan.",
+  "conventional_treatments": "The standard treatment for acute appendicitis is surgical removal of the appendix (appendectomy), usually performed laparoscopically. In uncomplicated cases, a course of intravenous antibiotics may be tried first to see if surgery can be avoided, but surgery remains the definitive solution. Pain management and antibiotics are also used to manage symptoms before and after the procedure. If an abscess has formed, it may be drained percutaneously before surgery.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees appendicitis as a disorder rooted in the Large Intestine, but closely tied to the Spleen and Stomach's ability to transform food and fluids. When dampness and heat combine - often from a diet rich in greasy, spicy foods or from external pathogens - they settle in the intestines and obstruct the flow of Qi and blood. This creates the cramping, fixed pain and low-grade fever typical of early appendicitis. The tongue becomes red with a thick, greasy yellow coating, and the pulse feels slippery and rapid. This is the Damp-Heat in the Large Intestine pattern, the first stage of the disease.\nIf the damp-heat is not cleared, it intensifies into a raging fire. Toxins accumulate, burning the local tissues and forming pus - an abscess inside the appendix. This Toxic-Heat pattern brings high fever, extreme thirst, and a deep red tongue with a dry yellow coat. The heat then congeals the blood, leading to a fixed, stabbing pain and a hard mass that resists pressure. This Heat and Blood Stagnation pattern is the most dangerous stage, with a dark purple tongue and a choppy pulse. TCM recognizes that these stages are a continuum, and the same patient can move from one to the next within hours.\nAfter the acute danger passes - whether through the body's own defenses, antibiotics, or surgery - the battle leaves its mark. The intense fight against infection drains the body's Qi and Blood, causing lingering dull pain, pale complexion, and deep fatigue (Qi and Blood Deficiency). Or, the high fever may have consumed the body's Yin fluids, leaving a low-grade afternoon fever, night sweats, and a dry, red tongue with little coating (Yin Deficiency). These recovery patterns explain why some people feel drained for weeks after appendicitis, and they require a completely different approach than the acute stage.",
+  "classical_quote": "「肠痈者，少腹肿痞，按之即痛如淋，小便自调，时时发热，自汗出，复恶寒。其脉迟紧者，脓未成，可下之，当有血。脉洪数者，脓已成，不可下也。大黄牡丹汤主之。」",
+  "classical_translation": "\"In intestinal abscess, there is a swollen, stuffy sensation in the lower abdomen, pain like strangury on pressure, normal urination, periodic fever, spontaneous sweating, and aversion to cold. If the pulse is slow and tight, pus has not yet formed and purgation is appropriate; there will be blood in the stool. If the pulse is overflowing and rapid, pus has already formed and purgation is contraindicated. Da Huang Mu Dan Tang governs this.\"",
+  "classical_source": "Jin Gui Yao Lue (Essential Prescriptions of the Golden Cabinet)  ,  Chapter on Intestinal Abscess \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the location and nature of the abdominal pain, along with how it started and what makes it better or worse. They also pay close attention to body temperature, thirst, bowel habits, and energy levels. These clues, together with tongue and pulse examination, help distinguish which pattern is driving the appendicitis.\nIn the early Damp-Heat in the Large Intestine stage, pain is often a dull ache that gradually localizes to the lower right abdomen, with mild fever, a heavy sensation, and possible nausea. The tongue appears red with a yellow, greasy coating, and the pulse feels slippery and rapid. This picture points to dampness and heat brewing in the intestines.\nWhen Toxic-Heat takes over, the pain becomes severe and constant, with high fever, extreme thirst, and sometimes a palpable tender mass. The tongue turns deep red with a thick, dry yellow coating, and the pulse is forceful and rapid. This signals a dangerous escalation that can lead to abscess formation.\nHeat and Blood Stagnation in the Lower Burner produces a fixed, stabbing pain that resists pressure, often with a hard lump and vomiting. The tongue is dark red or purple with stasis spots, and the pulse feels wiry or choppy. The combination of toxic heat and congealed blood creates an intense, localized obstruction.\nAfter the acute crisis passes, some people slip into Qi and Blood Deficiency. They feel drained, pale, and short of breath, with a dull ache that lingers. The tongue is pale and puffy with teeth marks, and the pulse is thin and weak. This pattern reflects the body’s depleted resources during recovery.\nIn Empty-Heat caused by Yin Deficiency, a low-grade fever persists, especially in the afternoon or at night, with sweaty palms and soles, dry mouth, and restlessness. The tongue is red with little coating, and the pulse is thin and rapid. This indicates that prolonged heat has consumed the body’s cooling yin fluids.",
+  "patterns": [
+    {
+      "id": 993,
+      "condition_id": 197,
+      "pattern_name": "Damp-Heat in the Large Intestine",
+      "pattern_slug": "damp-heat-in-the-large-intestine",
+      "is_common": 0,
+      "symptoms": "[\"Cramping pain that shifts to the right lower abdomen\", \"Nausea and poor appetite\", \"Fever with a feeling of heaviness in the body\", \"Thirst but no desire to drink\", \"Scanty dark urine\", \"Red tongue with a thick, yellow, greasy coating\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Overeating, Damp, humid weather, Stress, anger, or emotional upset",
+      "better_with": "Lying still and avoiding movement, Light, bland foods (congee, steamed greens), Cooling foods and drinks (like mung bean soup or cucumber), Avoiding greasy and spicy foods",
+      "why_this_happens": "When dampness and heat combine and settle in the intestines, they block the smooth flow of Qi and blood. This stagnation creates the cramping, fixed pain typical of early appendicitis, often shifting to the right lower abdomen. The heat produces fever and thirst, while the dampness causes nausea, a heavy sensation, and a greasy tongue coating.",
+      "tongue_and_pulse": "Tongue: red body with a thick, yellow, greasy coating, thickest at centre and root. Pulse: slippery and rapid.",
+      "why_triggers_reliefs_work": "Spicy, greasy, and fried foods generate dampness and heat in the body, directly worsening the accumulation in the intestines. Rest allows the body to focus its Qi on clearing the pathogenic factors, while light, cooling foods help drain dampness and clear heat without burdening the digestive system.",
+      "diet_and_lifestyle": "Eat light, easily digested foods such as congee, steamed vegetables, and mung bean soup. Avoid all greasy, fried, spicy, or raw-cold foods that create damp-heat. Rest is essential; avoid physical exertion.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 5270,
+          "pattern_id": 993,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges heat and dampness from the intestines and breaks up blood stasis."
+        },
+        {
+          "id": 5271,
+          "pattern_id": 993,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools blood and clears heat, reduces swelling."
+        },
+        {
+          "id": 5272,
+          "pattern_id": 993,
+          "herb_name": "Dong Gua Zi",
+          "herb_url": "/knowledge-base/herbs/dong-gua-zi",
+          "translation": "Winter melon seed",
+          "properties": "",
+          "description": "Drains pus and resolves dampness, especially for intestinal abscess."
+        },
+        {
+          "id": 5273,
+          "pattern_id": 993,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks blood stasis and relieves pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3547,
+          "pattern_id": 993,
+          "acupoint_code": "EX-LE-7",
+          "acupoint_name": "Lanwei EX-LE-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lanwei-ex-le-7",
+          "translation": "L&#xE1;n W&#x11B;i",
+          "properties": "Promote Qi and Blood circulation in the Large Intestine, Clear Heat and Toxin-Heat from the Large Intestine",
+          "description": "Specific point for appendicitis; reduces swelling and pain in the right lower abdomen."
+        },
+        {
+          "id": 3548,
+          "pattern_id": 993,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Front-Mu point of the Large Intestine; regulates Qi and clears damp-heat."
+        },
+        {
+          "id": 3549,
+          "pattern_id": 993,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "Lower He-Sea point of the Large Intestine; clears intestinal heat and dampness."
+        },
+        {
+          "id": 3550,
+          "pattern_id": 993,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and resolves dampness, supports the middle burner."
+        },
+        {
+          "id": 3551,
+          "pattern_id": 993,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and cools the blood."
+        }
+      ]
+    },
+    {
+      "id": 994,
+      "condition_id": 197,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"Sharp, intense, fixed pain that is worse with pressure\", \"Right lower abdomen (McBurney&#x27;s point)\", \"High fever, chills, and sweating\", \"Restlessness and irritability\", \"Constipation or foul-smelling diarrhea, intense thirst for cold drinks\", \"Red face, dry mouth, possibly a palpable mass\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Stress, anger, or emotional upset, Strenuous activity, heavy lifting, or overexertion, Hot and humid environments",
+      "better_with": "Cool compress on the abdomen, Cool, quiet environment, Cooling foods and drinks (like mung bean soup or cucumber)",
+      "why_this_happens": "When Damp-Heat in the intestines intensifies and is not resolved, it can transform into an extreme accumulation of Heat and Toxin. This Toxic-Heat burns the local tissues, congeals the Blood, and causes pus to form, creating an abscess in the appendix. The intense internal Heat then surges outward, producing a high fever, severe localized pain, and a palpable mass.",
+      "tongue_and_pulse": "Tongue: deep red (绛 jiàng) with prickly thorns and a thick, dry yellow coating. Pulse: overflowing (洪 hóng), rapid (数 shuò), and forceful.",
+      "why_triggers_reliefs_work": "Toxic-Heat is an extreme accumulation of pathogenic Heat and Toxin in the body. Anything that adds more Heat-like spicy food, alcohol, emotional stress, or hot surroundings-will fuel the fire and worsen the condition. Cooling measures, light fluids, and rest help to calm the internal Heat and prevent it from flaring further, giving the body a chance to fight the infection.",
+      "diet_and_lifestyle": "This is an acute condition requiring immediate medical attention. If food is permitted, consume only light, cooling liquids like mung bean soup, cucumber juice, or watermelon juice. Strictly avoid spicy, greasy, or fried foods that generate Heat.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 5274,
+          "pattern_id": 994,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges Heat and Toxin from the intestines and breaks up Blood Stasis."
+        },
+        {
+          "id": 5275,
+          "pattern_id": 994,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools the Blood and resolves Stasis to relieve pain and swelling."
+        },
+        {
+          "id": 5276,
+          "pattern_id": 994,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves Toxin, especially for intestinal abscesses."
+        },
+        {
+          "id": 5277,
+          "pattern_id": 994,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears Heat and disperses clumps, helping to reduce the abscess."
+        },
+        {
+          "id": 5278,
+          "pattern_id": 994,
+          "herb_name": "Bai Jiang Cao",
+          "herb_url": "/knowledge-base/herbs/bai-jiang-cao",
+          "translation": "Patrinia herb",
+          "properties": "",
+          "description": "Specifically clears Heat and eliminates pus from the intestines."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3552,
+          "pattern_id": 994,
+          "acupoint_code": "BL-25",
+          "acupoint_name": "Dachangshu BL-25",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/dachangshu-bl-25",
+          "translation": "D&#xE0; Ch&#xE1;ng Sh&#x16B;",
+          "properties": "Regulates the Large Intestine, Removes Qi Stagnation in the Large Intestine",
+          "description": "Back-Shu point of the Large Intestine; clears Heat and resolves Stagnation in the bowel."
+        },
+        {
+          "id": 3553,
+          "pattern_id": 994,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Front-Mu point of the Large Intestine; regulates the intestine and relieves abdominal pain."
+        },
+        {
+          "id": 3554,
+          "pattern_id": 994,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Supports the Stomach and clears Heat, strengthening the body&#x27;s ability to fight the infection."
+        },
+        {
+          "id": 3555,
+          "pattern_id": 994,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears Heat and Toxin, especially from the abdomen, and alleviates pain."
+        },
+        {
+          "id": 3556,
+          "pattern_id": 994,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools the Blood, helping to reduce high fever."
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "condition_id": 197,
+      "pattern_name": "Heat and Blood Stagnation in the Lower Burner",
+      "pattern_slug": "heat-and-blood-stagnation-in-the-lower-burner",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain in the lower right abdomen that worsens with pressure\", \"A palpable, hard mass or tightness in the lower right belly\", \"Fever that intensifies at night\", \"Dark or black stools, dark purple lips\", \"Irritability, restlessness, or agitation\"]",
+      "worse_with": "Pressure or touch on the lower right belly, Strenuous activity, heavy lifting, or overexertion, Spicy, greasy, or fried foods, Stress, anger, or emotional upset, Alcohol and coffee",
+      "better_with": "Lying still and avoiding movement, Cool compress on the abdomen, Cooling foods and drinks (like mung bean soup or cucumber), Gentle, slow breathing",
+      "why_this_happens": "As the inflammation in the appendix deepens, toxic heat and stagnant blood combine to block the local channels. This obstruction creates intense, fixed pain and a hard, tender mass in the lower right abdomen. The heat consumes body fluids, leading to a dry mouth and dark urine, while the blood stasis shows up as dark stools, purple lips, and a tongue with a purplish hue.",
+      "tongue_and_pulse": "Tongue: reddish-purple body with stasis spots, distended veins under the tongue, and a dry yellow coating. Pulse: deep (Chen), choppy (Se), and rapid (Shu) when heat is strong; the left Chi position may feel full and wiry.",
+      "why_triggers_reliefs_work": "Pressure and movement further obstruct the already stagnant Qi and blood, making the pain worse. Heat from spicy foods and alcohol adds fuel to the toxic heat, intensifying inflammation. Rest and cooling foods help calm the heat and allow the Qi to move more freely, reducing stasis. A cool compress draws out local heat, while emotional calm prevents the Liver Qi from surging and worsening the blockage.",
+      "diet_and_lifestyle": "Stick to light, cooling foods like cucumber, watermelon, and mung bean soup. Avoid alcohol, coffee, and anything spicy, greasy, or fried. Rest quietly-avoid any sudden twisting or heavy lifting. A cool (not ice-cold) compress over the painful area can help calm the local heat.",
+      "formulas": [
+        {
+          "id": 2311,
+          "pattern_id": 995,
+          "formula_name": "Tao He Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/tao-he-cheng-qi-tang",
+          "translation": "Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels",
+          "description": "Alternative formula for severe blood stasis with heat in the lower burner."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5279,
+          "pattern_id": 995,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges heat and moves stagnant blood to relieve the intestinal blockage."
+        },
+        {
+          "id": 5280,
+          "pattern_id": 995,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools the blood and invigorates circulation to dissolve stasis."
+        },
+        {
+          "id": 5281,
+          "pattern_id": 995,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and softens the hard mass."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3557,
+          "pattern_id": 995,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the large intestine and relieves local pain."
+        },
+        {
+          "id": 3558,
+          "pattern_id": 995,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the digestive system, moves Qi, and supports the body&#x27;s ability to clear heat."
+        },
+        {
+          "id": 3559,
+          "pattern_id": 995,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears heat and stops pain throughout the abdomen."
+        },
+        {
+          "id": 3560,
+          "pattern_id": 995,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates the blood and resolves stasis in the lower burner."
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "condition_id": 197,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Lingering dull, vague ache rather than sharp pain\", \"Profound fatigue and weakness\", \"Pale or sallow complexion\", \"Poor appetite and loose stools\", \"Dizziness or lightheadedness\"]",
+      "worse_with": "Strenuous activity, heavy lifting, or overexertion, Cold, raw foods, Stress, anger, or emotional upset",
+      "better_with": "Warm, nourishing soups and congees, Gentle rest, Gentle movement or light walking",
+      "why_this_happens": "After the acute phase of appendicitis, or following surgical drainage, the body's vital resources are often depleted. The intense fight against infection consumes Qi and Blood, leaving the healing tissues poorly nourished. This deficiency slows recovery, causing lingering dull pain and a general lack of vitality.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or teeth-marked, thin white coating. Pulse: fine and weak (细弱, xì ruò).",
+      "why_triggers_reliefs_work": "Qi and Blood are the body's building blocks and energy currency. Overexertion and stress drain them further, while cold foods damage the Spleen's ability to produce more. Rest and warm, nourishing foods directly supply the raw materials needed to replenish these vital substances, speeding recovery.",
+      "diet_and_lifestyle": "Focus on warm, easily digested, nutrient-dense foods like congees, bone broths, and stewed meats. Avoid raw, cold, or greasy foods that weaken the Spleen. Prioritize rest and gentle walking to rebuild strength without overexertion.",
+      "formulas": [
+        {
+          "id": 2312,
+          "pattern_id": 996,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to strengthen the Spleen and nourish both Qi and Blood, aiding recovery after the acute stage."
+        },
+        {
+          "id": 2313,
+          "pattern_id": 996,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A balanced eight-ingredient decoction that tonifies Qi and Blood simultaneously when both are deficient."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5282,
+          "pattern_id": 996,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, helping to rebuild tissue and relieve dull pain."
+        },
+        {
+          "id": 5283,
+          "pattern_id": 996,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi to boost energy and promote the healing of wounds."
+        },
+        {
+          "id": 5284,
+          "pattern_id": 996,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to improve appetite and resolve lingering dampness and loose stools."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3561,
+          "pattern_id": 996,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion or gentle needle. Tonifies Qi and Blood, strengthens the Spleen and Stomach."
+        },
+        {
+          "id": 3562,
+          "pattern_id": 996,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen, supporting overall recovery."
+        },
+        {
+          "id": 3563,
+          "pattern_id": 996,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Moxibustion. Fortifies the body&#x27;s core energy to lift fatigue and support healing."
+        }
+      ]
+    },
+    {
+      "id": 997,
+      "condition_id": 197,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Low-grade afternoon fever or feeling of heat\", \"Night sweats\", \"Dry mouth and throat, worse in the evening\", \"Lingering dull ache in the lower right abdomen (less severe than acute appendicitis)\", \"Heat sensation in palms, soles, and chest (five-palm heat)\", \"Restlessness and irritability, difficulty staying asleep\", \"Flushed cheekbones (malar flush)\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Strenuous activity, heavy lifting, or overexertion, Stress, anger, or emotional upset, Late nights or lack of sleep, Hot weather or overheated rooms, Alcohol and coffee",
+      "better_with": "Cooling foods and drinks (like mung bean soup or cucumber), Plenty of rest and sleep, Cool, quiet environment, Hydration with water or herbal teas, Gentle movement or light walking",
+      "why_this_happens": "After the acute stage of appendicitis or a prolonged high fever, the body's Yin fluids become depleted. This Yin deficiency allows empty heat to flare up, causing low-grade afternoon fever, night sweats, and a sensation of heat. The local stagnation in the intestines persists but is no longer driven by strong excess heat, so the pain becomes a milder, lingering dull ache rather than the sharp, severe pain of earlier stages. The dryness of the mouth and throat, restlessness, and red tongue with little coating all reflect the underlying Yin deficiency and empty heat.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with cracks, little or no coating. Pulse: fine (thin) and rapid, weak on deep pressure.",
+      "why_triggers_reliefs_work": "In this pattern, the body's Yin and fluids are depleted, so any further drying or heating (spicy food, overwork, stress, hot environment) will worsen the empty heat and dryness. Rest and cooling, moistening foods help replenish Yin and clear deficiency heat, easing the low-grade fever and discomfort. Gentle movement aids Qi flow without depleting Yin.",
+      "diet_and_lifestyle": "Focus on moistening, cooling foods that replenish Yin: pears, lily bulbs, black sesame, honey, and congee. Avoid spicy, fried, or overly heating foods, as they further deplete Yin. Drink plenty of water and herbal teas like chrysanthemum. Prioritize rest and avoid late nights, as sleep is crucial for Yin recovery. Gentle activities like walking or qigong are fine, but avoid overexertion. Keep the environment cool and calm.",
+      "formulas": [
+        {
+          "id": 2314,
+          "pattern_id": 997,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Nourishes Yin and clears deficiency heat, appropriate for the low-grade fever and night sweats of this recovery-phase pattern."
+        },
+        {
+          "id": 2315,
+          "pattern_id": 997,
+          "formula_name": "Tao He Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/tao-he-cheng-qi-tang",
+          "translation": "Peach Pit Decoction to Order the Qi &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Breaks Blood and Dispels Stasis, Purges Heat from the Lower Burner, Purges Heat and Unblocks the Bowels",
+          "description": "A classical formula used to break up blood stasis and clear heat from the lower abdomen. It is commonly applied for lower abdominal pain with a sense of tightness and fullness, dark-coloured menstrual blood or stools, restlessness, and nighttime fevers caused by stagnant blood binding with heat in the lower body."
+        },
+        {
+          "id": 2316,
+          "pattern_id": 997,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 2317,
+          "pattern_id": 997,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 2318,
+          "pattern_id": 997,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5285,
+          "pattern_id": 997,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears heat and nourishes Yin, especially for deficiency heat with dryness."
+        },
+        {
+          "id": 5286,
+          "pattern_id": 997,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Drains deficiency fire and clears empty heat."
+        },
+        {
+          "id": 5287,
+          "pattern_id": 997,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "",
+          "description": "Cools blood and clears heat, helping to reduce lingering inflammation."
+        },
+        {
+          "id": 5288,
+          "pattern_id": 997,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 5289,
+          "pattern_id": 997,
+          "herb_name": "Mu Dan Pi",
+          "herb_url": "/knowledge-base/herbs/mu-dan-pi",
+          "translation": "Tree peony root bark",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Deficiency Heat",
+          "description": ""
+        },
+        {
+          "id": 5290,
+          "pattern_id": 997,
+          "herb_name": "Dong Gua Zi",
+          "herb_url": "/knowledge-base/herbs/dong-gua-zi",
+          "translation": "Winter melon seed",
+          "properties": "Cool, Clears Lung Heat and Transforms Phlegm, Expels Pus and Reduces Swelling, Drains Dampness",
+          "description": ""
+        },
+        {
+          "id": 5291,
+          "pattern_id": 997,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 5292,
+          "pattern_id": 997,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 5293,
+          "pattern_id": 997,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 5294,
+          "pattern_id": 997,
+          "herb_name": "Bai Jiang Cao",
+          "herb_url": "/knowledge-base/herbs/bai-jiang-cao",
+          "translation": "Patrinia herb",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Expels Pus and Reduces Swelling, Invigorates Blood and Dispels Stasis",
+          "description": ""
+        },
+        {
+          "id": 5295,
+          "pattern_id": 997,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 5296,
+          "pattern_id": 997,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 5297,
+          "pattern_id": 997,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 5298,
+          "pattern_id": 997,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 5299,
+          "pattern_id": 997,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3564,
+          "pattern_id": 997,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to anchor the empty heat."
+        },
+        {
+          "id": 3565,
+          "pattern_id": 997,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Yin and clears deficiency heat, especially for night sweats and dry throat."
+        },
+        {
+          "id": 3566,
+          "pattern_id": 997,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Yin and blood, calms the mind."
+        },
+        {
+          "id": 3567,
+          "pattern_id": 997,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Regulates the intestines and supports Qi, with gentle stimulation to avoid over-dispersion."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1264,
+      "condition_id": 197,
+      "question": "Can Chinese medicine treat appendicitis without surgery?",
+      "answer": "In the very early stage, when damp-heat is just beginning, TCM herbal formulas like Da Huang Mu Dan Tang have been used for centuries to clear the inflammation and resolve the blockage. However, appendicitis can worsen quickly, so this should only be attempted under the care of a qualified practitioner in a setting where emergency surgery is available. If the condition has progressed to toxic-heat or abscess, surgery is usually necessary, and TCM can support recovery afterwards."
+    },
+    {
+      "id": 1265,
+      "condition_id": 197,
+      "question": "Is it safe to take Chinese herbs if I might need an appendectomy?",
+      "answer": "Yes, in many cases, but you must inform your surgeon and anesthesiologist about all herbs you are taking. Some herbs, like Da Huang (rhubarb root) and Tao Ren (peach kernel), can affect blood clotting or interact with anesthesia. A TCM practitioner experienced in surgical settings can adjust the formula and timing to ensure safety. Never take herbs without full disclosure to your medical team."
+    },
+    {
+      "id": 1266,
+      "condition_id": 197,
+      "question": "What should I eat if I have appendicitis or am recovering from it?",
+      "answer": "During an acute episode, solid food is often restricted to rest the bowel. TCM dietary guidance focuses on light, easily digestible foods that don't create more dampness or heat. After the acute phase, congee, steamed vegetables, and small amounts of mung bean soup can help clear residual heat. Avoid greasy, fried, spicy, and raw cold foods, as they burden the Spleen and Stomach and can worsen dampness. For those with Qi and Blood Deficiency after surgery, warm, nourishing soups with lean protein and gentle herbs like Dang Gui can speed recovery."
+    },
+    {
+      "id": 1267,
+      "condition_id": 197,
+      "question": "How does acupuncture help with appendicitis pain?",
+      "answer": "Acupuncture can help modulate pain signals and reduce inflammation by stimulating points along the Large Intestine and Stomach channels. Points like Lanwei (an extra point specific for appendicitis), Tianshu ST-25, and Zusanli ST-36 are commonly used to move Qi and blood in the abdomen and alleviate pain. It is often used as a complementary therapy alongside conventional treatment, not as a replacement for antibiotics or surgery in advanced cases."
+    },
+    {
+      "id": 1268,
+      "condition_id": 197,
+      "question": "Can TCM prevent appendicitis from coming back?",
+      "answer": "If the appendix is removed, appendicitis cannot recur. However, some people who are treated with antibiotics alone may have a recurrence. TCM can help by addressing underlying imbalances like damp-heat or Spleen deficiency that might predispose to intestinal inflammation. After an episode, a course of herbs and dietary adjustments can strengthen the digestive system and clear any lingering dampness, potentially reducing the risk of another flare-up."
+    },
+    {
+      "id": 1269,
+      "condition_id": 197,
+      "question": "Will Chinese herbs interact with the antibiotics I'm taking?",
+      "answer": "Most herbs used for appendicitis, such as Jin Yin Hua and Lian Qiao, have anti-infective properties and are generally safe alongside antibiotics, but there can be overlapping effects on the gut flora. Da Huang has a laxative effect that might be intensified by certain medications. Always provide your full medication list to your TCM practitioner, and monitor for digestive upset. In hospital settings, TCM doctors often coordinate with the medical team to avoid interactions."
+    },
+    {
+      "id": 1270,
+      "condition_id": 197,
+      "question": "How do I know if my appendicitis is the damp-heat or toxic-heat type?",
+      "answer": "Damp-heat typically presents with moderate pain, a low-grade fever, nausea, and a greasy yellow tongue coating. Toxic-heat brings high fever, severe pain, extreme thirst, and a deep red tongue with a thick dry coating. If you're unsure, err on the side of caution and seek immediate medical evaluation, because toxic-heat can mean a rupturing appendix. A TCM practitioner can differentiate by examining your tongue and pulse."
+    }
+  ],
+  "research": []
+}

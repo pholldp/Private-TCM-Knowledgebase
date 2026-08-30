@@ -1,0 +1,746 @@
+{
+  "id": 1223,
+  "name": "Acute Respiratory Distress Syndrome",
+  "url": "/knowledge-base/conditions/acute-respiratory-distress-syndrome",
+  "kind": "Condition",
+  "pinyin": "bào chuǎn",
+  "chinese_name": "暴喘",
+  "preview_text": "TCM doesn't just see ARDS as a lung problem - it reads the breathlessness through the gut, the blood, and the color of the sputum. Each pattern demands a different herbal and acupu...",
+  "categories": "[\"Lung & Breathing Conditions\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Acute Lung Injury\"]",
+  "conventional_description": "ARDS is a severe form of acute lung injury in which the tiny air sacs (alveoli) become leaky and fill with fluid, preventing oxygen from reaching the blood. It is most often triggered by sepsis, pneumonia, severe trauma, or inhalation of harmful substances. People with ARDS experience rapid, labored breathing, low blood oxygen, and often require mechanical ventilation. Diagnosis relies on blood gas measurements and chest imaging showing widespread white-out of the lungs.",
+  "conventional_treatments": "Conventional management centers on life support in an intensive care unit. Mechanical ventilation with low tidal volumes and positive end-expiratory pressure helps keep the lungs open. Treating the underlying cause - antibiotics for infection, fluid management, and sometimes steroids - is essential. Patients are often placed in a prone position to improve oxygenation. Recovery can be prolonged, and many survivors face lasting lung damage and weakness.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees ARDS as a catastrophic failure of the Lung's most vital job: descending and diffusing Qi. Normally, the Lung takes in clear air and pushes turbid air downward. When this function collapses, breath becomes shallow, rapid, and desperate. The culprits can be either excess pathogens - like phlegm, heat, or stagnant blood - or a profound deficiency of Lung Qi itself. Often, several factors combine to create the crisis.\nThe gut-lung connection is a cornerstone of TCM thinking here. The Stomach and Intestines belong to the Yangming channel, the body's furnace. When this furnace overheats and the bowels become blocked, trapped heat and turbid Qi surge upward and smother the Lungs. This is why severe constipation and abdominal bloating can make breathing dramatically worse - a pattern the ancient texts called \"Yangming fire forcing the Lungs.\"\nBlood circulation through the chest is equally critical. In ARDS, inflammation and toxins can congeal the Blood, creating a state of \"toxin-stasis binding\" that obstructs the vessels of the Heart and Lungs. When this happens, the lips and nail beds turn dusky, and the chest feels tight and painful. The Heart, which governs Blood, and the Lung, which governs Qi, become locked in a vicious cycle where neither can function properly.\nBecause ARDS can arise from different triggers - a sudden wind-heat invasion after a flu, a septic shock that scorches the Yangming channel, or a slow collapse of Lung Qi in a frail patient - TCM insists on identifying the specific pattern behind the breathlessness. The color and stickiness of sputum, the state of the bowels, the appearance of the tongue and skin, and the quality of the pulse all point the way to a tailored treatment strategy.",
+  "classical_quote": "「诸气膹郁，皆属于肺。」",
+  "classical_translation": "\"All disorders characterized by qi stuffiness and oppression belong to the Lung. This early statement from the Yellow Emperor's Inner Classic establishes the Lung as the primary organ involved in severe breathlessness and chest oppression, laying the foundation for later differentiation of acute dyspnea.\"",
+  "classical_source": "黄帝内经·素问  ,  至真要大论篇第七十四 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking what the breathing difficulty feels like and what accompanies it. The quality of the breath, the color and texture of any sputum, and the presence of fever, bowel changes, or skin color shifts are the first clues that point toward one pattern over another.\nWhen the breath is harsh and shallow, with thick yellow sputum that is hard to cough out, the picture is phlegm-heat clogging the lungs. The tongue is red with a greasy yellow coat, and the pulse feels slippery and rapid. This pattern is the most common driver of acute lung injury.\nIf severe constipation and abdominal bloating appear alongside the breathing trouble, the diagnosis shifts to include bright yang fire in the stomach and intestines. The tongue coat is dry and yellow, and the pulse is deep and forceful. This gut-lung loop often makes the respiratory distress much worse.\nWhen the lips and nail beds turn dusky or bluish, heart blood stagnation is at play. The tongue may be dark purple, and the pulse can feel choppy. This pattern develops as toxins and stasis bind, impairing circulation through the chest.\nA sudden onset with fever, a scratchy cough, and thin yellow sputum points to wind-heat invading the lungs. Here the tongue is red with a thin yellow coat, and the pulse is floating and rapid. It often marks an external trigger that inflames the lung.\nIn later stages or in people who were already frail, the breath becomes feeble and shallow, with spontaneous sweating and deep fatigue. The tongue is pale and the pulse weak. This lung qi deficiency pattern signals that the body’s respiratory power is depleted.",
+  "patterns": [
+    {
+      "id": 6021,
+      "condition_id": 1223,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "pattern_slug": "phlegm-heat-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Severe shortness of breath, unable to lie flat\", \"Thick yellow or green sticky sputum, hard to cough up\", \"Chest tightness and oppression\", \"Fever, flushed face, and thirst\", \"Wheezing or gurgling sounds in the throat\", \"Restlessness and irritability\"]",
+      "worse_with": "Spicy, greasy foods, Hot, humid weather, Emotional stress, Physical exertion, Dairy and sugar",
+      "better_with": "Cool, fresh air, Sitting upright, Warm fluids, Light, easy-to-digest meals, Rest",
+      "why_this_happens": "In ARDS, a severe inflammatory storm floods the lungs with sticky, hot phlegm. This phlegm-heat combination physically blocks the airways and prevents Lung Qi from descending, causing the hallmark severe breathlessness and rapid, shallow breathing. The heat stirs up restlessness, fever, and thirst, while the thick phlegm triggers a desperate, unproductive cough.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen at the front, with a thick yellow greasy coating; red prickles may appear on the front third. Pulse: slippery and rapid, strongest at the right cun position.",
+      "why_triggers_reliefs_work": "Phlegm-Heat arises from an accumulation of heat and dampness in the Lungs. Spicy, greasy foods and emotional stress generate more heat and phlegm, worsening breathlessness. Cooling foods, fresh air, and rest help to clear heat and resolve phlegm, allowing Lung Qi to descend smoothly.",
+      "diet_and_lifestyle": "Avoid greasy, spicy, and fried foods that create heat and phlegm. Focus on light, cooling foods like pear, daikon radish, and water chestnut. Drink plenty of warm water to thin phlegm. Rest is essential; avoid strenuous activity that strains breathing.",
+      "formulas": [
+        {
+          "id": 13652,
+          "pattern_id": 6021,
+          "formula_name": "Sang Bai Pi Tang",
+          "formula_url": "/knowledge-base/formulas/sang-bai-pi-tang",
+          "translation": "Mulberry Root Bark Decoction &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Cold, Clears Lung Heat, Descends Lung Qi and Stops Cough, Resolves Phlegm",
+          "description": "The classic formula to clear heat and transform phlegm in the Lungs, relieving wheezing and expelling thick yellow sputum."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31597,
+          "pattern_id": 6021,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Lung Heat and dries Dampness, reducing fever and inflammation."
+        },
+        {
+          "id": 31598,
+          "pattern_id": 6021,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Transforms Phlegm and relieves chest oppression, helps expectorate sticky yellow sputum."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21526,
+          "pattern_id": 6021,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and relieves breathlessness."
+        },
+        {
+          "id": 21527,
+          "pattern_id": 6021,
+          "acupoint_code": "EX-B-1",
+          "acupoint_name": "Dingchuan EX-B-1",
+          "acupoint_url": "/knowledge-base/acupuncture/dingchuan-ex-b-1",
+          "translation": "D&#xEC;ng Chu&#x1CE;n",
+          "properties": "Calms dyspnoea and wheezing",
+          "description": "Empirical point to stop wheezing and open the chest."
+        },
+        {
+          "id": 21528,
+          "pattern_id": 6021,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms Phlegm and clears Heat, essential for sticky sputum."
+        },
+        {
+          "id": 21529,
+          "pattern_id": 6021,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and cools the blood to reduce fever."
+        }
+      ]
+    },
+    {
+      "id": 6022,
+      "condition_id": 1223,
+      "pattern_name": "Bright Yang Fire in Stomach and Intestines",
+      "pattern_slug": "bright-yang-fire-in-stomach-and-intestines",
+      "is_common": 0,
+      "symptoms": "[\"High fever with afternoon worsening\", \"Severe constipation with dry, hard stools\", \"Abdominal distension and pain that worsens with pressure\", \"Intense thirst for cold drinks\", \"Foul breath and bad body odor\", \"Restlessness and irritability\"]",
+      "worse_with": "Spicy, greasy foods, Overeating, Emotional stress, Hot weather, Constipation",
+      "better_with": "Passing stool, Cool, fresh air, Cold drinks, Rest, Light, easy-to-digest meals",
+      "why_this_happens": "The Stomach and Intestines are part of the Yangming channel, which is the body's most abundant source of Qi and heat. When blazing heat accumulates here, it creates an intense interior fire that dries up fluids and blocks the bowels. This blockage traps Qi in the middle and forces Lung Qi to rebel upward instead of descending, which is what produces the rapid, labored breathing of ARDS.\nAt the same time, the Lung and Large Intestine are interior-exteriorly paired. A bowel obstruction directly impairs the Lung's ability to clear and descend, while the rising heat scorches the Lung, thickening phlegm and further worsening respiratory distress. This gut-lung vicious cycle is a hallmark of severe acute dyspnea.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns, thick yellow dry coating, possibly cracked. Pulse: deep, forceful, rapid and slippery.",
+      "why_triggers_reliefs_work": "This pattern is driven by blazing heat trapped in the Stomach and Intestines, creating a blockage that forces Lung Qi upward. Cooling foods and drinks directly counter the heat, while passing stool removes the obstruction and allows Qi to descend. Spicy, greasy foods and emotional stress add more heat and stagnation, worsening the crisis.",
+      "diet_and_lifestyle": "Eat light, cooling foods like cucumber, pear, and tofu. Avoid spicy, greasy, and heavy meals that generate heat. Drink plenty of water and avoid alcohol. Gentle abdominal massage and walking can help stimulate bowel movement.",
+      "formulas": [
+        {
+          "id": 13653,
+          "pattern_id": 6022,
+          "formula_name": "Da Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/da-cheng-qi-tang",
+          "translation": "Major Order the Qi Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Vigorously Purges Heat Accumulation, Promotes Bowel Movement, Moves Qi and Relieves Distension",
+          "description": "The classical formula to purge heat from the Stomach and Intestines, unblock the bowels, and allow Lung Qi to descend."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31599,
+          "pattern_id": 6022,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges heat, unblocks the bowels, and cools the blood to resolve the underlying obstruction."
+        },
+        {
+          "id": 31600,
+          "pattern_id": 6022,
+          "herb_name": "Mang Xiao",
+          "herb_url": "/knowledge-base/herbs/mang-xiao",
+          "translation": "Mirabilite",
+          "properties": "",
+          "description": "Softens hard stools and promotes bowel movement, easing the abdominal distension."
+        },
+        {
+          "id": 31601,
+          "pattern_id": 6022,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi, relieves abdominal fullness, and helps the Lung Qi descend."
+        },
+        {
+          "id": 31602,
+          "pattern_id": 6022,
+          "herb_name": "Zhi Shi",
+          "herb_url": "/knowledge-base/herbs/zhi-shi",
+          "translation": "Immature Bitter Orange Fruit",
+          "properties": "",
+          "description": "Breaks stagnation in the chest and abdomen, guiding Qi downward."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21530,
+          "pattern_id": 6022,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Front-Mu point of the Large Intestine; unblocks the bowels and clears intestinal heat."
+        },
+        {
+          "id": 21531,
+          "pattern_id": 6022,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "Lower He-Sea point of the Large Intestine; promotes defecation and clears heat from the bowels."
+        },
+        {
+          "id": 21532,
+          "pattern_id": 6022,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Ying-Spring point of the Stomach channel; drains Stomach fire and calms restlessness."
+        },
+        {
+          "id": 21533,
+          "pattern_id": 6022,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Source point of the Large Intestine; promotes bowel movement and clears heat from the Yangming channel."
+        }
+      ]
+    },
+    {
+      "id": 6023,
+      "condition_id": 1223,
+      "pattern_name": "Heart Blood Stagnation",
+      "pattern_slug": "heart-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Stabbing or pricking chest pain in a fixed location\", \"Purple or dark discolouration of lips and nails\", \"Palpitations and a feeling of suffocation in the chest\", \"Cold hands\", \"Anxiety or restlessness during breathing difficulty\"]",
+      "worse_with": "Emotional stress, Cold exposure, Sedentary lifestyle, Greasy, heavy meals",
+      "better_with": "Gentle movement, Warmth on the chest, Slow deep breathing, Calm, quiet environment",
+      "why_this_happens": "In ARDS, severe inflammation and toxins can bind with the Blood, creating a state of \"toxin-stasis binding\" that obstructs the vessels of the chest. When Heart Blood stagnates, the chest becomes tight and painful, and the Heart struggles to pump Blood smoothly through the lungs. This impairs the exchange of Qi and Blood, leading to the hallmark cyanosis-purple lips and nails-and worsening the breathlessness that defines acute respiratory distress.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots and distended sublingual veins. Pulse: choppy (涩, sè) or knotted (结, jié), reflecting Blood struggling to flow.",
+      "why_triggers_reliefs_work": "Emotional stress and anger can further stagnate Liver Qi, which then aggravates Heart Blood stasis-the root of this pattern. Cold constricts the vessels, making it harder for Blood to move, while gentle movement and warmth encourage circulation. Deep breathing directly helps open the chest and supports the Heart in pumping Blood, relieving the sense of suffocation.",
+      "diet_and_lifestyle": "Eat lightly and avoid heavy, greasy, or cold foods that can congeal the Blood. Gentle daily movement like walking or tai chi helps keep Blood flowing. Practice slow, deep breathing to ease chest tension, and keep stress in check with calming activities.",
+      "formulas": [
+        {
+          "id": 13654,
+          "pattern_id": 6023,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to move Blood in the chest, eliminate stasis, and ease the constriction that worsens breathing."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31603,
+          "pattern_id": 6023,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Invigorates the Blood and calms the Mind, directly addressing chest stasis and restlessness."
+        },
+        {
+          "id": 31604,
+          "pattern_id": 6023,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up stagnant Blood and relieves the fixed chest pain."
+        },
+        {
+          "id": 31605,
+          "pattern_id": 6023,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves Blood and Qi powerfully in the upper body, helping to open the chest."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21534,
+          "pattern_id": 6023,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "The Back-Shu point of the Heart, used to move Blood and calm the Spirit."
+        },
+        {
+          "id": 21535,
+          "pattern_id": 6023,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, regulates Heart rhythm, and moves stagnant Blood."
+        },
+        {
+          "id": 21536,
+          "pattern_id": 6023,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood, a key point to invigorate circulation and dissolve stasis."
+        }
+      ]
+    },
+    {
+      "id": 6024,
+      "condition_id": 1223,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "pattern_slug": "wind-heat-invading-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Sudden severe breathlessness (&#x66B4;&#x5598;)\", \"Fever with mild chills\", \"Sore throat\", \"Cough with yellow sputum\", \"Thirst\"]",
+      "worse_with": "Cold exposure, Spicy, fried foods, Physical exertion, Emotional stress",
+      "better_with": "Rest, Cool, fresh air, Warm fluids, Avoiding wind",
+      "why_this_happens": "Wind-Heat invades from the outside, striking the Lungs first. The pathogen disrupts the Lung's ability to diffuse and descend Qi, trapping Heat in the chest and triggering sudden, severe breathlessness (暴喘). The Heat dries fluids into sticky yellow phlegm, while the body's defensive Qi battles the invader, producing fever, sore throat, and a floating, rapid pulse.",
+      "tongue_and_pulse": "Tongue: red tip, thin yellow coating, body slightly red. Pulse: floating and rapid.",
+      "why_triggers_reliefs_work": "Wind-Heat is an external pathogen that attacks the Lungs, so protecting the body from further wind invasion and resting conserves defensive Qi. Warm fluids help keep phlegm loose and support the Lung's moistening function. Spicy and greasy foods generate internal Heat, which worsens the Lung Heat and dyspnea.",
+      "diet_and_lifestyle": "Rest in a well-ventilated room away from drafts. Sip warm water or pear juice to soothe the throat and thin phlegm. Avoid spicy, greasy, and fried foods that generate more heat. Gentle breathing exercises can help once the acute phase passes.",
+      "formulas": [
+        {
+          "id": 13655,
+          "pattern_id": 6024,
+          "formula_name": "Ma Xing Shi Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ma-xing-shi-gan-tang",
+          "translation": "Ephedra, Apricot Kernel, Gypsum and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cool, Clears Lung Heat, Calms Wheezing, Disperses Wind-Heat",
+          "description": "Clears heat from the Lungs, opens the air passages, and relieves acute dyspnea."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31606,
+          "pattern_id": 6024,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "",
+          "description": "Opens the Lung and relieves wheezing by diffusing Lung Qi."
+        },
+        {
+          "id": 31607,
+          "pattern_id": 6024,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Clears intense Lung Heat and reduces fever."
+        },
+        {
+          "id": 31608,
+          "pattern_id": 6024,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "",
+          "description": "Directs Lung Qi downward and stops coughing and dyspnea."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21537,
+          "pattern_id": 6024,
+          "acupoint_code": "EX-B-1",
+          "acupoint_name": "Dingchuan EX-B-1",
+          "acupoint_url": "/knowledge-base/acupuncture/dingchuan-ex-b-1",
+          "translation": "D&#xEC;ng Chu&#x1CE;n",
+          "properties": "Calms dyspnoea and wheezing",
+          "description": "Main extra point to stop acute wheezing and dyspnea."
+        },
+        {
+          "id": 21538,
+          "pattern_id": 6024,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Back-Shu point of the Lung to regulate Lung Qi and relieve breathlessness."
+        },
+        {
+          "id": 21539,
+          "pattern_id": 6024,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Luo-Connecting point of the Lung, releases the exterior and diffuses Lung Qi."
+        },
+        {
+          "id": 21540,
+          "pattern_id": 6024,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Source point of the Large Intestine, clears heat and releases the exterior."
+        }
+      ]
+    },
+    {
+      "id": 6025,
+      "condition_id": 1223,
+      "pattern_name": "Lung Qi Deficiency",
+      "pattern_slug": "lung-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Weak, low-force cough\", \"Shortness of breath worsened by exertion\", \"Spontaneous daytime sweating\", \"Fatigue and tiredness\", \"Pale complexion\", \"Sensitivity to wind and cold\"]",
+      "worse_with": "Physical exertion, Cold exposure, Talking for long periods, Raw, cold foods, Emotional stress",
+      "better_with": "Rest, Warmth on the chest, Small, warm meals, Sitting upright, Slow deep breathing",
+      "why_this_happens": "Lung Qi is responsible for descending and diffusing breath. When it is deficient, the Lung cannot properly draw in air or push it out, leaving the person with shallow, feeble breathing that feels like they can't get enough air. In ARDS, this often appears in later stages or in those with pre-existing weakness-the acute inflammation may have subsided, but the Lung's energy is so depleted that even minimal effort triggers breathlessness and spontaneous sweating, as the defensive Qi fails to hold the pores closed.",
+      "tongue_and_pulse": "Tongue: pale, tender body with possible teeth marks and a thin white coating. Pulse: empty, weak, especially at the right Cun position.",
+      "why_triggers_reliefs_work": "Lung Qi deficiency means the body's vital energy is depleted, especially in the respiratory system. Physical exertion and talking consume Qi, leaving less to power breathing. Cold air and drafts constrict the airways and force the Lung to work harder, while raw, cold foods weaken the Spleen, which is the source of Qi for the Lung. Rest and warmth conserve Qi and allow the Lung to recover; deep, slow breathing gently exercises the Lung without overdrawing its reserves.",
+      "diet_and_lifestyle": "Rest is essential-avoid any activity that leaves you breathless. Eat small, warm, easily digestible meals like congee with ginger and a little chicken. Keep the chest and neck warm, and practice gentle diaphragmatic breathing when you feel strong enough. Avoid cold drinks and raw foods, which further weaken the Spleen and Lung Qi.",
+      "formulas": [
+        {
+          "id": 13656,
+          "pattern_id": 6025,
+          "formula_name": "Bu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/bu-fei-tang",
+          "translation": "Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE",
+          "properties": "Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough",
+          "description": "The classic formula to tonify Lung Qi, relieve cough and breathlessness, and stop spontaneous sweating."
+        },
+        {
+          "id": 13657,
+          "pattern_id": 6025,
+          "formula_name": "Sang Bai Pi Tang",
+          "formula_url": "/knowledge-base/formulas/sang-bai-pi-tang",
+          "translation": "Mulberry Root Bark Decoction &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Cold, Clears Lung Heat, Descends Lung Qi and Stops Cough, Resolves Phlegm",
+          "description": "A classical formula for clearing Heat from the Lungs and resolving thick phlegm that causes wheezing, cough, and difficulty breathing. It is commonly used for acute flare-ups of chronic bronchitis, asthma, and other respiratory conditions where the key signs are yellow or sticky phlegm, loud wheezing, chest tightness, and signs of internal Heat such as thirst and restlessness."
+        },
+        {
+          "id": 13658,
+          "pattern_id": 6025,
+          "formula_name": "Da Cheng Qi Tang",
+          "formula_url": "/knowledge-base/formulas/da-cheng-qi-tang",
+          "translation": "Major Order the Qi Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Vigorously Purges Heat Accumulation, Promotes Bowel Movement, Moves Qi and Relieves Distension",
+          "description": "A powerful classical formula used to urgently clear severe Heat and blockage from the intestines. It is used for acute conditions involving constipation with strong abdominal pain and distension, high fever, and delirium, where the body needs rapid purging to prevent the illness from worsening. This is a strong-acting formula used only for acute, fully developed excess-Heat conditions and is not suitable for everyday use."
+        },
+        {
+          "id": 13659,
+          "pattern_id": 6025,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 13660,
+          "pattern_id": 6025,
+          "formula_name": "Ma Xing Shi Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ma-xing-shi-gan-tang",
+          "translation": "Ephedra, Apricot Kernel, Gypsum and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cool, Clears Lung Heat, Calms Wheezing, Disperses Wind-Heat",
+          "description": "A classical four-herb formula from the Shang Han Lun used when Heat becomes trapped in the Lungs, causing fever, cough, wheezing, and thirst. It works by cooling the Lungs and restoring normal breathing. Commonly used for respiratory infections such as bronchitis, pneumonia, and influenza when the person shows clear signs of Heat like a rapid pulse, yellow tongue coating, and thirst."
+        },
+        {
+          "id": 13661,
+          "pattern_id": 6025,
+          "formula_name": "Bu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/bu-fei-tang",
+          "translation": "Tonify the Lungs Decoction &#xB7; Yu&#xE1;n dynasty, 1331 CE",
+          "properties": "Slightly Warm, Tonifies Lung Qi, Tonifies Qi and consolidates the Exterior, Astringes the Lungs and Stops Cough",
+          "description": "A classical formula designed to strengthen weak lungs and support breathing. It is used for people with a long-standing weak cough, shortness of breath, a quiet or feeble voice, and a tendency to sweat easily, all signs that the Lung&#x27;s Qi has become depleted over time."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 31609,
+          "pattern_id": 6025,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Lung Qi and strengthens the defensive Qi to reduce sweating and susceptibility to colds."
+        },
+        {
+          "id": 31610,
+          "pattern_id": 6025,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi to rescue the Lung from collapse in severe deficiency."
+        },
+        {
+          "id": 31611,
+          "pattern_id": 6025,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes the Lung Qi to stabilize breathing and reduces spontaneous sweating."
+        },
+        {
+          "id": 31612,
+          "pattern_id": 6025,
+          "herb_name": "Zi Wan",
+          "herb_url": "/knowledge-base/herbs/zi-wan",
+          "translation": "Tatarian aster root",
+          "properties": "",
+          "description": "Warms the Lung and transforms phlegm, easing the weak cough."
+        },
+        {
+          "id": 31613,
+          "pattern_id": 6025,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 31614,
+          "pattern_id": 6025,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 31615,
+          "pattern_id": 6025,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 31616,
+          "pattern_id": 6025,
+          "herb_name": "Mang Xiao",
+          "herb_url": "/knowledge-base/herbs/mang-xiao",
+          "translation": "Mirabilite",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Softens Hardness and Moistens Dryness, Clears Heat and Reduces Swelling",
+          "description": ""
+        },
+        {
+          "id": 31617,
+          "pattern_id": 6025,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 31618,
+          "pattern_id": 6025,
+          "herb_name": "Zhi Shi",
+          "herb_url": "/knowledge-base/herbs/zhi-shi",
+          "translation": "Immature Bitter Orange Fruit",
+          "properties": "Slightly Cool, Breaks Qi and Eliminates Focal Distention, Promotes Digestion and Resolves Food Stagnation, Transforms Phlegm and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 31619,
+          "pattern_id": 6025,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 31620,
+          "pattern_id": 6025,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 31621,
+          "pattern_id": 6025,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 31622,
+          "pattern_id": 6025,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Disperses Wind-Cold, Descends Lung Qi and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 31623,
+          "pattern_id": 6025,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 31624,
+          "pattern_id": 6025,
+          "herb_name": "Xing Ren",
+          "herb_url": "/knowledge-base/herbs/xing-ren",
+          "translation": "Bitter apricot kernel",
+          "properties": "Slightly Warm, Descends Lung Qi and Stops Cough, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 31625,
+          "pattern_id": 6025,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 31626,
+          "pattern_id": 6025,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 31627,
+          "pattern_id": 6025,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        },
+        {
+          "id": 31628,
+          "pattern_id": 6025,
+          "herb_name": "Zi Wan",
+          "herb_url": "/knowledge-base/herbs/zi-wan",
+          "translation": "Tatarian aster root",
+          "properties": "Warm, Moistens the Lungs and Descends Qi, Resolves Phlegm and Stops Cough, Warms the Lungs and Stops Cough",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 21541,
+          "pattern_id": 6025,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Tonify. The Back-Shu point of the Lung, directly strengthens Lung Qi and improves respiratory function."
+        },
+        {
+          "id": 21542,
+          "pattern_id": 6025,
+          "acupoint_code": "EX-B-1",
+          "acupoint_name": "Dingchuan EX-B-1",
+          "acupoint_url": "/knowledge-base/acupuncture/dingchuan-ex-b-1",
+          "translation": "D&#xEC;ng Chu&#x1CE;n",
+          "properties": "Calms dyspnoea and wheezing",
+          "description": "Calms dyspnea and stops wheezing; a key empirical point for acute breathlessness."
+        },
+        {
+          "id": 21543,
+          "pattern_id": 6025,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. Strengthens the Spleen and Stomach to generate Qi and support the Lung."
+        },
+        {
+          "id": 21544,
+          "pattern_id": 6025,
+          "acupoint_code": "LU-9",
+          "acupoint_name": "Taiyuan LU-9",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/taiyuan-lu-9",
+          "translation": "T&#xE0;i Yu&#x101;n",
+          "properties": "Clears Phlegm, Descends Lung Qi",
+          "description": "Tonify. The Yuan-source point of the Lung, deeply tonifies Lung Qi and regulates respiration."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7944,
+      "condition_id": 1223,
+      "question": "Can TCM treat ARDS on its own?",
+      "answer": "No. ARDS is a medical emergency that requires immediate hospital care, mechanical ventilation, and intensive monitoring. TCM should never be used as a substitute for standard life-saving treatment. It can, however, be a powerful complementary therapy when integrated into the ICU plan, helping to reduce inflammation, clear phlegm, and support organ function."
+    },
+    {
+      "id": 7945,
+      "condition_id": 1223,
+      "question": "Is it safe to use herbs while on a ventilator?",
+      "answer": "Yes, when prescribed by a qualified TCM practitioner who is communicating with the ICU team. Herbal decoctions can be administered through a nasogastric tube. The practitioner will avoid herbs that might interfere with sedation, blood pressure, or clotting. Always ensure both your TCM provider and your medical doctors know exactly what is being given."
+    },
+    {
+      "id": 7946,
+      "condition_id": 1223,
+      "question": "How can acupuncture help in the middle of such a severe illness?",
+      "answer": "Acupuncture in ARDS is used to calm the breath, open the chest, and reduce the fight-or-flight stress response. Points on the back, chest, and limbs are selected to guide Lung Qi downward, transform phlegm, and clear heat. Even in a sedated patient, acupuncture can help regulate inflammation and support bowel function, which is often crucial for easing the breath."
+    },
+    {
+      "id": 7947,
+      "condition_id": 1223,
+      "question": "What does recovery look like with TCM support?",
+      "answer": "After the acute crisis, many patients are left with weak Lung Qi - shallow breathing, fatigue, and a lingering cough. TCM can then shift to tonifying herbs and gentle acupuncture that rebuild Lung and Kidney strength. This phase can take months, but many people find it helps them regain energy and breathe more comfortably than with physical therapy alone."
+    },
+    {
+      "id": 7948,
+      "condition_id": 1223,
+      "question": "Are there any dietary changes that help?",
+      "answer": "During recovery, eat warm, cooked, easy-to-digest foods. Congees, soups, and steamed vegetables support the Spleen and Lung. Pears, white fungus, and lily bulb can moisten the Lungs. Avoid cold, raw, greasy, and spicy foods, which create more phlegm and dampness. Your TCM practitioner will give you specific guidance based on your pattern."
+    },
+    {
+      "id": 7949,
+      "condition_id": 1223,
+      "question": "Can TCM prevent ARDS from happening?",
+      "answer": "TCM cannot prevent all cases of ARDS, but it can strengthen the body's resilience. For people with chronic lung conditions or weakened immunity, regular acupuncture and herbs that tonify Lung and Kidney Qi may reduce the severity of respiratory infections. However, ARDS is often triggered by sudden, overwhelming events like sepsis or major trauma that are impossible to fully predict."
+    }
+  ],
+  "research": [
+    {
+      "id": 1821,
+      "condition_id": 1223,
+      "title": "A systematic review and meta-analysis of effect evaluation of traditional Chinese medicine in treating acute respiratory distress syndrome",
+      "description": "This meta-analysis pooled data from multiple RCTs and found that TCM herbal formulas combined with conventional therapy significantly reduced serum levels of IL-6, TNF-α, and CRP, improved oxygenation index, and shortened mechanical ventilation time compared to conventional therapy alone. Commonly used formulas included Da Cheng Qi Tang and Ma Xing Shi Gan Tang. The authors concluded that TCM is a beneficial adjunct for ARDS but noted the need for higher-quality trials.",
+      "url": "",
+      "periodical": "Liu Y, et al. A systematic review and meta-analysis of effect evaluation of traditional Chinese medicine in treating acute respiratory distress syndrome. Ann Palliat Med. 2021;10(6):6617-6628."
+    },
+    {
+      "id": 1822,
+      "condition_id": 1223,
+      "title": "Comparative Efficacy of Seven Kinds of Chinese Medicine Injections in Acute Lung Injury and Acute Respiratory Distress Syndrome: A Network Meta-analysis of Randomized Controlled Trials",
+      "description": "This network meta-analysis compared seven Chinese herbal injections, including Xue Bi Jing, Tan Re Qing, and Shen Fu, for acute lung injury and ARDS. It found that Xue Bi Jing and Tan Re Qing were associated with reduced mortality and improved clinical response rates. The study highlighted the anti-inflammatory and immunomodulatory mechanisms of these injections and supported their use as adjunctive therapy in ARDS.",
+      "url": "https://doi.org/10.3389/fphar.2021.627751",
+      "periodical": "Zhang Y, et al. Comparative Efficacy of Seven Kinds of Chinese Medicine Injections in Acute Lung Injury and Acute Respiratory Distress Syndrome: A Network Meta-analysis of Randomized Controlled Trials. Front Pharmacol. 2021;12:627751."
+    }
+  ]
+}

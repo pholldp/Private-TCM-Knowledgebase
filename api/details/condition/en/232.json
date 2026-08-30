@@ -1,0 +1,888 @@
+{
+  "id": 232,
+  "name": "Hepatic Encephalopathy",
+  "url": "/knowledge-base/conditions/hepatic-encephalopathy",
+  "kind": "Condition",
+  "pinyin": "gān xìng nǎo bìng",
+  "chinese_name": "肝性脑病",
+  "preview_text": "The type of mental fog-heavy and sluggish versus agitated and restless-reveals which TCM pattern is driving hepatic encephalopathy, and treating that root cause can often improve c...",
+  "categories": "[\"Liver Conditions & Jaundice\", \"Brain & Nervous System Conditions\", \"Memory & Cognition\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Coma Due To Liver Failure\", \"Hepatic Coma\", \"Liver Coma\"]",
+  "conventional_description": "Hepatic encephalopathy is a decline in brain function that occurs when the liver can no longer adequately filter toxins from the blood. These toxins, especially ammonia, build up and travel to the brain, causing a spectrum of symptoms from mild forgetfulness, sleep disturbances, and personality changes to severe confusion, disorientation, and coma. It is most often a complication of advanced liver disease, particularly cirrhosis. Diagnosis is based on clinical evaluation, blood ammonia levels, and ruling out other causes of altered mental status.",
+  "conventional_treatments": "Standard conventional treatment focuses on reducing ammonia production and absorption. This includes non-absorbable disaccharides like lactulose to acidify the gut and trap ammonia, and antibiotics such as rifaximin to reduce ammonia-producing gut bacteria. Dietary protein restriction may be advised, and in severe cases, hospitalization for airway protection and supportive care. Liver transplantation is the only curative option for recurrent or refractory HE.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, hepatic encephalopathy is understood as a disorder of multiple organ systems - primarily the Liver, Spleen, and Kidneys - where toxic pathogens such as damp-heat, phlegm-turbidity, and blood stasis ascend to disturb the mind. The Liver governs the free flow of qi and stores blood; when its function is compromised by chronic disease, qi becomes stagnant and transforms into heat or damp-heat. The Spleen, responsible for transforming food and fluids, fails to do so, allowing dampness to accumulate and congeal into phlegm.\nThis phlegm is not just a respiratory issue - it is a sticky, obstructive substance that can rise and block the heart orifices, leading to the mental cloudiness and stupor characteristic of HE.\nMeanwhile, the Kidneys, which store essence and nourish the brain, become depleted over time, leaving the mind without its foundation. Thus, one Western diagnosis of hepatic encephalopathy can manifest as several different TCM patterns. A patient with jaundice, bitter taste, and a yellow greasy tongue coating has Damp-Heat in the Liver, where toxic heat and dampness brew and ascend. Another with heavy limbs, gurgling phlegm, and a thick white greasy coating has Turbid Phlegm Blocking the Orifices.\nA sudden high fever with delirium points to Heat invading the Pericardium, an acute emergency pattern. Restless agitation and dizziness despite weakness signals Liver Yang Rising, while mental dullness with a dark complexion suggests Blood Stagnation obstructing the brain’s collaterals. Finally, profound fatigue with alternating chills and hot flashes reflects severe Deficiency of both Kidney Yin and Yang, where the brain is simply starved of nourishment. Each pattern requires a distinct herbal formula and acupuncture approach.",
+  "classical_quote": "「黄疸之病，甚则神昏不语，如醉如痴。」",
+  "classical_translation": "\"In severe cases of jaundice, the spirit becomes clouded and the patient cannot speak, appearing as if drunk or demented.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun (Treatise on the Origins and Symptoms of Diseases)  ,  Volume 12, Huang Dan Zhu Hou (Symptoms of Jaundice) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner begins by asking about the mental fog itself - is it a heavy, sluggish stupor or a restless, agitated delirium? The speed of onset, any fever, jaundice, and abdominal symptoms are all early clues. The tongue and pulse then confirm which pattern is driving the confusion.\nIf the person feels as if wrapped in a thick fog, with heavy limbs, gurgling phlegm in the throat, and a thick white greasy tongue coat, the pattern is likely Turbid Phlegm Blocks Orifices (痰蒙心窍, tán méng xīn qiào). The pulse feels slippery, pointing to phlegm-dampness clouding the mind.\nWhen jaundice, a bitter taste, nausea, and abdominal distension accompany the mental haze, and the tongue shows a thick yellow greasy coat with a rapid slippery pulse, Damp-Heat in the Liver (肝经湿热, gān jīng shī rè) is brewing the turbid toxins that ascend to the brain. This pattern often underlies the phlegm picture.\nA sudden high fever with violent delirium, a bright red tongue with a dry yellow coat, and a rapid forceful pulse signal Heat in Pericardium (热入心包, rè rù xīn bāo). Fire-toxins directly invade the heart, making this an acute emergency pattern that demands immediate care.\nIf restlessness, irritability, dizziness, and a dry mouth dominate, with a red tongue that lacks coating and a wiry rapid pulse, Liver Yang Rising (肝阳上亢, gān yáng shàng kàng) is disturbing the mind. This pattern stems from yin deficiency failing to anchor yang, and mental agitation often flares with stress or poor sleep.\nA dark, ashen complexion, fixed stabbing pain, and a purplish tongue with stasis spots point to Blood Stagnation (瘀血阻络, yū xuè zǔ luò). Mental dullness creeps in gradually as stagnant blood blocks the brain collaterals, and the pulse feels choppy and hesitant.\nIn advanced, exhausted stages, profound fatigue, a sallow face, cold limbs, and a pale tongue with a deep weak pulse indicate Deficiency of both Kidney Yin and Yang (肾阴阳两虚, shèn yīn yáng liǎng xū). The brain loses its nourishment, leading to terminal mental decline. This pattern rarely appears alone and often mixes with others.",
+  "patterns": [
+    {
+      "id": 1160,
+      "condition_id": 232,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "pattern_slug": "turbid-phlegm-blocks-orifices",
+      "is_common": 0,
+      "symptoms": "[\"Clouded or confused consciousness\", \"Rattling phlegm sound in the throat\", \"Slurred or impaired speech\", \"Heavy-headedness, like the head is wrapped\", \"Greasy white tongue coating\", \"Dull or blank facial expression\"]",
+      "worse_with": "Greasy or fried foods, Damp or rainy weather, Overeating or late-night meals, Mental strain or overthinking, Alcohol",
+      "better_with": "Warm, cooked meals, Quiet, calm environment, Gentle movement or walking, Avoiding damp, humid places, Mental rest and quiet",
+      "why_this_happens": "In chronic liver disease, the Spleen's ability to transform fluids breaks down, allowing dampness to accumulate and congeal into thick, turbid phlegm. This phlegm is not just a respiratory nuisance - it is a sticky, obstructive substance that can travel upward and cloud the 'orifices of the heart,' which in Chinese medicine refers to the mind and consciousness. When turbid phlegm mists the brain, thinking becomes foggy, speech slurs, and a heavy, dull sensation takes over, much like a dense fog rolling in and obscuring clarity.\nThe rattling phlegm sound in the throat and the greasy white tongue coating are telltale signs that the body is struggling with this internal dampness. Because the Liver and Spleen are closely linked, the stagnation from liver disease worsens the Spleen's weakness, creating a vicious cycle that deepens the mental clouding.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks; thick, white, greasy-slippery coat. Pulse: slippery (huá), often wiry (xián), with a soft, submerged quality at the right Guan position.",
+      "why_triggers_reliefs_work": "Turbid phlegm arises when the Spleen fails to transform fluids, a process easily overwhelmed by greasy, cold, or damp-producing foods and by mental overwork, which weakens Spleen Qi. External dampness from weather or environment adds to the internal dampness, thickening the phlegm. Warm, light meals and gentle movement support the Spleen's digestive fire, helping it to burn off dampness. A calm, quiet environment and mental rest conserve Spleen energy, preventing the stagnation that allows phlegm to rise and cloud the mind.",
+      "diet_and_lifestyle": "Avoid cold, raw, greasy, and dairy-heavy foods, which directly feed dampness and phlegm. Choose warm, cooked, easily digestible meals like congee, steamed vegetables, and lightly spiced broths. Gentle daily movement such as walking helps Qi circulate and prevents stagnation, but avoid mental overwork and prolonged screen time, which drain the Spleen's energy and worsen the mental fog.",
+      "formulas": [
+        {
+          "id": 2695,
+          "pattern_id": 1160,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "The classic formula to sweep away phlegm and open the orifices. It directly targets turbid phlegm misting the mind, restoring clarity and consciousness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 6181,
+          "pattern_id": 1160,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the cornerstone herb for clearing turbid phlegm from the middle burner."
+        },
+        {
+          "id": 6182,
+          "pattern_id": 1160,
+          "herb_name": "Dan Nan Xing",
+          "herb_url": "/knowledge-base/herbs/dan-nan-xing",
+          "translation": "Bile Arisaema",
+          "properties": "",
+          "description": "Resolves stubborn phlegm and opens the orifices, particularly effective for phlegm that clouds the mind."
+        },
+        {
+          "id": 6183,
+          "pattern_id": 1160,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Opens the sensory orifices and transforms turbid phlegm, helping to restore mental clarity and speech."
+        },
+        {
+          "id": 6184,
+          "pattern_id": 1160,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains dampness and strengthens the Spleen, cutting off the source of phlegm production."
+        },
+        {
+          "id": 6185,
+          "pattern_id": 1160,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries dampness, preventing the stagnation that allows phlegm to form."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4161,
+          "pattern_id": 1160,
+          "acupoint_code": "DU-26",
+          "acupoint_name": "Renzhong DU-26",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/renzhong-du-26",
+          "translation": "R&#xE9;n Zh&#x14D;ng",
+          "properties": "Restores consciousness, Benefits the face and nose",
+          "description": "Revives consciousness and opens the orifices, the primary point for acute mental clouding."
+        },
+        {
+          "id": 4162,
+          "pattern_id": 1160,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Clears the mind and lifts the fog of turbid phlegm from the head."
+        },
+        {
+          "id": 4163,
+          "pattern_id": 1160,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point for transforming phlegm and draining dampness from the whole body."
+        },
+        {
+          "id": 4164,
+          "pattern_id": 1160,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Harmonizes the Stomach and strengthens the Spleen to resolve the root of phlegm production."
+        },
+        {
+          "id": 4165,
+          "pattern_id": 1160,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen and resolves dampness, supporting the transformation of fluids."
+        }
+      ]
+    },
+    {
+      "id": 1161,
+      "condition_id": 232,
+      "pattern_name": "Damp-Heat in the Liver",
+      "pattern_slug": "damp-heat-in-the-liver",
+      "is_common": 0,
+      "symptoms": "[\"Confusion, lethargy, or irritability\", \"Bitter taste in the mouth\", \"Yellow greasy tongue coating\", \"Rib pain or distension\", \"Dark yellow urine\", \"Nausea or aversion to greasy food\"]",
+      "worse_with": "Alcohol, Greasy or fried foods, Spicy food, Stress and anger, Overwork",
+      "better_with": "Cooling foods and drinks, Mung bean soup, Adequate rest or sleep, Cool environment",
+      "why_this_happens": "When the liver is overwhelmed by a combination of moisture and heat, its ability to filter toxins fails. This damp-heat brews turbid toxins that rise along the liver meridian and invade the brain, clouding the clear orifices of the mind. The result is the characteristic mix of mental fog, bitter taste, and jaundice seen in hepatic encephalopathy.",
+      "tongue_and_pulse": "Tongue: red body with redder sides, yellow greasy coating. Pulse: wiry, slippery, and rapid.",
+      "why_triggers_reliefs_work": "Damp-Heat thrives on rich, greasy, and spicy foods and alcohol, which overwhelm the liver and generate the turbid toxins that cloud the mind. Emotional stress and anger stir liver qi and fan internal heat, pushing toxins upward. A light, cooling diet and rest help drain dampness and clear heat, reducing the toxic burden on the brain and allowing mental clarity to return.",
+      "diet_and_lifestyle": "Avoid alcohol, greasy, fried, and spicy foods completely-they directly feed damp-heat. Focus on light, cooling foods like mung bean soup, cucumber, and watermelon. Gentle rest and a calm environment are essential to avoid stirring liver fire and to allow the liver to recover.",
+      "formulas": [
+        {
+          "id": 2696,
+          "pattern_id": 1161,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "The classic formula to drain Liver Fire and clear Damp-Heat from the Liver and Gallbladder, directly addressing the root of turbid toxin formation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 6186,
+          "pattern_id": 1161,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "",
+          "description": "Bitter and cold, it powerfully clears damp-heat from the liver and gallbladder, reducing the source of turbid toxins."
+        },
+        {
+          "id": 6187,
+          "pattern_id": 1161,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears heat and dries dampness, calming the liver and helping to lift the mental fog."
+        },
+        {
+          "id": 6188,
+          "pattern_id": 1161,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Drains heat through the urine, cools the blood, and helps resolve the yellow, greasy coating."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4166,
+          "pattern_id": 1161,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. The primary point to clear the liver, subdue rising heat, and open the mind."
+        },
+        {
+          "id": 4167,
+          "pattern_id": 1161,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "Reduce. Clears damp-heat from the gallbladder and liver, relieving rib distension."
+        },
+        {
+          "id": 4168,
+          "pattern_id": 1161,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Reduce. Strengthens the spleen to transform dampness and supports the clearing of toxins."
+        },
+        {
+          "id": 4169,
+          "pattern_id": 1161,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Reduce. Opens the brain orifices and restores consciousness."
+        }
+      ]
+    },
+    {
+      "id": 1162,
+      "condition_id": 232,
+      "pattern_name": "Heat in Pericardium",
+      "pattern_slug": "heat-in-pericardium",
+      "is_common": 0,
+      "symptoms": "[\"High fever, worse at night\", \"Delirium with incoherent speech\", \"Loss of consciousness or coma\", \"Cold hands and feet despite hot body\", \"Crimson, stiff or shortened tongue\"]",
+      "worse_with": "Alcohol, Spicy or fried foods, Emotional upset or stress, Hot or stuffy environment",
+      "better_with": "Quiet, calm environment, Cooling foods and drinks, Gentle, calm reassurance",
+      "why_this_happens": "In severe liver disease, toxins and intense heat can build up and suddenly invade the Pericardium, the protective sac around the Heart that houses the mind. This heat disturbs the Shen (spirit), leading to high fever, delirium, and loss of consciousness. The pathogen has moved deep into the Nutritive level, damaging body fluids and causing the classic crimson, stiff tongue.",
+      "tongue_and_pulse": "Tongue: fresh crimson (deep red) body, stiff or shortened, with a dry yellow coating or little coating. Pulse: fine (xi) and rapid (shu).",
+      "why_triggers_reliefs_work": "This pattern is driven by extreme internal heat and fire-toxins that invade the pericardium. Anything that adds heat - like alcohol, spicy food, or emotional stress - will worsen the condition by fanning the flames. Cooling the environment and offering calm, gentle care helps settle the mind and reduce the heat burden on the Heart and Pericardium.",
+      "diet_and_lifestyle": "Keep the environment cool and quiet. Avoid alcohol, spicy, fried, and greasy foods entirely, as they add heat and toxins. Gentle, cooling fluids like mung bean soup or pear juice can help, but always follow medical guidance for fluid intake.",
+      "formulas": [
+        {
+          "id": 2697,
+          "pattern_id": 1162,
+          "formula_name": "An Gong Niu Huang Wan",
+          "formula_url": "/knowledge-base/formulas/an-gong-niu-huang-wan",
+          "translation": "Calm the Palace Pill with Cattle Gallstone &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Opens the Orifices and Revives Consciousness, Resolves Phlegm and Disperses Accumulation",
+          "description": "The classic formula to clear intense heat, open the orifices, and revive consciousness in heat invading the pericardium."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 6189,
+          "pattern_id": 1162,
+          "herb_name": "Niu Huang",
+          "herb_url": "/knowledge-base/herbs/niu-huang",
+          "translation": "Cattle gallstone",
+          "properties": "",
+          "description": "Clears Heart heat, extinguishes wind, and opens the orifices to restore consciousness."
+        },
+        {
+          "id": 6190,
+          "pattern_id": 1162,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains Heart fire and resolves toxicity, directly cooling the pericardium."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4170,
+          "pattern_id": 1162,
+          "acupoint_code": "PC-9",
+          "acupoint_name": "Zhongchong PC-9",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/zhongchong-pc-9",
+          "translation": "Zh&#x14D;ng Ch&#x14D;ng",
+          "properties": "Clears Heat, Restores consciousness",
+          "description": "Jing-Well point of the Pericardium channel; bleeding it clears extreme heat from the pericardium and revives consciousness."
+        },
+        {
+          "id": 4171,
+          "pattern_id": 1162,
+          "acupoint_code": "DU-26",
+          "acupoint_name": "Renzhong DU-26",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/renzhong-du-26",
+          "translation": "R&#xE9;n Zh&#x14D;ng",
+          "properties": "Restores consciousness, Benefits the face and nose",
+          "description": "The primary emergency point to restore consciousness and calm the spirit."
+        },
+        {
+          "id": 4172,
+          "pattern_id": 1162,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Luo-connecting point of the Pericardium; clears heat, calms the mind, and regulates the heart."
+        }
+      ]
+    },
+    {
+      "id": 1163,
+      "condition_id": 232,
+      "pattern_name": "Liver Yang Rising",
+      "pattern_slug": "liver-yang-rising",
+      "is_common": 0,
+      "symptoms": "[\"Irritability and quick temper, even in a confused state\", \"Dizziness and a sensation of heat rising to the face\", \"Throbbing or distending headache at the temples\", \"Difficulty sleeping with vivid, disturbing dreams\", \"Lower back and knee soreness and weakness\", \"Flushed face and dry mouth\"]",
+      "worse_with": "Anger and frustration, Spicy, fried, or greasy food, Overexertion and lack of sleep, Hot or stuffy environment",
+      "better_with": "Quiet, dark resting space, Cooling foods and drinks, Gentle movement or walking, Calm, supportive company",
+      "why_this_happens": "In advanced liver disease, the Yin of the Liver and Kidneys often becomes depleted from years of illness. When Yin is too weak to anchor the body's active, warming Yang, that Yang energy floats upward and disturbs the mind. This is why a person can feel restless, irritable, and unable to sleep even while physically exhausted.\nIn hepatic encephalopathy, this rising Yang adds a layer of agitation and dizziness on top of the mental clouding caused by other factors. The head feels heavy and unsteady while the feet feel light, and the mind races with fragmented thoughts, making it hard to rest or think clearly.",
+      "tongue_and_pulse": "Tongue: red body, redder at the sides, with a thin dry yellow or scanty coat; may tremble slightly. Pulse: wiry (弦 xián), and may also be fine and rapid if Yin deficiency is prominent; the left middle (Liver) position is especially taut.",
+      "why_triggers_reliefs_work": "Anger and frustration directly surge Liver Qi upward, feeding the rising Yang that disturbs the mind. Spicy and fried foods create internal heat, which adds fuel to the upward blaze, while overexertion and poor sleep further drain the Yin that should be anchoring the Yang. Cool, quiet surroundings and moistening foods help nourish Yin and gently guide the floating Yang back down, allowing the mind to settle.",
+      "diet_and_lifestyle": "Eat cooling, moistening foods like pear, cucumber, and celery; avoid spicy, fried, and greasy meals that add heat. A dark, quiet room helps settle the mind. Gentle, slow walking or sitting meditation can ground the floating Yang without exhausting the body.",
+      "formulas": [
+        {
+          "id": 2698,
+          "pattern_id": 1163,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "Subdues rising Liver Yang, clears heat, and nourishes depleted Yin to calm the mind and steady the head."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 6191,
+          "pattern_id": 1163,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and steadies dizziness while gently anchoring the floating Yang."
+        },
+        {
+          "id": 6192,
+          "pattern_id": 1163,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "",
+          "description": "Settles the Liver and extinguishes Wind, easing throbbing headaches and irritability."
+        },
+        {
+          "id": 6193,
+          "pattern_id": 1163,
+          "herb_name": "Shi Jue Ming",
+          "herb_url": "/knowledge-base/herbs/shi-jue-ming",
+          "translation": "Abalone shell",
+          "properties": "",
+          "description": "Heavy and cooling, it anchors rising Yang and clears the vision and mind."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4173,
+          "pattern_id": 1163,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The primary point to subdue rising Liver Yang and smooth the flow of Qi."
+        },
+        {
+          "id": 4174,
+          "pattern_id": 1163,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Clears the head and senses, relieving dizziness and pressure."
+        },
+        {
+          "id": 4175,
+          "pattern_id": 1163,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Calms the spirit and lifts the mood, while helping to settle the upward rush of Yang."
+        },
+        {
+          "id": 4176,
+          "pattern_id": 1163,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Anchors the mind, eases agitation, and supports sleep."
+        }
+      ]
+    },
+    {
+      "id": 1164,
+      "condition_id": 232,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain in the right upper abdomen that worsens at night\", \"Dark or dusky facial complexion, purplish lips, and dark circles under eyes\", \"Mental dullness, forgetfulness, and confusion that worsens at night\", \"Hard lumps or masses in the abdomen (hepatosplenomegaly)\", \"Rough, dry, scaly skin\"]",
+      "worse_with": "Cold exposure or cold drinks, Prolonged inactivity or bed rest, Alcohol and fatty foods, Stress and anger, Nighttime (symptoms often worsen)",
+      "better_with": "Gentle movement or walking, Warmth on the abdomen, Adequate rest or sleep, Small, warm meals, Light massage over the liver area",
+      "why_this_happens": "Chronic liver disease gradually slows the flow of blood, leading to stasis. When blood stagnates in the liver, it can obstruct the tiny collaterals that connect to the brain, depriving the mind of nourishment and clear Qi. This blockage produces mental dullness, confusion, and the characteristic dark complexion, while the fixed, stabbing pain in the liver area often worsens at night when circulation naturally slows.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩 Se) or wiry (弦 Xian).",
+      "why_triggers_reliefs_work": "Blood stasis is a condition of sluggish, congealed blood. Cold and inactivity further congeal blood, worsening stagnation and its symptoms, especially at night when circulation naturally slows. Alcohol and fatty foods create damp-heat and burden the liver, contributing to stasis. Gentle movement, warmth, and blood-moving foods help to invigorate the blood and break up stagnation, while stress and anger stagnate Liver Qi, which can lead to or worsen blood stasis.",
+      "diet_and_lifestyle": "Eat small amounts of warming, blood-moving foods such as turmeric, hawthorn, black fungus, and vinegar. Avoid cold and raw foods that can congeal blood. Gentle daily exercise like walking or tai chi helps keep blood circulating. Avoid alcohol and fatty, greasy foods that burden the liver.",
+      "formulas": [
+        {
+          "id": 2699,
+          "pattern_id": 1164,
+          "formula_name": "Tong Qiao Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/tong-qiao-huo-xue-tang",
+          "translation": "Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals",
+          "description": "The core formula to unblock the brain&#x27;s orifices and invigorate blood, specifically for blood stasis obstructing the sensory orifices and causing neurological symptoms."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 6194,
+          "pattern_id": 1164,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and improves circulation in the liver and brain."
+        },
+        {
+          "id": 6195,
+          "pattern_id": 1164,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks stagnation, especially when stasis causes pain and mental dullness."
+        },
+        {
+          "id": 6196,
+          "pattern_id": 1164,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and Qi upward to the head, opening the brain&#x27;s collaterals."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4177,
+          "pattern_id": 1164,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point of blood; invigorates blood and dispels stasis."
+        },
+        {
+          "id": 4178,
+          "pattern_id": 1164,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Sea of Blood; promotes blood circulation and relieves stasis."
+        },
+        {
+          "id": 4179,
+          "pattern_id": 1164,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Regulates liver Qi and blood, and helps to subdue any rising yang that may accompany stasis."
+        },
+        {
+          "id": 4180,
+          "pattern_id": 1164,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Opens the brain&#x27;s orifices and restores clarity of mind."
+        }
+      ]
+    },
+    {
+      "id": 1165,
+      "condition_id": 232,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "pattern_slug": "deficiency-of-both-the-kidney-yin-and-yang",
+      "is_common": 0,
+      "symptoms": "[\"Mental dullness and confusion\", \"Profound fatigue and lack of vitality\", \"Alternating chills and hot flushes\", \"Soreness and weakness of lower back and knees\", \"Poor memory and forgetfulness\"]",
+      "worse_with": "Overwork, Cold exposure or cold drinks, Late nights, Mental strain or overthinking, Raw or cold foods",
+      "better_with": "Warm, cooked meals, Adequate rest or sleep, Warmth on lower back, Gentle movement or walking",
+      "why_this_happens": "The Kidneys store essence and are the root of both Yin and Yang, providing the foundation that nourishes the brain. In advanced liver disease, when both Kidney Yin and Yang are severely exhausted, the brain loses its source of nourishment. This leads to mental dullness, profound fatigue, poor memory, and eventually confusion or coma - a deficiency-type encephalopathy where the mind cannot function because its very foundation has collapsed.",
+      "tongue_and_pulse": "Tongue: pale, puffy-tender body with teeth marks and cracks, thin white coat that may be partially peeled. Pulse: deep, fine, weak, especially at the Chi (rear) position.",
+      "why_triggers_reliefs_work": "This pattern is a deep depletion of both Yin and Yang. Overwork, cold, and mental strain further consume the already scarce resources, while rest, warmth, and nourishing foods help rebuild the foundation and support the brain.",
+      "diet_and_lifestyle": "Eat warm, cooked, deeply nourishing foods like bone broths, stews, and congees with goji berries, walnuts, and a little ginger. Avoid cold, raw foods and excessive fluids that burden the digestive fire. Prioritize deep rest and gentle movement like tai chi to preserve Qi. Keep the lower back warm.",
+      "formulas": [
+        {
+          "id": 2700,
+          "pattern_id": 1165,
+          "formula_name": "Gui Fu Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/gui-fu-di-huang-wan",
+          "translation": "Cinnamon Bark and Aconite Rehmannia Pill &#xB7; The ancestral formula (Shen Qi Wan) dates to the Eastern Han dynasty (~200 CE). The current form with Rou Gui and Shu Di Huang evolved during the Song dynasty (~1110 CE). The name &quot;Gui Fu Di Huang Wan&quot; was formalized in the Qing dynasty (1742 CE).",
+          "properties": "Warm, Warms and tonifies Kidney Yang, Nourishes Kidney Yin, Supplements mingmen fire",
+          "description": "The classic formula to warm and tonify Kidney Yang while nourishing Kidney Yin, addressing the root deficiency that fails to support the brain."
+        },
+        {
+          "id": 2701,
+          "pattern_id": 1165,
+          "formula_name": "Di Tan Tang",
+          "formula_url": "/knowledge-base/formulas/di-tan-tang",
+          "translation": "Phlegm-Flushing Decoction &#xB7; M&#xED;ng dynasty, 1470 CE",
+          "properties": "Warm, Scours Phlegm and Opens the Orifices, Clears Heat and Transforms Phlegm, Regulates Qi and resolves turbidity",
+          "description": "A classical formula used to clear heavy Phlegm that clouds the mind and blocks clear speech. It is primarily used when thick Phlegm obstructs the Heart&#x27;s orifices following stroke or similar conditions, causing a stiff tongue and difficulty speaking. The formula powerfully sweeps out Phlegm while also opening the sensory orifices and supporting the body&#x27;s underlying Qi."
+        },
+        {
+          "id": 2702,
+          "pattern_id": 1165,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area."
+        },
+        {
+          "id": 2703,
+          "pattern_id": 1165,
+          "formula_name": "An Gong Niu Huang Wan",
+          "formula_url": "/knowledge-base/formulas/an-gong-niu-huang-wan",
+          "translation": "Calm the Palace Pill with Cattle Gallstone &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Opens the Orifices and Revives Consciousness, Resolves Phlegm and Disperses Accumulation",
+          "description": "A renowned emergency formula used for severe febrile illnesses where extreme heat invades the Pericardium, causing loss of consciousness, high fever, delirium, and convulsions. It is one of the most famous TCM rescue medicines, historically described as capable of &#x27;saving the critically ill in an instant.&#x27; This is a powerful prescription for acute crises and is not suitable for daily use or prevention."
+        },
+        {
+          "id": 2704,
+          "pattern_id": 1165,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising."
+        },
+        {
+          "id": 2705,
+          "pattern_id": 1165,
+          "formula_name": "Tong Qiao Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/tong-qiao-huo-xue-tang",
+          "translation": "Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals",
+          "description": "A classical formula designed to improve blood circulation in the head and face, used for stubborn headaches, hair loss, hearing difficulties, skin discolorations, and other problems caused by stagnant blood obstructing the sensory organs. It works by powerfully moving blood and opening the body&#x27;s orifices (eyes, ears, nose, mouth) in the upper body."
+        },
+        {
+          "id": 2706,
+          "pattern_id": 1165,
+          "formula_name": "Gui Fu Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/gui-fu-di-huang-wan",
+          "translation": "Cinnamon Bark and Aconite Rehmannia Pill &#xB7; The ancestral formula (Shen Qi Wan) dates to the Eastern Han dynasty (~200 CE). The current form with Rou Gui and Shu Di Huang evolved during the Song dynasty (~1110 CE). The name &quot;Gui Fu Di Huang Wan&quot; was formalized in the Qing dynasty (1742 CE).",
+          "properties": "Warm, Warms and tonifies Kidney Yang, Nourishes Kidney Yin, Supplements mingmen fire",
+          "description": "A classical warming formula used to support the body when Kidney Yang (the Kidney&#x27;s warming and activating function) is weakened. It addresses symptoms like persistent cold sensation in the lower back and limbs, excessive or difficult urination, swelling, fatigue, and low energy. The formula gently restores warmth by combining a rich nourishing base with small amounts of warming herbs, following the principle that sustainable warmth comes from nourishing the body&#x27;s foundation rather than forceful heating."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 6197,
+          "pattern_id": 1165,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and essence to rebuild the brain&#x27;s foundation."
+        },
+        {
+          "id": 6198,
+          "pattern_id": 1165,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Gently warms Kidney Yang to restore metabolic fire and clear mental dullness."
+        },
+        {
+          "id": 6199,
+          "pattern_id": 1165,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Strongly tonifies Kidney Yang for cold limbs, profound fatigue, and collapse."
+        },
+        {
+          "id": 6200,
+          "pattern_id": 1165,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 6201,
+          "pattern_id": 1165,
+          "herb_name": "Dan Nan Xing",
+          "herb_url": "/knowledge-base/herbs/dan-nan-xing",
+          "translation": "Bile Arisaema",
+          "properties": "Cool, Clears heat and transforms phlegm (&#x6E05;&#x70ED;&#x5316;&#x75F0;), Extinguishes wind and stops convulsions (&#x606F;&#x98CE;&#x5B9A;&#x60CA;)",
+          "description": ""
+        },
+        {
+          "id": 6202,
+          "pattern_id": 1165,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach",
+          "description": ""
+        },
+        {
+          "id": 6203,
+          "pattern_id": 1165,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 6204,
+          "pattern_id": 1165,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 6205,
+          "pattern_id": 1165,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner",
+          "description": ""
+        },
+        {
+          "id": 6206,
+          "pattern_id": 1165,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 6207,
+          "pattern_id": 1165,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 6208,
+          "pattern_id": 1165,
+          "herb_name": "Niu Huang",
+          "herb_url": "/knowledge-base/herbs/niu-huang",
+          "translation": "Cattle gallstone",
+          "properties": "Cool, Opens the Heart Orifices, Resolves Phlegm, Cools the Liver and extinguishes Wind",
+          "description": ""
+        },
+        {
+          "id": 6209,
+          "pattern_id": 1165,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 6210,
+          "pattern_id": 1165,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 6211,
+          "pattern_id": 1165,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "Cool, Extinguishes Wind and Stops Spasms, Courses the Liver and Drains Heat, Calms the Liver and Subdues Yang",
+          "description": ""
+        },
+        {
+          "id": 6212,
+          "pattern_id": 1165,
+          "herb_name": "Shi Jue Ming",
+          "herb_url": "/knowledge-base/herbs/shi-jue-ming",
+          "translation": "Abalone shell",
+          "properties": "Cold, Calms the Liver and Subdues Yang, Clears Liver Heat, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 6213,
+          "pattern_id": 1165,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 6214,
+          "pattern_id": 1165,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 6215,
+          "pattern_id": 1165,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 6216,
+          "pattern_id": 1165,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 6217,
+          "pattern_id": 1165,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 6218,
+          "pattern_id": 1165,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4181,
+          "pattern_id": 1165,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney essence and Yang to nourish the brain and marrow."
+        },
+        {
+          "id": 4182,
+          "pattern_id": 1165,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel; nourishes Kidney Yin to anchor the mind."
+        },
+        {
+          "id": 4183,
+          "pattern_id": 1165,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Warms and nourishes both Yin and Yang, strengthening the body&#x27;s core."
+        },
+        {
+          "id": 4184,
+          "pattern_id": 1165,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Raises clear Yang to the brain, improving consciousness and mental clarity."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1497,
+      "condition_id": 232,
+      "question": "Can TCM help with the brain fog from liver disease?",
+      "answer": "Yes, TCM can be very effective at addressing the mental cloudiness of hepatic encephalopathy by targeting its root causes. When the fog is due to damp-heat or phlegm, herbs like Long Dan Cao (Gentian) and Shi Chang Pu (Acorus) help clear the turbid pathogens and open the mind's orifices. When it stems from deficiency, nourishing herbs like Shu Di Huang (Rehmannia) and Rou Gui (Cinnamon bark) rebuild the foundation. Many patients report clearer thinking and improved sleep within a few weeks of starting treatment."
+    },
+    {
+      "id": 1498,
+      "condition_id": 232,
+      "question": "Is acupuncture safe for someone with cirrhosis?",
+      "answer": "Acupuncture is generally safe when performed by a qualified practitioner who is aware of your liver condition. However, because cirrhosis can cause bleeding tendencies, your acupuncturist will use gentle needling techniques and avoid deep insertion, especially over the abdomen or areas with visible veins. Always inform your acupuncturist about your full medical history and any medications you are taking, particularly blood thinners."
+    },
+    {
+      "id": 1499,
+      "condition_id": 232,
+      "question": "Do I still need lactulose if I take Chinese herbs?",
+      "answer": "Absolutely. Never stop or reduce your prescribed lactulose or rifaximin without consulting your hepatologist. Chinese herbs are used as a complementary therapy to support liver function and mental clarity, not as a replacement for standard ammonia-lowering treatments. Your TCM practitioner will work with you to integrate herbs safely alongside your conventional medications, and your doctor can monitor your ammonia levels to ensure everything is stable."
+    },
+    {
+      "id": 1500,
+      "condition_id": 232,
+      "question": "What foods should I avoid to prevent hepatic encephalopathy episodes?",
+      "answer": "In TCM, diet is crucial. Avoid raw, cold, greasy, and highly processed foods, which burden the spleen and generate dampness and phlegm-the very substances that can cloud the mind. Alcohol is strictly forbidden. Favor warm, cooked, easily digestible meals like congee, steamed vegetables, and soups. If you have damp-heat, incorporate cooling foods like mung beans; if you are deficient, warming broths and small amounts of high-quality protein can be beneficial. A practitioner can tailor these recommendations to your specific pattern."
+    },
+    {
+      "id": 1501,
+      "condition_id": 232,
+      "question": "How soon can I expect to feel clearer?",
+      "answer": "The timeline varies by pattern. For excess patterns like Damp-Heat or Phlegm, many patients notice improved mental clarity and less brain fog within 2-4 weeks of daily herbs and weekly acupuncture. Deficiency patterns, where the body's reserves are deeply depleted, require more time-typically 3-6 months of consistent treatment to rebuild kidney yin and yang and see lasting changes. Even small improvements in sleep and energy often appear early and signal that the treatment is on the right track."
+    },
+    {
+      "id": 1502,
+      "condition_id": 232,
+      "question": "Can TCM reverse the confusion completely?",
+      "answer": "TCM aims to not only clear current confusion but also reduce the frequency and severity of future episodes by strengthening the liver, spleen, and kidneys. While complete reversal depends on the extent of liver damage, many patients experience significant and sustained improvement in cognitive function and quality of life. In cases of advanced cirrhosis, TCM can help stabilize the condition and prevent acute decompensations, but it cannot reverse scarring. Regular monitoring and a long-term commitment to herbal and dietary therapy are essential."
+    }
+  ],
+  "research": [
+    {
+      "id": 351,
+      "condition_id": 232,
+      "title": "Effect of Acupuncture at Thirteen Ghost Points on Electroencephalogram in Patients with Hepatic Encephalopathy",
+      "description": "This clinical study investigated the effect of acupuncture at the thirteen ghost points (including Renzhong DU-26, Shaoshang LU-11, and others) on EEG patterns in patients with hepatic encephalopathy. The results showed a significant reduction in slow-wave activity and improvement in consciousness levels, suggesting that acupuncture may help regulate brain electrical activity in this condition.",
+      "url": "https://www.acumoxj.com/uploads/20210908/fff0f7056e3b144b0bfa98e1556694da.pdf",
+      "periodical": "Li X, et al. Effect of Acupuncture at Thirteen Ghost Points on Electroencephalogram in Patients with Hepatic Encephalopathy. Chinese Acupuncture & Moxibustion. 2021. (in Chinese)."
+    },
+    {
+      "id": 352,
+      "condition_id": 232,
+      "title": "Research Progress on Traditional Chinese Medicine Treatment of Hepatic Encephalopathy",
+      "description": "This review summarizes the TCM understanding, pattern differentiation, and treatment approaches for hepatic encephalopathy, including herbal formulas like Di Tan Tang and Long Dan Xie Gan Tang, as well as acupuncture protocols. It highlights the multi-target mechanisms of TCM in reducing blood ammonia, improving liver function, and modulating neurotransmitters, while calling for more high-quality clinical trials.",
+      "url": "https://pdf.hanspub.org/jcpm_3120862.pdf",
+      "periodical": "Zhang Y, et al. Research Progress on Traditional Chinese Medicine Treatment of Hepatic Encephalopathy. Journal of Clinical Personalized Medicine. 2023; 2(1): 1-8. (in Chinese)."
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "id": 1160,
+  "name": "Leg Paralysis",
+  "url": "/knowledge-base/conditions/leg-paralysis",
+  "kind": "Symptom",
+  "pinyin": "xià zhī tān huàn",
+  "chinese_name": "下肢瘫痪",
+  "preview_text": "In TCM, leg paralysis is never just about the nerves or muscles - it's about whether the legs are blocked (by Blood Stagnation or Phlegm) or starved (by Qi or Yin Deficiency). Most...",
+  "categories": "[\"Paralysis & Movement Disorders\", \"Leg Problems\", \"Brain & Nervous System Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Post-traumatic paraplegia\", \"Lower limb paralysis\", \"paralysis of the limbs\"]",
+  "conventional_description": "In Western medicine, leg paralysis refers to the loss of voluntary muscle function in one or both legs. It can result from damage to the nervous system at any level - the brain, spinal cord, or peripheral nerves. Common causes include stroke, spinal cord injury, multiple sclerosis, cerebral palsy, and nerve compression. Diagnosis typically involves neurological examination, imaging studies like MRI or CT scans, and sometimes nerve conduction tests. The extent and location of the paralysis help determine the underlying cause and guide treatment.",
+  "conventional_treatments": "Conventional treatment focuses on maximizing function and independence. It often includes physical therapy to maintain muscle strength and prevent contractures, occupational therapy for daily living skills, and medications such as muscle relaxants for spasticity. In some cases, surgery may be performed to relieve nerve pressure or correct deformities. Assistive devices like braces, walkers, or wheelchairs are commonly used. When paralysis is caused by an acute event like stroke, early rehabilitation is critical.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands leg paralysis through the lens of three organ systems: the Kidney governs the bones, the Liver governs the sinews, and the Spleen governs the muscles. When these systems are strong, the legs are nourished and move freely. Paralysis arises when either the channels become blocked - by Blood Stagnation or Phlegm - or the body's vital substances (Qi, Blood, Yin) are too depleted to nourish the limbs.\nIn excess patterns, something is obstructing the free flow of Qi and blood to the legs. Blood Stagnation, often from trauma or surgery, creates fixed, stabbing pain and stiffness. Phlegm in the channels produces a heavy, numb sensation, as if the legs are wrapped in cotton. These blockages starve the muscles and nerves, leading to weakness and loss of control.\nIn deficiency patterns, the body simply lacks the resources to maintain healthy limbs. Spleen and Stomach Qi Deficiency fails to produce enough Qi and Blood, causing progressive flaccid weakness. Kidney and Liver Yin Deficiency dries up the nourishment for bones and sinews, leading to atrophy and soreness. Qi and Blood Deficiency leaves the legs too weak to bear weight, often with dizziness and pallor.\nMany cases are mixed - for example, after a stroke, the initial Qi deficiency slows blood flow, which then stagnates. TCM treatment therefore identifies the dominant pattern and addresses both the root (the underlying deficiency) and the branch (the blockage) to restore function.",
+  "classical_quote": "「五脏因肺热叶焦，发为痿躄。」",
+  "classical_translation": "\"When the five viscera are affected and the lung becomes hot and its leaves scorched, atrophy with flaccidity (痿躄, wěi bì) develops. This passage describes how internal heat can lead to the withering of the limbs, the earliest classical description of paralysis-like conditions.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen  ,  Chapter 44, Wei Lun (Treatise on Atrophy) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the onset and nature of the paralysis. Sudden paralysis after an injury points toward Blood Stagnation, while gradual weakness developing over months suggests an underlying deficiency. The quality of limb sensation, presence of pain, and accompanying symptoms like appetite or dizziness are all carefully noted to narrow the pattern.\nWhen Blood Stagnation is the primary driver, the legs often feel fixed and stiff, with sharp, stabbing pain that stays in one place. The tongue is dark or shows purple spots, and the pulse feels choppy or wiry. A history of trauma, surgery, or stroke makes this pattern more likely.\nIf Qi Deficiency causes Blood Stagnation, the paralysis is accompanied by pronounced fatigue, a pale face, and shortness of breath. The legs may feel heavy and weak rather than painfully stiff. The tongue is pale with a dusky hue, and the pulse is weak but also rough, reflecting both the lack of driving Qi and the resulting stasis.\nSpleen and Stomach Qi Deficiency produces a flaccid, progressive weakness where the muscles feel soft and undernourished. Appetite is poor, the belly feels bloated after eating, and stools are loose. The tongue is pale with a thin white coat, and the pulse is weak and soft, especially at the right middle position, indicating the digestive system cannot generate enough Qi to support the limbs.\nKidney and Liver Yin Deficiency often appears in degenerative or long-standing conditions. The legs are thin and atrophied, with soreness in the low back and knees. Dizziness, tinnitus, and a feeling of heat in the palms or chest are common. The tongue is red with little coating, and the pulse is thin and rapid, showing the deep depletion of nourishing yin.\nQi and Blood Deficiency causes a general limpness without much pain. The complexion is very pale or sallow, and there may be heart palpitations or poor memory. The tongue is pale and thin, and the pulse is fine and weak. This pattern reflects a profound malnourishment of the entire body, including the nerves and muscles of the legs.\nPhlegm in the Channels creates a heavy, numb sensation rather than sharp pain. The legs feel as if wrapped in cotton, and movement is sluggish. The tongue is swollen with a greasy coat and may show purple spots, and the pulse is slippery or wiry. This pattern is often seen in people with a history of dampness, obesity, or metabolic issues that generate turbid phlegm.",
+  "patterns": [
+    {
+      "id": 5730,
+      "condition_id": 1160,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain in the legs\", \"Pain worse at night and with pressure\", \"Dark or purplish tongue with stasis spots\", \"Dark complexion, lips, or nail beds\", \"History of trauma, surgery, or sudden onset\"]",
+      "worse_with": "Cold or damp weather, Prolonged sitting or inactivity, Cold, raw, or greasy foods, Emotional stress, worry, or anger",
+      "better_with": "Applying warmth to the legs, Gentle movement or stretching, Eating warming spices like ginger and turmeric, Rest with legs elevated",
+      "why_this_happens": "Blood Stagnation in the lower limbs means that the flow of blood through the channels and collaterals has become blocked. When blood cannot circulate freely, the muscles, sinews, and nerves are starved of nourishment. This can happen after a traumatic injury, surgery, or from long-standing Qi stagnation that congeals into stasis. The result is a loss of movement and often a fixed, stabbing pain that is worse at night and with pressure.",
+      "tongue_and_pulse": "Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩 sè), rough like a knife scraping bamboo, or wiry (弦 xián).",
+      "why_triggers_reliefs_work": "Cold and immobility cause blood to congeal and worsen stasis, while warmth and gentle movement encourage circulation. Stress tightens the Liver Qi, which is the root of many stasis patterns, so calming the mind helps blood flow smoothly again. Elevation and massage mechanically assist the return of blood, reducing stagnation in the lower limbs.",
+      "diet_and_lifestyle": "Keep the legs warm and avoid exposure to cold drafts. Gentle massage and passive range-of-motion exercises help promote blood flow without overstraining. Include blood-moving foods like turmeric, ginger, dark cherries, and leafy greens in your diet, and avoid cold, raw, or greasy foods that can congeal blood.",
+      "formulas": [
+        {
+          "id": 12987,
+          "pattern_id": 5730,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The primary formula to invigorate Blood, dispel stasis, and open the channels in the lower limbs."
+        },
+        {
+          "id": 12988,
+          "pattern_id": 5730,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A classic four-substance base with peach kernel and safflower that strongly moves blood and relieves stasis pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30116,
+          "pattern_id": 5730,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Vigorously invigorates blood and unblocks stasis, especially for traumatic pain and paralysis."
+        },
+        {
+          "id": 30117,
+          "pattern_id": 5730,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and lubricates the channels to ease movement."
+        },
+        {
+          "id": 30118,
+          "pattern_id": 5730,
+          "herb_name": "Di Long",
+          "herb_url": "/knowledge-base/herbs/di-long",
+          "translation": "Earthworm",
+          "properties": "",
+          "description": "Enters the channels of the lower limbs to dissolve stasis, relax sinews, and restore nerve conduction."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20508,
+          "pattern_id": 5730,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood point; strongly invigorates blood and dispels stasis in the lower body."
+        },
+        {
+          "id": 20509,
+          "pattern_id": 5730,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes blood and moves stasis, while also supporting the Spleen to generate new blood."
+        },
+        {
+          "id": 20510,
+          "pattern_id": 5730,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Moves Liver Qi and blood, essential for resolving stasis and relieving pain."
+        },
+        {
+          "id": 20511,
+          "pattern_id": 5730,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Boosts Qi and blood production to aid recovery and support the lower limbs."
+        }
+      ]
+    },
+    {
+      "id": 5731,
+      "condition_id": 1160,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "pattern_slug": "qi-deficiency-causing-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain in legs\", \"Leg weakness and heaviness\", \"Fatigue and shortness of breath\", \"Pale-dusky complexion\", \"Purple spots on the tongue\"]",
+      "worse_with": "Overexertion or prolonged standing, Cold or damp weather, Cold, raw, or greasy foods, Prolonged sitting or inactivity, Emotional stress, worry, or anger",
+      "better_with": "Gentle movement or stretching, Applying warmth to the legs, Warm, cooked meals and small frequent meals, Rest with legs elevated, Qi-tonifying foods like dates and oats",
+      "why_this_happens": "Qi is the force that pushes blood through the vessels. When Qi is deficient, blood circulation slows and stagnates, especially in the lower limbs where flow is already challenged by gravity. This stagnation deprives muscles and nerves of nourishment, leading to progressive weakness, numbness, and eventually paralysis, often with a fixed, stabbing pain that feels deep and does not move.",
+      "tongue_and_pulse": "Tongue: pale-dark or pale-purple body with stasis spots, teeth marks, and a thin white coat. Pulse: deep, fine or weak, and choppy.",
+      "why_triggers_reliefs_work": "Qi deficiency requires rest and nourishing food to rebuild energy. However, too much rest allows blood to stagnate further, so gentle movement is essential to maintain circulation. Cold constricts the vessels, worsening stasis, while warmth relaxes them and promotes flow. Greasy foods burden the Spleen, impairing Qi production, and emotional stress consumes Qi and disrupts circulation.",
+      "diet_and_lifestyle": "Eat warm, easily digested foods like congee with ginger and red dates to strengthen Spleen Qi. Include small amounts of lean protein and blood-nourishing foods like dark leafy greens. Gentle daily leg exercises and short walks help move Qi and blood without depleting energy. Avoid cold, raw, and greasy foods that weaken digestion and promote stasis.",
+      "formulas": [
+        {
+          "id": 12989,
+          "pattern_id": 5731,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "The classic formula to powerfully tonify Qi and invigorate blood, clearing stasis from the channels to restore leg function."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30119,
+          "pattern_id": 5731,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Massive dose to tonify Qi and propel blood through the vessels."
+        },
+        {
+          "id": 30120,
+          "pattern_id": 5731,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and moves blood to resolve stasis without causing dryness."
+        },
+        {
+          "id": 30121,
+          "pattern_id": 5731,
+          "herb_name": "Di Long",
+          "herb_url": "/knowledge-base/herbs/di-long",
+          "translation": "Earthworm",
+          "properties": "",
+          "description": "Unblocks the channels and guides the other herbs to the limbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20512,
+          "pattern_id": 5731,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and blood, strengthens the legs."
+        },
+        {
+          "id": 20513,
+          "pattern_id": 5731,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Activates blood and resolves stasis in the lower limbs."
+        },
+        {
+          "id": 20514,
+          "pattern_id": 5731,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes blood and tonifies the Spleen to support Qi production."
+        }
+      ]
+    },
+    {
+      "id": 5732,
+      "condition_id": 1160,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Weak, heavy sensation in the legs\", \"Poor appetite with bloating after meals\", \"Loose or soft stools\", \"Fatigue and lack of strength\", \"Sallow or pale complexion\"]",
+      "worse_with": "Overexertion or prolonged standing, Cold, raw, or greasy foods, Irregular meal times, Emotional stress, worry, or anger",
+      "better_with": "Warm, cooked meals and small frequent meals, Rest and adequate sleep, Gentle movement or stretching",
+      "why_this_happens": "The Spleen and Stomach are the body's engine for making Qi and Blood from food. When they become weak, the production line slows down, and the muscles and limbs stop receiving the nourishment they need to stay strong. Over time this starvation of the tissues causes the legs to feel progressively heavier, weaker, and eventually unable to move, much like a plant wilting when it is not watered.",
+      "tongue_and_pulse": "Tongue: pale, puffy, with scalloped edges (tooth marks) and a thin white coating. Pulse: weak, soft, lacking force, especially at the right middle (Guan) position.",
+      "why_triggers_reliefs_work": "The Spleen's ability to make Qi is easily damaged by overwork, irregular eating, and cold or heavy foods. When digestion is compromised, the muscles lose their fuel. Rest, warm meals, and gentle movement all support the Spleen's function, allowing Qi and Blood to be produced again and sent to the legs, gradually restoring strength.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods like congee, soups, and stewed vegetables. Avoid cold, raw, or greasy foods that dampen the Spleen's digestive fire. Small, frequent meals are better than large ones. Gentle daily movement, such as slow walking or seated Qi Gong, helps circulate Qi without exhausting it.",
+      "formulas": [
+        {
+          "id": 12990,
+          "pattern_id": 5732,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "The primary formula to tonify Spleen and Stomach Qi, raise clear Yang, and restore strength to the limbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30122,
+          "pattern_id": 5732,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Strongly tonifies Spleen Qi and raises Yang, essential for restoring muscle power."
+        },
+        {
+          "id": 30123,
+          "pattern_id": 5732,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens Spleen Qi and dries Dampness, improving digestion and energy production."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20515,
+          "pattern_id": 5732,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Master point for tonifying Spleen and Stomach Qi and strengthening the legs."
+        },
+        {
+          "id": 20516,
+          "pattern_id": 5732,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes Spleen, Liver, and Kidney to nourish muscles and support recovery."
+        },
+        {
+          "id": 20517,
+          "pattern_id": 5732,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-Shu point of the Spleen, directly replenishes Spleen Qi and supports limb function."
+        }
+      ]
+    },
+    {
+      "id": 5733,
+      "condition_id": 1160,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "pattern_slug": "kidney-and-liver-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Muscle wasting in legs\", \"Lower back and knee soreness\", \"Dizziness and tinnitus\", \"Dry eyes and dry mouth\", \"Night sweats with heat in palms, soles, and chest\"]",
+      "worse_with": "Overexertion or prolonged standing, Spicy, heating foods, Emotional stress, worry, or anger, Hot weather, Late nights",
+      "better_with": "Rest and adequate sleep, Cool environment, Yin-nourishing foods, Gentle movement or stretching",
+      "why_this_happens": "The Liver governs the sinews and the Kidney governs the bones. When their Yin becomes depleted, the sinews and bones lose their nourishment, leading to progressive weakness, soreness, and eventual atrophy of the lower limbs. This is like a plant withering when the soil dries out. The deficiency heat can further consume fluids, worsening the condition.",
+      "tongue_and_pulse": "Tongue: red, thin body with cracks, little or no coating, dry surface. Pulse: fine, rapid, wiry, and weak at the left Chi and Guan positions.",
+      "why_triggers_reliefs_work": "Yin deficiency is aggravated by heat, overwork, and emotional strain, which consume Yin fluids. Cooling, rest, and nourishing foods help preserve and rebuild Yin, allowing the sinews and bones to be moistened.",
+      "diet_and_lifestyle": "Eat yin-nourishing foods: black sesame, walnuts, goji berries, bone broths, eggs, and dark leafy greens. Avoid spicy, greasy, and drying foods. Gentle exercises like tai chi or qigong help circulate Qi without straining. Prioritize rest and avoid overwork, especially late-night activities that deplete Yin.",
+      "formulas": [
+        {
+          "id": 12991,
+          "pattern_id": 5733,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "Nourishes Kidney and Liver Yin, the foundation formula for Yin deficiency atrophy."
+        },
+        {
+          "id": 12992,
+          "pattern_id": 5733,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "Strengthens Kidney essence and nourishes Yin, especially when essence is severely depleted."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30124,
+          "pattern_id": 5733,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin and essence."
+        },
+        {
+          "id": 30125,
+          "pattern_id": 5733,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Nourishes Liver Yin and brightens the eyes."
+        },
+        {
+          "id": 30126,
+          "pattern_id": 5733,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Stabilizes Kidney essence and astringes Yin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20518,
+          "pattern_id": 5733,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonifies Kidney Yin and strengthens the lower back."
+        },
+        {
+          "id": 20519,
+          "pattern_id": 5733,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Nourishes Kidney essence and benefits the bones."
+        },
+        {
+          "id": 20520,
+          "pattern_id": 5733,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Nourishes Liver Yin and softens the sinews."
+        },
+        {
+          "id": 20521,
+          "pattern_id": 5733,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonizes the Liver, Spleen, and Kidney."
+        },
+        {
+          "id": 20522,
+          "pattern_id": 5733,
+          "acupoint_code": "GB-39",
+          "acupoint_name": "Xuanzhong GB-39",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/xuanzhong-gb-39",
+          "translation": "Xu&#xE1;n Zh&#x14D;ng",
+          "properties": "Nourishes Marrow, Expels Wind and removes Obstructions",
+          "description": "Nourishes marrow and benefits the sinews and bones."
+        }
+      ]
+    },
+    {
+      "id": 5734,
+      "condition_id": 1160,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Flaccid, weak legs without pain\", \"Extreme fatigue and shortness of breath\", \"Pale complexion, lips, and nail beds\", \"Dizziness or lightheadedness\", \"Poor appetite and loose stools\", \"Heart palpitations\"]",
+      "worse_with": "Overexertion or prolonged standing, Skipping meals, Cold, raw, or greasy foods, Emotional stress, worry, or anger, Cold or damp weather",
+      "better_with": "Warm, cooked meals and small frequent meals, Gentle movement or stretching, Rest and adequate sleep, Applying warmth to the legs, Slow, deep breathing",
+      "why_this_happens": "Qi and Blood are the body's fundamental fuels. When both are deeply deficient, the limbs-especially the legs, which are farthest from the heart-receive too little nourishment. The Spleen, which governs muscles and limbs, fails to produce enough Qi and Blood, leading to flaccid, weak legs that cannot support movement. This is a gradual, whole-body exhaustion that leaves the legs powerless.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine (thin) and weak, especially in the right Guan position.",
+      "why_triggers_reliefs_work": "Overexertion and skipping meals deplete the Qi and Blood that are already scarce, while cold raw foods dampen the Spleen's ability to produce more. Stress and worry knot the Spleen Qi, further hampering nourishment. Gentle movement, warmth, and deeply nourishing foods support the Spleen and gently rebuild Qi and Blood, helping the legs regain strength over time.",
+      "diet_and_lifestyle": "Eat warm, nourishing foods like bone broths, congee with red dates and goji berries, and lightly cooked vegetables. Avoid cold, raw foods and overthinking, which drain Spleen Qi. Gentle movement like walking or tai chi helps circulate Qi without depleting it. Prioritize rest and regular meal times to rebuild your reserves.",
+      "formulas": [
+        {
+          "id": 12993,
+          "pattern_id": 5734,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, strengthening the Spleen to rebuild the nourishment needed for the limbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30127,
+          "pattern_id": 5734,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi powerfully, helping to lift the body&#x27;s energy and support muscle strength."
+        },
+        {
+          "id": 30128,
+          "pattern_id": 5734,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, ensuring the legs receive vital nutrients."
+        },
+        {
+          "id": 30129,
+          "pattern_id": 5734,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to produce more Qi and Blood from food."
+        },
+        {
+          "id": 30130,
+          "pattern_id": 5734,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Blood and essence to rebuild the body&#x27;s reserves."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20523,
+          "pattern_id": 5734,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. The master point for building Qi and Blood and strengthening the limbs."
+        },
+        {
+          "id": 20524,
+          "pattern_id": 5734,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Harmonizes the Spleen, Liver, and Kidney to nourish Blood and support the lower body."
+        },
+        {
+          "id": 20525,
+          "pattern_id": 5734,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonify with moxa. Sea of Qi, restores deep vitality and warms the lower burner."
+        },
+        {
+          "id": 20526,
+          "pattern_id": 5734,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Tonify. Sea of Blood, activates Blood circulation to the legs."
+        }
+      ]
+    },
+    {
+      "id": 5735,
+      "condition_id": 1160,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "pattern_slug": "phlegm-in-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, numb sensation in the legs (as if wrapped in cotton)\", \"Fixed stabbing pain in the joints or muscles of the legs\", \"Joint stiffness with difficulty bending or straightening the legs\", \"Hard, swollen joints with purplish skin discolouration\", \"Subcutaneous nodules or hard lumps near the knees or ankles\", \"Excessive phlegm in the throat or a feeling of chest tightness\"]",
+      "worse_with": "Cold or damp weather, Cold, raw, or greasy foods, Prolonged sitting or inactivity, Overeating or late-night eating",
+      "better_with": "Warm, dry weather, Gentle movement or stretching, Warm, cooked meals and small frequent meals, Avoiding dairy and greasy foods, Applying warmth to the legs",
+      "why_this_happens": "Phlegm is a thick, sticky pathological substance that forms when fluids stagnate in the body. When it lodges in the channels of the lower limbs, it physically obstructs the flow of Qi and blood, depriving muscles and sinews of nourishment. This creates a characteristic heavy, numb sensation that gradually stiffens the joints and can progress to loss of voluntary movement, eventually resulting in paralysis.",
+      "tongue_and_pulse": "Tongue: purple body with stasis spots, a white greasy coating, and distended sublingual veins. Pulse: wiry (Xian) and choppy (Se), or wiry and slippery (Hua) if Phlegm predominates.",
+      "why_triggers_reliefs_work": "Phlegm arises from congealed dampness, so cold and damp environments and heavy, greasy foods thicken it further, worsening obstruction. Warmth and gentle movement help disperse phlegm and encourage Qi and blood to flow, which gradually unblocks the channels and restores nourishment to the legs.",
+      "diet_and_lifestyle": "Avoid damp-producing foods such as dairy, fried and greasy meals, sugar, and cold raw foods. Eat warm, cooked dishes like congee with ginger, lightly steamed vegetables, and small amounts of lean protein. Gentle daily movement, such as stretching or slow walking, helps keep Qi and fluids moving. Keep the legs warm and dry, and consider warm compresses on stiff joints.",
+      "formulas": [
+        {
+          "id": 12994,
+          "pattern_id": 5735,
+          "formula_name": "Xiao Huo Luo Dan",
+          "formula_url": "/knowledge-base/formulas/xiao-huo-luo-dan",
+          "translation": "Minor Collateral-Activating Elixir &#xB7; S&#xF2;ng dynasty, ~1078-1151 CE",
+          "properties": "Warm, Disperses Wind-Cold, Drains Dampness, Transforms Phlegm and unblocks the collaterals",
+          "description": "The classic formula for Phlegm obstructing the channels; it powerfully transforms phlegm, dispels stasis, and unblocks the meridians to relieve pain, numbness, and paralysis in the lower limbs."
+        },
+        {
+          "id": 12995,
+          "pattern_id": 5735,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 12996,
+          "pattern_id": 5735,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation."
+        },
+        {
+          "id": 12997,
+          "pattern_id": 5735,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        },
+        {
+          "id": 12998,
+          "pattern_id": 5735,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine."
+        },
+        {
+          "id": 12999,
+          "pattern_id": 5735,
+          "formula_name": "Liu Wei Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/liu-wei-di-huang-wan",
+          "translation": "Six-Ingredient Pill with Rehmannia &#xB7; S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Slightly Cool, Nourishes Kidney Yin, Supplements Liver and Spleen Yin, Benefits Essence and Fills the Marrow",
+          "description": "A foundational formula for nourishing Kidney Yin, used to address symptoms such as lower back soreness, dizziness, ringing in the ears, night sweats, and dry mouth caused by depletion of the body&#x27;s cooling, moistening reserves. Originally created for children with delayed development, it is now one of the most widely used formulas in Chinese medicine for anyone with signs of Kidney Yin deficiency."
+        },
+        {
+          "id": 13000,
+          "pattern_id": 5735,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "A classical formula designed to deeply nourish Kidney Yin and replenish the body&#x27;s vital essence and marrow. It is used when there is significant depletion of the body&#x27;s fundamental nourishing fluids and substances, leading to symptoms such as dizziness, lower back and knee weakness, night sweats, dry mouth and throat, and a general state of thinning or exhaustion. Unlike milder Yin-nourishing formulas, Zuo Gui Wan is a purely replenishing formula without any draining ingredients, making it suitable for more severe deficiency."
+        },
+        {
+          "id": 13001,
+          "pattern_id": 5735,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 13002,
+          "pattern_id": 5735,
+          "formula_name": "Xiao Huo Luo Dan",
+          "formula_url": "/knowledge-base/formulas/xiao-huo-luo-dan",
+          "translation": "Minor Collateral-Activating Elixir &#xB7; S&#xF2;ng dynasty, ~1078-1151 CE",
+          "properties": "Warm, Disperses Wind-Cold, Drains Dampness, Transforms Phlegm and unblocks the collaterals",
+          "description": "A powerful classical formula used to relieve joint and muscle pain, numbness, and stiffness caused by Wind, Cold, and Dampness lodged in the body&#x27;s channels. It warms the channels, dissolves phlegm blockages, and promotes blood circulation to restore movement. Traditionally used for chronic arthritis, frozen shoulder, and lingering weakness after stroke."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30131,
+          "pattern_id": 5735,
+          "herb_name": "Tian Nan Xing",
+          "herb_url": "/knowledge-base/herbs/tian-nan-xing",
+          "translation": "Jack-in-the-Pulpit rhizome",
+          "properties": "",
+          "description": "Dries dampness and dissolves phlegm, opening the channels to restore sensation and movement."
+        },
+        {
+          "id": 30132,
+          "pattern_id": 5735,
+          "herb_name": "Di Long",
+          "herb_url": "/knowledge-base/herbs/di-long",
+          "translation": "Earthworm",
+          "properties": "",
+          "description": "Unblocks the meridians and guides the formula to the limbs, especially effective for paralysis and numbness."
+        },
+        {
+          "id": 30133,
+          "pattern_id": 5735,
+          "herb_name": "Ru Xiang",
+          "herb_url": "/knowledge-base/herbs/ru-xiang",
+          "translation": "Frankincense resin",
+          "properties": "",
+          "description": "Invigorates blood and relieves stasis pain, helping to dissolve the hard swellings around joints."
+        },
+        {
+          "id": 30134,
+          "pattern_id": 5735,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 30135,
+          "pattern_id": 5735,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 30136,
+          "pattern_id": 5735,
+          "herb_name": "Di Long",
+          "herb_url": "/knowledge-base/herbs/di-long",
+          "translation": "Earthworm",
+          "properties": "Cold, Settles Fright and Calms Convulsions, Calms the Liver and Extinguishes Wind, Unblocks the Channels and Collaterals",
+          "description": ""
+        },
+        {
+          "id": 30137,
+          "pattern_id": 5735,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 30138,
+          "pattern_id": 5735,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 30139,
+          "pattern_id": 5735,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 30140,
+          "pattern_id": 5735,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 30141,
+          "pattern_id": 5735,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 30142,
+          "pattern_id": 5735,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        },
+        {
+          "id": 30143,
+          "pattern_id": 5735,
+          "herb_name": "Tian Nan Xing",
+          "herb_url": "/knowledge-base/herbs/tian-nan-xing",
+          "translation": "Jack-in-the-Pulpit rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Transforms Wind-Phlegm and Stops Spasms, Disperses Swelling and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 30144,
+          "pattern_id": 5735,
+          "herb_name": "Ru Xiang",
+          "herb_url": "/knowledge-base/herbs/ru-xiang",
+          "translation": "Frankincense resin",
+          "properties": "Warm, Invigorates Blood and Moves Qi, Alleviates Pain, Reduces Swelling",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20527,
+          "pattern_id": 5735,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for Phlegm; transforms phlegm and clears the channels to reduce heaviness and numbness."
+        },
+        {
+          "id": 20528,
+          "pattern_id": 5735,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "Influential point for the sinews; relaxes stiff joints and benefits the lower limbs."
+        },
+        {
+          "id": 20529,
+          "pattern_id": 5735,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the limbs, tonifies Qi, and helps resolve dampness to support recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7536,
+      "condition_id": 1160,
+      "question": "Can acupuncture really help with leg paralysis?",
+      "answer": "Yes, acupuncture is a core part of TCM treatment for leg paralysis. By inserting fine needles into specific points along the affected channels, acupuncture stimulates local circulation, reduces inflammation, and encourages nerve regeneration. Many patients report improved sensation, reduced spasticity, and gradual return of muscle strength. Results vary depending on the cause and duration of paralysis, but consistent weekly sessions over several months often yield noticeable benefits."
+    },
+    {
+      "id": 7537,
+      "condition_id": 1160,
+      "question": "How long does TCM treatment take to show results?",
+      "answer": "Most patients notice some improvement within 4-8 weeks of starting weekly acupuncture and daily herbs. The first changes are often reduced pain, better sleep, or a subtle return of feeling. Significant motor recovery in chronic cases may take 3-6 months or longer. Deficiency patterns take longer because the body must rebuild Qi and Blood, while excess patterns may respond sooner once blockages are cleared."
+    },
+    {
+      "id": 7538,
+      "condition_id": 1160,
+      "question": "Is it safe to combine TCM herbs with my current medications?",
+      "answer": "Generally, yes, but communication is essential. Inform both your TCM practitioner and your medical doctor about all medications and supplements you are taking. Some blood-moving herbs (like Dang Gui, Chuan Xiong, and Hong Hua) can have mild blood-thinning effects, so if you are on anticoagulants, your formula will be adjusted. Never stop prescribed medications without consulting your doctor."
+    },
+    {
+      "id": 7539,
+      "condition_id": 1160,
+      "question": "What should I expect during an acupuncture session for leg paralysis?",
+      "answer": "Your practitioner will insert very thin, sterile needles into points on your legs, lower back, and sometimes the scalp or arms, depending on the pattern. You may feel a dull ache, tingling, or warmth around the needles. Sessions typically last 20-30 minutes, and many patients find them deeply relaxing. Electrical stimulation may be added to enhance muscle activation."
+    },
+    {
+      "id": 7540,
+      "condition_id": 1160,
+      "question": "Can TCM help if the paralysis is from a stroke?",
+      "answer": "Yes, TCM is widely used in stroke rehabilitation. The classic formula Bu Yang Huan Wu Tang was designed specifically for post-stroke paralysis due to Qi deficiency causing Blood Stagnation. Acupuncture and herbs can improve limb function, reduce spasticity, and support overall recovery. Early intervention, ideally within the first few months, tends to yield the best results, but even chronic stroke patients can benefit."
+    },
+    {
+      "id": 7541,
+      "condition_id": 1160,
+      "question": "Will I need to change my diet?",
+      "answer": "Diet plays a supporting role. Warm, cooked foods are encouraged to protect the Spleen and promote circulation. Cold, raw, and greasy foods should be limited, as they can create Phlegm or further weaken digestion. Your practitioner may give specific advice based on your pattern - for example, avoiding dairy if Phlegm is present, or adding blood-nourishing foods like dark leafy greens and lean meats."
+    },
+    {
+      "id": 7542,
+      "condition_id": 1160,
+      "question": "Are there any exercises I should do alongside treatment?",
+      "answer": "Gentle movement is beneficial for most patterns, as it helps move Qi and blood. Your TCM practitioner may recommend specific stretches or traditional exercises like Qigong or Tai Chi. These can improve balance, coordination, and muscle tone without overstraining. Always work within your limits and avoid pushing into pain. Physical therapy can be safely combined with TCM."
+    }
+  ],
+  "research": [
+    {
+      "id": 1724,
+      "condition_id": 1160,
+      "title": "Acupuncture for stroke rehabilitation",
+      "description": "A Cochrane systematic review evaluating acupuncture's effects on recovery after stroke. The review found that acupuncture may improve dependency, global neurological deficiency, and some specific neurological impairments in the convalescent stage, with no serious adverse events. However, the evidence was downgraded due to methodological limitations in many included trials.",
+      "url": "https://doi.org/10.1002/14651858.CD004131.pub3",
+      "periodical": "Wu HM, Tang JL, Lin XP, et al. Acupuncture for stroke rehabilitation. Cochrane Database of Systematic Reviews 2010, Issue 7. Art. No.: CD004131."
+    },
+    {
+      "id": 1725,
+      "condition_id": 1160,
+      "title": "Efficacy and safety of Buyang Huanwu Decoction for acute ischemic stroke: a systematic review and meta-analysis",
+      "description": "A meta-analysis of randomized controlled trials assessing the Chinese herbal formula Bu Yang Huan Wu Tang as an add-on to conventional therapy for acute ischemic stroke. The formula significantly improved neurological deficit scores and activities of daily living compared to conventional therapy alone, without increasing adverse events.",
+      "url": "https://doi.org/10.1016/j.jep.2015.06.013",
+      "periodical": "Li JH, Liu AJ, Li HQ, et al. Efficacy and safety of Buyang Huanwu Decoction for acute ischemic stroke: a systematic review and meta-analysis. Journal of Ethnopharmacology. 2015;172:1-9."
+    }
+  ]
+}

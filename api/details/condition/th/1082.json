@@ -1,0 +1,878 @@
+{
+  "id": 1082,
+  "name": "ปวดกราม",
+  "url": "/knowledge-base/conditions/jaw-pain",
+  "kind": "Symptom",
+  "pinyin": "hé tòng",
+  "chinese_name": "颌痛",
+  "preview_text": "อาการปวดกรามไม่เหมือนกันทั้งหมด อาการปวดเฉียบพลันที่แย่ลงตามความเครียด อาการปวดหนักที่ปะทุขึ้นหลังจากทานอาหารปริมาณมาก และอาการปวดเมื่อยล้าที่เกิดจากความเครียด ล้วนมีความแตกต่างกันสามประการ...",
+  "categories": "[\"ใบหน้าและผิวพรรณ\", \"ปัญหาขากรรไกร\", \"ปากและฟัน\"]",
+  "body_regions": "[\"Face — Jaw\"]",
+  "synonyms": "[]",
+  "conventional_description": "Western medicine often attributes jaw pain to temporomandibular joint disorders (TMD), which involve the chewing muscles, the jaw joint, and associated structures. Common symptoms include aching facial pain, jaw stiffness, clicking or popping sounds, and difficulty opening the mouth fully. Causes range from teeth grinding (bruxism) and stress to arthritis, injury, or misalignment. Diagnosis is usually based on a physical exam and patient history, sometimes with imaging like X-rays or MRI.",
+  "conventional_treatments": "Standard care typically starts with conservative measures: a soft diet, jaw exercises, and a custom-fitted mouth guard to prevent grinding. Over-the-counter pain relievers (NSAIDs) and muscle relaxants may be prescribed for short-term relief. Physical therapy can help release tight muscles and improve joint mobility. In persistent cases, corticosteroid injections or, rarely, surgery may be considered.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands jaw pain primarily through the channels and organs that govern the face and joints. The Stomach and Large Intestine channels run directly through the jaw, so any blockage there - whether from stagnant Qi, blood stasis, or external pathogens - can cause pain and stiffness. The Liver is also crucial because it ensures the smooth flow of Qi throughout the body and nourishes the sinews; emotional stress, frustration, or habitual clenching can stagnate the Liver Qi, leading to fixed, stabbing pain.\nAcute jaw pain that comes on after exposure to wind or cold points to a different mechanism: an external pathogen has invaded the channels, creating stiffness and limited opening. Meanwhile, a diet heavy in rich, greasy, or spicy foods can generate Damp-Heat internally, which then settles into the jaw joint, making it feel swollen, hot, and heavy.\nWhen the pain is dull and chronic, the root is often a deficiency. Qi and Blood Deficiency, Liver-Kidney Essence Deficiency, or Spleen-Stomach Qi Deficiency all fail to nourish the jaw muscles and joint, leaving them weak and easily fatigued. This is why the same Western diagnosis of TMD can have so many different TCM presentations: a sharp, stress-related pain and a dull, fatigue-related ache are fundamentally different imbalances.",
+  "classical_quote": "「其病…颊痛…口僻…」",
+  "classical_translation": "\"When the Stomach sinew channel is affected by pathogenic factors, there is pain in the cheek and jaw, and the mouth may become twisted or difficult to open.\"",
+  "classical_source": "Ling Shu (The Spiritual Pivot)  ,  Chapter 13: Jing Jin (Muscle Channels) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the nature of your jaw pain - whether it is sharp and stabbing or dull and achy - and what makes it better or worse. They also explore when it started, any triggers like stress, injury, or weather changes, and accompanying symptoms such as digestive issues, fatigue, or ringing in the ears.\nIf the pain is fixed, stabbing, and worse with stress or clenching, Qi and Blood Stagnation is likely. The tongue may appear purplish with dark spots, and the pulse often feels wiry. This pattern is common after trauma or prolonged emotional tension.\nWhen jaw pain comes on suddenly after exposure to wind or cold, with stiffness and limited opening, Wind invading the channels is suspected. The tongue coating is typically thin and white, and the pulse feels floating. This acute pattern often responds to dispersing the external pathogen.\nA heavy, swollen sensation in the jaw with pain and limited movement points to Damp-Heat in the channels. The tongue coating is typically thick and greasy, either white or yellow, and the pulse is slippery and rapid. This pattern is more common in humid weather or after rich, greasy foods.\nChronic dull aching that worsens with fatigue, along with pale complexion and a weak pulse, suggests Qi and Blood Deficiency. The tongue is pale with a thin coating. This pattern reflects an internal weakness that fails to nourish the jaw muscles and joints.\nJaw soreness and weakness accompanied by lower back pain, dizziness, or tinnitus indicates Liver Blood and Kidney Essence Deficiency. The tongue is pale and the pulse is thin. This pattern often appears in older adults or after prolonged overwork.\nA dull ache with muscle fatigue and digestive complaints like bloating or loose stools points to Spleen and Stomach Qi Deficiency. The tongue may be swollen with teeth marks, and the pulse is weak. This pattern arises from poor digestion and dampness accumulation.",
+  "patterns": [
+    {
+      "id": 5361,
+      "condition_id": 1082,
+      "pattern_name": "Qi And Blood Stagnation",
+      "pattern_slug": "qi-and-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain like a needle\", \"Pain worsens with stress and clenching\", \"Irritability and emotional tension\", \"Dark purple tongue with stasis spots\"]",
+      "worse_with": "Stress, worry, and frustration, Cold, raw foods and iced drinks, Cold drafts or windy weather, Prolonged inactivity, Clenching teeth",
+      "better_with": "Warm compress or gentle warmth on the jaw, Gentle jaw stretches or massage, Stress management, Warm, nourishing meals and drinks",
+      "why_this_happens": "Stress, frustration, or habitual clenching cause the Liver Qi to stagnate, and over time this stagnant Qi fails to move Blood. The jaw is a meeting place for many channels, so when Blood congeals locally it creates a fixed, stabbing pain that feels like a needle. Trauma or dental work can also directly injure the local vessels, triggering the same stagnation.",
+      "tongue_and_pulse": "Tongue: purple or dark body with stasis spots, distended sublingual veins, thin white coat. Pulse: wiry (弦 xián) and choppy (涩 sè).",
+      "why_triggers_reliefs_work": "Emotional tension and stress directly cause Qi to stagnate, which then congeals Blood in the jaw channels, leading to fixed stabbing pain. Cold constricts vessels and slows circulation, while warmth and gentle movement help unblock stagnation and restore flow. Relaxation and stress reduction address the root by calming Liver Qi, preventing the upward surge that tightens the jaw.",
+      "diet_and_lifestyle": "Eat warm, cooked meals with turmeric and ginger to promote circulation. Avoid cold, raw foods that congeal blood. Gentle jaw stretches and stress reduction techniques help prevent clenching.",
+      "formulas": [
+        {
+          "id": 12184,
+          "pattern_id": 5361,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "The primary formula to invigorate Blood and dispel stasis in the jaw, especially after trauma or chronic clenching."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28217,
+          "pattern_id": 5361,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and relieves fixed stabbing pain in the jaw."
+        },
+        {
+          "id": 28218,
+          "pattern_id": 5361,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and unblocks channels to ease jaw tension and stiffness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19185,
+          "pattern_id": 5361,
+          "acupoint_code": "ST-7",
+          "acupoint_name": "Xiaguan ST-7",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/xiaguan-st-7",
+          "translation": "Xi&#xE0; Gu&#x101;n",
+          "properties": "Benefits the ears, jaw and teeth, Removes Obstructions from the Channel",
+          "description": "Local point directly over the jaw joint to relieve pain and tension."
+        },
+        {
+          "id": 19186,
+          "pattern_id": 5361,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Command point for the face and mouth, strongly moves Qi and alleviates pain."
+        },
+        {
+          "id": 19187,
+          "pattern_id": 5361,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Promotes the free flow of Liver Qi and blood, reducing the root stagnation."
+        }
+      ]
+    },
+    {
+      "id": 5362,
+      "condition_id": 1082,
+      "pattern_name": "Wind invading the Channels joints and muscles",
+      "pattern_slug": "wind-invading-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Pain that shifts location around the jaw or face\", \"Stiffness and limited jaw opening\", \"Symptoms worsen with wind, drafts, or cold air\", \"Mild chills or sensitivity to cold\", \"Acute onset, often after exposure to wind\"]",
+      "worse_with": "Cold drafts or windy weather, Cold, raw foods and iced drinks, Prolonged chewing or hard foods",
+      "better_with": "Warm compress or gentle warmth on the jaw, Staying out of drafts and wind, Warm, nourishing meals and drinks, Gentle jaw stretches or massage",
+      "why_this_happens": "Wind is an external pathogen that enters the body when your defenses are low. It often carries Cold or Dampness with it, and it loves to attack the channels and joints. When it settles into the facial channels around the jaw, it blocks the smooth flow of Qi and blood, leaving the area stiff, achy, and hard to open. Because Wind is restless and shifting by nature, the pain may move around or come and go unpredictably.",
+      "tongue_and_pulse": "Tongue: normal light red body with a thin white coat (may be slightly greasy if Dampness). Pulse: floating (浮 Fú) and possibly tight (紧 Jǐn).",
+      "why_triggers_reliefs_work": "Wind and Cold are the very pathogens causing this pattern, so exposure to drafts or cold directly worsens the obstruction in the channels. Warmth and protection from wind help your defensive Qi push the invaders out and restore smooth flow to the jaw. Resting the joint prevents further strain on channels that are already struggling to move Qi and blood.",
+      "diet_and_lifestyle": "Keep your jaw and neck warmly covered, especially on windy days. Avoid cold or raw foods and drinks; instead, sip warm ginger tea or soups to help your body push out the pathogen. Gentle, slow jaw stretches can help, but stop if pain worsens. Rest is important-overworking the jaw when Wind is present can drive the pathogen deeper.",
+      "formulas": [
+        {
+          "id": 12185,
+          "pattern_id": 5362,
+          "formula_name": "Jing Fang Bai Du San",
+          "formula_url": "/knowledge-base/formulas/jing-fang-bai-du-san",
+          "translation": "Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences &#xB7; M&#xED;ng dynasty, 1550 CE",
+          "properties": "Slightly Warm, Disperses Wind-Cold, Releases the Exterior, Drains Dampness",
+          "description": "Dispels wind-cold, releases the exterior, and unblocks the channels to stop jaw pain and stiffness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28219,
+          "pattern_id": 5362,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Releases exterior Wind and alleviates pain in the channels."
+        },
+        {
+          "id": 28220,
+          "pattern_id": 5362,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "",
+          "description": "Dispels Wind-Cold-Dampness, especially from the upper body and facial channels."
+        },
+        {
+          "id": 28221,
+          "pattern_id": 5362,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves Qi and blood in the head and face, relieving pain and guiding other herbs to the jaw."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19188,
+          "pattern_id": 5362,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point to disperse Wind and unblock the facial channel, easing jaw tightness."
+        },
+        {
+          "id": 19189,
+          "pattern_id": 5362,
+          "acupoint_code": "ST-2",
+          "acupoint_name": "Sibai ST-2",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/sibai-st-2",
+          "translation": "S&#xEC; B&#xE1;i",
+          "properties": "Expels Wind, Clears Heat",
+          "description": "Releases Wind from the face and reduces local stagnation."
+        },
+        {
+          "id": 19190,
+          "pattern_id": 5362,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Command point of the face; expels exterior Wind and stops pain anywhere in the head and jaw."
+        },
+        {
+          "id": 19191,
+          "pattern_id": 5362,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Eliminates Wind and clears the channel to relieve stiffness and sensitivity to drafts."
+        },
+        {
+          "id": 19192,
+          "pattern_id": 5362,
+          "acupoint_code": "SJ-17",
+          "acupoint_name": "Yifeng SJ-17",
+          "acupoint_url": "/knowledge-base/acupuncture/triple-burner-meridian/yifeng-sj-17",
+          "translation": "Y&#xEC; F&#x113;ng",
+          "properties": "Benefits the ears, Expels Wind",
+          "description": "Dispels Wind and benefits the jaw joint, often used for TMJ disorders."
+        }
+      ]
+    },
+    {
+      "id": 5363,
+      "condition_id": 1082,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "pattern_slug": "painful-obstruction-due-to-damp-heat-in-channels",
+      "is_common": 0,
+      "symptoms": "[\"Swollen, hot jaw joint\", \"Pain relieved by cold, aggravated by warmth\", \"Heavy, aching sensation in the jaw\", \"Limited mouth opening with stiffness\", \"Thirst with desire to drink\", \"Irritability and restlessness\"]",
+      "worse_with": "Hot compresses or heat, Spicy, greasy, or sweet foods, Damp, humid weather, Overwork and physical exhaustion, Stress, worry, and frustration",
+      "better_with": "Cold compresses, Cooling foods (cucumber, watermelon), Rest and sleep, Gentle jaw stretches or massage, Dry, cool environment",
+      "why_this_happens": "When the Spleen fails to transform fluids, often from a diet heavy in greasy, sweet, or spicy food, Dampness and Heat build up internally. This Damp-Heat then travels and settles into the jaw joint channels, causing the area to become swollen, hot, and painful. The obstruction blocks the flow of Qi and blood, making the joint feel heavy and stiff, and limiting how far you can open your mouth.",
+      "tongue_and_pulse": "Tongue: red body, possibly slightly swollen, with a yellow greasy coating. Pulse: slippery and rapid.",
+      "why_triggers_reliefs_work": "Damp-Heat is a combination of pathogenic moisture and heat that congests the channels. Heat worsens with warmth and spicy foods, while cold and cooling foods help clear it. Dampness thrives in humid environments and with heavy, greasy foods, so drying and light eating reduce it. Rest allows the body to heal, and gentle movement prevents stagnation without overheating.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and sweet foods that create Damp-Heat. Eat more cooling, lightly cooked vegetables and grains. Drink chrysanthemum or dandelion tea. Apply a cold compress to the jaw for 10‑15 minutes to relieve heat and swelling. Gentle jaw exercises can help prevent stiffness.",
+      "formulas": [
+        {
+          "id": 12186,
+          "pattern_id": 5363,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "Clears Damp-Heat from the channels, reduces swelling and pain in the jaw joint."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28222,
+          "pattern_id": 5363,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Clears Damp-Heat and reduces swelling."
+        },
+        {
+          "id": 28223,
+          "pattern_id": 5363,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and unblocks the channels."
+        },
+        {
+          "id": 28224,
+          "pattern_id": 5363,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Leaches out Dampness and eases heavy, stiff joints."
+        },
+        {
+          "id": 28225,
+          "pattern_id": 5363,
+          "herb_name": "Jiang Can",
+          "herb_url": "/knowledge-base/herbs/jiang-can",
+          "translation": "Silkworm",
+          "properties": "",
+          "description": "Relieves spasm and pain in the facial muscles."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19193,
+          "pattern_id": 5363,
+          "acupoint_code": "ST-7",
+          "acupoint_name": "Xiaguan ST-7",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/xiaguan-st-7",
+          "translation": "Xi&#xE0; Gu&#x101;n",
+          "properties": "Benefits the ears, jaw and teeth, Removes Obstructions from the Channel",
+          "description": "Local point to relieve jaw pain and improve opening."
+        },
+        {
+          "id": 19194,
+          "pattern_id": 5363,
+          "acupoint_code": "ST-6",
+          "acupoint_name": "Jiache ST-6",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/jiache-st-6",
+          "translation": "Ji&#xE1; Ch&#x113;",
+          "properties": "Expels Wind",
+          "description": "Eases jaw tension and swelling."
+        },
+        {
+          "id": 19195,
+          "pattern_id": 5363,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Master point for the face, clears heat and stops pain."
+        },
+        {
+          "id": 19196,
+          "pattern_id": 5363,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat from the channels."
+        },
+        {
+          "id": 19197,
+          "pattern_id": 5363,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves Dampness and reduces swelling."
+        }
+      ]
+    },
+    {
+      "id": 5364,
+      "condition_id": 1082,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, aching, or tired pain in the jaw\", \"Pain worsens with fatigue, overuse, or after eating\", \"Pale lips, nail beds, and complexion\", \"General weakness, dizziness, and poor appetite\"]",
+      "worse_with": "Overwork and physical exhaustion, Prolonged chewing or hard foods, Stress, worry, and frustration, Cold, raw foods and iced drinks",
+      "better_with": "Rest and sleep, Warm, nourishing meals and drinks, Warm compress or gentle warmth on the jaw, Gentle movement like walking",
+      "why_this_happens": "Qi and Blood are the body's fundamental nourishment. When they become chronically deficient, the muscles, tendons, and joints of the jaw do not receive enough fuel to stay strong and supple. The jaw joint becomes poorly lubricated and the chewing muscles easily fatigued, producing a dull, persistent ache that feels like the jaw is worn out. This pain typically worsens after prolonged chewing or at the end of the day, and improves with rest.",
+      "tongue_and_pulse": "Tongue: Pale body, may be thin or have teeth marks, with a thin white coating. Pulse: Fine (thin) and weak, lacking force.",
+      "why_triggers_reliefs_work": "Fatigue and overwork drain the very Qi and Blood that this pattern lacks, so rest is essential to allow the body to rebuild. Warmth and gentle movement encourage circulation without depleting resources, while cold constricts and further slows the flow. Stress consumes Qi, leaving less to nourish the jaw, so calming the mind helps conserve energy. Soft, warm foods are easier to digest, sparing the Spleen's energy so it can focus on producing new Qi and Blood.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congee to support digestion and Blood production. Include moderate amounts of high-quality protein and dark leafy greens. Avoid cold, raw foods that tax the Spleen. Gentle daily movement such as walking or tai chi helps circulate Qi without depleting it. Rest the jaw by avoiding chewing gum, hard nuts, or tough meats during flare-ups.",
+      "formulas": [
+        {
+          "id": 12187,
+          "pattern_id": 5364,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, providing the raw material to nourish the jaw muscles and joints."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28226,
+          "pattern_id": 5364,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation to relieve the dull ache."
+        },
+        {
+          "id": 28227,
+          "pattern_id": 5364,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi to strengthen muscles and reduce fatigue-related pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19198,
+          "pattern_id": 5364,
+          "acupoint_code": "ST-7",
+          "acupoint_name": "Xiaguan ST-7",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/xiaguan-st-7",
+          "translation": "Xi&#xE0; Gu&#x101;n",
+          "properties": "Benefits the ears, jaw and teeth, Removes Obstructions from the Channel",
+          "description": "Local point directly over the jaw joint to open the channel and ease pain."
+        },
+        {
+          "id": 19199,
+          "pattern_id": 5364,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Distal point that moves Qi in the face and is a master point for jaw disorders."
+        },
+        {
+          "id": 19200,
+          "pattern_id": 5364,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood to address the root deficiency and strengthen the whole body."
+        }
+      ]
+    },
+    {
+      "id": 5365,
+      "condition_id": 1082,
+      "pattern_name": "Liver Blood and Kidney Essence Deficiency",
+      "pattern_slug": "liver-blood-and-kidney-essence-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, aching jaw pain\", \"Worse with fatigue and overuse\", \"Lower back soreness and weak knees\", \"Dizziness and blurred vision\", \"Loose teeth\", \"Tinnitus or reduced hearing\", \"Scanty menstruation (in women)\"]",
+      "worse_with": "Overwork and physical exhaustion, Prolonged chewing or hard foods, Stress, worry, and frustration, Cold, raw foods and iced drinks, Lack of sleep",
+      "better_with": "Rest and sleep, Warm compress or gentle warmth on the jaw, Warm, nourishing meals and drinks, Gentle jaw stretches or massage",
+      "why_this_happens": "The Liver nourishes the sinews and the Kidneys nourish the bones. When Liver Blood and Kidney Essence are depleted, the jaw joint and its surrounding muscles lose their deep nourishment. This leaves the area weak and poorly lubricated, so even normal chewing can produce a chronic dull ache and a sensation of looseness in the teeth. The pain is typically mild but nagging, and it worsens when you are tired because the body has even fewer reserves to draw on.",
+      "tongue_and_pulse": "Tongue: pale, thin body with possible fine cracks, thin white or scanty coating, slightly dry. Pulse: deep, fine, and weak; the left Guan position (Liver) is notably fine and may feel slightly wiry but without strength; both Chi positions (Kidney) are deep and weak.",
+      "why_triggers_reliefs_work": "Liver Blood and Kidney Essence are the body's deep reserves. Rest and sleep allow these reserves to be replenished, while overwork, stress, and poor diet deplete them further. Warmth and gentle massage encourage what little Blood is available to reach the jaw, easing the dull ache. Cold and raw foods require extra energy to digest and can constrict the channels, making the malnourished joint feel even stiffer and more painful.",
+      "diet_and_lifestyle": "Eat warm, nourishing foods like bone broth, black sesame, walnuts, goji berries, and cooked leafy greens. Avoid overworking the jaw - cut food into small pieces and chew gently on both sides. Prioritize deep, restorative sleep and avoid overexertion. Gentle, mindful movement such as tai chi or walking can help, but stop before you feel tired.",
+      "formulas": [
+        {
+          "id": 12188,
+          "pattern_id": 5365,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "Nourishes Kidney Essence to strengthen the bones and teeth at the root."
+        },
+        {
+          "id": 12189,
+          "pattern_id": 5365,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "Nourishes Liver Blood to moisten the sinews and relieve dull, chronic pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28228,
+          "pattern_id": 5365,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Profoundly nourishes Kidney Essence and Blood to anchor the teeth and support the jaw."
+        },
+        {
+          "id": 28229,
+          "pattern_id": 5365,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Liver Blood and gently moves blood to ease dull aching."
+        },
+        {
+          "id": 28230,
+          "pattern_id": 5365,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes blood, relaxes the sinews, and calms muscle tightness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19201,
+          "pattern_id": 5365,
+          "acupoint_code": "ST-7",
+          "acupoint_name": "Xiaguan ST-7",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/xiaguan-st-7",
+          "translation": "Xi&#xE0; Gu&#x101;n",
+          "properties": "Benefits the ears, jaw and teeth, Removes Obstructions from the Channel",
+          "description": "Local point to relax the jaw muscles and ease joint pain."
+        },
+        {
+          "id": 19202,
+          "pattern_id": 5365,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Distal point that strongly moves Qi and blood in the face and jaw."
+        },
+        {
+          "id": 19203,
+          "pattern_id": 5365,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel to nourish essence and strengthen bones."
+        },
+        {
+          "id": 19204,
+          "pattern_id": 5365,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes blood and supports Kidney function to address the root deficiency."
+        }
+      ]
+    },
+    {
+      "id": 5366,
+      "condition_id": 1082,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, aching jaw pain\", \"Pain worsens after eating or when fatigued\", \"Poor appetite and bloating after meals\", \"Loose or poorly formed stools\", \"Fatigue and weak, heavy limbs\", \"Sallow or pale complexion\"]",
+      "worse_with": "Overeating or heavy meals, Cold, raw foods and iced drinks, Overwork and physical exhaustion, Stress, worry, and frustration",
+      "better_with": "Rest and sleep, Warm, nourishing meals and drinks, Gentle movement like walking, Warm compress or gentle warmth on the jaw",
+      "why_this_happens": "The Spleen and Stomach generate the Qi and blood that nourish every muscle and joint, including the jaw. When their Qi is weak, the jaw muscles are undernourished and easily fatigued, producing a dull, persistent ache. Poor fluid transformation also allows dampness to build up, which can further obstruct the local channels and create a sensation of heaviness and stiffness. The pain often worsens after eating because digestion places an extra demand on the already depleted Spleen Qi.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tooth-marked body with a thin white coating. Pulse: weak, soft, and especially empty at the right middle (Guan) position.",
+      "why_triggers_reliefs_work": "A weak Spleen and Stomach struggle to transform and transport food, so heavy or cold meals and overeating worsen Qi deficiency and dampness, aggravating the dull ache. Rest and warm, small meals conserve Qi and support digestive function, while gentle movement helps Qi flow without draining it. Stress and fatigue further deplete the already deficient Qi, so relaxation and adequate sleep are essential.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods in small frequent meals. Avoid raw, cold, greasy, or heavy foods that burden the Spleen. Gentle exercise like walking supports Qi circulation without overexertion. Manage stress and get adequate rest to conserve Qi.",
+      "formulas": [
+        {
+          "id": 12190,
+          "pattern_id": 5366,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "Strengthens the Spleen and Stomach Qi, lifts the clear Yang, and nourishes the muscles to relieve dull jaw pain."
+        },
+        {
+          "id": 12191,
+          "pattern_id": 5366,
+          "formula_name": "Si Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/si-jun-zi-tang",
+          "translation": "Four Gentlemen Decoction &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "A foundational formula to tonify Spleen Qi and strengthen digestion, often used as a base for chronic jaw weakness."
+        },
+        {
+          "id": 12192,
+          "pattern_id": 5366,
+          "formula_name": "Tao Hong Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/tao-hong-si-wu-tang",
+          "translation": "Peach Pit and Carthamus Four-Substance Decoction &#xB7; Yu&#xE1;n dynasty, ~1291 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Nourishes Blood, Regulates menstruation",
+          "description": "A classical formula that both nourishes and invigorates the Blood, used to address menstrual irregularities, period pain, and other conditions caused by Blood stagnation combined with Blood deficiency. It builds on the famous Si Wu Tang (Four-Substance Decoction) by adding Peach Kernel and Safflower to strengthen its ability to move stagnant Blood and promote healthy circulation."
+        },
+        {
+          "id": 12193,
+          "pattern_id": 5366,
+          "formula_name": "Jing Fang Bai Du San",
+          "formula_url": "/knowledge-base/formulas/jing-fang-bai-du-san",
+          "translation": "Schizonepeta and Ledebouriella Powder to Overcome Pathogenic Influences &#xB7; M&#xED;ng dynasty, 1550 CE",
+          "properties": "Slightly Warm, Disperses Wind-Cold, Releases the Exterior, Drains Dampness",
+          "description": "A classical formula used to relieve the early stages of colds and flu caused by exposure to Wind-Cold and Dampness, with symptoms such as chills, fever, headache, body aches, nasal congestion, and cough with white phlegm. It is also commonly used for early-stage skin conditions such as boils and hives when accompanied by chills and body aches."
+        },
+        {
+          "id": 12194,
+          "pattern_id": 5366,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "A classical four-herb formula used to clear heat and dampness from the lower body. It is commonly applied for hot, swollen, painful joints (especially in the knees and feet), lower limb weakness, and conditions like gout and eczema that involve a combination of inflammation and heavy, waterlogged tissue. The formula works by cooling inflammation, drying excess moisture, strengthening digestion to stop dampness at its source, and directing the formula&#x27;s effects downward to the legs and lower body."
+        },
+        {
+          "id": 12195,
+          "pattern_id": 5366,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 12196,
+          "pattern_id": 5366,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "A classical formula designed to deeply nourish Kidney Yin and replenish the body&#x27;s vital essence and marrow. It is used when there is significant depletion of the body&#x27;s fundamental nourishing fluids and substances, leading to symptoms such as dizziness, lower back and knee weakness, night sweats, dry mouth and throat, and a general state of thinning or exhaustion. Unlike milder Yin-nourishing formulas, Zuo Gui Wan is a purely replenishing formula without any draining ingredients, making it suitable for more severe deficiency."
+        },
+        {
+          "id": 12197,
+          "pattern_id": 5366,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "A classical formula known as the foundation of all blood-nourishing prescriptions in Chinese medicine. It gently replenishes and activates the Blood, and is widely used for conditions related to Blood deficiency such as pale complexion, dizziness, menstrual irregularities, and abdominal pain. Often called the &#x27;number one formula for women&#x27;s health,&#x27; it serves as a base that practitioners modify for a wide range of Blood-related conditions."
+        },
+        {
+          "id": 12198,
+          "pattern_id": 5366,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine."
+        },
+        {
+          "id": 12199,
+          "pattern_id": 5366,
+          "formula_name": "Si Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/si-jun-zi-tang",
+          "translation": "Four Gentlemen Decoction &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "A foundational classical formula used to strengthen digestion and restore vitality. It gently tonifies the Spleen and Stomach to address fatigue, poor appetite, loose stools, and a pale complexion caused by Qi deficiency. All four herbs are mild and balanced, making this one of the gentlest and most widely used tonic formulas in Chinese medicine."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 28231,
+          "pattern_id": 5366,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen, dries dampness, and helps build the Qi needed to nourish jaw muscles."
+        },
+        {
+          "id": 28232,
+          "pattern_id": 5366,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi and raises the clear Yang, combating the fatigue and muscle weakness."
+        },
+        {
+          "id": 28233,
+          "pattern_id": 5366,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Tonifies the Spleen and Stomach Qi, improving appetite and energy without being overly drying."
+        },
+        {
+          "id": 28234,
+          "pattern_id": 5366,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 28235,
+          "pattern_id": 5366,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 28236,
+          "pattern_id": 5366,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 28237,
+          "pattern_id": 5366,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Dispels Wind-Dampness, Relieves Painful Obstruction",
+          "description": ""
+        },
+        {
+          "id": 28238,
+          "pattern_id": 5366,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 28239,
+          "pattern_id": 5366,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 28240,
+          "pattern_id": 5366,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 28241,
+          "pattern_id": 5366,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 28242,
+          "pattern_id": 5366,
+          "herb_name": "Jiang Can",
+          "herb_url": "/knowledge-base/herbs/jiang-can",
+          "translation": "Silkworm",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Dispels Wind and Stops Pain, Transforms Phlegm and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 28243,
+          "pattern_id": 5366,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 28244,
+          "pattern_id": 5366,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 28245,
+          "pattern_id": 5366,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 28246,
+          "pattern_id": 5366,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 28247,
+          "pattern_id": 5366,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 28248,
+          "pattern_id": 5366,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 19205,
+          "pattern_id": 5366,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen and Stomach Qi, strengthens the whole body, and supports muscle function."
+        },
+        {
+          "id": 19206,
+          "pattern_id": 5366,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Strengthens the Spleen, resolves dampness, and harmonizes the middle burner."
+        },
+        {
+          "id": 19207,
+          "pattern_id": 5366,
+          "acupoint_code": "ST-6",
+          "acupoint_name": "Jiache ST-6",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/jiache-st-6",
+          "translation": "Ji&#xE1; Ch&#x113;",
+          "properties": "Expels Wind",
+          "description": "A local point on the jaw that relaxes the masseter muscle and eases facial pain."
+        },
+        {
+          "id": 19208,
+          "pattern_id": 5366,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "The master point for the face and mouth, relieves pain and moves Qi in the jaw."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7014,
+      "condition_id": 1082,
+      "question": "What does acupuncture for jaw pain feel like?",
+      "answer": "Most people feel only a tiny pinch as the needle enters, followed by a dull ache, warmth, or tingling around the point - a sign that Qi is arriving. Points on the face, like Xiaguan (ST-7) and Jiache (ST-6), are shallow and gentle. Many patients find the experience deeply relaxing and notice immediate jaw tension release."
+    },
+    {
+      "id": 7015,
+      "condition_id": 1082,
+      "question": "How many acupuncture treatments will I need?",
+      "answer": "Acute pain from a recent wind invasion or flare-up may improve after just 2-4 sessions. Chronic pain from long-standing stagnation or deficiency typically requires weekly treatments for 4-8 weeks to see lasting change. Your practitioner will reassess your progress regularly and adjust the frequency as your jaw stabilizes."
+    },
+    {
+      "id": 7016,
+      "condition_id": 1082,
+      "question": "Can TCM help if I've had jaw pain for years?",
+      "answer": "Yes, but it requires patience. Longstanding pain often involves deeper patterns like Qi and Blood Deficiency or Liver-Kidney Essence Deficiency, which take longer to rebuild. You may notice some relief within the first few weeks, but full resolution often takes 2-3 months of consistent herbs and acupuncture, along with lifestyle changes."
+    },
+    {
+      "id": 7017,
+      "condition_id": 1082,
+      "question": "Do I need to change my diet?",
+      "answer": "Dietary adjustments are often an important part of healing. During flare-ups, choose soft, easy-to-chew foods to rest the jaw. If your pattern involves Damp-Heat, you'll want to avoid greasy, spicy, and sugary foods that fuel inflammation. In deficiency patterns, warm, nourishing soups and stews help rebuild strength. Your practitioner will give you specific guidance based on your pattern."
+    },
+    {
+      "id": 7018,
+      "condition_id": 1082,
+      "question": "Can I keep wearing my night guard?",
+      "answer": "Yes. TCM treatment works well alongside a night guard. The guard protects your teeth from grinding while acupuncture and herbs address the root cause of the clenching and muscle tension. Over time, as your jaw relaxes, you may find you need the guard less, but always consult your dentist before discontinuing it."
+    },
+    {
+      "id": 7019,
+      "condition_id": 1082,
+      "question": "Is TCM safe if I'm taking pain relievers?",
+      "answer": "Generally, yes. Over-the-counter pain relievers can be used as needed, but tell your TCM practitioner so they can choose herbs that don't interact. If you're taking prescription muscle relaxants or anti-inflammatory drugs, discuss your TCM treatment with both your doctor and your TCM practitioner. Some blood-moving herbs may interact with anticoagulants, so full disclosure of all medications is essential."
+    }
+  ],
+  "research": [
+    {
+      "id": 1618,
+      "condition_id": 1082,
+      "title": "Acupuncture for temporomandibular joint (TMJ) disorders",
+      "description": "A Cochrane systematic review (2010) that assessed the effectiveness of acupuncture in treating temporomandibular disorders. It included 11 randomized controlled trials and found that acupuncture was more effective than no treatment and comparable to conventional therapies for reducing pain and improving function.",
+      "url": "",
+      "periodical": "Linde K, Allais G, Brinkhaus B, et al. Acupuncture for temporomandibular joint (TMJ) disorders. Cochrane Database of Systematic Reviews 2010, Issue 1. Art. No.: CD007090."
+    },
+    {
+      "id": 1619,
+      "condition_id": 1082,
+      "title": "Acupuncture for temporomandibular disorders: a systematic review and meta-analysis of randomized controlled trials",
+      "description": "A 2017 meta-analysis published in the Journal of Oral Rehabilitation that pooled data from 13 RCTs. The study concluded that acupuncture significantly reduced pain intensity and improved maximal mouth opening compared to sham acupuncture and standard care.",
+      "url": "",
+      "periodical": "Wu JY, Zhang C, Xu YP, et al. Acupuncture for temporomandibular disorders: a systematic review and meta-analysis of randomized controlled trials. J Oral Rehabil. 2017;44(11):871-882."
+    },
+    {
+      "id": 1620,
+      "condition_id": 1082,
+      "title": "Clinical observation on acupuncture for temporomandibular joint disorder syndrome",
+      "description": "A Chinese clinical study (2019) involving 120 patients with TMD treated with acupuncture at points including Xiaguan ST-7 and Hegu LI-4. The total effective rate was 91.7%, with significant improvements in pain and jaw mobility after a 10-session course.",
+      "url": "",
+      "periodical": "Li XH, Wang Y, Chen J. Clinical observation on acupuncture for temporomandibular joint disorder syndrome. Chin Acupunct Moxibustion. 2019;39(6):605-608."
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "id": 483,
+  "name": "Erythema Nodosum",
+  "url": "/knowledge-base/conditions/erythema-nodosum",
+  "kind": "Condition",
+  "pinyin": "jié jié xìng hóng bān",
+  "chinese_name": "结节性红斑",
+  "preview_text": "The color and temperature of your nodules tell the whole story. Bright red and burning hot calls for clearing Heat and cooling the Blood; dull purple and cool requires warming and ...",
+  "categories": "[\"Skin Inflammation & Swelling\", \"Skin Conditions\", \"Lumps, Swellings & Abscesses\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Erythema\", \"Red Nodules Under The Skin\", \"Skin Redness\", \"Erythema Redness\"]",
+  "conventional_description": "Erythema nodosum is a form of panniculitis - inflammation of the fat layer under the skin - that causes tender, red, raised nodules, most often on the shins.\nIt is usually a reactive condition, triggered by infections (especially streptococcal), medications, inflammatory bowel disease, or sarcoidosis, though up to half of cases have no identifiable cause. The nodules typically appear suddenly, may be accompanied by fever, fatigue, and joint pain, and usually resolve on their own within a few weeks, leaving temporary bruise-like discoloration.",
+  "conventional_treatments": "Treatment focuses on managing symptoms and addressing any underlying trigger. Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen are first-line for pain and inflammation. More severe or persistent cases may require oral corticosteroids or potassium iodide. If an infection is present, antibiotics are prescribed. Rest and leg elevation are recommended to reduce discomfort.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees the skin as a reflection of the internal organs, especially the Lungs (which govern the skin’s protective barrier) and the Spleen (which manages fluids and keeps Dampness from accumulating). When an external pathogen like Wind, Cold, Dampness, or Heat invades, or when internal imbalance produces Heat and Dampness, the body’s channels become obstructed. Because Dampness is heavy by nature, it sinks to the lower body, making the shins the most common site for these painful nodules.\nThe color and feel of the nodules reveal the nature of the pathogen. Bright red, hot, and acutely painful nodules signal Toxic-Heat in the blood - often after a sore throat or infection. Red, swollen nodules with a heavy, dragging sensation in the legs point to Damp-Heat sinking downward. Dull purple, cool nodules that ache more in cold, damp weather indicate Cold-Damp obstruction. And recurrent, non-hot nodules with fatigue and poor appetite suggest the Spleen is too weak to manage fluids, allowing Dampness to accumulate and block the channels.\nRegardless of the underlying cause, all patterns share a common endpoint: blood stasis. When Qi and Blood cannot flow freely through the channels - whether because Heat thickens the blood, Cold congeals it, or Dampness gums it up - the blood pools and forms hard, palpable lumps. This is why moving the blood is a central part of every treatment strategy, even when the primary focus is clearing Heat or draining Dampness. The tongue and pulse provide critical clues to which pathogen is dominant and whether the body’s constitution is strong or deficient.\nThis multi-pattern understanding explains why one person’s erythema nodosum clears up with rest and NSAIDs while another’s keeps recurring. If the root imbalance - say, a Spleen that can’t handle dampness or a constitutional tendency toward Heat - isn’t corrected, the nodules will return whenever conditions are right. TCM treatment aims not just to resolve the current outbreak but to rebalance the internal environment so that nodules stop forming altogether.",
+  "classical_quote": "「热毒客于皮肤，则生赤肿，痛如火燎」",
+  "classical_translation": "\"When heat toxin lodges in the skin, it produces red swellings, painful as if burning.\"",
+  "classical_source": "Zhu Bing Yuan Hou Lun  ,  Volume 35, Discussion on Various Sores \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by looking at the nodules themselves: their color, temperature, and how painful they are. Bright red, hot, and very tender nodules that appear suddenly point toward a heat pattern, especially if there is a fever or recent sore throat. The tongue is likely red with a yellow coating and the pulse is rapid and slippery. This picture suggests Toxic-Heat Stagnation, where heat toxins have invaded the blood and caused local inflammation.\nIf the nodules are still red and swollen but the person also feels heaviness in the legs, thirst without desire to drink, and the tongue has a thick, greasy yellow coating, the focus shifts to Damp-Heat in the Lower Burner. The pulse is slippery, reflecting the dampness. The practitioner will ask about digestive symptoms and whether the nodules are mainly on the shins, as dampness tends to sink downward.\nWhen nodules are dull, purplish, and feel cool to the touch, with pain that worsens in cold or damp weather, the pattern is likely Painful Obstruction with Wind-Cold-Damp. There is no fever, and the person may feel chilled. The tongue is pale with a white coating, and the pulse feels deep and tight. This picture tells the practitioner that cold and dampness are blocking the channels, rather than heat.\nRecurrent nodules that are not very red or hot, accompanied by fatigue, poor appetite, and loose stools, point to Spleen Deficiency with Dampness. The tongue is pale and puffy with a white, greasy coating, and the pulse is weak. Here the root is a weak digestive system that fails to transform fluids, causing dampness to accumulate and form nodules over time.\nIf the nodules are slightly raised but not hot, and the person looks pale, tires easily, and has a weak pulse and pale tongue, the practitioner considers Qi Deficiency causing Blood Stagnation. The lack of heat and the overall weak presentation distinguish this from the hot patterns. The nodules form because the Qi is too weak to move the blood properly, leading to stagnation.",
+  "patterns": [
+    {
+      "id": 2331,
+      "condition_id": 483,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "pattern_slug": "toxic-heat-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Bright red, hot, swollen nodules\", \"Burning or throbbing pain\", \"Fever and sore throat\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine, constipation\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Hot, humid weather, Overexertion and lack of sleep, Emotional stress and anger",
+      "better_with": "Cool compresses on the nodules, Rest and stress reduction, Light, cooling foods, Drinking plenty of water, Gentle movement and stretching",
+      "why_this_happens": "When a strong external pathogen (like streptococcus) invades, or internal heat accumulates from diet and emotions, toxic heat can enter the blood. This heat scorches the blood vessels and makes the blood congeal, forming bright red, burning-hot, painful nodules under the skin, usually on the shins. The body may also react with fever, sore throat, and intense thirst as the heat toxin spreads.",
+      "tongue_and_pulse": "Tongue: deep red or crimson body with prickly papillae and a thick, dry, yellow coating. Pulse: rapid (shu) and forceful (shi), possibly overflowing (hong).",
+      "why_triggers_reliefs_work": "Toxic heat in the blood is like a fire that needs to be cooled. Spicy and greasy foods add more heat, while cooling foods and drinks help extinguish it. Rest allows the body to conserve Qi to fight the pathogen, while stress and overexertion stir up heat. Cool compresses directly soothe local inflammation, and gentle movement prevents blood stasis without overheating.",
+      "diet_and_lifestyle": "Eat plenty of cooling foods like cucumber, watermelon, mung beans, and leafy greens. Avoid spicy, greasy, and fried foods, as well as alcohol and coffee. Stay hydrated and rest adequately to help your body clear the heat.",
+      "formulas": [
+        {
+          "id": 5319,
+          "pattern_id": 2331,
+          "formula_name": "Fu Yuan Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/fu-yuan-huo-xue-tang",
+          "translation": "Revive Health by Invigorating the Blood Decoction &#xB7; Jin dynasty (&#x91D1;&#x671D;), mid-13th century CE (Li Gao lived 1180&#x2013;1251)",
+          "properties": "Cool, Invigorates Blood and dispels Blood stasis, Courses the Liver and unblocks the collaterals, Promotes the movement of Qi",
+          "description": "A classic formula that promotes blood circulation and resolves stasis; often combined with heat-clearing herbs like Lian Qiao and Jin Yin Hua to clear toxic heat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12546,
+          "pattern_id": 2331,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, especially for skin eruptions."
+        },
+        {
+          "id": 12547,
+          "pattern_id": 2331,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat, reduces swelling, and disperses nodules."
+        },
+        {
+          "id": 12548,
+          "pattern_id": 2331,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "",
+          "description": "Cools blood and invigorates blood to resolve stasis."
+        },
+        {
+          "id": 12549,
+          "pattern_id": 2331,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Cools blood and reduces swelling, helps alleviate pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8433,
+          "pattern_id": 2331,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears heat and alleviates pain."
+        },
+        {
+          "id": 8434,
+          "pattern_id": 2331,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and cools the blood."
+        },
+        {
+          "id": 8435,
+          "pattern_id": 2331,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools blood and resolves stasis, especially for skin issues."
+        },
+        {
+          "id": 8436,
+          "pattern_id": 2331,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and releases the exterior, reduces fever."
+        }
+      ]
+    },
+    {
+      "id": 2332,
+      "condition_id": 483,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "pattern_slug": "damp-heat-in-the-lower-burner",
+      "is_common": 0,
+      "symptoms": "[\"Red, swollen, hot nodules on shins\", \"Heavy, dragging sensation in the legs\", \"Yellow greasy tongue coating, thickest at the root\", \"Scanty, dark yellow urine\", \"Thirst with no desire to drink much\"]",
+      "worse_with": "Hot, humid weather, Spicy, greasy, or fried foods, Prolonged standing, Alcohol",
+      "better_with": "Cool, dry weather, Light, cooling foods, Elevating the legs, Warm, not hot, showers",
+      "why_this_happens": "Dampness and Heat combine and sink to the lower body, where they obstruct the flow of Qi and Blood in the channels. This stagnation creates the swollen, red, painful nodules on the shins, while the Dampness adds a heavy, dragging sensation. The Heat component makes the nodules feel hot and inflamed, and the Dampness is reflected in the greasy tongue coating and sluggish pulse.",
+      "tongue_and_pulse": "Tongue: red body with a yellow greasy coating, thickest at the root. Pulse: slippery (滑 huá) and rapid (数 shuò), more pronounced at the rear position.",
+      "why_triggers_reliefs_work": "Dampness and Heat are heavy, sticky energies that worsen with humidity, greasy food, and standing still, which all promote stagnation. Cooling, drying measures like light food and elevating the legs help the body drain excess Dampness and clear Heat, allowing Qi and Blood to flow smoothly again.",
+      "diet_and_lifestyle": "Eat light, cooling foods like barley, mung beans, cucumber, and celery. Avoid greasy, spicy, and dairy-heavy foods that create Dampness and Heat. Keep legs elevated when resting and avoid standing for long periods to reduce fluid pooling.",
+      "formulas": [
+        {
+          "id": 5320,
+          "pattern_id": 2332,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "The classic formula to clear damp-heat from the lower limbs, resolving swelling and pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12550,
+          "pattern_id": 2332,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Clears damp-heat from the lower body and reduces swelling."
+        },
+        {
+          "id": 12551,
+          "pattern_id": 2332,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains dampness and reduces the heavy sensation in the legs."
+        },
+        {
+          "id": 12552,
+          "pattern_id": 2332,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Cools the blood and invigorates blood to shrink the nodules."
+        },
+        {
+          "id": 12553,
+          "pattern_id": 2332,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and strengthens the Spleen to prevent further damp accumulation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8437,
+          "pattern_id": 2332,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Drains dampness from the lower burner and reduces leg swelling."
+        },
+        {
+          "id": 8438,
+          "pattern_id": 2332,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Resolves dampness and invigorates blood to clear nodules."
+        },
+        {
+          "id": 8439,
+          "pattern_id": 2332,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears heat and relieves pain."
+        },
+        {
+          "id": 8440,
+          "pattern_id": 2332,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools blood and reduces skin inflammation."
+        }
+      ]
+    },
+    {
+      "id": 2333,
+      "condition_id": 483,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "pattern_slug": "painful-obstruction-with-wind-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Nodules are dull red, purplish, or skin-colored, and feel cool to the touch\", \"Pain and swelling worsen in cold, damp, or rainy weather\", \"Heaviness, stiffness, or aching in the joints and limbs\", \"Aversion to cold or wind, preferring warmth\"]",
+      "worse_with": "Cold, damp, or rainy weather, Sitting still for long periods, Cold raw foods and iced drinks, Exposure to wind after sweating",
+      "better_with": "Warm compresses or moxibustion, Gentle movement and stretching, Warm, dry weather, Ginger or cinnamon tea",
+      "why_this_happens": "When Wind, Cold, and Dampness invade the body, they obstruct the channels that run just beneath the skin. Cold contracts and congeals, while Dampness is heavy and sticky - together they trap Qi and Blood, creating the perfect conditions for nodules to form. Because the pathology is cold in nature, the lumps feel cool to the touch, lack the angry redness of heat patterns, and ache more when the weather turns cold or damp.",
+      "tongue_and_pulse": "Tongue: pale, slightly swollen with teeth marks, and a white greasy coating that looks moist. Pulse: wiry and tight (弦紧 xián jǐn), or slow and soggy if Dampness predominates.",
+      "why_triggers_reliefs_work": "Wind, Cold, and Damp are the very pathogens that clog the channels in this pattern. Cold causes contraction and pain, Dampness creates heaviness and stagnation, and Wind can shift the discomfort. Warmth, whether from a compress, moxibustion, or spicy food, directly counteracts Cold by relaxing the channels and getting Qi moving again. Gentle movement prevents Dampness from settling and helps Blood circulate, which is why a sedentary day often makes the nodules feel worse.",
+      "diet_and_lifestyle": "Keep the legs warm and dry - avoid sitting on cold surfaces or wearing damp clothing. Gentle daily movement like walking or stretching helps Qi flow without straining the joints. Eat warm, cooked foods and add modest amounts of ginger, cinnamon, and black pepper to meals. Steer clear of raw, cold, and greasy foods that feed internal Dampness.",
+      "formulas": [
+        {
+          "id": 5321,
+          "pattern_id": 2333,
+          "formula_name": "Gui Zhi Fu Ling Wan",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-fu-ling-wan",
+          "translation": "Cinnamon Twig and Poria Pill &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Disperses Fixed Masses, Warms the Channels and Disperses Cold",
+          "description": "Warms the channels, dispels Cold-Damp, and gently moves Blood to dissolve nodules. Often modified with extra warming and damp-draining herbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12554,
+          "pattern_id": 2333,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and unblocks Yang Qi to dispel Cold from the skin and muscles."
+        },
+        {
+          "id": 12555,
+          "pattern_id": 2333,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens the Spleen to stop the internal production of Dampness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8441,
+          "pattern_id": 2333,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Moxibustion on this point warms the Yang and drives out external Cold."
+        },
+        {
+          "id": 8442,
+          "pattern_id": 2333,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point for Blood - used here to invigorate Blood and break up stasis in the nodules."
+        },
+        {
+          "id": 8443,
+          "pattern_id": 2333,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Qi and Blood, supports the Spleen, and helps the body overcome Dampness."
+        },
+        {
+          "id": 8444,
+          "pattern_id": 2333,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "The influential point for sinews, it eases joint stiffness and moves Qi in the channels."
+        }
+      ]
+    },
+    {
+      "id": 2334,
+      "condition_id": 483,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Recurrent, dull, flesh-colored or slightly red nodules\", \"Fatigue and lack of energy\", \"Poor appetite and abdominal bloating\", \"Heaviness in the limbs and body\", \"Loose or unformed stools\"]",
+      "worse_with": "Cold, raw, or greasy foods, Damp or humid weather, Overexertion and fatigue, Worry and overthinking",
+      "better_with": "Warm, cooked meals, Rest and gentle walking, Dry, warm environment, Small, frequent meals",
+      "why_this_happens": "The Spleen is responsible for transforming food into Qi and for managing the body's fluids. When the Spleen is weak, it fails to do this properly, and a heavy, sticky type of moisture called Dampness builds up. Because Dampness is heavy by nature, it sinks down to the legs, where it clogs the flow of Qi and blood, creating the dull, recurrent nodules you see on the shins.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, white greasy coating, moist surface. Pulse: soggy (Ru) and slow (Huan), or slippery (Hua), soft and weak.",
+      "why_triggers_reliefs_work": "A weak Spleen struggles to process cold, raw, and greasy foods, which directly adds more Dampness to the body and worsens the nodules. Overwork and mental strain further deplete Spleen Qi, while damp environments increase external Dampness. Warm, cooked foods and dry surroundings ease the burden on the Spleen, allowing it to function better and gradually clear the Dampness that is causing the problem.",
+      "diet_and_lifestyle": "Eat warm, cooked, and easily digestible foods like soups, stews, and congee. Avoid cold, raw, and greasy foods that overwhelm a weak Spleen. Gentle daily movement like walking helps Qi flow, but avoid exhausting exercise. Keep the legs warm and dry, and try to avoid damp living environments.",
+      "formulas": [
+        {
+          "id": 5322,
+          "pattern_id": 2334,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens the Spleen, drains Dampness, and stops the formation of new nodules by correcting the underlying digestive weakness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12556,
+          "pattern_id": 2334,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies the Spleen and dries Dampness, addressing the root of the problem."
+        },
+        {
+          "id": 12557,
+          "pattern_id": 2334,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Gently drains Dampness and supports the Spleen without being harsh."
+        },
+        {
+          "id": 12558,
+          "pattern_id": 2334,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Strengthens the Spleen and leaches out Dampness, especially useful for nodules on the lower legs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8445,
+          "pattern_id": 2334,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and Stomach, boosting overall Qi to help the body clear Dampness."
+        },
+        {
+          "id": 8446,
+          "pattern_id": 2334,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Invigorates the Spleen and resolves Dampness, a key point for any lower-leg swelling or lump."
+        },
+        {
+          "id": 8447,
+          "pattern_id": 2334,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The main point for draining Dampness from the lower body, helping to shrink the nodules."
+        }
+      ]
+    },
+    {
+      "id": 2335,
+      "condition_id": 483,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "pattern_slug": "qi-deficiency-causing-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Dull, fixed nodules that are not hot\", \"Marked fatigue and weakness\", \"Pale or dusky complexion\", \"Worse with exertion and prolonged standing\", \"Shortness of breath on mild activity\"]",
+      "worse_with": "Overexertion and fatigue, Prolonged standing, Cold, damp, or rainy weather, Emotional stress and anger",
+      "better_with": "Rest and adequate sleep, Warm, cooked meals, Gentle walking, Elevating the legs, Warmth",
+      "why_this_happens": "Qi is the vital force that moves blood through your vessels. When Qi is weak from chronic fatigue, illness, or poor digestion, it can no longer push blood smoothly. The blood slows down and pools, forming slightly raised, dull nodules under the skin-typically on the shins-that feel more like a heavy ache than a burning pain.",
+      "tongue_and_pulse": "Tongue: pale-dark or pale-purple body, possible stasis spots, teeth marks, thin white coat. Pulse: deep (Chen), fine (Xi) or weak (Ruo), and choppy (Se).",
+      "why_triggers_reliefs_work": "Qi deficiency means the body already struggles to move blood; overexertion and standing further drain Qi, allowing stasis to worsen. Rest and gentle movement rebuild Qi without straining it. Cold and dampness constrict the vessels and slow blood flow, so warmth and elevating the legs encourage circulation and reduce the formation of new nodules.",
+      "diet_and_lifestyle": "Prioritize rest and avoid pushing through exhaustion. Eat warm, cooked meals like congee with a little ginger and dates to support Spleen Qi. Gentle daily walking or tai chi can help move Qi without depleting it. Elevate your legs whenever you sit to reduce blood pooling.",
+      "formulas": [
+        {
+          "id": 5323,
+          "pattern_id": 2335,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "Tonifies Qi and activates blood circulation, addressing the root deficiency and the resulting stasis that form the nodules."
+        },
+        {
+          "id": 5324,
+          "pattern_id": 2335,
+          "formula_name": "Fu Yuan Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/fu-yuan-huo-xue-tang",
+          "translation": "Revive Health by Invigorating the Blood Decoction &#xB7; Jin dynasty (&#x91D1;&#x671D;), mid-13th century CE (Li Gao lived 1180&#x2013;1251)",
+          "properties": "Cool, Invigorates Blood and dispels Blood stasis, Courses the Liver and unblocks the collaterals, Promotes the movement of Qi",
+          "description": "A classical formula originally designed for injuries from falls or blows that leave severe pain, swelling, and bruising in the rib and chest area. It works by vigorously clearing out trapped, stagnant Blood while restoring healthy circulation through the injured region. The formula is particularly suited to acute traumatic injuries of the torso where pain is intense, fixed in location, and worsens with pressure."
+        },
+        {
+          "id": 5325,
+          "pattern_id": 2335,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "A classical four-herb formula used to clear heat and dampness from the lower body. It is commonly applied for hot, swollen, painful joints (especially in the knees and feet), lower limb weakness, and conditions like gout and eczema that involve a combination of inflammation and heavy, waterlogged tissue. The formula works by cooling inflammation, drying excess moisture, strengthening digestion to stop dampness at its source, and directing the formula&#x27;s effects downward to the legs and lower body."
+        },
+        {
+          "id": 5326,
+          "pattern_id": 2335,
+          "formula_name": "Gui Zhi Fu Ling Wan",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-fu-ling-wan",
+          "translation": "Cinnamon Twig and Poria Pill &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Disperses Fixed Masses, Warms the Channels and Disperses Cold",
+          "description": "A classical formula that gently promotes blood circulation and dissolves masses in the lower abdomen. Originally used for gynecological conditions caused by blood stasis, it is now widely applied for conditions like uterine fibroids, ovarian cysts, painful periods, and endometriosis. Its mild but steady action makes it suitable for long-term use."
+        },
+        {
+          "id": 5327,
+          "pattern_id": 2335,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 5328,
+          "pattern_id": 2335,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 12559,
+          "pattern_id": 2335,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Qi and promotes blood circulation, tackling the underlying weakness."
+        },
+        {
+          "id": 12560,
+          "pattern_id": 2335,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and moves blood, reducing stasis and dull pain in the nodules."
+        },
+        {
+          "id": 12561,
+          "pattern_id": 2335,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Invigorates blood and alleviates pain, directing its action to the lower limbs."
+        },
+        {
+          "id": 12562,
+          "pattern_id": 2335,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 12563,
+          "pattern_id": 2335,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 12564,
+          "pattern_id": 2335,
+          "herb_name": "Dan Shen",
+          "herb_url": "/knowledge-base/herbs/dan-shen",
+          "translation": "Red sage root",
+          "properties": "Slightly Cool, Invigorates Blood and Dispels Stasis, Promotes menstruation and alleviates pain, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 12565,
+          "pattern_id": 2335,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        },
+        {
+          "id": 12566,
+          "pattern_id": 2335,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 12567,
+          "pattern_id": 2335,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 12568,
+          "pattern_id": 2335,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 12569,
+          "pattern_id": 2335,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 12570,
+          "pattern_id": 2335,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 12571,
+          "pattern_id": 2335,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 12572,
+          "pattern_id": 2335,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 12573,
+          "pattern_id": 2335,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 12574,
+          "pattern_id": 2335,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 8448,
+          "pattern_id": 2335,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and blood, strengthening the Spleen and Stomach to build vital energy."
+        },
+        {
+          "id": 8449,
+          "pattern_id": 2335,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Tonifies original Qi to address the root deficiency that fails to move blood."
+        },
+        {
+          "id": 8450,
+          "pattern_id": 2335,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and resolves stasis, directly targeting the nodules."
+        },
+        {
+          "id": 8451,
+          "pattern_id": 2335,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes blood and promotes smooth circulation, supporting stasis removal."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3148,
+      "condition_id": 483,
+      "question": "What do the red nodules mean in TCM?",
+      "answer": "In TCM, the nodules are a sign of blood stasis and channel obstruction. Their color, temperature, and pain quality reveal the underlying cause. Bright red, hot nodules indicate Toxic-Heat in the blood; dull purple, cool nodules suggest Cold-Damp obstruction; red, swollen nodules with leg heaviness point to Damp-Heat. A TCM practitioner uses these clues, along with your tongue and pulse, to identify the pattern and choose the right herbs and acupuncture points."
+    },
+    {
+      "id": 3149,
+      "condition_id": 483,
+      "question": "How long does it take for TCM to work on erythema nodosum?",
+      "answer": "Many people notice a reduction in pain and swelling within the first 2 weeks of herbal treatment. Complete resolution of an acute outbreak usually takes 3-6 weeks. If you have a chronic, recurrent pattern tied to Spleen deficiency or Qi deficiency, treatment may extend to 3-6 months to address the root imbalance and prevent future episodes. Acupuncture is typically done 1-2 times per week during the active phase."
+    },
+    {
+      "id": 3150,
+      "condition_id": 483,
+      "question": "Can I use TCM alongside my prescribed NSAIDs or corticosteroids?",
+      "answer": "Yes, TCM can often be used alongside conventional anti-inflammatories. Herbs and acupuncture may reduce the need for medication over time, but never stop prescribed drugs abruptly. Always inform both your TCM practitioner and your doctor about all treatments you are receiving. Some blood-moving herbs (e.g., Dang Gui, Chuan Xiong) can interact with anticoagulants, so full disclosure is essential."
+    },
+    {
+      "id": 3151,
+      "condition_id": 483,
+      "question": "Will the nodules come back after TCM treatment?",
+      "answer": "TCM aims to correct the underlying pattern that makes you susceptible, so recurrence is less likely once the imbalance is resolved. However, if you are exposed to the same triggers - such as a severe infection, prolonged damp weather, or significant stress - nodules may reappear. Continuing with periodic \"tune-up\" treatments and dietary adjustments can help maintain balance."
+    },
+    {
+      "id": 3152,
+      "condition_id": 483,
+      "question": "Do I need to change my diet for erythema nodosum?",
+      "answer": "Diet plays an important supporting role. Generally, avoid spicy, greasy, and deep-fried foods that create Heat and Dampness. Cold, raw foods and icy drinks weaken the Spleen and promote Dampness, so favor warm, cooked meals. Specific advice depends on your pattern: for Damp-Heat, reduce alcohol and rich foods; for Cold-Damp, include warming spices like ginger and cinnamon. Your practitioner will give you tailored guidance."
+    },
+    {
+      "id": 3153,
+      "condition_id": 483,
+      "question": "Is acupuncture painful when I have tender nodules?",
+      "answer": "Acupuncture needles are extremely thin, and most people feel only a slight sensation, not pain. Your practitioner will avoid needling directly into the inflamed nodules. Instead, points on the arms, legs, and body are chosen to clear the underlying pattern and move blood in the affected channels. Many patients find acupuncture deeply relaxing and notice reduced tenderness after the session."
+    }
+  ],
+  "research": []
+}

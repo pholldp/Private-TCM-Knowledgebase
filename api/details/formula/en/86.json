@@ -1,0 +1,471 @@
+{
+  "id": 86,
+  "name": "Xiang Sha Liu Jun Zi Tang",
+  "chinese_name": "香砂六君子汤",
+  "english_name": "Aucklandia and Amomum Six Gentlemen Decoction",
+  "url": "/knowledge-base/formulas/xiang-sha-liu-jun-zi-tang",
+  "summary": "A classical formula designed to strengthen weak digestion and relieve bloating, nausea, and abdominal discomfort caused by a weak Spleen and Stomach with dampness and stagnation. It builds upon the foundational Si Jun Zi Tang (Four Gentlemen Decoction) by adding herbs that move Qi and resolve phlegm, making it especially suited for people whose digestive weakness is accompanied by a feeling of fullness, poor appetite, and loose stools.",
+  "categories": "[\"Qi-tonifying formulas\", \"Qi-regulating formulas\"]",
+  "tcm_actions": "[\"Tonifies Qi and Strengthens the Spleen\", \"Harmonizes the Stomach\", \"Moves Qi and Resolves Stagnation\", \"Dries Dampness and Transforms Phlegm\", \"Warms the Middle Burner\"]",
+  "therapeutic_focus": "[\"Digestive Health\", \"Bloating Relief\", \"Appetite Support\", \"Nausea and Vomiting Relief\"]",
+  "target_organs": "[\"Spleen\", \"Stomach\", \"Lungs\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Gǔ Jīn Míng Yī Fāng Lùn (古今名医方论, Ancient and Modern Famous Physicians' Formula Discussions), Volume 1, citing Ke Yunbo (柯韵伯)",
+  "conditions": "[\"Dyspepsia\", \"Chronic Gastritis\", \"Irritable Bowel Syndrome\", \"Peptic Ulcer\", \"Gastroparesis\", \"Gastric Prolapse\", \"Chronic Diarrhea\", \"Nausea\", \"Acid Reflux\", \"Loss of appetite\"]",
+  "patterns": "[]",
+  "other_names": "[\"Xiang Sha Liu Jun Tang (香砂六君汤)\", \"Xiang Sha Liu Jun Zi Wan (香砂六君子丸, Aucklandia and Amomum Six Gentlemen Pill)\"]",
+  "pregnancy": "Use with caution during pregnancy. Ban Xia (Pinellia) is traditionally classified as a pregnancy-cautioned herb due to its potential to cause uterine stimulation, though the processed forms (Fa Ban Xia, Jiang Ban Xia) used in this formula are significantly milder than the raw form. Mu Xiang and Sha Ren strongly move Qi, which warrants additional care. Sha Ren, interestingly, is used in some classical formulas to calm a restless fetus in Spleen deficiency, so it is not itself contraindicated. Overall, the formula is not absolutely contraindicated but should only be prescribed by a qualified practitioner who can assess the specific clinical situation. Avoid in early pregnancy without professional guidance.",
+  "breastfeeding": "Generally considered compatible with breastfeeding when used appropriately and under professional guidance. The herbs in this formula are mostly gentle tonifying and Qi-moving substances without known toxicity concerns regarding transfer through breast milk. Ren Shen (Ginseng) may mildly stimulate and could theoretically affect a sensitive infant, so practitioners sometimes substitute Dang Shen (Codonopsis) as a gentler alternative. Gan Cao (Licorice) in moderate doses is not expected to cause issues but should not be used in excessive amounts during lactation. No specific adverse effects on milk production or infant health have been reported in the classical literature. Consult a qualified practitioner before use.",
+  "children": "This formula can be used in children, particularly for pediatric digestive complaints such as poor appetite, chronic loose stools, and failure to thrive due to Spleen Qi deficiency. Dosage should be reduced proportionally based on age and body weight: roughly one-quarter to one-third of the adult dose for children under 6, and one-half for children aged 6-12. Ren Shen (Ginseng) is sometimes replaced with the milder Dang Shen (Codonopsis) in pediatric prescriptions. The formula should be prescribed by a qualified practitioner who can properly differentiate the pattern. Avoid prolonged use without reassessment, as children's constitutions change rapidly.",
+  "drug_interactions": "Gan Cao (Licorice): The glycyrrhizin in Gan Cao may cause potassium depletion and sodium/water retention. It can interact with corticosteroids (additive potassium loss), digoxin and other cardiac glycosides (hypokalemia increases toxicity risk), diuretics especially loop and thiazide types (compounded electrolyte imbalance), and antihypertensive medications (may counteract blood pressure lowering through fluid retention).\nRen Shen (Ginseng): May interact with warfarin and other anticoagulants (potential alteration of INR), hypoglycemic agents including insulin (additive blood sugar lowering), and MAO inhibitors (risk of overstimulation). Ginseng may also reduce the effectiveness of immunosuppressants due to its immune-modulating properties.\nBan Xia (Pinellia): The processed form used in this formula is low in toxicity, but it is traditionally considered incompatible with Wu Tou (Aconitum) preparations. No major documented pharmaceutical drug interactions, but the herb's gastrointestinal effects may theoretically alter absorption rates of orally administered drugs.\nGeneral note: As a formula that affects gastrointestinal motility and gastric function, it may alter the absorption rate or bioavailability of concurrently taken oral medications. It is advisable to separate the timing of this formula from pharmaceutical drugs by at least 1-2 hours.",
+  "best_time_to_take": "30 minutes before meals, twice daily (morning and evening), taken warm.",
+  "typical_duration": "Typically prescribed for 2-4 weeks for acute digestive complaints, or 4-8 weeks for chronic conditions such as chronic gastritis or functional dyspepsia, with periodic reassessment by a practitioner.",
+  "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruit in excess, sushi), as these burden an already weakened Spleen and Stomach. Reduce greasy, fried, and heavily rich foods, which generate more Dampness and Phlegm. Limit dairy products, sugar, and excessively sweet foods, which also tend to produce Dampness. Favor warm, cooked, easily digestible meals such as congee (rice porridge), soups, steamed vegetables, and well-cooked grains. Foods that gently support Spleen function are helpful: yam (shan yao), cooked lotus seed, millet, ginger, and jujube dates. Eat regular meals at consistent times rather than large irregular meals, and avoid overeating, which strains the already deficient digestive system.",
+  "ingredients": [
+    {
+      "herb_name": "Ren Shen",
+      "english_name": "Ginseng root",
+      "role": "King",
+      "dosage": "3 - 9g"
+    },
+    {
+      "herb_name": "Bai Zhu",
+      "english_name": "White Atractylodes rhizome",
+      "role": "Deputy",
+      "dosage": "6 - 12g"
+    },
+    {
+      "herb_name": "Fu Ling",
+      "english_name": "Poria",
+      "role": "Assistant",
+      "dosage": "6 - 12g"
+    },
+    {
+      "herb_name": "Ban Xia",
+      "english_name": "Pinellia rhizome",
+      "role": "Assistant",
+      "dosage": "3 - 9g"
+    },
+    {
+      "herb_name": "Chen Pi",
+      "english_name": "Tangerine peel",
+      "role": "Assistant",
+      "dosage": "3 - 6g"
+    },
+    {
+      "herb_name": "Mu Xiang",
+      "english_name": "Costus root",
+      "role": "Assistant",
+      "dosage": "2 - 6g"
+    },
+    {
+      "herb_name": "Sha Ren",
+      "english_name": "Amomum fruit",
+      "role": "Assistant",
+      "dosage": "2 - 6g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "2 - 3g"
+    }
+  ],
+  "research": [
+    {
+      "id": 188,
+      "formula_id": 86,
+      "title": "Efficacy and safety of Xiangsha Liujunzi granules for functional dyspepsia: A multi-center randomized double-blind placebo-controlled clinical study (RCT, 2017)",
+      "description": "A rigorous multi-center, randomized, double-blind, placebo-controlled trial enrolled 216 patients diagnosed with functional dyspepsia (Rome III criteria) and Spleen-deficiency/Qi-stagnation syndrome. Patients received Xiangsha Liujunzi granules or placebo for 4 weeks. The formula group showed significant symptomatic improvement, particularly in postprandial fullness, bloating, early satiety, and epigastric pain, with no adverse effects reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28852318/",
+      "periodical": "Lv L, Wang FY, Ma XX, et al. World Journal of Gastroenterology, 2017, 23(30): 5380-5390."
+    },
+    {
+      "id": 189,
+      "formula_id": 86,
+      "title": "Chinese Herbal Medicine Liu Jun Zi Tang and Xiang Sha Liu Jun Zi Tang for Functional Dyspepsia: Meta-Analysis of Randomized Controlled Trials (Meta-analysis, 2012)",
+      "description": "A meta-analysis of 15 RCTs comparing Liu Jun Zi Tang and Xiang Sha Liu Jun Zi Tang with prokinetic drugs (domperidone, cisapride, mosapride) for functional dyspepsia. XSLJZT showed a significantly higher rate of symptom improvement compared to prokinetics (OR 2.63, 95% CI 1.72-4.03). No adverse events were reported in any herbal treatment group across all trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23304222/",
+      "periodical": "Xiao Y, Liu YY, Yu KQ, Ouyang MZ, Luo R, Zhao XS. Evidence-Based Complementary and Alternative Medicine, 2012, 2012: 936459."
+    },
+    {
+      "id": 190,
+      "formula_id": 86,
+      "title": "Efficacy and safety of Xiangsha liujunzi decoction for functional dyspepsia: a systematic review and meta-analysis (Systematic review/Meta-analysis, 2024)",
+      "description": "A systematic review and meta-analysis including 23 RCTs conducted exclusively in China evaluated Xiangsha Liujunzi decoction for functional dyspepsia. The analysis found the formula exhibited clinical effectiveness with no significant adverse events observed. However, the authors noted that the overall quality of the enrolled studies was low and called for more rigorous international trials.",
+      "url": "",
+      "periodical": "Wang Y, et al. Frontiers in Pharmacology, 2024, 15: 1356899."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 29,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 44,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 62,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 73,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 93,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 112,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 132,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 134,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "pattern_id": 238,
+      "name": "Xiang Sha Liu Jun Zi Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 52,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 52,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 102,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 102,
+      "pattern_name": "Turbid Phlegm Blocks Orifices",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 135,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 135,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 135,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 154,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 154,
+      "pattern_name": "Qi Stagnation in Gallbladder and Stomach with Phlegm Heat",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 157,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 157,
+      "pattern_name": "Qi-Phlegm",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 176,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 176,
+      "pattern_name": "Stomach Blood Stagnation",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 187,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 187,
+      "pattern_name": "Spleen Yang Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 190,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 190,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 191,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 191,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 220,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 220,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 225,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 225,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 226,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 226,
+      "pattern_name": "Liver Blood Stagnation",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 227,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 227,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 352,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 352,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 372,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 372,
+      "pattern_name": "Rebellious Liver Qi",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 492,
+      "pattern_name": "Damp-Phlegm",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 492,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 680,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 680,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 940,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 940,
+      "pattern_name": "Large Intestine Cold",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 952,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 952,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 952,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 990,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 990,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1007,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1007,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1042,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1042,
+      "pattern_name": "Wind-Heat invading the Lungs",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1108,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1108,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1118,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1118,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1163,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1163,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1215,
+      "pattern_name": "Spleen Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1215,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1378,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1378,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1386,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1386,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1399,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1399,
+      "pattern_name": "Kidney Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1484,
+      "pattern_name": "Spleen and Kidney Qi Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1484,
+      "pattern_name": "Kidney and Spleen Yang Deficiency with Empty Cold",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1574,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1574,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1601,
+      "pattern_name": "Rebellious Liver Qi invading the Spleen",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    },
+    {
+      "condition_id": 1601,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Xiang Sha Liu Jun Zi Tang"
+    }
+  ]
+}

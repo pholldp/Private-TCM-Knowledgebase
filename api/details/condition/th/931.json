@@ -1,0 +1,809 @@
+{
+  "id": 931,
+  "name": "ไข้",
+  "url": "/knowledge-base/conditions/fever",
+  "kind": "Symptom",
+  "pinyin": "fā rè",
+  "chinese_name": "发热",
+  "preview_text": "ไข้จะบอกคุณว่าร่างกายกำลังต่อสู้กับบางสิ่งบางอย่าง แต่ TCM จะถามว่าร่างกายกำลังต่อสู้กับอะไร และเพราะเหตุใด อาการไข้เฉียบพลันจากการบุกรุกภายนอกส่วนใหญ่จะหายภายในไม่กี่วันด้วยสมุนไพรที่เหมาะสม ในขณะที่...",
+  "categories": "[\"ภาวะไข้และอุณหภูมิที่เกี่ยวข้อง\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Body Heat\", \"Body Temperature\", \"Pyrexia\", \"Elevated Body Heat\", \"Elevated Body Temperature\", \"Elevated Temperature\", \"Feverish Feeling\", \"Feverishness\", \"Increased Heat\", \"Sensation Of Fever\", \"Feverish Sensation\", \"Fever or body heat\", \"Fever or feeling of heat\", \"Fever or feeling of internal heat\", \"Fever or sensation of bodily heat\", \"Fever or strong sensation of body heat\", \"Mild to moderate fever\", \"Mild fever at the onset\", \"Mild fever or chills at onset\", \"Slight Sweating During Fever Episodes\", \"Persistent or Recurrent Fever\", \"Fever that persists or recurs\", \"Persistent fever that worsens despite treatment\", \"Recurring Fever\"]",
+  "conventional_description": "Fever is defined as a temporary increase in body temperature, often due to an illness. It's typically a sign that the body is fighting an infection, but can also result from inflammation, autoimmune conditions, or certain medications. A normal body temperature is around 98.6°F (37°C), and fever is generally considered present above 100.4°F (38°C).",
+  "conventional_treatments": "Conventional treatment focuses on reducing the fever and addressing the underlying cause. Over-the-counter medications like acetaminophen or ibuprofen are commonly used to lower temperature and relieve discomfort. If a bacterial infection is present, antibiotics may be prescribed. Rest and hydration are universally recommended.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, fever is understood as a sign of disharmony between the body's Yin and Yang, or between its defensive Qi and external pathogens. The body's protective layer, called the exterior, is the first line of defense. When a pathogen like Wind-Cold or Wind-Heat invades, a battle ensues at the surface, generating fever and chills. This is the most common acute fever pattern.\nWhen the pathogen penetrates deeper, or when internal imbalances generate excessive heat, the fever becomes interior - high and without chills. This can come from Excess-Heat blazing in the Stomach or Lungs, or from Damp-Heat where humidity and heat combine to create a smoldering, lingering fever. These patterns often involve the Spleen and Stomach's ability to transform fluids.\nNot all fevers are from excess. When the body's cooling Yin fluids are depleted, a relative excess of Yang creates a low-grade, afternoon fever with night sweats. This is Empty-Heat from Yin Deficiency, often rooted in the Kidneys. Similarly, when the Spleen's Qi is too weak to lift Yang upward, a deficiency fever can arise that worsens with exertion - the body's energy is too depleted to maintain normal temperature regulation.\nThis is why two people with the same thermometer reading may need completely different treatments. One person's fever might be a Wind-Heat invasion needing cooling, dispersing herbs, while another's might be a Qi deficiency needing tonics to strengthen the Spleen. TCM's strength is in matching the treatment to the specific pattern, not just the number on the thermometer.",
+  "classical_quote": "「太阳病，发热，汗出，恶风，脉缓者，名为中风。」",
+  "classical_translation": "\"In Tai Yang disease, when there is fever, sweating, aversion to wind, and a moderate pulse, it is called Wind Strike.\"",
+  "classical_source": "Shang Han Lun (Treatise on Cold Damage)  ,  Line 2 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "When someone comes in with a fever, a TCM practitioner starts by asking what the fever feels like and what other signs accompany it. The presence or absence of chills, the time of day the fever peaks, and the quality of thirst and sweat are among the first clues. The tongue and pulse then confirm which pattern is at play.\nIf the fever comes on quickly with mild chills, a sore throat, and a floating rapid pulse, the practitioner suspects an exterior Wind-Heat invasion. The tongue tip is often red, and the person may feel hot but still want to avoid drafts. This pattern is acute and superficial, with the battle between pathogen and defensive Qi happening at the body's surface.\nWhen the fever is accompanied by strong chills, body aches, and no sweating, the picture points to Wind-Cold. Here the pulse is floating and tight, and the tongue coat is thin and white. The person feels cold and shivery even though a fever is present, and the absence of sweating tells the practitioner that the exterior is tightly shut.\nA high fever without any chills, with intense thirst, a red face, and a rapid full pulse, signals interior Excess-Heat. The tongue is red with a dry yellow coat. This pattern means the heat is blazing deep inside the body, not at the surface, so the person feels hot all over and craves cold drinks. The practitioner looks for signs of which organ is most affected-lung, stomach, or intestines.\nIf the fever lingers and the person complains of a heavy, muzzy sensation, along with nausea or loose stools, Damp-Heat becomes the prime suspect. The tongue coat is thick, sticky, and yellow; the pulse is soggy and rapid. The fever often rises in the afternoon and does not feel as sharp as pure heat, because the dampness clings and slows everything down.\nA low-grade fever that comes in the afternoon or evening, with night sweats, a dry mouth, and a thin rapid pulse, suggests Empty-Heat from Yin Deficiency. The tongue is red with little or no coat. Instead of true excess fire, this is a relative heat born from insufficient cooling Yin fluids, so the fever is mild and tidal, never blazing high.\nWhen the fever is also low-grade but worse after exertion, and the person is exhausted, has a poor appetite, and a weak pulse, the practitioner thinks of Qi Deficiency Fever. The tongue is pale and puffy. Here the Spleen Qi is too weak to lift clear Yang upward, so a smoldering heat appears, especially when the body is strained.",
+  "patterns": [
+    {
+      "id": 4592,
+      "condition_id": 931,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Fever greater than chills\", \"Sore, red throat\", \"Thirst with desire to drink\", \"Cough with yellow phlegm\", \"Headache with a distending quality\"]",
+      "worse_with": "Spicy food, Alcohol, Windy drafts, Overexertion, Emotional stress",
+      "better_with": "Cool drinks, Rest, Light clothing, Fresh air",
+      "why_this_happens": "When a Wind-Heat pathogen invades the body's exterior, it clashes with the defensive Qi at the surface. This battle generates heat, causing a fever that is more prominent than the accompanying mild chills. The Heat nature of the pathogen rises to the throat and head, producing a sore, red throat, thirst, and a distending headache.",
+      "tongue_and_pulse": "Tongue: red tip and edges, thin yellow or white-to-yellow coating. Pulse: floating and rapid.",
+      "why_triggers_reliefs_work": "Wind-Heat is an exterior heat pattern. Cooling drinks and light clothing help the body's defensive Qi push the pathogen outward without adding internal heat. Spicy food, alcohol, and emotional stress generate additional heat, while windy drafts and overexertion weaken the exterior, allowing the pathogen to penetrate deeper. Rest conserves energy so the body can fight the invasion.",
+      "diet_and_lifestyle": "Drink plenty of room-temperature or cool fluids like chrysanthemum or mint tea. Avoid spicy, greasy, and heavy foods that add internal heat. Rest and keep comfortably warm without overheating. Gentle fresh air is fine; avoid strong drafts.",
+      "formulas": [
+        {
+          "id": 10429,
+          "pattern_id": 4592,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The classic formula for Wind-Heat invasion, it disperses exterior Wind-Heat, clears heat, and relieves toxicity."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24175,
+          "pattern_id": 4592,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, especially for sore throat."
+        },
+        {
+          "id": 24176,
+          "pattern_id": 4592,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Wind-Heat and reduces swelling in the throat."
+        },
+        {
+          "id": 24177,
+          "pattern_id": 4592,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases the exterior and encourages the pathogen to vent out through light sweating."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16438,
+          "pattern_id": 4592,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and vents the exterior."
+        },
+        {
+          "id": 16439,
+          "pattern_id": 4592,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Disperses exterior Wind and relieves head and face symptoms."
+        },
+        {
+          "id": 16440,
+          "pattern_id": 4592,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat from the body and soothes the throat."
+        }
+      ]
+    },
+    {
+      "id": 4593,
+      "condition_id": 931,
+      "pattern_name": "Wind-Cold",
+      "pattern_slug": "wind-cold",
+      "is_common": 0,
+      "symptoms": "[\"Strong aversion to cold (chills predominate)\", \"Mild fever\", \"No sweating\", \"Headache and body aches\", \"Clear, watery nasal discharge\", \"No thirst or preference for warm drinks\"]",
+      "worse_with": "Cold drafts and air conditioning, Iced drinks and raw foods, Overwork and lack of sleep, Damp, chilly weather",
+      "better_with": "Warmth, Drinking hot ginger tea, Resting in a draft-free room, Light sweating",
+      "why_this_happens": "When Wind-Cold invades the body's surface, it constricts the skin pores and traps the defensive Yang Qi. This trapped Yang accumulates and creates a mild fever, while the Cold predominates, causing intense chills and a lack of sweating. The struggle between the pathogen and the body's protective energy produces the feverish sensation, but the chills remain more pronounced because the Cold is blocking the warming function of Yang.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, thin white moist coat. Pulse: floating (fú) and tight (jǐn).",
+      "why_triggers_reliefs_work": "Wind-Cold invades the exterior and constricts the pores, trapping Yang Qi and causing fever and chills. Warmth and warm drinks help relax the tightened surface, open the pores, and promote sweating, which releases the trapped Cold. Rest allows the body's defensive Qi to focus on expelling the pathogen. Conversely, cold environments and cold foods further constrict the exterior and weaken the Spleen, allowing the Cold to linger or deepen.",
+      "diet_and_lifestyle": "Drink plenty of warm fluids like fresh ginger tea with scallion (Cong Bai) to help the body sweat lightly and expel the Cold. Bundle up and rest in a warm, draft-free room. Avoid cold drinks, raw foods, and dairy which can worsen phlegm. A light sweat is beneficial, but avoid heavy sweating that can deplete Qi.",
+      "formulas": [
+        {
+          "id": 10430,
+          "pattern_id": 4593,
+          "formula_name": "Ma Huang Tang",
+          "formula_url": "/knowledge-base/formulas/ma-huang-tang",
+          "translation": "Ephedra Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Descends Lung Qi and Calms Wheezing, Disperses Wind-Cold",
+          "description": "The classic formula for exterior Wind-Cold excess with chills, fever, and no sweating; it releases the exterior and promotes sweating to expel the pathogen."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24178,
+          "pattern_id": 4593,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "",
+          "description": "Induces sweating and releases the exterior to dispel Wind-Cold, relieving the fever and body aches."
+        },
+        {
+          "id": 24179,
+          "pattern_id": 4593,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the channels and assists in releasing the exterior, especially helpful for the stiff neck and headache."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16441,
+          "pattern_id": 4593,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Releases the exterior and disperses Wind-Cold, particularly effective for nasal congestion and headache."
+        },
+        {
+          "id": 16442,
+          "pattern_id": 4593,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Expels Wind and relieves pain, a key point for any exterior pattern to clear the pathogen from the surface."
+        },
+        {
+          "id": 16443,
+          "pattern_id": 4593,
+          "acupoint_code": "BL-12",
+          "acupoint_name": "Fengmen BL-12",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/fengmen-bl-12",
+          "translation": "F&#x113;ng M&#xE9;n",
+          "properties": "Expels Exterior Wind, Strengthens the Defensive Qi",
+          "description": "Dispels Wind and releases the exterior, often used with cupping to draw out the Cold."
+        }
+      ]
+    },
+    {
+      "id": 4594,
+      "condition_id": 931,
+      "pattern_name": "Excess-Heat",
+      "pattern_slug": "excess-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever without any chills\", \"Intense thirst with craving for cold drinks\", \"Red flushed face and eyes\", \"Restlessness and irritability\", \"Profuse sweating\"]",
+      "worse_with": "Spicy food, Alcohol, Hot weather, Stress, Overexertion",
+      "better_with": "Cool environment, Cold drinks, Rest, Light clothing",
+      "why_this_happens": "When pathogenic Heat penetrates deep into the body, it blazes in the Interior, overwhelming the body's cooling systems. This intense internal fire drives the body temperature up, producing a high fever that is not accompanied by chills. The Heat consumes Yin fluids, causing intense thirst, dry mouth, and dark scanty urine, while the excess Yang energy agitates the Heart spirit, leading to restlessness and irritability.",
+      "tongue_and_pulse": "Tongue: red body, possibly with prickly papillae, thick dry yellow coating. Pulse: rapid (Shu) and forceful, often overflowing (Hong) and surging.",
+      "why_triggers_reliefs_work": "Excess-Heat is a blazing internal fire. Cooling measures directly counteract the heat, while spicy food, alcohol, and hot environments add more fuel. Rest prevents agitation of Qi, which can fan the flames, and stress stirs up Liver fire, further increasing internal heat.",
+      "diet_and_lifestyle": "Drink plenty of cooling fluids like chrysanthemum tea, mung bean soup, or watermelon juice. Avoid spicy, greasy, and fried foods that add internal heat. Rest in a cool, well-ventilated room and avoid overexertion.",
+      "formulas": [
+        {
+          "id": 10431,
+          "pattern_id": 4594,
+          "formula_name": "Bai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-tang",
+          "translation": "White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids",
+          "description": "The classic formula to clear Qi-level heat from the Yangming channel, reducing high fever, intense thirst, and profuse sweating."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24180,
+          "pattern_id": 4594,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Clears heat and drains fire, the key herb for high fever and intense thirst."
+        },
+        {
+          "id": 24181,
+          "pattern_id": 4594,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Nourishes Yin and clears heat, assisting Shi Gao to cool internal fire without damaging fluids."
+        },
+        {
+          "id": 24182,
+          "pattern_id": 4594,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heart fire and relieves restlessness, calming the agitation caused by blazing heat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16444,
+          "pattern_id": 4594,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Reduces fever and clears heat from the entire body."
+        },
+        {
+          "id": 16445,
+          "pattern_id": 4594,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears internal heat, especially from the Yangming channel."
+        },
+        {
+          "id": 16446,
+          "pattern_id": 4594,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears Stomach fire and alleviates thirst."
+        }
+      ]
+    },
+    {
+      "id": 4595,
+      "condition_id": 931,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Feeling of heaviness in the body and head, as if wrapped in a cloth\", \"Fever that worsens in the afternoon\", \"Sticky or greasy sensation in the mouth, with a bitter taste\", \"Chest and upper abdominal stuffiness and fullness\", \"Nausea or queasiness, poor appetite\", \"Loose, sticky stools that feel incomplete\", \"Dark, scanty urine\"]",
+      "worse_with": "Damp, humid weather, Greasy, fried, or dairy-rich foods, Overeating or eating late at night, Alcohol and sugary drinks, Sedentary lifestyle",
+      "better_with": "Light, easily digested meals, Warm, dry environment, Gentle movement (walking), Bitter or bland foods (celery, adzuki beans)",
+      "why_this_happens": "Dampness and Heat combine like steam in a closed pot. The Dampness is heavy and sticky, so it traps the Heat inside the body instead of letting it rise and escape. This produces a lingering, low-grade fever that feels heavy and oppressive, not sharp and high like a dry Heat pattern. Because Dampness sinks and clings to the middle and lower body, it also drags down your energy, clouds your head, and upsets your digestion.",
+      "tongue_and_pulse": "Tongue: red body with a yellow, greasy coating that is thickest in the centre and root. Pulse: soggy-rapid (Ru Shu), feeling soft and fine but fast.",
+      "why_triggers_reliefs_work": "Damp-Heat is a sticky, heavy pathogen that thrives in humid environments and feeds on greasy, sweet foods. A warm, dry setting and light, bland meals starve the Dampness and let the Heat dissipate. Gentle movement activates the Spleen Qi to transform and transport fluids, breaking the cycle of stagnation that traps the fever. Overeating and rich foods overwhelm the Spleen, producing more Dampness and smothering the body's cooling mechanisms.",
+      "diet_and_lifestyle": "Avoid cold, raw, greasy, and sweet foods that create more Dampness. Focus on light, cooked meals with aromatic, bitter, or bland ingredients like barley, adzuki beans, celery, and lightly cooked greens. Sip warm fluids like plain congee water or barley tea. Gentle daily movement helps the Qi push out the Dampness, but avoid sweating heavily, which can exhaust the body without clearing the sticky pathogen.",
+      "formulas": [
+        {
+          "id": 10432,
+          "pattern_id": 4595,
+          "formula_name": "San Ren Tang",
+          "formula_url": "/knowledge-base/formulas/san-ren-tang",
+          "translation": "Three-Seed Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Clears Damp-Heat, Promotes Qi Movement in the San Jiao, Transforms Dampness",
+          "description": "The classic formula for Damp-Heat obstructing the San Jiao. It gently diffuses the Lung Qi, transforms Dampness, and promotes urination to clear the low-grade fever and heavy sensation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24183,
+          "pattern_id": 4595,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, especially from the Middle Burner, helping to reduce the fever and sticky mouth."
+        },
+        {
+          "id": 24184,
+          "pattern_id": 4595,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness and clears Heat, relieving the heavy, achy feeling in the limbs and the loose stools."
+        },
+        {
+          "id": 24185,
+          "pattern_id": 4595,
+          "herb_name": "Bai Dou Kou",
+          "herb_url": "/knowledge-base/herbs/bai-dou-kou",
+          "translation": "White Cardamom",
+          "properties": "",
+          "description": "Aromatic and warming, it transforms Dampness and moves Qi, lifting the oppressive chest stuffiness and reviving the appetite."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16447,
+          "pattern_id": 4595,
+          "acupoint_code": "REN-12",
+          "acupoint_name": "Zhongwan REN-12",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/zhongwan-ren-12",
+          "translation": "Zh&#x14D;ng W&#x1CE;n",
+          "properties": "Tonifies the Stomach and strengthens the Spleen, Regulates Qi and remove pain",
+          "description": "Regulates the Stomach and transforms Dampness, easing the nausea and abdominal fullness."
+        },
+        {
+          "id": 16448,
+          "pattern_id": 4595,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "The key point to drain Dampness from the body, reducing the heavy, sluggish feeling and the sticky stools."
+        },
+        {
+          "id": 16449,
+          "pattern_id": 4595,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat and dispels Dampness from the whole body, directly helping to lower the fever."
+        }
+      ]
+    },
+    {
+      "id": 4596,
+      "condition_id": 931,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Low-grade afternoon or evening fever\", \"Night sweats\", \"Heat sensation in palms, soles, and chest\", \"Dry mouth and throat, worse in the evening\", \"Flushed cheekbones (malar flush)\", \"Restlessness and difficulty sleeping\"]",
+      "worse_with": "Overwork and late nights, Spicy, fried, or drying foods, Excessive sweating, Emotional stress and worry, Hot, dry weather",
+      "better_with": "Rest and early nights, Cool, quiet environment, Warm, moistening fluids sipped slowly, Gentle, grounding movement",
+      "why_this_happens": "When the body's cooling, nourishing Yin fluids run low, they can no longer anchor the warm Yang energy. This creates a relative excess of Yang that floats upward and outward like a pilot light that won't go out. The result is a low-grade, lingering heat that feels most pronounced in the afternoon and evening, when Yin is naturally at its weakest, often accompanied by night sweats as the unanchored heat escapes during sleep.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with cracks and little or no coating. Pulse: fine (thin) and rapid, often weak or hollow on deep pressure.",
+      "why_triggers_reliefs_work": "Yin deficiency means the body's cooling reserves are already low. Late nights, overwork, and emotional strain consume Yin further, while spicy foods and hot environments add more heat. Sweating depletes both fluids and Yin, making the internal heat worse. Rest, a cool setting, and moistening foods help preserve and slowly rebuild Yin so that the floating heat can settle back down.",
+      "diet_and_lifestyle": "Prioritize rest and a regular sleep schedule, avoiding late nights that drain Yin further. Eat cooling, moistening foods like pear, lily bulb, black sesame, and tofu; avoid spicy, fried, or drying foods. Sip warm water or herbal teas throughout the day rather than drinking large amounts at once. Gentle practices such as tai chi or restorative yoga help preserve Yin without overheating the body.",
+      "formulas": [
+        {
+          "id": 10433,
+          "pattern_id": 4596,
+          "formula_name": "Qing Hao Bie Jia Tang",
+          "formula_url": "/knowledge-base/formulas/qing-hao-bie-jia-tang",
+          "translation": "Artemisia and Turtle Shell Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Vents Pathogenic Heat Outward",
+          "description": "Clears deficiency heat and nourishes Yin, especially suited for tidal fever and night sweats."
+        },
+        {
+          "id": 10434,
+          "pattern_id": 4596,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Enriches Yin and subdues empty fire, a classic for Yin deficiency with heat signs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24186,
+          "pattern_id": 4596,
+          "herb_name": "Qing Hao",
+          "herb_url": "/knowledge-base/herbs/qing-hao",
+          "translation": "Sweet wormwood",
+          "properties": "",
+          "description": "Clears deficiency heat and cools the blood without damaging Yin."
+        },
+        {
+          "id": 24187,
+          "pattern_id": 4596,
+          "herb_name": "Bie Jia",
+          "herb_url": "/knowledge-base/herbs/bie-jia",
+          "translation": "Turtle shell (Chinese soft-shell turtle carapace)",
+          "properties": "",
+          "description": "Nourishes Yin and anchors floating Yang, calming the low-grade fever."
+        },
+        {
+          "id": 24188,
+          "pattern_id": 4596,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Moistens dryness, clears heat, and gently supports Yin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16450,
+          "pattern_id": 4596,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin at its source to cool the body from below."
+        },
+        {
+          "id": 16451,
+          "pattern_id": 4596,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Clears empty heat and moistens dryness, especially for evening symptoms."
+        },
+        {
+          "id": 16452,
+          "pattern_id": 4596,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Yin production across the Spleen, Liver, and Kidney channels."
+        },
+        {
+          "id": 16453,
+          "pattern_id": 4596,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yin and anchors the root of the body&#x27;s cooling system."
+        }
+      ]
+    },
+    {
+      "id": 4597,
+      "condition_id": 931,
+      "pattern_name": "Qi Deficiency Fever",
+      "pattern_slug": "qi-deficiency-fever",
+      "is_common": 0,
+      "symptoms": "[\"Fever worsens after exertion\", \"Profound fatigue and weakness\", \"Shortness of breath\", \"Spontaneous sweating\", \"Pale or sallow complexion\", \"Loose stools\", \"Reluctance to speak\"]",
+      "worse_with": "Overexertion or long hours, Stress and worry, Raw, cold, or greasy foods, Irregular eating habits, Lack of sleep",
+      "better_with": "Rest and lying down, Warm, light meals, Gentle, consistent movement, Warm drinks",
+      "why_this_happens": "When Spleen Qi is weak, it cannot lift the clear Yang upward to the surface. Instead, the Qi sinks downward, generating a low-grade 'deficiency heat' that feels like fever. Because any physical or mental effort uses up Qi, the fever gets worse after exertion.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with teeth marks and a thin white coating. Pulse: weak (Ruo) and fine (Xi), may feel flooding (Hong) but forceless, especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Exertion and stress consume Qi, deepening the sinking mechanism that generates deficiency heat, so rest and calm are essential. Cold, raw, and greasy foods further weaken Spleen Yang and dampen the middle burner, while warm, easily digested meals gently replenish Qi and allow the clear Yang to rise again. Consistent, mild movement supports Qi circulation without draining it, helping to restore the natural upward lift.",
+      "diet_and_lifestyle": "Eat warm, easily digestible foods like congee, soups, and well-cooked vegetables. Avoid raw, cold, and greasy foods that tax the Spleen. Rest is vital; overexertion will worsen the fever. Gentle daily movement like walking or Tai Chi helps Qi flow without draining it.",
+      "formulas": [
+        {
+          "id": 10435,
+          "pattern_id": 4597,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "The classic formula for Spleen Qi deficiency fever. It raises the clear Yang and tonifies the middle burner, extinguishing the deficiency heat."
+        },
+        {
+          "id": 10436,
+          "pattern_id": 4597,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 10437,
+          "pattern_id": 4597,
+          "formula_name": "Ma Huang Tang",
+          "formula_url": "/knowledge-base/formulas/ma-huang-tang",
+          "translation": "Ephedra Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Descends Lung Qi and Calms Wheezing, Disperses Wind-Cold",
+          "description": "Ma Huang Tang is a classic formula from the Shang Han Lun used to treat the early stages of a cold or flu caused by exposure to cold, particularly when there is no sweating at all, strong chills, body aches, and sometimes wheezing or breathlessness. It works by promoting a gentle sweat to release the cold pathogen from the body surface and by opening the lungs to relieve breathing difficulties. It is best suited for people with a strong constitution during the acute onset of illness."
+        },
+        {
+          "id": 10438,
+          "pattern_id": 4597,
+          "formula_name": "Bai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/bai-hu-tang",
+          "translation": "White Tiger Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cold, Clears Heat from the Qi level, Clears Stomach Heat, Generates Fluids",
+          "description": "A powerful classical formula used to bring down high fever, relieve intense thirst, and restore body fluids when internal Heat has built up strongly in the body. It is one of the most important formulas in Chinese medicine for treating conditions with blazing fever, heavy sweating, and great thirst, such as severe infections, heatstroke, and certain inflammatory conditions."
+        },
+        {
+          "id": 10439,
+          "pattern_id": 4597,
+          "formula_name": "San Ren Tang",
+          "formula_url": "/knowledge-base/formulas/san-ren-tang",
+          "translation": "Three-Seed Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Clears Damp-Heat, Promotes Qi Movement in the San Jiao, Transforms Dampness",
+          "description": "A classical formula designed to clear dampness and mild heat that has become trapped throughout the body, especially when dampness is the dominant problem. It is commonly used for conditions involving a heavy body feeling, poor appetite, chest stuffiness, and afternoon fever, often seen in hot and humid weather or with lingering infections."
+        },
+        {
+          "id": 10440,
+          "pattern_id": 4597,
+          "formula_name": "Qing Hao Bie Jia Tang",
+          "formula_url": "/knowledge-base/formulas/qing-hao-bie-jia-tang",
+          "translation": "Artemisia and Turtle Shell Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Vents Pathogenic Heat Outward",
+          "description": "A classical formula for lingering low-grade fevers that come on at night and ease by morning, especially after a prolonged illness. It works by nourishing the body&#x27;s depleted fluids (Yin) while gently venting trapped heat outward, addressing the root cause of the fever rather than just suppressing symptoms."
+        },
+        {
+          "id": 10441,
+          "pattern_id": 4597,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 10442,
+          "pattern_id": 4597,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 24189,
+          "pattern_id": 4597,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and raises the clear Yang to stop the sinking that creates deficiency heat."
+        },
+        {
+          "id": 24190,
+          "pattern_id": 4597,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Strengthens the middle burner and supports Qi production, reducing fatigue."
+        },
+        {
+          "id": 24191,
+          "pattern_id": 4597,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 24192,
+          "pattern_id": 4597,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 24193,
+          "pattern_id": 4597,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 24194,
+          "pattern_id": 4597,
+          "herb_name": "Ma Huang",
+          "herb_url": "/knowledge-base/herbs/ma-huang",
+          "translation": "Ephedra stem",
+          "properties": "Warm, Induces Sweating and Releases the Exterior, Disperses Wind-Cold, Descends Lung Qi and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 24195,
+          "pattern_id": 4597,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 24196,
+          "pattern_id": 4597,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 24197,
+          "pattern_id": 4597,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 24198,
+          "pattern_id": 4597,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 24199,
+          "pattern_id": 4597,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 24200,
+          "pattern_id": 4597,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 24201,
+          "pattern_id": 4597,
+          "herb_name": "Bai Dou Kou",
+          "herb_url": "/knowledge-base/herbs/bai-dou-kou",
+          "translation": "White Cardamom",
+          "properties": "Warm, Transforms Dampness and Moves Qi, Warms the Middle Burner and Stops Vomiting, Opens the Stomach and promotes digestion",
+          "description": ""
+        },
+        {
+          "id": 24202,
+          "pattern_id": 4597,
+          "herb_name": "Qing Hao",
+          "herb_url": "/knowledge-base/herbs/qing-hao",
+          "translation": "Sweet wormwood",
+          "properties": "Cold, Clears Deficiency Heat, Cools the Blood and eliminates steaming bone disorder, Clears Summer-Heat",
+          "description": ""
+        },
+        {
+          "id": 24203,
+          "pattern_id": 4597,
+          "herb_name": "Bie Jia",
+          "herb_url": "/knowledge-base/herbs/bie-jia",
+          "translation": "Turtle shell (Chinese soft-shell turtle carapace)",
+          "properties": "Cool, Nourishes Yin and Subdues Yang, Clears Deficiency Heat and Reduces Steaming Bone Disorder, Dissipates Nodules and Softens Hardness",
+          "description": ""
+        },
+        {
+          "id": 24204,
+          "pattern_id": 4597,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 24205,
+          "pattern_id": 4597,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 16454,
+          "pattern_id": 4597,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen Qi and strengthens the body&#x27;s overall vitality."
+        },
+        {
+          "id": 16455,
+          "pattern_id": 4597,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Lifts the sinking Yang and helps clear the deficiency heat."
+        },
+        {
+          "id": 16456,
+          "pattern_id": 4597,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Reinforces the source of Qi to anchor the Yang."
+        },
+        {
+          "id": 16457,
+          "pattern_id": 4597,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Directly tonifies the Spleen to address the root deficiency."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 6047,
+      "condition_id": 931,
+      "question": "Can TCM help with a high fever or should I go to the hospital?",
+      "answer": "High fever with severe symptoms like stiff neck, confusion, or difficulty breathing requires immediate emergency care. TCM can support recovery after the acute crisis is managed, but it is not a substitute for urgent medical treatment. For moderate fevers without red-flag symptoms, TCM can be very effective when started early."
+    },
+    {
+      "id": 6048,
+      "condition_id": 931,
+      "question": "How does TCM treat a fever without using cooling drugs?",
+      "answer": "Instead of simply suppressing the temperature, TCM herbs work by addressing the underlying pattern. For a Wind-Heat invasion, cooling, dispersing herbs like Jin Yin Hua and Lian Qiao release the exterior and clear heat. For Wind-Cold, warm pungent herbs like Ma Huang promote sweating to push the pathogen out. The goal is to restore balance, not just lower the thermometer."
+    },
+    {
+      "id": 6049,
+      "condition_id": 931,
+      "question": "Will acupuncture help bring down a fever?",
+      "answer": "Yes, acupuncture can be very useful for fever, especially in the early stages. Points like Dazhui (DU-14) and Hegu (LI-4) are commonly used to release the exterior and clear heat. For acute fevers, treatment may be daily until the fever breaks; for chronic low-grade fevers, weekly sessions are typical."
+    },
+    {
+      "id": 6050,
+      "condition_id": 931,
+      "question": "Can I take TCM herbs alongside ibuprofen or acetaminophen?",
+      "answer": "Generally yes, but they should be taken at least 1-2 hours apart to avoid digestive overlap. Always inform both your TCM practitioner and your doctor about all medications you are taking. Do not stop prescribed medications without medical guidance."
+    },
+    {
+      "id": 6051,
+      "condition_id": 931,
+      "question": "Why does my fever come back every afternoon?",
+      "answer": "An afternoon rise in temperature is a classic sign in TCM of either Damp-Heat or Yin Deficiency. Damp-Heat creates a heavy, sticky fever that worsens as the day progresses, while Yin Deficiency causes a low-grade heat that flares in the afternoon and evening, often with night sweats. A TCM practitioner can differentiate these through your tongue and pulse and provide targeted treatment."
+    },
+    {
+      "id": 6052,
+      "condition_id": 931,
+      "question": "Is it safe to use TCM for my child's fever?",
+      "answer": "Yes, TCM can be safely used for children, with dosages adjusted for age and weight. Pediatric fevers often respond quickly to gentle herbal formulas. However, children can deteriorate rapidly, so always monitor them closely and seek urgent care if warning signs appear. Consult a qualified TCM pediatric practitioner."
+    },
+    {
+      "id": 6053,
+      "condition_id": 931,
+      "question": "How long does it take for TCM to work on a fever?",
+      "answer": "That depends on the pattern. Acute external fevers may break within 24-48 hours of starting herbs. Chronic low-grade fevers take longer - often 2-4 weeks to notice improvement, with full resolution over months. Your practitioner will give you a realistic timeline based on your specific pattern."
+    }
+  ],
+  "research": [
+    {
+      "id": 1415,
+      "condition_id": 931,
+      "title": "Fever and Antipyretic Supported by Traditional Chinese Medicine: A Multi-Pathway Regulation",
+      "description": "This review summarizes the mechanisms by which TCM herbs and formulas exert antipyretic effects, including regulation of prostaglandin E2, modulation of inflammatory cytokines, and influence on thermoregulatory centers in the hypothalamus. It highlights the multi-target nature of TCM interventions for fever.",
+      "url": "",
+      "periodical": "Li, S., et al. (2021). Fever and Antipyretic Supported by Traditional Chinese Medicine: A Multi-Pathway Regulation. Frontiers in Pharmacology, 12, 802059."
+    },
+    {
+      "id": 1416,
+      "condition_id": 931,
+      "title": "Chinese herbal medicine for acute respiratory tract infections",
+      "description": "A Cochrane systematic review evaluating the effectiveness and safety of Chinese herbal medicine for acute respiratory tract infections. The review found that certain herbal preparations may reduce fever duration and improve symptoms, but the overall evidence was limited by the quality of included trials.",
+      "url": "",
+      "periodical": "Liu, J., et al. (2013). Chinese herbal medicine for acute respiratory tract infections. Cochrane Database of Systematic Reviews, Issue 2. Art. No.: CD004876."
+    }
+  ]
+}

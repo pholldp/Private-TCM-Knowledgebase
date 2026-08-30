@@ -1,0 +1,673 @@
+{
+  "id": 1386,
+  "name": "ความต้านทานต่ออินซูลิน",
+  "url": "/knowledge-base/conditions/insulin-resistance",
+  "kind": "Condition",
+  "pinyin": "pí dān",
+  "chinese_name": "脾瘅",
+  "preview_text": "ในการแพทย์แผนจีน การดื้อต่ออินซูลินเป็นเรื่องราวของความผิดปกติของม้าม ไม่ใช่แค่อินซูลินเท่านั้น ด้วยการระบุว่าความชื้น ความร้อน ความเครียด หรือการขาดอย่างล้ำลึกเป็นแรงผลักดัน สาเหตุการรักษา...",
+  "categories": "[\"สภาวะต่อมไร้ท่อและเมตาบอลิซึม\", \"โรคเบาหวาน\"]",
+  "body_regions": "[]",
+  "synonyms": "[]",
+  "conventional_description": "Insulin resistance occurs when the body's cells become less responsive to insulin, the hormone that helps move glucose from the blood into cells for energy. To compensate, the pancreas produces more insulin, leading to chronically high insulin levels. Over time, this can raise blood sugar and progress to prediabetes or type 2 diabetes.\nCommon symptoms include fatigue, weight gain - especially around the abdomen - difficulty losing weight, skin tags, and darkened patches of skin (acanthosis nigricans). Diagnosis is often made through fasting insulin levels, the HOMA-IR calculation, or an oral glucose tolerance test.",
+  "conventional_treatments": "Standard treatment focuses on lifestyle modifications - a diet low in refined carbohydrates and sugars, regular exercise, and weight loss. When these measures aren't enough, metformin is commonly prescribed to improve insulin sensitivity. Other medications, such as thiazolidinediones or GLP-1 agonists, may be added in more advanced cases.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands insulin resistance primarily as a disorder of the Spleen and Stomach. The Spleen is responsible for transforming food into Qi and managing the body's fluids. When it is overwhelmed by a long-term diet of rich, sweet, and greasy foods, it becomes bogged down and fails to transport and transform. This leads to the accumulation of Dampness - a heavy, sticky pathological factor that slows metabolism and creates the bloating, fatigue, and heaviness so common in insulin resistance.\nThe classic sign of this condition is a sweet or sticky taste in the mouth, which TCM calls 'spleen heat' or 'spleen dan'. When Dampness persists, it can generate Heat, creating an inflammatory, Damp-Heat pattern that further gums up the digestive engine. Emotional stress adds another layer: the Liver governs the smooth flow of Qi, and when it becomes stagnant, it disrupts the Spleen's function while also generating its own heat, leading to a complex mix of stagnation, deficiency, and heat.\nOver time, if the Spleen remains weak, it can fail to generate enough Qi and warmth, eventually draining the Kidneys - the root of metabolic fire. This leads to a deeper Spleen and Kidney Qi Deficiency pattern with coldness and fluid stagnation. In other cases, the smoldering heat consumes Yin fluids, resulting in a Qi and Yin Deficiency pattern marked by thirst, night sweats, and a dry mouth. This is why one Western diagnosis can have multiple TCM causes: the same metabolic endpoint can arise from dampness, heat, stress, or deficiency, and each needs its own treatment.",
+  "classical_quote": "「帝曰：有病口甘者，病名为何？何以得之？岐伯曰：此五气之溢也，名曰脾瘅。」",
+  "classical_translation": "\"The Emperor asked: 'There is a disease where the mouth tastes sweet. What is it called, and how is it acquired?' Qibo answered: 'This is an overflow of the five Qi. It is called Spleen Heat (脾瘅).' This is the earliest classical description of insulin resistance, linking sweet taste in the mouth to Spleen dysfunction caused by overconsumption of rich foods.\"",
+  "classical_source": "黄帝内经 (Huáng Dì Nèi Jīng) - 素问 (Sù Wèn)  ,  Chapter 47, Discourse on Extraordinary Diseases (奇病论) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by exploring your digestion, energy, and any unusual tastes in your mouth. Insulin resistance (脾瘅, pí dān) is seen as a spleen that has become bogged down by rich foods and stress, failing to move and transform fluids. The practitioner will ask whether you feel bloated or heavy after eating, how your bowel movements are, and whether you notice a sweet or sticky taste. These answers, together with your tongue and pulse, point to the pattern behind the metabolic congestion.\nIf your main complaints are fatigue, a heavy sensation in the body, loose stools, and a puffy tongue with a white coating, the pattern is Spleen Deficiency with Dampness. This is the most common root pattern. The spleen is too weak to manage moisture, so dampness accumulates. The sweet taste in the mouth is often mild, and thirst is not a big issue. The pulse feels weak and soft.\nWhen the picture includes a more pronounced sweet or sticky taste, thirst, a feeling of heat in the stomach, and a yellow, greasy tongue coating, Damp-Heat in the Stomach and Spleen is present. Here, the dampness has generated heat, leading to inflammation and sluggish metabolism. You might also experience irritability, bad breath, or sticky bowel movements. The pulse is usually rapid and slippery.\nIf stress or emotional frustration clearly triggers your digestive symptoms, and you have rib-side distension, alternating constipation and loose stools, and a wiry pulse, the pattern is Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat. The tongue may be red on the sides with a thin yellow coating. The internal heat can cause dry mouth, a bitter taste, or night sweats.\nIn more advanced cases, the practitioner checks for signs of deeper depletion: Spleen and Kidney Qi Deficiency brings lower back soreness, cold limbs, and frequent urination, while Qi and Yin Deficiency leads to marked thirst, dry mouth, and a red tongue with little coating. These patterns indicate the body's reserves are draining.",
+  "patterns": [
+    {
+      "id": 6808,
+      "condition_id": 1386,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Abdominal bloating, worse after eating\", \"Loose or unformed stools\", \"Heavy, dragging sensation in the limbs\", \"Sticky or sweet taste in the mouth\", \"Poor appetite and fatigue\"]",
+      "worse_with": "Cold, raw, or greasy foods, Overeating or skipping meals, Damp, humid weather, Sedentary lifestyle",
+      "better_with": "Warm, easily digestible meals, Gentle exercise or movement, Warm ginger tea",
+      "why_this_happens": "When the Spleen's ability to transform food into energy weakens, it fails to manage fluids properly, allowing Dampness to accumulate in the body. This heavy, sticky Dampness clogs the middle burner, slowing metabolism and causing the hallmark bloating, fatigue, and heaviness of insulin resistance. Over time, this stagnation makes cells less responsive to the body's signals, mirroring the metabolic gridlock of insulin resistance.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with teeth marks, white greasy coating, moist surface. Pulse: soggy (Ru) and slowed-down (Huan), soft and lacking force, especially at the right Guan position.",
+      "why_triggers_reliefs_work": "Cold and raw foods damage the Spleen's warming digestive fire, allowing Dampness to build up. Overeating overwhelms an already weak Spleen, while damp environments add external moisture to an already waterlogged system. Warm, cooked foods and gentle movement, on the other hand, support the Spleen's transformation and transport, helping to dry out Dampness and restore metabolic flow.",
+      "diet_and_lifestyle": "Favor warm, cooked foods like soups, stews, and congees. Minimize cold, raw, and greasy items that chill the Spleen and generate Dampness. A short walk after meals helps Qi move, preventing that heavy, post-meal slump.",
+      "formulas": [
+        {
+          "id": 15489,
+          "pattern_id": 6808,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "The primary formula to strengthen the Spleen, leach out Dampness, and stop loose stools, restoring the middle burner&#x27;s transport function."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35659,
+          "pattern_id": 6808,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and dries Dampness, the core herb for this pattern."
+        },
+        {
+          "id": 35660,
+          "pattern_id": 6808,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Gently leaches out Dampness and strengthens the Spleen without being overly drying."
+        },
+        {
+          "id": 35661,
+          "pattern_id": 6808,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness and supports the Spleen, especially helpful for heavy limbs and loose stools."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24312,
+          "pattern_id": 6808,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The master point to tonify Spleen and Stomach Qi, improving digestion and energy."
+        },
+        {
+          "id": 24313,
+          "pattern_id": 6808,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen, resolves Dampness, and supports fluid metabolism."
+        },
+        {
+          "id": 24314,
+          "pattern_id": 6808,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-Shu point of the Spleen, directly strengthens Spleen function to transform Dampness."
+        }
+      ]
+    },
+    {
+      "id": 6809,
+      "condition_id": 1386,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Bitter or sticky taste in the mouth\", \"Bloating and fullness in the upper abdomen\", \"Stools that feel sticky and incomplete\", \"Thirst with little desire to drink\", \"Heavy, foggy sensation in the head\", \"Dark yellow, scanty urine\"]",
+      "worse_with": "Greasy, fried, or fatty foods, Alcohol and sugary drinks, Overeating or skipping meals, Damp, humid weather, Sedentary lifestyle",
+      "better_with": "Light, cooling foods (e.g., mung beans, bitter greens), Gentle exercise or movement, Cool, dry weather, Avoiding damp, humid environments",
+      "why_this_happens": "Insulin resistance in this pattern starts with a long-term diet rich in fatty, sweet, or greasy foods that overwhelms the Spleen and Stomach. The Spleen fails to transform and transport, so fluids and food essence stagnate, generating Dampness. Over time, that Dampness smolders into Heat, creating a sticky, turbid Damp-Heat that clogs the middle burner. This metabolic gridlock directly impairs the body's ability to use glucose, leading to the high circulating sugar and insulin resistance characteristic of 脾瘅.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen with teeth marks, with a thick yellow greasy coating especially in the centre and root. Pulse: soggy (Ru), rapid (Shu), and often slippery (Hua), most noticeable at the right Guan position.",
+      "why_triggers_reliefs_work": "Damp-Heat in the Stomach and Spleen is directly fed by heavy, greasy, and sweet foods that the Spleen cannot process, turning into more Dampness and Heat. A sedentary lifestyle and humid surroundings further bog down the Spleen's ability to move and transform. Light, cooling foods reduce Heat and gently drain Dampness without burdening digestion, while regular movement activates the Spleen's Qi and accelerates the clearance of Damp-Heat, helping to restore normal glucose metabolism.",
+      "diet_and_lifestyle": "Avoid rich, greasy, fried, and sugary foods that fuel Dampness and Heat. Limit alcohol and dairy. Build meals around lightly cooked vegetables, whole grains, and legumes - bitter melon, celery, cucumber, and mung beans are especially helpful. Eat at regular times and stop before you feel completely full. Gentle daily movement like walking or yoga helps Qi flow and clears Dampness.",
+      "formulas": [
+        {
+          "id": 15490,
+          "pattern_id": 6809,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "Clears Heat and dries Dampness from the Stomach and Spleen, especially when there is nausea, sticky taste, and upper abdominal bloating."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35662,
+          "pattern_id": 6809,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Bitter cold to clear Stomach Heat and dry Dampness."
+        },
+        {
+          "id": 35663,
+          "pattern_id": 6809,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Aromatic, dries Dampness and moves Qi to relieve bloating and fullness."
+        },
+        {
+          "id": 35664,
+          "pattern_id": 6809,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms phlegm, stops nausea and heaviness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24315,
+          "pattern_id": 6809,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Regulates the Stomach and Spleen, strengthens transformation and resolves Dampness."
+        },
+        {
+          "id": 24316,
+          "pattern_id": 6809,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Major point for draining Dampness, especially from the lower burner."
+        },
+        {
+          "id": 24317,
+          "pattern_id": 6809,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears Stomach Heat, reduces bad breath and excessive appetite."
+        },
+        {
+          "id": 24318,
+          "pattern_id": 6809,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms Dampness and Phlegm, clears Heat, and lightens the heavy head sensation."
+        }
+      ]
+    },
+    {
+      "id": 6810,
+      "condition_id": 1386,
+      "pattern_name": "Liver Qi Stagnation with Spleen Qi Deficiency that transforms into Heat",
+      "pattern_slug": "liver-qi-stagnation-with-spleen-qi-deficiency-that-transforms-into-heat",
+      "is_common": 0,
+      "symptoms": "[\"Distending or wandering pain along the ribs, worse with stress\", \"Bloating and loose stools after meals\", \"Irritability and quick temper\", \"Bitter taste in the mouth\", \"Frequent sighing\", \"Sensation of heat in the chest or face\"]",
+      "worse_with": "Emotional stress or frustration, Greasy, fried, or fatty foods, Spicy or heating foods and alcohol, Overeating or skipping meals, Overwork and stress",
+      "better_with": "Rest and relaxation, Warm, easily digestible meals, Gentle exercise or movement, Regular meal times, Avoiding alcohol and spicy foods",
+      "why_this_happens": "The Liver governs the smooth flow of Qi. When emotional stress and frustration build, Liver Qi stagnates and begins to disrupt the Spleen’s ability to transform food and fluids. Over time this stuck Qi generates heat, and the combination of a weakened Spleen and internal heat creates dampness and metabolic congestion in the middle burner - the hallmark of insulin resistance (脾瘅). The heat component also drives the bitter taste, dry mouth, and sensation of warmth in the chest or face that are characteristic of this pattern.",
+      "tongue_and_pulse": "Tongue: red body with redder sides, teeth marks, thin to moderately thick yellow and slightly greasy coating. Pulse: wiry (xian) and rapid, especially wiry at the left Guan (Liver) position.",
+      "why_triggers_reliefs_work": "Emotional stress directly congests Liver Qi, causing it to stagnate and generate heat; this in turn weakens the Spleen’s ability to process food and fluids, leading to the bloating, loose stools, and metabolic stagnation typical of insulin resistance. Greasy and spicy foods further burden the Spleen and add heat, while cold or raw foods dampen digestive fire. Warm, regular meals and gentle movement support Spleen Qi and promote the free flow of Liver Qi, breaking the cycle of stagnation and heat that drives this pattern.",
+      "diet_and_lifestyle": "Prioritize stress management through meditation, deep breathing, or gentle yoga. Eat regular, warm meals and avoid cold, raw, greasy, or spicy foods that burden the Spleen and add heat. Gentle daily movement like walking helps Qi flow without overexertion.",
+      "formulas": [
+        {
+          "id": 15491,
+          "pattern_id": 6810,
+          "formula_name": "Jia Wei Xiao Yao San",
+          "formula_url": "/knowledge-base/formulas/jia-wei-xiao-yao-san",
+          "translation": "Augmented Free and Easy Wanderer Powder &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Slightly Cool, Courses the Liver and Resolves Constraint, Clears Heat from the Liver and Blood, Nourishes Blood",
+          "description": "The primary formula to soothe Liver Qi, strengthen the Spleen, and clear stagnant heat. It is a modification of Xiao Yao San with Mu Dan Pi and Zhi Zi added to address the heat transformation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35665,
+          "pattern_id": 6810,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes Liver Qi and relieves stagnation, the key herb for emotional constraint."
+        },
+        {
+          "id": 35666,
+          "pattern_id": 6810,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears heat from the Liver and drains fire, addressing the bitter taste and irritability."
+        },
+        {
+          "id": 35667,
+          "pattern_id": 6810,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, restoring digestive function."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24319,
+          "pattern_id": 6810,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Spreads Liver Qi and calms the mind."
+        },
+        {
+          "id": 24320,
+          "pattern_id": 6810,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Strengthens the Spleen and resolves dampness."
+        },
+        {
+          "id": 24321,
+          "pattern_id": 6810,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Clears Liver fire and heat."
+        }
+      ]
+    },
+    {
+      "id": 6811,
+      "condition_id": 1386,
+      "pattern_name": "Spleen and Kidney Qi Deficiency",
+      "pattern_slug": "spleen-and-kidney-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Lower back and knee soreness or weakness\", \"Frequent urination, especially at night\", \"Cold hands and feet\", \"Chronic fatigue and low stamina\", \"Pale, swollen tongue with teeth marks\"]",
+      "worse_with": "Overwork and stress, Cold, raw, or greasy foods, Exposure to cold environments",
+      "better_with": "Rest and relaxation, Warm, easily digestible meals, Gentle exercise or movement",
+      "why_this_happens": "When Spleen Qi remains weak for a long time, it fails to generate the Qi and warmth the body needs. This eventually drains the Kidneys, which are the root of all metabolic fire. Without enough Kidney Qi to drive transformation, fluids and food essence stagnate into dampness and phlegm, and the body loses its ability to properly use glucose. The result is a slow, deep metabolic sluggishness that shows up as insulin resistance, marked by profound fatigue, coldness, and frequent urination rather than obvious heat or thirst.",
+      "tongue_and_pulse": "Tongue: pale and swollen with tooth marks, white moist or slippery coating. Pulse: deep, weak, and fine; especially weak at the right Guan (Spleen) and both Chi (Kidney) positions.",
+      "why_triggers_reliefs_work": "Spleen and Kidney Qi are easily depleted by overwork, stress, and cold, because the body must burn its foundational energy to cope. Raw and cold foods directly damage the Spleen's digestive fire, while heavy meals overwhelm its already weak transport capacity. Rest, warmth, and gentle movement conserve Qi and gently stimulate its flow, allowing the Spleen and Kidney to slowly rebuild the metabolic warmth needed to transform food and fluids efficiently.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congees to support Spleen Yang. Include kidney-nourishing foods such as black beans, walnuts, and small amounts of lamb or bone broth. Avoid cold, raw, and greasy foods that further burden the Spleen. Gentle daily movement - walking or qigong - builds Qi without exhausting it. Prioritize rest and keep the low back warm.",
+      "formulas": [
+        {
+          "id": 15492,
+          "pattern_id": 6811,
+          "formula_name": "Fu Zi Li Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/fu-zi-li-zhong-tang",
+          "translation": "Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner",
+          "description": "Warms and tonifies Spleen and Kidney Qi, dispels cold, and restores metabolic drive in deficiency-cold patterns."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35668,
+          "pattern_id": 6811,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Spleen Qi and raises the body&#x27;s overall energy, improving glucose utilization."
+        },
+        {
+          "id": 35669,
+          "pattern_id": 6811,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Strengthens Kidney Qi and Yang, easing lower back weakness and supporting fluid metabolism."
+        },
+        {
+          "id": 35670,
+          "pattern_id": 6811,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "",
+          "description": "Tonifies both Spleen and Kidney Qi while gently astringing essence, helping to reduce frequent urination."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24322,
+          "pattern_id": 6811,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Spleen and Stomach Qi, the foundation for energy and blood production."
+        },
+        {
+          "id": 24323,
+          "pattern_id": 6811,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and strengthens the low back, addressing the root deficiency."
+        },
+        {
+          "id": 24324,
+          "pattern_id": 6811,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Fortifies the body&#x27;s original Qi, warming and invigorating the lower burner."
+        }
+      ]
+    },
+    {
+      "id": 6812,
+      "condition_id": 1386,
+      "pattern_name": "Qi and Yin Deficiency",
+      "pattern_slug": "qi-and-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and weakness\", \"Dry mouth with little desire to drink\", \"Night sweats\", \"Warm sensation in palms, soles, and chest\", \"Shortness of breath on exertion\", \"Heart palpitations\"]",
+      "worse_with": "Overwork and stress, Spicy, greasy, or drying foods, Hot, dry weather, Excessive sweating or dehydration, Emotional stress or frustration",
+      "better_with": "Rest and relaxation, Cool, moist environment, Nourishing, easy-to-digest foods like congee, Gentle exercise or movement, Hydration with warm fluids",
+      "why_this_happens": "When the Spleen is weakened by years of rich food and stress, it fails to produce Qi and transform fluids. The resulting damp-heat gradually burns up Yin fluids, leaving both Qi and Yin depleted. This dual deficiency weakens the body's ability to regulate metabolism, leading to the fatigue, thirst, and wasting tendency seen as insulin resistance progresses toward diabetes.",
+      "tongue_and_pulse": "Tongue: red or pale-red body with thin or absent coating, dry surface, possibly cracked. Pulse: fine (thin) and weak, often rapid.",
+      "why_triggers_reliefs_work": "Qi and Yin are easily depleted by overexertion, stress, and heat. Rest and nourishing foods replenish them, while spicy and drying foods further consume Yin. Gentle exercise moves Qi without draining it, and a cool environment prevents sweating that would waste precious fluids. Hydration and moistening foods directly support the body's Yin, helping to restore balance.",
+      "diet_and_lifestyle": "Eat warm, easily digestible, moistening foods like congee, steamed vegetables, and soups. Avoid spicy, greasy, or drying foods that further consume Yin. Stay hydrated and rest adequately; gentle daily walks help Qi flow without depleting it.",
+      "formulas": [
+        {
+          "id": 15493,
+          "pattern_id": 6812,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "Nourishes Qi and Yin, stops sweating, and strengthens the body&#x27;s energy and fluids, addressing the root deficiency in insulin resistance progression."
+        },
+        {
+          "id": 15494,
+          "pattern_id": 6812,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 15495,
+          "pattern_id": 6812,
+          "formula_name": "Lian Po Yin",
+          "formula_url": "/knowledge-base/formulas/lian-po-yin",
+          "translation": "Coptis and Magnolia Bark Drink &#xB7; Q&#x12B;ng dynasty, 1838 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Regulates Qi and Harmonizes the Middle Burner, Dries Dampness",
+          "description": "A classical formula for treating acute digestive upsets caused by a combination of Dampness and Heat lodging in the Stomach and intestines. It addresses simultaneous vomiting and diarrhea, a feeling of fullness and stuffiness in the chest and upper abdomen, irritability, and dark scanty urine, particularly during hot and humid seasons."
+        },
+        {
+          "id": 15496,
+          "pattern_id": 6812,
+          "formula_name": "Jia Wei Xiao Yao San",
+          "formula_url": "/knowledge-base/formulas/jia-wei-xiao-yao-san",
+          "translation": "Augmented Free and Easy Wanderer Powder &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Slightly Cool, Courses the Liver and Resolves Constraint, Clears Heat from the Liver and Blood, Nourishes Blood",
+          "description": "A widely used classical formula for emotional stress, irritability, and hormonal imbalances. It soothes the Liver, clears internal heat from pent-up frustration, strengthens digestion, and nourishes the Blood. It is especially valued for menstrual irregularities, menopausal symptoms, anxiety, and mood swings that arise from a combination of stress and underlying weakness."
+        },
+        {
+          "id": 15497,
+          "pattern_id": 6812,
+          "formula_name": "Fu Zi Li Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/fu-zi-li-zhong-tang",
+          "translation": "Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner",
+          "description": "A warming formula used to strengthen the digestive system and restore warmth to the body. It is used for people who feel deeply cold in the abdomen, experience chronic loose stools or diarrhea, vomiting, poor appetite, and cold hands and feet caused by severe weakness and cold in the Spleen, Stomach, and Kidneys."
+        },
+        {
+          "id": 15498,
+          "pattern_id": 6812,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 35671,
+          "pattern_id": 6812,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Qi and raises energy, addressing the deep fatigue."
+        },
+        {
+          "id": 35672,
+          "pattern_id": 6812,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Nourishes Stomach Yin and generates fluids, relieving dry mouth and thirst."
+        },
+        {
+          "id": 35673,
+          "pattern_id": 6812,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "",
+          "description": "Astringes sweat and preserves Yin, calming palpitations and night sweats."
+        },
+        {
+          "id": 35674,
+          "pattern_id": 6812,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 35675,
+          "pattern_id": 6812,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 35676,
+          "pattern_id": 6812,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 35677,
+          "pattern_id": 6812,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 35678,
+          "pattern_id": 6812,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 35679,
+          "pattern_id": 6812,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 35680,
+          "pattern_id": 6812,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 35681,
+          "pattern_id": 6812,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 35682,
+          "pattern_id": 6812,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 35683,
+          "pattern_id": 6812,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        },
+        {
+          "id": 35684,
+          "pattern_id": 6812,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "Neutral, Benefits Qi and Nourishes Yin, Tonifies the Spleen and nourishes the Stomach, Clears Lung Heat and Generates Fluids",
+          "description": ""
+        },
+        {
+          "id": 35685,
+          "pattern_id": 6812,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 35686,
+          "pattern_id": 6812,
+          "herb_name": "Wu Wei Zi",
+          "herb_url": "/knowledge-base/herbs/wu-wei-zi",
+          "translation": "Schisandra berry",
+          "properties": "Warm, Astringes the Lungs and Stops Cough, Astringes and Secures Essence, Tonifies Qi and generates fluids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 24325,
+          "pattern_id": 6812,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens Spleen Qi and supports energy production."
+        },
+        {
+          "id": 24326,
+          "pattern_id": 6812,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and harmonizes the Spleen, Liver, and Kidney."
+        },
+        {
+          "id": 24327,
+          "pattern_id": 6812,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonifies Kidney Yin to anchor fluids and cool empty heat."
+        },
+        {
+          "id": 24328,
+          "pattern_id": 6812,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Directly tonifies Spleen Qi and helps restore metabolic function."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 9002,
+      "condition_id": 1386,
+      "question": "Can acupuncture really help with insulin resistance?",
+      "answer": "Yes, acupuncture can be an effective part of a TCM treatment plan for insulin resistance. It works by regulating the Spleen and Stomach meridians, reducing Dampness, and calming the nervous system. Points like Zusanli ST-36 and Sanyinjiao SP-6 are frequently used to strengthen digestion and improve metabolic function. Many patients report feeling lighter and more energetic after a few sessions, although lasting metabolic changes require consistent treatment over weeks or months."
+    },
+    {
+      "id": 9003,
+      "condition_id": 1386,
+      "question": "How long does it take to see results?",
+      "answer": "Results vary by pattern and severity. Excess patterns (Damp-Heat, Liver stagnation) often respond within 4-8 weeks. Deficiency patterns (Spleen-Kidney, Qi-Yin) may take 3-6 months. The first signs of progress are usually less bloating, better energy, and more regular bowel movements. Blood markers like fasting insulin or HOMA-IR typically shift later, so patience is key."
+    },
+    {
+      "id": 9004,
+      "condition_id": 1386,
+      "question": "Do I need to change my diet?",
+      "answer": "Yes - dietary changes are central to TCM treatment for insulin resistance. The Spleen thrives on warm, cooked, easy-to-digest foods and struggles with cold, raw, greasy, or sugary items. Your practitioner will give specific guidance based on your pattern, but broadly you'll be advised to avoid dairy, sugar, and heavy fried foods while favoring soups, congees, and lightly steamed vegetables."
+    },
+    {
+      "id": 9005,
+      "condition_id": 1386,
+      "question": "Can I take Chinese herbs alongside metformin?",
+      "answer": "In most cases, yes - but it must be done under professional supervision. Some TCM herbs, such as Huang Lian (Coptis), have glucose-lowering effects, so combining them with metformin could increase the risk of hypoglycemia. Always inform both your TCM practitioner and your prescribing doctor about all medications and supplements you're taking so dosages can be adjusted safely."
+    },
+    {
+      "id": 9006,
+      "condition_id": 1386,
+      "question": "What does the sweet taste in my mouth mean?",
+      "answer": "In TCM, a persistent sweet or sticky taste in the mouth is a classic sign of Spleen heat or Damp-Heat - a core feature of the condition called 'spleen dan' (脾瘅). It indicates that the Spleen is overloaded and struggling to manage fluids, allowing Dampness to accumulate and generate heat. Addressing the underlying pattern usually resolves this symptom as digestion improves."
+    },
+    {
+      "id": 9007,
+      "condition_id": 1386,
+      "question": "Is TCM safe for prediabetes?",
+      "answer": "Yes, TCM is generally safe for prediabetes when delivered by a qualified practitioner. It offers a holistic approach that can complement lifestyle changes and medical monitoring. However, if you are on medication, work closely with your doctor to monitor blood sugar, as TCM treatment may enhance insulin sensitivity and require medication adjustments."
+    }
+  ],
+  "research": []
+}

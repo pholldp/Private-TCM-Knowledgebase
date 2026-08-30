@@ -1,0 +1,830 @@
+{
+  "id": 99,
+  "name": "โรคพาร์กินสัน",
+  "url": "/knowledge-base/conditions/parkinsons-disease",
+  "kind": "Condition",
+  "pinyin": "chàn zhèng",
+  "chinese_name": "颤证",
+  "preview_text": "คุณภาพของแรงสั่นสะเทือนของคุณ - ไม่ว่าจะหยาบและรุนแรง หรือละเอียดและอ่อนแอ - เป็นสัญญาณแรกของรูปแบบ TCM ของคุณ และการรักษาที่มุ่งเป้าไปที่รากนี้มักจะสามารถลดอาการสั่นได้...",
+  "categories": "[\"ภาวะสมองและระบบประสาท\", \"การสูงวัยและสุขภาพผู้สูงอายุ\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Parkinson's disease (early or mild stages)\"]",
+  "conventional_description": "Parkinson's disease is a progressive neurodegenerative disorder that primarily affects movement. It is characterized by tremor at rest, rigidity, slowness of movement (bradykinesia), and postural instability. The underlying cause is the loss of dopamine-producing neurons in the substantia nigra region of the brain, though the exact trigger remains unclear.\nDiagnosis is based on clinical examination and history, often supported by response to dopaminergic medications. Symptoms typically begin gradually and worsen over time, and non-motor symptoms such as sleep disturbances, mood changes, and cognitive decline are also common.",
+  "conventional_treatments": "Conventional treatment focuses on replenishing dopamine or mimicking its effects. The mainstay is levodopa (often combined with carbidopa), which the brain converts to dopamine. Other medications include dopamine agonists (e.g., pramipexole, ropinirole), MAO-B inhibitors (e.g., selegiline, rasagiline), and COMT inhibitors. For advanced disease, deep brain stimulation (DBS) surgery may be offered. Physical, occupational, and speech therapy are also important to maintain function and safety.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, Parkinson's falls under the category of 'tremor syndrome' (颤证). The core mechanism is internal Liver Wind, which causes involuntary movement. The Liver is responsible for the smooth flow of Qi and the nourishment of sinews; when it becomes dry, stagnant, or overheated, it generates Wind that shakes the limbs. But this Wind rarely arises on its own - it is usually stirred by an underlying imbalance in the Kidney, Spleen, or Liver systems.\nThe most common roots lie in deficiency. Kidney and Liver Yin can run low with age or stress, and without enough Yin to anchor it, Liver Yang can surge upward and transform into Wind, producing a coarse, forceful tremor that worsens with emotional upset. When Yin deficiency is profound, the sinews lose their lubrication and an unfed, restless Wind stirs directly, causing a fine, quivering tremor with night sweats and a crimson, dry tongue. In other cases, the Spleen fails to produce sufficient Qi and Blood, leaving the sinews undernourished and causing a fine, weak tremor that intensifies with fatigue. Deep Kidney Essence depletion can also fail to fill the brain and marrow, leading to head shaking and unsteady gait.\nExcess patterns also play a role. When the diet is too rich and the Spleen is weak, Phlegm and Dampness accumulate, generating Heat that stirs Wind - this produces a tremor with chest tightness, a bitter taste, and a thick tongue coating. And when Kidney Yang is deficient, the body lacks warmth and propulsion, resulting in a slow tremor that worsens in the cold. Because Parkinson's is a chronic, progressive condition, many patients present with mixed patterns - for example, Yin deficiency with Phlegm-Heat - and a skilled TCM practitioner will identify the dominant imbalance to prioritize treatment.",
+  "classical_quote": "「诸风掉眩，皆属于肝」",
+  "classical_translation": "\"All wind, tremor, and dizziness belong to the Liver.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen  ,  Chapter 74 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the tremor itself - when it started, what makes it better or worse, and how it feels. The quality of the shaking, whether it is coarse and forceful or fine and weak, is the first clue that points toward one of the underlying patterns. The tongue body, coating, and pulse are then examined to confirm the nature of the imbalance.\nWhen the tremor is marked, worsens with stress or anger, and comes with dizziness, a red face, and a bitter taste in the mouth, the pattern is Liver Wind agitating Internally due to Liver Yang Rising. The tongue is red with a yellow coat, and the pulse feels wiry and rapid - signs of excess Yang and Wind stirring above.\nIf the shaking is fine and weak, accompanied by a pale complexion, fatigue, shortness of breath, and heart palpitations, Qi and Blood Deficiency is likely. Here the sinews are undernourished because the Spleen and Stomach fail to produce enough Qi and Blood. The tongue is pale with a thin white coat, and the pulse is thin and weak.\nEmpty-Wind agitating in the Interior appears when deep Yin deficiency leaves the sinews dry and unstable. The tremor is often accompanied by dizziness, tinnitus, a sensation of heat in the palms and soles, and a red tongue with very little coating. The pulse is thin and rapid, reflecting the emptiness that allows Wind to stir.\nPhlegm-Heat pattern shows tremor with a sensation of chest oppression, a sticky bitter taste, and a heavy body. The tongue has a yellow greasy coating, and the pulse is slippery and rapid, indicating that Phlegm and Heat are blocking the channels and generating internal Wind.\nIn older or chronically ill individuals, Kidney Essence Deficiency may present as head shaking or limb tremor with a sore lower back, weak knees, and poor memory. The tongue is red with little coating, and the pulse is deep and thin.\nKidney Yang Deficiency, on the other hand, produces a slow tremor that worsens in cold, along with cold limbs and frequent clear urination. The tongue is pale and swollen, and the pulse is deep and slow.",
+  "patterns": [
+    {
+      "id": 487,
+      "condition_id": 99,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "pattern_slug": "liver-wind-agitating-internally-due-to-liver-yang-rising",
+      "is_common": 0,
+      "symptoms": "[\"Tremor that worsens with stress and anger\", \"Throbbing or distending headache\", \"Dizziness with a sensation of falling\", \"Irritability and easy anger\"]",
+      "worse_with": "Stress and anger, Spicy or greasy food, Alcohol, Overwork and insufficient sleep",
+      "better_with": "Calm, quiet environment, Cooling foods and drinks, Gentle exercise or Tai Chi, Adequate rest and sleep",
+      "why_this_happens": "When Liver and Kidney Yin become deficient, the anchor for Liver Yang weakens, allowing it to surge upward and transform into internal Wind. This Wind agitates the sinews and channels, producing the characteristic tremor that worsens with emotional upset. Because Yang rises to the head, dizziness, throbbing headache, and a stiff neck often accompany the shaking.",
+      "tongue_and_pulse": "Tongue: red body, stiff or trembling, possibly deviated, with a thin yellow or scanty coating. Pulse: wiry (弦 xián) and fine (细 xì), possibly rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Stress and anger cause Liver Qi to surge upward, transforming into Wind that agitates the sinews and produces tremor. A calm environment and adequate rest allow Yin to restore and anchor the Yang. Cooling, yin-nourishing foods replenish the depleted Yin that fails to control Yang, while gentle movement keeps Qi flowing without draining the body's reserves.",
+      "diet_and_lifestyle": "Eat cooling, yin-nourishing foods such as spinach, cucumber, black sesame, and goji berries. Avoid spicy, greasy, and fried foods, as well as alcohol and excessive coffee, which can fan Liver Yang. Gentle daily movement like tai chi or walking helps smooth Qi flow and calm the mind.",
+      "formulas": [
+        {
+          "id": 1110,
+          "pattern_id": 487,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "The primary formula to subdue Liver Yang, extinguish Wind, and nourish Yin, directly addressing the root of tremor."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2592,
+          "pattern_id": 487,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and steadies tremor."
+        },
+        {
+          "id": 2593,
+          "pattern_id": 487,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "",
+          "description": "Extinguishes Wind and relieves spasms."
+        },
+        {
+          "id": 2594,
+          "pattern_id": 487,
+          "herb_name": "Shi Jue Ming",
+          "herb_url": "/knowledge-base/herbs/shi-jue-ming",
+          "translation": "Abalone shell",
+          "properties": "",
+          "description": "Anchors rising Liver Yang."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1717,
+          "pattern_id": 487,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Subdues rising Liver Yang and extinguishes internal Wind."
+        },
+        {
+          "id": 1718,
+          "pattern_id": 487,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Reduce. Clears the head and extinguishes Wind."
+        },
+        {
+          "id": 1719,
+          "pattern_id": 487,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Calms the spirit and anchors rising Yang."
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "condition_id": 99,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Fine, weak tremor\", \"Pale or sallow complexion\", \"Fatigue and shortness of breath\", \"Heart palpitations\", \"Poor appetite\", \"Dizziness\"]",
+      "worse_with": "Overwork and exhaustion, Skipping meals or poor diet, Cold, raw foods and drinks, Emotional stress, Cold weather or environments",
+      "better_with": "Adequate rest and sleep, Warm, easily digested soups and congees, Gentle exercise or Tai Chi, Moxibustion on lower abdomen",
+      "why_this_happens": "When the Spleen and Stomach are weak, they cannot produce enough Qi and Blood. The sinews (筋, jīn) depend on this nourishment to stay steady and flexible. Without it, they become undernourished and begin to tremble - the tremor is fine and weak, often worse when you are tired, because the body simply lacks the fuel to keep the sinews stable.",
+      "tongue_and_pulse": "Tongue: Pale body, may be thin or have teeth marks, thin white coating. Pulse: Fine (thin) and weak, especially in the right Guan position.",
+      "why_triggers_reliefs_work": "This pattern is rooted in a lack of Qi and Blood. Overwork, poor diet, and stress drain these resources further, making the tremor worse. Rest, nourishing food, and gentle movement allow the body to rebuild its reserves. Warmth helps Spleen function, which is the source of Qi and Blood, so cold and raw foods directly weaken the engine that produces the fuel the sinews need.",
+      "diet_and_lifestyle": "Eat warm, easily digestible foods like rice congee, bone broths, and stewed fruits. Avoid raw, cold, and greasy foods that burden the Spleen. Gentle daily movement such as Tai Chi or walking helps Qi and Blood circulate without depleting you. Prioritize rest and regular sleep.",
+      "formulas": [
+        {
+          "id": 1111,
+          "pattern_id": 488,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, often combined with Ji Xue Teng (Spatholobus stem) and E Jiao (donkey-hide gelatin) to specifically nourish the sinews and calm tremor."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2595,
+          "pattern_id": 488,
+          "herb_name": "Ji Xue Teng",
+          "herb_url": "/knowledge-base/herbs/ji-xue-teng",
+          "translation": "Spatholobus stem",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation in the sinews, directly addressing the tremor from malnourishment."
+        },
+        {
+          "id": 2596,
+          "pattern_id": 488,
+          "herb_name": "E Jiao",
+          "herb_url": "/knowledge-base/herbs/e-jiao",
+          "translation": "Donkey-hide gelatin",
+          "properties": "",
+          "description": "Richly tonifies Blood and Yin, helping to fill the vessels and steady the sinews."
+        },
+        {
+          "id": 2597,
+          "pattern_id": 488,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully boosts Spleen Qi to generate more Blood and raise clear Yang to the head and limbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1720,
+          "pattern_id": 488,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and Stomach to generate abundant Qi and Blood."
+        },
+        {
+          "id": 1721,
+          "pattern_id": 488,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen, Liver, and Kidneys."
+        },
+        {
+          "id": 1722,
+          "pattern_id": 488,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Strengthens the root Qi to anchor and support the sinews."
+        },
+        {
+          "id": 1723,
+          "pattern_id": 488,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Raises clear Yang to the head and calms the spirit, reducing dizziness and tremor."
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "condition_id": 99,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "pattern_slug": "empty-wind-agitating-in-the-interior",
+      "is_common": 0,
+      "symptoms": "[\"Fine tremor, worse with fatigue\", \"Night sweats and malar flush\", \"Dry mouth and throat\", \"Dizziness and blurred vision\", \"Deep exhaustion and listlessness\"]",
+      "worse_with": "Overwork and insufficient sleep, Spicy, drying foods, Emotional stress, Excessive sexual activity, Hot, dry weather",
+      "better_with": "Calm, quiet environment, Cool environment, Nourishing, moist foods (pears, sesame), Gentle exercise or Tai Chi",
+      "why_this_happens": "The Liver and Kidneys are the body's deep reserves of Yin-the cooling, moistening foundation that keeps sinews supple. When those reserves run low from aging, overwork, or illness, the sinews lose their lubrication and begin to stiffen and twitch. This dryness allows an unfed, restless internal Wind to stir, producing the fine tremor and muscle spasms characteristic of this pattern. The same Yin depletion also creates deficiency Heat, which explains the low-grade fever, night sweats, and dry mouth.",
+      "tongue_and_pulse": "Tongue: crimson, thin, dry, cracked, with little or no coating (mirror-like), may tremble. Pulse: fine (细 xì) and rapid (数 shuò), wiry (弦 xián) at the left guan position but weak on deeper palpation.",
+      "why_triggers_reliefs_work": "This pattern is rooted in a deep shortage of Yin, the body's cooling and moistening essence. Overwork, late nights, and excessive sexual activity drain that Yin further, while spicy or drying foods and hot weather consume fluids and worsen the deficiency Heat. Stress stirs up Yang and Wind, making the tremor more pronounced. Rest, a cool environment, and nourishing, moist foods help replenish Yin, calm the deficiency Heat, and settle the internal Wind.",
+      "diet_and_lifestyle": "Protect your Yin by avoiding late nights and pushing through exhaustion. Favor moist, cooling foods like pears, black sesame, tofu, seaweed, and bone broth; steer clear of spicy, fried, or drying foods. Gentle, flowing movement such as Tai Chi or Qigong nourishes the sinews without draining energy. A short rest in the early afternoon can help preserve your reserves.",
+      "formulas": [
+        {
+          "id": 1112,
+          "pattern_id": 489,
+          "formula_name": "Da Ding Feng Zhu",
+          "formula_url": "/knowledge-base/formulas/da-ding-feng-zhu",
+          "translation": "Major Wind-Stabilizing Pearl &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Yin and Extinguishes Wind, Subdues Floating Yang, Nourishes Blood and Generates Essence",
+          "description": "The classic formula to deeply nourish Liver and Kidney Yin, extinguish internal Wind, and stop tremor."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2598,
+          "pattern_id": 489,
+          "herb_name": "E Jiao",
+          "herb_url": "/knowledge-base/herbs/e-jiao",
+          "translation": "Donkey-hide gelatin",
+          "properties": "",
+          "description": "Enriches Yin and Blood to moisten the sinews and anchor the spirit."
+        },
+        {
+          "id": 2599,
+          "pattern_id": 489,
+          "herb_name": "Gui Ban",
+          "herb_url": "/knowledge-base/herbs/gui-ban",
+          "translation": "Tortoise plastron",
+          "properties": "",
+          "description": "Turtle shell deeply anchors Yang, nourishes Yin, and subdues internal Wind."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1724,
+          "pattern_id": 489,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to address the root deficiency."
+        },
+        {
+          "id": 1725,
+          "pattern_id": 489,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Yin and Blood to moisten sinews and calm the spirit."
+        },
+        {
+          "id": 1726,
+          "pattern_id": 489,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Extinguishes internal Wind and steadies the head and limbs."
+        },
+        {
+          "id": 1727,
+          "pattern_id": 489,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Subdues Liver Yang and calms wind to reduce tremor."
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "condition_id": 99,
+      "pattern_name": "Phlegm-Heat",
+      "pattern_slug": "phlegm-heat",
+      "is_common": 0,
+      "symptoms": "[\"Tremor with a heavy, coarse quality\", \"Chest oppression or fullness\", \"Bitter taste in the mouth\", \"Restlessness and irritability\", \"Thick yellow greasy tongue coating\"]",
+      "worse_with": "Greasy, fried, or rich foods, Alcohol and coffee, Stress and frustration, Damp or humid weather",
+      "better_with": "Light, non-greasy meals, Cool, dry environment, Gentle exercise or Tai Chi, Cooling herbal teas (e.g., chrysanthemum)",
+      "why_this_happens": "When the Spleen is weak or the diet is too rich and greasy, Dampness and Phlegm build up inside. This Phlegm stagnates and generates Heat, creating a sticky, hot obstruction that blocks the smooth flow of Qi. The trapped Heat then stirs internal Wind, which travels to the limbs and head, producing a tremor that often feels heavy or coarse, accompanied by chest tightness and a bitter taste.",
+      "tongue_and_pulse": "Tongue: red body, swollen, with a thick yellow greasy coating. Pulse: slippery (滑 huá) and rapid (数 shuò), like beads rolling.",
+      "why_triggers_reliefs_work": "Greasy and rich foods create Dampness and Phlegm, while spicy foods and alcohol add Heat, directly fueling the Phlegm-Heat that stirs wind. Stress and frustration stagnate Liver Qi, which can transform into fire and wind. Light meals and cooling herbs help clear the obstruction, and gentle movement keeps Qi flowing to prevent phlegm accumulation.",
+      "diet_and_lifestyle": "Avoid greasy, fried, and spicy foods that generate phlegm and heat. Focus on light, easily digestible meals like steamed vegetables, congee, and mung bean soup. Gentle daily exercise such as walking or tai chi helps move Qi and clear phlegm. Keep the living environment dry and well-ventilated.",
+      "formulas": [
+        {
+          "id": 1113,
+          "pattern_id": 490,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "The classic formula to clear heat and transform phlegm, often combined with Ling Yang Jiao to extinguish wind."
+        },
+        {
+          "id": 1114,
+          "pattern_id": 490,
+          "formula_name": "Ling Jiao Gou Teng Tang",
+          "formula_url": "/knowledge-base/formulas/ling-jiao-gou-teng-tang",
+          "translation": "Antelope Horn and Uncaria Decoction &#xB7; Q&#x12B;ng dynasty, 1776 CE",
+          "properties": "Cold, Cools the Liver and extinguishes Wind, Softens and Relaxes the Sinews, Settles Fright and Calms Convulsions",
+          "description": "Extinguishes internal wind and clears heat, especially when tremor is prominent."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2600,
+          "pattern_id": 490,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the key herb for resolving the Phlegm obstruction."
+        },
+        {
+          "id": 2601,
+          "pattern_id": 490,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "",
+          "description": "Clears heat and resolves sticky phlegm, easing chest oppression."
+        },
+        {
+          "id": 2602,
+          "pattern_id": 490,
+          "herb_name": "Ling Yang Jiao",
+          "herb_url": "/knowledge-base/herbs/ling-yang-jiao",
+          "translation": "Antelope horn",
+          "properties": "",
+          "description": "Extinguishes internal wind and clears heat, directly calming the tremor."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1728,
+          "pattern_id": 490,
+          "acupoint_code": "DU-16",
+          "acupoint_name": "Fengfu DU-16",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/fengfu-du-16",
+          "translation": "F&#x113;ng F&#x1D4;",
+          "properties": "Expels Interior and Exterior Wind, Nourishes Marrow and benefits the Brain",
+          "description": "Extinguish internal wind and calm the mind."
+        },
+        {
+          "id": 1729,
+          "pattern_id": 490,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Subdue Liver and extinguish wind, reducing tremor."
+        },
+        {
+          "id": 1730,
+          "pattern_id": 490,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthen the Spleen to resolve phlegm and support the limbs."
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "condition_id": 99,
+      "pattern_name": "Kidney Essence Deficiency",
+      "pattern_slug": "kidney-essence-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Head shaking or limb tremor\", \"Soreness and weakness of the lower back and knees\", \"Poor memory and difficulty concentrating\", \"Tinnitus or gradual hearing loss\", \"Premature greying or hair loss\", \"Frequent urination, especially at night\"]",
+      "worse_with": "Overwork and chronic fatigue, Excessive sexual activity, Cold weather or environments, Overwork and insufficient sleep",
+      "better_with": "Adequate rest and sleep, Gentle exercise or Tai Chi, Warmth on the lower back, Bone broth and kidney-nourishing foods",
+      "why_this_happens": "The Kidneys store Essence, which produces marrow and fills the brain. When deep Essence is depleted through aging or chronic illness, the Sea of Marrow becomes empty and fails to nourish the sinews and brain. This causes unsteady head shaking or limb tremor, often accompanied by lower back soreness, weak knees, and declining memory.",
+      "tongue_and_pulse": "Tongue: pale, thin body with little or no coating, possible fine cracks. Pulse: fine, deep, and weak at both Chi (rear) positions; may be slightly rapid if Yin deficiency is present.",
+      "why_triggers_reliefs_work": "Kidney Essence is the deepest store of vitality, built slowly through rest and nourishing foods and depleted by overwork, excessive sexual activity, and aging. Cold worsens the pattern because Essence deficiency often leaves Kidney Yang weak, failing to warm the body. Gentle movement and warmth support the Kidneys, while nourishing foods help replenish Essence over time.",
+      "diet_and_lifestyle": "Eat kidney-nourishing foods like black sesame, walnuts, goji berries, and bone broth. Avoid overwork, excessive sexual activity, and late nights that drain Essence. Gentle daily movement like Tai Chi or walking supports marrow health.",
+      "formulas": [
+        {
+          "id": 1115,
+          "pattern_id": 491,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "Nourishes Kidney Essence and strengthens marrow, the foundation for replenishing the Sea of Marrow."
+        },
+        {
+          "id": 1116,
+          "pattern_id": 491,
+          "formula_name": "Da Ding Feng Zhu",
+          "formula_url": "/knowledge-base/formulas/da-ding-feng-zhu",
+          "translation": "Major Wind-Stabilizing Pearl &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Yin and Extinguishes Wind, Subdues Floating Yang, Nourishes Blood and Generates Essence",
+          "description": "Nourishes Yin and extinguishes internal Wind to settle tremor caused by Essence deficiency."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2603,
+          "pattern_id": 491,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Nourishes Kidney Yin and Essence, replenishing the deepest stores."
+        },
+        {
+          "id": 2604,
+          "pattern_id": 491,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Stabilizes the Kidneys and preserves Essence."
+        },
+        {
+          "id": 2605,
+          "pattern_id": 491,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and reduces tremor."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1731,
+          "pattern_id": 491,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Essence and strengthens the lower back."
+        },
+        {
+          "id": 1732,
+          "pattern_id": 491,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney, nourishes Essence and anchors Qi."
+        },
+        {
+          "id": 1733,
+          "pattern_id": 491,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Fortifies Essence and Yuan Qi, deeply replenishing."
+        },
+        {
+          "id": 1734,
+          "pattern_id": 491,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Lifts clear Yang to the brain and steadies the head."
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "condition_id": 99,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Slow, weak tremor worse in cold\", \"Cold limbs, especially lower back and knees\", \"Frequent, clear urination at night\", \"Deep fatigue and low spirits\", \"Pale, puffy face\"]",
+      "worse_with": "Cold weather or environments, Cold, raw foods and drinks, Overwork and exhaustion",
+      "better_with": "Warmth and heat packs, Warm, cooked meals, Rest and gentle movement",
+      "why_this_happens": "Kidney Yang is the body's warming and driving force. When it declines, cold congeals and the sinews become stiff and poorly nourished. This lack of warmth and propulsion causes a slow, weak tremor that is noticeably worse in cold environments, as the body struggles to maintain smooth movement.",
+      "tongue_and_pulse": "Tongue: Pale, puffy, tender body with teeth marks and a wet white coating. Pulse: Deep, slow, and weak, especially at the rear (Chi) positions.",
+      "why_triggers_reliefs_work": "Kidney Yang deficiency is a deep cold pattern where the body's warming fire is low. Cold exposure and raw foods further drain that fire, making the sinews stiffer and the tremor worse. Warmth, both external and from cooked foods, directly supports Yang and helps the sinews relax, easing the tremor.",
+      "diet_and_lifestyle": "Keep the lower back and feet warm, and avoid cold exposure. Eat warming, cooked foods like lamb, ginger, and cinnamon. Gentle exercise such as walking or tai chi helps keep Qi moving without exhausting Yang.",
+      "formulas": [
+        {
+          "id": 1117,
+          "pattern_id": 492,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The primary formula to warm Kidney Yang, replenish Essence, and restore the Gate of Life Fire."
+        },
+        {
+          "id": 1118,
+          "pattern_id": 492,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising."
+        },
+        {
+          "id": 1119,
+          "pattern_id": 492,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 1120,
+          "pattern_id": 492,
+          "formula_name": "Da Ding Feng Zhu",
+          "formula_url": "/knowledge-base/formulas/da-ding-feng-zhu",
+          "translation": "Major Wind-Stabilizing Pearl &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Yin and Extinguishes Wind, Subdues Floating Yang, Nourishes Blood and Generates Essence",
+          "description": "A classical formula for severe Yin depletion causing internal wind, which can manifest as muscle spasms, tremors, exhaustion, and a sense of bodily collapse. It works by deeply replenishing the body&#x27;s fluids and Yin to calm involuntary movements caused by this deficiency. Originally designed for the late stages of febrile illness where prolonged heat has consumed the body&#x27;s vital fluids."
+        },
+        {
+          "id": 1121,
+          "pattern_id": 492,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm."
+        },
+        {
+          "id": 1122,
+          "pattern_id": 492,
+          "formula_name": "Ling Jiao Gou Teng Tang",
+          "formula_url": "/knowledge-base/formulas/ling-jiao-gou-teng-tang",
+          "translation": "Antelope Horn and Uncaria Decoction &#xB7; Q&#x12B;ng dynasty, 1776 CE",
+          "properties": "Cold, Cools the Liver and extinguishes Wind, Softens and Relaxes the Sinews, Settles Fright and Calms Convulsions",
+          "description": "A classical formula for cooling the Liver and calming internal Wind, used when excessive Heat in the Liver system causes high fever, muscle spasms, tremors, or convulsions. It simultaneously nourishes fluids that have been damaged by intense Heat, relaxes tense muscles and tendons, and calms the mind. Commonly applied in conditions such as hypertensive headaches, seizures, or high fevers with neurological symptoms."
+        },
+        {
+          "id": 1123,
+          "pattern_id": 492,
+          "formula_name": "Gui Lu Er Xian Jiao",
+          "formula_url": "/knowledge-base/formulas/gui-lu-er-xian-jiao",
+          "translation": "Tortoise Shell and Deer Antler Two Immortals Glue &#xB7; M&#xED;ng dynasty, 1587 CE (Yi Bian); also 1584 CE (Yi Fang Kao)",
+          "properties": "Warm, Supplements True Yin, Tonifies Qi and Strengthens Yang, Benefits Essence and Fills the Marrow",
+          "description": "A classical concentrated paste formula that deeply replenishes the body&#x27;s foundational vitality using tortoise shell and deer antler as its core ingredients, supported by ginseng and goji berry. It is used for people experiencing significant depletion of their core reserves, shown by symptoms like exhaustion, low back weakness, poor vision, sexual dysfunction, infertility, and premature aging. The formula is designed to nourish both the Yin (cooling, nourishing) and Yang (warming, activating) aspects of the Kidneys simultaneously."
+        },
+        {
+          "id": 1124,
+          "pattern_id": 492,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2606,
+          "pattern_id": 492,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Strongly warms Kidney Yang and dispels deep cold."
+        },
+        {
+          "id": 2607,
+          "pattern_id": 492,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Strengthens Ming Men fire and warms the channels."
+        },
+        {
+          "id": 2608,
+          "pattern_id": 492,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and steadies the tremor."
+        },
+        {
+          "id": 2609,
+          "pattern_id": 492,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 2610,
+          "pattern_id": 492,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "Cool, Extinguishes Wind and Stops Spasms, Courses the Liver and Drains Heat, Calms the Liver and Subdues Yang",
+          "description": ""
+        },
+        {
+          "id": 2611,
+          "pattern_id": 492,
+          "herb_name": "Shi Jue Ming",
+          "herb_url": "/knowledge-base/herbs/shi-jue-ming",
+          "translation": "Abalone shell",
+          "properties": "Cold, Calms the Liver and Subdues Yang, Clears Liver Heat, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 2612,
+          "pattern_id": 492,
+          "herb_name": "Ji Xue Teng",
+          "herb_url": "/knowledge-base/herbs/ji-xue-teng",
+          "translation": "Spatholobus stem",
+          "properties": "Warm, Invigorates Blood and tonifies Blood, Regulates Menstruation and Alleviates Pain, Relaxes the Sinews and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 2613,
+          "pattern_id": 492,
+          "herb_name": "E Jiao",
+          "herb_url": "/knowledge-base/herbs/e-jiao",
+          "translation": "Donkey-hide gelatin",
+          "properties": "Neutral, Nourishes Blood, Stops Bleeding, Nourishes Yin",
+          "description": ""
+        },
+        {
+          "id": 2614,
+          "pattern_id": 492,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 2615,
+          "pattern_id": 492,
+          "herb_name": "Gui Ban",
+          "herb_url": "/knowledge-base/herbs/gui-ban",
+          "translation": "Tortoise plastron",
+          "properties": "Cold, Nourishes Yin and Subdues Yang, Benefits the Kidneys and Strengthens the Bones, Nourishes Heart Blood",
+          "description": ""
+        },
+        {
+          "id": 2616,
+          "pattern_id": 492,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 2617,
+          "pattern_id": 492,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 2618,
+          "pattern_id": 492,
+          "herb_name": "Ling Yang Jiao",
+          "herb_url": "/knowledge-base/herbs/ling-yang-jiao",
+          "translation": "Antelope horn",
+          "properties": "Cold, Calms the Liver and Extinguishes Wind, Clears Liver Heat and Brightens the Eyes, Calms the Liver and Subdues Yang",
+          "description": ""
+        },
+        {
+          "id": 2619,
+          "pattern_id": 492,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 2620,
+          "pattern_id": 492,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        },
+        {
+          "id": 2621,
+          "pattern_id": 492,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 2622,
+          "pattern_id": 492,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1735,
+          "pattern_id": 492,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxibustion on this point warms Kidney Yang and strengthens the lower back."
+        },
+        {
+          "id": 1736,
+          "pattern_id": 492,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Direct moxa here fortifies the Gate of Life Fire."
+        },
+        {
+          "id": 1737,
+          "pattern_id": 492,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion on this point warms the lower abdomen and tonifies Yang."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 628,
+      "condition_id": 99,
+      "question": "Can acupuncture really help with Parkinson's tremors?",
+      "answer": "Yes, acupuncture can help reduce tremor severity and improve motor function by calming Liver Wind and nourishing the sinews. Many patients notice a reduction in tremor amplitude and better coordination after a series of treatments. The response varies by pattern; excess patterns often respond more quickly, while deficiency patterns need consistent treatment over months."
+    },
+    {
+      "id": 629,
+      "condition_id": 99,
+      "question": "Is it safe to take Chinese herbs with my Parkinson's medication?",
+      "answer": "In most cases, yes, but it is essential to inform both your TCM practitioner and neurologist about all medications and supplements. Some herbs may influence dopamine levels or interact with MAO-B inhibitors; a qualified practitioner will select formulas that complement your medication without causing adverse effects. Never stop or adjust your Parkinson's medication without medical supervision."
+    },
+    {
+      "id": 630,
+      "condition_id": 99,
+      "question": "How long until I see results from TCM treatment?",
+      "answer": "Many patients notice subtle improvements in tremor, sleep, and energy within the first 4-6 weeks. Significant and sustained changes usually take 3-6 months of regular treatment, especially for deficiency patterns. Consistency is key; weekly acupuncture and daily herbs are the standard protocol."
+    },
+    {
+      "id": 631,
+      "condition_id": 99,
+      "question": "Does TCM only treat the tremor, or can it help with stiffness and slowness too?",
+      "answer": "TCM addresses all motor symptoms - tremor, rigidity, and bradykinesia - because they all stem from the same root imbalance of Liver Wind and sinew malnourishment. Herbs and acupuncture aim to relax the sinews, nourish the muscles, and promote smooth movement. Many patients report feeling looser and more agile."
+    },
+    {
+      "id": 632,
+      "condition_id": 99,
+      "question": "What dietary changes should I make to support my treatment?",
+      "answer": "TCM generally recommends a diet that is easy to digest and avoids phlegm-producing foods (greasy, dairy, sugar) and wind-aggravating foods (spicy, fried). Favor warm, cooked meals, bone broths, dark leafy greens, and kidney-nourishing foods like black sesame and walnuts. Specific advice will depend on your pattern."
+    },
+    {
+      "id": 633,
+      "condition_id": 99,
+      "question": "Can TCM help with non-motor symptoms like constipation or sleep problems?",
+      "answer": "Absolutely. TCM views these as part of the same pattern - for example, constipation often reflects Yin deficiency or Qi stagnation, and insomnia relates to the Heart and Liver. Your practitioner will adjust the formula to address these as well, often seeing improvement in sleep, mood, and digestion alongside motor symptoms."
+    }
+  ],
+  "research": [
+    {
+      "id": 144,
+      "condition_id": 99,
+      "title": "Acupuncture for Parkinson's Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "description": "This meta-analysis of 20 RCTs found that acupuncture significantly improved UPDRS motor scores and quality of life compared to sham or no acupuncture, with a favorable safety profile.",
+      "url": "",
+      "periodical": "Zhang Q, et al. Frontiers in Neurology, 2020."
+    },
+    {
+      "id": 145,
+      "condition_id": 99,
+      "title": "Chinese Herbal Medicine for Parkinson's Disease: A Systematic Review of Randomized Controlled Trials",
+      "description": "A review of 15 trials concluded that adjunctive Chinese herbal medicine, particularly formulas like Tian Ma Gou Teng Yin, improved motor symptoms and reduced levodopa side effects, though study quality was variable.",
+      "url": "",
+      "periodical": "Wang Y, et al. Chinese Journal of Integrative Medicine, 2019."
+    },
+    {
+      "id": 146,
+      "condition_id": 99,
+      "title": "Acupuncture for Motor and Non-Motor Symptoms in Parkinson's Disease: A Randomized Controlled Trial",
+      "description": "In a 12-week trial, acupuncture added to usual care significantly reduced both tremor and non-motor symptoms like constipation and sleep disturbance compared to usual care alone.",
+      "url": "",
+      "periodical": "Kong KH, et al. Journal of Alternative and Complementary Medicine, 2018."
+    }
+  ]
+}

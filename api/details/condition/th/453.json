@@ -1,0 +1,862 @@
+{
+  "id": 453,
+  "name": "โรคบิดเรื้อรัง",
+  "url": "/knowledge-base/conditions/chronic-dysentery",
+  "kind": "Condition",
+  "pinyin": "jiǔ lì",
+  "chinese_name": "久痢",
+  "preview_text": "โรคบิดเรื้อรังไม่ใช่โรคหนึ่งใน TCM แต่มีรูปแบบที่แตกต่างกัน 6 รูปแบบ โดยแต่ละรูปแบบมีตัวกระตุ้น ลักษณะอุจจาระ และการรักษาของตัวเอง ผู้ป่วยส่วนใหญ่พบว่าอาการวูบวาบลดลงอย่างเห็นได้ชัด...",
+  "categories": "[\"ท้องเสีย\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Long-lasting Bloody Diarrhea\", \"Persistent Dysentery\", \"Chronic Dysenteric Disorder\", \"Chronic Bacillary Dysentery\", \"Long-standing Bacillary Dysentery\", \"Persistent Bacillary Dysentery\", \"Recurrent Bacillary Dysentery\"]",
+  "conventional_description": "In Western medicine, chronic dysentery refers to persistent or recurrent episodes of diarrhea containing blood and mucus, often accompanied by abdominal cramping, urgency, and a feeling of incomplete evacuation. It is most commonly associated with chronic inflammatory bowel diseases like ulcerative colitis or Crohn's disease, but can also stem from persistent infections such as amebiasis or chronic shigellosis.\nDiagnosis typically involves stool cultures, blood tests, and colonoscopy with biopsy to assess the intestinal lining and rule out other causes. Treatment is aimed at controlling inflammation, eradicating any underlying infection, and managing symptoms, but the condition often follows a relapsing-remitting course that can be difficult to fully resolve.",
+  "conventional_treatments": "Conventional management depends on the cause. Infectious dysentery is treated with antibiotics or antiparasitic medications. For inflammatory bowel disease, first-line therapies include aminosalicylates (5-ASAs), corticosteroids to reduce acute inflammation, and immunosuppressants or biologic agents to maintain remission. Antidiarrheal medications are sometimes used cautiously, along with dietary modifications and nutritional support to prevent malnutrition.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, chronic dysentery is understood as a deep disorder of the Spleen and Large Intestine, often with the Liver and Kidneys drawn in over time. The Spleen is responsible for transforming food and fluids into energy and for holding things in their proper place. When it is weakened by poor diet, overwork, or lingering illness, it fails to manage fluids, and dampness accumulates. This dampness settles in the Large Intestine, interfering with its function of separating the clear from the turbid and leading to loose, mucus-streaked stools.\nIf the initial illness was caused by a heat or damp-heat pathogen that was never fully cleared, it can hide in the body and flare up periodically. During a flare, heat scorches the intestinal lining, damaging blood vessels and producing the classic signs of burning, urgency, and bloody mucus. This is why chronic dysentery is not simply a disease of the intestines but a complex interplay of lingering pathogens and weakened organ systems that requires a multi-layered treatment approach.",
+  "classical_quote": "「热利下重者，白头翁汤主之。」",
+  "classical_translation": "\"For heat dysentery with a heavy sensation in the lower abdomen, Bai Tou Weng Tang governs.\"",
+  "classical_source": "Shang Han Lun (Treatise on Cold Damage)  ,  Line 371 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "To tell patterns apart, a practitioner first asks about the nature of the bowel movements and what makes them worse. In Kidney and Spleen Yang Deficiency, the diarrhea is chronic and watery or contains white mucus, and it is worse with cold or fatigue. The person feels chilled, has a sore lower back and weak knees, and the tongue is pale and puffy with a slow, deep pulse.\nDuring an acute flare-up, Damp-Heat in the Large Intestine produces urgent, foul-smelling stools streaked with blood and mucus, along with a burning sensation around the anus and a feeling of incomplete evacuation (tenesmus). The tongue is red with a greasy yellow coating, and the pulse is rapid and slippery. This pattern is more active and hot, unlike the cold deficiency patterns.\nWhen the Spleen is weak and overwhelmed by dampness, the stool is loose and contains mucus but little or no blood. The main clues are bloating after eating, a heavy sensation in the body, and persistent fatigue. The tongue is pale and swollen with tooth marks, and the pulse is soft and weak. This picture lacks the heat signs of damp-heat and the cold signs of yang deficiency.\nIf symptoms flare with emotional stress, the practitioner suspects Rebellious Liver Qi invading the Spleen. The diarrhea may alternate with constipation, and there is often abdominal distension and pain that moves around. The tongue body may be normal or slightly red on the sides, and the pulse feels wiry, especially on the left. This pattern is strongly linked to mood, differentiating it from the others.",
+  "patterns": [
+    {
+      "id": 2194,
+      "condition_id": 453,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "pattern_slug": "kidney-and-spleen-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Early-morning diarrhea (around 5 AM)\", \"Watery stools with undigested food\", \"Deep coldness in the abdomen and limbs\", \"Sore, aching lower back and knees\", \"Profound fatigue and weakness\", \"Fecal incontinence or urgency\"]",
+      "worse_with": "Cold and raw foods, Exposure to cold weather, Overwork and fatigue, Dairy and greasy foods, Early morning hours (3-7 AM)",
+      "better_with": "Warm compress on the abdomen, Warm, cooked meals, Rest and lying down, Moxibustion therapy, Warm ginger tea",
+      "why_this_happens": "Chronic dysentery gradually exhausts the body's warming Yang energy. The Spleen loses its ability to transform food and fluids, while the Kidneys lose their power to firmly close the lower orifices and warm the digestive system. This leaves the intestines cold and weak, unable to hold anything in, which leads to persistent, watery diarrhea often striking before dawn.",
+      "tongue_and_pulse": "Tongue: pale, swollen, and puffy with teeth marks on the edges, and a white slippery coating. Pulse: deep, weak, and slow, especially feeble in the rear (Kidney) and right middle (Spleen) positions.",
+      "why_triggers_reliefs_work": "This pattern is rooted in a deep lack of warming Yang energy. Cold foods and environments directly damage what little Yang remains, forcing the weakened Spleen and Kidneys to let go of fluids and waste uncontrollably. Warmth, rest, and warm foods act like stoking a dying fire, helping the body conserve and rebuild its Yang so the digestive system can hold and transform food again.",
+      "diet_and_lifestyle": "Eat only warm, cooked foods like soups, stews, and congees. Avoid all raw foods, cold drinks, and dairy, which douse the digestive fire. Keep the abdomen and lower back warmly covered, and apply a hot water bottle for comfort. Gentle moxibustion at home on the lower abdomen can be very helpful.",
+      "formulas": [
+        {
+          "id": 5018,
+          "pattern_id": 2194,
+          "formula_name": "Zhen Ren Yang Zang Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-ren-yang-zang-tang",
+          "translation": "True Man&#x27;s Decoction to Nourish the Organs &#xB7; Song dynasty (&#x5B8B;&#x671D;), first published ~1078&#x2013;1151 CE",
+          "properties": "Warm, Astringes the intestines and stops diarrhea, Secures prolapse, Warms and tonifies the Spleen and Kidneys",
+          "description": "The classic formula to astringe the intestines, warm the Spleen and Kidneys, and stop chronic diarrhea due to Yang deficiency."
+        },
+        {
+          "id": 5019,
+          "pattern_id": 2194,
+          "formula_name": "Si Shen Wan",
+          "formula_url": "/knowledge-base/formulas/si-shen-wan",
+          "translation": "Four Miracle Pill &#xB7; Ming dynasty (&#x660E;&#x4EE3;), mid-16th century",
+          "properties": "Warm, Warms the Kidneys, Warms and strengthens the Spleen, Binds the intestines and stops diarrhea",
+          "description": "Specifically targets the Kidney Yang deficiency that causes early-morning diarrhea (5 AM diarrhea)."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 11741,
+          "pattern_id": 2194,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms the Kidneys and ignites the Ming Men fire to restore heat to the digestive system."
+        },
+        {
+          "id": 11742,
+          "pattern_id": 2194,
+          "herb_name": "Bu Gu Zhi",
+          "herb_url": "/knowledge-base/herbs/bu-gu-zhi",
+          "translation": "Psoralea fruit",
+          "properties": "",
+          "description": "Tonifies Kidney Yang and is a key herb for stopping early-morning diarrhea."
+        },
+        {
+          "id": 11743,
+          "pattern_id": 2194,
+          "herb_name": "Rou Dou Kou",
+          "herb_url": "/knowledge-base/herbs/rou-dou-kou",
+          "translation": "Nutmeg",
+          "properties": "",
+          "description": "Warms the middle burner and astringes the intestines to stop chronic diarrhea."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 7922,
+          "pattern_id": 2194,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Moxa. Tonifies Kidney Yang to warm the lower back and strengthen the lower orifices."
+        },
+        {
+          "id": 7923,
+          "pattern_id": 2194,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxa. Directly warms the Ming Men fire, the root of all Yang energy."
+        },
+        {
+          "id": 7924,
+          "pattern_id": 2194,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxa. Strengthens the Spleen and Stomach to improve Qi and Yang production."
+        }
+      ]
+    },
+    {
+      "id": 2195,
+      "condition_id": 453,
+      "pattern_name": "Damp-Heat in the Large Intestine",
+      "pattern_slug": "damp-heat-in-the-large-intestine",
+      "is_common": 0,
+      "symptoms": "[\"Mucus and blood in stools\", \"Urgent, straining bowel movements with incomplete evacuation (tenesmus)\", \"Burning sensation at the anus\", \"Abdominal cramping pain\", \"Red tongue with thick yellow greasy coating\", \"Slippery (&#x6ED1;) and rapid (&#x6570;) pulse\"]",
+      "worse_with": "Spicy and greasy foods, Alcohol and coffee, Cold and raw foods, Hot, humid weather, Overwork and fatigue",
+      "better_with": "Light, bland diet (congee, steamed vegetables), Rest and reduced activity, Cool, dry environment, Drinking warm barley water",
+      "why_this_happens": "In chronic dysentery, a lingering Damp-Heat pathogen hides in the Large Intestine. During a flare-up, heat and dampness accumulate, damaging the intestinal lining and causing mucus and blood to appear in stools. The dampness obstructs the flow of Qi, leading to abdominal cramping and an urgent, straining feeling (tenesmus) that never feels fully relieved. The heat component creates a burning sensation at the anus, thirst, and a feeling of body heat.",
+      "tongue_and_pulse": "Tongue: red body with a thick yellow greasy coating, thickest at centre and root. Pulse: slippery (滑) and rapid (数).",
+      "why_triggers_reliefs_work": "Spicy, greasy, and rich foods generate internal Dampness and Heat, directly feeding the pathogen that causes this flare-up. Alcohol and coffee are heating and can worsen intestinal inflammation. Rest conserves Qi to fight the pathogen, while a light, bland diet does not add fuel to the damp-heat fire. A cool, dry environment helps counteract the clammy, heavy nature of Dampness.",
+      "diet_and_lifestyle": "During a flare-up, stick to light, bland, and easily digestible foods such as congee, steamed vegetables, and well-cooked grains. Avoid all spicy, greasy, fried, and raw foods, as well as alcohol and coffee, which add heat and dampness. Drink warm water or barley water to stay hydrated. Rest is essential to allow the body to fight off the pathogen.",
+      "formulas": [
+        {
+          "id": 5020,
+          "pattern_id": 2195,
+          "formula_name": "Shao Yao Tang",
+          "formula_url": "/knowledge-base/formulas/shao-yao-tang",
+          "translation": "Peony Decoction &#xB7; J&#x12B;n dynasty, 1186 CE",
+          "properties": "Cold, Clears Heat and dries Dampness, Invigorates Blood and Moves Qi, Resolves Toxicity",
+          "description": "The classic formula for Damp-Heat dysentery; it clears heat, dries dampness, and harmonizes the blood to stop mucus and blood."
+        },
+        {
+          "id": 5021,
+          "pattern_id": 2195,
+          "formula_name": "Bai Tou Weng Tang",
+          "formula_url": "/knowledge-base/formulas/bai-tou-weng-tang",
+          "translation": "Pulsatilla Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Stops Dysentery",
+          "description": "Especially useful when heat-toxin signs are prominent, with more blood in stools and a burning sensation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 11744,
+          "pattern_id": 2195,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Strongly clears heat and dries dampness from the Large Intestine."
+        },
+        {
+          "id": 11745,
+          "pattern_id": 2195,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears heat and dries dampness, especially in the middle and lower burner."
+        },
+        {
+          "id": 11746,
+          "pattern_id": 2195,
+          "herb_name": "Bai Tou Weng",
+          "herb_url": "/knowledge-base/herbs/bai-tou-weng",
+          "translation": "Chinese Anemone Root",
+          "properties": "",
+          "description": "Cools the blood and resolves toxin to stop dysentery with blood."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 7925,
+          "pattern_id": 2195,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Front-mu point of the Large Intestine; regulates intestinal Qi and stops diarrhea and cramping."
+        },
+        {
+          "id": 7926,
+          "pattern_id": 2195,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "Lower he-sea point of the Large Intestine; clears Damp-Heat and resolves tenesmus."
+        },
+        {
+          "id": 7927,
+          "pattern_id": 2195,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears heat and cools the blood; reduces fever and resolves Dampness."
+        },
+        {
+          "id": 7928,
+          "pattern_id": 2195,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Regulates Qi and alleviates abdominal pain."
+        }
+      ]
+    },
+    {
+      "id": 2196,
+      "condition_id": 453,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Chronic loose stools with mucus (no blood)\", \"Abdominal bloating and fullness after eating\", \"Heaviness in the body and limbs\", \"Fatigue and lack of energy\", \"Poor appetite or lack of taste\"]",
+      "worse_with": "Cold and raw foods, Greasy, fried foods, Dairy products, Overeating, Prolonged sitting, Stress and worry",
+      "better_with": "Warm, cooked meals, Rest after eating, Gentle walking, Warm compress on the abdomen, Small, frequent meals",
+      "why_this_happens": "The Spleen is the body's main engine for transforming food and fluids into Qi and blood. When it becomes weakened by poor diet, overwork, or prolonged illness, it fails to manage fluids, allowing Dampness to accumulate. This Dampness then settles in the intestines, interfering with their ability to absorb and hold, leading to chronic loose stools with mucus, bloating, and a heavy, tired feeling.",
+      "tongue_and_pulse": "Tongue: pale and swollen with teeth marks, white greasy coating, moist surface. Pulse: soggy (Ru) and slow (Huan), may feel soft and weak, especially at the right Guan position.",
+      "why_triggers_reliefs_work": "The Spleen is easily damaged by cold and raw foods, which weaken its transformative fire and encourage Dampness. Warm, cooked foods are easier to digest and support Spleen Yang. Overeating and greasy foods create more Dampness, while small, frequent meals prevent overload. Light movement helps Qi flow and dries Dampness, but too much activity depletes Qi. Emotional stress, especially worry, knots the Spleen Qi, making digestion worse.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congees. Avoid raw, cold, greasy, and sweet foods, as well as dairy, which all create Dampness. Eat small, frequent meals and chew thoroughly. Light, regular movement like walking helps Spleen Qi circulate without depleting you. Rest after meals to support digestion.",
+      "formulas": [
+        {
+          "id": 5022,
+          "pattern_id": 2196,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Tonifies Spleen Qi and leaches out Dampness, the core formula for this pattern."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 11747,
+          "pattern_id": 2196,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries Dampness."
+        },
+        {
+          "id": 11748,
+          "pattern_id": 2196,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains Dampness and strengthens the Spleen."
+        },
+        {
+          "id": 11749,
+          "pattern_id": 2196,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "",
+          "description": "Tonifies Spleen Qi and helps stop diarrhea."
+        },
+        {
+          "id": 11750,
+          "pattern_id": 2196,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Leaches out Dampness and settles the intestines."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 7929,
+          "pattern_id": 2196,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen Qi and resolves Dampness."
+        },
+        {
+          "id": 7930,
+          "pattern_id": 2196,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen and drains Dampness."
+        },
+        {
+          "id": 7931,
+          "pattern_id": 2196,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the intestines and stops diarrhea."
+        },
+        {
+          "id": 7932,
+          "pattern_id": 2196,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonifies the Spleen directly at its back-shu point."
+        }
+      ]
+    },
+    {
+      "id": 2197,
+      "condition_id": 453,
+      "pattern_name": "Rebellious Liver Qi invading the Spleen",
+      "pattern_slug": "rebellious-liver-qi-invading-the-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Cramping abdominal pain that eases after a bowel movement\", \"Diarrhea triggered by stress, anger, or frustration\", \"Rib-side distension and bloating\", \"Irritability, frequent sighing, and moodiness\"]",
+      "worse_with": "Stress and anger, Raw, cold, or greasy foods, Overwork and fatigue, Irregular meal times",
+      "better_with": "Emotional calm and relaxation, Gentle walking, Warm compress on the abdomen, Small, frequent meals",
+      "why_this_happens": "When stress, frustration, or anger build up, the Liver Qi stagnates and then surges sideways to attack the Spleen, which is already weakened by the long-standing illness. This disrupts the Spleen's ability to transform and transport food and fluids, causing loose, urgent stools with mucus. The stuck Liver Qi also creates cramping abdominal pain and bloating that typically ease after a bowel movement, because the explosive release of stool temporarily relieves the internal pressure.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with possible teeth marks; thin white, slightly greasy coating. Pulse: wiry (弦 xián), especially at the left guan (Liver) position, with a softer right guan (Spleen) position.",
+      "why_triggers_reliefs_work": "Stress and anger are the main drivers of this pattern, because they cause Liver Qi to stagnate and then invade the Spleen. Calming the mind and soothing the Liver directly address the root cause, while gentle movement helps Qi flow smoothly. Warmth and small, warm meals support the already weakened Spleen, whereas raw and cold foods further chill and weaken Spleen Yang, triggering more diarrhea. Overwork and irregular eating deplete Spleen Qi, making it even more vulnerable to the Liver's attack.",
+      "diet_and_lifestyle": "Make relaxation a daily habit-gentle walking, deep breathing, or yoga can help the Liver Qi flow smoothly. Eat small, warm, cooked meals at regular times and avoid raw, cold, or greasy foods that burden the Spleen.",
+      "formulas": [
+        {
+          "id": 5023,
+          "pattern_id": 2197,
+          "formula_name": "Tong Xie Yao Fang",
+          "formula_url": "/knowledge-base/formulas/tong-xie-yao-fang",
+          "translation": "Important Formula for Painful Diarrhea &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Strengthens the Spleen, Nourishes Blood and Softens the Liver, Drains Dampness",
+          "description": "The classic formula to soothe the Liver, strengthen the Spleen, and stop stress-related diarrhea."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 11751,
+          "pattern_id": 2197,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Soothes Liver Qi and relieves the cramping abdominal pain."
+        },
+        {
+          "id": 11752,
+          "pattern_id": 2197,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness to firm up the stools."
+        },
+        {
+          "id": 11753,
+          "pattern_id": 2197,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and reduces the bloating and distension."
+        },
+        {
+          "id": 11754,
+          "pattern_id": 2197,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Lifts the Spleen Qi and stops the urgent diarrhea."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 7933,
+          "pattern_id": 2197,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Soothes stagnant Liver Qi and eases the emotional trigger."
+        },
+        {
+          "id": 7934,
+          "pattern_id": 2197,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and restores its ability to transform and transport."
+        },
+        {
+          "id": 7935,
+          "pattern_id": 2197,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Liver and Spleen, calming the abdomen and regulating bowel function."
+        }
+      ]
+    },
+    {
+      "id": 2198,
+      "condition_id": 453,
+      "pattern_name": "Yin and Blood Deficiency",
+      "pattern_slug": "yin-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry, blood-streaked stools or scanty diarrhea\", \"Emaciation and weight loss\", \"Night sweats and five-center heat\", \"Pale complexion with possible malar flush\"]",
+      "worse_with": "Overwork and late nights, Spicy, greasy, or drying foods, Emotional stress and anxiety, Excessive sweating or heat",
+      "better_with": "Rest and adequate sleep, Warm, moistening soups and congees, Avoiding spicy and fried foods, Gentle, non-sweating activity",
+      "why_this_happens": "Chronic dysentery gradually drains the body's Yin and Blood, the moistening and nourishing substances. As they become depleted, the intestines lose their lubrication and the tissues become dry and malnourished. This leads to dry, blood-streaked stools or scanty diarrhea, along with signs of deficiency heat like night sweats and a sensation of warmth in the palms and chest.",
+      "tongue_and_pulse": "Tongue: pale to pale-red, thin, dry body with cracks, scanty or peeled coating. Pulse: fine (Xi) and rapid (Shu).",
+      "why_triggers_reliefs_work": "Yin and Blood are the body's cooling, nourishing substances. Long-standing dysentery has depleted them, leaving the body dry and undernourished. Rest and moistening foods help rebuild these substances, while spicy foods, overwork, and stress further consume them, worsening dryness and deficiency heat.",
+      "diet_and_lifestyle": "Eat small, frequent meals of warm, moistening foods such as congee with lily bulb and lotus seeds, steamed pears, and bone broth. Avoid spicy, fried, and drying foods that consume fluids. Prioritize rest and avoid overwork; gentle activities like walking are fine, but vigorous exercise can deplete Yin further.",
+      "formulas": [
+        {
+          "id": 5024,
+          "pattern_id": 2198,
+          "formula_name": "Zhu Che Wan",
+          "formula_url": "/knowledge-base/formulas/zhu-che-wan",
+          "translation": "Cart-Stopping Pill &#xB7; Tang dynasty, ~652 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Nourishes Yin and enriches Blood, Secures the intestines and stops dysentery",
+          "description": "The primary formula for chronic dysentery due to Yin and Blood deficiency; it nourishes Yin, clears deficiency heat, and stops bleeding."
+        },
+        {
+          "id": 5025,
+          "pattern_id": 2198,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "A foundational formula to nourish Blood and harmonize the Liver, often combined with Zhu Che Wan to address the Blood deficiency aspect."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 11755,
+          "pattern_id": 2198,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and harmonizes the Liver, helping to rebuild the Blood lost through chronic dysentery."
+        },
+        {
+          "id": 11756,
+          "pattern_id": 2198,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes Blood, astringes Yin, and soothes abdominal cramps, easing intestinal discomfort."
+        },
+        {
+          "id": 11757,
+          "pattern_id": 2198,
+          "herb_name": "E Jiao",
+          "herb_url": "/knowledge-base/herbs/e-jiao",
+          "translation": "Donkey-hide gelatin",
+          "properties": "",
+          "description": "Enriches Blood and stops bleeding, especially useful for blood-streaked stools in this pattern."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 7936,
+          "pattern_id": 2198,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies both Yin and Blood, and regulates the Spleen to support fluid and Blood production."
+        },
+        {
+          "id": 7937,
+          "pattern_id": 2198,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel, strongly nourishes Kidney Yin and cools deficiency heat."
+        },
+        {
+          "id": 7938,
+          "pattern_id": 2198,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Nourishes and harmonises the Blood, addressing the Blood deficiency component."
+        },
+        {
+          "id": 7939,
+          "pattern_id": 2198,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to generate Qi and Blood, and supports intestinal function."
+        }
+      ]
+    },
+    {
+      "id": 2199,
+      "condition_id": 453,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever (often over 39&#xB0;C)\", \"Profuse fresh blood in stools, little mucus\", \"Severe, burning abdominal pain\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Alcohol and coffee, Overexertion and hot environments, Stress and anger",
+      "better_with": "Cooling fluids and bland congee, Rest in a cool, quiet room, Cool compresses on the forehead",
+      "why_this_happens": "In chronic dysentery, the body is already weakened, but a sudden flare-up can bring an intense invasion of heat-toxin directly into the intestines. This scorching heat damages the intestinal mucosa and blood vessels, leading to profuse, fresh-bloody diarrhea and severe burning pain. The heat-toxin also rises and spreads through the body, causing high fever, intense thirst, and restlessness as it consumes fluids and disturbs the mind.",
+      "tongue_and_pulse": "Tongue: red body, possibly with prickly thorns, and a dry yellow coating. Pulse: rapid and forceful, often slippery (滑数 huá shuò).",
+      "why_triggers_reliefs_work": "Toxic-heat is an intense fire-toxin that scorches the intestines and consumes body fluids. Cooling foods and rest help drain the heat and replenish fluids, while spicy, greasy, or hot-natured foods add fuel to the fire. Overexertion and emotional upset generate internal heat, worsening the flare. A calm, cool environment supports the body's effort to clear the toxin.",
+      "diet_and_lifestyle": "During a flare-up, drink plenty of cooling fluids such as diluted mung bean soup or watermelon juice. Eat only light, bland foods like plain congee or steamed vegetables. Strictly avoid alcohol, coffee, spicy, fried, or greasy foods. Rest in a cool, quiet environment and avoid overheating.",
+      "formulas": [
+        {
+          "id": 5026,
+          "pattern_id": 2199,
+          "formula_name": "Bai Tou Weng Tang",
+          "formula_url": "/knowledge-base/formulas/bai-tou-weng-tang",
+          "translation": "Pulsatilla Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Stops Dysentery",
+          "description": "The classic formula for heat-toxin dysentery. It clears heat, resolves toxin, cools the blood, and stops dysentery."
+        },
+        {
+          "id": 5027,
+          "pattern_id": 2199,
+          "formula_name": "Zhen Ren Yang Zang Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-ren-yang-zang-tang",
+          "translation": "True Man&#x27;s Decoction to Nourish the Organs &#xB7; Song dynasty (&#x5B8B;&#x671D;), first published ~1078&#x2013;1151 CE",
+          "properties": "Warm, Astringes the intestines and stops diarrhea, Secures prolapse, Warms and tonifies the Spleen and Kidneys",
+          "description": "A classical formula for chronic, long-standing diarrhea or dysentery that has weakened the digestive system to the point where stool slips out uncontrollably. It works by powerfully tightening the intestines to stop the leaking while warming and rebuilding the Spleen and Kidneys. Commonly used for chronic colitis, ulcerative colitis in remission, and rectal prolapse when cold-type weakness is the underlying cause."
+        },
+        {
+          "id": 5028,
+          "pattern_id": 2199,
+          "formula_name": "Si Shen Wan",
+          "formula_url": "/knowledge-base/formulas/si-shen-wan",
+          "translation": "Four Miracle Pill &#xB7; Ming dynasty (&#x660E;&#x4EE3;), mid-16th century",
+          "properties": "Warm, Warms the Kidneys, Warms and strengthens the Spleen, Binds the intestines and stops diarrhea",
+          "description": "A classical warming formula used for chronic early-morning diarrhea caused by weakness and coldness in the Kidneys and Spleen. It warms the Kidney fire to support digestion and firms up the intestines to stop diarrhea, making it especially suited for people who wake before dawn with urgent loose stools, poor appetite, cold limbs, and fatigue."
+        },
+        {
+          "id": 5029,
+          "pattern_id": 2199,
+          "formula_name": "Shao Yao Tang",
+          "formula_url": "/knowledge-base/formulas/shao-yao-tang",
+          "translation": "Peony Decoction &#xB7; J&#x12B;n dynasty, 1186 CE",
+          "properties": "Cold, Clears Heat and dries Dampness, Invigorates Blood and Moves Qi, Resolves Toxicity",
+          "description": "A classical formula used to clear Heat and Dampness from the intestines while soothing abdominal pain and regulating Qi and Blood circulation. It is primarily used for inflammatory bowel conditions with symptoms such as abdominal cramping, bloody or mucus-containing stools, and a constant urge to go to the bathroom that brings little relief."
+        },
+        {
+          "id": 5030,
+          "pattern_id": 2199,
+          "formula_name": "Bai Tou Weng Tang",
+          "formula_url": "/knowledge-base/formulas/bai-tou-weng-tang",
+          "translation": "Pulsatilla Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Stops Dysentery",
+          "description": "A classical formula from the Shang Han Lun used to treat severe intestinal infections with bloody diarrhea, abdominal pain, and an urgent need to use the toilet. It works by clearing intense Heat and toxins from the intestines and cooling the Blood to stop the bleeding. It is most commonly applied to acute dysentery and active flares of inflammatory bowel conditions when Heat is the dominant factor."
+        },
+        {
+          "id": 5031,
+          "pattern_id": 2199,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 5032,
+          "pattern_id": 2199,
+          "formula_name": "Tong Xie Yao Fang",
+          "formula_url": "/knowledge-base/formulas/tong-xie-yao-fang",
+          "translation": "Important Formula for Painful Diarrhea &#xB7; Yu&#xE1;n dynasty, ~1347 CE",
+          "properties": "Slightly Warm, Strengthens the Spleen, Nourishes Blood and Softens the Liver, Drains Dampness",
+          "description": "A classical four-herb formula used to relieve abdominal pain accompanied by diarrhea, especially when symptoms are triggered or worsened by stress and emotional upset. It works by strengthening the digestive system (Spleen) while calming the Liver, which in TCM theory is responsible for the cramping pain that precedes each episode of diarrhea."
+        },
+        {
+          "id": 5033,
+          "pattern_id": 2199,
+          "formula_name": "Zhu Che Wan",
+          "formula_url": "/knowledge-base/formulas/zhu-che-wan",
+          "translation": "Cart-Stopping Pill &#xB7; Tang dynasty, ~652 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Nourishes Yin and enriches Blood, Secures the intestines and stops dysentery",
+          "description": "A classic Chinese herbal pill that helps stop chronic diarrhea or dysentery with bloody stools, especially when long-lasting intestinal heat has damaged the body&#x27;s fluids and blood. It works by clearing lingering heat, nourishing yin and blood, and gently warming the digestive system to restore balance."
+        },
+        {
+          "id": 5034,
+          "pattern_id": 2199,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "A classical formula known as the foundation of all blood-nourishing prescriptions in Chinese medicine. It gently replenishes and activates the Blood, and is widely used for conditions related to Blood deficiency such as pale complexion, dizziness, menstrual irregularities, and abdominal pain. Often called the &#x27;number one formula for women&#x27;s health,&#x27; it serves as a base that practitioners modify for a wide range of Blood-related conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 11758,
+          "pattern_id": 2199,
+          "herb_name": "Bai Tou Weng",
+          "herb_url": "/knowledge-base/herbs/bai-tou-weng",
+          "translation": "Chinese Anemone Root",
+          "properties": "",
+          "description": "The chief herb that directly clears heat-toxin from the intestines and cools blood to arrest dysentery."
+        },
+        {
+          "id": 11759,
+          "pattern_id": 2199,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 11760,
+          "pattern_id": 2199,
+          "herb_name": "Bu Gu Zhi",
+          "herb_url": "/knowledge-base/herbs/bu-gu-zhi",
+          "translation": "Psoralea fruit",
+          "properties": "Warm, Tonifies Kidney Yang, Secures Essence and Stops Enuresis, Warms the Middle Burner and Stops Diarrhea",
+          "description": ""
+        },
+        {
+          "id": 11761,
+          "pattern_id": 2199,
+          "herb_name": "Rou Dou Kou",
+          "herb_url": "/knowledge-base/herbs/rou-dou-kou",
+          "translation": "Nutmeg",
+          "properties": "Warm, Regulates Qi and Harmonizes the Middle Burner, Astringes the Intestines and Stops Diarrhea, Warms the Interior and Dispels Cold",
+          "description": ""
+        },
+        {
+          "id": 11762,
+          "pattern_id": 2199,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 11763,
+          "pattern_id": 2199,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 11764,
+          "pattern_id": 2199,
+          "herb_name": "Bai Tou Weng",
+          "herb_url": "/knowledge-base/herbs/bai-tou-weng",
+          "translation": "Chinese Anemone Root",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood and Stops Dysentery, Dries Dampness and kills parasites",
+          "description": ""
+        },
+        {
+          "id": 11765,
+          "pattern_id": 2199,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 11766,
+          "pattern_id": 2199,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 11767,
+          "pattern_id": 2199,
+          "herb_name": "Shan Yao",
+          "herb_url": "/knowledge-base/herbs/shan-yao",
+          "translation": "Chinese yam",
+          "properties": "Neutral, Benefits Qi and Nourishes Yin, Tonifies the Spleen and nourishes the Stomach, Clears Lung Heat and Generates Fluids",
+          "description": ""
+        },
+        {
+          "id": 11768,
+          "pattern_id": 2199,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 11769,
+          "pattern_id": 2199,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 11770,
+          "pattern_id": 2199,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 11771,
+          "pattern_id": 2199,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 11772,
+          "pattern_id": 2199,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 11773,
+          "pattern_id": 2199,
+          "herb_name": "E Jiao",
+          "herb_url": "/knowledge-base/herbs/e-jiao",
+          "translation": "Donkey-hide gelatin",
+          "properties": "Neutral, Nourishes Blood, Stops Bleeding, Nourishes Yin",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 7940,
+          "pattern_id": 2199,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reduce. Clears heat and resolves toxin, especially from the Large Intestine."
+        },
+        {
+          "id": 7941,
+          "pattern_id": 2199,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Reduce. Regulates intestinal Qi and stops diarrhea and pain."
+        },
+        {
+          "id": 7942,
+          "pattern_id": 2199,
+          "acupoint_code": "ST-37",
+          "acupoint_name": "Shangjuxu ST-37",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/shangjuxu-st-37",
+          "translation": "Sh&#xE0;ng j&#xF9; x&#x16B;",
+          "properties": "Regulates the Stomach and Intestines and resolves food retention, Resolves Damp-Heat",
+          "description": "Reduce. The lower He-Sea point of the Large Intestine, clears heat-dampness and relieves dysentery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 2949,
+      "condition_id": 453,
+      "question": "Can TCM help with the urgent, sudden need to find a bathroom?",
+      "answer": "Yes. In TCM, that urgent, cramping need to go - called tenesmus - is often due to Liver Qi attacking the Spleen or Damp-Heat obstructing the bowel. Herbal formulas like Tong Xie Yao Fang for stress-triggered urgency or Shao Yao Tang for damp-heat flares work quickly to relax the bowel and move stuck Qi. Many patients feel less urgency within the first two weeks of treatment, though complete control depends on addressing the underlying pattern."
+    },
+    {
+      "id": 2950,
+      "condition_id": 453,
+      "question": "How long until the bloody mucus in my stools stops?",
+      "answer": "During a flare-up with active Damp-Heat in the Large Intestine, herbs like Huang Lian and Bai Tou Weng can clear heat and dry dampness, often reducing blood and mucus within 1-2 weeks. However, if the root cause is deep Spleen and Kidney Yang deficiency, occasional traces may persist until the body's holding function is rebuilt, which can take several months. The goal is to lengthen the time between flares until they stop altogether."
+    },
+    {
+      "id": 2951,
+      "condition_id": 453,
+      "question": "Do I have to change my diet completely?",
+      "answer": "Diet is a cornerstone of TCM treatment for chronic dysentery, but it doesn't mean a life of bland restriction. The most important change is to avoid cold, raw, greasy, and spicy foods that generate Dampness, the main culprit behind mucus and loose stools. Warm, cooked foods like congee, steamed vegetables, and well-cooked lean meats are your healing allies. Many people find they can gradually reintroduce a wider variety once their digestion strengthens, guided by their practitioner."
+    },
+    {
+      "id": 2952,
+      "condition_id": 453,
+      "question": "Can I take Chinese herbs along with my mesalamine or biologic medication?",
+      "answer": "In most cases, yes. TCM herbs are often used alongside conventional anti-inflammatory drugs for chronic bowel conditions. However, some herbs that move blood (like Dang Gui) could theoretically interact with anticoagulants, and strong heat-clearing herbs may affect the gut microbiome. Always tell both your TCM practitioner and your gastroenterologist exactly what you are taking. Never stop a prescribed medication abruptly - work with your doctor to adjust doses if your symptoms improve."
+    },
+    {
+      "id": 2953,
+      "condition_id": 453,
+      "question": "Does stress really cause my flare-ups, or is that just in my head?",
+      "answer": "In TCM, the connection is very physical. The Liver is responsible for the smooth flow of Qi throughout the body, and when stress, anger, or frustration block that flow, the stagnant Liver Qi attacks the Spleen, directly disrupting digestion and triggering diarrhea. That's why a pattern called Rebellious Liver Qi invading the Spleen is a recognized cause of chronic dysentery, and why treatments that calm the Liver while strengthening the Spleen can break the stress-flare cycle."
+    },
+    {
+      "id": 2954,
+      "condition_id": 453,
+      "question": "What if I have both cold symptoms and heat symptoms at the same time?",
+      "answer": "This is actually very common in chronic dysentery. The body can have a deep, cold deficiency (Spleen and Kidney Yang deficiency) that makes you feel chilly, tired, and achy, but a lingering pocket of damp-heat in the intestines that still causes burning and blood-streaked mucus. TCM formulas are designed to handle mixed patterns - for example, a formula might combine warming herbs like Rou Gui with heat-clearing herbs like Huang Lian to address both layers simultaneously."
+    },
+    {
+      "id": 2955,
+      "condition_id": 453,
+      "question": "Is acupuncture safe for chronic dysentery, and does it hurt?",
+      "answer": "Acupuncture is very safe when performed by a licensed professional, and it's a gentle treatment for chronic bowel conditions. The needles are hair-thin, and most people feel only a mild sensation. Points like Zusanli ST-36 and Tianshu ST-25 are used to regulate the intestines and strengthen the Spleen, and many patients find sessions deeply relaxing. Acupuncture is particularly helpful for reducing stress-related flares and improving overall digestive function."
+    },
+    {
+      "id": 2956,
+      "condition_id": 453,
+      "question": "Will the results last after I stop taking herbs?",
+      "answer": "The goal of TCM treatment is to correct the underlying imbalance so that you no longer need daily medication. Once your Spleen and Kidney Yang are strong and damp-heat is cleared, many patients maintain their improvement with dietary awareness and occasional tune-ups. However, chronic dysentery can be stubborn, and some people benefit from a maintenance dose of herbs or periodic acupuncture, especially during stressful periods or seasonal changes that tend to trigger them."
+    }
+  ],
+  "research": [
+    {
+      "id": 676,
+      "condition_id": 453,
+      "title": "Chinese herbal medicine for ulcerative colitis",
+      "description": "A Cochrane systematic review evaluating the efficacy of Chinese herbal medicines for ulcerative colitis. The review included multiple RCTs and found some evidence of benefit but noted the low methodological quality of included studies, highlighting the need for larger, well-designed trials.",
+      "url": "",
+      "periodical": "Liu J, et al. Cochrane Database of Systematic Reviews. 2013, Issue 2. Art. No.: CD006567."
+    }
+  ]
+}

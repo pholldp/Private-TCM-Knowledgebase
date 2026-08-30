@@ -1,0 +1,305 @@
+{
+  "id": 1531,
+  "name": "Slow Pulse",
+  "url": "/knowledge-base/conditions/slow-pulse",
+  "kind": "Symptom",
+  "pinyin": "chí mài",
+  "chinese_name": "迟脉",
+  "preview_text": "A slow pulse isn’t just a heart rate number - it’s a window into your body’s inner thermostat. Whether your pulse feels weak and forceless or tight and forceful tells us whether to...",
+  "categories": "[\"Pulse Diagnosis\"]",
+  "body_regions": "[\"Wrist\"]",
+  "synonyms": "[\"Sluggish Pulse\"]",
+  "conventional_description": "In Western medicine, a slow pulse is defined as a resting heart rate below 60 beats per minute (bradycardia). It can be normal in well-trained athletes, but in others it may signal an issue with the heart’s electrical system, an underactive thyroid, or medication side effects. Diagnosis is typically made with an electrocardiogram (ECG) and blood tests to identify the underlying cause.",
+  "conventional_treatments": "When bradycardia is asymptomatic and benign, no treatment is needed. If it causes dizziness, fatigue, or fainting, conventional management may include adjusting medications that slow the heart, treating an underlying thyroid condition, or implanting a pacemaker. The approach focuses on ensuring the heart rate is sufficient to maintain adequate circulation.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the pulse is not just a count of beats per minute. It’s a direct expression of your body’s Qi, Blood, and Yang. A slow pulse tells the practitioner that something is slowing the river of circulation - either the river is freezing from cold, or the current is weak because the driving force (Yang) is too low.\nThe Heart propels blood, but its ability to do so depends on the warming, activating energy of Kidney and Spleen Yang. When that Yang is deficient - a pattern called Empty-Cold - the pulse becomes slow, deep, and forceless, like a weak flame that can’t generate enough heat. The whole body feels cold, especially the hands and feet, and fatigue runs deep.\nSometimes the cold is not a lack of warmth but an invasion of excess cold that constricts the vessels - a pattern called Interior Cold. Here the pulse is slow but tight and forceful, like a frozen rope. The body still has strength to push back, so the pulse fights against the obstruction, often accompanied by sharp, cramping pain that improves with heat.\nBecause these two patterns - Empty-Cold and Interior Cold - have opposite treatments (tonify Yang vs. expel cold), the pulse’s force is the critical differentiator. A trained practitioner can feel this instantly, and it guides everything that follows.",
+  "classical_quote": "「迟脉，呼吸三至，来去极迟。」",
+  "classical_translation": "\"The slow pulse arrives three times in one breath cycle, and its coming and going is extremely slow.\"",
+  "classical_source": "Mai Jing (Pulse Classic)  ,  Chapter 4: Discrimination of the Pulse Signs \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner begins by feeling the slow pulse (迟脉, chí mài) at both wrists, paying close attention to its force. The most important first question is whether the pulse feels weak and forceless, or tight and forceful. That single quality often separates the two main patterns behind a slow pulse.\nIf the slow pulse is forceless and feels faint or deep, the picture points toward Empty-Cold. This is a yang deficiency pattern, where the body’s warming fire is too low to push the blood vigorously. The person often feels chronically cold, especially in the hands and feet, and may look pale or tired.\nIf the slow pulse is forceful and feels tight or wiry, the practitioner thinks of Interior Cold. This is an excess pattern, where cold has invaded or accumulated and is physically obstructing the vessels. The cold here is more acute or intense, and the body still has some strength to fight it, so the pulse pushes back.\nTo confirm, the practitioner asks about the cold sensation. In Empty-Cold, the chill is deep, constant, and improves with warmth and rest. In Interior Cold, the cold often comes with sharp, cramping pain that is fixed in one place, and the tongue may show a thick white coat rather than just a pale, puffy body.",
+  "patterns": [
+    {
+      "id": 7478,
+      "condition_id": 1531,
+      "pattern_name": "Empty-Cold",
+      "pattern_slug": "empty-cold",
+      "is_common": 0,
+      "symptoms": "[\"Pulse is slow and weak, not forceful\", \"Persistent feeling of cold, relieved by warmth\", \"Fatigue and listlessness\", \"Loose stools and low appetite\", \"Pale, puffy face\"]",
+      "worse_with": "Cold weather or drafts, Cold raw foods and iced drinks, Overwork and exhaustion, Prolonged illness",
+      "better_with": "Warmth (heating pad, warm drinks), Rest and sleep, Warm, cooked meals, Gentle walking, Moxibustion",
+      "why_this_happens": "The Spleen and Kidney provide the body's fundamental warmth and driving force. When their Yang becomes deficient, the body lacks the heat and energy to circulate blood with vigor. The heart's pumping action weakens, and the vessels are not adequately propelled, resulting in a pulse that is slow, deep, and forceless-like a river moving sluggishly in winter.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks; thin, white, moist coating. Pulse: deep, slow, and weak, especially at the rear (Chi) positions.",
+      "why_triggers_reliefs_work": "Cold depletes Yang, so external cold and cold foods directly worsen the deficiency. Rest and warmth conserve and support the body's dwindling Yang, allowing the pulse to gain strength. Overwork and exhaustion drain Qi and Yang further, slowing the pulse even more. Warm foods and moxibustion provide external heat to compensate for the internal lack, helping blood circulate more vigorously.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups and stews, and avoid raw, cold, or frozen items. Keep the lower back and abdomen warm, and consider using a hot water bottle or moxibustion at home on the lower abdomen. Gentle daily movement like walking helps circulate Yang without depleting it. Prioritize rest and avoid overwork, as exhaustion further drains Yang.",
+      "formulas": [
+        {
+          "id": 16992,
+          "pattern_id": 7478,
+          "formula_name": "Fu Zi Li Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/fu-zi-li-zhong-tang",
+          "translation": "Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner",
+          "description": "Warms the middle burner and dispels Cold, specifically for Spleen Yang deficiency with interior Cold."
+        },
+        {
+          "id": 16993,
+          "pattern_id": 7478,
+          "formula_name": "Jin Gui Shen Qi Wan",
+          "formula_url": "/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1",
+          "translation": "Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire",
+          "description": "Warms and tonifies Kidney Yang, addressing the root of Yang deficiency that leads to Empty-Cold."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 39129,
+          "pattern_id": 7478,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Restores devastated Yang and warms the interior, the primary herb for severe Cold from deficiency."
+        },
+        {
+          "id": 39130,
+          "pattern_id": 7478,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms the Kidneys and disperses deep Cold, guiding the fire back to its source."
+        },
+        {
+          "id": 39131,
+          "pattern_id": 7478,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Warms the Spleen and Stomach, dispelling interior Cold and improving digestion."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 26676,
+          "pattern_id": 7478,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yang to warm the body&#x27;s foundation."
+        },
+        {
+          "id": 26677,
+          "pattern_id": 7478,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Directly warms the Gate of Life, strengthening the body&#x27;s core fire."
+        },
+        {
+          "id": 26678,
+          "pattern_id": 7478,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion on this point powerfully warms the lower burner and dispels Cold."
+        },
+        {
+          "id": 26679,
+          "pattern_id": 7478,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Yang, strengthens the Spleen and Stomach to generate warmth."
+        }
+      ]
+    },
+    {
+      "id": 7479,
+      "condition_id": 1531,
+      "pattern_name": "Interior Cold",
+      "pattern_slug": "interior-cold",
+      "is_common": 0,
+      "symptoms": "[\"Sharp, fixed pain that improves with warmth\", \"Cold hands and feet, even under blankets\", \"Aversion to cold, curling up for warmth\", \"No thirst, preference for warm drinks\"]",
+      "worse_with": "Exposure to cold weather, Iced or raw foods and drinks, Prolonged inactivity in cold places, Emotional shock or fear",
+      "better_with": "Warmth (heating pad, hot water bottle), Warm drinks and soups, Moxibustion on the lower back, Rest in a warm room",
+      "why_this_happens": "Excess Cold invades the interior, constricting the blood vessels like ice freezing a stream. This congealing action obstructs the smooth flow of Qi and blood, so the heart has to push harder against the resistance. The result is a pulse that arrives slowly but with a tight, forceful quality - a sign that the body is fighting a real, tangible cold blockage.",
+      "tongue_and_pulse": "Tongue: pale body with a white, moist or slippery coating. Pulse: deep (Chen), slow (Chi), and tight (Jin) - forceful like a taut rope.",
+      "why_triggers_reliefs_work": "Cold congeals and contracts - it literally freezes the movement of Qi and blood, making the pulse slow and tight. Heat, whether from warm food, clothing, or moxibustion, melts that ice, opens the vessels, and allows blood to flow freely again. Rest conserves yang, while fear and shock can further deplete the heart’s yang, worsening the cold.",
+      "diet_and_lifestyle": "Eat only warm, cooked foods - soups, stews, and congees. Generously use warming spices like ginger, cinnamon, and black pepper. Avoid all raw, cold, or iced items. Keep the abdomen and lower back covered and warm. Gentle walking or stretching helps keep blood moving without draining energy.",
+      "formulas": [
+        {
+          "id": 16994,
+          "pattern_id": 7479,
+          "formula_name": "Si Ni Tang",
+          "formula_url": "/knowledge-base/formulas/si-ni-tang",
+          "translation": "Frigid Extremities Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Kidney Yang",
+          "description": "The classic formula to warm the interior, expel cold, and rescue yang, restoring a forceful slow pulse."
+        },
+        {
+          "id": 16995,
+          "pattern_id": 7479,
+          "formula_name": "Fu Zi Li Zhong Tang",
+          "formula_url": "/knowledge-base/formulas/fu-zi-li-zhong-tang",
+          "translation": "Aconite Decoction to Regulate the Middle &#xB7; S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Hot, Warms Yang and Disperses Cold, Tonifies Qi and Strengthens the Spleen, Warms the Middle Burner",
+          "description": "A warming formula used to strengthen the digestive system and restore warmth to the body. It is used for people who feel deeply cold in the abdomen, experience chronic loose stools or diarrhea, vomiting, poor appetite, and cold hands and feet caused by severe weakness and cold in the Spleen, Stomach, and Kidneys."
+        },
+        {
+          "id": 16996,
+          "pattern_id": 7479,
+          "formula_name": "Jin Gui Shen Qi Wan",
+          "formula_url": "/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1",
+          "translation": "Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire",
+          "description": "A classical formula that gently warms and supports the Kidneys to restore vitality, fluid balance, and lower body warmth. It is used for people with Kidney weakness who experience lower back soreness, cold legs, frequent urination or difficulty urinating, and general fatigue. Unlike strong warming formulas, it uses a small amount of warming herbs alongside a larger base of nourishing ingredients, working gradually to restore the body&#x27;s natural balance."
+        },
+        {
+          "id": 16997,
+          "pattern_id": 7479,
+          "formula_name": "Si Ni Tang",
+          "formula_url": "/knowledge-base/formulas/si-ni-tang",
+          "translation": "Frigid Extremities Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Warms the Interior and Dispels Cold, Tonifies Kidney Yang",
+          "description": "A classical emergency formula used to rescue failing Yang and reverse dangerous cold in the body. It is designed for situations where the body&#x27;s warming function has severely declined, causing ice-cold limbs, extreme fatigue, watery diarrhea, and a barely detectable pulse. In modern practice, it is applied alongside conventional care for conditions like shock and heart failure when there are clear signs of Yang collapse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 39132,
+          "pattern_id": 7479,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "",
+          "description": "Dried ginger warms the middle burner and disperses accumulated cold, relieving constriction."
+        },
+        {
+          "id": 39133,
+          "pattern_id": 7479,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 39134,
+          "pattern_id": 7479,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 39135,
+          "pattern_id": 7479,
+          "herb_name": "Gan Jiang",
+          "herb_url": "/knowledge-base/herbs/gan-jiang",
+          "translation": "Dried ginger rhizome",
+          "properties": "Hot, Warms the Interior and Dispels Cold, Restores Yang and unblocks the channels, Warms the Lungs and Transforms Phlegm-Fluids",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 26680,
+          "pattern_id": 7479,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion on Mingmen warms the Gate of Life and dispels deep interior cold."
+        },
+        {
+          "id": 26681,
+          "pattern_id": 7479,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion on Guanyuan warms the lower burner and restores yang to push blood."
+        },
+        {
+          "id": 26682,
+          "pattern_id": 7479,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Needle with moxibustion to strengthen the Spleen and Stomach yang, supporting overall warmth."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 9934,
+      "condition_id": 1531,
+      "question": "What does a slow pulse mean in TCM?",
+      "answer": "A slow pulse (chí mài) generally indicates cold or yang deficiency in the body. It means the circulation is being slowed - either because there isn’t enough warming energy (Yang) to drive it, or because excess cold is constricting the vessels. The pulse’s force - whether it feels weak or tight - tells the practitioner which pattern is present."
+    },
+    {
+      "id": 9935,
+      "condition_id": 1531,
+      "question": "Can acupuncture or herbs actually speed up my heart rate?",
+      "answer": "TCM treatment doesn’t directly force the heart rate higher. Instead, it addresses the underlying cold or yang deficiency that is causing the pulse to slow. As your internal warmth and energy improve, the pulse naturally becomes more robust and may increase to a healthier rate. This is a gradual process, not an immediate effect."
+    },
+    {
+      "id": 9936,
+      "condition_id": 1531,
+      "question": "Is a slow pulse always a bad thing?",
+      "answer": "Not necessarily. In TCM, a slow pulse can be normal for some constitutions, just as athletes often have a slow resting heart rate. The key is whether you have accompanying symptoms - persistent coldness, fatigue, or pain. A slow pulse without any discomfort and with good force may simply reflect a calm, efficient system."
+    },
+    {
+      "id": 9937,
+      "condition_id": 1531,
+      "question": "How long until I feel warmer and less tired?",
+      "answer": "Many patients notice improved warmth and energy within 2-4 weeks of starting herbs and moxibustion. Empty-Cold patterns take longer because we are rebuilding foundational Yang, while Interior Cold often responds more quickly once the cold is driven out. Consistency with diet and lifestyle (warm foods, avoiding cold exposure) speeds progress."
+    },
+    {
+      "id": 9938,
+      "condition_id": 1531,
+      "question": "Can I combine TCM treatment with my heart medication?",
+      "answer": "Yes, in most cases. TCM warming herbs and acupuncture can be used alongside conventional heart medications, but you must inform both your TCM practitioner and your prescribing doctor. Some herbs may interact with blood thinners or other drugs, so a full medication review is essential. Never stop or adjust your heart medication without medical supervision."
+    },
+    {
+      "id": 9939,
+      "condition_id": 1531,
+      "question": "What foods should I eat or avoid if I have a slow pulse?",
+      "answer": "Warm, cooked foods are your best friend. Soups, stews, ginger, cinnamon, lamb, and slow-cooked grains all help stoke the body’s fire. Avoid raw, cold, and icy foods and drinks - they directly aggravate the cold pattern that slows the pulse. Even salads and smoothies can work against you if your body is already cold."
+    }
+  ],
+  "research": [
+    {
+      "id": 2265,
+      "condition_id": 1531,
+      "title": "Clinical observation on Mahuang Fuzi Xixin Tang in treating sinus bradycardia of yang deficiency type",
+      "description": "A randomized controlled trial of 80 patients with sinus bradycardia found that the warming yang formula Mahuang Fuzi Xixin Tang increased average heart rate by 8-10 bpm over 4 weeks compared to a control group receiving atropine, with significant improvement in cold intolerance and fatigue.",
+      "url": "",
+      "periodical": "Li X, et al. Journal of Traditional Chinese Medicine, 2015; 35(3): 278-282."
+    },
+    {
+      "id": 2266,
+      "condition_id": 1531,
+      "title": "Acupuncture for symptomatic bradycardia: a systematic review and meta-analysis",
+      "description": "A meta-analysis of 12 RCTs including 960 participants concluded that acupuncture, especially at Neiguan PC-6, may offer a modest increase in heart rate for patients with non-life-threatening bradycardia, but the evidence was graded as low quality due to small sample sizes and methodological flaws.",
+      "url": "",
+      "periodical": "Wang Y, et al. Evidence-Based Complementary and Alternative Medicine, 2018; 2018: 1-10."
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "id": 1025,
+  "name": "ปวดลิ้น",
+  "url": "/knowledge-base/conditions/tongue-pain",
+  "kind": "Symptom",
+  "pinyin": "shé tòng",
+  "chinese_name": "舌痛",
+  "preview_text": "ความเจ็บปวดเกิดขึ้นที่บริเวณใดบนลิ้นของคุณ - ปลาย ขอบ หรือทั่วร่างกาย - และลักษณะของการเคลือบนั้น จะบอกผู้ประกอบวิชาชีพ TCM ได้อย่างชัดเจนว่าระบบอวัยวะใดที่จำเป็นต้องปรับสมดุล ส่วนใหญ่ป้า...",
+  "categories": "[\"สัญญาณลิ้น\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Tongue pain or burning sensation on the tongue\", \"Tongue pain or sensitivity\"]",
+  "conventional_description": "In Western medicine, persistent tongue pain is often diagnosed as glossodynia or burning mouth syndrome when no visible lesion is found. It can be linked to nutritional deficiencies (iron, B vitamins), hormonal changes, diabetes, oral candidiasis, or psychological stress. Diagnosis is usually one of exclusion - tests are done to rule out other conditions, and treatment often targets symptom relief rather than an identified root cause.",
+  "conventional_treatments": "Conventional treatment may include topical anesthetics, anticonvulsants like gabapentin, antidepressants, or cognitive behavioral therapy. If a deficiency is found, supplementation is recommended. However, many patients continue to experience discomfort even after these approaches, as the underlying trigger often remains unclear.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands tongue pain primarily through the organ systems that send their channels directly to the tongue. The Heart opens into the tongue, so emotional stress or excessive heat can rise and cause a burning, prickling pain at the tip. The Spleen and Stomach channels connect to the body of the tongue, so dietary imbalances that create dampness and heat can steam upward, causing a sticky, coated sensation.\nThe Liver channel wraps around the tongue, making the edges especially sensitive to unexpressed anger or frustration - when Liver Qi stagnates and turns to Fire, the sides of the tongue burn. The Kidney channel runs to the root of the tongue, so a deep-seated deficiency of Yin fluids can cause a dry, cracked, burning pain that worsens in the afternoon and evening.\nThis is why one Western diagnosis of \"burning mouth syndrome\" can correspond to several TCM patterns. A red tip with a rapid pulse is Heart Fire; a red, peeled tongue with night sweats is Kidney Yin Deficiency; a thick, greasy yellow coating with bloating is Damp-Heat. Each requires a completely different treatment strategy, even though the symptom of \"tongue pain\" sounds the same.",
+  "classical_quote": "「心气通于舌，心和则舌能知五味矣。」",
+  "classical_translation": "\"The Heart Qi communicates with the tongue; when the Heart is harmonious, the tongue can distinguish the five flavors.\"",
+  "classical_source": "Huang Di Nei Jing (Ling Shu)  ,  Chapter 17 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner first looks at the tongue itself and asks about the quality and timing of the pain. If the sensation is a raw, burning heat and the tongue tip is markedly red, Heart Fire blazing is the first suspect. This pattern often brings thirst, restlessness, and a rapid pulse, because the Heart opens into the tongue and fire travels directly upward.\nWhen the tongue is dry and red with very little coating, and the pain worsens in the afternoon or evening, the picture shifts to Kidney Yin Deficiency with Empty-Heat. Here the body’s cooling yin fluids are depleted, allowing false heat to rise. Night sweats, a dry throat, and a thin, rapid pulse separate this from the full heat of Heart Fire.\nA sticky, greasy yellow coating and a heavy, coated sensation point to Damp-Heat in the Stomach and Spleen. This pain is often accompanied by foul breath, abdominal bloating, and a slippery, rapid pulse.\nLiver Fire blazing makes the tongue edges red and sore, with a bitter taste and a wiry, rapid pulse; irritability and stress are key triggers.\nLess commonly, the tongue aches dully and looks pale when Qi and Blood are too weak to nourish it, with a weak, thready pulse. This chronic pattern often follows prolonged fatigue or poor diet.\nOr the pain is sharp and stabbing, with a dark purple tongue or stasis spots, indicating Qi and Blood Stagnation, which often follows long-held emotional strain.",
+  "patterns": [
+    {
+      "id": 5070,
+      "condition_id": 1025,
+      "pattern_name": "Heart Fire blazing",
+      "pattern_slug": "heart-fire-blazing",
+      "is_common": 0,
+      "symptoms": "[\"Red, burning tongue tip\", \"Thirst for cold drinks\", \"Mental restlessness and agitation\", \"Mouth or tongue ulcers with red edges\"]",
+      "worse_with": "Emotional stress, anger, or frustration, Spicy, fried, or greasy foods, Alcohol and coffee, Late nights and overwork",
+      "better_with": "Cold drinks, Bitter, cooling foods, Calm, quiet environments, Cooling breath exercises",
+      "why_this_happens": "In TCM, the tongue is considered the 'sprout' of the Heart. When emotional stress, overwork, or excessive hot foods create excess Fire in the Heart channel, that Fire naturally travels upward to the tongue. This results in a burning, prickling pain, especially at the tip, similar to how heat causes redness and swelling anywhere in the body.",
+      "tongue_and_pulse": "Tongue: red body with a distinctly redder tip, red points on tip, yellow dry coating. Pulse: rapid and forceful, overflowing (Hong) at the left cun (front) position.",
+      "why_triggers_reliefs_work": "Heart Fire is an excess heat condition, so anything that adds heat-like spicy food, strong emotions, or staying up late-worsens the burning pain. Cooling foods and drinks directly counteract the excess Fire, while rest and calm prevent the agitation that stirs the Heart's Shen (Mind) and generates more heat.",
+      "diet_and_lifestyle": "Cool the body by eating bitter greens, cucumber, watermelon, and mung beans. Avoid alcohol, coffee, spicy fried foods, and late-night screen time, which all fan the flames of Heart Fire. A short meditation before bed can help settle a racing mind.",
+      "formulas": [
+        {
+          "id": 11534,
+          "pattern_id": 5070,
+          "formula_name": "Dao Chi San",
+          "formula_url": "/knowledge-base/formulas/dao-chi-san",
+          "translation": "Guide Out the Red Powder &#xB7; Northern S&#xF2;ng dynasty, ~1119 CE",
+          "properties": "Cold, Clears Heart Fire, Nourishes Yin, Promotes Urination and Relieves Stranguria",
+          "description": "The primary formula to clear Heart Fire and guide heat downward through urination, relieving tongue pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 26648,
+          "pattern_id": 5070,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Heart Fire and drains heat, especially for the burning sensation."
+        },
+        {
+          "id": 26649,
+          "pattern_id": 5070,
+          "herb_name": "Zhu Ye",
+          "herb_url": "/knowledge-base/herbs/zhu-ye",
+          "translation": "Bamboo leaf",
+          "properties": "",
+          "description": "Clears heat from the Heart, eases restlessness, and promotes urination to drain fire."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18124,
+          "pattern_id": 5070,
+          "acupoint_code": "HT-5",
+          "acupoint_name": "Tongli HT-5",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/tongli-ht-5",
+          "translation": "T&#x14D;ng L&#x1D0;",
+          "properties": "Calms the Mind, Tonifies and regulates Heart Qi",
+          "description": "The Luo-connecting point of the Heart channel, reduces Heart Fire and calms the Mind."
+        },
+        {
+          "id": 18125,
+          "pattern_id": 5070,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "A local point on the throat that benefits the tongue root and relieves tongue pain."
+        },
+        {
+          "id": 18126,
+          "pattern_id": 5070,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "The Yuan-source point of the Heart, calms the Mind and clears Heart Fire."
+        }
+      ]
+    },
+    {
+      "id": 5071,
+      "condition_id": 1025,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "pattern_slug": "kidney-yin-deficiency-with-empty-heat-blazing",
+      "is_common": 0,
+      "symptoms": "[\"Burning tongue pain, worse in the afternoon and evening\", \"Night sweats\", \"Five-palm heat (heat in palms, soles, and chest)\", \"Dry mouth and throat, especially at night\", \"Red, thin, dry tongue with little or no coating\"]",
+      "worse_with": "Spicy, fried, or greasy foods, Late nights and overwork, Stress and emotional upset, Alcohol and coffee, Hot, dry weather",
+      "better_with": "Cooling, moistening foods, Rest and adequate sleep, Dark, quiet room, Small sips of warm water, Afternoon rest",
+      "why_this_happens": "The Kidney channel runs up to the root of the tongue. When Kidney Yin is depleted, the body's cooling, moistening reserve runs low, and the relative excess of Yang turns into empty heat. This heat has no substance and drifts upward along the channel, settling in the tongue and causing a dry, burning pain that feels like a slow smolder rather than a sharp flame.\nBecause Yin is naturally lower in the afternoon and evening, the pain often intensifies at those times. The tongue itself becomes thin, red, and dry with little coating, reflecting the deep fluid deficit.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with little or no coating, possible cracks. Pulse: fine (xi) and rapid (shu), may feel floating and empty at the superficial level, with a weak Chi position.",
+      "why_triggers_reliefs_work": "Kidney Yin is the body's deep cooling reserve. When it is low, any activity or substance that generates heat or consumes fluids-such as spicy food, alcohol, late nights, or emotional strain-will further deplete Yin and fan the empty fire upward to the tongue. Rest, especially in the afternoon when Yin is weakest, and a diet of moistening, cooling foods help rebuild Yin and gently settle the floating heat, directly soothing the burning sensation.",
+      "diet_and_lifestyle": "Protect your Yin by going to bed early and avoiding late nights or overwork. Emphasize cooling, moistening foods like pear, black sesame, tofu, cucumber, and congee. Avoid spicy, greasy, or fried foods and keep alcohol and coffee to a minimum. Sip warm water throughout the day rather than ice-cold drinks, which can shock the system.",
+      "formulas": [
+        {
+          "id": 11535,
+          "pattern_id": 5071,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "The classic formula to nourish Kidney Yin and clear empty heat, directly addressing the root deficiency behind the tongue pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 26650,
+          "pattern_id": 5071,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "",
+          "description": "Clears empty heat and moistens dryness, relieving the burning tongue."
+        },
+        {
+          "id": 26651,
+          "pattern_id": 5071,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Drains kidney fire without damaging Yin, calming the upward-blazing heat."
+        },
+        {
+          "id": 26652,
+          "pattern_id": 5071,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Kidney Yin to anchor the floating Yang and moisten the tongue."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18127,
+          "pattern_id": 5071,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourish Kidney Yin to anchor the floating Yang and address the root deficiency."
+        },
+        {
+          "id": 18128,
+          "pattern_id": 5071,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourish Yin, clear empty heat, and benefit the throat and tongue."
+        },
+        {
+          "id": 18129,
+          "pattern_id": 5071,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "Local point that directly soothes the tongue and clears heat."
+        },
+        {
+          "id": 18130,
+          "pattern_id": 5071,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the mind and reduces irritability caused by empty heat."
+        }
+      ]
+    },
+    {
+      "id": 5072,
+      "condition_id": 1025,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "pattern_slug": "damp-heat-in-stomach-and-spleen",
+      "is_common": 0,
+      "symptoms": "[\"Burning or sticky tongue pain, worse with rich foods\", \"Thick yellow greasy tongue coating, especially in the center\", \"Bloating and fullness after meals\", \"Loose, sticky stools with a feeling of incomplete evacuation\", \"Heavy, foggy head and limbs\"]",
+      "worse_with": "Greasy, fried, or sweet foods, Overeating or late-night meals, Alcohol and spicy dishes, Damp, humid weather, Stress and emotional upset",
+      "better_with": "Light, bland meals (congee, steamed greens), Peppermint or chrysanthemum tea, Gentle walking after meals, Warm, dry weather",
+      "why_this_happens": "The Spleen and Stomach channels connect directly to the tongue. When diet or stress weakens the Spleen, dampness and heat build up in the digestive system. This damp-heat then steams upward through these channels, coating the tongue with a thick, greasy layer and causing a sticky, burning pain.",
+      "tongue_and_pulse": "Tongue: red body, possibly swollen with teeth marks, thick yellow greasy coating especially at centre and root. Pulse: soggy (ru) and rapid (shu), often slippery (hua).",
+      "why_triggers_reliefs_work": "Greasy, sweet, and heavy foods create dampness and heat in the Spleen and Stomach, which then steam upward to the tongue. Overeating and alcohol add more fuel. Light, bland foods and gentle movement help the Spleen transform and transport fluids, clearing the damp-heat. Peppermint and chrysanthemum are cooling and aromatic, helping to disperse the sticky heat.",
+      "diet_and_lifestyle": "Eat light, easily digested foods like congee, steamed vegetables, and small amounts of lean protein. Avoid greasy, fried, sweet, and dairy-heavy foods that generate dampness. Skip alcohol, coffee, and spicy dishes until the tongue clears. Gentle daily movement, such as walking after meals, helps the Spleen move Qi and drain dampness.",
+      "formulas": [
+        {
+          "id": 11536,
+          "pattern_id": 5072,
+          "formula_name": "Gan Lu Xiao Du Dan",
+          "formula_url": "/knowledge-base/formulas/gan-lu-xiao-du-dan",
+          "translation": "Sweet Dew Special Pill to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, c. 1733 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Transforms Turbidity, Resolves Toxicity",
+          "description": "The primary formula to clear damp-heat from the middle burner, relieve the sticky coating, and ease tongue pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 26653,
+          "pattern_id": 5072,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and strengthens the Spleen, reducing the greasy coating."
+        },
+        {
+          "id": 26654,
+          "pattern_id": 5072,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears Damp-Heat from the Stomach and stops the burning sensation."
+        },
+        {
+          "id": 26655,
+          "pattern_id": 5072,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "",
+          "description": "Moves Qi and dries Dampness, relieving the bloated feeling."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18131,
+          "pattern_id": 5072,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies the Spleen and resolves dampness, addressing the root."
+        },
+        {
+          "id": 18132,
+          "pattern_id": 5072,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms phlegm-damp and clears heat from the Stomach channel."
+        },
+        {
+          "id": 18133,
+          "pattern_id": 5072,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "Local point to directly soothe tongue pain and clear heat from the throat."
+        }
+      ]
+    },
+    {
+      "id": 5073,
+      "condition_id": 1025,
+      "pattern_name": "Liver Fire Blazing",
+      "pattern_slug": "liver-fire-blazing",
+      "is_common": 0,
+      "symptoms": "[\"Burning tongue pain, worse on the edges\", \"Bitter taste in the mouth\", \"Intense irritability and short temper\", \"Red, painful or burning eyes\", \"Throbbing headache at the temples\"]",
+      "worse_with": "Emotional stress, anger, or frustration, Spicy, fried, or greasy foods, Alcohol and coffee",
+      "better_with": "Cooling foods and herbal teas, Calm rest after emotional release, Gentle outdoor movement",
+      "why_this_happens": "The Liver channel connects directly to the tongue, so when Liver Fire flares upward, it heats the tongue and causes a burning pain, especially along the edges. This usually follows unexpressed anger, frustration or long-term stress, which stagnates Liver Qi and transforms into Fire. The rising heat also disturbs the mind, making you feel irritable and short-tempered.",
+      "tongue_and_pulse": "Tongue: red body with redder sides, dry yellow coating, possible red prickles. Pulse: wiry and rapid, forceful in the left Guan position.",
+      "why_triggers_reliefs_work": "Anger and frustration stagnate Liver Qi, which rapidly transforms into Fire and surges upward to the tongue, so calming the mind and releasing tension directly reduces the root cause. Spicy, greasy foods and alcohol add excess Heat to the body, while cooling foods and herbs help drain that Heat back down. Gentle movement keeps Qi flowing smoothly and prevents stagnation from turning into Fire.",
+      "diet_and_lifestyle": "Avoid spicy, greasy and fried foods, as well as alcohol and coffee, which add heat. Eat more cooling greens like cucumber, celery and chrysanthemum tea. Practice regular stress release through walking, journaling or deep breathing.",
+      "formulas": [
+        {
+          "id": 11537,
+          "pattern_id": 5073,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "The classical formula to clear Liver Fire and drain damp-heat from the Liver and Gallbladder channels, directly addressing red painful tongue edges and irritability."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 26656,
+          "pattern_id": 5073,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "",
+          "description": "The chief herb for draining Liver Fire, especially effective for red, burning tongue edges and bitter taste."
+        },
+        {
+          "id": 26657,
+          "pattern_id": 5073,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears Heat from the Liver, Heart and Triple Burner, calming the mind and cooling the tongue."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18134,
+          "pattern_id": 5073,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. The primary point to subdue rising Liver Yang and Fire, relieving tongue pain and irritability."
+        },
+        {
+          "id": 18135,
+          "pattern_id": 5073,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. The Fire point of the Liver channel, directly drains Liver Fire and cools the tongue."
+        },
+        {
+          "id": 18136,
+          "pattern_id": 5073,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "Local point on the throat that benefits the tongue root and relieves burning tongue pain."
+        }
+      ]
+    },
+    {
+      "id": 5074,
+      "condition_id": 1025,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Mild, persistent soreness rather than sharp pain\", \"Pale tongue body, may appear thin or slightly swollen with teeth marks\", \"Fatigue and dizziness, especially after activity\", \"Poor appetite and pale complexion\", \"Worse with overwork or prolonged talking\"]",
+      "worse_with": "Overwork and prolonged fatigue, Raw, cold, or greasy foods, Emotional stress and worry, Lack of sleep",
+      "better_with": "Rest and adequate sleep, Warm, nourishing meals, Gentle exercise, Stress relief practices",
+      "why_this_happens": "Qi and Blood are the vital substances that nourish every tissue, including the tongue. When both are deficient, the tongue loses its nourishment and moisture, becoming pale and undernourished. This leads to a mild, persistent soreness or burning sensation, often after prolonged illness, overwork, or poor diet that weakens the Spleen - the source of Qi and Blood production.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine (thin) and weak, especially in the right Guan position.",
+      "why_triggers_reliefs_work": "Overwork and lack of sleep drain Qi and Blood, while raw and cold foods impair the Spleen's ability to produce them. Rest and nourishing foods support the Spleen and replenish Qi and Blood, allowing the tongue to be properly nourished and the soreness to ease.",
+      "diet_and_lifestyle": "Eat warm, nourishing foods like bone broths, red dates, goji berries, and dark leafy greens. Avoid raw, cold, and greasy foods that weaken digestion. Prioritize rest and avoid overwork; gentle exercise like walking helps Qi flow without depleting it.",
+      "formulas": [
+        {
+          "id": 11538,
+          "pattern_id": 5074,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, nourishing the tongue and overall vitality."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 26658,
+          "pattern_id": 5074,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, directly supporting tongue nourishment."
+        },
+        {
+          "id": 26659,
+          "pattern_id": 5074,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Qi to strengthen the Spleen&#x27;s ability to produce Blood."
+        },
+        {
+          "id": 26660,
+          "pattern_id": 5074,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, ensuring efficient Qi and Blood formation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18137,
+          "pattern_id": 5074,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen Qi and Blood, the master point for overall vitality."
+        },
+        {
+          "id": 18138,
+          "pattern_id": 5074,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen, Liver, and Kidney."
+        },
+        {
+          "id": 18139,
+          "pattern_id": 5074,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "Opens the channel to the tongue, relieving local soreness."
+        }
+      ]
+    },
+    {
+      "id": 5075,
+      "condition_id": 1025,
+      "pattern_name": "Qi And Blood Stagnation",
+      "pattern_slug": "qi-and-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Stabbing, fixed pain on the tongue\", \"Dark purple tongue with stasis spots\", \"Distending sensation in the chest or ribs\", \"Irritability or emotional tension\"]",
+      "worse_with": "Emotional stress, anger, or frustration, Cold weather or cold drinks, Sedentary lifestyle, Greasy, heavy foods",
+      "better_with": "Gentle exercise, Warm compress on the neck, Stress relief practices, Spicy foods in moderation",
+      "why_this_happens": "When emotional tension or chronic stress goes unrelieved, the Liver's ability to keep Qi moving smoothly falters. Qi stagnation then slows Blood flow, and over time the Blood becomes stuck in the fine collaterals that nourish the tongue. This trapped, congealed Blood creates a sharp, fixed, stabbing pain - like a needle lodged in one spot - because the local circulation is blocked and the tongue tissues are starved of fresh nourishment.",
+      "tongue_and_pulse": "Tongue: dark purple or dusky body with stasis spots, distended sublingual veins, thin white coat. Pulse: wiry (弦 xián) and choppy (涩 sè), like a taut guitar string scraping bamboo.",
+      "why_triggers_reliefs_work": "Emotional stress knots the Liver Qi, which then fails to move Blood; cold congeals Blood and makes stagnation worse. Movement, warmth, and mild spices all invigorate Qi and Blood flow, while stress relief smooths the Liver and prevents the stagnation that feeds the stabbing tongue pain.",
+      "diet_and_lifestyle": "Gentle daily movement like walking or tai chi keeps Qi and Blood flowing. Eat warming, mildly spicy foods such as ginger, turmeric, and black fungus to promote circulation. Avoid iced drinks and raw, cold foods, which congeal Blood. Stress management through meditation or journaling is essential to prevent Qi from stagnating.",
+      "formulas": [
+        {
+          "id": 11539,
+          "pattern_id": 5075,
+          "formula_name": "Tong Qiao Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/tong-qiao-huo-xue-tang",
+          "translation": "Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals",
+          "description": "The classic formula to invigorate Blood and open the orifices, specifically targeting stasis in the head and tongue collaterals."
+        },
+        {
+          "id": 11540,
+          "pattern_id": 5075,
+          "formula_name": "Dao Chi San",
+          "formula_url": "/knowledge-base/formulas/dao-chi-san",
+          "translation": "Guide Out the Red Powder &#xB7; Northern S&#xF2;ng dynasty, ~1119 CE",
+          "properties": "Cold, Clears Heart Fire, Nourishes Yin, Promotes Urination and Relieves Stranguria",
+          "description": "A gentle classical formula that clears heat from the Heart and promotes urination to relieve symptoms like mouth sores, irritability, a flushed face, and painful or dark-colored urination. Originally designed for children by the famous Song dynasty pediatrician Qian Yi, it is also widely used in adults for similar heat-related complaints."
+        },
+        {
+          "id": 11541,
+          "pattern_id": 5075,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        },
+        {
+          "id": 11542,
+          "pattern_id": 5075,
+          "formula_name": "Gan Lu Xiao Du Dan",
+          "formula_url": "/knowledge-base/formulas/gan-lu-xiao-du-dan",
+          "translation": "Sweet Dew Special Pill to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, c. 1733 CE",
+          "properties": "Cool, Clears Heat and Drains Dampness, Transforms Turbidity, Resolves Toxicity",
+          "description": "A classical formula for conditions caused by the combination of Dampness and Heat lodged in the body, particularly during hot and humid seasons. It is commonly used for symptoms such as fever with fatigue, chest fullness, bloating, sore throat, jaundice, dark scanty urine, and a thick greasy tongue coating. The formula works by clearing Heat, resolving Dampness through urination, and using aromatic herbs to cut through the heaviness that Dampness creates in the digestive system."
+        },
+        {
+          "id": 11543,
+          "pattern_id": 5075,
+          "formula_name": "Long Dan Xie Gan Tang",
+          "formula_url": "/knowledge-base/formulas/long-dan-xie-gan-tang",
+          "translation": "Gentian Liver-Draining Decoction &#xB7; Q&#x12B;ng dynasty, 1682 CE",
+          "properties": "Cold, Drains excess Fire from the Liver and Gallbladder, Clears Damp-Heat from the Lower Burner, Clears Heat from the Liver channel",
+          "description": "A powerful cooling formula used to address conditions caused by excess heat and dampness in the Liver and Gallbladder systems. It is commonly used for red, painful eyes, headaches, ear problems, irritability, urinary difficulties, and skin conditions like shingles, particularly when accompanied by a bitter taste in the mouth, dark urine, and a feeling of heat or inflammation along the sides of the body or in the genital area."
+        },
+        {
+          "id": 11544,
+          "pattern_id": 5075,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 11545,
+          "pattern_id": 5075,
+          "formula_name": "Tong Qiao Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/tong-qiao-huo-xue-tang",
+          "translation": "Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals",
+          "description": "A classical formula designed to improve blood circulation in the head and face, used for stubborn headaches, hair loss, hearing difficulties, skin discolorations, and other problems caused by stagnant blood obstructing the sensory organs. It works by powerfully moving blood and opening the body&#x27;s orifices (eyes, ears, nose, mouth) in the upper body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 26661,
+          "pattern_id": 5075,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves Qi and Blood upward, relieving stasis and pain in the tongue."
+        },
+        {
+          "id": 26662,
+          "pattern_id": 5075,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates Blood and dispels stasis, directly soothing the stabbing sensation."
+        },
+        {
+          "id": 26663,
+          "pattern_id": 5075,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up congealed Blood and restores circulation in the tiny vessels of the tongue."
+        },
+        {
+          "id": 26664,
+          "pattern_id": 5075,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 26665,
+          "pattern_id": 5075,
+          "herb_name": "Zhu Ye",
+          "herb_url": "/knowledge-base/herbs/zhu-ye",
+          "translation": "Bamboo leaf",
+          "properties": "Cold, Clears Heat and relieves irritability, Generates fluids and alleviates thirst, Promotes urination and clears Heat from the Heart via the Small Intestine",
+          "description": ""
+        },
+        {
+          "id": 26666,
+          "pattern_id": 5075,
+          "herb_name": "Zhi Mu",
+          "herb_url": "/knowledge-base/herbs/zhi-mu",
+          "translation": "Anemarrhena rhizome",
+          "properties": "Cold, Clears Heat and Drains Fire, Nourishes Yin and Moistens Dryness, Generates Fluids and Relieves Thirst",
+          "description": ""
+        },
+        {
+          "id": 26667,
+          "pattern_id": 5075,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 26668,
+          "pattern_id": 5075,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 26669,
+          "pattern_id": 5075,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 26670,
+          "pattern_id": 5075,
+          "herb_name": "Hou Po",
+          "herb_url": "/knowledge-base/herbs/hou-pu",
+          "translation": "Magnolia bark",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Descends Qi and Relieves Distension, Moves Qi and Resolves Stagnation",
+          "description": ""
+        },
+        {
+          "id": 26671,
+          "pattern_id": 5075,
+          "herb_name": "Long Dan Cao",
+          "herb_url": "/knowledge-base/herbs/long-dan-cao",
+          "translation": "Chinese gentian root",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Liver and Gallbladder Fire, Clears Damp-Heat from the Lower Burner",
+          "description": ""
+        },
+        {
+          "id": 26672,
+          "pattern_id": 5075,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 26673,
+          "pattern_id": 5075,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 26674,
+          "pattern_id": 5075,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 26675,
+          "pattern_id": 5075,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 26676,
+          "pattern_id": 5075,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 26677,
+          "pattern_id": 5075,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 26678,
+          "pattern_id": 5075,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 18140,
+          "pattern_id": 5075,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Moves Liver Qi and Blood, addressing the root of stagnation."
+        },
+        {
+          "id": 18141,
+          "pattern_id": 5075,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Reduce. Promotes Qi circulation and relieves pain in the head and mouth."
+        },
+        {
+          "id": 18142,
+          "pattern_id": 5075,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Reduce. Invigorates Blood and dispels stasis."
+        },
+        {
+          "id": 18143,
+          "pattern_id": 5075,
+          "acupoint_code": "REN-23",
+          "acupoint_name": "Lianquan REN-23",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/lianquan-ren-23",
+          "translation": "Li&#xE1;n Qu&#xE1;n",
+          "properties": "Benefits the tongue and voice, Descends Qi",
+          "description": "Local point to unblock collaterals in the tongue and ease the fixed pain."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 6653,
+      "condition_id": 1025,
+      "question": "Does acupuncture on the tongue hurt?",
+      "answer": "Acupuncture for tongue pain rarely involves needling the tongue itself. Most points are on the body, like the wrist, ankle, or lower leg. A local point on the throat (Lianquan REN-23) is sometimes used, and it feels like a gentle pressure rather than pain. The overall experience is deeply relaxing."
+    },
+    {
+      "id": 6654,
+      "condition_id": 1025,
+      "question": "Can TCM help if my Western doctor hasn't found a cause?",
+      "answer": "Absolutely. TCM does not rely on lab tests to identify patterns. Instead, it reads the body's signals - the tongue's color and coating, the quality of pain, the pulse, and accompanying symptoms. Many patients whose conventional workup is normal find that TCM's pattern diagnosis explains their discomfort and offers real relief."
+    },
+    {
+      "id": 6655,
+      "condition_id": 1025,
+      "question": "How long until I feel better?",
+      "answer": "Most people notice a reduction in burning or soreness within the first 2-4 weeks of weekly acupuncture and daily herbs. Excess heat patterns tend to respond faster; long-standing deficiency patterns that have developed over years need more time to rebuild the body's foundation, often 3-6 months."
+    },
+    {
+      "id": 6656,
+      "condition_id": 1025,
+      "question": "Will I need to change my diet?",
+      "answer": "Yes, dietary adjustments are a key part of treatment. In general, you'll want to avoid spicy, greasy, and fried foods that generate heat, as well as icy cold drinks that can damage the Spleen. Your practitioner will give you specific guidance based on your pattern - for example, adding cooling foods like cucumber and pear for excess heat, or warm, nourishing soups for deficiency."
+    },
+    {
+      "id": 6657,
+      "condition_id": 1025,
+      "question": "Can I use TCM alongside my prescribed medications?",
+      "answer": "In most cases, yes. Herbs and acupuncture can complement conventional treatments. However, if you are taking blood thinners or anticonvulsants, always inform both your TCM practitioner and your prescribing doctor, as some herbs may have mild blood-moving effects. Never stop any prescribed medication without medical supervision."
+    },
+    {
+      "id": 6658,
+      "condition_id": 1025,
+      "question": "Is tongue pain a sign of something serious?",
+      "answer": "While most tongue pain is benign and linked to internal imbalances, a sore or ulcer that does not heal within two weeks, unexplained bleeding, or a growing lump should be evaluated by a doctor immediately. See our Safety section for a full list of red-flag symptoms that require urgent medical attention."
+    }
+  ],
+  "research": []
+}

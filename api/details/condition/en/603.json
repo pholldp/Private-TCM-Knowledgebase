@@ -1,0 +1,672 @@
+{
+  "id": 603,
+  "name": "Cerebrovascular Disease",
+  "url": "/knowledge-base/conditions/cerebrovascular-disease",
+  "kind": "Condition",
+  "pinyin": "zhòng fēng",
+  "chinese_name": "中风",
+  "preview_text": "TCM sees a stroke as a unique interplay of Wind, Phlegm, Fire, and Stasis - and by identifying which pattern dominates, we can tailor herbs and acupuncture to support recovery and ...",
+  "categories": "[\"Stroke & Brain Circulation\", \"Brain & Nervous System Conditions\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Brain Vascular Disease\", \"Cerebrovascular Accident\"]",
+  "conventional_description": "Stroke occurs when blood flow to part of the brain is interrupted or a blood vessel bursts, depriving brain tissue of oxygen. The two main types are ischemic (clot) and hemorrhagic (bleed). Typical symptoms include sudden numbness or weakness on one side of the body, confusion, trouble speaking or understanding, vision problems, dizziness, and severe headache. Diagnosis is usually confirmed with CT scans or MRI, and the immediate priority is restoring blood flow or controlling bleeding.",
+  "conventional_treatments": "Acute ischemic stroke is treated with clot-dissolving drugs (tPA) or mechanical thrombectomy to remove the clot. Hemorrhagic stroke may require surgery to repair the vessel and relieve pressure. After stabilization, treatment shifts to rehabilitation - physical, occupational, and speech therapy - and long-term medications to manage risk factors: antiplatelets (aspirin, clopidogrel), anticoagulants (warfarin, DOACs), statins, and blood pressure drugs.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, stroke is understood as a sudden surge of internal Wind that disrupts the brain's channels. This Wind rarely arises alone - it is usually stirred up by an underlying imbalance.\nThe Liver, which governs the smooth flow of Qi and Blood, is the organ most closely associated with Wind. When Liver Yang rises uncontrollably (often due to Kidney Yin deficiency failing to anchor it), it can generate fierce internal Wind that shoots upward, causing the classic sudden collapse, paralysis, and loss of consciousness.\nThe Spleen also plays a key role. If it is weakened by poor diet or overwork, it fails to transform fluids properly, leading to the accumulation of Phlegm. This sticky substance can combine with Wind and clog the brain's channels, resulting in numbness, slurred speech, and a heavy sensation. In other cases, Phlegm can combine with Heat, creating a hot, obstructive mixture that clouds the mind and leads to a more agitated, constipated presentation.\nDuring the recovery phase, the body's Qi is often severely depleted. When Qi is too weak to move Blood, stagnation develops, blocking the collaterals and preventing full neurological recovery. This explains the persistent weakness, fatigue, and a purplish tongue seen in many stroke survivors. TCM therefore does not see stroke as a single event but as a dynamic process - the acute phase is dominated by excess patterns (Wind, Fire, Phlegm), while the chronic phase shifts to deficiency patterns (Qi and Yin deficiency, Blood Stasis).",
+  "classical_quote": "「When the pulse is floating and tight, and there is hemiplegia, this is wind stroke.」",
+  "classical_translation": "\"脉浮而紧，半身不遂，此为中风。\"",
+  "classical_source": "Jin Gui Yao Lue (Synopsis of the Golden Chamber)  ,  Chapter 5: Apoplexy and Arthralgia Syndrome \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "When a person shows signs of a stroke (中风, zhòng fēng), a TCM practitioner first asks about the suddenness of onset, the specific sensations, and any emotional or dietary triggers. The tongue body, coating, and pulse quality are then used to confirm which internal imbalance is driving the symptoms.\nIf the collapse was dramatic, with a red face, irritability, a bitter taste in the mouth, and constipation, the pattern is Liver Wind agitating Internally due to Liver Yang Rising. The tongue is red with a yellow greasy coating and the pulse feels wiry and rapid, pointing to a surging of Yang that stirs internal wind.\nWhen the onset is abrupt but the main features are numbness, a deviated mouth, slurred speech, and a sensation of phlegm in the throat, Wind-Phlegm obstructing the collaterals is likely. The tongue coating is greasy (often white or yellow) and the pulse is slippery and wiry, showing that wind and phlegm are tangled together.\nIn cases where foul breath, chest oppression, and severe constipation accompany the stroke symptoms, Phlegm-Heat has accumulated in the interior. The tongue appears red with a thick, yellow, greasy coating, and the pulse is rapid and slippery, signaling that heat has bound with phlegm and needs to be drained.\nIf the person is in the recovery phase or has a history of Yin deficiency, you might see Empty-Wind agitating in the Interior. This presents with tremor, dizziness, dry mouth, and a red tongue with little coating. The pulse is fine and rapid, reflecting Yin failing to anchor Yang, allowing empty wind to stir.\nIn the subacute or recovery stage, fatigue and weak limbs often dominate, along with a pale or purplish tongue and a thready, hesitant pulse. This is Qi Deficiency causing Blood Stagnation, where the body lacks the energy to move blood properly, so neurological recovery is slow unless Qi is boosted.",
+  "patterns": [
+    {
+      "id": 2929,
+      "condition_id": 603,
+      "pattern_name": "Liver Wind agitating Internally due to Liver Yang Rising",
+      "pattern_slug": "liver-wind-agitating-internally-due-to-liver-yang-rising",
+      "is_common": 0,
+      "symptoms": "[\"Severe dizziness, as if about to fall\", \"Stiff, trembling, or deviated tongue\", \"Throbbing or distending headache\", \"Bitter taste in the mouth\", \"Irritability and easy anger before the stroke\", \"Flushed face and red eyes\", \"Constipation\"]",
+      "worse_with": "Emotional stress and frustration, Alcohol, spicy, greasy, or fried foods, Hot weather or stuffy environment, Overexertion and lack of sleep",
+      "better_with": "Rest and quiet environment, Cool compresses on the head, Light, bland meals, Gentle breathing and meditation",
+      "why_this_happens": "Years of stress, overwork, or aging can wear down the Kidney and Liver Yin - the body's cooling, anchoring force. When Yin is too weak to hold Yang down, Liver Yang surges upward like a flame, generating internal Wind. This Wind suddenly rushes to the head, agitating the brain and channels, causing the collapse, loss of consciousness, and one-sided paralysis of a stroke.",
+      "tongue_and_pulse": "Tongue: red body, stiff or trembling, may deviate to one side, with a thin yellow or scanty coating. Pulse: wiry (弦 xián), fine (细 xì), and often rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Anger and frustration surge Liver Qi upward, which directly feeds the rising Yang and internal Wind at the heart of this pattern. Alcohol, spicy food, and hot weather add heat to an already overheated system, while overwork depletes Yin further. Rest, cool compresses, and calming practices help anchor Yang and allow Yin to recover, breaking the cycle that leads to a stroke.",
+      "diet_and_lifestyle": "Avoid alcohol, coffee, and spicy or greasy foods that add heat. Eat cooling, yin-nourishing foods like celery, spinach, cucumber, and chrysanthemum tea. Prioritize rest and keep stress low - gentle tai chi or meditation helps anchor Yang without overstimulating.",
+      "formulas": [
+        {
+          "id": 6659,
+          "pattern_id": 2929,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "Calms Liver Yang and extinguishes Wind; especially useful in the acute phase when dizziness and headache are intense."
+        },
+        {
+          "id": 6660,
+          "pattern_id": 2929,
+          "formula_name": "Zhen Gan Xi Feng Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-gan-xi-feng-tang",
+          "translation": "Sedate the Liver and Extinguish Wind Decoction &#xB7; Late Q&#x12B;ng dynasty to early Republican era, first published 1918 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Subdues Floating Yang, Nourishes Yin",
+          "description": "Sedates the Liver, anchors floating Yang, and nourishes Yin - ideal when Yin deficiency is prominent and the stroke risk is high."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15613,
+          "pattern_id": 2929,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and steadies severe dizziness."
+        },
+        {
+          "id": 15614,
+          "pattern_id": 2929,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "",
+          "description": "Extinguishes Wind and clears Liver heat, relieving the throbbing headache."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10557,
+          "pattern_id": 2929,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Subdues surging Liver Yang and extinguishes internal Wind."
+        },
+        {
+          "id": 10558,
+          "pattern_id": 2929,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Extinguishes internal Wind and clears heat from the head, relieving dizziness and headache."
+        },
+        {
+          "id": 10559,
+          "pattern_id": 2929,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Calms the spirit and descends rising Yang, often used with reducing technique."
+        },
+        {
+          "id": 10560,
+          "pattern_id": 2929,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "Drains Liver fire and cools the blood, easing irritability and red eyes."
+        }
+      ]
+    },
+    {
+      "id": 2930,
+      "condition_id": 603,
+      "pattern_name": "Wind-Phlegm",
+      "pattern_slug": "wind-phlegm",
+      "is_common": 0,
+      "symptoms": "[\"Sudden numbness or tingling in the hands and feet\", \"Slurred or difficult speech\", \"Chest stuffiness or feeling of fullness\", \"Copious white or frothy sputum\", \"Heaviness in the body or limbs\", \"Dizziness or vertigo with a heavy sensation\"]",
+      "worse_with": "Alcohol, spicy, greasy, or fried foods, Damp weather, Sedentary lifestyle, Emotional stress and frustration, Cold, raw foods",
+      "better_with": "Light, warm meals, Gentle exercise or movement, Dry, airy environment, Keeping the head warm",
+      "why_this_happens": "In Wind-Phlegm pattern, a weakened Spleen fails to manage fluids, so dampness accumulates and congeals into phlegm. At the same time, an internal stirring of wind - often triggered by emotional upset or rising Liver Yang - sweeps that phlegm upward into the head. When phlegm and wind together clog the brain's channels, the smooth flow of Qi and blood is suddenly interrupted, producing numbness, slurred speech, and facial drooping.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, may be swollen with teeth marks, white greasy coating. Pulse: wiry and slippery (弦滑, xián huá).",
+      "why_triggers_reliefs_work": "Wind-Phlegm arises when the Spleen fails to transform fluids, creating dampness and phlegm, and Liver wind stirs it upward. Greasy, damp-producing foods and a sedentary lifestyle worsen phlegm; stress and frustration aggravate wind. Light, warm meals and gentle movement support Spleen Qi and help resolve phlegm, while protecting from cold and damp prevents external wind from combining with internal phlegm.",
+      "diet_and_lifestyle": "Eat warm, light, easily digestible foods such as congee and steamed vegetables. Avoid dairy, greasy, fried, and sugary foods that create dampness and phlegm. Gentle daily movement, like walking, helps circulate Qi and resolve phlegm. Keep the neck and head protected from cold wind and dampness.",
+      "formulas": [
+        {
+          "id": 6661,
+          "pattern_id": 2930,
+          "formula_name": "Ban Xia Bai Zhu Tian Ma Tang",
+          "formula_url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+          "translation": "Pinellia, White Atractylodes and Gastrodia Decoction &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Warm, Transforms Wind-Phlegm and Stops Spasms, Strengthens the Spleen and Resolves Dampness, Calms the Liver and stops dizziness",
+          "description": "The classic formula to resolve phlegm, extinguish wind, and strengthen the Spleen - addressing both the branch (wind-phlegm obstruction) and the root (Spleen deficiency producing phlegm)."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15615,
+          "pattern_id": 2930,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm - the chief herb for clearing phlegm obstruction from the channels."
+        },
+        {
+          "id": 15616,
+          "pattern_id": 2930,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Extinguishes internal wind and stops dizziness, numbness, and trembling."
+        },
+        {
+          "id": 15617,
+          "pattern_id": 2930,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains dampness and strengthens the Spleen, reducing the source of phlegm production."
+        },
+        {
+          "id": 15618,
+          "pattern_id": 2930,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries dampness, helping to dissolve phlegm and relieve chest stuffiness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10561,
+          "pattern_id": 2930,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The body&#x27;s primary phlegm-resolving point - clears phlegm-dampness from the whole body."
+        },
+        {
+          "id": 10562,
+          "pattern_id": 2930,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels wind and clears the head, relieving dizziness and heaviness."
+        },
+        {
+          "id": 10563,
+          "pattern_id": 2930,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Raises clear Yang and calms wind in the head, improving consciousness and speech."
+        },
+        {
+          "id": 10564,
+          "pattern_id": 2930,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest and resolves phlegm, easing stuffiness, nausea, and palpitations."
+        },
+        {
+          "id": 10565,
+          "pattern_id": 2930,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen to prevent further phlegm accumulation and supports overall recovery."
+        }
+      ]
+    },
+    {
+      "id": 2931,
+      "condition_id": 603,
+      "pattern_name": "Phlegm-Heat",
+      "pattern_slug": "phlegm-heat",
+      "is_common": 0,
+      "symptoms": "[\"Coughing up thick, sticky, yellow phlegm\", \"Constipation with foul breath\", \"Feeling of fullness or oppression in the chest\", \"Restlessness and irritability\", \"Flushed red face\"]",
+      "worse_with": "Alcohol, spicy, greasy, or fried foods, Emotional stress and frustration, Hot weather or stuffy environment",
+      "better_with": "Cool, well-ventilated room, Light, bland meals, Rest and quiet environment",
+      "why_this_happens": "When diet, stress, or illness create an accumulation of Phlegm and Heat in the body, this sticky, hot obstruction can suddenly block the channels that supply the brain. The Phlegm-Heat rises upward, clouding the mind and causing loss of consciousness, slurred speech, or paralysis. In the acute phase, the Heat often dries the bowels, leading to constipation and foul breath, while a thick, yellow, greasy tongue coating reveals the internal struggle.",
+      "tongue_and_pulse": "Tongue: red body, swollen, with a thick yellow greasy coating. Pulse: slippery (滑 huá) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Spicy and greasy foods directly generate Phlegm and Heat, thickening the sticky obstruction that blocks the brain's channels. Emotional stress stirs up internal Heat, worsening restlessness. A cool environment, light meals, and rest help clear Heat and allow the body's Qi to resolve Phlegm.",
+      "diet_and_lifestyle": "Avoid greasy, fried, and spicy foods that create more Phlegm and Heat. Eat light, easily digestible meals like congee and steamed vegetables. Stay hydrated with warm water, and strictly avoid alcohol and smoking.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 15619,
+          "pattern_id": 2931,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, targeting the Heat component of the pattern."
+        },
+        {
+          "id": 15620,
+          "pattern_id": 2931,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Resolves Phlegm and unblocks the chest, crucial for the sticky obstruction."
+        },
+        {
+          "id": 15621,
+          "pattern_id": 2931,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, tackling the root of the turbid blockage."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10566,
+          "pattern_id": 2931,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The primary point to resolve Phlegm and clear Heat from the channels."
+        },
+        {
+          "id": 10567,
+          "pattern_id": 2931,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, calms the mind, and relieves the sensation of oppression."
+        },
+        {
+          "id": 10568,
+          "pattern_id": 2931,
+          "acupoint_code": "ST-25",
+          "acupoint_name": "Tianshu ST-25",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/tianshu-st-25",
+          "translation": "Ti&#x101;n sh&#x16B;",
+          "properties": "Regulates the Intestines, Stomach and Spleen, Invigorates Qi and Blood in the Uterus",
+          "description": "Regulates the bowels and clears Heat, addressing constipation and internal stagnation."
+        }
+      ]
+    },
+    {
+      "id": 2932,
+      "condition_id": 603,
+      "pattern_name": "Empty-Wind agitating in the Interior",
+      "pattern_slug": "empty-wind-agitating-in-the-interior",
+      "is_common": 0,
+      "symptoms": "[\"Trembling or twitching of the hands and feet\", \"Deep red (crimson) tongue with little or no coating\", \"Fine, rapid pulse that lacks force\", \"Severe fatigue and listlessness\"]",
+      "worse_with": "Overexertion and lack of sleep, Alcohol, spicy, greasy, or fried foods, Hot weather or stuffy environment",
+      "better_with": "Rest and quiet environment, Cool, nourishing foods, Gentle exercise or movement",
+      "why_this_happens": "When the body's Yin is deeply depleted, the Liver and Kidneys lose their ability to anchor Yang. This creates a vacuum that stirs internal Wind, leading to trembling, dizziness, and in some cases, a stroke. It often appears in the recovery stage or in people with long-standing Yin deficiency.",
+      "tongue_and_pulse": "Tongue: Crimson, thin, dry, cracked, little or no coating (mirror-like). Pulse: Fine (Xi), rapid (Shu), wiry at left Guan, lacks force.",
+      "why_triggers_reliefs_work": "Yin deficiency is like a low reservoir of cooling fluids; overwork, stress, and spicy foods further consume Yin and stir Wind, while rest and moistening foods replenish Yin and calm the internal Wind.",
+      "diet_and_lifestyle": "Eat moistening, Yin-nourishing foods like pear, lily bulb, black sesame, and congee. Avoid spicy, fried, and drying foods, as well as alcohol and coffee. Prioritize rest and gentle movement like Tai Chi to conserve Yin.",
+      "formulas": [
+        {
+          "id": 6662,
+          "pattern_id": 2932,
+          "formula_name": "Zhen Gan Xi Feng Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-gan-xi-feng-tang",
+          "translation": "Sedate the Liver and Extinguish Wind Decoction &#xB7; Late Q&#x12B;ng dynasty to early Republican era, first published 1918 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Subdues Floating Yang, Nourishes Yin",
+          "description": "Nourishes Liver and Kidney Yin, subdues Yang, and extinguishes internal Wind, making it the primary formula for Empty-Wind stirring in stroke recovery."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15622,
+          "pattern_id": 2932,
+          "herb_name": "Niu Xi",
+          "herb_url": "/knowledge-base/herbs/huai-niu-xi",
+          "translation": "Ox Knee Root",
+          "properties": "",
+          "description": "Leads blood downward and anchors the Liver, preventing Wind from rising."
+        },
+        {
+          "id": 15623,
+          "pattern_id": 2932,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes Liver Yin and softens the Liver to calm internal Wind."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10569,
+          "pattern_id": 2932,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Subdues Liver Yang and extinguishes Wind."
+        },
+        {
+          "id": 10570,
+          "pattern_id": 2932,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Reinforce. Nourishes Kidney Yin to anchor Yang."
+        },
+        {
+          "id": 10571,
+          "pattern_id": 2932,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Reinforce. Tonifies Yin and supports the Spleen and Kidneys."
+        }
+      ]
+    },
+    {
+      "id": 2933,
+      "condition_id": 603,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "pattern_slug": "qi-deficiency-causing-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Extreme fatigue even after mild activity\", \"Fixed stabbing pain in the chest or affected limbs\", \"Pale or dusky complexion with purplish spots\"]",
+      "worse_with": "Overexertion and lack of sleep, Emotional stress and frustration, Cold, raw foods, Cold weather",
+      "better_with": "Rest and gentle movement, Warm cooked meals, Acupuncture and moxibustion, Consistent sleep",
+      "why_this_happens": "After a stroke, the body's Qi is often severely depleted. When Qi is too weak to propel blood, circulation stagnates, forming blood stasis that blocks the brain's collaterals. This stagnation prevents the full restoration of neurological function, leaving persistent weakness, numbness, and fatigue.",
+      "tongue_and_pulse": "Tongue: pale-dark or pale-purple body with stasis spots, teeth marks, thin white coat. Pulse: deep, fine, and choppy (涩 sè).",
+      "why_triggers_reliefs_work": "Qi deficiency is the root of this pattern, so anything that depletes Qi-overexertion, stress, poor diet-worsens the condition. Rest and nourishing foods rebuild Qi, enabling blood to move and stasis to resolve. Gentle movement and warmth encourage circulation, while cold and inactivity cause blood to congeal, aggravating stasis.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like congee, soups with astragalus root (Huang Qi), chicken, and yam to build Qi. Avoid raw, cold, and greasy foods that weaken digestion. Gentle daily exercise like Tai Chi or walking helps move Qi and blood without depleting energy. Prioritize rest and avoid overexertion.",
+      "formulas": [
+        {
+          "id": 6663,
+          "pattern_id": 2933,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "The cornerstone formula for post-stroke Qi deficiency with blood stasis, it powerfully boosts Qi and invigorates blood to promote recovery of motor function."
+        },
+        {
+          "id": 6664,
+          "pattern_id": 2933,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising."
+        },
+        {
+          "id": 6665,
+          "pattern_id": 2933,
+          "formula_name": "Zhen Gan Xi Feng Tang",
+          "formula_url": "/knowledge-base/formulas/zhen-gan-xi-feng-tang",
+          "translation": "Sedate the Liver and Extinguish Wind Decoction &#xB7; Late Q&#x12B;ng dynasty to early Republican era, first published 1918 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Subdues Floating Yang, Nourishes Yin",
+          "description": "A classical formula designed to calm the Liver and stop internally generated Wind, used for conditions related to high blood pressure, dizziness, headache, and stroke risk caused by an overactive Liver and depleted Kidney Yin. It works by anchoring rising Qi and Blood back downward, calming the Liver, nourishing Yin, and preventing the chaotic upward rush that can lead to serious neurological symptoms."
+        },
+        {
+          "id": 6666,
+          "pattern_id": 2933,
+          "formula_name": "Ban Xia Bai Zhu Tian Ma Tang",
+          "formula_url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+          "translation": "Pinellia, White Atractylodes and Gastrodia Decoction &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Warm, Transforms Wind-Phlegm and Stops Spasms, Strengthens the Spleen and Resolves Dampness, Calms the Liver and stops dizziness",
+          "description": "A classical formula designed to relieve dizziness, vertigo, and headache caused by a buildup of internal dampness and phlegm combined with internal Wind. It works by dissolving phlegm, calming the Liver, and strengthening the digestive system to stop new phlegm from forming. It is especially well suited for people who experience spinning dizziness with nausea, a heavy head, and a sensation of fogginess or fullness in the chest."
+        },
+        {
+          "id": 6667,
+          "pattern_id": 2933,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15624,
+          "pattern_id": 2933,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "The chief herb to powerfully tonify Qi and support blood circulation."
+        },
+        {
+          "id": 15625,
+          "pattern_id": 2933,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates blood, addressing stagnation without causing dryness."
+        },
+        {
+          "id": 15626,
+          "pattern_id": 2933,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and Qi, relieving stasis pain and numbness."
+        },
+        {
+          "id": 15627,
+          "pattern_id": 2933,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 15628,
+          "pattern_id": 2933,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "Cool, Extinguishes Wind and Stops Spasms, Courses the Liver and Drains Heat, Calms the Liver and Subdues Yang",
+          "description": ""
+        },
+        {
+          "id": 15629,
+          "pattern_id": 2933,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 15630,
+          "pattern_id": 2933,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 15631,
+          "pattern_id": 2933,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 15632,
+          "pattern_id": 2933,
+          "herb_name": "Huang Qin",
+          "herb_url": "/knowledge-base/herbs/huang-qin",
+          "translation": "Baical skullcap root",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Stops Bleeding",
+          "description": ""
+        },
+        {
+          "id": 15633,
+          "pattern_id": 2933,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 15634,
+          "pattern_id": 2933,
+          "herb_name": "Niu Xi",
+          "herb_url": "/knowledge-base/herbs/huai-niu-xi",
+          "translation": "Ox Knee Root",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Guides Herbs and Blood Downward, Supplements the Liver and Kidneys",
+          "description": ""
+        },
+        {
+          "id": 15635,
+          "pattern_id": 2933,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 15636,
+          "pattern_id": 2933,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 15637,
+          "pattern_id": 2933,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 15638,
+          "pattern_id": 2933,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10572,
+          "pattern_id": 2933,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and strengthens the Spleen to generate blood."
+        },
+        {
+          "id": 10573,
+          "pattern_id": 2933,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and dispels stasis, improving limb circulation."
+        },
+        {
+          "id": 10574,
+          "pattern_id": 2933,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Awakens the brain and lifts clear Yang, aiding neurological recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3927,
+      "condition_id": 603,
+      "question": "Can acupuncture really help after a stroke?",
+      "answer": "Yes. Acupuncture is widely used in post-stroke rehabilitation to improve motor function, reduce spasticity, and support speech recovery. Points are selected to unblock the channels, move Blood, and calm internal Wind. Many patients notice subtle improvements within 4-6 weeks of weekly sessions, with gains accumulating over months alongside physical therapy."
+    },
+    {
+      "id": 3928,
+      "condition_id": 603,
+      "question": "How soon after a stroke can I start TCM treatment?",
+      "answer": "As soon as you are medically stable and discharged from acute care, or even while still hospitalized with the approval of your medical team. In China, acupuncture often begins within days of a stroke. The earlier the intervention, the better the potential for channel reconnection, but TCM can still offer significant benefits even years after the event."
+    },
+    {
+      "id": 3929,
+      "condition_id": 603,
+      "question": "Are Chinese herbs safe to take with blood thinners like warfarin or aspirin?",
+      "answer": "Many herbs used for stroke, such as Dang Gui (Angelica sinensis) and Chuan Xiong (Ligusticum wallichii), have mild blood-moving properties that could theoretically enhance the effect of anticoagulants or antiplatelets. It is essential to inform both your TCM practitioner and your prescribing doctor about all medications and herbs. A qualified herbalist will adjust the formula and monitor you closely; never self-prescribe."
+    },
+    {
+      "id": 3930,
+      "condition_id": 603,
+      "question": "What dietary changes can support my recovery?",
+      "answer": "In general, avoid greasy, fried, or overly spicy foods that create Phlegm and Heat. Focus on warm, cooked meals that are easy to digest - soups, congees, steamed vegetables, and lean proteins. Foods like oats, yam, and small amounts of red dates can gently strengthen Qi and Blood. Alcohol and smoking should be strictly avoided as they stir Wind and damage the vessels."
+    },
+    {
+      "id": 3931,
+      "condition_id": 603,
+      "question": "Does TCM help with post-stroke depression or fatigue?",
+      "answer": "Absolutely. Post-stroke depression and crushing fatigue are often signs of Qi and Blood deficiency or lingering Phlegm misting the mind. Herbal formulas like Bu Yang Huan Wu Tang can be modified to lift the spirit, and acupuncture points such as Baihui (DU-20) and Zusanli (ST-36) are used to boost energy and mood. Many patients report feeling more hopeful and less exhausted within a month of treatment."
+    },
+    {
+      "id": 3932,
+      "condition_id": 603,
+      "question": "Will I need to stop my regular medications?",
+      "answer": "No. TCM is designed to complement, not replace, your conventional stroke prevention medications. Never discontinue antiplatelets, anticoagulants, or blood pressure drugs on your own. Work with your doctors to monitor your condition; if your health improves, they may adjust dosages over time."
+    }
+  ],
+  "research": [
+    {
+      "id": 891,
+      "condition_id": 603,
+      "title": "Acupuncture for stroke rehabilitation",
+      "description": "Cochrane systematic review including 31 trials (2257 participants). Acupuncture plus conventional rehabilitation was superior to conventional rehabilitation alone in improving neurological deficit, motor function, and overall disability at the end of treatment and at follow‑up.",
+      "url": "",
+      "periodical": "Yang A, Wu HM, Tang JL, Xu L, Yang M, Liu GJ. Acupuncture for stroke rehabilitation. Cochrane Database of Systematic Reviews 2016, Issue 8. Art. No.: CD004131."
+    },
+    {
+      "id": 892,
+      "condition_id": 603,
+      "title": "Efficacy and safety of Buyang Huanwu Decoction for ischemic stroke: a systematic review and meta‑analysis",
+      "description": "Meta‑analysis of 19 RCTs (1806 patients). Buyang Huanwu Tang significantly improved neurological deficit scores and activities of daily living compared with Western medicine alone, with a favorable safety profile.",
+      "url": "",
+      "periodical": "Wei RL, Teng HJ, Yin B, Xu Y, Du YH, He FP, et al. Evidence-Based Complementary and Alternative Medicine. 2017;2017:8423827."
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "id": 884,
+  "name": "อาการเพ้อ",
+  "url": "/knowledge-base/conditions/delirium",
+  "kind": "Condition",
+  "pinyin": "zhān wàng",
+  "chinese_name": "谵妄",
+  "preview_text": "ใน TCM อาการเพ้อประเภท - เงียบและมีหมอก หรือดังและคะนอง - เผยให้เห็นปัจจัยที่ก่อให้เกิดโรคที่ทำให้จิตใจไม่สงบ และแนะนำการรักษาที่สามารถฟื้นฟูความชัดเจนได้ภายในวัน...",
+  "categories": "[\"ความจำและการรับรู้\", \"ภาวะสุขภาพจิต\", \"ภาวะสมองและระบบประสาท\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Acute Confused State\", \"Agitated Delirium\", \"Delirium or incoherent speech\", \"Delirium with incoherent speech\", \"Acute delirium\", \"Delirium in severe cases\", \"Delirium or confused speech in severe cases\", \"Delirium or confusion with agitation\", \"Delirium or loss of consciousness\", \"Delirium or unconsciousness (severe)\", \"Mental confusion progressing to clouded consciousness\", \"Loss of Consciousness or Delirium\"]",
+  "conventional_description": "Delirium is an acute, fluctuating disturbance in attention, awareness, and cognition. It often develops over hours to days and is especially common in older hospitalized patients, those with infections, metabolic imbalances, or after surgery. Symptoms can range from quiet, withdrawn confusion to agitated restlessness, hallucinations, and incoherent speech. Diagnosis relies on clinical assessment, often using tools like the Confusion Assessment Method, as there is no single lab test. Because it signals an underlying medical stressor, delirium is always treated as a medical emergency.",
+  "conventional_treatments": "Conventional management focuses first on identifying and treating the underlying trigger - whether infection, medication side effect, electrolyte imbalance, or organ failure. Supportive care includes reorientation, safe environment, and maintaining hydration and nutrition. When agitation is severe, antipsychotics like haloperidol or risperidone may be used short-term, but they do not treat the root cause and carry risks, especially in elderly patients with dementia.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands delirium as a disorder of the Shen - the mind and spirit that resides in the Heart. The Shen must be anchored by healthy Qi and Blood; when this anchor is disrupted by phlegm, fire, or deficiency, consciousness becomes clouded. The quality of the delirium gives the first clue: a quiet, drowsy, mumbling confusion suggests phlegm misting the Heart, while shouting, aggression, and red face point to phlegm-fire harassing the Heart. In severe febrile illness, heat can invade the Pericardium - the outer wrapping of the Heart - directly seizing the mind.\nThe digestive system (Spleen and Stomach) is often at the root. Poor diet, worry, or chronic illness weaken the Spleen, which then fails to transform fluids, creating phlegm. This phlegm can drift upward to cloud the Heart or combine with internal heat to become phlegm-fire. In other cases, prolonged illness drains the body's Yin or Blood, leaving the Heart undernourished and the Shen unmoored - a quieter, anxious confusion often seen in chronic disease.\nBecause delirium can arise from such different mechanisms, TCM treatment is never one-size-fits-all. A person with phlegm-fire needs herbs to clear heat and transform phlegm, while someone with Heart and Spleen deficiency needs gentle tonics to rebuild Qi and Blood. This differentiation is why a TCM practitioner will ask not just about the confusion, but about thirst, appetite, tongue coating, and the exact character of the agitation or withdrawal.",
+  "classical_quote": "「陽明者……病甚則棄衣而走，登高而歌，或至不食數日，逾垣上屋，所上之處，皆非素所能也。」",
+  "classical_translation": "\"When the Yangming is severely diseased, the patient will throw off their clothes and run about, climb to high places and sing, or go without food for days, leaping over walls and onto roofs - places they could never reach in normal health. This describes the hyperactive, agitated type of delirium.\"",
+  "classical_source": "Yellow Emperor's Inner Classic (Huang Di Nei Jing)  ,  Chapter 46, Discussion on the Aberrant Diseases \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner approaches delirium by listening carefully to the story: when it started, how the person behaves, and what their body reveals. The quality of the confusion-quiet and withdrawn, or loud and agitated-is a key first clue, along with tongue and pulse signs that point toward the underlying imbalance.\nWhen phlegm turbidity clouds the mind, the person appears dull, lethargic, and confused-often the quiet, hypoactive type of delirium. They may mumble, seem indifferent, or have a greasy tongue coating and a slippery pulse. The practitioner suspects this pattern when confusion is heavy and muffled rather than fiery, often in older or chronically ill individuals with weak digestion.\nIf the delirium is hyperactive-shouting, restlessness, aggression, red face, and a sensation of heat-this points to phlegm-fire flaring upward. The tongue is red with a yellow greasy coating, and the pulse is rapid and slippery. This pattern often arises suddenly, driven by intense emotional upset or an acute illness that generates internal fire and phlegm.\nA deficiency pattern emerges when the mind loses its anchor from prolonged strain, poor nutrition, or chronic illness. The person is anxious, easily startled, fatigued, with palpitations and poor appetite. The tongue is pale and the pulse is thin and weak. This type of delirium is more subdued, marked by mental clouding and a sense of being ungrounded rather than agitation.\nIn the context of a high fever, pathogenic heat can directly invade the pericardium, the protective layer around the heart. The person becomes acutely confused, delirious, and may have convulsions. The tongue is deep red and dry, and the pulse is rapid. This is a critical pattern seen in severe febrile illnesses, where the heat has bypassed the body's usual defenses.\nAfter prolonged fire or illness has damaged yin fluids, residual empty-heat agitates the mind. The person may be irritable, restless, and have a flushed face in the afternoon, with a thin body and a red tongue with little coating. The pulse is thin and rapid. This quieter, wasting type of delirium often appears in later stages, when the body is depleted but still simmering with heat.",
+  "patterns": [
+    {
+      "id": 4354,
+      "condition_id": 884,
+      "pattern_name": "Phlegm Misting the Heart",
+      "pattern_slug": "phlegm-misting-the-heart",
+      "is_common": 0,
+      "symptoms": "[\"Mental dullness or clouded consciousness\", \"Gurgling or rattling sound in the throat\", \"Thick, white, greasy tongue coating\", \"Chest stuffiness and oppression\", \"Slurred or unclear speech\", \"Emotional flatness or withdrawal\"]",
+      "worse_with": "Heavy, greasy food, Damp or cold weather, Prolonged inactivity, Overthinking or worry",
+      "better_with": "Quiet, calm environment, Warmth, Light, warm meals, Gentle walking",
+      "why_this_happens": "Phlegm is a thick, sticky byproduct of poor digestion and sluggish Qi. When it accumulates, it can drift upward and cloud the openings of the Heart, which in TCM houses the mind. This obstruction blunts mental clarity, causing the foggy, withdrawn confusion typical of quiet delirium.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with a thick, white, greasy coating; may appear stiff. Pulse: slippery (滑 huá), like beads rolling on a string, with moderate to good strength.",
+      "why_triggers_reliefs_work": "Phlegm arises when dampness congeals, so greasy, heavy, or cold substances directly fuel it. Warmth and gentle movement keep Qi and fluids circulating, preventing stagnation. A calm environment reduces mental agitation that can further cloud the mind, while light eating supports the Spleen so it can clear dampness and stop new phlegm from forming.",
+      "diet_and_lifestyle": "Avoid dairy, greasy foods, and cold drinks that produce dampness and phlegm. Eat warm, light meals like congee with ginger. Keep a calm, quiet environment with gentle natural light, and maintain a regular sleep-wake rhythm. Gentle daily walking helps Qi flow and keeps phlegm from stagnating.",
+      "formulas": [
+        {
+          "id": 9913,
+          "pattern_id": 4354,
+          "formula_name": "Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/wen-dan-tang",
+          "translation": "Warm the Gallbladder Decoction &#xB7; Southern S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Neutral, Regulates Qi and Transforms Phlegm, Clears Gallbladder and Stomach Heat, Dries Dampness",
+          "description": "Transforms phlegm, clears dampness, and opens the Heart&#x27;s orifices to restore mental clarity."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 22983,
+          "pattern_id": 4354,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Opens the sensory orifices and dissolves phlegm to clear the mind."
+        },
+        {
+          "id": 22984,
+          "pattern_id": 4354,
+          "herb_name": "Yuan Zhi",
+          "herb_url": "/knowledge-base/herbs/yuan-zhi",
+          "translation": "Polygala root",
+          "properties": "",
+          "description": "Calms the spirit and expels phlegm from the Heart channel."
+        },
+        {
+          "id": 22985,
+          "pattern_id": 4354,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, especially in the chest and diaphragm."
+        },
+        {
+          "id": 22986,
+          "pattern_id": 4354,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains dampness and strengthens the Spleen to cut off the source of phlegm."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15583,
+          "pattern_id": 4354,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Clears the mind and lifts mental cloudiness."
+        },
+        {
+          "id": 15584,
+          "pattern_id": 4354,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the spirit and anchors the mind."
+        },
+        {
+          "id": 15585,
+          "pattern_id": 4354,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, regulates Heart Qi, and relieves oppression."
+        },
+        {
+          "id": 15586,
+          "pattern_id": 4354,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point for transforming phlegm and dampness throughout the body."
+        },
+        {
+          "id": 15587,
+          "pattern_id": 4354,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Strengthens the Spleen to resolve dampness and supports the mind."
+        }
+      ]
+    },
+    {
+      "id": 4355,
+      "condition_id": 884,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "pattern_slug": "phlegm-fire-harassing-the-heart",
+      "is_common": 0,
+      "symptoms": "[\"Agitation, shouting, or aggressive behavior\", \"Flushed red face and red eyes\", \"Thick yellow sticky phlegm, rattling in the throat\", \"Bitter taste in the mouth and thirst\", \"Chest oppression with a feeling of heat\", \"Severely disturbed sleep, may not sleep at all\"]",
+      "worse_with": "Anger or emotional upset, Greasy, spicy, or heating foods, Alcohol and stimulants, Loud noises and bright lights, Overstimulating social environments",
+      "better_with": "Quiet, dimly lit room, Cool environment, Light, bland foods, Gentle, calm reassurance",
+      "why_this_happens": "When unresolved emotional frustration or external Heat lingers in the body, it can cook fluids into thick, sticky Phlegm. This Phlegm combines with Fire and surges upward to disturb the Heart and Pericardium - the seats of consciousness. The result is the hyperactive, agitated form of delirium: extreme restlessness, shouting, aggression, and incoherent speech, often accompanied by a flushed face and a sensation of heat.",
+      "tongue_and_pulse": "Tongue: red body, often swollen with a red prickly tip, covered by a thick, yellow, greasy coating. Pulse: slippery and rapid, full and overflowing at the left Cun (Heart) position.",
+      "why_triggers_reliefs_work": "Phlegm-Fire is a volatile combination: Fire rises and agitates, while Phlegm clouds the mind. Emotional upsets, especially anger, stir up Liver Fire and fan the internal flames. Greasy, spicy, and heating foods add fuel to the Fire and create more Phlegm. Overstimulation further agitates an already unsettled spirit. In contrast, a calm, cool environment and bland foods help settle the Fire and prevent new Phlegm from forming, giving the mind a chance to clear.",
+      "diet_and_lifestyle": "Avoid greasy, fried, spicy, and heavily sweetened foods-they generate Phlegm and Heat. Alcohol and coffee are especially aggravating. Focus on light, easily digested meals like congee, steamed vegetables, and small amounts of cooling fruits such as pear. Keep the room quiet, dimly lit, and free of sudden noises to avoid overstimulating the unsettled mind.",
+      "formulas": [
+        {
+          "id": 9914,
+          "pattern_id": 4355,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "Clears Heat and transforms Phlegm to calm the mind; especially suited when Phlegm-Fire causes severe restlessness and insomnia."
+        },
+        {
+          "id": 9915,
+          "pattern_id": 4355,
+          "formula_name": "Sheng Tie Luo Yin",
+          "formula_url": "/knowledge-base/formulas/sheng-tie-luo-yin",
+          "translation": "Iron Filings Drink &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Cool, Anchors and Calms the Spirit, Clears Fire and eliminates Phlegm, Calms the Liver and Subdues Yang",
+          "description": "A classic formula for Phlegm-Fire mania and delirium, using heavy sedatives to anchor the spirit and clear Fire."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 22987,
+          "pattern_id": 4355,
+          "herb_name": "Dan Nan Xing",
+          "herb_url": "/knowledge-base/herbs/dan-nan-xing",
+          "translation": "Bile Arisaema",
+          "properties": "",
+          "description": "Transforms Phlegm and clears Heat, targeting thick yellow phlegm that obstructs the orifices."
+        },
+        {
+          "id": 22988,
+          "pattern_id": 4355,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains Heart Fire and dries Dampness, directly cooling the agitation."
+        },
+        {
+          "id": 22989,
+          "pattern_id": 4355,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "",
+          "description": "Clears Phlegm-Heat and calms the stomach, easing chest oppression and nausea."
+        },
+        {
+          "id": 22990,
+          "pattern_id": 4355,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "",
+          "description": "Opens the orifices and transforms turbid Phlegm, helping to restore clarity of consciousness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15588,
+          "pattern_id": 4355,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Calms the mind and clears the senses; essential for any delirious state."
+        },
+        {
+          "id": 15589,
+          "pattern_id": 4355,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The key point to transform Phlegm and clear Heat from the body."
+        },
+        {
+          "id": 15590,
+          "pattern_id": 4355,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Opens the chest, regulates the Heart, and settles the spirit."
+        },
+        {
+          "id": 15591,
+          "pattern_id": 4355,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "Clears Liver Fire, which often fans the flames of Phlegm-Fire."
+        }
+      ]
+    },
+    {
+      "id": 4356,
+      "condition_id": 884,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "pattern_slug": "heart-and-spleen-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Fatigue and physical exhaustion\", \"Palpitations or awareness of heartbeat\", \"Poor appetite with bloating\", \"Anxiety or feeling easily startled\", \"Sallow or pale complexion\", \"Mental confusion that is quiet and withdrawn, not agitated\"]",
+      "worse_with": "Overwork or physical exhaustion, Excessive worry and rumination, Irregular eating or skipping meals, Raw, cold, or greasy foods",
+      "better_with": "Warm, nourishing meals, Rest and adequate sleep, Calm, familiar surroundings, Gentle reassurance and company",
+      "why_this_happens": "When the body is drained by prolonged illness, poor nutrition, or persistent worry, the Spleen loses its ability to produce Qi and Blood. The Heart, which relies on this supply to anchor the mind (Shen), becomes undernourished. Without a stable anchor, the mind drifts into a quiet, anxious confusion - the hallmark of deficiency-type delirium.",
+      "tongue_and_pulse": "Tongue: Pale, tender body with teeth marks, thin white coating. Pulse: Fine and weak, possibly choppy; the left cun (Heart) and right guan (Spleen) positions are especially weak.",
+      "why_triggers_reliefs_work": "This pattern is rooted in a deficit of Qi and Blood. Rest and warm, nourishing foods directly replenish what is missing, while overwork and worry consume those same resources. Cold and raw foods further weaken the Spleen's digestive fire, cutting off the supply line to the Heart, so avoiding them protects the fragile anchor of the mind.",
+      "diet_and_lifestyle": "Eat small, warm, cooked meals like congees and soups with easily digested proteins. Avoid raw, cold, or greasy foods that tax the Spleen. Maintain a calm, softly lit environment and a steady daily routine. Gentle walks and deep breathing can help, but rest is paramount - overexertion deepens the deficiency.",
+      "formulas": [
+        {
+          "id": 9916,
+          "pattern_id": 4356,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to strengthen the Spleen, nourish Heart Blood, and calm the mind in deficiency-type delirium."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 22991,
+          "pattern_id": 4356,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully replenishes the Spleen Qi to generate more Blood for the Heart."
+        },
+        {
+          "id": 22992,
+          "pattern_id": 4356,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Heart Blood to anchor the mind and ease palpitations."
+        },
+        {
+          "id": 22993,
+          "pattern_id": 4356,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "",
+          "description": "Calms the spirit and improves sleep, essential for an anxious, confused mind."
+        },
+        {
+          "id": 22994,
+          "pattern_id": 4356,
+          "herb_name": "Fu Shen",
+          "herb_url": "/knowledge-base/herbs/fu-shen",
+          "translation": "Poria with Hostwood",
+          "properties": "",
+          "description": "Quiets the Heart and settles the Shen, reducing startle and restlessness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15592,
+          "pattern_id": 4356,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Clears the mind and lifts the mood, helping to orient a confused person."
+        },
+        {
+          "id": 15593,
+          "pattern_id": 4356,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the Heart and anchors the Shen, reducing anxiety and palpitations."
+        },
+        {
+          "id": 15594,
+          "pattern_id": 4356,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies the Spleen to build Qi and Blood, addressing the root deficiency."
+        },
+        {
+          "id": 15595,
+          "pattern_id": 4356,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to improve appetite and energy."
+        }
+      ]
+    },
+    {
+      "id": 4357,
+      "condition_id": 884,
+      "pattern_name": "Heat invading the Pericardium",
+      "pattern_slug": "heat-invading-the-pericardium",
+      "is_common": 0,
+      "symptoms": "[\"High fever that persists or worsens at night\", \"Cold hands and feet despite high body temperature\", \"Deep red or crimson tongue that is stiff\", \"Sudden confusion or incoherent speech\", \"Extreme restlessness and irritability\", \"Flushed face and dry mouth\"]",
+      "worse_with": "Exposure to hot weather or stuffy rooms, Spicy, greasy, or heavy foods, Excessive noise and bright lights, Emotional stress or fright, Overexertion",
+      "better_with": "Cool, quiet environment, Cooling fluids like mung bean soup, Cool compresses on forehead, Deep breathing and calm presence",
+      "why_this_happens": "In severe febrile illnesses, the body's defensive Qi fails to contain the invading heat, which penetrates deep into the Pericardium-the outer layer of the Heart. The Pericardium normally houses the mind (Shen), but this intense heat directly clouds consciousness, causing sudden confusion, incoherent speech, and extreme restlessness. Because the heat is trapped inside and blocks the flow of Yang to the limbs, the person may have cold hands and feet despite a burning fever.",
+      "tongue_and_pulse": "Tongue: deep red or crimson, stiff, with prickles at the tip; coating dry yellow or scanty. Pulse: fine and rapid, possibly wiry.",
+      "why_triggers_reliefs_work": "This pattern is driven by intense pathogenic Heat trapped in the Pericardium, which directly disturbs the mind. Any factor that adds more Heat to the body-like hot environments, spicy foods, or physical exertion-will intensify the delirium. Emotional stress or fright further agitates the already unsettled Shen. Conversely, cooling measures like a quiet, cool room, light fluids, and calm presence help to drain Heat and soothe the spirit, allowing the Pericardium to regain its function of housing the mind.",
+      "diet_and_lifestyle": "This is a medical emergency requiring immediate care. While waiting, keep the person in a cool, quiet room with dim lighting to reduce sensory overload. Offer small sips of cool water or light fluids like mung bean soup to help lower body heat. Avoid heavy, spicy, and oily foods that can worsen internal heat.",
+      "formulas": [
+        {
+          "id": 9917,
+          "pattern_id": 4357,
+          "formula_name": "Qing Ying Tang",
+          "formula_url": "/knowledge-base/formulas/qing-ying-tang",
+          "translation": "Clear the Nutritive Level Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Cools the Nutritive Level, Resolves Heat Toxins, Vents Pathogenic Heat Outward",
+          "description": "Clears Heat from the Ying level and cools the Pericardium, suitable for acute delirium with high fever."
+        },
+        {
+          "id": 9918,
+          "pattern_id": 4357,
+          "formula_name": "An Gong Niu Huang Wan",
+          "formula_url": "/knowledge-base/formulas/an-gong-niu-huang-wan",
+          "translation": "Calm the Palace Pill with Cattle Gallstone &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Opens the Orifices and Revives Consciousness, Resolves Phlegm and Disperses Accumulation",
+          "description": "Opens the orifices, clears Heat, and rescues consciousness in severe cases with coma."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 22995,
+          "pattern_id": 4357,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "",
+          "description": "Clears Heart Heat, cools the blood, and stops convulsions."
+        },
+        {
+          "id": 22996,
+          "pattern_id": 4357,
+          "herb_name": "Lian Zi Xin",
+          "herb_url": "/knowledge-base/herbs/lian-zi-xin",
+          "translation": "Lotus plumule",
+          "properties": "",
+          "description": "Clears Heart Fire and calms the spirit, targeting the Pericardium."
+        },
+        {
+          "id": 22997,
+          "pattern_id": 4357,
+          "herb_name": "Zhu Ye",
+          "herb_url": "/knowledge-base/herbs/zhu-ye",
+          "translation": "Bamboo leaf",
+          "properties": "",
+          "description": "Clears Heat and relieves irritability, guiding Heat out through urination."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15596,
+          "pattern_id": 4357,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Clears the Pericardium, calms the mind, and opens the chest."
+        },
+        {
+          "id": 15597,
+          "pattern_id": 4357,
+          "acupoint_code": "PC-8",
+          "acupoint_name": "Laogong PC-8",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/laogong-pc-8",
+          "translation": "L&#xE1;o G&#x14D;ng",
+          "properties": "Clears Heart Fire, Calms the Mind",
+          "description": "Clears Heart Fire and cools the Pericardium, useful for high fever and delirium."
+        },
+        {
+          "id": 15598,
+          "pattern_id": 4357,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Awakens the brain and clears the senses."
+        },
+        {
+          "id": 15599,
+          "pattern_id": 4357,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat from the body, especially in febrile diseases."
+        }
+      ]
+    },
+    {
+      "id": 4358,
+      "condition_id": 884,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Low-grade afternoon fever or feeling of heat\", \"Night sweats\", \"Dry mouth and throat with desire to sip small amounts of water\", \"Flushed cheekbones (malar flush)\", \"Restlessness and irritability that worsen at night\", \"Thin body or weight loss\"]",
+      "worse_with": "Overwork and exhaustion, Spicy or fried foods, Alcohol and coffee, Emotional stress, Hot, dry weather, Late nights",
+      "better_with": "Cool, quiet, dark room, Sipping warm fluids, Regular sleep schedule, Moistening foods like pear or tofu, Gentle exercise like tai chi",
+      "why_this_happens": "When severe or prolonged illness burns up the body's yin fluids, it leaves behind a smoldering empty heat that has no substance to anchor it. This heat floats upward to disturb the heart and mind, producing a quieter, wasting type of delirium. Instead of violent outbursts, you see a chronic restlessness, confusion that worsens at night, and a body that feels hot in the palms, soles, and chest while the rest may be cool.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with cracks, little or no coating. Pulse: fine (thin) and rapid.",
+      "why_triggers_reliefs_work": "Yin deficiency means the body's cooling and moistening reserves are low. Overwork, late nights, and emotional stress further consume yin, while spicy food and alcohol add heat, making the empty fire blaze higher. Rest, cooling fluids, and yin-nourishing foods help replenish what has been lost and gently anchor the floating heat, calming the mind.",
+      "diet_and_lifestyle": "Eat moistening, yin-nourishing foods like pears, black sesame, honey, millet, and tofu. Avoid spicy, fried, or drying foods, alcohol, and coffee, which generate heat. Keep a cool, quiet bedroom and prioritize regular sleep. Gentle activities like tai chi or walking are better than intense exercise that depletes fluids.",
+      "formulas": [
+        {
+          "id": 9919,
+          "pattern_id": 4358,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "Nourishes Kidney Yin and clears deficiency heat, calming the mind."
+        },
+        {
+          "id": 9920,
+          "pattern_id": 4358,
+          "formula_name": "Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/wen-dan-tang",
+          "translation": "Warm the Gallbladder Decoction &#xB7; Southern S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Neutral, Regulates Qi and Transforms Phlegm, Clears Gallbladder and Stomach Heat, Dries Dampness",
+          "description": "A classical formula used to clear Phlegm and restore harmony between the Gallbladder and Stomach. It is commonly used for people experiencing insomnia, anxiety, restless sleep with vivid dreams, dizziness, nausea, or heart palpitations caused by Phlegm and stagnant Qi disturbing the mind. Despite its name (&quot;Warm the Gallbladder&quot;), the formula&#x27;s overall effect is gently clearing and calming rather than warming."
+        },
+        {
+          "id": 9921,
+          "pattern_id": 4358,
+          "formula_name": "Huang Lian Wen Dan Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-wen-dan-tang",
+          "translation": "Coptis Gallbladder-Warming Decoction &#xB7; Q&#x12B;ng dynasty, 1868 CE",
+          "properties": "Cool, Clears Heat and Transforms Phlegm, Clears Liver and Gallbladder Heat, Harmonizes the Stomach and Stops Vomiting",
+          "description": "A classical formula used to clear Heat and resolve Phlegm that is disturbing the mind and digestive system. It is commonly used for insomnia, restlessness, nausea, and a bitter taste in the mouth caused by the accumulation of Phlegm-Heat in the Gallbladder and Stomach. Think of it as a formula that calms both an agitated mind and an upset stomach by addressing the underlying combination of inflammatory Heat and sticky Phlegm."
+        },
+        {
+          "id": 9922,
+          "pattern_id": 4358,
+          "formula_name": "Sheng Tie Luo Yin",
+          "formula_url": "/knowledge-base/formulas/sheng-tie-luo-yin",
+          "translation": "Iron Filings Drink &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Cool, Anchors and Calms the Spirit, Clears Fire and eliminates Phlegm, Calms the Liver and Subdues Yang",
+          "description": "A classical formula for calming severe mental agitation, mania, and emotional disturbances caused by an accumulation of internal Heat and Phlegm disturbing the mind. It uses heavy mineral substances to anchor and settle the spirit while clearing Heat and dissolving Phlegm from the Heart and Liver. Commonly applied in cases of acute psychiatric episodes, severe insomnia with agitation, and epilepsy related to Phlegm-Fire patterns."
+        },
+        {
+          "id": 9923,
+          "pattern_id": 4358,
+          "formula_name": "Gui Pi Tang",
+          "formula_url": "/knowledge-base/formulas/gui-pi-tang",
+          "translation": "Restore the Spleen Decoction &#xB7; S&#xF2;ng dynasty, 1253 CE (original); M&#xED;ng dynasty additions by Xue Ji",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that strengthens the Spleen and nourishes the Heart to address fatigue, poor appetite, insomnia, forgetfulness, palpitations, and anxiety caused by weakness of both the Heart and Spleen. It is also widely used for bleeding disorders such as heavy or prolonged menstrual periods, easy bruising, or blood in the stool that result from the Spleen being too weak to keep blood in its proper channels."
+        },
+        {
+          "id": 9924,
+          "pattern_id": 4358,
+          "formula_name": "Qing Ying Tang",
+          "formula_url": "/knowledge-base/formulas/qing-ying-tang",
+          "translation": "Clear the Nutritive Level Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Cools the Nutritive Level, Resolves Heat Toxins, Vents Pathogenic Heat Outward",
+          "description": "A classical formula for serious febrile (feverish) illnesses where Heat has penetrated deep into the body, causing high fever that worsens at night, restlessness, disturbed sleep, and sometimes delirium. It works by clearing deep-seated Heat, protecting the body&#x27;s fluids from being dried out, and guiding the pathogenic Heat back outward where the body can expel it more easily."
+        },
+        {
+          "id": 9925,
+          "pattern_id": 4358,
+          "formula_name": "An Gong Niu Huang Wan",
+          "formula_url": "/knowledge-base/formulas/an-gong-niu-huang-wan",
+          "translation": "Calm the Palace Pill with Cattle Gallstone &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Opens the Orifices and Revives Consciousness, Resolves Phlegm and Disperses Accumulation",
+          "description": "A renowned emergency formula used for severe febrile illnesses where extreme heat invades the Pericardium, causing loss of consciousness, high fever, delirium, and convulsions. It is one of the most famous TCM rescue medicines, historically described as capable of &#x27;saving the critically ill in an instant.&#x27; This is a powerful prescription for acute crises and is not suitable for daily use or prevention."
+        },
+        {
+          "id": 9926,
+          "pattern_id": 4358,
+          "formula_name": "Zhi Bai Di Huang Wan",
+          "formula_url": "/knowledge-base/formulas/zhi-bo-di-huang-wan",
+          "translation": "Anemarrhena, Phellodendron, and Rehmannia Pill &#xB7; M&#xED;ng dynasty, 1584 CE",
+          "properties": "Cool, Nourishes Yin, Clears Deficiency Heat, Nourishes Kidney Yin",
+          "description": "A classical formula that nourishes the body&#x27;s cooling Yin fluids while clearing excess internal heat. It is commonly used for symptoms such as hot flashes, night sweats, tinnitus, sore throat, dry mouth, and low back aching that arise when the Kidneys become depleted and the body overheats from within. It builds on the famous Liu Wei Di Huang Wan (Six Ingredient Rehmannia Pill) with two additional cooling herbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 22998,
+          "pattern_id": 4358,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens Yin, generates fluids, and calms the heart."
+        },
+        {
+          "id": 22999,
+          "pattern_id": 4358,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears heart fire and drains empty heat."
+        },
+        {
+          "id": 23000,
+          "pattern_id": 4358,
+          "herb_name": "Fu Shen",
+          "herb_url": "/knowledge-base/herbs/fu-shen",
+          "translation": "Poria with Hostwood",
+          "properties": "",
+          "description": "Calms the spirit and anchors the mind."
+        },
+        {
+          "id": 23001,
+          "pattern_id": 4358,
+          "herb_name": "Shi Chang Pu",
+          "herb_url": "/knowledge-base/herbs/shi-chang-pu",
+          "translation": "Acorus rhizome",
+          "properties": "Warm, Expels Phlegm and Opens the Orifices, Awakens the Spirit and Sharpens the Mind, Transforms Dampness and Harmonizes the Stomach",
+          "description": ""
+        },
+        {
+          "id": 23002,
+          "pattern_id": 4358,
+          "herb_name": "Yuan Zhi",
+          "herb_url": "/knowledge-base/herbs/yuan-zhi",
+          "translation": "Polygala root",
+          "properties": "Warm, Calms the Spirit and Benefits Intelligence, Expels Phlegm and Opens the Orifices, Promotes Heart-Kidney Communication",
+          "description": ""
+        },
+        {
+          "id": 23003,
+          "pattern_id": 4358,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 23004,
+          "pattern_id": 4358,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 23005,
+          "pattern_id": 4358,
+          "herb_name": "Dan Nan Xing",
+          "herb_url": "/knowledge-base/herbs/dan-nan-xing",
+          "translation": "Bile Arisaema",
+          "properties": "Cool, Clears heat and transforms phlegm (&#x6E05;&#x70ED;&#x5316;&#x75F0;), Extinguishes wind and stops convulsions (&#x606F;&#x98CE;&#x5B9A;&#x60CA;)",
+          "description": ""
+        },
+        {
+          "id": 23006,
+          "pattern_id": 4358,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 23007,
+          "pattern_id": 4358,
+          "herb_name": "Zhu Ru",
+          "herb_url": "/knowledge-base/herbs/zhu-ru",
+          "translation": "Bamboo shavings",
+          "properties": "Slightly Cool, Clears Heat and Transforms Phlegm, Clears Stomach Heat and stops vomiting, Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 23008,
+          "pattern_id": 4358,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 23009,
+          "pattern_id": 4358,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 23010,
+          "pattern_id": 4358,
+          "herb_name": "Suan Zao Ren",
+          "herb_url": "/knowledge-base/herbs/suan-zao-ren",
+          "translation": "Sour jujube seed",
+          "properties": "Neutral, Nourishes the Heart and Calms the Spirit, Nourishes Liver Blood, Astringes to Stop Sweating",
+          "description": ""
+        },
+        {
+          "id": 23011,
+          "pattern_id": 4358,
+          "herb_name": "Fu Shen",
+          "herb_url": "/knowledge-base/herbs/fu-shen",
+          "translation": "Poria with Hostwood",
+          "properties": "Neutral, Calms the Heart and Quiets the Spirit, Promotes Urination and Drains Dampness, Strengthens the Spleen",
+          "description": ""
+        },
+        {
+          "id": 23012,
+          "pattern_id": 4358,
+          "herb_name": "Shui Niu Jiao",
+          "herb_url": "/knowledge-base/herbs/shui-niu-jiao",
+          "translation": "Water buffalo horn",
+          "properties": "Cold, Clears Heat and Cools the Blood, Resolves Toxicity, Calms the spirit and arrests tremors",
+          "description": ""
+        },
+        {
+          "id": 23013,
+          "pattern_id": 4358,
+          "herb_name": "Lian Zi Xin",
+          "herb_url": "/knowledge-base/herbs/lian-zi-xin",
+          "translation": "Lotus plumule",
+          "properties": "Cold, Clears Heart Fire, Calms the Spirit, Promotes Heart-Kidney Communication",
+          "description": ""
+        },
+        {
+          "id": 23014,
+          "pattern_id": 4358,
+          "herb_name": "Zhu Ye",
+          "herb_url": "/knowledge-base/herbs/zhu-ye",
+          "translation": "Bamboo leaf",
+          "properties": "Cold, Clears Heat and relieves irritability, Generates fluids and alleviates thirst, Promotes urination and clears Heat from the Heart via the Small Intestine",
+          "description": ""
+        },
+        {
+          "id": 23015,
+          "pattern_id": 4358,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 15600,
+          "pattern_id": 4358,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Nourishes Kidney Yin to anchor floating heat."
+        },
+        {
+          "id": 15601,
+          "pattern_id": 4358,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the heart and spirit."
+        },
+        {
+          "id": 15602,
+          "pattern_id": 4358,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Yin and harmonizes fluids."
+        },
+        {
+          "id": 15603,
+          "pattern_id": 4358,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Settles the heart and clears mental restlessness."
+        },
+        {
+          "id": 15604,
+          "pattern_id": 4358,
+          "acupoint_code": "DU-20",
+          "acupoint_name": "Baihui DU-20",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/baihui-du-20",
+          "translation": "B&#xE1;i Hu&#xEC;",
+          "properties": "Expels Interior Wind, Subdues or Raises Yang",
+          "description": "Clears the mind and lifts confusion."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 5740,
+      "condition_id": 884,
+      "question": "Can acupuncture really help someone who is delirious?",
+      "answer": "Yes, acupuncture can be a powerful supportive tool. Points like Baihui (DU-20), Shenmen (HT-7), and Neiguan (PC-6) are used to calm the mind and clear orifices. In acute settings, even a single session may help reduce agitation and improve orientation. However, acupuncture is never a substitute for emergency medical evaluation - it works best as part of a comprehensive plan that addresses the underlying cause of the delirium, such as infection or metabolic imbalance."
+    },
+    {
+      "id": 5741,
+      "condition_id": 884,
+      "question": "How quickly will herbs work for confusion?",
+      "answer": "For acute, heat-based patterns, herbal formulas like An Gong Niu Huang Wan or Qing Ying Tang can bring noticeable improvement in mental clarity within a day or two when the pattern is correctly identified. For phlegm-dominant patterns, it may take 3-7 days to see the fog lift. In chronic deficiency states, improvement is gradual - often 2-4 weeks before the mind feels steadier and less prone to confusion. Consistency with herbs and addressing the root cause are key."
+    },
+    {
+      "id": 5742,
+      "condition_id": 884,
+      "question": "Is it safe to take Chinese herbs with my hospital medications?",
+      "answer": "This must be managed carefully. Many delirium patients are on multiple medications, including sedatives, antibiotics, or blood thinners. Some herbs, such as Dang Gui (Angelica sinensis) or Dan Shen (Salvia miltiorrhiza), can interact with anticoagulants. Always give your TCM practitioner a complete list of your medications, and inform your doctor that you are using herbs. Never stop prescribed medications without medical supervision. In an inpatient setting, herbal treatment should only be given with the hospital team's knowledge."
+    },
+    {
+      "id": 5743,
+      "condition_id": 884,
+      "question": "Does TCM only treat the confusion, or the root cause too?",
+      "answer": "TCM always aims to treat the root. For example, if delirium is caused by phlegm-fire, the herbs will clear heat and transform phlegm - the very factors generating the confusion. If it stems from Heart and Spleen deficiency, the formula will tonify Qi and Blood to anchor the mind. By addressing the underlying imbalance, TCM not only helps resolve the current episode but also strengthens the body against future occurrences, especially in vulnerable individuals."
+    },
+    {
+      "id": 5744,
+      "condition_id": 884,
+      "question": "What diet changes can support recovery from delirium?",
+      "answer": "In general, avoid greasy, fried, and dairy-heavy foods that create phlegm, as well as spicy and alcohol that stir up fire. Favor warm, easily digested meals like congee, steamed vegetables, and light broths. For deficiency patterns, nourishing soups with ingredients like Chinese yam, lotus seeds, and goji berries can help rebuild Qi and Blood. For heat patterns, cooling foods like mung beans, cucumber, and pear are beneficial. Specific advice will depend on the individual pattern."
+    },
+    {
+      "id": 5745,
+      "condition_id": 884,
+      "question": "Can TCM prevent delirium in someone at high risk, like before surgery?",
+      "answer": "Yes, TCM can be used proactively. For an elderly person with Spleen deficiency who is prone to phlegm, pre-operative acupuncture and herbs that strengthen digestion and resolve phlegm may reduce the risk of post-operative delirium. Similarly, someone with Yin deficiency might receive nourishing herbs to prevent empty-heat from flaring under the stress of illness. This preventive approach is an area of growing interest and should be discussed with both the surgical and TCM teams."
+    }
+  ],
+  "research": []
+}

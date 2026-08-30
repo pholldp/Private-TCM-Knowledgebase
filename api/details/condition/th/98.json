@@ -1,0 +1,543 @@
+{
+  "id": 98,
+  "name": "อัมพาตใบหน้า",
+  "url": "/knowledge-base/conditions/facial-paralysis",
+  "kind": "Condition",
+  "pinyin": "miàn tān",
+  "chinese_name": "面瘫",
+  "preview_text": "ความรู้สึกบนใบหน้าของคุณ ไม่ว่าจะตึงและเย็น แสบร้อนและบวม หรือชาและหนักหน่วง บอกเราว่าคุณมีรูปแบบอัมพาตบนใบหน้าแบบใด และช่วยแนะนำการรักษาที่ ...",
+  "categories": "[\"ภาวะสมองและระบบประสาท\", \"อัมพาตและความผิดปกติของการเคลื่อนไหว\", \"ใบหน้าและผิวพรรณ\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Bell's Palsy\", \"Facial Nerve Palsy\", \"Facial Weakness\", \"Paralysis Of The Face\", \"Deviation of eye and mouth\", \"Deviation of the eyes or mouth\", \"Facial nerve paralysis\"]",
+  "conventional_description": "Facial paralysis is the sudden weakness or inability to move the muscles on one side of the face. The most common form is Bell’s palsy, thought to arise from inflammation or viral infection of the facial nerve (cranial nerve VII). It typically develops over hours to days, causing drooping of the mouth, difficulty closing the eye, drooling, and sometimes altered taste or hearing. Diagnosis is made by physical examination, and most people recover partially or fully within weeks to months, though some may experience incomplete healing or synkinesis (unwanted muscle movements).",
+  "conventional_treatments": "Standard care includes corticosteroids such as prednisone to reduce nerve swelling, and possibly antiviral medications if a viral cause is suspected. Protecting the eye is crucial - artificial tears, lubricating ointments, and taping the eyelid shut at night. Physical therapy and facial exercises may be recommended to maintain muscle tone. Most patients are monitored with the expectation of natural recovery, but severe or non-resolving cases may require surgical decompression or nerve grafting.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, acute facial paralysis is primarily seen as an invasion of external Wind, which penetrates the body’s defenses and lodges in the channels of the face - especially the Yangming (Stomach and Large Intestine) and Shaoyang (Gallbladder) channels that run across the cheeks, mouth, and eyes. Wind is a ‘yang’ pathogen that moves quickly and targets the upper body, which is why the face is so vulnerable. Once the channels are blocked, Qi and blood cannot reach the facial muscles, leading to paralysis.\nThe critical distinction is the nature of the Wind. If it is Wind-Cold, the muscles feel tight and achy, the face looks pale, and the person feels chilly and prefers warmth. If it is Wind-Heat, the face feels hot or swollen, the mouth is dry, and the person may have a sore throat or fever. These two patterns account for the majority of early cases, and the treatment strategy is opposite: warming for Cold, cooling for Heat.\nSometimes the Wind carries phlegm - a sticky, obstructive substance that forms when the Spleen is weak and fails to transform fluids. In Wind-Phlegm, the face feels numb and heavy, there is profuse white phlegm in the throat, and the tongue is swollen with a greasy coating. This pattern often occurs in people who have a tendency toward dampness, and it responds to herbs that both dispel wind and transform phlegm.\nWhen facial paralysis lingers for weeks or months without full recovery, the problem shifts from an external invasion to an internal deficiency. Qi becomes too weak to move blood, and stagnation sets in. The face droops, the muscles feel flaccid, and the complexion turns dusky. This Qi Deficiency with Blood Stagnation pattern requires a different approach - boosting Qi and invigorating blood - and recovery may be slower but still achievable with consistent treatment.",
+  "classical_quote": "「足阳明之筋...其病...卒口僻，急者目不合，热则筋纵，目不开。」",
+  "classical_translation": "\"The sinew channel of the foot Yangming... when diseased... there is sudden deviation of the mouth. In a cold pattern, the sinews contract and the eye cannot close; in a heat pattern, the sinews relax and the eye cannot open.\"",
+  "classical_source": "Ling Shu (灵枢), Chapter 13: Jing Jin (经筋)  ,  Chapter 13 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "To see if Wind-Cold is the culprit, a practitioner will ask whether the facial weakness came on suddenly after exposure to cold or wind, and whether you feel chilled and prefer warmth. The face may feel tight and achy rather than burning, and you might notice a general aversion to drafts. The tongue is pale with a thin white coating, and the pulse feels floating and tight - both confirming an external cold invasion.\nIf instead the face feels hot, swollen, or tender, and you have a dry throat, thirst, or even a low fever, the pattern leans toward Wind-Heat. The practitioner will ask about recent sore throats or feeling overheated. A red tongue with a yellow coating and a floating, rapid pulse distinguish this from Wind-Cold. The onset is still acute, but the quality of the sensation is fiery rather than chilly.\nWhen the face feels numb or stiff rather than just weak, and you notice a heavy sensation with plenty of phlegm in the throat, Wind-Phlegm is likely. A practitioner will ask about a history of dampness, bloating, or a sluggish feeling. The tongue appears swollen with a thick greasy white coating, and the pulse feels wiry and slippery - both signs that phlegm is obstructing the channels along with wind.\nIf the facial paralysis has lingered for weeks or months without full recovery, and you also feel deeply tired with a dull, dark complexion, the pattern may have shifted to Qi Deficiency causing Blood Stagnation. The practitioner will ask about long-standing fatigue and whether the facial muscles have become lax or atrophied. A purplish dark tongue with visible stasis spots and a thready, choppy pulse confirm that blood is not moving well.",
+  "patterns": [
+    {
+      "id": 483,
+      "condition_id": 98,
+      "pattern_name": "Wind-Cold",
+      "pattern_slug": "wind-cold",
+      "is_common": 0,
+      "symptoms": "[\"Sudden onset of eye and mouth deviation\", \"Facial tightness or pain\", \"Strong aversion to wind and cold\", \"No sweating\", \"Clear watery nasal discharge\", \"No thirst or preference for warm drinks\"]",
+      "worse_with": "Exposure to cold wind or drafts, Cold or raw foods, Washing face with cold water, Overwork",
+      "better_with": "Warmth on the face, Ginger tea, Rest, Gentle facial massage with warm oil, Avoiding cold wind",
+      "why_this_happens": "Wind-Cold is an external pathogen that invades the body’s surface. When it attacks the face, especially the Yangming and Shaoyang channels, the cold contracts the muscles and blocks the normal flow of Qi and blood. This sudden obstruction causes the eye and mouth to deviate, and the face to feel tight or painful. The cold also produces the characteristic chills, aversion to wind, and absence of sweating.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin, white, moist coating. Pulse: floating and tight (浮紧, fú jǐn).",
+      "why_triggers_reliefs_work": "Cold has a contracting and obstructing nature. When Wind-Cold invades the face, it tightens the channels and blocks the flow of Qi and blood, causing paralysis. Warmth relaxes the channels, promotes circulation, and helps expel the pathogen. Warm foods and drinks, like ginger tea, support the body's Yang Qi and aid in driving out cold. Rest conserves Qi, which is essential to fight the external invasion. Avoiding cold wind and cold water prevents further cold from entering and worsening the condition.",
+      "diet_and_lifestyle": "Keep the face and neck warmly covered, especially when outdoors or in drafts. Use a warm compress or a gentle heat source on the affected side to relax tight muscles. Sip warm ginger and scallion tea to help dispel cold from the surface. Eat warm, cooked foods like soups and stews, and avoid cold or raw foods and iced drinks. Rest in a calm, draft-free room and avoid overexertion.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 2571,
+          "pattern_id": 483,
+          "herb_name": "Bai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/bai-fu-zi",
+          "translation": "Giant typhonium rhizome",
+          "properties": "",
+          "description": "Warms and scatters wind-cold from the face; a key herb for sudden facial deviation."
+        },
+        {
+          "id": 2572,
+          "pattern_id": 483,
+          "herb_name": "Jiang Can",
+          "herb_url": "/knowledge-base/herbs/jiang-can",
+          "translation": "Silkworm",
+          "properties": "",
+          "description": "Dispels wind and relieves spasm in the facial muscles."
+        },
+        {
+          "id": 2573,
+          "pattern_id": 483,
+          "herb_name": "Quan Xie",
+          "herb_url": "/knowledge-base/herbs/quan-xie",
+          "translation": "Scorpion",
+          "properties": "",
+          "description": "Powerfully extinguishes wind and unblocks collaterals to correct deviation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1702,
+          "pattern_id": 483,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels wind-cold and releases the exterior to stop the invasion."
+        },
+        {
+          "id": 1703,
+          "pattern_id": 483,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "The command point of the face; moves Qi to restore facial function."
+        },
+        {
+          "id": 1704,
+          "pattern_id": 483,
+          "acupoint_code": "SJ-17",
+          "acupoint_name": "Yifeng SJ-17",
+          "acupoint_url": "/knowledge-base/acupuncture/triple-burner-meridian/yifeng-sj-17",
+          "translation": "Y&#xEC; F&#x113;ng",
+          "properties": "Benefits the ears, Expels Wind",
+          "description": "Local point behind the ear to unblock facial channels."
+        },
+        {
+          "id": 1705,
+          "pattern_id": 483,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point to correct deviation of the mouth."
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "condition_id": 98,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Facial burning or swelling\", \"Sore throat\", \"Thirst with a desire to drink\", \"Fever with mild chills\", \"Red, dry eyes\"]",
+      "worse_with": "Exposure to wind or heat, Spicy, greasy, or fried foods, Overwork, Stress",
+      "better_with": "Cool environment, Rest, Drinking plenty of fluids, Cool compresses on the face",
+      "why_this_happens": "When an external Wind-Heat pathogen invades, it often travels along the Yangming and Shaoyang channels that run across the face. The combination of Wind and Heat creates local inflammation, swelling, and a burning sensation along the facial nerves. This disrupts the normal flow of Qi and blood, causing the muscles to lose their ability to move, resulting in sudden deviation of the eye and mouth. The Heat also consumes body fluids, leading to dry throat, thirst, and a red tongue.",
+      "tongue_and_pulse": "Tongue: red at the tip and edges with a thin yellow coating (may be thin white-to-yellow in early stages). Pulse: floating (浮 fú) and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Wind-Heat is an external pathogen that invades the body's surface. Heat and wind exposure worsen it because they reinforce the pathogen. Spicy and greasy foods create internal heat, adding to the burden. Rest and cool environments help the body's defensive Qi to expel the pathogen, while fluids cool internal heat and prevent further fluid consumption.",
+      "diet_and_lifestyle": "Stay in a cool, well-ventilated space and avoid direct wind or drafts. Drink plenty of water and eat cooling foods like mung beans, cucumber, and pear. Avoid spicy, greasy, and fried foods that create internal heat. Rest is essential to allow the body to clear the pathogen.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 2574,
+          "pattern_id": 484,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat, dispels Wind, and reduces facial inflammation."
+        },
+        {
+          "id": 2575,
+          "pattern_id": 484,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, especially useful for swelling and redness."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1706,
+          "pattern_id": 484,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Reducing method. Clears heat from the Yangming channels and dispels external Wind."
+        },
+        {
+          "id": 1707,
+          "pattern_id": 484,
+          "acupoint_code": "SJ-5",
+          "acupoint_name": "Waiguan SJ-5",
+          "acupoint_url": "/knowledge-base/acupuncture/triple-burner-meridian/waiguan-sj-5",
+          "translation": "W&#xE0;i Gu&#x101;n",
+          "properties": "Expels Wind-Heat, Removes Obstructions from the Channel",
+          "description": "Reducing method. Releases exterior Wind-Heat and unblocks the Shaoyang channel."
+        },
+        {
+          "id": 1708,
+          "pattern_id": 484,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reducing method. Subdues Liver Yang and clears heat, often used for facial paralysis with burning."
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "condition_id": 98,
+      "pattern_name": "Wind-Phlegm",
+      "pattern_slug": "wind-phlegm",
+      "is_common": 0,
+      "symptoms": "[\"Facial numbness or stiffness\", \"Copious white, frothy sputum\", \"Heavy sensation in the head or body\", \"Chest stuffiness or nausea\", \"Dizziness or vertigo\"]",
+      "worse_with": "Damp or humid weather, Cold or raw foods, Spicy, greasy, or fried foods, Exposure to wind, Sedentary lifestyle",
+      "better_with": "Warm, dry environment, Light, cooked meals, Gentle walking or stretching, Avoiding dairy, Ginger tea",
+      "why_this_happens": "When the Spleen is weak and fails to transform fluids, internal phlegm-dampness accumulates. If external wind then invades, it can stir up this phlegm and carry it upward to obstruct the facial channels. The result is numbness, stiffness, and deviation of the mouth and eye, often with a heavy sensation and copious phlegm.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, swollen with teeth marks, white greasy coating. Pulse: wiry and slippery (Xian Hua).",
+      "why_triggers_reliefs_work": "Phlegm is a damp, heavy pathogen that worsens with cold and dampness, so warm, dry conditions and light, cooked foods help the Spleen transform it. Wind stirs up phlegm and invades the channels when the body is exposed to drafts; keeping the face covered and avoiding wind prevents this. Gentle movement keeps Qi and fluids moving, preventing stagnation from turning into phlegm.",
+      "diet_and_lifestyle": "Avoid cold, raw, and greasy foods that create phlegm. Eat warm, cooked meals with ginger and lightly spiced dishes to support Spleen Qi. Protect the face from wind and drafts. Gentle daily movement like walking helps Qi flow and transforms dampness.",
+      "formulas": [
+        {
+          "id": 1106,
+          "pattern_id": 485,
+          "formula_name": "Dao Tan Tang",
+          "formula_url": "/knowledge-base/formulas/dao-tan-tang",
+          "translation": "Guide Out Phlegm Decoction &#xB7; Southern Song dynasty (&#x5357;&#x5B8B;), 1253 CE",
+          "properties": "Warm, Dries Dampness and expels Phlegm, Moves Qi and opens constraint, Disperses Wind-Phlegm",
+          "description": "Resolves Phlegm and opens the collaterals, addressing the root of phlegm obstruction."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2576,
+          "pattern_id": 485,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries dampness and transforms phlegm, the key herb for phlegm patterns."
+        },
+        {
+          "id": 2577,
+          "pattern_id": 485,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "",
+          "description": "Regulates Qi and dries dampness, supporting the Spleen in resolving phlegm."
+        },
+        {
+          "id": 2578,
+          "pattern_id": 485,
+          "herb_name": "Bai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/bai-fu-zi",
+          "translation": "Giant typhonium rhizome",
+          "properties": "",
+          "description": "Dispels wind-phlegm and unblocks the collaterals, especially in the face."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1709,
+          "pattern_id": 485,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for phlegm, transforms and drains phlegm-dampness."
+        },
+        {
+          "id": 1710,
+          "pattern_id": 485,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to resolve phlegm at its source."
+        },
+        {
+          "id": 1711,
+          "pattern_id": 485,
+          "acupoint_code": "ST-4",
+          "acupoint_name": "Dicang ST-4",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/dicang-st-4",
+          "translation": "Di C&#x101;ng",
+          "properties": "Expels Wind, Removes Obstructions from the Channel",
+          "description": "Local point on the face to restore movement and unblock the channel."
+        },
+        {
+          "id": 1712,
+          "pattern_id": 485,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Expels wind from the face and head, a key point for facial paralysis."
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "condition_id": 98,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "pattern_slug": "qi-deficiency-causing-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Facial muscle laxity or sagging\", \"Dusky or dark facial complexion\", \"Persistent fatigue and lack of strength\", \"Numbness or tingling on the affected side\", \"Fixed, dull pain on the face, worse with pressure\"]",
+      "worse_with": "Overwork, Cold or raw foods, Exposure to cold wind or drafts, Stress",
+      "better_with": "Gentle walking or stretching, Warm, nourishing soups, Rest, Warmth on the face, Moxibustion on Zusanli",
+      "why_this_happens": "When the body's Qi is weak from overwork or chronic illness, it loses the strength to push blood through the tiny vessels that feed the facial muscles. Blood slows down and stagnates, leaving the muscles undernourished and flaccid. This is why the face droops persistently and the complexion turns dusky, and why recovery is slow without also rebuilding Qi.",
+      "tongue_and_pulse": "Tongue: pale-dark or pale-purple body with stasis spots, swollen with teeth marks, thin white coat. Pulse: deep, thready or weak, and choppy (涩 sè).",
+      "why_triggers_reliefs_work": "This pattern is rooted in Qi deficiency, so overexertion and cold further drain Qi and congeal blood. Rest and gentle movement rebuild Qi, while warmth and nourishing foods support blood circulation. Moxibustion adds external warmth to stimulate the flow of Qi and blood through the facial channels.",
+      "diet_and_lifestyle": "Eat warm, nourishing meals like chicken soup with astragalus root, dates, and ginger. Gentle daily walks and facial exercises help move blood without exhausting Qi. Avoid cold foods and overwork. Moxibustion at home on Zusanli can gently warm and tonify.",
+      "formulas": [
+        {
+          "id": 1107,
+          "pattern_id": 486,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "The classic formula to boost Qi, move blood, and unblock the facial channels in chronic facial paralysis."
+        },
+        {
+          "id": 1108,
+          "pattern_id": 486,
+          "formula_name": "Dao Tan Tang",
+          "formula_url": "/knowledge-base/formulas/dao-tan-tang",
+          "translation": "Guide Out Phlegm Decoction &#xB7; Southern Song dynasty (&#x5357;&#x5B8B;), 1253 CE",
+          "properties": "Warm, Dries Dampness and expels Phlegm, Moves Qi and opens constraint, Disperses Wind-Phlegm",
+          "description": "A classical formula for addressing stubborn phlegm accumulation that causes dizziness, chest fullness, nausea, and headaches. It works by strongly drying Dampness, dissolving thick phlegm, and moving stagnant Qi so the body can clear phlegm that has built up over time. Often used when simpler phlegm-resolving formulas are not strong enough."
+        },
+        {
+          "id": 1109,
+          "pattern_id": 486,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 2579,
+          "pattern_id": 486,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "The chief herb to powerfully boost Qi, enabling blood to move through the facial collaterals."
+        },
+        {
+          "id": 2580,
+          "pattern_id": 486,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes blood and activates circulation, addressing the underlying blood deficiency and stasis."
+        },
+        {
+          "id": 2581,
+          "pattern_id": 486,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "",
+          "description": "Invigorates blood and dispels stasis, especially helpful for facial numbness and pain."
+        },
+        {
+          "id": 2582,
+          "pattern_id": 486,
+          "herb_name": "Bai Fu Zi",
+          "herb_url": "/knowledge-base/herbs/bai-fu-zi",
+          "translation": "Giant typhonium rhizome",
+          "properties": "Warm, Dispels Wind-Phlegm, Dries Dampness and Transforms Phlegm, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 2583,
+          "pattern_id": 486,
+          "herb_name": "Jiang Can",
+          "herb_url": "/knowledge-base/herbs/jiang-can",
+          "translation": "Silkworm",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Dispels Wind and Stops Pain, Transforms Phlegm and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 2584,
+          "pattern_id": 486,
+          "herb_name": "Quan Xie",
+          "herb_url": "/knowledge-base/herbs/quan-xie",
+          "translation": "Scorpion",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Unblocks the Channels and Alleviates Pain, Resolves Toxicity and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 2585,
+          "pattern_id": 486,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 2586,
+          "pattern_id": 486,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 2587,
+          "pattern_id": 486,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 2588,
+          "pattern_id": 486,
+          "herb_name": "Chen Pi",
+          "herb_url": "/knowledge-base/herbs/chen-pi",
+          "translation": "Tangerine peel",
+          "properties": "Warm, Regulates Qi and strengthens the Spleen, Dries Dampness and Transforms Phlegm, Harmonizes the Middle Burner",
+          "description": ""
+        },
+        {
+          "id": 2589,
+          "pattern_id": 486,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 2590,
+          "pattern_id": 486,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 2591,
+          "pattern_id": 486,
+          "herb_name": "Chi Shao",
+          "herb_url": "/knowledge-base/herbs/chi-shao",
+          "translation": "Red peony root",
+          "properties": "Slightly Cool, Clears Heat and Cools the Blood, Invigorates Blood and Dispels Stasis, Clears Liver Fire",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 1713,
+          "pattern_id": 486,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and blood, strengthening the body&#x27;s ability to move stagnation."
+        },
+        {
+          "id": 1714,
+          "pattern_id": 486,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes blood and invigorates its flow, addressing the root of stasis."
+        },
+        {
+          "id": 1715,
+          "pattern_id": 486,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood point, directly activates blood circulation to resolve stasis."
+        },
+        {
+          "id": 1716,
+          "pattern_id": 486,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "A master point for the face, guides Qi and blood to the facial channels."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 620,
+      "condition_id": 98,
+      "question": "How quickly can acupuncture help my facial paralysis?",
+      "answer": "In many cases, people begin to notice slight movement returning within 2-3 weeks of starting acupuncture and herbal treatment. The speed depends on the pattern: Wind-Cold and Wind-Heat tend to respond faster than Wind-Phlegm or long-standing deficiency patterns. Consistency matters - attending sessions 2-3 times per week in the acute phase gives the best results."
+    },
+    {
+      "id": 621,
+      "condition_id": 98,
+      "question": "Can I combine acupuncture with the steroids my doctor prescribed?",
+      "answer": "Yes, absolutely. Acupuncture and herbs can safely be used alongside corticosteroids and antiviral medications. In fact, starting TCM right away may support nerve recovery and reduce inflammation. Do not stop your prescribed medication without consulting your doctor. Let both your physician and your acupuncturist know about all treatments you are receiving."
+    },
+    {
+      "id": 622,
+      "condition_id": 98,
+      "question": "Do I need to change my diet during treatment?",
+      "answer": "Diet plays a supportive role. Avoid cold, raw foods and icy drinks, as cold can contract the channels and slow healing. Reduce dairy, greasy, and sweet foods that create phlegm, especially if you have a Wind-Phlegm pattern. Warm soups, congee, and ginger tea are excellent choices to help dispel wind and nourish Qi."
+    },
+    {
+      "id": 623,
+      "condition_id": 98,
+      "question": "Is it safe to use herbs while pregnant or breastfeeding?",
+      "answer": "Many herbs used for facial paralysis are considered safe during pregnancy, but some - particularly strong blood-moving herbs like Chi Shao or Tao Ren - should be used with caution or avoided. Always tell your TCM practitioner if you are pregnant, planning to become pregnant, or breastfeeding. They will adjust the formula to ensure safety for both you and your baby."
+    },
+    {
+      "id": 624,
+      "condition_id": 98,
+      "question": "What if my face doesn’t fully recover after months?",
+      "answer": "If facial weakness persists beyond 3-6 months, TCM still has much to offer. The focus shifts to the Qi Deficiency and Blood Stagnation pattern, using formulas like Bu Yang Huan Wu Tang to boost energy and move blood. Recovery may be gradual, but many people continue to see improvements in muscle tone and symmetry with ongoing acupuncture and herbs. Patience and consistency are key."
+    },
+    {
+      "id": 625,
+      "condition_id": 98,
+      "question": "Will I need to do facial exercises?",
+      "answer": "Gentle facial exercises can complement acupuncture by encouraging muscle re-education. Your TCM practitioner may recommend specific movements like trying to raise the eyebrow, smile, or puff out the cheek. However, avoid forceful or repetitive exercises that cause fatigue or pain. The combination of acupuncture, herbs, and gentle exercises often yields the best results."
+    },
+    {
+      "id": 626,
+      "condition_id": 98,
+      "question": "Does acupuncture on the face hurt?",
+      "answer": "Most people find facial acupuncture surprisingly comfortable. The needles used are extremely thin, and the sensation is often a mild tingling or pressure rather than pain. Points on the face are close to the surface, so the insertion is shallow. Many patients actually feel a pleasant release as tight muscles relax."
+    },
+    {
+      "id": 627,
+      "condition_id": 98,
+      "question": "Can stress cause facial paralysis?",
+      "answer": "In TCM, stress can weaken the body’s defensive Qi, making you more susceptible to external wind invasion. Emotional strain, especially frustration or anger, can stir internal wind and contribute to facial paralysis. While stress alone may not be the direct cause, it often sets the stage. Addressing stress through acupuncture, herbs, and lifestyle is an important part of both treatment and prevention."
+    }
+  ],
+  "research": [
+    {
+      "id": 142,
+      "condition_id": 98,
+      "title": "Acupuncture for Bell's palsy",
+      "description": "A Cochrane systematic review evaluating the effectiveness of acupuncture for Bell's palsy. It included randomised controlled trials and concluded that acupuncture may be effective, though the quality of evidence was limited by methodological flaws in the included studies. The review highlighted the need for larger, well-designed trials.",
+      "url": "https://doi.org/10.1002/14651858.CD002914.pub5",
+      "periodical": "Chen N, Zhou M, He L, Zhou D, Li N. Acupuncture for Bell's palsy. Cochrane Database of Systematic Reviews 2010, Issue 8. Art. No.: CD002914."
+    },
+    {
+      "id": 143,
+      "condition_id": 98,
+      "title": "Electroacupuncture combined with Qianzhengsan decoction for the treatment of peripheral facial paralysis: A retrospective study",
+      "description": "This retrospective study analysed the effects of electroacupuncture combined with the Chinese herbal formula Qianzhengsan (Qiān Zhèng Sǎn) in patients with peripheral facial paralysis. The combination therapy significantly improved facial nerve function scores and recovery rates compared to conventional medication alone, with a good safety profile.",
+      "url": "https://doi.org/10.1097/MD.0000000000030134",
+      "periodical": "Li Y, et al. Electroacupuncture combined with Qianzhengsan decoction for the treatment of peripheral facial paralysis: A retrospective study. Medicine (Baltimore). 2022 Sep 2;101(35):e30134."
+    }
+  ]
+}

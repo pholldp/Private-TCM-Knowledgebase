@@ -1,0 +1,756 @@
+{
+  "id": 533,
+  "name": "ปวดใบหน้า",
+  "url": "/knowledge-base/conditions/face-pain",
+  "kind": "Symptom",
+  "pinyin": "miàn tòng",
+  "chinese_name": "面痛",
+  "preview_text": "คุณภาพของความเจ็บปวดบนใบหน้าของคุณ ไม่ว่าจะเป็นการถูกแทงอย่างแหลมคม อาการปวดแสบปวดร้อน หรือการกดทับอย่างหนัก จะบอกผู้ประกอบวิชาชีพ TCM ว่ารูปแบบใดกำลังเกิดขึ้น และจะรักษาอย่างไร ปาตี้ที่สุด...",
+  "categories": "[\"ใบหน้าและผิวพรรณ\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Facial Pain\", \"Pain In The Face\", \"Cheek pain\", \"Facial pain or pressure\", \"Eyebrow Pain\"]",
+  "conventional_description": "Western medicine approaches facial pain by identifying the anatomical source: the trigeminal nerve (trigeminal neuralgia), the sinuses (sinusitis), the temporomandibular joint (TMJ dysfunction), or dental structures. Diagnosis relies on imaging, neurological exams, and ruling out serious underlying conditions.\nThe pain is often described as sharp, electric, or aching, and may be constant or episodic. Treatment is then targeted at the specific structure involved.",
+  "conventional_treatments": "Treatment depends on the cause. Trigeminal neuralgia is often managed with anticonvulsant medications like carbamazepine or gabapentin. Sinusitis may require antibiotics or decongestants. TMJ pain might be treated with bite guards, physical therapy, or muscle relaxants. In refractory cases, nerve blocks or surgical decompression may be considered.",
+  "conventional_limitations": "",
+  "tcm_understanding": "The face is the meeting point of many channels - the Yangming (Stomach and Large Intestine), Taiyang (Small Intestine and Bladder), and Shaoyang (Gallbladder) meridians all traverse it. When Qi and blood flow smoothly through these pathways, the face feels comfortable and alive. Pain arises when something blocks that flow - a principle summed up in the phrase \"pain arises from obstruction\" (不通则痛, bù tōng zé tòng).\nExternal pathogens like Wind and Cold can invade these superficial channels suddenly, causing a sharp, constricting pain that worsens with exposure to cold. If Wind teams up with Heat, the pain becomes burning and the face feels hot. These acute patterns often follow a cold draft or a change in weather.\nInternal imbalances develop more gradually. The Liver, which governs the smooth flow of Qi, can become stuck due to stress or frustration, generating Heat that rises into the face as a stabbing, emotion-triggered pain. When the body's fluid metabolism is sluggish, sticky Phlegm can clog the channels, producing a heavy, distending ache. Over time, chronic stagnation of blood can lead to a fixed, boring pain that feels like a drill in one spot.\nThis is why one Western diagnosis - say, trigeminal neuralgia - can manifest so differently from person to person. TCM looks at the quality of the pain, the tongue, the pulse, and the triggers to identify which pattern is at play, and then treats that pattern directly.",
+  "classical_quote": "「The sinew of the Foot Yangming... when affected by cold, it contracts and pulls the cheek, causing deviation of the mouth; when affected by heat, the sinew relaxes and slackens, leading to inability to close the mouth. This describes facial pain and spasm from pathogenic factors invading the Yangming channel.」",
+  "classical_translation": "\"The sinew of the Foot Yangming... when affected by cold, it contracts and pulls the cheek, causing deviation of the mouth; when affected by heat, the sinew relaxes and slackens, leading to inability to close the mouth. This describes facial pain and spasm from pathogenic factors invading the Yangming channel.\"",
+  "classical_source": "Ling Shu (灵枢)  ,  Chapter 13: Jing Jin (经筋) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by asking what the facial pain actually feels like - is it sharp, burning, heavy, or stabbing? The quality of the pain, along with what makes it better or worse, is the first clue that points toward one pattern rather than another. They also ask about accompanying signs like sensitivity to temperature, thirst, mood, and any changes in the tongue or pulse.\nIf the pain is a sudden, knife-like ache that flares in cold or wind and eases with warmth, Wind-Cold (风寒, fēng hán) is likely. The tongue often shows a thin white coating, and the pulse feels floating and tight (浮紧, fú jǐn). This pattern reflects an external invasion that constricts the facial channels.\nWhen the face feels hot and burning, and the pain worsens with heat or spicy food, Wind-Heat (风热, fēng rè) is the suspect. The person may be thirsty, and the tongue tip is red with a thin yellow coating. The pulse is floating and rapid (浮数, fú shuò), indicating heat scorching the collaterals.\nIf facial pain comes with dizziness, red eyes, and a quick temper, the root is Liver Yang Rising (肝阳上亢, gān yáng shàng kàng). The tongue body is red with a yellow coating, and the pulse feels wiry, rapid, and forceful (弦数, xián shuò). This internal pattern often flares with stress or lack of sleep.\nStabbing facial pain that worsens with emotional upset, along with a bitter taste in the mouth, suggests Liver Qi Stagnation that has transformed into Heat (肝郁化火, gān yù huà huǒ). The tongue is red with a thin yellow coating, and the pulse is wiry (弦, xián). The pain may come and go with mood swings.\nA heavy, distending ache that feels like a tight band around the face points to Phlegm in the Channels (痰湿阻络, tán shī zǔ luò). The tongue coating is thick and greasy, and the pulse is slippery (滑, huá). This pattern often arises from poor digestion or dampness, making the pain dull and persistent.\nWhen the pain is fixed in one spot, boring or drilling, and has lasted a long time, Blood Stagnation (血瘀, xuè yū) is the key. The tongue may appear purplish with dark spots, and the pulse is choppy or thin and hesitant (涩, sè). This pattern reflects chronic blockage in the facial collaterals.",
+  "patterns": [
+    {
+      "id": 2571,
+      "condition_id": 533,
+      "pattern_name": "Wind-Cold",
+      "pattern_slug": "wind-cold",
+      "is_common": 0,
+      "symptoms": "[\"Sudden sharp facial pain\", \"Worse with cold and wind\", \"Chills and aversion to cold\", \"Stiff neck and headache\", \"No thirst or preference for warm drinks\", \"Clear nasal discharge\"]",
+      "worse_with": "Cold weather, Wind exposure, Cold drinks and raw foods, Washing face with cold water",
+      "better_with": "Warmth and covering the face, Warm drinks, Rest in a warm room, Gentle massage",
+      "why_this_happens": "When Wind and Cold invade the body, they attack the face's superficial channels, particularly the Yangming and Taiyang pathways. Cold causes contraction and stagnation of Qi and blood, blocking the flow and triggering sudden, sharp pain. Because Cold constricts, the pain worsens with exposure to cold or wind and eases when warmth relaxes the channels.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body with a thin white moist coating. Pulse: floating and tight (浮紧 fú jǐn).",
+      "why_triggers_reliefs_work": "Wind-Cold invades the facial channels, causing Qi and blood to stagnate and contract, resulting in pain. Cold weather, wind, and cold foods exacerbate this contraction, worsening pain. Warmth, warm drinks, and covering the face relax the channels, promote circulation, and relieve pain.",
+      "diet_and_lifestyle": "Keep the face warm and avoid drafts. Drink warm ginger tea to dispel Wind-Cold. Eat warm, cooked foods like soups and stews, and avoid cold raw foods and icy drinks.",
+      "formulas": [
+        {
+          "id": 5877,
+          "pattern_id": 2571,
+          "formula_name": "Chuan Xiong Cha Tiao San",
+          "formula_url": "/knowledge-base/formulas/chuan-xiong-cha-tiao-san",
+          "translation": "Chuanxiong Powder to be Taken with Green Tea &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Warm, Disperses Wind, Relieves Headaches, Releases the Exterior",
+          "description": "The classic formula to expel Wind-Cold and relieve facial pain by unblocking the channels."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 13813,
+          "pattern_id": 2571,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Dispels Wind-Cold and relieves pain, especially in the head and face."
+        },
+        {
+          "id": 13814,
+          "pattern_id": 2571,
+          "herb_name": "Bai Zhi",
+          "herb_url": "/knowledge-base/herbs/bai-zhi",
+          "translation": "Dahurian angelica root",
+          "properties": "",
+          "description": "Unblocks the facial channels and alleviates pain."
+        },
+        {
+          "id": 13815,
+          "pattern_id": 2571,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Expels Wind-Cold from the exterior and eases tension."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9262,
+          "pattern_id": 2571,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Dispels Wind and relieves pain in the face."
+        },
+        {
+          "id": 9263,
+          "pattern_id": 2571,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Regulates Qi and blood to stop pain."
+        },
+        {
+          "id": 9264,
+          "pattern_id": 2571,
+          "acupoint_code": "ST-2",
+          "acupoint_name": "Sibai ST-2",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/sibai-st-2",
+          "translation": "S&#xEC; B&#xE1;i",
+          "properties": "Expels Wind, Clears Heat",
+          "description": "Local point to unblock the Yangming channel in the face."
+        },
+        {
+          "id": 9265,
+          "pattern_id": 2571,
+          "acupoint_code": "ST-7",
+          "acupoint_name": "Xiaguan ST-7",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/xiaguan-st-7",
+          "translation": "Xi&#xE0; Gu&#x101;n",
+          "properties": "Benefits the ears, jaw and teeth, Removes Obstructions from the Channel",
+          "description": "Local point to release Wind and alleviate facial pain."
+        }
+      ]
+    },
+    {
+      "id": 2572,
+      "condition_id": 533,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Burning or hot facial pain\", \"Thirst with desire for cold drinks\", \"Fever and chills, with chills mild\", \"Sore throat or red eyes\", \"Worse in warm rooms or after hot food\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Hot weather or stuffy rooms, Wind exposure, Stress and overwork",
+      "better_with": "Cool compresses on the face, Drinking cool water or mint tea, Resting in a cool, quiet room, Gentle acupressure on Hegu",
+      "why_this_happens": "Wind-Heat invades the body's surface, and because the face is the most exposed area, the pathogen easily enters the facial channels. The heat scorches the collaterals, causing a burning, sharp pain, while the wind component makes it come and go. Thirst and a red tongue tip reflect the internal heat that accompanies the external invasion.",
+      "tongue_and_pulse": "Tongue: red tip and edges, thin yellow coating. Pulse: floating (fú) and rapid (shuò).",
+      "why_triggers_reliefs_work": "Wind-Heat is an exterior pathogen that adds heat to the body. Heat and wind aggravate the facial channels, so spicy food, alcohol, and hot environments intensify the burning pain. Cooling measures help the body expel the heat, while rest allows defensive Qi to fight the pathogen at the surface.",
+      "diet_and_lifestyle": "Eat light, cooling foods such as chrysanthemum tea, mint tea, and fresh fruits. Avoid spicy, greasy, and fried foods that add internal heat. Stay indoors in cool air and shield your face from wind and sun.",
+      "formulas": [
+        {
+          "id": 5878,
+          "pattern_id": 2572,
+          "formula_name": "Sang Ju Yin",
+          "formula_url": "/knowledge-base/formulas/sang-ju-yin",
+          "translation": "Mulberry Leaf and Chrysanthemum Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Lung Heat, Restores Lung Diffusing and Descending Functions",
+          "description": "Disperses Wind-Heat from the exterior; often combined with herbs guiding to the face like Bai Zhi and Chuan Xiong."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 13816,
+          "pattern_id": 2572,
+          "herb_name": "Bai Zhi",
+          "herb_url": "/knowledge-base/herbs/bai-zhi",
+          "translation": "Dahurian angelica root",
+          "properties": "",
+          "description": "Relieves facial pain by dispersing wind from the Yangming channels."
+        },
+        {
+          "id": 13817,
+          "pattern_id": 2572,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood in the head and face, alleviating wind-heat pain."
+        },
+        {
+          "id": 13818,
+          "pattern_id": 2572,
+          "herb_name": "Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ju-hua",
+          "translation": "Chrysanthemum flower",
+          "properties": "",
+          "description": "Clears wind-heat from the upper body and soothes the eyes."
+        },
+        {
+          "id": 13819,
+          "pattern_id": 2572,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Releases exterior wind-heat and provides a cooling sensation to the face."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9266,
+          "pattern_id": 2572,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "The master point for the face, expels wind-heat and stops pain."
+        },
+        {
+          "id": 9267,
+          "pattern_id": 2572,
+          "acupoint_code": "ST-44",
+          "acupoint_name": "Neiting ST-44",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/neiting-st-44",
+          "translation": "N&#xE8;i T&#xED;ng",
+          "properties": "Clears Heat from the Stomach Channel and eases pain, Regulates the Intestines and resolves Damp-Heat",
+          "description": "Clears stomach heat and calms facial pain."
+        },
+        {
+          "id": 9268,
+          "pattern_id": 2572,
+          "acupoint_code": "ST-7",
+          "acupoint_name": "Xiaguan ST-7",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/xiaguan-st-7",
+          "translation": "Xi&#xE0; Gu&#x101;n",
+          "properties": "Benefits the ears, jaw and teeth, Removes Obstructions from the Channel",
+          "description": "Local point on the cheek, dispels wind and opens the channel."
+        },
+        {
+          "id": 9269,
+          "pattern_id": 2572,
+          "acupoint_code": "SI-18",
+          "acupoint_name": "Quanliao SI-18",
+          "acupoint_url": "/knowledge-base/acupuncture/small-intestine-meridian/quanliao-si-18",
+          "translation": "Qu&#xE1;n Li&#xE1;o",
+          "properties": "Expels Wind, Clears Heat and resolves swelling",
+          "description": "Local point for facial pain, disperses wind-heat from the Small Intestine channel."
+        }
+      ]
+    },
+    {
+      "id": 2573,
+      "condition_id": 533,
+      "pattern_name": "Liver Yang Rising",
+      "pattern_slug": "liver-yang-rising",
+      "is_common": 0,
+      "symptoms": "[\"Throbbing or distending facial pain\", \"Pain at temples or around eyes\", \"Dizziness and vertigo\", \"Red face and eyes\", \"Irritability and anger\", \"Dry mouth and throat\"]",
+      "worse_with": "Stress and anger, Spicy, greasy, or fried foods, Overwork and lack of sleep",
+      "better_with": "Rest and quiet, Cooling foods like cucumber or pear, Gentle movement",
+      "why_this_happens": "The Liver keeps Qi flowing smoothly. When stress, anger, or overwork drain the cooling Yin that anchors Liver Yang, that Yang surges upward along the channels into the head and face. This rush of hot, rising Yang produces a throbbing or distending pain, often felt at the temples or around the eyes, and brings dizziness, a flushed face, and a short temper.",
+      "tongue_and_pulse": "Tongue: red body with red sides, thin dry yellow or scanty coat. Pulse: wiry (弦 xián), forceful at the left middle position, possibly fine and rapid.",
+      "why_triggers_reliefs_work": "Stress and anger stir up Liver Qi, causing Yang to surge upward, which directly triggers this pattern. Rest and calming activities allow Yang to settle, while cooling foods help counterbalance the internal heat. Overwork and insufficient sleep deplete Yin, leaving Yang unanchored, so maintaining a steady routine is protective.",
+      "diet_and_lifestyle": "Keep spicy, greasy, and fried foods to a minimum, and reduce alcohol and coffee. Prioritize rest and stress management-gentle exercise like walking or tai chi helps keep Qi flowing smoothly. A regular sleep schedule is essential to nourish Liver Yin.",
+      "formulas": [
+        {
+          "id": 5879,
+          "pattern_id": 2573,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "The primary formula to subdue rising Liver Yang and settle the head, relieving the distending facial pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 13820,
+          "pattern_id": 2573,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "",
+          "description": "Calms internal Wind and steadies dizziness."
+        },
+        {
+          "id": 13821,
+          "pattern_id": 2573,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "",
+          "description": "Calms Liver Yang and relieves the throbbing headache."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9270,
+          "pattern_id": 2573,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Reduce. Subdues rising Liver Yang and clears the head."
+        }
+      ]
+    },
+    {
+      "id": 2574,
+      "condition_id": 533,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "pattern_slug": "liver-qi-stagnation-that-transforms-into-heat",
+      "is_common": 0,
+      "symptoms": "[\"Stabbing or burning facial pain\", \"Worse with emotional stress and anger\", \"Bitter taste in the mouth\", \"Irritability and anger\", \"Red face and eyes\", \"Distending or burning pain along the ribs\"]",
+      "worse_with": "Stress and anger, Spicy, greasy, or fried foods, Alcohol and coffee, Overwork and lack of sleep",
+      "better_with": "Stress management and relaxation, Cool, light meals, Gentle movement, Expressing emotions constructively",
+      "why_this_happens": "When frustration, resentment, or long-standing stress bottle up, the Liver's job of keeping Qi flowing smoothly breaks down. That stuck Qi generates heat, which then rises along the channels into the face. The result is a stabbing or burning pain that flares up when emotions run high, often with a bitter taste in the mouth and a red, hot feeling in the face.",
+      "tongue_and_pulse": "Tongue: red body with redder sides, yellow coating. Pulse: wiry and rapid.",
+      "why_triggers_reliefs_work": "Emotional stress and anger are the primary drivers of Liver Qi stagnation, which then smolders into heat - exactly the mechanism behind this pattern. Spicy, greasy foods and alcohol pour more heat onto an already overheated system, while overwork and poor sleep drain the Yin that would normally cool it. Cooling foods and calming habits help clear that heat, and gentle movement keeps Qi flowing so it doesn't stagnate again.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat. Favor cooling, light foods like chrysanthemum tea, celery, and cucumber. Build in daily stress-releasing habits - a short walk, journaling, or deep breathing - and protect sleep. Even five minutes of quiet stillness can make a difference.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 13822,
+          "pattern_id": 2574,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Soothes Liver Qi stagnation and guides the formula to the affected channels."
+        },
+        {
+          "id": 13823,
+          "pattern_id": 2574,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "",
+          "description": "Clears heat from the Liver and Heart, relieving irritability and bitter taste."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9271,
+          "pattern_id": 2574,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Subdues Liver Yang and regulates Qi, calming the root of the pain."
+        },
+        {
+          "id": 9272,
+          "pattern_id": 2574,
+          "acupoint_code": "LR-2",
+          "acupoint_name": "Xingjian LR-2",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/xingjian-lr-2",
+          "translation": "X&#xED;ng ji&#x101;n",
+          "properties": "Clears Liver Fire and subdues Liver Yang, Clears Interior Wind",
+          "description": "Clears Liver fire, especially effective for facial pain with heat."
+        },
+        {
+          "id": 9273,
+          "pattern_id": 2574,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Command point for the face and mouth, relieves pain and moves Qi."
+        }
+      ]
+    },
+    {
+      "id": 2575,
+      "condition_id": 533,
+      "pattern_name": "Phlegm in the Channels joints and muscles",
+      "pattern_slug": "phlegm-in-the-channels-joints-and-muscles",
+      "is_common": 0,
+      "symptoms": "[\"Heavy, distending pain, like pressure or fullness\", \"Numbness or a thick, heavy sensation in the face\", \"Greasy, sticky coating on the tongue\", \"Sensation of a foggy or heavy head\", \"Excess mucus or phlegm in the throat\"]",
+      "worse_with": "Damp or humid weather, Heavy, greasy, or cold foods, Prolonged sitting or inactivity",
+      "better_with": "Gentle movement, Dry, warm weather, Light, easily digested meals",
+      "why_this_happens": "When the body’s ability to process fluids is sluggish, dampness accumulates and congeals into Phlegm. This sticky, obstructive substance can settle into the narrow channels of the face, physically blocking the free movement of Qi and Blood. The result is a heavy, distending pain that feels like pressure or fullness rather than a sharp stab, often described as a ‘cotton-wrapped’ ache deep in the cheeks or brow.",
+      "tongue_and_pulse": "Tongue: swollen body with a white, greasy coating. Pulse: wiry (弦) and slippery (滑), like pearls rolling in a dish.",
+      "why_triggers_reliefs_work": "This pattern is driven by an accumulation of Dampness and Phlegm, which are thick, heavy, and obstructive by nature. Damp weather and greasy foods add to this internal sludge, making the pain worse. Movement and warmth, on the other hand, act like stirring a slow-moving stream-they encourage Qi and fluids to flow, gradually clearing the sticky blockages from the facial channels.",
+      "diet_and_lifestyle": "Avoid Phlegm-producing foods like dairy, greasy fried items, refined sugar, and cold raw salads. Favor warm, cooked meals with light spices such as ginger, cardamom, and a little black pepper to help dry internal Dampness. Gentle daily walking or stretching prevents stagnation and supports fluid metabolism.",
+      "formulas": [
+        {
+          "id": 5880,
+          "pattern_id": 2575,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "The foundational formula to dry Dampness and transform Phlegm, unblocking the channels."
+        },
+        {
+          "id": 5881,
+          "pattern_id": 2575,
+          "formula_name": "Ban Xia Bai Zhu Tian Ma Tang",
+          "formula_url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+          "translation": "Pinellia, White Atractylodes and Gastrodia Decoction &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Warm, Transforms Wind-Phlegm and Stops Spasms, Strengthens the Spleen and Resolves Dampness, Calms the Liver and stops dizziness",
+          "description": "Specifically targets Phlegm-Dampness that rises to the head and face, causing heavy pain and dizziness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 13824,
+          "pattern_id": 2575,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "",
+          "description": "Dries Dampness and transforms Phlegm, the primary herb for clearing sticky obstructions from the channels."
+        },
+        {
+          "id": 13825,
+          "pattern_id": 2575,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "",
+          "description": "Penetrates the channels to dissolve stubborn Phlegm lodged in the tissues and joints."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9274,
+          "pattern_id": 2575,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "The master point for Phlegm, used to transform Dampness and clear the channels."
+        },
+        {
+          "id": 9275,
+          "pattern_id": 2575,
+          "acupoint_code": "ST-2",
+          "acupoint_name": "Sibai ST-2",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/sibai-st-2",
+          "translation": "S&#xEC; B&#xE1;i",
+          "properties": "Expels Wind, Clears Heat",
+          "description": "A local point on the face to directly unblock the Stomach channel where Phlegm often settles."
+        },
+        {
+          "id": 9276,
+          "pattern_id": 2575,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "A powerful distal point to move Qi and Blood through the face and stop pain."
+        }
+      ]
+    },
+    {
+      "id": 2576,
+      "condition_id": 533,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain in one spot\", \"Pain worsens at night\", \"Dark or purplish tongue with stasis spots\", \"History of trauma or chronic unresolved pain\"]",
+      "worse_with": "Cold weather, Stress and anger, Prolonged sitting or inactivity, Night time",
+      "better_with": "Warm compress on the face, Gentle massage, Rest and sleep, Avoiding cold exposure",
+      "why_this_happens": "When blood flow in the face becomes chronically obstructed, the collaterals lose their nourishment. This stasis creates a fixed, boring pain that feels like a drill in one spot. Because blood moves more sluggishly at rest and in the cold, the pain often intensifies at night and feels like a sharp, stabbing sensation.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots and distended sublingual veins, thin white coat. Pulse: choppy (涩 sè) like a knife scraping bamboo, often wiry.",
+      "why_triggers_reliefs_work": "Blood stasis is like a traffic jam in the vessels. Cold constricts the vessels further and makes the jam worse, while warmth and gentle movement help the blood flow again. Stress tightens the Qi, which in turn stagnates the blood, so calming the mind is essential. At night, when the body is still and blood circulation naturally slows, the stasis becomes more pronounced, intensifying the pain.",
+      "diet_and_lifestyle": "Eat warming, blood-moving foods like turmeric, ginger, black pepper, and small amounts of red wine. Avoid icy drinks and raw foods that congeal the blood. Gentle daily movement like walking or tai chi keeps circulation open, but avoid overexertion. Managing stress and emotional tension is also important, as anger and frustration can worsen Qi stagnation and lead to more stasis.",
+      "formulas": [
+        {
+          "id": 5882,
+          "pattern_id": 2576,
+          "formula_name": "Tong Qiao Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/tong-qiao-huo-xue-tang",
+          "translation": "Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals",
+          "description": "The classic formula to invigorate blood and unblock the facial collaterals, relieving fixed stabbing pain."
+        },
+        {
+          "id": 5883,
+          "pattern_id": 2576,
+          "formula_name": "Chuan Xiong Cha Tiao San",
+          "formula_url": "/knowledge-base/formulas/chuan-xiong-cha-tiao-san",
+          "translation": "Chuanxiong Powder to be Taken with Green Tea &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Warm, Disperses Wind, Relieves Headaches, Releases the Exterior",
+          "description": "A classical formula for headaches caused by exposure to wind and cold. It is especially effective for headaches at the sides, front, back, or top of the head that come on after catching a chill or cold, often with nasal congestion and sensitivity to wind. The powder is traditionally taken with green tea, which helps direct the formula upward to the head while keeping its warming herbs in balance."
+        },
+        {
+          "id": 5884,
+          "pattern_id": 2576,
+          "formula_name": "Sang Ju Yin",
+          "formula_url": "/knowledge-base/formulas/sang-ju-yin",
+          "translation": "Mulberry Leaf and Chrysanthemum Drink &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Lung Heat, Restores Lung Diffusing and Descending Functions",
+          "description": "A gentle, cooling formula used for early-stage colds and respiratory infections marked by cough as the main symptom, with mild fever, slight thirst, and a floating rapid pulse. It gently clears Wind-Heat from the Lungs and restores their natural ability to regulate breathing and stop coughing."
+        },
+        {
+          "id": 5885,
+          "pattern_id": 2576,
+          "formula_name": "Tian Ma Gou Teng Yin",
+          "formula_url": "/knowledge-base/formulas/tian-ma-gou-teng-yin",
+          "translation": "Gastrodia and Uncaria Drink &#xB7; Modern China, 1958 CE",
+          "properties": "Cool, Calms the Liver and Extinguishes Wind, Calms the Liver and Subdues Yang, Clears Heat and Drains Fire",
+          "description": "A modern formula designed to calm an overactive Liver and settle internal Wind, used for headaches, dizziness, and insomnia caused by rising Liver Yang. It works by calming the Liver, clearing Heat, promoting healthy blood circulation, and strengthening the Liver and Kidneys at their root. It is one of the most widely used formulas in TCM for high blood pressure with a pattern of Liver Yang rising."
+        },
+        {
+          "id": 5886,
+          "pattern_id": 2576,
+          "formula_name": "Er Chen Tang",
+          "formula_url": "/knowledge-base/formulas/er-chen-tang",
+          "translation": "Two-Aged Herb Decoction &#xB7; S&#xF2;ng dynasty, 1078&#x2013;1148 CE",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Regulates Qi and Harmonizes the Middle Burner, Directs Rebellious Qi Downward and Stops Vomiting",
+          "description": "A foundational formula used to clear excess phlegm and dampness from the body, especially when they cause coughing with white phlegm, nausea, chest tightness, dizziness, or a heavy feeling in the limbs. It works by drying dampness, dissolving phlegm, and supporting healthy digestion. Named for its two key ingredients, Ban Xia and Chen Pi, which are most effective when aged."
+        },
+        {
+          "id": 5887,
+          "pattern_id": 2576,
+          "formula_name": "Ban Xia Bai Zhu Tian Ma Tang",
+          "formula_url": "/knowledge-base/formulas/ban-xia-bai-zhu-tian-ma-tang",
+          "translation": "Pinellia, White Atractylodes and Gastrodia Decoction &#xB7; Q&#x12B;ng dynasty, 1732 CE",
+          "properties": "Warm, Transforms Wind-Phlegm and Stops Spasms, Strengthens the Spleen and Resolves Dampness, Calms the Liver and stops dizziness",
+          "description": "A classical formula designed to relieve dizziness, vertigo, and headache caused by a buildup of internal dampness and phlegm combined with internal Wind. It works by dissolving phlegm, calming the Liver, and strengthening the digestive system to stop new phlegm from forming. It is especially well suited for people who experience spinning dizziness with nausea, a heavy head, and a sensation of fogginess or fullness in the chest."
+        },
+        {
+          "id": 5888,
+          "pattern_id": 2576,
+          "formula_name": "Tong Qiao Huo Xue Tang",
+          "formula_url": "/knowledge-base/formulas/tong-qiao-huo-xue-tang",
+          "translation": "Unblock the Orifices and Invigorate the Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Opens the Orifices and Revives Consciousness, Unblocks the Channels and Collaterals",
+          "description": "A classical formula designed to improve blood circulation in the head and face, used for stubborn headaches, hair loss, hearing difficulties, skin discolorations, and other problems caused by stagnant blood obstructing the sensory organs. It works by powerfully moving blood and opening the body&#x27;s orifices (eyes, ears, nose, mouth) in the upper body."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 13826,
+          "pattern_id": 2576,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up blood stasis and unblocks the channels."
+        },
+        {
+          "id": 13827,
+          "pattern_id": 2576,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and dispels stasis, especially in the upper body."
+        },
+        {
+          "id": 13828,
+          "pattern_id": 2576,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and Qi, guiding the formula to the head and face."
+        },
+        {
+          "id": 13829,
+          "pattern_id": 2576,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 13830,
+          "pattern_id": 2576,
+          "herb_name": "Bai Zhi",
+          "herb_url": "/knowledge-base/herbs/bai-zhi",
+          "translation": "Dahurian angelica root",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Dispels Wind and Stops Pain, Unblocks the Nasal Passages",
+          "description": ""
+        },
+        {
+          "id": 13831,
+          "pattern_id": 2576,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 13832,
+          "pattern_id": 2576,
+          "herb_name": "Ju Hua",
+          "herb_url": "/knowledge-base/herbs/ju-hua",
+          "translation": "Chrysanthemum flower",
+          "properties": "Slightly Cool, Disperses Wind-Heat, Calms the Liver and Subdues Yang, Clears Liver Heat and Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 13833,
+          "pattern_id": 2576,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 13834,
+          "pattern_id": 2576,
+          "herb_name": "Tian Ma",
+          "herb_url": "/knowledge-base/herbs/tian-ma",
+          "translation": "Gastrodia root",
+          "properties": "Neutral, Extinguishes Wind and Stops Spasms, Calms the Liver and Subdues Yang, Dispels Wind-Dampness and Unblocks the Collaterals",
+          "description": ""
+        },
+        {
+          "id": 13835,
+          "pattern_id": 2576,
+          "herb_name": "Gou Teng",
+          "herb_url": "/knowledge-base/herbs/gou-teng",
+          "translation": "Gambir vine stems and hooks",
+          "properties": "Cool, Extinguishes Wind and Stops Spasms, Courses the Liver and Drains Heat, Calms the Liver and Subdues Yang",
+          "description": ""
+        },
+        {
+          "id": 13836,
+          "pattern_id": 2576,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 13837,
+          "pattern_id": 2576,
+          "herb_name": "Zhi Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-zi",
+          "translation": "Gardenia fruit",
+          "properties": "Cold, Clears Heat and Eliminates Irritability, Clears Heat and Promotes Urination, Clears Damp-Heat and Resolves Jaundice",
+          "description": ""
+        },
+        {
+          "id": 13838,
+          "pattern_id": 2576,
+          "herb_name": "Ban Xia",
+          "herb_url": "/knowledge-base/herbs/ban-xia",
+          "translation": "Pinellia rhizome",
+          "properties": "Warm, Dries Dampness and Transforms Phlegm, Directs Rebellious Qi Downward and Stops Vomiting, Eliminates Focal Distention",
+          "description": ""
+        },
+        {
+          "id": 13839,
+          "pattern_id": 2576,
+          "herb_name": "Bai Jie Zi",
+          "herb_url": "/knowledge-base/herbs/bai-jie-zi",
+          "translation": "White mustard seed",
+          "properties": "Warm, Warms the Lungs and Transforms Phlegm-Fluids, Moves Qi and Dissipates Nodules, Unblocks the Channels and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 13840,
+          "pattern_id": 2576,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 13841,
+          "pattern_id": 2576,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 9277,
+          "pattern_id": 2576,
+          "acupoint_code": "ST-2",
+          "acupoint_name": "Sibai ST-2",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/sibai-st-2",
+          "translation": "S&#xEC; B&#xE1;i",
+          "properties": "Expels Wind, Clears Heat",
+          "description": "Local point to directly unblock the facial collaterals and stop pain."
+        },
+        {
+          "id": 9278,
+          "pattern_id": 2576,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Master point for the face, moves Qi and blood to relieve pain."
+        },
+        {
+          "id": 9279,
+          "pattern_id": 2576,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Smooths Liver Qi and invigorates blood, addressing the root of stasis."
+        },
+        {
+          "id": 9280,
+          "pattern_id": 2576,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood, used to treat any blood stasis condition."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3473,
+      "condition_id": 533,
+      "question": "Can acupuncture help with trigeminal neuralgia?",
+      "answer": "Yes, acupuncture is commonly used to manage trigeminal neuralgia in TCM. By inserting fine needles into specific points along the facial channels, acupuncture can help unblock Qi stagnation, reduce inflammation, and calm nerve pain. Many patients report fewer and less intense episodes after a series of treatments, especially when combined with herbal formulas that address the underlying pattern."
+    },
+    {
+      "id": 3474,
+      "condition_id": 533,
+      "question": "How many acupuncture sessions will I need for facial pain?",
+      "answer": "Most patients begin with 1-2 sessions per week for 4-6 weeks. Acute pain may respond faster, while chronic or stubborn patterns like Blood Stagnation or Phlegm may require 8-12 weeks. Your practitioner will reassess your progress regularly and adjust the treatment plan."
+    },
+    {
+      "id": 3475,
+      "condition_id": 533,
+      "question": "Is it safe to combine Chinese herbs with my nerve pain medication?",
+      "answer": "In most cases, yes, but coordination is essential. Herbs that invigorate blood, such as Dang Gui or Chuan Xiong, may interact with blood-thinning or antiplatelet drugs. Always provide your TCM practitioner with a complete list of your medications, and consult your prescribing doctor before starting herbs. Never stop or adjust your medication without medical guidance."
+    },
+    {
+      "id": 3476,
+      "condition_id": 533,
+      "question": "What does facial acupuncture feel like?",
+      "answer": "Most people feel a mild sensation - a tiny prick or a dull ache - when the needle is inserted, followed by a sense of warmth or heaviness around the point. Facial acupuncture uses very fine needles and is generally well tolerated, even by those who are needle-sensitive. The treatment is relaxing, and many patients fall asleep during the session."
+    },
+    {
+      "id": 3477,
+      "condition_id": 533,
+      "question": "Will the pain come back after TCM treatment?",
+      "answer": "TCM aims to correct the underlying imbalance, not just mask the pain. While occasional flare-ups can occur, especially if triggers like stress, cold, or diet are not managed, the goal is long-term relief. Many patients find that after a course of treatment, pain episodes become far less frequent and less intense. Maintenance sessions every few weeks can help sustain the results."
+    },
+    {
+      "id": 3478,
+      "condition_id": 533,
+      "question": "Are there any foods I should avoid if I have facial pain?",
+      "answer": "Yes. In general, avoid icy drinks, raw salads, and cold foods, which can constrict the channels and worsen pain. Spicy, fried, and greasy foods may generate internal Heat or Phlegm. Instead, choose warm, cooked meals like soups and congees. Your practitioner may give more specific advice based on your pattern."
+    }
+  ],
+  "research": [
+    {
+      "id": 787,
+      "condition_id": 533,
+      "title": "Acupuncture for trigeminal neuralgia: a systematic review and meta-analysis",
+      "description": "This meta-analysis pooled data from 33 randomized controlled trials involving over 2,500 patients. It concluded that acupuncture, either alone or combined with carbamazepine, was significantly more effective than carbamazepine alone in reducing pain intensity and improving response rate, with a lower incidence of adverse events.",
+      "url": "",
+      "periodical": "Liu H, Li H, Xu M, et al. Acupuncture for trigeminal neuralgia: a systematic review and meta-analysis. Medicine (Baltimore). 2020;99(4):e18848."
+    },
+    {
+      "id": 788,
+      "condition_id": 533,
+      "title": "Acupuncture versus carbamazepine for trigeminal neuralgia: a randomized controlled trial",
+      "description": "In this 12-week RCT of 120 patients, manual acupuncture applied to local facial points and distal points like Hegu LI-4 produced a 75% effective rate compared to 55% for carbamazepine alone. Pain recurrence at 6-month follow-up was also lower in the acupuncture group.",
+      "url": "",
+      "periodical": "Wang Y, Yang L, Zhang J. Acupuncture versus carbamazepine for trigeminal neuralgia: a randomized controlled trial. J Tradit Chin Med. 2014;34(6):674-678."
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "id": 19,
+  "name": "อาการชาที่ผิวหนัง",
+  "url": "/knowledge-base/conditions/skin-numbness",
+  "kind": "Symptom",
+  "pinyin": "jī fū má mù",
+  "chinese_name": "肌肤麻木",
+  "preview_text": "ใน TCM อาการชาของคุณไม่ว่าจะรู้สึกชาหรือรู้สึกตาย ไม่ว่าจะแย่ลงเมื่อเหนื่อยล้าหรือสภาพอากาศชื้น บอกเราว่าระบบอวัยวะใดบ้างที่เกี่ยวข้อง และจะแก้ไขได้อย่างไร",
+  "categories": "[\"สภาพผิว\", \"อาการชาและปัญหาทางประสาทสัมผัส\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Anaesthesia Of Skin\", \"Numb Skin Sensation\", \"Numbness In The Skin\", \"Numbness Of Skin\", \"Tingling Or Numbness\", \"Numbness\"]",
+  "conventional_description": "In conventional medicine, skin numbness (paresthesia) is often a symptom of nerve compression, damage, or circulatory problems. Common causes include peripheral neuropathy from diabetes, vitamin B12 deficiency, or alcoholism; nerve entrapment like carpal tunnel syndrome; or temporary pressure on a nerve from sitting too long. Diagnosis typically involves a physical exam, nerve conduction studies, and blood tests to check for underlying conditions such as thyroid disorders or autoimmune diseases.",
+  "conventional_treatments": "Standard treatments target the underlying cause: managing blood sugar in diabetes, supplementing vitamins for deficiencies, or physical therapy for nerve compression. Medications like gabapentin or pregabalin are often prescribed for neuropathic pain. For temporary numbness, simply removing pressure or changing position usually resolves it. When no clear cause is found, treatment may focus on symptom management alone.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, your skin's ability to feel depends on a steady supply of Qi (vital force) and Blood (nourishment). When that supply is cut off or insufficient, the skin goes numb-either as a light, crawling tingling (ma) when Qi alone is lacking, or as a dense, wooden loss of sensation (mu) when Blood can't get through. The root cause is rarely the skin itself but rather the organs and channels that generate and deliver Qi and Blood.\nThe Spleen is the main organ that produces Qi and Blood from food, and it also manages fluids. When the Spleen is weak, you can end up with Qi and Blood Deficiency-a simple lack of resources-or with Dampness accumulating and blocking the channels, like a traffic jam that prevents nourishment from reaching the skin. The Liver stores Blood and keeps it flowing smoothly; if Liver Blood is low, the skin becomes under-nourished and tingly. If Blood stagnates (often after an injury or long-standing emotional stress), it creates a deeper, fixed numbness with occasional stabbing pain. The Kidney provides the body's foundational warmth; when Kidney Yang is low, cold constricts the channels, leading to numbness that feels icy and worsens in winter. External factors like Wind and Dampness can also invade from outside, settling into the channels and causing numbness that migrates with weather changes.\nThis is why two people with the same complaint of 'numb hands' might receive completely different TCM treatments. One might need to build up Qi and Blood with nourishing herbs, while another needs to drain Dampness and strengthen the Spleen, and a third needs to invigorate Blood and break up stasis. The pattern-not the symptom-guides the therapy.",
+  "classical_quote": "「营气虚则不仁，卫气虚则不用」",
+  "classical_translation": "\"When nutritive qi is deficient, there is numbness; when defensive qi is deficient, there is loss of function.\"",
+  "classical_source": "Huang Di Nei Jing (Su Wen)  ,  Chapter 43 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A practitioner begins by asking what the numbness actually feels like - whether it is more of a tingling sensation (which TCM associates with Qi not reaching the skin) or a dense, wooden loss of feeling (which points to Blood failing to nourish the tissues). The location, timing, and what makes it better or worse are the first big clues that steer the diagnosis toward one pattern rather than another.\nIf the numbness comes with general fatigue, a pale face, dizziness, and dry skin, the picture points to Qi and Blood Deficiency. Here both the driving force (Qi) and the nourishing substance (Blood) are low, so the skin is under‑supplied. The tongue is pale and the pulse is weak or thready, confirming that the body’s core resources are simply depleted.\nWhen numbness is accompanied by a heavy, swollen feeling in the limbs, along with bloating, loose stools, and poor appetite, Spleen Deficiency with Dampness is the likely pattern. A weak Spleen generates internal Dampness that clogs the channels, so Qi and Blood cannot flow through. The tongue will be pale with a thick, greasy white coating, and the pulse soft or slippery.\nLiver Blood Deficiency shows itself through numbness that often affects the hands and feet, alongside symptoms like blurred vision, brittle nails, and menstrual irregularities. The Liver stores Blood that moistens the sinews and skin; when it runs low, the surface is left dry and numb. The tongue is pale and thin, and the pulse is thready or wiry, indicating a specific lack of Blood nourishment.\nIf the numbness has a fixed location, a stabbing or prickling quality, and the skin may appear darker or have visible veins, Blood Stagnation is the key concern. Stagnant Blood blocks the meridians so fresh Blood cannot reach the area. The tongue typically shows dark purple spots, and the pulse feels choppy or deep and hesitant, signaling that movement is obstructed.\nWind‑Damp invasion tends to produce numbness that moves around or is worse in damp weather, often with joint aches and a heavy sensation. This pattern arises when external pathogenic factors lodge in the channels, impeding flow. The tongue coating may be thin and white, and the pulse can be floating or slippery, reflecting the body’s struggle with an outside invader.\nKidney Yang Deficiency is rarer but distinctive: the numbness is accompanied by a deep coldness in the limbs, low back soreness, and frequent urination. Without the Kidney’s warming fire, cold congeals in the channels and the skin goes numb from lack of heat. The tongue is pale and swollen, and the pulse is deep and weak, revealing a deep‑seated Yang shortage.",
+  "patterns": [
+    {
+      "id": 100,
+      "condition_id": 19,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Numbness or tingling in hands and feet\", \"Worse with fatigue and after exertion\", \"Pale complexion and lips\", \"Dizziness and heart palpitations\", \"Poor appetite and general weakness\"]",
+      "worse_with": "Overwork and exhaustion, Skipping meals, Cold and raw foods, Excessive worry, Prolonged standing",
+      "better_with": "Rest and adequate sleep, Warm, nourishing meals, Gentle exercise, Stress reduction",
+      "why_this_happens": "Qi is the force that moves Blood through the vessels, and Blood moistens and nourishes the skin and nerves. When both are deficient, the skin and underlying tissues lack the warmth and nourishment they need, leading to a sensation of numbness or tingling, especially in the hands and feet. Because this pattern affects the whole body, the numbness is often generalized and becomes more noticeable after exertion, when Qi is further depleted.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine (thin) and weak, especially in the right Guan position (Spleen/Stomach).",
+      "why_triggers_reliefs_work": "Qi and Blood are produced by the Spleen from the food we eat and are replenished by rest. Overwork, stress, and poor diet deplete these resources, leaving the skin undernourished and numb. Rest, nourishing foods, and gentle movement rebuild Qi and Blood, while warm foods support the digestive fire needed to transform food into usable energy. By addressing the root deficiency, the skin gradually regains sensation.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like soups, stews, and congees. Include blood-nourishing foods such as dark leafy greens, red dates, goji berries, and small amounts of quality meat or bone broth. Avoid skipping meals and limit raw, cold foods that weaken digestion. Gentle daily movement like walking or tai chi helps build Qi without depleting it, and prioritize rest and sleep to allow the body to regenerate.",
+      "formulas": [
+        {
+          "id": 225,
+          "pattern_id": 100,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood, addressing the root deficiency that causes skin numbness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 502,
+          "pattern_id": 100,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, helping to bring nourishment to the skin."
+        },
+        {
+          "id": 503,
+          "pattern_id": 100,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Strongly tonifies Qi and raises Yang, pushing Qi to the surface and extremities."
+        },
+        {
+          "id": 504,
+          "pattern_id": 100,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to produce more Qi and Blood from food."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 329,
+          "pattern_id": 100,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "The primary point to tonify Spleen Qi and generate Blood."
+        },
+        {
+          "id": 330,
+          "pattern_id": 100,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and Yin, and harmonizes the Spleen, Liver, and Kidney."
+        },
+        {
+          "id": 331,
+          "pattern_id": 100,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Moves Qi in the channels to help deliver nourishment to the extremities."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "condition_id": 19,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "pattern_slug": "spleen-deficiency-with-dampness",
+      "is_common": 0,
+      "symptoms": "[\"Heaviness of the limbs\", \"Abdominal bloating after eating\", \"Loose, unformed stools\", \"Fatigue and lack of energy\", \"Greasy, sticky sensation in the mouth\"]",
+      "worse_with": "Damp or rainy weather, Cold and raw foods, Overeating or heavy meals, Sedentary lifestyle, Overwork and exhaustion",
+      "better_with": "Warm, cooked meals, Gentle exercise, Dry, warm environment, Rest and relaxation, Light, easily digestible foods",
+      "why_this_happens": "The Spleen is responsible for transforming food into Qi and Blood and for managing fluids. When the Spleen is weak, it fails to transport fluids, which accumulate as internal Dampness. This heavy, sticky Dampness blocks the meridians, preventing Qi and Blood from reaching the skin to warm and nourish it, resulting in a numb, heavy sensation.",
+      "tongue_and_pulse": "Tongue: pale, swollen with teeth marks, and a white greasy coating that is moist. Pulse: soggy (Ru) and slow (Huan), or slippery (Hua), soft and lacking force.",
+      "why_triggers_reliefs_work": "The Spleen thrives on warmth and routine. Cold, raw foods and damp environments further weaken its ability to transform and transport, increasing Dampness and worsening numbness. Overeating overwhelms the Spleen, while a sedentary lifestyle stagnates Qi, allowing Dampness to settle. In contrast, warm cooked meals ease the Spleen's workload, and gentle movement activates Qi to disperse Dampness, restoring flow to the skin.",
+      "diet_and_lifestyle": "Emphasize warm, cooked, easily digestible foods like soups, congees, and stews. Avoid raw, cold, greasy, and dairy-heavy foods that burden the Spleen and generate Dampness. Gentle daily movement, such as walking or qigong, helps move Qi and disperse Dampness. Keep living spaces dry and avoid prolonged exposure to damp environments.",
+      "formulas": [
+        {
+          "id": 226,
+          "pattern_id": 101,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Strengthens the Spleen, drains Dampness, and stops diarrhea; specifically designed for Spleen deficiency with internal Dampness causing numbness and heaviness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 505,
+          "pattern_id": 101,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Tonifies the Spleen and dries Dampness, addressing the root deficiency and the obstructing Dampness."
+        },
+        {
+          "id": 506,
+          "pattern_id": 101,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Promotes urination and leaches out Dampness, unblocking the channels."
+        },
+        {
+          "id": 507,
+          "pattern_id": 101,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness and relieves heaviness, especially in the limbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 332,
+          "pattern_id": 101,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach to boost Qi and transform Dampness."
+        },
+        {
+          "id": 333,
+          "pattern_id": 101,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Regulates the Spleen, resolves Dampness, and nourishes Blood."
+        },
+        {
+          "id": 334,
+          "pattern_id": 101,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "A primary point to drain Dampness from the body."
+        },
+        {
+          "id": 335,
+          "pattern_id": 101,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "The Back-Shu point of the Spleen, directly tonifies Spleen function."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "condition_id": 19,
+      "pattern_name": "Liver Blood Deficiency",
+      "pattern_slug": "liver-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Numbness or tingling in the hands and feet\", \"Dry eyes or blurred vision\", \"Brittle, ridged, or pale nails\", \"Dizziness or lightheadedness\", \"Scanty, pale menstrual flow (if applicable)\", \"Muscle cramps or spasms\"]",
+      "worse_with": "Overwork and chronic sleep deprivation, Emotional stress and frustration, Excessive screen time, Heavy, irregular menstrual bleeding",
+      "better_with": "Rest and adequate sleep, Warm, cooked meals, Gentle stretching or tai chi",
+      "why_this_happens": "The Liver stores Blood and is responsible for nourishing the sinews, nails, and skin. When Liver Blood is insufficient, the skin and underlying tissues lose their nourishment, causing a sensation of numbness or tingling, especially in the hands and feet. This is a \"not nourished\" type of numbness-the channels are open, but there is not enough Blood flowing through them to keep the skin properly fed.",
+      "tongue_and_pulse": "Tongue: pale body, especially the sides, thin and slightly dry with a thin white coating. Pulse: fine (细 xì) and choppy (涩 sè), often with a wiry quality at the left middle position.",
+      "why_triggers_reliefs_work": "Liver Blood is easily consumed by overwork, emotional strain, and activities that strain the eyes, such as prolonged screen use. Sleep is the time when the Liver stores and regenerates Blood, so skimping on rest directly deepens the deficiency. Nourishing, warm meals and adequate rest rebuild Blood stores, while gentle movement encourages circulation without further depleting reserves.",
+      "diet_and_lifestyle": "Eat blood-nourishing foods such as dark leafy greens, beets, red meat, liver, and goji berries. Avoid excessive screen time and reading in dim light, as these strain the eyes and drain Liver Blood. Prioritize deep, restful sleep, which is essential for the Liver to regenerate Blood overnight.",
+      "formulas": [
+        {
+          "id": 227,
+          "pattern_id": 102,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "The classic formula to nourish Liver Blood and regulate Blood circulation, directly addressing the root deficiency behind the numbness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 508,
+          "pattern_id": 102,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Liver Blood and invigorates Blood flow, helping Blood reach the skin."
+        },
+        {
+          "id": 509,
+          "pattern_id": 102,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Deeply nourishes Blood and Yin, replenishing the Liver&#x27;s reserves."
+        },
+        {
+          "id": 510,
+          "pattern_id": 102,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver, calms spasms, and nourishes Blood to ease numbness and cramps."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 336,
+          "pattern_id": 102,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "Tonify. The Back-Shu point of the Liver, used to directly nourish Liver Blood."
+        },
+        {
+          "id": 337,
+          "pattern_id": 102,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Harmonizes the Liver, Spleen, and Kidney, and is a key point for generating and moving Blood."
+        },
+        {
+          "id": 338,
+          "pattern_id": 102,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. Strengthens the Spleen to produce more Blood, supporting the Liver&#x27;s storage function."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "condition_id": 19,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing pain that worsens at night\", \"Dark or purplish skin over the numb area\", \"Rough, dry, scaly skin\", \"Numbness that feels like a wooden board\", \"Dark circles under the eyes or purplish nails\"]",
+      "worse_with": "Cold exposure, Prolonged sitting or standing still, Emotional stress and frustration, Pressure on the numb area",
+      "better_with": "Warmth, Gentle movement, Warm, cooked meals, Self-massage with warm oil",
+      "why_this_happens": "Blood Stagnation means thick, sluggish blood is physically stuck in the channels, like a traffic jam that prevents fresh, nourishing blood from reaching the skin. Over time, the affected area becomes starved of warmth and sensation, producing a numb, wooden feeling. This often follows an old injury, chronic Qi stagnation, or long-term cold exposure that congealed the blood.",
+      "tongue_and_pulse": "Tongue: purple or dusky body with stasis spots, distended dark sublingual veins, thin white coat. Pulse: choppy (涩 sè), rough and uneven.",
+      "why_triggers_reliefs_work": "Cold and stillness cause blood to congeal and thicken, worsening the stagnation that blocks the channels. Warmth and gentle movement act like a pump, pushing blood through the stuck areas so fresh nourishment can reach the skin. Stress tightens the Qi, which in turn tightens the blood vessels, so calming the mind and loosening the body are essential parts of the fix.",
+      "diet_and_lifestyle": "Keep the numb area warm and gently moving - short walks, stretching, or self-massage with warm oil help push stagnant blood. Eat small amounts of blood-moving foods like turmeric, black fungus, ginger, and a little vinegar. Avoid sitting or standing still for too long, and never apply ice directly to the numb skin.",
+      "formulas": [
+        {
+          "id": 228,
+          "pattern_id": 103,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "The classic formula to invigorate blood, dispel stasis, and unblock the channels so fresh blood can reach the skin."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 511,
+          "pattern_id": 103,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up static blood and unblocks the microcirculation to the skin."
+        },
+        {
+          "id": 512,
+          "pattern_id": 103,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood and gently opens the collaterals, easing numbness."
+        },
+        {
+          "id": 513,
+          "pattern_id": 103,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves both Qi and blood, guiding other herbs to the surface of the body."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 339,
+          "pattern_id": 103,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The &#x27;Sea of Blood&#x27; - directly invigorates blood and dispels stasis anywhere in the body."
+        },
+        {
+          "id": 340,
+          "pattern_id": 103,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes blood and opens the channels, especially for lower body numbness."
+        },
+        {
+          "id": 341,
+          "pattern_id": 103,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Moves Qi and blood powerfully through the channels, reaching the skin of the face and limbs."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "condition_id": 19,
+      "pattern_name": "Wind-Damp",
+      "pattern_slug": "wind-damp",
+      "is_common": 0,
+      "symptoms": "[\"Wandering joint and muscle pain\", \"Heaviness in the limbs\", \"Numbness that shifts location\", \"Worsens with damp or windy weather\", \"White greasy tongue coating\"]",
+      "worse_with": "Damp or windy weather, Cold exposure, Prolonged sitting or standing still, Heavy greasy foods, Living in damp places",
+      "better_with": "Warmth, Dry weather, Gentle movement, Warm foods and spices, Avoiding damp environments",
+      "why_this_happens": "External Wind invades the body's surface, carrying heavy, sticky Dampness with it. This Dampness settles into the channels and joints, physically obstructing the flow of Qi and Blood. When Qi and Blood cannot reach the skin to warm and nourish it, the area becomes numb-often accompanied by a sensation of heaviness and wandering pain.",
+      "tongue_and_pulse": "Tongue: normal or slightly pale body, white greasy coating, may be slightly swollen. Pulse: floating (浮 fú), soggy (濡 rú), and moderate (缓 huǎn); may also be slippery (滑 huá).",
+      "why_triggers_reliefs_work": "Wind-Damp is an external pathogen that thrives in damp, windy, and cold conditions, which cause Qi and Blood to congeal and stagnate. Warmth and dryness help evaporate Dampness and disperse Wind, while gentle movement promotes Qi circulation to push out the invaders. Heavy, greasy foods generate internal dampness, adding to the obstruction.",
+      "diet_and_lifestyle": "Avoid cold, raw, and greasy foods that create internal Dampness. Keep warm and dry, especially in damp weather. Gentle daily movement like walking or tai chi helps Qi circulate and prevents stagnation. Use warm compresses on numb areas.",
+      "formulas": [
+        {
+          "id": 229,
+          "pattern_id": 104,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "Dispels Wind-Damp from the channels, relieves pain and numbness, and restores free flow of Qi and Blood."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 514,
+          "pattern_id": 104,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "",
+          "description": "Dispels Wind-Damp from the upper body and channels, reducing numbness and wandering pain."
+        },
+        {
+          "id": 515,
+          "pattern_id": 104,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "",
+          "description": "Expels Wind and helps drive out Dampness, easing the shifting nature of the symptoms."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 342,
+          "pattern_id": 104,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Dispels external Wind and Dampness from the head and neck, relieving numbness and heaviness."
+        },
+        {
+          "id": 343,
+          "pattern_id": 104,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Wind-Damp from the channels and alleviates numbness in the limbs."
+        },
+        {
+          "id": 344,
+          "pattern_id": 104,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Strongly moves Qi to relieve pain and numbness, especially in the upper body."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "condition_id": 19,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Cold numbness, worse in lower back and legs\", \"Lower back and knee soreness and cold pain\", \"Frequent urination, especially at night\", \"Feeling cold all over, worse in lower body\", \"Fatigue and low spirits\", \"Swelling in legs or ankles\"]",
+      "worse_with": "Cold exposure, Sitting on cold surfaces, Overwork and exhaustion, Cold and raw foods, Excessive sexual activity",
+      "better_with": "Warm environment, Warm foods and drinks, Rest and relaxation, Gentle movement, Moxibustion on lower back",
+      "why_this_happens": "Kidney Yang is the body’s pilot light - it warms every tissue and drives Qi to the surface. When that fire dims, internal cold settles in, and the channels that carry Qi and Blood to the skin constrict like pipes in freezing weather. Without steady warmth and nourishment, the skin loses sensation and feels cold and numb, especially in the lower back, legs and feet where the Kidneys’ influence is strongest. The numbness often worsens in chilly weather or after standing still for long periods, because the cold further slows an already sluggish circulation.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with teeth marks, wet white coating. Pulse: deep, slow, weak, especially feeble at the Chi (rear) position.",
+      "why_triggers_reliefs_work": "Cold is the natural enemy of Yang. Chilly weather, cold food and prolonged sitting on cold surfaces all drain the Kidney’s warming fire, causing the channels to constrict and numbness to deepen. Warmth - whether from food, clothing or moxibustion - gently rekindles that fire, relaxes the channels and coaxes Qi and Blood back to the skin. Rest and gentle movement work together: rest conserves Yang, while mild activity keeps Qi moving without exhausting it.",
+      "diet_and_lifestyle": "Keep the lower back and feet warm - a hot water bottle or warm socks can make a real difference. Eat warm, cooked foods like stews, soups and ginger tea; avoid icy drinks, raw salads and cold dairy. Gentle daily movement such as walking or tai chi helps stir Yang without draining it. Moxibustion on the lower back, if available, is a powerful home therapy to rekindle Kidney fire.",
+      "formulas": [
+        {
+          "id": 230,
+          "pattern_id": 105,
+          "formula_name": "Jin Gui Shen Qi Wan",
+          "formula_url": "/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1",
+          "translation": "Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire",
+          "description": "The classic formula to warm Kidney Yang and dispel internal cold, restoring warmth and circulation to the skin."
+        },
+        {
+          "id": 231,
+          "pattern_id": 105,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 232,
+          "pattern_id": 105,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 233,
+          "pattern_id": 105,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "A classical formula known as the foundation of all blood-nourishing prescriptions in Chinese medicine. It gently replenishes and activates the Blood, and is widely used for conditions related to Blood deficiency such as pale complexion, dizziness, menstrual irregularities, and abdominal pain. Often called the &#x27;number one formula for women&#x27;s health,&#x27; it serves as a base that practitioners modify for a wide range of Blood-related conditions."
+        },
+        {
+          "id": 234,
+          "pattern_id": 105,
+          "formula_name": "Xue Fu Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/xue-fu-zhu-yu-tang",
+          "translation": "Drive Out Stasis in the Mansion of Blood Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Alleviates Pain, Opens the Chest and Disperses Stagnation",
+          "description": "A classical formula designed to improve blood circulation in the chest, relieve pain, and ease emotional tension. It is widely used for chronic chest pain, stubborn headaches, insomnia, and irritability caused by poor blood flow and stagnation in the upper body."
+        },
+        {
+          "id": 235,
+          "pattern_id": 105,
+          "formula_name": "Juan Bi Tang",
+          "formula_url": "/knowledge-base/formulas/juan-bi-tang",
+          "translation": "Remove Painful Obstruction Decoction &#xB7; S&#xF2;ng dynasty, 1178 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Tonifies Qi and harmonizes the Protective and Nutritive Qi, Invigorates Blood and Unblocks the Channels and Collaterals",
+          "description": "A classical formula used to relieve joint and muscle pain, stiffness, and numbness caused by Wind, Cold, and Dampness, especially when the body&#x27;s own defensive and nourishing functions are weakened. It is particularly well suited for pain and tightness in the neck, shoulders, arms, and upper body that worsens in cold or damp weather."
+        },
+        {
+          "id": 236,
+          "pattern_id": 105,
+          "formula_name": "Jin Gui Shen Qi Wan",
+          "formula_url": "/knowledge-base/formulas/jin-gui-shen-qi-wan-1-1",
+          "translation": "Golden Cabinet Kidney Qi Pill &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Warms Yang and Transforms Qi, Warms the Ming Men Fire",
+          "description": "A classical formula that gently warms and supports the Kidneys to restore vitality, fluid balance, and lower body warmth. It is used for people with Kidney weakness who experience lower back soreness, cold legs, frequent urination or difficulty urinating, and general fatigue. Unlike strong warming formulas, it uses a small amount of warming herbs alongside a larger base of nourishing ingredients, working gradually to restore the body&#x27;s natural balance."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 516,
+          "pattern_id": 105,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Powerfully warms Kidney Yang and dispels cold, rekindling the body&#x2019;s internal warmth."
+        },
+        {
+          "id": 517,
+          "pattern_id": 105,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Ignites the Gate of Fire and warms the channels, helping Qi and Blood reach the surface."
+        },
+        {
+          "id": 518,
+          "pattern_id": 105,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 519,
+          "pattern_id": 105,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 520,
+          "pattern_id": 105,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 521,
+          "pattern_id": 105,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 522,
+          "pattern_id": 105,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 523,
+          "pattern_id": 105,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 524,
+          "pattern_id": 105,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 525,
+          "pattern_id": 105,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 526,
+          "pattern_id": 105,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 527,
+          "pattern_id": 105,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 528,
+          "pattern_id": 105,
+          "herb_name": "Qiang Huo",
+          "herb_url": "/knowledge-base/herbs/qiang-huo",
+          "translation": "Notopterygium root and rhizome",
+          "properties": "Warm, Releases the Exterior and Disperses Wind-Cold, Dispels Wind-Dampness, Relieves Painful Obstruction",
+          "description": ""
+        },
+        {
+          "id": 529,
+          "pattern_id": 105,
+          "herb_name": "Fang Feng",
+          "herb_url": "/knowledge-base/herbs/fang-feng",
+          "translation": "Siler root",
+          "properties": "Slightly Warm, Releases the Exterior and Disperses Wind-Cold, Overcomes Dampness and stops pain, Extinguishes Wind and Stops Spasms",
+          "description": ""
+        },
+        {
+          "id": 530,
+          "pattern_id": 105,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 531,
+          "pattern_id": 105,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 345,
+          "pattern_id": 105,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion is ideal. Directly warms Kidney Yang and the Gate of Life Fire."
+        },
+        {
+          "id": 346,
+          "pattern_id": 105,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies the Kidneys and strengthens the lower back, a key area for this pattern."
+        },
+        {
+          "id": 347,
+          "pattern_id": 105,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Warms the lower burner and fortifies the body&#x2019;s core Yang."
+        },
+        {
+          "id": 348,
+          "pattern_id": 105,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Boosts overall Qi and Blood to help nourish the skin and limbs."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 116,
+      "condition_id": 19,
+      "question": "What's the difference between 'ma' and 'mu' numbness?",
+      "answer": "In TCM, 'ma' is a tingling, crawling, or pins-and-needles sensation-like a limb falling asleep-and usually points to Qi not reaching the skin. 'Mu' is a deeper, wooden loss of feeling where you can't even tell if something is touching you; this indicates Blood isn't nourishing the area, often due to deficiency or obstruction. Recognizing which sensation you have helps your practitioner pinpoint the root cause."
+    },
+    {
+      "id": 117,
+      "condition_id": 19,
+      "question": "Can acupuncture really help with skin numbness?",
+      "answer": "Yes, acupuncture is a primary tool for treating numbness because it directly stimulates the flow of Qi and Blood in the channels. By inserting fine needles at specific points-both near the numb area and at points that strengthen the underlying organ systems-acupuncture can wake up dormant nerves and restore sensation. Many patients feel a warm, spreading sensation during treatment, which is a sign that circulation is improving."
+    },
+    {
+      "id": 118,
+      "condition_id": 19,
+      "question": "How long does it take for TCM to work on numbness?",
+      "answer": "Most people notice some improvement within 3-4 weekly sessions, though the timeline depends on your pattern and how long you've had the numbness. Excess patterns like Wind-Damp or Blood Stagnation often respond faster, while deficiency patterns that require building up Qi and Blood may take 6-12 weeks. Consistency with both acupuncture and herbs is key."
+    },
+    {
+      "id": 119,
+      "condition_id": 19,
+      "question": "Can I combine TCM with my current medication for neuropathy?",
+      "answer": "In most cases, yes. TCM treatments can safely complement conventional medications. However, if you are taking blood thinners like warfarin or antiplatelet drugs, tell your TCM practitioner because some Blood-moving herbs (like Dang Gui) can interact. Always keep both your doctor and TCM practitioner informed of everything you're taking, and never stop prescribed medications without medical supervision."
+    },
+    {
+      "id": 120,
+      "condition_id": 19,
+      "question": "Will I need to change my diet?",
+      "answer": "Diet plays a supportive role in TCM. While your practitioner will give you specific advice based on your pattern, a general rule is to eat warm, cooked foods that are easy to digest-think soups, stews, and steamed vegetables-and avoid cold, raw foods and icy drinks. Reducing dairy, sugar, and greasy foods helps prevent internal Dampness, which is a common culprit in numbness."
+    },
+    {
+      "id": 121,
+      "condition_id": 19,
+      "question": "My numbness gets worse when I'm tired-why?",
+      "answer": "This is a classic sign of Qi and Blood Deficiency. When your body's energy reserves are low, it has even less to spare for the skin and nerves, so the numbness intensifies. Rest, warm meals, and TCM tonics can gradually rebuild your reserves so that numbness doesn't flare up every time you're run down."
+    }
+  ],
+  "research": [
+    {
+      "id": 44,
+      "condition_id": 19,
+      "title": "Acupuncture for Chemotherapy-Induced Peripheral Neuropathy: A Pilot Randomized Controlled Trial",
+      "description": "This pilot RCT found that real acupuncture significantly improved numbness, tingling, and pain compared to sham acupuncture in patients with chemotherapy-induced peripheral neuropathy, supporting the use of acupuncture for neuropathic numbness.",
+      "url": "https://doi.org/10.1001/jamaoncol.2019.6192",
+      "periodical": "Lu W, Giobbie-Hurder A, Freedman RA, et al. Acupuncture for Chemotherapy-Induced Peripheral Neuropathy: A Pilot Randomized Controlled Trial. JAMA Oncol. 2020;6(5):724-732."
+    },
+    {
+      "id": 45,
+      "condition_id": 19,
+      "title": "Electroacupuncture for Diabetic Peripheral Neuropathy: A Randomized Controlled Trial",
+      "description": "This RCT showed that electroacupuncture significantly improved nerve conduction velocity and reduced numbness scores in patients with diabetic peripheral neuropathy compared to conventional medication.",
+      "url": "https://doi.org/10.1155/2016/8546517",
+      "periodical": "Tong Y, Guo H, Han B. Electroacupuncture for Diabetic Peripheral Neuropathy: A Randomized Controlled Trial. J Diabetes Res. 2016;2016:8546517."
+    },
+    {
+      "id": 46,
+      "condition_id": 19,
+      "title": "Acupuncture for the treatment of peripheral neuropathy: a systematic review and meta-analysis",
+      "description": "This meta-analysis of 13 RCTs found that acupuncture was associated with significant improvement in neuropathy symptoms, including numbness, compared to control groups, though study quality was moderate.",
+      "url": "https://doi.org/10.1136/acupmed-2016-011197",
+      "periodical": "Dimitrova A, Murchison C, Oken B. Acupuncture for the treatment of peripheral neuropathy: a systematic review and meta-analysis. Acupunct Med. 2017;35(3):166-173."
+    }
+  ]
+}

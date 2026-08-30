@@ -1,0 +1,479 @@
+{
+  "id": 1159,
+  "name": "แผลติดเชื้อ",
+  "url": "/knowledge-base/conditions/infected-wound",
+  "kind": "Condition",
+  "pinyin": "chuāng yáng",
+  "chinese_name": "疮疡",
+  "preview_text": "TCM reads an infected wound like a map: the color, heat, and discharge reveal whether the battle is in the early fiery stage, at its toxic peak, or stuck in a chronic standstill - ...",
+  "categories": "[\"การบาดเจ็บ แผลไหม้ และบาดแผล\", \"การติดเชื้อแบคทีเรีย\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Infected wounds\", \"Post-Surgical Wound Infection\", \"Wound Infections\", \"Wound Infection\", \"Burn infection\"]",
+  "conventional_description": "In conventional medicine, an infected wound occurs when bacteria enter a break in the skin, triggering inflammation, redness, swelling, pain, and often the formation of pus. Diagnosis is typically based on clinical signs and may be confirmed with a wound culture. Mild infections are common, but if bacteria spread, they can cause cellulitis, abscesses, or systemic infection.",
+  "conventional_treatments": "Standard treatment includes thorough wound cleaning, topical or oral antibiotics, and appropriate dressings. For abscesses, incision and drainage may be necessary. Chronic wounds may require debridement, specialized wound care products, and management of underlying conditions like diabetes.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM sees an infected wound as an invasion of external Heat-Toxin that overwhelms the body's defensive Qi. The initial stage - redness, swelling, heat, and pain without pus - is understood as Toxic-Heat Stagnation, where Qi and Blood are trapped in the skin and flesh, creating a fiery blockage. The body's Wei Qi (defensive Qi) is struggling to contain the pathogen, and the goal is to disperse the stagnation before it deepens.\nIf the Heat-Toxin intensifies, it cooks the tissues and forms pus. This is the Toxic-Heat pattern, where the infection has moved deeper, generating thick yellow discharge, high fever, and a rapid pulse. Here, the body's resources are being consumed by the blazing pathogen, and treatment must aggressively clear Heat and drain pus to prevent further damage.\nWhen a wound lingers for weeks or months without healing, the picture shifts to Qi and Blood Deficiency. The body lacks the vital energy and nourishment to build new flesh and fight off the lingering infection. The wound becomes pale, the discharge thin and watery, and the person feels weak and fatigued. In this stage, the focus is on rebuilding the body's reserves to finish the healing process.",
+  "classical_quote": "「夫疮疡者，乃气血凝滞，经络阻塞，热毒壅聚所致。」",
+  "classical_translation": "\"Sores and ulcers arise from the stagnation of Qi and Blood, obstruction of the meridians, and the accumulation of Heat-Toxin.\"",
+  "classical_source": "外科正宗 (Wai Ke Zheng Zong)  ,  Chapter 1, General Discussion on Sores and Ulcers \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner first looks at the wound itself and asks about its timeline. Is it a fresh, angry red swelling that just appeared, or a wound that has been draining for weeks without closing? The stage of the sore and the quality of any discharge are the first major clues that point toward one pattern rather than another.\nWhen the wound is in its earliest phase - bright red, hot, swollen, and painful but without a head of pus - the pattern is Toxic-Heat Stagnation. The person often feels restless, may have a mild fever, and the tongue appears red with a thin yellow coat. The pulse feels rapid and perhaps a little floating, reflecting the body’s effort to fight the invasion at the surface.\nAs pus collects and the infection intensifies, the picture shifts to Toxic-Heat. The swelling becomes more tense and throbbing, the skin glows red, and thick yellow pus may drain. Systemic signs grow louder: high fever, pronounced thirst, a red tongue with a dry yellow coat, and a rapid, forceful pulse. This pattern tells the practitioner that the pathogenic fire has deepened and must be drained quickly.\nA wound that lingers for weeks or months with thin, watery discharge and pale, sluggish granulation tissue points to Qi and Blood Deficiency. Here the body lacks the resources to push out toxins and rebuild flesh. The tongue is pale with a thin white coat, and the pulse is weak and thready. The person often looks tired, speaks softly, and may sweat easily - signs that the vital substances are too depleted to close the sore.",
+  "patterns": [
+    {
+      "id": 5728,
+      "condition_id": 1159,
+      "pattern_name": "Toxic-Heat Stagnation",
+      "pattern_slug": "toxic-heat-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Redness, swelling, and heat at the wound site\", \"Severe, throbbing pain at the inflamed site\", \"Pus formation (thick yellow pus)\", \"High fever with intense thirst for cold drinks\", \"Restlessness and irritability\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Hot weather or hot baths, Overexertion, Stress",
+      "better_with": "Cold compresses on the wound, Cooling foods and drinks, Rest and adequate sleep, Keeping the wound clean",
+      "why_this_happens": "When a wound is invaded by Heat-Toxin, the body's defensive Qi tries to contain it. The pathogen obstructs the flow of Qi and Blood in the skin and flesh, creating stagnation. This trapped Heat-Toxin cooks the tissues, producing the classic signs of inflammation: redness, swelling, heat, and throbbing pain. If the stagnation is not resolved, the Heat intensifies and may eventually liquefy the tissue into pus.",
+      "tongue_and_pulse": "Tongue: deep red or crimson body with prickly papillae and a thick, dry yellow coating. Pulse: rapid (数 shu) and forceful (实 shi), often overflowing (洪 hong).",
+      "why_triggers_reliefs_work": "Heat-Toxin is the core pathogen, so anything that adds more Heat-like spicy food, alcohol, or a hot environment-worsens the stagnation and inflammation. Cooling measures literally counteract the Heat, while rest preserves Qi so the body can focus on clearing the infection. Keeping the wound clean prevents further toxin invasion, and cold compresses constrict local blood flow to reduce swelling and pain.",
+      "diet_and_lifestyle": "Keep the wound clean and dry. Eat cooling foods like cucumber, watermelon, and mung beans, and drink plenty of water. Avoid spicy, greasy, or fried foods, alcohol, and coffee, as these add Heat. Rest is essential to allow Qi to fight the infection.",
+      "formulas": [
+        {
+          "id": 12976,
+          "pattern_id": 5728,
+          "formula_name": "Xian Fang Huo Ming Yin",
+          "formula_url": "/knowledge-base/formulas/xian-fang-huo-ming-yin",
+          "translation": "Immortal Formula Life-Giving Drink &#xB7; S&#xF2;ng dynasty, 1237 CE (original text by Ch&#xE9;n Z&#xEC;m&#xED;ng; annotated edition by Xu&#x113; J&#x1D0; in the M&#xED;ng dynasty)",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Invigorates Blood and Alleviates Pain",
+          "description": "Clears Heat, resolves Toxin, and activates Blood to reduce swelling and pain in the early stage of an infected wound."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30111,
+          "pattern_id": 5728,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "A premier herb to clear Heat-Toxin and reduce swelling, especially for skin infections."
+        },
+        {
+          "id": 30112,
+          "pattern_id": 5728,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Heat-Toxin and reduces abscesses, often paired with Jin Yin Hua."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20496,
+          "pattern_id": 5728,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears Heat and alleviates pain; a key point for inflammatory conditions."
+        },
+        {
+          "id": 20497,
+          "pattern_id": 5728,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Cools Blood and drains Heat, reducing fever and skin redness."
+        },
+        {
+          "id": 20498,
+          "pattern_id": 5728,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates Blood and cools Heat, helping to resolve stagnation and swelling."
+        }
+      ]
+    },
+    {
+      "id": 5729,
+      "condition_id": 1159,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever with chills\", \"Redness, swelling, and heat at the wound site\", \"Pus formation (thick yellow pus)\", \"Intense thirst for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine\", \"Constipation\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and coffee, Hot weather or hot baths, Overexertion and lack of sleep, Stress and anger",
+      "better_with": "Cold compresses on the wound, Cooling foods and drinks, Rest and adequate sleep, Hydration with plain water",
+      "why_this_happens": "When a wound becomes infected, external pathogens or internal heat can accumulate into a blazing Toxic-Heat. This intense heat attacks the skin and flesh, causing severe inflammation: the area becomes red, swollen, hot, and painful as Qi and Blood stagnate. As the heat deepens, it liquefies tissue and produces thick, yellow pus. The body reacts with high fever, intense thirst, and restlessness because the heat has spread beyond the local site and is consuming body fluids.",
+      "tongue_and_pulse": "Tongue: Red body with prickly thorns and a dry yellow coating. Pulse: Rapid and forceful, often full or overflowing.",
+      "why_triggers_reliefs_work": "Toxic-Heat is an excess heat pattern; spicy and greasy foods, alcohol, and hot environments add more heat to the body, fueling the infection. Overexertion and stress deplete Qi, making it harder to fight off the pathogen. Cooling foods and compresses directly counteract the heat, while rest preserves Qi and allows the body's defenses to clear the toxin and heal the wound.",
+      "diet_and_lifestyle": "Eat plenty of cooling foods like mung bean soup, watermelon, cucumber, and bitter gourd. Avoid spicy, greasy, and fried foods, as well as alcohol and coffee, which add heat. Drink enough water to stay hydrated. Keep the wound clean and protected. Rest as much as possible to allow your body's Qi to fight the infection.",
+      "formulas": [
+        {
+          "id": 12977,
+          "pattern_id": 5729,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "Clears intense Toxic-Heat and damp-heat from all three burners, reducing fever and inflammation."
+        },
+        {
+          "id": 12978,
+          "pattern_id": 5729,
+          "formula_name": "Wu Wei Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/wu-wei-xiao-du-yin",
+          "translation": "Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules",
+          "description": "A classic formula for toxic-heat sores; clears heat, resolves toxin, and reduces swelling and pus formation."
+        },
+        {
+          "id": 12979,
+          "pattern_id": 5729,
+          "formula_name": "Xian Fang Huo Ming Yin",
+          "formula_url": "/knowledge-base/formulas/xian-fang-huo-ming-yin",
+          "translation": "Immortal Formula Life-Giving Drink &#xB7; S&#xF2;ng dynasty, 1237 CE (original text by Ch&#xE9;n Z&#xEC;m&#xED;ng; annotated edition by Xu&#x113; J&#x1D0; in the M&#xED;ng dynasty)",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Invigorates Blood and Alleviates Pain",
+          "description": "Clears heat, detoxifies, and invigorates blood to reduce swelling and pain in infected wounds."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30113,
+          "pattern_id": 5729,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxin, especially for skin infections with redness and pus."
+        },
+        {
+          "id": 30114,
+          "pattern_id": 5729,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Reduces swelling and clears toxic heat, often paired with Jin Yin Hua for boils and abscesses."
+        },
+        {
+          "id": 30115,
+          "pattern_id": 5729,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains fire and dries dampness, targeting intense heat and dampness in the wound."
+        },
+        {
+          "id": 30116,
+          "pattern_id": 5729,
+          "herb_name": "Pu Gong Ying",
+          "herb_url": "/knowledge-base/herbs/pu-gong-ying",
+          "translation": "Dandelion",
+          "properties": "",
+          "description": "A powerful heat-clearing and toxin-resolving herb that reduces swelling and promotes healing."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20499,
+          "pattern_id": 5729,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Clears heat and alleviates pain, especially for face and skin infections."
+        },
+        {
+          "id": 20500,
+          "pattern_id": 5729,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Drains fire and cools the blood, reducing fever and skin inflammation."
+        },
+        {
+          "id": 20501,
+          "pattern_id": 5729,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears heat and resolves toxin, lowering high fever."
+        },
+        {
+          "id": 20502,
+          "pattern_id": 5729,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Cools the blood and reduces redness and swelling in skin lesions."
+        }
+      ]
+    },
+    {
+      "id": 5730,
+      "condition_id": 1159,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Wound with thin, watery pus and slow granulation\", \"Pale complexion, lips and nail beds\", \"Persistent fatigue and shortness of breath\", \"Poor appetite and spontaneous sweating\", \"Dizziness or lightheadedness\", \"No significant redness or heat at the wound site\"]",
+      "worse_with": "Overexertion and stress, Cold, raw foods, Prolonged standing or heavy lifting",
+      "better_with": "Rest and adequate sleep, Warm, nourishing meals, Gentle daily movement",
+      "why_this_happens": "When Qi and Blood are both depleted, the body lacks the vital energy and nourishment needed to repair tissue and fight off lingering infection. Without enough Qi, the Spleen cannot generate new flesh, and without enough Blood, the wound bed stays dry and pale. The result is a chronic, non-healing wound that oozes thin, watery fluid rather than healthy pus, and granulation tissue grows very slowly or not at all.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine and weak.",
+      "why_triggers_reliefs_work": "Qi and Blood are the body's building blocks - rest and warm, nourishing foods help the Spleen replenish them, while overwork and cold raw foods drain what little is left. Gentle movement keeps Qi flowing without depleting it, preventing stagnation that could further slow wound healing.",
+      "diet_and_lifestyle": "Focus on warm, easily digested, nutrient-dense foods such as bone broths, congee with lean meat, and steamed dark leafy greens. Avoid raw, cold, and greasy foods that tax the Spleen and dampen Qi. Prioritize rest and gentle movement like walking to support Qi flow without overexertion.",
+      "formulas": [
+        {
+          "id": 12980,
+          "pattern_id": 5730,
+          "formula_name": "Tuo Li Xiao Du San",
+          "formula_url": "/knowledge-base/formulas/tuo-li-xiao-du-san",
+          "translation": "Support the Interior and Eliminate Toxin Powder &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Nourishes Blood, Supports the Interior (Tuo Li)",
+          "description": "Tonifies Qi and Blood while expelling lingering toxins, ideal for chronic, non-healing infected wounds with thin pus."
+        },
+        {
+          "id": 12981,
+          "pattern_id": 5730,
+          "formula_name": "Sheng Ji Yu Hong Gao",
+          "formula_url": "/knowledge-base/formulas/sheng-ji-yu-hong-gao",
+          "translation": "Flesh-Engendering Jade Red Ointment &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Slightly Warm, Promotes Tissue Regeneration and Heals Sores, Removes Putridity and Promotes Tissue Regeneration, Invigorates Blood and Alleviates Pain",
+          "description": "External ointment that accelerates granulation and wound closure by invigorating Blood and generating new tissue."
+        },
+        {
+          "id": 12982,
+          "pattern_id": 5730,
+          "formula_name": "Xian Fang Huo Ming Yin",
+          "formula_url": "/knowledge-base/formulas/xian-fang-huo-ming-yin",
+          "translation": "Immortal Formula Life-Giving Drink &#xB7; S&#xF2;ng dynasty, 1237 CE (original text by Ch&#xE9;n Z&#xEC;m&#xED;ng; annotated edition by Xu&#x113; J&#x1D0; in the M&#xED;ng dynasty)",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Invigorates Blood and Alleviates Pain",
+          "description": "A renowned classical formula used to treat red, hot, swollen, and painful skin infections such as boils, abscesses, and inflamed sores in their early stages. It works by clearing the internal Heat driving the infection, improving local blood circulation to reduce swelling and pain, and helping the body expel pus and toxins. Historically called &quot;the foremost formula in external medicine&quot; and &quot;the sacred remedy for abscesses,&quot; it is also applied in modern practice for conditions such as mastitis, inflammatory acne, tonsillitis, and appendicitis."
+        },
+        {
+          "id": 12983,
+          "pattern_id": 5730,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 12984,
+          "pattern_id": 5730,
+          "formula_name": "Wu Wei Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/wu-wei-xiao-du-yin",
+          "translation": "Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules",
+          "description": "A classical formula that uses five potent heat-clearing herbs to fight infections and inflammation, especially boils, abscesses, and other skin infections that present with redness, swelling, heat, and pain. It is one of TCM&#x27;s most direct and powerful formulas for clearing toxic heat from the body."
+        },
+        {
+          "id": 12985,
+          "pattern_id": 5730,
+          "formula_name": "Tuo Li Xiao Du San",
+          "formula_url": "/knowledge-base/formulas/tuo-li-xiao-du-san",
+          "translation": "Support the Interior and Eliminate Toxin Powder &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Nourishes Blood, Supports the Interior (Tuo Li)",
+          "description": "A classical surgical formula designed to support the body&#x27;s own healing ability in chronic infections, abscesses, and slow-healing wounds. It works primarily by strengthening Qi and Blood so the body can expel toxins and generate new tissue, making it especially suited for people whose infections or sores linger because of underlying weakness or exhaustion."
+        },
+        {
+          "id": 12986,
+          "pattern_id": 5730,
+          "formula_name": "Sheng Ji Yu Hong Gao",
+          "formula_url": "/knowledge-base/formulas/sheng-ji-yu-hong-gao",
+          "translation": "Flesh-Engendering Jade Red Ointment &#xB7; M&#xED;ng dynasty, 1617 CE",
+          "properties": "Slightly Warm, Promotes Tissue Regeneration and Heals Sores, Removes Putridity and Promotes Tissue Regeneration, Invigorates Blood and Alleviates Pain",
+          "description": "A classical external ointment used for wound healing. It helps remove dead tissue, reduce swelling, relieve pain, and promote the growth of new flesh in chronic, non-healing sores, ulcers, abscesses, and wounds that have ruptured and are draining pus. It is applied directly to the wound surface and is not taken internally."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 30117,
+          "pattern_id": 5730,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi and promotes tissue regeneration, essential for closing chronic wounds."
+        },
+        {
+          "id": 30118,
+          "pattern_id": 5730,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation to bring healing nutrients to the wound bed."
+        },
+        {
+          "id": 30119,
+          "pattern_id": 5730,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to produce Qi and Blood and dry dampness, reducing watery exudate."
+        },
+        {
+          "id": 30120,
+          "pattern_id": 5730,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 30121,
+          "pattern_id": 5730,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 30122,
+          "pattern_id": 5730,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 30123,
+          "pattern_id": 5730,
+          "herb_name": "Pu Gong Ying",
+          "herb_url": "/knowledge-base/herbs/pu-gong-ying",
+          "translation": "Dandelion",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Promotes Urination and Relieves Stranguria",
+          "description": ""
+        },
+        {
+          "id": 30124,
+          "pattern_id": 5730,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 30125,
+          "pattern_id": 5730,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 30126,
+          "pattern_id": 5730,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 20503,
+          "pattern_id": 5730,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonify. Strengthens Spleen and Stomach to generate Qi and Blood, supporting tissue repair."
+        },
+        {
+          "id": 20504,
+          "pattern_id": 5730,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonify. Nourishes Blood, regulates the Spleen, and resolves dampness."
+        },
+        {
+          "id": 20505,
+          "pattern_id": 5730,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Moxibustion. Boosts original Qi and raises the body&#x27;s capacity to heal and expel lingering pathogens."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 7530,
+      "condition_id": 1159,
+      "question": "Can TCM treat an infected wound without antibiotics?",
+      "answer": "Yes, mild to moderate infected wounds often respond well to TCM alone, especially when treated early. Herbal formulas like Xian Fang Huo Ming Yin clear Heat and Toxin while promoting circulation. However, severe infections with spreading redness, high fever, or systemic symptoms may require antibiotics. Always seek urgent medical care for serious signs."
+    },
+    {
+      "id": 7531,
+      "condition_id": 1159,
+      "question": "How quickly can herbs reduce swelling and pain?",
+      "answer": "For acute Toxic-Heat Stagnation, many people notice a reduction in redness, swelling, and throbbing pain within 24-48 hours of starting herbs. The key is to begin treatment as soon as the wound shows signs of infection. Topical applications combined with internal formulas work faster."
+    },
+    {
+      "id": 7532,
+      "condition_id": 1159,
+      "question": "What if my wound isn't healing after surgery?",
+      "answer": "Post-surgical wounds that stall are often a sign of Qi and Blood Deficiency, meaning your body lacks the energy to close the wound. TCM uses nourishing formulas like Tuo Li Xiao Du San to strengthen the Spleen and generate new flesh. Acupuncture at points like Zusanli ST-36 can also boost your overall vitality and speed healing."
+    },
+    {
+      "id": 7533,
+      "condition_id": 1159,
+      "question": "Does acupuncture help with wound pain?",
+      "answer": "Yes, acupuncture can significantly reduce wound pain by moving stagnant Qi and Blood in the local area. Distal points like Hegu LI-4 and Quchi LI-11 are also used to clear Heat and calm inflammation throughout the body. Many patients find sessions soothing and notice less throbbing afterward."
+    },
+    {
+      "id": 7534,
+      "condition_id": 1159,
+      "question": "Is it safe to combine TCM herbs with my prescribed antibiotics?",
+      "answer": "In most cases, yes, but always inform both your TCM practitioner and your doctor about all treatments. Certain herbs may interact with medications, so a professional should monitor the combination. Never stop antibiotics abruptly without consulting your doctor."
+    },
+    {
+      "id": 7535,
+      "condition_id": 1159,
+      "question": "What does the color of pus tell a TCM practitioner?",
+      "answer": "Thick, yellow pus indicates strong Toxic-Heat, while thin, watery discharge suggests underlying deficiency. The color and consistency help determine whether the body is successfully fighting the infection or if its resources are depleted, guiding the choice of herbs and treatment intensity."
+    },
+    {
+      "id": 7536,
+      "condition_id": 1159,
+      "question": "Can TCM prevent wound infections after an injury?",
+      "answer": "Yes, TCM can be used preventively. Cleaning a fresh wound with mild herbal washes and taking a short course of Heat-clearing herbs can help the body's defensive Qi resist bacterial invasion. People who tend to get infections easily often benefit from longer-term treatment to strengthen their Qi and Blood."
+    }
+  ],
+  "research": [
+    {
+      "id": 1726,
+      "condition_id": 1159,
+      "title": "Botanical Drugs in Traditional Chinese Medicine With Wound Healing Properties",
+      "description": "This comprehensive review examined the active compounds and mechanisms of TCM herbs commonly used for wound healing, including those found in formulas like Wu Wei Xiao Du Yin and Xian Fang Huo Ming Yin. It confirmed that many herbs possess antibacterial, anti-inflammatory, and pro-angiogenic effects that support the clinical use of these formulas for infected wounds.",
+      "url": "https://doi.org/10.3390/molecules27092795",
+      "periodical": "Wang L, et al. Botanical Drugs in Traditional Chinese Medicine With Wound Healing Properties. Molecules. 2022;27(9):2795."
+    }
+  ]
+}

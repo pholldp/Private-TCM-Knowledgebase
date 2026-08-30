@@ -1,0 +1,661 @@
+{
+  "id": 31,
+  "name": "Qing Wei San",
+  "chinese_name": "清胃散",
+  "english_name": "Clear the Stomach Powder",
+  "url": "/knowledge-base/formulas/qing-wei-san",
+  "summary": "A classical formula used to clear excess heat from the Stomach that flares upward, causing toothache, swollen or bleeding gums, mouth sores, bad breath, and facial flushing. It works by draining Stomach Fire while cooling the Blood to address the inflammation and pain in the mouth and face.",
+  "categories": "[\"Heat-clearing formulas\", \"Organ Heat-clearing formulas\"]",
+  "tcm_actions": "[\"Clears Stomach Heat\", \"Cools the Blood\", \"Nourishes Yin\", \"Resolves Toxicity\", \"Disperses Depressed Heat\"]",
+  "therapeutic_focus": "[\"Oral and Dental Health\", \"Dental Pain\", \"Digestive heat\"]",
+  "target_organs": "[\"Stomach\", \"Large Intestine\"]",
+  "temperature": "Cold",
+  "preparation_form": "Powder (San)",
+  "dynasty": "Lan Shi Mi Cang (《兰室秘藏》Secrets from the Orchid Chamber) by Li Dongyuan (李东垣)",
+  "conditions": "[\"Toothache\", \"Sore\", \"Bad Breath\", \"Swollen Gums\", \"Bleeding Gums\", \"Nosebleeds\", \"Vaginal Pain\", \"Acne\"]",
+  "patterns": "[]",
+  "other_names": "[\"Coptis and Rehmannia Formula\"]",
+  "pregnancy": "Use with caution during pregnancy. Mu Dan Pi (Moutan Bark) has Blood-moving and Blood-cooling properties that may theoretically stimulate uterine activity. Dang Gui (Angelica Sinensis) also moves Blood. While these herbs are present in modest doses in this formula, the combination warrants caution. The formula's overall cold nature is also a concern, as excessively cold medicinals are generally avoided during pregnancy. Consult a qualified practitioner before use during pregnancy.",
+  "breastfeeding": "Limited specific data exists on breastfeeding safety. Huang Lian (Coptis) contains berberine, which is known to transfer into breast milk in small amounts. Berberine has historically been used with caution in nursing mothers because of its intensely bitter and cold nature, which could theoretically affect the infant's digestion. Mu Dan Pi and Sheng Di Huang are generally considered low-risk. As this formula is typically used short-term for acute conditions, brief use under practitioner guidance is likely acceptable, but prolonged use during breastfeeding should be avoided. Consult a qualified practitioner.",
+  "children": "Qing Wei San can be used in children for Stomach Fire conditions such as gum swelling and mouth sores. The classical text Yi Zong Jin Jian (《医宗金鉴》) specifically records a variant of this formula for treating childhood gum swelling (重龈, chóng yín), where heat accumulates in the Stomach causing water-blister-like swelling at the tooth roots.\nDosage should be reduced according to age and body weight, typically to one-third to one-half of the adult dose for children over 6 years old, and one-quarter for younger children. Because Huang Lian is very bitter and cold, prolonged use in children should be avoided to protect the developing digestive system. The decoction can be sweetened slightly if needed to improve compliance, though excessive sweetening should be avoided.",
+  "drug_interactions": "Huang Lian (Coptis/berberine) and anticoagulant or antiplatelet drugs: Berberine, the primary active alkaloid in Huang Lian, has been shown in pharmacological studies to compete for plasma protein binding sites with warfarin, potentially increasing free warfarin concentration and enhancing its anticoagulant effect. A case report documented subcutaneous petechiae in a patient taking warfarin with a Huang Lian-containing formula. Berberine has also been identified as a direct thrombin inhibitor in vitro. Patients on warfarin or other anticoagulants should use this formula with caution and with medical monitoring of INR values.\nHuang Lian (berberine) and CYP450-metabolized drugs: Berberine has been shown to inhibit several cytochrome P450 enzymes (particularly CYP3A4 and CYP2D6) and may affect the metabolism of drugs processed through these pathways. This is relevant for many common medications including certain statins, calcium channel blockers, and immunosuppressants such as cyclosporine.\nHuang Lian (berberine) and hypoglycemic agents: Berberine has demonstrated independent blood-glucose-lowering effects. When combined with metformin or other oral hypoglycemic agents, there is a theoretical risk of additive hypoglycemia. Blood sugar monitoring is advisable.",
+  "best_time_to_take": "On an empty stomach, or 30–60 minutes before meals, taken cool or at room temperature (not hot), 2 times per day.",
+  "typical_duration": "Acute use: 3–7 days, reassessed as symptoms resolve. Not intended for long-term use.",
+  "dietary_advice": "Avoid spicy, hot, greasy, and fried foods, which can further generate Stomach Heat and worsen the condition. Alcohol and strong coffee should also be avoided, as they are warming and can aggravate Fire. Rich and heavy meats (especially lamb and other warming proteins) should be reduced.\nFavor cooling, bland foods such as mung bean soup, congee, cucumber, watermelon, pear, and tofu. Room-temperature or slightly cool water is preferable. The classical instruction is to take the decoction after it has cooled (放冷服之), not while hot, which aligns with the treatment principle of clearing Heat.",
+  "ingredients": [
+    {
+      "herb_name": "Huang Lian",
+      "english_name": "Coptis rhizome",
+      "role": "King",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Sheng Ma",
+      "english_name": "Cimicifuga rhizome",
+      "role": "Deputy",
+      "dosage": "3 - 6g"
+    },
+    {
+      "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
+      "english_name": "",
+      "role": "Deputy",
+      "dosage": "6 - 12g"
+    },
+    {
+      "herb_name": "Mu Dan Pi",
+      "english_name": "Tree peony root bark",
+      "role": "Deputy",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Dang Gui",
+      "english_name": "Chinese Angelica root",
+      "role": "Assistant",
+      "dosage": "6 - 9g"
+    }
+  ],
+  "research": [
+    {
+      "id": 83,
+      "formula_id": 31,
+      "title": "Qingwei San treats oral ulcer subjected to stomach heat syndrome in db/db mice by targeting TLR4/MyD88/NF-κB pathway (Preclinical study, 2022)",
+      "description": "This preclinical study used diabetic (db/db) mice to model oral ulcers with stomach heat syndrome. QWS treatment promoted ulcer healing, reduced inflammatory infiltration in gastric and oral mucosa, and suppressed pro-inflammatory signaling through the TLR4/MyD88/NF-κB pathway. Network pharmacology analysis identified key bioactive components and multiple anti-inflammatory targets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34980192/",
+      "periodical": "Liang J, et al. Chinese Medicine, 2022, 17(1):3."
+    },
+    {
+      "id": 84,
+      "formula_id": 31,
+      "title": "Using computational pharmacology and experimental verification to decode mechanism of Qing-Wei-San in treating periodontitis (Computational and in vitro study, 2025)",
+      "description": "This study used computational systems pharmacology to identify bioactive components of QWS relevant to periodontitis. Key compounds including ethyl ferulate, methyl protocatechuate, and quercetin were found to significantly reduce expression levels of inflammatory factors in an in vitro inflammatory model, supporting the formula's traditional use for gum inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40634925/",
+      "periodical": "BMC Complementary Medicine and Therapies, 2025."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 51,
+      "name": "Qing Wei San"
+    },
+    {
+      "pattern_id": 209,
+      "name": "Qing Wei San"
+    },
+    {
+      "pattern_id": 274,
+      "name": "Qing Wei San"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 85,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 85,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 125,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 125,
+      "pattern_name": "Stomach Yang Deficient and Cold",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 153,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 153,
+      "pattern_name": "Damp-Heat in the Stomach",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 193,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 193,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 370,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 370,
+      "pattern_name": "Spleen Yang Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 474,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 474,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 538,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 538,
+      "pattern_name": "Heart and Spleen Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 539,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 539,
+      "pattern_name": "Lung Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 540,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 540,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 546,
+      "pattern_name": "Blood Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 639,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 639,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 664,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 664,
+      "pattern_name": "Heat in the Blood",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 673,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 673,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 682,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 682,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 690,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 690,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 696,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 696,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 697,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 697,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 698,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 698,
+      "pattern_name": "Kidney and Spleen Yang Deficiency with Empty Cold",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 699,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 699,
+      "pattern_name": "Cold invading the Channels joints and muscles",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 701,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 701,
+      "pattern_name": "Wind-Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 702,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 702,
+      "pattern_name": "Spleen not controlling Blood",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 704,
+      "pattern_name": "Bright Yang Stomach Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 704,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 705,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 705,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 706,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 706,
+      "pattern_name": "Wind-Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 707,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 707,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 708,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 708,
+      "pattern_name": "Heat in the Blood",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 709,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 709,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 710,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 710,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 711,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 711,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 713,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 713,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 716,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 716,
+      "pattern_name": "Heart Fire blazing",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 718,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 718,
+      "pattern_name": "Blood Stagnation with Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 832,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 832,
+      "pattern_name": "Damp-Heat in the Stomach",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 896,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 896,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 899,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 899,
+      "pattern_name": "Liver Qi Stagnation invading the Stomach",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 904,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 904,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 957,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 957,
+      "pattern_name": "Heat in the Large Intestine",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1018,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1018,
+      "pattern_name": "Cold-Phlegm",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1027,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1027,
+      "pattern_name": "Food Stagnation in the Stomach",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1076,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1076,
+      "pattern_name": "Qi Level Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1122,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1122,
+      "pattern_name": "Liver Fire Blazing",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1152,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1152,
+      "pattern_name": "Phlegm-Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1163,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1163,
+      "pattern_name": "Qi Deficiency causing Blood Stagnation",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1164,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1164,
+      "pattern_name": "Yang Excess",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1165,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1165,
+      "pattern_name": "Heat in the Blood",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1185,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1185,
+      "pattern_name": "Phlegm Fire harassing the Pericardium",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1187,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1187,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1216,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1216,
+      "pattern_name": "Stomach and Lung Yin Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1284,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1284,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1298,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1298,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1319,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1319,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1321,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1321,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1353,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1353,
+      "pattern_name": "Liver and Gallbladder Damp-Heat",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1412,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1412,
+      "pattern_name": "Full-Heat in the Small Intestine",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1455,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1455,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1566,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1566,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1588,
+      "pattern_name": "Stomach Fire (Stomach Heat)",
+      "formula_name": "Qing Wei San"
+    },
+    {
+      "condition_id": 1588,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Qing Wei San"
+    }
+  ]
+}

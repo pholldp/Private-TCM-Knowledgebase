@@ -1,0 +1,887 @@
+{
+  "id": 207,
+  "name": "อาการปวดหลัง",
+  "url": "/knowledge-base/conditions/back-pain",
+  "kind": "Symptom",
+  "pinyin": "yāo tòng",
+  "chinese_name": "腰痛",
+  "preview_text": "ประเภทของอาการปวดหลังบอกเล่าเรื่องราว - อาการปวดที่ถูกแทงคงที่ชี้ไปที่ภาวะเลือดซบเซา อาการปวดหนักและหนาวเย็นที่แย่ลงในสภาพอากาศชื้น บ่งบอกถึงการบุกรุกของลม-หนาว-ชื้น และอาการอื่นๆ",
+  "categories": "[\"ปัญหาหลังและคอ\", \"อาการปวดตามร่างกายทั่วไป\"]",
+  "body_regions": "[\"Back — Upper (Thoracic)\", \"Back — Lower (Lumbar)\", \"Back — Sacral\"]",
+  "synonyms": "[\"Backache\", \"Pain In The Back\", \"Back Ache\", \"Dorsalgia\", \"Sore Back\", \"Back pain or stiffness\", \"Pain radiating to the upper back\", \"Pulling pain between the shoulder blades\", \"Mild Back Ache Along the Spine\", \"Mild aching along the spine\", \"Sore Upper Back\", \"Soreness Along the Spine\", \"Spinal Pain with Stiffness on Turning\", \"Pain along the spine that is hard to turn\", \"Unilateral Back Pain\", \"Dull aching in the back on the affected side\", \"Shoulder and back pain\", \"Chronic back pain\"]",
+  "conventional_description": "Back pain is an extremely common complaint, with most adults experiencing it at some point. Western medicine typically classifies it by duration - acute (lasting less than 4 weeks), subacute (4 to 12 weeks), or chronic (more than 12 weeks) - and by cause, which often falls into mechanical problems like muscle or ligament strain, degenerative disc disease, herniated discs, or spinal stenosis, as well as less common inflammatory conditions like ankylosing spondylitis.\nDiagnosis relies on a physical exam and sometimes imaging (X-ray, MRI, CT) to rule out fractures, tumors, or nerve compression. The pain can range from a dull constant ache to a sharp shooting sensation that radiates into the buttock or leg, and it may be accompanied by muscle spasms or stiffness.",
+  "conventional_treatments": "Standard treatment usually begins with over-the-counter pain relievers like NSAIDs (ibuprofen, naproxen) or acetaminophen, and may progress to prescription muscle relaxants, nerve pain medications (gabapentin, pregabalin), or even opioids for severe acute pain. Physical therapy, stretching, and core-strengthening exercises are cornerstones of long-term management. For persistent or severe cases, corticosteroid injections, nerve blocks, or surgery (discectomy, laminectomy, spinal fusion) may be considered.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, the lower back is considered the \"mansion of the Kidneys.\" The Kidneys govern the bones and the lumbar spine, so any chronic or deep-seated back pain almost always involves a Kidney deficiency at its root. When the Kidney's warming Yang or nourishing Yin is depleted - through aging, overwork, or constitutional weakness - the back loses its foundational support and becomes prone to soreness, weakness, and susceptibility to external pathogens.\nBut the Kidneys are only part of the story. The smooth flow of Qi and Blood through the back's channels is just as important. An old injury, a sudden twist, or years of poor posture can create Blood Stagnation - a fixed, stabbing pain that feels worse with pressure and stays in one spot. Emotional stress and frustration can stagnate the Liver Qi, which in turn fails to push Blood smoothly, leading to a similar sharp, fixed pain. This is why two people with identical MRI findings can have completely different pain experiences.\nExternal factors also play a role. Wind, Cold, and Dampness can invade the body's channels and lodge in the lower back, creating a heavy, stiff ache that worsens in cold or rainy weather and improves with warmth. Dampness and Heat can combine to produce a burning, swollen sensation that feels hot to the touch. A TCM practitioner differentiates these patterns by listening carefully to the quality of the pain, examining the tongue and pulse, and asking about what makes it better or worse - then tailors the treatment to the specific pattern, not just the location.",
+  "classical_quote": "「寒氣客於脈外則脈寒，脈寒則縮踡，縮踡則脈絀急，絀急則外引小絡，故卒然而痛。」",
+  "classical_translation": "\"When cold Qi lodges outside the vessels, the vessels become cold; when vessels are cold, they contract and curl; contraction leads to vessel spasm, which then pulls on the small collaterals externally, causing sudden pain. This passage describes the mechanism of cold‑induced back pain through vessel constriction and Qi stagnation.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen (Yellow Emperor’s Inner Canon, Basic Questions)  ,  Chapter 39: Discussion on Pain (Ju Tong Lun) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner starts by asking what the pain actually feels like. A sharp, stabbing sensation that stays in one spot and hurts more when pressed points toward Blood Stagnation or Qi and Blood Stagnation. These patterns often follow a sudden injury, heavy lifting, or years of poor posture. The tongue looks dark purple and may show tiny stasis spots, while the pulse feels wiry, tight, or choppy.\nIf the back feels cold, heavy, and stiff, and damp or chilly weather makes it worse while a heating pad brings relief, the picture shifts to Wind-Cold-Damp invading the channels. The tongue is pale with a white, greasy coating, and the pulse is deep and tight or soft. People with this pattern often notice their pain flares before a rainstorm or in winter.\nWhen the pain carries a burning sensation, the area feels warm or swollen, and you are unusually thirsty with dark urine, the practitioner suspects Damp Heat in the channels. The tongue coating is yellow and greasy, and the pulse is rapid or wiry. This pattern tends to worsen in hot, humid conditions and may come with a general feeling of heaviness.\nChronic, dull soreness and weak, tired legs suggest the kidneys are not supporting the lower back properly. If you also feel cold, look pale, and tire easily, that points to Kidney Yang Deficiency, with a pale tongue and a deep, thready pulse. If instead the soreness comes with hot palms, night sweats, and a dry mouth, the pattern is Kidney Yin Deficiency, showing a red tongue with little coating and a thready, rapid pulse.",
+  "patterns": [
+    {
+      "id": 1042,
+      "condition_id": 207,
+      "pattern_name": "Blood Stagnation",
+      "pattern_slug": "blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain in one spot\", \"Pain worsens at night\", \"Pain is worse with pressure or touch\", \"Dark purple tongue with stasis spots\", \"History of trauma or chronic strain\", \"Skin may feel rough or dry over the painful area\"]",
+      "worse_with": "Prolonged sitting or inactivity, Cold, damp, or rainy weather, Sudden heavy lifting or injury, Emotional stress and frustration",
+      "better_with": "Gentle movement or stretching, Warm compress or warm bath, Massage or acupressure, Rest with legs slightly elevated",
+      "why_this_happens": "When blood flow in the back's channels is obstructed - often after an old injury, a sudden twist, or years of poor posture - the blood congeals and forms a fixed, stabbing pain. Because the back is the 'mansion of the Kidneys,' stagnant blood prevents fresh Qi and nourishment from reaching the spine and muscles, so the area feels stiff, tender, and unwilling to move.",
+      "tongue_and_pulse": "Tongue: dark purple or dusky body with stasis spots, distended dark sublingual veins, and a thin white coat. Pulse: choppy (Se) like a knife scraping bamboo, or wiry (Xian) if Qi stagnation is also present.",
+      "why_triggers_reliefs_work": "Blood stasis behaves like a traffic jam in the channels - stillness and cold make it congeal further, so prolonged sitting or cold weather intensify the fixed, stabbing pain. Gentle movement, warmth, and massage act like a gentle nudge to get blood flowing again, which is why symptoms ease with these habits. Stress tightens the Liver Qi, which can worsen the stagnation, so staying calm helps keep the channels open.",
+      "diet_and_lifestyle": "Keep the back warm and avoid prolonged sitting or standing. Gentle, consistent movement like walking or tai chi helps pump blood through the area without jarring it. Include small amounts of turmeric, ginger, and dark leafy greens in your meals, and limit cold, raw, or greasy foods that can congeal circulation.",
+      "formulas": [
+        {
+          "id": 2420,
+          "pattern_id": 1042,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "The classic formula to invigorate Blood, dispel stasis, and stop pain throughout the body, especially suited for fixed, stabbing back pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5539,
+          "pattern_id": 1042,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up stagnant blood and relieves fixed pain."
+        },
+        {
+          "id": 5540,
+          "pattern_id": 1042,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "",
+          "description": "Invigorates blood circulation and reduces stasis, often paired with Tao Ren."
+        },
+        {
+          "id": 5541,
+          "pattern_id": 1042,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves Blood and Qi in the channels, guiding the formula to the back."
+        },
+        {
+          "id": 5542,
+          "pattern_id": 1042,
+          "herb_name": "Mo Yao",
+          "herb_url": "/knowledge-base/herbs/mo-yao",
+          "translation": "Myrrh resin",
+          "properties": "",
+          "description": "Dispels blood stasis and alleviates pain, especially from trauma."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3720,
+          "pattern_id": 1042,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The influential point for Blood; used with reducing method to invigorate blood and break stasis."
+        },
+        {
+          "id": 3721,
+          "pattern_id": 1042,
+          "acupoint_code": "BL-32",
+          "acupoint_name": "Ciliao BL-32",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ciliao-bl-32",
+          "translation": "C&#xEC; Li&#xE1;o",
+          "properties": "Regulates the Lower Burner and facilitates urination and defecation, Resolves Dampness and regulates menstruation",
+          "description": "A local point for lower back pain that unblocks the channel and relieves stabbing pain."
+        },
+        {
+          "id": 3722,
+          "pattern_id": 1042,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Activates blood circulation and dispels stasis, especially useful if pain radiates to the legs."
+        },
+        {
+          "id": 3723,
+          "pattern_id": 1042,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes Blood and Qi, and supports the removal of stasis from the lower back."
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "condition_id": 207,
+      "pattern_name": "Qi And Blood Stagnation",
+      "pattern_slug": "qi-and-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed, stabbing pain that worsens with pressure\", \"Distending or tight sensation in the chest or ribs\", \"Irritability or mood swings\", \"Dark purplish tongue with stasis spots\"]",
+      "worse_with": "Emotional stress and frustration, Cold, damp, or rainy weather, Prolonged sitting or inactivity, Sudden heavy lifting or injury",
+      "better_with": "Gentle movement or stretching, Warm compress or warm bath, Relaxation and stress relief, Massage or acupressure",
+      "why_this_happens": "When Qi gets stuck - from emotional stress, poor posture, or an old injury - it can no longer push Blood smoothly through the channels of the back. The stagnant Blood then pools in a fixed spot, creating a sharp, stabbing pain that feels worse with pressure. Because the Liver is in charge of keeping Qi moving, frustration and tension often make the pain flare up.",
+      "tongue_and_pulse": "Tongue: dark purple body with stasis spots, distended sublingual veins. Pulse: wiry (弦 xián) and choppy (涩 sè).",
+      "why_triggers_reliefs_work": "Stress and frustration tighten the Liver Qi, which directly worsens the Qi stagnation at the root of this pain. Cold and immobility cause Blood to congeal and stagnate further, making the stabbing sensation sharper. Warmth, gentle movement, and relaxation all encourage Qi to flow and Blood to circulate, gradually easing the fixed pain.",
+      "diet_and_lifestyle": "Eat warm, cooked meals and avoid icy drinks or raw foods, which can congeal Blood. Gentle daily movement - like walking, yoga, or tai chi - keeps Qi and Blood flowing. Manage stress with breathing exercises or meditation, and avoid sitting for hours at a time.",
+      "formulas": [
+        {
+          "id": 2421,
+          "pattern_id": 1043,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "Invigorates Qi and Blood, dispels stasis, and stops pain - especially suited for body pain from Qi and Blood stagnation."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5543,
+          "pattern_id": 1043,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves both Qi and Blood, relieving stabbing pain in the back."
+        },
+        {
+          "id": 5544,
+          "pattern_id": 1043,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes and invigorates Blood, helping to break up stasis."
+        },
+        {
+          "id": 5545,
+          "pattern_id": 1043,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "",
+          "description": "Breaks up congealed Blood to ease fixed, stabbing pain."
+        },
+        {
+          "id": 5546,
+          "pattern_id": 1043,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "",
+          "description": "Spreads Liver Qi, releasing the emotional tension that worsens the pain."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3724,
+          "pattern_id": 1043,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The source point of the Liver channel; moves Qi to relieve stagnation and pain."
+        },
+        {
+          "id": 3725,
+          "pattern_id": 1043,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Combined with Taichong to powerfully move Qi and Blood throughout the body."
+        },
+        {
+          "id": 3726,
+          "pattern_id": 1043,
+          "acupoint_code": "BL-17",
+          "acupoint_name": "Geshu BL-17",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/geshu-bl-17",
+          "translation": "G&#xE9; Sh&#x16B;",
+          "properties": "Invigorates Blood, Cools Blood Heat and stops bleeding",
+          "description": "The Meeting point of Blood; invigorates Blood and dispels stasis."
+        },
+        {
+          "id": 3727,
+          "pattern_id": 1043,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Sea of Blood; activates circulation and clears stasis."
+        },
+        {
+          "id": 3728,
+          "pattern_id": 1043,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Local point on the back that strengthens the low back and promotes local Qi and Blood flow."
+        }
+      ]
+    },
+    {
+      "id": 1044,
+      "condition_id": 207,
+      "pattern_name": "Painful Obstruction with Wind-Cold-Damp",
+      "pattern_slug": "painful-obstruction-with-wind-cold-damp",
+      "is_common": 0,
+      "symptoms": "[\"Pain worsens in cold, damp, or rainy weather\", \"Pain relieved by warmth and gentle movement\", \"Heaviness or numbness in the back\", \"Stiffness and limited range of motion\", \"Aversion to cold or wind\", \"Swelling of affected area without redness or heat\"]",
+      "worse_with": "Cold, damp, or rainy weather, Prolonged sitting or inactivity, Cold drinks and raw foods, Drafts or air conditioning",
+      "better_with": "Warm compress or warm bath, Gentle movement or stretching, Dry, warm weather, Moxibustion on the lower back",
+      "why_this_happens": "When Wind, Cold, and Dampness invade the body, they can lodge in the meridians of the back. Cold contracts and tightens the channels, while Dampness is heavy and sticky, creating a sluggish, obstructed flow of Qi and Blood. This combination leads to a deep, aching pain that feels stiff and heavy, and it flares up whenever the weather turns cold or wet.",
+      "tongue_and_pulse": "Tongue: pale, slightly swollen body with teeth marks and a white greasy coating. Pulse: wiry and tight (弦紧, xián jǐn), or slow (迟, chí) and soggy (濡, rú) if Dampness predominates.",
+      "why_triggers_reliefs_work": "Cold and Dampness are Yin pathogens that congeal and obstruct the flow of Qi and Blood through the back meridians. When the body is warmed-through external heat, warm food, or gentle movement-the Cold dissipates and the Dampness thins, allowing the channels to open and pain to ease. Stagnation worsens with stillness and cold, so staying active and warm is essential.",
+      "diet_and_lifestyle": "Keep the back warm and dry, especially in damp or windy weather. Wear a belly-band or lumbar support. Add warming spices like ginger, cinnamon, and black pepper to meals, and sip ginger tea daily. Gentle stretching, walking, or Tai Chi helps keep Qi moving without overstraining.",
+      "formulas": [
+        {
+          "id": 2422,
+          "pattern_id": 1044,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "The classic formula to dispel Wind-Cold-Damp, strengthen the sinews and bones, and ease lower back pain."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5547,
+          "pattern_id": 1044,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "",
+          "description": "Reaches the lower back to dispel Wind-Cold-Damp and relieve pain."
+        },
+        {
+          "id": 5548,
+          "pattern_id": 1044,
+          "herb_name": "Sang Ji Sheng",
+          "herb_url": "/knowledge-base/herbs/sang-ji-sheng",
+          "translation": "Mulberry Mistletoe",
+          "properties": "",
+          "description": "Nourishes the Liver and Kidney to strengthen tendons and bones."
+        },
+        {
+          "id": 5549,
+          "pattern_id": 1044,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Warms the Kidney and fortifies the lower back."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3729,
+          "pattern_id": 1044,
+          "acupoint_code": "DU-3",
+          "acupoint_name": "Yaoyangguan DU-3",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/yaoyangguan-du-3",
+          "translation": "Y&#x101;o Y&#xE1;ng Gu&#x101;n",
+          "properties": "Strengthens the lower back and legs, Tonifies Yang",
+          "description": "Warms the Yang and disperses Cold from the lumbar region."
+        },
+        {
+          "id": 3730,
+          "pattern_id": 1044,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Strengthens the Kidney Yang and ignites the body&#x27;s internal warmth."
+        },
+        {
+          "id": 3731,
+          "pattern_id": 1044,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies the Kidney and resolves Dampness in the lower back."
+        }
+      ]
+    },
+    {
+      "id": 1045,
+      "condition_id": 207,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "pattern_slug": "painful-obstruction-due-to-damp-heat-in-channels",
+      "is_common": 0,
+      "symptoms": "[\"Burning pain in the back, worse with heat and better with cold\", \"Redness and swelling that feels hot to the touch\", \"Heavy, aching sensation in the back\", \"Thirst with desire to drink\", \"Dark, scanty urine\", \"Irritability and restlessness\"]",
+      "worse_with": "Hot, humid weather, Warm compresses or heating pads, Spicy, greasy or fried foods, Alcohol, Strenuous exercise in heat",
+      "better_with": "Cold compresses, Cool, dry environment, Avoiding heavy, greasy foods, Gentle stretching in a cool place, Drinking plenty of water",
+      "why_this_happens": "Dampness and Heat are two pathogenic factors that combine and sink into the channels and joints of the back, creating a sticky, hot obstruction. This blockage prevents Qi and Blood from flowing smoothly, leading to local inflammation, burning pain, redness, and swelling that feels hot to the touch.\nThe back feels heavy and aching because Dampness weighs down the tissues, while Heat intensifies the pain and makes it worse with warmth. The body tries to cool itself, so thirst and dark, scanty urine often appear as signs of internal Heat.",
+      "tongue_and_pulse": "Tongue: red body, possibly slightly swollen, with a yellow greasy coating. Pulse: slippery and rapid, and may also be soggy or wiry.",
+      "why_triggers_reliefs_work": "Damp-Heat is a combination of pathogenic Dampness and Heat. Heat and humidity worsen the condition by adding more Heat and Dampness to the already obstructed channels, while cold applications temporarily cool the obstruction and relieve pain. Greasy, spicy foods and alcohol generate internal Damp-Heat, directly fueling the pattern. Cooling, damp-draining foods and a cool environment help clear these pathogenic factors, unblocking the channels and allowing Qi and Blood to flow freely again.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods, as well as alcohol, which generate Damp-Heat. Focus on cooling, damp-draining foods like barley, mung beans, cucumber, and celery. Stay in a cool, dry environment, and avoid hot baths, saunas, and prolonged sun exposure. Gentle movement like tai chi or walking can help circulate Qi, but avoid heavy exertion that generates excessive heat.",
+      "formulas": [
+        {
+          "id": 2423,
+          "pattern_id": 1045,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "The classic formula for Damp-Heat painful obstruction; it clears Heat, dries Dampness, and unblocks the channels, specifically targeting the lower back and legs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5550,
+          "pattern_id": 1045,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, especially from the lower body, reducing burning pain and swelling."
+        },
+        {
+          "id": 5551,
+          "pattern_id": 1045,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens the Spleen to prevent further Damp accumulation, easing the heavy, aching sensation."
+        },
+        {
+          "id": 5552,
+          "pattern_id": 1045,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "",
+          "description": "Drains Dampness, clears Heat, and relaxes the sinews, helping to relieve stiffness and pain."
+        },
+        {
+          "id": 5553,
+          "pattern_id": 1045,
+          "herb_name": "Chuan Niu Xi",
+          "herb_url": "/knowledge-base/herbs/chuan-niu-xi",
+          "translation": "Cyathula root",
+          "properties": "",
+          "description": "Guides the formula to the lower back and legs, invigorates Blood and unblocks the channels."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3732,
+          "pattern_id": 1045,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Local point that strengthens the Kidney and relieves back pain; often used with reducing method to clear Damp-Heat."
+        },
+        {
+          "id": 3733,
+          "pattern_id": 1045,
+          "acupoint_code": "BL-25",
+          "acupoint_name": "Dachangshu BL-25",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/dachangshu-bl-25",
+          "translation": "D&#xE0; Ch&#xE1;ng Sh&#x16B;",
+          "properties": "Regulates the Large Intestine, Removes Qi Stagnation in the Large Intestine",
+          "description": "Local point for the lumbar region, unblocks the channel and alleviates pain."
+        },
+        {
+          "id": 3734,
+          "pattern_id": 1045,
+          "acupoint_code": "BL-40",
+          "acupoint_name": "Weizhong BL-40",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/weizhong-bl-40",
+          "translation": "W&#x11B;i Zh&#x14D;",
+          "properties": "Cools the blood, Clears Summer-Heat",
+          "description": "Command point of the back that clears Heat and Dampness from the entire spine and lower back."
+        },
+        {
+          "id": 3735,
+          "pattern_id": 1045,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves Dampness throughout the body, especially useful for heavy, swollen sensations."
+        },
+        {
+          "id": 3736,
+          "pattern_id": 1045,
+          "acupoint_code": "LI-11",
+          "acupoint_name": "Quchi LI-11",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/quchi-li-11",
+          "translation": "Q&#x16B; Ch&#xED;",
+          "properties": "Clears Heat, Cools the Blood",
+          "description": "Clears Heat from the body, helping to cool the burning pain."
+        }
+      ]
+    },
+    {
+      "id": 1046,
+      "condition_id": 207,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Cold, aching pain in the lower back and knees\", \"Feeling cold, especially in the lower back and legs\", \"Frequent urination, especially at night\", \"Fatigue and low spirits\", \"Pale complexion\"]",
+      "worse_with": "Cold, damp, or rainy weather, Overwork or prolonged standing, Cold drinks and raw foods, Fatigue and lack of rest",
+      "better_with": "Rest and lying down, Warm compress or warm bath, Gentle movement or stretching, Warm, cooked foods and drinks",
+      "why_this_happens": "The Kidneys govern the bones and the lower back. When Kidney Yang is deficient, the warming and nourishing function of the body's internal fire weakens, leaving the lumbar region cold and undernourished. This results in a chronic, dull, aching pain that feels better with warmth and rest, and worse after exertion or in cold weather.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks, wet white coating. Pulse: deep, slow, and weak, especially at the Chi (third) position.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's internal fire that warms the lower back. Cold and overwork drain this fire, leaving the back aching and weak. Rest and warmth conserve and replenish Yang, gently restoring the warmth that eases the pain.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like stews with lamb, ginger, walnuts, and black beans. Avoid icy drinks, raw salads, and cold-natured foods. Keep your lower back warm with a heat pack or a wool wrap, and practice gentle movement like tai chi or walking to support circulation without overexertion.",
+      "formulas": [
+        {
+          "id": 2424,
+          "pattern_id": 1046,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The classic formula to warm and tonify Kidney Yang, strengthening the lower back and dispelling cold."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5554,
+          "pattern_id": 1046,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "",
+          "description": "Warms and strengthens the Kidneys and lower back, a key herb for chronic back pain."
+        },
+        {
+          "id": 5555,
+          "pattern_id": 1046,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Warms Kidney Yang and dispels interior cold, relieving cold pain."
+        },
+        {
+          "id": 5556,
+          "pattern_id": 1046,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Nourishes Liver and Kidney Yin to support the lower back and knees."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3737,
+          "pattern_id": 1046,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Directly warms the Gate of Life Fire and strengthens the lumbar spine."
+        },
+        {
+          "id": 3738,
+          "pattern_id": 1046,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and Yang, a primary point for lower back pain."
+        },
+        {
+          "id": 3739,
+          "pattern_id": 1046,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Warms the lower burner and fortifies the body&#x27;s root Yang."
+        },
+        {
+          "id": 3740,
+          "pattern_id": 1046,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel, nourishes and warms Kidney Yang."
+        }
+      ]
+    },
+    {
+      "id": 1047,
+      "condition_id": 207,
+      "pattern_name": "Kidney Yin Deficiency",
+      "pattern_slug": "kidney-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull, sore lower back pain\", \"Worse with overwork or prolonged standing\", \"Better with rest\", \"Night sweats\", \"Hot palms and soles\", \"Dry mouth and throat\", \"Dizziness or ringing in the ears\", \"Weakness in the knees\"]",
+      "worse_with": "Overwork or prolonged standing, Spicy, greasy or fried foods, Emotional stress and frustration, Hot dry weather, Insufficient sleep",
+      "better_with": "Rest and lying down, Gentle movement or stretching, Cool, moist foods, Adequate sleep, Cooling environments",
+      "why_this_happens": "The Kidneys store essence (精, jīng) that nourishes the bones and lower back. When Kidney Yin is depleted-often from overwork, aging, or chronic stress-the spine and lumbar region lose their foundational support. This leaves the back chronically sore and weak, not sharp or stabbing. The empty Yin also allows deficiency Heat to rise, which can cause night sweats and a vague warm discomfort.",
+      "tongue_and_pulse": "Tongue: red, thin body with little or no coating, dry surface, possible cracks. Pulse: fine (thready) and rapid, weak at the left chi (rear) position.",
+      "why_triggers_reliefs_work": "Overwork and prolonged standing consume Kidney Yin, depriving the back of nourishment and worsening soreness. Rest and lying down allow Yin to recover and the back to be supported. Spicy, drying foods generate internal heat that consumes Yin, while cooling, moist foods replenish it. Emotional stress disturbs the Heart and Liver, which can further deplete Kidney Yin through the five-element cycle. Adequate sleep is essential for Yin restoration.",
+      "diet_and_lifestyle": "Eat cooling, moistening foods like black sesame, walnuts, goji berries, pears, and black beans. Avoid spicy, fried, and drying foods that consume Yin. Prioritize rest and gentle movement like Tai Chi; avoid overwork and prolonged standing, which drain the Kidneys further.",
+      "formulas": [
+        {
+          "id": 2425,
+          "pattern_id": 1047,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "Deeply nourishes Kidney Yin and essence, strengthening the lower back and bones."
+        },
+        {
+          "id": 2426,
+          "pattern_id": 1047,
+          "formula_name": "Shen Tong Zhu Yu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-tong-zhu-yu-tang",
+          "translation": "Body Pain Stasis-Expelling Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Alleviates Pain, Moves Qi and Alleviates Pain",
+          "description": "A classical formula for chronic body pain that has not responded to other treatments. It promotes blood circulation and opens the body&#x27;s channels to relieve stubborn pain in the shoulders, arms, lower back, legs, or throughout the whole body, especially when caused by blood stagnation combined with Wind and Dampness."
+        },
+        {
+          "id": 2427,
+          "pattern_id": 1047,
+          "formula_name": "Du Huo Ji Sheng Tang",
+          "formula_url": "/knowledge-base/formulas/du-huo-ji-sheng-tang",
+          "translation": "Pubescent Angelica and Taxillus Decoction &#xB7; T&#xE1;ng dynasty, 652 CE",
+          "properties": "Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Supplements the Liver and Kidneys",
+          "description": "A classical formula for chronic joint and lower back pain caused by long-term exposure to cold and dampness, combined with underlying weakness of the Liver, Kidneys, Qi, and Blood. It works on two fronts: expelling cold, wind, and dampness from the joints and sinews while also strengthening the body&#x27;s constitution to prevent recurrence. It is especially suited for older adults or anyone whose pain has persisted for a long time and is accompanied by weakness, stiffness, or numbness in the lower body."
+        },
+        {
+          "id": 2428,
+          "pattern_id": 1047,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "A classical four-herb formula used to clear heat and dampness from the lower body. It is commonly applied for hot, swollen, painful joints (especially in the knees and feet), lower limb weakness, and conditions like gout and eczema that involve a combination of inflammation and heavy, waterlogged tissue. The formula works by cooling inflammation, drying excess moisture, strengthening digestion to stop dampness at its source, and directing the formula&#x27;s effects downward to the legs and lower body."
+        },
+        {
+          "id": 2429,
+          "pattern_id": 1047,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        },
+        {
+          "id": 2430,
+          "pattern_id": 1047,
+          "formula_name": "Zuo Gui Wan",
+          "formula_url": "/knowledge-base/formulas/zuo-gui-wan",
+          "translation": "Restore the Left Pill &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Nourishes Kidney Yin, Benefits Essence and Fills the Marrow, Nourishes Blood",
+          "description": "A classical formula designed to deeply nourish Kidney Yin and replenish the body&#x27;s vital essence and marrow. It is used when there is significant depletion of the body&#x27;s fundamental nourishing fluids and substances, leading to symptoms such as dizziness, lower back and knee weakness, night sweats, dry mouth and throat, and a general state of thinning or exhaustion. Unlike milder Yin-nourishing formulas, Zuo Gui Wan is a purely replenishing formula without any draining ingredients, making it suitable for more severe deficiency."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5557,
+          "pattern_id": 1047,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Richly nourishes Kidney Yin and essence to anchor the lower back."
+        },
+        {
+          "id": 5558,
+          "pattern_id": 1047,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "",
+          "description": "Tonifies Liver and Kidney Yin, relieving soreness and weakness."
+        },
+        {
+          "id": 5559,
+          "pattern_id": 1047,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "",
+          "description": "Stabilizes Kidney essence and prevents further leakage of Yin."
+        },
+        {
+          "id": 5560,
+          "pattern_id": 1047,
+          "herb_name": "Tao Ren",
+          "herb_url": "/knowledge-base/herbs/tao-ren",
+          "translation": "Peach kernel",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Moistens the Intestines and Unblocks the Bowels, Stops Cough and Calms Wheezing",
+          "description": ""
+        },
+        {
+          "id": 5561,
+          "pattern_id": 1047,
+          "herb_name": "Hong Hua",
+          "herb_url": "/knowledge-base/herbs/hong-hua",
+          "translation": "Safflower flower",
+          "properties": "Warm, Invigorates Blood and Regulates Menstruation, Invigorates Blood and Alleviates Pain, Disperses Fixed Masses",
+          "description": ""
+        },
+        {
+          "id": 5562,
+          "pattern_id": 1047,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        },
+        {
+          "id": 5563,
+          "pattern_id": 1047,
+          "herb_name": "Mo Yao",
+          "herb_url": "/knowledge-base/herbs/mo-yao",
+          "translation": "Myrrh resin",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Alleviates Pain, Reduces Swelling",
+          "description": ""
+        },
+        {
+          "id": 5564,
+          "pattern_id": 1047,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 5565,
+          "pattern_id": 1047,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 5566,
+          "pattern_id": 1047,
+          "herb_name": "Du Huo",
+          "herb_url": "/knowledge-base/herbs/du-huo",
+          "translation": "Pubescent angelica root",
+          "properties": "Slightly Warm, Dispels Wind-Dampness, Relieves Painful Obstruction, Releases the Exterior",
+          "description": ""
+        },
+        {
+          "id": 5567,
+          "pattern_id": 1047,
+          "herb_name": "Sang Ji Sheng",
+          "herb_url": "/knowledge-base/herbs/sang-ji-sheng",
+          "translation": "Mulberry Mistletoe",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Dispels Wind-Dampness",
+          "description": ""
+        },
+        {
+          "id": 5568,
+          "pattern_id": 1047,
+          "herb_name": "Du Zhong",
+          "herb_url": "/knowledge-base/herbs/du-zhong",
+          "translation": "Eucommia bark",
+          "properties": "Warm, Nourishes Liver and Kidney Yin, Strengthens the Sinews and Bones, Calms the Fetus",
+          "description": ""
+        },
+        {
+          "id": 5569,
+          "pattern_id": 1047,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 5570,
+          "pattern_id": 1047,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 5571,
+          "pattern_id": 1047,
+          "herb_name": "Yi Yi Ren",
+          "herb_url": "/knowledge-base/herbs/yi-yi-ren",
+          "translation": "Job&#x27;s Tears seed",
+          "properties": "Cool, Promotes Urination and Drains Dampness, Strengthens the Spleen and Stops Diarrhea, Dispels Wind-Dampness and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 5572,
+          "pattern_id": 1047,
+          "herb_name": "Chuan Niu Xi",
+          "herb_url": "/knowledge-base/herbs/chuan-niu-xi",
+          "translation": "Cyathula root",
+          "properties": "Neutral, Invigorates Blood and Dispels Stasis, Promotes Menstruation, Frees the Joints and Channels",
+          "description": ""
+        },
+        {
+          "id": 5573,
+          "pattern_id": 1047,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 5574,
+          "pattern_id": 1047,
+          "herb_name": "Gou Qi Zi",
+          "herb_url": "/knowledge-base/herbs/gou-qi-zi",
+          "translation": "Chinese Wolfberry Fruit",
+          "properties": "Neutral, Nourishes Liver and Kidney Yin, Benefits Essence and Fills the Marrow, Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 5575,
+          "pattern_id": 1047,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 5576,
+          "pattern_id": 1047,
+          "herb_name": "Shan Zhu Yu",
+          "herb_url": "/knowledge-base/herbs/shan-zhu-yu",
+          "translation": "Cornelian Cherry Fruit",
+          "properties": "Slightly Warm, Nourishes Liver and Kidney Yin, Secures Essence and Stops Seminal Emission, Rescues Devastated Yang from Collapse",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 3741,
+          "pattern_id": 1047,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies the Kidneys and directly benefits the lumbar region."
+        },
+        {
+          "id": 3742,
+          "pattern_id": 1047,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Source point of the Kidney channel, nourishes Yin and essence."
+        },
+        {
+          "id": 3743,
+          "pattern_id": 1047,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Clears deficiency Heat and calms the mind while supporting Kidney Yin."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1328,
+      "condition_id": 207,
+      "question": "Does acupuncture hurt for back pain?",
+      "answer": "Most people feel only a brief pinch as the needle is inserted, followed by a dull ache, warmth, or tingling - signs that the Qi is responding. For back pain, the relief often begins during the treatment itself, and many patients find the experience deeply relaxing."
+    },
+    {
+      "id": 1329,
+      "condition_id": 207,
+      "question": "How many acupuncture sessions will I need for my back pain?",
+      "answer": "Acute pain from a recent strain or injury may respond in just a few sessions, while chronic or deep-seated patterns often require 8-12 weekly treatments to see lasting change. Your practitioner will reassess your progress regularly and adjust the frequency as your back strengthens."
+    },
+    {
+      "id": 1330,
+      "condition_id": 207,
+      "question": "Can I combine TCM with my current pain medication or physical therapy?",
+      "answer": "Yes, TCM integrates well with most conventional treatments. Acupuncture and herbs can be safely used alongside NSAIDs, muscle relaxants, and physical therapy. However, some Blood-moving herbs (like Dang Gui or Chuan Xiong) may interact with anticoagulants, so always keep both your TCM practitioner and prescribing doctor informed of everything you're taking."
+    },
+    {
+      "id": 1331,
+      "condition_id": 207,
+      "question": "Is TCM safe for back pain during pregnancy?",
+      "answer": "Acupuncture is generally considered safe during pregnancy when performed by a qualified practitioner, and it's often used for pregnancy-related back pain. Certain acupuncture points and herbs are avoided because they can stimulate contractions, so it's essential to tell your practitioner you are pregnant before any treatment begins."
+    },
+    {
+      "id": 1332,
+      "condition_id": 207,
+      "question": "Will I need to change my diet to help my back pain?",
+      "answer": "Dietary adjustments can support healing, though they're rarely the whole solution. In general, warm, cooked foods are favored over cold, raw items to avoid introducing Dampness and Cold into the body. Your practitioner may offer more specific guidance based on your pattern - for example, avoiding greasy, spicy foods if Damp Heat is involved, or including bone broths and kidney-nourishing foods like black beans and walnuts for Kidney deficiency."
+    },
+    {
+      "id": 1333,
+      "condition_id": 207,
+      "question": "Can TCM help with sciatica or pain that goes down my leg?",
+      "answer": "Yes. Sciatica is often a manifestation of back pain patterns, especially Blood Stagnation or Cold-Damp obstruction that travels along the Gallbladder or Bladder channels into the leg. Acupuncture points along these channels, combined with herbs that move Blood and dispel Dampness, frequently relieve both the back and leg pain."
+    }
+  ],
+  "research": [
+    {
+      "id": 311,
+      "condition_id": 207,
+      "title": "Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis",
+      "description": "This landmark meta-analysis pooled raw data from 20,827 patients across 39 trials. It found that acupuncture was superior to both sham acupuncture and no-acupuncture controls for chronic pain conditions, including back pain. The effect was sustained over 12 months, confirming that acupuncture is more than a placebo.",
+      "url": "https://doi.org/10.1016/j.jpain.2017.11.005",
+      "periodical": "Vickers AJ, Vertosick EA, Lewith G, et al. Acupuncture for Chronic Pain: Update of an Individual Patient Data Meta-Analysis. J Pain. 2018;19(5):455-474."
+    },
+    {
+      "id": 312,
+      "condition_id": 207,
+      "title": "A Randomized Trial Comparing Acupuncture, Simulated Acupuncture, and Usual Care for Chronic Low Back Pain",
+      "description": "In this 638-patient RCT, both acupuncture and simulated acupuncture produced significantly greater improvement in back-related dysfunction than usual care alone at 8 weeks. The benefits persisted at 1 year, supporting acupuncture's role as a safe, effective option for chronic low back pain.",
+      "url": "https://doi.org/10.1001/archinternmed.2009.78",
+      "periodical": "Cherkin DC, Sherman KJ, Avins AL, et al. A Randomized Trial Comparing Acupuncture, Simulated Acupuncture, and Usual Care for Chronic Low Back Pain. Arch Intern Med. 2009;169(9):858-866."
+    },
+    {
+      "id": 313,
+      "condition_id": 207,
+      "title": "Chinese Herbal Medicine for Chronic Low Back Pain: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "description": "This systematic review included 15 RCTs with 1,500 participants. It concluded that Chinese herbal medicine, especially formulas containing Du Huo and Du Zhong, significantly reduced pain intensity and improved function compared to placebo or conventional analgesics. The authors noted a need for larger, more rigorous trials.",
+      "url": "",
+      "periodical": "Liu X, Machado GC, Eyles JP, et al. Chinese Herbal Medicine for Chronic Low Back Pain: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Complement Ther Med. 2019;44:182-192."
+    }
+  ]
+}

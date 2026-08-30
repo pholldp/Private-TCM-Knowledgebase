@@ -1,0 +1,726 @@
+{
+  "id": 117,
+  "name": "Ling Gui Zhu Gan Tang",
+  "chinese_name": "苓桂术甘汤",
+  "english_name": "Poria, Cinnamon Twig, Atractylodes, and Licorice Decoction",
+  "url": "/knowledge-base/formulas/ling-gui-zhu-gan-tang",
+  "summary": "A classical four-herb formula used to address dizziness, heart palpitations, chest fullness, and shortness of breath caused by a weak digestive system failing to properly process fluids. It gently warms the body and helps move excess fluid accumulation, particularly when someone feels heavy, waterlogged, or dizzy upon standing.",
+  "categories": "[\"Dampness-drying and Phlegm-transforming formulas\", \"Warming and transforming water-dampness formulas\"]",
+  "tcm_actions": "[\"Warms Yang and Transforms Fluid Retention\", \"Strengthens the Spleen and Resolves Dampness\", \"Subdues Rushing Qi (Ben Tun)\", \"Resolves Phlegm-Fluid Retention\"]",
+  "therapeutic_focus": "[\"Dizziness and Vertigo\", \"Cardiovascular Health\", \"Digestive Health\", \"Respiratory Health\"]",
+  "target_organs": "[\"Spleen\", \"Heart\", \"Lungs\", \"Urinary Bladder\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Jin Gui Yao Lue (金匮要略) by Zhang Zhongjing",
+  "conditions": "[\"Dizziness\", \"Palpitations\", \"Chronic Bronchitis\", \"Asthma\", \"Congestive Heart Failure\", \"Edema\", \"Chronic Gastritis\", \"Obesity\", \"Fatty Liver\"]",
+  "patterns": "[]",
+  "other_names": "[\"Fu Ling Gui Zhi Bai Zhu Gan Cao Tang (茯苓桂枝白术甘草汤, Poria, Cinnamon Twig, White Atractylodes, and Licorice Decoction)\", \"Gui Ling Gan Zhu Tang (桂苓甘术汤)\"]",
+  "pregnancy": "Use with caution during pregnancy. Gui Zhi (Cinnamon Twig) is warming and promotes circulation, which is generally acceptable in moderate doses, but Gan Cao (Licorice, specifically glycyrrhizin) has been associated with potential corticosteroid-like and estrogenic effects. Research suggests high-dose or prolonged licorice intake during pregnancy may increase the risk of preterm delivery and may stimulate the fetal hypothalamic-pituitary-adrenal axis. While the dose of Zhi Gan Cao in this formula is relatively small (6g), pregnant women should consult a qualified practitioner before use. Not absolutely contraindicated, but caution is warranted.",
+  "breastfeeding": "Generally considered compatible with breastfeeding. The four herbs in this formula (Fu Ling, Gui Zhi, Bai Zhu, Zhi Gan Cao) are mild and commonly used in postpartum care. Fu Ling and Bai Zhu are frequently included in formulas to support Spleen function during lactation. Gan Cao (Licorice) at the low dose in this formula (6g) is unlikely to cause problems, though prolonged high-dose licorice use could theoretically affect electrolyte balance. No specific adverse effects on breast milk or nursing infants have been documented for this formula. As always, use under practitioner guidance.",
+  "children": "This formula can be used in children with appropriate dosage reduction. As a general guideline: children aged 6-12 may receive approximately half the adult dose; children aged 2-6 may receive one-quarter to one-third the adult dose. Infants under 2 should only receive this formula under close practitioner supervision. The herbs in this formula are mild and well-tolerated. Gui Zhi (Cinnamon Twig) is warm but not harsh, and Fu Ling is gentle enough for pediatric use. For children who resist the taste, the decoction can be given in small, frequent sips. Monitor for any signs of excessive dryness or thirst, which would indicate the formula may be too warming.",
+  "drug_interactions": "Gan Cao (Licorice) interactions: The Zhi Gan Cao (honey-processed Licorice) in this formula contains glycyrrhizic acid, which has well-documented drug interactions:\n- Cardiac glycosides (digoxin): Licorice can promote potassium loss, increasing sensitivity to digoxin and raising the risk of digoxin toxicity and cardiac arrhythmias. Concurrent use should be avoided or closely monitored.\n- Potassium-depleting diuretics (furosemide, thiazides): Licorice's mineralocorticoid-like effects compound with these diuretics to increase the risk of hypokalemia. Electrolytes should be monitored if combined.\n- Antihypertensive drugs: Licorice can cause sodium and water retention, potentially reducing the effectiveness of blood pressure medications.\n- Hypoglycemic agents (insulin, metformin, sulfonylureas): Glycyrrhizic acid has glucocorticoid-like activity that can raise blood sugar, potentially counteracting diabetes medications.\n- Warfarin: Licorice may interact with warfarin metabolism, potentially altering its anticoagulant effect. Monitoring of INR is advised.\n- Corticosteroids: Licorice inhibits cortisol metabolism, potentially increasing steroid blood levels and side effects.\nGui Zhi (Cinnamon Twig): Contains cinnamaldehyde, which has mild blood-thinning properties. Theoretically, it may have an additive effect with anticoagulant or antiplatelet drugs, though clinical significance at standard formula doses is uncertain.",
+  "best_time_to_take": "Divide into three doses taken warm throughout the day, ideally 30 minutes before meals or between meals on a relatively empty stomach. The classical instruction specifies \"fen wen san fu\" (分温三服), meaning to divide into three portions and take warm.",
+  "typical_duration": "Typically prescribed for 1 to 4 weeks for acute fluid retention episodes, then reassessed. Chronic conditions (recurrent dizziness, palpitations from phlegm-fluid) may require intermittent courses of 4 to 8 weeks with periodic reassessment.",
+  "dietary_advice": "Avoid cold, raw, and icy foods and beverages, as they further burden the Spleen Yang that this formula is working to restore. Reduce intake of greasy, oily, and heavy foods that promote dampness and phlegm. Minimize dairy products and excessively sweet foods, which can generate dampness. Favor warm, easily digestible foods such as congee (rice porridge), cooked grains, lightly steamed vegetables, ginger tea, and mild soups. Small, frequent meals are better than large heavy ones. The classical instruction after taking this formula notes that \"urination should become free,\" so adequate (but not excessive) warm fluid intake supports the formula's action.",
+  "ingredients": [
+    {
+      "herb_name": "Fu Ling",
+      "english_name": "Poria",
+      "role": "King",
+      "dosage": "12 - 20g"
+    },
+    {
+      "herb_name": "Gui Zhi",
+      "english_name": "Cinnamon twig",
+      "role": "Deputy",
+      "dosage": "9 - 15g"
+    },
+    {
+      "herb_name": "Bai Zhu",
+      "english_name": "White Atractylodes rhizome",
+      "role": "Assistant",
+      "dosage": "6 - 10g"
+    },
+    {
+      "herb_name": "Gan Cao",
+      "english_name": "Licorice root",
+      "role": "Envoy",
+      "dosage": "6g"
+    }
+  ],
+  "research": [
+    {
+      "id": 244,
+      "formula_id": 117,
+      "title": "Systematic Review and Meta-Analysis: Linggui Zhugan Decoction for Premature Contraction in Coronary Heart Disease (2022)",
+      "description": "This systematic review evaluated randomized controlled trials on Ling Gui Zhu Gan Tang as an adjunct to conventional antiarrhythmic drugs for premature beats in coronary heart disease patients. Results suggested that the combination was more effective than antiarrhythmic drugs alone, with acceptable safety.",
+      "url": "",
+      "periodical": "Liu L, Zhao Y, Birling Y, Sun Y, Shang Q, Hu ZJ, Liu J, Liu Z. Frontiers in Cardiovascular Medicine. 2022;9:1002378."
+    },
+    {
+      "id": 245,
+      "formula_id": 117,
+      "title": "Clinical Evidence and Potential Mechanisms for Management of Serum Lipids and Obesity: Systematic Review with Network Pharmacology (2022)",
+      "description": "This study combined a meta-analysis of RCTs with network pharmacology to evaluate the formula's effects on blood lipids and obesity. The clinical evidence suggested benefits for reducing triglycerides, total cholesterol, and body weight. Network analysis identified potential targets related to lipid metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35602812/",
+      "periodical": "Huang J, Zhao L, Sun J, et al. Evidence-Based Complementary and Alternative Medicine. 2022;2022:7714034."
+    },
+    {
+      "id": 246,
+      "formula_id": 117,
+      "title": "RCT: Modified Linggui Zhugan Decoction with Very Low Calorie Diets on Cardiovascular Risk Factors in Obese IGT Patients (2012)",
+      "description": "An RCT of 85 obese patients with impaired glucose tolerance found that a modified version of the formula combined with short-term calorie restriction improved blood glucose, lipids, blood pressure, BMI, and waist circumference more effectively than basic weight-reduction treatment alone over 6 months.",
+      "url": "",
+      "periodical": "Journal of Traditional Chinese Medicine. 2012;32(2):193-198."
+    },
+    {
+      "id": 247,
+      "formula_id": 117,
+      "title": "Preclinical: Ling-Gui-Zhu-Gan Decoction Ameliorates NAFLD via Modulating Gut Microbiota (2023)",
+      "description": "An animal study in high-fat-diet mice demonstrated that the formula significantly improved liver function, reduced lipid accumulation, restored gut microbiota diversity, and modulated bile acid metabolism. The formula activated the PPAR signaling pathway and improved intestinal barrier function.",
+      "url": "",
+      "periodical": "Microbiology Spectrum (ASM). 2023."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 29,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 41,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 43,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 61,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 86,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 101,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 121,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 122,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 123,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 126,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 131,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 141,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 175,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 181,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 208,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 245,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 280,
+      "name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "pattern_id": 280,
+      "name": "Ling Gui Zhu Gan Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 51,
+      "pattern_name": "Phlegm-Fluids in the limbs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 51,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 133,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 133,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 133,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 133,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 136,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 136,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 144,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 144,
+      "pattern_name": "Cold-Damp invading the Spleen",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 147,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 147,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 154,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 154,
+      "pattern_name": "Qi Stagnation in Gallbladder and Stomach with Phlegm Heat",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 327,
+      "pattern_name": "Phlegm in the Lower Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 327,
+      "pattern_name": "Phlegm in the Lower Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 358,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 358,
+      "pattern_name": "Phlegm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 423,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 423,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 424,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 424,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 426,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 426,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 473,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 473,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 524,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 524,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 572,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 572,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 574,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 574,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 574,
+      "pattern_name": "Exterior-Heat",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 576,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 576,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 578,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 578,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 590,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 590,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 592,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 592,
+      "pattern_name": "Heart Blood Stagnation",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 594,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 594,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 625,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 625,
+      "pattern_name": "Lung Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 631,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 631,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 649,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 649,
+      "pattern_name": "Phlegm clogging the Lungs with Qi Stagnation",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 861,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 861,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 964,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 964,
+      "pattern_name": "Cold-Phlegm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 986,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 986,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 989,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 989,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1016,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1016,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1073,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1073,
+      "pattern_name": "Kidneys failing to receive Qi",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1093,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1093,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1112,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1112,
+      "pattern_name": "Yin and Blood Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1118,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1118,
+      "pattern_name": "Stomach Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1123,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1123,
+      "pattern_name": "Liver Fire insulting the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1182,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1182,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1212,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1212,
+      "pattern_name": "Stomach Yang Deficient and Cold",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1238,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1238,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1240,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1240,
+      "pattern_name": "Disharmony between Heart and Kidneys",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1261,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1261,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1261,
+      "pattern_name": "Heart Blood Stagnation",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1264,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1264,
+      "pattern_name": "Qi And Blood Stagnation",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1272,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1272,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1272,
+      "pattern_name": "Yin Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1292,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1292,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1316,
+      "pattern_name": "Heart Qi Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1354,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1354,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1364,
+      "pattern_name": "Phlegm-Fluids",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1365,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1365,
+      "pattern_name": "Heart and Spleen Qi and Blood Deficiency",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1426,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1426,
+      "pattern_name": "Cold invading the Stomach",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1511,
+      "pattern_name": "Damp-Cold Phlegm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1511,
+      "pattern_name": "Terminal Yin stage",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1514,
+      "pattern_name": "Damp-Cold",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1514,
+      "pattern_name": "Greater Yang Attack of Wind",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1522,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1522,
+      "pattern_name": "Ying-Wei Disharmony",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1574,
+      "pattern_name": "Phlegm-Fluids in the Stomach and Small intestine",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1574,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1574,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1596,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1596,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1609,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    },
+    {
+      "condition_id": 1609,
+      "pattern_name": "Blood Deficiency with External Wind",
+      "formula_name": "Ling Gui Zhu Gan Tang"
+    }
+  ]
+}

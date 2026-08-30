@@ -1,0 +1,831 @@
+{
+  "id": 33,
+  "name": "Zhen Wu Tang",
+  "chinese_name": "真武汤",
+  "english_name": "True Warrior Decoction",
+  "url": "/knowledge-base/formulas/zhen-wu-tang",
+  "summary": "A classical formula for people who feel persistently cold, experience swelling or puffiness (especially in the legs), have reduced urine output, and may suffer from dizziness, loose stools, or palpitations. These symptoms arise when the body's warming energy is too weak to properly manage fluids, causing water to accumulate where it shouldn't. Zhen Wu Tang warms the body's core while gently helping it drain excess fluid through urination.",
+  "categories": "[\"Dampness-resolving formulas\", \"Warming and transforming water-dampness formulas\"]",
+  "tcm_actions": "[\"Warms Yang and Disperses Cold\", \"Promotes Urination and Drains Dampness\", \"Transforms Water-Dampness\", \"Strengthens the Spleen\", \"Tonifies Kidney Yang\"]",
+  "therapeutic_focus": "[\"Kidney Health\", \"Heart health\", \"Fluid Retention and Edema\", \"Digestive Health\"]",
+  "target_organs": "[\"Kidneys\", \"Spleen\", \"Urinary Bladder\", \"Heart\", \"Lungs\"]",
+  "temperature": "Warm",
+  "preparation_form": "Decoction (Tang)",
+  "dynasty": "Shang Han Lun (傷寒論) by Zhang Zhongjing",
+  "conditions": "[\"Congestive Heart Failure\", \"Chronic Nephritis\", \"Dizziness\", \"Edema\", \"Hypothyroidism\", \"Chronic Diarrhea\", \"Chronic Bronchitis\", \"Cirrhosis\", \"Palpitations\", \"Tremors\"]",
+  "patterns": "[]",
+  "other_names": "[\"Xuan Wu Tang (玄武汤, Black Warrior Decoction)\", \"Gu Yang Tang (固阳汤)\"]",
+  "pregnancy": "Use with caution during pregnancy. Fu Zi (Radix Aconiti Lateralis Preparata) is classified as a potentially toxic herb and is traditionally considered inadvisable during pregnancy due to its potent warming and moving properties, which could theoretically stimulate uterine activity. While the processed form (Pao Fu Zi) used in this formula has significantly reduced toxicity compared to raw Aconite, it still warrants careful risk-benefit assessment. This formula should only be used during pregnancy under strict supervision by a qualified practitioner when the clinical need clearly outweighs potential risks, and at reduced dosages with extended decoction of Fu Zi.",
+  "breastfeeding": "Limited safety data exists for Zhen Wu Tang during breastfeeding. The primary concern is Fu Zi (processed Aconite), whose alkaloid metabolites could theoretically transfer into breast milk. While the properly processed and extensively decocted form (Pao Fu Zi) has greatly reduced toxicity, caution is still warranted. If clinically necessary during breastfeeding, the formula should be used at conservative doses with Fu Zi pre-decocted for at least 60 minutes. The nursing infant should be monitored for any signs of irritability, feeding difficulties, or gastrointestinal upset. Consult a qualified practitioner before use.",
+  "children": "Zhen Wu Tang is not commonly used in young children and should be prescribed with great caution in pediatric populations due to the inclusion of Fu Zi (processed Aconite). For older children (over 12 years) with clear Yang deficiency and water accumulation patterns, the formula may be considered at significantly reduced dosages, typically one-third to one-half of the adult dose depending on body weight and age. Fu Zi must be pre-decocted for at least 60 minutes and used in minimal effective amounts. This formula is generally not appropriate for infants or toddlers. A qualified pediatric TCM practitioner should supervise any pediatric use.",
+  "drug_interactions": "Diuretics: Zhen Wu Tang has inherent diuretic effects through Fu Ling (Poria) and the Yang-warming action of Fu Zi. Concurrent use with pharmaceutical diuretics (furosemide, hydrochlorothiazide, spironolactone) may potentiate fluid loss and electrolyte imbalance, particularly potassium depletion. Monitoring of electrolytes is advised.\nCardiac glycosides (Digoxin): Fu Zi (Aconite) contains alkaloids that affect cardiac rhythm. Concurrent use with digoxin or other cardiac glycosides may increase the risk of cardiac arrhythmias. This combination should be avoided or very carefully monitored.\nAntiarrhythmic drugs: The aconitine-derived alkaloids in Fu Zi have their own effects on cardiac ion channels. Combining with antiarrhythmic medications may produce unpredictable interactions and should be done only with careful cardiac monitoring.\nAntihypertensive medications: The formula has documented bidirectional blood pressure effects. It may potentiate or counteract antihypertensive drugs depending on the patient's underlying condition. Blood pressure should be monitored closely during concurrent use.\nAnticoagulants and antiplatelet drugs: Bai Shao (White Peony Root) has mild blood-activating properties. While the interaction risk is low, patients on warfarin or other anticoagulants should be monitored for changes in bleeding tendency.",
+  "best_time_to_take": "Warm, divided into 2-3 doses per day, taken 30-60 minutes before meals or between meals on a relatively empty stomach for best absorption. Fu Zi should be pre-decocted for at least 30-60 minutes before adding the remaining herbs.",
+  "typical_duration": "Acute use: 3-7 days for acute water accumulation episodes. Chronic conditions (edema, chronic kidney disease, heart failure): often taken in modified form for 2-8 weeks or longer, with periodic reassessment by a practitioner.",
+  "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruit, sushi) as these further damage Spleen and Kidney Yang and promote water accumulation. Avoid greasy, oily, and rich foods that generate Dampness and impede the Spleen's ability to transform fluids. Limit dairy products and excessively sweet foods for the same reason. Favor warm, cooked, and easily digestible foods such as congee, soups, lightly cooked vegetables, and warming spices like ginger, cinnamon, and black pepper in small amounts. Lightly salted foods in moderation are acceptable, but excessive salt should be avoided as it promotes water retention, which is counterproductive to the formula's purpose. Alcohol is best avoided as it generates Damp-Heat.",
+  "ingredients": [
+    {
+      "herb_name": "Zhi Fu Zi",
+      "english_name": "Prepared Aconite Root",
+      "role": "King",
+      "dosage": "9 - 15g"
+    },
+    {
+      "herb_name": "Fu Ling",
+      "english_name": "Poria",
+      "role": "Deputy",
+      "dosage": "9 - 15g"
+    },
+    {
+      "herb_name": "Bai Zhu",
+      "english_name": "White Atractylodes rhizome",
+      "role": "Deputy",
+      "dosage": "6 - 9g"
+    },
+    {
+      "herb_name": "Sheng Jiang",
+      "english_name": "Fresh ginger rhizome",
+      "role": "Assistant",
+      "dosage": "9 - 15g"
+    },
+    {
+      "herb_name": "Bai Shao",
+      "english_name": "White peony root",
+      "role": "Assistant",
+      "dosage": "9 - 15g"
+    }
+  ],
+  "research": [
+    {
+      "id": 88,
+      "formula_id": 33,
+      "title": "Zhen-Wu-Tang Induced Mitophagy to Protect Mitochondrial Function in Chronic Glomerulonephritis via PI3K/AKT/mTOR and AMPK Pathways (Preclinical Study, 2021)",
+      "description": "This preclinical study in rats with chronic glomerulonephritis (CGN) found that Zhen Wu Tang protected kidney function by activating mitophagy (a cellular cleanup process for damaged mitochondria) through the PI3K/AKT/mTOR and AMPK signaling pathways. The formula improved kidney tissue structure and reduced markers of kidney damage, suggesting a mechanism for its traditional use in kidney disease.",
+      "url": "",
+      "periodical": "Liu B, Cao Y, Wang D, Zhou Y, Zhang P, Wu J, Chen J, Qiu J, Zhou J. Frontiers in Pharmacology. 2021; 12: 777670."
+    },
+    {
+      "id": 89,
+      "formula_id": 33,
+      "title": "Zhen-wu-tang Protects Against Myocardial Fibrosis by Inhibiting M1 Macrophage Polarization via the TLR4/NF-κB Pathway (Preclinical Study, 2024)",
+      "description": "This animal study showed that Zhen Wu Tang reduced myocardial fibrosis (scarring of heart tissue) in mice by inhibiting inflammatory M1 macrophage polarization through the TLR4/NF-κB pathway. The findings support the formula's traditional cardiovascular applications and suggest anti-inflammatory and anti-fibrotic mechanisms relevant to heart failure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38763013/",
+      "periodical": "Fang R, et al. Phytomedicine. 2024; 130: 155719."
+    },
+    {
+      "id": 90,
+      "formula_id": 33,
+      "title": "Zhen-Wu-Tang Ameliorates Lupus Nephritis by Diminishing Renal Tissue-Resident Memory CD8+ T Cells via Suppressing IL-15/STAT3 Pathway (Preclinical Study, 2024)",
+      "description": "This study demonstrated that Zhen Wu Tang improved lupus nephritis in animal models by reducing tissue-resident memory CD8+ T cells in the kidneys through suppression of the IL-15/STAT3 signaling pathway. This points to an immunomodulatory mechanism that may explain the formula's efficacy in autoimmune kidney conditions.",
+      "url": "",
+      "periodical": "Liang CL, Wei YY, Chen Y, et al. Biomedicine & Pharmacotherapy. 2024; 174: 116597."
+    },
+    {
+      "id": 91,
+      "formula_id": 33,
+      "title": "Efficacy and Safety of Zhen Wu Decoction Against Chronic Heart Failure: A Protocol of Randomized, Double-Blinded, and Controlled Trial (RCT Protocol, 2021)",
+      "description": "This registered protocol describes a prospective, double-blinded, randomized controlled trial evaluating Zhen Wu Tang as adjunctive therapy for chronic heart failure in China. Patients receive either standard guideline-directed therapy plus ZWT or standard therapy plus placebo granules. The trial aims to provide high-quality evidence for the formula's cardioprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34559129/",
+      "periodical": "Medicine. 2021; 100(38): e27296."
+    }
+  ],
+  "associated_patterns": [
+    {
+      "pattern_id": 43,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 54,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 69,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 87,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 94,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 96,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 131,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 165,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 170,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 217,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 239,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 251,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 280,
+      "name": "Zhen Wu Tang"
+    },
+    {
+      "pattern_id": 286,
+      "name": "Zhen Wu Tang"
+    }
+  ],
+  "associated_conditions": [
+    {
+      "condition_id": 7,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 7,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 51,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 51,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 62,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 62,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 90,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 90,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 133,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 133,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 209,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 209,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 211,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 211,
+      "pattern_name": "Wind-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 212,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 212,
+      "pattern_name": "Toxic-Heat",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 214,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 214,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 214,
+      "pattern_name": "Wind-Cold-Water invading the Lungs",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 216,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 216,
+      "pattern_name": "Liver Qi Stagnation",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 217,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 217,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 239,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 239,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 243,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 243,
+      "pattern_name": "Deficiency of both the Kidney Yin and Yang",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 246,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 246,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 247,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 247,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 258,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 258,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 340,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 340,
+      "pattern_name": "Spleen Deficiency with Dampness",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 378,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 378,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 430,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 430,
+      "pattern_name": "Phlegm in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 484,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 484,
+      "pattern_name": "Blood Stagnation",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 567,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 567,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 572,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 572,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 577,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 577,
+      "pattern_name": "Phlegm in Chest",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 586,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 586,
+      "pattern_name": "Qi and Blood Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 589,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 589,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 590,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 590,
+      "pattern_name": "Kidney and Liver Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 592,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 592,
+      "pattern_name": "Heart Blood Stagnation",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 609,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 609,
+      "pattern_name": "Lung and Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 609,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 618,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 618,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 634,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 634,
+      "pattern_name": "Phlegm Misting the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 668,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 668,
+      "pattern_name": "Lesser Yang stage",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 731,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 731,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 784,
+      "pattern_name": "Painful Obstruction due to Damp Heat in Channels",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 815,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 815,
+      "pattern_name": "Dampness invading the Channels joints and muscles",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 825,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 825,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 827,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 827,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 900,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 900,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 948,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 948,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1000,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1000,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1054,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1054,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1056,
+      "pattern_name": "Heart Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1056,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1056,
+      "pattern_name": "Heart and Kidney Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1073,
+      "pattern_name": "Water Qi intimidating the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1073,
+      "pattern_name": "Kidneys failing to receive Qi",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1089,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1089,
+      "pattern_name": "Kidney Yin Deficiency With Empty-Heat Blazing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1110,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1110,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1182,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1182,
+      "pattern_name": "Phlegm-Fire harassing the Heart",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1220,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1220,
+      "pattern_name": "Lesser Yin Cold Transformation",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1239,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1239,
+      "pattern_name": "Phlegm-Dampness in the Middle-Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1272,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1272,
+      "pattern_name": "Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1284,
+      "pattern_name": "Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1284,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1285,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1285,
+      "pattern_name": "Qi and Yin Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1292,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1292,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1297,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1297,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1300,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1300,
+      "pattern_name": "Food Stagnation in the Stomach",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1312,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1312,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1312,
+      "pattern_name": "Phlegm-Fluids in the Lungs",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1368,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1368,
+      "pattern_name": "Damp-Heat in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1377,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1377,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1377,
+      "pattern_name": "Cold-Dampness in the Lower Burner",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1411,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1411,
+      "pattern_name": "Disharmony between Heart and Kidneys caused by Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1423,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1423,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1423,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1443,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1443,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1455,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1455,
+      "pattern_name": "Kidney and Spleen Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1487,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1487,
+      "pattern_name": "Spleen and Lung Qi Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1529,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1529,
+      "pattern_name": "Damp-Heat in Stomach and Spleen",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1573,
+      "pattern_name": "Kidney Yang Deficiency",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1573,
+      "pattern_name": "Liver Qi Stagnation that transforms into Heat",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1596,
+      "pattern_name": "Kidney Yang Deficiency with Water overflowing",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1596,
+      "pattern_name": "Collapse of Yang",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1610,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    },
+    {
+      "condition_id": 1610,
+      "pattern_name": "Yang Deficiency with Cold-Damp",
+      "formula_name": "Zhen Wu Tang"
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "id": 642,
+  "name": "Diphtheria",
+  "url": "/knowledge-base/conditions/diphtheria",
+  "kind": "Condition",
+  "pinyin": "bái hóu",
+  "chinese_name": "白喉",
+  "preview_text": "In TCM, diphtheria is a series of battles - early Wind-Heat, blazing Toxic-Heat, choking Phlegm-Heat, and then the lingering damage to Yin and Heart. Each stage demands a completel...",
+  "categories": "[\"Colds & Upper Respiratory Infections\", \"Bacterial Infections\"]",
+  "body_regions": "[\"Neck — Anterior\"]",
+  "synonyms": "[\"Bacterial Throat Infection\", \"Corynebacterium Diphtheriae Infection\", \"Grayish Membrane In Throat\"]",
+  "conventional_description": "Diphtheria is a serious bacterial infection caused by Corynebacterium diphtheriae. The bacteria produce a potent toxin that can cause a thick, grayish membrane to form in the throat, potentially obstructing the airway. Symptoms typically include sore throat, low-grade fever, swollen neck glands, and weakness. The toxin can also damage the heart, nerves, and kidneys. Diagnosis is confirmed by throat culture, and the disease is now rare in populations with high vaccination coverage.",
+  "conventional_treatments": "Standard treatment includes diphtheria antitoxin to neutralize the toxin, and antibiotics (penicillin or erythromycin) to eradicate the bacteria. Patients with breathing difficulty may require intubation or a tracheostomy to secure the airway. Close monitoring for cardiac and neurological complications is essential. Prevention is primarily through routine childhood vaccination with the DTaP or Tdap vaccine.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM views diphtheria as an invasion of epidemic toxin (疫毒, yì dú) that enters through the mouth and nose, first attacking the Lung and throat. The toxin is fierce and hot, quickly transforming into Wind-Heat at the surface, then blazing as Toxic-Heat in the interior. As the heat scorches the throat, it congeals body fluids into phlegm, forming the characteristic grayish-white pseudomembrane that can block the airway.\nIf the toxin is not cleared, it consumes the body's Yin - the cooling, moistening foundation - leaving a parched throat and lingering low fever even after the acute infection subsides. In severe cases, the toxin dives deep into the Heart, exhausting either the Heart's Qi (its pumping vitality) or its Yang (its warming fire), leading to profound fatigue, palpitations, cold limbs, and in extreme cases, collapse.\nThis is why TCM treats diphtheria not as a single disease but as a cascade of patterns that shift over time, with the Heart's condition being a critical prognostic sign.\nBecause the same bacterium can trigger different patterns depending on the patient's constitution and the stage of illness, TCM tailors treatment precisely: an early case with mild chills and a thin white membrane is treated very differently from a later case with high fever, thick yellow membrane, and a rapid, forceful pulse. This pattern-based approach aims to stop the toxin at each stage and minimize long-term damage.",
+  "classical_quote": "",
+  "classical_translation": "",
+  "classical_source": "",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the onset and progression of symptoms. Diphtheria is a serious epidemic condition, and the timing of fever, the appearance of the throat pseudomembrane, and the presence of systemic signs help pinpoint which pattern is active.\nIf symptoms started suddenly with mild fever, slight chills, headache, and a sore throat with a thin white coating, the picture is Wind-Heat attacking the exterior. The tongue is red with a thin white coat, and the pulse is floating and rapid. This early stage still responds well to releasing the exterior and clearing heat.\nWhen the condition deepens, toxic heat flares internally: high fever, severe thirst, a very red and swollen throat, and a larger, thicker pseudomembrane. The tongue is red with a yellow coat, and the pulse is rapid and forceful. This pattern signals that the toxin has moved deeper and requires strong heat-clearing and detoxifying strategies.\nIf breathing becomes difficult, with a barking cough, hoarse voice, and wheezing, phlegm-heat is obstructing the lungs and throat. The tongue shows a thick yellow greasy coating, and the pulse is slippery and rapid. In severe cases the airway can become compromised, demanding immediate attention to resolve phlegm and open the passages.\nDuring recovery, yin deficiency with empty heat may appear, causing lingering low fever, a dry throat, and a dry pseudomembrane. The tongue is red with little coating, and the pulse is thready and rapid.\nIn the most severe scenarios, the epidemic toxin damages the heart: pale complexion, fatigue, and sweating suggest heart qi deficiency, while cold limbs, shortness of breath, and a thready weak pulse indicate heart yang collapse.",
+  "patterns": [
+    {
+      "id": 3129,
+      "condition_id": 642,
+      "pattern_name": "Wind-Heat",
+      "pattern_slug": "wind-heat",
+      "is_common": 0,
+      "symptoms": "[\"Mild fever with slight chills or aversion to wind\", \"Sore, red throat with a thin white pseudomembrane\", \"Headache with a distending quality\", \"Nasal congestion with yellow or thick discharge\", \"Thirst with desire to drink\", \"Slight sweating that does not relieve the fever\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Wind and drafts, Overexertion or lack of sleep, Emotional stress or anger",
+      "better_with": "Rest and sleep, Warm, non-spicy fluids, Light, bland foods, Cool, fresh air",
+      "why_this_happens": "Diphtheria often starts when an epidemic Wind-Heat toxin enters through the mouth and nose. The toxin attacks the Lung and throat, and the body's Wei Qi pushes back, creating the familiar mild fever with slight chills. The Heat and Wind nature of the toxin makes the throat red, swollen, and sore, while the toxin congeals with local fluids to form the thin, white pseudomembrane that is the hallmark of this early stage.",
+      "tongue_and_pulse": "Tongue: red at the tip and edges with a thin white or thin yellow coating. Pulse: floating (fu) and rapid (shu).",
+      "why_triggers_reliefs_work": "Wind-Heat is an exterior pathogen that the body tries to expel through the surface. Rest conserves the Wei Qi so it can fight the toxin, while cooling fluids and light foods prevent internal Heat from flaring up and making the throat worse. Spicy and greasy foods add more Heat, and wind or drafts help the pathogen penetrate deeper, which is why both make the condition worse.",
+      "diet_and_lifestyle": "Rest in a quiet, well-ventilated room and avoid drafts. Drink plenty of warm or room-temperature fluids like pear juice or chrysanthemum tea to soothe the throat. Stick to light, easy-to-digest foods such as congee and steamed vegetables, and stay away from spicy, greasy, or fried items that can aggravate Heat.",
+      "formulas": [
+        {
+          "id": 7120,
+          "pattern_id": 3129,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "The foundational formula to disperse Wind-Heat, relieve toxicity, and soothe the throat, often modified with additional herbs to target the diphtheria toxin directly."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16711,
+          "pattern_id": 3129,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears heat and resolves toxicity, directly countering the epidemic toxin at the throat."
+        },
+        {
+          "id": 16712,
+          "pattern_id": 3129,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "",
+          "description": "Disperses Wind-Heat and reduces swelling, helping to shrink the pseudomembrane."
+        },
+        {
+          "id": 16713,
+          "pattern_id": 3129,
+          "herb_name": "Niu Bang Zi",
+          "herb_url": "/knowledge-base/herbs/niu-bang-zi",
+          "translation": "Burdock fruit",
+          "properties": "",
+          "description": "Benefits the throat and vents the exterior, easing soreness and releasing the pathogen."
+        },
+        {
+          "id": 16714,
+          "pattern_id": 3129,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "",
+          "description": "Lightly disperses Wind-Heat from the surface and soothes a scratchy, irritated throat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11289,
+          "pattern_id": 3129,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Dispels exterior Wind and benefits the throat, a key point for early-stage throat infections."
+        },
+        {
+          "id": 11290,
+          "pattern_id": 3129,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Releases the exterior and clears heat, helping to bring down fever and relieve sore throat."
+        },
+        {
+          "id": 11291,
+          "pattern_id": 3129,
+          "acupoint_code": "GB-20",
+          "acupoint_name": "Fengchi GB-20",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/fengchi-gb-20",
+          "translation": "F&#x113;ng Ch&#xED;",
+          "properties": "Subdues Liver Yang, Expels Exterior or Interior Wind",
+          "description": "Expels Wind-Heat from the head and neck, easing headache and throat discomfort."
+        },
+        {
+          "id": 11292,
+          "pattern_id": 3129,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears Heat and regulates the Wei Qi to support the body in pushing the pathogen out."
+        }
+      ]
+    },
+    {
+      "id": 3130,
+      "condition_id": 642,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"High fever (often over 39&#xB0;C)\", \"Severe sore throat with thick grayish-yellow pseudomembrane\", \"Intense thirst with desire for cold drinks\", \"Restlessness and irritability\", \"Dark scanty urine and constipation\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol and smoking, Overuse of voice, Emotional stress and anger, Hot, stuffy environments",
+      "better_with": "Cool liquids and soft foods, Complete voice rest, Cool, humidified air, Gargling with salt water",
+      "why_this_happens": "Diphtheria is caused by an epidemic toxin that invades the throat. In the Toxic-Heat pattern, the pathogen has penetrated deep into the interior, blazing as intense Heat and Toxin. This scorches the throat tissues, causing severe redness, swelling, and the formation of a thick, dirty-gray pseudomembrane that can spread quickly. The Heat also consumes body fluids, leading to high fever, intense thirst, and restlessness.",
+      "tongue_and_pulse": "Tongue: red body with prickly thorns and a dry yellow coating. Pulse: rapid (shu), forceful (you li), and full (shi), often overflowing at the right guan position.",
+      "why_triggers_reliefs_work": "Toxic-Heat is an intense internal Fire that consumes Yin fluids and inflames the throat. Cooling foods and drinks directly counter the Heat and replenish moisture, while spicy and greasy foods add fuel to the Fire. Rest conserves the body's Qi to fight the toxin, and emotional stress stirs up Liver Fire, worsening the condition. A cool, humid environment helps dissipate Heat and soothe the damaged throat lining.",
+      "diet_and_lifestyle": "Drink plenty of cooling fluids like pear juice, chrysanthemum tea, or mint tea to soothe the throat and replenish fluids. Eat soft, bland foods such as congee, steamed vegetables, and tofu; avoid spicy, greasy, or fried foods that add internal heat. Rest the voice completely and stay in a cool, well-ventilated room. Gargling with warm salt water can help keep the throat clean.",
+      "formulas": [
+        {
+          "id": 7121,
+          "pattern_id": 3130,
+          "formula_name": "Wu Wei Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/wu-wei-xiao-du-yin",
+          "translation": "Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules",
+          "description": "Powerfully clears Heat and resolves Toxin, especially for toxic sores and throat infections."
+        },
+        {
+          "id": 7122,
+          "pattern_id": 3130,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "Drains Fire and relieves Toxin, targeting the intense internal Heat of this stage."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16715,
+          "pattern_id": 3130,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "",
+          "description": "Clears Heat and resolves Toxin, a primary herb for epidemic throat infections."
+        },
+        {
+          "id": 16716,
+          "pattern_id": 3130,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Drains Heart and Stomach Fire, drying Dampness and resolving Toxin at its root."
+        },
+        {
+          "id": 16717,
+          "pattern_id": 3130,
+          "herb_name": "Shan Dou Gen",
+          "herb_url": "/knowledge-base/herbs/shan-dou-gen",
+          "translation": "Bushy Sophora Root",
+          "properties": "",
+          "description": "Specifically benefits the throat, reducing swelling and pain from Toxic-Heat."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11293,
+          "pattern_id": 3130,
+          "acupoint_code": "REN-22",
+          "acupoint_name": "Tiantu REN-22",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/tiantu-ren-22",
+          "translation": "Ti&#x101;n T&#x16B;",
+          "properties": "Descends Lung Qi, Benefits the throat and voice",
+          "description": "Directly opens the throat and benefits the voice, reducing obstruction."
+        },
+        {
+          "id": 11294,
+          "pattern_id": 3130,
+          "acupoint_code": "DU-14",
+          "acupoint_name": "Dazhui DU-14",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/dazhui-du-14",
+          "translation": "D&#xE0; Chu&#xED;",
+          "properties": "Clears Wind-Heat, Releases the Exterior",
+          "description": "Clears Heat from all Yang channels, a major point for high fever."
+        },
+        {
+          "id": 11295,
+          "pattern_id": 3130,
+          "acupoint_code": "LI-4",
+          "acupoint_name": "Hegu LI-4",
+          "acupoint_url": "/knowledge-base/acupuncture/large-intestine-meridian/hegu-li-4",
+          "translation": "H&#xE9; G&#x1D4;",
+          "properties": "Expels Exterior Wind, Regulates Defensive Qi",
+          "description": "Relieves pain and clears Heat from the face and throat."
+        },
+        {
+          "id": 11296,
+          "pattern_id": 3130,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Opens the Lung channel and eases sore throat."
+        }
+      ]
+    },
+    {
+      "id": 3131,
+      "condition_id": 642,
+      "pattern_name": "Phlegm-Heat in the Lungs",
+      "pattern_slug": "phlegm-heat-in-the-lungs",
+      "is_common": 0,
+      "symptoms": "[\"Cough with thick yellow or green sputum\", \"Wheezing and gurgling sounds in the throat\", \"Chest tightness and oppression\", \"Fever and sensation of heat\", \"Grayish-white pseudomembrane in throat\", \"Hoarseness or muffled voice\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Dairy products, Overexertion, Hot, stuffy environment, Emotional stress (anger)",
+      "better_with": "Cool, light foods (pear, radish), Plenty of fluids, Steam inhalation, Rest, Cool environment",
+      "why_this_happens": "When the epidemic toxin invades deeply, it combines with accumulated Phlegm and Heat in the Lungs. This Phlegm-Heat mixture rises to the throat, forming the characteristic grayish-white pseudomembrane, while simultaneously obstructing the airways. The result is a barking cough, wheezing, and thick yellow phlegm that can be difficult to expel. In severe cases, the obstruction can cause nasal flaring and labored breathing, reflecting the struggle of Lung Qi to descend.",
+      "tongue_and_pulse": "Tongue: red body with a yellow greasy coating, possibly swollen at the front with red prickles. Pulse: slippery and rapid (滑数 huá shuò).",
+      "why_triggers_reliefs_work": "Phlegm-Heat is a combination of dampness and heat. Spicy, greasy, and dairy foods generate more dampness and heat, thickening phlegm and worsening obstruction. A hot, stuffy environment and overexertion stir up internal heat, while emotional stress can cause Qi to stagnate and generate fire. Cooling foods and fluids directly counteract heat and help thin phlegm, while steam inhalation moistens the airways and makes it easier to expel. Rest conserves Qi so the body can fight the pathogen.",
+      "diet_and_lifestyle": "Avoid dairy, greasy, and spicy foods, which create more phlegm and heat.\nEat cooling, moistening foods like pear, radish, and loquat. Drink plenty of warm water or herbal teas such as chrysanthemum. Rest in a well-ventilated room and use steam inhalation to keep the throat moist and help loosen phlegm.",
+      "formulas": [
+        {
+          "id": 7123,
+          "pattern_id": 3131,
+          "formula_name": "Ma Xing Shi Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ma-xing-shi-gan-tang",
+          "translation": "Ephedra, Apricot Kernel, Gypsum and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cool, Clears Lung Heat, Calms Wheezing, Disperses Wind-Heat",
+          "description": "Clears lung heat, resolves phlegm, and descends rebellious qi to relieve coughing and throat obstruction."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16718,
+          "pattern_id": 3131,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "",
+          "description": "Transforms phlegm-heat and relieves chest tightness."
+        },
+        {
+          "id": 16719,
+          "pattern_id": 3131,
+          "herb_name": "Chuan Bei Mu",
+          "herb_url": "/knowledge-base/herbs/chuan-bei-mu",
+          "translation": "Sichuan fritillary bulb",
+          "properties": "",
+          "description": "Stops cough and moistens the lungs to dislodge sticky phlegm."
+        },
+        {
+          "id": 16720,
+          "pattern_id": 3131,
+          "herb_name": "Shan Dou Gen",
+          "herb_url": "/knowledge-base/herbs/shan-dou-gen",
+          "translation": "Bushy Sophora Root",
+          "properties": "",
+          "description": "Clears heat and relieves toxicity specifically in the throat, helping to reduce the pseudomembrane."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11297,
+          "pattern_id": 3131,
+          "acupoint_code": "LU-7",
+          "acupoint_name": "Lieque LU-7",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/lieque-lu-7",
+          "translation": "Li&#xE8; qu&#x113;",
+          "properties": "Descends and diffuses the Lung Qi, Expels Wind from the Exterior",
+          "description": "Opens the throat and directs lung qi downward."
+        },
+        {
+          "id": 11298,
+          "pattern_id": 3131,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms phlegm and clears heat."
+        },
+        {
+          "id": 11299,
+          "pattern_id": 3131,
+          "acupoint_code": "REN-22",
+          "acupoint_name": "Tiantu REN-22",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/tiantu-ren-22",
+          "translation": "Ti&#x101;n T&#x16B;",
+          "properties": "Descends Lung Qi, Benefits the throat and voice",
+          "description": "Directly clears the throat and benefits the voice."
+        },
+        {
+          "id": 11300,
+          "pattern_id": 3131,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates lung qi and clears lung heat."
+        }
+      ]
+    },
+    {
+      "id": 3132,
+      "condition_id": 642,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Low-grade afternoon or evening fever\", \"Night sweats\", \"Dry, adherent pseudomembrane\", \"Dry mouth and throat with desire to sip water\", \"Flushed cheekbones (malar flush)\", \"Heat sensation in palms, soles, and chest\", \"Restlessness and difficulty sleeping\"]",
+      "worse_with": "Spicy or dry foods, Overwork or staying up late, Emotional stress and frustration, Dry, heated indoor air, Excessive talking",
+      "better_with": "Cool, quiet environment, Sipping warm water frequently, Moistening foods (pears, honey), Adequate rest and early nights, Avoiding spicy or fried foods",
+      "why_this_happens": "During the acute stage of diphtheria, the fierce toxic heat scorches the body's yin fluids like a wildfire consuming moisture. As the infection recedes, the fire dies down but the land is left parched. The yin that once kept the throat, lungs, and entire body cool and lubricated is now depleted, allowing empty heat to rise. This false heat produces a lingering low-grade fever, a dry, stubborn pseudomembrane that clings to the throat, and a constellation of dryness signs that worsen as the day wears on.",
+      "tongue_and_pulse": "Tongue: red, thin, dry body with cracks, little or no coating. Pulse: fine (thin) and rapid.",
+      "why_triggers_reliefs_work": "Yin deficiency generates empty heat, so anything cooling and moistening helps replenish the depleted fluids and calm the false fire, while drying or heating habits further consume yin and aggravate symptoms. Rest allows the body to rebuild yin, while overwork and emotional strain stir up fire, making the dryness and low fever worse.",
+      "diet_and_lifestyle": "Focus on gentle, moistening foods like pears, honey, lily bulb, and congee. Sip warm water throughout the day. Avoid spicy, fried, or drying foods, and keep alcohol and coffee to a minimum. Prioritize rest and early nights; overwork and late nights burn yin. A cool, quiet environment helps settle the empty heat.",
+      "formulas": [
+        {
+          "id": 7124,
+          "pattern_id": 3132,
+          "formula_name": "Yang Yin Qing Fei Tang",
+          "formula_url": "/knowledge-base/formulas/yang-yin-qing-fei-tang",
+          "translation": "Nourish Yin and Clear the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, Qianlong era (~1764), first published 1838 CE",
+          "properties": "Cool, Nourishes Yin, Clears Lung Heat, Resolves Toxicity",
+          "description": "The classic formula for diphtheria presenting with yin deficiency and dryness-heat. It nourishes yin, clears the lungs, and resolves lingering toxin without causing sweating."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16721,
+          "pattern_id": 3132,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Ophiopogon (Mai Men Dong) moistens the lungs and throat, relieves dryness, and generates fluids."
+        },
+        {
+          "id": 16722,
+          "pattern_id": 3132,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "",
+          "description": "Scrophularia (Xuan Shen) clears heat, cools the blood, and softens the dry membrane while replenishing yin."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11301,
+          "pattern_id": 3132,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "The source point of the Kidney channel; nourishes kidney yin to anchor the empty heat."
+        },
+        {
+          "id": 11302,
+          "pattern_id": 3132,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Moistens the throat, clears deficiency fire, and calms the spirit-especially useful for evening dryness and restlessness."
+        },
+        {
+          "id": 11303,
+          "pattern_id": 3132,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen, Liver, and Kidney yin, supporting fluid production and calming the mind."
+        }
+      ]
+    },
+    {
+      "id": 3133,
+      "condition_id": 642,
+      "pattern_name": "Heart Qi Deficiency",
+      "pattern_slug": "heart-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations\", \"Shortness of breath worsened by exertion\", \"Spontaneous daytime sweating\", \"Fatigue and lack of stamina\", \"Pale complexion\", \"Dizziness on exertion\"]",
+      "worse_with": "Anxiety and worry, Cold or raw foods, Physical overexertion, Exposure to cold drafts",
+      "better_with": "Complete rest and sleep, Warm, nourishing soups and congees, Gentle breathing exercises, Peaceful environment",
+      "why_this_happens": "The epidemic toxin of diphtheria acts like a storm that can directly drain the heart's Qi. As the acute infection subsides, the heart is left weakened, unable to pump blood efficiently or anchor the spirit. This produces the lingering fatigue, palpitations, and shortness of breath that mark this recovery-phase pattern.",
+      "tongue_and_pulse": "Tongue: pale, puffy with a thin white coat; a midline crack toward the tip may appear in chronic cases. Pulse: empty (虚, xū) and weak, especially at the left Cun position.",
+      "why_triggers_reliefs_work": "Rest and warmth conserve the little Qi that remains, preventing further depletion. Cold and raw foods challenge the digestive system, which is now too weak to transform them into energy, while emotional stress directly consumes heart Qi. Nourishing foods and gentle care allow the heart to slowly rebuild its strength.",
+      "diet_and_lifestyle": "Rest is paramount; avoid overexertion and emotional stress. Eat warm, easily digestible foods like rice congee with a little ginseng or astragalus root. Avoid cold, raw, and greasy foods that further weaken the digestive fire.",
+      "formulas": [
+        {
+          "id": 7125,
+          "pattern_id": 3133,
+          "formula_name": "Du Shen Tang",
+          "formula_url": "/knowledge-base/formulas/du-shen-tang",
+          "translation": "Unaccompanied Ginseng Decoction &#xB7; Yu&#xE1;n dynasty, 1348 CE",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Stabilizes the Exterior and Rescues Collapse",
+          "description": "The primary formula to restore heart qi when epidemic toxin has damaged the source qi. Ginseng alone powerfully tonifies the primordial qi and stabilizes the heart."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16723,
+          "pattern_id": 3133,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "The key herb to tonify the heart&#x27;s qi and restore vitality."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11304,
+          "pattern_id": 3133,
+          "acupoint_code": "HT-7",
+          "acupoint_name": "Shenmen HT-7",
+          "acupoint_url": "/knowledge-base/acupuncture/heart-meridian/shenmen-ht-7",
+          "translation": "Sh&#xE9;n M&#xE9;n",
+          "properties": "Calms the Mind and opens the Mind&#x27;s orifices, Nourishes Heart Blood",
+          "description": "Calms the spirit and strengthens heart qi."
+        },
+        {
+          "id": 11305,
+          "pattern_id": 3133,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates heart qi and relieves palpitations."
+        },
+        {
+          "id": 11306,
+          "pattern_id": 3133,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies qi and blood to support the heart."
+        }
+      ]
+    },
+    {
+      "id": 3134,
+      "condition_id": 642,
+      "pattern_name": "Heart Yang Deficiency",
+      "pattern_slug": "heart-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Cold hands and feet with a feeling of deep chill\", \"Bright, pale face and slightly dark or purplish lips\", \"Shortness of breath on the slightest exertion\", \"Profound fatigue and mental listlessness\", \"Chest stuffiness or mild chest pain\"]",
+      "worse_with": "Exposure to cold environments, Physical exertion, even walking, Icy or raw foods and drinks, Emotional shock or fear",
+      "better_with": "Keeping warm with blankets and warm drinks, Complete physical and mental rest, Moxibustion on the lower abdomen, Warm, spiced congee or soups",
+      "why_this_happens": "Diphtheria is an epidemic toxin that burns fiercely. When the infection is severe or the person's constitution is already weak, the toxin can dive deep and directly assault the Heart, exhausting its Yang-the warming, driving fire of the body. As Heart Yang collapses, it can no longer pump blood vigorously or spread warmth to the limbs and face, leading to the profound coldness, pallor, and weak pulse seen in this dangerous complication.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks on the edges, coated with a white, slippery fur. Pulse: deep, weak, and thready, especially faint at the left Cun (Heart) position; may be knotted (slow with irregular pauses).",
+      "why_triggers_reliefs_work": "Heart Yang is the body's furnace. When it collapses, the body cannot generate heat-so cold environments and cold foods steal what little fire remains, worsening the chill and weakness. Warmth, rest, and warm nourishment act like kindling, gently feeding the fading flame. Moxibustion on points like Guanyuan directly adds therapeutic heat to rekindle the body's core Yang, while complete stillness conserves every bit of energy for healing.",
+      "diet_and_lifestyle": "Keep the body warm at all times-especially the hands, feet, and lower back. Eat only warm, cooked, easily digested foods such as congee with a pinch of ginger and cinnamon. Avoid all raw, cold, or icy items. Complete rest is essential; even small exertions can further drain the fragile Yang.",
+      "formulas": [
+        {
+          "id": 7126,
+          "pattern_id": 3134,
+          "formula_name": "Shen Fu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-tang",
+          "translation": "Ginseng and Aconite Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Greatly Tonifies the Source Qi, Secures Essence and Stops Leakage",
+          "description": "The primary emergency formula to rescue devastated Yang and restore the Heart&#x27;s warming drive."
+        },
+        {
+          "id": 7127,
+          "pattern_id": 3134,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "Often combined with Shen Fu Tang to nourish Qi and Yin, steadying the Heart&#x27;s rhythm and preventing further collapse."
+        },
+        {
+          "id": 7128,
+          "pattern_id": 3134,
+          "formula_name": "Yin Qiao San",
+          "formula_url": "/knowledge-base/formulas/yin-qiao-san",
+          "translation": "Honeysuckle and Forsythia Powder &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Cool, Disperses Wind-Heat, Clears Heat, Resolves Toxicity",
+          "description": "A classic formula for the early stages of colds and flu caused by Wind-Heat, with symptoms like fever, sore throat, headache, thirst, and cough. It works by gently releasing the exterior to expel the pathogen while clearing heat and resolving toxicity, targeting the upper respiratory system. One of the most widely used formulas in Chinese medicine for acute infections with heat signs."
+        },
+        {
+          "id": 7129,
+          "pattern_id": 3134,
+          "formula_name": "Wu Wei Xiao Du Yin",
+          "formula_url": "/knowledge-base/formulas/wu-wei-xiao-du-yin",
+          "translation": "Five-Ingredient Drink to Eliminate Toxin &#xB7; Q&#x12B;ng dynasty, 1742 CE",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Cools the Blood, Disperses Swelling and Dissipates Nodules",
+          "description": "A classical formula that uses five potent heat-clearing herbs to fight infections and inflammation, especially boils, abscesses, and other skin infections that present with redness, swelling, heat, and pain. It is one of TCM&#x27;s most direct and powerful formulas for clearing toxic heat from the body."
+        },
+        {
+          "id": 7130,
+          "pattern_id": 3134,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 7131,
+          "pattern_id": 3134,
+          "formula_name": "Ma Xing Shi Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ma-xing-shi-gan-tang",
+          "translation": "Ephedra, Apricot Kernel, Gypsum and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cool, Clears Lung Heat, Calms Wheezing, Disperses Wind-Heat",
+          "description": "A classical four-herb formula from the Shang Han Lun used when Heat becomes trapped in the Lungs, causing fever, cough, wheezing, and thirst. It works by cooling the Lungs and restoring normal breathing. Commonly used for respiratory infections such as bronchitis, pneumonia, and influenza when the person shows clear signs of Heat like a rapid pulse, yellow tongue coating, and thirst."
+        },
+        {
+          "id": 7132,
+          "pattern_id": 3134,
+          "formula_name": "Yang Yin Qing Fei Tang",
+          "formula_url": "/knowledge-base/formulas/yang-yin-qing-fei-tang",
+          "translation": "Nourish Yin and Clear the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, Qianlong era (~1764), first published 1838 CE",
+          "properties": "Cool, Nourishes Yin, Clears Lung Heat, Resolves Toxicity",
+          "description": "A classical formula designed to nourish the body&#x27;s moisture and cool the Lungs, primarily used for dry, sore throats with a parched feeling in the nose and mouth. It is well suited for chronic sore throat, dry cough, and throat inflammation that arise from an underlying deficiency of the body&#x27;s fluids, leaving the Lungs and throat dry and vulnerable to irritation or infection."
+        },
+        {
+          "id": 7133,
+          "pattern_id": 3134,
+          "formula_name": "Du Shen Tang",
+          "formula_url": "/knowledge-base/formulas/du-shen-tang",
+          "translation": "Unaccompanied Ginseng Decoction &#xB7; Yu&#xE1;n dynasty, 1348 CE",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Stabilizes the Exterior and Rescues Collapse",
+          "description": "An emergency rescue formula consisting of a single herb, Ginseng (Ren Shen), used at high dosage to powerfully restore the body&#x27;s vital Qi when it is on the verge of collapse. It is traditionally used in critical, life-threatening situations involving severe blood loss, shock, or extreme exhaustion where the pulse is barely detectable and consciousness is fading."
+        },
+        {
+          "id": 7134,
+          "pattern_id": 3134,
+          "formula_name": "Shen Fu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-tang",
+          "translation": "Ginseng and Aconite Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Greatly Tonifies the Source Qi, Secures Essence and Stops Leakage",
+          "description": "A powerful emergency formula containing just two herbs, Ginseng and Aconite, used to rescue someone from a state of severe collapse where the body&#x27;s Yang (warming, animating force) and Qi are critically depleted. It is indicated for life-threatening situations such as shock, heart failure, or massive blood loss, where the person is ice-cold, drenched in cold sweat, and barely breathing with a nearly imperceptible pulse."
+        },
+        {
+          "id": 7135,
+          "pattern_id": 3134,
+          "formula_name": "Sheng Mai San",
+          "formula_url": "/knowledge-base/formulas/sheng-mai-san",
+          "translation": "Generate the Pulse Powder &#xB7; J&#x12B;n dynasty, ~1186 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Generates Fluids, Nourishes Yin",
+          "description": "A classical three-herb formula used to restore vitality when both Qi and body fluids have been depleted. It addresses fatigue, shortness of breath, excessive sweating, dry throat, and weak pulse caused by heat exhaustion, chronic illness, or prolonged coughing that has weakened the Lungs. In modern practice, it is also widely used as supportive treatment for heart conditions including heart failure and irregular heartbeat."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16724,
+          "pattern_id": 3134,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi and revives the Heart from a state of collapse."
+        },
+        {
+          "id": 16725,
+          "pattern_id": 3134,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Restores devastated Yang, warms the Heart, and dispels internal Cold."
+        },
+        {
+          "id": 16726,
+          "pattern_id": 3134,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Bolsters Qi and Yang, supports the immune system, and helps lift the sinking energy."
+        },
+        {
+          "id": 16727,
+          "pattern_id": 3134,
+          "herb_name": "Jin Yin Hua",
+          "herb_url": "/knowledge-base/herbs/jin-yin-hua",
+          "translation": "Honeysuckle flower",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Disperses Wind-Heat, Cools the Blood and Stops Dysentery",
+          "description": ""
+        },
+        {
+          "id": 16728,
+          "pattern_id": 3134,
+          "herb_name": "Lian Qiao",
+          "herb_url": "/knowledge-base/herbs/lian-qiao",
+          "translation": "Forsythia fruit",
+          "properties": "Slightly Cool, Clears Heat and Resolves Toxicity, Disperses Swelling and Dissipates Nodules, Disperses Wind-Heat",
+          "description": ""
+        },
+        {
+          "id": 16729,
+          "pattern_id": 3134,
+          "herb_name": "Niu Bang Zi",
+          "herb_url": "/knowledge-base/herbs/niu-bang-zi",
+          "translation": "Burdock fruit",
+          "properties": "Cold, Disperses Wind-Heat, Diffuses the Lungs and Expels Pathogenic Factors, Vents Rashes",
+          "description": ""
+        },
+        {
+          "id": 16730,
+          "pattern_id": 3134,
+          "herb_name": "Bo He",
+          "herb_url": "/knowledge-base/herbs/bo-he",
+          "translation": "Peppermint herb",
+          "properties": "Cool, Disperses Wind-Heat, Clears the Head and Brightens the Eyes, Benefits the Throat",
+          "description": ""
+        },
+        {
+          "id": 16731,
+          "pattern_id": 3134,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 16732,
+          "pattern_id": 3134,
+          "herb_name": "Shan Dou Gen",
+          "herb_url": "/knowledge-base/herbs/shan-dou-gen",
+          "translation": "Bushy Sophora Root",
+          "properties": "Cold, Clears Heat and Resolves Toxicity, Benefits the Throat and Reduces Swelling, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 16733,
+          "pattern_id": 3134,
+          "herb_name": "Gua Lou",
+          "herb_url": "/knowledge-base/herbs/gua-lou",
+          "translation": "Trichosanthes fruit",
+          "properties": "Cold, Clears Heat and Transforms Phlegm, Broadens the Chest and Dissipates Nodules, Moistens the Intestines and Unblocks the Bowels",
+          "description": ""
+        },
+        {
+          "id": 16734,
+          "pattern_id": 3134,
+          "herb_name": "Chuan Bei Mu",
+          "herb_url": "/knowledge-base/herbs/chuan-bei-mu",
+          "translation": "Sichuan fritillary bulb",
+          "properties": "Slightly Cool, Clears Heat and Moistens the Lungs, Resolves Phlegm and Stops Cough, Disperses Swelling and Dissipates Nodules",
+          "description": ""
+        },
+        {
+          "id": 16735,
+          "pattern_id": 3134,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 16736,
+          "pattern_id": 3134,
+          "herb_name": "Xuan Shen",
+          "herb_url": "/knowledge-base/herbs/xuan-shen",
+          "translation": "Figwort root",
+          "properties": "Cold, Clears Heat and Cools the Blood, Nourishes Yin and Generates Fluids, Purges Fire and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 16737,
+          "pattern_id": 3134,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        },
+        {
+          "id": 16738,
+          "pattern_id": 3134,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 16739,
+          "pattern_id": 3134,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11307,
+          "pattern_id": 3134,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion on Guanyuan strongly warms and restores the body&#x27;s foundational Yang."
+        },
+        {
+          "id": 11308,
+          "pattern_id": 3134,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Heart Qi, calms palpitations, and opens the chest."
+        },
+        {
+          "id": 11309,
+          "pattern_id": 3134,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Yang, builds blood, and supports overall recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 4183,
+      "condition_id": 642,
+      "question": "Can TCM treat diphtheria without antibiotics?",
+      "answer": "No. Diphtheria is a medical emergency that requires immediate antitoxin and antibiotics to neutralize the toxin and kill the bacteria. TCM can complement conventional treatment by supporting the body's resistance, easing throat symptoms, and accelerating recovery, but it must never be used as a substitute for standard medical care."
+    },
+    {
+      "id": 4184,
+      "condition_id": 642,
+      "question": "What are the early signs of diphtheria in TCM terms?",
+      "answer": "Early diphtheria often presents as a Wind-Heat pattern: mild fever, slight chills, headache, sore throat, and a thin white coating in the throat. The tongue is red at the tip with a thin white or yellow coating, and the pulse feels floating and rapid. At this stage, TCM aims to release the exterior and clear heat with formulas like Yin Qiao San."
+    },
+    {
+      "id": 4185,
+      "condition_id": 642,
+      "question": "Does acupuncture help with the throat membrane?",
+      "answer": "Acupuncture can help reduce throat swelling, pain, and inflammation by clearing heat and toxins from the Lung and Stomach channels. Points like Tiantu (REN-22), Hegu (LI-4), and Lieque (LU-7) are commonly used. However, if the membrane is obstructing breathing, this is a life-threatening emergency requiring immediate hospital care - acupuncture is not a substitute for airway management."
+    },
+    {
+      "id": 4186,
+      "condition_id": 642,
+      "question": "How long does it take for herbs to work on diphtheria?",
+      "answer": "In the early Wind-Heat stage, fever and throat pain often improve within a few days of starting herbs. For deeper Toxic-Heat or Phlegm-Heat patterns, significant improvement may take 1-2 weeks. If the illness has already damaged Yin or Heart Qi, recovery with herbs can take 4-8 weeks or longer, as the body slowly rebuilds its reserves."
+    },
+    {
+      "id": 4187,
+      "condition_id": 642,
+      "question": "Can TCM prevent heart damage from diphtheria?",
+      "answer": "TCM cannot guarantee prevention of toxin-related heart damage, but early and appropriate herbal treatment may reduce the severity and duration of post-infectious heart weakness. Patterns like Heart Qi Deficiency and Heart Yang Deficiency are treated with tonifying formulas such as Du Shen Tang or Shen Fu Tang to support the heart's function. Any signs of irregular heartbeat, extreme fatigue, or cold limbs should be evaluated urgently by a physician."
+    },
+    {
+      "id": 4188,
+      "condition_id": 642,
+      "question": "Is TCM safe for children with diphtheria?",
+      "answer": "TCM herbal formulas and acupuncture can be used for children under the guidance of a qualified practitioner who will adjust dosages and point selection accordingly. However, diphtheria in children can progress rapidly; always follow the pediatrician's emergency plan and use TCM as a supportive measure, not a replacement for vaccination or urgent medical care."
+    },
+    {
+      "id": 4189,
+      "condition_id": 642,
+      "question": "What diet is recommended during diphtheria recovery?",
+      "answer": "During the acute phase, cool, soft, and moistening foods like pear, radish, and congee help soothe the throat and support Yin. Avoid spicy, greasy, or fried foods that create heat and phlegm. In the recovery stage, when weakness and dryness predominate, nourishing soups with ingredients like lily bulb, honey, and lean protein can help rebuild strength. Always prioritize easy-to-swallow textures if the throat is still sore."
+    }
+  ],
+  "research": []
+}

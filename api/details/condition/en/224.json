@@ -1,0 +1,628 @@
+{
+  "id": 224,
+  "name": "Gallstones",
+  "url": "/knowledge-base/conditions/gallstones",
+  "kind": "Condition",
+  "pinyin": "dǎn shí",
+  "chinese_name": "胆石",
+  "preview_text": "The type of pain and what triggers it tells us which pattern is driving your gallstones - and points to a specific treatment strategy. Most chronic gallstone discomfort responds to...",
+  "categories": "[\"Gallbladder & Bile Problems\"]",
+  "body_regions": "[\"Hypochondrium\"]",
+  "synonyms": "[\"Cholecystolithiasis\", \"Cholelithiasis\", \"Gallbladder Stones\", \"Gallstone\", \"Gallstone Disease\", \"Gallstones Stones\", \"Cholelithiasis (gallstones)\", \"Gallstones (cholelithiasis)\"]",
+  "conventional_description": "Gallstones are hardened deposits of digestive fluid that form in the gallbladder, a small organ under the liver. They can be as small as a grain of sand or as large as a golf ball. Many people have gallstones without any symptoms; problems arise when a stone blocks a bile duct, causing sudden intense pain in the upper right abdomen, nausea, vomiting, and sometimes jaundice. Diagnosis is typically made with an abdominal ultrasound, and complications can include inflammation of the gallbladder, infection, or pancreatitis.",
+  "conventional_treatments": "For silent gallstones, doctors often recommend watchful waiting. When gallstones cause symptoms, the most common treatment is surgical removal of the gallbladder (cholecystectomy), usually performed laparoscopically. In cases where surgery is not an option, medications like ursodeoxycholic acid may be used to slowly dissolve small cholesterol stones, though this can take months or years and stones often recur. Endoscopic procedures (ERCP) can remove stones lodged in the bile duct without removing the gallbladder.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM understands gallstones as a problem of bile flow - but bile flow depends on the smooth, downward movement of Qi governed by the Liver and Gallbladder. When the Liver's Qi becomes stagnant, often from emotional stress, frustration, or irregular eating, it fails to propel bile properly. Bile then sits, thickens, and over time, congeals into stones. This is why stress and skipped meals are such powerful triggers for gallstone pain.\nDiet plays an equally central role. Rich, greasy, or spicy foods overwhelm the Spleen and Stomach, creating internal Dampness and Heat. This Damp-Heat mixture can percolate up into the Gallbladder, where it further stagnates and heats the bile, much like reducing a sauce until it crystallizes. This Damp-Heat pattern is the most common one seen in active gallstone disease, and it explains the nausea, bitter taste, and thick yellow tongue coating that so often accompany an attack.\nWhen Damp-Heat is not resolved, or when a stone suddenly blocks the bile duct, the accumulated Heat can intensify into Toxic-Heat - a dangerous, fiery inflammation that produces high fever, severe fixed pain, and jaundice. At the other end of the spectrum, long-standing gallstones and chronic inflammation can slowly wear down the Liver's cooling, moistening Yin, leading to a dull, nagging ache and signs of dryness. This is why one Western diagnosis of gallstones can present so differently from person to person - and why TCM tailors treatment to the specific pattern.",
+  "classical_quote": "「太阳病，过经十余日，反二三下之，后四五日，柴胡证仍在者，先与小柴胡汤。呕不止，心下急，郁郁微烦者，为未解也，与大柴胡汤下之则愈。」",
+  "classical_translation": "\"In Taiyang disease, after more than ten days, if purging has been applied two or three times, and after four or five days the Chai Hu pattern persists, first give Xiao Chai Hu Tang. If there is persistent vomiting, epigastric distress, and slight vexation, it indicates unresolved disorder; give Da Chai Hu Tang to purge and it will be cured. This describes the Shaoyang-Yangming combined pattern often seen in gallstone-related pain and fullness.\"",
+  "classical_source": "Shang Han Lun (Treatise on Cold Damage)  ,  Line 103 \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking what the pain actually feels like and when it occurs. The quality of the discomfort, its triggers, and the accompanying emotional state are the first clues that point toward one pattern rather than another.\nIf the pain is an intermittent, distending ache or colicky pain in the right side or epigastrium that worsens with stress and emotional upset, and there is chest tightness and frequent sighing, the picture suggests Liver Qi Stagnation. The tongue is often pale red with a thin white coating, and the pulse feels wiry.\nWhen the pain is more constant, heavy, and distending, with a sensation of fullness under the right ribcage, a bitter taste in the mouth, nausea, and perhaps a slightly yellow complexion, the pattern shifts to Liver and Gallbladder Damp-Heat. The tongue typically shows a red body with a thick, greasy yellow coating, and the pulse feels slippery and rapid - signs of accumulated dampness and heat that have congealed bile into stones.\nIf the pain becomes severe, fixed, and unbearable, accompanied by high fever, chills, deepening jaundice (yellow skin and eyes), dark scanty urine, and even mental restlessness, this indicates Toxic-Heat. This is an acute, complicated stage where heat and toxins have intensified, and the tongue may be deep red with a dry yellow coating, while the pulse is rapid and forceful.\nIn chronic or long-standing cases, the pain may instead be a dull, lingering ache with dryness of the mouth, night sweats, and a red tongue with little coating, pointing to Liver Yin Deficiency.",
+  "patterns": [
+    {
+      "id": 1122,
+      "condition_id": 224,
+      "pattern_name": "Liver and Gallbladder Damp-Heat",
+      "pattern_slug": "liver-and-gallbladder-damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Pain or distension below the ribs, especially on the right side\", \"Bitter taste in the mouth\", \"Aversion to greasy food, nausea, and bloating\", \"Yellow greasy tongue coating\", \"Dark yellow, scanty urine\", \"Heavy, sluggish feeling in the body\"]",
+      "worse_with": "Greasy, fried, or fatty foods, Alcohol, Emotional stress and frustration, Hot, humid weather, Overeating or heavy meals",
+      "better_with": "Light, easily digested meals, Cooling foods (mung beans, bitter greens), Rest and relaxation, Gentle exercise like walking, Avoiding greasy and spicy foods",
+      "why_this_happens": "When rich, greasy foods and emotional stress overwhelm the body, dampness and heat accumulate in the liver and gallbladder. This thick, stagnant mixture congeals bile into solid stones, obstructing the bile duct. The resulting pressure and inflammation cause the classic right-sided pain, bitter taste, and digestive upset.",
+      "tongue_and_pulse": "Tongue: Red body with redder sides and a thick, yellow, greasy coating. Pulse: Wiry, slippery, and rapid.",
+      "why_triggers_reliefs_work": "Greasy, fatty foods and alcohol directly create dampness and heat in the body, which the liver and gallbladder must process. When they become overwhelmed, this damp-heat condenses into stones and triggers pain. Emotional stress, especially frustration, causes liver Qi to stagnate, which generates heat and further impairs bile flow. A light, cooling diet and relaxation ease the burden on the liver, allowing damp-heat to clear and bile to flow freely again.",
+      "diet_and_lifestyle": "Eat a light diet centered on cooked vegetables, whole grains, and small amounts of lean protein. Strictly avoid fried, greasy, and spicy foods, as well as alcohol, which fuel damp-heat. Incorporate cooling, damp-draining foods like mung beans, Job's tears, and bitter greens. Regular gentle exercise like walking helps keep Qi moving and prevents stagnation. Manage emotional stress through relaxation practices, as frustration directly tightens the liver Qi.",
+      "formulas": [
+        {
+          "id": 2604,
+          "pattern_id": 1122,
+          "formula_name": "Da Chai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/da-chai-hu-tang",
+          "translation": "Major Bupleurum Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cool, Harmonizes the Shaoyang, Clears Interior Heat, Clears Gallbladder and Stomach Heat",
+          "description": "The classic formula to clear damp-heat from the gallbladder, harmonize the Shaoyang, and relieve the distension and pain of gallstones."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5967,
+          "pattern_id": 1122,
+          "herb_name": "Jin Qian Cao",
+          "herb_url": "/knowledge-base/herbs/jin-qian-cao",
+          "translation": "Gold Coin Grass",
+          "properties": "",
+          "description": "The go-to herb to dissolve gallstones, promote bile flow, and clear damp-heat."
+        },
+        {
+          "id": 5968,
+          "pattern_id": 1122,
+          "herb_name": "Yin Chen",
+          "herb_url": "/knowledge-base/herbs/yin-chen",
+          "translation": "Virgate Wormwood Herb",
+          "properties": "",
+          "description": "Clears damp-heat from the liver and gallbladder, especially useful when jaundice is present."
+        },
+        {
+          "id": 5969,
+          "pattern_id": 1122,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges heat and moves stagnation to relieve constipation and pressure."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4022,
+          "pattern_id": 1122,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "The command point of the gallbladder, resolves damp-heat and alleviates hypochondriac pain."
+        },
+        {
+          "id": 4023,
+          "pattern_id": 1122,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Smooths liver Qi and clears heat to address the root of damp-heat formation."
+        },
+        {
+          "id": 4024,
+          "pattern_id": 1122,
+          "acupoint_code": "EX-LE-6",
+          "acupoint_name": "Dannang EX-LE-6",
+          "acupoint_url": "/knowledge-base/acupuncture/dannang-ex-le-6",
+          "translation": "D&#x1CE;n N&#xE1;ng",
+          "properties": "Clears Damp-heat",
+          "description": "An extra point specifically for gallbladder disorders; reduces inflammation and pain."
+        }
+      ]
+    },
+    {
+      "id": 1123,
+      "condition_id": 224,
+      "pattern_name": "Liver Qi Stagnation",
+      "pattern_slug": "liver-qi-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Distending or bloating pain under the right rib or in the epigastrium\", \"Pain worsens with emotional stress or frustration\", \"Frequent sighing and chest tightness\", \"Irritability and mood swings\"]",
+      "worse_with": "Stress and frustration, Fatty or greasy foods, Skipping meals, Alcohol",
+      "better_with": "Gentle movement (walking, stretching), Warm compress on the right side, Emotional release (talking, journaling), Regular meal times",
+      "why_this_happens": "The Liver is responsible for the smooth flow of Qi throughout the body. When emotional stress, frustration, or unexpressed anger accumulates, it disrupts this flow, causing Qi to stagnate in the Liver and Gallbladder channels. This stagnation impedes the secretion and movement of bile, leading to its accumulation and, over time, the formation of stones. The resulting pain is typically intermittent and distending, flaring up when emotional tension rises.",
+      "tongue_and_pulse": "Tongue: normal or slightly dark body, red or slightly purple sides, thin white coat. Pulse: wiry (弦 xián), taut like a guitar string.",
+      "why_triggers_reliefs_work": "<p>Emotional stress directly tightens the Liver Qi, which is the root of this pattern; anything that eases tension helps the Qi flow again. Fatty and greasy foods demand more bile and can overwhelm a stagnant system, while regular meals encourage steady bile release and prevent pooling. Gentle movement physically stimulates the circulation of Qi in the torso, and warmth relaxes the cramped channels.</p>",
+      "diet_and_lifestyle": "Eat at regular times and avoid skipping meals, which can cause bile to stagnate further. Keep rich, greasy, and spicy foods to a minimum, as they burden the Liver and Gallbladder. Gentle, consistent exercise like walking or tai chi helps keep Qi moving. Most importantly, find healthy outlets for frustration - talking, journaling, or breathing exercises can prevent emotional stress from lodging in the body.",
+      "formulas": [
+        {
+          "id": 2605,
+          "pattern_id": 1123,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "The classic formula to soothe the Liver and move Qi, relieving hypochondriac distension and emotional tension."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5970,
+          "pattern_id": 1123,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "",
+          "description": "Spreads Liver Qi and relieves stagnation, the chief herb for this pattern."
+        },
+        {
+          "id": 5971,
+          "pattern_id": 1123,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver and alleviates pain, complementing Chai Hu."
+        },
+        {
+          "id": 5972,
+          "pattern_id": 1123,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "",
+          "description": "Strongly moves Qi in the Liver channel to resolve distension."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4025,
+          "pattern_id": 1123,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The Yuan-source point of the Liver, powerfully moves stagnant Liver Qi."
+        },
+        {
+          "id": 4026,
+          "pattern_id": 1123,
+          "acupoint_code": "LR-14",
+          "acupoint_name": "Qimen LR-14",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/qimen-lr-14",
+          "translation": "Q&#x12B; M&#xE9;n",
+          "properties": "Invigorates Liver Qi, Harmonizes the Liver and Stomach",
+          "description": "Front Mu point of the Liver, directly relieves hypochondriac pain and distension."
+        },
+        {
+          "id": 4027,
+          "pattern_id": 1123,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "He-Sea point of the Gallbladder, promotes the smooth flow of bile and eases rib-side pain."
+        }
+      ]
+    },
+    {
+      "id": 1124,
+      "condition_id": 224,
+      "pattern_name": "Toxic-Heat",
+      "pattern_slug": "toxic-heat",
+      "is_common": 0,
+      "symptoms": "[\"Severe fixed hypochondriac pain\", \"High fever with chills\", \"Deep yellow jaundice\", \"Constipation and dark scanty urine\", \"Restlessness and irritability\", \"Pain worse with pressure\"]",
+      "worse_with": "Spicy, greasy, or fried foods, Alcohol, Stress and anger, Overexertion, Delay in seeking treatment",
+      "better_with": "Cold compress to the right upper abdomen, Rest and lying still, Drinking plenty of water, Eating light cooling foods, Prompt medical attention",
+      "why_this_happens": "When damp-heat in the gallbladder and liver is not resolved, or when a gallstone suddenly obstructs the bile duct, the accumulated heat can intensify into fire toxicity. This toxic-heat scorches the organs, causing severe inflammation, pus formation, and systemic signs like high fever and jaundice. The pain becomes intense and fixed as the gallbladder swells and becomes exquisitely tender.",
+      "tongue_and_pulse": "Tongue: deep red (crimson) body with a dry yellow coating, possibly prickly. Pulse: rapid (shu) and forceful, often wiry (xian) and rapid.",
+      "why_triggers_reliefs_work": "Toxic-heat is a raging fire that must be cleared and drained. Greasy, spicy foods and alcohol add more heat and dampness, while stress flares Liver fire. Rest and cooling measures help the body contain the fire, but because this pattern can lead to abscess or sepsis, medical intervention to drain toxins and unblock the bowels is essential.",
+      "diet_and_lifestyle": "Avoid all greasy, spicy, and fried foods, as well as alcohol, which fuel the fire. Eat light, cooling foods like mung bean soup, cucumber, and watermelon. Stay well hydrated with plain water. This is an acute, dangerous condition-seek urgent medical care alongside TCM treatment.",
+      "formulas": [
+        {
+          "id": 2606,
+          "pattern_id": 1124,
+          "formula_name": "Yin Chen Hao Tang",
+          "formula_url": "/knowledge-base/formulas/yin-chen-hao-tang",
+          "translation": "Artemisia Yinchenhao Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Clears Heat, Drains Dampness, Clears Damp-Heat and Resolves Jaundice",
+          "description": "Clears damp-heat from Liver and Gallbladder, reduces jaundice."
+        },
+        {
+          "id": 2607,
+          "pattern_id": 1124,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "Purges fire toxins and clears heat from all three burners."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5973,
+          "pattern_id": 1124,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "",
+          "description": "Purges heat and toxins from the intestines, relieves constipation."
+        },
+        {
+          "id": 5974,
+          "pattern_id": 1124,
+          "herb_name": "Yin Chen",
+          "herb_url": "/knowledge-base/herbs/yin-chen",
+          "translation": "Virgate Wormwood Herb",
+          "properties": "",
+          "description": "Clears damp-heat from Liver and Gallbladder, reduces jaundice."
+        },
+        {
+          "id": 5975,
+          "pattern_id": 1124,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "",
+          "description": "Clears heat and resolves fire toxin, especially in the middle burner."
+        },
+        {
+          "id": 5976,
+          "pattern_id": 1124,
+          "herb_name": "Jin Qian Cao",
+          "herb_url": "/knowledge-base/herbs/jin-qian-cao",
+          "translation": "Gold Coin Grass",
+          "properties": "",
+          "description": "Promotes bile flow and helps expel gallstones."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4028,
+          "pattern_id": 1124,
+          "acupoint_code": "BL-19",
+          "acupoint_name": "Danshu BL-19",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/danshu-bl-19",
+          "translation": "D&#x1CE;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat from the Liver and Gall Bladder, Subdues Rebellious Stomach  Qi",
+          "description": "Back-Shu point of the Gallbladder, clears heat and benefits the gallbladder."
+        },
+        {
+          "id": 4029,
+          "pattern_id": 1124,
+          "acupoint_code": "GB-34",
+          "acupoint_name": "Yanglingquan GB-34",
+          "acupoint_url": "/knowledge-base/acupuncture/gall-bladder-meridian/yanglingquan-gb-34",
+          "translation": "Y&#xE1;ng L&#xED;ng Qu&#xE1;n",
+          "properties": "Resolves Liver Qi Stagnation, Resolves Damp-Heat in the Liver and Gall Bladder",
+          "description": "He-Sea point of the Gallbladder, drains damp-heat and relieves pain."
+        },
+        {
+          "id": 4030,
+          "pattern_id": 1124,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Shu-Stream point of Liver, soothes Liver Qi and clears heat."
+        },
+        {
+          "id": 4031,
+          "pattern_id": 1124,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "He-Sea point of Stomach, clears heat and supports the Spleen to resolve dampness."
+        }
+      ]
+    },
+    {
+      "id": 1125,
+      "condition_id": 224,
+      "pattern_name": "Liver Yin Deficiency",
+      "pattern_slug": "liver-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dull burning ache below the ribs\", \"Dry, gritty eyes or blurred vision\", \"Night sweats\", \"Five-centre heat (palms, soles, chest)\", \"Dry mouth and throat\", \"Irritability and restless sleep\"]",
+      "worse_with": "Spicy and fried food, Anger and frustration, Late nights and overwork, Alcohol and coffee",
+      "better_with": "Rest and early nights, Cool, moistening foods, Gentle stretching, Sipping warm water",
+      "why_this_happens": "When gallstones linger for a long time, or when damp-heat and stagnant Qi burn inside for months or years, they slowly consume the Liver's cooling, moistening Yin. Without enough Yin to nourish the Liver and Gallbladder, the tissues become dry and underfed, producing a dull, burning ache rather than a sharp colic. The same dryness shows up as a parched mouth, gritty eyes, and the restless heat of night sweats.",
+      "tongue_and_pulse": "Tongue: red, thin body with redder sides, dry surface, little or no coating. Pulse: wiry (弦 xián), fine (细 xì), and rapid (数 shuò).",
+      "why_triggers_reliefs_work": "Liver Yin Deficiency is a state of dryness and empty heat. Spicy, fried, and heating foods, as well as late nights and emotional stress, consume Yin fluids and fan the flames of deficiency heat, making the dull ache and night sweats worse. Rest, cooling-moistening foods, and gentle movement preserve and rebuild Yin, calming the Liver and relieving the lingering pain.",
+      "diet_and_lifestyle": "Protect Yin by going to bed early and avoiding late-night screen time. Favour moistening, cooling foods like pear, lily bulb, black sesame, and millet; sip warm water throughout the day. Strictly limit alcohol, coffee, spicy dishes, and deep-fried foods, which dry up precious fluids. Gentle, flowing exercise such as tai chi or a leisurely walk supports Qi without overheating the body.",
+      "formulas": [
+        {
+          "id": 2608,
+          "pattern_id": 1125,
+          "formula_name": "Yi Guan Jian",
+          "formula_url": "/knowledge-base/formulas/yi-guan-jian",
+          "translation": "Linking Decoction &#xB7; Q&#x12B;ng dynasty, 1770 CE",
+          "properties": "Cool, Nourishes Liver and Kidney Yin, Soothes the Liver and Regulates Qi, Nourishes Blood and Softens the Liver",
+          "description": "A classic formula to nourish Liver Yin, soothe the Liver, and gently clear empty heat, often modified with herbs that soften and expel stones."
+        },
+        {
+          "id": 2609,
+          "pattern_id": 1125,
+          "formula_name": "Da Chai Hu Tang",
+          "formula_url": "/knowledge-base/formulas/da-chai-hu-tang",
+          "translation": "Major Bupleurum Decoction &#xB7; Eastern H&#xE0;n dynasty, circa 200 CE",
+          "properties": "Cool, Harmonizes the Shaoyang, Clears Interior Heat, Clears Gallbladder and Stomach Heat",
+          "description": "A classical formula used to address conditions where illness has affected both the body&#x27;s surface and its interior, particularly when Heat has begun to accumulate in the digestive system. It is commonly applied for upper abdominal pain and fullness, nausea and vomiting, alternating chills and fever, constipation, and irritability. Modern practitioners frequently use it for gallbladder and pancreatic conditions."
+        },
+        {
+          "id": 2610,
+          "pattern_id": 1125,
+          "formula_name": "Chai Hu Shu Gan San",
+          "formula_url": "/knowledge-base/formulas/chai-hu-shu-gan-san",
+          "translation": "Bupleurum Liver-Soothing Powder &#xB7; M&#xED;ng dynasty, ~1624 CE",
+          "properties": "Slightly Warm, Courses the Liver and Resolves Constraint, Moves Qi and Alleviates Pain, Invigorates Blood and Dispels Stasis",
+          "description": "A classical formula for people experiencing rib-side or chest pain, emotional frustration, irritability, sighing, and bloating caused by stagnation of Liver Qi. It works by smoothing the flow of Liver Qi, relieving tension, and gently moving blood to stop pain. It is one of the most widely used formulas for stress-related digestive and emotional complaints."
+        },
+        {
+          "id": 2611,
+          "pattern_id": 1125,
+          "formula_name": "Yin Chen Hao Tang",
+          "formula_url": "/knowledge-base/formulas/yin-chen-hao-tang",
+          "translation": "Artemisia Yinchenhao Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Cold, Clears Heat, Drains Dampness, Clears Damp-Heat and Resolves Jaundice",
+          "description": "A classical three-herb formula used to clear Heat and drain Dampness from the body, primarily for jaundice with bright yellow skin and eyes. It is one of the most important traditional formulas for liver and gallbladder conditions where Damp-Heat has accumulated, causing yellowing, digestive discomfort, and dark urine."
+        },
+        {
+          "id": 2612,
+          "pattern_id": 1125,
+          "formula_name": "Huang Lian Jie Du Tang",
+          "formula_url": "/knowledge-base/formulas/huang-lian-jie-du-tang",
+          "translation": "Coptis Decoction to Relieve Toxicity &#xB7; Eastern J&#xEC;n dynasty, ~340 CE (formula); T&#xE1;ng dynasty, 752 CE (named in Wai Tai Mi Yao)",
+          "properties": "Cold, Drains Fire, Resolves Toxicity, Clears Heat from the Three Burners",
+          "description": "A powerful classical formula that clears intense heat and toxins from all levels of the body. It is used for conditions involving high fever, restlessness, infections, skin eruptions, and bleeding caused by excessive internal heat. Because it is strongly cooling, it is intended only for acute, excess-heat conditions and not for long-term use."
+        },
+        {
+          "id": 2613,
+          "pattern_id": 1125,
+          "formula_name": "Yi Guan Jian",
+          "formula_url": "/knowledge-base/formulas/yi-guan-jian",
+          "translation": "Linking Decoction &#xB7; Q&#x12B;ng dynasty, 1770 CE",
+          "properties": "Cool, Nourishes Liver and Kidney Yin, Soothes the Liver and Regulates Qi, Nourishes Blood and Softens the Liver",
+          "description": "A classical formula designed to deeply nourish and moisten the Liver and Kidneys while gently restoring the smooth flow of Liver Qi. It is used for people experiencing rib-side or chest pain, acid reflux, bitter taste in the mouth, dry throat, and emotional tension that arise when the body&#x27;s fluids and blood become depleted, leaving the Liver dry and unable to function smoothly."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 5977,
+          "pattern_id": 1125,
+          "herb_name": "Nu Zhen Zi",
+          "herb_url": "/knowledge-base/herbs/nu-zhen-zi",
+          "translation": "Glossy privet fruit",
+          "properties": "",
+          "description": "Nourishes Liver and Kidney Yin and cools deficiency heat."
+        },
+        {
+          "id": 5978,
+          "pattern_id": 1125,
+          "herb_name": "Mo Han Lian",
+          "herb_url": "/knowledge-base/herbs/mo-han-lian",
+          "translation": "Eclip&#x442;&#x430; herb (False Daisy)",
+          "properties": "",
+          "description": "Enriches Yin and clears heat, often paired with Nu Zhen Zi to protect the Liver."
+        },
+        {
+          "id": 5979,
+          "pattern_id": 1125,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Moistens dryness and generates fluids to relieve dry mouth and throat."
+        },
+        {
+          "id": 5980,
+          "pattern_id": 1125,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Softens the Liver, eases spasms, and nourishes Yin to relieve the dull rib ache."
+        },
+        {
+          "id": 5981,
+          "pattern_id": 1125,
+          "herb_name": "Jin Qian Cao",
+          "herb_url": "/knowledge-base/herbs/jin-qian-cao",
+          "translation": "Gold Coin Grass",
+          "properties": "Cool, Clears Damp-Heat and Resolves Jaundice, Promotes Urination and Relieves Stranguria, Expels Urinary Stones",
+          "description": ""
+        },
+        {
+          "id": 5982,
+          "pattern_id": 1125,
+          "herb_name": "Yin Chen",
+          "herb_url": "/knowledge-base/herbs/yin-chen",
+          "translation": "Virgate Wormwood Herb",
+          "properties": "Slightly Cool, Clears Heat and Drains Dampness, Promotes bile flow and relieves jaundice, Clears Damp-Heat from the Liver and Gallbladder",
+          "description": ""
+        },
+        {
+          "id": 5983,
+          "pattern_id": 1125,
+          "herb_name": "Da Huang",
+          "herb_url": "/knowledge-base/herbs/da-huang",
+          "translation": "Rhubarb root and rhizome",
+          "properties": "Cold, Purges Heat and Unblocks the Bowels, Clears Heat and Drains Fire, Cools the Blood and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 5984,
+          "pattern_id": 1125,
+          "herb_name": "Chai Hu",
+          "herb_url": "/knowledge-base/herbs/chai-hu",
+          "translation": "Bupleurum root",
+          "properties": "Slightly Cool, Disperses Exterior Conditions and Reduces Fever, Courses the Liver and Resolves Constraint, Lifts Sunken Qi",
+          "description": ""
+        },
+        {
+          "id": 5985,
+          "pattern_id": 1125,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 5986,
+          "pattern_id": 1125,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 5987,
+          "pattern_id": 1125,
+          "herb_name": "Huang Lian",
+          "herb_url": "/knowledge-base/herbs/huang-lian",
+          "translation": "Coptis rhizome",
+          "properties": "Cold, Clears Heat and dries Dampness, Drains Fire, Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 5988,
+          "pattern_id": 1125,
+          "herb_name": "Nu Zhen Zi",
+          "herb_url": "/knowledge-base/herbs/nu-zhen-zi",
+          "translation": "Glossy privet fruit",
+          "properties": "Cool, Nourishes Liver and Kidney Yin, Brightens the Eyes, Blackens the Hair and Beard",
+          "description": ""
+        },
+        {
+          "id": 5989,
+          "pattern_id": 1125,
+          "herb_name": "Mo Han Lian",
+          "herb_url": "/knowledge-base/herbs/mo-han-lian",
+          "translation": "Eclip&#x442;&#x430; herb (False Daisy)",
+          "properties": "Cold, Nourishes Liver and Kidney Yin, Cools the Blood and Stops Bleeding, Darkens the hair and strengthens the teeth",
+          "description": ""
+        },
+        {
+          "id": 5990,
+          "pattern_id": 1125,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 4032,
+          "pattern_id": 1125,
+          "acupoint_code": "BL-18",
+          "acupoint_name": "Ganshu BL-18",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/ganshu-bl-18",
+          "translation": "G&#x101;n Sh&#x16B;",
+          "properties": "Resolves Damp-Heat, Invigorates Liver Qi and Blood",
+          "description": "The Back-Shu point of the Liver; tonifies Liver Yin and regulates Liver Qi."
+        },
+        {
+          "id": 4033,
+          "pattern_id": 1125,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Strengthens Kidney Yin to support the Liver (Water nourishes Wood), addressing the root."
+        },
+        {
+          "id": 4034,
+          "pattern_id": 1125,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Yin and Blood, calms the mind, and supports fluid generation."
+        },
+        {
+          "id": 4035,
+          "pattern_id": 1125,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "The Source point of the Liver; soothes Liver Qi and anchors rising empty heat."
+        },
+        {
+          "id": 4036,
+          "pattern_id": 1125,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Kidney Yin and clears deficiency heat, especially helpful for night sweats and dry throat."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1444,
+      "condition_id": 224,
+      "question": "Can Chinese herbs dissolve gallstones?",
+      "answer": "Some herbs, like Jin Qian Cao (Lysimachia), are traditionally used to 'break stones' and promote bile flow, but complete dissolution of large stones is rare. Herbal treatment is more effective at softening and passing small stones, preventing new ones from forming, and relieving the pain and inflammation that stones cause."
+    },
+    {
+      "id": 1445,
+      "condition_id": 224,
+      "question": "Will acupuncture help with gallstone pain?",
+      "answer": "Yes, acupuncture can be very effective for both acute and chronic gallstone pain. Points like Yanglingquan (GB-34) and Dannang (EX-LE-6) are specific to the Gallbladder channel and can relax the bile ducts, reduce spasms, and alleviate inflammation. Many patients feel relief during or shortly after a session."
+    },
+    {
+      "id": 1446,
+      "condition_id": 224,
+      "question": "Can TCM help me avoid gallbladder surgery?",
+      "answer": "For many people with mild to moderate symptoms, TCM can manage pain and reduce stone-forming tendencies well enough to avoid surgery. However, if stones cause severe obstruction, persistent infection, or pancreatitis, surgery remains the safest option. A TCM practitioner can help you assess whether a non-surgical approach is appropriate for your case."
+    },
+    {
+      "id": 1447,
+      "condition_id": 224,
+      "question": "Is it safe to take Chinese herbs if I have gallstones?",
+      "answer": "When prescribed by a qualified practitioner based on your specific pattern, herbal formulas are safe and can be very beneficial. Some strong purgative herbs are used only in acute situations and for short periods. Always inform your practitioner of any medications you take and share the results of any imaging studies, especially if a bile duct obstruction is suspected."
+    },
+    {
+      "id": 1448,
+      "condition_id": 224,
+      "question": "What foods should I avoid with gallstones?",
+      "answer": "In TCM, the most important foods to avoid are greasy, fried, and fatty foods, as well as alcohol, excessive dairy, and spicy dishes. These all create Dampness and Heat, which are the primary culprits in stone formation. Instead, focus on light, cooked meals with plenty of vegetables, and avoid overeating or skipping meals."
+    },
+    {
+      "id": 1449,
+      "condition_id": 224,
+      "question": "Can gallstones come back after TCM treatment?",
+      "answer": "If the underlying imbalance - such as Liver Qi Stagnation or Damp-Heat - is fully corrected, the tendency to form stones is greatly reduced. However, long-term dietary and lifestyle habits play a major role. TCM aims to create a body environment where stones are unlikely to form again, but a return to old eating patterns can trigger a recurrence."
+    },
+    {
+      "id": 1450,
+      "condition_id": 224,
+      "question": "How does stress affect gallstones?",
+      "answer": "In TCM, stress is one of the main causes of Liver Qi Stagnation, a key mechanism behind gallstone formation. When Qi stagnates, bile flow becomes sluggish and stones can develop. Acupuncture and herbs that smooth Liver Qi not only relieve the emotional tension but also directly improve bile flow, making stress management a core part of treatment."
+    }
+  ],
+  "research": [
+    {
+      "id": 336,
+      "condition_id": 224,
+      "title": "Expert consensus on integrated traditional Chinese and Western medicine for cholelithiasis (2025)",
+      "description": "A national expert consensus providing standardized TCM pattern differentiation, treatment principles, and integrated management strategies for gallstone disease. It covers common patterns such as Liver Qi Stagnation, Damp-Heat, and Toxic-Heat, and recommends specific herbal formulas and acupuncture protocols.",
+      "url": "",
+      "periodical": "Chinese Society of Integrated Traditional and Western Medicine, Digestive Disease Committee. Expert consensus on integrated traditional Chinese and Western medicine for cholelithiasis (2025). Chinese Journal of Digestive Diseases. 2025;45(3):145-160."
+    },
+    {
+      "id": 337,
+      "condition_id": 224,
+      "title": "Clinical observation of Da Chai Hu Tang combined with ursodeoxycholic acid in treating gallstones",
+      "description": "In this randomized controlled trial, patients with gallstones were treated with either conventional ursodeoxycholic acid alone or in combination with Da Chai Hu Tang. The combination group showed significantly greater improvement in symptoms, higher stone dissolution rates, and reduced recurrence over a 6-month follow-up.",
+      "url": "",
+      "periodical": "Li X, Zhang H, Wang Y. Clinical observation of Da Chai Hu Tang combined with ursodeoxycholic acid in treating gallstones. Chinese Journal of Integrated Traditional and Western Medicine. 2019;39(8):912-916."
+    },
+    {
+      "id": 338,
+      "condition_id": 224,
+      "title": "Acupuncture for acute biliary colic: a randomized controlled trial",
+      "description": "This trial compared acupuncture with intramuscular pain relief in patients presenting with acute biliary colic due to gallstones. Acupuncture at Yanglingquan (GB-34), Taichong (LR-3), and Dannang (EX-LE-6) provided rapid pain relief comparable to standard analgesia, with fewer side effects.",
+      "url": "",
+      "periodical": "Wang Y, Chen L, Zhang Q. Acupuncture for acute biliary colic: a randomized controlled trial. World Journal of Acupuncture-Moxibustion. 2021;31(2):1-6."
+    }
+  ]
+}

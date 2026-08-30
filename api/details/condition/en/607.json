@@ -1,0 +1,736 @@
+{
+  "id": 607,
+  "name": "Weak Pulse",
+  "url": "/knowledge-base/conditions/weak-pulse",
+  "kind": "Symptom",
+  "pinyin": "ruò mài",
+  "chinese_name": "弱脉",
+  "preview_text": "A weak pulse isn't a single problem - it's a map of where your body's reserves are lowest. By identifying whether Qi, Blood, or Yang is most depleted, and which organ is struggling...",
+  "categories": "[\"Blood Pressure & Pulse\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Diminished Pulse\", \"Feeble Heartbeat\", \"Empty Pulse\", \"Faint Pulse\", \"Extremely faint or absent pulse\"]",
+  "conventional_description": "In Western medicine, a 'weak pulse' is a physical finding rather than a diagnosis. It can indicate low blood pressure, reduced cardiac output, or dehydration. Doctors assess pulse strength along with heart rate, blood pressure, and other vital signs to identify underlying conditions like anemia, heart failure, or shock. A weak pulse alone is not treated; instead, the cause is investigated and managed.",
+  "conventional_treatments": "Treatment depends entirely on the underlying cause. If due to dehydration, fluids are given. If due to anemia, iron supplements or transfusions may be used. Heart failure may require medications to improve cardiac function. In many cases, a weak pulse in a healthy person may be normal and require no intervention.",
+  "conventional_limitations": "",
+  "tcm_understanding": "Pulse diagnosis is one of the cornerstones of TCM. A practitioner feels not just the rate but the depth, width, strength, and rhythm of the pulse at three positions on each wrist, each corresponding to a different organ system. A weak pulse (弱脉, ruò mài) feels soft, deep, and forceless - it disappears under light pressure and offers little resistance when pressed firmly. This quality signals that the body's Qi, Blood, or Yang is insufficient to propel blood through the vessels with vigor.\nBut the story doesn't end with 'weak.' The practitioner listens to where the weakness is most pronounced. If it's weakest at the right middle position (Spleen/Stomach), and the person complains of bloating, fatigue, and loose stools, the root is likely Spleen Qi Deficiency - the digestive engine isn't generating enough Qi to fill the pulse. If the pulse is weak and thin, the tongue is pale, and the person has dizziness and pale lips, the deficiency is in Blood.\nIf the weakness is most noticeable at the rear positions (Kidney), accompanied by coldness and frequent urination, Kidney Yang Deficiency is likely. In severe cases, a pulse so faint it nearly vanishes signals Collapse of Yang - a medical emergency where the body's life-warming fire is nearly extinguished. This is why one Western sign can have so many TCM meanings: the pulse is a window into the body's resource balance, not just a measure of heart function.",
+  "classical_quote": "「弱脉极软而沉细，按之乃得，举之无有。」",
+  "classical_translation": "\"A weak pulse is extremely soft, deep, and fine; it is felt only with heavy pressure and disappears with light pressure.\"",
+  "classical_source": "The Pulse Classic (Mai Jing)  ,  Chapter on the Twenty-Four Pulses \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by feeling the pulse at three positions on each wrist. A weak pulse (弱脉, ruò mài) feels soft, deep, and forceless - it vanishes under light pressure and offers little resistance even when pressed firmly. This quality alone signals that the body’s Qi, blood, or warming Yang is insufficient, and the practitioner’s next questions aim to find out which organ system is most depleted.\nIf the person describes poor appetite, bloating, loose stools, and a sensation of heavy limbs, the weak pulse often points to Spleen Qi Deficiency. The tongue is usually pale with a thin white coat, and the pulse may feel especially weak at the right middle position, corresponding to the Spleen’s function in transforming food into energy.\nWhen the main complaints are a pale complexion, dizziness, dry skin, and a thin tongue with little coating, the weak pulse suggests Blood Deficiency. This pattern is common after heavy menstrual bleeding or prolonged illness. The pulse feels thin and weak, lacking fullness, and the person may also experience palpitations or poor memory.\nIf Blood Deficiency is accompanied by clear Qi deficiency signs - such as shortness of breath, spontaneous sweating, and extreme fatigue - the diagnosis shifts to Qi and Blood Deficiency. Here the weak pulse is joined by a pale, slightly swollen tongue, and the person feels drained even after rest, because both the body’s motive force and its nourishment are low.\nHeart Yang Deficiency brings a different picture: palpitations, chest tightness, and a distinct coldness in the body. The tongue appears pale and puffy, and the weak pulse is often deep and slow. The practitioner will ask about emotional strain or chronic illness that may have drained the Heart’s warming fire, leaving the pulse without the strength to push blood forward.\nKidney Yang Deficiency presents with sore lower back, frequent nighttime urination, and cold limbs. The weak pulse is most pronounced at the proximal position (felt near the wrist crease), reflecting the Kidney’s depleted fire. This pattern often develops with age or after long-term overwork and is linked to a deep, weak pulse that feels especially faint under the finger.\nIn rare cases, a barely perceptible pulse signals Collapse of Yang, a critical state where the body’s vital warmth is nearly extinguished. The person may have icy limbs, profuse cold sweat, and a pale or bluish complexion. This is a medical emergency, and the pulse quality is described as minute or even impalpable, demanding immediate professional care.",
+  "patterns": [
+    {
+      "id": 2949,
+      "condition_id": 607,
+      "pattern_name": "Spleen Qi Deficiency",
+      "pattern_slug": "spleen-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Poor appetite and reduced food intake\", \"Abdominal bloating that worsens after eating\", \"Loose or soft stools\", \"Fatigue and heaviness in the limbs\", \"Dull yellowish or pale complexion\"]",
+      "worse_with": "Overeating or heavy meals, Cold, raw, or greasy foods, Excessive worry or overthinking, Prolonged sitting or inactivity, Overwork or fatigue",
+      "better_with": "Warm, cooked meals, Rest after eating, Gentle walking or movement, Small, frequent meals, Warmth on the abdomen",
+      "why_this_happens": "The Spleen is the main organ that transforms food into Qi and blood. When Spleen Qi is weak, it fails to generate enough Qi to propel the blood and enough blood to fill the vessels. This leaves the pulse feeling soft, forceless, and weak, especially at the right middle (Guan) position, which reflects the Spleen and Stomach.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender body with tooth marks, thin white coating. Pulse: soft and forceless overall, weakest at the right Guan (Spleen) position.",
+      "why_triggers_reliefs_work": "The Spleen transforms food into Qi, so warm, cooked, easy-to-digest foods support this function while cold, raw, heavy foods burden it. Rest after eating allows Qi to focus on digestion, and gentle movement stimulates Spleen Qi circulation without exhausting it. Excessive worry knots the Qi and further weakens the Spleen, and overwork depletes Qi directly.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods like soups, congees, and steamed vegetables. Chew thoroughly and avoid eating in a rush or while distracted. Gentle daily movement such as walking supports Qi circulation without depleting it. Avoid raw, cold, or greasy foods that burden the Spleen.",
+      "formulas": [
+        {
+          "id": 6699,
+          "pattern_id": 2949,
+          "formula_name": "Si Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/si-jun-zi-tang",
+          "translation": "Four Gentlemen Decoction &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "The foundational formula to tonify Spleen Qi and strengthen the source of Qi and blood."
+        },
+        {
+          "id": 6700,
+          "pattern_id": 2949,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "Especially helpful when loose stools and dampness are prominent, as it strengthens the Spleen and resolves dampness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15722,
+          "pattern_id": 2949,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Boosts Spleen Qi and raises the clear Yang."
+        },
+        {
+          "id": 15723,
+          "pattern_id": 2949,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen and dries dampness, improving appetite and digestion."
+        },
+        {
+          "id": 15724,
+          "pattern_id": 2949,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Tonifies the middle burner and replenishes Qi."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10629,
+          "pattern_id": 2949,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Spleen and Stomach Qi, the most important point for general Qi deficiency."
+        },
+        {
+          "id": 10630,
+          "pattern_id": 2949,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-Shu point of the Spleen, directly strengthens Spleen function."
+        },
+        {
+          "id": 10631,
+          "pattern_id": 2949,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Harmonizes the Spleen and resolves dampness."
+        }
+      ]
+    },
+    {
+      "id": 2950,
+      "condition_id": 607,
+      "pattern_name": "Qi and Blood Deficiency",
+      "pattern_slug": "qi-and-blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Persistent fatigue and lack of energy\", \"Pale or sallow complexion\", \"Dizziness and lightheadedness\", \"Heart palpitations\", \"Shortness of breath on exertion\", \"Poor appetite\"]",
+      "worse_with": "Overwork and chronic stress, Skipping meals or irregular eating, Cold, raw, or greasy foods, Excessive sweating or heavy lifting, Prolonged standing",
+      "better_with": "Rest and sleep, Warm, cooked meals, Gentle walking or movement, Warmth on the abdomen",
+      "why_this_happens": "Qi is the force that pushes blood through the vessels, and Blood is the substance that fills them. When both are deficient, the vessels lack fullness and the pulse wave lacks driving strength. This is why the pulse feels thin, soft, and forceless under the fingers - it collapses easily with light pressure.",
+      "tongue_and_pulse": "Tongue: pale body, may be thin or have teeth marks, thin white coating. Pulse: fine, weak, and often feels empty; weakest at the right Guan (Spleen) position.",
+      "why_triggers_reliefs_work": "Rest and sleep are the body's natural way to recover Qi and Blood, while overwork and stress burn through them. Warm, cooked meals are easily transformed into Qi and Blood by the Spleen, but raw and cold foods dampen the digestive fire and block production. Gentle movement keeps Qi flowing without draining it; heavy exertion or prolonged standing further depletes what little Qi you have. Mild warmth on the lower abdomen supports the Spleen and Kidney's ability to generate and hold Blood.",
+      "diet_and_lifestyle": "Eat regular, warm, cooked meals that are easy to digest. Include blood-nourishing foods like red dates, goji berries, black sesame, beef, bone broth, and dark leafy greens. Avoid raw, cold, and greasy foods that burden the Spleen. Prioritise rest and avoid overwork; a short afternoon nap can help rebuild Qi. Gentle daily movement like walking or qigong supports circulation without exhausting you.",
+      "formulas": [
+        {
+          "id": 6701,
+          "pattern_id": 2950,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "The classic formula to tonify both Qi and Blood. It combines Si Jun Zi Tang (Four Gentlemen) to strengthen Qi and Si Wu Tang (Four Substances) to nourish Blood, directly addressing the dual deficiency."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15725,
+          "pattern_id": 2950,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and gently invigorates circulation to help fill the vessels."
+        },
+        {
+          "id": 15726,
+          "pattern_id": 2950,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Powerfully tonifies Qi to generate Blood and lift the pulse force."
+        },
+        {
+          "id": 15727,
+          "pattern_id": 2950,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens Spleen Qi, the root of Blood production, and helps restore appetite."
+        },
+        {
+          "id": 15728,
+          "pattern_id": 2950,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Enriches Blood and Yin, supporting the substance that fills the pulse."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10632,
+          "pattern_id": 2950,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Blood, strengthens the Spleen and Stomach to build new Blood. Use with moxibustion."
+        },
+        {
+          "id": 10633,
+          "pattern_id": 2950,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Nourishes Blood and harmonizes the Spleen, Liver, and Kidney to support overall vitality."
+        },
+        {
+          "id": 10634,
+          "pattern_id": 2950,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Boosts original Qi to strengthen the pulse and warm the lower body."
+        },
+        {
+          "id": 10635,
+          "pattern_id": 2950,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Fortifies Blood and Yang, especially when the pulse feels weakest at the deep proximal position."
+        }
+      ]
+    },
+    {
+      "id": 2951,
+      "condition_id": 607,
+      "pattern_name": "Blood Deficiency",
+      "pattern_slug": "blood-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Pale or sallow complexion\", \"Pale lips and nail beds\", \"Dizziness or light-headedness\", \"Heart palpitations\", \"Scanty menstrual flow with pale blood\"]",
+      "worse_with": "Overwork or fatigue, Heavy menstrual bleeding, Poor diet lacking protein, Chronic stress and worry",
+      "better_with": "Rest and sleep, Warm, cooked meals, Iron-rich foods like red meat, Gentle walking or movement",
+      "why_this_happens": "Blood is the substance that fills the vessels and gives the pulse its fullness and strength. When Blood is deficient, the vessels are underfilled, so the pulse feels thin, weak, and forceless - like a thread lacking substance. This pattern often reflects an inability of the Spleen and Stomach to generate enough Blood, leaving the pulse without the volume it needs to be felt strongly.",
+      "tongue_and_pulse": "Tongue: pale, thin body with a thin white coating. Pulse: fine (细 xì), weak, and forceless; may feel choppy (涩 sè).",
+      "why_triggers_reliefs_work": "Blood Deficiency means the vessels are underfilled. Rest and nourishing foods help the Spleen generate more Blood, while overwork and blood loss further deplete the scarce Blood, making the pulse even weaker. Gentle movement promotes circulation without exhausting Blood reserves.",
+      "diet_and_lifestyle": "Eat warm, cooked meals that build Blood: red meat, liver, spinach, black sesame, goji berries, and bone broth. Avoid raw and cold foods, as they weaken the Spleen's ability to produce Blood. Prioritize sleep and avoid overwork, which deplete Blood further.",
+      "formulas": [
+        {
+          "id": 6702,
+          "pattern_id": 2951,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "The classic Blood tonic that nourishes and invigorates Blood to fill the vessels and strengthen the pulse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15729,
+          "pattern_id": 2951,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes Blood and invigorates circulation, the primary herb for Blood Deficiency."
+        },
+        {
+          "id": 15730,
+          "pattern_id": 2951,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "",
+          "description": "Tonifies Blood and nourishes Yin, essential for pale tongue and dizziness."
+        },
+        {
+          "id": 15731,
+          "pattern_id": 2951,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "",
+          "description": "Nourishes Liver Blood and calms palpitations."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10636,
+          "pattern_id": 2951,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies the Spleen and Liver to generate and store Blood."
+        },
+        {
+          "id": 10637,
+          "pattern_id": 2951,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, the source of Blood production."
+        },
+        {
+          "id": 10638,
+          "pattern_id": 2951,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "The Sea of Blood point, directly treats Blood Deficiency and invigorates circulation."
+        }
+      ]
+    },
+    {
+      "id": 2952,
+      "condition_id": 607,
+      "pattern_name": "Heart Yang Deficiency",
+      "pattern_slug": "heart-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Palpitations that worsen with activity\", \"Chest stuffiness or mild chest pain\", \"Cold hands and feet\", \"Bright pale or slightly bluish face\", \"Mental listlessness and fatigue\"]",
+      "worse_with": "Cold environments or exposure, Overwork or fatigue, Cold, raw, or greasy foods, Emotional stress or fear, Late nights",
+      "better_with": "Warmth and covering up, Rest and sleep, Warm, cooked meals, Gentle walking or movement, Moxibustion",
+      "why_this_happens": "Heart Yang is the warm driving force that pushes blood through the vessels. When it weakens, the Heart cannot pump with enough strength, so the pulse becomes deep, soft, and weak-most noticeably at the left wrist position that reflects the Heart. The lack of warming Yang also makes the blood feel cold and sluggish, which is why the pulse may be slow and faint.",
+      "tongue_and_pulse": "Tongue: pale, puffy, and tender with teeth marks and a white slippery coating. Pulse: deep, weak, and most notably feeble at the left Cun (Heart) position; may be knotted in more pronounced cases.",
+      "why_triggers_reliefs_work": "Heart Yang is the body's internal fire; cold and overwork drain it, making the pulse even weaker. Warmth and rest conserve that fire, while warm foods and moxibustion add gentle fuel. Fear and anxiety consume Heart Qi directly, so a calm mind protects the Yang that keeps the pulse strong.",
+      "diet_and_lifestyle": "Keep the chest and back warm, especially in cold weather. Favor warm, cooked foods like soups, stews, and gentle spices such as ginger and cinnamon. Avoid raw, chilled, and icy foods. Gentle daily movement like walking helps circulate Yang, but stop before you feel breathless or sweaty. Moxibustion on the lower abdomen or upper back can be a comforting home practice.",
+      "formulas": [
+        {
+          "id": 6703,
+          "pattern_id": 2952,
+          "formula_name": "Gui Zhi Jia Long Gu Mu Li Tang",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang",
+          "translation": "Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage",
+          "description": "Warms and strengthens Heart Yang, settles palpitations, and eases chest stuffiness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15732,
+          "pattern_id": 2952,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms the Heart and unblocks Yang Qi, giving the pulse more force."
+        },
+        {
+          "id": 15733,
+          "pattern_id": 2952,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "",
+          "description": "Tonifies Qi and harmonizes, supporting the Heart&#x27;s steady rhythm."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10639,
+          "pattern_id": 2952,
+          "acupoint_code": "BL-15",
+          "acupoint_name": "Xinshu BL-15",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/xinshu-bl-15",
+          "translation": "X&#x12B;n Sh&#x16B;",
+          "properties": "Calms the Mind",
+          "description": "Directly tonifies Heart Yang and calms the spirit; use with moxibustion."
+        },
+        {
+          "id": 10640,
+          "pattern_id": 2952,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Strengthens Heart Qi and Yang, relieves chest oppression."
+        },
+        {
+          "id": 10641,
+          "pattern_id": 2952,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxa this point to warm the body&#x27;s foundational Yang and support the Heart."
+        }
+      ]
+    },
+    {
+      "id": 2953,
+      "condition_id": 607,
+      "pattern_name": "Kidney Yang Deficiency",
+      "pattern_slug": "kidney-yang-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Cold aching lower back and knees\", \"Frequent urination at night\", \"Feeling cold all over, worse in lower body\"]",
+      "worse_with": "Cold environments or exposure, Overwork or fatigue, Cold, raw, or greasy foods, Excessive sexual activity",
+      "better_with": "Warmth on the lower back, Warm, cooked meals, Gentle walking or movement, Rest and sleep, Moxibustion",
+      "why_this_happens": "The Kidneys store the body's fundamental Yang, which provides warmth and the driving force for all physiological processes, including the heartbeat. When Kidney Yang is deficient, the vessels lack sufficient warmth and propulsion, causing the pulse to feel deep and weak. This weakness is most pronounced at the rear (Chi) position, which directly reflects the state of the Kidneys.",
+      "tongue_and_pulse": "Tongue: pale, puffy, tender with teeth marks and a wet white coating. Pulse: deep, slow, and weak, especially feeble at the rear (Chi) position.",
+      "why_triggers_reliefs_work": "Kidney Yang is the body's warming fire. Cold, overwork, and raw foods drain this fire, making the pulse weaker and deeper. Warmth, rest, and moxibustion replenish Yang and restore the pulse's strength.",
+      "diet_and_lifestyle": "Eat warming foods like lamb, ginger, walnuts, and cinnamon. Avoid raw, cold foods and icy drinks. Keep the lower back and feet warm; gentle exercise like walking or tai chi helps move Qi without depleting it. Moxibustion on the lower back and abdomen can be very helpful.",
+      "formulas": [
+        {
+          "id": 6704,
+          "pattern_id": 2953,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "The primary formula to warm and tonify Kidney Yang, strengthening the Gate of Life Fire."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15734,
+          "pattern_id": 2953,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Powerfully warms Kidney Yang and dispels internal cold."
+        },
+        {
+          "id": 15735,
+          "pattern_id": 2953,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "",
+          "description": "Ignites the Gate of Life Fire and warms the lower body."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10642,
+          "pattern_id": 2953,
+          "acupoint_code": "DU-4",
+          "acupoint_name": "Mingmen DU-4",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/mingmen-du-4",
+          "translation": "M&#xEC;ng M&#xE9;n",
+          "properties": "Tonifies Kidney Yang and warms the Gate of Life, Expels Cold",
+          "description": "Moxibustion here warms the Gate of Life and strengthens Kidney Yang."
+        },
+        {
+          "id": 10643,
+          "pattern_id": 2953,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Qi and Yang, often combined with moxa."
+        }
+      ]
+    },
+    {
+      "id": 2954,
+      "condition_id": 607,
+      "pattern_name": "Collapse of Yang",
+      "pattern_slug": "collapse-of-yang",
+      "is_common": 0,
+      "symptoms": "[\"Profuse cold sweating that does not stop\", \"Ice-cold hands and feet extending past elbows and knees\", \"Ashen-white complexion, blue lips and fingernails\", \"Mental apathy, drowsiness, or loss of consciousness\", \"Extremely feeble breathing, no thirst\"]",
+      "worse_with": "Cold environments or exposure, Emotional shock or fright, Overwork or fatigue, Cold, raw, or greasy foods",
+      "better_with": "Warm blankets and warm environment, Rest and sleep, Warm ginger or ginseng tea, Moxibustion on the lower abdomen",
+      "why_this_happens": "In Collapse of Yang, the body's warming and driving force is severely depleted. Without enough Yang Qi to propel blood through the vessels, the pulse loses all its power and becomes extremely faint or even impalpable. The vessels themselves are cold and constricted, so the pulse feels deep and minute-it is a sign that life's fire is nearly out.",
+      "tongue_and_pulse": "Tongue: pale, moist, flaccid body with thin white slippery coating. Pulse: minute (wei) and on the verge of disappearing, extremely faint and deep, may be impalpable.",
+      "why_triggers_reliefs_work": "In Collapse of Yang, the body’s warming and driving force is nearly gone. Cold further dissipates what little Yang remains, while warmth and rest help preserve and support it. Warm drinks and moxibustion directly supply Yang Qi to the interior, helping to restore the pulse and consciousness.",
+      "diet_and_lifestyle": "This is a medical emergency. Keep the person warm with blankets and avoid any exposure to cold. If conscious, offer warm ginger tea or ginseng tea to support Yang. Do not give cold drinks or raw foods. Seek immediate professional medical care.",
+      "formulas": [
+        {
+          "id": 6705,
+          "pattern_id": 2954,
+          "formula_name": "Shen Fu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-tang",
+          "translation": "Ginseng and Aconite Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Greatly Tonifies the Source Qi, Secures Essence and Stops Leakage",
+          "description": "The classic formula to rescue devastated Yang, restore consciousness, and strengthen the pulse."
+        },
+        {
+          "id": 6706,
+          "pattern_id": 2954,
+          "formula_name": "Si Jun Zi Tang",
+          "formula_url": "/knowledge-base/formulas/si-jun-zi-tang",
+          "translation": "Four Gentlemen Decoction &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Strengthens the Spleen, Harmonizes the Stomach",
+          "description": "A foundational classical formula used to strengthen digestion and restore vitality. It gently tonifies the Spleen and Stomach to address fatigue, poor appetite, loose stools, and a pale complexion caused by Qi deficiency. All four herbs are mild and balanced, making this one of the gentlest and most widely used tonic formulas in Chinese medicine."
+        },
+        {
+          "id": 6707,
+          "pattern_id": 2954,
+          "formula_name": "Shen Ling Bai Zhu San",
+          "formula_url": "/knowledge-base/formulas/shen-ling-bai-zhu-san",
+          "translation": "Ginseng, Poria, and White Atractylodes Powder &#xB7; S&#xF2;ng dynasty, 1107 CE",
+          "properties": "Neutral, Tonifies Qi, Strengthens the Spleen, Drains Dampness",
+          "description": "A gentle classical formula that strengthens weak digestion, clears excess internal dampness, and stops diarrhea. It is commonly used for people experiencing chronic loose stools, bloating, poor appetite, fatigue, and a sallow complexion caused by a weakened digestive system. By supporting the Spleen and Stomach, it also indirectly benefits the Lungs, helping with shortness of breath and chronic cough with thin white phlegm."
+        },
+        {
+          "id": 6708,
+          "pattern_id": 2954,
+          "formula_name": "Ba Zhen Tang",
+          "formula_url": "/knowledge-base/formulas/ba-zhen-tang",
+          "translation": "Eight Treasure Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Warm, Tonifies Qi, Nourishes Blood, Strengthens the Spleen",
+          "description": "A classical formula that simultaneously replenishes both Qi and Blood, created by combining two famous prescriptions: Si Jun Zi Tang (for Qi) and Si Wu Tang (for Blood). It is commonly used for people who feel chronically tired, look pale or sallow, have a poor appetite, experience dizziness or heart palpitations, and feel generally run down due to dual deficiency of Qi and Blood."
+        },
+        {
+          "id": 6709,
+          "pattern_id": 2954,
+          "formula_name": "Si Wu Tang",
+          "formula_url": "/knowledge-base/formulas/si-wu-tang",
+          "translation": "Four-Substance Decoction &#xB7; T&#xE1;ng dynasty (~846 CE), popularized in the S&#xF2;ng dynasty (1078-1110 CE)",
+          "properties": "Warm, Nourishes Blood, Nourishes Blood and Alleviates Pain, Regulates menstruation",
+          "description": "A classical formula known as the foundation of all blood-nourishing prescriptions in Chinese medicine. It gently replenishes and activates the Blood, and is widely used for conditions related to Blood deficiency such as pale complexion, dizziness, menstrual irregularities, and abdominal pain. Often called the &#x27;number one formula for women&#x27;s health,&#x27; it serves as a base that practitioners modify for a wide range of Blood-related conditions."
+        },
+        {
+          "id": 6710,
+          "pattern_id": 2954,
+          "formula_name": "Gui Zhi Jia Long Gu Mu Li Tang",
+          "formula_url": "/knowledge-base/formulas/gui-zhi-jia-long-gu-mu-li-tang",
+          "translation": "Cinnamon Twig Decoction plus Dragon Bone and Oyster Shell &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Slightly Warm, Harmonizes Yin and Yang, Calms the Spirit and Relieves Restlessness, Secures Essence and Stops Leakage",
+          "description": "A classical formula for people experiencing anxiety, palpitations, excessive sweating, insomnia with vivid dreams, or urinary issues stemming from a general state of depletion where the body can no longer properly contain its vital substances. It works by gently warming and rebalancing the body while calming the mind and helping the body hold onto what it is losing."
+        },
+        {
+          "id": 6711,
+          "pattern_id": 2954,
+          "formula_name": "You Gui Wan",
+          "formula_url": "/knowledge-base/formulas/you-gui-wan",
+          "translation": "Restore the Right Pill &#xB7; M&#xED;ng dynasty, 1624 CE",
+          "properties": "Warm, Tonifies Kidney Yang, Benefits Essence and Fills the Marrow, Warms the Ming Men Fire",
+          "description": "A classical warming and tonifying formula designed to restore Kidney Yang, the body&#x27;s foundational warmth and vitality. It is commonly used for people experiencing deep fatigue, persistent cold sensations, lower back weakness, reduced sexual function, or frequent urination due to depletion of the Kidney&#x27;s warming capacity. The formula combines Yang-warming herbs with nourishing substances to rebuild vitality from within, following the principle that Yang is best restored by providing it with a nourishing Yin foundation."
+        },
+        {
+          "id": 6712,
+          "pattern_id": 2954,
+          "formula_name": "Shen Fu Tang",
+          "formula_url": "/knowledge-base/formulas/shen-fu-tang",
+          "translation": "Ginseng and Aconite Decoction &#xB7; M&#xED;ng dynasty, 1529 CE",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Greatly Tonifies the Source Qi, Secures Essence and Stops Leakage",
+          "description": "A powerful emergency formula containing just two herbs, Ginseng and Aconite, used to rescue someone from a state of severe collapse where the body&#x27;s Yang (warming, animating force) and Qi are critically depleted. It is indicated for life-threatening situations such as shock, heart failure, or massive blood loss, where the person is ice-cold, drenched in cold sweat, and barely breathing with a nearly imperceptible pulse."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 15736,
+          "pattern_id": 2954,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "",
+          "description": "Powerfully tonifies the original Qi and rescues Yang, restoring the pulse."
+        },
+        {
+          "id": 15737,
+          "pattern_id": 2954,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "",
+          "description": "Warms the Mingmen fire and restores devastated Yang, driving blood to the surface."
+        },
+        {
+          "id": 15738,
+          "pattern_id": 2954,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 15739,
+          "pattern_id": 2954,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 15740,
+          "pattern_id": 2954,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 15741,
+          "pattern_id": 2954,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 15742,
+          "pattern_id": 2954,
+          "herb_name": "Shu Di Huang",
+          "herb_url": "/knowledge-base/herbs/shu-di-huang",
+          "translation": "Prepared Rehmannia root",
+          "properties": "Slightly Warm, Nourishes Blood, Nourishes Yin, Benefits Essence and Fills the Marrow",
+          "description": ""
+        },
+        {
+          "id": 15743,
+          "pattern_id": 2954,
+          "herb_name": "Bai Shao",
+          "herb_url": "/knowledge-base/herbs/bai-shao",
+          "translation": "White peony root",
+          "properties": "Slightly Cool, Nourishes Blood and regulates menstruation, Astringes Yin and stops sweating, Softens the Liver and alleviates pain",
+          "description": ""
+        },
+        {
+          "id": 15744,
+          "pattern_id": 2954,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 15745,
+          "pattern_id": 2954,
+          "herb_name": "Gan Cao",
+          "herb_url": "/knowledge-base/herbs/gan-cao",
+          "translation": "Licorice root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Clears Heat and Resolves Toxicity, Expels Phlegm and Stops Cough",
+          "description": ""
+        },
+        {
+          "id": 15746,
+          "pattern_id": 2954,
+          "herb_name": "Zhi Fu Zi",
+          "herb_url": "/knowledge-base/herbs/zhi-fu-zi",
+          "translation": "Prepared Aconite Root",
+          "properties": "Hot, Rescues Devastated Yang from Collapse, Tonifies Kidney Yang, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 15747,
+          "pattern_id": 2954,
+          "herb_name": "Rou Gui",
+          "herb_url": "/knowledge-base/herbs/rou-gui",
+          "translation": "Cinnamon bark",
+          "properties": "Hot, Tonifies Kidney Yang, Guides Fire Back to Its Source, Dispels Cold and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 15748,
+          "pattern_id": 2954,
+          "herb_name": "Ren Shen",
+          "herb_url": "/knowledge-base/herbs/ren-shen",
+          "translation": "Ginseng root",
+          "properties": "Slightly Warm, Greatly Tonifies the Source Qi, Rescues Devastated Yang from Collapse, Strengthens the Spleen and Lungs",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 10644,
+          "pattern_id": 2954,
+          "acupoint_code": "DU-26",
+          "acupoint_name": "Renzhong DU-26",
+          "acupoint_url": "/knowledge-base/acupuncture/governing-vessel/renzhong-du-26",
+          "translation": "R&#xE9;n Zh&#x14D;ng",
+          "properties": "Restores consciousness, Benefits the face and nose",
+          "description": "Strong stimulation to restore consciousness and revive Yang."
+        },
+        {
+          "id": 10645,
+          "pattern_id": 2954,
+          "acupoint_code": "REN-4",
+          "acupoint_name": "Guanyuan REN-4",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/guanyuan-ren-4",
+          "translation": "Gu&#x101;n Yu&#xE1;n",
+          "properties": "Nourishes Blood and Yin, Strengthens the Kidneys and its receiving of Qi",
+          "description": "Moxibustion on this point warms and rescues the Yang Qi of the entire body."
+        },
+        {
+          "id": 10646,
+          "pattern_id": 2954,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Tonifies Qi and Yang, supports the Spleen and Stomach to produce vital energy."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 3952,
+      "condition_id": 607,
+      "question": "What does a weak pulse feel like in TCM?",
+      "answer": "A TCM practitioner feels a weak pulse as soft, deep, and lacking force. It disappears under light finger pressure and offers little resistance even when pressed firmly. Patients might not notice it themselves, but they often feel the associated fatigue and chilliness."
+    },
+    {
+      "id": 3953,
+      "condition_id": 607,
+      "question": "Is a weak pulse dangerous?",
+      "answer": "A weak pulse can range from a mild sign of overwork to a serious emergency. In most clinic settings, it points to a treatable deficiency pattern. However, if a weak pulse appears suddenly with cold sweat, fainting, or chest pain, it may indicate a life-threatening condition like shock or heart attack. See our Safety section for red flags."
+    },
+    {
+      "id": 3954,
+      "condition_id": 607,
+      "question": "Can acupuncture strengthen a weak pulse?",
+      "answer": "Yes. Acupuncture and especially moxibustion (warming the points with a smoldering herb) are used to boost Qi and Yang. Points like Zusanli ST-36 and Qihai REN-6 are commonly selected to tonify the body's energy. Over several sessions, many patients notice their pulse becomes slightly fuller and stronger."
+    },
+    {
+      "id": 3955,
+      "condition_id": 607,
+      "question": "What foods help a weak pulse?",
+      "answer": "Warm, cooked, easily digestible foods are the foundation. Bone broths, stews, congees, eggs, and small amounts of dates or molasses help build Qi and Blood. For cold patterns, add ginger, cinnamon, and cloves. Avoid cold drinks, raw salads, and iced foods, which weaken the Spleen and can further diminish the pulse."
+    },
+    {
+      "id": 3956,
+      "condition_id": 607,
+      "question": "How long does it take for herbs to improve a weak pulse?",
+      "answer": "You may feel less fatigued within 2-3 weeks of starting herbs. The pulse itself changes more gradually - noticeable strengthening typically takes 6-8 weeks for Qi or Blood patterns and longer for Yang deficiencies. Consistency with diet and lifestyle speeds progress."
+    },
+    {
+      "id": 3957,
+      "condition_id": 607,
+      "question": "Can I exercise if I have a weak pulse?",
+      "answer": "Gentle movement like walking, tai chi, or yoga is excellent - it helps circulate Qi without depleting reserves. Avoid intense, exhausting workouts until your energy improves. If you feel wiped out after exercise, scale back and focus on restorative practices."
+    },
+    {
+      "id": 3958,
+      "condition_id": 607,
+      "question": "Does a weak pulse mean I have heart disease?",
+      "answer": "Not necessarily. A weak pulse in TCM often reflects systemic Qi or Blood deficiency, not a structural heart problem. However, if you have chest pain, palpitations, or shortness of breath, consult a cardiologist to rule out heart conditions. TCM can then be used alongside conventional care."
+    }
+  ],
+  "research": []
+}

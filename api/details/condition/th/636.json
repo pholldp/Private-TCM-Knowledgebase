@@ -1,0 +1,631 @@
+{
+  "id": 636,
+  "name": "เยื่อหุ้มปอดไหล (Hydrothorax)",
+  "url": "/knowledge-base/conditions/pleural-effusion-hydrothorax",
+  "kind": "Condition",
+  "pinyin": "xuán yǐn",
+  "chinese_name": "悬饮",
+  "preview_text": "ประเภทของอาการไม่สบายหน้าอกบอกเล่าเรื่องราว: ความเจ็บปวดเฉียบพลันที่แย่ลงเมื่อหายใจเป็นสัญญาณของของเหลวที่บีบช่องหน้าอก ในขณะที่ความรู้สึกเย็นจัดหนักชี้ไปที่ ...",
+  "categories": "[\"สภาพปอดและการหายใจ\"]",
+  "body_regions": "[\"Chest\"]",
+  "synonyms": "[\"Excessive Thoracic Fluid\", \"Fluid In The Chest\", \"Hydrothorax\", \"Pleural Effusion\", \"Hepatic hydrothorax\"]",
+  "conventional_description": "A pleural effusion is an abnormal buildup of fluid in the pleural space, the thin gap between the layers of tissue lining the lungs and chest cavity. This fluid compresses the lung, making it hard to fully expand, and typically causes shortness of breath, chest pain (often sharp and worse with breathing or coughing), and a dry cough. Diagnosis is usually made with a chest X-ray, ultrasound, or CT scan, and sometimes a sample of the fluid is taken (thoracentesis) to determine whether it is caused by infection, heart failure, cancer, or other conditions.",
+  "conventional_treatments": "Treatment depends on the underlying cause and the amount of fluid. Small effusions may be monitored; larger ones often require drainage via thoracentesis or a chest tube. Diuretics may be used for heart-failure-related effusions, antibiotics for infection, and pleurodesis (sealing the pleural space) for recurrent malignant effusions. Managing the underlying condition - such as optimizing heart failure therapy or treating pneumonia - is central to preventing recurrence.",
+  "conventional_limitations": "",
+  "tcm_understanding": "TCM classifies pleural effusion as a form of \"Phlegm-Fluids\" (Tan Yin) called Xuán Yǐn (悬饮), or suspended rheum. The core problem is a failure of the body's water-transforming machinery, which involves three organ systems working together. The Spleen is responsible for transforming and transporting fluids from food and drink; the Lungs govern the water passages and spread fluids downward; and the Kidneys, especially Kidney Yang, provide the warmth that vaporizes fluids so they can be moved. When these systems are weakened - often by chronic illness, overwork, poor diet, or aging - fluids stagnate, congeal into a thin, watery phlegm, and collect in the chest cavity where they compress the Lungs and obstruct the flow of Qi.\nThe location and nature of the fluid give important clues about which system is most affected. When the fluid is cold and heavy, causing a sensation of fullness above the diaphragm, copious thin sputum, and cold limbs, it points to Spleen and Kidney Yang deficiency failing to warm and transform water. When sharp, stabbing chest pain dominates and is triggered by any movement or breath, the fluid has accumulated in the chest and hypochondrium, directly compressing the Lung channel and collaterals. These two patterns represent different stages of the same fluid disorder and can overlap.\nAfter the main fluid has been drained or reabsorbed, two other patterns often emerge. One is a lingering Qi stagnation in the chest collaterals, where the channels remain tangled and obstructed, producing a persistent dull ache and tightness that worsens with stress. The other is an Empty-Heat pattern that develops when the long-standing fluid smolders into a low-grade heat, consuming the body's Yin fluids and causing a chronic dry cough with night sweats and afternoon fever.\nRecognizing which pattern - or combination of patterns - is active allows treatment to be tailored precisely, rather than simply draining fluid and hoping it doesn't return.",
+  "classical_quote": "「饮后水流在胁下，咳唾引痛，谓之悬饮。」",
+  "classical_translation": "\"When fluid flows and stays under the hypochondrium after drinking, causing pain on coughing and spitting, it is called suspended fluid (Xuan Yin).\"",
+  "classical_source": "Jin Gui Yao Lue (Essential Prescriptions of the Golden Cabinet)  ,  Chapter 12: Pulse, Syndrome, and Treatment of Phlegm-Fluid and Cough (痰饮咳嗽病脉证并治) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "Phlegm-Fluids above the diaphragm presents with a sensation of chest fullness and heaviness, copious thin white or frothy sputum, and an inability to lie flat. You may also feel cold in the limbs, have a heavy head, and experience nausea or vomiting of clear watery fluid. The tongue is pale and puffy with teeth marks and a white slippery coating, and the pulse is wiry and slippery. This pattern reflects internal cold fluid accumulation pressing upward against the lungs and heart.\nWhen fluid accumulates in the chest and hypochondrium, the pain becomes intense and stabbing, aggravated by coughing, turning, or even breathing. You may struggle to lie flat and need to sleep sitting up. The tongue coating appears white and greasy, and the pulse is deep, wiry, or slippery. This is the core pattern where pathological fluid compresses the lungs.\nAfter the main fluid is reduced, a lingering Qi Stagnation in the chest may remain. The pain is often a dull ache or tightness rather than a sharp stab, and breathing may still feel constrained. The tongue coating is thin, and the pulse is wiry. This pattern indicates that the fluid has left behind a blockage in the chest collaterals that needs to be smoothed and moved.\nIn chronic cases, Empty-Heat caused by Yin Deficiency can develop. Retained fluid transforms into heat and consumes the body’s yin, leading to a dry, hacking cough with sticky phlegm, afternoon fever, flushed cheeks, night sweats, and heat in the palms and soles. The tongue becomes red with little coating, and the pulse is thready and rapid. This shows a shift from excess to deficiency.",
+  "patterns": [
+    {
+      "id": 3102,
+      "condition_id": 636,
+      "pattern_name": "Phlegm-Fluids in the chest and hypochondrium",
+      "pattern_slug": "phlegm-fluids-in-the-chest-and-hypochondrium",
+      "is_common": 0,
+      "symptoms": "[\"Sharp chest and rib pain worsened by coughing, breathing, or turning\", \"Fullness and distension on one side of the ribs\", \"Difficulty lying flat, can only lie on affected side\", \"Cough with thin white or frothy sputum\", \"Hard, blocked feeling in the upper abdomen or chest\"]",
+      "worse_with": "Lying flat, Coughing, deep breathing, or turning, Cold and damp weather, Greasy, dairy, or cold foods, Emotional stress or frustration",
+      "better_with": "Resting in a semi-upright position, Lying on the affected side, Warm, dry environment, Warm cooked foods and soups, Gentle, slow breathing",
+      "why_this_happens": "When the body’s ability to transform and move fluids is weakened-often due to Spleen or Kidney Yang deficiency-thin, watery fluids accumulate in the chest cavity. These fluids obstruct the flow of Qi, compress the Lungs, and stretch the tissues around the ribs. The result is sharp pain that stabs with every breath, cough, or turn, along with breathlessness and an inability to lie flat.",
+      "tongue_and_pulse": "Tongue: pale, swollen body with a white slippery or greasy coating and excessive moisture. Pulse: deep (Chen) and wiry (Xian).",
+      "why_triggers_reliefs_work": "Fluid accumulation in the chest is a Yin, Cold pathology that obstructs Qi and compresses the Lungs. Rest and warmth help Yang Qi move and transform fluids, while cold and dampness worsen stagnation. Lying on the affected side reduces the weight of fluid on the healthy lung, easing breathing. Gentle breathing prevents stiffness but forceful movement aggravates the fluid stasis.",
+      "diet_and_lifestyle": "Eat warm, easily digestible foods like congee and cooked vegetables; avoid cold, raw, and greasy foods that promote dampness. Rest in a semi-upright position and lie on the affected side if it eases breathing. Gentle deep-breathing exercises can help keep the lungs open, but avoid forceful exertion.",
+      "formulas": [
+        {
+          "id": 7048,
+          "pattern_id": 3102,
+          "formula_name": "Shi Zao Tang",
+          "formula_url": "/knowledge-base/formulas/shi-zao-tang",
+          "translation": "Ten-Jujube Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Drastically Purges and Expels Water Accumulation, Drains Water and Expels Phlegm-Fluids",
+          "description": "The classic formula for expelling severe water accumulation from the chest; used cautiously under professional guidance."
+        },
+        {
+          "id": 7049,
+          "pattern_id": 3102,
+          "formula_name": "Kong Xian Dan",
+          "formula_url": "/knowledge-base/formulas/kong-xian-dan",
+          "translation": "Phlegm-Controlling Elixir &#xB7; Southern S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Cold, Drains Water and Expels Phlegm-Fluids, Disperses Phlegm from beneath the skin and membranes, Transforms Phlegm and Dissipates Nodules",
+          "description": "A milder alternative that drives out phlegm-fluid from the chest and hypochondrium."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16542,
+          "pattern_id": 3102,
+          "herb_name": "Gan Sui",
+          "herb_url": "/knowledge-base/herbs/gan-sui",
+          "translation": "Kansui root",
+          "properties": "",
+          "description": "Powerfully drains retained water from the chest and abdomen."
+        },
+        {
+          "id": 16543,
+          "pattern_id": 3102,
+          "herb_name": "Yuan Hua",
+          "herb_url": "/knowledge-base/herbs/yuan-hua",
+          "translation": "Genkwa flower",
+          "properties": "",
+          "description": "Expels fluid accumulation in the chest and reduces pain."
+        },
+        {
+          "id": 16544,
+          "pattern_id": 3102,
+          "herb_name": "Ting Li Zi",
+          "herb_url": "/knowledge-base/herbs/ting-li-zi",
+          "translation": "Pepperweed seed",
+          "properties": "",
+          "description": "Drains fluid from the Lungs and eases labored breathing."
+        },
+        {
+          "id": 16545,
+          "pattern_id": 3102,
+          "herb_name": "Da Zao",
+          "herb_url": "/knowledge-base/herbs/da-zao",
+          "translation": "Jujube fruit",
+          "properties": "",
+          "description": "Protects the Stomach and moderates the harshness of the water-draining herbs."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11180,
+          "pattern_id": 3102,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and relieves chest oppression."
+        },
+        {
+          "id": 11181,
+          "pattern_id": 3102,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Strengthens Spleen to transform and transport fluids."
+        },
+        {
+          "id": 11182,
+          "pattern_id": 3102,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Supports Spleen and Stomach to reduce fluid accumulation."
+        },
+        {
+          "id": 11183,
+          "pattern_id": 3102,
+          "acupoint_code": "REN-9",
+          "acupoint_name": "Shuifen REN-9",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shuifen-ren-9",
+          "translation": "Shu&#x1D0; F&#xE8;n",
+          "properties": "Opens water passages and treats Oedema, Harmonies the Intestines",
+          "description": "Promotes water metabolism and separates clear from turbid."
+        },
+        {
+          "id": 11184,
+          "pattern_id": 3102,
+          "acupoint_code": "LR-13",
+          "acupoint_name": "Zhangmen LR-13",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/zhangmen-lr-13",
+          "translation": "Zh&#x101;ng M&#xE9;n",
+          "properties": "Invigorates Liver Qi, Harmonizes the Liver an Spleen",
+          "description": "Alleviates hypochondriac pain and regulates Qi in the chest."
+        }
+      ]
+    },
+    {
+      "id": 3103,
+      "condition_id": 636,
+      "pattern_name": "Phlegm-Fluids above the diaphragm",
+      "pattern_slug": "phlegm-fluids-above-the-diaphragm",
+      "is_common": 0,
+      "symptoms": "[\"Hard, blocked feeling in the upper abdomen or chest\", \"Cough with thin white or frothy sputum\", \"Difficulty lying flat, can only lie on affected side\", \"Aversion to cold and cold limbs\", \"Nausea or vomiting of clear watery fluid\"]",
+      "worse_with": "Cold and raw foods, Lying flat, Overexertion and fatigue, Cold and damp weather",
+      "better_with": "Warmth and warm drinks, Resting in a semi-upright position, Gentle movement to promote Qi flow, Avoiding cold and raw foods",
+      "why_this_happens": "When Spleen and Kidney Yang are weakened, the body loses its ability to transform and transport fluids. These unprocessed fluids accumulate and congeal into thin, watery phlegm that rises and settles in the space above the diaphragm. The retained fluid compresses the lungs and heart, making it hard to breathe deeply and impossible to lie flat, while the chest feels heavy and full.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with teeth marks, white slippery coating, excessively moist. Pulse: wiry (弦 xián) and possibly slippery; in advanced cases deep (沉 chén) and fine (细 xì).",
+      "why_triggers_reliefs_work": "Cold and raw substances further weaken the Spleen Yang that is already failing to transform fluids, so they directly feed the pattern. Lying flat allows the watery phlegm to pool and compress the lungs, making breathing harder. Warmth, upright posture, and gentle movement help Yang Qi rise and circulate, which encourages fluids to descend and be properly processed.",
+      "diet_and_lifestyle": "Eat warm, cooked meals and sip warm fluids like ginger tea. Avoid icy drinks, raw salads, and dairy, which burden the Spleen and promote dampness. Keep the chest and back warm, and sleep with your head and shoulders slightly elevated to ease breathing. Gentle daily walking helps Yang Qi circulate and gradually clears retained fluids.",
+      "formulas": [
+        {
+          "id": 7050,
+          "pattern_id": 3103,
+          "formula_name": "Ling Gui Zhu Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ling-gui-zhu-gan-tang",
+          "translation": "Poria, Cinnamon Twig, Atractylodes, and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Warms Yang and Transforms Fluid Retention, Strengthens the Spleen and Resolves Dampness, Subdues Rushing Qi (Ben Tun)",
+          "description": "The core formula to warm Spleen Yang and transform phlegm-fluids, easing chest oppression and breathlessness."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16546,
+          "pattern_id": 3103,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "",
+          "description": "Drains dampness and leaches out excess fluids without harshness."
+        },
+        {
+          "id": 16547,
+          "pattern_id": 3103,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "",
+          "description": "Warms and unblocks Yang to transform thin, watery phlegm."
+        },
+        {
+          "id": 16548,
+          "pattern_id": 3103,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Strengthens the Spleen to dry dampness and prevent new fluid accumulation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11185,
+          "pattern_id": 3103,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Tonifies Spleen Yang to improve fluid transformation."
+        },
+        {
+          "id": 11186,
+          "pattern_id": 3103,
+          "acupoint_code": "BL-23",
+          "acupoint_name": "Shenshu BL-23",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/shenshu-bl-23",
+          "translation": "Sh&#xE8;n Sh&#x16B;",
+          "properties": "Tonifies Kidney Yang and nourishes Kidney Yin, Nourishes Kidney Essence",
+          "description": "Tonifies Kidney Yang to support the body&#x27;s water metabolism."
+        },
+        {
+          "id": 11187,
+          "pattern_id": 3103,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Strengthens the Spleen and Stomach, promoting the movement of fluids."
+        },
+        {
+          "id": 11188,
+          "pattern_id": 3103,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Resolves phlegm and drains dampness from the chest."
+        }
+      ]
+    },
+    {
+      "id": 3104,
+      "condition_id": 636,
+      "pattern_name": "Qi Stagnation in Chest",
+      "pattern_slug": "qi-stagnation-in-chest",
+      "is_common": 0,
+      "symptoms": "[\"Chest distension that worsens with emotional upset\", \"Frequent sighing or desire to take deep breaths\", \"Dull ache or tightness along the ribs\", \"Belching that temporarily relieves chest discomfort\", \"Irritability or frustration\"]",
+      "worse_with": "Emotional stress or frustration, Prolonged sitting, Overthinking, Cold, heavy foods",
+      "better_with": "Deep breathing exercises, Warm compress on chest, Gentle stretching, Emotional calm",
+      "why_this_happens": "After the main fluid in a pleural effusion has been drained or reduced, the chest's collateral channels can remain tangled and obstructed. This lingering Qi stagnation creates a persistent sensation of tightness and a dull, constricting ache in the chest and rib-side. Emotional upset tightens the chest further, making the discomfort worse and triggering frequent sighing as the body tries to move the stuck Qi.",
+      "tongue_and_pulse": "Tongue: normal body colour with a thin white coating, may be slightly dusky on the sides. Pulse: wiry (弦 xián), especially at the left middle position.",
+      "why_triggers_reliefs_work": "Emotional stress constrains Liver Qi, which directly tightens the chest and worsens stagnation. Movement and deep breathing encourage Qi to flow, while warmth relaxes the collaterals. Cold and heavy foods tend to bog down Qi, making stagnation feel heavier.",
+      "diet_and_lifestyle": "Gentle movement like walking or tai chi helps keep Qi flowing. Avoid prolonged sitting and emotional stress. Sip warm water with a slice of fresh ginger to soothe the chest.",
+      "formulas": [],
+      "herbs": [
+        {
+          "id": 16549,
+          "pattern_id": 3104,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "",
+          "description": "Moves Liver Qi and relieves chest and rib-side pain."
+        },
+        {
+          "id": 16550,
+          "pattern_id": 3104,
+          "herb_name": "Xuan Fu Hua",
+          "herb_url": "/knowledge-base/herbs/xuan-fu-hua",
+          "translation": "Inula flower",
+          "properties": "",
+          "description": "Directs Qi downward and eases chest oppression."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11189,
+          "pattern_id": 3104,
+          "acupoint_code": "REN-17",
+          "acupoint_name": "Shanzhong REN-17",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/shanzhong-ren-17",
+          "translation": "Sh&#x101;n Zh&#x14D;ng",
+          "properties": "Tonifies Qi, especially the Gathering Qi (Zong Qi), Opens the chest and regulates Qi",
+          "description": "Unblocks chest Qi and relieves oppression."
+        },
+        {
+          "id": 11190,
+          "pattern_id": 3104,
+          "acupoint_code": "PC-6",
+          "acupoint_name": "Neiguan PC-6",
+          "acupoint_url": "/knowledge-base/acupuncture/pericardium-meridian/neiguan-pc-6",
+          "translation": "N&#xE8;i Gu&#x101;n",
+          "properties": "Invigorates Qi and Blood in the chest, Calms the Mind",
+          "description": "Regulates Qi in the chest and calms the mind."
+        },
+        {
+          "id": 11191,
+          "pattern_id": 3104,
+          "acupoint_code": "LR-3",
+          "acupoint_name": "Taichong LR-3",
+          "acupoint_url": "/knowledge-base/acupuncture/liver-meridian/taichong-lr-3",
+          "translation": "T&#xE0;i ch&#x14D;ng",
+          "properties": "Subdues Liver Yang, Clears Interior Wind",
+          "description": "Moves stagnant Liver Qi that often underlies chest tightness."
+        }
+      ]
+    },
+    {
+      "id": 3105,
+      "condition_id": 636,
+      "pattern_name": "Empty-Heat caused by Yin Deficiency",
+      "pattern_slug": "empty-heat-caused-by-yin-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Dry cough with scant sticky sputum\", \"Afternoon low-grade fever or feeling of heat\", \"Night sweats\", \"Heat in palms, soles, and chest (five-palm heat)\", \"Flushed cheekbones (malar flush)\", \"Dry mouth and throat, worse in the evening\", \"Dull chest or rib-side ache rather than sharp pain\"]",
+      "worse_with": "Late nights and overwork, Spicy, greasy, or fried foods, Emotional stress or frustration, Hot, dry weather or heated rooms",
+      "better_with": "Cool, quiet environment, Sipping warm water or pear juice, Early, restful sleep, Moistening foods (pear, white fungus)",
+      "why_this_happens": "When fluid lingers in the chest for a long time, it can smolder into a low-grade heat that slowly consumes the body's Yin. This is especially true if the person already has a constitutional Yin weakness or has been weakened by illness. As Lung and Kidney Yin become depleted, the moistening and cooling functions fail, giving rise to a dry, irritating cough with very little sticky phlegm, and the 'empty' heat floats upward to cause afternoon fever, night sweats, and flushed cheeks. The chest and rib area may still feel a dull ache or tightness, but the sharp, fluid-driven pain is less prominent than in the earlier, more acute stages.",
+      "tongue_and_pulse": "Tongue: red, thin, and dry body with cracks; little or no coating. Pulse: fine (thin) and rapid.",
+      "why_triggers_reliefs_work": "Empty-heat from Yin deficiency is like a fire burning without enough fuel-the cooling, moistening substances of the body are low. Rest and sleep allow Yin to rebuild, while late nights and overwork drain it further. Spicy and fried foods add more heat and dry out fluids, whereas moistening foods and cool environments help replenish Yin and gently settle the heat. Emotional stress stirs up internal fire, making the dry cough and restlessness worse.",
+      "diet_and_lifestyle": "Eat moistening, cooling foods like pear, lily bulb, white fungus, and tofu; avoid spicy, fried, or drying foods. Prioritize rest and avoid staying up late, as nighttime is when Yin should be replenished. Gentle breathing exercises can help soothe the chest without exhausting Qi.",
+      "formulas": [
+        {
+          "id": 7051,
+          "pattern_id": 3105,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "Nourishes Lung and Stomach Yin and generates fluids, addressing the underlying Yin deficiency that drives the empty heat."
+        },
+        {
+          "id": 7052,
+          "pattern_id": 3105,
+          "formula_name": "Xie Bai San",
+          "formula_url": "/knowledge-base/formulas/xie-bai-san",
+          "translation": "Drain the White Powder &#xB7; Northern S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Cool, Clears Lung Heat, Stops Cough, Calms Wheezing",
+          "description": "Clears latent heat from the Lungs without harsh cooling, gently easing the lingering chest heat and dry cough."
+        },
+        {
+          "id": 7053,
+          "pattern_id": 3105,
+          "formula_name": "Shi Zao Tang",
+          "formula_url": "/knowledge-base/formulas/shi-zao-tang",
+          "translation": "Ten-Jujube Decoction &#xB7; Eastern H&#xE0;n dynasty, c. 200 CE",
+          "properties": "Cold, Drastically Purges and Expels Water Accumulation, Drains Water and Expels Phlegm-Fluids",
+          "description": "A powerful classical formula used to forcefully expel accumulated water and fluid from the chest, flanks, and abdomen. It is designed for severe conditions such as pleural effusion, ascites, or generalized edema in people with a strong constitution. Because its three main herbs are potent and toxic, jujube dates are used to protect the Stomach and moderate the formula&#x27;s intensity."
+        },
+        {
+          "id": 7054,
+          "pattern_id": 3105,
+          "formula_name": "Kong Xian Dan",
+          "formula_url": "/knowledge-base/formulas/kong-xian-dan",
+          "translation": "Phlegm-Controlling Elixir &#xB7; Southern S&#xF2;ng dynasty, 1174 CE",
+          "properties": "Cold, Drains Water and Expels Phlegm-Fluids, Disperses Phlegm from beneath the skin and membranes, Transforms Phlegm and Dissipates Nodules",
+          "description": "A powerful classical formula containing just three herbs, used to forcefully expel deeply lodged phlegm-fluid from the body. It is indicated for stubborn conditions caused by thick phlegm and fluid accumulation in the chest, under the diaphragm, or lodged in joints and tissues, causing wandering pain, heaviness, numbness, or lumps. This is a strong formula reserved for robust patients with excess conditions and must be used with caution."
+        },
+        {
+          "id": 7055,
+          "pattern_id": 3105,
+          "formula_name": "Ling Gui Zhu Gan Tang",
+          "formula_url": "/knowledge-base/formulas/ling-gui-zhu-gan-tang",
+          "translation": "Poria, Cinnamon Twig, Atractylodes, and Licorice Decoction &#xB7; Eastern H&#xE0;n dynasty, ~200 CE",
+          "properties": "Warm, Warms Yang and Transforms Fluid Retention, Strengthens the Spleen and Resolves Dampness, Subdues Rushing Qi (Ben Tun)",
+          "description": "A classical four-herb formula used to address dizziness, heart palpitations, chest fullness, and shortness of breath caused by a weak digestive system failing to properly process fluids. It gently warms the body and helps move excess fluid accumulation, particularly when someone feels heavy, waterlogged, or dizzy upon standing."
+        },
+        {
+          "id": 7056,
+          "pattern_id": 3105,
+          "formula_name": "Sha Shen Mai Men Dong Tang",
+          "formula_url": "/knowledge-base/formulas/sha-shen-mai-men-dong-tang",
+          "translation": "Glehnia and Ophiopogon Decoction &#xB7; Q&#x12B;ng dynasty, 1798 CE",
+          "properties": "Slightly Cool, Nourishes Lung and Stomach Yin, Generates Fluids, Moistens Dryness",
+          "description": "A gentle, cooling formula used to restore moisture and fluids to the Lungs and Stomach when they have become dried out. It is commonly used for persistent dry cough, dry throat, thirst, and other symptoms of dryness, particularly during autumn or following a feverish illness. The formula nourishes without being heavy, making it well-suited for conditions where the body&#x27;s natural moistening fluids have been depleted."
+        },
+        {
+          "id": 7057,
+          "pattern_id": 3105,
+          "formula_name": "Xie Bai San",
+          "formula_url": "/knowledge-base/formulas/xie-bai-san",
+          "translation": "Drain the White Powder &#xB7; Northern S&#xF2;ng dynasty, 1119 CE",
+          "properties": "Cool, Clears Lung Heat, Stops Cough, Calms Wheezing",
+          "description": "A gentle classical formula originally designed for children to clear hidden heat from the Lungs. It treats coughing, wheezing, and a sensation of warmth in the skin that worsens in the late afternoon, caused by smouldering heat lodged in the Lungs. Its mild, sweet-natured herbs clear Lung heat without harming the body&#x27;s reserves."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 16551,
+          "pattern_id": 3105,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "",
+          "description": "Moistens the Lungs, nourishes Yin, and stops the dry cough."
+        },
+        {
+          "id": 16552,
+          "pattern_id": 3105,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "",
+          "description": "Enriches Lung and Stomach Yin, relieves thirst, and calms irritability."
+        },
+        {
+          "id": 16553,
+          "pattern_id": 3105,
+          "herb_name": "Di Gu Pi",
+          "herb_url": "/knowledge-base/herbs/di-gu-pi",
+          "translation": "Chinese Wolfberry Root Bark",
+          "properties": "",
+          "description": "Cools deficiency heat, especially useful for afternoon fever and night sweats."
+        },
+        {
+          "id": 16554,
+          "pattern_id": 3105,
+          "herb_name": "Gan Sui",
+          "herb_url": "/knowledge-base/herbs/gan-sui",
+          "translation": "Kansui root",
+          "properties": "Cold, Drains Water and Expels Phlegm-Fluids, Disperses Swelling and Dissipates Nodules, Breaks Up Accumulations",
+          "description": ""
+        },
+        {
+          "id": 16555,
+          "pattern_id": 3105,
+          "herb_name": "Yuan Hua",
+          "herb_url": "/knowledge-base/herbs/yuan-hua",
+          "translation": "Genkwa flower",
+          "properties": "Warm, Drains Water and Expels Phlegm-Fluids, Expels Phlegm and Stops Cough, Kills Parasites and Resolves Toxicity",
+          "description": ""
+        },
+        {
+          "id": 16556,
+          "pattern_id": 3105,
+          "herb_name": "Ting Li Zi",
+          "herb_url": "/knowledge-base/herbs/ting-li-zi",
+          "translation": "Pepperweed seed",
+          "properties": "Cold, Drains the Lungs and calms wheezing, Promotes Urination and Reduces Edema, Descends Qi and Transforms Phlegm",
+          "description": ""
+        },
+        {
+          "id": 16557,
+          "pattern_id": 3105,
+          "herb_name": "Da Zao",
+          "herb_url": "/knowledge-base/herbs/da-zao",
+          "translation": "Jujube fruit",
+          "properties": "Warm, Tonifies the Middle and Augments Qi, Nourishes Blood, Calms the Spirit",
+          "description": ""
+        },
+        {
+          "id": 16558,
+          "pattern_id": 3105,
+          "herb_name": "Fu Ling",
+          "herb_url": "/knowledge-base/herbs/fu-ling",
+          "translation": "Poria",
+          "properties": "Neutral, Promotes Urination and Drains Dampness, Strengthens the Spleen, Resolves Phlegm",
+          "description": ""
+        },
+        {
+          "id": 16559,
+          "pattern_id": 3105,
+          "herb_name": "Gui Zhi",
+          "herb_url": "/knowledge-base/herbs/gui-zhi",
+          "translation": "Cinnamon twig",
+          "properties": "Warm, Releases the Muscle Layer, Warms the Channels and Disperses Cold, Warms Yang and Transforms Qi",
+          "description": ""
+        },
+        {
+          "id": 16560,
+          "pattern_id": 3105,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 16561,
+          "pattern_id": 3105,
+          "herb_name": "Xiang Fu",
+          "herb_url": "/knowledge-base/herbs/xiang-fu",
+          "translation": "Nutgrass Galingale Rhizome",
+          "properties": "Neutral, Soothes the Liver and Regulates Qi, Regulates Qi and Broadens the Middle Burner, Regulates Menstruation and Alleviates Pain",
+          "description": ""
+        },
+        {
+          "id": 16562,
+          "pattern_id": 3105,
+          "herb_name": "Xuan Fu Hua",
+          "herb_url": "/knowledge-base/herbs/xuan-fu-hua",
+          "translation": "Inula flower",
+          "properties": "Slightly Warm, Descends Qi, Dissolves Phlegm, Promotes Urination",
+          "description": ""
+        },
+        {
+          "id": 16563,
+          "pattern_id": 3105,
+          "herb_name": "Bei Sha Shen",
+          "herb_url": "/knowledge-base/herbs/bei-sha-shen",
+          "translation": "Coastal Glehnia Root",
+          "properties": "Slightly Cool, Nourishes Yin and clears the Lungs, Benefits the Stomach and Generates Fluids, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 16564,
+          "pattern_id": 3105,
+          "herb_name": "Mai Dong",
+          "herb_url": "/knowledge-base/herbs/mai-dong",
+          "translation": "Ophiopogon root",
+          "properties": "Slightly Cool, Nourishes Yin and Generates Fluids, Moistens the Lungs and Stops Cough, Clears Heart Fire and Eliminates Irritability",
+          "description": ""
+        },
+        {
+          "id": 16565,
+          "pattern_id": 3105,
+          "herb_name": "Di Gu Pi",
+          "herb_url": "/knowledge-base/herbs/di-gu-pi",
+          "translation": "Chinese Wolfberry Root Bark",
+          "properties": "Cold, Nourishes Yin and Clears Deficiency Heat, Clears Lung Heat and Drains Lung Fire, Cools the Blood and Stops Bleeding",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 11192,
+          "pattern_id": 3105,
+          "acupoint_code": "KI-3",
+          "acupoint_name": "Taixi KI-3",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/taixi-ki-3",
+          "translation": "T&#xE0;i X&#x12B;",
+          "properties": "Tonifies Kidney Yin and Yang, Strengthens the Kidney&#x27;s receiving Lung Qi",
+          "description": "Tonifies Kidney Yin to anchor the empty heat."
+        },
+        {
+          "id": 11193,
+          "pattern_id": 3105,
+          "acupoint_code": "KI-6",
+          "acupoint_name": "Zhaohai KI-6",
+          "acupoint_url": "/knowledge-base/acupuncture/kidney-meridian/zhaohai-ki-6",
+          "translation": "Zh&#xE0;o H&#x1CE;i",
+          "properties": "Nourishes the Kidney Yin and clears Empty-Heat, Invigorates the Yin Stepping Vessel",
+          "description": "Nourishes Yin and clears deficiency heat, particularly good for dry throat and night sweats."
+        },
+        {
+          "id": 11194,
+          "pattern_id": 3105,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Regulates Lung Qi and alleviates lingering chest discomfort."
+        },
+        {
+          "id": 11195,
+          "pattern_id": 3105,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports Yin production and harmonizes the Spleen to aid fluid metabolism."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 4146,
+      "condition_id": 636,
+      "question": "Can TCM really help drain fluid from around my lungs?",
+      "answer": "Yes, but the approach depends on the pattern. For acute, large-volume fluid accumulation, TCM uses strong water-expelling formulas like Shi Zao Tang under close professional supervision to promote urination and reabsorption. These are potent and must be managed carefully. For milder or chronic fluid, gentler herbs that strengthen the Spleen and Kidney Yang are used to improve the body's own fluid metabolism. The goal is not just to remove fluid but to correct the underlying imbalance so it does not re-accumulate."
+    },
+    {
+      "id": 4147,
+      "condition_id": 636,
+      "question": "Is it safe to combine acupuncture and herbs with thoracentesis or diuretics?",
+      "answer": "In most cases, yes. Acupuncture and herbal treatment can complement conventional drainage and medication, often helping to reduce the frequency of repeat procedures. However, some herbs used for severe fluid retention (like Gan Sui or Yuan Hua) are toxic and must never be combined with strong pharmaceutical diuretics without careful monitoring, as this can cause dangerous electrolyte imbalances. Always inform your TCM practitioner about all medications and procedures, and let your medical doctor know you are using TCM."
+    },
+    {
+      "id": 4148,
+      "condition_id": 636,
+      "question": "What does the sharp pain that comes with breathing mean in TCM?",
+      "answer": "That stabbing pain, especially when it gets worse with coughing, deep breaths, or turning, is a hallmark of Phlegm-Fluids lodged in the chest and hypochondrium. The fluid physically obstructs the flow of Qi and blood in the channels that run along the ribs, and every movement pulls on these obstructed pathways. This pattern often responds to formulas that drive out the fluid and open the chest collaterals, and pain typically eases as the fluid begins to reabsorb."
+    },
+    {
+      "id": 4149,
+      "condition_id": 636,
+      "question": "Are there foods I should eat or avoid to help with fluid in the chest?",
+      "answer": "Yes. Generally, you want to support the Spleen's ability to transform fluids. Favor warm, cooked foods like soups, stews, and congees. Include foods that naturally assist fluid metabolism: barley, adzuki beans, winter melon, and lightly cooked vegetables. Avoid cold, raw foods, iced drinks, and excessive dairy or greasy foods, which can create more dampness and phlegm. If fluid retention is significant, your practitioner may also advise moderating overall fluid intake temporarily."
+    },
+    {
+      "id": 4150,
+      "condition_id": 636,
+      "question": "How soon after starting TCM treatment will I feel less short of breath?",
+      "answer": "Many people notice some relief in breathing within the first one to two weeks, especially if the effusion is acute and the pattern is correctly identified. The sharp pain often decreases first, followed by a gradual easing of chest tightness. However, the timeline varies: cold-fluid patterns may take a few weeks to warm and transform, while Yin-deficiency patterns with chronic dry cough require longer, gentler rebuilding. Your practitioner will adjust herbs and acupuncture points as your symptoms change."
+    },
+    {
+      "id": 4151,
+      "condition_id": 636,
+      "question": "What happens if the fluid comes back after treatment?",
+      "answer": "Recurrence is a sign that the underlying imbalance has not been fully corrected. In TCM, this often means that the Spleen and Kidney Yang are still too weak to manage fluids, or that a lingering pathogenic factor like heat or stagnation is still present. Treatment would then shift to focus more deeply on strengthening the constitution - with longer courses of herbs, dietary therapy, and possibly moxibustion - to build lasting resilience. It is not uncommon to need several months of consistent care to prevent re-accumulation, especially in chronic conditions."
+    }
+  ],
+  "research": [
+    {
+      "id": 946,
+      "condition_id": 636,
+      "title": "Clinical observation on Ling Gui Zhu Gan Tang combined with cisplatin for malignant pleural effusion",
+      "description": "This randomized trial of 80 patients found that adding Ling Gui Zhu Gan Tang to intrapleural cisplatin significantly improved the rate of fluid absorption and reduced dyspnea compared to cisplatin alone, with fewer side effects.",
+      "url": "",
+      "periodical": "Zhang L, Wang H, Chen X. Clinical observation on Ling Gui Zhu Gan Tang combined with cisplatin for malignant pleural effusion. Journal of Traditional Chinese Medicine. 2016;36(3):321-325."
+    },
+    {
+      "id": 947,
+      "condition_id": 636,
+      "title": "Efficacy and safety of Shi Zao Tang as adjunctive therapy for malignant pleural effusion: a systematic review",
+      "description": "A meta-analysis of 12 RCTs (n=860) concluded that Shi Zao Tang plus conventional treatment increased the objective response rate by 23% compared to conventional treatment alone, though the quality of included studies was generally low.",
+      "url": "",
+      "periodical": "Liu Y, Zhou T, Huang J. Efficacy and safety of Shi Zao Tang as adjunctive therapy for malignant pleural effusion: a systematic review and meta-analysis. Chinese Journal of Integrative Medicine. 2019;25(8):618-624."
+    },
+    {
+      "id": 948,
+      "condition_id": 636,
+      "title": "Acupuncture for dyspnea in advanced cancer patients with pleural effusion: a pilot randomized controlled trial",
+      "description": "In this pilot study of 42 patients, acupuncture at BL-13, BL-20, and ST-36 significantly reduced subjective breathlessness and improved oxygen saturation compared to sham acupuncture, suggesting a role for symptom management.",
+      "url": "",
+      "periodical": "Minchom A, Punwani R, Filshie J. Acupuncture for dyspnea in advanced cancer patients with pleural effusion: a pilot RCT. BMJ Supportive & Palliative Care. 2020;10(2):e16."
+    }
+  ]
+}

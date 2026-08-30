@@ -1,0 +1,514 @@
+{
+  "id": 772,
+  "name": "Muscle Weakness",
+  "url": "/knowledge-base/conditions/muscle-weakness",
+  "kind": "Symptom",
+  "pinyin": "jī wú lì",
+  "chinese_name": "肌无力",
+  "preview_text": "The type of weakness-whether it's a heavy, dragging sensation after meals or a sudden flaccidity after a fever-points to a specific TCM pattern, and most patients notice a real inc...",
+  "categories": "[\"Muscle Pain & Problems\"]",
+  "body_regions": "[]",
+  "synonyms": "[\"Loss Of Muscle Tone\", \"Muscular Weakness\", \"Sluggish Muscular Strength\", \"Weak Muscles\", \"muscle weakness and flaccidity\", \"Weak and Aching Muscles\"]",
+  "conventional_description": "In Western medicine, muscle weakness refers to a decrease in muscle strength, often caused by problems with the nervous system (like stroke, multiple sclerosis, or myasthenia gravis), metabolic disorders (such as thyroid disease or electrolyte imbalances), or direct muscle damage. Diagnosis typically involves a physical exam, blood tests, imaging, and sometimes nerve conduction studies to pinpoint the underlying cause.",
+  "conventional_treatments": "Treatment focuses on the underlying condition. This may include physical therapy to maintain and improve muscle function, medications to manage autoimmune or neurological causes, and lifestyle adjustments. In some cases, surgery or assistive devices are necessary.",
+  "conventional_limitations": "",
+  "tcm_understanding": "In TCM, muscle weakness is seen not as a single disease but as a manifestation of deeper imbalances, most often rooted in the Spleen and Stomach. The Spleen is responsible for transforming food into Qi and blood-the very substances that nourish your muscles and limbs. When Spleen Qi is weak, this transformation falters, and muscles become undernourished, heavy, and easily fatigued. This is why chronic weakness so often comes with poor appetite, bloating, and loose stools: the digestive system itself is struggling.\nBut the Spleen isn't the only player. Dampness and Heat can clog the body's channels like sticky mud, obstructing the flow of Qi and blood to the limbs and creating a distinct sensation of heaviness and swelling, especially in the legs. In other cases, a high fever or severe respiratory illness can scorch the Lungs, drying up the fluids that are normally distributed outward to moisten and sustain the muscles-leading to a sudden, acute weakness after the fever breaks.\nLongstanding deficiency can also lead to Blood stasis, where sluggish circulation fails to deliver nutrients to the tissues. This produces a deep, persistent weakness often accompanied by dull, fixed aches. Because each of these patterns-Spleen deficiency, Damp-Heat, Lung Heat, and Blood stasis-has a different root, the same Western diagnosis of muscle weakness can require four completely different treatment strategies in TCM.",
+  "classical_quote": "「肺热叶焦，则皮毛虚弱急薄，著则生痿躄也。」",
+  "classical_translation": "\"When Lung heat scorches the leaves, the skin and body hair become weak and thin; if prolonged, it leads to Wei syndrome and flaccidity of the legs.\"",
+  "classical_source": "Huang Di Nei Jing Su Wen  ,  Chapter 44, Wei Lun (Discussion on Atrophy) \t\t\t\t\t\t\t\t\t·\nMore references",
+  "tcm_diagnosis": "A TCM practitioner begins by asking about the onset and nature of the muscle weakness. If the weakness is chronic, comes on gradually, and is accompanied by poor appetite, bloating, loose stools, and fatigue that worsens after eating or exertion, that strongly points to Spleen and Stomach Qi Deficiency. The tongue is often pale and swollen with teeth marks, and the pulse feels weak and thready.\nIf the muscles feel heavy, swollen, or hot, and the weakness is worse in humid weather or after eating greasy foods, the practitioner will suspect Damp-Heat. This pattern often involves a sluggish, dragging sensation in the legs. The tongue appears red with a thick, yellow, greasy coating, and the pulse is slippery and rapid.\nWhen muscle weakness appears abruptly after a high fever or severe respiratory illness, Lung Heat is the likely culprit. The person may have a dry mouth, thirst, and a lingering cough. The tongue is red with a thin dry or yellow coating, and the pulse feels rapid and thin. This pattern is less common but distinctive because of its acute onset and association with a recent febrile illness.\nLongstanding weakness with dull aches, stiffness, or a darkish complexion suggests Blood and Qi Deficiency with Blood Stagnation. Here the muscles are not only weak but may feel stiff or painful in fixed spots. The tongue is pale with purple spots or a dusky hue, and the pulse is choppy or thready. This pattern often develops after years of untreated deficiency, where poor circulation adds stasis to the mix.",
+  "patterns": [
+    {
+      "id": 3798,
+      "condition_id": 772,
+      "pattern_name": "Spleen and Stomach Qi Deficiency",
+      "pattern_slug": "spleen-and-stomach-qi-deficiency",
+      "is_common": 0,
+      "symptoms": "[\"Poor appetite or early satiety\", \"Abdominal bloating that worsens after eating\", \"Loose, unformed stools\", \"Sallow or pale complexion\", \"Weak, heavy limbs that tire easily\", \"Fatigue that is worse with activity and better with rest\"]",
+      "worse_with": "Overwork and prolonged standing, Cold, raw foods and drinks, Large, heavy meals, Stress and worry",
+      "better_with": "Rest and lying down, Warm, cooked meals, Small, frequent meals, Gentle movement",
+      "why_this_happens": "The Spleen is the engine that turns food into Qi and blood, which nourish every muscle and limb. When Spleen and Stomach Qi are weak, this transformation stalls, leaving muscles undernourished and heavy. Over time, the Qi also fails to 'hold up' the tissues, so you feel a dragging weakness, especially in the eyelids and limbs.",
+      "tongue_and_pulse": "Tongue: pale, puffy body with scalloped edges (tooth marks) and a thin white coating. Pulse: weak, soft, and empty at the right Guan (middle) position.",
+      "why_triggers_reliefs_work": "The Spleen's digestive fire is easily overwhelmed by cold, raw, or heavy foods, which directly worsens the Qi deficiency behind muscle weakness. Overwork and stress drain Qi further. Rest conserves Qi, warm meals support Spleen Yang, and gentle movement keeps Qi flowing without depleting it, allowing muscles to gradually regain strength.",
+      "diet_and_lifestyle": "Eat warm, cooked, easily digestible foods like congee, soups, and steamed vegetables. Avoid raw, cold, greasy, or hard-to-digest foods that tax the Spleen. Eat small frequent meals instead of large heavy ones. Gentle daily movement like walking or tai chi helps Qi circulate without exhausting it, and adequate rest allows the Spleen to recover.",
+      "formulas": [
+        {
+          "id": 8631,
+          "pattern_id": 3798,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "The classic formula to tonify Spleen Qi and raise sinking Yang, directly addressing the root of muscle weakness and fatigue."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20091,
+          "pattern_id": 3798,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Strongly tonifies Spleen Qi and lifts Qi upward to support weak muscles."
+        },
+        {
+          "id": 20092,
+          "pattern_id": 3798,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries dampness and strengthens the Spleen&#x27;s ability to transform food into energy."
+        },
+        {
+          "id": 20093,
+          "pattern_id": 3798,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "",
+          "description": "Tonifies the middle burner and boosts Qi and blood production."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13635,
+          "pattern_id": 3798,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Moxibustion or needle with moxa. Strengthens Spleen and Stomach to generate Qi and blood."
+        },
+        {
+          "id": 13636,
+          "pattern_id": 3798,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies Spleen Qi and nourishes the muscles and limbs."
+        },
+        {
+          "id": 13637,
+          "pattern_id": 3798,
+          "acupoint_code": "BL-20",
+          "acupoint_name": "Pishu BL-20",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/pishu-bl-20",
+          "translation": "P&#xED; Sh&#x16B;",
+          "properties": "Tonifies the Spleen Qi and Yang, Resolves Dampness",
+          "description": "Back-shu point of the Spleen; directly reinforces Spleen Qi."
+        },
+        {
+          "id": 13638,
+          "pattern_id": 3798,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Fortifies the source of Qi and combats overall weakness."
+        }
+      ]
+    },
+    {
+      "id": 3799,
+      "condition_id": 772,
+      "pattern_name": "Damp-Heat",
+      "pattern_slug": "damp-heat",
+      "is_common": 0,
+      "symptoms": "[\"Muscles feel heavy and swollen, not just weak\", \"Weakness worsens in hot, humid weather\", \"Sticky or greasy taste in the mouth\", \"Feeling of heat or sluggishness in the limbs\", \"Loose, sticky stools that feel incomplete\"]",
+      "worse_with": "Hot, humid weather, Greasy, fried foods, Alcohol, Sedentary habits, Damp living conditions",
+      "better_with": "Light, bland food, Cool, dry weather, Gentle movement, Avoiding greasy food, Dry living space",
+      "why_this_happens": "Dampness and Heat are heavy, sticky pathogens that sink downward and clog the body's channels. When they invade the muscles and limbs, they obstruct the normal flow of Qi and blood, leaving muscles undernourished and weak. This produces a distinct sensation of heaviness, swelling, and sluggishness in the limbs, often with a feeling of heat, rather than the simple fatigue of deficiency.",
+      "tongue_and_pulse": "Tongue: red body with a yellow, greasy coating that may be swollen and have teeth marks. Pulse: soft and rapid (soggy-rapid) or slippery and rapid.",
+      "why_triggers_reliefs_work": "Damp-Heat is a sticky, heavy pathogen that thrives in humid, hot environments and is worsened by foods that create more Dampness and Heat. Greasy and sweet foods overburden the Spleen, leading to Dampness accumulation, while alcohol and spicy foods add Heat. Cooling, drying measures and light foods help clear the obstruction, while gentle exercise moves Qi and dries Dampness, relieving the heavy, weak feeling in the muscles.",
+      "diet_and_lifestyle": "Eat light, easily digested foods like barley, Job's tears (Yi Yi Ren), and mung beans. Avoid greasy, fried, sweet, and dairy-rich foods that create Dampness. Stay away from hot, spicy food and alcohol, which add Heat. Keep living spaces dry and well-ventilated, and engage in gentle, regular exercise like walking to keep Qi moving and Dampness from stagnating.",
+      "formulas": [
+        {
+          "id": 8632,
+          "pattern_id": 3799,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "Clears Damp-Heat from the lower body, relieving heavy, weak limbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20094,
+          "pattern_id": 3799,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "",
+          "description": "Clears Heat and dries Dampness, especially from the lower body."
+        },
+        {
+          "id": 20095,
+          "pattern_id": 3799,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "",
+          "description": "Dries Dampness and strengthens the Spleen to prevent further Dampness accumulation."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13639,
+          "pattern_id": 3799,
+          "acupoint_code": "SP-9",
+          "acupoint_name": "Yinlingquan SP-9",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/yinlingquan-sp-9",
+          "translation": "Y&#x12B;n L&#xED;ng Qu&#xE1;n",
+          "properties": "Regulates the Spleen, Resolves Dampness",
+          "description": "Resolves Dampness by regulating the Spleen&#x27;s water metabolism."
+        },
+        {
+          "id": 13640,
+          "pattern_id": 3799,
+          "acupoint_code": "ST-40",
+          "acupoint_name": "Fenglong ST-40",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/fenglong-st-40",
+          "translation": "F&#x113;ng L&#xF3;ng",
+          "properties": "Resolves Dampness and Phlegm, Calms the Mind and opens the Mind&#x27;s orifices",
+          "description": "Transforms Dampness and Phlegm, clearing obstruction from the channels."
+        },
+        {
+          "id": 13641,
+          "pattern_id": 3799,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Supports the Spleen, resolves Dampness, and harmonizes the lower body."
+        }
+      ]
+    },
+    {
+      "id": 3800,
+      "condition_id": 772,
+      "pattern_name": "Lung Heat",
+      "pattern_slug": "lung-heat",
+      "is_common": 0,
+      "symptoms": "[\"Acute onset after a febrile illness\", \"Cough with thick yellow phlegm\", \"Thirst with desire for cold drinks\", \"Fever or feeling of body heat\", \"Dry mouth and sore throat\"]",
+      "worse_with": "Spicy or fried foods, Hot, stuffy environments, Overexertion during illness recovery, Emotional stress that stirs up internal Heat",
+      "better_with": "Cool, well-ventilated room, Rest and gentle breathing exercises, Pear juice or loquat tea",
+      "why_this_happens": "The Lungs are responsible for distributing Qi and body fluids outward to the skin and muscles. When intense Heat scorches the Lungs, it consumes Yin and dries up fluids, so the normal delivery of nourishment to the limbs breaks down. This is why muscle weakness in this pattern often appears suddenly after a high fever or a respiratory infection, alongside the classic signs of Lung Heat.",
+      "tongue_and_pulse": "Tongue: red body, yellow dry coating, possibly prickly papillae on the front third. Pulse: rapid (数 shǔ), slippery (滑 huá) if phlegm is present; the right cun position often feels overflowing (洪 hóng).",
+      "why_triggers_reliefs_work": "This pattern is driven by Heat scorching the Lungs and consuming body fluids, which cuts off the normal supply of Qi and moisture to the muscles. Heat, spicy foods, and overexertion all add more Heat and further deplete Yin, making weakness worse. Coolness, rest, and moistening fluids help preserve Yin, allow Lung Qi to descend, and gradually restore the nourishment that the muscles need to regain strength.",
+      "diet_and_lifestyle": "Avoid spicy, greasy, and fried foods that add Heat. Drink plenty of room-temperature or cool fluids, such as pear juice or loquat leaf tea, to moisten the Lungs. Prioritize rest while recovering from any respiratory illness, and avoid overexertion until strength returns.",
+      "formulas": [
+        {
+          "id": 8633,
+          "pattern_id": 3800,
+          "formula_name": "Qing Zao Jiu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/qing-zao-jiu-fei-tang",
+          "translation": "Eliminate Dryness and Rescue the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, 1658 CE",
+          "properties": "Cool, Clears Heat and Moistens the Lungs, Nourishes Yin and Generates Fluids, Strengthens the Spleen and Lungs",
+          "description": "Clears Lung Heat, nourishes Yin, and restores the descending of Lung Qi so fluids can again reach the limbs."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20096,
+          "pattern_id": 3800,
+          "herb_name": "Sang Ye",
+          "herb_url": "/knowledge-base/herbs/sang-ye",
+          "translation": "Mulberry leaf",
+          "properties": "",
+          "description": "Clears Lung Heat and moistens dryness, helping to restore fluid distribution."
+        },
+        {
+          "id": 20097,
+          "pattern_id": 3800,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "",
+          "description": "Powerfully clears Lung Heat, reduces fever, and quenches thirst."
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13642,
+          "pattern_id": 3800,
+          "acupoint_code": "BL-13",
+          "acupoint_name": "Feishu BL-13",
+          "acupoint_url": "/knowledge-base/acupuncture/bladder-meridian/feishu-bl-13",
+          "translation": "F&#xE8;i Sh&#x16B;",
+          "properties": "Tonifies Lung Qi and nourishes Lung Yin, Defuses and descends Rebellious Lung Qi",
+          "description": "Back-Shu point of the Lung, regulates Lung Qi and clears Heat."
+        },
+        {
+          "id": 13643,
+          "pattern_id": 3800,
+          "acupoint_code": "LU-5",
+          "acupoint_name": "Chize LU-5",
+          "acupoint_url": "/knowledge-base/acupuncture/lung-meridian/chize-lu-5",
+          "translation": "Ch&#x1D0; Z&#xE9;",
+          "properties": "Clears Lung Heat, Descends the Lung Qi",
+          "description": "He-Sea point of the Lung, clears Lung Heat and descends rebellious Qi."
+        }
+      ]
+    },
+    {
+      "id": 3801,
+      "condition_id": 772,
+      "pattern_name": "Blood and Qi Deficiency with Blood Stagnation",
+      "pattern_slug": "blood-and-qi-deficiency-with-blood-stagnation",
+      "is_common": 0,
+      "symptoms": "[\"Fixed stabbing or dull ache in muscles\", \"Pale or sallow face with a dusky, dark undertone\", \"Numbness or tingling in the limbs\", \"Extreme fatigue that feels &#x27;stuck&#x27; rather than just empty\"]",
+      "worse_with": "Overexertion and burnout, Cold, raw foods and drinks, Stress and worry, Sedentary habits",
+      "better_with": "Gentle movement, Warmth on aching areas, Warm, easily digested meals, Adequate, restful sleep",
+      "why_this_happens": "Chronic Qi and Blood deficiency leaves the vessels underfilled and the muscles undernourished. Over time, the sluggish flow turns into true stagnation, so nutrient-rich blood cannot reach the limbs. This double deprivation - lack of supply and blocked delivery - is what produces the deep, persistent weakness with a background of dull ache or stiffness.",
+      "tongue_and_pulse": "Tongue: pale-purple body, possible stasis spots, thin white coat, distended sublingual veins. Pulse: fine (细 xì) and choppy (涩 sè), uneven and hesitant.",
+      "why_triggers_reliefs_work": "This pattern is a mix of emptiness and stuckness. Qi and Blood deficiency means the body cannot sustain heavy exertion, but total rest allows stagnation to set in further. Gentle movement pushes blood through the vessels without draining energy, while warmth dilates the channels and eases flow. Cold contracts and thickens blood, making stasis worse, and raw foods tax a weak Spleen, deepening the deficiency. Stress knots the Qi, turning sluggish flow into frank stasis, so calming the mind directly supports the muscles.",
+      "diet_and_lifestyle": "Eat warm, cooked foods like stews, soups, and congees with small amounts of lean meat and dark leafy greens. Avoid cold, raw foods that chill the blood and slow circulation. Gentle, consistent movement - a short daily walk or tai chi - is far better than rest alone, because movement helps move stagnant blood.",
+      "formulas": [
+        {
+          "id": 8634,
+          "pattern_id": 3801,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "Tonifies Qi, nourishes blood, and vigorously moves stagnant blood to restore flow to the muscles."
+        },
+        {
+          "id": 8635,
+          "pattern_id": 3801,
+          "formula_name": "Bu Zhong Yi Qi Tang",
+          "formula_url": "/knowledge-base/formulas/bu-zhong-yi-qi-tang",
+          "translation": "Tonify the Middle and Augment the Qi Decoction &#xB7; J&#x12B;n dynasty, ~1247 CE",
+          "properties": "Slightly Warm, Tonifies the Middle and Augments Qi, Raises sunken Yang, Lifts Sunken Qi",
+          "description": "A foundational formula for strengthening the digestive system and lifting the body&#x27;s Qi when it has sunk or become depleted. It is commonly used for persistent fatigue, poor appetite, loose stools, and conditions involving organ prolapse (such as rectal or uterine prolapse) caused by weakness of the Spleen and Stomach. It is one of the most widely used formulas in all of Chinese medicine."
+        },
+        {
+          "id": 8636,
+          "pattern_id": 3801,
+          "formula_name": "Si Miao San",
+          "formula_url": "/knowledge-base/formulas/si-miao-san",
+          "translation": "Four Marvel Powder &#xB7; Q&#x12B;ng dynasty, 1904 CE",
+          "properties": "Cool, Clears Heat and dries Dampness, Clears Damp-Heat from the Lower Burner, Strengthens the Spleen and Resolves Dampness",
+          "description": "A classical four-herb formula used to clear heat and dampness from the lower body. It is commonly applied for hot, swollen, painful joints (especially in the knees and feet), lower limb weakness, and conditions like gout and eczema that involve a combination of inflammation and heavy, waterlogged tissue. The formula works by cooling inflammation, drying excess moisture, strengthening digestion to stop dampness at its source, and directing the formula&#x27;s effects downward to the legs and lower body."
+        },
+        {
+          "id": 8637,
+          "pattern_id": 3801,
+          "formula_name": "Qing Zao Jiu Fei Tang",
+          "formula_url": "/knowledge-base/formulas/qing-zao-jiu-fei-tang",
+          "translation": "Eliminate Dryness and Rescue the Lungs Decoction &#xB7; Q&#x12B;ng dynasty, 1658 CE",
+          "properties": "Cool, Clears Heat and Moistens the Lungs, Nourishes Yin and Generates Fluids, Strengthens the Spleen and Lungs",
+          "description": "A classical formula for dry, irritated lungs caused by warm-dry environmental conditions that have damaged both the moisture and Qi of the Lungs. It is commonly used for dry cough with no phlegm, wheezing, dry throat and nose, thirst, and mild fever, especially during dry autumn weather or after a feverish illness has dried out the respiratory system."
+        },
+        {
+          "id": 8638,
+          "pattern_id": 3801,
+          "formula_name": "Bu Yang Huan Wu Tang",
+          "formula_url": "/knowledge-base/formulas/bu-yang-huan-wu-tang",
+          "translation": "Tonify the Yang to Restore Five-Tenths Decoction &#xB7; Q&#x12B;ng dynasty, 1830 CE",
+          "properties": "Slightly Warm, Tonifies Qi, Invigorates Blood and Dispels Stasis, Unblocks the Channels and Collaterals",
+          "description": "A classical formula for recovery after stroke and for conditions involving poor circulation due to Qi deficiency. It works by strongly boosting the body&#x27;s Qi to drive blood flow through blocked channels, helping to restore movement and sensation in paralyzed or weakened limbs. It is best suited for people whose weakness stems from underlying Qi deficiency rather than excess conditions."
+        }
+      ],
+      "herbs": [
+        {
+          "id": 20098,
+          "pattern_id": 3801,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "",
+          "description": "Large-dose astragalus powerfully boosts Qi to push blood through blocked channels."
+        },
+        {
+          "id": 20099,
+          "pattern_id": 3801,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "",
+          "description": "Nourishes blood and gently invigorates circulation, addressing both deficiency and stasis."
+        },
+        {
+          "id": 20100,
+          "pattern_id": 3801,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "",
+          "description": "Moves blood and relieves pain, targeting the stabbing, fixed discomfort."
+        },
+        {
+          "id": 20101,
+          "pattern_id": 3801,
+          "herb_name": "Huang Qi",
+          "herb_url": "/knowledge-base/herbs/huang-qi",
+          "translation": "Astragalus root",
+          "properties": "Slightly Warm, Tonifies Qi and Strengthens Yang, Consolidates the Exterior and Stops Sweating, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 20102,
+          "pattern_id": 3801,
+          "herb_name": "Bai Zhu",
+          "herb_url": "/knowledge-base/herbs/bai-zhu",
+          "translation": "White Atractylodes rhizome",
+          "properties": "Warm, Tonifies Qi and Strengthens the Spleen, Dries Dampness, Promotes Urination and Reduces Edema",
+          "description": ""
+        },
+        {
+          "id": 20103,
+          "pattern_id": 3801,
+          "herb_name": "Dang Shen",
+          "herb_url": "/knowledge-base/herbs/dang-shen",
+          "translation": "Codonopsis root",
+          "properties": "Neutral, Tonifies the Middle and Augments Qi, Strengthens the Spleen, Tonifies Lung Qi",
+          "description": ""
+        },
+        {
+          "id": 20104,
+          "pattern_id": 3801,
+          "herb_name": "Huang Bo",
+          "herb_url": "/knowledge-base/herbs/huang-bo",
+          "translation": "Phellodendron bark",
+          "properties": "Cold, Clears Heat and dries Dampness, Purges Fire and Resolves Toxicity, Drains Ministerial Fire",
+          "description": ""
+        },
+        {
+          "id": 20105,
+          "pattern_id": 3801,
+          "herb_name": "Cang Zhu",
+          "herb_url": "/knowledge-base/herbs/cang-zhu",
+          "translation": "Atractylodes rhizome",
+          "properties": "Warm, Dries Dampness and strengthens the Spleen, Dispels Wind-Dampness, Releases the Exterior and Disperses Wind-Cold",
+          "description": ""
+        },
+        {
+          "id": 20106,
+          "pattern_id": 3801,
+          "herb_name": "Sang Ye",
+          "herb_url": "/knowledge-base/herbs/sang-ye",
+          "translation": "Mulberry leaf",
+          "properties": "Cold, Disperses Wind-Heat, Clears Heat and Moistens the Lungs, Clears Liver Heat and Brightens the Eyes",
+          "description": ""
+        },
+        {
+          "id": 20107,
+          "pattern_id": 3801,
+          "herb_name": "Shi Gao",
+          "herb_url": "/knowledge-base/herbs/shi-gao",
+          "translation": "Gypsum",
+          "properties": "Cold, Clears Heat and Drains Fire, Eliminates Irritability and Relieves Thirst, Clears Lung Heat",
+          "description": ""
+        },
+        {
+          "id": 20108,
+          "pattern_id": 3801,
+          "herb_name": "Dang Gui",
+          "herb_url": "/knowledge-base/herbs/dang-gui",
+          "translation": "Chinese Angelica root",
+          "properties": "Warm, Nourishes Blood, Invigorates Blood and Dispels Stasis, Regulates menstruation",
+          "description": ""
+        },
+        {
+          "id": 20109,
+          "pattern_id": 3801,
+          "herb_name": "Chuan Xiong",
+          "herb_url": "/knowledge-base/herbs/chuan-xiong",
+          "translation": "Sichuan lovage rhizome",
+          "properties": "Warm, Invigorates Blood and Dispels Stasis, Moves Qi and Resolves Stagnation, Dispels Wind and Stops Pain",
+          "description": ""
+        }
+      ],
+      "acupoints": [
+        {
+          "id": 13644,
+          "pattern_id": 3801,
+          "acupoint_code": "ST-36",
+          "acupoint_name": "Zusanli ST-36",
+          "acupoint_url": "/knowledge-base/acupuncture/stomach-meridian/zusanli-st-36",
+          "translation": "Z&#xFA; S&#x101;n L&#x1D0;",
+          "properties": "Tonifies Qi and Blood, Tonifies the Stomach and Spleen",
+          "description": "Builds Qi and blood to strengthen muscles and limbs."
+        },
+        {
+          "id": 13645,
+          "pattern_id": 3801,
+          "acupoint_code": "SP-10",
+          "acupoint_name": "Xuehai SP-10",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/xuehai-sp-10",
+          "translation": "Xu&#xE8; H&#x1CE;i",
+          "properties": "Cools the Blood, Invigorates Blood and removes Stagnation",
+          "description": "Invigorates blood and dissolves stasis."
+        },
+        {
+          "id": 13646,
+          "pattern_id": 3801,
+          "acupoint_code": "SP-6",
+          "acupoint_name": "Sanyinjiao SP-6",
+          "acupoint_url": "/knowledge-base/acupuncture/spleen-meridian/sanyinjiao-sp-6",
+          "translation": "S&#x101;n Y&#x12B;n Ji&#x101;o",
+          "properties": "Tonifies the Spleen and Stomach, Resolves Dampness and benefits urination",
+          "description": "Tonifies blood and regulates the Spleen to support muscle nourishment."
+        },
+        {
+          "id": 13647,
+          "pattern_id": 3801,
+          "acupoint_code": "REN-6",
+          "acupoint_name": "Qihai REN-6",
+          "acupoint_url": "/knowledge-base/acupuncture/directing-vessel/qihai-ren-6",
+          "translation": "Q&#xEC; H&#x1CE;i",
+          "properties": "Tonifies Original Qi, Lifting sinking Qi",
+          "description": "Replenishes the Sea of Qi to fuel circulation and recovery."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": 5020,
+      "condition_id": 772,
+      "question": "What causes muscle weakness in TCM?",
+      "answer": "Muscle weakness in TCM is most often caused by a weakness in the Spleen and Stomach, which fail to produce enough Qi and blood to nourish the muscles. Other patterns include Damp-Heat blocking the channels, Lung Heat damaging fluids after a fever, or chronic deficiency leading to Blood stasis. Your specific pattern is determined by your accompanying symptoms, tongue, and pulse."
+    },
+    {
+      "id": 5021,
+      "condition_id": 772,
+      "question": "Can acupuncture really strengthen weak muscles?",
+      "answer": "Yes. Acupuncture stimulates points that boost the body's Qi and blood production, clear obstructions, and restore normal flow to the muscles. Points like Zusanli ST-36 and Sanyinjiao SP-6 are particularly effective at building energy and improving muscle strength over time, especially when combined with herbal formulas."
+    },
+    {
+      "id": 5022,
+      "condition_id": 772,
+      "question": "How long does it take to see results?",
+      "answer": "Many patients notice improved energy and less fatigue within 2-3 weeks of starting herbs and acupuncture. Actual muscle strength gains often become noticeable after 4-6 weeks. Chronic, long-standing weakness may take 2-3 months of consistent treatment to rebuild, while acute patterns like post-fever weakness can resolve in 2-4 weeks."
+    },
+    {
+      "id": 5023,
+      "condition_id": 772,
+      "question": "Can I continue my conventional treatment while doing TCM?",
+      "answer": "Absolutely. TCM works well alongside physical therapy, medications, and other conventional approaches. Always inform both your TCM practitioner and your doctor about everything you are taking, especially if you are on immunosuppressants or blood thinners, as some herbs may interact. Never stop prescribed medications without medical guidance."
+    },
+    {
+      "id": 5024,
+      "condition_id": 772,
+      "question": "What foods should I eat to help with muscle weakness?",
+      "answer": "Focus on warm, cooked, easily digestible foods that support the Spleen, such as soups, stews, congee, sweet potato, squash, and oats. Avoid cold, raw foods and icy drinks, which weaken digestion. Minimize greasy, fried, and sugary items that create Dampness. Your practitioner may offer more specific advice based on your pattern."
+    },
+    {
+      "id": 5025,
+      "condition_id": 772,
+      "question": "Is muscle weakness always a Spleen problem?",
+      "answer": "Not always, but it's the most common pattern. The Spleen governs the muscles and limbs, so any prolonged weakness usually involves Spleen Qi deficiency. However, if your weakness is accompanied by swelling, heat, or began suddenly after a fever, other patterns like Damp-Heat or Lung Heat may be the primary cause. A full TCM evaluation can pinpoint the root."
+    }
+  ],
+  "research": []
+}
