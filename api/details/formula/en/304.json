@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold, raw, and chilled foods and beverages while taking this formula, as they will directly counteract its warming action and worsen the Spleen Cold condition. This includes ice water, salads, raw fruit, sashimi, and cold dairy products.\nAvoid greasy, heavy, or difficult-to-digest foods (fried foods, fatty meats) as the Spleen is already weakened and cannot handle the extra digestive burden.\nFavor warm, easily digestible foods such as rice porridge (congee), cooked vegetables, soups, and lightly seasoned stews.\nThe classical Shang Han Lun generally advises avoiding raw and cold foods, sticky and slimy foods, meat, alcohol, and strongly flavored items (五辛) during treatment. Sipping warm rice porridge after taking the formula can support the Spleen and enhance the formula's effectiveness.",
   "ingredients": [
     {
+      "id": 2145,
+      "formula_id": 304,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies the Spleen Qi and restores the body's depleted vital force. As the chief herb of the underlying Li Zhong Tang (Regulate the Middle Decoction), Ren Shen anchors the formula's primary action of rescuing the weakened middle burner, addressing the root cause of the persistent diarrhea and digestive collapse."
     },
     {
+      "id": 2146,
+      "formula_id": 304,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the middle burner and dispels interior Cold. Working directly alongside Ren Shen, Gan Jiang restores the Spleen and Stomach Yang that has been damaged by inappropriate purging, addressing the Cold accumulation that causes the epigastric hardness and unrelenting diarrhea."
     },
     {
+      "id": 2147,
+      "formula_id": 304,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. It reinforces the tonifying action of Ren Shen from a complementary angle, specifically targeting the Dampness that accumulates when the Spleen's transforming function fails, helping to firm up the stools and stop diarrhea."
     },
     {
+      "id": 2148,
+      "formula_id": 304,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the middle Qi and harmonizes the other herbs. In this formula it is used at a notably high dose (equal to Gui Zhi in the original text at four liang), emphasizing its role in bolstering the Spleen and Stomach while moderating the acrid nature of Gan Jiang and Gui Zhi."
     },
     {
+      "id": 2149,
+      "formula_id": 304,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Envoy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Releases the exterior Wind-Cold that remains unresolved, addressing the lingering fever and chills. It also assists the interior-warming herbs by promoting Yang circulation throughout the body. When exterior symptoms are absent, Gui Zhi's action shifts entirely to warming the interior and unblocking Yang, making it versatile within this formula."
     }
   ],
   "research": [],

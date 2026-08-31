@@ -25,46 +25,88 @@
   "dietary_advice": "ตำราคลาสสิกระบุข้อห้ามการบริโภคอาหารหลายประการ (อาหาร) ในขณะที่รับประทานสูตรนี้: หลีกเลี่ยงหัวไชเท้า (ลัวโบ) กระเทียม หัวหอม/ต้นหอม อาหารที่มีเลือดเป็นส่วนประกอบ (เช่น เลือดหมู) ปลาไม่มีเกล็ด น้ำส้มสายชู และผลิตภัณฑ์จากธัญพืชหมัก (ซะโอ) สูตรไม่ควรสัมผัสกับอุปกรณ์ธาตุเหล็กในระหว่างการเตรียม ในทางปฏิบัติสมัยใหม่ แนะนำให้หลีกเลี่ยงอาหารที่เย็น ดิบ และมันเยิ้ม ซึ่งอาจทำให้ม้ามเป็นภาระและรบกวนการดูดซึมของสมุนไพรที่ช่วยปรับสภาพ การบริโภคงาดำ ถั่วดำ วอลนัท มัลเบอร์รี่ และผักใบเขียวเข้มในระดับปานกลางนั้นได้รับการสนับสนุน เนื่องจากอาหารเหล่านี้ถือว่าสนับสนุนไตและเลือดตับ",
   "ingredients": [
     {
+      "id": 2353,
+      "formula_id": 330,
       "herb_name": "He Shou Wu",
       "english_name": "รากขนแกะฟลาวเวอร์",
       "role": "ราชา (King)",
-      "dosage": "500g (original pill recipe, using both red and white varieties at 500g each)"
+      "dosage": "500g (original pill recipe, using both red and white varieties at 500g each)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "ใช้ในปริมาณที่มากที่สุดเป็นแกนหลักของสูตร แปรรูป (Zhi) He Shou Wu บำรุงตับและไต เติมเอสเซ้นส์และเลือด ทำให้เอสเซ้นส์คงตัวเพื่อป้องกันการรั่วซึม ทำให้เส้นผมเข้มขึ้น และเสริมสร้างเส้นเอ็นและกระดูกให้แข็งแรง ทั้งพันธุ์สีแดง (Chi) และสีขาว (Bai) ถูกนำมาใช้ร่วมกันเพื่อจัดการกับทั้งด้านเลือดและ Qi"
     },
     {
+      "id": 2354,
+      "formula_id": 330,
       "herb_name": "Tu Si Zi",
       "english_name": "เมล็ด Dodder จีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "240g (original pill recipe)"
+      "dosage": "240g (original pill recipe)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ม้าม",
+      "role_description": "บำรุงไตหยินและเสริมสร้างไตหยาง เสริมช่องหยินทั้งสาม (ตับ ไต ม้าม) และเสริมพลังชี่ในการปกป้อง ช่วย He Shou Wu ในการรวบรวม Essence และป้องกันการปล่อยน้ำเชื้อ"
     },
     {
+      "id": 2355,
+      "formula_id": 330,
       "herb_name": "Gou Qi Zi",
       "english_name": "ผลไม้ Wolfberry จีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "240g (original pill recipe)"
+      "dosage": "240g (original pill recipe)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ปอด",
+      "role_description": "บำรุงตับและไต หยิน เติมเอสเซ้นส์ และมีประโยชน์ต่อดวงตา ทำงานร่วมกับ He Shou Wu เพื่อรักษาเสถียรภาพของ Essence และบำรุงเลือดที่จำเป็นสำหรับการเจริญเติบโตของเส้นผมที่แข็งแรง"
     },
     {
+      "id": 2356,
+      "formula_id": 330,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "240g (original pill recipe)"
+      "dosage": "240g (original pill recipe)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "บำรุงและประสานเลือด เพิ่มประสิทธิภาพการบำรุงเลือดของ He Shou Wu ลักษณะที่อบอุ่นและฉุนของมันช่วยให้เลือดไหลเวียนไปพร้อมๆ กัน ทำให้มั่นใจได้ว่าสูตรจะได้รับการบำรุงโดยไม่ก่อให้เกิดความเมื่อยล้า"
     },
     {
+      "id": 2357,
+      "formula_id": 330,
       "herb_name": "Huai Niu Xi (&#x61F7;&#x725B;&#x819D;)",
       "english_name": "",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "250g (original pill recipe)"
+      "dosage": "250g (original pill recipe)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "เสริมสร้างตับและไตให้แข็งแรง มีประโยชน์ต่อเอ็นและกระดูก และควบคุมการทำงานของสูตรให้กระชับลงไปจนถึงหลังส่วนล่างและหัวเข่า โดยเฉพาะอย่างยิ่งกล่าวถึงความอ่อนแอและความเจ็บปวดของร่างกายส่วนล่าง"
     },
     {
+      "id": 2358,
+      "formula_id": 330,
       "herb_name": "Bu Gu Zhi",
       "english_name": "ผลไม้ Psoralea",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (original pill recipe)"
+      "dosage": "120g (original pill recipe)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ไต, ม้าม",
+      "role_description": "อุ่นไตหยางและชายหมิง (ไฟประตูชีวิต) อุ่นแดนเทียน เนื่องจากสมุนไพรบำรุงหยินเพียงชนิดเดียวที่ให้ความอบอุ่นอย่างเห็นได้ชัด จึงให้หลักการ 'แสวงหาหยางภายในหยิน' เพื่อให้มั่นใจว่าได้รับการเสริมอย่างสมดุล และป้องกันไม่ให้สมุนไพรบำรุงหยินเย็นเกินไปหรือเป็นก้อน"
     },
     {
+      "id": 2359,
+      "formula_id": 330,
       "herb_name": "Fu Ling",
       "english_name": "โพเรีย",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "500g (original pill recipe, using both red and white varieties at 250g each)"
+      "dosage": "500g (original pill recipe, using both red and white varieties at 250g each)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, ไต",
+      "role_description": "เสริมสร้างม้ามและส่งเสริมการเผาผลาญของความชื้น ป้องกันไม่ให้สมุนไพรที่เข้มข้นและช่วยบำรุงจากการย่อยอาหารอย่างท่วมท้น นอกจากนี้ยังอำนวยความสะดวกในการสื่อสารระหว่างหัวใจและไต ซึ่งสนับสนุนผลการประสานกันโดยรวม สูตรดั้งเดิมใช้ทั้งพันธุ์แดง (ชิ) และขาว (ไป๋)"
     }
   ],
   "research": [

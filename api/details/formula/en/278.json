@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this external ointment, avoid sour and fishy foods (classical dietary prohibition for external wound medications). Spicy, greasy, and heavily stimulating foods should also be minimized, as they can generate internal Heat that aggravates the skin condition being treated. Favor bland, cooling foods such as green vegetables, mung beans, and fresh fruits to support the formula's Heat-clearing action from within.",
   "ingredients": [
     {
+      "id": 1962,
+      "formula_id": 278,
       "herb_name": "Zi Cao",
       "english_name": "Gromwell root",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Clears Heat, cools the Blood, resolves toxicity, and promotes tissue regeneration. As the primary medicinal herb, it directly addresses toxic Heat in the skin, reduces inflammation, and encourages new skin growth."
     },
     {
+      "id": 1963,
+      "formula_id": 278,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, moistens the skin, reduces swelling and pain, and promotes the growth of new tissue (granulation). Complements Zi Cao by improving local blood circulation to support wound healing."
     },
     {
+      "id": 1964,
+      "formula_id": 278,
       "herb_name": "Ma You",
       "english_name": "Sesame oil",
       "role": "Assistant",
-      "dosage": "120 - 500mL"
+      "dosage": "120 - 500mL",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Large Intestine",
+      "role_description": "Serves as the extraction medium for the fat-soluble active compounds of Zi Cao and Dang Gui. Moistens and nourishes the skin, neutralizes mild toxins, and provides a protective layer over wounds."
     },
     {
+      "id": 1965,
+      "formula_id": 278,
       "herb_name": "Feng La",
       "english_name": "Beeswax",
       "role": "Envoy",
-      "dosage": "15 - 45g"
+      "dosage": "15 - 45g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Acts as the solidifying agent (excipient) that transforms the medicated oil into a semi-solid ointment. Also contributes mild detoxifying, pain-relieving, and tissue-regenerating properties, and helps seal the wound to promote healing."
     }
   ],
   "research": [

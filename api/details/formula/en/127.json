@@ -24,46 +24,88 @@
   "dietary_advice": "While taking Lian Po Yin, avoid greasy, fried, and heavy foods that generate Dampness and Heat. Cold and raw foods (including ice cream, raw salads, and chilled drinks) should also be avoided, as they impair the Spleen's already-compromised digestive function. Alcohol and spicy-hot foods will aggravate the Heat component of the pattern. Favor bland, easily digestible foods such as rice congee (porridge), cooked vegetables, and light broth. Small, frequent meals are preferable to large ones. Adequate hydration is important given the vomiting and diarrhea this formula treats, but fluids should be warm or at room temperature, taken in small sips.",
   "ingredients": [
     {
+      "id": 847,
+      "formula_id": 127,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "King",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness in the Middle Burner. Its bitter, cold nature directly targets the core pathogenic factors of Damp-Heat blocking the Stomach and intestines."
     },
     {
+      "id": 848,
+      "formula_id": 127,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Promotes the movement of Qi and transforms Dampness, relieves the distention and fullness in the chest and epigastrium. Its bitter, warm, aromatic nature powerfully resolves Dampness that has accumulated in the Middle Burner."
     },
     {
+      "id": 849,
+      "formula_id": 127,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears depressed Heat from the chest and epigastrium, resolves irritability and restlessness. Paired with Dan Dou Chi, it forms the classical Zhi Zi Chi Tang combination to vent pent-up Heat from the upper body."
     },
     {
+      "id": 850,
+      "formula_id": 127,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears and vents depressed Heat from the chest and epigastrium, dispels restlessness and a stifling sensation. Works synergistically with Zhi Zi to relieve irritability caused by Heat stagnating in the upper body."
     },
     {
+      "id": 851,
+      "formula_id": 127,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Aromatically transforms Dampness and revives the Spleen. Its aromatic, penetrating nature helps break through the turbid Dampness obstructing the Middle Burner, supporting the King herbs in resolving the Damp-Heat stagnation."
     },
     {
+      "id": 852,
+      "formula_id": 127,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and directs rebellious Stomach Qi downward to stop vomiting. Harmonizes the Stomach and works alongside the King herbs to restore the normal descending function of the Stomach."
     },
     {
+      "id": 853,
+      "formula_id": 127,
       "herb_name": "Lu Gen",
       "english_name": "Reed rhizome",
       "role": "Assistant",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, harmonizes the Stomach, and stops vomiting. Used in a notably large dose to counterbalance the drying nature of the other herbs, protecting body fluids that are easily damaged by both the disease and the drying medicinals."
     }
   ],
   "research": [

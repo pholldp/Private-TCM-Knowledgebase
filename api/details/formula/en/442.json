@@ -24,58 +24,112 @@
   "dietary_advice": "Favor foods that nourish Yin and generate fluids: congee made with millet or rice, pears, lily bulbs, black sesame, mulberries, goji berries, duck, and tofu. Avoid spicy, hot, drying, and greasy foods (chili, garlic, lamb, deep-fried foods, strong alcohol, coffee) as these can further deplete Yin and stir internal Heat. Cold and raw foods should also be moderated to protect digestive function, since the formula's rich, cloying herbs already place some burden on the Spleen and Stomach. Light, easily digestible meals are recommended during the course of treatment.",
   "ingredients": [
     {
+      "id": 3342,
+      "formula_id": 442,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "At the highest dosage in the formula, Gui Ban (Tortoise Plastron) is the primary Yin-nourishing and Yang-anchoring substance. It enriches Kidney and Liver Yin, subdues ascending Yang, and calms internal Wind. Its heavy, descending nature makes it the core driver for pulling unanchored Yang back downward."
     },
     {
+      "id": 3343,
+      "formula_id": 442,
       "herb_name": "Bie Jia",
       "english_name": "Turtle shell (Chinese soft-shell turtle carapace)",
       "role": "Deputy",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Bie Jia (Turtle Shell) reinforces the King herb in nourishing Yin and subduing Yang. It is particularly effective at entering the Liver channel to soften hardness and clear deficiency Heat from the Yin layers, helping to calm spasms and tremors caused by internal Wind."
     },
     {
+      "id": 3344,
+      "formula_id": 442,
       "herb_name": "Mu Li Ke",
       "english_name": "Oyster shell",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Mu Li (Oyster Shell) anchors floating Yang and calms the spirit. Its heavy, salty nature pulls unruly Yang downward, directly addressing palpitations, restlessness, and tremors. Together with Gui Ban and Bie Jia, it forms the 'Three Shells' that define the formula's anchoring strategy."
     },
     {
+      "id": 3345,
+      "formula_id": 442,
       "herb_name": "Gan Di Huang (&#x5E72;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Dried Rehmannia root nourishes Yin and Blood, replenishing the depleted Kidney and Liver substance that underlies the formula's pattern. It provides the rich, nourishing material base that the shell-type herbs need to effectively anchor Yang."
     },
     {
+      "id": 3346,
+      "formula_id": 442,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "White Peony nourishes Liver Blood and softens the Liver, relieving cramping and spasms. It collects and preserves Yin fluids, preventing further loss, and complements the shell herbs by addressing the Liver Blood component of the deficiency."
     },
     {
+      "id": 3347,
+      "formula_id": 442,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Ophiopogon nourishes Yin of the Lung, Stomach, and Heart, generating fluids to relieve dryness. It addresses the dry throat, thirst, and parched tongue that accompany deep Yin depletion, and nourishes Heart Yin to calm the spirit."
     },
     {
+      "id": 3348,
+      "formula_id": 442,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Donkey-hide Gelatin enriches Yin and nourishes Blood, providing a thick, sticky substance that helps restore depleted fluids in the Blood and Yin layers. It also moistens dryness and calms restlessness."
     },
     {
+      "id": 3349,
+      "formula_id": 442,
       "herb_name": "Huo Ma Ren",
       "english_name": "Hemp seed",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Hemp Seed moistens the intestines and nourishes Yin. When Yin is severely depleted, the bowels often become dry and constipated. Ma Ren gently lubricates to restore normal bowel function without further injuring Yin fluids."
     },
     {
+      "id": 3350,
+      "formula_id": 442,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-fried Licorice tonifies Qi to support the generation of Yin and Blood, and harmonizes all the other herbs in the formula. It also benefits the Heart Qi, helping to stabilize the pulse, which connects to the formula's name 'restore the pulse.'"
     }
   ],
   "research": [],

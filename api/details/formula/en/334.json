@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods, which generate Heat and Dampness and can obstruct the formula's light, dispersing action. Avoid alcohol and smoking. Avoid spicy-hot foods (chili, pepper, ginger, lamb) that could add Heat and worsen the condition. Avoid cold, raw foods and iced drinks, which can impair the Stomach's ability to process the herbs. Favor light, easily digestible meals such as congee (rice porridge), clear soups, and steamed vegetables. Drink plenty of warm fluids to support the body's ability to generate a light sweat and expel the pathogen. Fresh pear, watermelon (in small amounts), and mung bean soup are traditionally considered helpful during Wind-Heat conditions.",
   "ingredients": [
     {
+      "id": 2390,
+      "formula_id": 334,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "The primary King herb. Its sweet, cold nature and aromatic quality allow it to both clear Heat and resolve toxins while gently dispersing pathogens from the body's Defensive (Wei) level. It is used at the highest dose in the formula to powerfully address the core pathomechanism of Wind-Heat invasion."
     },
     {
+      "id": 2391,
+      "formula_id": 334,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "The second King herb, paired with Jin Yin Hua. It clears Heat, resolves toxins, and disperses clumped Heat. Its bitter, slightly acrid, and cool nature complements Jin Yin Hua, and together they form the core therapeutic axis of the formula, giving it both its name and its primary action."
     },
     {
+      "id": 2392,
+      "formula_id": 334,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "6 - 18g"
+      "dosage": "6 - 18g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Acrid and cool, it assists the King herbs by dispersing Wind-Heat from the head and eyes, clearing the head, soothing the throat, and promoting the venting of pathogens from the body surface."
     },
     {
+      "id": 2393,
+      "formula_id": 334,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "Deputy",
-      "dosage": "9 - 18g"
+      "dosage": "9 - 18g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid, bitter, and cold, it disperses Wind-Heat and clears the throat. Especially important for sore, swollen throat, a hallmark symptom of this pattern. It also helps ventilate Lung Qi and promote the expression of rashes when relevant."
     },
     {
+      "id": 2394,
+      "formula_id": 334,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Though technically acrid and slightly warm, Jing Jie is mild and non-drying. Within this cool formula, its warmth is restrained by the King herbs while its acrid dispersing power strengthens the formula's ability to release the Exterior and push pathogens outward."
     },
     {
+      "id": 2395,
+      "formula_id": 334,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid and slightly warm, it works with Jing Jie to enhance the formula's ability to release pathogens through the Exterior. Though mildly warm, it is gentle and non-drying, and the cool King herbs keep its warmth in check. Together these two slightly warm herbs embedded among cool herbs are a hallmark of this formula's design."
     },
     {
+      "id": 2396,
+      "formula_id": 334,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "6 - 18g"
+      "dosage": "6 - 18g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses Lung Qi, stops coughing, and benefits the throat. It also functions as a guide herb, directing the formula's therapeutic actions upward to the Lungs and throat where Wind-Heat lodges."
     },
     {
+      "id": 2397,
+      "formula_id": 334,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Sweet, bland, and cold, it clears Heat from the Upper Burner and generates fluids to relieve thirst. It also provides a mild route for draining Heat downward through urination, creating a secondary exit path for the pathogenic Heat."
     },
     {
+      "id": 2398,
+      "formula_id": 334,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, protects the Stomach from the cold and bitter herbs, and works synergistically with Jie Geng to soothe and clear the throat. Its sweet nature also helps preserve fluids."
     }
   ],
   "research": [

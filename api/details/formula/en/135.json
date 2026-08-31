@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid spicy, pungent, fried, and greasy foods, which generate internal Heat and can worsen the Liver Fire this formula is treating. Alcohol should be strictly avoided as it is warming and rises to the head, directly aggravating Liver Yang and Wind. Strong coffee and heavily caffeinated drinks should also be minimized as they can increase agitation and counteract the formula's calming effect.\nFavor cooling, Yin-nourishing foods such as pears, watermelon, celery, chrysanthemum tea, mung bean soup, cucumber, and leafy greens. Light, easily digestible meals are preferred to protect the Spleen and Stomach from the formula's cold nature. Adequate hydration is important since the underlying condition involves fluid depletion from Heat.",
   "ingredients": [
     {
+      "id": 907,
+      "formula_id": 135,
       "herb_name": "Ling Yang Jiao",
       "english_name": "Antelope horn",
       "role": "King",
-      "dosage": "4.5g (or 1 - 3g as powder)"
+      "dosage": "4.5g (or 1 - 3g as powder)",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "Salty and cold, enters the Liver channel. Powerfully cools Liver Heat and extinguishes internal Wind, directly addressing the core pathomechanism of extreme Heat generating Wind. Its strong cooling nature calms convulsions and spasms."
     },
     {
+      "id": 908,
+      "formula_id": 135,
       "herb_name": "Gou Teng",
       "english_name": "Gambir vine stems and hooks",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Sweet and cool, enters the Liver channel. Clears Heat, calms the Liver, extinguishes Wind, and relieves spasms. Paired with Antelope Horn, the two King herbs reinforce each other to form the core Wind-extinguishing and Heat-clearing action of the formula."
     },
     {
+      "id": 909,
+      "formula_id": 135,
       "herb_name": "Sang Ye",
       "english_name": "Mulberry leaf",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Cool and light in nature, it disperses Liver Heat and calms ascending Liver Yang through gentle outward ventilation. Supports the King herbs in cooling the Liver and settling Wind."
     },
     {
+      "id": 910,
+      "formula_id": 135,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Clears Heat and calms the Liver, with a particular ability to subdue ascending Liver Wind. Together with Sang Ye, enhances the Wind-calming and Liver-cooling effects of the King herbs."
     },
     {
+      "id": 911,
+      "formula_id": 135,
       "herb_name": "Sheng Di Huang (Raw Rehmannia Root)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Cold in nature, cools the Blood and nourishes Yin fluids. Addresses the secondary damage of extreme Heat scorching Yin and Blood, helping to replenish the fluids that nourish tendons and sinews."
     },
     {
+      "id": 912,
+      "formula_id": 135,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and Liver Yin, softens the Liver, and relaxes tense sinews. Combined with Gan Cao, creates the classical 'sour-sweet Yin-generating' pairing (酸甘化阴) that replenishes fluids and eases spasms."
     },
     {
+      "id": 913,
+      "formula_id": 135,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "Assistant",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "Clears Heat and transforms Phlegm. Intense Heat often condenses body fluids into Phlegm, which can obstruct the Heart orifice and worsen mental confusion. Chuan Bei Mu addresses this secondary pathological product."
     },
     {
+      "id": 914,
+      "formula_id": 135,
       "herb_name": "Zhu Ru",
       "english_name": "Bamboo shavings",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Heart, Gallbladder",
+      "role_description": "Clears Heat and transforms Phlegm, clears irritability from the chest and Stomach. Works alongside Chuan Bei Mu to clear Heat-Phlegm and ease restlessness."
     },
     {
+      "id": 915,
+      "formula_id": 135,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the Heart spirit and quiets the mind. When Liver Heat blazes upward, it easily disturbs the Heart and spirit, causing agitation, restlessness, and loss of consciousness. Fu Shen directly addresses this heart-spirit disturbance."
     },
     {
+      "id": 916,
+      "formula_id": 135,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2.4 - 3g"
+      "dosage": "2.4 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula. Combined with Bai Shao, it generates Yin fluids through the sour-sweet pairing (酸甘化阴), relaxes spasms, and eases sinew tension."
     }
   ],
   "research": [

@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruit, sushi) while taking this formula, as they counteract the warming action and burden the Spleen. Greasy, heavy, and overly rich foods should also be limited, since the formula already contains cloying herbs like Shu Di Huang and Lu Jiao Jiao that are hard to digest. Favor warm, cooked, easily digestible meals: congee, soups, stews, and lightly spiced foods. Warming ingredients like ginger, lamb, walnuts, leeks, and cinnamon complement the formula's action. Alcohol should be avoided, particularly with the presence of Fu Zi (Aconite). Avoid eating turnip (Lai Fu Zi / radish) in excess, as it traditionally counteracts tonifying herbs.",
   "ingredients": [
     {
+      "id": 216,
+      "formula_id": 36,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "6 - 18g"
+      "dosage": "6 - 18g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Powerfully warms Kidney Yang, revives depleted Yang Qi, and expels internal cold. As the most intensely warming herb in the formula, it directly addresses the core pathomechanism of Ming Men Fire decline."
     },
     {
+      "id": 217,
+      "formula_id": 36,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms and fortifies Kidney Yang, reinforces the Ming Men Fire, and guides floating Yang back to its source. Works synergistically with Fu Zi to restore the foundational warmth of the Kidneys."
     },
     {
+      "id": 218,
+      "formula_id": 36,
       "herb_name": "Lu Jiao Jiao (&#x9E7F;&#x89D2;&#x80F6;)",
       "english_name": "",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "A potent blood-and-flesh substance (血肉有情之品) that warms Kidney Yang while also replenishing Essence (Jing) and tonifying the marrow. Bridges the gap between warming Yang and nourishing the material foundation of the Kidneys."
     },
     {
+      "id": 219,
+      "formula_id": 36,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The heaviest-dosed herb in the formula, it deeply nourishes Kidney Yin, fills Essence, and enriches the Blood. Provides the Yin material foundation from which Yang can be regenerated, embodying the 'seeking Yang within Yin' principle."
     },
     {
+      "id": 220,
+      "formula_id": 36,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, astringes Essence to prevent leakage, and secures sweating. Helps retain the body's vital substances that tend to escape when Kidney Yang is deficient."
     },
     {
+      "id": 221,
+      "formula_id": 36,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidneys simultaneously, supporting both digestion and Essence storage. Particularly important when Kidney Yang decline has weakened the Spleen's digestive function (Fire failing to generate Earth)."
     },
     {
+      "id": 222,
+      "formula_id": 36,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes Liver and Kidney Yin, enriches the Blood, and benefits Essence. Complements Shu Di Huang in building the Yin substrate needed for Yang restoration."
     },
     {
+      "id": 223,
+      "formula_id": 36,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "Tonifies both Kidney Yang and Yin, secures Essence, and controls urination. Its balanced tonifying action strengthens the Kidney from both the Yang and Yin sides, and helps consolidate the leaking of seminal fluids and urine."
     },
     {
+      "id": 224,
+      "formula_id": 36,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Strengthens the Liver and Kidneys, fortifies sinews and bones, and specifically addresses lower back and knee weakness. Also calms the fetus, making it relevant when Kidney Yang deficiency underlies threatened miscarriage."
     },
     {
+      "id": 225,
+      "formula_id": 36,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates the Blood, working alongside Lu Jiao Jiao to nourish Essence and Blood. Ensures adequate Blood circulation to support the warming and tonifying actions of the formula."
     }
   ],
   "research": [

@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold and raw foods (salads, ice cream, chilled drinks), greasy or deep-fried foods, and foods that generate bloating (beans, carbonated beverages, excessive starchy foods). Reduce dairy intake, which can contribute to Dampness and Phlegm. Favor warm, easily digestible meals such as congee, cooked vegetables, and lightly seasoned soups. Eating smaller, more frequent meals is preferable to large portions. Thoroughly chewing food supports the Spleen's digestive function. Avoid overeating, which directly worsens abdominal distension.",
   "ingredients": [
     {
+      "id": 3835,
+      "formula_id": 506,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "King",
-      "dosage": "15 - 24g"
+      "dosage": "15 - 24g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Bitter and warm, Hou Po is the primary herb for moving Qi downward, drying Dampness, and relieving abdominal distention and fullness. Used in a large dose, it directly addresses the core symptom of bloating by unblocking stagnant Qi in the middle burner."
     },
     {
+      "id": 3836,
+      "formula_id": 506,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Deputy",
-      "dosage": "15 - 24g"
+      "dosage": "15 - 24g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Pungent and warm, Sheng Jiang warms the Stomach, disperses Cold, and promotes the movement of stagnant Qi. It works alongside Hou Po to enhance the formula's ability to open the middle burner, and together with Ban Xia forms the classical pairing Xiao Ban Xia Tang to harmonize the Stomach and stop nausea."
     },
     {
+      "id": 3837,
+      "formula_id": 506,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Pungent and warm, Ban Xia directs rebellious Qi downward, dries Dampness, and transforms Phlegm. It reinforces Hou Po's action of relieving fullness and works with Sheng Jiang to address any nausea or vomiting that accompanies the distention."
     },
     {
+      "id": 3838,
+      "formula_id": 506,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and warm, honey-prepared Gan Cao tonifies Spleen Qi and harmonizes the other herbs in the formula. It moderates the drying and dispersing nature of the main herbs and provides gentle nourishment to the weakened middle burner."
     },
     {
+      "id": 3839,
+      "formula_id": 506,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and slightly warm, Ren Shen supplements Spleen Qi and generates fluids. Used in the smallest dose in the formula, it addresses the root deficiency without causing further stagnation. It ensures the formula does not simply attack the bloating without supporting the weakened Spleen that caused it."
     }
   ],
   "research": [],

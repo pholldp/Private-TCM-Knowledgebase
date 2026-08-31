@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible foods that support the Kidneys and Spleen, such as black beans, walnuts, black sesame seeds, bone broth, lamb, and warm congee. Avoid cold and raw foods (salads, iced drinks, raw sushi) which can impair Spleen function and hinder the absorption of this rich, nourishing formula. Limit greasy, heavy, and overly sweet foods, as they may compound the cloying nature of Shu Di Huang and cause digestive stagnation. Avoid excessive caffeine and alcohol, which can deplete Kidney Essence. The classical instruction is to take this formula on an empty stomach (空腹服) for optimal absorption.",
   "ingredients": [
     {
+      "id": 628,
+      "formula_id": 89,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The primary herb of the formula, Shu Di Huang strongly nourishes Kidney Yin and replenishes Essence and marrow. As the heaviest-dosed ingredient, it addresses the root deficiency of Kidney Yin that underlies the condition."
     },
     {
+      "id": 629,
+      "formula_id": 89,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, and alleviates pain. It works alongside Shu Di Huang to replenish Blood and Essence, and its moving quality helps prevent stagnation from the rich tonifying herbs."
     },
     {
+      "id": 630,
+      "formula_id": 89,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes and astringes the Liver and Kidney, helping to secure Essence and prevent its leakage. Its sour and warm nature complements the King herbs by stabilizing the Kidney's storing function."
     },
     {
+      "id": 631,
+      "formula_id": 89,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney simultaneously, supporting postnatal Essence production. By strengthening the Spleen (the source of acquired Essence), it ensures the body can continually replenish what the Kidney stores."
     },
     {
+      "id": 632,
+      "formula_id": 89,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidney and strengthens sinews and bones. Its warm nature gently supports Kidney Yang, working alongside the Yin-nourishing herbs to address both aspects of Kidney deficiency and directly targeting lower back and knee weakness."
     },
     {
+      "id": 633,
+      "formula_id": 89,
       "herb_name": "Niu Xi (&#x725B;&#x819D;, Achyranthes Root)",
       "english_name": "",
       "role": "Envoy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Tonifies the Liver and Kidney, strengthens the sinews and bones, and importantly directs the formula's action downward to the lower back and knees where the symptoms manifest."
     },
     {
+      "id": 634,
+      "formula_id": 89,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2.4g"
+      "dosage": "2.4g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and mildly tonifies Spleen Qi to support the digestive system's absorption of the rich tonifying ingredients."
     }
   ],
   "research": [],

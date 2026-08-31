@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, favor warm, cooked, easily digestible foods. Nourishing foods rich in protein and collagen are beneficial, such as slow-cooked bone broth, stewed chicken, lamb, eggs, red dates, and goji berries. Foods that warm the middle and support Blood production are ideal.\nAvoid cold and raw foods (salads, sushi, iced drinks, ice cream), as these counteract the formula's warming action. Also avoid greasy, heavily fried foods that may impair digestion and obstruct the Spleen's ability to generate Blood. Limit spicy, hot foods and alcohol, which could aggravate the deficiency Heat component of the pattern. Smoking should be avoided as it constricts blood vessels and impairs circulation.",
   "ingredients": [
     {
+      "id": 449,
+      "formula_id": 67,
       "herb_name": "Wu Zhu Yu",
       "english_name": "Evodia fruit",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach, Kidneys",
+      "role_description": "The chief warming herb of the formula. Wu Zhu Yu is acrid and hot, entering the Liver and Stomach channels. It excels at dispersing cold from the lower abdomen and Chong-Ren vessels, relieving pain, and warming the uterus. Its relatively high dose in the original formula underscores its primary role in addressing the root cause of cold obstruction."
     },
     {
+      "id": 450,
+      "formula_id": 67,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels and promotes the flow of blood through the vessels. Gui Zhi works alongside Wu Zhu Yu to break through cold obstruction in the blood vessels, particularly those serving the uterus and lower abdomen. It is warm rather than hot, contributing a gentle, penetrating warmth."
     },
     {
+      "id": 451,
+      "formula_id": 67,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes blood and invigorates blood circulation to regulate menstruation. It works with Chuan Xiong to move stagnant blood while simultaneously replenishing blood that has been lost through irregular bleeding."
     },
     {
+      "id": 452,
+      "formula_id": 67,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Known as the 'Qi herb within the blood,' Chuan Xiong moves blood vigorously and dispels stasis. It activates circulation in the Chong and Ren vessels and reinforces the blood-moving actions of Dang Gui."
     },
     {
+      "id": 453,
+      "formula_id": 67,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Serves a dual function: it assists the blood-moving herbs in dispersing stasis, while also cooling heat in the blood layer. This addresses the secondary virtual heat symptoms (evening fever, warm palms) that arise from depleted Yin blood."
     },
     {
+      "id": 454,
+      "formula_id": 67,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes blood and restrains Yin, softens the Liver, and relieves cramping pain. Its cool, astringent nature helps balance the warming herbs and supports the blood-nourishing strategy."
     },
     {
+      "id": 455,
+      "formula_id": 67,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Nourishes blood, stops bleeding, and moistens dryness. Particularly important for addressing the lip dryness and blood deficiency seen in this pattern, and for controlling excessive uterine bleeding. It also provides Yin-nourishing moisture to counterbalance the warm, drying King herbs."
     },
     {
+      "id": 456,
+      "formula_id": 67,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin and clears deficiency heat, generating fluids to address dry lips and mouth. Together with E Jiao and Bai Shao, it restrains the warm-drying tendency of Wu Zhu Yu and Gui Zhi, creating the formula's characteristic balance between warming and nourishing."
     },
     {
+      "id": 457,
+      "formula_id": 67,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strengthens the Spleen and tonifies Qi to support blood production. Since blood is generated from Qi, supplementing the Spleen ensures a sustainable source of new blood to replace what has been lost."
     },
     {
+      "id": 458,
+      "formula_id": 67,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Descends counterflow Qi, harmonizes the Stomach, and disperses accumulations. It helps the Stomach Qi descend smoothly, which supports the overall movement of Qi and blood. It also assists in opening up channels blocked by stagnation."
     },
     {
+      "id": 459,
+      "formula_id": 67,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach and supports digestion, assists Wu Zhu Yu and Gui Zhi in dispersing cold, and harmonizes the digestive system to optimize absorption of the other herbs."
     },
     {
+      "id": 460,
+      "formula_id": 67,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and harmonizes all the herbs in the formula. Moderates the harsh properties of the other medicinals and ensures they work together smoothly."
     }
   ],
   "research": [

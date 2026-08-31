@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruit in excess), greasy and fried foods, dairy products, and excessively sweet or sticky foods — all of these generate or worsen internal Dampness and burden the Spleen. Alcohol should also be avoided as it produces Damp-Heat.\nFavour lightly cooked, warm, and easily digestible meals. Congee (rice porridge) is ideal. Foods that gently support Spleen function and drain Dampness are helpful: small amounts of cooked barley, adzuki beans, winter melon, and lotus seed. Keep portions moderate to avoid overtaxing digestion.",
   "ingredients": [
     {
+      "id": 3192,
+      "formula_id": 423,
       "herb_name": "Huo Xiang",
       "english_name": "Patchouli herb",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The chief aromatic dampness-transforming herb in this formula. Huo Xiang opens the muscle layer to release exterior dampness and simultaneously transforms internal turbid dampness, harmonizes the middle burner, and stops nausea. As the primary herb addressing the core pathomechanism of dampness obstructing the exterior and interior, it anchors the entire prescription."
     },
     {
+      "id": 3193,
+      "formula_id": 423,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi and dries dampness in the middle burner. Its bitter-warm nature helps break through the stagnation of dampness in the Spleen and Stomach, relieving chest and abdominal fullness. It works synergistically with Ban Xia to invigorate the Spleen's ability to transport and transform fluids."
     },
     {
+      "id": 3194,
+      "formula_id": 423,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, directs rebellious Qi downward to stop nausea and vomiting. Together with Hou Po, it provides the bitter-warm drying action that targets the middle burner dampness and relieves the feeling of fullness and stagnation."
     },
     {
+      "id": 3195,
+      "formula_id": 423,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Gently releases the exterior through aromatic diffusion, helping to disperse superficial dampness and mild exterior pathogenic factors without causing heavy sweating. It works alongside Huo Xiang to address the exterior component of the dampness-warmth pattern, preventing the yang Qi from becoming trapped internally."
     },
     {
+      "id": 3196,
+      "formula_id": 423,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Opens and ventilates Lung Qi in the upper burner. Since the Lung governs the water passages, when Lung Qi descends properly, the fluid metabolism of the entire body is regulated. This enables dampness to be transformed and channeled downward, embodying the principle of 'opening the upper gate to facilitate drainage below.'"
     },
     {
+      "id": 3197,
+      "formula_id": 423,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Aromatically transforms dampness and moves Qi in the middle burner. Its warm, aromatic nature revives the Spleen's transforming function, helping to address the middle level of dampness accumulation. Together with Xing Ren (upper) and Yi Yi Ren (lower), it forms the 'three seed' structure that distributes dampness-resolving action across all three burners."
     },
     {
+      "id": 3198,
+      "formula_id": 423,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Bland and cool in nature, it percolates dampness and strengthens the Spleen in the lower burner, directing dampness-heat downward to be eliminated through urination. Used raw (sheng) to maximize its dampness-clearing and mild heat-clearing properties. It carries the largest dose in the formula, reflecting the importance of providing an exit route for dampness."
     },
     {
+      "id": 3199,
+      "formula_id": 423,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination to drain dampness, strengthens the Spleen, and calms the spirit. The red variety (Chi Fu Ling) is chosen here for its slightly stronger action in clearing heat from the Heart and promoting urination compared to white Fu Ling, which is better suited for a dampness-warmth condition where mild heat is present."
     },
     {
+      "id": 3200,
+      "formula_id": 423,
       "herb_name": "Zhu Ling",
       "english_name": "Polyporus mushroom",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "A powerful bland percolating herb that promotes urination and drains dampness. Together with Fu Ling and Ze Xie, it forms a trio that opens the water passages through the Kidney and Bladder, ensuring that dampness has a clear downward exit route through the urinary system."
     },
     {
+      "id": 3201,
+      "formula_id": 423,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains dampness and promotes urination, specifically clearing dampness-heat from the lower burner. It reinforces the diuretic action of Fu Ling and Zhu Ling, collectively ensuring that the turbid dampness has a clear pathway for elimination."
     },
     {
+      "id": 3202,
+      "formula_id": 423,
       "herb_name": "Tong Cao",
       "english_name": "Rice paper pith",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "A light, bland herb that promotes urination and clears heat through the water passages. It assists the diuretic herbs in the lower burner while also helping to unblock the waterways throughout the body, guiding the overall formula's dampness-draining action downward and outward."
     }
   ],
   "research": [

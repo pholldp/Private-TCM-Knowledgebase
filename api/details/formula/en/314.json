@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, ice cream, and cold drinks) as these can constrain the exterior and hinder the formula's ability to disperse Wind. Greasy, heavy, and rich foods should also be limited as they generate Dampness and Phlegm, which can obstruct the head region and slow recovery.\nLight, warm, easily digestible foods are ideal. Thin rice porridge (congee), warm soups, and foods with mild pungent qualities (such as fresh ginger, scallions, and cilantro) support the formula's dispersing action. Avoid alcohol, as it generates Heat and may interfere with the formula's balanced approach. Green tea is the traditional accompaniment and should be used to take the formula when possible.",
   "ingredients": [
     {
+      "id": 2230,
+      "formula_id": 314,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "The chief herb for dispelling Wind and stopping headache. Chuan Xiong is acrid and warm, ascending to the top of the head while also moving Blood. It is considered an essential herb for headaches of any channel, and is especially effective for pain along the Shaoyang (sides of the head) and Jueyin (vertex) channels. Its ability to invigorate Blood circulation in the head embodies the principle that treating Wind should involve treating Blood."
     },
     {
+      "id": 2231,
+      "formula_id": 314,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Used in the largest dosage in the original formula, Bo He is acrid and cool, dispersing Wind-Heat from the head and eyes. It clears the head and benefits vision while its cool nature counterbalances the warm, drying tendency of the other Wind-dispersing herbs, preventing the formula from being overly heating."
     },
     {
+      "id": 2232,
+      "formula_id": 314,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Light and ascending in nature, Jing Jie disperses Wind from the upper body and head, reinforcing the headache-relieving action of Chuan Xiong. It releases the Exterior and clears the head and eyes, working synergistically with Bo He to enhance the formula's Wind-dispersing effect."
     },
     {
+      "id": 2233,
+      "formula_id": 314,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Targets the Taiyang (Bladder) channel and is particularly effective for occipital headache (pain at the back of the head radiating to the neck). It strongly dispels Wind-Cold-Dampness from the upper body and enhances the formula's coverage of different headache locations."
     },
     {
+      "id": 2234,
+      "formula_id": 314,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Targets the Yangming (Stomach) channel and is especially effective for frontal headache and supraorbital pain. It also opens the nasal passages, helping relieve the sinus congestion that often accompanies Wind-invasion headaches."
     },
     {
+      "id": 2235,
+      "formula_id": 314,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Targets the Shaoyin (Kidney) channel and treats deep headache that connects to the teeth. It is strongly aromatic, disperses Cold, and opens the nasal passages. Its warm, penetrating nature complements the other Wind herbs by reaching the deepest channel layers."
     },
     {
+      "id": 2236,
+      "formula_id": 314,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Known as the 'commander of Wind herbs,' Fang Feng dispels Wind from all channels without restriction. It releases the Exterior gently and reinforces the overall Wind-dispersing strategy of the formula. Its mild nature makes it a safe and broadly effective Wind herb."
     },
     {
+      "id": 2237,
+      "formula_id": 314,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes and moderates the other herbs in the formula, preventing their acrid, dispersing nature from depleting Qi. It also tempers the drying tendency of the many Wind-dispersing herbs."
     }
   ],
   "research": [

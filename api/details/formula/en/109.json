@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, heavily spiced, and rich foods (such as lamb, chili peppers, and alcohol beyond the medicinal wine already in the formula), as these generate internal Heat and can worsen the toxic Fire condition being treated. Raw, cold foods and iced drinks should also be limited, as they may hinder the formula's absorption and further burden the Spleen. Light, easily digestible foods are recommended, such as mung bean soup or congee with cooling vegetables like cucumber and winter melon, which support the Heat-clearing action of the formula.",
   "ingredients": [
     {
+      "id": 761,
+      "formula_id": 109,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "The principal herb of the formula, used at the highest dosage. It powerfully clears heat and resolves toxicity from both the Qi and Blood levels, disperses wind-heat, and reduces swelling of abscesses and sores. Its sweet flavor has the advantage of not damaging the Stomach while strongly purging fire toxin."
     },
     {
+      "id": 762,
+      "formula_id": 109,
       "herb_name": "Ye Ju Hua",
       "english_name": "Wild chrysanthemum flower",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "Clears heat and resolves toxicity with particular strength against boils, sores, and carbuncles. More potent than regular chrysanthemum (Ju Hua) for fire toxin conditions. It reinforces Jin Yin Hua's heat-clearing and swelling-reducing action while also cooling the Blood."
     },
     {
+      "id": 763,
+      "formula_id": 109,
       "herb_name": "Pu Gong Ying",
       "english_name": "Dandelion",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Clears heat, resolves toxicity, and disperses swelling, with special affinity for breast abscesses and other superficial infections. It also drains Damp-Heat from the Lower Burner, broadening the formula's range of application to urinary tract and pelvic infections."
     },
     {
+      "id": 764,
+      "formula_id": 109,
       "herb_name": "Zi Hua Di Ding",
       "english_name": "Violet herb",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "A key herb for treating boils and deep-rooted sores (ding chuang). It clears heat, resolves toxicity, and cools the Blood, directly addressing the fire toxin that causes red, swollen, hot, and painful lesions. Traditionally considered one of the most important herbs specifically for boils."
     },
     {
+      "id": 765,
+      "formula_id": 109,
       "herb_name": "Tian Kui Zi",
       "english_name": "Muskroot-like semiaquilegia root",
       "role": "Assistant",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Clears heat, resolves toxicity, disperses stagnation, and reduces swelling. It complements the other herbs by cooling the Blood and breaking up clumps, helping to resolve hardened, deep-rooted toxic lesions. Used at a slightly lower dose, it assists the Deputies in their toxin-clearing action."
     }
   ],
   "research": [

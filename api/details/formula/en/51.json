@@ -24,34 +24,64 @@
   "dietary_advice": "The original text specifies: avoid cold and raw foods, greasy or oily foods, and hard-to-digest items (忌生冷油腻硬物). Cold and raw foods impair Spleen function and worsen Dampness, directly counteracting what this formula is trying to achieve. Foods that are damp-producing should also be minimized, including excessive dairy, refined sugar, heavy fried foods, and alcohol. Favor warm, lightly cooked meals that support the Spleen, such as congee (rice porridge), cooked root vegetables, barley (Yi Yi Ren) soup, and winter melon. Adequate water intake is important but should not be excessive while active edema is being treated.",
   "ingredients": [
     {
+      "id": 316,
+      "formula_id": 51,
       "herb_name": "Fu Ling Pi",
       "english_name": "Poria peel",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys",
+      "role_description": "The chief water-draining herb. Fu Ling Pi promotes urination and leaches out dampness while also supporting the Spleen's ability to transport and transform fluids. Given at the highest dosage in the formula, it directly addresses the core problem of water accumulation."
     },
     {
+      "id": 317,
+      "formula_id": 51,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Descends Lung Qi and opens the water passages from above. The Lungs are considered the 'upper source of water' in TCM, and when Lung Qi descends properly, it helps regulate the water passages and direct fluids downward to the Bladder for excretion. Sang Bai Pi supports Fu Ling Pi's diuretic action by addressing the upper part of the fluid regulation system."
     },
     {
+      "id": 318,
+      "formula_id": 51,
       "herb_name": "Da Fu Pi",
       "english_name": "Areca peel",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Small Intestine",
+      "role_description": "Moves Qi in the middle and lower body, relieves abdominal distension, and promotes the downward movement of water. Since Qi stagnation and water retention often occur together, Da Fu Pi's Qi-moving action helps break up the fluid accumulation, particularly in the abdomen."
     },
     {
+      "id": 319,
+      "formula_id": 51,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi in the Middle Burner, strengthens the Spleen's transportive function, and dries dampness. Chen Pi works together with Da Fu Pi to restore the smooth flow of Qi, based on the principle that 'when Qi moves freely, fluids follow.' It also supports the Spleen to prevent further fluid accumulation."
     },
     {
+      "id": 320,
+      "formula_id": 51,
       "herb_name": "Sheng Jiang Pi",
       "english_name": "Fresh ginger peel",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Gently disperses water from the skin and superficial layers of the body. While the other herbs drain dampness downward through urination, Sheng Jiang Pi works at the body's surface to resolve superficial edema. It directs the formula's action outward to the skin level, consistent with the formula's 'use peels to treat peel-level disease' strategy."
     }
   ],
   "research": [],

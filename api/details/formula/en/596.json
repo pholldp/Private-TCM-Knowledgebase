@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods while taking this formula, as they can impair the Spleen's Qi-raising function. Favor warm, easily digestible foods. Avoid excessive spicy or pungent foods that may disperse Qi. Limit alcohol and caffeine, which can counteract the formula's consolidating effect.",
   "ingredients": [
     {
+      "id": 4507,
+      "formula_id": 596,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi and raises the sunken pectoral Qi; the primary herb that directly addresses the sinking."
     },
     {
+      "id": 4508,
+      "formula_id": 596,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Assists in lifting the sunken Qi from the left (Shaoyang direction), reinforcing the lifting action."
     },
     {
+      "id": 4509,
+      "formula_id": 596,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Assists in lifting the sunken Qi from the right (Yangming direction), synergizing with Chai Hu."
     },
     {
+      "id": 4510,
+      "formula_id": 596,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Cools and moistens to moderate Huang Qi's warm nature, preventing excessive heat while also mildly tonifying Qi."
     },
     {
+      "id": 4511,
+      "formula_id": 596,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Directs the formula's actions upward to the chest, acting as a messenger to guide the other herbs."
     }
   ],
   "research": [

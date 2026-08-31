@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid greasy, fatty, and rich foods (肥甘厚味) as these directly generate Phlegm and Dampness, counteracting the formula's purpose. Dairy products, fried foods, sweets, and alcohol should all be minimized. Cold and raw foods are also best avoided, as they can impair Spleen function and worsen Phlegm production.\nFavor light, easily digestible foods such as plain rice congee, steamed vegetables, and clear soups. Mildly warming, Qi-moving foods like small amounts of fresh ginger in cooking or radish (which helps dissolve Phlegm) are appropriate. Since the formula is strongly purgative, ensure adequate hydration to prevent fluid depletion.\nClassical sources recommend taking the pills at bedtime with warm water or tea, and eating lightly on the day of administration.",
   "ingredients": [
     {
+      "id": 1837,
+      "formula_id": 263,
       "herb_name": "Meng Shi",
       "english_name": "Chlorite schist / Mica schist",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "The lead ingredient and the formula's namesake. Salty in flavor and heavy in nature, it sinks and descends powerfully, specializing in breaking apart and driving out stubborn, deeply lodged old phlegm. It also calms the Liver and settles fright, making it particularly effective when phlegm-fire disturbs the mind and causes manic or agitated behavior."
     },
     {
+      "id": 1838,
+      "formula_id": 263,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "240g (in pill form; proportional in modern preparations)"
+      "dosage": "240g (in pill form; proportional in modern preparations)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Bitter and cold, Da Huang powerfully purges accumulated heat and opens a downward pathway for phlegm-fire to exit the body through the bowels. Its heavy dosage reflects the severity of the heat accumulation this formula targets. It works synergistically with Meng Shi to flush phlegm and fire downward and out."
     },
     {
+      "id": 1839,
+      "formula_id": 263,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "240g (in pill form; proportional in modern preparations)"
+      "dosage": "240g (in pill form; proportional in modern preparations)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin clears heat from the upper body, especially the Lungs and upper digestive tract. By clearing the source of fire that generates phlegm, it addresses the root cause. Together with Da Huang, the two cold-natured herbs dominate the formula in dosage, reflecting the principle of clearing fire at both its source (upper body) and its exit route (lower body)."
     },
     {
+      "id": 1840,
+      "formula_id": 263,
       "herb_name": "Chen Xiang",
       "english_name": "Agarwood",
       "role": "Envoy",
-      "dosage": "15g (in pill form; proportional in modern preparations)"
+      "dosage": "15g (in pill form; proportional in modern preparations)",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Warm, aromatic, and descending in nature, Chen Xiang regulates the Qi and directs it downward, following the principle that treating phlegm requires first moving the Qi. It guides the other herbs to their target and ensures the rebellious, upward-surging Qi carries the phlegm downward. Its slight warmth also tempers the heavily cold nature of the other three ingredients, protecting the body's normal function."
     }
   ],
   "research": [],

@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, favour warm, cooked, easily digestible foods that support Qi and Blood, such as congee, soups, warm grains, dates, and lightly cooked vegetables. Avoid cold and raw foods (salads, iced drinks, raw fish), greasy or heavy foods, and excessive dairy, as these can impair Spleen function and counteract the warming, Qi-tonifying action of the formula. The Jin Gui Yao Lue advises against cold exposure during treatment. Light physical activity is encouraged to promote Qi and blood circulation, but overexertion and heavy sweating should be avoided, as these deplete the Qi this formula is designed to restore.",
   "ingredients": [
     {
+      "id": 2112,
+      "formula_id": 299,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "The chief herb of the formula, Huang Qi is sweet and warm. It powerfully tonifies Qi, strengthens the body's defensive (Wei) Qi at the surface, and drives the movement of Qi and Blood through the channels. By bolstering Qi, it addresses the root deficiency that allows pathogenic Wind to lodge in the blood vessels and cause numbness."
     },
     {
+      "id": 2113,
+      "formula_id": 299,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Gui Zhi is acrid and warm. It warms and opens the channels, disperses Wind-Cold, and promotes Yang Qi circulation through the limbs. When paired with Huang Qi, the two reinforce each other: Gui Zhi helps Huang Qi reach the surface and extremities, while Huang Qi ensures that Gui Zhi's dispersing action does not weaken the body's defenses."
     },
     {
+      "id": 2114,
+      "formula_id": 299,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Shao Yao nourishes the Blood and harmonizes the nutritive (Ying) layer. Paired with Gui Zhi, it balances Yin and Yang and regulates the interplay between the body's nutritive and defensive systems. It also softens and relaxes the blood vessels, helping to relieve the stiffness and impaired sensation caused by Blood stagnation."
     },
     {
+      "id": 2115,
+      "formula_id": 299,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Used at double the dosage of the other main herbs in the original formula, Sheng Jiang is acrid and warm. It strongly disperses Wind-Cold from the surface and carries the power of Huang Qi and Gui Zhi outward to the skin and extremities. Its large dose is key to the formula's effectiveness: it propels the other herbs to the body surface where the obstruction resides."
     },
     {
+      "id": 2116,
+      "formula_id": 299,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 - 12 pieces"
+      "dosage": "4 - 12 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Da Zao is sweet and warm. It nourishes the Blood and Qi, supports the Spleen and Stomach to strengthen the source of Qi and Blood production, and harmonizes all the other herbs. Paired with Sheng Jiang, it helps regulate the nutritive and defensive systems together."
     }
   ],
   "research": [

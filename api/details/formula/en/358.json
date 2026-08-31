@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, iced drinks, raw fruit), greasy or heavy foods, and dairy products, as these can generate Dampness and impede the formula's ability to move Qi and disperse Cold. Light, warm, and easily digestible foods such as congee (rice porridge), clear soups, and lightly cooked vegetables are ideal. A small amount of fresh ginger or scallion in food can complement the formula's warming, exterior-releasing action. Avoid alcohol and spicy, excessively hot foods which could generate internal Heat and counteract the formula's gentle, balanced approach.",
   "ingredients": [
     {
+      "id": 2669,
+      "formula_id": 358,
       "herb_name": "Zi Su Ye",
       "english_name": "Perilla leaf",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Releases the exterior and disperses Wind-Cold while simultaneously moving Qi in the chest and middle burner. This dual action of resolving the exterior pathogen and addressing internal Qi stagnation makes it the ideal lead herb for this formula's combined pathomechanism."
     },
     {
+      "id": 2670,
+      "formula_id": 358,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "A premier herb for moving stagnant Qi and relieving constraint, particularly in the Liver channel. It enhances the Qi-regulating action of the King herb and, when paired with Zi Su Ye, gains the ability to reach the exterior and upper body to help expel pathogenic factors."
     },
     {
+      "id": 2671,
+      "formula_id": 358,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries Dampness in the middle burner, assisting the King and Deputy herbs in resolving Qi stagnation while also transforming turbid Dampness that contributes to the chest fullness and poor appetite."
     },
     {
+      "id": 2672,
+      "formula_id": 358,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and harmonizes the middle burner, preventing the Qi-moving herbs from depleting Qi. Also harmonizes the actions of all the other herbs in the formula."
     }
   ],
   "research": [],

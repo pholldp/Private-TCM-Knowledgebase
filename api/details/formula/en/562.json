@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, iced drinks, dairy products, and greasy or deep-fried foods, as these tend to generate Dampness and Phlegm that worsen nasal congestion. Sweet, sticky foods (such as glutinous rice, excessive sugar, and rich desserts) should also be minimized.\nFavor warm, lightly cooked foods that support the Spleen and help resolve Dampness, such as clear soups, cooked vegetables, ginger tea, and lightly spiced dishes. Mildly pungent foods like scallions, fresh ginger, and radish can support the formula's action of opening the nasal passages.",
   "ingredients": [
     {
+      "id": 4301,
+      "formula_id": 562,
       "herb_name": "Xin Yi Hua",
       "english_name": "Magnolia flower bud",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The primary herb for opening the nasal passages. Its warm, acrid nature allows it to ascend to the head and nose, dispersing Wind-Cold and unblocking congested sinuses. It is the key herb directing the formula to the nasal region."
     },
     {
+      "id": 4302,
+      "formula_id": 562,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Reinforces Xin Yi in opening the nasal passages and expelling Wind. Particularly effective for frontal and supraorbital headache associated with nasal congestion. Also helps to expel Dampness and reduce turbid nasal discharge."
     },
     {
+      "id": 4303,
+      "formula_id": 562,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Releases the exterior and disperses Wind from the head region. Works with Bai Zhi to expel pathogenic Wind that is obstructing the nasal passages, and helps vent Wind-Heat from the upper body."
     },
     {
+      "id": 4304,
+      "formula_id": 562,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Strongly dries Dampness and strengthens the Spleen's ability to transform fluids. In this formula it addresses the underlying Dampness that produces the thick, turbid nasal discharge characteristic of sinusitis."
     },
     {
+      "id": 4305,
+      "formula_id": 562,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms Phlegm. Works together with Cang Zhu and Nan Xing to address the Phlegm-Dampness that accumulates in the nasal sinuses and produces thick, sticky discharge."
     },
     {
+      "id": 4306,
+      "formula_id": 562,
       "herb_name": "Tian Nan Xing",
       "english_name": "Jack-in-the-Pulpit rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "A potent Phlegm-transforming herb that dries Dampness and disperses Wind-Phlegm. Particularly effective for stubborn Phlegm accumulation in the head and face region."
     },
     {
+      "id": 4307,
+      "formula_id": 562,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat, particularly from the Lung and upper body. The wine-frying (酒炒) enhances its upward-directing action to reach the head. It prevents the warm, drying herbs in the formula from generating excessive Heat, and directly addresses any Heat component in the nasal congestion."
     },
     {
+      "id": 4308,
+      "formula_id": 562,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Harmonizes the Stomach and aids digestion. Protects the Middle Burner from the drying and potentially harsh effects of the other herbs, and helps the Spleen and Stomach properly absorb and distribute the formula's medicinal actions."
     }
   ],
   "research": [],

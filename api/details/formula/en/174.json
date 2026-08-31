@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid spicy, hot, and warming foods that may aggravate internal Heat, including chili peppers, ginger, garlic, lamb, alcohol, coffee, and strong tea. Also avoid greasy or fried foods that generate Dampness-Heat.\nFavor cooling and Yin-nourishing foods such as pear, lily bulb, lotus seed, mung beans, cucumber, watermelon, tofu, and congee. These support the formula's strategy of clearing Heat and replenishing Yin fluids.\nClassical dietary prohibitions for this formula include avoiding chicken, beef, lamb, walnuts, longan, and pungent or sour foods like vinegar and citrus that may interfere with the formula's actions.",
   "ingredients": [
     {
+      "id": 1169,
+      "formula_id": 174,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "The primary herb, used in the heaviest dosage. Bitter and cold, it enters the Heart channel to directly drain Heart Fire, calm irritability, and allow Heart Qi to descend and communicate with the Kidneys. Its strong bitter-cold nature powerfully clears the excess Fire that is the dominant pathogenic factor in this pattern."
     },
     {
+      "id": 1170,
+      "formula_id": 174,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "A rich blood-and-flesh substance (blood-nourishing animal product) that deeply nourishes Yin and Blood, replenishing the depleted Kidney Water. By enriching Yin from below, it enables Kidney Water to ascend and check Heart Fire, restoring the Heart-Kidney axis. Its sweet, neutral nature balances the bitter cold of the King herb."
     },
     {
+      "id": 1171,
+      "formula_id": 174,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Assists Huang Lian in clearing Heat and draining Fire. Bitter and cold, it clears Heat from the upper body and Lungs. Since the Lungs are the upper source of water that feeds the Kidneys, clearing Lung Heat indirectly supports Kidney Yin replenishment."
     },
     {
+      "id": 1172,
+      "formula_id": 174,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Sour and bitter in flavour, it nourishes Blood and gathers Yin, assisting E Jiao in replenishing the Yin substance. Its astringent, Yin-consolidating quality prevents the cold, descending herbs from draining Yin fluids downward too quickly, helping to anchor the formula's nourishing effects in the middle."
     },
     {
+      "id": 1173,
+      "formula_id": 174,
       "herb_name": "Ji Zi Huang",
       "english_name": "Egg yolk",
       "role": "Envoy",
-      "dosage": "2 yolks"
+      "dosage": "2 yolks",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "A blood-and-flesh food substance that enters both the Heart and Kidney channels, serving as a bridge between the two. It nourishes Heart Blood from above and supplements Kidney Yin from below, harmonizing the entire formula. It also tempers the harsh bitterness and cold of Huang Lian and Huang Qin, protecting the Stomach and acting as a guide to direct the formula's actions to the Heart-Kidney axis."
     }
   ],
   "research": [

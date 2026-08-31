@@ -979,7 +979,7 @@
                                             </tr>
                                         </thead>
                                         <tbody class="divide-y divide-slate-100 text-slate-700">
-                                            <template x-for="herb in detailModal.data.ingredients" :key="herb.id">
+                                            <template x-for="herb in detailModal.data.ingredients" :key="herb.id || herb.herb_name">
                                                 <tr class="hover:bg-slate-50/50">
                                                     <td class="px-5 py-3.5">
                                                         <a href="#" @click.prevent="openDetail('herb', herb.herb_name)" class="font-semibold text-emerald-600 hover:text-emerald-800 hover:underline flex flex-col">

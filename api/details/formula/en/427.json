@@ -24,52 +24,100 @@
   "dietary_advice": "Favor warm, cooked foods that support Kidney Yang: lamb, walnuts, chestnuts, black sesame seeds, black beans, shrimp, leeks, and warming spices like ginger and cinnamon. Warm soups and congees are ideal. Avoid cold and raw foods such as salads, ice cream, cold drinks, and raw fruit, which can further burden weakened Yang and impair fluid metabolism. Reduce consumption of excessively greasy or rich foods that generate Dampness. The classical instruction notes that patients should avoid raw and cold foods (忌食生冷) while taking this formula. Moderate alcohol intake is traditionally acceptable as the original pill was taken with warm rice wine, which aids absorption and supports the warming action.",
   "ingredients": [
     {
+      "id": 3220,
+      "formula_id": 427,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Strongly warms and revives Kidney Yang, restoring the fundamental fire (Ming Men fire) that drives Qi transformation and fluid metabolism throughout the body. Its powerful warming action addresses the root cause of Kidney Yang deficiency."
     },
     {
+      "id": 3221,
+      "formula_id": 427,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms and unblocks the channels, promotes Yang Qi, and assists Bladder Qi transformation. Together with Fu Zi, it gently stokes the Kidney fire. Gui Zhi's ability to promote the movement and distribution of Yang Qi throughout the body complements Fu Zi's deep warming action."
     },
     {
+      "id": 3222,
+      "formula_id": 427,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "24 - 32g"
+      "dosage": "24 - 32g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Used in the largest dose in the formula, it nourishes Kidney Yin and replenishes Essence, providing the substantial material foundation from which Yang Qi can be generated. By enriching the Yin, it ensures the warming herbs do not dry out the body's fluids. Note: the original formula uses dried raw Rehmannia (Gan Di Huang), not the prepared form (Shu Di Huang), preserving its ability to also cool Blood and move stagnation."
     },
     {
+      "id": 3223,
+      "formula_id": 427,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes and astringes the Liver and Kidneys, securing Essence and preventing its leakage. It reinforces the Yin-nourishing strategy and helps stabilize the Kidney's storage function."
     },
     {
+      "id": 3224,
+      "formula_id": 427,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidneys, consolidating Essence and supporting the postnatal source of Qi and Blood production. By strengthening the Spleen, it ensures that nourishment continues to be generated and supplied to the Kidneys."
     },
     {
+      "id": 3225,
+      "formula_id": 427,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains Dampness from the Kidneys, preventing the rich, cloying nature of Di Huang from creating further fluid stagnation. It helps restore normal water metabolism in the lower body."
     },
     {
+      "id": 3226,
+      "formula_id": 427,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes the removal of Dampness through gentle diuresis. Paired with Shan Yao, it supports the Spleen's transporting function. Paired with Ze Xie, it promotes the metabolism of fluids and prevents pathological water accumulation."
     },
     {
+      "id": 3227,
+      "formula_id": 427,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat from the Blood level and invigorates Blood, preventing the warming herbs from generating excessive Heat. It also clears Liver Fire, counterbalancing the warm nature of Fu Zi and Gui Zhi, and helps resolve Blood stasis."
     }
   ],
   "research": [

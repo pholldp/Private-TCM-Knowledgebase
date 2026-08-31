@@ -24,64 +24,124 @@
   "dietary_advice": "During treatment, favor easily digestible foods such as thin rice porridge (congee), clear soups, and well-cooked soft vegetables to avoid burdening the already compromised digestive system. Avoid cold and raw foods, greasy or fried foods, heavy meats, dairy products, and spicy or pungent items that could further aggravate interior Heat or Stomach function.\nAfter the bowels have moved and the formula has achieved its effect, gradually reintroduce solid foods. Do not eat heavily immediately after purgation, as the Spleen and Stomach need time to recover. The classical teaching of 'protecting Stomach Qi after purgation' applies strongly here: gentle, warm, nourishing foods should be favored during recovery.",
   "ingredients": [
     {
+      "id": 1404,
+      "formula_id": 207,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "The chief purgative herb. Da Huang drains excess heat downward and unblocks the bowels, directly addressing the core problem of heat and dried stool accumulating in the intestines. Its bitter, cold nature powerfully clears interior heat."
     },
     {
+      "id": 1405,
+      "formula_id": 207,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardened stool and moistens dryness in the intestines, strongly reinforcing Da Huang's purgative action. Together they form the core purgative pair that drives out the heat-bound accumulation."
     },
     {
+      "id": 1406,
+      "formula_id": 207,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and drives Qi downward, helping to relieve abdominal distension and fullness. Works with Hou Po to move the stagnant Qi that accompanies the physical blockage."
     },
     {
+      "id": 1407,
+      "formula_id": 207,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, reduces abdominal distension, and eliminates fullness. Together with Da Huang, Mang Xiao, and Zhi Shi, these four herbs form Da Cheng Qi Tang (Major Order the Qi Decoction), the powerful purgative core of this formula."
     },
     {
+      "id": 1408,
+      "formula_id": 207,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Qi to support the body's vitality during the harsh purgation. This is the key herb that distinguishes Huang Long Tang from a simple purgative. By replenishing Qi, it prevents the purging from causing further collapse in an already weakened patient."
     },
     {
+      "id": 1409,
+      "formula_id": 207,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, complementing Ren Shen's Qi-tonifying action. Together they address the dual deficiency of Qi and Blood. Dang Gui also moistens the intestines, which aids bowel movement without relying solely on harsh purgation."
     },
     {
+      "id": 1410,
+      "formula_id": 207,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and disseminates Lung Qi. Since the Lung and Large Intestine are paired organs (interior-exterior relationship), opening the Lung Qi from above helps the Large Intestine to move downward below. This 'raising to promote descending' strategy aids the purgative action."
     },
     {
+      "id": 1411,
+      "formula_id": 207,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the interactions between the harsh purgative herbs and the gentle tonifying herbs. Also supports the Spleen and Stomach alongside Ren Shen, helping to protect digestive function during the purging process."
     },
     {
+      "id": 1412,
+      "formula_id": 207,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 slices"
+      "dosage": "3 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms and harmonizes the Stomach, helping to protect digestive function. Works with Da Zao and Gan Cao to support the middle burner so it can tolerate the powerful purgative action of the formula."
     },
     {
+      "id": 1413,
+      "formula_id": 207,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "2 pieces"
+      "dosage": "2 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach and harmonizes the actions of the other herbs. Together with Sheng Jiang and Gan Cao, it gently supports the digestive system and helps buffer the harshness of the purgative herbs."
     }
   ],
   "research": [],

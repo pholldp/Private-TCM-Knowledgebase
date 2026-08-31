@@ -24,52 +24,100 @@
   "dietary_advice": "Favor warm, cooked, easily digestible foods that support the Spleen: congee (rice porridge), soups, steamed vegetables, and small amounts of lean protein. Foods like Chinese yam (shan yao), red dates, goji berries, and millet complement the formula's tonifying action.\nAvoid raw, cold, and greasy foods (ice cream, salads, fried foods, excessive dairy) as these burden the Spleen and impair the absorption of the formula's tonifying effects. Limit excessively spicy or heating foods, which could exacerbate any underlying Yin deficiency. Avoid strong tea and coffee close to the time of taking the formula, as tannins may interfere with absorption of active compounds.",
   "ingredients": [
     {
+      "id": 2474,
+      "formula_id": 342,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "The primary Qi-tonifying herb. Powerfully tonifies Spleen and Lung Qi, raises Yang, and strengthens Defensive Qi (Wei Qi) to consolidate the Exterior and boost the body's resistance to pathogens. As the chief herb, it provides the fundamental Qi-replenishing action around which the formula is built."
     },
     {
+      "id": 2475,
+      "formula_id": 342,
       "herb_name": "Ling Zhi",
       "english_name": "Reishi mushroom",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Liver, Kidneys",
+      "role_description": "Tonifies Qi, nourishes Heart Blood, benefits Lung Qi, calms the spirit, and broadly supports the immune system. Working alongside Huang Qi as a co-King herb, Ling Zhi provides a deep, nourishing quality to the formula's Qi-tonifying action and adds its well-known immunomodulatory effects."
     },
     {
+      "id": 2476,
+      "formula_id": 342,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Yuan Qi (Original Qi), Spleen and Lung Qi, generates Body Fluids, and calms the mind. Reinforces the Qi-tonifying action of the King herbs while adding its unique ability to generate fluids, preventing the strong Qi-tonifying approach from becoming too drying."
     },
     {
+      "id": 2477,
+      "formula_id": 342,
       "herb_name": "Ci Wu Jia",
       "english_name": "Eleuthero root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Kidneys, Heart, Lungs",
+      "role_description": "Tonifies Spleen and Kidney, strengthens sinews and bones, and supports Defensive Qi. Acts as an adaptogenic complement to the King herbs, reinforcing the body's overall resilience and stress tolerance while strengthening the Kidney foundation that underpins immunity."
     },
     {
+      "id": 2478,
+      "formula_id": 342,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Lung and Stomach Yin, generates Body Fluids, and clears Heart Heat. Serves as a restraining assistant that counterbalances the warm, drying tendency of the Qi-tonifying herbs. Ensures that the formula does not deplete Yin while building Qi."
     },
     {
+      "id": 2479,
+      "formula_id": 342,
       "herb_name": "Shi Hu",
       "english_name": "Dendrobium stem",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Stomach, Kidneys",
+      "role_description": "Nourishes Stomach and Kidney Yin, generates Body Fluids, and clears Deficiency Heat. Works alongside Mai Dong to protect Yin and Fluids, while specifically supporting the Stomach and Kidney to ensure a solid foundation for Qi generation."
     },
     {
+      "id": 2480,
+      "formula_id": 342,
       "herb_name": "Nu Zhen Zi",
       "english_name": "Glossy privet fruit",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Liver and Kidney Yin and clears Deficiency Heat. Supports the deeper Yin reserves of the Liver and Kidney, ensuring that long-term Qi tonification does not come at the expense of the body's Yin substance. Adds a gently cooling, enriching dimension."
     },
     {
+      "id": 2481,
+      "formula_id": 342,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes Liver and Kidney Yin, benefits the Essence, and brightens the eyes. Complements Nu Zhen Zi in enriching the Liver-Kidney Yin axis while nourishing Blood and Essence, providing a deeper constitutional support that sustains the immune-boosting effect of the formula over time."
     }
   ],
   "research": [],

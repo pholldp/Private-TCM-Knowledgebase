@@ -24,46 +24,88 @@
   "dietary_advice": "While taking Bao He Wan, avoid the very foods that caused the problem: greasy, fatty, fried, and heavily spiced foods should be minimized. Cold, raw foods (including salads, iced drinks, and raw fruit) should also be avoided, as they further burden a Stomach that is already struggling to process its contents. Alcohol should be restricted. Favor simple, warm, easily digestible foods such as plain rice porridge (congee), steamed vegetables, light soups, and small portions. Eat slowly and chew thoroughly. Avoid eating late at night. Resume a normal varied diet gradually once symptoms resolve.",
   "ingredients": [
     {
+      "id": 981,
+      "formula_id": 147,
       "herb_name": "Shan Zha",
       "english_name": "Hawthorn fruit",
       "role": "King",
-      "dosage": "15 - 18g"
+      "dosage": "15 - 18g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Used in the largest dose, Shan Zha is the primary digestive herb. It excels at breaking down greasy, fatty, and meat-based food accumulation, directly addressing the core problem of food stagnation in the stomach."
     },
     {
+      "id": 982,
+      "formula_id": 147,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "A fermented medicinal that is particularly effective at digesting stale, fermented, and alcohol-related food residues. It complements Shan Zha by targeting a different category of food stagnation."
     },
     {
+      "id": 983,
+      "formula_id": 147,
       "herb_name": "Lai Fu Zi",
       "english_name": "Radish seed",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Promotes the downward movement of Qi and reduces bloating. It specializes in digesting grain and starch-based foods and helps dissolve phlegm turbidity caused by food stagnation."
     },
     {
+      "id": 984,
+      "formula_id": 147,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm that accumulates when food stagnation impairs the Spleen's transport function. It also harmonizes the Stomach and stops nausea and vomiting by restoring the Stomach's normal downward-directing function."
     },
     {
+      "id": 985,
+      "formula_id": 147,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Moves Qi, resolves stagnation, and dries dampness. When food sits in the stomach, it blocks the normal flow of Qi. Chen Pi restores Qi circulation in the digestive tract, relieving bloating and distension."
     },
     {
+      "id": 986,
+      "formula_id": 147,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains dampness through gentle diuresis. Food stagnation readily generates internal dampness, and Fu Ling addresses this secondary pathology while supporting the Spleen's transport and transformation capacity. It also helps stop diarrhea."
     },
     {
+      "id": 987,
+      "formula_id": 147,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears heat and disperses clumped stagnation. Accumulated food readily generates internal heat over time; Lian Qiao addresses this heat while its ability to scatter nodulations assists the digestive process. This is a clever preventive measure within the formula."
     }
   ],
   "research": [

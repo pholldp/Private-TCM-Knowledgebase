@@ -24,64 +24,124 @@
   "dietary_advice": "The original text specifically advises: during the course of treatment and in early recovery, avoid rich, greasy, and heavily flavored foods (厚味), control anger and emotional agitation, and reduce sexual activity to conserve vital resources.\nMore specifically: avoid spicy, fried, and greasy foods that generate internal Heat and counteract the formula's cooling action. Reduce alcohol and dairy, which can produce Dampness and Phlegm that worsen nasal congestion. Favor light, easily digestible foods such as congee, steamed vegetables, pears, and cooling foods like mung beans and winter melon. Stay well hydrated to support the formula's Yin-nourishing herbs.",
   "ingredients": [
     {
+      "id": 1593,
+      "formula_id": 232,
       "herb_name": "Xin Yi Hua",
       "english_name": "Magnolia flower bud",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The formula's namesake and lead herb. Xin Yi Hua is warm, acrid, and enters the Lung and Stomach channels. It excels at dispersing Wind, opening the nasal passages, and restoring the free flow of Qi through the nose. It directly addresses the core symptom of nasal obstruction."
     },
     {
+      "id": 1594,
+      "formula_id": 232,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Upper Burner, especially the Lungs. Its bitter, cold nature directly drains the Lung Heat that is the root cause of the nasal congestion and polyp formation, supporting the King herb's opening action by addressing the underlying Heat."
     },
     {
+      "id": 1595,
+      "formula_id": 232,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "A powerful Heat-clearing mineral that drains Fire from the Lung and Stomach. It works alongside Huang Qin and Zhi Mu to form a strong Heat-clearing team, addressing the deep-seated Heat that fuels nasal polyp growth."
     },
     {
+      "id": 1596,
+      "formula_id": 232,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat from the Lung and Stomach while also nourishing Yin and generating fluids. It reinforces the Heat-clearing action of Shi Gao and helps prevent the prolonged Heat from consuming the body's fluids."
     },
     {
+      "id": 1597,
+      "formula_id": 232,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat and drains Fire from all three Burners, with a particular ability to clear Heat from the Lung channel. It also drains Damp-Heat, helping to address any turbid accumulation contributing to the nasal obstruction."
     },
     {
+      "id": 1598,
+      "formula_id": 232,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Lung Yin and moistens the Lungs. This is a crucial restraining assistant role: the formula contains several cold, bitter, and drying herbs plus the warm, acrid Xin Yi Hua, all of which can damage Lung fluids. Mai Men Dong protects the Yin from being further consumed by both the pathogenic Heat and the formula's own drying tendency."
     },
     {
+      "id": 1599,
+      "formula_id": 232,
       "herb_name": "Bai He",
       "english_name": "Lily bulb",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Moistens the Lungs and nourishes Lung Yin. Works alongside Mai Men Dong to protect the Lungs' delicate tissue from dryness caused by lingering Heat, and gently clears residual Heat from the Lung."
     },
     {
+      "id": 1600,
+      "formula_id": 232,
       "herb_name": "Pi Pa Ye",
       "english_name": "Loquat leaf",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Lung Heat and redirects Lung Qi downward. The Lung's natural Qi movement is to descend and disperse; Heat disrupts this, causing Qi to stagnate upward and contributing to nasal congestion. Pi Pa Ye restores the proper descending function of the Lung."
     },
     {
+      "id": 1601,
+      "formula_id": 232,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Raises clear Yang Qi and clears Heat-Toxin. It directs the formula's actions upward to the head and nasal region, where the disease is located. Together with Pi Pa Ye, it regulates the ascending and descending of Qi in the Upper Burner so that clear Qi rises and turbid Qi descends."
     },
     {
+      "id": 1602,
+      "formula_id": 232,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the ingredients in the formula, moderates the bitter cold herbs to protect the Stomach, and provides mild Heat-clearing and toxin-resolving support."
     }
   ],
   "research": [

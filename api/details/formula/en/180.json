@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor light, easily digestible foods such as congee, mung bean soup, fresh fruits like watermelon, and cooling vegetables. Avoid greasy, fried, and heavy foods that generate internal Dampness and Heat, which would counteract the formula's gentle clearing action. Also avoid excessively spicy, warming foods (lamb, chili, ginger, garlic in large amounts) and alcohol, as these produce internal heat. Cold, iced drinks should also be used sparingly despite the summer context, as they can impair Spleen and Stomach function and trap Dampness internally.",
   "ingredients": [
     {
+      "id": 1222,
+      "formula_id": 180,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Acrid, cool, and aromatic, Jin Yin Hua clears Heat and resolves toxicity. In this formula it serves as the primary herb for clearing Summer-Heat from the Qi level and the Lung collaterals. The fresh form is preferred for its stronger aromatic Summer-Heat dispersing action."
     },
     {
+      "id": 1223,
+      "formula_id": 180,
       "herb_name": "Bian Dou Hua",
       "english_name": "Hyacinth bean flower",
       "role": "King",
-      "dosage": "6g (one sprig)"
+      "dosage": "6g (one sprig)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Among all the herbs in this formula, Bian Dou Hua has the strongest ability to resolve Summer-Heat. It also strengthens the Spleen and harmonizes the Stomach, which protects the middle digestive system from the dampness that often accompanies Summer-Heat. Its aromatic, clearing nature makes it particularly well suited for the upper body."
     },
     {
+      "id": 1224,
+      "formula_id": 180,
       "herb_name": "Xi Gua",
       "english_name": "Watermelon",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Stomach, Urinary Bladder",
+      "role_description": "The green outer rind of the watermelon clears Summer-Heat, generates fluids, and promotes urination. It supports the King herbs by addressing heat-induced thirst and directing excess heat downward and out through the urine."
     },
     {
+      "id": 1225,
+      "formula_id": 180,
       "herb_name": "Si Gua Pi",
       "english_name": "Luffa Peel",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Si Gua Pi clears Heat and opens the collaterals (luo) of the Lungs. Its ability to penetrate and unblock the fine network vessels of the Lung is what gives the formula its name: it literally clears the collaterals. It helps vent residual Summer-Heat lodged in these superficial pathways."
     },
     {
+      "id": 1226,
+      "formula_id": 180,
       "herb_name": "He Ye",
       "english_name": "Lotus leaf",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach",
+      "role_description": "The edge portion of the lotus leaf is used because it has more dispersing and outward-moving qualities than the center. It clears Summer-Heat, lifts clear Yang, and relieves the head heaviness and dizziness characteristic of this pattern. It also mildly transforms dampness."
     },
     {
+      "id": 1227,
+      "formula_id": 180,
       "herb_name": "Zhu Ye",
       "english_name": "Bamboo leaf",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Stomach, Gallbladder",
+      "role_description": "The heart (inner rolled portion) of the bamboo leaf clears Heat from the Heart, alleviates irritability, and promotes urination to drain heat downward. Since Summer-Heat tends to affect the Heart first, this herb specifically addresses the mental restlessness and mild irritability that accompany even mild Summer-Heat patterns."
     }
   ],
   "research": [],

@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods, as these generate further Dampness and Phlegm, directly opposing the formula's Damp-clearing strategy. Avoid alcohol, which is hot and damp in nature and aggravates Gallbladder Heat. Avoid raw, cold foods such as ice cream, cold salads, and iced beverages, which can obstruct the Stomach Qi and impede the formula's ability to harmonize the middle burner. Sour foods (pickles, vinegar, citrus in excess) should be minimized, as sourness has a constricting nature that can trap pathogens.\nFavor light, easily digestible foods such as plain congee (rice porridge), steamed vegetables, and mung bean soup (which itself has mild Heat-clearing properties). Bland foods like winter melon, coix seed (Job's tears), and lotus seed are supportive as they gently drain Dampness. Bitter melon in small amounts is suitable as it echoes the formula's Heat-clearing action.",
   "ingredients": [
     {
+      "id": 121,
+      "formula_id": 20,
       "herb_name": "Qing Hao",
       "english_name": "Sweet wormwood",
       "role": "King",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Clears and vents heat from the Shaoyang level with its bitter, cold, and aromatic nature. It transparently releases pathogenic heat outward from the Gallbladder channel, acting as the lead herb for clearing summerheat and damp-heat lodged in the Shaoyang."
     },
     {
+      "id": 122,
+      "formula_id": 20,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat and dries dampness from the Gallbladder and Liver. Paired with Qing Hao, it both clears damp-heat internally and assists in venting pathogenic factors outward. The original text specifies using the young tender roots (青子芩) for their stronger heat-clearing action on the upper and middle burners."
     },
     {
+      "id": 123,
+      "formula_id": 20,
       "herb_name": "Zhu Ru",
       "english_name": "Bamboo shavings",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Heart, Gallbladder",
+      "role_description": "Clears heat from the Gallbladder and Stomach, transforms phlegm, and stops vomiting. It directly addresses the nausea and vomiting of bitter or sticky fluids caused by Gallbladder heat invading the Stomach."
     },
     {
+      "id": 124,
+      "formula_id": 20,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness, transforms phlegm, harmonizes the Stomach, and directs rebellious Qi downward. It addresses the phlegm-turbidity produced when Gallbladder heat causes body fluids to congeal. The original text specifies 'Xian Ban Xia' (仙半夏, processed form)."
     },
     {
+      "id": 125,
+      "formula_id": 20,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Deputy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi downward, opens the chest, and disperses phlegm-induced fullness. It works with Ban Xia and Chen Pi to relieve the stifling chest sensation and epigastric distention."
     },
     {
+      "id": 126,
+      "formula_id": 20,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Deputy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, dries dampness, and transforms phlegm. It broadens the chest and smooths the flow of Qi in the middle burner, reinforcing the phlegm-resolving and Stomach-harmonizing effects of the other Deputy herbs."
     },
     {
+      "id": 127,
+      "formula_id": 20,
       "herb_name": "Chi Fu Ling",
       "english_name": "Red poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen, Urinary Bladder",
+      "role_description": "Promotes urination and drains damp-heat downward through the Bladder. Red Poria (Chi Fu Ling) is chosen over regular white Poria because of its added ability to clear heat from the Heart and conduct dampness downward, ensuring the pathogenic dampness has an exit route via the lower burner."
     },
     {
+      "id": 128,
+      "formula_id": 20,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Envoy",
-      "dosage": "6g (within 9g Bi Yu San)"
+      "dosage": "6g (within 9g Bi Yu San)",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "The main component of Bi Yu San (碧玉散, Jasper Powder). It clears heat, promotes urination, and drains damp-heat downward through the Bladder, guiding Gallbladder fire to exit via the lower burner."
     },
     {
+      "id": 129,
+      "formula_id": 20,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1g (within 9g Bi Yu San)"
+      "dosage": "1g (within 9g Bi Yu San)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Within Bi Yu San, it harmonizes the other ingredients and protects the Stomach from the cold, bitter nature of the formula's heat-clearing herbs."
     },
     {
+      "id": 130,
+      "formula_id": 20,
       "herb_name": "Qing Dai",
       "english_name": "Indigo Naturalis",
       "role": "Envoy",
-      "dosage": "2g (within 9g Bi Yu San)"
+      "dosage": "2g (within 9g Bi Yu San)",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs",
+      "role_description": "Within Bi Yu San, it clears heat from the Liver channel and cools the Blood, adding an extra dimension of heat-clearing focused on the Liver-Gallbladder axis."
     }
   ],
   "research": [],

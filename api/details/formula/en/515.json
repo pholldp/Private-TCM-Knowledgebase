@@ -24,64 +24,124 @@
   "dietary_advice": "While using this formula, avoid spicy, fried, greasy, and heavily seasoned foods, as these can generate more internal Heat and Dampness, working against the formula's cooling and toxin-resolving actions. Alcohol and tobacco should also be avoided. Favor light, easily digestible foods such as bland porridge, fresh vegetables, and cooling foods like mung beans, winter melon, and cucumber to support the body's ability to clear Heat and resolve inflammation.",
   "ingredients": [
     {
+      "id": 3913,
+      "formula_id": 515,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "King",
-      "dosage": "150g (in powder blend, original proportion 10 parts)"
+      "dosage": "150g (in powder blend, original proportion 10 parts)",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Used at double the dose of other major herbs. Clears heat, generates fluids, reduces swelling, and expels pus when applied externally. Also cools the blood and disperses stasis. As the heaviest ingredient, it drives the formula's core action of clearing heat-toxin from the skin and resolving swollen abscesses."
     },
     {
+      "id": 3914,
+      "formula_id": 515,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "75g (in powder blend, original proportion 5 parts)"
+      "dosage": "75g (in powder blend, original proportion 5 parts)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Drains fire, resolves toxin, and invigorates blood to dispel stasis. Works with Huang Bai to powerfully clear heat-toxin from the local tissues, while its blood-moving action helps resolve swelling and reduce pain."
     },
     {
+      "id": 3915,
+      "formula_id": 515,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "75g (in powder blend, original proportion 5 parts)"
+      "dosage": "75g (in powder blend, original proportion 5 parts)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears heat, drains fire, and resolves toxin. Particularly effective at clearing damp-heat and is a key herb for treating hot, red, swollen skin conditions. Pairs with Da Huang to reinforce the heat-clearing and detoxifying action."
     },
     {
+      "id": 3916,
+      "formula_id": 515,
       "herb_name": "Jiang Huang",
       "english_name": "Turmeric rhizome",
       "role": "Deputy",
-      "dosage": "75g (in powder blend, original proportion 5 parts)"
+      "dosage": "75g (in powder blend, original proportion 5 parts)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Liver",
+      "role_description": "Invigorates blood, promotes the movement of Qi, unblocks the channels, and alleviates pain. Addresses blood stasis that contributes to swelling and pain, complementing the heat-clearing herbs by ensuring Qi and blood circulate freely through the affected area."
     },
     {
+      "id": 3917,
+      "formula_id": 515,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Deputy",
-      "dosage": "75g (in powder blend, original proportion 5 parts)"
+      "dosage": "75g (in powder blend, original proportion 5 parts)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Disperses wind, reduces swelling, expels pus, and alleviates pain. Works with Tian Hua Fen to strengthen the formula's ability to reduce swelling and promote the discharge of pus. Its aromatic nature helps disperse stagnation in the local tissues."
     },
     {
+      "id": 3918,
+      "formula_id": 515,
       "herb_name": "Tian Nan Xing",
       "english_name": "Jack-in-the-Pulpit rhizome",
       "role": "Assistant",
-      "dosage": "30g (in powder blend, original proportion 2 parts)"
+      "dosage": "30g (in powder blend, original proportion 2 parts)",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Dries dampness, disperses swelling, and resolves phlegm-nodules. When used externally (raw/unprocessed), it is especially effective at reducing stubborn swelling and hardened masses. Pairs with Jiang Huang to invigorate blood and move Qi through blocked channels."
     },
     {
+      "id": 3919,
+      "formula_id": 515,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "30g (in powder blend, original proportion 2 parts)"
+      "dosage": "30g (in powder blend, original proportion 2 parts)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Dries dampness and strengthens the Spleen. Part of the embedded Ping Wei San structure within the formula, which addresses the internal root of external sores by resolving dampness and supporting the Spleen's role in tissue repair."
     },
     {
+      "id": 3920,
+      "formula_id": 515,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "30g (in powder blend, original proportion 2 parts)"
+      "dosage": "30g (in powder blend, original proportion 2 parts)",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, dries dampness, and disperses fullness. Another component of the embedded Ping Wei San structure. By promoting Qi circulation and resolving dampness, it helps the body eliminate the pathogenic dampness that contributes to swelling."
     },
     {
+      "id": 3921,
+      "formula_id": 515,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "30g (in powder blend, original proportion 2 parts)"
+      "dosage": "30g (in powder blend, original proportion 2 parts)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries dampness. Completes the Ping Wei San sub-structure. Its Qi-regulating action supports the overall formula principle that moving Qi helps move blood, and moving blood helps resolve swelling."
     },
     {
+      "id": 3922,
+      "formula_id": 515,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "30g (in powder blend, original proportion 2 parts)"
+      "dosage": "30g (in powder blend, original proportion 2 parts)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the other herbs and resolves toxin. Its sweet nature moderates the bitter, cold, and pungent properties of the other ingredients, preventing excessive irritation to the skin. Also has its own mild detoxifying and anti-inflammatory action."
     }
   ],
   "research": [

@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, iced drinks, raw sushi, and cold fruits) as these can worsen Cold-Damp accumulation in the channels and counteract the warming, dispersing nature of the formula. Greasy, heavy, and excessively sweet foods should also be limited, as they generate internal Dampness that aggravates Bi syndrome. Foods that support the formula's strategy include warm soups, ginger tea, moderate amounts of lamb or chicken (warming proteins), and cooked grains. Avoid exposure to cold, damp, and windy environments during treatment, as this can reintroduce the very pathogens the formula is working to expel. Moderate exercise to promote Qi and Blood circulation in the joints is beneficial, but overexertion should be avoided.",
   "ingredients": [
     {
+      "id": 194,
+      "formula_id": 34,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Disperses Wind-Cold-Dampness from the upper body, unblocks the channels, and relieves joint pain. As a King herb, it directly targets the primary pathogenic factors (Wind and Dampness) lodged in the muscles, channels, and joints."
     },
     {
+      "id": 195,
+      "formula_id": 34,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Disperses Wind and overcomes Dampness without being excessively drying. Works alongside Qiang Huo to expel pathogenic Wind from the exterior and channels, and has a synergistic relationship with Huang Qi where each enhances the other's effectiveness."
     },
     {
+      "id": 196,
+      "formula_id": 34,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi and strengthens the Protective Qi (Wei Qi), addressing the underlying deficiency that allowed pathogenic factors to invade. Its Qi-boosting action also drives the wind-dispelling herbs to work more effectively."
     },
     {
+      "id": 197,
+      "formula_id": 34,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates the Blood, harmonizes the Nutritive Qi (Ying Qi). Addresses the Blood deficiency component of the pattern and prevents the wind-dispelling herbs from drying out the Blood."
     },
     {
+      "id": 198,
+      "formula_id": 34,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and softens the Liver, relaxes the sinews, and alleviates pain. Works with Dang Gui to nourish Blood and harmonize the Nutritive Qi, supporting the body's ability to expel pathogenic factors."
     },
     {
+      "id": 199,
+      "formula_id": 34,
       "herb_name": "Jiang Huang",
       "english_name": "Turmeric rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Liver",
+      "role_description": "Moves Qi within the Blood, breaks through Blood stasis in the channels, enters the arms and upper limbs specifically, and dispels Cold-Dampness from the joints. Empirically effective for shoulder and arm pain."
     },
     {
+      "id": 200,
+      "formula_id": 34,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, tonifies the Middle Qi, and moderates the dispersing properties of the wind-expelling herbs to protect the Spleen and Stomach."
     }
   ],
   "research": [

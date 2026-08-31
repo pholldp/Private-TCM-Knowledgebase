@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid cold and raw foods (ice cream, cold drinks, salads, raw fruit) during the course of treatment, as these counteract the formula's warming action. Spicy and strongly greasy/fried foods should also be limited, as they can generate pathological Heat or disrupt digestion.\nFavour warm, nourishing foods that support Blood and warmth: cooked whole grains, bone broth, lamb or chicken soup, ginger tea, jujube dates (Da Zao), longan fruit, and lightly cooked vegetables. The classical source text specifically recommends avoiding raw and cold foods while taking this formula.\nEmotional regulation is also advised: try to avoid excessive anger, frustration, or emotional stress, as these cause Liver Qi stagnation, which the formula is also working to resolve.",
   "ingredients": [
     {
+      "id": 2697,
+      "formula_id": 362,
       "herb_name": "Ai Ye",
       "english_name": "Mugwort leaf",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Kidneys",
+      "role_description": "Charred Mugwort leaf warms the channels and uterus, dispels Cold, and stops bleeding. As a King herb it directly addresses uterine Cold, the central pathomechanism of this formula."
     },
     {
+      "id": 2698,
+      "formula_id": 362,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Vinegar-processed Cyperus is the foremost Qi-regulating herb in gynaecology. It spreads Liver Qi, relieves pain, and regulates menstruation. Used in the largest dose, it ensures Qi moves freely so Blood can follow."
     },
     {
+      "id": 2699,
+      "formula_id": 362,
       "herb_name": "Wu Zhu Yu",
       "english_name": "Evodia fruit",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach, Kidneys",
+      "role_description": "Prepared Evodia fruit warms the interior, dispels Cold, and descends rebellious Qi. It reinforces the King herbs' warming action on the lower abdomen and uterus, and helps relieve pain caused by Cold stagnation."
     },
     {
+      "id": 2700,
+      "formula_id": 362,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Deputy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Cinnamon bark powerfully warms Kidney Yang, warms the channels, and promotes Blood circulation. It assists the King herbs in dispelling deep-seated Cold from the lower Jiao and uterus."
     },
     {
+      "id": 2701,
+      "formula_id": 362,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Angelica root nourishes and invigorates Blood, regulates menstruation, and relieves pain. As a key gynaecological herb, it addresses the Blood deficiency underlying the pattern and helps move stagnant Blood."
     },
     {
+      "id": 2702,
+      "formula_id": 362,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Szechuan Lovage rhizome invigorates Blood and promotes Qi movement. It works synergistically with Dang Gui to move Blood, and is said to 'treat the Qi within the Blood', preventing stasis from the nourishing herbs."
     },
     {
+      "id": 2703,
+      "formula_id": 362,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "White Peony root nourishes Blood, softens the Liver, and relieves pain through its astringent and antispasmodic qualities. Wine-frying enhances its Blood-moving capacity."
     },
     {
+      "id": 2704,
+      "formula_id": 362,
       "herb_name": "Di Huang",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Rehmannia root nourishes Blood and Yin, providing a material foundation for Blood replenishment. It works with the other Si Wu Tang herbs to rebuild the Blood that is deficient in this pattern."
     },
     {
+      "id": 2705,
+      "formula_id": 362,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Honey-prepared Astragalus tonifies Spleen Qi to support Blood production. Since Qi is the commander of Blood, strengthening Qi ensures new Blood can be generated and properly circulated."
     },
     {
+      "id": 2706,
+      "formula_id": 362,
       "herb_name": "Xu Duan",
       "english_name": "Teasel root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Japanese Teasel root tonifies the Liver and Kidneys, strengthens the sinews and bones, and promotes Blood circulation. It stabilizes the Chong and Ren channels, supporting fertility and addressing lower back pain."
     }
   ],
   "research": [],

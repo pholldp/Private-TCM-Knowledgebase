@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid excessively cold or raw foods (such as ice cream, raw salads, and cold drinks), as these can aggravate the lower Cold component of the condition. Also avoid greasy, fried, or heavily spiced foods, as these can generate more Heat in the upper digestive tract and worsen vomiting. Alcohol should be strictly avoided, as it produces Damp-Heat and disrupts the Spleen and Stomach. Favor warm, easily digestible foods such as plain rice congee, steamed vegetables, and mild soups. Eat small, frequent meals rather than large portions to avoid overwhelming the weakened digestive system. The classical instruction is to take the decoction slightly warm (分温再服), not hot and not cold.",
   "ingredients": [
     {
+      "id": 2983,
+      "formula_id": 394,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Acrid and hot, Gan Jiang enters the middle burner to warm the Spleen, dispel internal cold, and open the cold blockage (寒格) that is causing food to be rejected. Its pungent nature breaks through the obstruction between the cold lower body and the hot upper body, restoring the normal downward movement of Stomach Qi. It is named first in the formula title precisely because its warming, opening action is the key strategic move."
     },
     {
+      "id": 2984,
+      "formula_id": 394,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Bitter and cold, Huang Lian clears heat from the Stomach and upper burner. Its bitter, descending nature directly counters the upward rebellion of Stomach Qi that causes the immediate vomiting upon eating. Working alongside the King herb, it addresses the heat aspect of the cold-heat complex while Gan Jiang handles the cold."
     },
     {
+      "id": 2985,
+      "formula_id": 394,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold like Huang Lian, Huang Qin reinforces the heat-clearing and descending action. It particularly clears heat from the upper burner and helps break through the cold blockage (通寒格) by using bitterness to drain and discharge. Together with Huang Lian, it forms a powerful bitter-cold pair that counterbalances the hot nature of Gan Jiang."
     },
     {
+      "id": 2986,
+      "formula_id": 394,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and slightly warm, Ren Shen tonifies the Spleen and Stomach Qi, which has been severely damaged by the underlying condition and by prior misuse of vomiting and purging treatments. It harmonises the middle burner, prevents the bitter-cold herbs from further injuring the weakened digestive system, and supports the overall recovery of normal ascending and descending functions."
     }
   ],
   "research": [

@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid foods that generate Heat or Phlegm: greasy, fried, and heavily spiced foods; lamb, shrimp, and other warming meats; chocolate, coffee, and alcohol. Cold and raw foods should also be limited, as they can impair the Spleen's digestive function, which the formula relies on to support the Lungs (Earth generates Metal in Five-Phase theory).\nFavor light, easy-to-digest foods that moisten the Lungs and clear mild Heat: pears, white radish (daikon), lotus root, lily bulb (bai he), loquat, mung beans, and congee (rice porridge, which complements the Jing Mi already in the formula). Adequate hydration is important to help the body clear Heat and protect Yin fluids.",
   "ingredients": [
     {
+      "id": 1603,
+      "formula_id": 233,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Sweet and cold, enters the Lung channel, directly clears and drains Lung heat, descends rebellious Lung Qi, and stops coughing and wheezing. As the principal herb it addresses the core pathomechanism of heat obstructing the Lung's descending function."
     },
     {
+      "id": 1604,
+      "formula_id": 233,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Sweet, bland, and cold, enters the Lung and Kidney channels. Penetrates deeply into the Yin level to drain hidden fire (伏火) from the Lungs and clear deficiency heat. Complements the King herb by addressing the deeper, smouldering aspect of Lung heat that produces steaming sensations in the skin and afternoon worsening."
     },
     {
+      "id": 1605,
+      "formula_id": 233,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral, nourishes the Spleen and Stomach to protect them from the cold nature of the other herbs. Supports the Spleen to 'nourish the mother of Metal' (培土生金), indirectly supporting Lung Qi while harmonising the formula."
     },
     {
+      "id": 1606,
+      "formula_id": 233,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Envoy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Sweet and neutral, protects the Stomach and harmonises the Middle Burner. Works alongside Zhi Gan Cao to ensure the cold, draining herbs do not injure the Spleen and Stomach, embodying the 'nourish Earth to generate Metal' strategy."
     }
   ],
   "research": [

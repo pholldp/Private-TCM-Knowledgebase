@@ -25,106 +25,208 @@
   "dietary_advice": "ขณะใช้สูตรนี้ ให้หลีกเลี่ยงอาหารรสเผ็ด ร้อน มันเยิ้ม ทอด และอาหารเข้มข้น เนื่องจากสิ่งเหล่านี้จะสร้างความร้อนภายในและขัดขวางการทำความเย็นและขจัดความร้อนของสูตรโดยตรง ควรหลีกเลี่ยงแอลกอฮอล์และยาสูบอย่างเคร่งครัด เนื่องจากจะก่อให้เกิดความร้อนและสารพิษ\nอย่ารับประทานยาปรับสภาพหรือเสริมยาสมุนไพรจีนไปพร้อมๆ กัน เนื่องจากคุณสมบัติในการอุ่นและเสริมอาหารขัดแย้งกับวิธีการระบายของสูตรนี้\nชอบทานอาหารเบาๆ ที่ย่อยง่าย เช่น ซุปใส ผักนึ่ง โจ๊ก (โจ๊ก) ถั่วเขียว และผลไม้แช่เย็น เช่น ลูกแพร์และแตงโม ปริมาณน้ำที่เพียงพอสนับสนุนการทำงานของสูตรในการล้างความร้อนผ่านทางปัสสาวะและลำไส้",
   "ingredients": [
     {
+      "id": 3146,
+      "formula_id": 418,
       "herb_name": "Huang Lian",
       "english_name": "เหง้าคอปติส",
       "role": "ราชา (King)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, กระเพาะอาหาร, ลำไส้ใหญ่, ถุงน้ำดี, ม้าม",
+      "role_description": "ชำระล้าง Heart Fire และระบายความร้อนออกจากเตาตรงกลาง เนื่องจากเป็นชื่อเดียวกับสมุนไพรหลัก จึงช่วยแก้ปัญหาที่ต้นตอของไฟภายในที่ลุกลามขึ้นไปจนถึงศีรษะและใบหน้าได้โดยตรง"
     },
     {
+      "id": 3147,
+      "formula_id": 418,
       "herb_name": "Huang Qin",
       "english_name": "ราก Baical Skullcap",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, ถุงน้ำดี, ม้าม, ลำไส้ใหญ่, ลำไส้เล็ก, หัวใจ, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อนออกจากเตาส่วนบน โดยเฉพาะปอด เสริมประสิทธิภาพการระบายไฟของ Huang Lian ในร่างกายส่วนบน"
     },
     {
+      "id": 3148,
+      "formula_id": 418,
       "herb_name": "Huang Bo",
       "english_name": "เปลือกไม้เฟลโลเดนดรอน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ไต, กระเพาะปัสสาวะ",
+      "role_description": "ระบายความร้อนชื้นออกจากหัวเผาด้านล่าง ช่วยให้สูตรขจัดความร้อนได้ทั่วทั้งหัวเผาทั้งสาม แปรรูปด้วยไวน์ (酒炒) เพื่อควบคุมการทำงาน"
     },
     {
+      "id": 3149,
+      "formula_id": 418,
       "herb_name": "Shi Gao",
       "english_name": "ยิปซั่ม",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อนส่วนเกินออกจากปอดและกระเพาะอาหาร จัดการกับความร้อนภายในที่รุนแรงที่ทำให้เกิดอาการต่างๆ เช่น ปวดฟัน กระหายน้ำ และเหงือกบวม"
     },
     {
+      "id": 3150,
+      "formula_id": 418,
       "herb_name": "Zhi Zi",
       "english_name": "ผลไม้พุด",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ปอด, ซานเจียว (ซานเจียว/Triple Burner)",
+      "role_description": "ระบายไฟผ่านเตาทั้งสามเตา และนำความร้อนลงด้านล่างเพื่อขับออกทางปัสสาวะ การแปรรูปขิง (姜制) ช่วยบรรเทาความเย็นตามธรรมชาติเพื่อปกป้องกระเพาะอาหาร"
     },
     {
+      "id": 3151,
+      "formula_id": 418,
       "herb_name": "Da Huang",
       "english_name": "รากรูบาร์บและเหง้า",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่, ตับ, เยื่อหุ้มหัวใจ",
+      "role_description": "ขับความร้อนที่สะสมลงไปทางลำไส้ บรรเทาอาการท้องผูก และเป็นทางออกที่สำคัญสำหรับไฟภายใน การแปรรูปไวน์ช่วยชะลอการชะล้างที่รุนแรง"
     },
     {
+      "id": 3152,
+      "formula_id": 418,
       "herb_name": "Lian Qiao",
       "english_name": "ผลไม้ฟอร์ซิเธีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, หัวใจ, ลำไส้เล็ก",
+      "role_description": "ดับความร้อนและขับสารพิษ โดยเฉพาะอาการบวม เจ็บคอ และผื่นผิวหนังบริเวณศีรษะและใบหน้า"
     },
     {
+      "id": 3153,
+      "formula_id": 418,
       "herb_name": "Ju Hua",
       "english_name": "ดอกเบญจมาศ",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, ตับ",
+      "role_description": "กระจายลม-ความร้อนออกจากศีรษะและดวงตา บรรเทาอาการตาแดง เจ็บปวด ตาบวม บรรเทาอาการปวดหัวและวิงเวียนศีรษะ"
     },
     {
+      "id": 3154,
+      "formula_id": 418,
       "herb_name": "Bo He",
       "english_name": "สมุนไพรเปปเปอร์มินท์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "เย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "ปอด, ตับ",
+      "role_description": "กระจายลม-ความร้อนออกจากศีรษะ ระบายคอ บรรเทาอาการปวดหัว กลิ่นหอมอ่อนๆ ช่วยระบายความร้อนออกจากร่างกายส่วนบน"
     },
     {
+      "id": 3155,
+      "formula_id": 418,
       "herb_name": "Jing Jie",
       "english_name": "สคิโซเนเปตา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "ปอด, ตับ",
+      "role_description": "ปล่อยลมภายนอกและกระจายลมออกจากศีรษะช่วยระบายเชื้อโรคลม-ความร้อนออกไปด้านนอกและบรรเทาอาการปวดศีรษะ"
     },
     {
+      "id": 3156,
+      "formula_id": 418,
       "herb_name": "Fang Feng",
       "english_name": "รากไซเลอร์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "กระเพาะปัสสาวะ, ตับ, ม้าม",
+      "role_description": "ขจัดลมและบรรเทาอาการปวด โดยทำงานร่วมกับ Jing Jie และ Bai Zhi เพื่อจัดการกับองค์ประกอบลมของรูปแบบลม-ความร้อนที่ทำให้เกิดอาการศีรษะและใบหน้า"
     },
     {
+      "id": 3157,
+      "formula_id": 418,
       "herb_name": "Bai Zhi",
       "english_name": "ราก Dahurian Angelica",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ไล่ลม เปิดช่องจมูก และบรรเทาอาการปวด โดยเฉพาะอาการปวดศีรษะส่วนหน้าและปวดฟันบริเวณกรามบน"
     },
     {
+      "id": 3158,
+      "formula_id": 418,
       "herb_name": "Man Jing Zi",
       "english_name": "ผลไม้ไวเท็กซ์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "กระเพาะปัสสาวะ, ตับ, กระเพาะอาหาร",
+      "role_description": "กระจายลม-ความร้อน บำรุงศีรษะและดวงตา บรรเทาอาการปวดศีรษะ เวียนศีรษะ ปวดตา ผัดแบบแห้งเพื่อเพิ่มความกระฉับกระเฉง"
     },
     {
+      "id": 3159,
+      "formula_id": 418,
       "herb_name": "Chuan Xiong",
       "english_name": "เหง้ารักเสฉวน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, ถุงน้ำดี, เยื่อหุ้มหัวใจ",
+      "role_description": "เคลื่อนย้ายชี่และเลือดในบริเวณศีรษะ บรรเทาอาการปวดศีรษะ เนื่องจากเป็นสมุนไพรหลักที่ควบคุมศีรษะ จึงช่วยนำยาอื่นๆ ไปยังพื้นที่ที่ได้รับผลกระทบ"
     },
     {
+      "id": 3160,
+      "formula_id": 418,
       "herb_name": "Xuan Fu Hua",
       "english_name": "ดอกอินุลา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ปอด, ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "เคลื่อนพลังชี่ที่กบฏออกไปในเตาด้านบน ต่อสู้กับไฟและพลังชี่ที่พลุ่งพล่านขึ้นด้านบน ช่วยควบคุมความร้อนนิ่งลง"
     },
     {
+      "id": 3161,
+      "formula_id": 418,
       "herb_name": "Jie Geng",
       "english_name": "รากดอกบอลลูน",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด",
+      "role_description": "เปิดและกระจายพลังชี่ของปอด มีประโยชน์ต่อลำคอ และทำหน้าที่เป็นสมุนไพรนำทางที่ควบคุมการทำงานของสูตรขึ้นไปที่ลำคอ ศีรษะ และใบหน้า"
     },
     {
+      "id": 3162,
+      "formula_id": 418,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ผสมผสานสมุนไพรทั้งหมดในสูตร บรรเทาความเย็นที่รุนแรงของสมุนไพรดับความร้อน เพื่อปกป้องกระเพาะอาหาร และระบายความร้อนออกจากลำคอ"
     }
   ],
   "research": [

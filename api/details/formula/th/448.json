@@ -25,46 +25,88 @@
   "dietary_advice": "เนื่องจากเป็นครีมเฉพาะที่ ข้อจำกัดด้านอาหารจึงมีความสำคัญน้อยกว่าสูตรภายใน อย่างไรก็ตาม ข้อความคลาสสิกระบุไว้โดยเฉพาะว่าผู้ป่วยที่มีแผลขนาดใหญ่ควรรับประทานยาอุ่นเพื่อเพิ่มความแข็งแรงของม้ามและกระเพาะอาหารไปพร้อมกัน เพื่อช่วยสมานแผลจากภายใน ให้ทานอาหารอุ่นๆ ย่อยง่าย มีโปรตีนสูง เช่น น้ำซุปกระดูก เนื้อปรุงสุก ไข่ และโจ๊ก หลีกเลี่ยงอาหารเย็นและดิบ อาหารมันๆ หรือของทอด และแอลกอฮอล์ ซึ่งอาจส่งผลต่อการทำงานของม้ามและการผลิตชี่และเลือดช้าลงซึ่งจำเป็นสำหรับการซ่อมแซมเนื้อเยื่อ หลีกเลี่ยงอาหารรสเผ็ดและฉุนที่อาจทำให้ความร้อนตกค้างในแผลรุนแรงขึ้น Chen Shigong เน้นย้ำว่าม้ามและกระเพาะอาหารเป็นศูนย์กลางของผลลัพธ์การรักษาบาดแผล ดังนั้นการรักษาระบบย่อยอาหารที่ดีด้วยอาหารที่อ่อนโยนและบำรุงจึงเป็นสิ่งสำคัญ",
   "ingredients": [
     {
+      "id": 3391,
+      "formula_id": 448,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ราชา (King)",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "สมุนไพรหลักในสูตรใช้ในปริมาณสูงสุด ดังกุยบำรุงและเติมพลังให้เลือด ลดอาการบวม สร้างเนื้อ และบรรเทาอาการปวด โดยการส่งเสริมการไหลเวียนของเลือดไปยังบริเวณแผล จะสร้างสภาวะที่จำเป็นสำหรับการเจริญเติบโตและการซ่อมแซมเนื้อเยื่อใหม่"
     },
     {
+      "id": 3392,
+      "formula_id": 448,
       "herb_name": "Xue Jie",
       "english_name": "เรซิ่นเลือดมังกร",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ตับ",
+      "role_description": "Strongly invigorates Blood, dispels stasis, alleviates pain, and promotes tissue regeneration. It powerfully assists Dang Gui in breaking up stagnant Blood around the wound and accelerating the growth of new flesh. Classically regarded as the 'holy medicine for activating Blood.'"
     },
     {
+      "id": 3393,
+      "formula_id": 448,
       "herb_name": "Bai Zhi",
       "english_name": "ราก Dahurian Angelica",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "Expels Wind, dries Dampness, reduces swelling, expels pus, and alleviates pain. It helps disperse lingering pathogens from the wound, reduces local swelling, and supports the draining of pus from the ulcerated area."
     },
     {
+      "id": 3394,
+      "formula_id": 448,
       "herb_name": "Zi Cao",
       "english_name": "รากกรอมเวลล์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ตับ",
+      "role_description": "Clears Heat, cools the Blood, resolves toxins, and promotes tissue regeneration. It addresses residual Heat and toxicity in the wound, prevents infection, and gives the ointment its characteristic deep reddish-purple color."
     },
     {
+      "id": 3395,
+      "formula_id": 448,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "36g"
+      "dosage": "36g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "Clears Heat, resolves toxins, and moderates the properties of the other ingredients. Applied topically, it helps reduce inflammation and swelling. It also contributes to a soothing, protective base for the wound."
     },
     {
+      "id": 3396,
+      "formula_id": 448,
       "herb_name": "Qing Fen",
       "english_name": "คาโลเมล",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, ไต, ลำไส้ใหญ่",
+      "role_description": "Resolves toxins, kills parasites, dries Dampness, and promotes the sloughing of necrotic tissue. เป็นส่วนผสมหลักที่ทำหน้าที่ 'ขจัดสิ่งที่เน่าเสีย' (祛腐) ของสูตร ซึ่งช่วยขจัดเนื้อเยื่อที่ตายแล้วเพื่อให้เนื้อมีสุขภาพดีสามารถเติบโตได้ หมายเหตุ: ส่วนผสมนี้มีสารปรอทและใช้เฉพาะกับการใช้งานภายนอกภายใต้คำแนะนำของผู้เชี่ยวชาญเท่านั้น"
     },
     {
+      "id": 3397,
+      "formula_id": 448,
       "herb_name": "Feng La",
       "english_name": "ขี้ผึ้ง",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "Serves as the solidifying base (excipient) for the ointment, giving it the proper consistency for topical application. Beeswax also has mild toxin-resolving, wound-protecting, and tissue-regenerating properties. ช่วยผนึกและปกป้องพื้นผิวของบาดแผล ทำให้ส่วนผสมของยาสัมผัสกับเนื้อเยื่อ"
     }
   ],
   "research": [

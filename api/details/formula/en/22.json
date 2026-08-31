@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid greasy, deep-fried, and rich foods, as these generate Dampness and Phlegm, directly counteracting the formula's Phlegm-resolving action.\nAvoid spicy, heavily seasoned, or stimulating foods (chili, strong alcohol, excessive garlic), which can generate internal Heat and agitate the spirit.\nFavor easily digestible, mild-natured foods such as congee, steamed vegetables, and light soups. This supports the Spleen-tonifying herbs in the formula and prevents additional digestive burden.\nAvoid raw and cold foods, which can impair Spleen function and obstruct the formula's ability to transform Dampness.\nRefrain from consuming strong tea or coffee, as the caffeine may counteract the spirit-calming properties of the formula.",
   "ingredients": [
     {
+      "id": 134,
+      "formula_id": 22,
       "herb_name": "Niu Huang",
       "english_name": "Cattle gallstone",
       "role": "King",
-      "dosage": "0.5 - 1g"
+      "dosage": "0.5 - 1g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "The principal herb of this formula. Niu Huang is sweet and cool, entering the Heart and Liver channels. It powerfully clears Heat and resolves toxins, opens the orifices and dislodges phlegm, and calms internal Wind to stop convulsions. It directly enters the Pericardium to expel Heat-toxin and clear turbidity, restoring consciousness."
     },
     {
+      "id": 135,
+      "formula_id": 22,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "The largest ingredient by weight. Huang Lian is bitter and cold, entering the Heart channel. It powerfully drains Heart Fire and clears Heat-toxin from the upper and middle burners, directly assisting the King herb in purging the intense Heat that has invaded the Heart and Pericardium."
     },
     {
+      "id": 136,
+      "formula_id": 22,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin specializes in clearing Heat from the Lung and Upper Burner. It works alongside Huang Lian to broadly clear Heat and dry Dampness from the Upper Jiao, preventing the spread of warm-pathogen Heat to the Lungs."
     },
     {
+      "id": 137,
+      "formula_id": 22,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Bitter and cold, Gardenia clears Heat from all three burners and guides residual Heat downward to be eliminated through urination. This provides a drainage pathway for the Heat that the King and Deputy herbs are clearing from above, ensuring thorough resolution of the pathogen."
     },
     {
+      "id": 138,
+      "formula_id": 22,
       "herb_name": "Yu Jin",
       "english_name": "Turmeric tuber",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs",
+      "role_description": "Acrid, bitter, and cold, Yu Jin enters the Heart and Liver channels to promote Qi movement, resolve Blood stasis, and cool the Blood. Crucially, it assists Niu Huang in opening the orifices by dispersing stagnant Qi and Blood that block the sensory pathways, acting as a vanguard that clears the path for the other herbs to reach the disease site."
     },
     {
+      "id": 139,
+      "formula_id": 22,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Assistant",
-      "dosage": "1.5 - 4.5g"
+      "dosage": "1.5 - 4.5g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Sweet and cold, Zhu Sha enters the Heart channel where it heavily sedates and calms the spirit. It clears Heart Heat, protects Heart Yin, and anchors the unsettled mind. Its mineral heaviness provides a grounding, settling effect that counterbalances the restlessness and agitation caused by Heat disturbing the Heart."
     }
   ],
   "research": [],

@@ -24,106 +24,208 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, as these generate further internal Heat and Dampness that the formula is trying to clear. Also avoid spicy, hot-natured foods (such as chili peppers, lamb, and alcohol) that could add to the Heat burden. Cold and raw foods are also inadvisable as they can impair the Spleen's digestive function, which is already being taxed by the formula's draining action.\nFavour light, easily digestible meals such as congee (rice porridge), steamed vegetables, and mild soups. Adequate hydration is important since the formula promotes fluid loss through sweating, urination, and bowel movement. Drink warm water or mild teas throughout the day.",
   "ingredients": [
     {
+      "id": 2165,
+      "formula_id": 306,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "The lead herb after which the formula is named. Disperses Wind from the exterior, releasing pathogenic Wind from the muscle layer and skin. As a Wind-expelling herb with a mild, balanced nature, it guides the entire formula's exterior-resolving strategy."
     },
     {
+      "id": 2166,
+      "formula_id": 306,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the pores and promotes sweating, powerfully releasing exterior pathogens trapped in the skin. Works with Fang Feng to drive Wind-Heat out through perspiration. Used in small amounts to avoid excessive sweating."
     },
     {
+      "id": 2167,
+      "formula_id": 306,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges accumulated Heat through the bowels, draining interior excess downward. Paired with Mang Xiao to open the intestines and expel Heat-toxins via stool, addressing the interior half of the formula's dual strategy."
     },
     {
+      "id": 2168,
+      "formula_id": 306,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardened stool and clears Heat through purgation. Partners with Da Huang to ensure thorough elimination of interior Heat accumulation through the bowels."
     },
     {
+      "id": 2169,
+      "formula_id": 306,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "A light, aromatic Wind-dispersing herb that assists Fang Feng and Ma Huang in releasing exterior Wind-Heat through sweating, particularly from the upper body and head."
     },
     {
+      "id": 2170,
+      "formula_id": 306,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat from the head and eyes, clears the throat, and vents rashes. Its cool, ascending nature complements the warm exterior-releasing herbs, making the combined surface-release action more suited to Wind-Heat conditions."
     },
     {
+      "id": 2171,
+      "formula_id": 306,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Powerfully clears Heat from the Lung and Stomach, addressing internal blazing Heat that causes high fever, thirst, and irritability. Its cold, heavy nature drains fire from the Yangming level."
     },
     {
+      "id": 2172,
+      "formula_id": 306,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and drains Fire from the upper and middle burners, particularly from the Lung. Works with Shi Gao and Lian Qiao to systematically clear accumulated Heat from the chest and diaphragm."
     },
     {
+      "id": 2173,
+      "formula_id": 306,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat-toxins and disperses clumped accumulations. Helps resolve skin sores, boils, and swellings by clearing toxic Heat, and assists the exterior-releasing herbs in venting Heat outward."
     },
     {
+      "id": 2174,
+      "formula_id": 306,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses Lung Qi, benefits the throat, and directs the formula's action upward to the chest and head. Helps resolve phlegm-Heat in the Lung and relieve chest oppression."
     },
     {
+      "id": 2175,
+      "formula_id": 306,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat and promotes urination, directing Heat downward and out through the urine. Clears Heat from all three burners, complementing the purgation strategy by adding a urinary elimination route."
     },
     {
+      "id": 2176,
+      "formula_id": 306,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Assistant",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Clears Heat and promotes urination, draining Dampness and Heat from the lower burner. Used in the largest dose in the formula, it provides a major pathway for eliminating interior Heat through the bladder."
     },
     {
+      "id": 2177,
+      "formula_id": 306,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, preventing the harsh sweating and purging actions from damaging Blood and body fluids. Harmonizes the Liver, which is the organ most affected by Wind pathology."
     },
     {
+      "id": 2178,
+      "formula_id": 306,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Moves Blood and Qi, relieves headache, and expels Wind. Supports Dang Gui in harmonizing Blood, while its ascending and dispersing nature aids the exterior-releasing herbs in clearing Wind from the head."
     },
     {
+      "id": 2179,
+      "formula_id": 306,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softening the Liver and constraining sweating. Protects body fluids from being over-depleted by the formula's vigorous sweating and purging actions."
     },
     {
+      "id": 2180,
+      "formula_id": 306,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, protecting the digestive system from damage by the purgative herbs. Ensures that the vigorous elimination strategy does not weaken the body's core digestive function."
     },
     {
+      "id": 2181,
+      "formula_id": 306,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in this large, complex formula. Its sweet flavor moderates the harsh draining and purging actions, protects the Stomach, and buffers potential conflicts between the many different medicinal directions at work. Used in a generous dose (second largest in the formula) to ensure safe coordination."
     }
   ],
   "research": [

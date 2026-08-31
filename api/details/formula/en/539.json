@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, strictly avoid cold and raw foods, iced beverages, cold fruits, and salads, as these directly counteract the formula's purpose of rescuing Yang and warming the interior. All food and drinks should be warm or hot.\nAvoid alcohol and strong tea, as alcohol may unpredictably alter the absorption of aconitine alkaloids from Fu Zi. Easily digestible, warming foods such as congee (rice porridge), warm broths, and cooked root vegetables are most appropriate. Because this is typically used in critical, acute situations where the patient may have severe diarrhea or vomiting, the diet should be as gentle and easily absorbed as possible.",
   "ingredients": [
     {
+      "id": 4156,
+      "formula_id": 539,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "15 - 24g"
+      "dosage": "15 - 24g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "The primary herb for rescuing devastated Yang. Used raw (Sheng Fu Zi) and in a larger size than in Si Ni Tang, Fu Zi's intensely hot nature powerfully warms Kidney Yang, drives out deep internal Cold, and restores circulation to the extremities. Its ability to travel through all the channels makes it essential for pulling Yang back from the brink of collapse."
     },
     {
+      "id": 4157,
+      "formula_id": 539,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Used at double the dose found in Si Ni Tang (the original text specifies three liang versus one and a half liang). Gan Jiang warms the middle burner and the Spleen, powerfully assisting Fu Zi in dispersing Cold and restoring Yang. The classical saying 'Fu Zi without Gan Jiang is not hot' reflects how Gan Jiang amplifies the warming action of Fu Zi. Additionally, Gan Jiang improves gastrointestinal circulation, which helps the body absorb Fu Zi's active compounds during the crisis."
     },
     {
+      "id": 4158,
+      "formula_id": 539,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-processed licorice root serves multiple roles: it tonifies the middle Qi to support the body's recovery, moderates the fierce hot nature of Fu Zi and Gan Jiang so they warm without burning, reduces the toxicity of Fu Zi, and helps sustain the medicinal effect over time rather than producing a sharp spike followed by collapse. Its presence is what distinguishes this formula from Bai Tong Tang (which lacks Gan Cao) and makes it more suitable for stabilizing heart function."
     }
   ],
   "research": [

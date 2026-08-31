@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid cold, raw, and icy foods and beverages, which can worsen internal cold and fluid stagnation. Limit greasy, rich, and dairy-heavy foods that tend to generate more phlegm and dampness. Favour warm, easily digestible meals such as congee, cooked vegetables, and lightly seasoned soups. Small, frequent meals are preferable to large ones. Moderate intake of mildly warming foods like ginger, cinnamon, and small amounts of lamb may support the formula's warming action.",
   "ingredients": [
     {
+      "id": 3051,
+      "formula_id": 404,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms Heart Yang and subdues rebellious Qi surging upward from the lower abdomen. By restoring Yang's governing function in the upper body, it calms the upward rushing of cold water Qi. Paired with Zhi Gan Cao, it forms the core of Gui Zhi Gan Cao Tang, which specifically warms and supports Heart Yang."
     },
     {
+      "id": 3052,
+      "formula_id": 404,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes water metabolism by draining accumulated fluid downward through the urinary pathway. Calms the Heart and settles palpitations caused by water Qi disturbing the Heart. Supports Gui Zhi in resolving the underlying fluid stagnation."
     },
     {
+      "id": 3053,
+      "formula_id": 404,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes Lung Qi and contains the Kidneys to prevent further leakage and upward surging of Qi. Its sour and warm nature restrains dispersed Kidney Qi that has been destabilized (e.g. by prior use of Xiao Qing Long Tang). Prevents the warming and dispersing herbs from over-scattering the body's Qi."
     },
     {
+      "id": 3054,
+      "formula_id": 404,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the middle burner and harmonizes the other herbs. Together with Gui Zhi, creates a sweet-acrid combination that generates Yang Qi. Moderates the formula and protects the Stomach."
     }
   ],
   "research": [],

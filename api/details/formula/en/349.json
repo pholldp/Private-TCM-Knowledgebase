@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, cooked foods that support Spleen function, such as congee, soups, cooked vegetables, and moderate amounts of lean protein. Foods like yam, jujube dates, and millet are traditionally considered helpful.\nAvoid cold and raw foods (salads, iced drinks, raw sushi), greasy or heavily fried foods, and excessive dairy products, as these can generate Dampness and impair Spleen function, working against the formula's therapeutic goals. Alcohol and spicy-hot foods should also be minimized, as they can generate internal Heat and interfere with the formula's balanced approach to clearing toxins while tonifying Qi.\nDuring the period of use, maintaining regular meal times and avoiding overeating supports the Spleen and Stomach Qi that this formula is working to strengthen.",
   "ingredients": [
     {
+      "id": 2564,
+      "formula_id": 349,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "The primary herb that tonifies Qi, strengthens the Spleen and Lungs, and secures the exterior (Wei Qi layer) to prevent pathogenic invasion. It is the foundation of the entire immune-strengthening strategy."
     },
     {
+      "id": 2565,
+      "formula_id": 349,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and augments Qi, reinforcing Huang Qi's ability to generate Protective Qi. Dry-frying enhances its Spleen-tonifying and Dampness-drying properties. The Spleen is the root of postnatal Qi production, so strengthening it supports sustained immune function."
     },
     {
+      "id": 2566,
+      "formula_id": 349,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Deputy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Expels Wind from the exterior and guards against Wind-pathogen invasion. Works synergistically with Huang Qi: Fang Feng prevents exterior pathogens from gaining entry, while Huang Qi ensures the body's defensive barrier is strong. Together they secure without trapping, and disperse without weakening."
     },
     {
+      "id": 2567,
+      "formula_id": 349,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Assistant",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Clears Heat and resolves toxins, providing direct anti-pathogenic action against infectious agents. Adds a layer of active defense against epidemic toxins (疫毒) that the original Yu Ping Feng San lacks, making the formula suitable for use during outbreaks of infectious disease."
     },
     {
+      "id": 2568,
+      "formula_id": 349,
       "herb_name": "Guan Zhong",
       "english_name": "Male fern rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Clears Heat, resolves toxins, and has a traditional reputation for preventing epidemic diseases. Pairs with Jin Yin Hua to form the 'cleansing' arm of the formula, addressing Heat-toxins associated with pestilential Qi."
     },
     {
+      "id": 2569,
+      "formula_id": 349,
       "herb_name": "Pei Lan",
       "english_name": "Eupatorium Herb",
       "role": "Assistant",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Aromatically transforms Dampness and revives the Spleen. Addresses the Damp component of epidemic pathogens (湿疫), which tend to obstruct the middle burner and impair digestive function. Its aromatic nature helps clear turbidity from the Qi level."
     },
     {
+      "id": 2570,
+      "formula_id": 349,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, harmonizes the Stomach, and dries Dampness. Ensures the tonifying herbs do not cause stagnation in the middle burner, and supports the smooth movement of Qi throughout the formula. Its Qi-regulating action helps all the other herbs work more efficiently."
     }
   ],
   "research": [

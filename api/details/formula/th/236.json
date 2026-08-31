@@ -25,88 +25,172 @@
   "dietary_advice": "ชอบอาหารปรุงสุกที่อุ่นซึ่งสนับสนุนการทำงานของไตและม้าม: เนื้อแกะ เนื้อวัว วอลนัท เกาลัด ถั่วดำ กุ้ง ต้นหอม ขิง และเครื่องเทศปรุงร้อน น้ำซุปกระดูกอุ่นและโจ๊กคือสิ่งที่เหมาะ\nหลีกเลี่ยงอาหารที่เย็นและดิบ (สลัด เครื่องดื่มเย็น ซาซิมิ ผลไม้เย็น เช่น แตงโมและลูกแพร์) ที่อาจทำลายม้ามหยางและต่อต้านการกระทำที่ร้อนของสูตร\nจำกัดอาหารมันๆ หนักๆ และหวานมากเกินไปซึ่งทำให้เกิดความชื้นและเป็นภาระต่อม้าม\nหลีกเลี่ยงการดื่มแอลกอฮอล์มากเกินไป ซึ่งจะทำให้เกิดความร้อนชื้น และเป็นสิ่งที่ไม่แนะนำเป็นอย่างยิ่ง เนื่องจากสูตรนี้มี Fu Zi (Aconite)\nลดการบริโภคอาหารและเครื่องดื่มที่มีรสขมและเย็น (เช่น มะระ ชาเขียว ถั่วเขียว) ในระหว่างการรักษา",
   "ingredients": [
     {
+      "id": 1618,
+      "formula_id": 236,
       "herb_name": "Zhi Fu Zi",
       "english_name": "รากโคไนท์ที่เตรียมไว้",
       "role": "ราชา (King)",
-      "dosage": "60g (in pill form; reduce for decoction)"
+      "dosage": "60g (in pill form; reduce for decoction)",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ไต, ม้าม",
+      "role_description": "อุ่นไตหยางอย่างทรงพลังและช่วยเหลือไฟของ Ming Men ที่หมดสิ้นลง เนื่องจากเป็นสมุนไพรที่ให้ความอบอุ่นได้มากที่สุดในสูตร จึงช่วยแก้ปัญหาที่ต้นตอของความเย็นในการสืบพันธุ์และการล่มสลายของหยางได้โดยตรง"
     },
     {
+      "id": 1619,
+      "formula_id": 236,
       "herb_name": "Rou Gui",
       "english_name": "เปลือกอบเชย",
       "role": "ราชา (King)",
-      "dosage": "60g (in pill form; reduce for decoction)"
+      "dosage": "60g (in pill form; reduce for decoction)",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม, ไต",
+      "role_description": "อุ่นและบำรุงไตหยาง เสริมพลังไฟของหมิงเหมิน และส่งเสริมการไหลเวียนของชี่และเลือดในร่างกายส่วนล่าง ทำงานร่วมกับ Fu Zi เพื่อสร้างแกนอุ่นของสูตร"
     },
     {
+      "id": 1620,
+      "formula_id": 236,
       "herb_name": "Shu Di Huang",
       "english_name": "เตรียมราก Rehmannia",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "250g (in pill form; reduce for decoction)"
+      "dosage": "250g (in pill form; reduce for decoction)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงเลือดอย่างหนัก เติมเต็มไต (จิง) และจัดหารากฐานของหยินเพื่อให้หยางมีวัสดุในการเปลี่ยนแปลง นี่คือสมุนไพรสำคัญที่รวบรวมกลยุทธ์ 'แสวงหาหยางภายในหยิน'"
     },
     {
+      "id": 1621,
+      "formula_id": 236,
       "herb_name": "Bai Zhu",
       "english_name": "เหง้า Atractylodes สีขาว",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "250g (in pill form; reduce for decoction)"
+      "dosage": "250g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร",
+      "role_description": "เสริมสร้างม้ามและเสริมพลังชี่ ทำให้มั่นใจได้ว่าสมุนไพรที่เข้มข้นและเข้มข้นสามารถย่อยและเปลี่ยนรูปได้อย่างเหมาะสม สนับสนุนแหล่งของชี่และการผลิตเลือดหลังคลอดเพื่อเสริมระบบไตก่อนคลอด"
     },
     {
+      "id": 1622,
+      "formula_id": 236,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "180g (in pill form; reduce for decoction)"
+      "dosage": "180g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "บำรุงและเติมพลังให้กับเลือด โดยทำงานร่วมกับ Shu Di Huang เพื่อเติมเต็มพื้นฐานของ Essence ยังช่วยป้องกันภาวะเลือดหยุดนิ่งซึ่งอาจเป็นผลมาจากการเติมธาตุหนักในสูตรนี้"
     },
     {
+      "id": 1623,
+      "formula_id": 236,
       "herb_name": "Gou Qi Zi",
       "english_name": "ผลไม้ Wolfberry จีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "180g (in pill form; reduce for decoction)"
+      "dosage": "180g (in pill form; reduce for decoction)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ปอด",
+      "role_description": "บำรุงตับและไตหยิน เติมเอสเซ้นส์ และบำรุงดวงตา เสริมกลุ่มบำรุงหยินเพื่อให้การสนับสนุนด้านวัสดุสำหรับหยาง"
     },
     {
+      "id": 1624,
+      "formula_id": 236,
       "herb_name": "Du Zhong",
       "english_name": "เปลือกไม้ยูคอมเมีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงตับและไต เสริมสร้างเอ็นและกระดูกให้แข็งแรง และรักษาเสถียรภาพของหลังส่วนล่าง แก้ไขปัญหาความอ่อนแอทางโครงสร้างที่เกี่ยวข้องกับการขาดยางไต"
     },
     {
+      "id": 1625,
+      "formula_id": 236,
       "herb_name": "Xian Mao",
       "english_name": "เหง้าเคอร์คูลิโก",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ไต, ตับ, ม้าม",
+      "role_description": "อุ่นยางไตและเสริมสร้างกระดูกและเส้นเอ็นให้แข็งแรง เสริมสร้างการกระทำอันอบอุ่นของสมุนไพรคิงและมุ่งเป้าไปที่ภาวะขาดหยางในการสืบพันธุ์โดยเฉพาะ"
     },
     {
+      "id": 1626,
+      "formula_id": 236,
       "herb_name": "Ba Ji Tian",
       "english_name": "รากโมรินดา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ไต, ตับ",
+      "role_description": "Tonifies ไตหยางและเสริมสร้างเส้นเอ็น สมุนไพรปรับสมดุลหยางที่อ่อนโยนแต่ทรงประสิทธิภาพซึ่งสนับสนุนการทำงานของระบบสืบพันธุ์โดยไม่ทำให้แห้งจนเกินไป"
     },
     {
+      "id": 1627,
+      "formula_id": 236,
       "herb_name": "Shan Zhu Yu",
       "english_name": "ผลไม้เชอร์รี่คอร์เนเลี่ยน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงตับและไตให้กระชับและกระชับ รักษาเอสเซ้นส์และป้องกันการรั่วซึม ช่วยรักษา Essence ที่สมุนไพรตัวอื่นกำลังทำงานเพื่อเติมเต็ม"
     },
     {
+      "id": 1628,
+      "formula_id": 236,
       "herb_name": "Yin Yang Huo",
       "english_name": "ใบเอพิมีเดียม",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "Tonifies ไตหยางและเสริมสร้างการทำงานทางเพศ เป็นที่รู้จักโดยเฉพาะสำหรับผลกระทบต่อพลังการสืบพันธุ์และความใคร่ของผู้ชาย"
     },
     {
+      "id": 1629,
+      "formula_id": 236,
       "herb_name": "Rou Cong Rong",
       "english_name": "Cistanche ทะเลทราย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ไต, ลำไส้ใหญ่",
+      "role_description": "อุ่น Kidney Yang และเติม Essence และ Blood ยาชูกำลังหยางที่อ่อนโยนและชุ่มชื้นซึ่งช่วยเสริมสร้างการทำงานของระบบสืบพันธุ์โดยไม่ทำให้ผิวแห้งเกินไป"
     },
     {
+      "id": 1630,
+      "formula_id": 236,
       "herb_name": "Jiu Cai Zi",
       "english_name": "เมล็ดกุ้ยช่ายจีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "อุ่นไต บำรุง Essence และช่วยเหลือ Yang ช่วยในเรื่องการปล่อยน้ำเชื้อโดยเฉพาะและรักษาเสถียรภาพของของเหลวในการสืบพันธุ์"
     },
     {
+      "id": 1631,
+      "formula_id": 236,
       "herb_name": "She Chuang Zi",
       "english_name": "ผลไม้ไนเดียม",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "60g (in pill form; reduce for decoction)"
+      "dosage": "60g (in pill form; reduce for decoction)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ไต, ม้าม",
+      "role_description": "อุ่นไต เพิ่มพลังหยาง และทำให้ความชื้นในร่างกายส่วนล่างแห้ง ช่วยเสริมสมรรถภาพทางเพศและช่วยขับความเย็นชื้นที่อาจไปขัดขวางการทำงานของอวัยวะสืบพันธุ์"
     }
   ],
   "research": [],

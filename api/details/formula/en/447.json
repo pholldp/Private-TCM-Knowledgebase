@@ -24,52 +24,100 @@
   "dietary_advice": "While using this formula, avoid spicy, fried, and greasy foods, as these generate internal Heat and can worsen throat inflammation. Avoid alcohol and smoking. Cold and raw foods should also be limited, as they can impair Spleen-Stomach function needed for recovery. Favor cooling, soothing foods such as pear, watermelon, mung bean soup, and congee. Drink warm (not hot) water frequently to keep the throat moist. Avoid overly hard or scratchy foods that could further irritate the swollen throat tissue.",
   "ingredients": [
     {
+      "id": 3383,
+      "formula_id": 447,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "King",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "The chief Heat-clearing and toxin-resolving herb. Huang Lian (Coptis rhizome) is intensely bitter and cold, directly draining Fire-Heat from the Heart and Stomach channels. These are the very channels whose Heat flares upward to produce throat swelling, redness, and pain. As the primary agent against the core pathomechanism of Fire-toxin, it anchors the formula."
     },
     {
+      "id": 3384,
+      "formula_id": 447,
       "herb_name": "Qing Dai",
       "english_name": "Indigo Naturalis",
       "role": "Deputy",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs",
+      "role_description": "Qing Dai (indigo naturalis) is salty and cold, powerfully clearing Heat and resolving toxins while also cooling the Blood. It reinforces Huang Lian's Heat-clearing action and adds the ability to address any Blood-Heat component contributing to the throat inflammation, particularly when the mucosa is deeply reddened or bleeding."
     },
     {
+      "id": 3385,
+      "formula_id": 447,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Bo He (mint) is acrid and cool, dispersing Wind-Heat from the head and throat region. It benefits the throat and clears the head, working with the cold-natured herbs to vent Heat outward while providing a cooling, soothing sensation on contact with the inflamed tissue."
     },
     {
+      "id": 3386,
+      "formula_id": 447,
       "herb_name": "Jiang Can",
       "english_name": "Silkworm",
       "role": "Assistant",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs, Stomach",
+      "role_description": "Jiang Can (silkworm, Bombyx batryticatus) disperses Wind, resolves Phlegm, and dissipates nodules. In throat conditions, it specifically targets the swollen, congested tissue, helping to reduce masses and relieve the sensation of blockage. It also has a mild ability to resolve toxins."
     },
     {
+      "id": 3387,
+      "formula_id": 447,
       "herb_name": "Peng Sha",
       "english_name": "Borax",
       "role": "Assistant",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Peng Sha (borax) is sweet, salty, and cool. Applied topically, it clears Heat, resolves toxins, reduces swelling, and has a direct anti-inflammatory and antiseptic action on the throat mucosa. It is a classical topical agent for mouth and throat sores."
     },
     {
+      "id": 3388,
+      "formula_id": 447,
       "herb_name": "Po Xiao",
       "english_name": "Mirabilite (Glauber&#x27;s salt)",
       "role": "Assistant",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Pu Xiao (Mirabilitum, crude Glauber's salt) is bitter, salty, and cold. It softens hardness and disperses nodules, helping to reduce the firm swelling of the tonsils and surrounding tissue. Its salty-cold nature also draws Heat downward and away from the throat."
     },
     {
+      "id": 3389,
+      "formula_id": 447,
       "herb_name": "Xiao Shi",
       "english_name": "Saltpetre",
       "role": "Assistant",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Spleen, Stomach",
+      "role_description": "Huo Xiao (saltpeter, Nitrum) is bitter, salty, and warm-to-cool when applied topically. It complements Pu Xiao in breaking down accumulations and resolving swelling. Together, the two mineral salts powerfully soften and disperse the hardened, swollen throat tissue."
     },
     {
+      "id": 3390,
+      "formula_id": 447,
       "herb_name": "Ming Fan",
       "english_name": "Alum",
       "role": "Envoy",
-      "dosage": "5g (equal parts)"
+      "dosage": "5g (equal parts)",
+      "temperature": "Cold",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Spleen, Liver, Large Intestine",
+      "role_description": "Bai Fan (alum) is sour and astringent. It resolves toxins, dries Dampness, and stops discharge. In this formula it acts as a local astringent to tighten the swollen mucosa, control excessive secretions, and help the other medicinals adhere to the affected tissue. Its toxin-resolving action supports the whole formula."
     }
   ],
   "research": [],

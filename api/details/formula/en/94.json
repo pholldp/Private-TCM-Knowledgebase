@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid acrid, hot, and spicy foods (chili, ginger, garlic, fried foods, alcohol, and strong coffee or tea) while taking this formula, as they can worsen Yin deficiency and throat dryness. Favor moistening, Yin-nourishing foods such as pears, lily bulb, white fungus (snow ear), honey, tofu, lotus root, and congee. Avoid smoking, which directly injures Lung Yin. Cold and raw foods should also be consumed in moderation to avoid burdening the Spleen, especially since the formula itself is already cooling in nature.",
   "ingredients": [
     {
+      "id": 662,
+      "formula_id": 94,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;, Raw Rehmannia Root)",
       "english_name": "",
       "role": "King",
-      "dosage": "12 - 30g"
+      "dosage": "12 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "The principal herb. Sweet and cold, it enters the Kidney channel to nourish Kidney Yin, enrich fluids, cool the Blood, and clear Heat. As the heaviest-dosed herb, it addresses the root cause: Yin deficiency with deficiency-Heat rising to the throat."
     },
     {
+      "id": 663,
+      "formula_id": 94,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Nourishes Yin and directs deficiency-Fire downward. Resolves toxins and benefits the throat. Working with Sheng Di Huang and Mai Men Dong, it forms a powerful Yin-nourishing trio (similar to Zeng Ye Tang) that replenishes the upper and lower sources of body fluids."
     },
     {
+      "id": 664,
+      "formula_id": 94,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Lung Yin and moistens the Lungs. The throat is the gateway of the Lungs, so moistening the Lungs directly soothes throat dryness and irritation. Together with Xuan Shen, it supports the King herb in enriching Yin from both the Lung and Kidney systems."
     },
     {
+      "id": 665,
+      "formula_id": 94,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Preserves Yin and harmonizes the nutritive (Ying) level. Its sour and cool nature helps consolidate Yin fluids and gently drain Heat, supporting the formula's Yin-nourishing strategy and preventing further fluid loss."
     },
     {
+      "id": 666,
+      "formula_id": 94,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools the Blood, clears Heat, and disperses Blood stasis to reduce swelling. It addresses the Heat and stagnation causing throat swelling and pain, and supports the King herb's Blood-cooling action."
     },
     {
+      "id": 667,
+      "formula_id": 94,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "Moistens the Lungs, clears Heat, transforms Phlegm, and disperses nodules. It addresses cough and any Phlegm-Heat obstructing the throat, complementing the formula's moistening approach to Lung dryness."
     },
     {
+      "id": 668,
+      "formula_id": 94,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Acrid and cool, it lightly disperses pathogenic factors from the exterior and clears Heat from the throat. A small amount prevents the formula's heavy Yin-nourishing herbs from becoming cloying and stagnant, and directs the therapeutic action upward to the throat area."
     },
     {
+      "id": 669,
+      "formula_id": 94,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Clears Heat and resolves toxins while benefiting the throat. Harmonizes all the other herbs in the formula. The raw (unprocessed) form is used specifically for its Heat-clearing and detoxifying properties rather than Qi-tonifying."
     }
   ],
   "research": [

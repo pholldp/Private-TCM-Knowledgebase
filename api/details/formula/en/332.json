@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid cold, raw foods, iced drinks, and greasy or heavy foods while taking this formula, as these may impair the Spleen and Stomach's digestive function and obstruct the formula's harmonizing action. Alcohol, spicy, and strongly flavored foods should also be avoided. The classical instruction for Gui Zhi Tang included eating a small bowl of warm thin rice porridge (热稀粥) after taking the decoction to help support the Stomach Qi and assist the formula in generating a mild sweat. Light, warm, easily digestible foods such as congee, steamed vegetables, and simple soups are ideal. Do not take tonifying or enriching herbal supplements concurrently.",
   "ingredients": [
     {
+      "id": 2366,
+      "formula_id": 332,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The primary herb, used at the highest dose. It vents pathogenic factors from the Shao Yang (lesser yang) level outward, unblocks stagnant Qi in the chest and flanks, and serves as the pivot for the formula's harmonizing action between the exterior and interior."
     },
     {
+      "id": 2367,
+      "formula_id": 332,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels and releases the remaining exterior Wind-Cold from the Tai Yang (greater yang) level. Together with Shao Yao, it harmonizes the body's protective (Wei) and nutritive (Ying) layers, addressing chills, sweating, and body aches."
     },
     {
+      "id": 2368,
+      "formula_id": 332,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Shao Yang half-interior level. Its bitter, cold, and descending nature complements and balances Chai Hu's acrid, ascending action, preventing the dispersing herbs from damaging Yin or generating excess Heat."
     },
     {
+      "id": 2369,
+      "formula_id": 332,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin to counterbalance the dispersing action of Gui Zhi. Paired with Gui Zhi, it harmonizes the Ying and Wei. Its sour, astringent nature also helps relax tendons and relieve the joint aches described in the original text."
     },
     {
+      "id": 2370,
+      "formula_id": 332,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Directs rebellious Stomach Qi downward, addressing nausea and vomiting. It also transforms Phlegm-Dampness that may accumulate when the Shao Yang pivot is blocked, helping relieve the sensation of fullness and knotting below the chest."
     },
     {
+      "id": 2371,
+      "formula_id": 332,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies the body's righteous Qi (Zheng Qi) to support recovery and prevent the pathogen from penetrating deeper into the interior. It also restores fluids depleted by the illness and supports Spleen and Stomach function."
     },
     {
+      "id": 2372,
+      "formula_id": 332,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Middle Burner, assists Ban Xia in stopping nausea, and helps Gui Zhi release the exterior. Also harmonizes the Stomach to support digestion of the formula's herbs."
     },
     {
+      "id": 2373,
+      "formula_id": 332,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "6 pieces"
+      "dosage": "6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, generates fluids, and moderates the harshness of the formula's other herbs. Paired with Sheng Jiang, it harmonizes the Ying and Wei Qi and helps all the herbs work together smoothly."
     },
     {
+      "id": 2374,
+      "formula_id": 332,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, tonifies Spleen Qi, and generates fluids. Its sweet flavor moderates the formula's dispersing and clearing actions and helps protect the Middle Burner."
     }
   ],
   "research": [

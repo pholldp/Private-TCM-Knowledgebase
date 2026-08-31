@@ -24,76 +24,148 @@
   "dietary_advice": "The source text explicitly advises: during the course of treatment, eliminate rich, greasy, and strongly flavored meats and seafood (厚味荤腥). Avoid greasy, fried, and fatty foods that generate Dampness and Phlegm, as these directly oppose the formula's Phlegm-resolving action. Cold and raw foods should also be minimized to protect Spleen function, since a weak Spleen generates more Phlegm. Spicy and hot foods that stir up Heat should be limited. Alcohol should be avoided. Favor lightly cooked vegetables, whole grains, and foods that support gentle Qi circulation. For patients with thyroid conditions, iodine intake from dietary sources (seaweed, kelp, iodized salt) should be discussed with the treating practitioner, as the formula already provides substantial iodine.",
   "ingredients": [
     {
+      "id": 3088,
+      "formula_id": 410,
       "herb_name": "Hai Zao",
       "english_name": "Sargassum seaweed",
       "role": "King",
-      "dosage": "3 - 15g"
+      "dosage": "3 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "The principal herb. Salty and cold, it resolves phlegm, softens hardness, and disperses nodules. It directly targets the core pathology of phlegm congealing into goiters and masses in the neck."
     },
     {
+      "id": 3089,
+      "formula_id": 410,
       "herb_name": "Kun Bu",
       "english_name": "Kelp",
       "role": "King",
-      "dosage": "3 - 15g"
+      "dosage": "3 - 15g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "Works alongside Hai Zao as a co-King herb. Also salty and cold, it reinforces the softening of hard masses and resolving of phlegm. Together with Hai Zao and Hai Dai, these three marine substances form the core of the formula's mass-dissolving action."
     },
     {
+      "id": 3090,
+      "formula_id": 410,
       "herb_name": "Hai Zao",
       "english_name": "Sargassum seaweed",
       "role": "King",
-      "dosage": "1.5 - 9g"
+      "dosage": "1.5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "A third marine substance that reinforces the softening and dispersing of hardened phlegm-masses. Has similar salty, cold properties to Hai Zao and Kun Bu, strengthening the primary therapeutic direction."
     },
     {
+      "id": 3091,
+      "formula_id": 410,
       "herb_name": "Zhe Bei Mu",
       "english_name": "Zhejiang Fritillary bulb",
       "role": "Deputy",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Transforms phlegm and disperses nodules. It complements the King herbs by clearing heat-phlegm and helping to break down the accumulated phlegm that forms the substance of the goiter."
     },
     {
+      "id": 3092,
+      "formula_id": 410,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "A powerful phlegm-transforming herb that dries dampness and disperses nodules. It reinforces the King herbs' action from a different angle by addressing the damp-phlegm component of the pathology."
     },
     {
+      "id": 3093,
+      "formula_id": 410,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears heat, resolves toxins, and disperses nodules. It addresses any heat-toxin component that may accompany the phlegm stagnation and helps reduce swelling."
     },
     {
+      "id": 3094,
+      "formula_id": 410,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks up stagnant Qi and disperses accumulations. It courses Liver Qi, which is important because emotional stress and Liver Qi stagnation are key factors in the formation of goiters according to TCM theory."
     },
     {
+      "id": 3095,
+      "formula_id": 410,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries dampness. It works with Qing Pi to ensure Qi flows smoothly. When Qi moves freely, phlegm cannot accumulate, supporting the formula's overall strategy."
     },
     {
+      "id": 3096,
+      "formula_id": 410,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "3 - 15g"
+      "dosage": "3 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood. Since masses form where Blood circulation is impaired, Dang Gui ensures Blood flows freely and prevents the stagnation that contributes to the hardening of nodules."
     },
     {
+      "id": 3097,
+      "formula_id": 410,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Activates Blood circulation and moves Qi. It works with Dang Gui to address the Blood stasis component, and its upward-moving nature helps direct the formula's action to the neck and head area."
     },
     {
+      "id": 3098,
+      "formula_id": 410,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "Dispels wind-dampness and opens the channels and collaterals. It helps mobilize Qi through the network vessels, facilitating the dispersal of congealed phlegm and improving local circulation around the mass."
     },
     {
+      "id": 3099,
+      "formula_id": 410,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula. Notably, the use of Gan Cao alongside Hai Zao is a deliberate violation of the classical 'Eighteen Incompatibles' (十八反) principle. Chen Shigong intentionally combined them here, and modern research suggests the pairing may actually enhance the formula's therapeutic effect on goiters without producing significant toxicity."
     }
   ],
   "research": [

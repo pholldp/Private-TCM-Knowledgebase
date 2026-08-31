@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, iced drinks, raw fruit, and chilled dairy) as these can further constrict the Lung Qi and worsen phlegm accumulation. Greasy, fried, and heavily sweet foods should also be minimized, as they generate Dampness and Phlegm. Light, warm, easily digestible foods are best — warm congee (rice porridge), clear soups, lightly cooked vegetables, and ginger tea are all supportive. A small amount of pear cooked with ginger can gently moisten the throat while maintaining warmth. Avoid alcohol, as it generates Heat and Dampness that can complicate the pattern.",
   "ingredients": [
     {
+      "id": 66,
+      "formula_id": 12,
       "herb_name": "Zi Su Ye",
       "english_name": "Perilla leaf",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Warm and acrid but not overly drying, Su Ye releases the exterior and disperses cool-dryness from the skin and muscles, while also promoting the smooth flow of Lung Qi. It allows the pathogen to exit through the body surface via gentle sweating."
     },
     {
+      "id": 67,
+      "formula_id": 12,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Bitter, slightly warm and moistening, Xing Ren descends Lung Qi to stop coughing, while also gently moistening dryness. Paired with Su Ye, it creates a complementary action of outward dispersal and downward direction, addressing both the exterior pathogen and the interior cough."
     },
     {
+      "id": 68,
+      "formula_id": 12,
       "herb_name": "Qian Hu",
       "english_name": "Peucedanum root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Assists Su Ye in dispersing the exterior pathogen by gently releasing Wind, while also helping Xing Ren direct Qi downward and transform phlegm. Bridges both the exterior-releasing and phlegm-resolving strategies of the formula."
     },
     {
+      "id": 69,
+      "formula_id": 12,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and lifts Lung Qi upward, working together with the downward-directing Zhi Ke to create balanced ascending and descending movement that unblocks the chest, clears the throat, and resolves phlegm."
     },
     {
+      "id": 70,
+      "formula_id": 12,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Directs Qi downward and loosens the chest, complementing Jie Geng's lifting action. Together they restore normal ascending and descending of Lung Qi, alleviating cough, chest oppression, and phlegm stagnation."
     },
     {
+      "id": 71,
+      "formula_id": 12,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, while also directing rebellious Qi downward to stop coughing and nausea. Addresses the internal accumulation of thin watery phlegm that results from impaired fluid distribution."
     },
     {
+      "id": 72,
+      "formula_id": 12,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi in the Middle Burner and helps dry dampness to transform phlegm. Works alongside Ban Xia and Fu Ling to address the phlegm-dampness component from the digestive system."
     },
     {
+      "id": 73,
+      "formula_id": 12,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes the healthy movement of fluids, cutting off phlegm production at its source. By supporting the Spleen's transforming and transporting function, it prevents further accumulation of dampness."
     },
     {
+      "id": 74,
+      "formula_id": 12,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "3 slices"
+      "dosage": "3 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Middle Burner and assists Su Ye in releasing the exterior. Also harmonizes the protective (Wei) and nutritive (Ying) Qi layers, supporting recovery from external invasion."
     },
     {
+      "id": 75,
+      "formula_id": 12,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "3 pieces"
+      "dosage": "3 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and generates fluids, harmonizing the protective and nutritive Qi together with Sheng Jiang. Also moderates the drying tendency of the phlegm-resolving herbs."
     },
     {
+      "id": 76,
+      "formula_id": 12,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and protects the Stomach. Combined with Jie Geng, it also benefits the throat. Its sweet flavor supplements the Middle Burner and moderates the acrid dispersing herbs."
     }
   ],
   "research": [],

@@ -24,88 +24,172 @@
   "dietary_advice": "During treatment, avoid all warming, greasy, and rich foods: no fried foods, lamb, beef, alcohol, spicy dishes (chili, ginger, garlic, pepper), or heavily seasoned meals. These will add Heat and counteract the formula's cooling effect. Also avoid sticky, hard-to-digest foods that burden the Spleen and Stomach, which is already stressed by the formula's cold nature. Light, easily digestible foods are best: thin rice porridge (congee), mung bean soup, fresh fruits like pear and watermelon (which also help clear Heat and generate fluids), and lightly cooked vegetables. Staying well hydrated is critical, as the underlying condition involves severe fluid depletion.",
   "ingredients": [
     {
+      "id": 1553,
+      "formula_id": 228,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "King",
-      "dosage": "60 - 240g"
+      "dosage": "60 - 240g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Used in very large doses to powerfully clear blazing Heat from the Qi level, especially Yangming (Stomach) Heat. As the Stomach is the source of Qi and Blood for all twelve channels, clearing Stomach Heat extinguishes fire across the entire body."
     },
     {
+      "id": 1554,
+      "formula_id": 228,
       "herb_name": "Shui Niu Jiao",
       "english_name": "Water buffalo horn",
       "role": "King",
-      "dosage": "15 - 30g (Shui Niu Jiao); historically Xi Jiao 6 - 12g"
+      "dosage": "15 - 30g (Shui Niu Jiao); historically Xi Jiao 6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver, Stomach",
+      "role_description": "Enters the Blood level to cool Blood, resolve toxins, and clear Heart Heat. Works in tandem with Shi Gao to address both Qi-level and Blood-level Heat simultaneously. Historically Xi Jiao (Rhinoceros Horn) was used; Shui Niu Jiao is the modern ethical substitute at higher dosage."
     },
     {
+      "id": 1555,
+      "formula_id": 228,
       "herb_name": "Sheng Di Huang (Raw Rehmannia Root)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Cools the Blood, nourishes Yin, and generates fluids. Supports Shui Niu Jiao in clearing Blood-level Heat while protecting the body fluids that are being consumed by the intense fire."
     },
     {
+      "id": 1556,
+      "formula_id": 228,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Drains fire from the Heart and Middle Burner, clears Heat and resolves toxicity. Part of the Huang Lian Jie Du Tang grouping within this formula that purges fire from all three Burners."
     },
     {
+      "id": 1557,
+      "formula_id": 228,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Assists Shi Gao in clearing Qi-level Heat from the Lung and Stomach, while nourishing Yin and generating fluids to protect against fluid loss from extreme Heat."
     },
     {
+      "id": 1558,
+      "formula_id": 228,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Upper Burner, particularly Lung Heat. Combines with Huang Lian and Zhi Zi to drain fire across all three Burners."
     },
     {
+      "id": 1559,
+      "formula_id": 228,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three Burners and drains it downward through the urine. Particularly effective for clearing Heart fire and resolving irritability and restlessness."
     },
     {
+      "id": 1560,
+      "formula_id": 228,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Cools the Blood, clears Blood-level Heat, and invigorates Blood circulation to dispel Blood stasis caused by Heat scorching the Blood vessels."
     },
     {
+      "id": 1561,
+      "formula_id": 228,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools the Blood and clears deficiency-type Heat. Works alongside Chi Shao in the Xi Jiao Di Huang Tang grouping to cool Blood and dispel stasis."
     },
     {
+      "id": 1562,
+      "formula_id": 228,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Nourishes Yin, cools the Blood, drains fire, and resolves toxicity. Particularly effective for sore throat and protecting the fluids of the Kidney and Lung that are damaged by intense Heat."
     },
     {
+      "id": 1563,
+      "formula_id": 228,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat and resolves toxicity, disperses clumped Heat, and vents pathogenic Heat outward. Its light, ascending nature helps clear Heat from the Upper Burner."
     },
     {
+      "id": 1564,
+      "formula_id": 228,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Clears Heart Heat and promotes urination, guiding Heat downward and out through the urine. Lightens the formula with its gentle, ascending-then-descending nature."
     },
     {
+      "id": 1565,
+      "formula_id": 228,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens the Lung, benefits the throat, and directs the formula's actions upward to the Upper Burner. Also helps expel toxic Heat from the chest and throat area."
     },
     {
+      "id": 1566,
+      "formula_id": 228,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the other herbs in the formula, clears Heat and resolves toxicity, and protects the Stomach from the large dose of cold, bitter herbs. Also works with Shi Gao and Zhi Mu as part of the Bai Hu Tang structure to preserve body fluids."
     }
   ],
   "research": [

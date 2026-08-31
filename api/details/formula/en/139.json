@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid cold and raw foods (salads, ice cream, cold drinks, raw seafood) while taking this formula, as these directly counteract its warming therapeutic action and can worsen Cold stagnation in the lower body. Reduce consumption of cold-natured fruits such as watermelon, pear, and banana. Favor warm, cooked foods that support the Spleen and warm the interior: lamb, chicken, ginger tea, leek, chive, cinnamon in cooking, warm soups, and congee. Moderate amounts of warming spices like black pepper, fennel, and star anise in cooking are helpful. Avoid excessive alcohol, which can generate Damp-Heat and complicate the condition.",
   "ingredients": [
     {
+      "id": 936,
+      "formula_id": 139,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Acrid, sweet, and very hot in nature. Warms the Kidney and Liver, dispels deep cold from the lower body, and stops pain. As King herb it directly addresses the core problem of cold lodging in the Liver channel."
     },
     {
+      "id": 937,
+      "formula_id": 139,
       "herb_name": "Xiao Hui Xiang",
       "english_name": "Fennel fruit",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen, Stomach",
+      "role_description": "Acrid and warm, enters the Liver channel. Warms the Liver, disperses cold from the lower abdomen, regulates Qi, and relieves pain. Paired with Rou Gui, the two herbs together form the warming core of the formula."
     },
     {
+      "id": 938,
+      "formula_id": 139,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Sweet, acrid, and warm. Nourishes Blood and tonifies the Liver, addressing the underlying deficiency that allows cold to invade. Ensures the warming herbs do not dry out the Blood."
     },
     {
+      "id": 939,
+      "formula_id": 139,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Sweet and neutral. Tonifies the Liver and Kidney, nourishes essence and Blood. Together with Dang Gui, it strengthens the Liver-Kidney foundation so the body can resist cold invasion."
     },
     {
+      "id": 940,
+      "formula_id": 139,
       "herb_name": "Wu Yao",
       "english_name": "Lindera root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys, Urinary Bladder",
+      "role_description": "Acrid and warm. Moves Qi, disperses cold, and relieves pain, particularly in the lower abdomen. Addresses the Qi stagnation that accompanies cold congealing in the Liver channel."
     },
     {
+      "id": 941,
+      "formula_id": 139,
       "herb_name": "Chen Xiang",
       "english_name": "Agarwood",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Acrid, bitter, and warm. Promotes Qi movement, warms the Kidney, and directs Qi downward to the lower body. Works with Wu Yao to resolve Qi stagnation and cold pain. The original text notes that Mu Xiang (Costus Root) may be substituted."
     },
     {
+      "id": 942,
+      "formula_id": 139,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Sweet, bland, and neutral. Strengthens the Spleen, promotes urination, and resolves dampness. When Kidney Yang is deficient, fluid metabolism can falter, so Fu Ling supports water metabolism and protects the Spleen."
     },
     {
+      "id": 943,
+      "formula_id": 139,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 5 slices"
+      "dosage": "3 - 5 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Acrid and warm. Scatters cold, harmonizes the Stomach, and helps the other herbs disperse effectively. Acts as a guiding and harmonizing herb for the whole formula."
     }
   ],
   "research": [

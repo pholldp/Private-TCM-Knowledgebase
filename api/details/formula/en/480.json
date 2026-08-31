@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid excessively spicy, greasy, and fried foods, which generate Heat and aggravate Liver Fire. Alcohol should be strictly avoided as it produces Damp-Heat and further agitates the Liver. Caffeine and other stimulants may counteract the formula's calming properties and should be minimized.\nFavor foods that nourish Blood and calm the Liver: leafy green vegetables, celery, chrysanthemum tea, goji berries, and small amounts of dark-colored fruits. Easily digestible grains like rice and millet support the Spleen-strengthening aspect of the formula. Regular, unhurried meals at consistent times help stabilize Liver Qi and support digestive recovery.",
   "ingredients": [
     {
+      "id": 3655,
+      "formula_id": 480,
       "herb_name": "Gou Teng",
       "english_name": "Gambir vine stems and hooks",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Clears Liver Heat, calms Liver Wind, and stops spasms and convulsions. As the principal herb, it directly addresses the core pathomechanism of Liver Wind stirring internally due to Liver deficiency-Heat, providing the formula's primary sedative and antispasmodic action."
     },
     {
+      "id": 3656,
+      "formula_id": 480,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses the Liver and resolves constraint, allowing Liver Qi to flow freely. It complements Gou Teng by addressing the Qi stagnation dimension of Liver dysfunction while also providing a mild Heat-clearing action through its ascending and dispersing nature."
     },
     {
+      "id": 3657,
+      "formula_id": 480,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and harmonizes the Blood to soften and emolliate the Liver. When Liver Qi is excessive, Liver Blood becomes depleted. Dang Gui replenishes this deficiency, addressing the root cause that allows Wind to stir."
     },
     {
+      "id": 3658,
+      "formula_id": 480,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Moves Blood and activates Qi within the Blood level. It assists Dang Gui in nourishing and regulating Liver Blood, while its upward-moving and dispersing nature helps relieve headache and dizziness associated with Liver Wind."
     },
     {
+      "id": 3659,
+      "formula_id": 480,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, protecting the Spleen from being overwhelmed by the overactive Liver (Wood overacting on Earth). This prevents digestive symptoms such as vomiting, bloating, and poor appetite."
     },
     {
+      "id": 3660,
+      "formula_id": 480,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Fortifies the Spleen, leaches Dampness, and calms the spirit. Working alongside Bai Zhu to protect the Spleen, Fu Ling also contributes a gentle spirit-quieting effect that supports the formula's overall calming action."
     },
     {
+      "id": 3661,
+      "formula_id": 480,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all herbs in the formula, supplements the Spleen, and relaxes tension and spasms. Its sweet flavour moderates the Liver and assists Gou Teng in relieving convulsions and muscular twitching."
     }
   ],
   "research": [

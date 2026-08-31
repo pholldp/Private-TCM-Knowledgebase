@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid spicy, acrid, and warming foods such as chili peppers, ginger, garlic, lamb, and alcohol, as these generate internal Heat and counteract the formula's cooling and Yin-nourishing effects. Favor foods that support Yin such as pears, lotus root, black sesame, walnuts, duck, and tofu. Greasy, heavy, and difficult-to-digest foods should also be limited, as the formula already contains rich, cloying ingredients (Shu Di Huang, Gui Ban) that can burden the Spleen. Light, easily digestible meals help the formula absorb properly.",
   "ingredients": [
     {
+      "id": 1228,
+      "formula_id": 181,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "18 - 30g"
+      "dosage": "18 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Richly nourishes Kidney Yin, replenishes essence (Jing), and fills the marrow. As the heaviest-dosed herb alongside Gui Ban, it directly addresses the root deficiency of true Yin that drives the entire pattern."
     },
     {
+      "id": 1229,
+      "formula_id": 181,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "King",
-      "dosage": "18 - 30g"
+      "dosage": "18 - 30g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "A heavy, sinking Yin substance that nourishes Kidney Yin and anchors floating Yang back downward. Its weight helps subdue the upward-flaring ministerial Fire and its blood-and-flesh nature deeply replenishes Yin."
     },
     {
+      "id": 1230,
+      "formula_id": 181,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Bitter and cold, it directly drains ministerial Fire from the Kidney, clears deficiency Heat, and 'firms the Yin' (坚阴) so that Yin fluids are not further consumed. Processed with salt to guide it to the Kidney."
     },
     {
+      "id": 1231,
+      "formula_id": 181,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Bitter, cold, and moistening, it clears Heat from both the Lungs and Kidneys while generating fluids. It reinforces Huang Bai's fire-draining action while adding a moistening quality that Huang Bai lacks, preventing excessive dryness."
     }
   ],
   "research": [

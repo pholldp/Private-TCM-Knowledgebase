@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and spicy foods (such as chili, ginger, lamb, and alcohol) which generate internal Heat and counteract the formula's cooling action. Cold and raw foods should also be used cautiously despite the Heat pattern, as they may further impair an already stressed digestive system. Light, easily digested foods are best: congee (rice porridge), mung bean soup, watermelon, pear, and fresh vegetables. Stay well hydrated with warm or room-temperature fluids. The classical instructions specify that the pills should be dissolved in cool boiled water (凉开水化服), not hot water.",
   "ingredients": [
     {
+      "id": 3372,
+      "formula_id": 446,
       "herb_name": "Shui Niu Jiao",
       "english_name": "Water buffalo horn",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver, Stomach",
+      "role_description": "The chief herb of the formula. Water buffalo horn (replacing the now-banned rhinoceros horn) enters the Heart and Liver, powerfully clearing Heat from the Ying (nutritive) and Blood levels, resolving fire toxins, and cooling the Blood. It directly addresses the core pathomechanism of intense Heat toxins that have penetrated deep into the Ying-Blood layer."
     },
     {
+      "id": 3373,
+      "formula_id": 446,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;, Raw Rehmannia Root)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Cools the Blood and nourishes Yin, protecting body fluids that are being consumed by intense Heat. Works alongside the King herb to cool the Blood level and prevent further damage to the Yin. Used in large quantity and cooked into a paste to maximize its Blood-cooling and Yin-nourishing capacity."
     },
     {
+      "id": 3374,
+      "formula_id": 446,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Nourishes Yin, clears Heat, and resolves toxins. It reinforces the Blood-cooling and Yin-nourishing action of Sheng Di Huang while adding its own capacity to descend fire and detoxify, particularly for throat inflammation and ulceration."
     },
     {
+      "id": 3375,
+      "formula_id": 446,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "A key Heat-clearing and toxin-resolving herb. Used in large quantity to address the severe toxic Heat component. Its light, aromatic quality also helps vent Heat outward from the Ying level toward the Qi level, supporting the strategy of 'redirecting Ying-level Heat back to the Qi level for resolution.'"
     },
     {
+      "id": 3376,
+      "formula_id": 446,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat and resolves toxins, with a light and upward-moving quality that helps vent Heat outward. Works with Jin Yin Hua and Dan Dou Chi to promote the outward movement of pathogenic Heat from the deeper Ying layer back toward the superficial Qi layer."
     },
     {
+      "id": 3377,
+      "formula_id": 446,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and drains fire, particularly from the upper body. Helps clear residual Qi-level Heat and supports the overall toxin-clearing strategy. Its bitter-cold nature complements the Blood-cooling herbs."
     },
     {
+      "id": 3378,
+      "formula_id": 446,
       "herb_name": "Ban Lan Gen",
       "english_name": "Isatis root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Strongly clears Heat and resolves toxins, with particular affinity for the Blood level. It cools the Blood and addresses toxic Heat manifesting as sore throat, skin eruptions, and rashes. Reinforces the detoxifying action of the formula."
     },
     {
+      "id": 3379,
+      "formula_id": 446,
       "herb_name": "Zi Cao",
       "english_name": "Gromwell root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Cools the Blood, promotes the resolution of skin rashes (macules and papules), and resolves toxins. It specifically addresses the Ying-level Heat that causes dark purple skin eruptions, working alongside Xi Jiao/Shui Niu Jiao to clear Heat toxins from the Blood."
     },
     {
+      "id": 3380,
+      "formula_id": 446,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat and generates body fluids. Addresses the fluid damage caused by intense Heat, complementing the Yin-nourishing action of Sheng Di Huang and Xuan Shen. Also helps resolve toxins and reduces swelling."
     },
     {
+      "id": 3381,
+      "formula_id": 446,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Releases constrained Heat outward and promotes the venting of depressed pathogenic factors. When paired with Jin Yin Hua and Lian Qiao, it embodies the treatment principle of 'redirecting Ying-level Heat back to the Qi level' by giving the trapped Heat an outward route of escape."
     },
     {
+      "id": 3382,
+      "formula_id": 446,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Envoy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "An aromatic substance that opens the orifices and restores consciousness. When Heat toxins invade the Pericardium, clouding the mind and causing delirium, Shi Chang Pu penetrates through the turbidity to restore mental clarity. It directs the formula's action toward the Heart and brain."
     }
   ],
   "research": [],

@@ -24,76 +24,148 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods, as these generate Stomach Heat and worsen the underlying condition. Spicy and warming foods (chili, lamb, alcohol, deep-fried dishes) should also be avoided, as they fan internal Heat. Dairy and cold raw foods are best minimized since they can produce Dampness and Phlegm that further obstruct the breast channels. Favor light, easily digestible meals such as porridge, steamed vegetables, and mild soups. Foods traditionally considered beneficial for promoting smooth milk flow include silk gourd (si gua/luffa) soup and cooked leafy greens. Stay well hydrated with warm water or mild herbal teas.",
   "ingredients": [
     {
+      "id": 3032,
+      "formula_id": 401,
       "herb_name": "Gua Lou Ren",
       "english_name": "Trichosanthes seed",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Clears Heat, resolves Phlegm, disperses swelling, and dissipates nodules in the breast. As the primary herb, it directly targets the Heat-toxin and Phlegm accumulation causing the breast abscess, and also moistens and unblocks the channels to promote milk flow."
     },
     {
+      "id": 3033,
+      "formula_id": 401,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Disperses Wind-Heat, clears Heat-toxin, relieves swelling, and benefits the throat. Works synergistically with Gua Lou Ren to clear Heat and dissipate nodules, and helps vent pathogenic Heat outward through the exterior."
     },
     {
+      "id": 3034,
+      "formula_id": 401,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Strongly clears Heat and resolves toxin, a key herb for treating all types of sores and abscesses. Reinforces the Heat-clearing and toxin-resolving action of the King herbs."
     },
     {
+      "id": 3035,
+      "formula_id": 401,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat, resolves toxin, and dissipates clumps and nodules. Known as the 'sage of sores' (疮家圣药), it supports the King herbs in reducing swelling and dispersing accumulation."
     },
     {
+      "id": 3036,
+      "formula_id": 401,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, especially in the upper burner. Assists the formula's Heat-clearing actions and helps reduce inflammation and abscess formation."
     },
     {
+      "id": 3037,
+      "formula_id": 401,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates Fluids, and resolves swelling and expels pus. Particularly useful in the early stages of breast abscess to reduce swelling before pus has formed."
     },
     {
+      "id": 3038,
+      "formula_id": 401,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three burners and drains Fire, helping to cool the intense inflammatory Heat. Also resolves Dampness and directs Heat downward for elimination."
     },
     {
+      "id": 3039,
+      "formula_id": 401,
       "herb_name": "Zao Jiao Ci",
       "english_name": "Chinese Honeylocust Spine",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Draws out toxin, expels pus, invigorates Blood, and reduces swelling. Particularly important for directing the formula to penetrate through blockages and disperse hardened masses in the breast tissue."
     },
     {
+      "id": 3040,
+      "formula_id": 401,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Spreads Liver Qi and resolves constraint. Since the nipple pertains to the Liver channel, Chai Hu specifically addresses Liver Qi stagnation, one of the root causes of breast abscess. Also vents Heat from the Shaoyang level."
     },
     {
+      "id": 3041,
+      "formula_id": 401,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks Qi stagnation, soothes the Liver, and disperses accumulation. Pairs with Chai Hu and Chen Pi to powerfully move Liver and Stomach Qi, addressing the underlying stagnation that leads to breast lumps."
     },
     {
+      "id": 3042,
+      "formula_id": 401,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach. Works with Qing Pi to move Qi through the middle burner, ensuring the other herbs can circulate freely and preventing Qi stagnation from worsening the accumulation."
     },
     {
+      "id": 3043,
+      "formula_id": 401,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, clears Heat-toxin, and protects the Stomach from the cold, bitter herbs. Used raw (生甘草) to maximize its Heat-clearing and detoxifying function."
     }
   ],
   "research": [],

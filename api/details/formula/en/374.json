@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid cold and raw foods (ice cream, cold salads, iced beverages, raw sushi) as these can worsen Cold accumulation in the uterus and counteract the warming action of the formula. Avoid excessively greasy or fried foods that may impair Spleen function and hinder Blood production. Minimize sour and astringent foods in excess, as these may tighten and constrain Qi flow. Favor warm, cooked foods that nourish Blood and support digestion: bone broth, red dates (Da Zao), goji berries, dark leafy greens, black sesame, lamb or chicken stew, and warming spices like ginger and cinnamon in small amounts. Moderate consumption of iron-rich foods such as liver and dark-colored legumes is beneficial.",
   "ingredients": [
     {
+      "id": 2805,
+      "formula_id": 374,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Blood and enriches Kidney Yin, replenishing the fundamental substance needed to generate menstrual blood. As the primary Blood-nourishing herb, it addresses the root deficiency underlying irregular menstruation."
     },
     {
+      "id": 2806,
+      "formula_id": 374,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, regulates menstruation. Works alongside Shu Di Huang to both build and move Blood, ensuring the menstrual cycle flows properly without stagnation."
     },
     {
+      "id": 2807,
+      "formula_id": 374,
       "herb_name": "Dang Shen",
       "english_name": "Codonopsis root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Spleen Qi and supports the generation of Blood. Since Qi is the commander of Blood, strengthening Qi helps produce new Blood and ensures Blood moves properly through the channels."
     },
     {
+      "id": 2808,
+      "formula_id": 374,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "Tonifies the Kidney and strengthens the Chong (Penetrating) and Ren (Directing) vessels, which are the two extraordinary channels that govern menstruation and reproductive function."
     },
     {
+      "id": 2809,
+      "formula_id": 374,
       "herb_name": "Xu Duan",
       "english_name": "Teasel root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies Liver and Kidney, strengthens the lower back, and secures the Chong and Ren vessels. Reinforces the Kidney foundation that supports healthy menstrual cycling."
     },
     {
+      "id": 2810,
+      "formula_id": 374,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. Supports Dang Shen in fortifying the Spleen, and the dry-frying enhances its Spleen-strengthening action while preventing the rich Blood-nourishing herbs from causing digestive stagnation."
     },
     {
+      "id": 2811,
+      "formula_id": 374,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Spreads Liver Qi and regulates menstruation. Known as a premier herb for menstrual regulation, it resolves Qi stagnation that commonly accompanies Blood deficiency and causes menstrual pain or irregularity."
     },
     {
+      "id": 2812,
+      "formula_id": 374,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach. Prevents the heavy, cloying nature of the Blood-nourishing and Kidney-tonifying herbs from impeding digestion, ensuring the formula is well tolerated."
     },
     {
+      "id": 2813,
+      "formula_id": 374,
       "herb_name": "Yue ji hua",
       "english_name": "Chinese Rose Flower",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Invigorates Blood, regulates menstruation, and resolves mild stasis. Its specific affinity for the uterus and menstrual channels helps direct the formula's effects to the reproductive system. Used in small doses as a guiding herb."
     }
   ],
   "research": [],

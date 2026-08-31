@@ -24,94 +24,184 @@
   "dietary_advice": "Avoid spicy, greasy, and overly salty or sour foods during the course of treatment, as these can obstruct Qi flow and impair the formula's effectiveness. Cold and raw foods should also be minimized, as they can congeal Blood and worsen stagnation in the breast channels. Instead, favor warm, nourishing, easy-to-digest foods that support Blood production: bone broths, soups with red dates, well-cooked grains, leafy greens, and moderate amounts of protein. Light, simple meals help the Spleen and Stomach generate adequate Qi and Blood to support milk production. Emotional stress should be minimized as much as possible, since frustration and tension directly aggravate Liver Qi stagnation.",
   "ingredients": [
     {
+      "id": 391,
+      "formula_id": 61,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses and regulates Liver Qi, relieves Liver constraint. As the primary Qi-moving herb, it directly addresses the root cause of Liver Qi stagnation that blocks the breast channels."
     },
     {
+      "id": 392,
+      "formula_id": 61,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates Blood. Breast milk is transformed from Blood in TCM theory, so nourishing Blood is essential to restoring milk supply. Also helps move Blood to prevent stasis in the breast."
     },
     {
+      "id": 393,
+      "formula_id": 61,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and softens the Liver, working together with Chai Hu and Dang Gui to both resolve Liver stagnation and replenish the Blood that forms the basis of breast milk."
     },
     {
+      "id": 394,
+      "formula_id": 61,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Nourishes Yin and cools Blood, preventing Liver constraint from transforming into Fire that could further damage Yin and Blood. Supports the production of body fluids needed for milk formation."
     },
     {
+      "id": 395,
+      "formula_id": 61,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes Qi movement. Works with Dang Gui to move Blood through the breast channels and prevent Blood stasis that obstructs milk flow."
     },
     {
+      "id": 396,
+      "formula_id": 61,
       "herb_name": "Wang Bu Liu Xing",
       "english_name": "Cowherb seed",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "A key lactation-promoting herb that invigorates Blood, unblocks the channels, and strongly promotes the flow of breast milk. Used at a relatively high dose in this formula to emphasize its milk-promoting action."
     },
     {
+      "id": 397,
+      "formula_id": 61,
       "herb_name": "Chuan Shan Jia",
       "english_name": "Pangolin scales",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Powerfully invigorates Blood, breaks through stagnation, unblocks the channels, and promotes lactation. Its strong dispersing nature complements Wang Bu Liu Xing to forcefully open the breast collaterals."
     },
     {
+      "id": 398,
+      "formula_id": 61,
       "herb_name": "Tong Cao",
       "english_name": "Rice paper pith",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, promotes the flow of Qi through the channels, and helps bring down breast milk. Its bland, permeating nature helps open the waterways and milk ducts."
     },
     {
+      "id": 399,
+      "formula_id": 61,
       "herb_name": "Lou Lu",
       "english_name": "Uniflower Swisscentaury Root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach",
+      "role_description": "Clears Heat, resolves toxicity, reduces swelling, and promotes lactation. Helps prevent breast engorgement from developing into painful swelling or abscess."
     },
     {
+      "id": 400,
+      "formula_id": 61,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Promotes urination and clears Heat from the channels, and importantly unblocks the breast milk passages. Works synergistically with Tong Cao to open blocked ducts."
     },
     {
+      "id": 401,
+      "formula_id": 61,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Spreads Liver Qi, breaks up stagnant Qi, and disperses accumulation. Supports Chai Hu in resolving Liver constraint, and has a special affinity for the breast area to help relieve distention and hardness."
     },
     {
+      "id": 402,
+      "formula_id": 61,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses Lung Qi, which helps regulate the flow of Qi to the upper body and chest. Directs the actions of other herbs upward toward the breasts."
     },
     {
+      "id": 403,
+      "formula_id": 61,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, and reduces swelling. Helps nourish the body fluids that serve as the material basis for breast milk production, and prevents Heat accumulation in the breasts."
     },
     {
+      "id": 404,
+      "formula_id": 61,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Opens the channels, reduces swelling, and alleviates pain. Helps disperse stagnation in the breast tissue and relieve breast distention and pain."
     },
     {
+      "id": 405,
+      "formula_id": 61,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the middle burner to support Qi and Blood production, and harmonizes all the other herbs in the formula."
     }
   ],
   "research": [],

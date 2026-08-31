@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid raw, cold, greasy, and spicy foods while taking this formula. Limit stimulating foods (发物) such as fatty meats, shellfish, and lamb, which may exacerbate heat and dampness. Favor easily digestible, nourishing foods like congee and steamed vegetables.",
   "ingredients": [
     {
+      "id": 4500,
+      "formula_id": 594,
       "herb_name": "Dang Shen",
       "english_name": "Codonopsis root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Spleen and Lung Qi to address root Qi deficiency, strengthens the body's vital force"
     },
     {
+      "id": 4501,
+      "formula_id": 594,
       "herb_name": "Bei Sha Shen",
       "english_name": "Coastal Glehnia Root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Nourishes Yin and generates fluids, clears heat to assist the King in addressing Yin deficiency and internal heat"
     },
     {
+      "id": 4502,
+      "formula_id": 594,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears heat, cools blood, and nourishes Yin; enhances Yin-nourishing and heat-clearing power, especially for toxin-related fire"
     },
     {
+      "id": 4503,
+      "formula_id": 594,
       "herb_name": "Dan Shen",
       "english_name": "Red sage root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Pericardium",
+      "role_description": "Invigorates blood, cools blood, and calms the spirit; addresses blood stasis and palpitations caused by heat toxin damaging heart vessels"
     },
     {
+      "id": 4504,
+      "formula_id": 594,
       "herb_name": "Ku Shen",
       "english_name": "Flavescent Sophora Root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Urinary Bladder",
+      "role_description": "Clears heat, dries dampness, and resolves toxin; eliminates the pathogenic heat-dampness that invades the heart"
     }
   ],
   "research": [],

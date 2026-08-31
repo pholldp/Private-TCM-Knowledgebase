@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods that generate Dampness and Heat internally. Reduce or eliminate alcohol, especially beer and spirits, which strongly promote Dampness and raise uric acid. Avoid shellfish, organ meats, red meat, and high-purine foods, which aggravate the underlying Damp-Heat condition. Limit spicy, hot foods that can intensify internal Heat. Favor bland, easily digestible foods such as mung beans, winter melon, barley (Job's tears), cucumber, and leafy greens, which support Dampness resolution. Stay well hydrated with room-temperature or slightly warm water to support the formula's diuretic action.",
   "ingredients": [
     {
+      "id": 246,
+      "formula_id": 40,
       "herb_name": "Fang Ji",
       "english_name": "Fourstamen Stephania Root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Urinary Bladder, Kidneys, Spleen",
+      "role_description": "The chief herb of the formula. Fang Ji is acrid, bitter, and cold, and is uniquely suited to penetrate the channels and collaterals to expel Dampness and relieve painful obstruction. It clears Damp-Heat through the Triple Burner: opening the upper, draining the middle, and guiding dampness downward through urination. Its ability to travel through the meridians makes it the ideal lead herb for joint blockage caused by Damp-Heat."
     },
     {
+      "id": 247,
+      "formula_id": 40,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Opens and diffuses Lung Qi, which governs the water passages. By restoring the Lung's descending and dispersing function, it helps move water and dampness downward. This supports the King herb by initiating the transformation of fluids from the top of the body."
     },
     {
+      "id": 248,
+      "formula_id": 40,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Bland in flavor and cool in nature, Yi Yi Ren percolates dampness downward through urination and strengthens the Spleen to resolve the root of dampness. It is also specifically indicated for painful obstruction with muscle cramping and stiffness, making it essential for addressing the joint symptoms."
     },
     {
+      "id": 249,
+      "formula_id": 40,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Clears Heat and promotes urination, providing a downward exit route for Damp-Heat through the Bladder. Works with Zhi Zi and Chi Xiao Dou Pi to drain Heat from within the Dampness."
     },
     {
+      "id": 250,
+      "formula_id": 40,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Damp-Heat from the Qi level. Lian Qiao is light and ascending, effective at clearing relatively superficial Heat and dispersing clumped pathogenic factors. It also has notable antimicrobial properties relevant to inflammatory joint conditions."
     },
     {
+      "id": 251,
+      "formula_id": 40,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three Burners and drains it downward through urination. It specifically addresses the Heat component trapped within the Dampness, and its bitter, cold nature helps drain the Heat aspect of the pathology."
     },
     {
+      "id": 252,
+      "formula_id": 40,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms turbidity in the Middle Burner. Its acrid and warm nature provides the necessary opening and dispersing force to complement the predominantly cool and draining herbs in the formula, preventing the cold medicines from congealing Dampness further."
     },
     {
+      "id": 253,
+      "formula_id": 40,
       "herb_name": "Can Sha",
       "english_name": "Silkworm droppings",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, Stomach",
+      "role_description": "Dispels Wind-Dampness and harmonizes the Stomach, transforming turbid Dampness in the digestive tract. It also has the specific ability to unblock the channels and relieve painful obstruction, working synergistically with Fang Ji to address joint pain."
     },
     {
+      "id": 254,
+      "formula_id": 40,
       "herb_name": "Chi Xiao Dou",
       "english_name": "Adzuki bean",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Small Intestine",
+      "role_description": "Clears Damp-Heat at the Blood level. While most herbs in this formula work at the Qi level, Chi Xiao Dou Pi enters the Blood to clear deeper-lying dampness and heat, and promotes urination to provide an exit for the pathogen. The original text specifies using the skin of the adzuki bean, soaked in cool water and peeled."
     }
   ],
   "research": [],

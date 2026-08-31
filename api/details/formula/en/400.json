@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, avoid spicy, greasy, and fried foods, as these generate internal Heat and can worsen the inflammatory condition. Rich meats, alcohol, and shellfish should also be avoided. Cold and raw foods should be consumed in moderation to protect the Spleen and Stomach, which are already burdened by the cooling nature of the formula. Light, easily digestible foods are preferred, such as congee, steamed vegetables, and mild soups. Foods that gently promote milk flow, such as crucian carp soup or papaya, may be beneficial if milk stagnation is present. Avoid strongly warming spices like chili, black pepper, and cinnamon.",
   "ingredients": [
     {
+      "id": 3020,
+      "formula_id": 400,
       "herb_name": "Gua Lou Ren",
       "english_name": "Trichosanthes seed",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Clears Heat, reduces swelling, dissipates nodules, and promotes the discharge of pus. As the primary herb targeting the breast, it moistens, opens, and unblocks stagnation in the chest and breast tissue. Its ability to clear Phlegm-Heat and disperse lumps directly addresses the core pathology of breast abscess."
     },
     {
+      "id": 3021,
+      "formula_id": 400,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Disperses Wind-Heat, clears toxins, relieves swelling, and promotes the venting of rashes and sores. It has a strong dispersing and descending action that helps vent toxic Heat outward. Works synergistically with Gua Lou Ren to form the core therapeutic pair for clearing Heat-toxin and reducing breast swelling."
     },
     {
+      "id": 3022,
+      "formula_id": 400,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "A premier Heat-clearing and toxin-resolving herb. Strongly supports the King herbs in clearing the Heat-toxin that drives breast abscess formation. Has a particular affinity for treating sores and carbuncles at all stages."
     },
     {
+      "id": 3023,
+      "formula_id": 400,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat, resolves toxins, and dissipates clumps. Known as the key herb for treating sores and carbuncles, it reinforces Jin Yin Hua in clearing toxic Heat while also having a dispersing quality that helps break up accumulations."
     },
     {
+      "id": 3024,
+      "formula_id": 400,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, particularly in the upper body. Assists the deputies in clearing internal Heat from the Liver and Stomach channels that underlies breast abscess formation."
     },
     {
+      "id": 3025,
+      "formula_id": 400,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat, reduces irritability, and cools the Blood. Drains Heat from all three Burners and guides Fire downward, helping to resolve the feverish feeling and redness associated with early-stage breast abscess."
     },
     {
+      "id": 3026,
+      "formula_id": 400,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, and promotes pus discharge and tissue healing. Works alongside Gua Lou Ren (both from the same plant) to reinforce the action of reducing swelling and expelling pus from the breast."
     },
     {
+      "id": 3027,
+      "formula_id": 400,
       "herb_name": "Zao Jiao Ci",
       "english_name": "Chinese Honeylocust Spine",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Draws out toxins, promotes the discharge of pus, invigorates Blood, and reduces swelling. A specialist herb for treating abscesses and sores, it helps vent pus and toxins outward before an abscess can fully form, supporting the formula's strategy of early-stage dispersal."
     },
     {
+      "id": 3028,
+      "formula_id": 400,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses the Liver and resolves stagnation. In TCM, the nipple belongs to the Liver channel. Chai Hu directly addresses the Liver Qi stagnation that is a root cause of breast abscess, helping to restore the free flow of Qi through the breast area."
     },
     {
+      "id": 3029,
+      "formula_id": 400,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Spreads Liver Qi, breaks up stagnation, and reduces accumulations. It has a stronger Qi-moving action than Chen Pi and specifically targets Liver channel stagnation, making it well suited for breast conditions driven by Qi blockage."
     },
     {
+      "id": 3030,
+      "formula_id": 400,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, harmonizes the Middle Burner, and dries Dampness. Complements Qing Pi by smoothing Qi flow in the Stomach and Spleen, helping to address the Stomach channel component of the pathology (the breast body belongs to the Stomach channel in TCM)."
     },
     {
+      "id": 3031,
+      "formula_id": 400,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Used raw (Sheng Gan Cao) to clear Heat and resolve toxins while harmonizing all the other herbs in the formula. Moderates the bitter-cold properties of the Heat-clearing herbs and protects the Stomach from their harshness."
     }
   ],
   "research": [],

@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, iced drinks, and frozen desserts, as these will worsen the Cold constraint on the exterior and aggravate internal Dampness. Greasy, heavy, and fried foods should also be avoided, as they burden the Spleen and generate more Dampness. Light, easily digestible, warm meals such as plain rice congee with a small amount of fresh ginger are ideal. Avoid alcohol, which generates Dampness and Heat. After sweating is achieved, sip warm fluids to replenish lost fluids without re-chilling the body.",
   "ingredients": [
     {
+      "id": 2083,
+      "formula_id": 295,
       "herb_name": "Xiang Ru",
       "english_name": "Mosla herb",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The chief herb of the formula, Xiang Ru is warm, acrid, and intensely aromatic. It enters the Lung channel to release the exterior by promoting sweating, and it also transforms Dampness and promotes urination. Classical physicians called it 'the summer equivalent of Ma Huang,' meaning it is the primary sweat-inducing herb for warm-season illness. It directly addresses the core problem of cold constraining the body surface while Summer-Heat and Dampness are trapped inside."
     },
     {
+      "id": 2084,
+      "formula_id": 295,
       "herb_name": "Bian Dou Hua",
       "english_name": "Hyacinth bean flower",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Replaces the original Bai Bian Dou (white hyacinth bean) of the parent formula Xiang Ru San. Fresh Bian Dou Hua is light, aromatic, and gently cooling. It clears Summer-Heat, transforms Dampness through its fragrant nature, and harmonizes the Spleen and Stomach without causing stagnation. Its lightness makes it better suited to the upper burner focus of this formula than the heavier bean."
     },
     {
+      "id": 2085,
+      "formula_id": 295,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Added by Wu Jutong to the original Xiang Ru San to strengthen the formula's ability to clear Heat. Jin Yin Hua is acrid, cool, and light, enabling it to reach the exterior and vent Summer-Heat outward. Together with Lian Qiao, it counterbalances the warming nature of Xiang Ru and Hou Po, ensuring the formula does not further inflame internal Heat while releasing the exterior."
     },
     {
+      "id": 2086,
+      "formula_id": 295,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Works alongside Jin Yin Hua to clear Heat and dispel turbidity through the exterior. Lian Qiao is light and ascending in nature, helping to vent trapped Heat from the upper burner. It also has mild detoxifying properties. Together with Jin Yin Hua, it gives the formula its characteristic blend of warm-releasing and cool-clearing actions."
     },
     {
+      "id": 2087,
+      "formula_id": 295,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Bitter and warm, Hou Po dries Dampness, moves Qi, and relieves abdominal distension. It supports Xiang Ru by transforming the Dampness component of the pathology from the middle burner, addressing chest tightness and epigastric fullness. As the Guang Ming textbook notes, although Hou Po acts on the middle burner, because bark 'goes to the skin' (以皮走皮), it also assists the exterior-releasing action without inappropriately dragging the formula's focus downward."
     }
   ],
   "research": [],

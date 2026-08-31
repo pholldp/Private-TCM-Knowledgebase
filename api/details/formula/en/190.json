@@ -24,58 +24,112 @@
   "dietary_advice": "Drink large amounts of warm water throughout treatment (aim for at least 2 liters daily) to help flush stones and support the formula's diuretic action. Avoid greasy, fried, and rich foods, as these generate Dampness and Heat. Reduce intake of high-oxalate foods such as spinach, strong tea, nuts, and chocolate. Limit high-purine foods including organ meats, shellfish, sardines, and excessive red meat. Reduce salt intake, as excess sodium increases calcium excretion in the urine. Avoid alcohol and beer in particular, which contain purines and promote dehydration. Eat more fresh vegetables, whole grains, and fruit to maintain alkaline urine balance. Light, easily digestible foods are preferable during treatment to avoid taxing the Spleen and Stomach, which are already challenged by the formula's cold nature.",
   "ingredients": [
     {
+      "id": 1286,
+      "formula_id": 190,
       "herb_name": "Jin Qian Cao",
       "english_name": "Gold Coin Grass",
       "role": "King",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys, Urinary Bladder",
+      "role_description": "The chief stone-expelling herb. Clears Heat and Dampness from the Liver, Gallbladder, Kidney, and Bladder, promotes urination, and has a well-established action of softening and dissolving both urinary and biliary stones. Its salty taste softens hardness (咸能软坚). Used at a heavy dose to maximize its stone-expelling and Heat-clearing effect."
     },
     {
+      "id": 1287,
+      "formula_id": 190,
       "herb_name": "Ji Nei Jin",
       "english_name": "Chicken gizzard lining",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Small Intestine, Urinary Bladder",
+      "role_description": "The second of the 'Three Golds.' Dissolves stones in the urinary and biliary tract and has a traditional reputation for transforming hard accumulations. Also strengthens the Spleen and Stomach, helping to prevent the cold, draining herbs in the formula from damaging digestion."
     },
     {
+      "id": 1288,
+      "formula_id": 190,
       "herb_name": "Hai Jin Sha",
       "english_name": "Japanese climbing fern spore",
       "role": "Deputy",
-      "dosage": "20g"
+      "dosage": "20g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Urinary Bladder, Small Intestine",
+      "role_description": "The third of the 'Three Golds.' Clears Damp-Heat, promotes urination, relieves painful urination, and assists in expelling stones. Its salty, cold nature helps soften stones and clear Heat from the Bladder."
     },
     {
+      "id": 1289,
+      "formula_id": 190,
       "herb_name": "Shi Wei",
       "english_name": "Pyrrosia leaf",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Promotes urination and drains Damp-Heat from the lower body. Also helps stop bleeding caused by stone abrasion of the urinary tract, addressing the common complication of blood in the urine."
     },
     {
+      "id": 1290,
+      "formula_id": 190,
       "herb_name": "Bian Xu",
       "english_name": "Knotweed herb",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder",
+      "role_description": "Clears Heat and promotes urination, specifically targeting Damp-Heat in the Bladder. Works synergistically with Qu Mai to clear painful urinary dysfunction (lin syndrome)."
     },
     {
+      "id": 1291,
+      "formula_id": 190,
       "herb_name": "Che Qian Zi",
       "english_name": "Plantain Seed",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs, Small Intestine",
+      "role_description": "Strongly promotes urination and clears Heat. Increases urine volume to help flush out small stones and sediment. Also clears Heat from the Liver, which can benefit cases where Liver channel involvement causes radiating pain to the groin and lower abdomen."
     },
     {
+      "id": 1292,
+      "formula_id": 190,
       "herb_name": "Qu Mai",
       "english_name": "Fringed pink herb",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Encourages urination and expels Damp-Heat from the Bladder. Also has a secondary action of moving Blood, which supports the overall strategy of clearing obstruction in the urinary tract."
     },
     {
+      "id": 1293,
+      "formula_id": 190,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Promotes urination and clears Damp-Heat from the Bladder. Its slippery nature (as the name 'Sliding Stone' implies) helps lubricate the urinary passage to facilitate the smooth passage of stones."
     },
     {
+      "id": 1294,
+      "formula_id": 190,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Envoy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Promotes urination and directs Heat downward to be discharged through the urine. Helps open the water passages and guides the formula's action into the urinary system. Also smoothes the flow of Blood in the channels."
     }
   ],
   "research": [

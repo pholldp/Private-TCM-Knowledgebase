@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, favor light, easily digestible foods such as congee (rice porridge), clear soups, steamed vegetables, and mild fruits like pear and watermelon that support fluid recovery. Avoid greasy, fried, and heavily spiced foods that generate internal Heat and burden the already weakened Stomach. Cold and raw foods should be consumed in moderation to avoid further compromising digestive function. The classical text notes dietary prohibitions (食忌) of seaweed (海藻), lamb (羊肉), Chinese cabbage (菘菜), and maltose candy (饧). Alcohol and strong coffee should be avoided as they can aggravate Heat and further deplete Yin fluids.",
   "ingredients": [
     {
+      "id": 1525,
+      "formula_id": 223,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "King",
-      "dosage": "30 - 50g"
+      "dosage": "30 - 50g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The primary heat-clearing herb. Its acrid, sweet, and very cold nature powerfully clears residual heat from the Qi level of the Lung and Stomach, generates fluids, and relieves thirst and irritability. Used at a heavy dosage to address lingering pathogenic heat."
     },
     {
+      "id": 1526,
+      "formula_id": 223,
       "herb_name": "Zhu Ye",
       "english_name": "Bamboo leaf",
       "role": "King",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Stomach, Gallbladder",
+      "role_description": "Sweet, bland, and cold, it clears heat from the Heart and Stomach, relieves irritability and restlessness, and guides heat downward and out through the urine. Works alongside Shi Gao to clear residual heat while being lighter and less harsh."
     },
     {
+      "id": 1527,
+      "formula_id": 223,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and slightly warm, it powerfully tonifies the original Qi that was damaged during the febrile illness. When paired with Shi Gao, Ren Shen rapidly restores true Yin, and its tonifying action counterbalances the cold nature of the King herbs so that clearing heat does not further weaken the body."
     },
     {
+      "id": 1528,
+      "formula_id": 223,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "15 - 20g"
+      "dosage": "15 - 20g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Sweet, slightly bitter, and cool, it nourishes Yin and generates fluids to replenish the body fluids damaged by prolonged heat. It moistens the Lung and Stomach, addressing dryness, thirst, and the red tongue with scanty coating."
     },
     {
+      "id": 1529,
+      "formula_id": 223,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Acrid and warm, it descends rebellious Stomach Qi to stop nausea and vomiting. Although warm and drying by nature, when combined with the cold, fluid-generating herbs in this formula, its drying properties are neutralized while its downward-directing action is preserved. It also helps transport fluids so that the tonifying herbs do not cause stagnation."
     },
     {
+      "id": 1530,
+      "formula_id": 223,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral, it tonifies the middle Qi, protects the Stomach from the cold properties of Shi Gao and Zhu Ye, and harmonizes all the herbs in the formula."
     },
     {
+      "id": 1531,
+      "formula_id": 223,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Envoy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Sweet and neutral, it nourishes the Stomach, generates fluids, and buffers the cold nature of Shi Gao to protect the digestive system. Cooked into the decoction and then removed, it lends a gentle, protective quality to the formula."
     }
   ],
   "research": [

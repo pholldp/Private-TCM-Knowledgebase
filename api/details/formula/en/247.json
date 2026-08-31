@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid alcohol, coffee, strong tea, and other stimulants that may aggravate Liver Yang rising and counteract the formula's calming effects. Spicy, hot, and heavily fried foods should be minimized as they generate Heat and may worsen Yang hyperactivity.\nFavor foods that nourish Blood and Yin: dark leafy greens, black sesame seeds, mulberries, goji berries, red dates, and bone broth. Mild, easily digestible meals support absorption of this rich formula. Since the formula contains heavy mineral and enriching ingredients that can be taxing on digestion, avoid cold or raw foods that may further burden the Spleen and Stomach.",
   "ingredients": [
     {
+      "id": 1700,
+      "formula_id": 247,
       "herb_name": "Zhen Zhu Mu",
       "english_name": "Mother-of-Pearl Shell",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "The chief herb of the formula. Zhen Zhu Mu is salty, cold, and heavy, entering both the Heart and Liver channels. It calms the Liver, subdues rising Yang, and settles the spirit. It addresses both the root (Liver Yang rising) and the branch (disturbed spirit) of the condition."
     },
     {
+      "id": 1701,
+      "formula_id": 247,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes the Blood and enriches Yin, addressing the root deficiency of Liver Blood and Yin that allows Yang to rise unchecked. As one of the largest-dosed herbs in the original formula, it provides substantial nutritive support."
     },
     {
+      "id": 1702,
+      "formula_id": 247,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates the Blood. Working alongside Shu Di Huang, it nourishes Liver Blood and supports the Heart Blood, which is essential for anchoring the spirit. In TCM, the Liver stores Blood, and when Blood is sufficient, the ethereal soul (Hun) is properly housed at night."
     },
     {
+      "id": 1703,
+      "formula_id": 247,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Qi, supporting the generation of Blood and strengthening the Heart Qi. When Qi is sufficient, it helps the Heart maintain its function of housing the spirit (Shen), contributing to mental calm and stable sleep."
     },
     {
+      "id": 1704,
+      "formula_id": 247,
       "herb_name": "Suan Zao Ren",
       "english_name": "Sour jujube seed",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "Nourishes the Heart and Liver, calms the spirit, and promotes sleep. Its sweet and sour flavour astringes and preserves Yin while quieting restlessness, directly targeting the insomnia and palpitations of the pattern."
     },
     {
+      "id": 1705,
+      "formula_id": 247,
       "herb_name": "Bai Zi Ren",
       "english_name": "Arborvitae seed",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Large Intestine",
+      "role_description": "Nourishes the Heart, calms the spirit, and gently moistens. It works synergistically with Suan Zao Ren and Fu Shen to form a trio of spirit-calming herbs that settle the Heart and ease anxiety."
     },
     {
+      "id": 1706,
+      "formula_id": 247,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the spirit and quiets the Heart. Fu Shen is the part of Poria that grows around the root of the host pine tree and is specifically indicated for restless spirit and palpitations, more so than regular Fu Ling."
     },
     {
+      "id": 1707,
+      "formula_id": 247,
       "herb_name": "Long Chi",
       "english_name": "Dragon Tooth Fossil",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Heavy and settling in nature, Long Chi anchors the spirit and calms fright. It reinforces the settling action of Zhen Zhu Mu and is particularly suited for palpitations and startling easily."
     },
     {
+      "id": 1708,
+      "formula_id": 247,
       "herb_name": "Shui Niu Jiao",
       "english_name": "Water buffalo horn",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver, Stomach",
+      "role_description": "Clears Heart Fire and cools the Blood. The original formula used rhinoceros horn (Xi Jiao), which is now banned; Water Buffalo Horn is the standard modern substitute. It addresses any Heat in the Heart that agitates the spirit, complementing the formula's calming and settling strategy."
     },
     {
+      "id": 1709,
+      "formula_id": 247,
       "herb_name": "Chen Xiang",
       "english_name": "Agarwood",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Directs Qi downward and assists in subduing the upward movement of Liver Yang. Its aromatic, warm, and sinking nature helps the heavy minerals and shells in the formula descend effectively, reinforcing the formula's overall downward-directing strategy. It also regulates Qi flow to prevent the cloying nature of the rich Blood tonics from causing stagnation."
     }
   ],
   "research": [],

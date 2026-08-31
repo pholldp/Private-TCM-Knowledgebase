@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold, raw, and icy foods and beverages while taking this formula. Cold foods (such as salads, raw fruit, ice cream, cold drinks) can worsen Cold-Dampness accumulation in the joints and directly counteract the warming action of the formula.\nAvoid greasy, heavy, and excessively damp-producing foods such as fried foods, dairy products, and excessive sweets, which generate Dampness and obstruct the channels.\nFavor warm, cooked foods and warming spices such as ginger, cinnamon, and black pepper. Warm soups, congee, and lightly cooked vegetables support the formula's warming and channel-opening actions. Moderate amounts of lamb or other warming proteins may be beneficial.\nAvoid alcohol during the course of treatment, as alcohol can amplify the toxicity of aconitine alkaloids and intensify the effects of Ma Huang.",
   "ingredients": [
     {
+      "id": 1118,
+      "formula_id": 166,
       "herb_name": "Zhi Chuan Wu",
       "english_name": "Processed Sichuan Aconite Root",
       "role": "King",
-      "dosage": "3 - 9g (prepared/&#x5236;&#x5DDD;&#x4E4C;)"
+      "dosage": "3 - 9g (prepared/&#x5236;&#x5DDD;&#x4E4C;)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys, Spleen",
+      "role_description": "The principal herb of the formula. Hot in nature with powerful ability to penetrate the channels and joints, dispersing deep-seated cold and dampness while strongly relieving pain. Its fierce warming action addresses the root cause of cold obstruction in the joints."
     },
     {
+      "id": 1119,
+      "formula_id": 166,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Warms and opens the channels, disperses cold from the exterior and muscle layers, and promotes mild sweating to expel cold-dampness through the skin. Works synergistically with Chuan Wu to open blockages from both outside and within."
     },
     {
+      "id": 1120,
+      "formula_id": 166,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi and strengthens the body's defensive layer. Assists Ma Huang and Chuan Wu in warming the channels and relieving pain while simultaneously preventing Ma Huang from causing excessive sweating that would weaken the patient. Supports the body's ability to expel the pathogen."
     },
     {
+      "id": 1121,
+      "formula_id": 166,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, relaxes spasms and tendons, and relieves pain. Together with Gan Cao, forms the classical Shao Yao Gan Cao Tang pairing to ease cramping and stiffness in the joints. Also moderates the harsh, drying nature of the warming herbs."
     },
     {
+      "id": 1122,
+      "formula_id": 166,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all herbs in the formula. Pairs with Bai Shao to relax tension and relieve pain. Importantly, helps to reduce the toxicity of Chuan Wu. Its sweet, moderate nature balances the formula's strong dispersing action."
     }
   ],
   "research": [

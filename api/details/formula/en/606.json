@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods such as salads, ice cream, cold drinks, and raw fruit, as these can impair Yang Qi and counteract the warming purpose of the formula. Avoid greasy or heavy foods that may generate Dampness and obstruct Qi circulation. Light, warm, easily digestible foods such as congee, soups, and cooked vegetables are recommended. Mildly warming ingredients like ginger, scallions, and cinnamon in cooking can support the formula's action. Avoid alcohol, as it may interact with the formula's potent herbs and amplify side effects.",
   "ingredients": [
     {
+      "id": 4562,
+      "formula_id": 606,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Releases the exterior and disperses Wind-Cold. As the King herb, Ma Huang opens the skin and pores to expel cold pathogens from the body's surface, addressing the Tai Yang (exterior) aspect of this combined pattern."
     },
     {
+      "id": 4563,
+      "formula_id": 606,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms Kidney Yang and dispels interior Cold. As the Deputy, Fu Zi addresses the Shao Yin (interior) aspect of this pattern by bolstering the body's depleted Yang Qi, preventing the sweating action of Ma Huang from further damaging the already weakened Yang."
     },
     {
+      "id": 4564,
+      "formula_id": 606,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Acts as a bridge between exterior and interior, penetrating both the Tai Yang surface and the Shao Yin interior. Xi Xin assists Ma Huang in dispersing exterior Cold while also helping Fu Zi warm the Kidney Yang, making it uniquely suited to connect the formula's dual action."
     }
   ],
   "research": [

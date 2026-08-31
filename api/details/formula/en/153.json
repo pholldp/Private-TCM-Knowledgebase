@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid greasy, fried, and fatty foods, as these generate further Dampness and Heat, directly opposing the formula's therapeutic action. Alcohol should be strictly avoided, as it produces Damp-Heat in the Liver and Gallbladder. Spicy, hot foods (chili, black pepper, lamb, deep-fried items) should also be minimized, as they can aggravate internal Heat. Cold and raw foods should be consumed sparingly to protect the Spleen's digestive function. Favor light, easily digestible foods such as congee (rice porridge), clear soups, mung beans, winter melon, barley water, and steamed vegetables. These support the Spleen while gently clearing Dampness. Bitter melon and fresh leafy greens may be moderately helpful. Keep meals small and regular rather than heavy.",
   "ingredients": [
     {
+      "id": 1024,
+      "formula_id": 153,
       "herb_name": "Yin Chen",
       "english_name": "Virgate Wormwood Herb",
       "role": "King",
-      "dosage": "18 - 30g"
+      "dosage": "18 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Liver, Gallbladder",
+      "role_description": "The chief herb and the formula's namesake. It clears Damp-Heat from the Liver and Gallbladder and is the foremost herb in TCM for resolving jaundice. Used at the highest dosage (6:3:2 ratio with the other herbs), it powerfully drains Dampness and clears Heat, directly targeting the core pathomechanism of Damp-Heat steaming in the middle burner and overflowing into the skin."
     },
     {
+      "id": 1025,
+      "formula_id": 153,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat and drains Fire from all three burners. It assists Yin Chen Hao by guiding Damp-Heat downward through the urinary tract, promoting the elimination of pathogenic Heat via the urine. Its bitter, cold nature powerfully clears accumulated Heat from the Liver and Gallbladder."
     },
     {
+      "id": 1026,
+      "formula_id": 153,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges accumulated Heat and disperses stagnation through the bowels. In this formula, Da Huang is used at a relatively low dose (compared to the Cheng Qi Tang purgative formulas) because its role is not aggressive purgation but rather clearing stagnant Heat and invigorating Blood to help resolve the underlying stasis that contributes to jaundice. It provides a second route for Damp-Heat elimination via the stool."
     }
   ],
   "research": [

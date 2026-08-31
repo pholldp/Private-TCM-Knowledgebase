@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods that generate Phlegm and Dampness, as these directly oppose the formula's action. Cold and raw foods should also be limited, since they impair the Stomach's digestive function even though the pathogen itself is Hot. Alcohol and spicy, overly heating foods should be avoided as they may aggravate the Heat component. Light, easily digestible foods such as congee, steamed vegetables, and clear soups are preferable. Classical texts specify that the decoction should be prepared with rapidly flowing water (急流水) to enhance its dynamic, descending quality.",
   "ingredients": [
     {
+      "id": 3612,
+      "formula_id": 475,
       "herb_name": "Gua Lou",
       "english_name": "Trichosanthes fruit",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Clears Heat and transforms Phlegm, loosens the chest and disperses accumulation. As the chief herb, it addresses the core pathology of Phlegm-Heat binding in the chest, using its cold and sweet nature to clear Heat from the Upper and Middle Burners while its moistening quality helps move turbid Phlegm downward through the intestines."
     },
     {
+      "id": 3613,
+      "formula_id": 475,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness, drains Fire and resolves toxicity. Its bitter-cold nature powerfully clears the Heat component of the Phlegm-Heat complex, particularly targeting the Heart and Stomach. Together with Gua Lou, it addresses both the Heat and the Phlegm that have bound together below the chest."
     },
     {
+      "id": 3614,
+      "formula_id": 475,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms Phlegm, directs rebellious Qi downward, and harmonises the Stomach. Its acrid and warm nature counterbalances the cold herbs in the formula, and its powerful Phlegm-dissolving action specifically targets water-Phlegm accumulations. It also strengthens the Stomach's descending function to prevent nausea and vomiting."
     },
     {
+      "id": 3615,
+      "formula_id": 475,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks Qi stagnation, disperses accumulation, transforms Phlegm and clears distension. This is the herb that distinguishes this formula from the original Xiao Xian Xiong Tang. Zhi Shi powerfully drives Qi downward, opens the pylorus to guide water and fluids into the lower passages, thereby addressing the constipation and urinary difficulty caused by the Phlegm-Heat obstruction. It also enhances the overall formula's ability to break through the bound accumulation in the chest and epigastrium."
     }
   ],
   "research": [],

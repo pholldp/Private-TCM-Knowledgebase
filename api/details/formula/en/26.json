@@ -24,16 +24,28 @@
   "dietary_advice": "While taking Liu Yi San, avoid greasy, fried, and rich foods that generate Dampness and obstruct the Spleen's ability to transform fluids. Avoid excessive cold or icy drinks, which may seem appealing during Summer-Heat conditions but can damage Spleen Yang and trap Dampness internally. Spicy and acrid foods that generate Heat should also be limited. Favor light, easily digestible foods such as congee (rice porridge), mung bean soup, winter melon, and watermelon, which support the formula's Heat-clearing and fluid-promoting actions. Stay well hydrated with room-temperature or slightly cool water.",
   "ingredients": [
     {
+      "id": 156,
+      "formula_id": 26,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "King",
-      "dosage": "18g (in a standard 21g dose of the powder)"
+      "dosage": "18g (in a standard 21g dose of the powder)",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "The principal herb, used in the largest proportion (6 parts). Hua Shi is sweet, bland, and cold. Its bland nature seeps out dampness, its cold nature clears heat, its heaviness draws pathogenic factors downward, and its slippery quality opens the water passages. It clears summer-heat from all three Burners and promotes urination, allowing damp-heat to be expelled through the urine."
     },
     {
+      "id": 157,
+      "formula_id": 26,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3g (in a standard 21g dose of the powder)"
+      "dosage": "3g (in a standard 21g dose of the powder)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Used at one-sixth the dose of Hua Shi (1 part). Gan Cao is sweet and neutral-to-cool when used raw (Sheng Gan Cao). It harmonizes the middle Burner, protects the Stomach from the cold and slippery nature of Hua Shi, generates fluids to prevent the diuretic action from depleting body fluids, and mildly clears heat and relieves toxicity."
     }
   ],
   "research": [],

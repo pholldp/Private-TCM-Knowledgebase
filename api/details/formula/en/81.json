@@ -24,88 +24,172 @@
   "dietary_advice": "Favor warm, easily digestible, and nourishing foods such as congee (rice porridge), soups, cooked root vegetables, well-cooked grains, and moderate amounts of chicken or bone broth. These support the Spleen's digestive function and complement the formula's tonifying action.\nAvoid cold, raw, and greasy foods (including salads, ice-cold drinks, and excessive dairy), as these can impair the already-weakened Spleen and reduce the formula's effectiveness. Also avoid excessively spicy or stimulating foods, strong tea, and coffee, which can scatter Qi and counteract the consolidating intent of the formula. Foods that are difficult to digest should be minimized. The classical instructions specify taking the formula on an empty stomach (空腹服) or away from meals for optimal absorption.",
   "ingredients": [
     {
+      "id": 559,
+      "formula_id": 81,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the Qi of the Spleen and Lungs, generates fluids, and strengthens the source of Qi and Blood production. As the formula's namesake, it serves as the chief herb that drives the overall strategy of replenishing Qi so that Blood can be generated."
     },
     {
+      "id": 560,
+      "formula_id": 81,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Augments Qi, raises the Yang, and stabilizes the exterior to stop sweating. Together with Ren Shen, it forms the Qi-tonifying core of the formula, ensuring that the body's vitality is robustly restored."
     },
     {
+      "id": 561,
+      "formula_id": 81,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Blood and enriches Yin, directly replenishing the depleted nutritive Blood (Ying Xue). As a rich, dense substance, it fills the Blood vessels and moistens dryness."
     },
     {
+      "id": 562,
+      "formula_id": 81,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates Blood while harmonizing its circulation. Pairs with Shu Di Huang to form the Blood-nourishing pillar of the formula."
     },
     {
+      "id": 563,
+      "formula_id": 81,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, preserves Yin, and astringes the nutritive Qi to keep it circulating within the vessels. Used in the highest dose in the original formula, it anchors the Blood-nourishing action and softens the Liver to ease tension."
     },
     {
+      "id": 564,
+      "formula_id": 81,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, supporting the digestive system's ability to transform food into Qi and Blood. Reinforces Ren Shen and Huang Qi in building the Spleen."
     },
     {
+      "id": 565,
+      "formula_id": 81,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and lightly drains Dampness, ensuring that the rich tonifying herbs are properly absorbed. Also calms the Heart and supports restful sleep."
     },
     {
+      "id": 566,
+      "formula_id": 81,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the Yang and promotes the movement of Qi and Blood through the channels. Its warming action activates the tonifying herbs and helps the body transform and utilize the Qi and Blood being generated. Also guides the formula's action into the deeper levels."
     },
     {
+      "id": 567,
+      "formula_id": 81,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes the Lung Qi and stops sweating, ensuring that the newly generated Qi is not lost through excessive perspiration. Also nourishes the Heart and calms the spirit, supporting the formula's Heart-calming function."
     },
     {
+      "id": 568,
+      "formula_id": 81,
       "herb_name": "Yuan Zhi",
       "english_name": "Polygala root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Kidneys, Lungs",
+      "role_description": "Calms the spirit, resolves phlegm obstructing the Heart orifice, and promotes communication between the Heart and Kidneys. Addresses palpitations, insomnia, and forgetfulness by clearing the Heart channel."
     },
     {
+      "id": 569,
+      "formula_id": 81,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi flow and harmonizes the Stomach, preventing the heavy tonifying herbs from causing stagnation and bloating. A key addition that distinguishes this formula from Ba Zhen Tang, ensuring that supplementation does not impair digestion."
     },
     {
+      "id": 570,
+      "formula_id": 81,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi, harmonizes all the other herbs in the formula, and moderates the actions of the stronger ingredients. Serves as a bridge between the Qi-tonifying and Blood-nourishing groups."
     },
     {
+      "id": 571,
+      "formula_id": 81,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 slices (approx. 6 - 9g)"
+      "dosage": "3 slices (approx. 6 - 9g)",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach, aids digestion, and helps the other herbs be absorbed. Paired with Da Zao, it harmonizes the nutritive and protective Qi."
     },
     {
+      "id": 572,
+      "formula_id": 81,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "2 - 3 pieces"
+      "dosage": "2 - 3 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen, tonifies Qi, and harmonizes the formula. Works with Sheng Jiang to regulate the nutritive and protective Qi and ensure the formula is properly assimilated."
     }
   ],
   "research": [

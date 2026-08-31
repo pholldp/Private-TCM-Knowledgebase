@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and cold-natured foods (such as raw salads, watermelon, pear, crab, and bitter melon) while taking this formula, as these can aggravate Cold stagnation in the channels and counteract the warming effects.\nFavor warm, cooked, and easily digestible foods. Beneficial additions include ginger tea, lamb or chicken broth, cinnamon, red dates, and warming spices. These support the formula's strategy of warming the channels and nourishing Blood.\nAvoid excessively greasy or heavy foods that may impair Spleen function and obstruct the generation of new Blood.\nModerate consumption of rice wine (or a small amount of warm wine) is traditionally considered compatible, as it helps promote blood circulation.",
   "ingredients": [
     {
+      "id": 885,
+      "formula_id": 132,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, addresses the underlying Blood deficiency that is the root of this pattern. As a sweet, warm herb entering the Liver channel, it both replenishes depleted Blood and gently moves stagnation in the vessels."
     },
     {
+      "id": 886,
+      "formula_id": 132,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels and disperses Cold, promoting the smooth flow of Blood through the vessels. Its acrid, warm nature opens the meridians and restores circulation to the cold extremities."
     },
     {
+      "id": 887,
+      "formula_id": 132,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and harmonizes the nutritive Qi (Ying Qi). Assists Dang Gui in replenishing Blood to fill the vessels, and paired with Gui Zhi harmonizes the protective and nutritive layers of the body."
     },
     {
+      "id": 888,
+      "formula_id": 132,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Disperses Cold from both the exterior and interior, penetrating deeply through the channels. Assists Gui Zhi in warming the meridians and driving out Cold that is congealing the Blood."
     },
     {
+      "id": 889,
+      "formula_id": 132,
       "herb_name": "Tong Cao",
       "english_name": "Rice paper pith",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Opens and unblocks the channels and vessels to facilitate the smooth flow of Blood and Qi. Its light, ascending nature helps the warming herbs reach throughout the meridian network. Note: the original Shang Han Lun used Mu Tong (木通); modern practice often substitutes Tong Cao due to safety concerns."
     },
     {
+      "id": 890,
+      "formula_id": 132,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "8 - 25g (or 8 - 25 pieces)"
+      "dosage": "8 - 25g (or 8 - 25 pieces)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies Spleen Qi and nourishes Blood, supporting the body's ability to generate new Blood. Used in large quantity (doubled from the parent Gui Zhi Tang formula) to both strengthen the Blood-nourishing effect of Dang Gui and Bai Shao, and to moderate the drying, acrid nature of Gui Zhi and Xi Xin so they do not injure Yin and Blood."
     },
     {
+      "id": 891,
+      "formula_id": 132,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi to support Blood production, and harmonizes all the herbs in the formula. Its sweet, warm nature assists the warming herbs in their action while tempering any harshness."
     }
   ],
   "research": [

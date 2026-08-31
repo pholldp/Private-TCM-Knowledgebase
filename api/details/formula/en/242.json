@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid spicy, hot, and pungent foods (chili, garlic, ginger, pepper, lamb, deep-fried foods) as these generate Heat and counteract the formula's cooling action. Avoid greasy and rich foods that burden the Spleen and generate Dampness. Avoid alcohol, which heats the Blood and can worsen bleeding. Favor cooling, Yin-nourishing foods such as pear, lotus root, lily bulb, wood ear mushroom, mung beans, and dark leafy greens. Moderate intake of Blood-nourishing foods like black sesame, goji berries, and beet is supportive.",
   "ingredients": [
     {
+      "id": 1660,
+      "formula_id": 242,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "Nourishes Kidney Yin, subdues rising Yang, and restrains overactive Fire. As one of the primary Yin-nourishing substances, it addresses the root cause of the pattern by replenishing the depleted Yin of the Liver and Kidney."
     },
     {
+      "id": 1661,
+      "formula_id": 242,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Restrains and preserves Yin, nourishes the Blood, and softens the Liver. Its sour-astringent nature helps consolidate Yin and Blood, while nourishing the Liver to address the Liver-Kidney axis deficiency that underlies the bleeding."
     },
     {
+      "id": 1662,
+      "formula_id": 242,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the upper and middle burners, cools the Blood, and stops bleeding. Its bitter-cold nature directly addresses the Heat that is driving blood out of the vessels. Used at a high dose (equal to the Kings) to emphasize its heat-clearing role."
     },
     {
+      "id": 1663,
+      "formula_id": 242,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Fire from the lower burner and strengthens Yin. It complements Huang Qin by targeting the lower body where the reproductive organs reside, specifically clearing the deficiency-Fire that is destabilizing the Chong and Ren vessels."
     },
     {
+      "id": 1664,
+      "formula_id": 242,
       "herb_name": "Chun Pi",
       "english_name": "Ailanthus bark",
       "role": "Assistant",
-      "dosage": "12 - 22.5g"
+      "dosage": "12 - 22.5g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Large Intestine, Liver, Stomach",
+      "role_description": "Bitter, astringent, and cool, it directly binds and stops bleeding while also securing the menses. This is the formula's key astringent herb, adding a physical 'holding' action to the Yin-nourishing and heat-clearing strategy."
     },
     {
+      "id": 1665,
+      "formula_id": 242,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Assistant",
-      "dosage": "6 - 7.5g"
+      "dosage": "6 - 7.5g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Moves Qi and regulates menstruation. Used in a small dose to prevent the formula's predominantly cold and astringent herbs from causing Qi stagnation or trapping residual Blood stasis. Ensures that stopping the bleeding does not create new problems by congealing the Blood."
     }
   ],
   "research": [],

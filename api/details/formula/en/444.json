@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and heavily spiced foods, which tend to generate internal Heat and Phlegm. Dairy products, excessive sweets, and cold raw foods should also be minimized, as these can increase Phlegm production. Light, easy-to-digest meals are best, such as congee with pears or white radish (daikon), which naturally help clear Lung Heat and dissolve Phlegm. Smoking and alcohol should be strictly avoided, as both aggravate Lung Heat.",
   "ingredients": [
     {
+      "id": 3357,
+      "formula_id": 444,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Drains Lung Heat, calms wheezing, and promotes urination to reduce swelling. As the primary herb targeting the core pathology of Lung Heat excess, it directly purges excess Qi from the Lungs and restores the Lung's downward-directing function."
     },
     {
+      "id": 3358,
+      "formula_id": 444,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness in the upper body, particularly the Lungs. Reinforces the King herb's Heat-clearing action and helps eliminate the source of phlegm production by removing the Heat that condenses fluids into phlegm."
     },
     {
+      "id": 3359,
+      "formula_id": 444,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and drains Fire from the middle burner and Heart. Assists in purging deep-seated Fire that fuels phlegm production, and addresses irritability and restlessness that accompany intense internal Heat."
     },
     {
+      "id": 3360,
+      "formula_id": 444,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three burners and drains Fire downward through the urine. Provides an additional route for clearing Heat, complementing Huang Qin in the upper burner and Huang Lian in the middle burner, while guiding Heat downward and out."
     },
     {
+      "id": 3361,
+      "formula_id": 444,
       "herb_name": "Zhe Bei Mu",
       "english_name": "Zhejiang Fritillary bulb",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Clears Heat and transforms phlegm, moistens the Lungs and stops cough. Directly addresses the phlegm component of the pathology while being cool enough to be appropriate for Hot-type phlegm."
     },
     {
+      "id": 3362,
+      "formula_id": 444,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi, stops cough and calms wheezing. Works with Su Zi to restore the normal downward movement of Lung Qi, directly relieving the wheezing and dyspnea caused by Qi rebellion."
     },
     {
+      "id": 3363,
+      "formula_id": 444,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness, transforms phlegm, and directs rebellious Qi downward. Its powerful drying and phlegm-resolving action helps clear the thick, sticky phlegm obstructing the airways, and its descending nature supports the overall downward-directing strategy."
     },
     {
+      "id": 3364,
+      "formula_id": 444,
       "herb_name": "Zi Su Zi",
       "english_name": "Perilla seed",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Qi, stops wheezing, and resolves phlegm. Strongly moves Lung Qi downward and has a lubricating quality that helps expectorate phlegm, working alongside Xing Ren to calm wheezing."
     },
     {
+      "id": 3365,
+      "formula_id": 444,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 slices (approx. 3 - 6g)"
+      "dosage": "3 slices (approx. 3 - 6g)",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the formula and moderates the cold nature of the other herbs. Also enhances Ban Xia's phlegm-resolving action while reducing its potential toxicity, and helps warm the Stomach to prevent the cold bitter herbs from damaging digestive function."
     }
   ],
   "research": [],

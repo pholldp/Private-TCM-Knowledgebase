@@ -24,88 +24,172 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, as these generate internal Heat and Dampness that can worsen the condition and impede recovery. Spicy, warming foods (such as chili, ginger, lamb, and alcohol) should be strictly avoided, as they add Heat to an already Hot condition. Cold and raw foods should also be limited despite the Heat pattern, because the formula is already very cold in nature and excessive cold foods may further burden the Spleen and Stomach.\nFavor light, easily digestible foods such as congee (rice porridge), steamed vegetables, mung bean soup (which also clears Heat), pear, watermelon (in moderation), and chrysanthemum tea. Adequate fluid intake is important to prevent further drying of body fluids by the Heat-toxin. The classical administration method called for frequent small doses sipped throughout the day, which suggests eating small, light meals rather than large ones.",
   "ingredients": [
     {
+      "id": 1573,
+      "formula_id": 230,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Wine-processed Huang Qin is bitter and cold, entering the Lung and Heart channels. It powerfully clears Heat and drains Fire from the Upper Burner, directly targeting the toxic Heat congested in the head and face. Its wine processing helps direct its action upward."
     },
     {
+      "id": 1574,
+      "formula_id": 230,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Wine-processed Huang Lian is bitter and cold, with strong Heat-clearing and toxin-resolving capacity. Together with Huang Qin, it forms the core pair that drains intense Fire toxin from the Heart and Lung, addressing the root cause of the head and facial swelling."
     },
     {
+      "id": 1575,
+      "formula_id": 230,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "Deputy",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid and cool, Niu Bang Zi disperses Wind-Heat from the head and face, benefits the throat, and helps vent Heat toxins outward through the exterior. It supports the King herbs by clearing both Wind and Heat."
     },
     {
+      "id": 1576,
+      "formula_id": 230,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Deputy",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Lian Qiao clears Heat, resolves toxins, and disperses swellings and nodules. It reinforces the Wind-Heat dispersing action and helps reduce the inflammatory swelling of the head and face."
     },
     {
+      "id": 1577,
+      "formula_id": 230,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Acrid and cool, Bo He disperses Wind-Heat, clears the head and eyes, and benefits the throat. Its light, ascending nature helps lift the formula's actions to the head and face where the pathogen is concentrated."
     },
     {
+      "id": 1578,
+      "formula_id": 230,
       "herb_name": "Jiang Can",
       "english_name": "Silkworm",
       "role": "Deputy",
-      "dosage": "2 - 6g"
+      "dosage": "2 - 6g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs, Stomach",
+      "role_description": "Jiang Can disperses Wind, resolves phlegm, and dissipates nodules and swelling. It adds a unique capacity to disperse knotted toxic swelling in the head and face that neither pure Heat-clearing nor Wind-dispersing herbs can fully address."
     },
     {
+      "id": 1579,
+      "formula_id": 230,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Xuan Shen clears Heat, cools the Blood, nourishes Yin, and resolves toxins. It reinforces the Heat-clearing action while protecting Yin fluids that are easily damaged by intense Fire toxin, and helps relieve throat swelling."
     },
     {
+      "id": 1580,
+      "formula_id": 230,
       "herb_name": "Ban Lan Gen",
       "english_name": "Isatis root",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Ban Lan Gen clears Heat, resolves toxins, and cools the Blood. It powerfully augments the formula's anti-toxic action, particularly targeting epidemic toxins and benefiting the throat."
     },
     {
+      "id": 1581,
+      "formula_id": 230,
       "herb_name": "Ma Bo",
       "english_name": "Puffball",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Ma Bo clears the Lungs, resolves Fire toxin, and specifically benefits the throat by reducing swelling and relieving sore throat. It works alongside Jie Geng and Gan Cao to address throat obstruction."
     },
     {
+      "id": 1582,
+      "formula_id": 230,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Jie Geng opens and diffuses Lung Qi, benefits the throat, and acts as a 'boat' (舟楫) that carries the other herbs upward to the Upper Burner. It prevents the bitter, cold herbs from sinking downward, ensuring they reach the disease site in the head and throat."
     },
     {
+      "id": 1583,
+      "formula_id": 230,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Raw Gan Cao clears Heat, resolves toxins, benefits the throat, and harmonizes the actions of all the other herbs. It also mildly tonifies Qi to support the body's resistance against the pathogen."
     },
     {
+      "id": 1584,
+      "formula_id": 230,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Chen Pi regulates Qi and resolves congestion, preventing the large dose of bitter, cold herbs from causing Qi stagnation and protecting the Stomach. It helps disperse the local Qi congestion that accompanies the toxic swelling."
     },
     {
+      "id": 1585,
+      "formula_id": 230,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Chai Hu disperses Wind-Heat along the Shaoyang channel (which traverses the sides of the head and ear region) and guides the formula's actions upward to the head and face. It also embodies the principle of 'venting pent-up Fire' (火郁发之), helping release constrained Heat rather than simply suppressing it."
     },
     {
+      "id": 1586,
+      "formula_id": 230,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Envoy",
-      "dosage": "2 - 6g"
+      "dosage": "2 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Sheng Ma clears Heat, resolves toxins, and lifts the actions of other herbs upward along the Yangming channel to the face and head. Together with Chai Hu, it ensures the formula reaches the disease site in the upper body and helps vent constrained Fire outward."
     }
   ],
   "research": [],

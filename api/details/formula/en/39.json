@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid excessively cold, raw, and icy foods and beverages, as these can impair the formula's warming action on Kidney Yang. Also avoid heavily spicy, greasy, or deep-fried foods and alcohol, which generate Heat and may aggravate the Deficiency Fire component of the condition.\nFoods that gently support the Kidneys are beneficial: black sesame seeds, walnuts, goji berries (in moderation), black beans, and warm soups with lamb or bone broth. Moderate intake of soy products is acceptable but should not be excessive given the formula's phytoestrogenic properties.\nDuring the course of treatment, maintain emotional balance and avoid excessive stress. Smoking should be avoided. The original clinical guidelines specifically note: avoid tobacco, alcohol, and pungent/irritating foods during the treatment period.",
   "ingredients": [
     {
+      "id": 240,
+      "formula_id": 39,
       "herb_name": "Xian Mao",
       "english_name": "Curculigo rhizome",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Kidneys, Liver, Spleen",
+      "role_description": "Powerfully warms the Kidney Yang, tonifies Kidney Essence, and helps regulate the Penetrating and Governing Vessels. As the primary Yang-warming herb, it directly addresses the root Kidney Yang deficiency."
     },
     {
+      "id": 241,
+      "formula_id": 39,
       "herb_name": "Yin Yang Huo",
       "english_name": "Epimedium leaf",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Works alongside Xian Mao to warm the Kidney Yang and tonify Kidney Essence. Also helps harness and settle ascending deficiency Fire from the Gate of Vitality, and unblocks the flow of Yang Qi."
     },
     {
+      "id": 242,
+      "formula_id": 39,
       "herb_name": "Ba Ji Tian",
       "english_name": "Morinda root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Kidneys, Liver",
+      "role_description": "Reinforces the King herbs in warming and tonifying Kidney Yang, strengthening sinews and bones. Its nature is gentle and moist rather than harsh and drying, which complements the stronger warming action of the two King herbs without creating excessive dryness."
     },
     {
+      "id": 243,
+      "formula_id": 39,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and gently invigorates the Blood, moistens dryness, and regulates the Penetrating (Chong Mai) and Governing (Ren Mai) Vessels. By enriching Blood and nourishing the Liver, it supports the reproductive system and helps regulate the menstrual cycle."
     },
     {
+      "id": 244,
+      "formula_id": 39,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears deficiency Heat and drains Kidney Fire. Crucially, it tempers the hot, drying nature of the King herbs (Xian Mao and Yin Yang Huo), preventing them from generating excessive Heat. Also helps guide ministerial Fire back down to its lower source."
     },
     {
+      "id": 245,
+      "formula_id": 39,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Enriches Kidney Yin, clears Heat, moistens dryness, and generates fluids. Works together with Huang Bai to clear deficiency Fire and nourish Yin, counterbalancing the warming herbs in the formula to prevent overheating."
     }
   ],
   "research": [

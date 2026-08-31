@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, ice cream, chilled drinks, raw fruit in excess) as they add Cold and Dampness to the body, directly opposing the formula's warming action. Greasy, fried, and heavily processed foods should also be minimized as they generate Dampness. Dairy products, especially cold milk and cheese, tend to produce Dampness in TCM understanding and are best reduced. Favor warm, cooked foods that support the Spleen: congee (rice porridge), cooked root vegetables, soups, warm grains, and modest amounts of warming spices like ginger, cinnamon, and black pepper. Keeping the lower back warm and dry, and avoiding sitting on cold or damp surfaces, supports the formula's therapeutic action.",
   "ingredients": [
     {
+      "id": 2974,
+      "formula_id": 392,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "The chief herb in the formula. Its acrid, hot nature warms the interior and powerfully disperses cold. As the primary driver of the formula's warming action, it directly addresses the cold that has lodged in the lower back region, restoring warmth to the lower body."
     },
     {
+      "id": 2975,
+      "formula_id": 392,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "10 - 30g"
+      "dosage": "10 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Bland in flavour and neutral in nature, Fu Ling promotes urination and drains dampness through a gentle seeping action. It complements the King herb perfectly: while Gan Jiang drives out the cold, Fu Ling eliminates the dampness, together removing the two pathogenic factors at the root of the condition. It also strengthens the Spleen to prevent dampness from re-accumulating."
     },
     {
+      "id": 2976,
+      "formula_id": 392,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Bitter and warm, Bai Zhu strengthens the Spleen and dries dampness. It reinforces the Deputy herb Fu Ling in eliminating dampness, and supports the overall strategy of fortifying the Earth element (Spleen) to control Water. Its special affinity for the waist and navel region makes it particularly suited for this formula's target area."
     },
     {
+      "id": 2977,
+      "formula_id": 392,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and warm, honey-prepared licorice tonifies the middle Qi and harmonizes the Spleen and Stomach. It coordinates the actions of the other herbs and helps stabilize the centre, complementing the overall strategy of warming the Spleen to overcome dampness."
     }
   ],
   "research": [],

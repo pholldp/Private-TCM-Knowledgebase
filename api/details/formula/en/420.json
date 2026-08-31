@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, as these generate Dampness and Heat and burden the already-compromised digestive system. Cold and raw foods (salads, ice cream, cold drinks) should also be avoided, as they may impair Stomach Qi and worsen diarrhea. Spicy and strongly warming foods (chili, pepper, alcohol) can aggravate the Heat component of the pattern. Instead, favor bland, easily digestible foods such as plain rice porridge (congee), steamed vegetables, and clear soups. Small, frequent meals are preferable to large ones. Stay well hydrated with warm or room-temperature water.",
   "ingredients": [
     {
+      "id": 3180,
+      "formula_id": 420,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "The chief herb of the formula, Huang Qin clears Heat and dries Dampness, particularly in the Shaoyang and Yangming channels. It directly addresses the core pathomechanism of Heat forcing downward into the intestines, causing diarrhea with foul-smelling stools and a burning sensation at the anus."
     },
     {
+      "id": 3181,
+      "formula_id": 420,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and softens the Liver while relieving abdominal cramping and pain. Paired with Huang Qin, it prevents the bitter-cold nature of Huang Qin from damaging Yin fluids. Its sour-astringent quality also helps contain the diarrhea."
     },
     {
+      "id": 3182,
+      "formula_id": 420,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The key addition that distinguishes this formula from Huang Qin Tang. Ban Xia descends rebellious Stomach Qi and stops vomiting, transforms Phlegm-Dampness, and harmonizes the middle. It directly addresses the nausea and vomiting that accompany the diarrhea."
     },
     {
+      "id": 3183,
+      "formula_id": 420,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Works synergistically with Ban Xia to descend rebellious Qi and stop vomiting. Its warm nature moderates the cold properties of Huang Qin, harmonizes the Stomach, and helps reduce the toxicity of Ban Xia."
     },
     {
+      "id": 3184,
+      "formula_id": 420,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen Qi and protects the middle burner from the bitter-cold nature of Huang Qin. Paired with Shao Yao, it helps relieve abdominal cramping. As the envoy, it harmonizes all herbs in the formula and moderates their potentially harsh properties."
     },
     {
+      "id": 3185,
+      "formula_id": 420,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 - 12 pieces"
+      "dosage": "4 - 12 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, generates fluids, and moderates the harsh properties of the other herbs. Together with Zhi Gan Cao, it protects the digestive system from the bitter-cold action of Huang Qin."
     }
   ],
   "research": [],

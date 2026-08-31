@@ -24,88 +24,172 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible foods that support the Spleen: cooked grains (rice, millet, congee), root vegetables (yam, sweet potato, pumpkin), and mild soups. Small, regular meals are preferable to large ones. Avoid cold and raw foods (salads, ice cream, chilled drinks, raw fruit in excess) as these impair the Spleen's warming and transforming function. Reduce greasy, fried, and overly rich foods, as well as dairy products, which tend to generate Dampness. Limit sweets and refined sugars, which also promote Dampness. Avoid excessive alcohol, which generates Damp-Heat in the middle. The original text instructs to take the formula warm, between breakfast and lunch, reinforcing the importance of working with the body's natural digestive rhythm during the active daytime hours.",
   "ingredients": [
     {
+      "id": 2182,
+      "formula_id": 307,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "The chief herb of the formula, used in the largest dose. It powerfully tonifies Spleen and Lung Qi, raises the clear Yang Qi, and stabilizes the exterior. By strengthening the body's core digestive function and lifting sunken Qi, it directly addresses the root cause of fatigue, heaviness, and digestive weakness."
     },
     {
+      "id": 2183,
+      "formula_id": 307,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies the primal Qi and supplements the middle burner. Working alongside Huang Qi, it reinforces Spleen and Stomach Qi from the interior, while Huang Qi focuses more on the exterior and lifting aspects. Together they form a potent Qi-tonifying core."
     },
     {
+      "id": 2184,
+      "formula_id": 307,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the middle burner Qi and harmonizes all the herbs in the formula. Paired with Huang Qi and Ren Shen, it strengthens the Qi-tonifying action. Its moderating nature also tempers the dispersing quality of the wind-dispersing herbs."
     },
     {
+      "id": 2185,
+      "formula_id": 307,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness, transforms phlegm, and directs Stomach Qi downward. By descending turbid Qi, it complements the ascending action of the wind herbs, establishing a balance of rising and falling within the formula. It also harmonizes the Stomach to stop nausea."
     },
     {
+      "id": 2186,
+      "formula_id": 307,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "One of the key wind-dispersing herbs. It dispels wind-dampness from the muscles and channels, and helps lift Spleen Yang. As a mild 'wind herb', it carries the ascending Qi upward, assisting the Spleen in its function of raising clear Qi. It also supports the exterior-protecting action of Huang Qi."
     },
     {
+      "id": 2187,
+      "formula_id": 307,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Dispels wind-dampness, particularly from the upper body and the Tai Yang channel. Its pungent, warm, and ascending nature helps raise clear Yang Qi and drives out dampness lodged in joints and muscles, addressing body heaviness and joint pain."
     },
     {
+      "id": 2188,
+      "formula_id": 307,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "Dispels wind-dampness from the lower body and the Shao Yin channel. It complements Qiang Huo by addressing dampness in the lower limbs and lower back, so that together they dispel dampness from the entire body."
     },
     {
+      "id": 2189,
+      "formula_id": 307,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, acting as a counterbalance to the warm, drying, and dispersing wind herbs. It prevents the formula from being overly pungent and depleting fluids. It also softens the Liver to prevent Liver overacting on a weakened Spleen."
     },
     {
+      "id": 2190,
+      "formula_id": 307,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Raises Yang Qi and courses the Liver Qi. Its ascending, dispersing nature helps lift the Spleen's clear Yang and also ensures smooth Qi circulation, aiding the Liver in its role of supporting Spleen function through proper Qi flow."
     },
     {
+      "id": 2191,
+      "formula_id": 307,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries dampness. As a core Spleen-tonifying herb, it supports the digestive system's ability to transform and transport fluids, reducing the internal generation of dampness."
     },
     {
+      "id": 2192,
+      "formula_id": 307,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination to drain dampness downward and strengthens the Spleen. Together with Bai Zhu and Ze Xie, it provides a drainage pathway for accumulated dampness and turbidity. The source text notes it should be omitted if urination is already free and the patient is not thirsty."
     },
     {
+      "id": 2193,
+      "formula_id": 307,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains dampness and heat from the lower burner through urination. By guiding turbid dampness downward and out, it facilitates the ascent of clear Yang. The source text specifies it should be omitted if there are no symptoms of urinary obstruction."
     },
     {
+      "id": 2194,
+      "formula_id": 307,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "4 - 6g"
+      "dosage": "4 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi flow in the middle burner and dries dampness. It prevents the heavy tonifying herbs from causing stagnation by keeping the digestive Qi moving. It also assists Ban Xia in harmonizing the Stomach."
     },
     {
+      "id": 2195,
+      "formula_id": 307,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "1 - 1.5g"
+      "dosage": "1 - 1.5g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears heat and dries dampness. Used in a very small dose to address the mild heat generated when dampness stagnates in the middle burner. Its cold, bitter nature counterbalances the predominantly warm herbs, ensuring the formula does not become too heating."
     }
   ],
   "research": [],

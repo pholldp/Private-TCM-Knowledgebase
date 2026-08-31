@@ -24,28 +24,52 @@
   "dietary_advice": "While taking San Ao Tang, avoid cold and raw foods (salads, cold drinks, ice cream, raw fruit), as these can tighten the Lungs and counteract the formula's warming, dispersing action. Also avoid greasy, fatty, and heavy foods (fried dishes, rich meats, dairy), which can generate Phlegm and obstruct the Lungs further. Spicy and strongly pungent foods (chili peppers, raw garlic, pepper, lamb, dog meat) should also be limited, as these can generate excess Heat and interfere with recovery. Instead, favor warm, light, easily digestible foods such as plain rice congee (porridge), cooked vegetables, and warm soups. Drinking warm water frequently supports the formula's gentle sweating action. After taking the decoction, cover with a blanket and rest to encourage a light sweat, as described in the classical instructions.",
   "ingredients": [
     {
+      "id": 4216,
+      "formula_id": 547,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "The lead herb, Ma Huang opens the Lung and disseminates Lung Qi to relieve cough and wheezing. Its warm, acrid nature disperses Wind-Cold from the exterior. In this formula it is used with roots and nodes intact (not removed as usual), which moderates its sweating power while preserving its Lung-opening action."
     },
     {
+      "id": 4217,
+      "formula_id": 547,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Xing Ren directs Lung Qi downward, stops cough, and calms wheezing. It complements Ma Huang's upward-disseminating action by providing a descending counterpart, restoring the Lung's natural rhythm of dissemination and descent. Used with skin and tip intact (not removed as usual), which gives it a slightly sharper action."
     },
     {
+      "id": 4218,
+      "formula_id": 547,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Raw (unprocessed) Gan Cao harmonizes the other two herbs, assists in resolving phlegm and stopping cough, and mildly clears Heat. Used unprocessed (not honey-fried as usual), which preserves its mild Heat-clearing property rather than emphasizing its Qi-tonifying action."
     },
     {
+      "id": 4219,
+      "formula_id": 547,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 5 slices"
+      "dosage": "3 - 5 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Fresh ginger assists Ma Huang in dispersing Cold from the exterior and warms the Lung to help transform thin, watery phlegm. It also harmonizes the Stomach to prevent nausea from the other herbs."
     }
   ],
   "research": [

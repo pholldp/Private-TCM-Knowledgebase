@@ -24,46 +24,88 @@
   "dietary_advice": "Since this is a topical ointment, dietary restrictions are less critical than for internal formulas. However, the classical text specifically instructs that patients with large sores should concurrently take Spleen- and Stomach-strengthening warm medicines internally. To support wound healing from the inside, favor warm, easily digestible, protein-rich foods such as bone broths, well-cooked meats, eggs, and congee. Avoid cold and raw foods, greasy or fried foods, and alcohol, which can impair Spleen function and slow the production of Qi and Blood needed for tissue repair. Avoid spicy, pungent foods that may aggravate residual Heat in the wound. Chen Shigong emphasized that the Spleen and Stomach are central to wound healing outcomes, so maintaining good digestive function through gentle, nourishing foods is essential.",
   "ingredients": [
     {
+      "id": 3391,
+      "formula_id": 448,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The principal herb in the formula, used in the largest dose. Dang Gui nourishes and invigorates Blood, reduces swelling, generates flesh, and relieves pain. By promoting blood circulation to the wound site, it creates the conditions necessary for new tissue growth and repair."
     },
     {
+      "id": 3392,
+      "formula_id": 448,
       "herb_name": "Xue Jie",
       "english_name": "Dragon&#x27;s blood resin",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Strongly invigorates Blood, dispels stasis, alleviates pain, and promotes tissue regeneration. It powerfully assists Dang Gui in breaking up stagnant Blood around the wound and accelerating the growth of new flesh. Classically regarded as the 'holy medicine for activating Blood.'"
     },
     {
+      "id": 3393,
+      "formula_id": 448,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Expels Wind, dries Dampness, reduces swelling, expels pus, and alleviates pain. It helps disperse lingering pathogens from the wound, reduces local swelling, and supports the draining of pus from the ulcerated area."
     },
     {
+      "id": 3394,
+      "formula_id": 448,
       "herb_name": "Zi Cao",
       "english_name": "Gromwell root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Clears Heat, cools the Blood, resolves toxins, and promotes tissue regeneration. It addresses residual Heat and toxicity in the wound, prevents infection, and gives the ointment its characteristic deep reddish-purple color."
     },
     {
+      "id": 3395,
+      "formula_id": 448,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "36g"
+      "dosage": "36g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Clears Heat, resolves toxins, and moderates the properties of the other ingredients. Applied topically, it helps reduce inflammation and swelling. It also contributes to a soothing, protective base for the wound."
     },
     {
+      "id": 3396,
+      "formula_id": 448,
       "herb_name": "Qing Fen",
       "english_name": "Calomel",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Large Intestine",
+      "role_description": "Resolves toxins, kills parasites, dries Dampness, and promotes the sloughing of necrotic tissue. It is the primary ingredient responsible for the formula's 'removing the putrid' (祛腐) action, helping clear away dead tissue so healthy flesh can grow. Note: this ingredient contains mercury and is used only in external application under professional guidance."
     },
     {
+      "id": 3397,
+      "formula_id": 448,
       "herb_name": "Feng La",
       "english_name": "Beeswax",
       "role": "Envoy",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Serves as the solidifying base (excipient) for the ointment, giving it the proper consistency for topical application. Beeswax also has mild toxin-resolving, wound-protecting, and tissue-regenerating properties. It seals and protects the wound surface, keeping the medicinal ingredients in contact with the tissue."
     }
   ],
   "research": [

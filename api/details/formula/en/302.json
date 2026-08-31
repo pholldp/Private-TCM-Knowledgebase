@@ -24,76 +24,148 @@
   "dietary_advice": "During treatment, strictly avoid all cold, raw, and chilled foods and beverages, including salads, ice cream, cold water, and raw fruit. Cold foods would directly counteract the formula's warming action and worsen the Yang collapse. Avoid greasy, heavy, or difficult-to-digest foods, as the Spleen Yang is severely compromised. Instead, favor warm, easily digestible foods such as thin rice porridge (congee), warm broths, and lightly cooked vegetables. Small, frequent meals are preferred over large ones. After the crisis resolves, a gradual warming and nourishing diet should continue to support the recovery of Yang Qi.",
   "ingredients": [
     {
+      "id": 2126,
+      "formula_id": 302,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "The primary Yang-restoring herb. Prepared Aconite powerfully rescues devastated Yang and reverses counterflow Cold. As the chief herb, it addresses the core crisis of Yang collapse by warming the Kidney and Spleen Yang, driving out interior Cold, and preventing further deterioration."
     },
     {
+      "id": 2127,
+      "formula_id": 302,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Dried Ginger warms the Middle Burner and restores Yang. It powerfully reinforces Prepared Aconite in warming the interior, unblocking the pulse, and expelling Cold from the Spleen and Stomach. Together they form the classic Si Ni Tang backbone."
     },
     {
+      "id": 2128,
+      "formula_id": 302,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Cinnamon Bark reinforces the Yang-warming power of Prepared Aconite and Dried Ginger. It warms the Kidney Yang, ignites the Gate of Vitality (Ming Men), and promotes circulation through the channels, enhancing the formula's ability to break through Yin Cold."
     },
     {
+      "id": 2129,
+      "formula_id": 302,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Ginseng strongly tonifies the primal Qi to prevent collapse. Combined with Prepared Aconite, it rescues both Qi and Yang simultaneously. Paired with Wu Wei Zi, it generates and restores the pulse, a critical function in patients on the verge of Yang exhaustion."
     },
     {
+      "id": 2130,
+      "formula_id": 302,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Dry-fried White Atractylodes strengthens the Spleen and dries Dampness. As part of the Liu Jun Zi Tang component, it supports the Middle Burner, helping to manage the vomiting and diarrhea caused by the Spleen Yang failing to transform fluids."
     },
     {
+      "id": 2131,
+      "formula_id": 302,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Poria strengthens the Spleen and drains pathological Dampness. It supports the Spleen's transport function and works alongside Bai Zhu and Ban Xia to address the fluid accumulation and loose stools that result from Yang deficiency."
     },
     {
+      "id": 2132,
+      "formula_id": 302,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Prepared Pinellia dries Dampness, transforms Phlegm, and descends rebellious Stomach Qi. It directly addresses the vomiting and nausea by redirecting Qi downward and resolving the phlegm-fluid accumulation caused by Yang deficiency."
     },
     {
+      "id": 2133,
+      "formula_id": 302,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Tangerine Peel regulates Qi, strengthens the Spleen, and dries Dampness. It promotes smooth Qi flow in the Middle Burner and helps the other Spleen-supporting herbs function more effectively, while also assisting in phlegm transformation."
     },
     {
+      "id": 2134,
+      "formula_id": 302,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Schisandra is sour and astringent. It prevents the dissipation of the true Yang and constrains the Qi from leaking outward. Paired with Ren Shen, it generates the pulse (a key function from Sheng Mai San). Its astringency balances the dispersing nature of She Xiang, creating a scatter-and-gather dynamic that prevents the restored Yang from escaping."
     },
     {
+      "id": 2135,
+      "formula_id": 302,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Licorice tonifies the Spleen Qi, harmonizes all the other herbs, and moderates the harshness of the hot, acrid herbs. It also reduces the toxicity of Prepared Aconite."
     },
     {
+      "id": 2136,
+      "formula_id": 302,
       "herb_name": "She Xiang",
       "english_name": "Musk",
       "role": "Envoy",
-      "dosage": "0.1g"
+      "dosage": "0.1g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Musk is intensely aromatic and penetrating. It opens the channels and orifices, revives consciousness, and drives the medicinal effect of the entire formula rapidly throughout all twelve channels. Its scurrying nature ensures the Yang-restoring herbs reach every corner of the body without delay."
     },
     {
+      "id": 2137,
+      "formula_id": 302,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 slices"
+      "dosage": "3 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Fresh Ginger warms the Stomach, stops vomiting, and assists Gan Jiang in warming the Middle Burner. It also helps harmonize the formula and reduce the toxicity of Ban Xia."
     }
   ],
   "research": [],

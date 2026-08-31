@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid spicy, greasy, fried, and heavily seasoned foods (chili peppers, hot pot, fried meats, alcohol), as these generate Heat and Dampness in the intestines and directly worsen hemorrhoidal conditions. Reduce consumption of rich, sweet foods that produce Dampness. Increase dietary fiber from vegetables, whole grains, and fruits to keep bowel movements soft and regular, since constipation and straining aggravate hemorrhoids and bleeding. Drink adequate water. Mung bean soup, pear, lotus root, and bitter melon are supportive foods that gently clear Heat. Avoid cold, raw foods in excess if the person already has a weak digestion, as the formula itself is already cooling.",
   "ingredients": [
     {
+      "id": 695,
+      "formula_id": 99,
       "herb_name": "Huai Jiao",
       "english_name": "Pagodatree Pod",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Large Intestine",
+      "role_description": "The principal herb, used at double the dosage of all other ingredients. Clears heat from the Large Intestine, cools the blood, stops bleeding, and gently moistens the intestines to ease bowel movements. Its bitter, cold nature directly targets the root cause of intestinal heat forcing blood out of the vessels."
     },
     {
+      "id": 696,
+      "formula_id": 99,
       "herb_name": "Di Yu",
       "english_name": "Garden Burnet Root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "Strongly cools the blood and stops bleeding, with a particular affinity for the lower body and lower digestive tract. Works in concert with Huai Jiao to powerfully arrest rectal bleeding. Also has a mild laxative effect that helps keep stools soft, preventing further damage to hemorrhoidal tissue."
     },
     {
+      "id": 697,
+      "formula_id": 99,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat and dries dampness, particularly in the intestines. Reinforces the blood-cooling and bleeding-stopping effects of Huai Jiao and Di Yu. Its ability to clear damp-heat from the Large Intestine addresses the underlying pathogenic environment that produces hemorrhoidal bleeding."
     },
     {
+      "id": 698,
+      "formula_id": 99,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the blood, ensuring that bleeding is stopped without causing blood stasis. Moistens the intestines and promotes smooth bowel movements. Prevents the cold, astringent nature of the other herbs from causing unwanted blood stagnation."
     },
     {
+      "id": 699,
+      "formula_id": 99,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Regulates Qi movement and relieves distension in the intestines. Promotes intestinal peristalsis, which has an indirect compressive hemostatic effect on bleeding vessels. Addresses the Qi stagnation component that often accompanies hemorrhoids."
     },
     {
+      "id": 700,
+      "formula_id": 99,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Disperses wind and lifts the clear Yang Qi, counterbalancing the heavily descending nature of the other herbs. In the context of intestinal wind bleeding, it addresses the wind component of the pathology. Its upward-lifting quality helps prevent rectal prolapse and guides the formula to regulate the intestines."
     }
   ],
   "research": [

@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor foods that support Yin nourishment: black sesame, walnuts, goji berries, black beans, pork, duck, pears, lily bulb, and wood ear mushroom. Avoid excessively spicy, greasy, or fried foods, as these generate Heat and Dampness that counteract the formula's intent. Cold and raw foods should also be moderated, as they can further burden the Spleen, whose function may already be challenged by the cloying nature of this formula. Alcohol and strong coffee should be minimized, as they are drying and Heat-generating. During colds or acute digestive illness, suspend the formula and resume after recovery.",
   "ingredients": [
     {
+      "id": 234,
+      "formula_id": 38,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Heavily nourishes Kidney Yin, fills the Essence, and enriches the marrow. As the primary herb in the formula with the heaviest dosage, it directly addresses the root cause of Kidney Yin deficiency."
     },
     {
+      "id": 235,
+      "formula_id": 38,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes the Liver and Kidney and restrains the leakage of Essence through its astringent quality. Based on the principle that Liver and Kidney share a common source, supporting Liver Yin reinforces Kidney Yin."
     },
     {
+      "id": 236,
+      "formula_id": 38,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen Yin and stabilizes the Kidney. By strengthening the Spleen (the postnatal root), it supports the body's ability to generate and replenish Essence, complementing Shu Di Huang's direct Kidney supplementation."
     },
     {
+      "id": 237,
+      "formula_id": 38,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains dampness and clears turbidity from the Kidney, preventing the accumulation of pathological fluid. It also offsets the heavy, cloying nature of Shu Di Huang, ensuring the tonic herbs do not cause stagnation."
     },
     {
+      "id": 238,
+      "formula_id": 38,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat and cools the Liver, addressing virtual fire that arises from Yin depletion. It also moderates the warm, astringent nature of Shan Zhu Yu, preventing it from trapping Heat."
     },
     {
+      "id": 239,
+      "formula_id": 38,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen by draining dampness through gentle leaching, supporting Shan Yao's Spleen-tonifying action. Together with Ze Xie, it helps drain pathological dampness so that true Yin can be restored to its proper place."
     }
   ],
   "research": [

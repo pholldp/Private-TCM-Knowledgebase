@@ -24,94 +24,184 @@
   "dietary_advice": "The original text advises reducing food intake while using this formula, following the Nei Jing principle of 'restricting the patient's food' (夺其食). This prevents Stomach Heat from fueling the pathological Yang. Avoid spicy, greasy, fried, and rich foods, as these generate internal Heat and Phlegm. Alcohol is strictly prohibited as it inflames Liver Fire and produces Dampness. Strongly stimulating foods like lamb, chili, ginger, garlic, and coffee should also be avoided. After recovery, resume eating gradually with simple, easily digested foods like rice porridge (congee). Heavy or rich meals given too soon after recovery may cause relapse.",
   "ingredients": [
     {
+      "id": 1685,
+      "formula_id": 246,
       "herb_name": "Sheng Tie Luo",
       "english_name": "Iron filings",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Heavy in nature and cool in temperature, Sheng Tie Luo enters the Liver and Heart channels to powerfully anchor the disturbed spirit, subdue Liver Fire, and bring down rebellious Yang. Its weighty, descending quality is essential for controlling acute manic agitation."
     },
     {
+      "id": 1686,
+      "formula_id": 246,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "King",
-      "dosage": "0.5 - 1g"
+      "dosage": "0.5 - 1g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Enters the Heart to strongly sedate the spirit, clear Heart Heat, and calm fright. Works synergistically with Sheng Tie Luo to provide heavy, downward-anchoring force for the disturbed mind. Note: due to mercury toxicity concerns, modern practice often substitutes or omits this ingredient."
     },
     {
+      "id": 1687,
+      "formula_id": 246,
       "herb_name": "Dan Nan Xing",
       "english_name": "Bile Arisaema",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Clears Heat and resolves stubborn Phlegm, particularly Wind-Phlegm obstructing the Heart orifices. Its bitter, cooling quality directly targets the Phlegm component of the Phlegm-Fire pathology driving the mania."
     },
     {
+      "id": 1688,
+      "formula_id": 246,
       "herb_name": "Zhe Bei Mu",
       "english_name": "Zhejiang Fritillary bulb",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Clears Heat and transforms Phlegm in the upper body, assisting Dan Nan Xing in dissolving the Phlegm that clouds the Heart orifices and disrupts mental clarity."
     },
     {
+      "id": 1689,
+      "formula_id": 246,
       "herb_name": "Ju Hong",
       "english_name": "Tangerine Peel (red outer layer)",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries Dampness to resolve Phlegm. By promoting Qi flow and eliminating Phlegm at its source, it supports the Phlegm-clearing actions of Dan Nan Xing and Bei Mu."
     },
     {
+      "id": 1690,
+      "formula_id": 246,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Nourishes Yin and clears Heat from the Lungs and Kidneys. Together with Mai Men Dong, it protects Yin fluids that may be damaged by intense Fire, and prevents the heavy, descending mineral herbs from overly drying the body."
     },
     {
+      "id": 1691,
+      "formula_id": 246,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin and moistens dryness, clears Heat from the Heart and Stomach. Pairs with Tian Men Dong to nourish the Yin fluids consumed by intense Phlegm-Fire, ensuring the formula does not only attack the pathogen but also protects vital substances."
     },
     {
+      "id": 1692,
+      "formula_id": 246,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Nourishes Yin and clears floating deficiency Heat, enters the Kidneys to cool the Blood. Addresses the Yin-damaging effects of prolonged Fire and treats the confusion and inability to recognize people that accompanies severe mania."
     },
     {
+      "id": 1693,
+      "formula_id": 246,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heart Heat and disperses stagnation in the upper body. Its light, ascending nature helps open blockages in the upper Burner, complementing the heavy descending action of the King herbs."
     },
     {
+      "id": 1694,
+      "formula_id": 246,
       "herb_name": "Gou Teng",
       "english_name": "Gambir vine stems and hooks",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Calms Liver Wind, clears Liver Heat, and subdues rising Liver Yang. Addresses the agitation, headache, and anger that arise from Liver Fire flaring upward."
     },
     {
+      "id": 1695,
+      "formula_id": 246,
       "herb_name": "Dan Shen",
       "english_name": "Red sage root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Pericardium",
+      "role_description": "Clears Heat from the Blood, invigorates Blood circulation, and calms restlessness. Prevents Blood Stasis that can develop when Heat scorches the Blood, and directly settles the Heart spirit."
     },
     {
+      "id": 1696,
+      "formula_id": 246,
       "herb_name": "Yuan Zhi",
       "english_name": "Polygala root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Kidneys, Lungs",
+      "role_description": "Opens the Heart orifices, expels Phlegm, and calms the spirit. Acts as a bridge between the Phlegm-clearing and spirit-calming strategies of the formula, helping restore communication between Heart and Kidney."
     },
     {
+      "id": 1697,
+      "formula_id": 246,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Opens the Heart orifices and transforms turbid Phlegm, restoring mental clarity. Particularly effective at unblocking the sensory orifices clouded by Phlegm, working with Yuan Zhi to awaken the spirit."
     },
     {
+      "id": 1698,
+      "formula_id": 246,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness, addressing the root cause of Phlegm production. Calms the mind and supports the spirit-settling function of the formula."
     },
     {
+      "id": 1699,
+      "formula_id": 246,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the Heart spirit and promotes tranquillity. Paired with Fu Ling, it greatly enhances the formula's ability to settle anxiety and promote sleep, while also resolving Phlegm through its diuretic action."
     }
   ],
   "research": [],

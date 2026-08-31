@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, icy drinks, and greasy or heavy foods, as these can impede the formula's ability to move Blood and clear Heat. Spicy, hot, and stimulating foods (alcohol, chili, fried foods) should also be limited, as they can aggravate Heat. Light, easily digestible, warm foods are preferable. The classical instructions specify taking the formula before meals (先食温服), meaning on an empty stomach, to maximize its therapeutic action in the lower abdomen.",
   "ingredients": [
     {
+      "id": 24,
+      "formula_id": 5,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks up blood stasis and disperses blood accumulation in the lower abdomen. As the primary blood-moving herb, it directly addresses the core pathomechanism of static blood binding in the lower body."
     },
     {
+      "id": 25,
+      "formula_id": 5,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges heat downward and expels blood stasis through the bowels. Works together with Tao Ren to flush accumulated stagnant blood and heat from the lower body via the intestinal tract."
     },
     {
+      "id": 26,
+      "formula_id": 5,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms and unblocks the blood vessels, assisting the movement of stagnant blood. Its warm, pungent nature prevents the cold properties of Da Huang and Mang Xiao from congealing the blood further, ensuring the formula disperses rather than stagnates."
     },
     {
+      "id": 27,
+      "formula_id": 5,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardness and clears heat. Its salty, cold nature helps to dissolve hard accumulations of stagnant blood while assisting Da Huang in purging heat downward."
     },
     {
+      "id": 28,
+      "formula_id": 5,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the formula and moderates the harsh, drastic actions of Da Huang and Mang Xiao, protecting the Stomach and preventing excessive purging."
     }
   ],
   "research": [

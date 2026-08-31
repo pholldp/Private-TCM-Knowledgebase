@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid all cold, raw, chilled, or frozen foods and drinks, as these would worsen the Cold accumulation the formula is meant to expel. If purging is excessive after taking the pills, consume cold rice porridge (冷粥) to slow the purgation. If purging is insufficient, consume warm or hot rice porridge (热粥) to assist the formula's action. Greasy, heavy, and hard-to-digest foods should be avoided entirely. After the acute episode resolves, transition to warm, easily digestible foods like congee and simple soups to protect the Spleen and Stomach, which will have been taxed by the drastic purgation.",
   "ingredients": [
     {
+      "id": 1388,
+      "formula_id": 203,
       "herb_name": "Ba Dou",
       "english_name": "Croton seed",
       "role": "King",
-      "dosage": "0.3 - 1g (as processed Ba Dou Shuang/frost)"
+      "dosage": "0.3 - 1g (as processed Ba Dou Shuang/frost)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Large Intestine, Lungs",
+      "role_description": "The primary force in this formula. Ba Dou is acrid and hot with a powerful downward-purging action. It breaks open blockages in the intestines and forcefully expels cold accumulation, directly addressing the core pathology of cold congealing in the gut."
     },
     {
+      "id": 1389,
+      "formula_id": 203,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the middle burner and disperses internal Cold. Gan Jiang reinforces Ba Dou's warming and purging action while also protecting the Spleen Yang, ensuring the drastic purging does not collapse the digestive function."
     },
     {
+      "id": 1390,
+      "formula_id": 203,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Serves a dual purpose: its bitter, descending nature assists Ba Dou in flushing stagnant matter from the intestines, while its cold property restrains and counterbalances the fierce heat and toxicity of Ba Dou. Da Huang's cold nature is itself tempered by the hot Gan Jiang and Ba Dou, so it does not hinder the overall warming strategy."
     }
   ],
   "research": [],

@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid greasy, fatty, and fried foods, which generate more Dampness and Heat in the intestines. Avoid raw, cold foods (sushi, salads, ice cream, cold drinks) that can contract the intestines and trap pathogens inside. Spicy and heavily seasoned foods should also be limited, as they may aggravate intestinal Heat. Alcohol and dairy are strongly discouraged during acute dysenteric episodes. Favor bland, easily digestible foods such as plain rice porridge (congee), steamed vegetables, and mild soups. Small, frequent meals are preferable to large ones to reduce burden on the inflamed gut.",
   "ingredients": [
     {
+      "id": 2046,
+      "formula_id": 289,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Used at the highest dose in the formula, Bai Shao softens the Liver, harmonises Blood, and relieves the cramping abdominal pain that characterises dysentery. It is the key herb for treating dysentery-related pain."
     },
     {
+      "id": 2047,
+      "formula_id": 289,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin enters the Large Intestine to clear Heat and dry Dampness, addressing the root cause of the dysentery. Works with Huang Lian and Da Huang to clear intestinal Heat-toxin."
     },
     {
+      "id": 2048,
+      "formula_id": 289,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "5 - 15g"
+      "dosage": "5 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Strongly clears Heat and dries Dampness in the intestines. Together with Huang Qin, these two bitter-cold herbs eliminate the Damp-Heat that causes dysentery and bloody stool."
     },
     {
+      "id": 2049,
+      "formula_id": 289,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges Heat, dispels Blood stasis, and pushes accumulated toxins and stagnation out through the bowels. Embodies the classical principle of 'tong yin tong yong' (using purgation to treat diarrhea) by clearing the intestinal blockage that causes dysentery."
     },
     {
+      "id": 2050,
+      "formula_id": 289,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and moves Blood, supporting Bai Shao in harmonising Blood circulation. Combined with Da Huang, it helps dispel Blood stasis in the intestines, embodying the principle 'moving Blood makes pus and bloody stool resolve on its own'."
     },
     {
+      "id": 2051,
+      "formula_id": 289,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "5 - 6g"
+      "dosage": "5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Moves Qi and relieves stagnation in the intestines. Paired with Bing Lang, it addresses Qi stagnation to relieve tenesmus (the constant urge to defecate), embodying the principle 'regulating Qi makes tenesmus resolve on its own'."
     },
     {
+      "id": 2052,
+      "formula_id": 289,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "Assistant",
-      "dosage": "5 - 6g"
+      "dosage": "5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Promotes downward movement of Qi and guides out intestinal stagnation. Works with Mu Xiang to relieve Qi blockage and with Da Huang to expel accumulated waste and toxins from the intestines."
     },
     {
+      "id": 2053,
+      "formula_id": 289,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "2 - 5g"
+      "dosage": "2 - 5g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Used in a small dose as a 'reverse assistant' (fan zuo). Its warm, acrid nature serves three purposes: it helps Dang Gui and Bai Shao move Blood and warm the channels; it prevents the large amount of bitter-cold herbs from injuring the Stomach or causing the Damp-Heat to become 'frozen' and harder to expel; and it helps prevent nausea from the bitter-cold herbs."
     },
     {
+      "id": 2054,
+      "formula_id": 289,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "5 - 6g"
+      "dosage": "5 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonises all the herbs in the formula and protects the Stomach. Paired with Bai Shao, it enhances the ability to relax spasms and relieve abdominal pain, echoing the classical Shao Yao Gan Cao Tang combination."
     }
   ],
   "research": [

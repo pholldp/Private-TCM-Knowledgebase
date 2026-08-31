@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, greasy or fatty foods, and dairy products, as these can generate more Dampness and Phlegm, counteracting the formula's purpose. Avoid alcohol, which taxes the liver. Eat light, easily digestible, warm-cooked foods such as rice porridge or congee. Because the formula causes significant fluid expulsion, adequate hydration with warm water is important after taking it. The classical method specifies taking the formula in a single dose (顿服, dun fu), typically on an empty stomach to maximize its action.",
   "ingredients": [
     {
+      "id": 2991,
+      "formula_id": 396,
       "herb_name": "Gan Sui",
       "english_name": "Kansui root",
       "role": "King",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Kidneys, Large Intestine",
+      "role_description": "The chief drastic water-expelling herb. Gan Sui is bitter, cold, and powerfully cathartic, with a unique ability to penetrate the channels and interstices of the intestines to dislodge deeply lodged fluid accumulation (留饮). It directly addresses the core pathomechanism of stubborn retained fluid."
     },
     {
+      "id": 2992,
+      "formula_id": 396,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness, transforms phlegm-fluid, and directs rebellious Qi downward. Ban Xia assists Gan Sui by breaking up the congealed fluid mass and restoring the normal descending movement of Stomach Qi. It is pre-decocted separately to concentrate its drying power."
     },
     {
+      "id": 2993,
+      "formula_id": 396,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and Yin, relaxes spasm, and moderates urgency. Its sour-astringent nature restrains the harsh, draining action of Gan Sui, protecting the body's fluids and easing abdominal cramping that may result from the purgative herbs."
     },
     {
+      "id": 2994,
+      "formula_id": 396,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Qi and protects the Middle Burner. Critically, Gan Cao is pharmacologically antagonistic (相反) to Gan Sui per the classical Eighteen Incompatibilities. Here, the antagonism is deliberately harnessed: the clash between these two herbs intensifies the expulsion of deeply entrenched fluid that milder methods cannot dislodge. Its sweet flavor also slows Gan Sui's rapid cathartic effect, allowing fuller contact with the retained fluid."
     }
   ],
   "research": [

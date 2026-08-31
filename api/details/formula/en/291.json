@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid spicy, hot, fried, and greasy foods (such as chili peppers, garlic, ginger in excess, lamb, and deep-fried items), as these can generate internal Heat and counteract the formula's cooling action. Avoid alcohol and strong coffee, which further damage Yin fluids. Favor cooling, Yin-nourishing foods such as pears, lotus root, lily bulb (bai he), black sesame, mulberries, duck, tofu, and mung beans. Light, easily digestible soups and congees are beneficial. Since the formula's cool nature may burden weak digestion, those with borderline digestive function should eat warm (temperature), lightly cooked foods rather than cold or raw foods.",
   "ingredients": [
     {
+      "id": 2063,
+      "formula_id": 291,
       "herb_name": "Bie Jia",
       "english_name": "Turtle shell (Chinese soft-shell turtle carapace)",
       "role": "King",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Yin, subdues deficiency Heat, and penetrates to the bone level to clear deep-seated steaming Heat. As a shell from an aquatic creature, it enters the Yin and Blood layers to address the root cause of bone-steaming fever."
     },
     {
+      "id": 2064,
+      "formula_id": 291,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Clears Heat from the Shaoyang channel and vents pathogenic Wind outward. Works with Qin Jiao to drive deeply lodged Wind-Heat from the interior to the exterior for resolution."
     },
     {
+      "id": 2065,
+      "formula_id": 291,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Deputy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat, cools the Blood, and stops sweating. Specifically effective at clearing Heat that steams from the bones and muscles, working from the interior outward."
     },
     {
+      "id": 2066,
+      "formula_id": 291,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Deputy",
-      "dosage": "5 - 15g"
+      "dosage": "5 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Dispels Wind-Dampness, clears deficiency Heat, and resolves steaming bone fever. Paired with Chai Hu, it drives Wind pathogen outward while clearing Heat from the muscles and sinews."
     },
     {
+      "id": 2067,
+      "formula_id": 291,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "5 - 15g"
+      "dosage": "5 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Nourishes Yin and clears Heat, moistens dryness. Reinforces the Yin-nourishing action of Bie Jia while clearing Heat from the Lung and Kidney."
     },
     {
+      "id": 2068,
+      "formula_id": 291,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "5 - 15g"
+      "dosage": "5 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and harmonizes the Blood, addressing Blood deficiency that results from prolonged Heat consuming Yin fluids. Supports the body's restorative capacity and helps guide the other herbs into the Blood level."
     },
     {
+      "id": 2069,
+      "formula_id": 291,
       "herb_name": "Qing Hao",
       "english_name": "Sweet wormwood",
       "role": "Assistant",
-      "dosage": "5 leaves (fresh) or 6 - 12g (dried)"
+      "dosage": "5 leaves (fresh) or 6 - 12g (dried)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Clears deficiency Heat and resolves steaming from the muscle layer. Its aromatic, bitter-cold nature penetrates the Yin level to vent trapped Heat outward without damaging the Stomach. Added fresh during decoction."
     },
     {
+      "id": 2070,
+      "formula_id": 291,
       "herb_name": "Wu Mei",
       "english_name": "Mume fruit",
       "role": "Envoy",
-      "dosage": "1 piece or 3 - 6g"
+      "dosage": "1 piece or 3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Spleen, Lungs, Large Intestine",
+      "role_description": "Its sour, astringent nature restrains Yin fluids and stops sweating, preventing further loss of vital fluids. Guides the other herbs deep into the bone level to target steaming Heat."
     }
   ],
   "research": [],

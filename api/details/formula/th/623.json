@@ -25,28 +25,52 @@
   "dietary_advice": "หลีกเลี่ยงอาหารดิบ เย็น มันเยิ้ม และเผ็ดระหว่างการรักษา ชอบทานอาหารอุ่นๆ เบาๆ และย่อยง่าย เช่น โจ๊กและผักปรุงสุก",
   "ingredients": [
     {
+      "id": 4664,
+      "formula_id": 623,
       "herb_name": "Huang Lian",
       "english_name": "เหง้าคอปติส",
       "role": "ราชา (King)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, กระเพาะอาหาร, ลำไส้ใหญ่, ถุงน้ำดี, ม้าม",
+      "role_description": "ขจัดความร้อน ความชื้นแห้ง และขับสารพิษเพื่อหยุดโรคบิด มุ่งเป้าไปที่ Damp-Heat ที่ค้างอยู่ในลำไส้โดยตรง"
     },
     {
+      "id": 4665,
+      "formula_id": 623,
       "herb_name": "Gan Jiang",
       "english_name": "เหง้าขิงแห้ง",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ม้าม, ปอด, กระเพาะอาหาร",
+      "role_description": "อุ่นเครื่องกลางและขับไล่ความเย็น ปกป้องม้ามและกระเพาะอาหารจากการถูกทำลายโดยธรรมชาติความเย็นของ Huang Lian ขณะเดียวกันก็จัดการกับภาวะพร่องของม้ามหยาง"
     },
     {
+      "id": 4666,
+      "formula_id": 623,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "บำรุงเลือด เติมพลังให้เลือด และควบคุมประจำเดือนเพื่อซ่อมแซมความเสียหายของเลือดที่เกิดจากโรคบิดเรื้อรัง และบรรเทาอาการปวดท้อง"
     },
     {
+      "id": 4667,
+      "formula_id": 623,
       "herb_name": "E Jiao",
       "english_name": "เจลาตินซ่อนลา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, ตับ, ไต",
+      "role_description": "บำรุงหยิน เสริมสร้างเลือด ชุ่มชื้นความแห้งกร้าน และหยุดเลือด ช่วยซ่อมแซมความเสียหายของหยินและเลือดต่อเยื่อเมือกในลำไส้ และช่วยบรรเทาอาการเลือดออก"
     }
   ],
   "research": [],

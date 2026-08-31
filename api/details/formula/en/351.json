@@ -24,100 +24,196 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and excessive dairy products while taking this formula, as these can generate Dampness and impair Spleen function, counteracting the formula's tonifying effects. Greasy and fried foods should also be limited. During allergy season, reduce intake of shellfish, fermented foods, and highly processed foods that may increase the body's sensitivity. Warm, easily digestible foods are encouraged: congee with Shan Yao (Chinese yam) and Yi Yi Ren (Job's tears), ginger tea, and lightly cooked vegetables support the Spleen's digestive function and complement the formula's therapeutic goals.",
   "ingredients": [
     {
+      "id": 2577,
+      "formula_id": 351,
       "herb_name": "Dang Shen",
       "english_name": "Codonopsis root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Spleen and Lung Qi as the primary constitutional support for the formula, providing a gentle, sustained replenishment of the Qi foundation that is weakened in chronic allergic conditions."
     },
     {
+      "id": 2578,
+      "formula_id": 351,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Lung Qi and strengthens Wei Qi (Defensive Qi) to secure the body's exterior, preventing Wind from penetrating the body and triggering allergic reactions."
     },
     {
+      "id": 2579,
+      "formula_id": 351,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens Spleen Qi and dries Dampness, supporting the King herbs in building the Qi foundation while addressing the Dampness that underlies watery nasal discharge."
     },
     {
+      "id": 2580,
+      "formula_id": 351,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies Spleen, Lung, and Kidney simultaneously, addressing the deeper deficiency across all three organ systems that underlies chronic allergic rhinitis."
     },
     {
+      "id": 2581,
+      "formula_id": 351,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Expels Wind and guides Defensive Qi to the body's surface. Works synergistically with Huang Qi and Bai Zhu to stabilize the exterior, mirroring the Yu Ping Feng San strategy within this formula."
     },
     {
+      "id": 2582,
+      "formula_id": 351,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind from the exterior and head region, relieving nasal itching and sneezing. Pairs with Fang Feng to expel Wind pathogens from the nasal passages."
     },
     {
+      "id": 2583,
+      "formula_id": 351,
       "herb_name": "Xin Yi Hua",
       "english_name": "Magnolia flower bud",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The key aromatic herb for opening blocked nasal passages. Its warm, ascending nature directly targets nasal congestion and restores airflow through the nose."
     },
     {
+      "id": 2584,
+      "formula_id": 351,
       "herb_name": "Chan Tui",
       "english_name": "Cicada Slough",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind and relieves itching, with a particular ability to reduce allergic-type reactions. Its light, floating nature directs its action upward to the nose and eyes."
     },
     {
+      "id": 2585,
+      "formula_id": 351,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Strengthens the Spleen and drains Dampness, helping to reduce the watery nasal discharge that results from the Spleen's inability to properly transform and transport fluids."
     },
     {
+      "id": 2586,
+      "formula_id": 351,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Dampness and promotes urination, directing excess water downward and away from the nasal passages to reduce watery nasal discharge."
     },
     {
+      "id": 2587,
+      "formula_id": 351,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes Lung Qi to stop excessive nasal discharge and sneezing. Its sour and astringent nature counterbalances the dispersing actions of the Wind-expelling herbs, preventing excessive loss of Qi."
     },
     {
+      "id": 2588,
+      "formula_id": 351,
       "herb_name": "He Zi",
       "english_name": "Chebulic myrobalan fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Astringes the Lung and descends Qi, supporting Wu Wei Zi in controlling excessive nasal discharge. Its astringent action helps consolidate Lung Qi in chronic conditions."
     },
     {
+      "id": 2589,
+      "formula_id": 351,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses Lung Qi upward, directing the formula's therapeutic action to the upper body and nasal region. Also serves as a guide herb for the formula."
     },
     {
+      "id": 2590,
+      "formula_id": 351,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Warms the Lung and disperses Cold, powerfully opens the nasal passages. Its acrid and warm nature penetrates deeply to relieve stubborn nasal congestion."
     },
     {
+      "id": 2591,
+      "formula_id": 351,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat from the head and clears the nasal orifices. Its cool, light nature moderates the warming herbs in the formula and directs the formula's action to the head and nose."
     },
     {
+      "id": 2592,
+      "formula_id": 351,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and supports Spleen Qi. Moderates the dispersing and draining actions to prevent them from depleting Qi further."
     }
   ],
   "research": [],

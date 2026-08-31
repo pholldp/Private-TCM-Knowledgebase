@@ -24,76 +24,148 @@
   "dietary_advice": "Avoid stimulating foods and beverages in the evening, including coffee, strong tea, alcohol, chocolate, and spicy dishes, as these generate Heat and agitate the Shen. Rich, greasy, or heavy meals eaten late at night should be minimized, as they burden the Stomach and can worsen insomnia (the classical principle that \"when the Stomach is in disharmony, sleep is disturbed\"). Favor easily digestible, mildly nourishing foods such as congee, cooked vegetables, lotus seed soup, longan fruit, and millet porridge. Foods that naturally support sleep in TCM tradition include lily bulb (bai he), lotus seed, red dates, and mulberries. Avoid cold and raw foods if digestion is weak.",
   "ingredients": [
     {
+      "id": 2719,
+      "formula_id": 364,
       "herb_name": "Ye Jiao Teng",
       "english_name": "Fleece-flower stem",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "The principal herb for calming the spirit and promoting sleep. Ye Jiao Teng nourishes the Heart, calms the mind, and promotes Blood circulation through the channels. At the highest dose in the formula, it directly addresses the core problem of restless spirit (Shen) disturbance due to Blood and Yin deficiency."
     },
     {
+      "id": 2720,
+      "formula_id": 364,
       "herb_name": "Suan Zao Ren",
       "english_name": "Sour jujube seed",
       "role": "King",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "A primary spirit-calming herb that nourishes Heart and Liver Blood, quiets the spirit, and helps generate Yin fluids. Dry-frying enhances its sleep-promoting action. Together with Ye Jiao Teng, it forms the core pairing that addresses the Blood deficiency underlying the insomnia."
     },
     {
+      "id": 2721,
+      "formula_id": 364,
       "herb_name": "He Huan Hua",
       "english_name": "Albizia flower",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Calms the spirit and resolves constraint. He Huan Hua is particularly effective for insomnia accompanied by emotional depression or irritability. It regulates Qi and relieves mental tension, supporting the King herbs' calming effect."
     },
     {
+      "id": 2722,
+      "formula_id": 364,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Heart and Stomach Yin, clears Heat, and generates fluids. Addresses the Yin deficiency that gives rise to deficiency Heat, which in turn disturbs the spirit and causes restless sleep."
     },
     {
+      "id": 2723,
+      "formula_id": 364,
       "herb_name": "Shi Hu",
       "english_name": "Dendrobium stem",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Stomach, Kidneys",
+      "role_description": "Nourishes Stomach and Kidney Yin and generates fluids. Works with Mai Men Dong to replenish the body's Yin reserves, helping to clear the deficiency Heat that disturbs sleep."
     },
     {
+      "id": 2724,
+      "formula_id": 364,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the spirit and quiets the Heart. Fu Shen (Poria wrapped around the pine root) is specifically selected over regular Fu Ling for its superior spirit-calming properties. It also mildly drains Dampness and strengthens the Spleen."
     },
     {
+      "id": 2725,
+      "formula_id": 364,
       "herb_name": "Long Chi",
       "english_name": "Dragon Tooth Fossil",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "A heavy mineral substance that settles and calms the spirit through its heavy, descending nature. Especially useful for anxiety, palpitations, and restlessness that accompany insomnia."
     },
     {
+      "id": 2726,
+      "formula_id": 364,
       "herb_name": "Zhen Zhu Mu",
       "english_name": "Mother-of-Pearl Shell",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "A heavy shell substance that anchors the spirit, subdues Liver Yang, and clears Liver Heat. Its heavy descending nature helps the restless spirit settle, especially when insomnia involves headache, dizziness, and head distension."
     },
     {
+      "id": 2727,
+      "formula_id": 364,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver Blood, softens the Liver, and relieves constraint. Helps calm Liver Yang rising and ease emotional tension that contributes to sleeplessness."
     },
     {
+      "id": 2728,
+      "formula_id": 364,
       "herb_name": "Xia Ku Cao",
       "english_name": "Self-heal spike",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder",
+      "role_description": "Clears Liver Fire and dissipates nodules. It specifically targets Liver Heat and ascending Liver Yang that cause headache, head distension, and irritability, contributing to insomnia."
     },
     {
+      "id": 2729,
+      "formula_id": 364,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Envoy",
-      "dosage": "1g"
+      "dosage": "1g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "A heavy mineral that enters the Heart channel to sedate the spirit and clear Heart Heat. Used in small dose to direct the formula's calming action to the Heart and enhance the overall sedative effect. Due to mercury content, it is used only in small amounts and for short courses."
     },
     {
+      "id": 2730,
+      "formula_id": 364,
       "herb_name": "Hu Po",
       "english_name": "Amber",
       "role": "Envoy",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Liver, Urinary Bladder",
+      "role_description": "Calms the spirit, invigorates Blood, and promotes urination. Its heavy descending nature helps anchor the restless spirit and complements Zhu Sha in settling the Heart. Also assists in resolving mild Blood stasis that can contribute to insomnia."
     }
   ],
   "research": [],

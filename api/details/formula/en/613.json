@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid greasy, fatty, spicy, and fried foods. Eliminate high-cholesterol foods like egg yolks, organ meats, and full-fat dairy. Avoid alcohol. Consume a light, bland diet with plenty of vegetables, whole grains, and lean proteins. Eat small, frequent meals to avoid gallbladder stimulation. Drink adequate water to aid stone passage.",
   "ingredients": [
     {
+      "id": 4604,
+      "formula_id": 613,
       "herb_name": "Jin Qian Cao",
       "english_name": "Gold Coin Grass",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys, Urinary Bladder",
+      "role_description": "Clears Heat, drains Dampness, promotes urination, and specifically dissolves and expels biliary and urinary stones. It is the main stone-expelling herb."
     },
     {
+      "id": 4605,
+      "formula_id": 613,
       "herb_name": "Yin Chen",
       "english_name": "Virgate Wormwood Herb",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Liver, Gallbladder",
+      "role_description": "Clears Damp-Heat from the Liver and Gallbladder, promotes bile flow, and reduces jaundice. It complements Jin Qian Cao's stone-expelling action with its bile-promoting and jaundice-clearing effects."
     },
     {
+      "id": 4606,
+      "formula_id": 613,
       "herb_name": "Yu Jin",
       "english_name": "Turmeric tuber",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs",
+      "role_description": "Invigorates Blood, moves Qi, cools Blood, and promotes bile flow. It relieves pain by unblocking stagnant Qi and Blood in the gallbladder region."
     },
     {
+      "id": 4607,
+      "formula_id": 613,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Regulates Qi, reduces distension, and helps guide turbid Dampness downward through the bowels. It alleviates epigastric and hypochondriac fullness."
     },
     {
+      "id": 4608,
+      "formula_id": 613,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Promotes the movement of Qi, especially in the intestines, and stops pain. It relieves the cramping pain caused by Qi stagnation."
     },
     {
+      "id": 4609,
+      "formula_id": 613,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Raw rhubarb drains Heat and Dampness by promoting bowel movement, clears Heat toxins, and helps expel stones by driving downward. Added near the end of decoction to preserve its purgative action."
     }
   ],
   "research": [],

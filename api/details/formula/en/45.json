@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, cold drinks, ice cream, raw fruit in excess) as these counteract the formula's warming action and may worsen Fluid accumulation. Also avoid greasy, rich, and dairy-heavy foods, which generate Dampness and Phlegm. Reduce intake of sweet, sticky foods (cakes, candies) that burden the Spleen. Favor warm, cooked meals, lightly seasoned foods, and warm beverages. Ginger tea, congee with a small amount of dried ginger, and well-cooked root vegetables are supportive. Avoid alcohol, which can generate Dampness-Heat and interfere with the formula's actions.",
   "ingredients": [
     {
+      "id": 282,
+      "formula_id": 45,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the Lungs and disperses Cold to transform accumulated thin fluids (yin 饮). Simultaneously warms Spleen Yang to resolve Dampness and address the root cause of fluid accumulation. As the hottest and most pungent herb in the formula, it drives the core warming and fluid-transforming action."
     },
     {
+      "id": 283,
+      "formula_id": 45,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "With its penetrating pungent warmth, Xi Xin warms the Lungs and scatters Cold, powerfully assisting Gan Jiang in dispersing the congealed thin fluids. Its aromatic quality opens up clumped Qi in the chest, helping restore normal Lung dissemination."
     },
     {
+      "id": 284,
+      "formula_id": 45,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes urination to leach out Dampness, addressing both the symptoms and the source of fluid accumulation. By draining fluids downward through the urinary tract and restoring Spleen transport function, it prevents the re-formation of pathological fluids."
     },
     {
+      "id": 285,
+      "formula_id": 45,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Restrains Lung Qi leakage and stops coughing through its sour astringent nature. Crucially counterbalances the dispersing actions of Gan Jiang and Xi Xin, preventing them from over-scattering and damaging Lung Qi. Creates a dynamic balance of dispersing and restraining (one warms, one scatters, one constrains) that resolves pathology without injuring the body."
     },
     {
+      "id": 286,
+      "formula_id": 45,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the Middle Burner, tonifies Spleen Qi, and moderates the actions of the other herbs. Ensures the warming and dispersing ingredients work together smoothly without harshness."
     }
   ],
   "research": [

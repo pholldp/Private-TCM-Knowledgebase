@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, Spleen-nourishing foods such as congee (rice porridge), cooked root vegetables, warm soups, and well-cooked grains. Foods that support Blood production are also helpful: red dates, black sesame, and small amounts of bone broth.\nAvoid cold and raw foods (salads, iced drinks, raw fruit in excess), as these can further weaken the Spleen's function of containing Blood. Greasy, fried, and overly rich foods should also be minimized as they impair Spleen transportation. Avoid spicy, hot foods and alcohol, which can aggravate bleeding by moving Blood and generating Heat. Strongly astringent foods like strong black tea may compound the formula's binding effect and cause digestive discomfort.",
   "ingredients": [
     {
+      "id": 3010,
+      "formula_id": 399,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Heavily dosed to powerfully tonify Spleen Qi, strengthening the Spleen's ability to govern and contain the Blood. As the Spleen controls the Chong vessel, restoring Spleen function is the primary strategy for stopping the flooding."
     },
     {
+      "id": 3011,
+      "formula_id": 399,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Strongly supplements Qi and raises the Yang, reinforcing the Spleen's capacity to hold Blood within the vessels. Zhang Xichun noted Huang Qi is especially effective for women with Qi deficiency causing downward collapse and flooding."
     },
     {
+      "id": 3012,
+      "formula_id": 399,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Supplements the Liver and Kidneys while powerfully binding and astringing. Its sour-warm nature restrains the leaking essence and secures the Chong and Ren vessels, directly addressing the Kidney's failure to store and contain."
     },
     {
+      "id": 3013,
+      "formula_id": 399,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Its sour flavor astringes Yin and restrains Blood, while nourishing the Liver and supplementing the Blood that has been lost through heavy bleeding. Assists Shan Zhu Yu in consolidating the Liver-Kidney axis."
     },
     {
+      "id": 3014,
+      "formula_id": 399,
       "herb_name": "Long Gu",
       "english_name": "Dragon Bone (fossilised mammal bone)",
       "role": "Assistant",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Heavily astringent and binding, it stabilizes the Chong vessel and secures leakage. Calcining enhances its astringent properties for more powerful hemostatic action in acute flooding."
     },
     {
+      "id": 3015,
+      "formula_id": 399,
       "herb_name": "Mu Li Ke",
       "english_name": "Oyster shell",
       "role": "Assistant",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Works synergistically with Long Gu to astringe and bind, securing the Chong vessel and strengthening the original Qi of the Lower Burner. Calcining maximizes its hemostatic effect."
     },
     {
+      "id": 3016,
+      "formula_id": 399,
       "herb_name": "Hai Piao Shao",
       "english_name": "Cuttlefish bone",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Warm",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Kidneys, Liver",
+      "role_description": "Astringes and secures the Lower Burner, stopping bleeding while also having a mild Blood-invigorating action that prevents stasis from forming as the bleeding is stopped."
     },
     {
+      "id": 3017,
+      "formula_id": 399,
       "herb_name": "Zong Lu",
       "english_name": "Palm fiber (Windmill palm petiole)",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Lungs, Large Intestine",
+      "role_description": "Carbonized to enhance its astringent hemostatic properties. Specifically effective at stopping uterine bleeding through direct astringent action."
     },
     {
+      "id": 3018,
+      "formula_id": 399,
       "herb_name": "Wu Bei Zi",
       "english_name": "Chinese Gall",
       "role": "Assistant",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Cold",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Large Intestine, Kidneys",
+      "role_description": "Strongly astringent and sour, it powerfully binds and stops bleeding. Used in very small dose, ground to fine powder and taken with the strained decoction rather than cooked in the pot."
     },
     {
+      "id": 3019,
+      "formula_id": 399,
       "herb_name": "Qian Cao",
       "english_name": "Indian Madder root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "Stops bleeding while simultaneously invigorating Blood circulation. This crucial dual action prevents the many astringent ingredients from causing Blood stasis, ensuring the bleeding stops without trapping old Blood."
     }
   ],
   "research": [],

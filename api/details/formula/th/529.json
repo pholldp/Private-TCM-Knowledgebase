@@ -25,184 +25,364 @@
   "dietary_advice": "หลีกเลี่ยงอาหารเย็นและอาหารดิบ (สลัด ไอศกรีม เครื่องดื่มเย็นๆ อาหารทะเลดิบ) ในระหว่างการรักษา เนื่องจากอาหารเหล่านี้อาจทำให้การทำงานของระบบย่อยอาหารของม้ามบกพร่อง และขัดขวางผลกระทบจากภาวะอุ่นและปรับสภาพของสูตร\nหลีกเลี่ยงอาหารมันๆ ของทอด และอาหารแปรรูปหนักๆ ซึ่งทำให้เกิดความชื้นและขัดขวางการไหลของชี่\nหลีกเลี่ยงอาหารรสเผ็ดมากเกินไป ซึ่งอาจทำให้องค์ประกอบความร้อนใดๆ ที่ซ่อนอยู่นั้นรุนแรงขึ้น\nชอบอาหารที่อุ่น ย่อยง่าย และมีคุณค่าทางอาหาร เช่น ผักปรุงสุก ซุป โจ๊ก โปรตีนไร้ไขมัน และธัญพืชไม่ขัดสี อาหารบำรุงเลือด เช่น อินทผลัมแดง โกจิเบอร์รี่ ผักใบเขียวเข้ม และงาดำ เป็นส่วนเสริม\nหลีกเลี่ยงชาและหัวไชเท้าที่เข้มข้น (หัวผักกาดขาว) ซึ่งเชื่อกันว่าสามารถต่อต้านผลกระทบของสูตรที่มีส่วนผสมของโสมได้\nดื่มแอลกอฮอล์ในระดับปานกลาง เนื่องจากแอลกอฮอล์ทำให้เกิดความร้อนและความชื้น",
   "ingredients": [
     {
+      "id": 4055,
+      "formula_id": 529,
       "herb_name": "Ren Shen",
       "english_name": "รากโสม",
       "role": "ราชา (King)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, ปอด, หัวใจ, ไต",
+      "role_description": "เสริมพลังชี่ดั้งเดิมอย่างมีประสิทธิภาพ เสริมสร้างม้าม และสนับสนุนการสร้างเลือด ในฐานะที่เป็นสมุนไพรกษัตริย์หลัก จะช่วยแก้ปัญหาการขาดรากของ Qi ซึ่งเป็นสาเหตุของการมีประจำเดือนและความเหนื่อยล้าไม่สม่ำเสมอ"
     },
     {
+      "id": 4056,
+      "formula_id": 529,
       "herb_name": "Lu Rong",
       "english_name": "เขากวางกำมะหยี่",
       "role": "ราชา (King)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ไต, ตับ",
+      "role_description": "เติมแก่น (จิง) อุ่นยางไต เสริมสร้างหลอดเลือดช่องและเหริน และบำรุงเลือด แก้ไขปัญหาการขาดไตซึ่งมีส่วนทำให้ประจำเดือนมาผิดปกติและมีบุตรยาก"
     },
     {
+      "id": 4057,
+      "formula_id": 529,
       "herb_name": "Shu Di Huang",
       "english_name": "เตรียมราก Rehmannia",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงเลือดและหยินอย่างเข้มข้น เติมเอสเซ้นส์ และเสริมตับและไต ทำงานร่วมกับสมุนไพรของราชาเพื่อสร้างรากฐานของเลือด"
     },
     {
+      "id": 4058,
+      "formula_id": 529,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "บำรุงและเติมพลังให้เลือด ควบคุมการมีประจำเดือน และบรรเทาอาการปวด สมุนไพรควบคุมเลือดที่สำคัญที่สุดในด้านนรีเวชวิทยา ทั้งบำรุงและเคลื่อนย้ายเลือดเพื่อป้องกันไม่ให้เกิดภาวะชะงักงันท่ามกลางการฟอกสี"
     },
     {
+      "id": 4059,
+      "formula_id": 529,
       "herb_name": "Bai Shao",
       "english_name": "รากดอกโบตั๋นสีขาว",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ตับ, ม้าม",
+      "role_description": "บำรุงเลือด ทำให้ตับนิ่ม บรรเทาอาการปวด และรักษาหยิน จับคู่กับดังกุ้ยเพื่อบำรุงเลือดตับ และไชหูเพื่อปลอบประโลมตับโดยไม่ทำให้หยินหมดสิ้น"
     },
     {
+      "id": 4060,
+      "formula_id": 529,
       "herb_name": "E Jiao",
       "english_name": "เจลาตินซ่อนลา",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, ตับ, ไต",
+      "role_description": "บำรุงเลือด หยุดเลือด และบำรุงหยิน สำคัญอย่างยิ่งสำหรับการรักษาทั้งภาวะขาดเลือดและเลือดออกผิดปกติในมดลูก (崩漏)"
     },
     {
+      "id": 4061,
+      "formula_id": 529,
       "herb_name": "Bai Zhu",
       "english_name": "เหง้า Atractylodes สีขาว",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร",
+      "role_description": "เสริมสร้างม้ามและเพิ่มพลัง Qi ทำให้ความชื้นแห้ง ช่วยให้ม้ามสามารถสร้างชี่และเลือดจากอาหารได้อย่างมีประสิทธิภาพ โดยสนับสนุนสมุนไพรปรับสภาพของสูตร"
     },
     {
+      "id": 4062,
+      "formula_id": 529,
       "herb_name": "Lu Jiao Shuang (Degelatinated Deer Antler)",
       "english_name": "",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "ช่วยให้ไตอุ่น เสริมหยาง เสริมสร้างหลอดเลือดช่องและเหริน และห้ามเลือด เสริมการทำงานของไตอุ่นของ Lu Rong ในขณะเดียวกันก็ช่วยควบคุมเลือดออกอย่างฝาด"
     },
     {
+      "id": 4063,
+      "formula_id": 529,
       "herb_name": "Gou Qi Zi",
       "english_name": "ผลไม้ Wolfberry จีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ปอด",
+      "role_description": "บำรุงตับและไต หยิน เสริมเลือดและเอสเซ้นส์ ให้การบำรุงหยินที่อ่อนโยนเพื่อปรับสมดุลธรรมชาติอันอบอุ่นของ Lu Rong และ Rou Gui"
     },
     {
+      "id": 4064,
+      "formula_id": 529,
       "herb_name": "Du Zhong",
       "english_name": "เปลือกไม้ยูคอมเมีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงตับและไต เสริมสร้างเอ็นและกระดูกให้แข็งแรง และทำให้ทารกในครรภ์สงบ รองรับ Kidney Yang และเสริมความแข็งแรงให้กับหลังส่วนล่าง"
     },
     {
+      "id": 4065,
+      "formula_id": 529,
       "herb_name": "Xi Hong Hua",
       "english_name": "หญ้าฝรั่น",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ",
+      "role_description": "บำรุงโลหิต ขจัดภาวะชะงักงัน และแก้ประจำเดือน สมุนไพรเคลื่อนย้ายเลือดอันล้ำค่าที่ช่วยให้การไหลเวียนของเลือดในมดลูกเป็นไปอย่างราบรื่น และป้องกันไม่ให้สมุนไพรปรับสภาพสร้างความเมื่อยล้า"
     },
     {
+      "id": 4066,
+      "formula_id": 529,
       "herb_name": "San Qi",
       "english_name": "รากโนโตโสม",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, กระเพาะอาหาร",
+      "role_description": "โดยเฉพาะอย่างยิ่ง ทั้งหยุดเลือดและกระจายภาวะชะงักงันของเลือดโดยไม่สร้างความเมื่อยล้าใหม่ มีความสำคัญอย่างยิ่งต่อการรักษาภาวะเลือดออกในมดลูกในขณะเดียวกันก็ช่วยแก้ปัญหาภาวะชะงักงันที่มีอยู่ด้วย"
     },
     {
+      "id": 4067,
+      "formula_id": 529,
       "herb_name": "Hong Hua",
       "english_name": "ดอกคำฝอย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ตับ",
+      "role_description": "บำรุงโลหิตและปลดบล็อกการมีประจำเดือน ช่วย Xi Hong Hua ในการเคลื่อนย้ายภาวะหยุดนิ่งของเลือด โดยเฉพาะในช่องท้องส่วนล่าง"
     },
     {
+      "id": 4068,
+      "formula_id": 529,
       "herb_name": "Chuan Xiong",
       "english_name": "เหง้ารักเสฉวน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, ถุงน้ำดี, เยื่อหุ้มหัวใจ",
+      "role_description": "เติมพลังเลือด ส่งเสริมการเคลื่อนไหวของ Qi และบรรเทาอาการปวด รู้จักกันในชื่อ 'สมุนไพรชี่ภายในสมุนไพรเลือด' ช่วยให้มั่นใจได้ว่าสมุนไพรบำรุงเลือดจะไม่สร้างความเมื่อยล้า"
     },
     {
+      "id": 4069,
+      "formula_id": 529,
       "herb_name": "Ji Xue Teng",
       "english_name": "ก้าน Spatholobus",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ, ไต",
+      "role_description": "ทั้งบำรุงและเติมพลังให้เลือด ผ่อนคลายช่อง และอุ่นหลังส่วนล่างและเข่า เชื่อมโยงการปรับสีและการเคลื่อนย้ายเลือดของสูตร"
     },
     {
+      "id": 4070,
+      "formula_id": 529,
       "herb_name": "Yi Mu Cao",
       "english_name": "motherwort จีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, กระเพาะปัสสาวะ",
+      "role_description": "บำรุงเลือดและควบคุมประจำเดือน ส่งเสริมการปัสสาวะ สมุนไพรทางนรีเวชคลาสสิกที่มุ่งเป้าไปที่ภาวะเลือดหยุดนิ่งในมดลูกโดยตรง"
     },
     {
+      "id": 4071,
+      "formula_id": 529,
       "herb_name": "Chong Wei Zi",
       "english_name": "ผลไม้มาเธอร์เวิร์ต",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "เยื่อหุ้มหัวใจ, ตับ",
+      "role_description": "บำรุงเลือดและควบคุมประจำเดือน บำรุงตับ เสริม Yi Mu Cao โดยให้ความสำคัญกับตับและดวงตามากขึ้น"
     },
     {
+      "id": 4072,
+      "formula_id": 529,
       "herb_name": "Yan Hu Suo",
       "english_name": "เหง้าคอรีดาลิส",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "เติมพลังให้เลือดและบรรเทาอาการปวดอย่างทรงพลัง สมุนไพรแก้ปวดที่มีประสิทธิภาพมากที่สุดชนิดหนึ่งใน Materia Medica มุ่งเป้าไปที่อาการปวดประจำเดือนโดยตรง"
     },
     {
+      "id": 4073,
+      "formula_id": 529,
       "herb_name": "Wu Ling Zhi",
       "english_name": "อุจจาระกระรอกบิน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, ม้าม",
+      "role_description": "ขจัดภาวะหยุดนิ่งของเลือดและบรรเทาอาการปวด เมื่อจับคู่กับ Hong Shen ในสูตรนี้ ทั้งสองจะสร้างการทำงานร่วมกันโดยที่การปรับโทนและการแก้ปัญหาภาวะหยุดนิ่งเกิดขึ้นพร้อมกันโดยไม่มีความขัดแย้ง"
     },
     {
+      "id": 4074,
+      "formula_id": 529,
       "herb_name": "Chai Hu",
       "english_name": "รากบูพลูรัม",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, ถุงน้ำดี, ปอด",
+      "role_description": "บำรุงตับและแก้ไขอาการซึมเศร้า แก้ไขปัญหาความเมื่อยล้าของพลังชี่ตับซึ่งเป็นปัจจัยร่วมที่ทำให้เกิดความผิดปกติของประจำเดือนและความทุกข์ทางอารมณ์"
     },
     {
+      "id": 4075,
+      "formula_id": 529,
       "herb_name": "Xiang Fu",
       "english_name": "เหง้ากระชายอ่อนนุช",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ม้าม, ซานเจียว (ซานเจียว/Triple Burner)",
+      "role_description": "กระจายและควบคุมชี่ตับ ควบคุมการมีประจำเดือน และบรรเทาอาการปวด ได้รับการยกย่องว่าเป็นสมุนไพรควบคุมชี่ชั้นนำในด้านนรีเวชวิทยา ช่วยให้ชี่ไหลเวียนในช่องท้องส่วนล่างได้อย่างราบรื่น"
     },
     {
+      "id": 4076,
+      "formula_id": 529,
       "herb_name": "Wu Yao",
       "english_name": "รากลินเดอรา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, ม้าม, ไต, กระเพาะปัสสาวะ",
+      "role_description": "อุ่นไต เคลื่อนชี่ และกระจายความเย็น แก้ปัญหาความเย็นในช่องท้องส่วนล่างและ Qi ซบเซา โดยเฉพาะในช่องมดลูกและกระเพาะปัสสาวะ"
     },
     {
+      "id": 4077,
+      "formula_id": 529,
       "herb_name": "Huang Qin",
       "english_name": "ราก Baical Skullcap",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, ถุงน้ำดี, ม้าม, ลำไส้ใหญ่, ลำไส้เล็ก, หัวใจ, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อนและทำให้ความชื้นแห้ง ทำหน้าที่เป็นผู้ช่วยควบคุมเพื่อป้องกันไม่ให้ส่วนผสมที่อุ่นและปรับสภาพไม่ให้สร้างความร้อนมากเกินไปหรือความร้อนของทารกในครรภ์ และช่วยให้เลือดเย็นลงเพื่อหยุดเลือด"
     },
     {
+      "id": 4078,
+      "formula_id": 529,
       "herb_name": "Fu Ling",
       "english_name": "โพเรีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, ไต",
+      "role_description": "เสริมสร้างม้ามและระบายความชื้น ทำให้จิตใจสงบ สนับสนุน Bai Zhu ในการรักษาม้ามและช่วยป้องกันไม่ให้สมุนไพรปรับสภาพที่อุดมไปด้วยโคลนจากการสร้างความชื้น"
     },
     {
+      "id": 4079,
+      "formula_id": 529,
       "herb_name": "Chuan Niu Xi",
       "english_name": "รากไซธูลา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "เติมพลังให้เลือด ขับเลือดลง และทำให้หลังส่วนล่างและเข่าแข็งแรงขึ้น ช่วยแนะนำผลกระทบของสูตรต่อร่างกายส่วนล่างและบริเวณอุ้งเชิงกราน"
     },
     {
+      "id": 4080,
+      "formula_id": 529,
       "herb_name": "Gan Jiang",
       "english_name": "เหง้าขิงแห้ง",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ม้าม, ปอด, กระเพาะอาหาร",
+      "role_description": "อุ่นเครื่องเผาไหม้กลาง กระจายความเย็น และฟื้นฟู Yang แก้ปัญหาภาวะมดลูกเย็น (寒凝胞宫) ที่ทำให้เกิดอาการปวดประจำเดือนและการแข็งตัวของเลือด"
     },
     {
+      "id": 4081,
+      "formula_id": 529,
       "herb_name": "Rou Gui",
       "english_name": "เปลือกอบเชย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม, ไต",
+      "role_description": "อุ่นและบำรุงไตหยาง ทำให้ช่องลมอุ่นขึ้น และกระจายความเย็น ช่วยให้มดลูกอบอุ่นอย่างมีประสิทธิภาพและช่วยให้สมุนไพรที่ไหลเวียนของเลือดโดยใช้ความอบอุ่นเพื่อส่งเสริมการไหลเวียน"
     },
     {
+      "id": 4082,
+      "formula_id": 529,
       "herb_name": "Xi Xin",
       "english_name": "ขิงป่า",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ปอด, ไต",
+      "role_description": "กระจายความเย็น เพิ่มความอบอุ่นภายใน และเปิดช่องที่กีดขวาง ธรรมชาติที่ฉุนเฉียวและทะลุทะลวงช่วยขับความเย็นที่ฝังลึกออกจากมดลูกและช่องทางต่างๆ"
     },
     {
+      "id": 4083,
+      "formula_id": 529,
       "herb_name": "Sha Ren",
       "english_name": "ผลไม้อะโมมัม",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ไต",
+      "role_description": "เปลี่ยนความชุ่มชื้น เคลื่อนชี่ไปในเครื่องเผาผลาญระดับกลาง และทำให้กระเพาะอาหารแข็งแรงขึ้น ป้องกันไม่ให้สมุนไพรปรับสภาพที่อุดมไปด้วยครอบงำระบบย่อยอาหาร ทำให้มั่นใจในการดูดซึมสารอาหารของสูตร"
     },
     {
+      "id": 4084,
+      "formula_id": 529,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "Varies by proprietary formulation"
+      "dosage": "Varies by proprietary formulation",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ปรับสมดุลของสมุนไพรทั้งหมดในสูตร เพิ่มพลังชี่ม้าม และลดคุณสมบัติของส่วนผสมอื่นๆ สมุนไพร Envoy ที่ผสมผสานกันอย่างลงตัว"
     }
   ],
   "research": [

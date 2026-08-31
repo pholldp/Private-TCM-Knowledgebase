@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, it is best to avoid cold, raw foods (salads, ice cream, cold drinks, raw fruit in excess) as these further burden the Spleen and promote Dampness accumulation. Greasy, fried, and overly rich foods should also be minimized, as they generate Dampness and impair digestive function. Dairy products, excessive sugar, and alcohol tend to increase Dampness and can work against the formula's therapeutic aims. Favor warm, cooked, easy-to-digest foods: rice porridge, cooked vegetables, soups, lean proteins, and warming spices like ginger and cardamom. Small, regular meals are preferable to large heavy ones. Yam (Shan Yao), Job's tears (Yi Yi Ren), and lotus seed (Lian Zi) as food ingredients can complement the formula's Spleen-strengthening action.",
   "ingredients": [
     {
+      "id": 741,
+      "formula_id": 106,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strongly tonifies the Spleen and dries Dampness, serving as the primary force to restore the Spleen's ability to transform and transport fluids. Used in a large dose (30g) and dry-fried with earth to enhance its Spleen-strengthening action."
     },
     {
+      "id": 742,
+      "formula_id": 106,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Stomach while also supplementing the Kidneys to stabilize the Dai Mai (Girdle Vessel), helping restore the body's ability to contain and control vaginal discharge."
     },
     {
+      "id": 743,
+      "formula_id": 106,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the middle Qi, bolstering the King herbs' ability to strengthen the Spleen. Modern formulations often substitute Dang Shen (Codonopsis)."
     },
     {
+      "id": 744,
+      "formula_id": 106,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Dries Dampness and invigorates the Spleen with a stronger drying action than Bai Zhu, increasing the formula's overall ability to resolve turbid Dampness. The pairing of Bai Zhu and Cang Zhu shows the formula prioritizes both tonifying and drying."
     },
     {
+      "id": 745,
+      "formula_id": 106,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Softens and nourishes the Liver, regulates the Liver-Spleen relationship so that Liver Qi flows smoothly rather than overacting on the Spleen. Its relatively large dose (15g) reflects the importance of addressing Liver constraint in this pattern."
     },
     {
+      "id": 746,
+      "formula_id": 106,
       "herb_name": "Che Qian Zi",
       "english_name": "Plantain Seed",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs, Small Intestine",
+      "role_description": "Promotes urination to provide a drainage route for accumulated Dampness, directing turbid fluids out through the urine rather than allowing them to flow downward as discharge."
     },
     {
+      "id": 747,
+      "formula_id": 106,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries Dampness, preventing the large tonic doses from causing stagnation while also assisting the transformation of Dampness through Qi movement."
     },
     {
+      "id": 748,
+      "formula_id": 106,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Used in a tiny dose to raise the clear Yang Qi of the Spleen and Stomach, and to spread Liver Qi. Combined with Bai Shao, it gently resolves Liver constraint without excessive dispersal."
     },
     {
+      "id": 749,
+      "formula_id": 106,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Used as charcoal-processed Jing Jie (黑芥穗) in a minute dose to lift Spleen Yang and mildly astringe. The charring gives it a restraining quality that helps contain discharge, while its aromatic nature assists the upward movement of clear Qi."
     },
     {
+      "id": 750,
+      "formula_id": 106,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the ingredients and supports the middle Qi, ensuring the formula's actions work together smoothly."
     }
   ],
   "research": [

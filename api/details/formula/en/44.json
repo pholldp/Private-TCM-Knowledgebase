@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid greasy, fried, and fatty foods, as these generate Dampness and Phlegm, directly counteracting the formula's effects. Also avoid overly sweet foods, dairy products, and cold or raw foods, all of which burden the Spleen and promote further Phlegm production. Spicy and heating foods (chili, alcohol, lamb) should be limited, as they may aggravate the Heat component of the condition. Favour light, easy-to-digest meals such as congee with daikon radish, pear (lightly stewed), and leafy greens. Adequate warm water intake helps thin mucus secretions.",
   "ingredients": [
     {
+      "id": 274,
+      "formula_id": 44,
       "herb_name": "Dan Nan Xing",
       "english_name": "Bile Arisaema",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Bitter and cool, Dan Nan Xing is the primary Phlegm-transforming herb in this formula. Processed with bile, it powerfully clears Heat-Phlegm and resolves thick, stubborn mucus congesting the Lungs. Its bile processing reduces the drying, toxic nature of raw Tian Nan Xing while enhancing its ability to clear Heat and dissolve Phlegm."
     },
     {
+      "id": 275,
+      "formula_id": 44,
       "herb_name": "Gua Lou Ren",
       "english_name": "Trichosanthes seed",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Sweet and cold with a moist, slippery quality, Gua Lou Ren clears Heat from the Lungs and transforms Phlegm. It can also guide Phlegm-Heat downward to be expelled through the bowels, providing a second route of elimination. Working alongside Dan Nan Xing, it reinforces the core strategy of clearing Heat while dissolving Phlegm."
     },
     {
+      "id": 276,
+      "formula_id": 44,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Although warm in nature, processed Pinellia is a powerful Phlegm-transforming and Qi-descending herb. When paired with the cold Huang Qin, its warmth is tempered while its ability to dissolve Phlegm masses and stop vomiting is fully utilized. It strongly assists the King herbs in breaking down the Phlegm that has already formed."
     },
     {
+      "id": 277,
+      "formula_id": 44,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin excels at clearing Heat and draining Fire from the Lungs. It directly addresses the Heat component of the Phlegm-Heat pathology and restrains the warm nature of Ban Xia, creating a complementary pairing that is both mutually reinforcing and mutually moderating."
     },
     {
+      "id": 278,
+      "formula_id": 44,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends and diffuses Lung Qi to address the upper body, relieving cough and wheezing. By restoring the Lung's natural downward-directing function, it helps move Phlegm out and stops the counterflow of Qi that causes coughing."
     },
     {
+      "id": 279,
+      "formula_id": 44,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and dissolves Phlegm accumulation, relieving the feeling of chest fullness and tightness. Its strong Qi-moving action helps open the chest and restore normal Qi circulation, which is essential because stagnant Qi and Phlegm reinforce each other."
     },
     {
+      "id": 280,
+      "formula_id": 44,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi in the middle portion of the body and dries Dampness to transform Phlegm. It smooths the Qi mechanism in the digestive area and assists in preventing new Phlegm formation by addressing Dampness at its source."
     },
     {
+      "id": 281,
+      "formula_id": 44,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness through urination, cutting off Phlegm at its source. TCM teaches that the Spleen is the organ that produces Phlegm, so supporting Spleen function and removing Dampness prevents new Phlegm from forming."
     }
   ],
   "research": [],

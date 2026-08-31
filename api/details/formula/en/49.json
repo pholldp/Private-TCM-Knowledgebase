@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid foods that burden digestion or exacerbate the underlying Cold-Heat imbalance. This means reducing greasy, fried, and rich foods (which generate Dampness and Heat), raw and cold foods including iced drinks and excessive raw salads (which further weaken Spleen Yang), and overly spicy or pungent foods (which can aggravate stomach Heat). Alcohol should be strictly avoided as it generates both Dampness and Heat in the middle burner. Favor lightly cooked, warm, easily digestible meals: congee, steamed vegetables, and well-cooked grains. Eat smaller portions at regular intervals rather than large, heavy meals. The classical dietary advice (食忌) for Shang Han Lun formulas generally cautions against raw, cold, sticky, and hard-to-digest foods during treatment.",
   "ingredients": [
     {
+      "id": 302,
+      "formula_id": 49,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The principal herb of this formula. Ban Xia is acrid, warm, and descending in nature. It dissolves clumps and disperses accumulation in the stomach region (the area below the heart), directly targeting the core symptom of fullness and blockage. It also powerfully stops nausea and vomiting by directing rebellious Stomach Qi downward. As the formula's namesake herb, it anchors the entire therapeutic strategy of opening blockage and restoring the downward flow of Qi in the digestive tract."
     },
     {
+      "id": 303,
+      "formula_id": 49,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Acrid and hot, Gan Jiang warms the middle region and disperses cold. Paired with Ban Xia, it forms the 'acrid-opening' component of the formula. Together they warm the Spleen, scatter cold accumulation, and help restore the upward movement of clear Qi. Gan Jiang specifically addresses the cold aspect of the mixed cold-heat pathology lodged in the digestive system."
     },
     {
+      "id": 304,
+      "formula_id": 49,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin clears heat from the Stomach and upper digestive tract. It works together with Huang Lian to form the 'bitter-descending' arm of the formula, counterbalancing the warming herbs. By clearing heat and draining fire, it helps resolve the heat component of the mixed cold-heat obstruction that creates the sensation of fullness."
     },
     {
+      "id": 305,
+      "formula_id": 49,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Bitter and very cold, Huang Lian clears heat and drains dampness from the middle region. Used at a notably small dose in this formula, it reinforces Huang Qin's heat-clearing action while specifically targeting heat lodged in the Stomach. Its bitter flavor drives Qi downward, directly assisting in the 'bitter-descending' mechanism that breaks up the blockage beneath the heart."
     },
     {
+      "id": 306,
+      "formula_id": 49,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and warm, Ren Shen tonifies the Spleen and Stomach Qi that has been weakened, which is the root vulnerability underlying the blockage pattern. By restoring the Spleen's ability to transform and transport, it supports the recovery of normal ascending and descending Qi movement. It also prevents the bitter-cold herbs from further damaging the already weakened middle Qi."
     },
     {
+      "id": 307,
+      "formula_id": 49,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 - 6 pieces"
+      "dosage": "4 - 6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Sweet and warm, Da Zao nourishes the Spleen and Stomach, supplements Qi, and generates fluids. Together with Ren Shen and Zhi Gan Cao, it forms a Qi-supplementing group that addresses the underlying deficiency of the middle region, ensuring that the formula does not merely attack the blockage but also rebuilds the digestive system's functional capacity."
     },
     {
+      "id": 308,
+      "formula_id": 49,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Gan Cao tonifies the Spleen and harmonizes all the other herbs in the formula. As the envoy, it mediates between the opposing warm-acrid and cold-bitter herb groups, ensuring they work in concert rather than in conflict. It also contributes to the Qi-supplementing action alongside Ren Shen and Da Zao, helping to shore up the weakened middle region."
     }
   ],
   "research": [

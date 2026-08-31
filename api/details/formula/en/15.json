@@ -24,34 +24,64 @@
   "dietary_advice": "While taking Wu Ling San, avoid cold and raw foods (ice cream, cold drinks, raw salads, sashimi) as these impair the Spleen's ability to transform fluids and work against the formula's warming, fluid-moving action. Also avoid greasy, heavy, and overly rich foods that generate more Dampness. Reduce salt intake, as excess salt promotes water retention. Light, warm, and easily digestible foods are preferred: plain rice porridge, cooked vegetables, and mild soups. The original text instructs patients to drink warm water (暖水) after taking the formula to help the medicine work. Avoid alcohol, as it generates Dampness and Heat.",
   "ingredients": [
     {
+      "id": 90,
+      "formula_id": 15,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Used in the largest dose, Ze Xie is sweet and bland, entering the Kidney and Bladder channels. It directly reaches the lower Jiao to promote urination and drain accumulated water-dampness, addressing the core problem of impaired Bladder Qi transformation."
     },
     {
+      "id": 91,
+      "formula_id": 15,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Sweet and bland, Fu Ling strengthens the Spleen while promoting urination and draining dampness. It reinforces the King herb's water-draining action and simultaneously supports the Spleen's capacity to transform and transport fluids, preventing dampness from re-accumulating."
     },
     {
+      "id": 92,
+      "formula_id": 15,
       "herb_name": "Zhu Ling",
       "english_name": "Polyporus mushroom",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Sweet and bland, Zhu Ling is a powerful dampness-draining herb that works alongside Fu Ling to powerfully enhance the diuretic effect. Together with Fu Ling and Ze Xie, it forms a trio of bland, water-draining substances that form the formula's core strategy."
     },
     {
+      "id": 93,
+      "formula_id": 15,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Sweet, bitter and warm, Bai Zhu strengthens the Spleen and dries dampness. According to five-phase theory, strengthening Earth (Spleen) helps control Water. By restoring Spleen function, it ensures that fluids are properly transformed and transported rather than pooling as pathological dampness."
     },
     {
+      "id": 94,
+      "formula_id": 15,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Acrid and warm, Gui Zhi serves a dual role: internally it warms Yang and promotes Qi transformation in the Bladder, providing the motive force that enables the water-draining herbs to work effectively; externally it releases any lingering surface pathogen. A small dose drives the entire formula's transformative action."
     }
   ],
   "research": [

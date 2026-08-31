@@ -24,64 +24,124 @@
   "dietary_advice": "The original Shang Han Lun text specifies: \"Prohibit raw and cold foods, slippery (greasy) foods, and foul-smelling foods\" (禁生冷、滑物、臭食). This means avoiding cold or raw foods (such as salads, ice cream, chilled drinks, and raw fish), greasy or fatty foods that burden the Spleen, and strong-smelling or heavily fermented foods. Warm, easily digestible meals such as congee, cooked grains, lightly steamed vegetables, and mild soups are best while taking this formula. Spicy or excessively hot foods should also be moderated, as the formula already contains substantial warming herbs. Alcohol should be avoided as it can generate damp-heat and interfere with the formula's cold-heat balancing action.",
   "ingredients": [
     {
+      "id": 1183,
+      "formula_id": 176,
       "herb_name": "Wu Mei",
       "english_name": "Mume fruit",
       "role": "King",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Spleen, Lungs, Large Intestine",
+      "role_description": "The chief herb of the formula. Sour in flavour, it enters the Liver channel to restrain Liver wind, generate fluids, and astringe the intestines. In the context of parasites, its sourness calms and pacifies roundworms. It anchors the overall direction of the formula inward and downward."
     },
     {
+      "id": 1184,
+      "formula_id": 176,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Acrid and warm, it penetrates deeply to dispel cold from the organs and open blocked channels. Its pungent nature helps suppress parasites. Together with the other warming herbs it restores Yang to the interior."
     },
     {
+      "id": 1185,
+      "formula_id": 176,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Hot in nature, it directly warms the Spleen and Stomach to eliminate interior cold. Works alongside Fu Zi as the core warming pair (echoing Si Ni Tang) to rescue depleted Yang and warm the middle burner."
     },
     {
+      "id": 1186,
+      "formula_id": 176,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Bitter and cold, it is the heaviest herb by original dosage proportion. It drains heat from the Heart and Stomach, clears the depressed fire that accumulates in the upper body, and its bitterness drives parasites downward. Paired with the warming herbs, it addresses the heat side of the cold-heat complex."
     },
     {
+      "id": 1187,
+      "formula_id": 176,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Very hot in nature, it powerfully restores Yang, warms the Kidneys and Spleen, and disperses deep cold. It supports the warming strategy from below, addressing the root deficiency of Kidney Yang."
     },
     {
+      "id": 1188,
+      "formula_id": 176,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warm and acrid, it warms the channels, promotes Yang circulation, and helps unblock cold obstruction in the limbs. It supports the warming function and helps restore the smooth flow of Yang Qi throughout the body."
     },
     {
+      "id": 1189,
+      "formula_id": 176,
       "herb_name": "Hua Jiao",
       "english_name": "Sichuan Peppercorn",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Acrid and hot, it warms the middle burner and kills parasites. Together with Gan Jiang and Ren Shen it echoes the structure of Da Jian Zhong Tang, strongly building interior Yang."
     },
     {
+      "id": 1190,
+      "formula_id": 176,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Bitter and cold, it assists Huang Lian in clearing heat, particularly draining damp-heat from the lower body. It also restrains the numerous hot herbs in the formula from damaging Yin, while its bitterness helps drive parasites downward."
     },
     {
+      "id": 1191,
+      "formula_id": 176,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and slightly warm, it strongly tonifies Qi to support the Spleen and Stomach. Chronic illness and parasitic infestation deplete the body's Qi, so Ren Shen bolsters the constitution to withstand both the disease and the strong herbs in the formula."
     },
     {
+      "id": 1192,
+      "formula_id": 176,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Sweet, acrid, and warm, it nourishes and moves Blood, supporting the Liver's storage function. Chronic disease injures both Qi and Blood, so Dang Gui works with Ren Shen to replenish what has been consumed. It also nourishes the Liver body (yin-blood aspect) to complement Wu Mei's restraint of Liver wind."
     }
   ],
   "research": [

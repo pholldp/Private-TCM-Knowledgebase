@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid spicy, fried, and heavily warming foods (such as chili peppers, lamb, ginger in large amounts, and alcohol) which can generate Heat and counteract the formula's cooling, Yin-nourishing effects. Favor foods that support Yin such as pears, lily bulbs, black sesame, mulberries, duck, and congee. Avoid cold, raw foods in excess despite the formula's cooling nature, as these can impair Spleen function and hinder the absorption of the formula's nourishing ingredients. Coffee and strong tea should be minimized as they can be drying and stimulating.",
   "ingredients": [
     {
+      "id": 544,
+      "formula_id": 79,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;, Dried Rehmannia Root)",
       "english_name": "",
       "role": "King",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "The principal herb in the largest dose, Sheng Di Huang nourishes Kidney Yin, cools the Blood, and generates fluids. It directly addresses the root cause of this pattern: insufficient Yin fluids in the Kidney, which allows deficiency Heat to agitate the Blood and drive menstruation early."
     },
     {
+      "id": 545,
+      "formula_id": 79,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Deputy",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Reinforces the King herb by nourishing Yin, cooling Blood, and clearing deficiency fire from the Kidney. Together with Sheng Di Huang, it powerfully replenishes Yin fluids and quells internal Heat without being overly cold or damaging to the Stomach."
     },
     {
+      "id": 546,
+      "formula_id": 79,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, preserves Yin, and gently astringes to help retain fluids. By nourishing Liver Blood and softening the Liver, it helps regulate menstruation from the Blood aspect and complements the Yin-nourishing strategy of the formula."
     },
     {
+      "id": 547,
+      "formula_id": 79,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin and generates fluids in the Lung and Stomach, helping to clear deficiency Heat from the upper body. It moistens dryness and supports the overall Yin-enriching strategy from a different organ system, addressing symptoms like dry throat and thirst."
     },
     {
+      "id": 548,
+      "formula_id": 79,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat and cools the Blood without injuring Yin. It specifically drains Heat from deep within the bones and Kidney, addressing bone-steaming sensations, tidal fever, and night sweats. Together with Sheng Di Huang, these 'Two Earth' (两地) herbs form the signature pair of the formula."
     },
     {
+      "id": 549,
+      "formula_id": 79,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Nourishes Blood, stops bleeding, and moistens Yin. It enriches the substance of the Blood itself, helping to prevent further loss and supporting the body's ability to produce adequate menstrual blood. Its sticky, nourishing nature anchors the formula's fluid-replenishing action."
     }
   ],
   "research": [],

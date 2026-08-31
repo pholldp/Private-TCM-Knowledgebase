@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid greasy, fried, and heavy foods that burden the Spleen and generate Dampness, which the formula is working to resolve. Avoid excessively spicy and stimulating foods, as well as alcohol, which can aggravate Liver Heat and counteract the formula's harmonizing effect. Cold and raw foods should be minimized to protect Spleen function. Favor simple, warm, easily digestible meals such as congee, cooked vegetables, and lightly seasoned soups. Maintain regular mealtimes and avoid overeating, as Liver Qi stagnation is often worsened by irregular eating habits.",
   "ingredients": [
     {
+      "id": 53,
+      "formula_id": 10,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The primary herb of the formula, Chai Hu courses the Liver and resolves stagnation, restoring the smooth flow of Liver Qi. Its ascending and dispersing nature directly addresses the core pathomechanism of Liver constraint."
     },
     {
+      "id": 54,
+      "formula_id": 10,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the blood, supporting the Liver's yin substance so it can function properly. It gently moves blood, complementing the Qi-moving action of Chai Hu and preventing stagnation from producing blood stasis."
     },
     {
+      "id": 55,
+      "formula_id": 10,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver blood and softens the Liver through its astringent and cooling nature. It balances Chai Hu's dispersing action, preventing excessive outward movement of Qi from depleting the Liver's yin and blood."
     },
     {
+      "id": 56,
+      "formula_id": 10,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries dampness, ensuring the digestive system can produce adequate Qi and blood. This addresses the Spleen weakness caused by the Liver overacting on the Spleen (Wood overcontrolling Earth)."
     },
     {
+      "id": 57,
+      "formula_id": 10,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes the healthy movement of fluids, working alongside Bai Zhu to restore digestive function and ensure the body can generate new blood and Qi. It also calms the spirit."
     },
     {
+      "id": 58,
+      "formula_id": 10,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi and moderates the Liver's urgency. It harmonizes all the herbs in the formula, and when paired with Bai Shao, it relaxes tension and relieves cramping pain."
     },
     {
+      "id": 59,
+      "formula_id": 10,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Envoy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Used in small quantity to assist Chai Hu in dispersing Liver constraint and venting depressed heat from the Liver channel. Its light, aromatic, ascending nature helps lift stagnant Qi upward and outward."
     },
     {
+      "id": 60,
+      "formula_id": 10,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "2 - 3 slices"
+      "dosage": "2 - 3 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach and harmonizes the middle, aiding digestion and helping the Spleen-tonifying herbs take effect. In the original formula it is used roasted (煨生姜), which has a gentler, more warming quality focused on the middle burner."
     }
   ],
   "research": [

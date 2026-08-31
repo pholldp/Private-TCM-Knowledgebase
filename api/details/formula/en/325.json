@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, icy drinks, greasy or fried foods, and heavy meats, as these are difficult to digest and can obstruct the Qi flow that the formula is trying to restore. Spicy and Hot foods should also be limited as they can aggravate internal Heat. Light, easily digestible meals such as rice porridge, steamed vegetables, and clear soups are preferred. Once the bowels have moved and the formula is discontinued, gradually reintroduce normal foods while continuing to avoid overeating. The classical instruction states to eat only after the bowels have moved, beginning with easily digestible food such as thin rice congee.",
   "ingredients": [
     {
+      "id": 2318,
+      "formula_id": 325,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Clears Heat from the Stomach and Intestines and promotes bowel movement by draining accumulation. As the primary herb, it directly addresses the core problem of Heat and stool retention in the digestive tract."
     },
     {
+      "id": 2319,
+      "formula_id": 325,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi downward and disperses fullness and distention. Addresses the abdominal bloating and sense of fullness (the 'man' or fullness aspect of the pattern) that accompanies Heat accumulation."
     },
     {
+      "id": 2320,
+      "formula_id": 325,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and resolves the feeling of focal distention and blockage below the heart (the 'pi' or stuffiness aspect). Works together with Hou Po to restore the downward movement of Qi in the digestive tract, assisting Da Huang in expelling the accumulation."
     }
   ],
   "research": [

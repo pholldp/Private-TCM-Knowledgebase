@@ -24,88 +24,172 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods, as these can obstruct the Lungs and Spleen and hinder the rash from emerging. Classical dietary prohibitions for measles specifically warn against raw grains, cold foods, fish, meat, and wheat-flour products during the eruption phase. Light, easily digestible, warm foods such as rice porridge and clear vegetable soups are preferred. Avoid wind exposure and sudden temperature changes while taking this formula, as these can cause the rash to retract inward. Adequate warm fluid intake is encouraged to support sweating and urination, which help expel the pathogenic Heat.",
   "ingredients": [
     {
+      "id": 3616,
+      "formula_id": 476,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Promotes the outward eruption of rashes and clears Heat-toxin. As the primary ascending and venting herb, it lifts pathogenic factors from the interior to the surface, enabling the rash to emerge fully."
     },
     {
+      "id": 3617,
+      "formula_id": 476,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Releases the muscle layer, generates fluids, and promotes rash eruption. Works alongside Sheng Ma as the core rash-venting pair, clearing Heat-toxin while protecting fluids from fever-induced damage."
     },
     {
+      "id": 3618,
+      "formula_id": 476,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "Deputy",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Disperses Wind-Heat, benefits the throat, and promotes rash eruption. Its acrid, cool, and slippery nature assists the King herbs in venting pathogenic factors outward through the skin while also addressing sore throat."
     },
     {
+      "id": 3619,
+      "formula_id": 476,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat from the head and eyes, vents rashes, and clears Heat from the upper body. Its light, ascending, and aromatic nature helps drive pathogenic factors out through the skin surface."
     },
     {
+      "id": 3620,
+      "formula_id": 476,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Releases the exterior and disperses Wind. Though slightly warm, it is mild enough to be combined with cool herbs. Assists the King herbs in promoting rash eruption by opening the skin surface."
     },
     {
+      "id": 3621,
+      "formula_id": 476,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Releases the exterior and expels Wind. Pairs with Jing Jie to release the muscle layer, helping the King herbs push the rash outward when external pathogenic factors are constraining its eruption."
     },
     {
+      "id": 3622,
+      "formula_id": 476,
       "herb_name": "Qian Hu",
       "english_name": "Peucedanum root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Directs Qi downward and disperses Wind-Heat, while also resolving Phlegm. Supports the Lung's descending function to relieve cough and wheezing that commonly accompany measles."
     },
     {
+      "id": 3623,
+      "formula_id": 476,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses Lung Qi, directs other herbs upward, expels Phlegm, and benefits the throat. Works with Qian Hu, Zhi Ke, and Xing Ren to ventilate the Lungs and stop cough."
     },
     {
+      "id": 3624,
+      "formula_id": 476,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Regulates Qi and resolves distension. Pairs with Jie Geng to regulate the ascending and descending of Lung Qi, helping relieve chest oppression and cough."
     },
     {
+      "id": 3625,
+      "formula_id": 476,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi and stops cough. Its moistening nature helps resolve Phlegm while its Qi-descending action complements the ascending venting action of the King herbs."
     },
     {
+      "id": 3626,
+      "formula_id": 476,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat and resolves toxins, particularly in the Upper Burner. Helps clear the Heat-toxin component of the disease while also dispersing accumulations and reducing swelling."
     },
     {
+      "id": 3627,
+      "formula_id": 476,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Promotes urination to direct Heat downward and out through the urine. Provides a downward drainage route for pathogenic Heat, complementing the upward and outward venting strategy of the other herbs."
     },
     {
+      "id": 3628,
+      "formula_id": 476,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "2 - 5g"
+      "dosage": "2 - 5g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Clears Heat and relieves irritability. Addresses the restlessness, thirst, and agitation that accompany febrile disease, while also promoting urination to help drain Heat."
     },
     {
+      "id": 3629,
+      "formula_id": 476,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates their properties, and adds its own mild Heat-clearing and toxin-resolving effect. Paired with Jie Geng, it also benefits the throat."
     }
   ],
   "research": [],

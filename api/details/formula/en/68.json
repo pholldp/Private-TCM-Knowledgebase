@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and excessive dairy products, which can generate internal Dampness and Cold in the lower burner, directly worsening the condition this formula treats.\nAvoid greasy, heavy, or deep-fried foods that burden the Spleen and promote Dampness accumulation.\nFavor warm, easily digested foods such as congee, soups, lightly cooked vegetables, and warming spices like ginger and cinnamon.\nSmall amounts of lamb, chicken broth, or other warming proteins can support the formula's warming action.\nThe original text specifies this formula should be taken starting ten days before the expected period for best results.",
   "ingredients": [
     {
+      "id": 461,
+      "formula_id": 68,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "As the chief herb at the highest dose, Bai Zhu (dry-fried with earth) strengthens the Spleen and promotes the movement of Qi in the lower abdomen and umbilical region. Fu Qingzhu explicitly identifies it as the King herb that 'promotes the Qi of the lumbar and umbilical region,' creating the conditions for dampness to be resolved and cold to be expelled from the lower Jiao."
     },
     {
+      "id": 462,
+      "formula_id": 68,
       "herb_name": "Ba Ji Tian",
       "english_name": "Morinda root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Kidneys, Liver",
+      "role_description": "Warms the Kidney Yang and opens the Ren (Conception) vessel. As a warm, Yang-tonifying herb that enters the Kidney channel, Ba Ji Tian directly addresses the cold in the lower Jiao and supports the Chong Mai (Penetrating Vessel), working alongside the King herb to warm what is cold and support fertility."
     },
     {
+      "id": 463,
+      "formula_id": 68,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney, helping to guard the Chong vessel. Shan Yao reinforces the Spleen's ability to transform dampness while also stabilizing the Kidney, providing a gentle, nourishing support to the formula's warming and dampness-resolving strategy."
     },
     {
+      "id": 464,
+      "formula_id": 68,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination and drains dampness, strengthens the Spleen. Fu Ling provides the formula's primary dampness-resolving mechanism through bland percolation, directing turbid dampness out through the urinary pathway without damaging the Spleen Qi."
     },
     {
+      "id": 465,
+      "formula_id": 68,
       "herb_name": "Bai Bian Dou",
       "english_name": "White hyacinth bean",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and resolves dampness while protecting the Chong vessel. Fu Qingzhu specifically lists Bian Dou alongside Shan Yao and Lian Zi as herbs that 'guard the Chong vessel,' reinforcing the Spleen's ability to contain and support the flow of Qi and Blood through the reproductive channels."
     },
     {
+      "id": 466,
+      "formula_id": 68,
       "herb_name": "Bai Guo",
       "english_name": "Ginkgo seed",
       "role": "Envoy",
-      "dosage": "10 pieces (approximately 15g)"
+      "dosage": "10 pieces (approximately 15g)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Astringes and consolidates the lower Jiao, helping to open and stabilize the Ren (Conception) vessel. Fu Qingzhu pairs it with Ba Ji Tian to 'open the Ren vessel,' providing a stabilizing, astringent action that prevents excessive loss of fluids and directs the formula's effects to the uterine region."
     },
     {
+      "id": 467,
+      "formula_id": 68,
       "herb_name": "Lian Zi",
       "english_name": "Lotus seed",
       "role": "Envoy",
-      "dosage": "30 pieces (approximately 20 - 30g)"
+      "dosage": "30 pieces (approximately 20 - 30g)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Kidneys, Heart",
+      "role_description": "Tonifies the Spleen, stabilizes the Kidney, and guards the Chong vessel. Used with the heart intact (not removed), which adds a mild bitter quality to clear any lingering heat from the Heart-Kidney axis. The large quantity reinforces the formula's protective, stabilizing action on the Chong Mai."
     }
   ],
   "research": [],

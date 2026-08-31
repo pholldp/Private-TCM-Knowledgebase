@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, iced drinks, and excessive greasy or heavy foods, as the Spleen is already severely weakened and cannot handle additional digestive burden. Avoid spicy, heavily seasoned foods that could aggravate the Heat component. Light, easily digestible foods such as plain rice congee (porridge) are ideal. Given that this formula treats a critical condition with both vomiting and diarrhea, food intake may need to be minimal initially — small, frequent sips of warm congee are preferable to full meals. As the condition stabilizes, gradually introduce bland, warm, cooked foods. Avoid alcohol entirely.",
   "ingredients": [
     {
+      "id": 3203,
+      "formula_id": 424,
       "herb_name": "Wu Mei",
       "english_name": "Mume fruit",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Spleen, Lungs, Large Intestine",
+      "role_description": "Wu Mei is sour and astringent, entering the Liver channel. As the principal herb, it generates fluids to address severe thirst, restrains leakage of Yin to stop diarrhea, and calms roundworms. Its sour nature specifically targets the Jue Yin (Liver) level where the pathogen has lodged, softening and containing the disordered Liver Wood. Combined with the bitter herbs, its sour quality forms the 'sour-bitter becomes Yin' pairing that drains Heat while preserving fluids."
     },
     {
+      "id": 3204,
+      "formula_id": 424,
       "herb_name": "Hua Jiao",
       "english_name": "Sichuan Peppercorn",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Chuan Jiao is acrid, hot, and enters the Spleen, Stomach, and Kidney channels. As a co-King herb, it warms the Middle Burner and restores the Spleen's transforming function, which has collapsed under the assault of summerheat. Its warmth counterbalances the cold nature of Huang Lian and Huang Qin, preventing them from further damaging the already weakened Spleen Yang. It also calms roundworms and restores descending movement in the digestive tract."
     },
     {
+      "id": 3205,
+      "formula_id": 424,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Huang Lian is bitter and cold, entering the Heart, Liver, Stomach, and Large Intestine channels. It clears the intense Heat from summerheat that has accumulated in the Middle Burner and penetrated to the Jue Yin level. Its bitter-cold nature drains Fire and dries Dampness, addressing the grey tongue coating, thirst, and bloody diarrhea. Paired with Wu Mei, the bitter-sour combination forms Yin, helping to preserve fluids while clearing Heat."
     },
     {
+      "id": 3206,
+      "formula_id": 424,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Huang Qin is bitter and cold, entering the Lung, Gallbladder, Stomach, and Large Intestine channels. It reinforces the Heat-clearing action of Huang Lian, particularly targeting the Upper and Middle Burners. Together they clear the summerheat pathogen from multiple levels, addressing the alternating chills and fever."
     },
     {
+      "id": 3207,
+      "formula_id": 424,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Ren Shen powerfully tonifies the original Qi and rescues from collapse. In this formula it addresses the critical deficiency of righteous Qi, supporting the Spleen and Stomach whose function has been devastated by the deep penetration of summerheat. Without this herb to prop up the body's vital force, the expelling herbs would have no foundation to work from in this life-threatening situation."
     },
     {
+      "id": 3208,
+      "formula_id": 424,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Bai Shao is sour, bitter, and slightly cold, entering the Liver and Spleen channels. Used raw (生) in this formula, it nourishes Liver Blood and Yin, softens the Liver to relieve spasm and pain, and works alongside Wu Mei to contain the disordered Liver Wood. Its sour-collecting nature helps arrest diarrhea and stabilize the intestines."
     },
     {
+      "id": 3209,
+      "formula_id": 424,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Gan Jiang is acrid and hot, entering the Spleen, Stomach, Heart, and Lung channels. It warms the Middle Burner and restores the Spleen's Yang, which has been damaged by the interplay of summerheat and cold accumulation. Together with Chuan Jiao, it provides the warm-acrid component that counterbalances the bitter-cold herbs, embodying the formula's strategy of addressing intermingled Heat and Cold."
     },
     {
+      "id": 3210,
+      "formula_id": 424,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Ban Xia is acrid, warm, and enters the Spleen, Stomach, and Lung channels. It harmonizes the Stomach and directs rebellious Qi downward to stop vomiting, one of the hallmark symptoms of this pattern. It also dries Dampness and transforms Phlegm that may accumulate when the Middle Burner's transforming function fails."
     },
     {
+      "id": 3211,
+      "formula_id": 424,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Envoy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Zhi Shi is bitter, acrid, and slightly cold, entering the Spleen, Stomach, and Large Intestine channels. It breaks through Qi stagnation and reduces the epigastric hardness and distention described as 'the area below the heart feels hard like a board.' By promoting Qi movement in the Middle Burner, it helps the other herbs penetrate and take effect in the obstructed digestive tract."
     }
   ],
   "research": [],

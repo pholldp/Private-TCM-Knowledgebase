@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, as these generate Dampness and Phlegm and directly oppose the formula's therapeutic purpose. Also avoid alcohol, strongly spiced or pungent foods, and excessive sweets, all of which can generate internal Heat and Dampness.\nFavor light, easily digestible foods such as congee with mung beans, barley (yi yi ren), winter melon, cucumber, bitter melon, lotus seed, white radish, and leafy green vegetables. These support the Spleen's transformative function and help resolve Dampness. Avoid cold and raw foods if the Stomach and Spleen are weak, despite the formula's cooling nature, as cold foods can impair digestion and paradoxically worsen Phlegm production.",
   "ingredients": [
     {
+      "id": 866,
+      "formula_id": 130,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness, drains Fire (especially Heart Fire), and resolves toxicity. As the added herb that distinguishes this formula from Wen Dan Tang, it powerfully clears the Heat component of Phlegm-Heat, calms the mind, and stops irritability."
     },
     {
+      "id": 867,
+      "formula_id": 130,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The principal herb for drying Dampness and transforming Phlegm, it also descends rebellious Stomach Qi to stop nausea and vomiting. Works in an 'acrid-opening, bitter-descending' pair with Huang Lian to jointly dismantle the Phlegm-Heat complex."
     },
     {
+      "id": 868,
+      "formula_id": 130,
       "herb_name": "Zhu Ru",
       "english_name": "Bamboo shavings",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Heart, Gallbladder",
+      "role_description": "Clears Heat and transforms Phlegm, stops vomiting, and alleviates irritability. Enters the Gallbladder and Stomach to calm the mind, release stagnation, and relieve restlessness, complementing Huang Lian's Heat-clearing action from a Phlegm-focused angle."
     },
     {
+      "id": 869,
+      "formula_id": 130,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and reduces Phlegm accumulation. Moves Qi downward to resolve focal distention in the chest and epigastrium, ensuring that Phlegm is carried downward and expelled rather than lingering in the middle."
     },
     {
+      "id": 870,
+      "formula_id": 130,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi flow, dries Dampness, and transforms Phlegm. Harmonizes the Stomach and supports the Spleen's transporting function to prevent further Phlegm generation."
     },
     {
+      "id": 871,
+      "formula_id": 130,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness through bland percolation, cutting off the source of Phlegm production. Also calms the mind and supports sound sleep."
     },
     {
+      "id": 872,
+      "formula_id": 130,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the Stomach and stops vomiting. Assists Ban Xia in transforming Phlegm while moderating its potential toxicity, and helps coordinate the actions of the other herbs."
     },
     {
+      "id": 873,
+      "formula_id": 130,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the formula and moderates the properties of the other herbs. Protects the Stomach and Spleen from the bitter-cold nature of Huang Lian, helping to prevent excessive drainage of the middle."
     }
   ],
   "research": [

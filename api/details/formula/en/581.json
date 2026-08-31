@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid cold, raw, greasy, and hard-to-digest foods, as the gastrointestinal system is being subjected to strong purgative action. After the formula takes effect and purging occurs, the digestive system will be depleted. Shift to thin rice porridge (xi zhou) and easily digestible bland foods to protect and restore Stomach Qi. Avoid spicy, heavily seasoned, or rich foods for several days afterward. Do not consume any products containing licorice (Gan Cao), including herbal teas, candies, or supplements, as licorice is classically incompatible with Gan Sui. Adequate hydration is essential to prevent dangerous dehydration from the purgative effect.",
   "ingredients": [
     {
+      "id": 4437,
+      "formula_id": 581,
       "herb_name": "Gan Sui",
       "english_name": "Kansui root",
       "role": "King",
-      "dosage": "0.5 - 1g"
+      "dosage": "0.5 - 1g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Kidneys, Large Intestine",
+      "role_description": "The principal herb in this formula. Gan Sui is a powerful water-expelling agent that vigorously drives out fluid accumulation from the chest and abdomen. It directly targets the core pathology of water bound with Heat in the chest, breaking apart the obstruction and forcing the accumulated fluids downward and out through the bowels."
     },
     {
+      "id": 4438,
+      "formula_id": 581,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges Heat and drives out accumulation from the gastrointestinal tract. Da Huang's bitter, cold nature directly addresses the intense Heat component of the pathology, sweeping away bound Heat and stagnant matter through purgation. Used at a heavy dose (larger than in Da Cheng Qi Tang) to match the severity of the condition."
     },
     {
+      "id": 4439,
+      "formula_id": 581,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardness and breaks through bound accumulations with its salty, cold nature. Mang Xiao complements Da Huang by moistening dryness, dissolving hard masses, and further clearing Heat. Together with Da Huang, it forms a potent purgative pair that clears the intestinal tract while also addressing the stone-hard quality of the abdominal obstruction."
     }
   ],
   "research": [],

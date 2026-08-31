@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and heavy foods that generate Dampness and burden the Spleen. Cold, raw foods and excessive iced drinks should also be avoided, as they can impair the Spleen's Qi transformation despite the formula's cooling nature. Light, easily digestible foods such as rice porridge (congee), mung bean soup, and winter melon are supportive. Avoid alcohol and spicy, hot foods that may intensify internal Heat. Adequate fluid intake with warm or room-temperature water is important to support urination and prevent dehydration, especially during summer illness with vomiting and diarrhea.",
   "ingredients": [
     {
+      "id": 2088,
+      "formula_id": 296,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "The principal herb in the formula, used in the largest dose. Hua Shi clears Summerheat and drains Damp-Heat downward through the urine, directly addressing both the Heat and Dampness that are the core pathogenic factors in this pattern."
     },
     {
+      "id": 2089,
+      "formula_id": 296,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat and drains Fire from the Qi level, powerfully relieving fever, thirst, and irritability. Works alongside Hua Shi and Han Shui Shi as one of the 'three stones' (san shi) to clear Heat from the six bowels."
     },
     {
+      "id": 2090,
+      "formula_id": 296,
       "herb_name": "Han Shui Shi",
       "english_name": "Calcite (or Red Gypsum)",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Stomach, Kidneys",
+      "role_description": "Clears Heat and drains Fire, reinforcing the cooling power of Shi Gao. Together with Shi Gao and Hua Shi, it forms the 'three stones' grouping that provides the formula's strong Heat-clearing action."
     },
     {
+      "id": 2091,
+      "formula_id": 296,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes urination to drain Dampness. As part of the Wu Ling San component within this formula, Fu Ling supports the transformation and transportation of fluids."
     },
     {
+      "id": 2092,
+      "formula_id": 296,
       "herb_name": "Zhu Ling",
       "english_name": "Polyporus mushroom",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains Dampness, complementing Fu Ling and Ze Xie. Together these diuretic herbs ensure Dampness is expelled through the urinary pathway."
     },
     {
+      "id": 2093,
+      "formula_id": 296,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains Dampness from the lower burner, directly reaching the Kidney and Bladder to facilitate fluid metabolism."
     },
     {
+      "id": 2094,
+      "formula_id": 296,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, supporting the body's ability to transform and transport fluids. Helps prevent Dampness from accumulating again by supporting the root of fluid metabolism."
     },
     {
+      "id": 2095,
+      "formula_id": 296,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms Yang and promotes Qi transformation to assist the Bladder in transforming fluids. Its warming nature helps counterbalance the large amount of cold minerals in the formula and prevents the cold herbs from congealing Dampness. A small dose is used strategically."
     },
     {
+      "id": 2096,
+      "formula_id": 296,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of the diverse formula ingredients and protects the Middle Burner. Together with Hua Shi it forms the Liu Yi San (Six-to-One Powder) within this formula, clearing Summerheat and augmenting Qi."
     }
   ],
   "research": [],

@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid greasy, fatty, and deep-fried foods, which directly generate Dampness and Phlegm and undermine the formula's effects. Reduce intake of dairy products, sweets, refined sugars, and cold or raw foods (including iced drinks, salads, and raw fruit in excess), all of which can burden the Spleen and promote fluid accumulation.\nFavor lightly cooked, warm foods that support Spleen function: cooked grains (rice, millet, barley), steamed vegetables, lean proteins, and warming spices like ginger and cardamom. Yi Yi Ren (Job's tears/coix seed) porridge and Chen Pi (dried tangerine peel) tea are particularly complementary, as they assist Dampness transformation. Eating regular, moderate-sized meals at consistent times supports the Spleen's digestive rhythm.",
   "ingredients": [
     {
+      "id": 406,
+      "formula_id": 62,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Strongly dries dampness and strengthens the Spleen's ability to transform fluids, directly addressing the root cause of phlegm accumulation. Its warm, bitter, and acrid nature powerfully disperses turbid dampness from the middle burner."
     },
     {
+      "id": 407,
+      "formula_id": 62,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Known as the 'commander of women's medicine,' it moves Qi, soothes the Liver, and regulates menstruation. Where Qi stagnates, phlegm and dampness accumulate, so moving Qi is essential to resolving phlegm."
     },
     {
+      "id": 408,
+      "formula_id": 62,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, descends rebellious Qi, and harmonizes the Stomach. Works synergistically with Cang Zhu to eliminate phlegm-dampness from the middle burner."
     },
     {
+      "id": 409,
+      "formula_id": 62,
       "herb_name": "Dan Nan Xing",
       "english_name": "Bile Arisaema",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Clears heat and transforms phlegm, opens the channels and collaterals. Its cooling nature balances the warm drying herbs and targets stubborn, congealed phlegm that blocks the reproductive organs."
     },
     {
+      "id": 410,
+      "formula_id": 62,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and strengthens the Spleen while drying dampness and transforming phlegm. Assists the movement of Qi in the middle burner to prevent further phlegm generation."
     },
     {
+      "id": 411,
+      "formula_id": 62,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi and breaks up stagnation in the chest and abdomen. Reinforces the Qi-moving function of Xiang Fu and helps guide phlegm downward and outward."
     },
     {
+      "id": 412,
+      "formula_id": 62,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination and leaches dampness, strengthens the Spleen. Provides a downward route for dampness to exit the body, and supports the Spleen to prevent new phlegm from forming."
     },
     {
+      "id": 413,
+      "formula_id": 62,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Aids digestion and harmonizes the Stomach, helping to resolve food stagnation that can contribute to phlegm. Also serves as a binding agent for the pill form of the formula."
     },
     {
+      "id": 414,
+      "formula_id": 62,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle burner and descends Qi to counteract nausea. Detoxifies Ban Xia and Dan Nan Xing and helps harmonize the Stomach. Ginger juice is also used as the binding medium for the pills."
     },
     {
+      "id": 415,
+      "formula_id": 62,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the other herbs and supports the Spleen with its sweet flavor. Moderates the drying and dispersing nature of the formula."
     }
   ],
   "research": [

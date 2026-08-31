@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as ice cream, cold salads, and raw fish) as they can impair the Spleen's ability to transform dampness, which the formula is trying to resolve. Also avoid greasy, oily, and heavily fried foods, as these generate more Dampness and burden the Spleen and Stomach.\nSalty and heavily seasoned foods should be limited, especially if there is significant edema, since excess salt promotes fluid retention. Light, warm, and easily digestible foods are best, such as plain rice porridge (congee), lightly cooked vegetables, and mild soups.\nAvoid alcohol, which generates Dampness and Heat internally and may interfere with the formula's action. The classical tradition also advises caution with wind-provoking foods (such as shellfish and certain fermented foods) when treating Wind-related conditions.",
   "ingredients": [
     {
+      "id": 4211,
+      "formula_id": 546,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "The principal herb, used in a heavy dose to powerfully open the Lung Qi, promote sweating to expel Wind from the surface, and restore the Lung's water-regulating function. By opening the surface and the waterways, it allows accumulated fluid to be excreted both through sweat and through urination. Its strong ascending and dispersing nature is the driving force behind the formula's ability to move stagnant water."
     },
     {
+      "id": 4212,
+      "formula_id": 546,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Used in a dose heavier than Ma Huang (a ratio of roughly 4:3) to clear the Heat trapped in the Lung and Stomach. Its cold, pungent nature both complements the dispersing action of Ma Huang and restrains Ma Huang's warm, drying character, preventing excessive sweating that would damage fluids. Together with Ma Huang, it creates the formula's signature strategy of simultaneously venting the surface and clearing interior Heat."
     },
     {
+      "id": 4213,
+      "formula_id": 546,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Assists Ma Huang in dispersing and opening the surface, enhancing the formula's ability to expel Wind and move water outward. Its warm, pungent quality also harmonizes the Stomach, helping to prevent nausea from the heavy mineral Shi Gao."
     },
     {
+      "id": 4214,
+      "formula_id": 546,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "15 pieces"
+      "dosage": "15 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach and supports the middle Qi. By strengthening the Spleen's water-transforming function, it helps the body properly process and eliminate fluid accumulation. It also protects the Stomach from the cold nature of Shi Gao and moderates the harsh dispersing action of Ma Huang."
     },
     {
+      "id": 4215,
+      "formula_id": 546,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, tonifies the middle Qi to support the Spleen in transforming Dampness, and pairs with Da Zao to protect the Stomach. Also moderates the dispersing force of Ma Huang to prevent over-sweating."
     }
   ],
   "research": [

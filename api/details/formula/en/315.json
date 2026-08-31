@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, nourishing foods that support both Blood and Spleen function: cooked grains (rice, millet, oats), root vegetables, dark leafy greens, small amounts of lean protein, and warming soups. Foods that traditionally nourish Blood such as red dates, goji berries, and black sesame are beneficial.\nAvoid cold, raw foods (salads, ice cream, cold drinks, raw sushi) and greasy, heavy, or overly rich foods, as these further burden the Spleen and generate more Dampness — exactly what this formula is trying to resolve. Excessive dairy, sugar, and processed foods should also be minimized. The classical method of administration was with warm wine (酒和服), which helps promote circulation and enhance the formula's Blood-moving function.",
   "ingredients": [
     {
+      "id": 2238,
+      "formula_id": 315,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Used in a dominant dose (far exceeding the other herbs), Bai Shao softens the Liver, relieves spasmodic abdominal pain, nourishes Blood, and restrains Liver Qi from overacting on the Spleen. It is the principal herb addressing the core complaint of cramping abdominal pain."
     },
     {
+      "id": 2239,
+      "formula_id": 315,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and harmonizes the Blood, addressing the underlying Blood deficiency. Works with Bai Shao and Chuan Xiong to form the Blood-regulating core of the formula, supplementing the Liver's Blood stores while gently promoting circulation to relieve pain."
     },
     {
+      "id": 2240,
+      "formula_id": 315,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes the movement of Qi. As a warm, acrid herb, it ensures that the Blood-nourishing action of Dang Gui and Bai Shao does not stagnate, and it facilitates smooth flow of Qi and Blood to resolve pain."
     },
     {
+      "id": 2241,
+      "formula_id": 315,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes urination to drain Dampness. Supports the Spleen's ability to transform and transport fluids, addressing the internal accumulation of Dampness that contributes to pain and edema."
     },
     {
+      "id": 2242,
+      "formula_id": 315,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Tonifies the Spleen Qi and dries Dampness. Works together with Fu Ling to restore the Spleen's transportation function, and is classically recognized for its ability to calm a restless fetus when Spleen Qi is deficient."
     },
     {
+      "id": 2243,
+      "formula_id": 315,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains accumulated water and Dampness via the Bladder. Used in relatively large dosage alongside the Spleen-tonifying herbs, Ze Xie provides a direct outlet for fluid stagnation, clearing water retention from the lower body."
     }
   ],
   "research": [

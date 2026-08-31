@@ -24,28 +24,52 @@
   "dietary_advice": "During treatment, avoid foods that are hard to digest, greasy, fried, spicy, or excessively rich, as these generate Heat and burden the already overloaded digestive system. Cold and raw foods should also be avoided, not because they conflict with the formula's cold nature, but because they are difficult to digest when gut function is compromised.\nAfter successful purging, it is important to resume eating very gradually. Start with thin rice porridge (congee) and other bland, easily absorbed foods. Do not immediately eat heavy meals — the digestive system has just been forcefully cleared and needs gentle rebuilding. Classical texts emphasize that the recovery diet after purging should nurture the Stomach Qi without overwhelming it.\nDrink adequate warm fluids to replenish the fluids lost through purging.",
   "ingredients": [
     {
+      "id": 175,
+      "formula_id": 30,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "The primary purgative herb. Da Huang drains Heat and unblocks the bowels, flushing accumulated Heat and stagnant waste from the Stomach and Intestines. Its bitter, cold nature directly addresses the excess Heat at the root of the condition."
     },
     {
+      "id": 176,
+      "formula_id": 30,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Assists Da Huang in purging Heat and unblocking the bowels. Its salty, cold nature softens hardened stool and moistens dryness, directly addressing the dry, compacted fecal masses that are a hallmark of this condition. Together with Da Huang, their combined purgative power is greatly strengthened."
     },
     {
+      "id": 177,
+      "formula_id": 30,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi and relieves abdominal fullness and distension. The accumulated waste causes severe Qi stagnation, and Hou Po's aromatic, bitter-warm nature powerfully disperses this bloating and congestion. It also helps propel the waste downward, assisting the purgative action of Da Huang and Mang Xiao."
     },
     {
+      "id": 178,
+      "formula_id": 30,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and reduces focal distension and a sensation of hardness under the heart (epigastric area). Works in tandem with Hou Po to restore the downward movement of Qi in the digestive tract, accelerating the expulsion of the Heat-bound accumulation."
     }
   ],
   "research": [

@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, icy drinks, and greasy or heavy foods, as these can obstruct the Spleen and generate more Dampness, directly counteracting the formula's purpose. Alcohol should be avoided as it generates Damp-Heat internally. Light, warm, easily digestible foods such as plain rice porridge (congee), simple soups, and cooked vegetables are ideal. A small amount of fresh ginger in meals can support the formula's warming, dispersing action. If the formula is being used for early-stage dysentery, avoid dairy products and difficult-to-digest proteins.",
   "ingredients": [
     {
+      "id": 1073,
+      "formula_id": 161,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Strongly disperses Wind-Cold from the upper body and exterior, overcomes Dampness, and relieves pain in the head, neck, and upper back. Together with Du Huo, it addresses Wind-Cold-Damp throughout the entire body."
     },
     {
+      "id": 1074,
+      "formula_id": 161,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "Disperses Wind-Cold-Damp from the lower body and deeper levels, relieving pain in the lower back and legs. Paired with Qiang Huo, the two together treat Wind-Cold-Damp affecting the entire body from head to foot."
     },
     {
+      "id": 1075,
+      "formula_id": 161,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Releases the exterior through the half-interior/half-exterior level, reduces fever, and raises clear Yang Qi. Assists the King herbs in dispersing pathogenic influences and plays a key role in the formula's ability to address conditions at the Shaoyang level."
     },
     {
+      "id": 1076,
+      "formula_id": 161,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and moves Qi, dispels Wind, and is especially effective for headache. Assists the King herbs in relieving pain by ensuring smooth circulation of Qi and Blood through the channels."
     },
     {
+      "id": 1077,
+      "formula_id": 161,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and raises Lung Qi, promotes the expulsion of phlegm, and acts as a 'boat' that directs the formula's actions upward to the chest and Lungs. Paired with Zhi Ke, it restores the Lung's natural rhythm of ascending and descending."
     },
     {
+      "id": 1078,
+      "formula_id": 161,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi downward and broadens the chest, relieving the fullness and stuffiness in the chest and diaphragm. Works with Jie Geng in a classic ascending-descending pair to restore smooth Qi movement."
     },
     {
+      "id": 1079,
+      "formula_id": 161,
       "herb_name": "Qian Hu",
       "english_name": "Peucedanum root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Directs Lung Qi downward and transforms phlegm, addressing cough with sputum. Also has a mild exterior-releasing action that supports the overall strategy."
     },
     {
+      "id": 1080,
+      "formula_id": 161,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Leaches out Dampness through the urine and strengthens the Spleen. Addresses the internal Dampness component of the pattern and supports Ren Shen in tonifying the middle."
     },
     {
+      "id": 1081,
+      "formula_id": 161,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies the original Qi to support the body's ability to expel pathogens. This is the formula's signature ingredient: a small dose of Ginseng does not aim to broadly nourish, but rather to give the weakened body just enough Qi to drive out the illness. It also prevents the other dispersing herbs from further depleting the patient's reserves."
     },
     {
+      "id": 1082,
+      "formula_id": 161,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Envoy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Lightly disperses Wind-Heat from the head and eyes, assists the exterior-releasing herbs, and acts as an envoy to guide the formula toward the body surface."
     },
     {
+      "id": 1083,
+      "formula_id": 161,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle, disperses Cold, and assists in releasing the exterior. Also harmonizes the Stomach to prevent nausea from the other herbs."
     },
     {
+      "id": 1084,
+      "formula_id": 161,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2 - 6g"
+      "dosage": "2 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates their harsh or dispersing qualities, and mildly tonifies the Spleen Qi together with Ren Shen."
     }
   ],
   "research": [

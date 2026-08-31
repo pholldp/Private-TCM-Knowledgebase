@@ -24,100 +24,196 @@
   "dietary_advice": "While taking this formula, avoid greasy, deep-fried, and rich foods, as these promote Phlegm production and directly counteract the formula's Phlegm-clearing action. Spicy, hot foods (chili peppers, strong alcohol, excessive garlic) should also be limited, as they may aggravate internal Heat and Liver Wind.\nAvoid stimulants such as strong coffee and excessive tea, which can lower the seizure threshold and disturb the spirit.\nFavor light, easily digestible foods: congee, steamed vegetables, mung bean soup, and foods that support the Spleen's digestive function. Celery, chrysanthemum tea, and lotus seed are traditionally considered helpful for calming the Liver and settling the spirit. Adequate hydration supports the body's fluid metabolism and helps prevent Phlegm from re-accumulating.\nRegular mealtimes and moderate portions are important, as overeating or irregular eating can impair Spleen function and generate more Phlegm.",
   "ingredients": [
     {
+      "id": 2938,
+      "formula_id": 388,
       "herb_name": "Tian Ma",
       "english_name": "Gastrodia root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Calms Liver wind and stops spasms. As a key wind-extinguishing herb, it directly addresses the internal Liver wind that drives the convulsions and sudden collapse characteristic of seizure episodes."
     },
     {
+      "id": 2939,
+      "formula_id": 388,
       "herb_name": "Dan Nan Xing",
       "english_name": "Bile Arisaema",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Clears heat, transforms phlegm, calms wind, and resolves spasms. The bile processing makes it cold in nature and specifically suited to clearing phlegm-heat that clouds the brain's orifices, while simultaneously helping to extinguish wind."
     },
     {
+      "id": 2940,
+      "formula_id": 388,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "Clears heat and transforms phlegm-heat, opens constraint, and disperses nodules. Its cool, moistening nature also helps protect Yin from being damaged by the acrid wind-extinguishing and drying herbs in the formula."
     },
     {
+      "id": 2941,
+      "formula_id": 388,
       "herb_name": "Quan Xie",
       "english_name": "Scorpion",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver",
+      "role_description": "A powerful wind-extinguishing and spasm-stopping insect substance that penetrates deep into the channels to unblock collaterals and arrest convulsions."
     },
     {
+      "id": 2942,
+      "formula_id": 388,
       "herb_name": "Jiang Can",
       "english_name": "Silkworm",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs, Stomach",
+      "role_description": "Extinguishes wind and stops spasms while also transforming phlegm and softening hardness. Complements Tian Ma and Quan Xie in addressing the wind-phlegm complex."
     },
     {
+      "id": 2943,
+      "formula_id": 388,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, directs rebellious Qi downward. Works alongside Chen Pi and Fu Ling in the manner of Er Chen Tang to address the underlying damp-phlegm accumulation."
     },
     {
+      "id": 2944,
+      "formula_id": 388,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "21g"
+      "dosage": "21g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries dampness to transform phlegm. When Qi flows smoothly, phlegm disperses more easily."
     },
     {
+      "id": 2945,
+      "formula_id": 388,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen, leaches dampness, and eliminates the source of phlegm production. Addresses the root cause of phlegm generation by supporting healthy Spleen function."
     },
     {
+      "id": 2946,
+      "formula_id": 388,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the spirit and quiets the Heart while also helping to transform phlegm. Bridges the phlegm-clearing and spirit-settling aspects of the formula."
     },
     {
+      "id": 2947,
+      "formula_id": 388,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Opens the orifices, transforms phlegm, and awakens the spirit. Directly targets the clouding of consciousness that occurs when phlegm obstructs the brain's sensory orifices."
     },
     {
+      "id": 2948,
+      "formula_id": 388,
       "herb_name": "Yuan Zhi",
       "english_name": "Polygala root",
       "role": "Assistant",
-      "dosage": "21g"
+      "dosage": "21g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Kidneys, Lungs",
+      "role_description": "Calms the spirit, opens the orifices, and expels phlegm. Pairs with Shi Chang Pu to powerfully clear phlegm from the Heart and restore mental clarity."
     },
     {
+      "id": 2949,
+      "formula_id": 388,
       "herb_name": "Dan Shen",
       "english_name": "Red sage root",
       "role": "Assistant",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Pericardium",
+      "role_description": "Cools the Heart and calms the spirit, while activating Blood circulation. Its cool nature helps clear Heart heat that contributes to restlessness and disturbed consciousness."
     },
     {
+      "id": 2950,
+      "formula_id": 388,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin, moistens dryness, and clears Heart heat. Its sweet, moistening nature prevents the many acrid, drying, and wind-extinguishing herbs from damaging Yin fluids."
     },
     {
+      "id": 2951,
+      "formula_id": 388,
       "herb_name": "Hu Po",
       "english_name": "Amber",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Liver, Urinary Bladder",
+      "role_description": "Settles the Heart and calms the spirit with its heavy, anchoring nature. Provides mineral-based sedation to stabilize the disturbed spirit during and between seizure episodes."
     },
     {
+      "id": 2952,
+      "formula_id": 388,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Heavily sedates the Heart, calms the spirit, and clears Heart heat. Used as a coating for the pills, providing powerful mineral-based calming of disturbed consciousness."
     },
     {
+      "id": 2953,
+      "formula_id": 388,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "120g (as paste for pill binding)"
+      "dosage": "120g (as paste for pill binding)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates the toxicity of substances like Quan Xie and Ban Xia, and protects the Stomach. Cooked into a paste to bind the pills."
     }
   ],
   "research": [

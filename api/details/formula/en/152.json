@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid spicy, fried, roasted, and heavily seasoned foods, as these generate Heat and worsen Lung Dryness. Alcohol and tobacco should also be avoided. Cold and raw foods are acceptable in moderation (the formula is cooling, not warming), but excessive cold foods may impair digestion. Favour moistening, nourishing foods such as pears, white fungus (yin er), lily bulb (bai he), honey, loquat, almonds, and congee. Adequate hydration is important. Dairy products should be limited, as they are traditionally considered to promote Phlegm production.",
   "ingredients": [
     {
+      "id": 1018,
+      "formula_id": 152,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "King",
-      "dosage": "4.5 - 10g"
+      "dosage": "4.5 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "The primary herb of the formula. Bei Mu (Fritillaria, preferably Chuan Bei Mu) is bitter, sweet, and slightly cold. It clears Heat from the Lungs, moistens dryness, transforms phlegm, and stops coughing. As the herb at the highest dosage, it directly addresses the core problem of dryness-phlegm by both resolving the sticky phlegm and soothing the parched Lung tissue."
     },
     {
+      "id": 1019,
+      "formula_id": 152,
       "herb_name": "Gua Lou",
       "english_name": "Trichosanthes fruit",
       "role": "King",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Gua Lou (Trichosanthes fruit) is sweet, cold, and slightly bitter. It clears and moistens the Lungs, opens the chest, loosens phlegm, and promotes its downward discharge. Working in tandem with Bei Mu as a mutually reinforcing pair (xiangxu), the two together form the classic combination for clearing Lung Heat and transforming dryness-phlegm."
     },
     {
+      "id": 1020,
+      "formula_id": 152,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Deputy",
-      "dosage": "2.5 - 10g"
+      "dosage": "2.5 - 10g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Tian Hua Fen (Trichosanthes root) clears Heat from the Lungs and generates fluids to moisten dryness. It reinforces the King herbs by replenishing the body fluids that have been scorched into phlegm, addressing the root fluid deficiency that sustains the dryness-phlegm cycle."
     },
     {
+      "id": 1021,
+      "formula_id": 152,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "2.5 - 10g"
+      "dosage": "2.5 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Fu Ling (Poria) strengthens the Spleen and promotes the removal of dampness. Since phlegm originates from impaired fluid metabolism rooted in the Spleen, Fu Ling addresses the source of phlegm production. Its dosage is deliberately kept low so that its drying and draining tendencies do not counteract the moistening strategy of the formula."
     },
     {
+      "id": 1022,
+      "formula_id": 152,
       "herb_name": "Ju Hong",
       "english_name": "Tangerine Peel (red outer layer)",
       "role": "Assistant",
-      "dosage": "2.5 - 6g"
+      "dosage": "2.5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Ju Hong (tangerine peel outer layer) regulates Qi and transforms phlegm. When Qi flows smoothly, phlegm disperses more easily. Like Fu Ling, it is used in a small dose to contribute its Qi-moving and phlegm-resolving actions without introducing excessive warmth or dryness into the formula."
     },
     {
+      "id": 1023,
+      "formula_id": 152,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "2.5 - 6g"
+      "dosage": "2.5 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Jie Geng (Platycodon root) opens and disseminates Lung Qi, promotes the expulsion of phlegm, and guides the other herbs upward into the Lung channel. By restoring the Lung's normal descending and dispersing functions, it ensures the formula reaches its target organ effectively."
     }
   ],
   "research": [

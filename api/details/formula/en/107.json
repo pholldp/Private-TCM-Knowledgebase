@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid spicy, greasy, deep-fried, and heavily seasoned foods, as these generate Dampness and Heat and directly aggravate the condition this formula treats. Also reduce alcohol, strong coffee, and overly sweet foods, all of which can worsen Damp-Heat in the lower Jiao. Cold and raw foods (ice cream, raw salads, chilled drinks) should be minimized, as they weaken the Spleen's capacity to transform fluids, contributing to further Dampness accumulation.\nFavor bland, easily digestible, and mildly draining foods such as cooked barley (yi yi ren), mung beans, lotus seeds, cooked yam, winter melon, and plain rice congee. These foods support Spleen function and help the body metabolize fluids properly.",
   "ingredients": [
     {
+      "id": 751,
+      "formula_id": 107,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney, astringes essence, and supplements the Ren Mai (Conception Vessel). As a heavy-dose King herb, it forms the core strategy of supporting the underlying deficiency that allows Damp-Heat to develop."
     },
     {
+      "id": 752,
+      "formula_id": 107,
       "herb_name": "Qian Shi",
       "english_name": "Fox Nut",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney, consolidates essence, eliminates Dampness, and stops vaginal discharge. Paired with Shan Yao at equal dosage, it provides stronger astringent action while also draining Dampness, directly addressing the leukorrhea."
     },
     {
+      "id": 753,
+      "formula_id": 107,
       "herb_name": "Bai Guo",
       "english_name": "Ginkgo seed",
       "role": "Deputy",
-      "dosage": "12g (approximately 10 seeds)"
+      "dosage": "12g (approximately 10 seeds)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Astringes and stops vaginal discharge while also clearing Damp-Heat from the lower body. It guides the formula's action into the Ren Mai (Conception Vessel), making the astringent effect more targeted and swift."
     },
     {
+      "id": 754,
+      "formula_id": 107,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Heat and dries Dampness, specifically targeting Kidney Fire. Since the Kidney and the Ren Mai are internally connected, clearing Kidney Fire also resolves the Heat in the Ren Mai. Salt-frying directs it downward to the Kidney."
     },
     {
+      "id": 755,
+      "formula_id": 107,
       "herb_name": "Che Qian Zi",
       "english_name": "Plantain Seed",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs, Small Intestine",
+      "role_description": "Promotes urination to drain Dampness downward and out through the urine, providing a route for the pathogenic Dampness to exit the body. Wine-frying enhances its ability to move through the channels."
     }
   ],
   "research": [],

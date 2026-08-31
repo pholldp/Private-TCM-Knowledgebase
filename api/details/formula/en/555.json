@@ -24,22 +24,40 @@
   "dietary_advice": "While taking Yu Lu San, avoid foods that generate internal heat or are difficult to digest. Specifically:\n- Avoid greasy, fried, and spicy foods, which add heat and burden the Stomach\n- Avoid excessively sweet or rich foods that may cause food stagnation\n- Favor easily digestible, bland foods such as rice congee and clear soups\n- Because the formula is very cold in nature, avoid adding cold or raw foods simultaneously, as this could over-chill the Stomach\n- Ensure adequate fluid intake, as febrile children are prone to dehydration",
   "ingredients": [
     {
+      "id": 4250,
+      "formula_id": 555,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Shi Gao is acrid, sweet, and very cold, entering the Lung and Stomach channels. As the primary Heat-clearing mineral in the formula, it powerfully clears blazing Heat from the Yangming (Stomach) channel, relieves irritability, and generates fluids to address the thirst and high fever at the core of this pattern."
     },
     {
+      "id": 4251,
+      "formula_id": 555,
       "herb_name": "Han Shui Shi",
       "english_name": "Calcite (or Red Gypsum)",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Stomach, Kidneys",
+      "role_description": "Han Shui Shi is acrid, salty, and cold, entering the Heart, Stomach, and Kidney channels. It strongly reinforces the Heat-clearing action of Shi Gao while also directing cooling power into the Shaoyin (Kidney) channel, helping to stop vomiting and diarrhea caused by internal Heat. Its salty nature aids in drawing Heat downward and out of the body."
     },
     {
+      "id": 4252,
+      "formula_id": 555,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Raw Gan Cao (used unprocessed) clears residual Heat and harmonizes the Stomach, protecting the delicate digestive system of children from the harsh cold nature of the two mineral herbs. It also moderates and unifies the actions of the formula."
     }
   ],
   "research": [],

@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods that burden the Spleen and generate further Dampness (ice cream, raw salads, fried foods, excessive dairy). Reduce salt intake, as excess sodium promotes fluid retention and works against the formula's edema-reducing action. Favor warm, easily digestible, bland foods that support the Spleen: cooked grains (rice, millet), lightly steamed vegetables, soups, small amounts of lean protein. Foods with gentle Dampness-draining properties such as Job's tears (yi yi ren), adzuki beans, winter melon, and corn silk tea are helpful additions. Avoid excessive tea and water intake, as overconsumption of fluids in a Spleen-deficient state can worsen water retention.",
   "ingredients": [
     {
+      "id": 107,
+      "formula_id": 18,
       "herb_name": "Fang Ji",
       "english_name": "Fourstamen Stephania Root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Urinary Bladder, Kidneys, Spleen",
+      "role_description": "Expels Wind and promotes urination to drain Dampness from the muscles and skin. Its bitter, pungent nature drives out pathogenic Wind-Dampness lodged in the exterior, directly addressing the swelling and body heaviness."
     },
     {
+      "id": 108,
+      "formula_id": 18,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi and stabilizes the exterior to stop spontaneous sweating. Also promotes urination and reduces swelling. As the highest-dose herb in the formula, it addresses the root cause of exterior deficiency while supporting the drainage of fluid."
     },
     {
+      "id": 109,
+      "formula_id": 18,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. Assists Huang Qi in tonifying Qi and stabilising the exterior while supporting Fang Ji in resolving dampness. This dual support role bridges the formula's two core strategies."
     },
     {
+      "id": 110,
+      "formula_id": 18,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g (4 slices)"
+      "dosage": "9 - 12g (4 slices)",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle, assists the dispersal of exterior pathogens, and works with Da Zao to regulate the Nutritive and Protective Qi. Helps resolve superficial dampness through gentle warming."
     },
     {
+      "id": 111,
+      "formula_id": 18,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "1 - 3 pieces"
+      "dosage": "1 - 3 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies the Spleen and Stomach, nourishes Qi and Blood, and harmonises the Nutritive and Protective Qi together with Sheng Jiang. Protects the Stomach from the draining actions of the other herbs."
     },
     {
+      "id": 112,
+      "formula_id": 18,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and harmonises the other herbs in the formula. Moderates the bitter, cold nature of Fang Ji to protect the Stomach and middle burner."
     }
   ],
   "research": [

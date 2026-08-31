@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid spicy, hot, fried, and greasy foods, as these generate internal Heat and can worsen Liver Fire and Phlegm-Heat. Alcohol and tobacco should be strictly avoided, as they inflame the Lungs and aggravate bleeding. Avoid shellfish and other \"stimulating\" (发物) foods that may trigger or worsen bleeding. Favor cooling, moistening foods such as pears, lotus root, water chestnuts, white fungus (tremella), mung beans, and fresh vegetables. Light, easily digestible meals help protect the Spleen and Stomach from the formula's cold nature.",
   "ingredients": [
     {
+      "id": 1821,
+      "formula_id": 260,
       "herb_name": "Qing Dai",
       "english_name": "Indigo Naturalis",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs",
+      "role_description": "Enters both the Liver and Lung channels. Clears Liver Fire, drains Heat, cools the Blood, and stops bleeding. As the primary King herb, it directly addresses the root cause of the pattern by clearing the Liver Fire that is scorching the Lungs."
     },
     {
+      "id": 1822,
+      "formula_id": 260,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Bitter and cold, enters the Heart, Liver, and Lung channels. Clears Heat and drains Fire, cools the Blood, and eliminates irritability. When dry-fried until blackened (炒黑), it enters the Blood level and enhances its hemostatic action. Together with Qing Dai, it addresses the root by clearing Liver Fire and cooling Blood from multiple angles."
     },
     {
+      "id": 1823,
+      "formula_id": 260,
       "herb_name": "Gua Lou Ren",
       "english_name": "Trichosanthes seed",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Sweet and cold, enters the Lung channel. Clears Heat and transforms Phlegm, moistens the Lungs and stops coughing. Addresses the secondary pathology of hot Phlegm that forms when Liver Fire scorches Lung fluids. Without clearing the Phlegm, the cough persists and bleeding cannot stop."
     },
     {
+      "id": 1824,
+      "formula_id": 260,
       "herb_name": "Hai Fu Shi",
       "english_name": "Pumice",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Salty and cold. Clears Lung Heat, descends Fire, softens hardness, and dissolves Phlegm. Works alongside Gua Lou Ren to clear hot Phlegm from the Lungs. The original text uses 'Hai Fen' (sea powder), which Qing-dynasty physician Wang Ang later interpreted as Hai Fu Shi (pumice)."
     },
     {
+      "id": 1825,
+      "formula_id": 260,
       "herb_name": "He Zi",
       "english_name": "Chebulic myrobalan fruit",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Bitter, sour, astringent, and neutral in nature. Enters the Lung and Large Intestine channels. Astringes and contains Lung Qi to stop coughing, while also transforming Phlegm. Provides a restraining balance to the formula's strongly clearing and draining herbs, preventing excessive dispersal of Lung Qi while ensuring the cough is controlled."
     }
   ],
   "research": [],

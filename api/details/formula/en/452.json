@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and chilled fruit during the postpartum period while taking this formula. Cold foods can worsen the Blood stasis and Cold congealing in the Uterus that this formula is designed to treat. Favor warm, easily digestible, nourishing foods such as soups, porridge, cooked vegetables, and bone broth. Light amounts of rice wine or cooking wine in food are traditionally considered supportive, as the original formula was decocted with yellow rice wine to enhance its Blood-moving effect. Avoid greasy, heavy, or difficult-to-digest foods that may burden the weakened Spleen and Stomach postpartum.",
   "ingredients": [
     {
+      "id": 3428,
+      "formula_id": 452,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Used in a large dose as the primary herb, Dang Gui nourishes Blood and invigorates circulation, expels stasis while generating new Blood. As the whole root (head, body, and tail), it simultaneously tonifies and moves Blood, directly addressing the core pathomechanism of postpartum Blood deficiency with stasis."
     },
     {
+      "id": 3429,
+      "formula_id": 452,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "A key Qi-within-Blood herb, Chuan Xiong activates Blood circulation and promotes the movement of Qi in the Blood level. It reinforces Dang Gui's ability to dispel stasis and relieves pain by ensuring Qi flows smoothly, since Blood moves when Qi moves."
     },
     {
+      "id": 3430,
+      "formula_id": 452,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks up Blood stasis and assists the discharge of retained lochia. Tao Ren adds a stronger stasis-dispelling action, supporting the King and Deputy in clearing stagnant Blood from the uterus."
     },
     {
+      "id": 3431,
+      "formula_id": 452,
       "herb_name": "Pao jiang",
       "english_name": "Blast-fried Ginger",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Blast-fried ginger enters the Blood level to warm the channels and dispel Cold. Its charred form also has a mild hemostatic effect, preventing excessive bleeding while warming the uterus to relieve cold pain. It supports Dang Gui in generating new Blood and assists Chuan Xiong and Tao Ren in transforming old stasis."
     },
     {
+      "id": 3432,
+      "formula_id": 452,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared licorice harmonizes all the herbs in the formula, tonifies Qi to support the Spleen, and moderates the Blood-moving actions to prevent excessive dispersal. It also alleviates pain through its antispasmodic properties."
     }
   ],
   "research": [

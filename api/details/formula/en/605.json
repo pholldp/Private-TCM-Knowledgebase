@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, iced drinks, raw seafood, and cold fruit) as these can further impair Yang Qi and worsen water accumulation.\nAlso avoid excessively salty foods, which promote water retention and work against the formula's diuretic action. Greasy, heavy, and difficult-to-digest foods should be minimized as they burden the Spleen's transport function.\nFavor warm, easily digestible foods such as congee (rice porridge), cooked root vegetables, warm soups, and small amounts of ginger or cinnamon in cooking to support the formula's warming and water-resolving action.",
   "ingredients": [
     {
+      "id": 4558,
+      "formula_id": 605,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "King",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Used in a large dose (half a jin in the original text, the heaviest herb in the formula), Fu Ling is the core herb that drains water accumulation from the lower burner, calms the Heart spirit, and strengthens the Spleen to control water. Its heavy dosage directs its action downward to address the pathological water collecting below the navel."
     },
     {
+      "id": 4559,
+      "formula_id": 605,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms Heart Yang and promotes the downward movement of rebellious Qi, directly counteracting the upward surging of cold water Qi (the threatening running piglet). Combined with Fu Ling, it warms Yang to transform fluids and prevents water from accumulating."
     },
     {
+      "id": 4560,
+      "formula_id": 605,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "15 pieces"
+      "dosage": "15 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Strengthens the Spleen and nourishes the middle burner to bolster Earth's ability to control Water. Also calms the spirit and addresses abdominal urgency and pain. Its sweet nature supplements the Qi damaged by excessive sweating."
     },
     {
+      "id": 4561,
+      "formula_id": 605,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-processed (Zhi Gan Cao) to tonify the Spleen and supplement Qi. Works with Gui Zhi as a sweet-acrid pair to generate Yang Qi. Harmonizes all the herbs in the formula."
     }
   ],
   "research": [],

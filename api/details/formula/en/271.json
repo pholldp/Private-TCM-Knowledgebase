@@ -24,82 +24,160 @@
   "dietary_advice": "While taking this formula, avoid further alcohol consumption entirely, as the formula is designed to help the body recover from alcohol injury and continued drinking directly opposes its therapeutic action. Avoid greasy, rich, fatty, or deep-fried foods, which burden the already-weakened Spleen and Stomach and generate more Dampness. Cold and raw foods (including ice water, salads, and raw fruit) should also be avoided as they further impair the Spleen's warming and transforming function. Favour bland, warm, easily digestible foods such as plain rice porridge (congee), steamed vegetables, and light soups. Small, frequent meals are preferable to large ones to give the Spleen time to recover.",
   "ingredients": [
     {
+      "id": 1893,
+      "formula_id": 271,
       "herb_name": "Ge Hua",
       "english_name": "Kudzu flower",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "The chief herb for resolving alcohol toxicity. Ge Hua is the premier TCM herb for clearing the effects of alcohol. Sweet and cool in nature, it enters the Yangming (Stomach) channel, promotes mild sweating to dispel alcohol-dampness through the skin surface, and awakens the Spleen."
     },
     {
+      "id": 1894,
+      "formula_id": 271,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Aromatic and warming, it awakens the Spleen, transforms dampness, and opens the Middle Burner to relieve chest and epigastric fullness caused by alcohol stagnation. Also helps resolve the effects of alcohol."
     },
     {
+      "id": 1895,
+      "formula_id": 271,
       "herb_name": "Sha Ren",
       "english_name": "Amomum fruit",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Works alongside Bai Dou Kou to aromatically transform dampness, warm the Middle Burner, promote Qi movement, and relieve nausea and vomiting. Also has alcohol-resolving properties."
     },
     {
+      "id": 1896,
+      "formula_id": 271,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Resolves alcohol and aids digestion. Helps break down food stagnation that accumulates alongside alcohol excess, supporting the Stomach's digestive function."
     },
     {
+      "id": 1897,
+      "formula_id": 271,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination to drain dampness and clear residual alcohol-dampness downward through the Bladder. This is one arm of the formula's dual-route dampness elimination strategy."
     },
     {
+      "id": 1898,
+      "formula_id": 271,
       "herb_name": "Zhu Ling",
       "english_name": "Polyporus mushroom",
       "role": "Assistant",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Bland and percolating in nature, it promotes urination and drains dampness, reinforcing Ze Xie in clearing alcohol-dampness through the urinary route."
     },
     {
+      "id": 1899,
+      "formula_id": 271,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination, drains dampness, and strengthens the Spleen. Unlike Zhu Ling and Ze Xie which only drain, Fu Ling simultaneously supports the Spleen's ability to transform and transport fluids."
     },
     {
+      "id": 1900,
+      "formula_id": 271,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies the Spleen Qi and strengthens the Middle Burner, helping the digestive system recover from the damage caused by excessive alcohol consumption. Prevents the formula from being too draining."
     },
     {
+      "id": 1901,
+      "formula_id": 271,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries dampness. Works with Ren Shen to support the Spleen's transforming and transporting function, and with Fu Ling to resolve dampness from the Middle Burner."
     },
     {
+      "id": 1902,
+      "formula_id": 271,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the Middle Burner and restores Stomach Yang. Alcohol is initially hot but ultimately cold in nature and can injure Spleen and Stomach Yang with prolonged use. Gan Jiang counteracts this cold damage and aids the transformation of dampness."
     },
     {
+      "id": 1903,
+      "formula_id": 271,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Middle Burner. Helps relieve chest and epigastric bloating by promoting the smooth flow of Qi, and assists in drying dampness."
     },
     {
+      "id": 1904,
+      "formula_id": 271,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks up Qi stagnation and disperses accumulation. Stronger than Chen Pi at moving stagnant Qi, it targets the Liver channel and lower regions to relieve the fullness and distension caused by alcohol stagnation."
     },
     {
+      "id": 1905,
+      "formula_id": 271,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Aromatically moves Qi throughout the digestive tract, relieving pain and distension. Used in a small dose, it guides the formula's actions through the Qi level and ensures smooth Qi circulation so that dampness can be properly transformed and eliminated."
     }
   ],
   "research": [],

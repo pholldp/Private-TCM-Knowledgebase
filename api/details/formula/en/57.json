@@ -24,76 +24,148 @@
   "dietary_advice": "Favor warm, easily digestible, nourishing foods that support the Spleen: cooked grains (rice, millet, oats), soups and stews, root vegetables, lightly cooked leafy greens, small amounts of lean protein, and warming spices like ginger and cinnamon. Longan fruit and red dates, which echo the formula's ingredients, make excellent additions.\nAvoid cold and raw foods (salads, ice cream, cold drinks, raw fruit in excess), greasy or deep-fried foods, excessive dairy, and overly sweet or processed foods, as these can burden the Spleen and impair its ability to generate Qi and Blood. Limit coffee and strong tea, which can disturb the Heart Shen this formula is trying to calm. Avoid alcohol, which generates Dampness and Heat.\nEat regular meals at consistent times and avoid eating late at night or while anxious or distracted, as these habits weaken the Spleen's digestive function.",
   "ingredients": [
     {
+      "id": 358,
+      "formula_id": 57,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Sweet and warm, Huang Qi is the primary Qi tonic in this formula. It strengthens the Spleen and augments Qi, which in turn promotes the generation of Blood and restores the Spleen's ability to hold Blood within the vessels."
     },
     {
+      "id": 359,
+      "formula_id": 57,
       "herb_name": "Long Yan Rou",
       "english_name": "Longan Fruit Flesh",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Sweet and warm, Long Yan Rou nourishes both the Spleen Qi and Heart Blood simultaneously. Together with Huang Qi, it forms the dual King axis of this formula, addressing the two core organs (Heart and Spleen) that are weakened."
     },
     {
+      "id": 360,
+      "formula_id": 57,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Spleen Qi and assists Huang Qi in strengthening the body's ability to generate Blood. Together with Bai Zhu, reinforces the Qi-building foundation of the formula."
     },
     {
+      "id": 361,
+      "formula_id": 57,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 18g"
+      "dosage": "9 - 18g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, bolstering the digestive system's ability to transform food into Qi and Blood. Works alongside Ren Shen and Huang Qi to fortify the Spleen."
     },
     {
+      "id": 362,
+      "formula_id": 57,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood, supporting the Heart. Added by Xue Ji in the Ming dynasty to enhance the formula's Blood-nourishing effect. Together with Long Yan Rou, strengthens the Blood-tonifying arm of the prescription."
     },
     {
+      "id": 363,
+      "formula_id": 57,
       "herb_name": "Suan Zao Ren",
       "english_name": "Sour jujube seed",
       "role": "Deputy",
-      "dosage": "9 - 18g"
+      "dosage": "9 - 18g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "Sour and sweet, nourishes Heart Blood and calms the Spirit. Its sour flavour gently astringes to prevent Qi and Blood from scattering, addressing palpitations, insomnia, and night sweats."
     },
     {
+      "id": 364,
+      "formula_id": 57,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Assistant",
-      "dosage": "9 - 18g"
+      "dosage": "9 - 18g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the Heart Spirit and quiets anxiety. More targeted than Fu Ling for settling restlessness and insomnia, it also gently supports the Spleen by promoting the transformation of Dampness."
     },
     {
+      "id": 365,
+      "formula_id": 57,
       "herb_name": "Yuan Zhi",
       "english_name": "Polygala root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Kidneys, Lungs",
+      "role_description": "Calms the Spirit, improves communication between the Heart and Kidneys, and sharpens mental focus. Added by Xue Ji in the Ming dynasty to enhance the formula's mind-calming and memory-supporting effects."
     },
     {
+      "id": 366,
+      "formula_id": 57,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "The crucial aromatic 'wake-up call' for the Spleen. Its pungent, moving quality prevents the heavy tonifying herbs from causing stagnation and bloating. By keeping Qi flowing smoothly, it ensures the tonic ingredients are properly absorbed rather than sitting heavily in the stomach. Classical commentators consider this the formula's most ingenious touch."
     },
     {
+      "id": 367,
+      "formula_id": 57,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Licorice root tonifies Spleen Qi, supplements the middle, and harmonizes all the other ingredients in the formula, acting as both a mild tonic and a mediator."
     },
     {
+      "id": 368,
+      "formula_id": 57,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 5 slices"
+      "dosage": "3 - 5 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Used as a decoction adjunct to warm the Stomach, aid digestion, and harmonize the Spleen and Stomach so the formula's nutrients can be properly absorbed."
     },
     {
+      "id": 369,
+      "formula_id": 57,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "1 - 3 pieces"
+      "dosage": "1 - 3 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Blood, tonifies the Spleen, and works with Sheng Jiang to harmonize the Ying (nutritive) and Wei (defensive) levels, supporting the overall digestive absorption of the formula."
     }
   ],
   "research": [

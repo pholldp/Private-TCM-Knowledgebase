@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, favor warm, nourishing, easy-to-digest foods such as soups, congee, red dates, longan, and lightly cooked dark leafy greens that support Blood production. Avoid cold and raw foods (salads, iced drinks, raw fruits in excess), as these may counteract the formula's warming action and further obstruct the flow of Qi and Blood. Also limit greasy, heavy, or overly rich foods that burden the Spleen and impede Qi movement. Avoid excessive sour foods, which have an astringent quality that may counteract the formula's Blood-moving effects.",
   "ingredients": [
     {
+      "id": 2213,
+      "formula_id": 311,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, warms the channels and alleviates pain. As the primary herb, it addresses the core Blood deficiency while also gently moving Blood to resolve stasis, making it the ideal lead herb for this pattern of deficiency and stagnation coexisting."
     },
     {
+      "id": 2214,
+      "formula_id": 311,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Strongly tonifies Blood and nourishes Yin, providing the substantial material foundation needed to replenish depleted Blood. As the heaviest nourishing herb in the formula, it works alongside Dang Gui to address the root Blood deficiency."
     },
     {
+      "id": 2215,
+      "formula_id": 311,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, softens the Liver, and alleviates pain. Supports the King herbs by preserving Yin and Blood while harmonizing the Liver to ease menstrual discomfort."
     },
     {
+      "id": 2216,
+      "formula_id": 311,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "The primary Qi-regulating herb in this formula, known as a key herb for gynaecological conditions. It smooths Liver Qi, regulates menstruation, and alleviates pain caused by Qi stagnation, directly addressing the Qi stagnation component of the pattern."
     },
     {
+      "id": 2217,
+      "formula_id": 311,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes Qi movement. Bridges the Blood-nourishing and Blood-moving actions of the formula, ensuring that newly nourished Blood flows freely through the vessels and channels."
     },
     {
+      "id": 2218,
+      "formula_id": 311,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Invigorates Blood and dispels stasis, unblocking the channels and vessels to promote menstrual flow. Used at a moderate dose to activate Blood circulation without being overly drastic."
     },
     {
+      "id": 2219,
+      "formula_id": 311,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks up Blood stasis and promotes menstrual flow. Works synergistically with Hong Hua to form the classical Tao Ren-Hong Hua pair for resolving Blood stasis in the uterus."
     },
     {
+      "id": 2220,
+      "formula_id": 311,
       "herb_name": "E Zhu",
       "english_name": "Zedoary rhizome",
       "role": "Assistant",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Strongly breaks Blood stasis and promotes Qi movement, targeting more stubborn or deep-seated stagnation. Its inclusion at a small dose strengthens the formula's ability to dispel entrenched Blood stasis without being too aggressive."
     },
     {
+      "id": 2221,
+      "formula_id": 311,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Assistant",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Promotes the movement of Blood through the channels and opens the vessels, helping to direct the formula's Blood-moving action to the uterine network vessels and supporting menstrual flow."
     },
     {
+      "id": 2222,
+      "formula_id": 311,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "1g"
+      "dosage": "1g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the channels, disperses Cold, and promotes Blood circulation. Adds a warming dynamic to the formula that helps Cold-stagnated Blood flow freely, particularly important when Cold is contributing to the menstrual blockage."
     },
     {
+      "id": 2223,
+      "formula_id": 311,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1g"
+      "dosage": "1g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates the strong Blood-moving herbs, and tonifies the Spleen to support the production of new Blood."
     }
   ],
   "research": [],

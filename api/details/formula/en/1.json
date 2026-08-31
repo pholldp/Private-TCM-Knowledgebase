@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, it is best to avoid excessively greasy, fried, or rich foods, which can obstruct Qi flow and aggravate Liver constraint. Spicy, hot foods (chili, strong alcohol, excessive coffee) should be limited, as they generate internal Heat and counteract the formula's cooling action. Raw and cold foods (ice cream, cold salads, iced drinks) should also be moderated because they can weaken the Spleen, which the formula is working to strengthen.\nFoods that support the formula's actions include mild, easily digestible grains (rice, millet), lightly cooked green vegetables (especially leafy greens, which support the Liver), small amounts of mint or chrysanthemum tea (which gently clear Heat and soothe the Liver), and foods that nourish Blood such as dark leafy greens, beets, and small amounts of red dates. Classical texts generally advise maintaining a calm emotional state during treatment and avoiding anger and excessive worry, as emotional agitation directly worsens the condition the formula is treating.",
   "ingredients": [
     {
+      "id": 1,
+      "formula_id": 1,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses the Liver and resolves constraint. As the primary herb, it restores the free flow of Liver Qi, directly addressing the root cause of emotional stagnation, chest and rib-side distension, and irritability."
     },
     {
+      "id": 2,
+      "formula_id": 1,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and harmonizes the Blood. Partners with Chai Hu to address the Liver from the Blood (yin) side, ensuring that coursing the Liver does not further consume Blood. Also regulates menstruation."
     },
     {
+      "id": 3,
+      "formula_id": 1,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver Blood and softens the Liver, curbing its tendency toward excess. Its sour, astringent nature complements Chai Hu's dispersing action, preventing over-dispersal of Qi. Together with Dang Gui, it restores the Liver's yin-blood foundation."
     },
     {
+      "id": 4,
+      "formula_id": 1,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat from the Blood level and cools Liver Fire. Specifically enters the Liver and Gallbladder Blood level to drain constrained Heat that has transformed from long-standing Liver Qi stagnation. This is one of the two key additions that distinguish this formula from Xiao Yao San."
     },
     {
+      "id": 5,
+      "formula_id": 1,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three Burners and directs Fire downward via the urine. Complements Mu Dan Pi: while Mu Dan Pi clears Blood-level Heat, Zhi Zi clears Qi-level Heat from the Heart, Lung, and Stomach, together resolving the full spectrum of constrained Heat."
     },
     {
+      "id": 6,
+      "formula_id": 1,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. Supports the earth element to prevent the stagnant Liver from over-controlling the Spleen, ensuring that the source of Qi and Blood production remains intact."
     },
     {
+      "id": 7,
+      "formula_id": 1,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Fortifies the Spleen, promotes water metabolism, and calms the spirit. Works alongside Bai Zhu to protect the Spleen and drain Dampness, while its mild calming effect supports the treatment of anxiety and restless sleep."
     },
     {
+      "id": 8,
+      "formula_id": 1,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Envoy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Lightly disperses constrained Liver Qi with its cool, aromatic nature. Assists Chai Hu in venting Liver Heat outward, and guides the formula into the Liver channel. Used in small amount to avoid excessive dispersal."
     },
     {
+      "id": 9,
+      "formula_id": 1,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi and harmonizes all the herbs in the formula. Its sweet nature buffers the Liver, eases tension (as in the classical principle 'sweet flavour moderates urgency'), and ensures the cooling herbs do not injure the middle."
     }
   ],
   "research": [

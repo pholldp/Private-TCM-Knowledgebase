@@ -24,28 +24,52 @@
   "dietary_advice": "Since Run Ji Gao is a topical preparation, dietary restrictions are less critical than with internal formulas. However, to support skin healing from the inside, it is helpful to avoid excessively spicy, greasy, or fried foods, as these can generate internal Heat and Dampness that aggravate skin conditions. Alcohol should also be minimized. Favor foods that nourish the Blood and moisten Dryness, such as black sesame seeds, walnuts, dark leafy greens, carrots, and small amounts of red dates. Adequate hydration supports skin recovery.",
   "ingredients": [
     {
+      "id": 3923,
+      "formula_id": 516,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The principal medicinal herb in this formula. Dang Gui nourishes and activates Blood, promoting circulation to the skin surface and supporting the regeneration of damaged tissue. Its warm nature helps to moisten dryness from within."
     },
     {
+      "id": 3924,
+      "formula_id": 516,
       "herb_name": "Zi Cao",
       "english_name": "Gromwell root",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Zi Cao cools the Blood and clears Heat, counterbalancing the warmth of Dang Gui. It resolves toxins from the skin, reduces inflammation, and promotes tissue regeneration. Its cold nature and ability to cool Blood-level Heat make it essential for addressing the Heat component of skin lesions."
     },
     {
+      "id": 3925,
+      "formula_id": 516,
       "herb_name": "Ma You",
       "english_name": "Sesame oil",
       "role": "Assistant",
-      "dosage": "120ml"
+      "dosage": "120ml",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Large Intestine",
+      "role_description": "Sesame oil serves as both the extraction medium and a therapeutic ingredient. It moistens and lubricates dry, cracked skin, provides a protective barrier, and acts as a vehicle to deliver the fat-soluble active compounds of Dang Gui and Zi Cao directly to the affected area."
     },
     {
+      "id": 3926,
+      "formula_id": 516,
       "herb_name": "Feng La",
       "english_name": "Beeswax",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Beeswax gives the formula its ointment consistency, allowing it to adhere to the skin and maintain prolonged contact. It also provides a mild sealing and protective action, locking in moisture and shielding damaged skin from external irritants."
     }
   ],
   "research": [

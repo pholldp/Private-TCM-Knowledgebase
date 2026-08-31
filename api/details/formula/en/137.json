@@ -24,40 +24,76 @@
   "dietary_advice": "Favor warm, easily digestible, nourishing foods that support Qi and Blood production: bone broths, slow-cooked stews, red dates (Da Zao), goji berries, dark leafy greens, black sesame, eggs, and well-cooked whole grains. Small amounts of lean red meat or liver can support Blood building.\nAvoid cold, raw foods (salads, iced drinks, raw fish) which can impair the Spleen's digestive function and counteract the warming, tonifying nature of the formula. Reduce greasy, heavy, or excessively sweet foods that generate Dampness and may compound the cloying nature of Shu Di Huang. Avoid excessive tea or coffee close to the time of taking the formula, as tannins may interfere with herb absorption.",
   "ingredients": [
     {
+      "id": 926,
+      "formula_id": 137,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Blood and enriches Yin, serving as the chief Blood tonic to replenish the depleted blood stores that underlie the pattern. Enters the Liver and Kidney channels to fill the Sea of Blood."
     },
     {
+      "id": 927,
+      "formula_id": 137,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates Blood, harmonizes the Blood vessels, and regulates menstruation. Complements Shu Di Huang by both nourishing and gently moving Blood to prevent stagnation from pure tonification."
     },
     {
+      "id": 928,
+      "formula_id": 137,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Strongly tonifies Qi, especially Spleen and Lung Qi, and lifts the Yang. By strengthening Qi, it supports the Spleen's ability to generate Blood (Qi is the commander of Blood) and helps contain Blood within the vessels."
     },
     {
+      "id": 929,
+      "formula_id": 137,
       "herb_name": "Dang Shen",
       "english_name": "Codonopsis root",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Spleen and Lung Qi, promotes the generation of fluids. Works in concert with Huang Qi to address the Qi deficiency component, ensuring the Spleen has sufficient Qi to transform food into Blood."
     },
     {
+      "id": 930,
+      "formula_id": 137,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver and alleviates pain. Pairs with Shu Di Huang to nourish Blood through a quiet, astringent approach, and moderates abdominal cramping associated with Blood deficiency."
     },
     {
+      "id": 931,
+      "formula_id": 137,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes the movement of Qi within the Blood. As the one moving herb in a formula of tonics, it prevents the rich, cloying Blood tonics from causing stagnation and ensures the newly generated Blood circulates freely."
     }
   ],
   "research": [],

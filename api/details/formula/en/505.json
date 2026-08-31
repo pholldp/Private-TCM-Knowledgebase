@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid cold, raw, and greasy foods, as these impair the Spleen and Stomach's ability to support the body's fight against the exterior pathogen. Cold foods and iced drinks are particularly counterproductive since the formula is trying to gently warm and open the surface. Avoid alcohol, as the Shang Han Lun explicitly warns that Gui Zhi Tang-based formulas are inappropriate for habitual drinkers (jiu ke). Light, warm, easily digestible foods such as rice porridge (congee) are ideal. Classically, after taking Gui Zhi Tang and its derivatives, patients are advised to sip warm rice porridge to support the stomach and assist the formula in generating a mild sweat.",
   "ingredients": [
     {
+      "id": 3828,
+      "formula_id": 505,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Releases the muscle layer, disperses Wind-Cold from the exterior, and warms the channels. As the primary herb of the Gui Zhi Tang component, it harmonizes the protective and nutritive layers and leads the formula's exterior-releasing action."
     },
     {
+      "id": 3829,
+      "formula_id": 505,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the pores to promote mild sweating and release exterior pathogens. As the key herb from the Yue Bi Tang component, it works with Gui Zhi to enhance exterior resolution. At this small dose and paired with Shi Gao, its sweating action is restrained to produce only a gentle sweat."
     },
     {
+      "id": 3830,
+      "formula_id": 505,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears internal Heat that has formed from constrained exterior pathogens beginning to transform. Its cold, sweet nature moderates the warming properties of Gui Zhi and Ma Huang, and helps preserve body fluids. This is the key herb that distinguishes this formula from the Gui Zhi Ma Huang Ge Ban Tang series."
     },
     {
+      "id": 3831,
+      "formula_id": 505,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the nutritive (Ying) layer and constrains Yin to prevent excessive sweating. It balances the dispersing nature of Gui Zhi and Ma Huang, and its sour-collecting quality helps preserve fluids in a patient who is already constitutionally weak."
     },
     {
+      "id": 3832,
+      "formula_id": 505,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Assists Gui Zhi in releasing the exterior and warming the Stomach to support digestion. Pairs with Da Zao to harmonize the protective (Wei) and nutritive (Ying) layers."
     },
     {
+      "id": 3833,
+      "formula_id": 505,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 pieces"
+      "dosage": "4 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach to support the production of Qi and Blood. Together with Sheng Jiang, it harmonizes the formula and protects the Middle Burner from the dispersing action of the exterior-releasing herbs."
     },
     {
+      "id": 3834,
+      "formula_id": 505,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the ingredients, tonifies the Middle Burner Qi, and moderates the pungent-dispersing herbs. Supports the sweet-sour fluid-generating combination with Bai Shao and Da Zao."
     }
   ],
   "research": [],

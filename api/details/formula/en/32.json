@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold and raw foods (salads, ice cream, cold beverages, raw fruits and vegetables, sushi) while taking this formula, as they counteract its warming action and worsen internal Cold-Dampness. Avoid greasy, heavy, and difficult-to-digest foods that burden the Spleen. Favour warm, cooked, easily digestible meals: congee (rice porridge), soups, stews, warm grains, ginger tea, and moderate amounts of warming spices like cinnamon, dried ginger, and black pepper. Small amounts of lamb or chicken are appropriate as warming protein sources. Alcohol should be avoided as it can interact unpredictably with aconitine metabolism.",
   "ingredients": [
     {
+      "id": 184,
+      "formula_id": 32,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "15 - 18g"
+      "dosage": "15 - 18g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "The chief herb of the formula, used in a large dose of two pieces (approximately 18g in modern dosing). Its intensely hot and acrid nature powerfully warms Yang, disperses cold, and alleviates pain throughout the channels and joints. It addresses the root cause of the pattern: deep Yang deficiency with cold dampness lodged in the interior."
     },
     {
+      "id": 185,
+      "formula_id": 32,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies the source Qi and supports the body's foundational vitality. By reinforcing Qi, it assists Fu Zi in warming Yang (since Qi is the basis for Yang function), anchors the pulse (addressing the deep, weak pulse), and provides the constitutional support needed for recovery from Yang deficiency."
     },
     {
+      "id": 186,
+      "formula_id": 32,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Used at the heaviest dosage among the supporting herbs (12g), Bai Zhu strengthens the Spleen and dries dampness. It works synergistically with Fu Zi to expel cold dampness from the muscles and joints, directly addressing the painful obstruction (Bi syndrome) component of the pattern."
     },
     {
+      "id": 187,
+      "formula_id": 32,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes water metabolism and strengthens the Spleen. By draining excess dampness through the urinary pathway, it supports Bai Zhu in resolving the damp component of the pathology and prevents fluid accumulation that could result from Yang deficiency."
     },
     {
+      "id": 188,
+      "formula_id": 32,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and harmonizes the nutritive level. Its sour, slightly cold nature serves a dual purpose: it softens and relaxes the sinews to ease pain, and it moderates the intensely hot and drying nature of the other herbs (especially Fu Zi) to prevent them from damaging Yin and Blood. This preserves the body's fluids while the formula drives out cold."
     }
   ],
   "research": [

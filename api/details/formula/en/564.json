@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid spicy, fried, and greasy foods, which generate Heat and Dampness in the Large Intestine and can worsen hemorrhoidal bleeding. Limit alcohol consumption, as alcohol produces Damp-Heat and promotes bleeding. Avoid excessively cold or raw foods, which may impair digestion in patients who already have weakened Spleen Qi. Favor bland, easily digestible foods such as congee, steamed vegetables, and cooked grains. Adequate dietary fiber from cooked vegetables and whole grains can help regulate bowel movements and reduce straining, which aggravates hemorrhoids. Cooling foods like mung beans, lotus root, and winter melon can support the formula's Heat-clearing action.",
   "ingredients": [
     {
+      "id": 4329,
+      "formula_id": 564,
       "herb_name": "Di Yu",
       "english_name": "Garden Burnet Root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "The chief herb of this formula. Di Yu enters the Large Intestine channel, where it cools Blood-Heat and stops bleeding through its bitter, sour, and astringent nature. It directly targets the hemorrhoidal bleeding that is the formula's primary indication."
     },
     {
+      "id": 4330,
+      "formula_id": 564,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, reinforcing Di Yu's ability to cool Blood-Heat in the Large Intestine. Its bitter-cold nature helps eliminate the underlying Damp-Heat that drives hemorrhoidal inflammation and bleeding."
     },
     {
+      "id": 4331,
+      "formula_id": 564,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Promotes the movement of Qi and relieves distension in the intestines. By opening up Qi stagnation in the lower abdomen, it addresses the bloating, bearing-down sensations, and constipation that accompany hemorrhoids."
     },
     {
+      "id": 4332,
+      "formula_id": 564,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Works alongside Zhi Ke to move Qi downward and relax the intestines. It helps relieve the sensation of heaviness and straining at stool that is characteristic of hemorrhoidal disease."
     },
     {
+      "id": 4333,
+      "formula_id": 564,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi and supports the body's ability to hold Blood in the vessels. Combined with Dang Gui, it promotes tissue healing and the generation of new flesh, helping hemorrhoidal wounds repair more quickly."
     },
     {
+      "id": 4334,
+      "formula_id": 564,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, preventing the formula's Blood-cooling herbs from causing Blood stasis. It also supports tissue regeneration and helps alleviate pain from hemorrhoidal swelling."
     },
     {
+      "id": 4335,
+      "formula_id": 564,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Clears Heat from the Blood level and disperses Blood stasis. It works with Dang Gui to ensure that stopping bleeding does not lead to stagnant Blood pooling locally, and it helps reduce swelling and pain in the hemorrhoidal tissue."
     }
   ],
   "research": [],

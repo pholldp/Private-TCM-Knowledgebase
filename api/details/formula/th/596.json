@@ -25,34 +25,64 @@
   "dietary_advice": "หลีกเลี่ยงอาหารที่เย็น ดิบ และมันเยิ้มขณะรับประทานสูตรนี้ เนื่องจากอาจทำให้การทำงานของชี่ของม้ามลดลงได้ ชอบทานอาหารที่อุ่นและย่อยง่าย หลีกเลี่ยงอาหารรสเผ็ดหรือฉุนมากเกินไปที่อาจจะทำให้ชี่กระจายตัว จำกัดแอลกอฮอล์และคาเฟอีน ซึ่งสามารถต่อต้านผลการรวมตัวของสูตรได้",
   "ingredients": [
     {
+      "id": 4507,
+      "formula_id": 596,
       "herb_name": "Huang Qi",
       "english_name": "รากตาตุ่ม",
       "role": "ราชา (King)",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ม้าม, ปอด",
+      "role_description": "เพิ่มพลังชี่และเพิ่มพลังชี่หน้าอกที่จมลง สมุนไพรหลักที่จัดการกับการจมโดยตรง"
     },
     {
+      "id": 4508,
+      "formula_id": 596,
       "herb_name": "Chai Hu",
       "english_name": "รากบูพลูรัม",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, ถุงน้ำดี, ปอด",
+      "role_description": "ช่วยในการยกชี่ที่จมจากด้านซ้าย (ทิศทางเส้าหยาง) เสริมการยก"
     },
     {
+      "id": 4509,
+      "formula_id": 596,
       "herb_name": "Sheng Ma",
       "english_name": "เหง้า Cimicifuga",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ช่วยในการยกชี่ที่จมอยู่ทางด้านขวา (ทิศทางหยางหมิง) ประสานกับไชหู"
     },
     {
+      "id": 4510,
+      "formula_id": 596,
       "herb_name": "Zhi Mu",
       "english_name": "เหง้า Anemarrhena",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ไต",
+      "role_description": "ให้ความเย็นและชุ่มชื้นเพื่อปรับธรรมชาติอันอบอุ่นของ Huang Qi ป้องกันความร้อนที่มากเกินไป ในขณะเดียวกันก็ช่วยปรับสี Qi เล็กน้อย"
     },
     {
+      "id": 4511,
+      "formula_id": 596,
       "herb_name": "Jie Geng",
       "english_name": "รากดอกบอลลูน",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด",
+      "role_description": "กำหนดการกระทำของสูตรขึ้นไปที่หน้าอก ทำหน้าที่เป็นผู้ส่งสารเพื่อนำทางสมุนไพรอื่นๆ"
     }
   ],
   "research": [

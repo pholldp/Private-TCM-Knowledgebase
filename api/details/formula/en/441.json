@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods while taking this formula, as these can burden the Spleen and impair absorption of the rich Yin-nourishing herbs. Limit excessively spicy or hot foods, which can further deplete Yin and counteract the formula's cooling, moistening action. Foods that gently support the Kidneys and Yin are beneficial, such as black sesame seeds, walnuts, goji berries, yam, and pears. Adequate hydration is encouraged. Avoid excessive caffeine and alcohol, both of which can further dry and heat the system.",
   "ingredients": [
     {
+      "id": 3335,
+      "formula_id": 441,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "24 - 30g"
+      "dosage": "24 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Richly nourishes Kidney Yin and fills the essence (Jing). As the herb with the largest dosage in the formula, it directly addresses the root deficiency of Kidney Yin, providing the material foundation that the Kidneys need to anchor Qi and support their storing function."
     },
     {
+      "id": 3336,
+      "formula_id": 441,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes and astringes the Liver and Kidneys, securing the essence and preventing leakage. Reinforces the King herb by consolidating the Kidney Yin that Shu Di Huang generates, while also addressing seminal emission and excessive sweating."
     },
     {
+      "id": 3337,
+      "formula_id": 441,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidneys simultaneously. By strengthening the Spleen, it ensures ongoing production of postnatal essence to replenish the Kidneys. Its mild astringent quality also helps stabilize the Kidneys' holding function."
     },
     {
+      "id": 3338,
+      "formula_id": 441,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "The distinguishing addition to Liu Wei Di Huang Wan. Astringes Lung Qi and supplements the Kidneys, helping the Kidneys grasp the Qi that the Lungs send downward during inhalation. Its sour and astringent nature also helps stop seminal emission, night sweats, and chronic cough."
     },
     {
+      "id": 3339,
+      "formula_id": 441,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Kidney turbidity and promotes urination to clear dampness. Prevents the rich, cloying nature of Shu Di Huang from creating stagnation, ensuring the formula tonifies without generating pathological dampness."
     },
     {
+      "id": 3340,
+      "formula_id": 441,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and leaches dampness. Works alongside Shan Yao to support Spleen function and alongside Ze Xie to prevent dampness accumulation, keeping the formula balanced between tonification and drainage."
     },
     {
+      "id": 3341,
+      "formula_id": 441,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat from the Liver and cools the Blood. Prevents the warm, tonifying herbs from generating unwanted Heat, and specifically addresses the Liver Fire that can arise from Kidney Yin deficiency. Complements Shan Zhu Yu by clearing what the Liver cannot regulate when Yin is depleted."
     }
   ],
   "research": [

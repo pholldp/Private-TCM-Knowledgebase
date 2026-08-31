@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid cold and raw foods (e.g., salads, iced drinks, raw fruits) which can further deplete Yang. Favor warm, cooked foods and soups to support the formula's warming and tonifying action.",
   "ingredients": [
     {
+      "id": 4601,
+      "formula_id": 612,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9-15g"
+      "dosage": "9-15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi, raises the clear Yang, and promotes urination to drain edema."
     },
     {
+      "id": 4602,
+      "formula_id": 612,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "3-9g"
+      "dosage": "3-9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms Kidney Yang, the root of all Yang, to reignite the body's water-transforming fire and dispel internal cold."
     },
     {
+      "id": 4603,
+      "formula_id": 612,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3-6g"
+      "dosage": "3-6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the harshness of Aconite, supports the Spleen, and moderates the actions of the other herbs."
     }
   ],
   "research": [],

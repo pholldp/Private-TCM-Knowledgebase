@@ -24,76 +24,148 @@
   "dietary_advice": "During the acute period when this formula is being administered, diet should be kept as light and easily digestible as possible. Most patients receiving this formula are in a state of altered consciousness and may be receiving nutrition via nasogastric tube. If the patient can take food orally, avoid greasy, heavy, or spicy foods that could generate additional Heat or Phlegm. Cold and raw foods should also be avoided, as they may further impair the already-stressed digestive system. Thin rice porridge (congee) and clear broths are most appropriate. Alcohol is strictly prohibited.",
   "ingredients": [
     {
+      "id": 2707,
+      "formula_id": 363,
       "herb_name": "Niu Huang",
       "english_name": "Cattle gallstone",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Clears Heat from the Heart, resolves toxins, dissolves phlegm, and opens the orifices. As the formula's namesake ingredient, Niu Huang directly targets the core pathomechanism of Heat toxin lodged in the Pericardium, clouding the spirit and generating phlegm."
     },
     {
+      "id": 2708,
+      "formula_id": 363,
       "herb_name": "Shui Niu Jiao",
       "english_name": "Water buffalo horn",
       "role": "King",
-      "dosage": "30g (original); when using Shui Niu Jiao, 60-120g equivalent"
+      "dosage": "30g (original); when using Shui Niu Jiao, 60-120g equivalent",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver, Stomach",
+      "role_description": "Clears Heart Heat, cools the Blood, and resolves toxins. Works in tandem with Niu Huang to powerfully clear Heat from the Nutritive (Ying) and Blood levels, protecting the Heart from Heat invasion. Modern formulations use water buffalo horn concentrated powder (Shui Niu Jiao Nong Suo Fen) as a legal substitute."
     },
     {
+      "id": 2709,
+      "formula_id": 363,
       "herb_name": "She Xiang",
       "english_name": "Musk",
       "role": "King",
-      "dosage": "7.5g"
+      "dosage": "7.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Powerfully opens the orifices and revives consciousness. Its intensely aromatic, penetrating nature cuts through phlegm turbidity blocking the sensory orifices, directly addressing the loss of consciousness that defines this condition. Modern formulations often use artificial musk."
     },
     {
+      "id": 2710,
+      "formula_id": 363,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and drains Fire from the Heart and Middle Burner. As one of the three bitter-cold herbs in the formula, it specifically targets Heart Fire, reinforcing the King herbs' Heat-clearing action."
     },
     {
+      "id": 2711,
+      "formula_id": 363,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and drains Fire from the Upper Burner and Lung. Together with Huang Lian and Zhi Zi, it clears Heat across all three Burners, ensuring no reservoir of pathogenic Heat remains."
     },
     {
+      "id": 2712,
+      "formula_id": 363,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat, drains Fire, and guides Heat downward and out through the urine. Completes the trio of bitter-cold herbs that systematically clear Heat from all three Burners."
     },
     {
+      "id": 2713,
+      "formula_id": 363,
       "herb_name": "Xiong Huang",
       "english_name": "Realgar",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach, Large Intestine",
+      "role_description": "Resolves phlegm and detoxifies. Assists in breaking through the turbid phlegm that blocks the orifices. Contains arsenic sulfide and requires strict dosage control."
     },
     {
+      "id": 2714,
+      "formula_id": 363,
       "herb_name": "Yu Jin",
       "english_name": "Turmeric tuber",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs",
+      "role_description": "Moves Qi, resolves Blood stasis, clears Heart Heat, and opens the orifices. Its aromatic quality helps penetrate turbidity, while its ability to move Qi and Blood prevents stagnation caused by the dense, heavy mineral substances in the formula."
     },
     {
+      "id": 2715,
+      "formula_id": 363,
       "herb_name": "Bing Pian",
       "english_name": "Borneol",
       "role": "Assistant",
-      "dosage": "7.5g"
+      "dosage": "7.5g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Spleen, Lungs",
+      "role_description": "An aromatic orifice-opener that clears turbidity, dispels foul influences, and assists She Xiang in reviving consciousness. Its cool, penetrating nature helps direct the formula's actions inward to reach the Pericardium."
     },
     {
+      "id": 2716,
+      "formula_id": 363,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "A heavy mineral that settles the Heart, calms the spirit, and arrests convulsions. Counterbalances the restless agitation and delirium caused by Heat disturbing the Heart spirit. Contains mercury sulfide and requires strict dosage control."
     },
     {
+      "id": 2717,
+      "formula_id": 363,
       "herb_name": "Zhen Zhu",
       "english_name": "Pearl",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Calms the spirit, settles fright, and clears Heat from the Liver. Works alongside Zhu Sha to anchor the restless spirit and calm convulsions."
     },
     {
+      "id": 2718,
+      "formula_id": 363,
       "herb_name": "Jin Bo",
       "english_name": "Gold leaf",
       "role": "Envoy",
-      "dosage": "used as coating"
+      "dosage": "used as coating",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "A heavy, settling substance that calms the Heart and spirit. Used as the outer coating of the pill, it also helps harmonize and direct the formula's actions to the Heart."
     }
   ],
   "research": [

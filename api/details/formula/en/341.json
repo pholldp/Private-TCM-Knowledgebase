@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid spicy, hot, and warming foods such as chili peppers, ginger, garlic, lamb, and alcohol, as these generate internal Heat and can worsen bleeding. Avoid greasy, fried, and rich foods that may produce Dampness and obstruct the formula's cooling action. Favor cooling, nourishing foods such as mung beans, lotus root (particularly good for stopping bleeding in the folk tradition), pear, cucumber, and leafy greens. Light, easily digestible meals protect the Stomach from the formula's intensely cold and bitter nature. Avoid sour and astringent foods in excess (pickled foods, vinegar) as they may overly contract and trap residual Heat.",
   "ingredients": [
     {
+      "id": 2464,
+      "formula_id": 341,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "King",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat and cools the Blood, nourishes Yin, and generates fluids. As the primary herb at a high dose, it directly addresses the root cause of Blood-Heat driving the uterine hemorrhage, while its Yin-nourishing quality helps replenish fluids lost through heavy bleeding."
     },
     {
+      "id": 2465,
+      "formula_id": 341,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, particularly effective at clearing Heat from the upper and middle burners. Stir-fried (chao) to enhance its hemostatic action and reduce its cold nature slightly, making it better suited for stopping bleeding."
     },
     {
+      "id": 2466,
+      "formula_id": 341,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Heat and drains Fire from the lower burner, specifically targeting the Kidney and Bladder channels. Works with Huang Qin to clear Heat at multiple levels of the body, ensuring that Heat driving the uterine bleeding is thoroughly addressed."
     },
     {
+      "id": 2467,
+      "formula_id": 341,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three burners, cools the Blood, and stops bleeding. Drains Heat downward through the urine, providing an exit route for pathogenic Heat while also directly helping to cool bleeding."
     },
     {
+      "id": 2468,
+      "formula_id": 341,
       "herb_name": "Di Yu",
       "english_name": "Garden Burnet Root",
       "role": "Assistant",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "Cools the Blood and stops bleeding, with a particular affinity for the lower body. Directly astringes the bleeding vessels in the uterus while clearing residual Heat from the Blood level."
     },
     {
+      "id": 2469,
+      "formula_id": 341,
       "herb_name": "Ce Bai Ye",
       "english_name": "Arborvitae Leaf",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Cools the Blood and stops bleeding. Charring (tan) enhances its astringent hemostatic properties, making it especially effective at physically stopping the hemorrhage while retaining its Heat-clearing ability."
     },
     {
+      "id": 2470,
+      "formula_id": 341,
       "herb_name": "Chun Gen Bai Pi (&#x693F;&#x6839;&#x767D;&#x76AE;)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat, dries Dampness, and has strong astringent properties that stop uterine bleeding and vaginal discharge. Its astringent action provides a binding, consolidating effect on the Chong and Ren vessels."
     },
     {
+      "id": 2471,
+      "formula_id": 341,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat, cools the Blood, and activates Blood circulation to dispel stasis. This prevents congealed Blood from being trapped in the uterus, ensuring the formula stops bleeding without causing Blood stasis."
     },
     {
+      "id": 2472,
+      "formula_id": 341,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver, and alleviates pain. At the high dose of 30g, it helps restrain excessive Blood movement, nourishes Blood lost from hemorrhage, and moderates the strongly bitter-cold herbs in the formula to protect the Stomach."
     },
     {
+      "id": 2473,
+      "formula_id": 341,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "Nourishes Yin, anchors Yang, and benefits the Kidney. Its heavy, descending nature helps draw excessive Heat downward and consolidate Yin, addressing the underlying Yin deficiency that often accompanies Blood-Heat patterns in gynecological bleeding. Calcined (duan) to enhance its astringent, hemostatic properties."
     }
   ],
   "research": [],

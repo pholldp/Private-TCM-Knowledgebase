@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, favor easily digestible, nourishing foods such as congee (rice porridge), soups, steamed vegetables, and small amounts of lean protein. These support the Spleen's ability to absorb the formula's benefits. Avoid cold and raw foods (salads, ice water, raw fruits in excess), which can impede Spleen function and hinder the generation of Qi and Blood.\nAvoid spicy, greasy, and heavily fried foods, which can generate Heat and counteract the formula's gentle Yin-nourishing action. Alcohol should be avoided, as it generates Dampness and Heat. Coffee and strong tea may also interfere with Ren Shen's effects. Light, warm, bland foods align best with this formula's therapeutic direction.",
   "ingredients": [
     {
+      "id": 725,
+      "formula_id": 104,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the primal Qi, which has been severely depleted by childbirth. Supports the Spleen and Lung Qi to help generate new Blood and Fluids, and calms the spirit."
     },
     {
+      "id": 726,
+      "formula_id": 104,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, addressing the core Blood deficiency from postpartum blood loss. Pairs with Ren Shen to simultaneously replenish both Qi and Blood."
     },
     {
+      "id": 727,
+      "formula_id": 104,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "12 - 20g"
+      "dosage": "12 - 20g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver, and eases pain. Used in the largest dose in the original formula to strongly nourish Blood and anchor the Yin."
     },
     {
+      "id": 728,
+      "formula_id": 104,
       "herb_name": "Gan Di Huang (&#x5E72;&#x5730;&#x9EC4;/&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Nourishes Yin and Blood, clears deficiency Heat, and cools the Blood. Works alongside Dang Gui and Bai Shao to address the root Blood and Yin deficiency."
     },
     {
+      "id": 729,
+      "formula_id": 104,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin and generates Fluids, clears Heat from the Heart and Stomach, and eliminates restlessness. Directly addresses the agitation and irritability caused by Yin deficiency."
     },
     {
+      "id": 730,
+      "formula_id": 104,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Clears Heat from the Heart, relieves restlessness and irritability, and promotes urination to conduct Heat downward and out of the body."
     },
     {
+      "id": 731,
+      "formula_id": 104,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms and activates the channels, draws floating deficiency Fire back to its source rather than allowing it to flare upward. In small amounts, it acts as a 'spark' to promote the generation of Qi and Blood without aggravating Heat."
     },
     {
+      "id": 732,
+      "formula_id": 104,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "20 pieces (approximately 30g)"
+      "dosage": "20 pieces (approximately 30g)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies the Spleen Qi and nourishes Blood, harmonizes the formula's ingredients, and protects the Stomach to ensure proper absorption of the other herbs."
     },
     {
+      "id": 733,
+      "formula_id": 104,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Envoy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Nourishes the Stomach Qi, protects Stomach Yin, and serves as a gentle base that moderates the formula and supports the digestive system's ability to absorb the tonic herbs."
     }
   ],
   "research": [],

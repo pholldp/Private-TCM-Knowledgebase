@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid spicy, greasy, fried, and irritative foods. Prefer a light, bland diet. Cold or raw foods should also be limited as they may further weaken Spleen Yang already challenged by the formula's cold nature.",
   "ingredients": [
     {
+      "id": 4485,
+      "formula_id": 591,
       "herb_name": "&#x751F;&#x5730;&#x9EC4; (Sheng Di Huang)",
       "english_name": "",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Cools the Blood, nourishes Yin, and extinguishes Heat in the Blood level. Addresses the root of bleeding due to Heat."
     },
     {
+      "id": 4486,
+      "formula_id": 591,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Invigorates Blood and dispels stasis, preventing the cold herbs from congealing Blood. Also cools Blood and relieves pain."
     },
     {
+      "id": 4487,
+      "formula_id": 591,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, guiding other herbs to the Blood level and preventing stasis. The tail part specifically moves Blood."
     },
     {
+      "id": 4488,
+      "formula_id": 591,
       "herb_name": "Di Yu",
       "english_name": "Garden Burnet Root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "Cools Blood and stops bleeding, especially for intestinal bleeding and hemorrhoidal bleeding. Charred to enhance hemostatic effect."
     },
     {
+      "id": 4489,
+      "formula_id": 591,
       "herb_name": "Huai Jiao",
       "english_name": "Pagodatree Pod",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Large Intestine",
+      "role_description": "Clears Heat from the Large Intestine and stops bleeding. A key herb for hemorrhoidal bleeding."
     },
     {
+      "id": 4490,
+      "formula_id": 591,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness, especially from the Lower Burner. Assists in treating the root of Damp-Heat."
     },
     {
+      "id": 4491,
+      "formula_id": 591,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, particularly from the Large Intestine. Supports Huang Lian in clearing Damp-Heat."
     },
     {
+      "id": 4492,
+      "formula_id": 591,
       "herb_name": "&#x67B3;&#x58F3; (Zhi Qiao)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Moves Qi in the Large Intestine, relieves distension and pain, and helps guide the herbs to the affected area."
     },
     {
+      "id": 4493,
+      "formula_id": 591,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Charred to enter Blood and stop bleeding. Also expels Wind, addressing the Wind component in hemorrhoidal bleeding."
     },
     {
+      "id": 4494,
+      "formula_id": 591,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Raises Yang and directs the formula to the Lower Burner. Also clears Heat and resolves toxins."
     },
     {
+      "id": 4495,
+      "formula_id": 591,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all herbs and moderates the cold nature of the formula."
     }
   ],
   "research": [

@@ -25,142 +25,280 @@
   "dietary_advice": "ขณะใช้สูตรนี้ ให้หลีกเลี่ยงอาหารดิบๆ และเครื่องดื่มเย็นๆ และเครื่องดื่มเย็นๆ เนื่องจากอาจทำให้เลือดจับตัวเป็นก้อนและทำให้การแก้ไขภาวะหยุดนิ่งของสูตรลดลง ลดอาหารมันๆ ของทอด และอาหารหนักๆ ที่ทำให้เกิดความชื้นและเสมหะ ซึ่งจะต่อต้านผลกระทบในการเปลี่ยนเสมหะของสูตร ควรบริโภคแอลกอฮอล์เท่าที่จำเป็นหรือหลีกเลี่ยง โดยเฉพาะอย่างยิ่งในผู้ป่วยที่เป็นโรคตับ (แม้จะเตรียมโดยใช้ไวน์แบบดั้งเดิม แต่การใช้ทางคลินิกสมัยใหม่ก็มุ่งเป้าไปที่สภาวะของตับซึ่งแอลกอฮอล์เป็นอันตราย) ชอบทานอาหารที่ย่อยง่ายและอุ่น เช่น โจ๊ก ผักปรุงสุก และโปรตีนไร้มันในปริมาณเล็กน้อย เนื่องจากสูตรนี้ออกฤทธิ์โดยธรรมชาติเป็นหลัก การดูแลให้ได้รับสารอาหารที่เพียงพอจึงเป็นสิ่งสำคัญในการบำรุงเจิ้งฉีของร่างกายในระหว่างการรักษา",
   "ingredients": [
     {
+      "id": 2776,
+      "formula_id": 372,
       "herb_name": "Bie Jia",
       "english_name": "กระดองเต่า (กระดองเต่านิ่มจีน)",
       "role": "ราชา (King)",
-      "dosage": "12 fen (90g in classical conversion)"
+      "dosage": "12 fen (90g in classical conversion)",
+      "temperature": "เย็น",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "ส่วนผสมหลักที่ใช้ในปริมาณที่มากที่สุด รสเค็มของมันทำให้ความแข็งลดลงและละลายมวล ในขณะที่เข้าสู่ช่องตับเพื่อจัดการกับก้อนในช่องท้องโดยตรง (เจิ้งเจีย) อีกทั้งยังบำรุงหยิน ดับร้อน บำรุงร่างกายจากการเจ็บป่วยเรื้อรัง"
     },
     {
+      "id": 2777,
+      "formula_id": 372,
       "herb_name": "Chi Xiao (Red Niter / Nitrum)",
       "english_name": "",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "12 fen (90g in classical conversion)"
+      "dosage": "12 fen (90g in classical conversion)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "ลดความแข็งลงอย่างมีประสิทธิภาพและทำลายการสะสม เมื่อรวมกับ Bie Jia ทำให้เกิดคู่ละลายมวลที่แข็งแกร่ง นอกจากนี้ยังช่วยการทำงานของ Da Huang ระบายน้ำลงเพื่อขจัดความเมื่อยล้า"
     },
     {
+      "id": 2778,
+      "formula_id": 372,
       "herb_name": "Chai Hu",
       "english_name": "รากบูพลูรัม",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "6 fen (45g in classical conversion)"
+      "dosage": "6 fen (45g in classical conversion)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, ถุงน้ำดี, ปอด",
+      "role_description": "เข้าสู่ช่อง Shaoyang เพื่อปลดบล็อกความซบเซาของ Qi ในบริเวณด้านข้างซึ่งมีมวลอยู่ นอกจากนี้ยังแนะนำสูตรไปยังตับและถุงน้ำดี และช่วยแก้ปัญหาเชื้อโรคที่ตกค้างจากระดับครึ่งภายในและครึ่งภายนอก"
     },
     {
+      "id": 2779,
+      "formula_id": 372,
       "herb_name": "Qiang lang",
       "english_name": "มูลด้วง",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "6 fen (45g in classical conversion)"
+      "dosage": "6 fen (45g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "สารกำจัดแมลงที่มีความสามารถในการเจาะทะลุฝูงที่ดื้อรั้นและเปิดการสะสมที่แข็งและแห้ง มันทำงานประสานกับยาแมลงชนิดอื่นเพื่อเจาะลึกเข้าไปในหลักประกันที่ซึ่งความเมื่อยล้าติดอยู่"
     },
     {
+      "id": 2780,
+      "formula_id": 372,
       "herb_name": "Bai Shao",
       "english_name": "รากดอกโบตั๋นสีขาว",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "5 fen (37.5g in classical conversion)"
+      "dosage": "5 fen (37.5g in classical conversion)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ตับ, ม้าม",
+      "role_description": "บำรุงเลือดและยับยั้งหยินเพื่อปกป้องร่างกายจากสมุนไพรที่กระตุ้นการไหลเวียนของเลือดในสูตร มันทำให้ตับนิ่มลง บรรเทาอาการปวด และรักษาสารอาหารของเหลว ในขณะที่ยาทำลายภาวะหยุดนิ่งที่ออกฤทธิ์รุนแรงก็ออกฤทธิ์"
     },
     {
+      "id": 2781,
+      "formula_id": 372,
       "herb_name": "Mu Dan Pi",
       "english_name": "เปลือกรากดอกโบตั๋นต้นไม้",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "5 fen (37.5g in classical conversion)"
+      "dosage": "5 fen (37.5g in classical conversion)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ตับ, ไต",
+      "role_description": "ขจัดความร้อนออกจากระดับเลือดและกระตุ้นการไหลเวียนโลหิต กล่าวถึงความร้อนของเลือดที่เกิดขึ้นเมื่อความเมื่อยล้าก่อให้เกิดความร้อนภายใน และช่วยให้ความเย็นและเคลื่อนภาวะชะงักงันในช่องตับ"
     },
     {
+      "id": 2782,
+      "formula_id": 372,
       "herb_name": "Tu Bie Chong",
       "english_name": "ด้วงดิน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "5 fen (37.5g in classical conversion)"
+      "dosage": "5 fen (37.5g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ",
+      "role_description": "ยาแมลงทำลายเลือดที่มีฤทธิ์รุนแรง ซึ่งกระจายตัวเป็นก้อนและแก้ปัญหาการสะสมที่ฝังลึก มันแทรกซึมเข้าไปในหลักประกันเพื่อขจัดภาวะหยุดนิ่งเรื้อรังที่สมุนไพรจากพืชไม่สามารถเข้าถึงได้"
     },
     {
+      "id": 2783,
+      "formula_id": 372,
       "herb_name": "Feng Fang",
       "english_name": "รังตัวต่อ",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "4 fen (30g in classical conversion)"
+      "dosage": "4 fen (30g in classical conversion)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "กระเพาะอาหาร",
+      "role_description": "ขจัดสารพิษและกระจายอาการบวม เนื่องจากเป็นผลิตภัณฑ์ที่ได้จากแมลง จึงช่วยสารจากสัตว์อื่นๆ ในการค้นหาและขับไล่การสะสมเชื้อโรคที่ฝังลึกออกจากหลักประกัน"
     },
     {
+      "id": 2784,
+      "formula_id": 372,
       "herb_name": "She Gan",
       "english_name": "เหง้าแบล็กเบอร์รี่ลิลลี่",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด",
+      "role_description": "ในข้อความต้นฉบับมีชื่อว่า Wu Shan (乌扇) นี่คือ Belamcanda (She Gan) มันลงมาทำหน้าที่รัฐมนตรีของ Jueyin (ตับ) และช่วยล้างความร้อนจากความเมื่อยล้าของ Qi ช่วยแก้ไขพยาธิสภาพที่พันกันของความร้อน เสมหะ และความชะงักงัน"
     },
     {
+      "id": 2785,
+      "formula_id": 372,
       "herb_name": "Huang Qin",
       "english_name": "ราก Baical Skullcap",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, ถุงน้ำดี, ม้าม, ลำไส้ใหญ่, ลำไส้เล็ก, หัวใจ, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อนและทำให้ความชื้นแห้ง เมื่อใช้ร่วมกับ Gan Jiang จะช่วยปรับสมดุลระหว่างความเย็นและความร้อนภายในสูตร โดยจัดการกับความร้อนผสมที่เกิดจากความเมื่อยล้าเรื้อรัง ในขณะเดียวกันก็ประสาน Shaoyang เข้าด้วยกัน"
     },
     {
+      "id": 2786,
+      "formula_id": 372,
       "herb_name": "Shu Fu (Pill Bug / Woodlouse)",
       "english_name": "",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "สารแมลงที่สลายภาวะหยุดนิ่งของเลือด กระจายอาการบวม และขจัดความแข็ง ทำงานร่วมกับยาฆ่าแมลงชนิดอื่นเพื่อเจาะความเมื่อยล้าในหลักประกัน"
     },
     {
+      "id": 2787,
+      "formula_id": 372,
       "herb_name": "Gan Jiang",
       "english_name": "เหง้าขิงแห้ง",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ม้าม, ปอด, กระเพาะอาหาร",
+      "role_description": "อุ่นตรงกลางและปรับสมดุลของสมุนไพรที่เย็นและขมจำนวนมากในสูตร ด้วย Huang Qin จะสร้างคู่สมดุลระหว่างความเย็นและความอบอุ่น ซึ่งจะปรับไดนามิกของหยิน-หยาง และป้องกันความเสียหายที่เกิดจากความเย็นต่อม้ามและกระเพาะอาหารจากยาทำลายภาวะชะงักงันที่รุนแรง"
     },
     {
+      "id": 2788,
+      "formula_id": 372,
       "herb_name": "Da Huang",
       "english_name": "รากรูบาร์บและเหง้า",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่, ตับ, เยื่อหุ้มหัวใจ",
+      "role_description": "ขจัดความชะงักงันของเลือดและความร้อนสะสมลง มันทำลายความเมื่อยล้าในระดับเลือดและระบายผลิตภัณฑ์ทางพยาธิวิทยาออกทางลำไส้ เมื่อใช้ร่วมกับ Tao Ren และ Chi Xiao จะช่วยให้สูตรมีความสามารถในการโจมตีหยุดนิ่งที่แข็งแกร่ง"
     },
     {
+      "id": 2789,
+      "formula_id": 372,
       "herb_name": "Gui Zhi",
       "english_name": "กิ่งอบเชย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, กระเพาะปัสสาวะ",
+      "role_description": "อุ่นและปลดบล็อกช่อง ส่งเสริมการไหลเวียนของชี่และเลือดผ่านหลักประกัน เมื่อใช้ร่วมกับ Chai Hu ก็สามารถแทรกซึมทั้งภายนอกและภายในเพื่อเปิดเส้นทางที่ความเมื่อยล้าได้เข้ามาขวางไว้"
     },
     {
+      "id": 2790,
+      "formula_id": 372,
       "herb_name": "Shi Wei",
       "english_name": "ใบไพโรเซีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, กระเพาะปัสสาวะ",
+      "role_description": "ช่วยขับปัสสาวะและระบายความร้อนจากหัวเผาบนและกลาง เป็นช่องทางระบายน้ำเพื่อขจัดความชื้นและเสมหะที่เกี่ยวข้องกับการก่อตัวของมวล"
     },
     {
+      "id": 2791,
+      "formula_id": 372,
       "herb_name": "Hou Po",
       "english_name": "เปลือกแมกโนเลีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด, ลำไส้ใหญ่",
+      "role_description": "เคลื่อนย้าย Qi ทำให้ความชื้นแห้ง และกระจายความสมบูรณ์ ช่วยแก้ปัญหาความเมื่อยล้าของชี่และอาการแน่นท้องที่เกี่ยวข้องกับมวล และการทำงานของมันไปถึงตำแหน่งเดิม (达原) ช่วยขับเชื้อโรคที่ติดอยู่ออกไป"
     },
     {
+      "id": 2792,
+      "formula_id": 372,
       "herb_name": "Ling Xiao Hua",
       "english_name": "ดอกทรัมเป็ตครีปเปอร์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, เยื่อหุ้มหัวใจ",
+      "role_description": "กระตุ้นเลือดและล้างความร้อนจากระดับเลือดภายในช่อง Jueyin (ตับ) มันทะลุภาวะหยุดนิ่งของเลือดและแก้ไขการสะสมของลิ่มเลือด"
     },
     {
+      "id": 2793,
+      "formula_id": 372,
       "herb_name": "E Jiao",
       "english_name": "เจลาตินซ่อนลา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "3 fen (22.5g in classical conversion)"
+      "dosage": "3 fen (22.5g in classical conversion)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, ตับ, ไต",
+      "role_description": "บำรุงเลือดและหยินเพื่อปกป้องสารสำคัญจากการถูกทำลายโดยสมุนไพรที่รุนแรงและชะงักงัน สนับสนุนรัฐธรรมนูญของร่างกายในระหว่างการรักษามวลเรื้อรังเชิงรุก"
     },
     {
+      "id": 2794,
+      "formula_id": 372,
       "herb_name": "Qu Mai",
       "english_name": "สมุนไพรฝอยสีชมพู",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "2 fen (15g in classical conversion)"
+      "dosage": "2 fen (15g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ลำไส้เล็ก, กระเพาะปัสสาวะ",
+      "role_description": "ส่งเสริมการปัสสาวะและระบายความชื้นจากเตาด้านล่าง เมื่อใช้ร่วมกับ Shi Wei จะช่วยเปิดทางเดินปัสสาวะเพื่อขับของเหลวและเสมหะออกจากก้อนเนื้อ"
     },
     {
+      "id": 2795,
+      "formula_id": 372,
       "herb_name": "Tao Ren",
       "english_name": "เมล็ดพีช",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "2 fen (15g in classical conversion)"
+      "dosage": "2 fen (15g in classical conversion)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ, ลำไส้ใหญ่",
+      "role_description": "กระตุ้นการไหลเวียนโลหิตและสลายภาวะหยุดนิ่งของเลือด สมุนไพรสำคัญในการกระจายเลือดที่แข็งตัวและทำงานร่วมกับ Da Huang และ Chi Xiao เพื่อสร้างการผสมผสานการชะงักงันที่ทรงพลัง"
     },
     {
+      "id": 2796,
+      "formula_id": 372,
       "herb_name": "Ren Shen",
       "english_name": "รากโสม",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 fen (7.5g in classical conversion)"
+      "dosage": "1 fen (7.5g in classical conversion)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, ปอด, หัวใจ, ไต",
+      "role_description": "เสริมสร้างพลังชี่ดั้งเดิมเพื่อป้องกันไม่ให้ร่างกายพังทลายลงภายใต้การโจมตีของสมุนไพรที่ทรงพลังมากมาย มันยึดหลักชี่อันชอบธรรม (เจิ้งฉี) และสนับสนุนการย่อยอาหารในระหว่างการรักษาที่ยาวนาน"
     },
     {
+      "id": 2797,
+      "formula_id": 372,
       "herb_name": "Ban Xia",
       "english_name": "เหง้าพิเนลเลีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 fen (7.5g in classical conversion)"
+      "dosage": "1 fen (7.5g in classical conversion)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด",
+      "role_description": "ระบายความชื้น แก้เสมหะ และปรับสมดุลกระเพาะอาหาร โดยมุ่งเป้าไปที่ส่วนประกอบเสมหะของมวลและช่วยประสานความสัมพันธ์หยินหยางระหว่างร่างกายส่วนบนและส่วนล่าง"
     },
     {
+      "id": 2798,
+      "formula_id": 372,
       "herb_name": "Ting Li Zi",
       "english_name": "เมล็ดพริกไทย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 fen (7.5g in classical conversion)"
+      "dosage": "1 fen (7.5g in classical conversion)",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, กระเพาะปัสสาวะ",
+      "role_description": "ระบายปอด ขับน้ำสะสม และขจัดความเมื่อยล้าของชี่ ช่วยลดการกักเก็บของเหลวและความแออัดของเสมหะได้อย่างมีประสิทธิภาพ โดยกำหนดเป้าหมายไปที่องค์ประกอบความชื้นของน้ำในมวล"
     }
   ],
   "research": [

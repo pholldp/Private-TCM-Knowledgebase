@@ -24,100 +24,196 @@
   "dietary_advice": "Avoid cold, raw, and icy foods and beverages, as these can worsen Cold-Dampness accumulation in the joints and counteract the formula's warming action. Greasy, heavy, and deep-fried foods should be limited as they generate Dampness and impair Spleen function. Seafood (especially shellfish and crab) is traditionally contraindicated during treatment for Bi syndrome, as it is considered Cold in nature and may aggravate joint symptoms. Alcohol in excess should be avoided as it generates Damp-Heat.\nFavor warm, easily digestible foods. Congee with ginger, soups with warming spices (ginger, cinnamon, black pepper), and well-cooked grains support the Spleen and complement the formula's therapeutic direction. Small amounts of lamb, walnuts, and leeks may help warm the Kidneys. Yi Yi Ren (Job's tears barley) cooked into porridge can gently support Dampness drainage.",
   "ingredients": [
     {
+      "id": 4195,
+      "formula_id": 545,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Powerfully tonifies Qi, strengthens the body's defensive functions, and supports the circulation needed to expel pathogenic factors from the channels. As the lead herb, it anchors the formula's strategy of fortifying the constitution to drive out chronic obstruction."
     },
     {
+      "id": 4196,
+      "formula_id": 545,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Reinforces Qi tonification alongside Huang Qi and supports the Spleen to generate Qi and Blood. Together with Huang Qi, Gui Xin, and Gan Cao, it forms the core of Bao Yuan Tang (Origin-Preserving Decoction) within the formula."
     },
     {
+      "id": 4197,
+      "formula_id": 545,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, helping to address Blood deficiency that underlies chronic Bi syndrome. Combined with Chuan Xiong, Bai Shao, and Sheng Di, it forms Si Wu Tang (Four Substances Decoction) within the formula."
     },
     {
+      "id": 4198,
+      "formula_id": 545,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "Specializes in dispelling Wind-Dampness from the lower body, entering the Kidney channel to search out deep-seated pathogenic factors lurking in the bones and lower extremities. Essential for conditions with lower limb weakness and immobility."
     },
     {
+      "id": 4199,
+      "formula_id": 545,
       "herb_name": "Xu Duan",
       "english_name": "Teasel root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens sinews and bones, and promotes the healing of damaged connective tissue. Works with Du Zhong and Niu Xi to bolster the structural integrity of joints and the lower back."
     },
     {
+      "id": 4200,
+      "formula_id": 545,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Supplements the Liver and Kidneys, strengthens the lower back and knees, and reinforces the bones and sinews. Its warm nature also helps dispel Cold from the lumbar region."
     },
     {
+      "id": 4201,
+      "formula_id": 545,
       "herb_name": "Niu Xi",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Supplements the Liver and Kidneys, strengthens the knees and lower extremities, invigorates Blood, and guides the formula's action downward to the lower body joints."
     },
     {
+      "id": 4202,
+      "formula_id": 545,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Releases the exterior and expels Wind, acting primarily at the Qi level to search out Wind pathogen from the muscles and superficial channels. Its mild nature makes it safe for use in deficiency patients."
     },
     {
+      "id": 4203,
+      "formula_id": 545,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Expels Wind-Dampness from the nutritive (Ying) level of the Blood, relaxes the sinews, and unblocks the channels. It searches out all three types of pathogenic Bi factors lodged within the Blood and channels."
     },
     {
+      "id": 4204,
+      "formula_id": 545,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Penetrates deeply into the Kidney channel and bone marrow level to dislodge Cold and Wind that have become embedded in the deepest tissue layers. Its sharp, dispersing warmth complements the superficial Wind-expelling herbs."
     },
     {
+      "id": 4205,
+      "formula_id": 545,
       "herb_name": "Gui Xin",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Warms the interior, disperses Cold, and promotes Blood circulation through the channels. As the inner bark of cinnamon, it specifically warms the Kidney Yang and drives Cold from the deep channels."
     },
     {
+      "id": 4206,
+      "formula_id": 545,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood, expels Wind from the Blood level, and relieves pain. Known as the herb that searches for Wind within the Blood, it complements Fang Feng (Wind in the Qi) and Xi Xin (Wind in the bone marrow)."
     },
     {
+      "id": 4207,
+      "formula_id": 545,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and Yin, softens the Liver, and relaxes the sinews. Paired with Gan Cao, it eases spasms and cramping in the limbs."
     },
     {
+      "id": 4208,
+      "formula_id": 545,
       "herb_name": "Sheng Di Huang",
       "english_name": "Raw Rehmannia root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Nourishes Yin and Blood, preventing the warm, dispersing herbs in the formula from damaging the body's fluids. As part of the Si Wu Tang component, it replenishes the Blood consumed by chronic illness."
     },
     {
+      "id": 4209,
+      "formula_id": 545,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes the elimination of Dampness through urination. Supports the Spleen's ability to generate Qi and Blood while also draining pathogenic Dampness."
     },
     {
+      "id": 4210,
+      "formula_id": 545,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the ingredients in the formula, moderates the strong dispersing actions of the Wind-expelling herbs, and tonifies the Middle Burner. Paired with Bai Shao, it relaxes sinew spasms."
     }
   ],
   "research": [

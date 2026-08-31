@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, favour foods that calm the Liver and support Yin: celery, chrysanthemum tea, mung beans, leafy greens, pears, and bland grains. Avoid foods that aggravate Liver Yang and generate Heat or Wind: alcohol, coffee, spicy foods (chilli, pepper, garlic in excess), fried or greasy foods, lamb, and heavily roasted or barbecued meats. Rich, heavy foods and excessive salt should also be limited, as they can worsen hypertension and counteract the formula's descending action. Emotional agitation, anger, and excessive stress should be minimised, as these directly stir Liver Yang. Light, regular meals taken at consistent times support the formula's calming effect.",
   "ingredients": [
     {
+      "id": 651,
+      "formula_id": 93,
       "herb_name": "Tian Ma",
       "english_name": "Gastrodia root",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Calms the Liver and extinguishes Wind. As one of the two King herbs, Tian Ma directly addresses the core pathomechanism of Liver Wind stirring upward, relieving headache, dizziness, and tremor."
     },
     {
+      "id": 652,
+      "formula_id": 93,
       "herb_name": "Gou Teng",
       "english_name": "Gambir vine stems and hooks",
       "role": "King",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Clears Heat from the Liver channel and extinguishes Wind. Paired with Tian Ma as co-King, its cool nature complements Tian Ma's balanced nature to powerfully calm Liver Yang and stop spasms."
     },
     {
+      "id": 653,
+      "formula_id": 93,
       "herb_name": "Shi Jue Ming",
       "english_name": "Abalone shell",
       "role": "Deputy",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Heavy, salty, and cold, it anchors rising Yang and subdues the Liver. Reinforces the King herbs' Wind-calming action and adds the downward-directing weight of a mineral/shell substance to pull hyperactive Yang downward."
     },
     {
+      "id": 654,
+      "formula_id": 93,
       "herb_name": "Chuan Niu Xi",
       "english_name": "Cyathula root",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Directs Blood downward, counteracting the upward rush of Qi and Blood to the head. Also invigorates Blood and promotes urination, helping to relieve the fullness and pressure caused by Liver Yang rising."
     },
     {
+      "id": 655,
+      "formula_id": 93,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat and drains Fire, especially from the Liver channel. Prevents Liver Yang from transforming into Liver Fire, addressing irritability and restlessness."
     },
     {
+      "id": 656,
+      "formula_id": 93,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, reinforcing Zhi Zi in clearing Liver Fire. Together they prevent the excess Yang from generating pathological Heat that would further agitate Wind."
     },
     {
+      "id": 657,
+      "formula_id": 93,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys and strengthens sinews and bones. Addresses the root deficiency of Liver and Kidney that allows Yang to rise unchecked, treating the underlying cause while the other herbs manage the symptoms."
     },
     {
+      "id": 658,
+      "formula_id": 93,
       "herb_name": "Sang Ji Sheng",
       "english_name": "Mulberry Mistletoe",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes the Liver and Kidneys and strengthens sinews and bones. Works alongside Du Zhong to reinforce the root, preventing further depletion of Liver-Kidney Yin that would fuel more Yang rising."
     },
     {
+      "id": 659,
+      "formula_id": 93,
       "herb_name": "Yi Mu Cao",
       "english_name": "Chinese motherwort",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Urinary Bladder",
+      "role_description": "Invigorates Blood and promotes urination. Paired with Chuan Niu Xi, it helps move Blood and drain fluids, preventing Blood stasis and fluid retention that can worsen hypertension and headache."
     },
     {
+      "id": 660,
+      "formula_id": 93,
       "herb_name": "Ye Jiao Teng",
       "english_name": "Fleece-flower stem",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Nourishes the Heart and calms the Spirit, addressing the insomnia and restlessness caused by Liver Yang harassing the Heart. Also nourishes Blood and opens the channels."
     },
     {
+      "id": 661,
+      "formula_id": 93,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Calms the Heart and quiets the Spirit. Works with Ye Jiao Teng to settle restlessness and improve sleep quality, a key secondary symptom of this pattern."
     }
   ],
   "research": [

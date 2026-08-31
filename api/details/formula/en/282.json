@@ -24,58 +24,112 @@
   "dietary_advice": "While taking An Tai Zhu Gao, it is advisable to avoid cold and raw foods (such as salads, ice cream, and chilled drinks) that may weaken the Spleen and Stomach, hindering the absorption of the formula's nourishing ingredients. Greasy, heavy, and excessively spicy foods should also be minimized, as they can generate Dampness or Heat that counteracts the formula's therapeutic goals. Light, easily digestible, and warm-natured foods are recommended, such as congee (rice porridge), steamed vegetables, soups with mild seasonings, and small frequent meals. Foods that naturally support Qi and Blood, such as red dates, lean meats, and black sesame, are beneficial. Avoid alcohol entirely during pregnancy.",
   "ingredients": [
     {
+      "id": 1997,
+      "formula_id": 282,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, with a specific affinity for the uterus. Huang Qin is the primary classical herb for clearing fetal Heat and calming the fetus. It addresses the core pathomechanism of Heat disturbing the Chong and Ren vessels."
     },
     {
+      "id": 1998,
+      "formula_id": 282,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and tonifies Qi, supporting the body's ability to hold the fetus. Bai Zhu and Huang Qin together form the classical pairing considered 'sacred herbs for calming the fetus' (安胎圣药)."
     },
     {
+      "id": 1999,
+      "formula_id": 282,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, ensuring adequate Blood supply to nourish the fetus. Its gentle warmth counterbalances the cold nature of Huang Qin."
     },
     {
+      "id": 2000,
+      "formula_id": 282,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver and relieves pain. Helps to ease abdominal cramping and supports the Blood-nourishing function of Dang Gui."
     },
     {
+      "id": 2001,
+      "formula_id": 282,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Enriches Yin and nourishes Blood, providing the deep nourishment needed to sustain the fetus. Builds the Kidney essence that is the root of fetal development."
     },
     {
+      "id": 2002,
+      "formula_id": 282,
       "herb_name": "Sha Ren",
       "english_name": "Amomum fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Transforms Dampness, promotes Qi movement, and calms the fetus. Its aromatic warmth prevents the rich Blood-nourishing herbs from causing stagnation or nausea."
     },
     {
+      "id": 2003,
+      "formula_id": 282,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach, preventing the cloying nature of the tonifying herbs from generating stagnation. Supports digestion during pregnancy."
     },
     {
+      "id": 2004,
+      "formula_id": 282,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Assistant",
-      "dosage": "0.3 - 1g"
+      "dosage": "0.3 - 1g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Settles the Heart and calms the spirit, addressing the anxiety and restlessness that accompanies threatened miscarriage. Its heavy, settling nature anchors fetal Qi downward."
     },
     {
+      "id": 2005,
+      "formula_id": 282,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates the properties of the various ingredients, and supplements Spleen Qi."
     }
   ],
   "research": [],

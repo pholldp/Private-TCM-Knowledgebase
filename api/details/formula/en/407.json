@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods while taking this formula, as they can impair the Spleen's transporting function and generate more Phlegm, worsening cough and wheezing. The Shang Han Lun advises sipping hot rice porridge (稀粥) after taking Gui Zhi Tang-based formulas to support the Stomach Qi and help generate a mild sweat. Avoid sour and astringent foods (vinegar, unripe fruits) that may constrain the exterior and prevent the pathogen from being released. Also avoid alcohol, spicy fried foods, and strong-flavored meats during treatment, as these can generate internal Heat or Dampness that complicates recovery.",
   "ingredients": [
     {
+      "id": 3067,
+      "formula_id": 407,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Releases the muscle layer and resolves the exterior, warms the channels, and harmonizes the protective Qi (Wei Qi). As the chief herb of the base Gui Zhi Tang, it addresses the underlying Wind-Cold invasion at the body surface."
     },
     {
+      "id": 3068,
+      "formula_id": 407,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the nutritive Qi (Ying Qi) and restrains the sweating tendency. Paired with Gui Zhi, the one dispersing and the other collecting, they together harmonize the balance between the body's defensive and nutritive layers."
     },
     {
+      "id": 3069,
+      "formula_id": 407,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Descends Qi, relieves chest and abdominal distension, and transforms dampness and phlegm in the Lungs and middle burner. Together with Xing Ren, it directly addresses the wheezing and dyspnea that the base Gui Zhi Tang cannot resolve alone."
     },
     {
+      "id": 3070,
+      "formula_id": 407,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Promotes the descending function of the Lungs, stops coughing, and calms wheezing. It supports Hou Po in restoring normal downward Lung Qi movement and also gently moistens the intestines."
     },
     {
+      "id": 3071,
+      "formula_id": 407,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle, assists Gui Zhi in dispersing exterior Wind-Cold, and harmonizes the Stomach to stop nausea. Enhances the sweating action of Gui Zhi while supporting digestion."
     },
     {
+      "id": 3072,
+      "formula_id": 407,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "3 - 4 pieces"
+      "dosage": "3 - 4 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies the Spleen and nourishes the nutritive Qi. Paired with Sheng Jiang, it strengthens the Middle Burner to support the body's ability to generate a gentle sweat and recover from illness."
     },
     {
+      "id": 3073,
+      "formula_id": 407,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula and tonifies the Spleen and Stomach. Acts as the moderating, unifying force that ensures the dispersing and descending actions work in concert without excessive sweating or Qi consumption."
     }
   ],
   "research": [],

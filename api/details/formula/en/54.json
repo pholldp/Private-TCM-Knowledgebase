@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid foods that are hard to digest, greasy, or overly rich, as these can impair absorption and worsen the formula's tendency toward cloying dampness. Cold and raw foods (ice cream, cold salads, raw fish) should be minimized, as they can weaken the Spleen's digestive function and counteract the formula's nourishing effects. Spicy, hot foods (chili peppers, strong alcohol, deep-fried foods) should also be limited, as they generate Heat and can aggravate the underlying Yin deficiency.\nFoods that support the formula's action include dark leafy greens, goji berries, black sesame seeds, walnuts, mulberries, chrysanthemum tea, and dark-colored fruits like blueberries and blackberries. These foods nourish Liver Blood and Kidney Essence. Adequate hydration is important for supporting Yin.",
   "ingredients": [
     {
+      "id": 332,
+      "formula_id": 54,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Strongly nourishes Kidney Yin, replenishes Essence (Jing), and tonifies the Blood. As the heaviest herb by dosage in the formula, it anchors the entire prescription by addressing the root cause: Kidney Yin deficiency. By filling the Kidney Essence, it provides the foundation for nourishing the Liver and eyes."
     },
     {
+      "id": 333,
+      "formula_id": 54,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes and tonifies both the Liver and Kidneys, benefits the Essence, and brightens the eyes. It reinforces the King herb's Yin-nourishing action while adding a specific affinity for the Liver and eyes, making it one of the two key additions that distinguish this formula from Liu Wei Di Huang Wan."
     },
     {
+      "id": 334,
+      "formula_id": 54,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes the Liver and Kidneys and restrains the leakage of Essence. Its astringent nature helps prevent Kidney Essence from draining away, enabling the tonic effect of Shu Di Huang to accumulate. It also supports the Liver, complementing Gou Qi Zi."
     },
     {
+      "id": 335,
+      "formula_id": 54,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and consolidates the Kidneys. The Spleen is the source of postnatal Essence, so strengthening it ensures a steady supply of nourishment to replenish Kidney Yin. It stabilizes the Essence and supports digestion so the rich tonic herbs are properly absorbed."
     },
     {
+      "id": 336,
+      "formula_id": 54,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Clears the Liver, calms Liver Yang, disperses wind-heat, and brightens the eyes. It is the second key addition distinguishing this formula. While the other herbs nourish from below (tonifying Yin), Ju Hua works from above, gently clearing heat and excess from the head and eyes. Its cool, light nature balances the rich, heavy tonic herbs."
     },
     {
+      "id": 337,
+      "formula_id": 54,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Kidney turbidity and leaches dampness. It prevents the rich, cloying nature of Shu Di Huang from causing stagnation in the Kidneys, which could generate more deficiency heat. Paired with Shu Di Huang, it ensures that tonification does not lead to congestion."
     },
     {
+      "id": 338,
+      "formula_id": 54,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears deficiency heat from the Liver and cools the Blood. It moderates the warming, astringent nature of Shan Zhu Yu, preventing that herb from generating excess heat. It also directly addresses any Liver fire that may be contributing to eye symptoms."
     },
     {
+      "id": 339,
+      "formula_id": 54,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains dampness. It supports Shan Yao in fortifying the Spleen while preventing fluid accumulation from the heavy tonic herbs. Together with Ze Xie and Mu Dan Pi, it forms the 'three draining' component that keeps the formula balanced and prevents stagnation."
     }
   ],
   "research": [

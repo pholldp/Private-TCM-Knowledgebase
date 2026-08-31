@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid greasy, oily, and fried foods that generate further Dampness and Phlegm. Cold and raw foods (such as salads, ice cream, and chilled drinks) should be minimized, as they can impair the Spleen's already weakened digestive function. Dairy products and excessively sweet foods tend to promote Phlegm production and should be reduced. Favor warm, lightly cooked, easily digestible meals such as rice porridge (congee), steamed vegetables, and mild soups. Small, frequent meals are preferred over large heavy meals to support the Spleen's recovery.",
   "ingredients": [
     {
+      "id": 1475,
+      "formula_id": 217,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Harmonizes the Shaoyang (Lesser Yang) level, vents pathogens outward through the half-exterior half-interior layer, and reduces alternating fever and chills. As the primary herb addressing the core malarial mechanism of pathogens lodged between exterior and interior, it anchors the entire formula."
     },
     {
+      "id": 1476,
+      "formula_id": 217,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Shaoyang and the interior, complementing Chai Hu's outward-venting action with inward Heat-clearing. Together they form the classical pair for resolving Lesser Yang disorders. Huang Qin's bitter-cold quality targets the Heat component of the malarial pathogen."
     },
     {
+      "id": 1477,
+      "formula_id": 217,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness, transforms Phlegm, harmonizes the Stomach, and descends rebellious Qi to stop nausea and vomiting. In malarial conditions complicated by Damp-Phlegm, Ban Xia directly addresses the accumulated pathological fluids."
     },
     {
+      "id": 1478,
+      "formula_id": 217,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, eliminates fullness in the chest and abdomen, dries Dampness, and transforms Phlegm. Works alongside Ban Xia and Qing Pi to address the distension and epigastric oppression caused by accumulated Dampness."
     },
     {
+      "id": 1479,
+      "formula_id": 217,
       "herb_name": "Cao Guo",
       "english_name": "Tsaoko Fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strongly dries Dampness and disperses Cold, with a specific traditional action of interrupting malarial cycles. Its warm, aromatic nature penetrates turbid Dampness lodged in the Spleen and Stomach, targeting the root cause of recurring episodes."
     },
     {
+      "id": 1480,
+      "formula_id": 217,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks through Qi stagnation, disperses accumulation, and smooths the flow of Liver Qi. Addresses the epigastric and flank fullness associated with constrained Qi and Damp-Phlegm obstruction in malarial disorders. Also the namesake herb of the formula."
     },
     {
+      "id": 1481,
+      "formula_id": 217,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen, augments Qi, and dries Dampness. Supports the Spleen's transforming and transporting function to eliminate the root source of Dampness and prevent further Phlegm accumulation."
     },
     {
+      "id": 1482,
+      "formula_id": 217,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes water metabolism, drains Dampness through urination, and supports the Spleen. Works with Bai Zhu to address the underlying Spleen weakness that generates Dampness, and provides a downward drainage route for accumulated pathological fluids."
     },
     {
+      "id": 1483,
+      "formula_id": 217,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 4.5g"
+      "dosage": "3 - 4.5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the other herbs in the formula, moderates the harsh or drying qualities of the Dampness-resolving and Qi-moving herbs, and supports the Spleen with its sweet flavour."
     }
   ],
   "research": [],

@@ -24,16 +24,28 @@
   "dietary_advice": "During treatment, warm and easily digestible foods such as congee, warm broth, and gently cooked grains are strongly preferred. Cold or raw foods, iced drinks, and cold-natured fruits (such as watermelon or pear) should be strictly avoided, as they further damage Yang Qi and oppose the warming action of the formula. Greasy, heavy, or difficult-to-digest foods should also be avoided since the Spleen Qi is already weakened. Because this formula is used in acute emergencies, patients may not be eating at all. As recovery begins, small amounts of warm, nourishing food should be introduced gradually.",
   "ingredients": [
     {
+      "id": 841,
+      "formula_id": 125,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi, rescues from collapse, and secures the body's foundational vitality. As the primary herb, it addresses the critical depletion of Qi that underlies the Yang collapse."
     },
     {
+      "id": 842,
+      "formula_id": 125,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Restores devastated Yang, rescues from counterflow cold, supplements the Fire of the Gate of Vitality (Ming Men), and warms all the organ systems. Works synergistically with Ren Shen to rescue both Qi and Yang simultaneously."
     }
   ],
   "research": [

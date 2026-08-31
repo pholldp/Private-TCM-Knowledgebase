@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible foods such as rice porridge (congee), warm soups, cooked vegetables, and small amounts of ginger tea to support the formula's warming action.\nAvoid cold and raw foods (salads, sashimi, cold drinks, ice cream), greasy or heavy foods that burden the Spleen and generate Dampness, and excessive salt which can worsen water retention. Also avoid sour foods (vinegar, citrus) in excess, as sourness has an astringent nature that may counteract the formula's dispersing action. The classical instructions for Gui Zhi-based formulas recommend eating warm rice porridge after taking the decoction to support the Stomach Qi and aid the sweating response.",
   "ingredients": [
     {
+      "id": 3081,
+      "formula_id": 409,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms Heart Yang and opens the chest, unblocks the flow of Qi in the upper body, and harmonizes the nutritive and protective layers. As the chief herb retained from the parent Gui Zhi Tang (with Shao Yao removed), it drives the formula's strategy of warming and restoring Yang circulation."
     },
     {
+      "id": 3082,
+      "formula_id": 409,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "5 - 15g"
+      "dosage": "5 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Powerfully rescues depleted Kidney Yang and disperses deep internal Cold. Paired with Gui Zhi, it warms both the Heart and Kidney Yang, addressing the root deficiency that allows water and Cold to accumulate."
     },
     {
+      "id": 3083,
+      "formula_id": 409,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the exterior and promotes sweating to expel Cold and dissipate retained fluid through the skin surface. Paired with Gui Zhi, it powerfully promotes the outward movement of Yang Qi and water fluids. The classical text notes that after taking the formula, sweating should feel like 'insects crawling under the skin' as the fluids disperse."
     },
     {
+      "id": 3084,
+      "formula_id": 409,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Penetrates both interior and exterior to search out and expel deeply lodged Cold, and warms the Kidney channel to transform water-dampness. Its ability to 'communicate between the interior and exterior' makes it essential for conditions where Cold has penetrated deeply into the Shaoyin level."
     },
     {
+      "id": 3085,
+      "formula_id": 409,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Assists Ma Huang and Gui Zhi in dispersing exterior Cold, warms the Middle Burner to support digestion, and harmonizes the Stomach to prevent nausea from the other strong warming herbs."
     },
     {
+      "id": 3086,
+      "formula_id": 409,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 - 12 pieces"
+      "dosage": "4 - 12 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, supplements Qi and Blood, and moderates the harshness of the formula's strongly dispersing and warming herbs. Together with Sheng Jiang, it protects the Middle Burner and prevents the formula from depleting the body's vital substances."
     },
     {
+      "id": 3087,
+      "formula_id": 409,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, tonifies Spleen Qi to support the Middle Burner, and paired with Gui Zhi creates a sweet-acrid combination that reinforces Yang Qi. Also moderates the intensity of Ma Huang and Fu Zi."
     }
   ],
   "research": [],

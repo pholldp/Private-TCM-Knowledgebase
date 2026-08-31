@@ -24,112 +24,220 @@
   "dietary_advice": "Avoid cold and raw foods (ice cream, cold salads, raw fish) as these introduce further Cold and Dampness that counteract the formula's warming, dispersing action. Limit greasy, oily, and heavily processed foods, which generate internal Dampness and impede Qi circulation.\nFoods that support the formula's action include warm-natured, mildly spiced dishes: ginger, scallions, cinnamon, turmeric, and moderate amounts of lamb or chicken can help warm the channels. Cooked barley and Job's tears (yi yi ren) as porridge or in soups can gently drain Dampness. Avoid excessive alcohol, which generates Dampness and Heat and may interact with the Blood-moving herbs in the formula.",
   "ingredients": [
     {
+      "id": 2508,
+      "formula_id": 345,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Drains Dampness from the channels and joints, facilitates joint movement, and benefits the sinews. As the principal herb used in the largest dose, it addresses the Dampness that is a core pathogenic factor in Bi syndrome while also supporting the Spleen to resolve the root of Damp accumulation."
     },
     {
+      "id": 2509,
+      "formula_id": 345,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels, disperses Cold, and unblocks stagnation. Essential for Cold-type Bi syndrome, it works with Qiang Huo to warm Yang and free the flow of the vessels."
     },
     {
+      "id": 2510,
+      "formula_id": 345,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Powerfully dispels Wind-Cold-Damp, especially from the upper body and Tai Yang channels. Strongly opens painful obstruction in the joints and works synergistically with Gui Zhi to warm Yang and scatter Cold."
     },
     {
+      "id": 2511,
+      "formula_id": 345,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Strongly dries Dampness and strengthens the Spleen to resolve the root of Damp accumulation. Works with Yi Yi Ren to eliminate Dampness through a combination of drying and seeping methods."
     },
     {
+      "id": 2512,
+      "formula_id": 345,
       "herb_name": "Fang Ji",
       "english_name": "Fourstamen Stephania Root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Urinary Bladder, Kidneys, Spleen",
+      "role_description": "Dispels Wind-Dampness particularly from the lower body, reduces swelling in the joints, and complements Qiang Huo's action on the upper body to ensure the whole body is covered."
     },
     {
+      "id": 2513,
+      "formula_id": 345,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Dispels Wind-Damp from muscles and joints, relaxes sinews, and importantly moistens to prevent the many drying and acrid herbs in this formula from depleting Yin."
     },
     {
+      "id": 2514,
+      "formula_id": 345,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, preventing the many dispersing and drying herbs in the formula from depleting Blood. Also contributes to blood circulation for pain relief."
     },
     {
+      "id": 2515,
+      "formula_id": 345,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Strongly moves Blood and eliminates stasis in the channels. Works synergistically with Tao Ren to address Blood Stasis that has entered the network vessels in chronic Bi syndrome."
     },
     {
+      "id": 2516,
+      "formula_id": 345,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks Blood Stasis and works synergistically with Hong Hua to resolve the blood stagnation component that develops in chronic, enduring joint pain."
     },
     {
+      "id": 2517,
+      "formula_id": 345,
       "herb_name": "Ru Xiang",
       "english_name": "Frankincense resin",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Moves Blood, relaxes sinews, and specifically alleviates pain. Classically paired with Mo Yao for traumatic and Bi-type pain."
     },
     {
+      "id": 2518,
+      "formula_id": 345,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Moves Blood and disperses swelling. Paired with Ru Xiang, these two herbs form a classic combination for pain relief in Bi syndrome."
     },
     {
+      "id": 2519,
+      "formula_id": 345,
       "herb_name": "Di Long",
       "english_name": "Earthworm",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen, Urinary Bladder, Lungs",
+      "role_description": "Opens the collaterals and clears the channels. Particularly effective for contracted, stiff joints where the network vessels are blocked."
     },
     {
+      "id": 2520,
+      "formula_id": 345,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Moves Liver Qi. Because 'Blood follows Qi,' Qi movement enhances Blood circulation throughout the channels and joints. Combined with Su Geng, it harmonizes the Liver and Spleen."
     },
     {
+      "id": 2521,
+      "formula_id": 345,
       "herb_name": "Wu Yao",
       "english_name": "Lindera root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys, Urinary Bladder",
+      "role_description": "Warms and moves Qi while dispersing Cold. Addresses the cold component of the condition and helps warm the Kidneys."
     },
     {
+      "id": 2522,
+      "formula_id": 345,
       "herb_name": "Zi Su Geng",
       "english_name": "Perilla stem",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Regulates Qi circulation and harmonizes the Middle Jiao. Combined with Xiang Fu, these two herbs harmonize the Liver and Spleen, addressing the Liver Qi stagnation component."
     },
     {
+      "id": 2523,
+      "formula_id": 345,
       "herb_name": "Mu Gua",
       "english_name": "Chinese quince fruit",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Relaxes the sinews, specifically benefits the lower limbs, and harmonizes the Stomach to protect it from the harsh Blood-moving and acrid herbs in the formula. Transforms Dampness and relieves cramping."
     },
     {
+      "id": 2524,
+      "formula_id": 345,
       "herb_name": "Chuan Niu Xi",
       "english_name": "Cyathula root",
       "role": "Envoy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Promotes Blood circulation to relieve pain, strengthens the lower back and knees, and supplements the Liver and Kidneys. Serves as an envoy to direct the formula's action downward toward the lower limbs and joints."
     },
     {
+      "id": 2525,
+      "formula_id": 345,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates the harsh properties of the Blood-moving and acrid ingredients, and protects the Middle Burner (digestive system)."
     }
   ],
   "research": [],

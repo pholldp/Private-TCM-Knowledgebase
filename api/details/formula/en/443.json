@@ -24,40 +24,76 @@
   "dietary_advice": "Since this is an external wash formula and not taken internally, strict dietary restrictions are less critical than for oral formulas. However, during recovery from traumatic injury with Blood stasis, it is generally advisable to avoid cold and raw foods, icy drinks, and greasy or heavy meals, as these can impair Qi and Blood circulation and slow healing. Mildly warming, blood-nourishing foods such as bone broth, dark leafy greens, and moderate amounts of ginger or turmeric in cooking may support recovery. Alcohol should be limited, as it can increase bruising and interfere with the body's healing processes.",
   "ingredients": [
     {
+      "id": 3351,
+      "formula_id": 443,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Activates blood circulation and dispels blood stasis, the primary therapeutic action of this formula for traumatic injury. As the main blood-moving herb, it directly addresses the core pathomechanism of stagnant blood accumulating in the channels after impact."
     },
     {
+      "id": 3352,
+      "formula_id": 443,
       "herb_name": "Fan Mu Bie (&#x756A;&#x6728;&#x9CD6; / Ma Qian Zi)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Opens the channels and collaterals, disperses clumps, reduces swelling, and stops pain. Its strong ability to penetrate the network vessels and break up stagnation powerfully supports the King herb's blood-moving action. Processed by deep-frying in oil with the hairs removed to reduce toxicity."
     },
     {
+      "id": 3353,
+      "formula_id": 443,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "In its raw (unprocessed) form used externally, it disperses nodules, reduces swelling, and alleviates pain. It assists the King and Deputy herbs in breaking up clumped blood stasis and reducing local swelling at the injury site."
     },
     {
+      "id": 3354,
+      "formula_id": 443,
       "herb_name": "Gu Sui Bu",
       "english_name": "Drynaria rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Kidneys and strengthens bone and sinew. Its name literally means 'mender of shattered bone,' reflecting its specific action of promoting the healing of damaged bones and connective tissue. It addresses the underlying structural injury while the other herbs focus on stasis."
     },
     {
+      "id": 3355,
+      "formula_id": 443,
       "herb_name": "Cong Xu",
       "english_name": "Green onion root",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "The roots of scallion/green onion open the channels and network vessels, disperse stagnation, and promote the movement of Qi and blood at the surface level. When combined with vinegar in the wash, it enhances the formula's penetrating action through the skin to reach the injured tissues."
     },
     {
+      "id": 3356,
+      "formula_id": 443,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula and moderates the potentially harsh or toxic properties of Fan Mu Bie and raw Ban Xia, ensuring the formula is safe for repeated topical application."
     }
   ],
   "research": [],

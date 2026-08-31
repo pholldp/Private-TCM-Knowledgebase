@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid spicy, greasy, and deep-fried foods while taking this formula, as these can generate additional Heat and worsen Liver fire. Alcohol should be strictly avoided, as it fans internal Heat and further agitates the Liver. Shellfish, shrimp, and other 'stimulating' foods (发物 fa wu) that may trigger or worsen skin eruptions should also be avoided. Favor light, cooling, and easily digestible foods such as mung bean soup, cucumber, pear, celery, and leafy greens. Adequate hydration supports the formula's moistening action.",
   "ingredients": [
     {
+      "id": 422,
+      "formula_id": 64,
       "herb_name": "Gua Lou",
       "english_name": "Trichosanthes fruit",
       "role": "King",
-      "dosage": "30 - 45g (one whole fruit)"
+      "dosage": "30 - 45g (one whole fruit)",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "The whole Trichosanthes fruit, used with skin crushed, serves as the chief herb. It clears Heat, loosens the chest, disperses clumped Qi, moistens dryness, and resolves swelling. Its sweet, cold, and lubricating nature soothes Liver Qi constraint and addresses the underlying Heat and Phlegm stagnation in the rib area."
     },
     {
+      "id": 423,
+      "formula_id": 64,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Powdered licorice root (raw) moderates the urgency of the Liver, relaxes tension, relieves pain, and harmonizes the other ingredients. Its sweet flavour nourishes the Spleen and buffers the Liver, while its detoxifying properties support the resolution of any toxic Heat."
     },
     {
+      "id": 424,
+      "formula_id": 64,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Assistant",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Safflower invigorates Blood circulation and dispels Blood stasis, addressing the pain and discoloration associated with stagnant Blood in the channels. It helps resolve the blisters and prevents lingering pain after the acute phase."
     }
   ],
   "research": [

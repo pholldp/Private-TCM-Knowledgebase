@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, favor warm, cooked foods that support circulation and digestive warmth. Ginger tea, warming soups and stews, lamb, and moderate amounts of warming spices (cinnamon, black pepper, fennel) are beneficial.\nAvoid cold and raw foods including salads, raw fruits, iced drinks, ice cream, and cold dairy products, as these can aggravate Cold accumulation in the lower abdomen and counteract the formula's warming effects. Also avoid excessively greasy or rich foods that may impair digestion and generate Dampness. During menstruation, particularly avoid sour foods (vinegar, citrus) which have an astringent quality that may impede the smooth discharge of menstrual blood.",
   "ingredients": [
     {
+      "id": 468,
+      "formula_id": 69,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood, regulates menstruation, and generates new Blood while dispersing stasis. As the herb with the largest dosage, it anchors the formula's Blood-moving action while preventing excessive consumption of Blood from the other stasis-dispelling ingredients."
     },
     {
+      "id": 469,
+      "formula_id": 69,
       "herb_name": "Pu Huang",
       "english_name": "Cattail pollen",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Used raw (生蒲黄) in this formula to emphasize its Blood-invigorating and stasis-dispersing action. Together with Wu Ling Zhi it forms Shi Xiao San (Sudden Smile Powder), a potent pairing for activating Blood and stopping pain in the lower abdomen."
     },
     {
+      "id": 470,
+      "formula_id": 69,
       "herb_name": "Wu Ling Zhi",
       "english_name": "Flying squirrel feces",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Paired with Pu Huang to form Shi Xiao San, it activates Blood circulation, disperses stasis, and stops pain. Used dry-fried (炒) to strengthen its pain-stopping effect and reduce its tendency to upset the stomach."
     },
     {
+      "id": 471,
+      "formula_id": 69,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Known as the 'Qi herb within the Blood,' it powerfully moves both Qi and Blood. It reinforces the Blood-invigorating action of the Kings while ensuring that Qi circulation supports Blood movement, following the principle that when Qi moves, Blood follows."
     },
     {
+      "id": 472,
+      "formula_id": 69,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Clears Heat from the Blood, invigorates Blood, and disperses stasis. It complements Dang Gui by adding a cooling, stasis-clearing dimension that helps balance the warming nature of the formula and prevents the warm herbs from generating excessive Heat."
     },
     {
+      "id": 473,
+      "formula_id": 69,
       "herb_name": "Xiao Hui Xiang",
       "english_name": "Fennel fruit",
       "role": "Assistant",
-      "dosage": "1.5 - 6g"
+      "dosage": "1.5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen, Stomach",
+      "role_description": "Warms the Liver channel and lower abdomen, disperses Cold, and regulates Qi. It directs the warming action specifically to the lower abdomen and Liver channel, addressing the Cold that causes Blood to congeal."
     },
     {
+      "id": 474,
+      "formula_id": 69,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the interior, disperses Cold from the channels, and supports Yang. Works with Xiao Hui Xiang and Guan Gui to form the warming triad that addresses the root cause of Cold congealing Blood in the lower abdomen."
     },
     {
+      "id": 475,
+      "formula_id": 69,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Powerfully warms the Kidney Yang and the channels, promotes Blood circulation by warming, and helps guide the other herbs to the lower body. It strengthens the warming strategy and encourages Blood flow through the pelvic vessels."
     },
     {
+      "id": 476,
+      "formula_id": 69,
       "herb_name": "Yan Hu Suo",
       "english_name": "Corydalis rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "One of the most effective Qi-and-Blood-moving pain relievers in Chinese medicine. It targets both Qi stagnation and Blood stasis pain, significantly strengthening the formula's analgesic action."
     },
     {
+      "id": 477,
+      "formula_id": 69,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Disperses Blood stasis, reduces swelling, and alleviates pain. It complements Yan Hu Suo in strengthening the formula's pain-relieving capacity, particularly for fixed, stabbing pain from Blood stasis."
     }
   ],
   "research": [

@@ -24,94 +24,184 @@
   "dietary_advice": "Avoid raw, cold, and hard-to-digest foods while taking this formula, as stated in the original text (忌生冷硬物). Cold and raw foods impede Spleen function and counteract the formula's warming, Dampness-resolving actions.\nAvoid greasy, deep-fried, and overly rich foods, which generate further Dampness and food stagnation.\nAvoid spicy-hot foods (chili peppers, excessive alcohol) that may generate Heat and disturb the Stomach.\nFavor warm, easily digestible meals such as congee, lightly cooked vegetables, and mild soups.\nEat smaller portions at regular intervals rather than large meals.\nThe original text also advises to avoid anger (忌怒), as emotional agitation disrupts Liver Qi flow and worsens the condition this formula treats.",
   "ingredients": [
     {
+      "id": 2423,
+      "formula_id": 338,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "The chief herb and namesake of the formula. Mu Xiang powerfully moves Qi in the Spleen, Stomach, and intestines, relieving distension and pain in the middle digestive region. It is the primary agent for restoring the smooth flow of Qi when turbid Qi accumulates above."
     },
     {
+      "id": 2424,
+      "formula_id": 338,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "4 - 9g"
+      "dosage": "4 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Used at the highest dosage in the original formula, Hou Po descends Qi, eliminates fullness and distension, and dries Dampness. It strongly supports Mu Xiang in opening the middle Burner and directing turbid Qi downward."
     },
     {
+      "id": 2425,
+      "formula_id": 338,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Also used at a relatively high dosage in the original formula, Dang Gui nourishes and activates Blood. In a formula dominated by warm, aromatic, Qi-moving herbs, it protects the Blood from being consumed by the drying nature of the other ingredients and ensures smooth circulation alongside Qi movement."
     },
     {
+      "id": 2426,
+      "formula_id": 338,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Strongly dries Dampness and strengthens the Spleen's transforming function. Addresses the root accumulation of Dampness in the middle Burner that gives rise to the turbid Qi."
     },
     {
+      "id": 2427,
+      "formula_id": 338,
       "herb_name": "Cao Dou Kou",
       "english_name": "Katsumada&#x27;s galangal seed",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Warms the middle Burner, dries Dampness, and moves Qi. Works with Mu Xiang and the other aromatic herbs to dispel cold-Dampness lodged in the Spleen and Stomach, alleviating epigastric fullness."
     },
     {
+      "id": 2428,
+      "formula_id": 338,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks stagnant Qi, disperses accumulation, and spreads Liver Qi. Its stronger Qi-moving action complements the gentler Chen Pi, addressing Qi stagnation in the flanks and hypochondrium."
     },
     {
+      "id": 2429,
+      "formula_id": 338,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, dries Dampness, and harmonizes the Stomach. Helps restore the Spleen's transportation and the Stomach's descending function, while preventing stagnation from the formula's warmer herbs."
     },
     {
+      "id": 2430,
+      "formula_id": 338,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness, transforms Phlegm, and descends rebellious Stomach Qi. Specifically addresses nausea and the sensation of fullness in the chest caused by turbid Qi and Phlegm-Dampness failing to descend."
     },
     {
+      "id": 2431,
+      "formula_id": 338,
       "herb_name": "Yi Zhi Ren",
       "english_name": "Alpinia Fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Kidneys",
+      "role_description": "Warms the Spleen and Kidney, consolidates fluids, and warms the middle Burner. Supports the Spleen Yang to prevent further Dampness accumulation and assists the ascending of clear Yang Qi."
     },
     {
+      "id": 2432,
+      "formula_id": 338,
       "herb_name": "Wu Zhu Yu",
       "english_name": "Evodia fruit",
       "role": "Assistant",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach, Kidneys",
+      "role_description": "Warms the Liver and Stomach, disperses Cold, and descends rebellious Qi. Addresses the cold component of the pathology and counteracts nausea and acid reflux caused by Cold obstructing the Stomach."
     },
     {
+      "id": 2433,
+      "formula_id": 338,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Assistant",
-      "dosage": "2 - 6g"
+      "dosage": "2 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the middle Burner and dispels Cold from the Spleen and Stomach. Reinforces the warming strategy of the formula and assists the Spleen Yang in transforming Dampness."
     },
     {
+      "id": 2434,
+      "formula_id": 338,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and leaches out Dampness through the urinary pathway. Provides a downward drainage route for the accumulated turbid fluids, complementing the aromatic drying approach of the other herbs."
     },
     {
+      "id": 2435,
+      "formula_id": 338,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains Dampness downward. Works with Fu Ling to provide a clear exit pathway for turbid fluids, supporting the overall strategy of separating clear from turbid."
     },
     {
+      "id": 2436,
+      "formula_id": 338,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Lifts the clear Yang Qi upward. Used in a very small dose as a directional guide, it raises the clear Qi of the Spleen and Stomach that has sunk, working in tandem with Chai Hu. This ascending action is central to Li Dongyuan's therapeutic strategy of restoring the proper up-and-down movement of Qi."
     },
     {
+      "id": 2437,
+      "formula_id": 338,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Raises Yang Qi and spreads Liver Qi. Paired with Sheng Ma, it lifts the depressed clear Qi of the Shaoyang channel, ensuring the formula does not merely descend turbid Qi but also restores the ascending of clear Qi, completing the bidirectional regulation."
     }
   ],
   "research": [],

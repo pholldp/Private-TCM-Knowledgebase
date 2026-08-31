@@ -24,76 +24,148 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and excessive dairy, as these can generate further Cold-Dampness in the lower body and counteract the formula's warming, Dampness-dispelling action. Reduce greasy, fried, and heavy foods that contribute to Dampness and Phlegm accumulation. Alcohol in small amounts (particularly warm rice wine) is traditionally considered compatible and was in fact part of the original administration method. Favor lightly warming, easy-to-digest foods such as cooked vegetables, soups, and mild spices like fresh ginger.",
   "ingredients": [
     {
+      "id": 3235,
+      "formula_id": 429,
       "herb_name": "Ju He",
       "english_name": "Tangerine seed",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The chief herb of the formula, Ju He enters the Liver channel to move Qi, disperse stagnation, and relieve pain. It specifically targets swelling and hardness of the testicles and is the defining herb for treating hernia-type disorders (shan qi)."
     },
     {
+      "id": 3236,
+      "formula_id": 429,
       "herb_name": "Chuan Lian Zi",
       "english_name": "Sichuan Chinaberry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Small Intestine, Urinary Bladder",
+      "role_description": "Enters the Liver channel Qi level to promote Qi movement and relieve pain. Assists the King herb in unblocking Liver Qi stagnation in the lower abdomen and groin."
     },
     {
+      "id": 3237,
+      "formula_id": 429,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "A powerful Qi-moving herb that enters the Liver channel's Qi level. Works alongside the King to promote the smooth flow of Qi through the Liver channel and relieve distension and pain."
     },
     {
+      "id": 3238,
+      "formula_id": 429,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Enters the Liver channel's Blood level to activate Blood circulation, dispel Blood stasis, and reduce swelling. Complements the Qi-moving herbs by addressing the Blood stagnation component of the pathology."
     },
     {
+      "id": 3239,
+      "formula_id": 429,
       "herb_name": "Yan Hu Suo",
       "english_name": "Corydalis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Enters the Liver channel's Blood level to invigorate Blood and powerfully relieve pain. Paired with Tao Ren, it addresses Blood stasis that accompanies Qi stagnation in the Liver channel."
     },
     {
+      "id": 3240,
+      "formula_id": 429,
       "herb_name": "Hai Zao",
       "english_name": "Sargassum seaweed",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "Salty and cold, it softens hardness and disperses nodules. Targets the hard, stone-like swelling of the testicles by breaking down pathological accumulations."
     },
     {
+      "id": 3241,
+      "formula_id": 429,
       "herb_name": "Kun Bu",
       "english_name": "Kelp",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "Salty and cold, it works synergistically with Hai Zao and Hai Dai to soften hardness, dissipate nodules, and promote the drainage of pathological fluids."
     },
     {
+      "id": 3242,
+      "formula_id": 429,
       "herb_name": "Hai Zao",
       "english_name": "Sargassum seaweed",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "Completes the trio of salty, softening seaweed herbs. Together they form a powerful group for resolving hard masses and reducing scrotal swelling."
     },
     {
+      "id": 3243,
+      "formula_id": 429,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the Liver and Kidney, expels Cold from the lower body, and supplements the Fire of the Ming Men (life gate). Addresses the root Cold component of the condition that allows dampness to congeal."
     },
     {
+      "id": 3244,
+      "formula_id": 429,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Descends Qi, dries Dampness, and helps break up accumulations of fluid and stagnant Blood in the lower abdomen. Reinforces the formula's ability to address Dampness."
     },
     {
+      "id": 3245,
+      "formula_id": 429,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Strongly moves Qi and breaks through stagnation. Helps disperse hardened accumulations and complements the Qi-regulating action of the formula."
     },
     {
+      "id": 3246,
+      "formula_id": 429,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Opens the water passages and drains Dampness downward through the urine. Directs the pathological Dampness out of the lower body via the Bladder, serving as a channel guide for the formula."
     }
   ],
   "research": [],

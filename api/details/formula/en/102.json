@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, iced drinks, and excessively greasy or rich foods, as these can impede Blood circulation and counteract the formula's stasis-dispelling action.\nAvoid alcohol, as it can increase bleeding and interact with Da Huang.\nFavor warm, easily digestible foods that gently support Blood production, such as congee with red dates, leafy greens, and light soups. Dark leafy vegetables and moderate amounts of lean protein can help support Blood recovery after the stasis is resolved.\nAvoid spicy, hot foods (chili, pepper, ginger in excess) during active bleeding, as these may aggravate the Heat component and worsen hemorrhage.",
   "ingredients": [
     {
+      "id": 711,
+      "formula_id": 102,
       "herb_name": "Sh&#x113;ng D&#xEC; Hu&#xE1;ng (&#x751F;&#x5730;&#x9EC4;, Unprepared Rehmannia Root)",
       "english_name": "",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Used at the highest dose in the formula, Sheng Di Huang cools the Blood, nourishes Yin, and clears Heat from the Blood level. It prevents the Blood-invigorating herbs from consuming Yin and ensures that the formula stops bleeding without leaving residual Heat."
     },
     {
+      "id": 712,
+      "formula_id": 102,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The tail portion of Dang Gui is specifically selected for its stronger Blood-invigorating action compared to the whole root. It nourishes Blood while actively moving stasis, supporting the formula's dual strategy of dispelling old Blood and generating new Blood."
     },
     {
+      "id": 713,
+      "formula_id": 102,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi to support the movement of Blood. In TCM, Qi is the commander of Blood, so promoting Qi circulation ensures that Blood stasis can be effectively resolved. Used at a high dose to strongly regulate the Qi dynamic."
     },
     {
+      "id": 714,
+      "formula_id": 102,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "A powerful herb for breaking up Blood stasis and driving it downward for expulsion. It also clears Heat from the Blood and unblocks the bowels, providing a downward pathway for the stagnant Blood to be eliminated."
     },
     {
+      "id": 715,
+      "formula_id": 102,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Cools the Blood and invigorates Blood circulation while clearing Blood-level Heat. It reinforces both the stasis-dispelling and Heat-clearing actions of the formula."
     },
     {
+      "id": 716,
+      "formula_id": 102,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks up Blood stasis and promotes the movement of Blood through the channels. It works synergistically with Da Huang and Dan Pi to form a powerful stasis-dispelling trio."
     },
     {
+      "id": 717,
+      "formula_id": 102,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "A substance rich in Yin-nourishing properties that enters the Directing Vessel (Ren Mai) and Penetrating Vessel (Chong Mai), as well as the Uterus. It anchors floating Yang, nourishes Yin, and stops uterine bleeding, providing a stabilizing counterbalance to the strongly moving herbs in the formula."
     },
     {
+      "id": 718,
+      "formula_id": 102,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools the Blood, clears Blood-level Heat, and activates Blood circulation to dispel stasis. Used at a small dose, it directs the formula into the Blood level and coordinates the cooling and moving actions of the other herbs."
     }
   ],
   "research": [],

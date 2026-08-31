@@ -24,46 +24,88 @@
   "dietary_advice": "Favor warm, easily digestible, cooked foods such as congee (rice porridge), soups, stewed root vegetables, well-cooked grains, and mild proteins. These support the formula's goal of rebuilding middle burner function.\nAvoid cold and raw foods (salads, iced drinks, raw fruit), greasy or fried foods, and overly sweet or rich desserts, all of which burden the weakened Spleen and Stomach. Dairy products should be minimized as they tend to generate Dampness. Spicy or acrid foods in excess should also be avoided, as they can scatter the Qi that the formula is trying to consolidate.\nEat regular, moderate-sized meals rather than large heavy ones. The classical approach emphasizes gentle nourishment, sometimes described as eating soft foods like porridge on the day of taking the formula.",
   "ingredients": [
     {
+      "id": 1244,
+      "formula_id": 183,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "The defining addition to the base Xiao Jian Zhong Tang formula. Huang Qi powerfully tonifies Qi, strengthens the Spleen, and raises Yang. It also secures the exterior to stop spontaneous sweating, and its tissue-regenerating properties support healing of damaged mucous membranes. Combined with Yi Tang, it forms the core Qi-tonifying axis of the formula."
     },
     {
+      "id": 1245,
+      "formula_id": 183,
       "herb_name": "Yi Tang",
       "english_name": "Maltose syrup",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Maltose is the sweet, warming core of the Jian Zhong formula family. It tonifies the Middle Burner, nourishes Qi and Blood, and is the primary herb for relieving cramping abdominal pain through its sweet, relaxing nature (甘以缓急). As the essence of grain, it directly supplements the Spleen and Stomach."
     },
     {
+      "id": 1246,
+      "formula_id": 183,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the Yang of the Middle Burner and disperses Cold. Combined with Bai Shao, it harmonizes the Ying (nutritive) and Wei (defensive) Qi. Its pungent warmth paired with the sweetness of Yi Tang and Gan Cao creates the 'pungent-sweet transforms into Yang' (辛甘化阳) dynamic that is essential to building central Yang."
     },
     {
+      "id": 1247,
+      "formula_id": 183,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Used at double the dose of Gui Zhi (the defining ratio change from Gui Zhi Tang), Bai Shao nourishes Ying Blood and Yin, softens the Liver, and relieves abdominal cramping. Its sour-sweet nature paired with Gan Cao creates the 'sour-sweet transforms into Yin' (酸甘化阴) dynamic, ensuring that both Yin and Yang are replenished."
     },
     {
+      "id": 1248,
+      "formula_id": 183,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach, aids digestion, and assists Gui Zhi in dispersing Cold from the Middle Burner. It also harmonizes the Stomach to prevent nausea and promotes the movement of Wei Qi."
     },
     {
+      "id": 1249,
+      "formula_id": 183,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 - 6 pieces"
+      "dosage": "4 - 6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies the Spleen and nourishes Blood and Qi. Working with Sheng Jiang, it harmonizes the nutritive and defensive layers. Its sweet nature supports the overall Middle Burner-tonifying strategy of the formula."
     },
     {
+      "id": 1250,
+      "formula_id": 183,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Licorice tonifies the Spleen Qi, relieves spasmodic abdominal pain in combination with Bai Shao (the classic Shao Yao Gan Cao Tang pairing), and harmonizes all the herbs in the formula. It is the envoy that ties the prescription together."
     }
   ],
   "research": [

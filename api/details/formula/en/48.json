@@ -24,46 +24,88 @@
   "dietary_advice": "During treatment, avoid cold and raw foods (such as iced drinks, raw salads, and chilled fruits) as these impair the Stomach Qi that the formula is working to support. Avoid greasy, heavy, and deep-fried foods, which create Dampness and obstruct the Qi mechanism the formula aims to restore. Spicy, hot foods and alcohol should also be avoided, as they may generate Heat and counteract the formula's harmonizing action. Favour light, easily digestible, warm-cooked meals such as congee, steamed vegetables, and simple soups. The classical Shang Han Lun dietary advice for decoction formulas generally emphasizes eating bland and easily digested foods and avoiding overeating during treatment. Emotional agitation (anger in particular) should also be avoided, as it disrupts the Liver Qi that this formula is working to smooth.",
   "ingredients": [
     {
+      "id": 295,
+      "formula_id": 48,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The chief herb that vents pathogenic factors from the Shaoyang level and restores the smooth flow of Qi through the Liver and Gallbladder channels. Its bitter, pungent, and cool nature disperses constraint and clears heat lodged between the exterior and interior."
     },
     {
+      "id": 296,
+      "formula_id": 48,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat from the interior aspect of the Shaoyang. Its bitter, cold nature drains fire and eliminates the irritability and chest heat that develop when the pathogen turns inward. Paired with Chai Hu, it forms the core Chai-Qin combination that addresses both the half-exterior and half-interior aspects of the disease."
     },
     {
+      "id": 297,
+      "formula_id": 48,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Harmonises the Stomach, descends rebellious Qi, and stops nausea and vomiting. When Gallbladder heat invades the Stomach, it disrupts the downward movement of Stomach Qi. Ban Xia directly addresses this, and also transforms phlegm and dampness that may accumulate."
     },
     {
+      "id": 298,
+      "formula_id": 48,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies the Qi of the Spleen and Stomach, supporting the body's righteous Qi (zheng qi) to resist the pathogen. The Shang Han Lun explains that the pathogen enters the Shaoyang because of underlying weakness, so strengthening the middle is essential to prevent further inward transmission."
     },
     {
+      "id": 299,
+      "formula_id": 48,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle burner, assists Ban Xia in stopping nausea, and helps harmonise the Stomach. Also moderates the toxicity of Ban Xia."
     },
     {
+      "id": 300,
+      "formula_id": 48,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 - 6 pieces"
+      "dosage": "4 - 6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, supports the production of Qi and Blood, and works with Sheng Jiang to harmonise the Ying (nutritive) and Wei (defensive) levels. Helps moderate the formula and protect the Stomach."
     },
     {
+      "id": 301,
+      "formula_id": 48,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen Qi, assists Ren Shen in supporting the middle burner, and harmonises all the herbs in the formula."
     }
   ],
   "research": [

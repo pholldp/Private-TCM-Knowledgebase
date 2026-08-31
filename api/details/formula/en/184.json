@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid cold, raw, and chilled foods and beverages, which would directly counteract the formula's warming action and worsen the Cold pattern. The classical text specifically instructs drinking warm rice porridge (粥) after taking the formula and eating only soft, warm, easily digestible food (糜) for the rest of the day. Stay warmly covered (温覆之) after taking the formula to help the body recover its warmth. Avoid greasy, heavy, or hard-to-digest foods that would burden the already weakened Spleen and Stomach.",
   "ingredients": [
     {
+      "id": 1251,
+      "formula_id": 184,
       "herb_name": "Hua Jiao",
       "english_name": "Sichuan Peppercorn",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "The principal warming agent in the formula. Shu Jiao is pungent and hot, entering the Spleen, Stomach, and Kidney channels. It powerfully warms the middle burner, dispels deep cold, stops pain, and directs Qi downward. It also warms the Gate of Vitality (Ming Men), mobilizing Yang from its root. Its ability to both warm and descend makes it uniquely suited for this pattern where cold causes both pain and upward rebellion of Qi."
     },
     {
+      "id": 1252,
+      "formula_id": 184,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Reinforces and supports Shu Jiao in warming the middle burner and dispersing interior cold. Gan Jiang is pungent and hot, with a stable, anchoring quality that complements the more mobile nature of Shu Jiao. It warms the Spleen and Stomach, restores Yang, and helps prevent cold Stomach Qi from surging upward, thereby easing vomiting."
     },
     {
+      "id": 1253,
+      "formula_id": 184,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Spleen and Stomach Qi to address the underlying deficiency at the root of this pattern. The severe cold and pain have greatly injured the middle Qi, and without replenishing it, the warming herbs alone cannot rebuild the center. Ren Shen works with Yi Tang to reconstruct the middle burner's functional capacity."
     },
     {
+      "id": 1254,
+      "formula_id": 184,
       "herb_name": "Yi Tang",
       "english_name": "Maltose syrup",
       "role": "Envoy",
-      "dosage": "20 - 30g"
+      "dosage": "20 - 30g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Sweet, warm, and nourishing, Yi Tang tonifies the middle burner, moderates urgency, and alleviates pain. It also serves a critical moderating role by tempering the harsh, acrid drying nature of Shu Jiao and Gan Jiang, protecting the Stomach and Spleen from being further damaged by their intensity. As the 'quintessence of grain,' it is ideally suited to nourish the Earth element."
     }
   ],
   "research": [

@@ -24,52 +24,100 @@
   "dietary_advice": "While taking Da An Wan, avoid the very foods that caused the problem: greasy, fried, and rich fatty foods; raw and cold foods (including cold drinks, ice cream, and excessive raw salads); and excessively sweet or sticky foods that are hard to digest. Alcohol should also be avoided as it generates Dampness and Heat. Instead, favor simple, easily digestible meals such as plain rice congee, steamed vegetables, and light soups. Eat smaller portions at regular intervals rather than large meals. Chew food thoroughly and avoid eating late at night. Once the food stagnation has cleared, gradually reintroduce a normal diet while maintaining moderate portion sizes.",
   "ingredients": [
     {
+      "id": 2845,
+      "formula_id": 379,
       "herb_name": "Shan Zha",
       "english_name": "Hawthorn fruit",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "The primary digestive herb in the formula. Its sour and warm nature excels at dissolving food stagnation, particularly from meat and greasy foods. Used at the heaviest dosage alongside Bai Zhu to directly address the core problem of accumulated food in the Stomach."
     },
     {
+      "id": 2846,
+      "formula_id": 379,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "The key addition that distinguishes Da An Wan from Bao He Wan. Its bitter, sweet, and warm nature tonifies Spleen Qi and strengthens the Spleen's ability to transform and transport food. Used at the same heavy dosage as Shan Zha, it addresses the underlying Spleen weakness that allows food to accumulate in the first place."
     },
     {
+      "id": 2847,
+      "formula_id": 379,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "A fermented preparation that supports digestion and helps break down stale, fermented food and alcohol-related stagnation. Works alongside Shan Zha and Lai Fu Zi to cover all types of food accumulation."
     },
     {
+      "id": 2848,
+      "formula_id": 379,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms Phlegm that arises from impaired Spleen function. Also descends rebellious Stomach Qi to stop nausea and vomiting, a common symptom of food stagnation."
     },
     {
+      "id": 2849,
+      "formula_id": 379,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness through its bland, sweet nature. Works synergistically with Bai Zhu to support Spleen function, while removing the Dampness that food stagnation generates."
     },
     {
+      "id": 2850,
+      "formula_id": 379,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach. Its aromatic nature cuts through turbidity and foul accumulation in the digestive tract, helping to relieve bloating and distension by promoting the smooth flow of Qi through the middle burner."
     },
     {
+      "id": 2851,
+      "formula_id": 379,
       "herb_name": "Lai Fu Zi",
       "english_name": "Radish seed",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Descends Qi and reduces food stagnation, particularly from grain and starchy foods. Also helps dissolve Phlegm and relieve distension in the chest and abdomen."
     },
     {
+      "id": 2852,
+      "formula_id": 379,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat and disperses clumping. When food stagnates for a prolonged period, it tends to generate Heat. Lian Qiao addresses this secondary Heat while also helping to break up areas of accumulation."
     }
   ],
   "research": [],

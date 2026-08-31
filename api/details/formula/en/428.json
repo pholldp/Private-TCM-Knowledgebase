@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruits in excess) as they can further impair the Spleen's ability to transform fluids and may increase Phlegm production. Limit greasy, fried, and overly rich foods, as well as dairy products and excessive sweets, which are considered Phlegm-generating in TCM.\nFavor warm, easily digestible foods such as congee (rice porridge), cooked vegetables, ginger tea, and clear soups. Pears cooked with a little rock sugar or white radish soup can gently support the Lungs. Small amounts of warming spices like ginger, cardamom, or cinnamon in cooking can assist the formula's Phlegm-transforming function.\nAvoid alcohol and smoking, which generate Dampness-Heat and directly damage the Lungs.",
   "ingredients": [
     {
+      "id": 3228,
+      "formula_id": 428,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The principal herb of the formula, Shu Di Huang heavily nourishes Kidney Yin, fills the essence, and supplements blood. Zhang Jing-Yue regarded it as the key substance for replenishing the fundamental Yin of the Kidneys, which is the root cause of the phlegm production in this pattern. By restoring Kidney Water, it addresses the source of the condition. Its dose is the largest in the formula and should be adjusted based on the severity of deficiency."
     },
     {
+      "id": 3229,
+      "formula_id": 428,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Paired with Shu Di Huang as a co-King (together forming Zhen Yuan Yin), Dang Gui nourishes and invigorates blood while assisting Shu Di Huang in supplementing Kidney Yin essence. It also helps direct Qi back to its root, supports the body's resistance to external pathogens, and has a classical action of calming cough and counterflow Qi. Its warm, moving quality prevents the stagnation that Shu Di Huang's rich, cloying nature might otherwise cause."
     },
     {
+      "id": 3230,
+      "formula_id": 428,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The primary phlegm-resolving herb in the formula, Ban Xia dries dampness, transforms phlegm, directs rebellious Qi downward, and harmonizes the Stomach. It counters the nausea and vomiting that accompany this pattern and works in balance with Shu Di Huang: its drying nature is moderated by the moistening Yin-nourishing herbs."
     },
     {
+      "id": 3231,
+      "formula_id": 428,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains dampness through the urinary pathway, addressing the root of phlegm production by eliminating the dampness from which phlegm forms. It supports the Spleen's transport and transformation function to cut off the source of new phlegm generation."
     },
     {
+      "id": 3232,
+      "formula_id": 428,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "4.5 - 5g"
+      "dosage": "4.5 - 5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and resolves phlegm, helping to ensure smooth Qi movement so that phlegm can be properly transformed and expelled. When Qi flows smoothly, phlegm dissolves. Chen Pi also harmonizes the Stomach and prevents the cloying nature of Shu Di Huang from causing stagnation."
     },
     {
+      "id": 3233,
+      "formula_id": 428,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "3 - 7 slices"
+      "dosage": "3 - 7 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle, helps descend counterflow Qi, and reduces the toxicity of Ban Xia. It also strengthens the phlegm-transforming and anti-nausea effect of the formula, and assists in dispersing any lingering superficial cold."
     },
     {
+      "id": 3234,
+      "formula_id": 428,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, tonifies the Spleen Qi, and moderates the drying and moistening properties of the other ingredients to ensure balance. It also helps settle cough."
     }
   ],
   "research": [

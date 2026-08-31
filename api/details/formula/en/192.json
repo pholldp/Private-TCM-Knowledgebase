@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, eat warm, easily digestible foods such as plain rice porridge (congee) with scallions. After taking the decoction, drinking hot scallion-and-soybean broth or warm porridge is traditionally recommended to support sweating. Avoid cold, raw, and greasy foods, as these can obstruct the Stomach and hinder the formula's ability to promote sweating. Also avoid sour and astringent foods (such as vinegar and unripe fruits), which can constrict the pores and counteract the dispersing action. Caffeine and alcohol should be avoided due to the presence of Ma Huang.",
   "ingredients": [
     {
+      "id": 1297,
+      "formula_id": 192,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Releases the exterior and disperses pathogenic factors from the surface of the body. Its mild ability to promote sweating and relieve irritability addresses the early-stage constraint of Wind-Cold, and it helps vent mild interior heat that may accompany the chilling."
     },
     {
+      "id": 1298,
+      "formula_id": 192,
       "herb_name": "Cong Bai",
       "english_name": "Scallion Bulb",
       "role": "King",
-      "dosage": "3 - 7 stalks (with roots)"
+      "dosage": "3 - 7 stalks (with roots)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Unblocks Yang Qi and promotes sweating to release Wind-Cold from the exterior. Its warm, acrid nature opens the pores and relieves nasal congestion. In the original text it is used as a follow-up broth after the main decoction to push the sweating response."
     },
     {
+      "id": 1299,
+      "formula_id": 192,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Powerfully opens the pores and induces sweating to expel Wind-Cold. Also vents the Lungs to relieve any accompanying cough or wheezing. Its strong diaphoretic action reinforces the exterior-releasing effect of the King herbs when the cold constraint is more severe."
     },
     {
+      "id": 1300,
+      "formula_id": 192,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Releases the muscle layer (解肌) and generates fluids to relax the sinews. Specifically targets stiffness and pain in the neck, upper back, and lower back that result from Wind-Cold constraining the Tai Yang channel. Also raises clear Yang Qi to relieve headache."
     }
   ],
   "research": [],

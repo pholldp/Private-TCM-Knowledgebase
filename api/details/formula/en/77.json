@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid spicy, greasy, deep-fried, or heavily warming foods (lamb, chili, alcohol, coffee) while taking this formula, as these can aggravate internal Heat and counteract the cooling, Yin-nourishing strategy. Cold and raw foods should also be limited, since Shu Di Huang is heavy on the digestion. Favor lightly prepared, nourishing foods such as congee, steamed vegetables, pears, lily bulb, black sesame, and small amounts of lean protein. Adequate hydration with room-temperature water supports the formula's Yin-nourishing effect.",
   "ingredients": [
     {
+      "id": 531,
+      "formula_id": 77,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The chief blood-nourishing herb in this formula. Its sweet, warm, and rich nature powerfully supplements Blood and nourishes Yin in the Liver and Kidneys, directly addressing the root deficiency that gives rise to internal Heat."
     },
     {
+      "id": 532,
+      "formula_id": 77,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat from the Liver and Kidneys and cools the Blood. As Ke Qin's commentary explains, it clears 'the fire within the will' (志中之火) to settle the Kidneys, supporting the mother organ of the Liver. Its cool nature directly quenches the bone-steaming Heat that arises from Yin deficiency."
     },
     {
+      "id": 533,
+      "formula_id": 77,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools the Blood, clears Heat, and activates Blood circulation to resolve stasis. According to the classical commentary, it clears 'the fire within the spirit' (神中之火) to cool the Heart, draining the child organ of the Liver. Together with Di Gu Pi, these two barks cool without being overly drying, clearing Liver Fire without harming the Spleen and Stomach."
     },
     {
+      "id": 534,
+      "formula_id": 77,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood. As the primary blood-tonifying herb in Si Wu Tang, it supplements Blood while gently promoting its circulation, ensuring that the newly nourished Blood moves freely rather than becoming stagnant."
     },
     {
+      "id": 535,
+      "formula_id": 77,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and preserves Yin, softens the Liver and harmonizes the nutritive level. Its sour and cool nature helps collect and store the Blood that has been tonified by the other herbs, ensuring it stays properly housed in the Liver."
     },
     {
+      "id": 536,
+      "formula_id": 77,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Envoy",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Moves Qi and activates Blood circulation. Its acrid and warm nature counterbalances the rich, cloying quality of Shu Di Huang, preventing stagnation. It guides the Blood-nourishing herbs throughout the body, reaching upward to the head and downward to the Blood chamber (血海), ensuring the formula's effects are broadly distributed."
     }
   ],
   "research": [],

@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, which can generate Phlegm-Heat and obstruct the Lungs further. Cold and raw foods such as ice cream, chilled drinks, and raw salads should also be avoided, as they can impair the Spleen's ability to transform fluids and may worsen Phlegm accumulation. Spicy-hot foods (chili, deep-fried snacks) should be limited as they may aggravate internal Heat. Light, easily digestible foods are best — plain rice porridge (congee), steamed vegetables, and clear soups support recovery. Pears, both fresh and lightly stewed, are traditionally recommended for their moistening and Lung-soothing properties. Adequate warm water intake helps prevent the Heat from further damaging fluids.",
   "ingredients": [
     {
+      "id": 977,
+      "formula_id": 146,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Ventilates the Lungs, relieves wheezing, and disperses pathogenic factors from the exterior. Although warm in nature, its dosage is kept below that of Shi Gao so that it opens the Lungs without fuelling Heat. Embodies the classical principle of 'fire constrained, release it' (火郁发之) by venting trapped Heat outward through the Lungs."
     },
     {
+      "id": 978,
+      "formula_id": 146,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "18 - 30g"
+      "dosage": "18 - 30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears and drains Lung Heat with its acrid, sweet, and very cold nature. Used at double the dosage of Ma Huang, it counterbalances Ma Huang's warmth so the formula ventilates the Lungs without promoting Heat. Also clears Stomach Heat to relieve thirst and generates fluids."
     },
     {
+      "id": 979,
+      "formula_id": 146,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi, stops coughing and calms wheezing. Its bitter, descending quality complements Ma Huang's ascending, dispersing action, creating a balanced dynamic of opening above and directing downward that restores the Lung's normal function of disseminating and descending."
     },
     {
+      "id": 980,
+      "formula_id": 146,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Qi, harmonizes the Middle Burner, and moderates the opposing natures of Ma Huang and Shi Gao so they work together smoothly. Combined with Shi Gao, it helps generate fluids to relieve thirst. Also moistens the Lungs to ease coughing."
     }
   ],
   "research": [

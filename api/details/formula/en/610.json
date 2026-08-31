@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold, raw foods and dairy products that may generate dampness and impair spleen function. Minimize greasy, spicy, or heating foods that could exacerbate heat patterns. Favor warm, easily digestible foods to support the spleen's role in producing blood.",
   "ingredients": [
     {
+      "id": 4592,
+      "formula_id": 610,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes Blood, regulates menstruation, and calms the fetus. The chief herb addressing Blood Deficiency."
     },
     {
+      "id": 4593,
+      "formula_id": 610,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, especially to calm the fetus by clearing Damp-Heat that disturbs the Uterus."
     },
     {
+      "id": 4594,
+      "formula_id": 610,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, astringes Yin, and softens the Liver to alleviate abdominal pain and support the King herb."
     },
     {
+      "id": 4595,
+      "formula_id": 610,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes Qi circulation, preventing the cloying nature of Blood-tonifying herbs and relieving pain."
     },
     {
+      "id": 4596,
+      "formula_id": 610,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Envoy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and resolves Dampness, supporting the source of Blood production and directing the formula to the middle burner."
     }
   ],
   "research": [],

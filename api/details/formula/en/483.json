@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid sugary, greasy, and rich foods that burden the Spleen and generate Dampness or Heat, as these directly worsen the wasting-thirst pattern this formula treats. Favour whole grains, light vegetables, yams, mung beans, and foods that gently nourish Yin such as pears, lily bulb, and white fungus (Tremella). Alcohol and spicy foods should be minimized, as they generate Heat and damage Yin. Cold and raw foods should be eaten in moderation to protect the Spleen's transforming function. Regular, moderate-sized meals are preferable to large or irregular eating patterns.",
   "ingredients": [
     {
+      "id": 3672,
+      "formula_id": 483,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Used raw (sheng) at the heaviest dose in the formula. Tonifies the Spleen, benefits the Lungs, and secures the Kidneys. Its rich, nourishing quality generates fluids and moistens dryness, directly addressing the core mechanism of fluid depletion. Zhang Xichun considered raw Shan Yao his single most important herb for wasting-thirst."
     },
     {
+      "id": 3673,
+      "formula_id": 483,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Used raw (sheng) to powerfully tonify Qi and raise the clear Yang of the Spleen and Stomach. When Qi is strong enough to rise, it carries fluids upward to the Lungs so they can be distributed throughout the body, relieving thirst. Paired with Ge Gen, its ascending action is amplified."
     },
     {
+      "id": 3674,
+      "formula_id": 483,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat, nourishes Yin, and moistens dryness in the Lungs, Stomach, and Kidneys. Balances the warm, ascending nature of Huang Qi so the formula does not become overly drying. Zhang Xichun likened the pairing of Huang Qi (warm, rising Yang) with Zhi Mu (cool, moistening Yin) to the meeting of rising warmth and gathering clouds that produce rain."
     },
     {
+      "id": 3675,
+      "formula_id": 483,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, and relieves thirst. Works alongside Zhi Mu to nourish true Yin and moisten the Lungs and Stomach. Its cooling, fluid-generating action directly addresses the dryness and thirst symptoms."
     },
     {
+      "id": 3676,
+      "formula_id": 483,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "Assistant",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Raises the clear Yang of the Spleen and Stomach, promoting the upward distribution of fluids to relieve thirst. Assists Huang Qi in elevating Qi so that fluids can reach the Lungs. Also generates fluids and clears mild Heat."
     },
     {
+      "id": 3677,
+      "formula_id": 483,
       "herb_name": "Ji Nei Jin",
       "english_name": "Chicken gizzard lining",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Small Intestine, Urinary Bladder",
+      "role_description": "Strengthens the Spleen and Stomach's digestive and transformative capacity. Zhang Xichun specifically noted that in wasting-thirst the urine contains sugar, and this herb helps the Spleen and Stomach transform the sugary substances in food into usable fluids. Also assists in reducing frequent urination."
     },
     {
+      "id": 3678,
+      "formula_id": 483,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Envoy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Its sour, astringent nature secures the Kidney gate, preventing fluids from leaking downward as excessive urination. Assists Shan Yao in consolidating the Kidneys and retaining Yin fluids, ensuring the generated fluids are not immediately lost."
     }
   ],
   "research": [

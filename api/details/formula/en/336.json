@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid foods that are likely to increase Dampness and Phlegm, including dairy products (milk, cheese, yogurt), greasy or fried foods, excessive sugar and sweets, and cold or raw foods like ice cream and iced drinks. These can worsen nasal congestion and counteract the formula's Phlegm-transforming effects.\nAvoid known food allergens and histamine-rich foods such as aged cheeses, fermented foods, alcohol (especially beer and wine), and shellfish, as these can aggravate allergic symptoms.\nFavor warm, lightly cooked foods that support Lung and Spleen function: fresh ginger tea, white radish (daikon), pears (cooked), congee, lightly steamed vegetables, and warming aromatic spices like scallion, garlic, and cilantro in moderation.",
   "ingredients": [
     {
+      "id": 2411,
+      "formula_id": 336,
       "herb_name": "Xin Yi Hua",
       "english_name": "Magnolia flower bud",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The primary nasal orifice-opening herb in this formula. Its warm, aromatic, and ascending nature directly targets the nasal passages and sinuses, expelling Wind-Cold and dispersing congestion from the superficial layers of the nasal cavity. It is the lead herb for relieving nasal obstruction."
     },
     {
+      "id": 2412,
+      "formula_id": 336,
       "herb_name": "Cang Er Zi",
       "english_name": "Siberian Cocklebur Fruit",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Works synergistically with Xin Yi Hua to open the nasal passages. While Xin Yi Hua clears superficial congestion aromatically, Cang Er Zi dredges deeper stagnation by dispersing Wind-Dampness and unblocking the sinus passages. Together they form the core nasal-opening pair of the formula."
     },
     {
+      "id": 2413,
+      "formula_id": 336,
       "herb_name": "Ban Lan Gen",
       "english_name": "Isatis root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Bitter and cold, this herb clears toxic Heat from the throat and head region. It addresses the Heat component that causes thick yellow nasal discharge, red and swollen sinus cavities, and sore throat. It also provides broad anti-inflammatory support to the upper respiratory tract."
     },
     {
+      "id": 2414,
+      "formula_id": 336,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "A classic Wind-dispersing herb that reinforces the formula's ability to expel external Wind from the body surface and head. It also helps stabilize the body's exterior defensive layer and works broadly against both Wind-Cold and Wind-Heat, making the formula versatile across different presentations."
     },
     {
+      "id": 2415,
+      "formula_id": 336,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Cool and light in nature, Chrysanthemum disperses Wind-Heat from the head and eyes, relieving headache, itchy eyes, and dizziness that commonly accompany sinus congestion and allergies. It complements the warmer nasal-opening herbs by adding a cooling, clearing quality."
     },
     {
+      "id": 2416,
+      "formula_id": 336,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Cool and aromatic, Bo He disperses Wind-Heat from the body surface, clears the head and eyes, and benefits the throat. Its cooling, volatile nature helps reduce mild swelling in the nasal and sinus passages and provides symptomatic relief from itching and irritation."
     },
     {
+      "id": 2417,
+      "formula_id": 336,
       "herb_name": "Huo Xiang",
       "english_name": "Patchouli herb",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Aromatic and warm, Huo Xiang transforms Dampness and awakens the Spleen's function of transporting fluids. In this formula it helps clear congested, turbid fluids from the upper respiratory tract and sinus passages, addressing the Damp-Phlegm component underlying heavy, turbid nasal discharge."
     },
     {
+      "id": 2418,
+      "formula_id": 336,
       "herb_name": "E Bu Shi Cao",
       "english_name": "Small centipeda herb",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "A specialist herb for nasal conditions. It disperses Wind, unblocks the nasal orifices, and stops sneezing. It reinforces the nasal-opening action of the King herbs and specifically targets allergic sneezing and itching of the nose."
     },
     {
+      "id": 2419,
+      "formula_id": 336,
       "herb_name": "Zi Su Ye",
       "english_name": "Perilla leaf",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Mildly warm and aromatic, Perilla leaf releases the exterior, promotes Lung Qi circulation, and harmonizes the Middle Burner. It helps direct the formula's actions outward and upward to the body surface and head while also assisting Huo Xiang in resolving Dampness from the respiratory tract."
     }
   ],
   "research": [],

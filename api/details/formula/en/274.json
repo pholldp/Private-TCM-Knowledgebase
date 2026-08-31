@@ -24,106 +24,208 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods that generate Dampness and Phlegm, as these directly contribute to the type of nodular accumulation this formula treats. Avoid excessively spicy, hot, or stimulating foods (chili, alcohol, heavily roasted meats) that aggravate Heat-Toxin. Raw, cold foods should also be consumed in moderation because the formula is already very cold in nature and excessive cold food may damage Spleen function. Favor lightly cooked vegetables, seaweeds (which echo the Phlegm-transforming action of Kun Bu), and bland, easily digested grains. Adequate hydration is important to support the body's Yin Fluids, which can be taxed by the formula's many bitter, drying herbs.",
   "ingredients": [
     {
+      "id": 1924,
+      "formula_id": 274,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Used at the highest dosage in this formula, Huang Qin is the primary herb for draining Fire from the upper and middle burners. Half is wine-processed and half used raw, allowing it to both clear Heat from the Shao Yang and drain Damp-Heat. It targets the accumulated toxic Heat that drives the formation of hard nodules."
     },
     {
+      "id": 1925,
+      "formula_id": 274,
       "herb_name": "Long Dan Cao",
       "english_name": "Chinese gentian root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder",
+      "role_description": "Strongly drains Liver and Gallbladder Fire and clears Damp-Heat from the Shao Yang channels. It directly addresses the pathogenic Heat accumulating in the Liver and Gallbladder that gives rise to hard, immovable swellings along those channel pathways."
     },
     {
+      "id": 1926,
+      "formula_id": 274,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Fire from the lower burner and clears Damp-Heat. Together with Huang Qin, Huang Lian, and Long Dan Cao, it contributes to the formula's strategy of powerfully purging Fire from all three burners (San Jiao)."
     },
     {
+      "id": 1927,
+      "formula_id": 274,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat and nourishes Yin, protecting the body's fluids from damage by the many bitter, drying herbs in this formula. Helps direct pathogenic Fire downward and sweep Phlegm-Heat out of the upper body."
     },
     {
+      "id": 1928,
+      "formula_id": 274,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, and expels pus. It protects Yin fluids alongside Zhi Mu and helps guide out the Qi of swellings, promoting the resolution of deep-seated abscesses."
     },
     {
+      "id": 1929,
+      "formula_id": 274,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens the Lungs, expels Phlegm, and thrusts out pus. Critically, it acts as a 'boat' to carry the other herbs upward to the neck, collarbone, and armpit regions where the nodules reside."
     },
     {
+      "id": 1930,
+      "formula_id": 274,
       "herb_name": "Kun Bu",
       "english_name": "Kelp",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach, Kidneys",
+      "role_description": "Salty in flavor, it softens hardness, transforms Phlegm, and breaks through indurated masses. This is the key herb for dissolving the stone-like nodules that characterize the formula's target condition."
     },
     {
+      "id": 1931,
+      "formula_id": 274,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Enters the Shao Yang channels (Gallbladder and Triple Burner) to resolve constraint and clear Heat from those pathways. Since the nodules arise along Shao Yang territory, Chai Hu guides the formula to the correct channel system and disperses stagnation."
     },
     {
+      "id": 1932,
+      "formula_id": 274,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears toxic Heat, disperses clumped swellings, and thrusts out pus. A classical herb for reducing lumps, swollen lymph nodes, and sores of a heated nature."
     },
     {
+      "id": 1933,
+      "formula_id": 274,
       "herb_name": "San Leng",
       "english_name": "Bur-Reed Rhizome",
       "role": "Assistant",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Powerfully breaks Blood stasis and moves Qi within the Blood. As the Yi Fang Ji Jie explains, San Leng breaks Qi within Blood, working in tandem with E Zhu to address the Blood stasis that binds the hard masses together."
     },
     {
+      "id": 1934,
+      "formula_id": 274,
       "herb_name": "E Zhu",
       "english_name": "Zedoary rhizome",
       "role": "Assistant",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Breaks Blood stasis within the Qi level. Paired with San Leng, together they form a classic combination for breaking through extremely hard accumulations by addressing stasis from both the Qi and Blood aspects simultaneously."
     },
     {
+      "id": 1935,
+      "formula_id": 274,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Drains Fire from the Heart and middle burner. Combined with Huang Qin, Huang Bai, and Long Dan Cao, it completes the strategy of purging Fire from all three burners to eliminate the Heat toxins fueling the swellings."
     },
     {
+      "id": 1936,
+      "formula_id": 274,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Releases the exterior and guides herbs to the upper body. It pertains to the Foot Yang Ming (Stomach) channel and thus directs the formula toward the jaw, cheek, and neck areas where scrofula appears along that channel."
     },
     {
+      "id": 1937,
+      "formula_id": 274,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Softens the Liver, nourishes Blood, and preserves Yin. It restrains Liver Fire, which is often a contributing factor in the formation of such swellings, and counterbalances the many bitter, drying herbs in the formula."
     },
     {
+      "id": 1938,
+      "formula_id": 274,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The tail portion of Dang Gui specifically activates Blood circulation in the channels and collaterals. It nourishes Blood while also moving it, helping to resolve the Blood stasis component of the hard nodules."
     },
     {
+      "id": 1939,
+      "formula_id": 274,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, protects the middle burner (Spleen and Stomach) from damage by the large number of cold, bitter ingredients, and assists in resolving toxicity."
     },
     {
+      "id": 1940,
+      "formula_id": 274,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Envoy",
-      "dosage": "1.8g"
+      "dosage": "1.8g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Used in a very small dose to raise Yang Qi and guide the formula upward to the neck and head region. It also clears Heat and resolves toxicity, and works together with Jie Geng to ensure the medicinal effects reach the upper body where the swellings are located."
     }
   ],
   "research": [

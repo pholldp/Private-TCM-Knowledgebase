@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, avoid all spicy, fried, greasy, and heavily seasoned foods, as well as alcohol, which generate Heat and directly oppose the formula's Fire-clearing action. Avoid lamb, chili peppers, ginger, garlic, and other warming foods. Favor light, easily digestible meals such as congee, steamed vegetables, mung bean soup, and fresh fruits like pears and watermelon, which gently support the cooling action. Because the formula is strongly cold and bitter, it can weaken digestion, so rich, heavy, or difficult-to-digest foods should also be minimized. Do not take tonifying or warming herbal supplements concurrently.",
   "ingredients": [
     {
+      "id": 896,
+      "formula_id": 134,
       "herb_name": "Long Dan Cao",
       "english_name": "Chinese gentian root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder",
+      "role_description": "Enters the Liver and Gallbladder channels directly to clear and drain intense excess Fire from these organs. Its extreme bitterness and cold nature make it the most targeted herb in the formula for extinguishing Liver Fire at its source."
     },
     {
+      "id": 897,
+      "formula_id": 134,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges Heat downward through the bowels, providing an exit route for accumulated Fire. Opens the intestines, relieves constipation, and drains clumped Heat from the Yang Ming (Stomach and Large Intestine)."
     },
     {
+      "id": 898,
+      "formula_id": 134,
       "herb_name": "Lu Hui",
       "english_name": "Aloe",
       "role": "King",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "Strongly bitter and cold with a pungent odor that has a special affinity for the Liver channel. Cools the Liver, drains Fire, and promotes bowel movement. Its distinctive smell helps guide all the other herbs into the Liver system."
     },
     {
+      "id": 899,
+      "formula_id": 134,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Fire from the Heart and Stomach. When Liver Fire blazes upward it often disturbs the Heart, causing restlessness, irritability, and even delirium. Huang Lian addresses this transmitted Fire."
     },
     {
+      "id": 900,
+      "formula_id": 134,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Lungs and upper body, and drains Liver and Gallbladder Fire. Addresses the common scenario where Liver Fire transmits to the Lungs, causing cough with flank pain."
     },
     {
+      "id": 901,
+      "formula_id": 134,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Fire and Damp-Heat from the Lower Burner, including the Kidneys and Bladder. Ensures that Fire is drained from the lower body, addressing dark scanty urination and scrotal swelling."
     },
     {
+      "id": 902,
+      "formula_id": 134,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three Burners (upper, middle, and lower) and guides Fire downward through the urinary tract. Provides a second drainage route for Heat alongside the intestinal route opened by Da Huang."
     },
     {
+      "id": 903,
+      "formula_id": 134,
       "herb_name": "Qing Dai",
       "english_name": "Indigo Naturalis",
       "role": "Deputy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs",
+      "role_description": "Clears Liver Fire and resolves toxic Heat. Salty and cold, it enters the Liver to cool the Blood and drain Fire. Contains indirubin, which modern research has shown to have anti-proliferative properties relevant to its use in leukemia treatment."
     },
     {
+      "id": 904,
+      "formula_id": 134,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes Blood and harmonizes the Liver. Among so many bitter, cold, Fire-draining herbs, Dang Gui protects the Blood and Yin from being damaged by the harsh purgation. It also softens the Liver, which is crucial because the Liver stores Blood. Classical commentaries consider it the 'restraining assistant' that prevents the formula from being too destructive."
     },
     {
+      "id": 905,
+      "formula_id": 134,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Regulates Qi movement in the Stomach and Intestines, preventing the many bitter cold herbs from causing Qi stagnation and further bloating. Its aromatic, warm nature counterbalances the formula's cold bias just enough to maintain smooth Qi flow."
     },
     {
+      "id": 906,
+      "formula_id": 134,
       "herb_name": "She Xiang",
       "english_name": "Musk",
       "role": "Assistant",
-      "dosage": "0.1 - 0.3g"
+      "dosage": "0.1 - 0.3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Strongly aromatic and penetrating, it opens the orifices, moves Qi and Blood, and helps all the other herbs reach deep into the channels. Together with Lu Hui, its pungent nature helps guide the formula into the Liver. Often replaced with synthetic musk (人工麝香) in modern preparations."
     }
   ],
   "research": [

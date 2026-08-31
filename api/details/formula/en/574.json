@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid cold and raw foods (ice water, raw salads, cold fruits, sashimi) as these can generate more Cold-Phlegm and obstruct Lung Qi, directly counteracting the formula's warming, descending strategy.\nLimit greasy, deep-fried, or heavily rich foods, as these promote Phlegm and Dampness production.\nMinimize dairy products and excessively sweet foods, which tend to generate Phlegm according to TCM dietary principles.\nAvoid smoking and alcohol, which irritate the airways and aggravate Lung congestion.\nFavor warm, lightly cooked meals, clear soups, and easily digestible foods that support the Spleen's ability to transform fluids properly.",
   "ingredients": [
     {
+      "id": 4398,
+      "formula_id": 574,
       "herb_name": "Zi Su Zi",
       "english_name": "Perilla seed",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "The lead herb that directs Qi downward, calms wheezing, and dissolves Phlegm from the Lungs. Its strong descending action directly addresses the rebellious upward flow of Qi that causes coughing, chest fullness, and breathlessness."
     },
     {
+      "id": 4399,
+      "formula_id": 574,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness, transforms Phlegm, and directs Qi downward to stop nausea and vomiting. Reinforces the King herb's Phlegm-dissolving and descending actions."
     },
     {
+      "id": 4400,
+      "formula_id": 574,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi downward and widens the chest to relieve feelings of fullness and congestion. Assists the King herb in its descending function."
     },
     {
+      "id": 4401,
+      "formula_id": 574,
       "herb_name": "Qian Hu",
       "english_name": "Peucedanum root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Descends Lung Qi and disperses Phlegm to stop coughing. Works with the other Deputies to comprehensively address the upper excess."
     },
     {
+      "id": 4402,
+      "formula_id": 574,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms and tonifies Kidney Yang, helping the Kidneys grasp Qi and preventing it from rebelling upward. This is the primary herb addressing the lower deficiency (the root of the condition)."
     },
     {
+      "id": 4403,
+      "formula_id": 574,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes Blood and moistens dryness, preventing the many warm and drying herbs in the formula from injuring Yin. Also traditionally treats cough with Qi counterflow and supports the warming of the lower body alongside Rou Gui."
     },
     {
+      "id": 4404,
+      "formula_id": 574,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi flow and dries Dampness to enhance Phlegm transformation. Prevents Qi stagnation and supports the Middle Burner's digestive function."
     },
     {
+      "id": 4405,
+      "formula_id": 574,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Middle Burner, disperses Cold, transforms thin Phlegm, and harmonizes the Stomach. Used in a relatively large dose in the original formula to support the warming and Phlegm-resolving strategy."
     },
     {
+      "id": 4406,
+      "formula_id": 574,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and protects the Spleen and Stomach from the drying and descending nature of the other ingredients."
     },
     {
+      "id": 4407,
+      "formula_id": 574,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 - 6 pieces"
+      "dosage": "4 - 6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen, tonifies Qi, and moderates the formula. Works with Gan Cao to protect the Middle Burner and harmonize the prescription."
     }
   ],
   "research": [

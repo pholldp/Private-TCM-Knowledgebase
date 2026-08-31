@@ -24,70 +24,136 @@
   "dietary_advice": "While using this external formula for active Hot-type sores or abscesses, avoid foods that may aggravate Heat and toxin accumulation: spicy and pungent foods (chili, garlic, raw onion, ginger), deep-fried and greasy foods, alcohol, shellfish and other \"hair-trigger\" foods (发物 fa wu) such as shrimp, crab, lamb, and rooster. Favor cooling, bland foods such as mung bean soup, winter melon, cucumber, pear, and leafy greens to support the body's Heat-clearing process from within.",
   "ingredients": [
     {
+      "id": 1966,
+      "formula_id": 279,
       "herb_name": "Qing Dai",
       "english_name": "Indigo Naturalis",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs",
+      "role_description": "The primary Heat-clearing and toxin-resolving herb. Qing Dai (Natural Indigo) is bitter and cold, powerfully clears Fire-toxins from the Blood and skin, reduces swelling, and relieves pain. Its deep cooling nature directly targets the core pathomechanism of Toxic-Heat accumulation."
     },
     {
+      "id": 1967,
+      "formula_id": 279,
       "herb_name": "Fu Rong Ye",
       "english_name": "Cotton Rose Hibiscus Leaf",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "The second principal herb, Fu Rong Ye (Hibiscus mutabilis Leaf) clears Heat, resolves toxins, expels pus, and reduces swelling. It is a classical external-use herb for sores and abscesses, working in tandem with Qing Dai to form the formula's core detoxifying action. The name 'Er Qing' (Double Blue/Dark) refers to these two dark-colored King herbs."
     },
     {
+      "id": 1968,
+      "formula_id": 279,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Mang Xiao (Mirabilite/Sodium Sulfate) is salty and cold. Applied externally, it softens hardness, disperses swelling and nodules, and clears Heat. It strengthens the Kings' ability to reduce hot, hard, swollen lesions."
     },
     {
+      "id": 1969,
+      "formula_id": 279,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Calcined Gypsum (Duan Shi Gao) is used externally to clear Heat, absorb moisture, and promote tissue healing. It supports the formula's cooling strategy and helps generate new tissue at the lesion site."
     },
     {
+      "id": 1970,
+      "formula_id": 279,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Da Huang (Rhubarb) used externally clears Heat-toxins, invigorates Blood, and disperses stasis. It helps break down accumulated Heat and stagnant Blood in the affected tissue, reducing redness and swelling."
     },
     {
+      "id": 1971,
+      "formula_id": 279,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Huang Bai (Phellodendron Bark) clears Heat, dries Dampness, and resolves toxins. It reinforces the formula's ability to address Damp-Heat and toxins in the skin, particularly useful when sores weep or ooze fluid."
     },
     {
+      "id": 1972,
+      "formula_id": 279,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Tian Hua Fen (Trichosanthes Root) clears Heat, generates fluids, reduces swelling, and expels pus. In external application, it is classically used to disperse clumps and help draw out pus from abscesses."
     },
     {
+      "id": 1973,
+      "formula_id": 279,
       "herb_name": "Chi Xiao Dou",
       "english_name": "Adzuki bean",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Small Intestine",
+      "role_description": "Chi Xiao Dou (Aduki Bean) clears Heat, resolves Dampness, and disperses swelling. Used externally, it helps reduce puffiness and fluid accumulation in inflamed tissues."
     },
     {
+      "id": 1974,
+      "formula_id": 279,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Bai Zhi (Angelica Dahurica Root) reduces swelling, expels pus, and alleviates pain. It is a key external medicine herb that promotes the discharge of pus from mature abscesses and helps relieve the pain of inflamed sores."
     },
     {
+      "id": 1975,
+      "formula_id": 279,
       "herb_name": "Bai Ji",
       "english_name": "Common Bletilla Tuber",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver, Stomach",
+      "role_description": "Bai Ji (Bletilla Rhizome) astringes and stops bleeding, reduces swelling, and promotes tissue regeneration. It helps close wounds and supports healing once the Heat-toxin has been cleared."
     },
     {
+      "id": 1976,
+      "formula_id": 279,
       "herb_name": "Long Gu",
       "english_name": "Dragon Bone (fossilised mammal bone)",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Long Gu (Dragon Bone/Fossilized Bone) used externally absorbs moisture, astringes sores, and promotes tissue healing. It helps dry weeping lesions and supports the generation of new skin tissue."
     }
   ],
   "research": [],

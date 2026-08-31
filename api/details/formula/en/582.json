@@ -24,16 +24,28 @@
   "dietary_advice": "As an external ointment, Zi Yun Gao does not require significant dietary modification. However, when using it for burn treatment, classical practice recommends avoiding spicy, greasy, and heavily flavored foods, as these can generate internal Heat and impede skin healing. For eczema-related use, reducing intake of shellfish, alcohol, and heavily processed foods may support the healing process. No specific food prohibitions apply for minor wound care or insect bites.",
   "ingredients": [
     {
+      "id": 4440,
+      "formula_id": 582,
       "herb_name": "Zi Cao",
       "english_name": "Gromwell root",
       "role": "King",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "The principal medicinal herb. Zi Cao (lithospermum/arnebia root) clears Heat, cools the Blood, and resolves Toxins. Applied topically, it has strong anti-inflammatory and antimicrobial actions, promotes tissue regeneration, and gives the ointment its characteristic purple-red color. It addresses the core pathomechanism of Heat-Toxin lodged in the skin."
     },
     {
+      "id": 4441,
+      "formula_id": 582,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Dang Gui (Chinese angelica root) nourishes and activates Blood, reduces swelling, relieves pain, and promotes the formation of new tissue (granulation). It complements Zi Cao by addressing the Blood stasis component of skin lesions and providing moisture to dry, cracked skin."
     }
   ],
   "research": [

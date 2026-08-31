@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid cold and raw foods (salads, ice cream, chilled drinks, raw fruits in excess) as these impair Spleen function and promote Dampness, directly working against the formula's purpose. Reduce intake of greasy, fatty, and fried foods as well as dairy products, which are considered Phlegm-generating in TCM. Limit alcohol and excessively sweet foods. Favor warm, lightly cooked, easy-to-digest meals. Foods that support the Spleen and resolve Dampness are helpful, such as cooked grains (rice, millet), cooked root vegetables, ginger, and small amounts of aromatic spices like cardamom. Avoid overeating, and eat at regular times.",
   "ingredients": [
     {
+      "id": 95,
+      "formula_id": 16,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, directs rebellious Qi downward, and stops nausea and vomiting. As one of two King herbs, it directly addresses the core pathology of phlegm accumulation. Its warm, drying nature is ideal for dissolving the turbid dampness that generates phlegm in the middle burner."
     },
     {
+      "id": 96,
+      "formula_id": 16,
       "herb_name": "Tian Ma",
       "english_name": "Gastrodia root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Calms the Liver and extinguishes internal wind to stop dizziness and headache. As the second King herb, it directly addresses the wind component of the wind-phlegm pattern. Paired with Ban Xia, the two form the essential combination for treating wind-phlegm dizziness and headache, as the classical teaching states: 'Dizziness with dark vision and spinning head cannot be eliminated without Tian Ma and Ban Xia.'"
     },
     {
+      "id": 97,
+      "formula_id": 16,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "15 - 18g"
+      "dosage": "15 - 18g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries dampness, addressing the root cause of phlegm production. The Spleen is the source of phlegm (the classical concept that 'the Spleen generates phlegm'), so fortifying it cuts off phlegm at its origin. Used at a relatively high dose in this formula, reflecting the importance of treating the root."
     },
     {
+      "id": 98,
+      "formula_id": 16,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and leaches out dampness through the urinary pathway, providing a drainage route for accumulated fluids. Works together with Bai Zhu to treat the root source of phlegm production by restoring the Spleen's fluid-transforming capacity."
     },
     {
+      "id": 99,
+      "formula_id": 16,
       "herb_name": "Ju Hong",
       "english_name": "Tangerine Peel (red outer layer)",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and transforms phlegm. When Qi flows smoothly, phlegm dissolves more readily. Its aromatic, drying quality also helps the Spleen manage dampness and prevents the tonifying herbs from causing stagnation."
     },
     {
+      "id": 100,
+      "formula_id": 16,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g (1 - 2 slices)"
+      "dosage": "3 - 6g (1 - 2 slices)",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle burner and harmonizes the Stomach. Also helps to counteract any residual toxicity from Ban Xia and assists in transforming phlegm-dampness. Added during decoction rather than listed as a weighed ingredient."
     },
     {
+      "id": 101,
+      "formula_id": 16,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "2 - 3 pieces"
+      "dosage": "2 - 3 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies the Spleen and Stomach and harmonizes the actions of the other herbs. Works with Sheng Jiang to support the middle burner and aid digestion, reinforcing the formula's root-treating strategy."
     },
     {
+      "id": 102,
+      "formula_id": 16,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and mildly tonifies the middle burner. As the Envoy, it moderates the properties of the other ingredients and ensures they work together smoothly."
     }
   ],
   "research": [

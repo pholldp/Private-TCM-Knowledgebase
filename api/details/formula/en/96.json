@@ -24,52 +24,100 @@
   "dietary_advice": "Favor warm, easily digestible, nourishing foods that support Spleen function and Blood production: bone broths, slow-cooked stews, red dates (jujubes), goji berries, dark leafy greens, cooked root vegetables, black sesame, eggs, and small amounts of red meat or liver. Warm congee (rice porridge) is an ideal companion food.\nAvoid cold and raw foods (salads, iced drinks, raw fruit in excess), greasy or deep-fried foods, and excessive dairy, as these impair the Spleen's ability to transform and transport, reducing the formula's effectiveness.\nAvoid strong tea and radish (luobo), which are traditionally said to counteract the tonifying action of Ren Shen (Ginseng).\nDo not consume foods or supplements containing Veratrum (Li Lu), which is classically incompatible with Gan Cao (Licorice).",
   "ingredients": [
     {
+      "id": 680,
+      "formula_id": 96,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi, strengthens the Spleen, and supports the generation of Blood. As the primary Qi-supplementing herb, it works alongside Shu Di Huang to address the dual deficiency of Qi and Blood."
     },
     {
+      "id": 681,
+      "formula_id": 96,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Richly nourishes Blood and replenishes Yin essence. Paired with Ren Shen, it addresses the Blood deficiency aspect of the pattern, ensuring that both Qi and Blood are supplemented simultaneously."
     },
     {
+      "id": 682,
+      "formula_id": 96,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, assisting Ren Shen in boosting Qi production. A healthy Spleen is the foundation for generating both Qi and Blood."
     },
     {
+      "id": 683,
+      "formula_id": 96,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes healthy fluid metabolism and strengthens the Spleen, working alongside Bai Zhu and Ren Shen to fortify the middle burner so it can produce Qi and Blood more effectively."
     },
     {
+      "id": 684,
+      "formula_id": 96,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood, harmonizes the nutritive layer. Assists Shu Di Huang in replenishing Blood to nourish the Heart and Liver."
     },
     {
+      "id": 685,
+      "formula_id": 96,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver and moderates urgency. Complements Shu Di Huang and Dang Gui to enrich the Blood and calm the Liver."
     },
     {
+      "id": 686,
+      "formula_id": 96,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood circulation and moves Qi within the Blood level. This prevents the rich, nourishing herbs from creating stagnation, ensuring the formula supplements without cloying."
     },
     {
+      "id": 687,
+      "formula_id": 96,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Qi, harmonizes the middle burner, and coordinates all the other herbs in the formula. Ensures the Qi-tonifying and Blood-nourishing herbs work together smoothly."
     }
   ],
   "research": [

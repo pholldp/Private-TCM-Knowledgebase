@@ -24,82 +24,160 @@
   "dietary_advice": "Avoid stimulating beverages such as strong tea, coffee, and alcohol, especially before bedtime, as they can counteract the calming effect of the formula. Spicy, greasy, and heavily fried foods should be minimized, as they can generate internal Heat or obstruct digestion, working against the formula's gentle tonifying action. Favor easily digestible, nourishing foods such as congee, jujube dates, lotus seeds, longan fruit, and lightly cooked vegetables. Warm, cooked meals are preferred over cold and raw foods to support the Spleen's digestive function and help the formula work effectively.",
   "ingredients": [
     {
+      "id": 2244,
+      "formula_id": 316,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Honey-prepared Astragalus is the principal Qi tonic in this formula. Its sweet, warm nature powerfully supplements Qi and promotes the generation of Blood, directly addressing the core deficiency of Heart Qi that underlies the pattern."
     },
     {
+      "id": 2245,
+      "formula_id": 316,
       "herb_name": "Dang Shen",
       "english_name": "Codonopsis root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Codonopsis supplements the middle Qi and nourishes Blood. Working alongside Huang Qi, it strengthens the Spleen and Heart to generate Qi and Blood, forming the core tonifying strategy of the formula."
     },
     {
+      "id": 2246,
+      "formula_id": 316,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Angelica root tonifies and invigorates the Blood. Its warm, sweet nature nourishes Heart Blood while gently promoting circulation, preventing Blood stasis from the formula's heavy supplementation."
     },
     {
+      "id": 2247,
+      "formula_id": 316,
       "herb_name": "Bai Zi Ren",
       "english_name": "Arborvitae seed",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Large Intestine",
+      "role_description": "Biota seed nourishes the Heart and calms the spirit. Its oily, sweet nature enriches Heart Blood and settles restlessness, directly addressing palpitations, insomnia, and dream-disturbed sleep."
     },
     {
+      "id": 2248,
+      "formula_id": 316,
       "herb_name": "Suan Zao Ren",
       "english_name": "Sour jujube seed",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "Sour Jujube seed nourishes Heart and Liver Blood and calms the spirit. Its sour-sweet nature astringes Qi and fluids, helping to contain night sweats and ease insomnia."
     },
     {
+      "id": 2249,
+      "formula_id": 316,
       "herb_name": "Yuan Zhi",
       "english_name": "Polygala root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Kidneys, Lungs",
+      "role_description": "Prepared Polygala calms the spirit, opens the Heart orifices, and facilitates communication between the Heart and Kidneys. It helps address forgetfulness and restless sleep due to Qi deficiency."
     },
     {
+      "id": 2250,
+      "formula_id": 316,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Vinegar-prepared Schisandra berry astringes Qi and generates fluids. Its sour taste contains leaking Heart Qi, prevents sweating, and calms the spirit, strengthening the formula's ability to consolidate deficient Qi."
     },
     {
+      "id": 2251,
+      "formula_id": 316,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Poria strengthens the Spleen, promotes healthy fluid metabolism, and calms the spirit. It supports the digestive system to ensure proper generation of Qi and Blood, while contributing gentle calming effects."
     },
     {
+      "id": 2252,
+      "formula_id": 316,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Deputy",
-      "dosage": "0.3 - 1g"
+      "dosage": "0.3 - 1g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Cinnabar is heavy and settling, used to sedate the Heart and calm the spirit. It clears Heat from the Heart and anchors restless spirit, providing immediate relief from palpitations and anxiety."
     },
     {
+      "id": 2253,
+      "formula_id": 316,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Cinnamon bark warms the interior and disperses cold, assisting Yang and warming the channels. In this formula targeting Heart Qi deficiency with cold, it helps restore warmth to the Heart and promotes the generation and circulation of Qi and Blood."
     },
     {
+      "id": 2254,
+      "formula_id": 316,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Ligusticum invigorates Blood and moves Qi. As an assistant, it ensures the Blood-tonifying herbs do not cause stagnation, keeping the circulation flowing smoothly and guiding the formula's nourishing effects throughout the body."
     },
     {
+      "id": 2255,
+      "formula_id": 316,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Pinellia fermented mass dries dampness, transforms phlegm, and aids digestion. It protects the Spleen and Stomach from the heavy, rich tonifying herbs in the formula, ensuring they can be properly absorbed without causing bloating or dampness."
     },
     {
+      "id": 2256,
+      "formula_id": 316,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared licorice supplements Qi, benefits the Heart, and harmonizes all the herbs in the formula. It moderates harsh properties, guides the actions of the other ingredients, and contributes its own Heart-nourishing effect."
     }
   ],
   "research": [

@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid greasy, rich, and fried foods, as these generate internal Heat and Dampness that work against the formula's purpose. Avoid warming or spicy foods such as lamb, chili, ginger, garlic, and alcohol, which would add Fire to an already Heat-dominant condition. Favour light, easily digestible foods such as plain rice porridge (congee), mung bean soup, and fresh vegetables. Stay well hydrated, as the formula promotes sweating and the underlying condition involves significant fluid loss. Cold or raw foods in small amounts are acceptable given the Heat pattern, but avoid excessive cold foods if diarrhea develops from the formula's bitter-cold nature.",
   "ingredients": [
     {
+      "id": 2138,
+      "formula_id": 303,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The chief heat-clearing herb. Its sweet, acrid, and very cold nature powerfully drains Fire from the Yangming (Stomach) channel, clears interior Heat, and relieves restlessness and thirst. It also has a mild ability to release the muscle layer, bridging the exterior and interior treatment."
     },
     {
+      "id": 2139,
+      "formula_id": 303,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the surface and induces sweating to release the exterior pathogen that remains trapped. Its warm, acrid nature disperses Wind-Cold from the muscle layer, helping resolve the absence of sweating, body heaviness, and muscular stiffness. Its warmth is counterbalanced by the large dose of cold Shi Gao."
     },
     {
+      "id": 2140,
+      "formula_id": 303,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Assists Ma Huang in releasing the exterior and dispersing pathogenic factors outward through mild sweating. It also clears mild Heat from the chest and relieves restlessness and irritability, complementing both the exterior-releasing and interior-clearing strategies."
     },
     {
+      "id": 2141,
+      "formula_id": 303,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Upper Burner, particularly the Lungs and Heart. Together with Huang Lian, Huang Bai, and Zhi Zi, it forms the core of the interior heat-clearing strategy (mirroring Huang Lian Jie Du Tang), draining Fire and resolving toxicity from all three Burners."
     },
     {
+      "id": 2142,
+      "formula_id": 303,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat from the Middle Burner and drains Stomach Fire. Its bitter, cold nature strongly purges interior toxic Heat, addressing the delirium, mental confusion, and high fever that come from intense interior Heat accumulation."
     },
     {
+      "id": 2143,
+      "formula_id": 303,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Heat from the Lower Burner, particularly draining Kidney Fire. Completes the three-Burner heat-clearing strategy alongside Huang Qin and Huang Lian, ensuring toxic Heat is addressed throughout the entire body."
     },
     {
+      "id": 2144,
+      "formula_id": 303,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Drains Heat and Fire across all three Burners, clearing Heat through the urine as a downward-draining route. Also clears Heart Heat to relieve irritability and restlessness. Works synergistically with the three Huang herbs to comprehensively purge interior Fire-toxin."
     }
   ],
   "research": [],

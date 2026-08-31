@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid spicy, greasy, and warming foods while taking this formula, as these can generate internal Heat and counteract the cooling action of the herbs. This includes chili peppers, ginger, garlic, lamb, deep-fried foods, and alcohol. Also avoid strong coffee and chocolate, which can agitate the Blood.\nFavor cooling, Blood-nourishing foods such as dark leafy greens, celery, cucumber, pear, watermelon, mung beans, lotus root, and tofu. Moderate amounts of duck, fish, and black sesame are also appropriate. Drink adequate water and mild herbal teas such as chrysanthemum tea.",
   "ingredients": [
     {
+      "id": 537,
+      "formula_id": 78,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools the Blood and clears Heat, drains hidden Fire from the Blood level. As the chief herb, it directly addresses the core pathomechanism of Blood Heat driving menstrual blood out prematurely and in excess."
     },
     {
+      "id": 538,
+      "formula_id": 78,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Clears deficiency Heat and cools the Blood. Used at the highest dose in the formula, it drains Kidney Fire and clears Heat deep in the Yin level, supporting Mu Dan Pi in cooling the Blood while specifically targeting the Kidney-level heat that Fu Qingzhu identified as the root cause."
     },
     {
+      "id": 539,
+      "formula_id": 78,
       "herb_name": "Qing Hao",
       "english_name": "Sweet wormwood",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Clears Heat from the Yin level without damaging Yin fluids. Its aromatic, penetrating nature allows it to reach deep into the Blood level to clear lingering Heat that other cooling herbs cannot access."
     },
     {
+      "id": 540,
+      "formula_id": 78,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Fire from the Kidney, specifically targeting the lower burner where excess Heat in the Kidney system disturbs the uterus and Chong-Ren vessels. Used in small dose and processed with salt water to direct its action to the Kidney."
     },
     {
+      "id": 541,
+      "formula_id": 78,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Blood and enriches Kidney Yin, ensuring that while Fire is being drained, the body's Yin and Blood are protected and replenished. This prevents the cooling herbs from depleting the body's vital substances."
     },
     {
+      "id": 542,
+      "formula_id": 78,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver Blood and constrains Liver Yin, softening the Liver to prevent excess Heat from agitating Blood flow. It also helps collect and consolidate the Blood to reduce excessive menstrual bleeding."
     },
     {
+      "id": 543,
+      "formula_id": 78,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Gently drains dampness and promotes water metabolism, while also calming the Heart and spirit. It guides excess Heat downward through the urinary pathway and harmonizes the formula, preventing the heavy Yin-nourishing herbs from creating stagnation."
     }
   ],
   "research": [],

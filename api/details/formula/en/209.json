@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, eat only light, easily digestible foods such as thin rice porridge (congee) and soft cooked vegetables. Avoid raw, cold, greasy, rich, or hard-to-digest foods, as the formula already places extreme strain on the digestive system.\nAvoid all foods and preparations containing licorice (Gan Cao), including licorice-flavored sweets and teas, due to the Eighteen Incompatibilities.\nAvoid alcohol, which stresses the liver and may compound the toxicity of the formula's ingredients.\nAfter the formula has achieved its effect and been discontinued, a period of gentle Spleen-tonifying diet (warm soups, congee with small amounts of ginger, cooked grains) is advisable to help the body recover.",
   "ingredients": [
     {
+      "id": 1419,
+      "formula_id": 209,
       "herb_name": "Gan Sui",
       "english_name": "Kansui root",
       "role": "King",
-      "dosage": "30g (1 liang in original)"
+      "dosage": "30g (1 liang in original)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Kidneys, Large Intestine",
+      "role_description": "The primary water-expelling herb. Gan Sui has an extremely powerful ability to drain water accumulation from the chest, abdomen, and throughout the body via the bowels. It is the core driver of the formula's drastic purgative action on pathological fluid."
     },
     {
+      "id": 1420,
+      "formula_id": 209,
       "herb_name": "Jing Da Ji",
       "english_name": "Peking Euphorbia Root",
       "role": "King",
-      "dosage": "30g (1 liang in original)"
+      "dosage": "30g (1 liang in original)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys",
+      "role_description": "Works alongside Gan Sui to powerfully expel water accumulation. Da Ji is especially effective at draining fluid from the flanks and abdomen, reinforcing the formula's core water-purging action."
     },
     {
+      "id": 1421,
+      "formula_id": 209,
       "herb_name": "Yuan Hua",
       "english_name": "Genkwa flower",
       "role": "King",
-      "dosage": "30g (1 liang in original)"
+      "dosage": "30g (1 liang in original)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen, Kidneys",
+      "role_description": "The third of the classic water-expelling trio (from Shi Zao Tang). Yuan Hua specifically targets fluid accumulation in the chest and hypochondrium, expelling it downward through the stool."
     },
     {
+      "id": 1422,
+      "formula_id": 209,
       "herb_name": "Qian Niu Zi",
       "english_name": "Morning glory seed",
       "role": "Deputy",
-      "dosage": "120g (4 liang in original, use the head-end powder &#x5934;&#x672B;)"
+      "dosage": "120g (4 liang in original, use the head-end powder &#x5934;&#x672B;)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Kidneys, Large Intestine",
+      "role_description": "Used in the largest dose in the formula, this herb strongly purges through the bowels and promotes urination, creating a dual pathway for water to exit the body. It reinforces the downward purging action of the three King herbs and also helps move Qi stagnation in the bowels."
     },
     {
+      "id": 1423,
+      "formula_id": 209,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "60g (2 liang in original)"
+      "dosage": "60g (2 liang in original)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges Heat accumulation and unblocks the bowels, providing a clear downward pathway for the expelled water. Da Huang also clears internal Heat that accompanies the water stagnation, addressing the Heat component of the pathomechanism."
     },
     {
+      "id": 1424,
+      "formula_id": 209,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "15g (5 qian in original)"
+      "dosage": "15g (5 qian in original)",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks up Qi stagnation in the Liver channel and lower abdomen. By moving stuck Qi, it ensures that the water-expelling herbs can reach and mobilize the fluid accumulation, since stagnant Qi and stagnant water reinforce each other."
     },
     {
+      "id": 1425,
+      "formula_id": 209,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "30g (1 liang in original)"
+      "dosage": "30g (1 liang in original)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi in the Middle Burner and harmonizes the Stomach. It works with Qing Pi to address Qi stagnation at multiple levels, and helps protect the Stomach from the harsh effects of the drastic purgatives."
     },
     {
+      "id": 1426,
+      "formula_id": 209,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "15g (5 qian in original)"
+      "dosage": "15g (5 qian in original)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "A key Qi-moving herb that promotes the flow of Qi throughout the Triple Burner. Since water follows Qi, moving Qi helps direct the water downward and outward. Mu Xiang also alleviates abdominal pain and distension caused by the fluid accumulation."
     },
     {
+      "id": 1427,
+      "formula_id": 209,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "Assistant",
-      "dosage": "15g (5 qian in original)"
+      "dosage": "15g (5 qian in original)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Drives Qi downward and promotes bowel movement. It enhances the purgative action, helps break up accumulation in the gut, and promotes urination, supporting both exit routes for the expelled water."
     },
     {
+      "id": 1428,
+      "formula_id": 209,
       "herb_name": "Qing Fen",
       "english_name": "Calomel",
       "role": "Envoy",
-      "dosage": "3g (1 qian in original)"
+      "dosage": "3g (1 qian in original)",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Large Intestine",
+      "role_description": "Used in a very small dose, Qing Fen (calomel) is intensely penetrating and drives the other herbs to reach deep into every corner of the body where water is hiding. As described in classical commentary, it makes the formula's action swift and far-reaching, leaving no pocket of stagnant fluid untouched."
     }
   ],
   "research": [],

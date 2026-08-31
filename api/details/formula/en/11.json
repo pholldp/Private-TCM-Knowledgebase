@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as ice water, raw salads, and sashimi) which may counteract the formula's ability to move stagnation by further congealing the bowels. Avoid greasy, fried, and heavy foods that generate more Dampness and Heat in the intestines, worsening the underlying condition. Spicy and pungent foods (chili, alcohol, pepper) should also be avoided as they can inflame the condition further.\nFavor a light, easily digestible diet. Congee (rice porridge), clear soups, and lightly steamed vegetables are ideal. Winter melon soup is particularly appropriate as it supports the formula's action of clearing Heat and draining Dampness. Adequate hydration is important, especially because the formula's purgative action can lead to fluid loss.",
   "ingredients": [
     {
+      "id": 61,
+      "formula_id": 11,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges intestinal heat and accumulated toxins downward through the bowels, while also entering the Blood level to dispel blood stasis. As the primary purgative, it addresses both the heat obstruction and the stagnant blood that form the core of the intestinal abscess pathomechanism."
     },
     {
+      "id": 62,
+      "formula_id": 11,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Powerfully breaks up blood stasis and disperses abscesses. Working alongside Da Huang, it targets the blood stagnation that is central to abscess formation, while also gently moistening the intestines to support downward elimination."
     },
     {
+      "id": 63,
+      "formula_id": 11,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardness and disperses knotted accumulations with its salty, cold nature. It reinforces Da Huang's purgative and heat-clearing action, helping to break down the firm, swollen mass in the intestines."
     },
     {
+      "id": 64,
+      "formula_id": 11,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools the Blood and disperses blood stasis, while clearing heat from the Blood level. It complements the King herbs by addressing the heat-driven blood stagnation that generates the abscess, and helps resolve residual inflammation."
     },
     {
+      "id": 65,
+      "formula_id": 11,
       "herb_name": "Dong Gua Zi",
       "english_name": "Winter melon seed",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Large Intestine, Stomach, Small Intestine",
+      "role_description": "Clears intestinal heat, promotes the drainage of dampness, and expels pus. As the sole herb specifically indicated for abscess drainage, it ensures that accumulated pus and turbid fluids are discharged, preventing further tissue damage."
     }
   ],
   "research": [

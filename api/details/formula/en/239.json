@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, bland foods such as plain rice porridge (congee), cooked root vegetables, and mild soups. The formula already contains rice (Jing Mi), reflecting the classical emphasis on protecting the stomach during treatment.\nAvoid cold and raw foods (salads, chilled drinks, ice cream, raw fruits), greasy or fried foods, dairy products, spicy-hot foods, and alcohol, all of which can aggravate diarrhea or burden the weakened digestive system. Also avoid foods that are difficult to digest such as beans, fibrous vegetables, and whole grains during the acute phase. The classical instruction 'if cured after one dose, stop taking the rest' implies that dietary recovery and gentle nourishment should follow once diarrhea resolves.",
   "ingredients": [
     {
+      "id": 1645,
+      "formula_id": 239,
       "herb_name": "Chi Shi Zhi",
       "english_name": "Halloysite clay",
       "role": "King",
-      "dosage": "20 - 30g"
+      "dosage": "20 - 30g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Large Intestine, Stomach",
+      "role_description": "The chief herb, used in a large dose. It is warm in nature, sweet and astringent in flavor, and enters the Stomach and Large Intestine channels. It powerfully astrings the intestines, stops diarrhea, and stanches bleeding. Half is decocted in the liquid for systemic warming and binding action; the other half is ground to a fine powder and stirred into the strained decoction, so that the mineral powder physically coats and adheres to the intestinal lining, directly absorbing fluid and stopping the uncontrolled discharge of blood and mucus."
     },
     {
+      "id": 1646,
+      "formula_id": 239,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Acrid and hot, entering the Spleen and Stomach channels. It powerfully warms the middle burner and dispels interior cold, addressing the root cause of the condition. Combined with Chi Shi Zhi, it ensures the formula not only astrings the leaking intestines but also eliminates the underlying cold that is causing the dysfunction."
     },
     {
+      "id": 1647,
+      "formula_id": 239,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Sweet and neutral, it nourishes the Stomach Qi and harmonizes the middle burner. In a patient weakened by chronic diarrhea, the rice replenishes the depleted Qi of the digestive system. It also moderates the heavy mineral nature of Chi Shi Zhi and the intense heat of Gan Jiang, making the formula gentler on an already damaged gut lining."
     }
   ],
   "research": [

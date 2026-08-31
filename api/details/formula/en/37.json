@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid cold, raw, and icy foods and drinks while taking this formula, as they counteract its warming, Yang-supporting action and can impair digestion. Reduce intake of greasy, heavy, and excessively rich foods, which can overwhelm the Spleen and interfere with the absorption of the formula's nourishing ingredients (especially Shu Di Huang, which is already cloying).\nFoods that support the formula's therapeutic direction include warm, cooked meals with ingredients like lamb, walnuts, black beans, ginger, and warming spices. These gently support Kidney Yang. Dark-colored foods (black sesame, black rice) are traditionally associated with Kidney nourishment.",
   "ingredients": [
     {
+      "id": 226,
+      "formula_id": 37,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms and invigorates Kidney Yang, restoring the fire of the Gate of Vitality (Ming Men). As a powerfully hot herb, it supplements the root Yang of the Kidneys, driving the warming and transformative function that the entire formula depends upon. Despite its small dosage, it sets the therapeutic direction."
     },
     {
+      "id": 227,
+      "formula_id": 37,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels, promotes Yang Qi circulation, and assists the Bladder in Qi transformation to regulate water metabolism. Paired with Fu Zi, it warms Kidney Yang and promotes the movement of Qi through the waterways. Its nature is 'moving rather than guarding' (走而不守), making it particularly suited for promoting urination in the original formula's indications."
     },
     {
+      "id": 228,
+      "formula_id": 37,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Used at the heaviest dosage in the formula, it nourishes Kidney Yin, replenishes essence, and provides the material foundation upon which Yang can be restored. By enriching the Yin of the Kidneys, it ensures that the warming action of Fu Zi and Gui Zhi does not become drying or excessive. This embodies the principle of 'seeking Yang from within Yin.' Note: the original Jin Gui Yao Lue formula specifies dried raw Rehmannia (干地黄), not prepared Rehmannia (熟地黄). The substitution to Shu Di Huang occurred in the Song dynasty."
     },
     {
+      "id": 229,
+      "formula_id": 37,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes and astringes the Liver and Kidneys, securing essence and preventing its leakage. It supports Gan Di Huang in building the Yin foundation and restrains the dispersing tendency of Yang tonics."
     },
     {
+      "id": 230,
+      "formula_id": 37,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidneys, strengthening the postnatal source of essence production. By supporting Spleen function, it ensures that the Kidney's prenatal essence is continuously replenished through digestion and transformation."
     },
     {
+      "id": 231,
+      "formula_id": 37,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains dampness through the waterways and clears turbidity from the Kidneys. It prevents the rich, cloying nature of Gan Di Huang from causing stagnation. Paired with Fu Ling, it promotes urination and assists the formula's water-regulating function."
     },
     {
+      "id": 232,
+      "formula_id": 37,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and leaches out dampness, supporting Shan Yao's tonifying action while preventing the heavy Yin-nourishing herbs from producing unwanted dampness. Working with Ze Xie, it helps regulate fluid metabolism."
     },
     {
+      "id": 233,
+      "formula_id": 37,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears deficiency-heat and cools the Blood, restraining the warming nature of Shan Zhu Yu and preventing the Yang-tonifying herbs from generating excessive heat. It also enters the Blood level to move stagnation, and when paired with Gui Zhi, helps regulate Blood circulation."
     }
   ],
   "research": [

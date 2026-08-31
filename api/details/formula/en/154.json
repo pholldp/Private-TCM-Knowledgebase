@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid greasy, fried, and heavy foods, which obstruct the Lung Qi and impede the formula's light, dispersing action. Avoid spicy, hot foods (chili, ginger, lamb) that may add Heat to an already warm condition.\nAvoid cold, raw, or iced foods and drinks. Although the condition involves Heat, cold foods can trap the pathogen by constricting the surface and preventing it from being vented outward.\nFavor light, easily digestible foods such as congee (rice porridge), clear broths, lightly steamed vegetables, and pear. Drink warm water frequently to support the body's fluid recovery. Fresh reed root (Lu Gen) tea or chrysanthemum tea can complement the formula's actions.",
   "ingredients": [
     {
+      "id": 1027,
+      "formula_id": 154,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Acrid, cool, and aromatic. Clears heat and resolves toxicity while lightly dispersing exterior Wind-Heat. As the primary King herb, it addresses both the surface pathogen and the underlying heat-toxin that characterises warm-pathogen diseases."
     },
     {
+      "id": 1028,
+      "formula_id": 154,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Acrid, bitter, and slightly cold. Clears heat, resolves toxicity, and disperses Wind-Heat from the exterior. Paired with Jin Yin Hua as co-King, it reinforces both the exterior-releasing and heat-clearing actions and helps disperse clumped heat-toxin."
     },
     {
+      "id": 1029,
+      "formula_id": 154,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Acrid and cool. Disperses Wind-Heat, clears the head and eyes, and benefits the throat. Supports the King herbs in releasing the exterior and directing the formula's action upward to the head and throat."
     },
     {
+      "id": 1030,
+      "formula_id": 154,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid, bitter, and cold. Disperses Wind-Heat, benefits the throat, and promotes the expression of skin rashes. Complements the King herbs by specifically targeting sore throat and swollen glands."
     },
     {
+      "id": 1031,
+      "formula_id": 154,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Acrid and slightly warm. Opens the pores and helps expel the pathogen from the exterior. Although slightly warm, it is mild and non-drying. Used here by the method of 'borrowing its nature' (去性取用): its warm-dispersing power enhances exterior release without contradicting the overall cooling strategy."
     },
     {
+      "id": 1032,
+      "formula_id": 154,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid and slightly warm. Releases the exterior and relieves irritability. Like Jing Jie, it is mildly warm and helps push the pathogen outward through the surface. Its warmth is restrained by the surrounding cool herbs."
     },
     {
+      "id": 1033,
+      "formula_id": 154,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Bitter and acrid. Opens and disseminates Lung Qi, benefits the throat, and directs the actions of the other herbs upward to the Upper Burner. Paired with Gan Cao, it specifically addresses sore throat."
     },
     {
+      "id": 1034,
+      "formula_id": 154,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Sweet, bland, and cold. Clears heat from the Upper Burner and relieves restlessness. Gently generates fluids to counter the drying effect of the exterior-releasing herbs."
     },
     {
+      "id": 1035,
+      "formula_id": 154,
       "herb_name": "Lu Gen",
       "english_name": "Reed rhizome",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Sweet and cold. Clears heat and generates fluids to protect body fluids from being damaged by the warm pathogen. In the original formula, fresh Lu Gen decoction is used as the cooking medium for the powder, underscoring its role in preserving fluids."
     },
     {
+      "id": 1036,
+      "formula_id": 154,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral-to-cool (in raw form). Harmonises all the herbs in the formula, clears heat and resolves toxicity, and paired with Jie Geng specifically soothes sore throat."
     }
   ],
   "research": [

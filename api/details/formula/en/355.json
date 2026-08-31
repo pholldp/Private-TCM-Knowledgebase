@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid foods that generate Dampness and Heat: greasy or deep-fried foods, alcohol, spicy foods (chili, pepper, raw garlic), shellfish, shrimp, and crab (which are considered \"hair-trigger\" or fa wu foods in TCM that can aggravate skin conditions). Also avoid overly sweet or rich foods that burden the Spleen and generate internal Dampness.\nFavor light, easily digestible foods that support Spleen function and help drain Dampness: plain rice or rice porridge, mung beans, winter melon, cucumber, barley water (Yi Yi Ren), celery, and leafy greens. Adequate water intake supports the Dampness-draining function of the formula.",
   "ingredients": [
     {
+      "id": 2632,
+      "formula_id": 355,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Clears Heat and resolves toxins from the skin. As the primary herb, it targets the Heat-toxin component driving skin inflammation, redness, and burning sensations. Its broad-spectrum Heat-clearing action addresses the root cause of acute eczema flare-ups."
     },
     {
+      "id": 2633,
+      "formula_id": 355,
       "herb_name": "Tu Fu Ling",
       "english_name": "Glabrous greenbrier rhizome",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Clears Heat, resolves toxins, and eliminates Dampness. It works in tandem with Jin Yin Hua to address both the Heat and Dampness that underlie eczema, and has a particular affinity for resolving Damp-Heat skin lesions with oozing and erosion."
     },
     {
+      "id": 2634,
+      "formula_id": 355,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Strongly clears Heat and dries Dampness. Its bitter, cold nature powerfully drains Damp-Heat from the Middle Burner and skin, helping to reduce inflammation, redness, and oozing in eczema. It reinforces the Heat-clearing action of the King herbs."
     },
     {
+      "id": 2635,
+      "formula_id": 355,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat from the upper body and skin surface, clears Heat and detoxifies. It supports the King herbs by helping to vent exterior Wind-Heat, addressing the itching and superficial redness of eczema."
     },
     {
+      "id": 2636,
+      "formula_id": 355,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Strengthens the Spleen and drains Dampness through the urine. By promoting the elimination of Dampness from below and supporting Spleen function, it addresses the underlying tendency for fluid accumulation that manifests as oozing, blistering skin lesions."
     },
     {
+      "id": 2637,
+      "formula_id": 355,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Expels Wind and stops itching. Wind is the classical pathogenic factor most associated with itching and the migratory, relapsing nature of eczema rashes. Fang Feng disperses Wind from the skin surface and helps relieve the intense pruritus."
     },
     {
+      "id": 2638,
+      "formula_id": 355,
       "herb_name": "Chan Tui",
       "english_name": "Cicada Slough",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind and stops itching, vents rashes to the surface. Chan Tui is a key anti-itch herb that specifically targets Wind-Heat skin conditions. It works synergistically with Fang Feng to address itching from a different angle, helping to vent pathogenic factors outward through the skin."
     },
     {
+      "id": 2639,
+      "formula_id": 355,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates the cold and bitter nature of the Heat-clearing herbs to protect the Stomach, and adds mild Heat-clearing and detoxifying action of its own."
     }
   ],
   "research": [

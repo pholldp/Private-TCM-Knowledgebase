@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid foods that generate internal Heat: alcohol, deep-fried foods, heavily spiced dishes, lamb, and excessive red meat. Avoid overly greasy or rich foods that burden the Stomach and generate Dampness-Heat. Favor light, cooling foods such as mung bean soup, cucumber, watermelon, pear, winter melon, and congee made from plain rice. Since the formula is strongly cold and purgative, also avoid excessively raw or cold foods that might compound the digestive impact, particularly if there is any underlying Spleen weakness. Drink adequate warm water to support the body's process of clearing Heat.",
   "ingredients": [
     {
+      "id": 854,
+      "formula_id": 128,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "The chief herb in the formula. Da Huang is bitter and cold, and powerfully drains Fire downward through the bowels. It clears Heat from all three Burners using a strategy of 'purging instead of clearing' (以泻代清), directing pathogenic Heat out via the stool. Crucially, it also cools the Blood to stop bleeding while simultaneously moving Blood to prevent stasis, so that bleeding stops without old blood accumulating."
     },
     {
+      "id": 855,
+      "formula_id": 128,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Huang Lian is intensely bitter and cold, and is the primary herb for draining Heart Fire and clearing Heat from the Middle Burner. It supports Da Huang by directly cooling the pathogenic Fire that is forcing Blood out of its vessels. Its affinity for the Heart and Stomach makes it especially effective for irritability, restlessness, and epigastric Heat."
     },
     {
+      "id": 856,
+      "formula_id": 128,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Huang Qin is bitter and cold, and clears Heat primarily from the Upper Burner (Lungs) and Liver/Gallbladder. Together with Huang Lian, it ensures that Fire is cleared across all three Burners. Huang Qin also has a recognized ability to cool the Blood and stop bleeding, reinforcing the hemostatic action of the formula."
     }
   ],
   "research": [

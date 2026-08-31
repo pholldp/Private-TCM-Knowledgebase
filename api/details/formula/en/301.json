@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold and raw foods (salads, ice cream, cold beverages, raw fruit) while taking this formula, as they counteract the warming action and can worsen Cold-Damp accumulation. Reduce intake of greasy, oily, and heavy foods that generate Dampness. Dairy products and excessive sweets should also be limited, as they tend to produce Phlegm and Dampness. Favor warm, cooked, and easily digestible foods. Warming spices such as ginger, cinnamon, and black pepper can complement the formula's action. Light congee (rice porridge) and cooked root vegetables are supportive. Alcohol should be avoided, as it generates Damp-Heat and may interact with the formula's herbs.",
   "ingredients": [
     {
+      "id": 2121,
+      "formula_id": 301,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms Yang, disperses Cold, and expels Dampness from the channels and joints. Used here in a large dose (3 pieces in the original) to powerfully warm the interior and exterior, drive out Cold-Damp obstruction, and relieve body pain. As the principal herb, it provides the main warming and pain-relieving force of the formula."
     },
     {
+      "id": 2122,
+      "formula_id": 301,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. Used at the heaviest dose in the formula (4 liang in the original), it addresses the root cause of Dampness by restoring the Spleen's ability to transform and transport fluids. Combined with Fu Zi, the pair specifically targets Dampness lodged in the muscles, flesh, and joints. Bai Zhu also has a mild constraining quality that prevents excessive sweating, which is important because the patient's fluids are already depleted (as shown by hard stools)."
     },
     {
+      "id": 2123,
+      "formula_id": 301,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Middle Burner, mildly disperses Cold and Dampness from the surface, and assists the Qi transformation of the Spleen and Stomach. It helps Fu Zi push fluids outward to clear Dampness from the exterior while harmonizing the formula."
     },
     {
+      "id": 2124,
+      "formula_id": 301,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 - 6 pieces"
+      "dosage": "4 - 6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, replenishes Qi and Blood, and moderates the harsh, pungent nature of Fu Zi. Together with Sheng Jiang and Zhi Gan Cao, it supports the body's normal Qi and protects the Stomach, helping to anchor the dispersing Yang herbs so they do not scatter the body's resources."
     },
     {
+      "id": 2125,
+      "formula_id": 301,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi, moderates the toxicity of Fu Zi, and harmonizes all the herbs in the formula. Its sweet, warming nature supports the Middle Burner and helps protect body fluids, which is especially important given the patient's already depleted state indicated by hard stools and frequent urination."
     }
   ],
   "research": [],

@@ -24,94 +24,184 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, ice cream, chilled drinks, raw sushi), as these directly counteract its warming purpose and worsen Cold-Dampness accumulation. Also avoid greasy, rich, and heavily fried foods, which burden the Spleen and generate more Dampness and Phlegm. Dairy products and excessive sweets should be limited for the same reason. Favor warm, lightly cooked, easily digestible foods such as congee, soups, and steamed vegetables. Warm ginger tea complements the formula's actions. The classical preparation method calls for adding fresh ginger slices and scallion whites (Cong Bai) to the decoction, which enhance its Exterior-releasing effect.",
   "ingredients": [
     {
+      "id": 2150,
+      "formula_id": 305,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Used in the largest dosage in the formula. Strongly dries dampness, strengthens the Spleen's ability to transform and transport, and also releases the exterior for wind-cold-damp invasion. As the core herb, it addresses the dampness accumulation that underlies many of the formula's target symptoms."
     },
     {
+      "id": 2151,
+      "formula_id": 305,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the exterior, induces sweating, and disperses wind-cold from the surface of the body. Works with Bai Zhi to release exterior cold, addressing the headache, body aches, chills, and absence of sweating."
     },
     {
+      "id": 2152,
+      "formula_id": 305,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and lifts Lung Qi upward, helping to expel phlegm from the chest. Works as a counterpart to Zhi Ke: Jie Geng ascends while Zhi Ke descends, together restoring normal Qi movement in the chest and diaphragm and resolving phlegm and Qi stagnation."
     },
     {
+      "id": 2153,
+      "formula_id": 305,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the interior and expels cold from the Spleen and Stomach. Works with Rou Gui to address the internal cold accumulation that causes abdominal pain, vomiting, and diarrhea with undigested food."
     },
     {
+      "id": 2154,
+      "formula_id": 305,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Deputy",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Powerfully warms the interior and disperses deep cold. Warms the channels and promotes blood circulation, helping to resolve blood stasis caused by cold. Together with Gan Jiang, addresses internal cold accumulation."
     },
     {
+      "id": 2155,
+      "formula_id": 305,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Releases exterior wind-cold, particularly targeting the Yangming channel to relieve headache and nasal congestion. Also expels dampness and alleviates pain."
     },
     {
+      "id": 2156,
+      "formula_id": 305,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi downward, dries dampness, and reduces abdominal bloating and distention. Together with Cang Zhu, Chen Pi, and Gan Cao, forms the core of Ping Wei San (Calm the Stomach Powder) within this formula, addressing dampness obstruction in the Spleen and Stomach."
     },
     {
+      "id": 2157,
+      "formula_id": 305,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries dampness. Helps transform phlegm by supporting the Spleen's transportation function. A shared component of both the Ping Wei San and Er Chen Tang sub-structures within this formula."
     },
     {
+      "id": 2158,
+      "formula_id": 305,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, directs rebellious Qi downward to stop nausea and vomiting. Together with Chen Pi, Fu Ling, and Gan Cao, forms the Er Chen Tang (Two Aged Decoction) component that addresses phlegm accumulation."
     },
     {
+      "id": 2159,
+      "formula_id": 305,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes urination to drain dampness. Provides a gentle pathway for accumulated dampness and fluid retention to leave the body via the urine."
     },
     {
+      "id": 2160,
+      "formula_id": 305,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Regulates and descends Qi, alleviates chest and abdominal distention. Paired with Jie Geng, the two create an ascending-descending dynamic that opens the chest, relieves stuffiness, and assists in moving phlegm and stagnant Qi."
     },
     {
+      "id": 2161,
+      "formula_id": 305,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates blood. Together with Chuan Xiong and Bai Shao, forms a modified Si Wu Tang (Four Substances Decoction, minus Shu Di Huang) to address blood stasis caused by cold congealing in the blood vessels, and to regulate menstruation."
     },
     {
+      "id": 2162,
+      "formula_id": 305,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates blood and moves Qi, particularly in the Jueyin (Liver) channel. Relieves headache and body pain. Complements Dang Gui in resolving blood stasis from cold."
     },
     {
+      "id": 2163,
+      "formula_id": 305,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes blood and softens the Liver, harmonizes the nutritive level, and moderates pain. Balances the warm, dispersing nature of the other herbs to prevent excessive drying or scattering of blood and Yin."
     },
     {
+      "id": 2164,
+      "formula_id": 305,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula and strengthens the Middle Burner (Spleen and Stomach). Moderates the harshness of the many acrid, warm, and drying herbs to prevent them from injuring the Qi."
     }
   ],
   "research": [],

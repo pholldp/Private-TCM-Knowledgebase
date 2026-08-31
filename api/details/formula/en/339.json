@@ -24,82 +24,160 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and dairy products while taking this formula. Cold foods can impair the Lung's dispersing function and worsen nasal congestion, while dairy tends to increase mucus production. Greasy, fried, and heavily spiced foods should also be limited, as they generate Dampness and Heat. Light, warm, and easily digestible meals are best. Congee with scallions or warm soups can support the formula's Exterior-releasing action. Alcohol should be avoided as it generates Damp-Heat.",
   "ingredients": [
     {
+      "id": 2438,
+      "formula_id": 339,
       "herb_name": "Xin Yi Hua",
       "english_name": "Magnolia flower bud",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The primary herb for opening the nasal passages and unblocking nasal obstruction. Xin Yi Hua has a special affinity for the nose and directly addresses the core complaint of nasal congestion."
     },
     {
+      "id": 2439,
+      "formula_id": 339,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Releases the exterior and muscle layer, generates fluids, and raises clear Yang to the head. Combined with Ma Huang and Sheng Jiang, it forms the exterior-releasing core of the formula derived from Ge Gen Tang."
     },
     {
+      "id": 2440,
+      "formula_id": 339,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the Lung Qi, promotes sweating to release exterior Wind-Cold, and assists in opening the nasal passages. Works with Ge Gen to dispel surface pathogens."
     },
     {
+      "id": 2441,
+      "formula_id": 339,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears interior Heat from the Lung and Stomach, directly targeting the Damp-Heat accumulation responsible for yellow, foul-smelling nasal discharge. Its cold nature balances the warm exterior-releasing herbs."
     },
     {
+      "id": 2442,
+      "formula_id": 339,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Clears Heat and reduces swelling by draining accumulated Heat downward through the bowels. Works with Shi Gao to purge interior Damp-Heat that drives the production of thick nasal discharge."
     },
     {
+      "id": 2443,
+      "formula_id": 339,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Drains Dampness and helps eliminate pus, directly addressing the turbid, sticky quality of the nasal discharge. Also supports the Spleen in resolving Dampness."
     },
     {
+      "id": 2444,
+      "formula_id": 339,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and raises Lung Qi, helping to drain Dampness and discharge pus from the nasal passages. Also serves as a guide herb directing the formula's action upward to the head and nose."
     },
     {
+      "id": 2445,
+      "formula_id": 339,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Activates Blood circulation and relieves headaches associated with nasal symptoms. Its ascending, dispersing nature carries the formula's action to the head."
     },
     {
+      "id": 2446,
+      "formula_id": 339,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the interior and dispels Cold, moderating the harsh cold properties of Shi Gao and Da Huang to prevent damage to the Spleen and Stomach. Balances the overall temperature of the formula."
     },
     {
+      "id": 2447,
+      "formula_id": 339,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Harmonizes the nutritive (Ying) and defensive (Wei) levels, nourishes Blood, and balances the pungent, warm exterior-releasing herbs to prevent them from being too dispersing."
     },
     {
+      "id": 2448,
+      "formula_id": 339,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Assists Ma Huang in releasing the exterior and warms the middle to protect the Stomach from the cold herbs in the formula."
     },
     {
+      "id": 2449,
+      "formula_id": 339,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "3 - 4 pieces"
+      "dosage": "3 - 4 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies the Spleen and harmonizes the formula, working with Gan Cao to moderate the actions of the other herbs and protect the digestive system."
     },
     {
+      "id": 2450,
+      "formula_id": 339,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and protects the Stomach. Moderates the harsh properties of the purgative and cold herbs."
     }
   ],
   "research": [],

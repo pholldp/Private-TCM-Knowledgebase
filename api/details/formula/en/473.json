@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid cold and raw foods (including salads, iced drinks, ice cream, and raw fruit) while taking this formula, as cold foods impair the Spleen's ability to transform fluids and can worsen fluid accumulation. Avoid greasy, oily, and rich foods that generate dampness and phlegm. The classical text specifically notes to avoid lamb broth (忌羊肉汤). Dairy products, sweets, and sticky glutinous foods should also be minimized as they tend to produce dampness. Favor warm, easily digestible foods such as congee (rice porridge), lightly cooked vegetables, and clear soups. Small, frequent meals are preferable to large ones when nausea is present.",
   "ingredients": [
     {
+      "id": 3599,
+      "formula_id": 473,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The principal herb, Ban Xia dries Dampness, transforms Phlegm, causes rebellious Stomach Qi to descend, and is a primary anti-emetic. It directly addresses the core pathology of retained fluid and Phlegm obstructing the middle burner, and its warm, acrid nature disperses the accumulated pathogenic water."
     },
     {
+      "id": 3600,
+      "formula_id": 473,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Deputy",
-      "dosage": "10 - 18g"
+      "dosage": "10 - 18g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Known classically as the 'sage herb for vomiting' (呕家圣药), Sheng Jiang warms the middle burner, disperses cold and water accumulation, and powerfully stops vomiting. It reinforces Ban Xia's anti-emetic and fluid-dispersing action while also moderating Ban Xia's toxicity. The pairing of Ban Xia and Sheng Jiang is the fundamental anti-vomiting combination in Chinese medicine."
     },
     {
+      "id": 3601,
+      "formula_id": 473,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Fu Ling promotes urination and drains Dampness downward, giving the retained water an exit route through the lower body. It also strengthens the Spleen to prevent further fluid accumulation and calms the Heart to address palpitations. Its addition to the base Xiao Ban Xia Tang transforms a simple anti-emetic into a formula that also resolves the underlying water pathology causing dizziness and palpitations."
     }
   ],
   "research": [

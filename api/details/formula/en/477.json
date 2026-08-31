@@ -24,82 +24,160 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, iced drinks, raw fruit in excess), greasy or deep-fried foods, and rich dairy products. These can generate or worsen Dampness in the body, directly opposing the formula's therapeutic intent.\nFavor light, easily digestible, warm-cooked foods such as congee (rice porridge), steamed vegetables, and clear broths. Small, frequent meals are preferable to large heavy ones, as the Spleen is already taxed by Dampness. Drinking warm water throughout the day supports the formula's fluid-transforming action.\nAvoid alcohol, which generates Damp-Heat, and highly spiced food, which may aggravate Heat symptoms. Smoking should be strictly avoided as it directly damages the Lungs.",
   "ingredients": [
     {
+      "id": 3630,
+      "formula_id": 477,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Acrid and warm, Ma Huang ventilates Lung Qi and promotes sweating to release exterior pathogens. It opens the Lungs to relieve wheezing and is the primary herb for restoring the Lung's dispersing function when it is obstructed by damp-toxins."
     },
     {
+      "id": 3631,
+      "formula_id": 477,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid and cold, Shi Gao powerfully clears Lung heat and disperses pathogenic heat outward. Paired with Ma Huang, it ensures the formula ventilates the Lungs and clears heat simultaneously, preventing the warm nature of Ma Huang from worsening internal heat."
     },
     {
+      "id": 3632,
+      "formula_id": 477,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Aromatic and bitter-warm, bran-fried Cang Zhu dries dampness, strengthens the Spleen, and dispels turbidity. It addresses the core dampness component of the pathomechanism, working with Huo Xiang to transform dampness from the middle burner and restore the Spleen's transportation function."
     },
     {
+      "id": 3633,
+      "formula_id": 477,
       "herb_name": "Huo Xiang",
       "english_name": "Patchouli herb",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Aromatic and acrid-warm, Huo Xiang transforms dampness, harmonizes the middle burner, and dispels turbid pathogens. Combined with Cang Zhu, it provides aromatic dampness-transforming power to support the Lung's dispersing function from below."
     },
     {
+      "id": 3634,
+      "formula_id": 477,
       "herb_name": "Qing Hao",
       "english_name": "Sweet wormwood",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Bitter, acrid, and cold with an aromatic quality, Qing Hao clears heat from the blood level and disperses lurking heat outward. It enhances Shi Gao's heat-clearing action and balances the warm-drying nature of Cang Zhu and Huo Xiang, preventing them from becoming excessively warming."
     },
     {
+      "id": 3635,
+      "formula_id": 477,
       "herb_name": "Hu Zhang",
       "english_name": "Giant Knotweed Rhizome",
       "role": "Deputy",
-      "dosage": "20g"
+      "dosage": "20g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Bitter and slightly cold, Hu Zhang resolves toxins, invigorates blood, and transforms phlegm. Modern research identified its active compound (polydatin) as having strong antiviral activity against coronaviruses. It prevents damp-toxins from congealing into blood stasis."
     },
     {
+      "id": 3636,
+      "formula_id": 477,
       "herb_name": "Ma Bian Cao",
       "english_name": "Vervain",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Bitter and cool, Ma Bian Cao clears heat, resolves toxins, and invigorates blood to free the collaterals. Research showed it has strong activity against small-airway damage and microthrombosis caused by viral lung injury. Paired with Hu Zhang, it ensures toxins are expelled and the lung's vascular network remains open."
     },
     {
+      "id": 3637,
+      "formula_id": 477,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Sweet, bland, and slightly cold, Yi Yi Ren clears Lung heat, drains dampness downward, and supports the Spleen. It works with Lu Gen and Ting Li Zi to clear congestion from the Lungs and drain turbid fluids via the lower route."
     },
     {
+      "id": 3638,
+      "formula_id": 477,
       "herb_name": "Lu Gen",
       "english_name": "Reed rhizome",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Sweet and cold with a light, ascending nature, Lu Gen clears Lung heat, generates fluids, and promotes the expulsion of phlegm. It helps vent pathogenic heat outward from the Lungs."
     },
     {
+      "id": 3639,
+      "formula_id": 477,
       "herb_name": "Ting Li Zi",
       "english_name": "Pepperweed seed",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Bitter, acrid, and very cold, Ting Li Zi powerfully drains the Lungs, reduces phlegm congestion, and relieves wheezing. It directs Lung Qi downward and promotes bowel movement, helping expel damp-heat toxins through the lower route."
     },
     {
+      "id": 3640,
+      "formula_id": 477,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Bitter and slightly warm, Ku Xing Ren descends Lung Qi to relieve coughing and wheezing. Paired with Ma Huang, it creates the classic combination of one dispersing and one descending herb to restore normal Lung Qi circulation."
     },
     {
+      "id": 3641,
+      "formula_id": 477,
       "herb_name": "Ju Hong",
       "english_name": "Tangerine Peel (red outer layer)",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Acrid, bitter, and slightly warm, Hua Ju Hong dries dampness, moves Qi, and transforms phlegm in the middle burner. It supports Cang Zhu and Huo Xiang in restoring proper Qi circulation, helping the Spleen transport and transform fluids."
     },
     {
+      "id": 3642,
+      "formula_id": 477,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and slightly cool, raw Gan Cao harmonizes all herbs in the formula, moderates the harshness of the cold-natured and bitter herbs, resolves toxins, and soothes cough. It serves as both harmonizing envoy and gentle detoxifier."
     }
   ],
   "research": [

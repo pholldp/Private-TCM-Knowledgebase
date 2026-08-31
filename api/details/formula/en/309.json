@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods that can generate more Phlegm and further burden the weakened Spleen and Lungs. Fried and heavily spiced foods should also be limited, as they may aggravate the existing Phlegm-Heat. Dairy products and excessively sweet foods tend to increase Phlegm production and are best minimized. Favor warm, easily digested foods such as congee, steamed vegetables, and light soups. Pears (steamed or in soup) can gently moisten the Lungs. Avoid smoking and alcohol, both of which generate Heat and damage Lung Yin.",
   "ingredients": [
     {
+      "id": 2202,
+      "formula_id": 309,
       "herb_name": "Ge Jie",
       "english_name": "Tokay Gecko",
       "role": "King",
-      "dosage": "1 pair (approximately 6 - 12g)"
+      "dosage": "1 pair (approximately 6 - 12g)",
+      "temperature": "Neutral",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Tonifies both the Lung and Kidney, grasps Qi and anchors it downward to arrest wheezing. As a flesh-and-blood substance it powerfully reinforces the body's deep respiratory capacity."
     },
     {
+      "id": 2203,
+      "formula_id": 309,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi and strengthens both the Lung and Spleen. Works with Ge Jie to restore the Lung-Kidney axis that governs breathing."
     },
     {
+      "id": 2204,
+      "formula_id": 309,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness, supporting the Spleen's role as the mother of the Lung (Earth generates Metal in five-phase theory). Helps prevent phlegm from being generated at its source."
     },
     {
+      "id": 2205,
+      "formula_id": 309,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the middle burner Qi to support the Lung, moistens the Lung to relieve cough, and harmonizes all the other herbs in the formula."
     },
     {
+      "id": 2206,
+      "formula_id": 309,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Directs Lung Qi downward, stops cough, and helps dissolve phlegm. Pairs with Sang Bai Pi to descend and clear Lung Qi stagnation."
     },
     {
+      "id": 2207,
+      "formula_id": 309,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Drains Heat from the Lung, directs rebellious Qi downward, and calms wheezing. Addresses the Phlegm-Heat component of the pattern."
     },
     {
+      "id": 2208,
+      "formula_id": 309,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "Clears Heat from the Lung, moistens dryness, transforms sticky phlegm, and stops cough. Particularly suited to clearing Heat arising from underlying Yin deficiency."
     },
     {
+      "id": 2209,
+      "formula_id": 309,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat and nourishes Yin in both the Lung and Kidney. Prevents the warming and tonifying herbs from generating excess Heat, and addresses any underlying Yin deficiency Fire."
     }
   ],
   "research": [],

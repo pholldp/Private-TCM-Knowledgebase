@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid smoking, alcohol, and spicy, raw/cold, greasy, or oily foods, as these can aggravate Phlegm accumulation or impair the Lung's function. Cold and raw foods (salads, iced drinks, ice cream) are especially counterproductive since the formula is treating a Cold-pattern condition and cold foods would worsen the underlying pathology. Warm, easily digestible foods are preferred: plain congee (rice porridge), warm soups, steamed vegetables, and lightly cooked meals. Dairy products and excessively sweet or rich foods should be minimized as they tend to generate Dampness and Phlegm. Warm water or ginger tea can support the formula's warming, dispersing action. Do not take tonic or heavily supplementing Chinese herbal medicines concurrently, as they may conflict with the formula's dispersing strategy.",
   "ingredients": [
     {
+      "id": 2853,
+      "formula_id": 380,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "The principal herb of the formula. Chuan Bei Mu clears Heat from the Lungs, moistens Lung dryness, transforms phlegm, and stops coughing. It addresses the core pathomechanism of phlegm accumulation with Lung Heat or Yin deficiency."
     },
     {
+      "id": 2854,
+      "formula_id": 380,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses the Lung Qi, directs other herbs upward to the throat and Lungs, expels phlegm, and benefits the throat. Supports Chuan Bei Mu by ensuring Lung Qi circulates properly so phlegm can be expelled."
     },
     {
+      "id": 2855,
+      "formula_id": 380,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries Dampness, helping to transform phlegm by addressing the Spleen's role in phlegm production. Prevents the moistening herbs from creating further Dampness."
     },
     {
+      "id": 2856,
+      "formula_id": 380,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms phlegm, directs rebellious Lung and Stomach Qi downward to stop coughing and nausea. Complements Chuan Bei Mu's phlegm-resolving action from a different angle — while Chuan Bei Mu moistens and clears Hot Phlegm, Ban Xia dries and resolves Damp Phlegm."
     },
     {
+      "id": 2857,
+      "formula_id": 380,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness, addressing the root cause of phlegm production. TCM holds that the Spleen is the source of phlegm while the Lungs store it — Fu Ling treats the source."
     },
     {
+      "id": 2858,
+      "formula_id": 380,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the other herbs in the formula, moistens the Lungs, soothes the throat, and moderates coughing. Acts as the envoy to bring the formula into balance."
     }
   ],
   "research": [],

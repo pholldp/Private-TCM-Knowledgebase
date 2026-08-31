@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as ice cream, raw salads, and chilled drinks) which may impede the circulation of Qi and Blood and counteract the formula's warming, dispersing action. Avoid greasy, fried, and heavy foods which may generate further Dampness and Heat, worsening abscess conditions. Spicy, hot foods such as chili, alcohol (beyond the medicinal wine), lamb, and shellfish should also be limited, as they can aggravate Heat-toxin. Light, easily digestible foods such as congee, cooked vegetables, and clear soups are recommended. If the formula is being used for breast abscess during breastfeeding, adequate hydration and nutrition are important to support both recovery and milk production.",
   "ingredients": [
     {
+      "id": 4389,
+      "formula_id": 572,
       "herb_name": "Gua Lou",
       "english_name": "Trichosanthes fruit",
       "role": "King",
-      "dosage": "15 - 30g (one whole fruit)"
+      "dosage": "15 - 30g (one whole fruit)",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "The chief herb of the formula, Gua Lou (Trichosanthes fruit) clears Heat, resolves toxicity, disperses swelling, and dissipates nodulation. Its sweet, cold nature directly targets the breast area, where it loosens congealed Qi and breaks up accumulations of Heat-toxin. It also moistens and promotes the movement of fluids, helping to transform pus or disperse unformed abscesses."
     },
     {
+      "id": 4390,
+      "formula_id": 572,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Dang Gui (Chinese Angelica root) nourishes and invigorates Blood, supporting the body's ability to resolve swelling and promote healing. In sores and abscesses, Blood stagnation is always present alongside Heat-toxin. By moving stagnant Blood and generating new Blood, Dang Gui ensures the pathological products are expelled while healthy tissue is nourished for recovery."
     },
     {
+      "id": 4391,
+      "formula_id": 572,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Raw Gan Cao (Licorice root) is used here for its ability to clear Heat, resolve toxicity, and reduce swelling. Unlike honey-processed licorice which mainly tonifies, raw licorice has notable anti-toxic properties that work synergistically with Gua Lou. It also harmonizes the formula and moderates the potent Blood-moving herbs."
     },
     {
+      "id": 4392,
+      "formula_id": 572,
       "herb_name": "Ru Xiang",
       "english_name": "Frankincense resin",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Ru Xiang (Frankincense) invigorates Blood circulation, moves Qi, reduces swelling, and alleviates pain. It works closely with Mo Yao as a classic pairing for trauma and sores. Its Qi-moving action helps open the channels in the affected area, aiding the dispersal of the abscess."
     },
     {
+      "id": 4393,
+      "formula_id": 572,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Mo Yao (Myrrh) dispels Blood stasis, reduces swelling, and relieves pain. Paired with Ru Xiang, the two resins powerfully break through Blood stagnation in the local tissue. While Ru Xiang emphasizes Qi movement, Mo Yao emphasizes Blood movement, and together they promote the resolution of abscesses and relieve the intense local pain."
     }
   ],
   "research": [],

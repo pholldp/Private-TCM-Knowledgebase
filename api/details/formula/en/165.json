@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, favor foods that moisten the Lungs and generate fluids: pears, white fungus (Bai Mu Er), lily bulb (Bai He), honey, sesame, and congee. Drink adequate warm fluids throughout the day.\nAvoid foods that intensify Dryness or generate Heat: deep-fried and greasy foods, spicy or heavily seasoned dishes (chili, pepper, ginger), roasted nuts, alcohol, and strong coffee. Also avoid cold or raw foods that may impair the Spleen's fluid distribution, as well as dairy products which may thicken phlegm.",
   "ingredients": [
     {
+      "id": 1111,
+      "formula_id": 165,
       "herb_name": "Sang Ye",
       "english_name": "Mulberry leaf",
       "role": "King",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Light, cool, and aromatic, Sang Ye gently disperses warm-dryness from the Lung and Wei (defensive) level. Its acrid-cool nature releases the exterior pathogen without being overly cold or harsh, making it ideal for a mild warm-dryness presentation."
     },
     {
+      "id": 1112,
+      "formula_id": 165,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "King",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends and regulates Lung Qi to stop cough while gently moistening dryness. Partners with Sang Ye to address both the exterior pathogen (through dispersal) and the interior symptom (cough from impaired Lung descending function)."
     },
     {
+      "id": 1113,
+      "formula_id": 165,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Assists Sang Ye in gently releasing the exterior by dispersing mild heat from the surface and upper body. Its light, dispersing nature helps vent pathogens outward without damaging fluids."
     },
     {
+      "id": 1114,
+      "formula_id": 165,
       "herb_name": "Bei Sha Shen",
       "english_name": "Coastal Glehnia Root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Nourishes Lung Yin and generates fluids. As the herb with the largest dosage in the formula, it counterbalances the drying tendency of the pathogen by replenishing the fluids that warm-dryness has begun to consume."
     },
     {
+      "id": 1115,
+      "formula_id": 165,
       "herb_name": "Li Pi",
       "english_name": "Pear skin",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Heart, Kidneys, Large Intestine",
+      "role_description": "Cool and sweet, it clears heat and moistens dryness in the Lung. Works alongside Sha Shen to generate fluids and soothe the dry, irritated respiratory tract."
     },
     {
+      "id": 1116,
+      "formula_id": 165,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "The peel of Gardenia fruit is light and directed upward, specifically clearing heat from the Upper Jiao (upper body) and the Lung. Using only the peel rather than the whole fruit keeps the action light and focused on the superficial level of the disease."
     },
     {
+      "id": 1117,
+      "formula_id": 165,
       "herb_name": "Zhe Bei Mu",
       "english_name": "Zhejiang Fritillary bulb",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Clears heat and transforms phlegm to help resolve any sticky, scanty sputum caused by the drying and heating of Lung fluids. Assists Xing Ren in stopping cough by addressing the phlegm component."
     }
   ],
   "research": [

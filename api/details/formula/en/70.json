@@ -24,16 +24,28 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods, as well as excessive sugar and alcohol, which generate Dampness and Heat internally and directly counteract the formula's therapeutic aim. Dairy products and cold raw foods should be minimized as they burden the Spleen's ability to transform fluids. Spicy and heating foods such as chili and lamb should be reduced to avoid fueling the Heat component. Favor light, easily digestible foods such as plain rice congee, mung beans, winter melon, barley (Yi Yi Ren), and leafy green vegetables, which support fluid transformation and gentle Heat-clearing.",
   "ingredients": [
     {
+      "id": 478,
+      "formula_id": 70,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Heat and dries Dampness from the lower body. Its bitter, cold nature directly targets the Lower Burner, making it the key herb for draining Damp-Heat from the joints, sinews, and urogenital region."
     },
     {
+      "id": 479,
+      "formula_id": 70,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Dries Dampness and strengthens the Spleen to address the root source of Dampness production. Its warm, aromatic, and drying nature complements Huang Bai by resolving Dampness from a different angle and prevents Huang Bai's cold nature from harming the Spleen."
     }
   ],
   "research": [

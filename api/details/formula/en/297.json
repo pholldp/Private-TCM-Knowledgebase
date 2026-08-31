@@ -24,64 +24,124 @@
   "dietary_advice": "Favor light, easily digestible, cooling foods: mung bean soup, watermelon, cucumber, winter melon, pear, lotus seed porridge, and congee (rice porridge). These support the formula's fluid-replenishing and Heat-clearing actions.\nAvoid greasy, fried, and rich foods that generate Dampness and Heat, as they counteract the formula's effects. Avoid spicy, hot-natured foods (chili, ginger, lamb, cinnamon) that may worsen the Heat condition. Avoid alcohol and strong tea. Avoid iced or excessively cold drinks, which can shock the Stomach and impair digestion even in a Heat pattern. Room-temperature or slightly cool beverages are preferred.",
   "ingredients": [
     {
+      "id": 2097,
+      "formula_id": 297,
       "herb_name": "Xi Yang Shen",
       "english_name": "American ginseng root",
       "role": "King",
-      "dosage": "5 - 6g"
+      "dosage": "5 - 6g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Tonifies Qi, generates fluids, nourishes Yin, and clears deficiency heat. As a cool-natured Qi tonic, it is uniquely suited to replenish the body's vitality and fluids damaged by summerheat without adding warmth."
     },
     {
+      "id": 2098,
+      "formula_id": 297,
       "herb_name": "Xi Gua",
       "english_name": "Watermelon",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Stomach, Urinary Bladder",
+      "role_description": "The green rind of watermelon, naturally sweet and cool. It powerfully clears summerheat, generates fluids, relieves thirst, and promotes urination to guide heat downward and out of the body."
     },
     {
+      "id": 2099,
+      "formula_id": 297,
       "herb_name": "He Geng",
       "english_name": "Lotus stem",
       "role": "Deputy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Liver, Stomach",
+      "role_description": "The stem of the lotus plant assists in clearing summerheat and has a unique ability to open the chest and regulate Qi flow, alleviating chest stuffiness that often accompanies heat illness."
     },
     {
+      "id": 2100,
+      "formula_id": 297,
       "herb_name": "Shi Hu",
       "english_name": "Dendrobium stem",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Stomach, Kidneys",
+      "role_description": "A rich, moistening herb that nourishes Stomach Yin and generates fluids. It supports Xi Yang Shen in restoring the fluids depleted by summerheat, particularly targeting the Stomach to restore appetite and relieve thirst."
     },
     {
+      "id": 2101,
+      "formula_id": 297,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Sweet, slightly cold, and juicy, it nourishes Yin and generates fluids while clearing Heat from the Heart and Stomach. Together with Shi Hu, it reinforces the fluid-replenishing strategy of the formula."
     },
     {
+      "id": 2102,
+      "formula_id": 297,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Intensely bitter and cold, it drains Fire and clears Heat, especially from the Heart. Used in a small dose to boost the formula's ability to clear summerheat without over-cooling the Stomach."
     },
     {
+      "id": 2103,
+      "formula_id": 297,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Bitter, cold, yet moistening in quality. It drains Fire and nourishes Yin simultaneously, a rare dual action that makes it especially useful when heat has already consumed body fluids."
     },
     {
+      "id": 2104,
+      "formula_id": 297,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Light and sweet with a cold nature, it clears Heat from the Heart to relieve irritability and promotes urination, providing another pathway for heat to leave the body."
     },
     {
+      "id": 2105,
+      "formula_id": 297,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the other herbs in the formula, protects the Stomach from the cold nature of the other ingredients, and mildly tonifies Qi."
     },
     {
+      "id": 2106,
+      "formula_id": 297,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Nourishes the Stomach and protects its lining, ensuring the cooling herbs do not upset digestion. It also gently generates fluids and provides a grounding, tonifying base for the entire formula."
     }
   ],
   "research": [],

@@ -24,22 +24,40 @@
   "dietary_advice": "While using Dang Gui Gao for burn treatment, avoid spicy, greasy, and overly heating foods (such as chili peppers, deep-fried foods, lamb, and strong alcohol), as these can aggravate internal Heat and slow wound healing. Favor light, nourishing foods that support tissue repair, such as congee, mung bean soup, fresh vegetables, and lean protein. Sour and fishy foods (酸腥) were traditionally advised against during topical wound treatment, as they were believed to interfere with healing and promote scarring.",
   "ingredients": [
     {
+      "id": 2877,
+      "formula_id": 383,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The principal medicinal herb in this paste. Dang Gui nourishes and invigorates Blood, promotes tissue regeneration, relieves pain, and moistens dryness. Its warm, sweet, and pungent nature helps stimulate local blood circulation to damaged tissue, encouraging the growth of new flesh and the healing of sores and burns."
     },
     {
+      "id": 2878,
+      "formula_id": 383,
       "herb_name": "Ma You",
       "english_name": "Sesame oil",
       "role": "Deputy",
-      "dosage": "120g (4 liang)"
+      "dosage": "120g (4 liang)",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Large Intestine",
+      "role_description": "Serves as both the extraction medium and a therapeutic agent. Sesame oil moistens and protects damaged skin, resolves mild toxicity, and acts as the base that carries the medicinal properties of Dang Gui to the wound surface. Its lubricating quality prevents the paste from sticking painfully to raw tissue."
     },
     {
+      "id": 2879,
+      "formula_id": 383,
       "herb_name": "Feng La",
       "english_name": "Beeswax",
       "role": "Assistant",
-      "dosage": "30g (1 liang)"
+      "dosage": "30g (1 liang)",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Acts as the solidifying agent that gives the paste its semi-solid consistency for topical application. Beeswax also has mild detoxifying, wound-sealing, and pain-relieving properties, and promotes the generation of new tissue. It creates a protective barrier over the wound surface."
     }
   ],
   "research": [

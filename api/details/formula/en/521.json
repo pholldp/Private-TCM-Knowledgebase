@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid greasy, fried, and heavy foods that generate internal Heat and Dampness, as these can obstruct the rash-venting process. Cold and raw foods should also be limited, as they may impede the outward movement of the rash by constricting the surface. Spicy-hot foods (chili, pepper, alcohol) should be avoided as they may aggravate Heat and further damage fluids. Favor light, easily digestible foods such as rice porridge (congee), mung bean soup, and clear vegetable broths that support fluid levels without burdening digestion.",
   "ingredients": [
     {
+      "id": 3968,
+      "formula_id": 521,
       "herb_name": "Xi He Liu (&#x897F;&#x6CB3;&#x67F3;, Tamarix)",
       "english_name": "",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "The lead herb for promoting the eruption of rashes (透疹). Xi He Liu enters the Blood level and powerfully vents Heat outward through the skin, making it the most important herb for measles rash that fails to emerge properly."
     },
     {
+      "id": 3969,
+      "formula_id": 521,
       "herb_name": "Niu Bang Zi",
       "english_name": "Burdock fruit",
       "role": "King",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Disperses Wind-Heat, clears toxins, and benefits the throat. Works with Xi He Liu to vent the rash outward while also addressing sore throat and cough by diffusing Lung Qi."
     },
     {
+      "id": 3970,
+      "formula_id": 521,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "King",
-      "dosage": "30 pieces (approx. 3g)"
+      "dosage": "30 pieces (approx. 3g)",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Clears Heat from the upper body, particularly the Heart and Stomach, to relieve restlessness and irritability. Also promotes urination to guide Heat downward and out of the body."
     },
     {
+      "id": 3971,
+      "formula_id": 521,
       "herb_name": "Chan Tui",
       "english_name": "Cicada Slough",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat and vents rashes outward. Its light, ascending nature helps bring the eruption to the skin surface. Also benefits the throat and relieves itching."
     },
     {
+      "id": 3972,
+      "formula_id": 521,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat from the head and eyes, clears the throat, and assists in venting the rash. Its cool, acrid nature opens the pores and releases Heat from the muscle layer."
     },
     {
+      "id": 3973,
+      "formula_id": 521,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "Deputy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Releases the muscle layer and promotes the eruption of rashes by lifting Yang Qi and opening the interstices of the skin. Also generates fluids to relieve thirst."
     },
     {
+      "id": 3974,
+      "formula_id": 521,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Releases the exterior and disperses Wind to help vent the rash. Using the spike (穗) rather than the whole herb gives a lighter, more ascending action suited for reaching the skin surface."
     },
     {
+      "id": 3975,
+      "formula_id": 521,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat from the Lung and Stomach and nourishes Yin. Prevents the dispersing herbs from further depleting fluids, while addressing the interior Heat that drives restlessness and dry lips."
     },
     {
+      "id": 3976,
+      "formula_id": 521,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat, resolves toxins, and nourishes Yin. Particularly effective for sore, swollen throat caused by toxic Heat. Cools the Blood level to support safe eruption of the rash."
     },
     {
+      "id": 3977,
+      "formula_id": 521,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin and generates fluids to moisten the Lung and Stomach. Protects body fluids from being consumed by both the fever and the dispersing herbs, addressing dry lips and thirst."
     },
     {
+      "id": 3978,
+      "formula_id": 521,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Clears Heat and resolves toxins while harmonizing all the other herbs in the formula. Protects the Stomach from the cool, dispersing nature of the other ingredients."
     }
   ],
   "research": [],

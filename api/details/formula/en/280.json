@@ -24,52 +24,100 @@
   "dietary_advice": "While taking or using Ku Shen Tang (especially if any internal formulations containing Ku Shen are involved), avoid foods that generate Dampness and Heat: greasy, fried, and rich foods; excessive sugar and sweets; alcohol; spicy and pungent foods such as chili, garlic, and raw onions; shellfish and other strongly flavored seafood. Also avoid cold, raw foods that could further impair Spleen function, since the formula's bitter-cold nature already taxes digestive Qi.\nFavour light, easily digestible foods: plain rice congee, mung beans (which also clear Heat), winter melon, barley (Yi Yi Ren), lotus seed, cucumber, and leafy greens. Adequate hydration with warm water or mild chrysanthemum tea supports the Dampness-clearing process.",
   "ingredients": [
     {
+      "id": 1977,
+      "formula_id": 280,
       "herb_name": "Ku Shen",
       "english_name": "Flavescent Sophora Root",
       "role": "King",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Urinary Bladder",
+      "role_description": "The chief herb and namesake of the formula. Ku Shen powerfully clears Heat, dries Dampness, dispels Wind, kills parasites, and stops itching. Its bitter and cold nature directly targets the Damp-Heat and toxic pathogens that cause skin inflammation and itching."
     },
     {
+      "id": 1978,
+      "formula_id": 280,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "King",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Used in large dose equal to Ku Shen, chrysanthemum disperses Wind-Heat from the skin surface and clears toxic Heat. Together with Ku Shen it addresses both the superficial Wind and the deeper Damp-Heat components of skin disease."
     },
     {
+      "id": 1979,
+      "formula_id": 280,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Clears Heat and resolves toxicity. Supports the King herbs by addressing the toxic-Heat component of skin lesions, particularly where there is redness, swelling, or secondary infection."
     },
     {
+      "id": 1980,
+      "formula_id": 280,
       "herb_name": "She Chuang Zi",
       "english_name": "Cnidium fruit",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Spleen",
+      "role_description": "Dries Dampness, kills parasites, and stops itching when applied topically. Particularly effective for Damp-type skin lesions with weeping, and for genital itching from parasitic or fungal causes."
     },
     {
+      "id": 1981,
+      "formula_id": 280,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Heat and dries Dampness, especially in the Lower Burner. Reinforces the Heat-clearing and Dampness-drying actions of the King herbs and has strong antimicrobial properties when used topically."
     },
     {
+      "id": 1982,
+      "formula_id": 280,
       "herb_name": "Di Fu Zi",
       "english_name": "Kochia fruit",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Damp-Heat and stops itching. Particularly useful for widespread skin itching and urticaria-type conditions, reinforcing the anti-itch action of the formula."
     },
     {
+      "id": 1983,
+      "formula_id": 280,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Dispels Wind-Dampness, reduces swelling, and helps draw out toxins and discharge pus from skin lesions. Its aromatic quality helps the formula penetrate the skin surface."
     },
     {
+      "id": 1984,
+      "formula_id": 280,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Aromatically opens the orifices and promotes the penetration of the other herbs into the skin. Also kills parasites and treats sores and scabies. Its aromatic nature helps harmonize the formula and direct its action to the skin surface."
     }
   ],
   "research": [],

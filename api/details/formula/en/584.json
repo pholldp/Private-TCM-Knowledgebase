@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid spicy, greasy, and fried foods while taking this formula, as they can generate internal Heat and Dampness that interfere with its actions.\nAvoid seafood and shellfish, which are considered \"hair-generating\" (发物) foods in TCM that may trigger or worsen skin reactions and allergic responses.\nAvoid cold and raw foods (such as ice water, raw salads, and chilled fruits), as the formula is designed to warm and dissolve cold-phlegm masses, and cold foods counteract this warming mechanism.\nAvoid alcohol in excess, though traditionally the pills were taken with a small amount of grain liquor (baijiu) to enhance absorption of lipid-soluble components.\nLight, easily digestible, warm-cooked meals are recommended to support the Spleen and Stomach during treatment.",
   "ingredients": [
     {
+      "id": 4447,
+      "formula_id": 584,
       "herb_name": "She Xiang",
       "english_name": "Musk",
       "role": "King",
-      "dosage": "0.3 - 1g (in pill form)"
+      "dosage": "0.3 - 1g (in pill form)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Powerfully aromatic and penetrating, She Xiang opens channels, invigorates Blood, disperses stagnation, and breaks through congealed masses. Its ability to penetrate everywhere in the body drives the entire formula's action deep into stagnant tissue."
     },
     {
+      "id": 4448,
+      "formula_id": 584,
       "herb_name": "Mu Bie Zi (Momordicae Semen)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "1.5 - 3g (in pill form)"
+      "dosage": "1.5 - 3g (in pill form)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Disperses Phlegm toxin, reduces swelling, and dissipates nodules. Its strong ability to scatter hardened masses makes it a key herb for addressing the Phlegm-stagnation that forms palpable lumps under the skin."
     },
     {
+      "id": 4449,
+      "formula_id": 584,
       "herb_name": "Zhi Cao Wu",
       "english_name": "Processed Wild Aconite Root",
       "role": "Deputy",
-      "dosage": "1.5 - 3g (in pill form)"
+      "dosage": "1.5 - 3g (in pill form)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys, Spleen",
+      "role_description": "Warms the channels, dispels Cold-Dampness, and relieves pain. Combined with Mu Bie Zi, it powerfully resolves cold, congealed, hardened masses characteristic of Yin-type sores and nodules."
     },
     {
+      "id": 4450,
+      "formula_id": 584,
       "herb_name": "Wu Ling Zhi",
       "english_name": "Flying squirrel feces",
       "role": "Assistant",
-      "dosage": "1.5 - 3g (in pill form)"
+      "dosage": "1.5 - 3g (in pill form)",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Invigorates Blood and relieves pain. Its warming nature and Blood-moving action support the formula's overall strategy of breaking through stasis and stagnation in the channels."
     },
     {
+      "id": 4451,
+      "formula_id": 584,
       "herb_name": "Ru Xiang",
       "english_name": "Frankincense resin",
       "role": "Assistant",
-      "dosage": "0.75 - 1.5g (in pill form)"
+      "dosage": "0.75 - 1.5g (in pill form)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Moves Qi and invigorates Blood, reduces swelling and generates new tissue. Works together with Mo Yao to activate Blood circulation and relieve pain in areas of stagnation."
     },
     {
+      "id": 4452,
+      "formula_id": 584,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Assistant",
-      "dosage": "0.75 - 1.5g (in pill form)"
+      "dosage": "0.75 - 1.5g (in pill form)",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Invigorates Blood, dispels stasis, reduces swelling, and promotes healing. Partners with Ru Xiang to form a classic Blood-moving pair that enhances the formula's ability to resolve masses."
     },
     {
+      "id": 4453,
+      "formula_id": 584,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "0.75 - 1.5g (in pill form)"
+      "dosage": "0.75 - 1.5g (in pill form)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, ensuring that the vigorous Blood-breaking action of the other herbs does not damage healthy Blood. Prevents the formula from being overly drastic."
     },
     {
+      "id": 4454,
+      "formula_id": 584,
       "herb_name": "Di Long",
       "english_name": "Earthworm",
       "role": "Assistant",
-      "dosage": "1.5 - 3g (in pill form)"
+      "dosage": "1.5 - 3g (in pill form)",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen, Urinary Bladder, Lungs",
+      "role_description": "Clears heat and opens the channels and collaterals. Its strong channel-penetrating action helps the other herbs reach deep tissue where stagnation has congealed into masses."
     },
     {
+      "id": 4455,
+      "formula_id": 584,
       "herb_name": "Feng Xiang Zhi (Liquidambaris Resina)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "1.5 - 3g (in pill form)"
+      "dosage": "1.5 - 3g (in pill form)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Invigorates Blood, relieves pain, resolves toxins, and promotes tissue healing. Supports the resin-based group (with Ru Xiang and Mo Yao) in dispersing stagnation and reducing swelling."
     },
     {
+      "id": 4456,
+      "formula_id": 584,
       "herb_name": "Xiang Mo",
       "english_name": "Prepared Ink",
       "role": "Envoy",
-      "dosage": "0.12 - 0.5g (in pill form)"
+      "dosage": "0.12 - 0.5g (in pill form)",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Enters the Blood level and helps stop bleeding, reduce swelling, and transform Phlegm. Its dark nature directs the formula into the Blood aspect, guiding the other herbs to where stasis has accumulated."
     }
   ],
   "research": [

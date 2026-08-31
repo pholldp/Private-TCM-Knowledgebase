@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid cold and raw foods (ice cream, salads, cold drinks, raw fruit in excess) while taking this formula, as these can further impair weak Spleen function and counteract the formula's warming, tonifying effect. Greasy, heavy, and fried foods should also be limited because a deficient Spleen struggles to process rich fare, leading to more Dampness and stagnation.\nFavor warm, cooked, and easily digestible foods: congee (rice porridge), soups and broths, cooked root vegetables (yam, sweet potato, pumpkin), millet, steamed fish, and small frequent meals rather than large heavy ones. Ginger, jujube dates, and Chinese yam (shan yao) are all supportive foods that complement this formula's action. Dairy and excessively sweet foods should be moderated, as they can generate Dampness.",
   "ingredients": [
     {
+      "id": 16,
+      "formula_id": 3,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the fundamental Qi of the body and strengthens the Spleen and Stomach. As the chief herb, it directly addresses the core problem of Spleen Qi deficiency by replenishing the vital force needed for proper digestion and nutrient transformation."
     },
     {
+      "id": 17,
+      "formula_id": 3,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. Since a weakened Spleen tends to accumulate internal Dampness, Bai Zhu assists the King herb by both reinforcing Spleen Qi and addressing the Dampness that accompanies Spleen deficiency, restoring the Spleen's ability to transform and transport."
     },
     {
+      "id": 18,
+      "formula_id": 3,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Leaches out Dampness through gentle diuresis while also supporting the Spleen. It complements Bai Zhu from a different angle: while Bai Zhu dries Dampness internally, Fu Ling drains it downward and out. Together they ensure Dampness is both dried and eliminated, creating a clear environment for Qi to flow."
     },
     {
+      "id": 19,
+      "formula_id": 3,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Licorice root tonifies the Middle Burner Qi and harmonizes the actions of all the other herbs. Its sweet, warm nature supports the Spleen directly while also moderating the draining action of Fu Ling, ensuring the formula tonifies without draining excessively."
     }
   ],
   "research": [

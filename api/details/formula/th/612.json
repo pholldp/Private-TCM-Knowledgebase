@@ -25,22 +25,40 @@
   "dietary_advice": "หลีกเลี่ยงอาหารเย็นและดิบ (เช่น สลัด เครื่องดื่มเย็น ผลไม้ดิบ) ซึ่งอาจทำให้ Yang หมดสิ้นไปได้อีก ชอบทานอาหารที่ปรุงสุกแล้วและซุปเพื่อช่วยให้สูตรอุ่นและปรับสีให้ดีขึ้น",
   "ingredients": [
     {
+      "id": 4601,
+      "formula_id": 612,
       "herb_name": "Huang Qi",
       "english_name": "รากตาตุ่ม",
       "role": "ราชา (King)",
-      "dosage": "9-15g"
+      "dosage": "9-15g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ม้าม, ปอด",
+      "role_description": "บำรุงชี่ เพิ่มหยางที่ชัดเจน และส่งเสริมการปัสสาวะเพื่อระบายอาการบวมน้ำ"
     },
     {
+      "id": 4602,
+      "formula_id": 612,
       "herb_name": "Zhi Fu Zi",
       "english_name": "รากโคไนท์ที่เตรียมไว้",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "3-9g"
+      "dosage": "3-9g",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ไต, ม้าม",
+      "role_description": "อุ่นไตหยาง ซึ่งเป็นรากของหยางทั้งหมด เพื่อจุดไฟที่เปลี่ยนน้ำในร่างกายและขจัดความเย็นภายใน"
     },
     {
+      "id": 4603,
+      "formula_id": 612,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "3-6g"
+      "dosage": "3-6g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ปรับความรุนแรงของอาโคไนต์ให้สอดคล้องกัน ช่วยพยุงม้าม และควบคุมการทำงานของสมุนไพรอื่นๆ"
     }
   ],
   "research": [],

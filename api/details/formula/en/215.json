@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid greasy, rich, and fatty foods (膏粱厚味) that generate Dampness and Phlegm, as these directly worsen the Phlegm-Dampness pattern this formula addresses. Cold and raw foods, dairy products, and sugary or sticky foods should also be minimized. Alcohol in small amounts is traditionally used in the preparation (the decoction is cooked with rice wine), but excessive alcohol intake should be avoided. Light, easily digestible foods such as congee with a small amount of ginger are preferred during treatment. The classical instructions specify that the formula should be taken on an empty stomach for best effect.",
   "ingredients": [
     {
+      "id": 1461,
+      "formula_id": 215,
       "herb_name": "Chang Shan",
       "english_name": "Dichroa root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Heart",
+      "role_description": "The primary anti-malarial herb that expels old Phlegm and accumulated fluid from the body, directly interrupting the malarial cycle. Its bitter and cold nature drives out the pathogenic factor responsible for recurrent attacks."
     },
     {
+      "id": 1462,
+      "formula_id": 215,
       "herb_name": "Cao Guo",
       "english_name": "Tsaoko Fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Powerfully dries Dampness and disperses Cold lodged in the Spleen, helping to dissolve the turbid Phlegm that sustains the malarial pattern. Its warm, aromatic nature complements Chang Shan's cold property."
     },
     {
+      "id": 1463,
+      "formula_id": 215,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Moves Qi downward and breaks up Phlegm accumulation, helping to dislodge pathogenic factors from the membrane source (膜原). Has a traditional reputation for treating miasmic disorders and malarial conditions."
     },
     {
+      "id": 1464,
+      "formula_id": 215,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi and dries Dampness in the middle burner, relieving distension and helping to dissolve turbid Phlegm that blocks the Spleen's normal function."
     },
     {
+      "id": 1465,
+      "formula_id": 215,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks up stagnant Qi and disperses accumulations. Its bitter and warming nature helps drive out the pathogenic factor lodged between the interior and exterior."
     },
     {
+      "id": 1466,
+      "formula_id": 215,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates the Spleen and Stomach Qi, dries Dampness, and transforms Phlegm. Works with Qing Pi and Hou Po to restore normal Qi flow in the middle burner."
     },
     {
+      "id": 1467,
+      "formula_id": 215,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the formula, tonifies the Spleen and Stomach to protect the middle burner from the drying and harsh nature of the other ingredients, and moderates potential toxicity."
     }
   ],
   "research": [],

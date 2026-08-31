@@ -24,40 +24,76 @@
   "dietary_advice": "Avoid\nCoffee, strong black or green tea, and other caffeine sources (generate Heat and agitate the spirit)\nAlcohol (generates Damp-Heat and disturbs sleep architecture)\nSpicy, hot, and heavily seasoned dishes (generate Heat and deplete Yin)\nRich, greasy, or heavy meals in the evening (burden the Stomach and generate turbid Qi)\nRaw, cold foods if digestion is weak (impair Spleen transformation)\nChocolate and cocoa (stimulating and Heat-generating)\nFavor\nEasily digestible, mildly nourishing foods: congee (zhou), cooked vegetables, light soups\nSpirit-calming and Blood-nourishing foods: lotus seed soup (lian zi tang), longan fruit (long yan rou), red dates (da zao), millet porridge (xiao mi zhou)\nYin-nourishing foods: lily bulb (bai he), mulberries (sang shen), black sesame, goji berries\nLight, early evening meals—ideally 3–4 hours before bedtime",
   "ingredients": [
     {
+      "id": 4668,
+      "formula_id": 624,
       "herb_name": "Suan Zao Ren",
       "english_name": "Sour jujube seed",
       "role": "King",
-      "dosage": "12-15"
+      "dosage": "12-15",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "As King herb, Suan Zao Ren is the primary therapeutic agent addressing the core pathology of Heart Blood deficiency and spirit disturbance. Its sweet flavor nourishes Heart and Liver Blood, providing the material foundation that the spirit needs to settle. Its sour flavor astringes, helping to collect and consolidate the scattered, restless spirit.\nModern pharmacological research has identified jujubosides as key bioactive compounds with GABAergic sedative-hypnotic activity, confirming the traditional understanding of this herb’s sleep-promoting action. The seeds should be crushed before decoction to improve extraction of active compounds."
     },
     {
+      "id": 4669,
+      "formula_id": 624,
       "herb_name": "Yuan Zhi",
       "english_name": "Polygala root",
       "role": "Deputy",
-      "dosage": "6"
+      "dosage": "6",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Kidneys, Lungs",
+      "role_description": "Yuan Zhi serves as Deputy by calming the spirit and opening the Heart orifices—actions that directly support the King herb’s sleep-promoting work. Its unique ability to promote Heart-Kidney communication (jiao tong xin shen) is crucial for sleep: in TCM theory, peaceful sleep requires Water (Kidney) and Fire (Heart) to communicate harmoniously, with Heart Fire descending to warm the Kidneys and Kidney Water ascending to cool the Heart.\nYuan Zhi also disperses Phlegm that may obstruct the Heart orifices, clearing mental fogginess and restoring clarity. The licorice-processed form (Zhi Yuan Zhi) is strongly preferred to minimize gastric irritation from its saponin content."
     },
     {
+      "id": 4670,
+      "formula_id": 624,
       "herb_name": "Fu Shen",
       "english_name": "Poria with Hostwood",
       "role": "Deputy",
-      "dosage": ""
+      "dosage": "",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Fu Shen is the second Deputy, specifically chosen over the more common Fu Ling for its enhanced Heart-calming properties. While both come from the same fungus (Poria cocos), Fu Shen is the portion that grows around the pine root (hostwood), giving it a particular affinity for the Heart channel and spirit-calming action.\nIt quiets the Heart spirit, strengthens the Spleen to support Blood production, and gently drains Dampness that might contribute to mental fogginess. Its neutral, mild nature makes it an ideal supporting herb that enhances the formula’s calming action without introducing thermal extremes."
     },
     {
+      "id": 4671,
+      "formula_id": 624,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9"
+      "dosage": "9",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Zhi Zi serves as Assistant by addressing the secondary Heat mechanism that perpetuates insomnia. Its cold, bitter nature clears Heat from the Heart and San Jiao and drains it downward through the urine. In the classical Shang Han Lun, Zhi Zi is paired with Dan Dou Chi in Zhi Zi Chi Tang specifically for “deficiency vexation and inability to sleep”—establishing its credentials as a Heat-clearing herb for insomnia.\nIn An Mian Tang, Zhi Zi counterbalances the warm nature of Yuan Zhi and Shen Qu, preventing the formula from becoming too warm for patients with underlying Yin deficiency. Stir-fried Zhi Zi (Chao Zhi Zi) may be preferred for patients with weaker digestion to reduce its Cold impact on the Stomach."
     },
     {
+      "id": 4672,
+      "formula_id": 624,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Assistant",
-      "dosage": "9"
+      "dosage": "9",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Shen Qu is the Assistant that addresses the digestive dimension of insomnia—a dimension often overlooked in pure spirit-calming formulas. By promoting digestion and dispersing food stagnation, Shen Qu ensures that turbid Qi from undigested food does not rise to disturb the Heart and spirit. It fulfills the Su Wen’s principle that Stomach harmony is a prerequisite for peaceful sleep.\nAdditionally, Shen Qu’s Spleen-strengthening action supports the long-term production of Blood (since the Spleen is the source of postnatal Qi and Blood), indirectly supporting the formula’s root-treating strategy. The stir-fried form (Chao Shen Qu) enhances its Spleen-strengthening and Stomach-harmonizing effects."
     },
     {
+      "id": 4673,
+      "formula_id": 624,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3"
+      "dosage": "3",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Gan Cao serves as Envoy, harmonizing the actions of all other herbs in the formula. Its sweet, neutral nature moderates the bitter cold of Zhi Zi and the pungent warmth of Yuan Zhi, preventing either extreme from dominating. It tonifies the Middle Burner’s Qi, supporting the Spleen’s role in Blood production.\nIn the Heart channel, Gan Cao gently nourishes Heart Qi, providing a stable energetic foundation for the spirit. At this small dose (3g), it functions primarily as a harmonizer rather than a tonifier, ensuring the formula works as an integrated whole. Raw Gan Cao (Sheng Gan Cao) is appropriate here for its mild Heat-clearing properties; honey-roasted Gan Cao (Zhi Gan Cao) may be substituted when greater Qi tonification is desired."
     }
   ],
   "research": [],

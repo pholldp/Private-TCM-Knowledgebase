@@ -24,130 +24,256 @@
   "dietary_advice": "While taking Qing Fei Pai Du Tang, avoid cold and raw foods (salads, ice cream, cold drinks, raw fruit), greasy and fried foods, dairy products, and overly sweet or rich foods. These can generate more Dampness and Phlegm internally, counteracting the formula's drying and transforming actions.\nAvoid alcohol, strong tea, and coffee, which can interfere with the herbs' actions.\nFavor warm, easily digestible foods: plain rice porridge (congee), steamed vegetables, light soups. The official dosing instructions specifically recommend drinking a small bowl of warm rice porridge (大米汤) after taking each dose to support the Stomach Qi and help the formula's ingredients distribute throughout the body.\nAvoid sour and astringent foods (vinegar, citrus, pickled foods) during treatment, as these can counteract the dispersing actions of the exterior-releasing herbs.",
   "ingredients": [
     {
+      "id": 2611,
+      "formula_id": 354,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the Lung Qi and releases the exterior, dispersing Cold and enabling the expulsion of pathogens through the skin. Restores the Lung's descending and dispersing functions, alleviating cough and wheezing. Serves as the shared core herb of two component formulas (Ma Xing Shi Gan Tang and She Gan Ma Huang Tang)."
     },
     {
+      "id": 2612,
+      "formula_id": 354,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "16g"
+      "dosage": "16g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Harmonizes the Shaoyang level and vents pathogenic factors that have penetrated beyond the exterior. Relieves alternating fever and chills, chest and hypochondriac fullness. At 16g, it is the highest-dosed herb in the formula, reflecting its critical role in preventing inward transmission of the pathogen."
     },
     {
+      "id": 2613,
+      "formula_id": 354,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Lung heat and drains interior fire, counterbalancing the warming nature of Ma Huang and Gui Zhi. The flexible dosage (15-30g) allows adjustment based on the degree of fever: lower dose when no fever, higher dose for high fever."
     },
     {
+      "id": 2614,
+      "formula_id": 354,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Directs Lung Qi downward and stops cough. Together with Ma Huang, it forms a classical pair that both disperses and descends Lung Qi, restoring normal respiratory function."
     },
     {
+      "id": 2615,
+      "formula_id": 354,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels, assists Ma Huang in releasing the exterior, and promotes the movement of Yang Qi. Also transforms Qi in the Bladder to assist water metabolism, linking the exterior-releasing strategy to the fluid-regulating Wu Ling San component."
     },
     {
+      "id": 2616,
+      "formula_id": 354,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat from the Shaoyang and Lung levels. Pairs with Chai Hu in the Xiao Chai Hu Tang component to both vent and clear, preventing the pathogen from sinking deeper while addressing heat that has already formed."
     },
     {
+      "id": 2617,
+      "formula_id": 354,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes water metabolism through bland percolation. Part of the Wu Ling San component that resolves internal dampness accumulation and supports the Spleen's transport function."
     },
     {
+      "id": 2618,
+      "formula_id": 354,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains dampness and promotes urination, directing turbid fluids downward and out through the Bladder. A key herb in the Wu Ling San component for clearing accumulated fluid from the body."
     },
     {
+      "id": 2619,
+      "formula_id": 354,
       "herb_name": "Zhu Ling",
       "english_name": "Polyporus mushroom",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains dampness, reinforcing the diuretic action of Ze Xie and Fu Ling in the Wu Ling San component. Helps clear pathological fluid accumulation that contributes to chest oppression and breathing difficulty."
     },
     {
+      "id": 2620,
+      "formula_id": 354,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and dries dampness, strengthening the body's capacity to transform and transport fluids. Supports the Spleen as the source of Qi production, counteracting the fatigue and poor appetite that accompany the illness."
     },
     {
+      "id": 2621,
+      "formula_id": 354,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm, descends rebellious Stomach Qi to stop nausea. Part of the Xiao Chai Hu Tang component. The ginger-processed form reduces toxicity while enhancing its phlegm-resolving and anti-nausea effect."
     },
     {
+      "id": 2622,
+      "formula_id": 354,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Middle Burner, disperses Cold, and harmonizes the Stomach. Assists Ma Huang and Gui Zhi in releasing the exterior while supporting digestion. Also helps moderate the cold nature of Shi Gao."
     },
     {
+      "id": 2623,
+      "formula_id": 354,
       "herb_name": "She Gan",
       "english_name": "Blackberry lily rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Clears heat and resolves toxins in the throat, disperses phlegm accumulation. The key herb from the She Gan Ma Huang Tang component, specifically targeting throat congestion, swelling, and the sensation of phlegm blocking the airway."
     },
     {
+      "id": 2624,
+      "formula_id": 354,
       "herb_name": "Zi Wan",
       "english_name": "Tatarian aster root",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Moistens the Lungs and directs Qi downward to stop cough and dissolve phlegm. Part of the She Gan Ma Huang Tang component. Effective for both acute and chronic cough with difficult-to-expectorate phlegm."
     },
     {
+      "id": 2625,
+      "formula_id": 354,
       "herb_name": "Kuan Dong Hua",
       "english_name": "Coltsfoot Flower",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Moistens the Lungs, descends Qi, and stops cough. Works in concert with Zi Wan as a classical pair for cough relief, addressing both the acute spasmodic cough and the underlying phlegm congestion in the airways."
     },
     {
+      "id": 2626,
+      "formula_id": 354,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Warms the Lungs and transforms Cold-Thin-Mucus (寒饮), opens the nasal passages, and disperses deeply lodged Cold. Critical for breaking through Cold-Damp obstruction in the Lungs. Part of the She Gan Ma Huang Tang component. Dosed at 6g to ensure adequate strength against the epidemic pathogen."
     },
     {
+      "id": 2627,
+      "formula_id": 354,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies Spleen and Lung Qi and nourishes Yin, providing gentle supplementation to protect the body's righteous Qi during an acute illness. Prevents the strongly dispersing and draining herbs from depleting the Spleen and Lung."
     },
     {
+      "id": 2628,
+      "formula_id": 354,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks Qi stagnation and reduces distension, directing Qi downward. Helps relieve chest and abdominal fullness caused by the accumulation of dampness and phlegm. Ensures smooth Qi flow so that the other herbs can circulate effectively."
     },
     {
+      "id": 2629,
+      "formula_id": 354,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries dampness, harmonizes the Middle Burner. Assists the Spleen in transforming dampness and prevents the rich, cloying herbs from causing Qi stagnation in the digestive system."
     },
     {
+      "id": 2630,
+      "formula_id": 354,
       "herb_name": "Huo Xiang",
       "english_name": "Patchouli herb",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Aromatically transforms dampness and turbidity, harmonizes the Middle Burner, and stops nausea. Addresses the core damp-turbid quality of the epidemic pathogen. Its aromatic nature penetrates through turbid dampness that bland diuretics alone cannot resolve."
     },
     {
+      "id": 2631,
+      "formula_id": 354,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and tonifies Spleen Qi. Moderates the harsh or strongly moving properties of Ma Huang, Shi Gao, and the diuretic herbs, protecting the Stomach. Serves as the envoy that unifies four classical formulas into one cohesive prescription."
     }
   ],
   "research": [

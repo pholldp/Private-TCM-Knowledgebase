@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid cold and raw foods, iced beverages, ice cream, and chilled fruits, as these can worsen internal Cold and fluid accumulation that the formula is working to resolve.\nAvoid greasy, oily, and rich foods, as well as dairy products (milk, cheese, yogurt), which can generate Dampness and Phlegm, counteracting the formula's drying action.\nAvoid alcohol and alcohol-prepared foods, as these generate internal Damp-Heat.\nAvoid excessively sour or astringent foods in large amounts, which may trap the exterior pathogen.\nFavor warm, lightly cooked foods: congee, soups, steamed vegetables, and warm beverages. A small amount of fresh ginger in food or tea supports the formula's warming action. After taking the formula, stay warm and avoid exposure to wind and cold.",
   "ingredients": [
     {
+      "id": 340,
+      "formula_id": 55,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Releases the exterior by inducing sweating to expel Wind-Cold, opens and disseminates Lung Qi to relieve wheezing and coughing, and promotes water metabolism to help resolve fluid accumulation."
     },
     {
+      "id": 341,
+      "formula_id": 55,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Works together with Ma Huang to release the exterior and dispel Cold. Warms the Yang and promotes Qi transformation to help the body metabolise and resolve retained fluids internally."
     },
     {
+      "id": 342,
+      "formula_id": 55,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the Lungs and Spleen to transform cold fluid accumulation (yin, thin phlegm-fluids). Assists Ma Huang and Gui Zhi in dispersing Cold from both interior and exterior."
     },
     {
+      "id": 343,
+      "formula_id": 55,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Strongly warming and dispersing, it warms the Lungs to transform retained cold fluids and assists in releasing exterior Cold. Particularly effective at opening the nasal passages and stopping cough."
     },
     {
+      "id": 344,
+      "formula_id": 55,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes and contains Lung Qi to stop coughing and wheezing. Its sour, constraining nature balances the strongly dispersing action of the warm acrid herbs, preventing excessive scattering of Lung Qi and body fluids."
     },
     {
+      "id": 345,
+      "formula_id": 55,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and Yin to prevent the warm, dispersing herbs from consuming body fluids. Harmonises with Gui Zhi to regulate the balance between the defensive and nutritive aspects of Qi."
     },
     {
+      "id": 346,
+      "formula_id": 55,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms phlegm, descends rebellious Qi, and harmonises the Stomach to address nausea and vomiting that may accompany the pattern."
     },
     {
+      "id": 347,
+      "formula_id": 55,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Qi and harmonises the Middle Burner. Moderates and harmonises the opposing actions of the acrid dispersing herbs and the sour astringent herbs, unifying the formula."
     }
   ],
   "research": [

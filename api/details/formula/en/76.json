@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid excessively greasy, fried, and heavy foods that may impair the Spleen's ability to transform and transport the formula's rich, nourishing ingredients.\nLimit cold and raw foods (ice cream, raw salads, cold drinks) which can weaken the Spleen and counteract the formula's tonifying effects.\nFavor warm, easily digestible foods such as congee, soups, steamed vegetables, and lightly cooked dark leafy greens.\nFoods that nourish Blood and Yin are supportive: black sesame seeds, goji berries, dark grapes, mulberries, eggs, and bone broth.\nAvoid excessive consumption of spicy, hot foods and alcohol, which can generate Heat and further deplete Yin.",
   "ingredients": [
     {
+      "id": 523,
+      "formula_id": 76,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;, Raw Rehmannia Root)",
       "english_name": "",
       "role": "King",
-      "dosage": "15 - 24g"
+      "dosage": "15 - 24g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "As the chief herb at the highest dosage, Sheng Di Huang nourishes Yin, cools Blood, and generates fluids. It replenishes the depleted Kidney and Liver Yin that forms the root of this pattern, while its cooling nature helps clear deficiency Heat."
     },
     {
+      "id": 524,
+      "formula_id": 76,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates Blood, softens the Liver, and supports the generation of new Blood. Together with Bai Shao, it extends the formula beyond pure Yin nourishment into Blood-level nourishment, making it especially suitable when Blood deficiency accompanies Yin deficiency."
     },
     {
+      "id": 525,
+      "formula_id": 76,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver and restrains Liver Yang. It works alongside Dang Gui to strengthen Blood-nourishing capacity and helps prevent the rising of unanchored Yang that can cause dizziness and headache when Yin is depleted."
     },
     {
+      "id": 526,
+      "formula_id": 76,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes and astringes the Liver and Kidneys, secures the essence (Jing). Its sour and warm nature helps consolidate Kidney Yin and prevent further leakage of vital substances."
     },
     {
+      "id": 527,
+      "formula_id": 76,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and nourishes the Kidneys. By strengthening the Spleen, it supports the digestive system's role in generating Blood and Qi, providing a foundation for the nourishing herbs to build upon."
     },
     {
+      "id": 528,
+      "formula_id": 76,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat from the Liver, cools Blood, and mildly invigorates Blood circulation. It restrains the warmth of Shan Zhu Yu and helps clear any deficiency Heat that arises from Yin depletion."
     },
     {
+      "id": 529,
+      "formula_id": 76,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness through gentle diuresis. It prevents the rich, cloying nourishing herbs from creating stagnation, and supports Shan Yao in protecting digestive function."
     },
     {
+      "id": 530,
+      "formula_id": 76,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Kidney turbidity and clears Damp-Heat from the Lower Burner through urination. It prevents the heavy nourishing nature of Sheng Di Huang from becoming overly cloying and directs the formula's action downward to the Kidneys."
     }
   ],
   "research": [],

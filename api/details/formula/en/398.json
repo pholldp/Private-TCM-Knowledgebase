@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid foods that are difficult to digest, including greasy, fatty, or heavily processed foods, as these burden the already-weakened Spleen and promote further Phlegm production.\nAvoid cold and raw foods (ice cream, cold salads, chilled drinks) which can impair Spleen Yang and worsen Phlegm accumulation.\nReduce intake of excessively sweet or sugary foods, which generate Dampness.\nFavor warm, easily digestible meals such as congee, cooked vegetables, soups with ginger, and lightly seasoned lean proteins.\nInclude modest amounts of foods that support Lung and Spleen health, such as white radish, pear (cooked), lotus seed, and Chinese yam (Shan Yao).",
   "ingredients": [
     {
+      "id": 3003,
+      "formula_id": 398,
       "herb_name": "Dang Shen",
       "english_name": "Codonopsis root",
       "role": "King",
-      "dosage": "151g (per 1000-tablet batch)"
+      "dosage": "151g (per 1000-tablet batch)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "The primary Qi-tonifying herb in this formula. Dang Shen strengthens the Spleen and augments Qi, addressing the root deficiency that allows phlegm to accumulate and the Lungs to lose their ability to regulate breathing. Its gentle, nourishing nature makes it ideal for long-term use in chronic conditions."
     },
     {
+      "id": 3004,
+      "formula_id": 398,
       "herb_name": "Bu Gu Zhi",
       "english_name": "Psoralea fruit",
       "role": "King",
-      "dosage": "151g (per 1000-tablet batch)"
+      "dosage": "151g (per 1000-tablet batch)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Spleen",
+      "role_description": "Warms the Kidneys and helps them 'grasp' Qi, a function called 'na qi' that prevents inhaled Qi from floating upward and causing wheezing. Salt processing directs its action toward the Kidneys. Bu Gu Zhi is the key herb that addresses the Kidney deficiency component of this pattern, helping the Kidneys anchor breathing and stop chronic wheezing that worsens with physical activity."
     },
     {
+      "id": 3005,
+      "formula_id": 398,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "151g (per 1000-tablet batch)"
+      "dosage": "151g (per 1000-tablet batch)",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, supporting Dang Shen's Qi-tonifying action while also helping to resolve the underlying cause of phlegm production. Bran-frying moderates its drying nature and enhances its Spleen-strengthening properties."
     },
     {
+      "id": 3006,
+      "formula_id": 398,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "151g (per 1000-tablet batch)"
+      "dosage": "151g (per 1000-tablet batch)",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Lung Yin and generates fluids, moistening the respiratory tract to ease coughing. Mai Dong also prevents the warm, drying herbs in the formula (Bu Gu Zhi, Bai Zhu) from consuming Yin fluids, maintaining a balance between tonification and moistening."
     },
     {
+      "id": 3007,
+      "formula_id": 398,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "100g (per 1000-tablet batch)"
+      "dosage": "100g (per 1000-tablet batch)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes water metabolism, helping to transform and eliminate the pathological Dampness that becomes phlegm. Works alongside Bai Zhu to address the Spleen's role in phlegm production, following the classical principle that 'the Spleen is the source of phlegm production.'"
     },
     {
+      "id": 3008,
+      "formula_id": 398,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "75g (per 1000-tablet batch)"
+      "dosage": "75g (per 1000-tablet batch)",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes the Lungs and stops coughing, while also tonifying the Kidneys to help them receive Qi. Its sour, astringent nature helps contain the leaking of Lung Qi that manifests as chronic cough and shortness of breath. Vinegar processing enhances its astringent and Liver-entering properties."
     },
     {
+      "id": 3009,
+      "formula_id": 398,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "75g (per 1000-tablet batch)"
+      "dosage": "75g (per 1000-tablet batch)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Gan Cao tonifies the Middle Burner, augments Qi, and harmonizes all the other herbs in the formula. It supports the Spleen-strengthening function while moderating the formula's overall action."
     }
   ],
   "research": [],

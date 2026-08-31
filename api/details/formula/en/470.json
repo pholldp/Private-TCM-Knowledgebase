@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, iced drinks, and greasy or heavy foods, as these can impede the circulation of Blood and counteract the formula's purpose. Because the formula is strongly purgative, easily digestible, warm foods such as congee, soups, and lightly cooked vegetables are preferred to support the digestive system. Avoid excessively spicy or hot foods that might aggravate any underlying Heat from Blood stasis. Alcohol in small amounts was part of the original preparation method, but large amounts of alcohol should be avoided during treatment.",
   "ingredients": [
     {
+      "id": 3578,
+      "formula_id": 470,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "The chief herb that purges downward to expel stagnant blood and clear heat from the blood level. Its bitter, cold nature drives accumulated dried blood (gan xue) out through the bowels, giving the pathogenic stasis a route of exit. Da Huang also cools the heat that has scorched blood into a dried, hardened state."
     },
     {
+      "id": 3579,
+      "formula_id": 470,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Strongly invigorates the Blood and breaks through stasis. Tao Ren enters the blood level to mobilize congealed blood, supporting Da Huang's purgative action by ensuring stagnant blood is dislodged before being expelled downward. Its mild moistening quality also helps lubricate the intestines to facilitate passage."
     },
     {
+      "id": 3580,
+      "formula_id": 470,
       "herb_name": "Tu Bie Chong",
       "english_name": "Ground beetle",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver",
+      "role_description": "A potent Blood-breaking insect substance that penetrates into the network vessels to dislodge deep, stubborn, dried blood (gan xue) that ordinary herbs cannot reach. Tu Bie Chong softens hardness and disperses fixed masses, making it essential for treating old, consolidated stasis lodged below the navel. It also has analgesic properties that help relieve the pain caused by the stasis."
     }
   ],
   "research": [],

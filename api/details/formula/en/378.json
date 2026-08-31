@@ -24,58 +24,112 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, as these generate Dampness and Phlegm, directly counteracting the formula's Phlegm-clearing action. Cold and raw foods should also be minimized, as they can impair the Spleen's ability to transform fluids, contributing to further Phlegm accumulation. Spicy and excessively warming foods (strong alcohol, chili, lamb) should be reduced since they can intensify internal Heat. Favor light, easily digestible foods such as congee, steamed vegetables, and clear soups. Pears, white radish (daikon), and Job's tears (yi yi ren) can support the formula's Phlegm-clearing and Heat-reducing effects.",
   "ingredients": [
     {
+      "id": 2836,
+      "formula_id": 378,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The principal herb, Chai Hu resolves the Shaoyang (lesser yang) level, disperses pathogenic heat from between the exterior and interior, and relieves chest and flank distention. It raises and ventilates Qi, helping to lift stagnation from the lateral thorax."
     },
     {
+      "id": 2837,
+      "formula_id": 378,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat from the Lung and Gallbladder, draining pathogenic heat from the half-interior level. Paired with Chai Hu, it forms the classical Shaoyang harmonizing combination, addressing the heat component of the phlegm-heat pattern."
     },
     {
+      "id": 2838,
+      "formula_id": 378,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness, transforms phlegm, and directs rebellious Qi downward. It directly addresses the phlegm accumulation in the chest and flanks, and also harmonizes the Stomach to relieve nausea."
     },
     {
+      "id": 2839,
+      "formula_id": 378,
       "herb_name": "Gua Lou Ren",
       "english_name": "Trichosanthes seed",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Clears heat, transforms phlegm, moistens the Lungs, and loosens the chest. Works synergistically with Ban Xia to address phlegm in the thorax and flanks, while its cooling and moistening nature balances Ban Xia's drying tendency."
     },
     {
+      "id": 2840,
+      "formula_id": 378,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi, reduces distention, and opens the chest. Paired with Chai Hu, it creates a balanced up-and-down Qi dynamic: Chai Hu raises while Zhi Ke descends, restoring smooth Qi flow through the lateral thorax."
     },
     {
+      "id": 2841,
+      "formula_id": 378,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and ventilates the Lung Qi, directs the action of other herbs upward to the chest, and helps to expel phlegm. Acts as a guide for the formula's action in the upper body."
     },
     {
+      "id": 2842,
+      "formula_id": 378,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi and stops coughing. Paired with Jie Geng, it creates a balanced ascending-descending dynamic within the Lungs. Also helps to moisten and loosen phlegm."
     },
     {
+      "id": 2843,
+      "formula_id": 378,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Assistant",
-      "dosage": "2 - 5g"
+      "dosage": "2 - 5g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Breaks up stagnant Qi, particularly in the Liver channel and lateral thorax. Strengthens the formula's Qi-moving action in the flank region, addressing the cutting pain in the ribs."
     },
     {
+      "id": 2844,
+      "formula_id": 378,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the other herbs, moderates the acrid and bitter properties of the formula, and gently supports the Spleen to prevent the Qi-moving herbs from depleting the center."
     }
   ],
   "research": [],

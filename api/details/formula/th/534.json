@@ -25,124 +25,244 @@
   "dietary_advice": "หลีกเลี่ยงอาหารและเครื่องดื่มที่เย็น ดิบ และแช่เย็น (เช่น ไอศกรีม สลัดเย็น ซูชิดิบ ผลไม้แช่เย็น และเครื่องดื่มเย็น) เนื่องจากสิ่งเหล่านี้จะขัดขวางการดำเนินการรักษาภาวะร้อนของสูตร หลีกเลี่ยงอาหารรสเผ็ดจัดหรือระคายเคือง (เช่น พริกที่มากเกินไป กระเทียมดิบ และหัวหอมดิบ) ซึ่งมีการระบุไว้อย่างชัดเจนบนฉลากอย่างเป็นทางการ ลดอาหารมันๆ หนักๆ ที่เป็นภาระต่อม้ามและขัดขวางการดูดซึม อาหารที่มีประโยชน์ได้แก่ อุ่นอาหารบำรุงไต เช่น วอลนัท งาดำ เนื้อแกะ กุ้ง ต้นหอม และผักอุ่นๆ ที่ปรุงสุกเล็กน้อย สูตรนี้มักใช้กับน้ำเค็มเล็กน้อยหรือไวน์ข้าวสีเหลืองอุ่น (Huang Jiu) เพื่อเพิ่มประสิทธิภาพการทำงานของไต",
   "ingredients": [
     {
+      "id": 4101,
+      "formula_id": 534,
       "herb_name": "Lu Rong",
       "english_name": "เขากวางกำมะหยี่",
       "role": "ราชา (King)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ไต, ตับ",
+      "role_description": "อุ่นยางไตอย่างมีประสิทธิภาพ เสริมสาระสำคัญและไขกระดูก และเสริมสร้างเส้นเอ็นและกระดูก ในฐานะที่เป็นสารปรับสภาพหยางหลักในสูตรนี้ Lu Rong กล่าวถึงพยาธิสภาพหลักของภาวะไตวายและการขาดสารสำคัญโดยตรง สูตรนี้ผ่านกรรมวิธีเฉพาะด้วยน้ำส้มสายชูหมักเพื่อยับยั้งแนวโน้มที่จะกวนลมตับในขณะที่เพิ่มความสามารถในการเติมเอสเซ้นส์"
     },
     {
+      "id": 4102,
+      "formula_id": 534,
       "herb_name": "Ren Shen",
       "english_name": "รากโสม",
       "role": "ราชา (King)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, ปอด, หัวใจ, ไต",
+      "role_description": "ปรับพลังชี่ดั้งเดิมได้อย่างมาก เพิ่มความแข็งแกร่งให้กับม้ามและปอด สร้างของเหลว และทำให้จิตวิญญาณสงบลง โสมแดงอุ่นกว่าโสมขาว และเหมาะกับสูตรปรับโทนผิวด้วยหยางมากกว่า กล่าวถึงการขาดชี่อันเนื่องมาจากความเหนื่อยล้า ความอยากอาหารไม่ดี และหายใจไม่สะดวก"
     },
     {
+      "id": 4103,
+      "formula_id": 534,
       "herb_name": "Hai Ma",
       "english_name": "ม้าน้ำ",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "อุ่นยางไต เพิ่มพลังให้เลือด และแก้อาการบวม เสริมสร้างฤทธิ์อุ่นไตหยางของสมุนไพรคิง และมีชื่อเสียงแบบดั้งเดิมในการสนับสนุนการทำงานของระบบสืบพันธุ์ของผู้ชายและรักษาความอ่อนแอ"
     },
     {
+      "id": 4104,
+      "formula_id": 534,
       "herb_name": "Rou Cong Rong",
       "english_name": "Cistanche ทะเลทราย",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ไต, ลำไส้ใหญ่",
+      "role_description": "เสริมไตหยางและเพิ่มสาระสำคัญในขณะเดียวกันก็ทำให้ลำไส้ชุ่มชื้น รู้จักกันในชื่อ Yang Tonic ที่อ่อนโยนและไม่ทำให้ผิวแห้ง ช่วยให้สูตรอุ่นขึ้นโดยไม่สร้างความร้อนมากเกินไป"
     },
     {
+      "id": 4105,
+      "formula_id": 534,
       "herb_name": "Yin Yang Huo",
       "english_name": "ใบเอพิมีเดียม",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงไตให้แข็งแรง เสริมสร้างเส้นเอ็นและกระดูกให้แข็งแรง และขจัดความชื้นจากลม เสริมสร้างกลยุทธ์การอุ่นหยางโดยรวมและช่วยเสริมสร้างการทำงานของกล้ามเนื้อและกระดูกในกรณีที่มีความอ่อนแอ"
     },
     {
+      "id": 4106,
+      "formula_id": 534,
       "herb_name": "Suo Yang",
       "english_name": "สมุนไพรไซโนมอเรียม",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ลำไส้ใหญ่",
+      "role_description": "เสริมไตหยาง ประโยชน์สำคัญ และทำให้ลำไส้ชุ่มชื้น ชื่อของมันมีความหมายว่า 'ล็อคหยาง' ซึ่งสะท้อนถึงบทบาทดั้งเดิมในการรักษายางไตและป้องกันการรั่วไหลของสารสำคัญ เช่น การปล่อยน้ำอสุจิ"
     },
     {
+      "id": 4107,
+      "formula_id": 534,
       "herb_name": "Bu Gu Zhi",
       "english_name": "ผลไม้ Psoralea",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ไต, ม้าม",
+      "role_description": "ช่วยให้ไตอุ่นและบำรุงแก่นแท้ ในขณะเดียวกันก็ทำให้ม้ามอุ่นเพื่อหยุดอาการท้องเสีย กล่าวถึงอาการท้องเสียในตอนเช้า (五更泻) โดยเฉพาะโดยการเสริมแกนไต-ม้ามหยาง"
     },
     {
+      "id": 4108,
+      "formula_id": 534,
       "herb_name": "Tu Si Zi",
       "english_name": "เมล็ด Dodder จีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ม้าม",
+      "role_description": "บำรุงไตและบำรุงไต หยิน เสริมตับ ปรับปรุงการมองเห็น และรักษาสาระสำคัญ เนื่องจากเป็นยาบำรุงไตที่สมดุลซึ่งช่วยรักษาทั้งหยินและหยาง จึงช่วยบรรเทาแนวโน้มภาวะอุ่นที่รุนแรงของสูตรได้"
     },
     {
+      "id": 4109,
+      "formula_id": 534,
       "herb_name": "Du Zhong",
       "english_name": "เปลือกไม้ยูคอมเมีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงตับและไต เสริมสร้างเอ็นและกระดูกให้แข็งแรง และทำให้ทารกในครรภ์สงบ แก้ปัญหาอาการปวดหลังส่วนล่างและขาอ่อนแรงจากภาวะไตบกพร่อง"
     },
     {
+      "id": 4110,
+      "formula_id": 534,
       "herb_name": "Niu Xi (Achyranthis Bidentatae Radix) &#x725B;&#x819D;",
       "english_name": "",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "เสริมตับและไต เสริมสร้างเส้นเอ็นและกระดูกให้แข็งแรง และควบคุมการทำงานของยาลงสู่ร่างกายส่วนล่าง ช่วยแนะนำการดำเนินการปรับสภาพของสูตรไปยังบริเวณไตและแขนขาส่วนล่าง"
     },
     {
+      "id": 4111,
+      "formula_id": 534,
       "herb_name": "Shu Di Huang",
       "english_name": "เตรียมราก Rehmannia",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "บำรุงเลือดและหยิน เสริมสาระสำคัญ และเติมเต็มไขกระดูก นี่คือผู้ช่วยควบคุมที่สำคัญซึ่งให้รากฐานหยินและเลือดที่จำเป็นในการสนับสนุนการดำเนินการปรับสีหยางที่แข็งแกร่งของสูตร โดยรวบรวมหลักการ 'ค้นหาหยางภายในหยิน' เพื่อป้องกันไม่ให้สมุนไพรร้อนจากการบริโภคของเหลวหยิน"
     },
     {
+      "id": 4112,
+      "formula_id": 534,
       "herb_name": "Gou Qi Zi",
       "english_name": "ผลไม้ Wolfberry จีน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต, ปอด",
+      "role_description": "บำรุงตับและไตหยิน ประโยชน์ และทำให้ดวงตาสดใส ทำงานร่วมกับ Shu Di Huang เพื่อมอบการบำรุงหยินที่สร้างความสมดุลให้กับสูตรของสมุนไพรปรับสมดุลหยางอุ่น ๆ"
     },
     {
+      "id": 4113,
+      "formula_id": 534,
       "herb_name": "Tian Men Dong",
       "english_name": "หัวหน่อไม้ฝรั่ง",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, ไต",
+      "role_description": "บำรุงปอดและหยินไต ระบายความร้อนในปอด และสร้างของเหลว เนื่องจากเป็นสมุนไพรที่ให้ความเย็นและชุ่มชื้น จึงทำหน้าที่เป็นผู้ช่วยยับยั้งที่ป้องกันไม่ให้สมุนไพรปรับสมดุลหยางทั้งร้อนและร้อนจำนวนมากไม่ให้แห้งมากเกินไปหรือเกิดเพลิงไหม้ปลอม เพื่อจัดการกับอาการไอที่เกี่ยวข้องกับการขาดชี่"
     },
     {
+      "id": 4114,
+      "formula_id": 534,
       "herb_name": "Shi Yan",
       "english_name": "ฟอสซิลเปลือกหอยสไปริเฟอร์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "เย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ไต",
+      "role_description": "แร่ธาตุที่เป็นประโยชน์ต่อไตและส่งเสริมการปัสสาวะ ในสูตรนี้ ข้อมูลนี้แสดงถึงส่วนประกอบของแร่ธาตุในแนวทางคลาสสิกของการกำหนดสูตร 'สามหมวดหมู่' (พืช สัตว์ แร่ธาตุ)"
     },
     {
+      "id": 4115,
+      "formula_id": 534,
       "herb_name": "Ding Xiang",
       "english_name": "กานพลู",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด, ไต",
+      "role_description": "อุ่นเจียวกลาง ควบคุมพลังชี่ที่กบฏลง และทำให้ไตอุ่นขึ้น รองรับการทำงานของม้ามและกระเพาะอาหารเพื่อปรับปรุงความอยากอาหารและการย่อยอาหาร จัดการกับข้อบ่งชี้ความอยากอาหารที่ไม่ดี"
     },
     {
+      "id": 4116,
+      "formula_id": 534,
       "herb_name": "Sha Ren",
       "english_name": "ผลไม้อะโมมัม",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ไต",
+      "role_description": "เปลี่ยนความชื้น ส่งเสริมการเคลื่อนไหวของ Qi และทำให้ Middle Jiao อบอุ่น ป้องกันไม่ให้สมุนไพรปรับสภาพที่เข้มข้นและเกาะเป็นก้อนไม่ทำให้ระบบย่อยอาหารเมื่อยล้า เพื่อให้มั่นใจว่าสารเสริมสามารถดูดซึมได้อย่างเหมาะสม"
     },
     {
+      "id": 4117,
+      "formula_id": 534,
       "herb_name": "Que Nao",
       "english_name": "สมองนกกระจอก",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ไต",
+      "role_description": "สมองนกกระจอกเป็นยาแผนโบราณที่ได้มาจากสัตว์ ซึ่งช่วยอุ่นยางไตและเสริมสาระสำคัญ ถือว่าคลาสสิกมีศักยภาพโดยเฉพาะในการเสริมสร้างการทำงานของระบบสืบพันธุ์และรักษาความอ่อนแอและภาวะมีบุตรยาก"
     },
     {
+      "id": 4118,
+      "formula_id": 534,
       "herb_name": "Chuan Shan Jia",
       "english_name": "เกล็ดลิ่น",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, กระเพาะอาหาร",
+      "role_description": "เติมพลังให้เลือด สลายอาการบวม ปลดบล็อกช่องและหลักประกัน เนื่องจากเป็นสารในการไหลเวียนของเลือด จึงทำให้มั่นใจได้ว่าสูตรที่เข้มข้นของการปรับสีจะไม่สร้างความเมื่อยล้า และช่วยให้สารที่เป็นยาแทรกซึมไปยังทุกส่วนของร่างกาย"
     },
     {
+      "id": 4119,
+      "formula_id": 534,
       "herb_name": "Da Qing Yan",
       "english_name": "ฮาไลท์",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "หนาวเย็น",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ไต, กระเพาะปัสสาวะ",
+      "role_description": "รสเค็มจะเข้าสู่ช่องไตและควบคุมการทำงานของสูตรไปยังไต เกลือเป็นที่เข้าใจกันโดยทั่วไปว่าจะนำยาลงไปจนถึงเจียวตอนล่างและไต โดยทำหน้าที่เป็นตัวแทนของสูตรเพื่อให้แน่ใจว่าสมุนไพรปรับสภาพจะไปถึงอวัยวะเป้าหมาย"
     },
     {
+      "id": 4120,
+      "formula_id": 534,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)"
+      "dosage": "Per Pharmacopoeia capsule formulation (exact dosages are state secret)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ประสานสมุนไพรอื่นๆ ทั้งหมดในสูตร บำรุงม้าม และเพิ่มพลังชี่ และลดคุณสมบัติของยาอื่นๆ เนื่องจากเป็นสมุนไพรที่ผสมผสานกันอย่างลงตัว จึงช่วยให้ส่วนผสมที่มีศักยภาพหลายอย่างทำงานร่วมกันได้อย่างราบรื่น"
     }
   ],
   "research": [

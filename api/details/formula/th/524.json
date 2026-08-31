@@ -25,64 +25,124 @@
   "dietary_advice": "ในขณะที่ใช้ Jin Huang Gao ภายนอกเพื่อรักษาอาการอักเสบหรือการติดเชื้อ แนะนำให้หลีกเลี่ยงอาหารที่อาจทำให้ความร้อนและความชื้นภายในรุนแรงขึ้น ซึ่งรวมถึงอาหารมันเยิ้มและของทอด แอลกอฮอล์ อาหารรสเผ็ดมากเกินไป หอย และเนื้อแกะหรือเนื้อสัตว์ที่ \"อุ่น\" อื่นๆ ชอบทานอาหารที่เบา เย็น และย่อยง่าย เช่น ผักใบเขียว ซุปถั่วเขียว และโจ๊ก หากอาการนี้เกี่ยวข้องกับความชื้นอย่างมาก (เช่น แผลร้องไห้ บวมหนัก) ให้ลดการบริโภคนม ขนมหวาน และอาหารเหนียวเหนียวที่มีแนวโน้มที่จะทำให้เกิดความชื้นด้วย",
   "ingredients": [
     {
+      "id": 3992,
+      "formula_id": 524,
       "herb_name": "Tian Hua Fen",
       "english_name": "รากไทรโคแซนทีส",
       "role": "ราชา (King)",
-      "dosage": "320g (in a standard batch of 1280g total)"
+      "dosage": "320g (in a standard batch of 1280g total)",
+      "temperature": "เย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร",
+      "role_description": "ใช้ในปริมาณสูงสุดในสูตร Tian Hua Fen (ราก Trichosanthes) ช่วยล้างความร้อน ลดอาการบวม และส่งเสริมการขับหนอง ธรรมชาติที่เย็นและขมของมันมุ่งเป้าไปที่กลไกหลักของฮีตทอกซินที่ติดอยู่ในผิวหนังและเนื้อโดยตรง เมื่อทาภายนอกจะเป็นตัวหลักในการดึงสารพิษและแก้เนื้อเยื่อบวม"
     },
     {
+      "id": 3993,
+      "formula_id": 524,
       "herb_name": "Huang Bo",
       "english_name": "เปลือกไม้เฟลโลเดนดรอน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "160g (in a standard batch)"
+      "dosage": "160g (in a standard batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ไต, กระเพาะปัสสาวะ",
+      "role_description": "Huang Bai (เปลือก Phellodendron) มีรสขมและเย็น ช่วยล้างความร้อนและระบายสารพิษจากไฟได้อย่างมีประสิทธิภาพในขณะที่ทำให้ความชื้นแห้ง ช่วยเสริมประสิทธิภาพการล้างความร้อนของสมุนไพร King และมีประสิทธิภาพโดยเฉพาะอย่างยิ่งกับสภาพผิวที่ชื้นและร้อน"
     },
     {
+      "id": 3994,
+      "formula_id": 524,
       "herb_name": "Da Huang",
       "english_name": "รากรูบาร์บและเหง้า",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "160g (in a standard batch)"
+      "dosage": "160g (in a standard batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่, ตับ, เยื่อหุ้มหัวใจ",
+      "role_description": "Da Huang (Rhubarb) ขจัดความร้อน ระบายสารพิษจากไฟ และเติมพลังให้เลือดเพื่อขจัดภาวะชะงักงัน ใช้ทาภายนอก จะช่วยสลายความเมื่อยล้าของเลือดในท้องถิ่นที่ทำให้เกิดอาการบวมและปวด และเสริมความสามารถในการกำจัดสารพิษของสูตร"
     },
     {
+      "id": 3995,
+      "formula_id": 524,
       "herb_name": "Jiang Huang",
       "english_name": "เหง้าขมิ้น",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "160g (in a standard batch)"
+      "dosage": "160g (in a standard batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, ตับ",
+      "role_description": "เจียงฮวง (เหง้าขมิ้น) มีรสเปรี้ยว ขม และอุ่น มันเติมพลังให้เลือด ทำลายภาวะชะงักงัน ปลดบล็อกช่อง และบรรเทาอาการปวด เสริมสมุนไพรเย็นโดยการเพิ่มคุณสมบัติอบอุ่นและเคลื่อนไหวที่ช่วยกระจายการสะสมและลดอาการบวม"
     },
     {
+      "id": 3996,
+      "formula_id": 524,
       "herb_name": "Bai Zhi",
       "english_name": "ราก Dahurian Angelica",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "160g (in a standard batch)"
+      "dosage": "160g (in a standard batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ไป๋จือ (ราก Angelica Dahurica) มีรสเผ็ดร้อน กระจายลม ความชื้นแห้ง ลดอาการบวม และขับหนอง ทำงานร่วมกับ Tian Hua Fen เพื่อเพิ่มความสามารถของสูตรในการดึงหนองและบรรเทาอาการปวด"
     },
     {
+      "id": 3997,
+      "formula_id": 524,
       "herb_name": "Cang Zhu",
       "english_name": "เหง้า Atractylodes",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "64g (in a standard batch)"
+      "dosage": "64g (in a standard batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ตับ",
+      "role_description": "Cang Zhu (Atractylodes Rhizome) ทำให้ความชื้นแห้งอย่างมาก ขับไล่ลมชื้น และขจัดความขุ่นออกจากผิวหนัง โดยเน้นถึงส่วนประกอบของความชื้นที่มักมาพร้อมกับสารพิษจากความร้อนในรอยโรคที่ผิวหนัง"
     },
     {
+      "id": 3998,
+      "formula_id": 524,
       "herb_name": "Hou Po",
       "english_name": "เปลือกแมกโนเลีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "64g (in a standard batch)"
+      "dosage": "64g (in a standard batch)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด, ลำไส้ใหญ่",
+      "role_description": "โหวโป (เปลือกแมกโนเลีย) ขับชี่ ขจัดความชื้น และแก้เสมหะสะสม ช่วยกระจายความเมื่อยล้าและลดอาการบวมโดยส่งเสริมการเคลื่อนไหวของ Qi ผ่านเนื้อเยื่อที่แออัด"
     },
     {
+      "id": 3999,
+      "formula_id": 524,
       "herb_name": "Chen Pi",
       "english_name": "เปลือกส้มเขียวหวาน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "64g (in a standard batch)"
+      "dosage": "64g (in a standard batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, ม้าม",
+      "role_description": "เฉินปี่ (เปลือกส้มเขียวหวาน) ควบคุมพลังชี่ ทำให้ความชื้นแห้ง และเปลี่ยนเสมหะ เมื่อใช้ร่วมกับ Cang Zhu, Hou Po และ Gan Cao ส่วนผสมดังกล่าวเป็นแกนหลักของ Ping Wei San (ผงระงับปวดท้อง) ซึ่งช่วยจัดการกับความชื้นของม้ามที่ Chen Shigong พิจารณาว่าเป็นต้นตอของแผลภายนอกจำนวนมาก"
     },
     {
+      "id": 4000,
+      "formula_id": 524,
       "herb_name": "Tian Nan Xing",
       "english_name": "เหง้าแจ็คในธรรมาสน์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "64g (in a standard batch)"
+      "dosage": "64g (in a standard batch)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, ตับ, ม้าม",
+      "role_description": "Raw Tian Nan Xing (Arisaema) ทำให้ความชื้นแห้ง เปลี่ยนเสมหะ และกระจายก้อนเนื้อ ใช้ภายนอกเป็นสมุนไพรสำคัญในการลดอาการบวมและบรรเทาอาการปวดในกลุ่มที่แข็งและดื้อรั้น หมายเหตุ: Tian Nan Xing ดิบมีพิษเล็กน้อย และใช้ที่นี่อย่างเคร่งครัดสำหรับการใช้งานภายนอก"
     },
     {
+      "id": 4001,
+      "formula_id": 524,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "64g (in a standard batch)"
+      "dosage": "64g (in a standard batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "Gan Cao (รากชะเอมเทศ) ผสมผสานสมุนไพรอื่นๆ ทั้งหมดในสูตร ลดคุณสมบัติที่รุนแรงของส่วนผสมที่เย็นและอุ่น และเพิ่มฤทธิ์ในการล้างความร้อนและกำจัดสารพิษเล็กน้อย"
     }
   ],
   "research": [],

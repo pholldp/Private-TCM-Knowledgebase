@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruit, sushi) as these further damage Spleen and Kidney Yang and promote water accumulation. Avoid greasy, oily, and rich foods that generate Dampness and impede the Spleen's ability to transform fluids. Limit dairy products and excessively sweet foods for the same reason. Favor warm, cooked, and easily digestible foods such as congee, soups, lightly cooked vegetables, and warming spices like ginger, cinnamon, and black pepper in small amounts. Lightly salted foods in moderation are acceptable, but excessive salt should be avoided as it promotes water retention, which is counterproductive to the formula's purpose. Alcohol is best avoided as it generates Damp-Heat.",
   "ingredients": [
     {
+      "id": 189,
+      "formula_id": 33,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms Kidney Yang to restore the body's ability to transform and move water. Its hot, pungent nature fires the gate of vitality (Ming Men), driving the transformation of accumulated fluids while also warming the Spleen to support water metabolism from above and below."
     },
     {
+      "id": 190,
+      "formula_id": 33,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination to drain accumulated pathogenic water from below. Strengthens the Spleen to improve the transformation and transportation of fluids, directly addressing the water retention that is the formula's primary target."
     },
     {
+      "id": 191,
+      "formula_id": 33,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries dampness, working with Fu Ling to restore the Spleen's capacity to transform fluids. Prevents further accumulation of pathogenic water by reinforcing the middle burner's digestive and water-regulating functions."
     },
     {
+      "id": 192,
+      "formula_id": 33,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach and disperses water through its warm, pungent nature. Assists the King herb in warming Yang and dispelling cold, while also supporting the Deputies in scattering accumulated dampness. Must be fresh ginger, not dried, to preserve its dispersing quality."
     },
     {
+      "id": 193,
+      "formula_id": 33,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Serves multiple roles: softens the Liver and relieves abdominal pain; preserves Yin to prevent the hot, drying herbs from injuring body fluids during long-term use; relaxes tense sinews to address muscle twitching; and classically noted to promote urination and move water."
     }
   ],
   "research": [

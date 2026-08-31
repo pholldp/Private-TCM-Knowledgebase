@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid cold and raw foods (salads, sashimi, iced drinks, raw fruits in excess) while taking this formula, as they directly counteract its warming action and burden the already cold Spleen. Avoid greasy, heavy, or overly rich foods that are difficult to digest. Dairy products and excessive sweets can generate Dampness and should be limited.\nFavor warm, cooked, and easily digestible foods: congee (rice porridge), soups, steamed vegetables, warm grains, and gently spiced dishes. Small amounts of fresh ginger, cinnamon, and fennel in cooking support the formula's warming effect. Eating regular, moderate-sized meals at consistent times supports Spleen recovery. After taking the decoction, drinking a cup of warm rice porridge (as noted in the original Shang Han Lun instructions) helps the formula's action.",
   "ingredients": [
     {
+      "id": 973,
+      "formula_id": 145,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the middle burner and dispels interior Cold. As the King herb, Gan Jiang directly addresses the core pathomechanism of Cold congesting the Spleen and Stomach. Its pungent, hot nature restores Yang warmth to the digestive organs and drives out accumulated Cold. Unlike fresh ginger (Sheng Jiang), which disperses outward, dried ginger 'stays put' in the middle burner, making it ideal for deep, persistent internal Cold."
     },
     {
+      "id": 974,
+      "formula_id": 145,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi and strengthens the Spleen. As Deputy, Ren Shen supports the King herb by rebuilding the Qi foundation that Cold has damaged. While Gan Jiang removes the pathogenic factor (Cold), Ren Shen restores the body's own functional capacity to transform food and transport nutrients. In modern practice, Dang Shen (Codonopsis) is often substituted at higher dosage (18-27g) for less acute cases."
     },
     {
+      "id": 975,
+      "formula_id": 145,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. When the Spleen is cold and weak, fluids accumulate rather than being properly transformed, producing Dampness that causes loose stools and bloating. Bai Zhu addresses this secondary consequence by restoring the Spleen's ability to manage fluids, reinforcing both the King and Deputy herbs from a different angle."
     },
     {
+      "id": 976,
+      "formula_id": 145,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Qi of the middle burner, eases abdominal pain through its relaxing sweet nature, and harmonizes the actions of the other three herbs. The honey-frying process enhances its warming and tonifying properties, making it more suitable for this Cold-deficiency pattern than raw licorice would be."
     }
   ],
   "research": [],

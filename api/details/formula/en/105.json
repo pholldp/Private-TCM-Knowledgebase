@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, iced drinks, raw fish) as these may counteract the warming, Blood-moving action of the herbs and promote further Cold stagnation. Reduce intake of greasy, heavy, or phlegm-producing foods (fried foods, rich dairy, excessive sweets) which can generate turbidity and impede Blood circulation. Lightly warming, Blood-nourishing foods are beneficial: cooked dark leafy greens, small amounts of red meat or liver, black sesame, goji berries, red dates, and warming spices like ginger. Avoid excessive alcohol, which can generate Heat and interfere with Blood regulation.",
   "ingredients": [
     {
+      "id": 734,
+      "formula_id": 105,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin, softens the Liver and relieves pain. As a King herb, it provides the primary Blood-nourishing foundation and addresses the underlying Blood deficiency that contributes to menstrual irregularity and pain."
     },
     {
+      "id": 735,
+      "formula_id": 105,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies Blood and promotes Blood circulation, regulates menstruation and relieves pain. As the second King herb, it both nourishes and moves Blood, directly addressing the core pathomechanism of Blood deficiency complicated by Blood stasis."
     },
     {
+      "id": 736,
+      "formula_id": 105,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Invigorates Blood, dispels stasis, and relieves pain. Reinforces the Blood-moving action of Dang Gui with a stronger focus on breaking through stagnation and alleviating the sharp, fixed pain characteristic of Blood stasis."
     },
     {
+      "id": 737,
+      "formula_id": 105,
       "herb_name": "Pu Huang",
       "english_name": "Cattail pollen",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Invigorates Blood and resolves stasis while also having a hemostatic action. This dual ability to move stagnant Blood without causing excessive bleeding makes it especially suited for menstrual irregularities where both stasis and abnormal bleeding coexist."
     },
     {
+      "id": 738,
+      "formula_id": 105,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the channels and promotes the circulation of Qi and Blood. Its warming nature drives the Blood-moving herbs, helps generate new Qi and Blood, and addresses any Cold that may be contributing to Blood stagnation in the uterus."
     },
     {
+      "id": 739,
+      "formula_id": 105,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Opens the orifices of the Heart with its pungent and penetrating nature, disperses Cold, and promotes Qi movement. Works synergistically with Shi Chang Pu to awaken the mind (Shen) when Blood stasis obstructs the Heart, causing emotional disturbance or mental dullness."
     },
     {
+      "id": 740,
+      "formula_id": 105,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Opens the orifices and awakens the mind (Shen), transforms Dampness and harmonizes the middle. Directs the formula's action toward the Heart, clearing the sensory orifices so that the spirit settles once Blood circulation is restored. It also helps guide the other herbs to reach the Heart system."
     }
   ],
   "research": [],

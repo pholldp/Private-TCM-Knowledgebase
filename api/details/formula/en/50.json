@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods while taking this formula, as these can generate further Phlegm and impair the Stomach's descending function. Limit dairy products, excessively sweet or rich foods, and fried items. Meals should be warm, easily digestible, and eaten in small frequent portions rather than large heavy meals. Congee (rice porridge), lightly cooked vegetables, and bland soups are ideal. Avoid overeating, eating late at night, and lying down immediately after meals, as these habits worsen Qi rebellion.",
   "ingredients": [
     {
+      "id": 309,
+      "formula_id": 50,
       "herb_name": "Xuan Fu Hua",
       "english_name": "Inula flower",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "The chief herb, specializing in directing Qi downward and dissolving phlegm. Its descending nature directly addresses the core problem of rebellious Stomach Qi causing persistent belching and epigastric fullness."
     },
     {
+      "id": 310,
+      "formula_id": 50,
       "herb_name": "Dai Zhe Shi",
       "english_name": "Hematite",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Heart, Stomach, Pericardium",
+      "role_description": "A heavy mineral substance that powerfully anchors and redirects rebellious Qi downward, reinforcing the King herb's descending action. It suppresses the upward surging of Qi from the Liver and Stomach to stop hiccups and vomiting."
     },
     {
+      "id": 311,
+      "formula_id": 50,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Transforms phlegm, disperses knotted accumulation in the epigastric area, directs Qi downward, and harmonizes the Stomach. Works synergistically with Sheng Jiang to warm the middle and stop vomiting."
     },
     {
+      "id": 312,
+      "formula_id": 50,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Used in a notably large dose in this formula to warm the Stomach, disperse fluid accumulation, stop vomiting, and help transform phlegm. Its pungent-dispersing nature opens up the middle burner congestion that causes the epigastric hardness."
     },
     {
+      "id": 313,
+      "formula_id": 50,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies the Spleen and Stomach Qi to address the underlying deficiency that gives rise to the rebellious Qi and phlegm. Treats the root cause of the condition by restoring the Stomach's normal descending function."
     },
     {
+      "id": 314,
+      "formula_id": 50,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 pieces (approximately 12g)"
+      "dosage": "4 pieces (approximately 12g)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies Spleen Qi and nourishes the Stomach, working alongside Ren Shen and Zhi Gan Cao to rebuild the weakened middle burner. Also moderates and harmonizes the other herbs."
     },
     {
+      "id": 315,
+      "formula_id": 50,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the middle Qi in its assistant capacity while also harmonizing all the other herbs in the formula as the envoy. Its sweet, warm nature helps protect the Stomach from the cold, heavy nature of Dai Zhe Shi."
     }
   ],
   "research": [

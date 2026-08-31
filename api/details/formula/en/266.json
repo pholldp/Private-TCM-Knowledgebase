@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods (fatty meats, deep-fried dishes, dairy) which generate more Dampness and Heat internally. Avoid spicy, hot foods (chili, garlic, ginger, lamb, alcohol) which aggravate the Heat component. Avoid sweet, sticky foods (pastries, refined sugars, glutinous rice) which worsen Dampness.\nFavor light, easily digestible foods: plain rice congee, mung bean soup (which clears Heat and drains Dampness), cooked barley (Job's tears/Yi Yi Ren), winter melon, cucumber, lotus root, and leafy greens. Stay well hydrated with plain water or light chrysanthemum or green tea. Eat smaller, more frequent meals to reduce the burden on the Spleen and Stomach.",
   "ingredients": [
     {
+      "id": 1860,
+      "formula_id": 266,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "King",
-      "dosage": "15 - 18g"
+      "dosage": "15 - 18g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Clears Heat through the urine and resolves Dampness. As the highest-dosed herb in the formula, it powerfully drains Damp-Heat downward via the urinary tract while also clearing summer-Heat. Works alongside Yin Chen and Huang Qin to form the core therapeutic trio."
     },
     {
+      "id": 1861,
+      "formula_id": 266,
       "herb_name": "Yin Chen",
       "english_name": "Virgate Wormwood Herb",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Liver, Gallbladder",
+      "role_description": "Clears Damp-Heat from the Liver and Gallbladder and promotes the resolution of jaundice. As the second-highest dosed herb, it specifically targets the yellowing of the skin and eyes caused by Damp-Heat steaming the Liver and Gallbladder."
     },
     {
+      "id": 1862,
+      "formula_id": 266,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Dries Dampness through its bitter, cold nature and clears Heat while resolving toxicity. As the third King herb, it complements Hua Shi and Yin Chen by addressing the Heat component of the pathology through bitter drying rather than bland draining."
     },
     {
+      "id": 1863,
+      "formula_id": 266,
       "herb_name": "Shi Chang Pu",
       "english_name": "Acorus rhizome",
       "role": "Deputy",
-      "dosage": "5 - 10g"
+      "dosage": "5 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Aromatically opens the orifices and transforms turbid Dampness from the Middle Burner. Its penetrating fragrance cuts through the thick, cloying quality of Dampness that obstructs Qi movement and clouds the mind."
     },
     {
+      "id": 1864,
+      "formula_id": 266,
       "herb_name": "Huo Xiang",
       "english_name": "Patchouli herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Aromatically transforms Dampness, harmonizes the Middle Burner, and dispels turbidity. Its warm, fragrant nature revives the Spleen when it is suppressed by heavy Dampness, helping to relieve nausea, vomiting, and abdominal distension."
     },
     {
+      "id": 1865,
+      "formula_id": 266,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "Deputy",
-      "dosage": "2 - 5g"
+      "dosage": "2 - 5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Aromatically warms and moves Qi in the Middle Burner, transforming Dampness and relieving the Spleen. Its fragrant, warming quality complements the aromatic action of Huo Xiang and Shi Chang Pu, ensuring Qi flows freely so Dampness can be resolved."
     },
     {
+      "id": 1866,
+      "formula_id": 266,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Clears Heat and promotes urination, guiding Damp-Heat downward and out through the urine. Assists the King herbs Hua Shi and Yin Chen in their draining function, strengthening the formula's ability to resolve Dampness via the Lower Burner."
     },
     {
+      "id": 1867,
+      "formula_id": 266,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "5 - 10g"
+      "dosage": "5 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears Heat and resolves toxicity, disperses accumulations and reduces swelling. Targets the toxic Heat that has risen upward to cause throat swelling and pain, supporting Huang Qin's Heat-clearing action."
     },
     {
+      "id": 1868,
+      "formula_id": 266,
       "herb_name": "She Gan",
       "english_name": "Blackberry lily rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Clears Heat, resolves toxicity, and benefits the throat. Specifically targets throat swelling and pain caused by toxic Heat rising upward, working alongside Lian Qiao, Chuan Bei Mu, and Bo He to address upper body symptoms."
     },
     {
+      "id": 1869,
+      "formula_id": 266,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "Clears Heat, transforms Phlegm, and disperses nodules. Assists She Gan in clearing the throat and addresses any Phlegm-Heat accumulation, helping to resolve swollen glands and lumps in the throat area."
     },
     {
+      "id": 1870,
+      "formula_id": 266,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat from the head and throat, providing cooling relief to the Upper Burner. Its light, ascending nature helps vent Heat outward and upward, benefiting the throat and relieving headache and eye symptoms."
     }
   ],
   "research": [

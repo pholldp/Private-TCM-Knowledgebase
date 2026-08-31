@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (ice water, raw salads, cold fruits, sashimi) that can generate more Cold-Phlegm and obstruct Lung Qi. Limit greasy, deep-fried, or heavily rich foods, as these promote Phlegm and Dampness. Dairy products and excessively sweet foods should also be minimized, as they tend to generate Phlegm according to TCM dietary theory.\nFavor warm, lightly cooked foods that support digestion and Qi flow: congees with ginger, steamed vegetables, soups, and moderate amounts of warming spices like ginger and spring onion. Pears cooked with a small amount of ginger can help moisten the Lungs without generating cold. White radish (daikon) soup can also support the Lungs' descending function.",
   "ingredients": [
     {
+      "id": 962,
+      "formula_id": 143,
       "herb_name": "Zi Su Zi",
       "english_name": "Perilla seed",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "The principal herb of this formula. Zi Su Zi enters the Lung channel, powerfully descends rebellious Lung Qi, arrests wheezing, and dissolves phlegm. Its oily nature also gently moistens the intestines. It directly addresses the primary symptom complex of cough, wheezing, and chest oppression caused by Qi rebelling upward."
     },
     {
+      "id": 963,
+      "formula_id": 143,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness, transforms phlegm, and directs rebellious Qi downward. Ban Xia powerfully assists Zi Su Zi in resolving the phlegm congestion that blocks the Lungs, and its descending nature reinforces the overall downward-directing strategy of the formula."
     },
     {
+      "id": 964,
+      "formula_id": 143,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi downward, opens the chest, and relieves the sense of fullness and oppression in the diaphragm. Hou Po also dries Dampness and transforms phlegm, assisting the King herb in clearing the upper obstruction."
     },
     {
+      "id": 965,
+      "formula_id": 143,
       "herb_name": "Qian Hu",
       "english_name": "Peucedanum root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Descends Qi, disperses wind, and expels phlegm from the Lungs. Qian Hu complements the other Deputy herbs by directing Lung Qi downward while also helping to disperse any lingering external pathogenic factors."
     },
     {
+      "id": 966,
+      "formula_id": 143,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms and supplements Kidney Yang to address the 'lower deficiency' aspect of the pattern. By warming the Gate of Vitality (Ming Men), Rou Gui helps the Kidneys grasp Qi so that breathing can be anchored below, preventing Qi from rebelling upward. It also warms and transforms cold phlegm from below."
     },
     {
+      "id": 967,
+      "formula_id": 143,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes Blood and moistens dryness, which serves two purposes: it treats cough with rebellious Qi (a classical indication of Dang Gui), and it counterbalances the drying nature of the many warm, acrid herbs in this formula to prevent them from injuring Yin and Blood. Together with Rou Gui, it reinforces the warming and nourishing of the lower body."
     },
     {
+      "id": 968,
+      "formula_id": 143,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the Middle Burner and mediates among all the other herbs, ensuring the formula's actions are balanced. Its sweet flavour also helps to moderate the harshness of the acrid and drying herbs."
     }
   ],
   "research": [

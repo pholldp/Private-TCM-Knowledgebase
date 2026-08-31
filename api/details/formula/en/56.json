@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, avoid foods that generate Heat and Dampness:\n- Avoid alcohol, which generates Damp-Heat in the Liver (this was the original trigger in Li Dongyuan's case history).\n- Avoid greasy, deep-fried, and rich fatty foods that produce Dampness and Heat.\n- Avoid spicy and pungent foods (chili peppers, garlic, raw onions, lamb) that can intensify Liver Fire.\n- Reduce sugar and heavily sweetened foods, which contribute to Dampness.\nFoods that are helpful include:\n- Light, cooling vegetables such as celery, cucumber, mung bean sprouts, and bitter melon.\n- Mung bean soup and chrysanthemum tea, which gently clear Heat.\n- Adequate water intake to support the formula's diuretic drainage action.\nThe classical instruction from the Lan Shi Mi Cang specifies taking the formula on an empty stomach, then following it with a light, nourishing meal (美膳压之) to protect the Stomach from the formula's bitter cold nature.",
   "ingredients": [
     {
+      "id": 348,
+      "formula_id": 56,
       "herb_name": "Long Dan Cao",
       "english_name": "Chinese gentian root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder",
+      "role_description": "The chief herb of the formula and its namesake. Extremely bitter and cold, it both drains intense fire from the Liver and Gallbladder and clears Damp-Heat from the lower body. It is uniquely effective at fulfilling both therapeutic aims of the formula simultaneously."
     },
     {
+      "id": 349,
+      "formula_id": 56,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, it reinforces the King herb's ability to drain fire and dry Dampness. It also clears Heat from the Lungs and upper body, broadening the formula's fire-draining scope."
     },
     {
+      "id": 350,
+      "formula_id": 56,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Bitter and cold, it clears Heat and drains fire from all three Burners. Working alongside Huang Qin, it strengthens the King herb's fire-draining action and also helps conduct Heat downward and outward through the urine."
     },
     {
+      "id": 351,
+      "formula_id": 56,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination to drain Damp-Heat downward and out through the Bladder. It provides a physical exit route for the pathogenic dampness and heat that the formula is clearing."
     },
     {
+      "id": 352,
+      "formula_id": 56,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Clears Heat from the Heart and promotes urination, guiding Damp-Heat out through the Small Intestine and Bladder. Works together with Ze Xie and Che Qian Zi to create a strong dampness-draining team."
     },
     {
+      "id": 353,
+      "formula_id": 56,
       "herb_name": "Che Qian Zi",
       "english_name": "Plantain Seed",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs, Small Intestine",
+      "role_description": "Promotes urination and clears Heat, reinforcing the downward drainage of Damp-Heat through the urinary tract. Also clears the eyes, which supports the formula's use for eye redness."
     },
     {
+      "id": 354,
+      "formula_id": 56,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;, Raw Rehmannia root)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Sweet, bitter, and cold, it nourishes Yin and cools the Blood. This is a critical restraining assistant: it prevents the many bitter, drying herbs in the formula from damaging the body's Yin fluids and Blood, which the Liver heat has already begun to consume."
     },
     {
+      "id": 355,
+      "formula_id": 56,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood without causing stagnation. Because the Liver stores the Blood, and both the pathogenic heat and the formula's cold, drying herbs can injure Liver Blood, Dang Gui protects the Liver's vital substance while the formula purges the excess."
     },
     {
+      "id": 356,
+      "formula_id": 56,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Serves a dual envoy function: it channels and directs the other herbs into the Liver and Gallbladder meridians, and it gently spreads and regulates Liver Qi. This subtle ascending and dispersing quality prevents the formula's heavy, descending, cold herbs from overly suppressing the Liver's natural function of ensuring the smooth flow of Qi."
     },
     {
+      "id": 357,
+      "formula_id": 56,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the other herbs, protects the Stomach from the formula's strongly bitter and cold nature, and moderates the harsh tastes. Used in its raw form to retain a mild Heat-clearing action."
     }
   ],
   "research": [

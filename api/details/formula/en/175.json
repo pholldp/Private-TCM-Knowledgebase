@@ -24,58 +24,112 @@
   "dietary_advice": "Favor moistening, fluid-generating foods: pears, persimmons, white fungus (yin er), lily bulb, lotus root, honey, tofu, and congee made with rice or millet. These support the formula's Yin-nourishing strategy.\nAvoid spicy, pungent, and drying foods such as chili peppers, raw ginger, raw garlic, scallions, fried or greasy foods, alcohol, and strong coffee. These aggravate Dryness and Heat in the Lungs.\nAvoid overly cold or raw foods (such as iced beverages and raw salads), which can impair Stomach Qi and hinder the absorption of the formula's nourishing components. Warm or room-temperature foods and beverages are preferred.",
   "ingredients": [
     {
+      "id": 1174,
+      "formula_id": 175,
       "herb_name": "Sang Ye",
       "english_name": "Mulberry leaf",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Used in the largest dose, frost-harvested Sang Ye is light and cool, clearing and dispersing dryness-heat from the Lungs. Its ability to enter both the Lung and Liver channels makes it uniquely suited: it clears Lung heat directly while also calming Liver Wood, preventing it from overacting on weakened Lung Metal."
     },
     {
+      "id": 1175,
+      "formula_id": 175,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "7.5 - 8g"
+      "dosage": "7.5 - 8g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Sweet, acrid, and very cold, Shi Gao powerfully clears heat from the Lung and Stomach channels, generating fluids to relieve thirst. It reinforces the King herb's heat-clearing action while also addressing Stomach heat, since the Stomach is the 'mother' of the Lungs in five-phase theory."
     },
     {
+      "id": 1176,
+      "formula_id": 175,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "3.6 - 4g"
+      "dosage": "3.6 - 4g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Sweet and cold, Mai Men Dong nourishes Lung and Stomach Yin, generating fluids to directly replenish the moisture that dryness-heat has consumed. It works alongside Shi Gao to restore the fluid environment of the Lungs."
     },
     {
+      "id": 1177,
+      "formula_id": 175,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Sweet and neutral, E Jiao enriches Yin, nourishes Blood, and moistens the Lungs. Its rich, moistening quality replenishes depleted Lung fluids from a deeper level, nourishing Kidney Water to support the Lungs (the 'Metal-Water generating' relationship)."
     },
     {
+      "id": 1178,
+      "formula_id": 175,
       "herb_name": "Huo Ma Ren",
       "english_name": "Hemp seed",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Sweet and neutral, Hu Ma Ren nourishes Yin, moistens dryness, and lubricates the intestines. Together with E Jiao, its dark color is associated with the Kidneys in five-phase theory, nourishing Kidney Yin to generate the Water that supports Lung Metal."
     },
     {
+      "id": 1179,
+      "formula_id": 175,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Bitter and slightly warm, Xing Ren directs Lung Qi downward, relieving cough and wheezing. Its bitter, descending quality complements the ascending, dispersing action of Sang Ye, ensuring Lung Qi flows in its proper downward direction."
     },
     {
+      "id": 1180,
+      "formula_id": 175,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "2 - 3g"
+      "dosage": "2 - 3g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and slightly warm, Ren Shen tonifies Qi, especially of the Spleen and Lung. Since Spleen Earth is the 'mother' of Lung Metal, supporting the Spleen indirectly nourishes the Lungs. It also aids fluid generation, as Qi is needed to produce and transport body fluids."
     },
     {
+      "id": 1181,
+      "formula_id": 175,
       "herb_name": "Pi Pa Ye",
       "english_name": "Loquat leaf",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Bitter and cool, Pi Pa Ye clears Lung heat and directs Lung Qi downward, helping to stop cough and relieve wheezing. As a leaf entering the Liver channel, it also restrains Liver Wood from overacting on weakened Lung Metal, working in concert with Sang Ye."
     },
     {
+      "id": 1182,
+      "formula_id": 175,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral, Gan Cao harmonizes all the other herbs in the formula, soothes the throat, and tonifies the middle burner (Spleen/Stomach). By supporting the Spleen, it reinforces the strategy of nourishing the 'mother' (Earth) to benefit the 'child' (Metal/Lungs)."
     }
   ],
   "research": [

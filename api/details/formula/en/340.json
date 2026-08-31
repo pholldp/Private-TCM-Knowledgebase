@@ -24,82 +24,160 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and heavily spiced foods, as these can generate additional Phlegm-Heat in the Lungs and counteract the formula's clearing action. Cold, raw foods and iced drinks should also be limited, as they can impair Spleen function and worsen Phlegm production. Dairy products and excessively sweet foods are traditionally considered Phlegm-generating and should be minimized. Favor lightly cooked vegetables, pears (which moisten the Lungs), white radish, and clear soups. Smoking and alcohol should be strictly avoided during treatment, as both generate Heat and damage Lung Yin.",
   "ingredients": [
     {
+      "id": 2451,
+      "formula_id": 340,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "The chief heat-clearing herb in this formula. Bitter and cold, it enters the Lung channel to directly clear heat and dry dampness from the upper burner. As the highest-dosed herb, it addresses the root cause of lung heat that generates phlegm and impairs the Lung's descending function."
     },
     {
+      "id": 2452,
+      "formula_id": 340,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Sweet and cold, it drains heat from the lungs and calms wheezing. It reinforces Huang Qin in clearing lung heat while also directing Lung Qi downward to stop coughing and reduce phlegm accumulation."
     },
     {
+      "id": 2453,
+      "formula_id": 340,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses the Lung Qi, guiding the formula upward to the lungs. It transforms phlegm, benefits the throat, and works with Gan Cao to soothe sore throats. Its ascending nature balances the descending herbs in the formula."
     },
     {
+      "id": 2454,
+      "formula_id": 340,
       "herb_name": "Zhe Bei Mu",
       "english_name": "Zhejiang Fritillary bulb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Clears heat, transforms phlegm, and moistens the lungs. It specifically addresses thick, sticky phlegm that is difficult to expectorate, a hallmark symptom of lung heat. Its cooling and moistening nature complements Huang Qin's drying action."
     },
     {
+      "id": 2455,
+      "formula_id": 340,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "Assistant",
-      "dosage": "2 - 4g"
+      "dosage": "2 - 4g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Sweet, bitter, and very cold, it nourishes Lung and Kidney Yin. It replenishes the fluids that lung heat has consumed, addressing the Yin deficiency aspect of the condition and preventing further drying of the lungs."
     },
     {
+      "id": 2456,
+      "formula_id": 340,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "Assistant",
-      "dosage": "2 - 4g"
+      "dosage": "2 - 4g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Nourishes Lung and Stomach Yin, generates fluids, and clears heat from the Heart. Working with Tian Men Dong, the pair (known as 'Er Dong' or the Two Asparagus) powerfully nourishes Yin while clearing deficiency heat from the lungs."
     },
     {
+      "id": 2457,
+      "formula_id": 340,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "2 - 4g"
+      "dosage": "2 - 4g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates Blood. Since Blood and fluids share a common source, supplementing Blood supports the body's Yin fluids. It also moistens dryness and prevents the cold, bitter herbs in the formula from damaging Blood."
     },
     {
+      "id": 2458,
+      "formula_id": 340,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains dampness. Based on the principle that the Spleen is the source of phlegm production while the Lungs are where phlegm is stored, Fu Ling addresses phlegm at its root by resolving dampness in the middle burner."
     },
     {
+      "id": 2459,
+      "formula_id": 340,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries dampness to help resolve phlegm. It works with Fu Ling to address the Spleen-dampness root of phlegm production, and its Qi-moving action helps prevent the rich Yin-nourishing herbs from causing stagnation."
     },
     {
+      "id": 2460,
+      "formula_id": 340,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "2 - 4g"
+      "dosage": "2 - 4g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears heat and eliminates irritability. It drains heat from the Triple Burner and assists Huang Qin in clearing lung heat. It also cools the Blood and helps resolve any heat-toxin component."
     },
     {
+      "id": 2461,
+      "formula_id": 340,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "2 - 4g"
+      "dosage": "2 - 4g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi to stop coughing and wheezing. It moistens the intestines and complements Jie Geng: while Jie Geng opens and lifts, Xing Ren descends and calms, restoring the natural downward movement of Lung Qi."
     },
     {
+      "id": 2462,
+      "formula_id": 340,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "1 - 3g (7 grains in original)"
+      "dosage": "1 - 3g (7 grains in original)",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes the Lung Qi to stop chronic cough and prevent further leakage of Lung Qi. Its sour and warm nature constrains and secures the lungs, balancing the dispersing and descending actions of the other herbs and preventing over-dissipation of Qi."
     },
     {
+      "id": 2463,
+      "formula_id": 340,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1 - 2g"
+      "dosage": "1 - 2g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula. Combined with Jie Geng, it particularly soothes and benefits the throat. It also tonifies Spleen Qi to support the middle burner and moderates the cold, bitter properties of the heat-clearing herbs."
     }
   ],
   "research": [

@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, and mildly nourishing foods: well-cooked grains (rice congee, millet porridge), soups, steamed vegetables, and lightly cooked proteins. These support the Spleen and Stomach's recovering digestive function.\nAvoid cold and raw foods (salads, ice cream, cold drinks, raw fruits in excess), greasy or deep-fried foods, and overly spicy dishes. These burden a weakened digestive system. Also avoid excessive dairy, which can generate Dampness and impair Spleen function. Alcohol should be avoided as it produces Damp-Heat and irritates the stomach lining. Meals should be regular, moderate in portion, and eaten in a calm setting. Chewing thoroughly aids the Spleen's transforming function.",
   "ingredients": [
     {
+      "id": 833,
+      "formula_id": 123,
       "herb_name": "Yi Tang",
       "english_name": "Maltose syrup",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Sweet and warm, Yi Tang is the principal herb that directly nourishes and warms the Middle Burner (Spleen and Stomach). It supplements Qi, relaxes muscular spasm in the abdomen, and moderates cramping pain. Its rich sweetness provides direct nourishment to the depleted digestive system."
     },
     {
+      "id": 834,
+      "formula_id": 123,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Used at double the dosage of Gui Zhi, Bai Shao nourishes Blood and Yin, softens the Liver, and relieves abdominal cramping. Its sour and cooling nature complements the sweet warmth of Yi Tang to form the 'sour-sweet generates Yin' (酸甘化阴) pairing, addressing the nutritive Yin deficiency underlying the pattern."
     },
     {
+      "id": 835,
+      "formula_id": 123,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms Yang, dispels Cold from the interior, and promotes the circulation of Qi and Blood through the channels. Its pungent-sweet warmth pairs with Zhi Gan Cao in a 'pungent-sweet generates Yang' (辛甘化阳) combination, restoring Spleen Yang and the body's warming function."
     },
     {
+      "id": 836,
+      "formula_id": 123,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Qi of the Middle Burner, relieves spasmodic pain together with Bai Shao (the classical Shao Yao Gan Cao Tang pairing embedded within this formula), and harmonizes all the other herbs in the formula."
     },
     {
+      "id": 837,
+      "formula_id": 123,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach, assists Gui Zhi in dispersing Cold, and helps the Spleen and Stomach transport fluids. Together with Da Zao, it harmonizes the nutritive and protective aspects of the body."
     },
     {
+      "id": 838,
+      "formula_id": 123,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 - 12 pieces"
+      "dosage": "4 - 12 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Supplements Spleen Qi and nourishes Blood. Together with Sheng Jiang, it regulates the nutritive and protective Qi, and with the sweet herbs reinforces the Middle Burner's function as the source of Qi and Blood production."
     }
   ],
   "research": [

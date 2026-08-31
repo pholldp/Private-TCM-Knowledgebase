@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, the child's diet should emphasize easily digestible, warm, and nourishing foods such as rice porridge (congee), well-cooked vegetables, and small amounts of lean meat. Cold, raw, and greasy foods should be avoided, as they burden an already weakened Spleen and Stomach.\nSweet, sugary foods and snacks should also be minimized, as excessive sweetness can generate Dampness and further impair digestion. The traditional preparation method already incorporates lean pork as a vehicle for the medicine, which itself serves as a gentle Spleen-nourishing food. Dairy products and difficult-to-digest foods (sticky rice, fried foods) should be limited during the treatment period.",
   "ingredients": [
     {
+      "id": 1906,
+      "formula_id": 272,
       "herb_name": "Wu Yi",
       "english_name": "Large-fruited Elm seed paste",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Acrid, bitter, and warm, Wu Yi is the primary anti-parasitic agent in this formula. It strongly kills roundworms and other intestinal parasites while also reducing childhood nutritional impairment (gan ji). It enters the Spleen and Stomach channels, directly targeting the site where worms lodge."
     },
     {
+      "id": 1907,
+      "formula_id": 272,
       "herb_name": "Shi Jun Zi",
       "english_name": "Rangoon creeper fruit",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Sweet and warm, Shi Jun Zi is a highly effective anti-parasitic herb especially suited to pediatric use. It kills roundworms and pinworms while also strengthening the Spleen and reducing accumulation, making it ideal for malnourished children with worm infestations."
     },
     {
+      "id": 1908,
+      "formula_id": 272,
       "herb_name": "Lu Hui",
       "english_name": "Aloe",
       "role": "Deputy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "Bitter and cold, Lu Hui reinforces the parasite-killing action while adding a purgative function to expel dead worms through the stool. It also clears Heat from the Liver, addressing the feverishness and irritability that often accompany chronic parasitic infestation in children."
     },
     {
+      "id": 1909,
+      "formula_id": 272,
       "herb_name": "Ye Ming Sha",
       "english_name": "Bat Dung",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Pungent and cold, Ye Ming Sha disperses accumulations and reduces childhood nutritional impairment. It also improves visual acuity, which is clinically relevant because chronic parasitic malnutrition in children often leads to night blindness and poor vision from vitamin deficiency."
     },
     {
+      "id": 1910,
+      "formula_id": 272,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Sweet and slightly warm, Ren Shen powerfully tonifies the Spleen Qi and the source Qi. In this formula it addresses the underlying Spleen deficiency caused by chronic parasitic damage, helping restore the child's digestive capacity, appetite, and overall vitality."
     },
     {
+      "id": 1911,
+      "formula_id": 272,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Sweet, bland, and neutral, Fu Ling strengthens the Spleen and drains Dampness. It works alongside Ren Shen and Bai Zhu to restore Spleen function, while its Dampness-draining action helps resolve the abdominal distention and loose stools common in parasitic malnutrition."
     },
     {
+      "id": 1912,
+      "formula_id": 272,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Bitter, sweet, and warm, Bai Zhu tonifies the Spleen and dries Dampness. Together with Ren Shen and Fu Ling, it forms a Spleen-tonifying core that supports the recovery of the damaged digestive system and helps the child regain weight and strength after worm expulsion."
     },
     {
+      "id": 1913,
+      "formula_id": 272,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral, Gan Cao tonifies the Spleen Qi, harmonizes the actions of all the other herbs in the formula, and moderates any harshness from the anti-parasitic ingredients. It also helps protect the Middle Burner from damage by the purgative action of Lu Hui."
     }
   ],
   "research": [],

@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid spicy, hot, fried, and greasy foods, as these generate Heat and counteract the formula's cooling and Yin-nourishing effects. Alcohol should also be avoided, as it is warming and drying. Cold and raw foods should be eaten in moderation despite the formula's cooling nature, because the Yin-nourishing herbs (especially Shu Di Huang) are cloying and can burden a weakened Spleen.\nFavor foods that nourish Yin and cool the Blood, such as pears, watermelon, mung beans, lotus root, lily bulb (bai he), black sesame, and wood ear mushrooms. Mild, easily digestible foods like congee, steamed vegetables, and tofu support digestion while the formula works.",
   "ingredients": [
     {
+      "id": 4253,
+      "formula_id": 556,
       "herb_name": "Sheng Di Huang",
       "english_name": "Raw Rehmannia root",
       "role": "King",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat, cools the Blood, nourishes Yin and generates fluids. As the primary herb, it directly addresses the core pathomechanism of Yin deficiency generating internal Heat that forces Blood out of the vessels."
     },
     {
+      "id": 4254,
+      "formula_id": 556,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Blood and enriches Yin, tonifying the Kidney essence and Liver Blood. It works alongside Sheng Di Huang to replenish the depleted Yin foundation that underlies the Heat pattern."
     },
     {
+      "id": 4255,
+      "formula_id": 556,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and restrains Yin, softens the Liver and alleviates pain. Its astringent nature helps consolidate Yin and Blood, preventing further loss while supporting the King herbs in nourishing the Blood."
     },
     {
+      "id": 4256,
+      "formula_id": 556,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "4.5 - 12g"
+      "dosage": "4.5 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, cools the Blood and stops bleeding. It targets Heat in the upper and middle burners and helps cool the Blood level to control reckless bleeding."
     },
     {
+      "id": 4257,
+      "formula_id": 556,
       "herb_name": "Huang Bai (&#x9EC4;&#x67CF;)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "4.5 - 12g"
+      "dosage": "4.5 - 12g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Drains ministerial Fire and clears Heat from the Lower Burner. It specifically targets the Kidney and Bladder to drain deficiency-Heat from the lower body, complementing Huang Qin's action in the upper areas."
     },
     {
+      "id": 4258,
+      "formula_id": 556,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "4.5 - 15g"
+      "dosage": "4.5 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney, stabilizes essence and stops vaginal discharge. It supports the body's ability to produce and hold Blood while reinforcing the Spleen's role in controlling Blood within the vessels."
     },
     {
+      "id": 4259,
+      "formula_id": 556,
       "herb_name": "Xu Duan",
       "english_name": "Teasel root",
       "role": "Assistant",
-      "dosage": "4.5 - 12g"
+      "dosage": "4.5 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidney, strengthens sinews and bones, promotes mending, and calms the fetus. It helps stabilize the Chong and Ren vessels, which is particularly important for gynecological bleeding and threatened miscarriage."
     },
     {
+      "id": 4260,
+      "formula_id": 556,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, clears Heat and resolves toxicity in its raw form, and moderates the bitter-cold nature of Huang Qin and Huang Bai to protect the Stomach."
     }
   ],
   "research": [

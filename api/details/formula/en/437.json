@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, iced drinks, cold fruit, sushi), as these can obstruct the formula's warming action and make it harder to expel the Cold pathogen. Also avoid greasy, heavy, or difficult-to-digest foods that burden the digestive system when the body is already weakened.\nFavor warm, easily digestible foods such as congee (rice porridge), warm soups, cooked vegetables, and ginger tea. A small amount of thin rice porridge after taking the decoction can support the Stomach Qi and assist the mild sweating action. As a classical principle for exterior-releasing formulas, the patient should stay warm and rest under light covers to encourage gentle perspiration, but should not overheat or sweat excessively.",
   "ingredients": [
     {
+      "id": 3308,
+      "formula_id": 437,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the pores and releases the exterior, dispelling cold from the surface. As the primary exterior-releasing herb, it drives the formula's ability to gently promote sweating and expel pathogenic cold trapped in the skin and muscles."
     },
     {
+      "id": 3309,
+      "formula_id": 437,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms and restores Yang, providing the internal warmth that the body lacks. It supports Ma Huang's sweating action by ensuring the body's Yang is strong enough to push pathogenic cold outward, preventing further depletion of the already weakened Yang Qi."
     },
     {
+      "id": 3310,
+      "formula_id": 437,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared licorice tonifies the middle, protects the Stomach Qi, and moderates the harsh dispersing nature of Ma Huang. It harmonizes the formula, preventing excessive sweating that could further injure Yang, and works with Fu Zi to gently warm and support the body's vital functions."
     }
   ],
   "research": [],

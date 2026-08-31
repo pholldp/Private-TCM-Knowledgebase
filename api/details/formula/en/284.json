@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid cold and raw foods (ice water, raw salads, chilled fruits, sashimi) while taking this formula, as they directly counteract its warming action and can re-introduce Cold into the abdomen.\nAvoid greasy or excessively rich foods if digestion is weak — while the formula itself contains rich lamb, overloading the Stomach with additional heavy foods can impair absorption.\nFoods that complement the formula include warm congee, lightly cooked vegetables, warm spices such as cinnamon and black pepper, and warming grains like glutinous rice. Small amounts of rice wine may enhance the warming and Blood-moving effect if appropriate.\nAvoid excessive sour or astringent foods (vinegar, unripe fruits) as these can counteract the dispersing action of ginger and restrict Blood flow.",
   "ingredients": [
     {
+      "id": 2018,
+      "formula_id": 284,
       "herb_name": "Yang Rou",
       "english_name": "Mutton (lamb/sheep meat)",
       "role": "King",
-      "dosage": "250 - 500g"
+      "dosage": "250 - 500g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Kidneys, Stomach",
+      "role_description": "As a 'flesh and blood' (血肉有情) food substance, mutton is sweet and warming, powerfully tonifying Qi and Blood while warming the middle and lower body. It is the largest ingredient by weight and embodies the classical principle of supplementing essence with rich flavors (精不足者补之以味). It directly addresses the underlying deficiency of Qi and Blood that gives rise to internal Cold."
     },
     {
+      "id": 2019,
+      "formula_id": 284,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood, relieves pain, and regulates menstruation. As the primary medicinal herb in this formula, it works alongside mutton to replenish deficient Blood while its mildly moving nature prevents stagnation and addresses Blood-stasis pain. Its warm nature further supports the formula's overall warming strategy."
     },
     {
+      "id": 2020,
+      "formula_id": 284,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "15 - 60g"
+      "dosage": "15 - 60g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle, disperses Cold, and harmonizes the Stomach. It assists the King and Deputy by directly expelling Cold pathogen from the interior, while also supporting digestion of the rich mutton, preventing any tendency toward nausea or stagnation from the heavy, greasy quality of the meat."
     }
   ],
   "research": [],

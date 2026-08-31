@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, ice cream, cold drinks, raw fruit), as these directly aggravate the Spleen Yang deficiency that the formula is designed to treat.\nAvoid greasy, heavy, and difficult-to-digest foods, as the intestines are already struggling with stagnation.\nFavor warm, easily digestible foods such as congee (rice porridge), cooked vegetables, soups, and small portions of well-cooked grains. Ginger tea between doses can support the warming action of the formula.\nAvoid alcohol and strong tea during the course of treatment, as these can interfere with the formula's actions and irritate the digestive tract.",
   "ingredients": [
     {
+      "id": 1381,
+      "formula_id": 202,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Powerfully warms Spleen Yang and disperses deep-seated internal Cold. Its intensely hot and acrid nature breaks through cold congelation in the interior, restoring the warming and transporting function of the Spleen."
     },
     {
+      "id": 1382,
+      "formula_id": 202,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges accumulated cold waste from the intestines through its strong downward-draining action. Although bitter and cold by nature, when combined with the large proportion of warming herbs in this formula, its cold nature is tempered while its purgative function is retained."
     },
     {
+      "id": 1383,
+      "formula_id": 202,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardened stool and assists Da Huang in purging accumulated waste. Its salty, cold nature helps moisten the intestines and break down stubborn blockages."
     },
     {
+      "id": 1384,
+      "formula_id": 202,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the middle burner and assists Fu Zi in restoring Spleen Yang. Its hot, acrid nature directly targets the Spleen and Stomach to dispel internal Cold and support the digestive fire."
     },
     {
+      "id": 1385,
+      "formula_id": 202,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates Blood to prevent the purgative action from damaging Blood and body fluids. Also moistens the intestines to facilitate bowel movement."
     },
     {
+      "id": 1386,
+      "formula_id": 202,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies Qi to protect the body's vital force during purgation. Ensures that the draining action of Da Huang and Mang Xiao does not further deplete an already weakened Spleen."
     },
     {
+      "id": 1387,
+      "formula_id": 202,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and assists Ren Shen in tonifying Spleen Qi. Its moderating nature helps balance the harsh properties of both the hot and cold ingredients."
     }
   ],
   "research": [

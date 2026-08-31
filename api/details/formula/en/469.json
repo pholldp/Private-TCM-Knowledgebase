@@ -24,64 +24,124 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and excessive consumption of cold-natured foods such as watermelon, pear, bitter melon, and mung beans, as these counteract the formula's warming action.\nAvoid greasy, heavy, or difficult-to-digest foods that may impair Spleen function.\nFavor warm, cooked, easily digestible foods: soups, porridges, warm grains, cooked vegetables, and moderate amounts of warming proteins like lamb or chicken.\nSmall amounts of warming spices such as ginger, cinnamon, and fennel in cooking can support the formula's effects.\nAvoid alcohol and excessive caffeine, which can disrupt the reproductive system.",
   "ingredients": [
     {
+      "id": 3568,
+      "formula_id": 469,
       "herb_name": "Ba Ji Tian",
       "english_name": "Morinda root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Kidneys, Liver",
+      "role_description": "Warms Kidney Yang and fortifies the essence, directly addressing the core pathomechanism of uterine coldness due to Kidney Yang deficiency. Its strong warming action restores the vital fire needed to warm the uterus and support conception."
     },
     {
+      "id": 3569,
+      "formula_id": 469,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and tonifies Qi at a large dose, ensuring the middle burner can generate adequate Qi and Blood to nourish the Chong and Ren vessels and support the uterus. The Spleen is the source of postnatal Qi, essential for reproductive function."
     },
     {
+      "id": 3570,
+      "formula_id": 469,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the original Qi (Yuan Qi) and reinforces both Spleen and Kidney. Supports Ba Ji Tian in restoring vital force and assists Bai Zhu in strengthening the Spleen to generate Blood and nourish the reproductive system."
     },
     {
+      "id": 3571,
+      "formula_id": 469,
       "herb_name": "Bu Gu Zhi",
       "english_name": "Psoralea fruit",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Spleen",
+      "role_description": "Warms Kidney Yang, strengthens the Ming Men (Life Gate) fire, and secures the essence. Reinforces Ba Ji Tian in warming the lower Jiao and directly supports the warming of the uterus (Bao Gong)."
     },
     {
+      "id": 3572,
+      "formula_id": 469,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidney, strengthens the sinews and bones, and has a calming effect on the fetus. Supports the Kidney-warming strategy while adding the ability to stabilize pregnancy once conception occurs."
     },
     {
+      "id": 3573,
+      "formula_id": 469,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "Tonifies both Kidney Yin and Yang in a balanced manner, nourishes the Liver, and secures the essence. Its gentle, even action complements the stronger warming herbs, helping to consolidate the Chong and Ren vessels without excessive dryness."
     },
     {
+      "id": 3574,
+      "formula_id": 469,
       "herb_name": "Qian Shi",
       "english_name": "Fox Nut",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney while having an astringent quality that helps secure essence and stop excessive discharge. Supports the consolidating function of the formula, preventing leakage of vital substances."
     },
     {
+      "id": 3575,
+      "formula_id": 469,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Gently tonifies the Spleen, Lung, and Kidney simultaneously. Nourishes Yin without being cloying, balances the warming and drying tendency of the other herbs, and supports the Spleen's role in generating Qi and Blood for reproduction."
     },
     {
+      "id": 3576,
+      "formula_id": 469,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the Ming Men fire, reinforces Kidney Yang, and promotes blood circulation. Helps dispel cold accumulation in the uterus and warms the channels to improve blood flow to the reproductive organs."
     },
     {
+      "id": 3577,
+      "formula_id": 469,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Envoy",
-      "dosage": "0.9 - 1g"
+      "dosage": "0.9 - 1g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Used at a very small dose (approximately 1g) to powerfully ignite the Yang and rescue depleted fire. Its penetrating warmth drives the formula's Yang-warming action deep into the Kidney and lower Jiao, directing the therapeutic effect to the uterus."
     }
   ],
   "research": [],

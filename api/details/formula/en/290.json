@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, favor foods that nourish Yin and fluids: pear, lotus root, lily bulb, mung bean, tofu, duck, and congee made with millet or rice. Avoid spicy, fried, and heavily warming foods (lamb, chili, ginger, garlic, alcohol, coffee) that can aggravate internal Heat. Also limit greasy, rich foods that can impair digestion, since the formula already contains cold-natured herbs that tax the Spleen. Room-temperature or slightly warm foods are preferable to ice-cold items, which can obstruct the Spleen's digestive function.",
   "ingredients": [
     {
+      "id": 2055,
+      "formula_id": 290,
       "herb_name": "Yin Chai Hu",
       "english_name": "Stellaria root",
       "role": "King",
-      "dosage": "5g"
+      "dosage": "5g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "The chief herb, specifically selected to clear deep-seated deficiency heat from the bone marrow without the bitter-cold draining quality that could further injure Yin. It directly targets steaming bone disorder and is the formula's namesake action."
     },
     {
+      "id": 2056,
+      "formula_id": 290,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Nourishes Yin and drains fire from the Kidneys, reinforcing the King herb's ability to clear deficiency heat while also generating fluids to protect depleted Yin."
     },
     {
+      "id": 2057,
+      "formula_id": 290,
       "herb_name": "Hu Huang Lian",
       "english_name": "Figwortflower Picrorhiza rhizome",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine",
+      "role_description": "Enters the Blood level to clear heat from the Yin division. It is a principal substance for addressing steaming bone disorder with sweating, working alongside Zhi Mu and Di Gu Pi to clear heat lodged deep in the body."
     },
     {
+      "id": 2058,
+      "formula_id": 290,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Clears lingering heat from the Lungs above and deficiency heat from the Liver and Kidneys below. It is especially effective for steaming bone disorder with sweating, cooling the lower burner's hidden fire."
     },
     {
+      "id": 2059,
+      "formula_id": 290,
       "herb_name": "Qing Hao",
       "english_name": "Sweet wormwood",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Clears deficiency heat and conducts heat lodged at the bone level outward to the muscle layer and exterior, venting it from the body. It drains fire without injuring Qi or Blood."
     },
     {
+      "id": 2060,
+      "formula_id": 290,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Uses its acrid, dispersing nature to vent heat outward from the Liver and Gallbladder channels. Together with Qing Hao, it provides the outward-moving force that expels deep-seated heat through the body surface."
     },
     {
+      "id": 2061,
+      "formula_id": 290,
       "herb_name": "Bie Jia",
       "english_name": "Turtle shell (Chinese soft-shell turtle carapace)",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Yin, anchors errant Yang, and guides the other herbs into the deeper Yin levels of the body. As a substance from the shell of a Yin creature (softshell turtle) that corresponds to bone, it is uniquely suited to target the bone level where the heat resides."
     },
     {
+      "id": 2062,
+      "formula_id": 290,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all other herbs and protects the Spleen and Stomach from potential damage by the formula's predominantly cold and bitter ingredients."
     }
   ],
   "research": [],

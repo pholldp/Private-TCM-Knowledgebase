@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, rich, and spicy foods, which generate further Heat and obstruct digestion. Alcohol should be strictly avoided as it adds Heat. Cold, raw foods and iced drinks should also be limited, as although the condition involves Heat, icy foods may impair the Stomach's digestive function during recovery. Light, easily digestible foods are preferred: plain congee (rice porridge), steamed vegetables, and clear soups. Fresh fruits like pears and watermelon, which are naturally cooling, may be taken in moderation. Once the bowels have moved and symptoms improve, gradually return to a normal diet and discontinue the formula promptly.",
   "ingredients": [
     {
+      "id": 1541,
+      "formula_id": 226,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Used at the highest dose to clear Heat and resolve toxicity. Its light, ascending nature allows it to disperse and vent accumulated heat from the Upper Burner and chest, addressing the core pathomechanism of blazing heat in the diaphragm region."
     },
     {
+      "id": 1542,
+      "formula_id": 226,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges heat downward by opening the bowels, clearing accumulated heat and dryness from the Middle Burner and intestines. Together with Mang Xiao, it borrows the Yang Ming (Stomach and Large Intestine) channel as an exit route for heat."
     },
     {
+      "id": 1543,
+      "formula_id": 226,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Softens hardened stool and flushes accumulated heat and dryness from the intestines. Its salty, cold nature complements Da Huang to clear formed heat clumping in the Middle Burner."
     },
     {
+      "id": 1544,
+      "formula_id": 226,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears constrained heat from the chest, diaphragm, and Lungs. Focuses its clearing action on the Upper and Middle Burners, reinforcing the King herb's heat-clearing function from a different angle."
     },
     {
+      "id": 1545,
+      "formula_id": 226,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears heat from all three Burners and guides fire downward, draining heat through the urine. Connects the upper clearing action with the lower purging action, ensuring fire is conducted out from below."
     },
     {
+      "id": 1546,
+      "formula_id": 226,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Its light, cool, dispersing nature clears the head, benefits the eyes, and soothes the throat. Vents constrained heat from the Upper Burner outward, embodying the classical principle of 'venting depressed fire' (火郁发之)."
     },
     {
+      "id": 1547,
+      "formula_id": 226,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Clears heat from the Heart and Upper Burner, promotes urination to guide heat downward and out. Assists Bo He in dispersing upper body heat and calming irritability."
     },
     {
+      "id": 1548,
+      "formula_id": 226,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Together with honey, moderates the harsh purging action of Da Huang and Mang Xiao so they clear heat without injuring the Stomach. Its sweet taste 'lingers at the diaphragm' level, protecting fluids and harmonizing all the other herbs."
     }
   ],
   "research": [

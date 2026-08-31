@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods, as these can congeal Blood and counteract the formula's Blood-moving action. Avoid greasy, heavy, or fried foods that may burden the Spleen and Stomach, since the formula already contains the purgative Da Huang. Light, easily digestible meals are recommended. Since the formula traditionally includes wine in its preparation, additional alcohol consumption should be avoided. Warming, gently Blood-nourishing foods such as congee with a small amount of brown sugar or red dates can support recovery after the acute phase has passed.",
   "ingredients": [
     {
+      "id": 4220,
+      "formula_id": 548,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Used in large dose and wine-prepared, Da Huang is the primary force in this formula. It powerfully purges stagnant Blood, drives congealed clots downward, and promotes the renewal of healthy Blood and tissue. Wine preparation enhances its ability to enter the Blood level and invigorate circulation rather than simply purging the bowels."
     },
     {
+      "id": 4221,
+      "formula_id": 548,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Chai Hu serves as co-King by coursing the Liver and regulating Qi flow in the hypochondriac region. It guides the other herbs into the Liver channel where the injury resides. Working with Da Huang, it creates a complementary ascending-descending dynamic that disperses Blood stasis lodged beneath the ribs."
     },
     {
+      "id": 4222,
+      "formula_id": 548,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "A key Blood-invigorating herb that breaks up clots and promotes the generation of new Blood. It reinforces Da Huang's stasis-dispelling action while being gentler and more nourishing, helping resolve swelling and relieve pain in the injured area."
     },
     {
+      "id": 4223,
+      "formula_id": 548,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Partners with Tao Ren to invigorate Blood and dispel stasis. Hong Hua excels at unblocking the channels and collaterals, reducing swelling, and alleviating pain from traumatic injury."
     },
     {
+      "id": 4224,
+      "formula_id": 548,
       "herb_name": "Chuan Shan Jia",
       "english_name": "Pangolin scales",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "A powerful substance for breaking through Blood stasis and penetrating obstructed collaterals. It disperses accumulations and reduces swelling, reaching into the deep network vessels where stagnant Blood is lodged after trauma."
     },
     {
+      "id": 4225,
+      "formula_id": 548,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates the Blood simultaneously. While the Kings and Deputies focus on breaking stasis, Dang Gui ensures that healthy Blood is replenished, preventing the aggressive stasis-dispelling herbs from depleting the body's Blood resources."
     },
     {
+      "id": 4226,
+      "formula_id": 548,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Classically noted for its ability to heal broken tissue and disperse traumatic Blood stasis. It enters the Blood level to help resolve clots and nodules, while also moistening dryness, which prevents the many warm, drying, Blood-moving herbs from injuring Yin fluids."
     },
     {
+      "id": 4227,
+      "formula_id": 548,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates their intensity, and provides its own pain-relieving action by relaxing tension and spasm. It also protects the Stomach from the harsh purgative action of Da Huang."
     }
   ],
   "research": [],

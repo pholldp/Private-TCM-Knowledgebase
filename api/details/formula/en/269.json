@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods while taking this formula, as these burden the already weakened Spleen and Stomach. Avoid sweets and rich foods that promote further stagnation. Do not drink tea while taking this formula, as the tannins in tea combined with Shi Jun Zi (Quisqualis) can provoke hiccups and nausea. Favor easily digestible, warm, bland foods such as rice congee, steamed vegetables, and simple soups to support digestive recovery.",
   "ingredients": [
     {
+      "id": 1881,
+      "formula_id": 269,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "King",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Reduces food stagnation and harmonizes the Stomach, directly addressing the accumulation of undigested food that underlies childhood nutritional impairment. As a King herb alongside Shi Jun Zi, it targets one of the two root causes of this condition: food stagnation."
     },
     {
+      "id": 1882,
+      "formula_id": 269,
       "herb_name": "Shi Jun Zi",
       "english_name": "Rangoon creeper fruit",
       "role": "King",
-      "dosage": "5g"
+      "dosage": "5g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "The premier antiparasitic herb in TCM, it kills intestinal parasites (especially roundworms) that deplete the child's nutrition. As a King herb alongside Shen Qu, it targets the other root cause: parasitic infestation."
     },
     {
+      "id": 1883,
+      "formula_id": 269,
       "herb_name": "Mai Ya",
       "english_name": "Barley Sprout",
       "role": "Deputy",
-      "dosage": "5g"
+      "dosage": "5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Reinforces Shen Qu's digestive action and gently strengthens the Spleen and Stomach. Particularly effective at digesting starchy foods and reducing bloating."
     },
     {
+      "id": 1884,
+      "formula_id": 269,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "Deputy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "A strong antiparasitic that reinforces Shi Jun Zi's worm-killing action and also moves Qi downward, helping to relieve abdominal distension and guide parasites out of the body."
     },
     {
+      "id": 1885,
+      "formula_id": 269,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "10g"
+      "dosage": "10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness from the Stomach and intestines, addressing the accumulated Heat (gan-Heat) that causes fever, bad breath, and yellow greasy tongue coating. Its bitter flavor also has an antiparasitic effect, supporting the King herbs."
     },
     {
+      "id": 1886,
+      "formula_id": 269,
       "herb_name": "Rou Dou Kou",
       "english_name": "Nutmeg",
       "role": "Assistant",
-      "dosage": "5g"
+      "dosage": "5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Warms the middle and restrains the intestines to stop diarrhea, which is a common symptom of childhood nutritional impairment. Its warming nature also moderates the cold properties of Huang Lian, preventing damage to Spleen Yang."
     },
     {
+      "id": 1887,
+      "formula_id": 269,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Envoy",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Promotes Qi movement throughout the Middle Burner, relieving abdominal pain and distension. It also helps the other herbs circulate effectively through the digestive system and prevents the cloying effects of the formula."
     }
   ],
   "research": [],

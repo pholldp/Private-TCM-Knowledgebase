@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, avoid hot, spicy, greasy, and fried foods, as these generate internal Heat and can aggravate bleeding. Alcohol should be strictly avoided as it heats the Blood and promotes reckless Blood movement. Raw garlic, chili peppers, lamb, and other warming foods are best excluded. Favor cooling, mild foods such as lotus root (which has Blood-cooling properties and is traditionally paired with this formula), mung bean soup, pear, watermelon, and congee. Cold and raw foods should also be taken in moderation to avoid injuring the Spleen and Stomach, which are already taxed by this strongly cooling formula.",
   "ingredients": [
     {
+      "id": 1811,
+      "formula_id": 259,
       "herb_name": "Da Ji",
       "english_name": "Japanese thistle",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Sweet and cooling, Da Ji enters the Blood level where it excels at cooling Blood and stopping bleeding. It also has the ability to dispel Blood stasis, which prevents the formula from trapping stagnant blood while arresting hemorrhage."
     },
     {
+      "id": 1812,
+      "formula_id": 259,
       "herb_name": "Xiao Ji",
       "english_name": "Field Thistle Herb",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Works in tandem with Da Ji as a paired King herb. Also sweet and cooling, Xiao Ji cools Blood and stops bleeding while mildly dispersing stasis, reinforcing the same core mechanism from a complementary angle."
     },
     {
+      "id": 1813,
+      "formula_id": 259,
       "herb_name": "He Ye",
       "english_name": "Lotus leaf",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach",
+      "role_description": "Cools Blood and stops bleeding. In its charred form, it gains additional astringent properties that help staunch hemorrhage, reinforcing the King herbs' hemostatic action."
     },
     {
+      "id": 1814,
+      "formula_id": 259,
       "herb_name": "Ce Bai Ye",
       "english_name": "Arborvitae Leaf",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Cools Blood and stops bleeding with an inherently astringent quality. Particularly effective for bleeding from the Lung and Stomach channels, complementing the King herbs by adding a binding, hemostatic dimension."
     },
     {
+      "id": 1815,
+      "formula_id": 259,
       "herb_name": "Bai Mao Gen",
       "english_name": "Cogon grass rhizome",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Urinary Bladder",
+      "role_description": "Sweet and cold, it cools Blood and promotes urination, helping to redirect Heat downward and out of the body while stopping bleeding."
     },
     {
+      "id": 1816,
+      "formula_id": 259,
       "herb_name": "Qian Cao",
       "english_name": "Indian Madder root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "Cools Blood and stops bleeding while also activating Blood circulation. This dual action helps arrest hemorrhage without creating stagnation, synergizing with the King herbs."
     },
     {
+      "id": 1817,
+      "formula_id": 259,
       "herb_name": "Zong Lu",
       "english_name": "Palm fiber (Windmill palm petiole)",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Lungs, Large Intestine",
+      "role_description": "Strongly astringent, it physically binds and blocks hemorrhage. Among the Deputies, it provides the most direct hemostatic (flow-stopping) action, complementing the Blood-cooling approach with a containment strategy."
     },
     {
+      "id": 1818,
+      "formula_id": 259,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat and drains Fire, especially from the Liver and Triple Burner. By purging the Fire that is driving blood recklessly upward, it addresses the root cause of the bleeding. It can conduct Heat out through the urine."
     },
     {
+      "id": 1819,
+      "formula_id": 259,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Clears Heat and drains Fire downward, directly countering the upward surge of Qi and Fire that is forcing blood out of the vessels. By guiding Heat to descend and exit through the bowels, it reverses the upward momentum of the hemorrhage. Also pairs with Mu Dan Pi to dispel Blood stasis, ensuring that stopping the bleeding does not trap old blood."
     },
     {
+      "id": 1820,
+      "formula_id": 259,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Cools Blood and clears Heat while also dispersing Blood stasis. This is a critical balancing role: the formula uses many astringent and hemostatic herbs that could potentially trap stagnant blood, and Mu Dan Pi counteracts this risk by keeping the Blood moving even as bleeding is arrested."
     }
   ],
   "research": [],

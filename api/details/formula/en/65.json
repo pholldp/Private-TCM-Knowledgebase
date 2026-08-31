@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, nutritious foods that support Qi and Blood production: soups, congee, well-cooked grains, lean meats, and foods like dates, yam, and goji berries. Avoid cold and raw foods (salads, iced drinks, raw fish), greasy and heavy foods that burden the Spleen, and excessive spicy or hot foods that could aggravate residual Heat in the lesion. The classical instruction \"食远服\" (shi yuan fu) indicates the formula should be taken between meals, away from food, to optimize absorption. Alcohol should be avoided or limited, as it can generate Damp-Heat and interfere with wound healing.",
   "ingredients": [
     {
+      "id": 425,
+      "formula_id": 65,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Raw Huang Qi is the primary Qi tonic in this formula and is classically called the 'essential herb for sores' (疮家之要药). It powerfully tonifies Qi, supports the body's upright Qi to push toxins outward, and promotes the generation of new tissue and wound closure."
     },
     {
+      "id": 426,
+      "formula_id": 65,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies the source Qi, reinforcing the body's fundamental vitality needed to expel pathogenic toxins. Together with Huang Qi, it forms the core of the 'supporting' (tuo) strategy, ensuring the body has sufficient strength to drive the healing process."
     },
     {
+      "id": 427,
+      "formula_id": 65,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates the Blood, working alongside the Qi tonics to ensure that fresh Blood reaches the affected area. Blood nourishment is essential for generating new flesh and closing wounds."
     },
     {
+      "id": 428,
+      "formula_id": 65,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Activates Blood circulation and moves Qi within the Blood, helping to disperse stagnation around the lesion. Its upward- and outward-moving nature assists the formula's outward-pushing strategy."
     },
     {
+      "id": 429,
+      "formula_id": 65,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and preserves Yin fluids, preventing the warm tonifying herbs from consuming Blood. Also softens the Liver and relieves pain associated with swelling."
     },
     {
+      "id": 430,
+      "formula_id": 65,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Clears Heat and resolves toxins, directly targeting the infectious component of the abscess. Compared to other Heat-clearing herbs, Jin Yin Hua is mild and does not injure the Spleen and Stomach, making it ideal for patients who are already weakened."
     },
     {
+      "id": 431,
+      "formula_id": 65,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, supporting the digestive system's ability to produce Qi and Blood. A healthy Spleen is essential for sustained healing and tissue regeneration."
     },
     {
+      "id": 432,
+      "formula_id": 65,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination to drain Dampness and strengthens the Spleen. Works with Bai Zhu to fortify the middle burner, ensuring the body can continuously generate the Qi and Blood needed for recovery."
     },
     {
+      "id": 433,
+      "formula_id": 65,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Reduces swelling, expels pus, and relieves pain at the wound site. Its warm, dispersing nature helps push toxins outward through the surface, supporting the 'penetrating' (tou) aspect of the formula."
     },
     {
+      "id": 434,
+      "formula_id": 65,
       "herb_name": "Zao Jiao Ci",
       "english_name": "Chinese Honeylocust Spine",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Pierces through stagnation to draw out pus and toxins, promoting the discharge of purulent material. Its sharp, penetrating quality makes it a key herb for the 'penetrating toxin outward' strategy (透法)."
     },
     {
+      "id": 435,
+      "formula_id": 65,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and raises Lung Qi, directing the formula's actions upward and outward. Also promotes the discharge of pus. As a 'boat herb' (舟楫之药), it carries other herbs to the upper body and guides the expulsion of toxins to the surface."
     },
     {
+      "id": 436,
+      "formula_id": 65,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates their properties, and adds mild Heat-clearing and toxin-resolving action. Also tonifies the Spleen Qi, supporting the overall strengthening strategy."
     }
   ],
   "research": [

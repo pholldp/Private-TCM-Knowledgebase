@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, favor light, easily digestible, and gently moistening foods such as congee (rice porridge), pear, lily bulb soup, and steamed vegetables. Avoid greasy, fried, and heavy foods that can generate Dampness and impair the formula's ability to release the exterior. Also avoid strongly spicy or hot foods (chili, ginger, lamb) that could further dry out the already Yin-deficient fluids. Cold and raw foods should be consumed in moderation so as not to impair Stomach Qi. Avoid alcohol, as it generates Heat and can worsen Yin depletion.",
   "ingredients": [
     {
+      "id": 1373,
+      "formula_id": 201,
       "herb_name": "Yu zhu",
       "english_name": "Solomon&#x27;s seal rhizome",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The primary Yin-nourishing herb in this formula. Yu Zhu enters the Lung and Stomach channels, moistening these organs and generating fluids. It is sweet and slightly cold, making it ideal for nourishing Yin without being heavy or cloying. This quality is crucial because overly rich tonics could trap the pathogen inside. Yu Zhu replenishes the body's fluid reserves so that a gentle sweat can be produced to expel the Wind-Heat, while simultaneously addressing the underlying Yin deficiency."
     },
     {
+      "id": 1374,
+      "formula_id": 201,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "King",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "The primary exterior-releasing herb. Bo He is acrid and cool, entering the Lung and Liver channels. It disperses Wind-Heat from the body's surface, clears the head, and soothes the throat. Together with Yu Zhu, this pairing addresses both the root (Yin deficiency) and the branch (Wind-Heat invasion) simultaneously, forming the core therapeutic strategy of the formula."
     },
     {
+      "id": 1375,
+      "formula_id": 201,
       "herb_name": "Cong Bai",
       "english_name": "Scallion Bulb",
       "role": "Deputy",
-      "dosage": "6g (2-3 stalks)"
+      "dosage": "6g (2-3 stalks)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Assists in gently releasing the exterior and dispersing pathogenic factors from the surface. Though typically classified as a warm, acrid herb, in this formula its mild dispersing action supports Bo He's exterior-releasing function without overly warming the body or damaging Yin fluids."
     },
     {
+      "id": 1376,
+      "formula_id": 201,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Mildly releases the exterior and disperses both Wind-Cold and Wind-Heat. Dan Dou Chi is especially valued in Yin-deficient patients because its dispersing action is gentle and does not overly consume fluids. It also helps relieve chest stuffiness and irritability, addressing secondary symptoms of this pattern."
     },
     {
+      "id": 1377,
+      "formula_id": 201,
       "herb_name": "Bai Wei",
       "english_name": "Swallowwort Root",
       "role": "Assistant",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Liver, Kidneys",
+      "role_description": "Clears Heat and cools the Blood without damaging Yin, making it perfectly suited for patients with underlying Yin deficiency who have developed internal Heat. It addresses symptoms like irritability, thirst, and a sensation of heat from within."
     },
     {
+      "id": 1378,
+      "formula_id": 201,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and disseminates Lung Qi, helping to relieve cough and expectorate phlegm. It also directs the actions of other herbs upward toward the Lungs and throat, helping to clear the upper respiratory tract."
     },
     {
+      "id": 1379,
+      "formula_id": 201,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "2 pieces"
+      "dosage": "2 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Blood and supports the Spleen and Stomach. Da Zao provides gentle supplementation that assists Yu Zhu in replenishing fluids and helps moderate the dispersing nature of the exterior-releasing herbs, preventing them from further depleting the body's resources."
     },
     {
+      "id": 1380,
+      "formula_id": 201,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula and moderates their properties. The honey-prepared form adds a gentle moistening quality that supports the Yin-nourishing direction of the prescription. It also assists Yu Zhu and Da Zao in protecting the Stomach and generating fluids."
     }
   ],
   "research": [],

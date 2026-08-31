@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid greasy, rich, and heavily flavored foods (fatty meats, fried foods, dairy) as these generate Dampness and obstruct the Middle Burner, directly counteracting the formula's action of opening the membrane source. Avoid raw and cold foods (salads, iced drinks, cold fruit) which impair Spleen function and may trap the pathogen further. Avoid alcohol, which is both Damp-generating and Heat-producing. Favor light, easily digestible foods such as rice porridge (congee), steamed vegetables, and clear soups. Small, frequent meals are preferable to large ones to avoid overburdening the Stomach while the formula works to clear the membrane source.",
   "ingredients": [
     {
+      "id": 1534,
+      "formula_id": 225,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "The lead herb of the formula, Bing Lang disperses Dampness, breaks apart stagnation, and drives out lurking pathogens from the membrane source. Wu Youxing described it as a herb that can 'consume and grind, removing hidden pathogens' and 'dispelling the miasmatic Qi of Lingnan'. Its strong dispersing and downward-moving nature helps force the pestilential pathogen out of its half-exterior, half-interior hiding place."
     },
     {
+      "id": 1535,
+      "formula_id": 225,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Aromatically transforms turbidity, regulates Qi, and resolves Dampness. Wu Youxing stated that it 'breaks apart the knots formed by pestilential Qi'. Together with Bing Lang and Cao Guo, it forms the core trio that directly reaches the membrane source to dislodge pathogens."
     },
     {
+      "id": 1536,
+      "formula_id": 225,
       "herb_name": "Cao Guo",
       "english_name": "Tsaoko Fruit",
       "role": "Deputy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Intensely aromatic, pungent, and warming, Cao Guo dispels turbidity, stops vomiting, and vents lurking pathogens from the half-exterior, half-interior level. Wu Youxing described it as 'pungent, fierce, and powerful, removing entrenched hidden pathogens'. It works synergistically with Bing Lang and Hou Po to penetrate the membrane source."
     },
     {
+      "id": 1537,
+      "formula_id": 225,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat and nourishes Yin. Because epidemic Heat easily damages body fluids, Zhi Mu is included to counteract this tendency and also to restrain the drying nature of the three pungent King and Deputy herbs, preventing them from further injuring Yin."
     },
     {
+      "id": 1538,
+      "formula_id": 225,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, preserves Yin, and harmonizes the nutritive (Ying) level. The source text explains it is added because 'Heat injures the nutritive Qi', so Bai Shao protects the Blood and Yin from damage by both the epidemic pathogen and the acrid, drying main herbs."
     },
     {
+      "id": 1539,
+      "formula_id": 225,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin clears residual Heat and dries Dampness. It addresses the Heat component of the Damp-Heat pathogen that remains after the main herbs have disrupted it, and complements the Yin-protecting herbs by clearing Heat from a different angle."
     },
     {
+      "id": 1540,
+      "formula_id": 225,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula and protects the Middle Burner (Stomach and Spleen). Used raw (Sheng Gan Cao), it also has mild Heat-clearing and toxin-resolving properties that support the overall therapeutic aim."
     }
   ],
   "research": [],

@@ -25,100 +25,196 @@
   "dietary_advice": "หลีกเลี่ยงอาหารรสเผ็ด มันเยิ้ม และอาหารทอดขณะรับประทานสูตรนี้ เนื่องจากอาจสร้างความร้อนภายในเพิ่มเติมและขัดขวางการทำความเย็นของสูตร ควรหลีกเลี่ยงอาหารเย็นหรืออาหารดิบแม้ว่าสูตรจะมีลักษณะเย็นก็ตาม เนื่องจากอาจทำให้ระบบย่อยอาหารที่มีแร่ธาตุหนักอยู่แล้วลดลงไปอีก อาหารเบาๆ ที่ย่อยง่าย เช่น โจ๊ก (โจ๊ก) ซุปใส และผลไม้สด เช่น แตงโมหรือลูกแพร์ เหมาะสม การดื่มน้ำให้เพียงพอถือเป็นสิ่งสำคัญ เนื่องจากไข้สูงและส่วนผสมที่เป็นยาระบายจะทำให้ของเหลวในร่างกายหมดไป ควรหลีกเลี่ยงเครื่องดื่มแอลกอฮอล์และชาเข้มข้นโดยเด็ดขาด",
   "ingredients": [
     {
+      "id": 1710,
+      "formula_id": 248,
       "herb_name": "Shui Niu Jiao",
       "english_name": "เขาควาย",
       "role": "ราชา (King)",
-      "dosage": "500g (original batch; modern substitution for Xi Jiao)"
+      "dosage": "500g (original batch; modern substitution for Xi Jiao)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ตับ, กระเพาะอาหาร",
+      "role_description": "ขับความร้อนออกจากหัวใจ ทำให้เลือดเย็นลง และขับสารพิษ ในสูตรนี้ กล่าวถึงพยาธิกลไกหลักของความร้อนที่ลุกโชนที่บุกรุกเยื่อหุ้มหัวใจ ดับไฟหัวใจเพื่อฟื้นฟูสติและความเพ้ออย่างสงบ"
     },
     {
+      "id": 1711,
+      "formula_id": 248,
       "herb_name": "Ling Yang Jiao",
       "english_name": "เขาละมั่ง",
       "role": "ราชา (King)",
-      "dosage": "500g (original batch)"
+      "dosage": "500g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, หัวใจ",
+      "role_description": "ทำให้ตับเย็นลง ดับลมภายใน และหยุดอาการกระตุกและการชัก สิ่งนี้มุ่งเป้าไปที่ลมที่สร้างความร้อนโดยตรงซึ่งทำให้เกิดการชักและความแข็งแกร่งของกล้ามเนื้อในรูปแบบนี้"
     },
     {
+      "id": 1712,
+      "formula_id": 248,
       "herb_name": "She Xiang",
       "english_name": "ชะมด",
       "role": "ราชา (King)",
-      "dosage": "38g (original batch)"
+      "dosage": "38g (original batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "เปิดช่องเปิดและฟื้นคืนสติได้อย่างทรงพลัง กลิ่นหอมเข้มข้นแทรกซึมผ่านสิ่งอุดตันที่เกิดจากความร้อนที่ขัดขวางช่องหัวใจ ช่วยฟื้นคืนความตระหนักรู้ในผู้ป่วยที่มีอาการเพ้อหรือโคม่า"
     },
     {
+      "id": 1713,
+      "formula_id": 248,
       "herb_name": "Shi Gao",
       "english_name": "ยิปซั่ม",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1500g (original batch)"
+      "dosage": "1500g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อนอันลุกโชนจากระดับ Qi ระบายไฟ และสร้างของเหลว ใช้ในปริมาณมาก ช่วยลดไข้สูงได้อย่างมีประสิทธิภาพ และบรรเทาอาการกระหายน้ำและกระสับกระส่าย"
     },
     {
+      "id": 1714,
+      "formula_id": 248,
       "herb_name": "Han Shui Shi",
       "english_name": "แคลไซต์ (หรือยิปซั่มแดง)",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1500g (original batch)"
+      "dosage": "1500g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, กระเพาะอาหาร, ไต",
+      "role_description": "ดับความร้อนและดับไฟ ทำงานประสานกับ Shi Gao และ Hua Shi เพื่อสร้างสารขจัดความร้อนจากแร่ธาตุสามชนิดที่ทรงพลังซึ่งช่วยดับไฟที่ลุกโชนได้อย่างมีประสิทธิภาพ"
     },
     {
+      "id": 1715,
+      "formula_id": 248,
       "herb_name": "Hua Shi",
       "english_name": "แป้ง",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1500g (original batch)"
+      "dosage": "1500g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "กระเพาะอาหาร, กระเพาะปัสสาวะ",
+      "role_description": "ขับความร้อน ขับปัสสาวะ และช่วยถ่ายเทความร้อนลงและระบายออกทางปัสสาวะ นี่เป็นช่องทางให้ความร้อนภายในที่รุนแรงออกจากร่างกาย"
     },
     {
+      "id": 1716,
+      "formula_id": 248,
       "herb_name": "Ci Shi",
       "english_name": "แมกนีไทต์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1500g (original batch)"
+      "dosage": "1500g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ตับ, ไต",
+      "role_description": "มีลักษณะหนักหน่วง ช่วยให้จิตใจสงบ ยึดจิตใจที่ร้อนจัดจนปั่นป่วน ยังช่วยปราบปรามตับหยางที่เพิ่มขึ้น เสริมฤทธิ์ต้านการชักของหลิงหยางเจียว"
     },
     {
+      "id": 1717,
+      "formula_id": 248,
       "herb_name": "Xuan Shen",
       "english_name": "รากมะเดื่อ",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "500g (original batch)"
+      "dosage": "500g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ไต",
+      "role_description": "ดับร้อน ขับสารพิษ บำรุงหยิน สิ่งสำคัญที่สุดคือช่วยปกป้องของเหลวในร่างกายไม่ให้ถูกความร้อนจัดเผาผลาญ ป้องกันความเสียหายต่อหยินและเลือดเพิ่มเติม"
     },
     {
+      "id": 1718,
+      "formula_id": 248,
       "herb_name": "Sheng Ma",
       "english_name": "เหง้า Cimicifuga",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "500g (original batch)"
+      "dosage": "500g (original batch)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ดับความร้อนและขับสารพิษโดยเฉพาะบริเวณร่างกายส่วนบน ช่วยระบายความร้อนออกไปด้านนอกและด้านบนและสนับสนุนการทำงานของสูตรล้างสารพิษ"
     },
     {
+      "id": 1719,
+      "formula_id": 248,
       "herb_name": "Mang Xiao",
       "english_name": "มิราบิไลท์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "5000g (original batch)"
+      "dosage": "5000g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ดับร้อน ลดความกระด้าง และขับล้างลำไส้ ใช้ในปริมาณมากที่สุดในสูตร ทำหน้าที่ 'ดึงฟืนออกจากใต้หม้อ' โดยระบายความร้อนที่สะสมลงสู่ลำไส้"
     },
     {
+      "id": 1720,
+      "formula_id": 248,
       "herb_name": "Xiao Shi",
       "english_name": "ดินประสิว",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "930g (original batch)"
+      "dosage": "930g (original batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ม้าม, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อนและกระจายการสะสม ทำงานร่วมกับ Mang Xiao เพื่อระบายความร้อนลงอย่างมีประสิทธิภาพ เพื่อเป็นทางออกจากไฟที่ทำให้เกิดโรคซึ่งติดอยู่ภายใน"
     },
     {
+      "id": 1721,
+      "formula_id": 248,
       "herb_name": "Mu Xiang",
       "english_name": "รากคอสตัส",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "500g (original batch)"
+      "dosage": "500g (original batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่, ซานเจียว (ซานเจียว/Triple Burner), ถุงน้ำดี",
+      "role_description": "เคลื่อนย้าย Qi และเปิดเส้นทางที่ถูกกีดขวาง คุณภาพอะโรมาติกช่วยให้ She Xiang ทะลุผ่านความร้อนที่ปิดกั้นช่องจมูกได้ ทำให้มั่นใจได้ว่าสารทำความเย็นของสูตรจะเข้าถึงอวัยวะที่ได้รับผลกระทบได้"
     },
     {
+      "id": 1722,
+      "formula_id": 248,
       "herb_name": "Chen Xiang",
       "english_name": "ไม้กฤษณา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "500g (original batch)"
+      "dosage": "500g (original batch)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ไต",
+      "role_description": "ส่งเสริมการเคลื่อนที่ของ Qi ลงและช่วยควบคุมการกระทำของสูตรให้ลดลง กลิ่นหอมอันอบอุ่นช่วยนำพาสารทำความเย็นไปทั่วร่างกายได้อย่างมีประสิทธิภาพมากขึ้น"
     },
     {
+      "id": 1723,
+      "formula_id": 248,
       "herb_name": "Ding Xiang",
       "english_name": "กานพลู",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "30g (original batch)"
+      "dosage": "30g (original batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด, ไต",
+      "role_description": "ความอบอุ่นและกลิ่นหอม ช่วยให้สูตรแทรกซึมและป้องกันไม่ให้แร่ธาตุเย็นปริมาณมากขัดขวางการเคลื่อนไหวของ Qi ปริมาณเล็กน้อยช่วยให้มั่นใจได้ว่าจะช่วยได้โดยไม่ต้องขัดขวางกลยุทธ์การทำความเย็น"
     },
     {
+      "id": 1724,
+      "formula_id": 248,
       "herb_name": "Zhu Sha",
       "english_name": "ชาด",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "90g (original batch)"
+      "dosage": "90g (original batch)",
+      "temperature": "เย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ",
+      "role_description": "แร่ธาตุหนักที่ทำให้หัวใจสงบ ทำให้จิตใจสงบ และเคลียร์ไฟหัวใจ น้ำหนักของมันยึดเหนี่ยวจิตใจที่กระสับกระส่ายและกระสับกระส่าย เสริมการกระทำเปิดปากของ She Xiang"
     },
     {
+      "id": 1725,
+      "formula_id": 248,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "240g (original batch)"
+      "dosage": "240g (original batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ประสานสารสมุนไพรที่แข็งแกร่งหลายชนิดในสูตรที่ซับซ้อนนี้ ลดส่วนประกอบของแร่ธาตุที่รุนแรง ช่วยล้างความร้อน และกำจัดสารพิษ ปกป้องกระเพาะอาหารจากความเสียหายจากแร่ธาตุที่เย็นและหนัก"
     }
   ],
   "research": [],

@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid spicy, greasy, and fried foods, which generate internal Heat and Dampness and may worsen the underlying condition. Reduce consumption of alcohol and coffee, as both can agitate Blood Heat. Cold and raw foods should also be limited, as they can impair Spleen function and hinder the formula's ability to regulate Blood effectively.\nFavor lightly cooked vegetables, whole grains, and foods that gently support Blood circulation without generating excess Heat, such as small amounts of hawthorn berry, celery, and dark leafy greens. Adequate hydration with warm or room-temperature water is recommended.",
   "ingredients": [
     {
+      "id": 480,
+      "formula_id": 71,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat from the Blood level, cools the Blood, and activates Blood circulation to dispel stasis. As King herb it directly addresses the core pathomechanism of Heat accumulating in the Blood layer of the uterus."
     },
     {
+      "id": 481,
+      "formula_id": 71,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat, cools the Blood, and nourishes Yin. Works alongside Mu Dan Pi to clear Heat from the Blood level while protecting Yin fluids from being consumed by Heat."
     },
     {
+      "id": 482,
+      "formula_id": 71,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness, particularly in the Lower Burner. Powerfully drains excess Fire-Heat that has accumulated alongside Blood stasis, reinforcing the Heat-clearing action of the King herbs from a different angle."
     },
     {
+      "id": 483,
+      "formula_id": 71,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and harmonizes the Blood while also gently activating Blood circulation. Prevents the cold, bitter Heat-clearing herbs from damaging the Blood and ensures that new Blood is generated as stasis is resolved."
     },
     {
+      "id": 484,
+      "formula_id": 71,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood, softens the Liver, and alleviates pain. Works with Dang Gui to nourish Blood while its sour-astringent quality helps contain Blood within the vessels."
     },
     {
+      "id": 485,
+      "formula_id": 71,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes the movement of Qi within the Blood. As the key 'Qi-within-Blood' herb, it ensures that Blood circulates freely and does not stagnate, amplifying the stasis-resolving effect of the formula."
     },
     {
+      "id": 486,
+      "formula_id": 71,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks up Blood stasis and promotes Blood circulation. Directly targets established Blood stasis in the lower abdomen, working with Hong Hua to form the classical Blood-moving pair."
     },
     {
+      "id": 487,
+      "formula_id": 71,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Invigorates Blood, dispels stasis, and unblocks the channels. Pairs with Tao Ren to provide powerful stasis-dispelling action directed at menstrual Blood stagnation."
     },
     {
+      "id": 488,
+      "formula_id": 71,
       "herb_name": "E Zhu",
       "english_name": "Zedoary rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Breaks Blood stasis and promotes the movement of Qi. Particularly effective for stubborn, fixed abdominal masses or severe menstrual clotting where Blood stasis has become entrenched."
     },
     {
+      "id": 489,
+      "formula_id": 71,
       "herb_name": "Yan Hu Suo",
       "english_name": "Corydalis rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Moves both Qi and Blood and is one of Chinese medicine's most important pain-relieving herbs. Directly addresses the menstrual pain that is the primary symptom this formula targets."
     },
     {
+      "id": 490,
+      "formula_id": 71,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Moves Liver Qi and alleviates pain, particularly in gynaecological conditions. Known as the 'commander of Qi within Blood-level disorders,' it directs the formula's action to the Liver channel and uterus, and ensures smooth Qi flow so that Blood can circulate freely."
     }
   ],
   "research": [],

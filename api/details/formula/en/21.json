@@ -24,22 +24,40 @@
   "dietary_advice": "While taking Bi Yu San, avoid greasy, fried, and heavily spiced foods, as these generate internal Heat and Dampness that work against the formula's purpose. Cold and raw foods should also be limited despite the formula treating a Heat condition, because excessive cold food can further damage Spleen function that is already burdened by Dampness. Favour light, easily digestible foods such as mung bean soup, watermelon, cucumber, winter melon, and plain rice porridge, which naturally support the clearing of Summer-Heat. Avoid alcohol, which generates Damp-Heat. Stay well hydrated with room-temperature or slightly cool water.",
   "ingredients": [
     {
+      "id": 131,
+      "formula_id": 21,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "King",
-      "dosage": "18 - 30g"
+      "dosage": "18 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "The principal herb in the formula, Hua Shi clears Summer Heat and facilitates the downward drainage of Dampness through the urinary tract. Its cold, heavy, and slippery nature allows it to open the waterways and clear pathogenic Heat from all three Burners. It also relieves irritability and thirst caused by Summer Heat."
     },
     {
+      "id": 132,
+      "formula_id": 21,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Deputy",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Gan Cao harmonizes the Middle Burner and mildly clears Heat and resolves toxicity. Critically, it protects the Stomach and generates body fluids, preventing Hua Shi's strong draining action from injuring Qi or Yin. The 6:1 ratio of Hua Shi to Gan Cao ensures effective dampness drainage without depleting the body."
     },
     {
+      "id": 133,
+      "formula_id": 21,
       "herb_name": "Qing Dai",
       "english_name": "Indigo Naturalis",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs",
+      "role_description": "Qing Dai clears Heat from the Liver and cools the Blood. This is the key ingredient that distinguishes Bi Yu San from its parent formula Liu Yi San. By adding Qing Dai, the formula gains the ability to address Liver and Gallbladder Heat, treating symptoms such as red eyes, sore throat, mouth sores, and irritability that accompany Summer Heat with Liver-Gallbladder constraint."
     }
   ],
   "research": [],

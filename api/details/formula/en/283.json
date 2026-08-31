@@ -24,76 +24,148 @@
   "dietary_advice": "Avoid spicy, greasy, fried, and excessively heating foods (lamb, chili, alcohol, strong coffee) while taking this formula, as these may aggravate the internal Heat and Wind that the formula is working to clear. Favor cooling, easily digestible foods such as mung bean soup, cucumber, winter melon, celery, pear, and congee. Avoid excessive dairy and raw cold foods, as the Spleen needs support while the heavy minerals are being processed. The classical method specifies brewing with \"well-flower water\" (井花水, clean water drawn at dawn), reflecting the intent to use cool, fresh water to enhance the formula's Heat-clearing nature.",
   "ingredients": [
     {
+      "id": 2006,
+      "formula_id": 283,
       "herb_name": "Long Gu",
       "english_name": "Dragon Bone (fossilised mammal bone)",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Heavily sedates and anchors rising Yang, calms the spirit, and settles internal Wind. Its heavy, descending nature directly counteracts the upward surging of Wind and Fire that drives seizures and convulsions."
     },
     {
+      "id": 2007,
+      "formula_id": 283,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms and opens the Yang of the Heart, facilitates the communication between Heart and Kidney. Together with Gan Cao, Long Gu, and Mu Li, it stabilizes the Heart-Kidney axis as the foundational strategy of this formula."
     },
     {
+      "id": 2008,
+      "formula_id": 283,
       "herb_name": "Mu Li Ke",
       "english_name": "Oyster shell",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Anchors the spirit and subdues hyperactive Yang. Works with Long Gu as a classical pairing to calm the mind and restrain upward-floating Yang, addressing the root agitation of Wind."
     },
     {
+      "id": 2009,
+      "formula_id": 283,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges Heat downward through the bowels, drains accumulated fire and damp-heat, and activates Blood to resolve stasis. Powerfully directs the pathogenic Wind-Fire-Phlegm complex downward and out, cutting off the source of phlegm-fire obstruction."
     },
     {
+      "id": 2010,
+      "formula_id": 283,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears intense Heat from the Lung and Stomach, drains Fire. In this formula it specifically clears Metal (Lung) to restrain overactive Wood (Liver), helping to break the cycle of Liver Fire generating Wind."
     },
     {
+      "id": 2011,
+      "formula_id": 283,
       "herb_name": "Han Shui Shi",
       "english_name": "Calcite (or Red Gypsum)",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Stomach, Kidneys",
+      "role_description": "Strongly clears Heat and drains Fire, specifically nourishing Kidney Water to counterbalance the raging Fire. Its cold, heavy nature supports the downward direction of the formula."
     },
     {
+      "id": 2012,
+      "formula_id": 283,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Clears Heat, promotes urination, and drains Dampness. Helps clear damp-heat through the urine while its cold mineral nature contributes to the overall heat-clearing strategy."
     },
     {
+      "id": 2013,
+      "formula_id": 283,
       "herb_name": "Chi Shi Zhi",
       "english_name": "Halloysite clay",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Large Intestine, Stomach",
+      "role_description": "Astringes and stabilizes, strengthens the Spleen to resolve Dampness. Helps protect the Middle Burner from the Liver Wood's overacting on Spleen Earth, preventing further damp-phlegm accumulation."
     },
     {
+      "id": 2014,
+      "formula_id": 283,
       "herb_name": "Bai Shi Zhi",
       "english_name": "White Kaolinite",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Similar to Chi Shi Zhi, it dries Dampness and strengthens the Spleen Earth, reinforcing the stabilizing and astringing actions to protect the Middle Burner from being overwhelmed."
     },
     {
+      "id": 2015,
+      "formula_id": 283,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the Spleen and dries Dampness. Serves as a crucial counterbalancing (反佐, fan zuo) agent, preventing the many cold mineral substances from injuring the Spleen and Stomach. Its warming action also ensures the cold medicines are accepted by the body without rejection."
     },
     {
+      "id": 2016,
+      "formula_id": 283,
       "herb_name": "Zi Shi Ying",
       "english_name": "Fluorite",
       "role": "Envoy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Lungs, Kidneys",
+      "role_description": "Warm in nature yet heavy and settling, it calms the Heart spirit and anchors deficient Heart Qi. Specifically targets the Heart to replenish the depleted spirit, complementing the Kidney-focused cooling minerals."
     },
     {
+      "id": 2017,
+      "formula_id": 283,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in this complex formula, moderates the harsh properties of the minerals and Da Huang, relieves spasms and urgency, and supports the Middle Burner alongside Gui Zhi to stabilize the Heart-Kidney axis."
     }
   ],
   "research": [],

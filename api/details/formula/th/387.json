@@ -25,148 +25,292 @@
   "dietary_advice": "หลีกเลี่ยงอาหารเย็นและอาหารดิบ (สลัด น้ำใส่น้ำแข็ง เครื่องดื่มเย็นๆ ผลไม้ดิบ) และอาหารมันๆ หรือหนักๆ ในขณะที่รับประทานสูตรนี้ เนื่องจากอาหารเหล่านี้อาจทำให้ระบบย่อยอาหารของม้ามบกพร่อง และขัดขวางการดูดซึมและการไหลเวียนของส่วนผสมสมุนไพร ควรรับประทานอาหารที่อุ่นและย่อยง่าย โจ๊กข้าวอุ่นและผักปรุงสุกเล็กน้อยช่วยให้ฟื้นตัวได้ สูตรนี้มักใช้กับน้ำอุ่นหรือไวน์ข้าวสีเหลืองอุ่น (黄酒) ซึ่งช่วยเพิ่มฤทธิ์ในการทำให้เลือดชุ่มชื่นของสมุนไพรและช่วยนำทางสมุนไพรผ่านช่องทางต่างๆ หลีกเลี่ยงแอลกอฮอล์ในปริมาณที่มากเกินไปแม้จะแนะนำไวน์แบบดั้งเดิมก็ตาม หลีกเลี่ยงอาหารรสเผ็ดหรือระคายเคืองมากเกินไปซึ่งอาจทำให้อาการอักเสบในบริเวณที่บาดเจ็บรุนแรงขึ้น",
   "ingredients": [
     {
+      "id": 2914,
+      "formula_id": 387,
       "herb_name": "Xu Duan",
       "english_name": "รากทีเซล",
       "role": "ราชา (King)",
-      "dosage": "320g (in pill batch)"
+      "dosage": "320g (in pill batch)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "Xu Duan (รากทีเซล) มีปริมาณมากที่สุดในสูตร บำรุงตับและไต เสริมสร้างเส้นเอ็นและกระดูกให้แข็งแรง และส่งเสริมการซ่อมแซมกระดูกที่ร้าวและเส้นเอ็นที่ฉีกขาด ทำหน้าที่เป็นตัวซ่อมแซมโครงสร้างหลักในสูตร"
     },
     {
+      "id": 2915,
+      "formula_id": 387,
       "herb_name": "San Qi",
       "english_name": "รากโนโตโสม",
       "role": "ราชา (King)",
-      "dosage": "64g (in pill batch)"
+      "dosage": "64g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, กระเพาะอาหาร",
+      "role_description": "ซานฉีเป็นหนึ่งในสมุนไพรรักษาบาดแผลที่สำคัญที่สุดในการแพทย์แผนจีน ช่วยหยุดเลือดและกระจายภาวะหยุดนิ่งของเลือดไปพร้อมๆ กัน โดยไม่กักเลือดเก่าไว้ภายในร่างกาย ช่วยลดอาการบวมและปวดบริเวณที่เกิดการบาดเจ็บได้อย่างมีประสิทธิภาพ"
     },
     {
+      "id": 2916,
+      "formula_id": 387,
       "herb_name": "Chi Shao",
       "english_name": "รากดอกโบตั๋นสีแดง",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "64g (in pill batch)"
+      "dosage": "64g (in pill batch)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ตับ",
+      "role_description": "ขจัดความร้อนออกจากระดับเลือดและกระตุ้นการไหลเวียนโลหิตเพื่อขจัดภาวะชะงักงัน ช่วยลดความร้อนจากการอักเสบที่สะสมบริเวณที่ได้รับบาดเจ็บ และทำงานร่วมกับ San Qi เพื่อสลายรอยช้ำ"
     },
     {
+      "id": 2917,
+      "formula_id": 387,
       "herb_name": "Xue Jie",
       "english_name": "เรซิ่นเลือดมังกร",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ตับ",
+      "role_description": "สารเรซินที่ช่วยเติมพลังให้เลือด ขจัดภาวะหยุดนิ่ง หยุดความเจ็บปวด และส่งเสริมการสร้างเนื้อเยื่อใหม่ เป็นยารักษาอาการบาดเจ็บแบบคลาสสิกที่เสริม San Qi ในการจัดการกับภาวะหยุดนิ่งและความเจ็บปวดของเลือด"
     },
     {
+      "id": 2918,
+      "formula_id": 387,
       "herb_name": "Hong Hua",
       "english_name": "ดอกคำฝอย",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ตับ",
+      "role_description": "กระตุ้นการไหลเวียนโลหิตและกระจายภาวะชะงักงัน มีประสิทธิภาพโดยเฉพาะอย่างยิ่งในการเคลื่อนย้ายเลือดนิ่งในช่องและหลักประกัน ช่วยล้างรอยช้ำและการเปลี่ยนสีม่วงจากการบาดเจ็บ"
     },
     {
+      "id": 2919,
+      "formula_id": 387,
       "herb_name": "Ru Xiang",
       "english_name": "เรซินกำยาน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "เติมพลังให้เลือด ส่งเสริมการเคลื่อนไหวของชี่ ผ่อนคลายเส้นเอ็น และบรรเทาอาการปวด มีประสิทธิภาพโดยเฉพาะอย่างยิ่งสำหรับความเจ็บปวดและบวมจากการบาดเจ็บที่บาดแผล ทำงานร่วมกับหมอเหยาเป็นคู่คลาสสิกที่ช่วยบรรเทาความเจ็บปวด"
     },
     {
+      "id": 2920,
+      "formula_id": 387,
       "herb_name": "Mo Yao",
       "english_name": "มดยอบเรซิน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "กระจายภาวะหยุดนิ่งของเลือด ลดอาการบวม และสร้างเนื้อเยื่อใหม่ เมื่อจับคู่กับ Ru Xiang เรซินทั้งสองจะก่อให้เกิดการผสมผสานระหว่างการรักษาบาดแผลและการรักษาที่ได้รับการยอมรับมากที่สุด โดยสามารถจัดการกับทั้งความเมื่อยล้าของ Qi และความเจ็บปวดจากการชะงักงันของเลือด"
     },
     {
+      "id": 2921,
+      "formula_id": 387,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "บำรุงและเติมพลังให้เลือดไปพร้อมๆ กัน ช่วยให้มั่นใจได้ว่าแม้สูตรจะเคลื่อนเลือดที่นิ่งอย่างแรง แต่ก็มีการสร้างเลือดใหม่เพื่อรองรับการรักษา สมุนไพรสำคัญในการป้องกันการขาดเลือดระหว่างการฟื้นตัว"
     },
     {
+      "id": 2922,
+      "formula_id": 387,
       "herb_name": "Su Mu",
       "english_name": "ไม้ฝาง",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "เติมพลังให้เลือดและกระจายภาวะชะงักงัน มีประสิทธิภาพโดยเฉพาะอย่างยิ่งสำหรับการบาดเจ็บจากบาดแผลที่มีอาการบวมและปวด เสริมฤทธิ์การเคลื่อนตัวของเลือดตามสูตร"
     },
     {
+      "id": 2923,
+      "formula_id": 387,
       "herb_name": "San Leng",
       "english_name": "เหง้าเบอร์รีด",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, ม้าม",
+      "role_description": "เครื่องทำลายภาวะเลือดหยุดนิ่งอันทรงพลังที่กระจายมวลที่สะสมและเลือดที่เกาะเป็นก้อนจากการบาดเจ็บอย่างแรง การประมวลผลน้ำส้มสายชูช่วยเพิ่มการหยุดนิ่งและบรรเทาอาการปวด"
     },
     {
+      "id": 2924,
+      "formula_id": 387,
       "herb_name": "Bai Shao",
       "english_name": "รากดอกโบตั๋นสีขาว",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ตับ, ม้าม",
+      "role_description": "บำรุงเลือดและทำให้ตับอ่อนลงเพื่อผ่อนคลายเส้นเอ็นที่กระตุก ให้การปกป้องและบำรุงสมดุลกับสมุนไพรที่ช่วยในการไหลเวียนของเลือดหลายชนิดในสูตร ป้องกันการบริโภคเลือดมากเกินไป"
     },
     {
+      "id": 2925,
+      "formula_id": 387,
       "herb_name": "Tao Ren",
       "english_name": "เมล็ดพีช",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ, ลำไส้ใหญ่",
+      "role_description": "เติมพลังให้เลือดและกระจายภาวะชะงักงัน มีประสิทธิภาพโดยเฉพาะอย่างยิ่งสำหรับความเจ็บปวดคงที่และแทงซึ่งเกิดจากภาวะเลือดหยุดนิ่ง และช่วยสลายลิ่มเลือดจากการบาดเจ็บ"
     },
     {
+      "id": 2926,
+      "formula_id": 387,
       "herb_name": "Liu Ji Nu",
       "english_name": "สมุนไพรบอระเพ็ดที่หลากหลาย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ม้าม",
+      "role_description": "กระจายเลือดชะงักงันและบรรเทาอาการปวด สมุนไพรที่มีความสัมพันธ์ใกล้ชิดกับอาการบาดเจ็บที่กระทบกระเทือนจิตใจ มีประโยชน์อย่างยิ่งสำหรับอาการช้ำและเลือดออกภายในจากการหกล้มและการถูกกระแทก"
     },
     {
+      "id": 2927,
+      "formula_id": 387,
       "herb_name": "Gu Sui Bu",
       "english_name": "เหง้าดรายนาเรีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ตับ, ไต",
+      "role_description": "ชื่อของมันมีความหมายว่า 'ผู้รักษากระดูก' ช่วยบำรุงไตและเสริมสร้างกระดูก ส่งเสริมการรักษากระดูกหักและการบาดเจ็บของกระดูก ทำงานร่วมกับ Xu Duan เพื่อให้การสนับสนุนการซ่อมแซมโครงสร้าง"
     },
     {
+      "id": 2928,
+      "formula_id": 387,
       "herb_name": "Mu Dan Pi",
       "english_name": "เปลือกรากดอกโบตั๋นต้นไม้",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, ตับ, ไต",
+      "role_description": "ขจัดความร้อนออกจากเลือดและเติมพลังให้เลือดโดยไม่ทำให้แห้งจนเกินไป ช่วยล้างการอักเสบประเภทความร้อนบริเวณที่เกิดการบาดเจ็บ และส่งเสริมการแก้ปัญหาภาวะเลือดคั่งฝังลึก"
     },
     {
+      "id": 2929,
+      "formula_id": 387,
       "herb_name": "Fang Feng",
       "english_name": "รากไซเลอร์",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "กระเพาะปัสสาวะ, ตับ, ม้าม",
+      "role_description": "ขับลมและบรรเทาอาการปวด บรรเทาอาการกระตุก ช่วยจัดการกับความชื้นจากลมที่มักทำให้เกิดการบาดเจ็บที่บาดแผลและสนับสนุนการเคลื่อนไหวของ Qi ได้อย่างราบรื่นผ่านช่องทางที่ได้รับบาดเจ็บ"
     },
     {
+      "id": 2930,
+      "formula_id": 387,
       "herb_name": "Tian Gua Zi",
       "english_name": "เมล็ดชะมด",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "กระจายภาวะหยุดนิ่งของเลือดและส่งเสริมการไหลเวียนของเนื้อเยื่อและการรักษา ช่วยแก้ไขฝีภายในและหนองที่อาจเกิดขึ้นหลังจากการบาดเจ็บของเนื้อเยื่อส่วนลึก"
     },
     {
+      "id": 2931,
+      "formula_id": 387,
       "herb_name": "Zhi Shi",
       "english_name": "ผลส้มขมที่ยังไม่สุก",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "สลายความเมื่อยล้าของ Qi และลดการสะสม เนื่องจากความเมื่อยล้าของชี่และความชะงักงันของเลือดเกิดขึ้นพร้อมกันหลังจากได้รับบาดเจ็บ การเคลื่อนไหวชี่จึงช่วยให้สมุนไพรที่เติมพลังให้เลือดทำงานได้อย่างมีประสิทธิภาพมากขึ้น"
     },
     {
+      "id": 2932,
+      "formula_id": 387,
       "herb_name": "Mu Tong",
       "english_name": "ก้านอาเคเบีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ลำไส้เล็ก, กระเพาะปัสสาวะ",
+      "role_description": "ส่งเสริมการปัสสาวะและปลดล็อคช่อง เป็นช่องทางระบายน้ำสำหรับของเสียจากการเผาผลาญและของเหลวอักเสบเพื่อขับออกจากร่างกายหลังการบาดเจ็บ"
     },
     {
+      "id": 2933,
+      "formula_id": 387,
       "herb_name": "Jiang Huang",
       "english_name": "เหง้าขมิ้น",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "24g (in pill batch)"
+      "dosage": "24g (in pill batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, ตับ",
+      "role_description": "เติมพลังให้เลือด ส่งเสริมการไหลเวียนของชี่ และบรรเทาอาการปวด มีความสัมพันธ์กันเป็นพิเศษกับแขนขาและไหล่ ช่วยควบคุมการไหลเวียนของเลือดของสูตรไปยังแขนขา"
     },
     {
+      "id": 2934,
+      "formula_id": 387,
       "herb_name": "Zi Ran Tong",
       "english_name": "หนาแน่น",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ",
+      "role_description": "สารแร่ธาตุที่ช่วยกระจายภาวะชะงักงันของเลือดได้อย่างมีประสิทธิภาพและส่งเสริมการรักษากระดูกและเส้นเอ็น เดิมถือว่าจำเป็นสำหรับกระดูกหักและการบาดเจ็บของกระดูก"
     },
     {
+      "id": 2935,
+      "formula_id": 387,
       "herb_name": "Tu Bie Chong",
       "english_name": "ด้วงดิน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ",
+      "role_description": "เครื่องทำลายภาวะเลือดหยุดนิ่งอันทรงพลังจากยาประเภทแมลง สลายภาวะเลือดหยุดนิ่งที่ตายตัว เชื่อมต่อกระดูกที่ร้าวอีกครั้ง และซ่อมแซมเส้นเอ็นที่ฉีกขาด มีคุณค่าอย่างยิ่งสำหรับการบาดเจ็บที่กระทบกระเทือนจิตใจอย่างรุนแรง"
     },
     {
+      "id": 2936,
+      "formula_id": 387,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "48g (in pill batch)"
+      "dosage": "48g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ประสานสมุนไพรอื่นๆ ทั้งหมดในสูตร ลดคุณสมบัติที่รุนแรงของสมุนไพร และบรรเทาอาการปวด ยังช่วยปกป้องกระเพาะอาหารจากการระคายเคืองจากสารที่ทำให้เลือดฉุนหลายชนิด"
     },
     {
+      "id": 2937,
+      "formula_id": 387,
       "herb_name": "Jie Geng",
       "english_name": "รากดอกบอลลูน",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "32g (in pill batch)"
+      "dosage": "32g (in pill batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด",
+      "role_description": "ทำหน้าที่เป็นสมุนไพรนำทางที่ควบคุมการทำงานของสมุนไพรอื่น ๆ ขึ้นไปที่หน้าอกและร่างกายส่วนบน ยังเปิดพลังชี่ปอดเพื่ออำนวยความสะดวกในการไหลเวียนของพลังชี่ทั่วร่างกาย"
     }
   ],
   "research": [],

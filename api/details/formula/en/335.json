@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, favour warm, nourishing, easily digestible foods such as bone broth, congee, cooked root vegetables, lamb, and foods that support the Spleen and Kidneys (black sesame, walnuts, goji berries, kidney beans). Avoid cold and raw foods (salads, iced drinks, raw sushi, ice cream) as these can impair Spleen function and counteract the formula's warming strategy. Avoid greasy, deep-fried, or excessively rich foods that may generate Dampness and obstruct the already cloying nature of Shu Di Huang. Limit spicy-hot foods that could overstimulate the already warming herbs. Reduce caffeine and alcohol, which can disrupt hormonal balance and deplete Kidney Essence. The classical instruction specifies taking the pills on an empty stomach with warm water or mild wine (白汤 or 酒), suggesting the formula is best absorbed without competing food in the stomach.",
   "ingredients": [
     {
+      "id": 2399,
+      "formula_id": 335,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Blood and Kidney Yin, fills the Essence, and serves as the primary Blood tonic in the formula. As the highest-dose herb, it anchors the formula's ability to replenish the material foundation needed for conception."
     },
     {
+      "id": 2400,
+      "formula_id": 335,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates Blood, regulates menstruation, and works alongside Shu Di Huang to address the Blood deficiency at the core of the pattern. Its mild Blood-moving quality prevents stagnation from the heavy tonification in the formula."
     },
     {
+      "id": 2401,
+      "formula_id": 335,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "Tonifies Kidney Yang and Yin, secures Essence, and benefits the Liver. As the highest-dose herb alongside Dang Gui and Shu Di Huang, it directly addresses Kidney deficiency and strengthens the reproductive axis (Chong and Ren vessels)."
     },
     {
+      "id": 2402,
+      "formula_id": 335,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Qi, strengthens the Spleen and Stomach to generate Qi and Blood from food. Serves as the core Qi tonic to support the Blood-nourishing herbs."
     },
     {
+      "id": 2403,
+      "formula_id": 335,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, supporting the digestive transformation needed to produce Qi and Blood. Complements Ren Shen in building the postnatal foundation."
     },
     {
+      "id": 2404,
+      "formula_id": 335,
       "herb_name": "Lu Jiao Shuang (Degelatinated Deer Antler)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Warms Kidney Yang, tonifies Essence and Blood, and strengthens the Governing and Penetrating vessels. Supports the Kidney-warming function alongside Tu Si Zi and Du Zhong."
     },
     {
+      "id": 2405,
+      "formula_id": 335,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens the sinews and bones, and stabilizes pregnancy. Reinforces the Kidney-tonifying action and addresses lower back soreness."
     },
     {
+      "id": 2406,
+      "formula_id": 335,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness, supporting digestion and preventing the heavy tonifying herbs from causing stagnation or dampness accumulation."
     },
     {
+      "id": 2407,
+      "formula_id": 335,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, softens the Liver, and regulates menstruation. Pairs with Dang Gui to tonify and harmonize the Blood, and moderates any drying effects."
     },
     {
+      "id": 2408,
+      "formula_id": 335,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and moves Qi, preventing stagnation from the many heavy tonifying herbs. Known as the 'Qi herb within the Blood division,' it ensures smooth flow of the newly generated Blood."
     },
     {
+      "id": 2409,
+      "formula_id": 335,
       "herb_name": "Hua Jiao",
       "english_name": "Sichuan Peppercorn",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Warms the middle and lower body, dispels Cold from the uterus, and helps restore warmth to the reproductive organs. Specifically addresses uterine Cold that contributes to infertility."
     },
     {
+      "id": 2410,
+      "formula_id": 335,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi, harmonizes the actions of all herbs in the formula, and moderates the warm and moving properties of the other ingredients."
     }
   ],
   "research": [

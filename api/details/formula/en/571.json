@@ -24,64 +24,124 @@
   "dietary_advice": "The classical text specifically prohibits alcohol (酒), wheat-flour foods (面), raw and cold foods (生冷), fish and seafood (鱼腥), and greasy or oily foods (油腻) while taking this formula.\nThese restrictions protect the weakened Spleen and digestive system. Cold and raw foods (salads, chilled drinks, ice cream, raw fruits) further damage Spleen Yang. Greasy, rich, and fried foods generate dampness and are difficult to digest. Fish and seafood are considered \"fishy\" (腥) and may irritate the intestines. Alcohol generates damp-heat.\nFoods that support the formula's action include warm, easily digestible cooked grains (rice porridge or congee is ideal), well-cooked root vegetables, ginger tea, and small amounts of lean meat. Meals should be warm, light, and taken in smaller portions.",
   "ingredients": [
     {
+      "id": 4379,
+      "formula_id": 571,
       "herb_name": "Ying Su Ke",
       "english_name": "Opium poppy husk",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Large Intestine, Kidneys",
+      "role_description": "The heavily dosed King herb, Ying Su Ke powerfully astringes the intestines and stops diarrhea. In cases of chronic, unrelenting diarrhea or dysentery where the stool is slipping out uncontrollably, this herb acts to 'plug the leak' as the most urgent priority."
     },
     {
+      "id": 4380,
+      "formula_id": 571,
       "herb_name": "Rou Dou Kou",
       "english_name": "Nutmeg",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Warms the middle burner and astringes the intestines. Works alongside the King herb to reinforce its intestine-binding effect while also warming the Spleen to address the underlying cold that drives the diarrhea."
     },
     {
+      "id": 4381,
+      "formula_id": 571,
       "herb_name": "He Zi",
       "english_name": "Chebulic myrobalan fruit",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Bitter, sour, and astringent in nature, He Zi specializes in binding the intestines and stopping diarrhea. It pairs with the King herb and Rou Dou Kou to form a powerful trio of astringent substances that halt the loss of fluids and nutrients through the bowel."
     },
     {
+      "id": 4382,
+      "formula_id": 571,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the Kidney and Spleen Yang, dispersing deep-seated internal cold. While the astringent herbs address the symptom of leaking stool, Rou Gui addresses the root cause by warming the organs responsible for digestion and fluid metabolism."
     },
     {
+      "id": 4383,
+      "formula_id": 571,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies the Qi and strengthens the Spleen. After prolonged diarrhea, the body's Qi is severely depleted. Ren Shen rebuilds this foundational vitality so the Spleen can resume its role of transforming food and holding things in place."
     },
     {
+      "id": 4384,
+      "formula_id": 571,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness. Works with Ren Shen to rebuild digestive function, specifically helping the Spleen regain its ability to transform and transport fluids rather than letting them pass through as watery stool."
     },
     {
+      "id": 4385,
+      "formula_id": 571,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and harmonizes the Blood. Chronic diarrhea and dysentery inevitably damage the Blood. Dang Gui replenishes what has been lost and, together with Bai Shao, ensures the formula addresses Blood deficiency alongside Qi deficiency."
     },
     {
+      "id": 4386,
+      "formula_id": 571,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, softens the Liver, and relieves abdominal cramping and pain. Its sour flavour also provides a gentle astringent effect. Crucially, it treats the abdominal pain and tenesmus that accompany chronic dysentery."
     },
     {
+      "id": 4387,
+      "formula_id": 571,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Regulates Qi and arouses the Spleen. This is a critical addition because all the astringent and tonifying herbs can easily cause Qi stagnation. Mu Xiang keeps Qi moving so the formula binds without clogging, and also helps relieve tenesmus and abdominal distension."
     },
     {
+      "id": 4388,
+      "formula_id": 571,
       "herb_name": "Zhi Gan Cao (Honey-Roasted Licorice Root)",
       "english_name": "",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Harmonizes all the other herbs in the formula. Working with Ren Shen and Bai Zhu, it tonifies Qi and strengthens the middle. Paired with Bai Shao, it relaxes spasms and eases abdominal pain. It bridges the tonifying and astringent actions into a unified whole."
     }
   ],
   "research": [

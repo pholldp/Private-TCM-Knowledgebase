@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid spicy, fried, greasy, and heavily seasoned foods, which can generate Heat and counteract the formula's cooling effects. Alcohol should also be avoided as it generates Damp-Heat and damages Yin. Favor cooling, Yin-nourishing foods such as pears, lotus root, lily bulb, mung beans, cucumber, and white fungus (tremella). Light, easily digestible meals are recommended to protect the Spleen and Stomach from the formula's bitter-cold herbs. Avoid excessive consumption of cold or raw foods if there are any signs of digestive weakness, as the formula already contains substantial cold-natured herbs.",
   "ingredients": [
     {
+      "id": 2071,
+      "formula_id": 292,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates Blood, enriches the body's fluids. When Blood is abundant, it can restrain hyperactive Fire. Also moistens the intestines to address the dry stools that accompany this pattern."
     },
     {
+      "id": 2072,
+      "formula_id": 292,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Enters the Liver and Kidney channels to nourish Yin and clear deficiency-Heat. Its cool nature directly addresses the internal fire that drives the night sweats, while replenishing the depleted Yin fluids."
     },
     {
+      "id": 2073,
+      "formula_id": 292,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Enriches Kidney Yin and nourishes Blood and Essence. Together with Sheng Di Huang and Dang Gui, it restores the Yin-Blood foundation so that Water can control Fire."
     },
     {
+      "id": 2074,
+      "formula_id": 292,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Drains Fire from the Heart and Middle Burner. Its bitter, cold nature directly clears the heat that disturbs the spirit, causing restlessness and driving fluids outward as sweat."
     },
     {
+      "id": 2075,
+      "formula_id": 292,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat from the Upper Burner (Lung and chest). Works alongside Huang Lian and Huang Bai to drain fire comprehensively from all three Burners, eliminating the source of damage to Yin."
     },
     {
+      "id": 2076,
+      "formula_id": 292,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Fire from the Lower Burner and strengthens Kidney Yin by its action of clearing deficiency-fire. Completes the three-Burner fire-clearing strategy alongside Huang Qin and Huang Lian."
     },
     {
+      "id": 2077,
+      "formula_id": 292,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Assistant",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Used at double the dose of other herbs. Tonifies Qi and secures the body's exterior to stop sweating directly. Excessive sweating depletes not only Yin but also the body's defensive Qi, so Huang Qi shores up the weakened surface defenses. Combined with Dang Gui and Shu Di Huang, it also supports the generation of Qi and Blood."
     }
   ],
   "research": [

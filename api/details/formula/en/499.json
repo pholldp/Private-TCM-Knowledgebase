@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid spicy, greasy, and fried foods, which can generate further Heat and Dampness in the intestines. Alcohol is strictly prohibited, as it produces Damp-Heat and aggravates dysentery. Cold and raw foods (such as salads, ice-cold drinks, and raw seafood) should also be avoided, as they can injure the already weakened Spleen and Stomach. Favor easily digestible, bland, and warming foods: plain rice congee (porridge), steamed vegetables, and light soups. Small, frequent meals are better than large ones. As the condition improves, foods that gently nourish Blood such as well-cooked dark leafy greens, red dates, and black sesame may be gradually introduced.",
   "ingredients": [
     {
+      "id": 3787,
+      "formula_id": 499,
       "herb_name": "Bai Tou Weng",
       "english_name": "Chinese Anemone Root",
       "role": "King",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "The chief herb, bitter and cold, enters the Stomach, Large Intestine, and Liver channels. Clears heat-toxin from the blood level and intestines, cools the blood, and stops dysentery. It directly addresses the core pathomechanism of toxic heat lodged in the intestines damaging the blood vessels."
     },
     {
+      "id": 3788,
+      "formula_id": 499,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Bitter and cold, powerfully clears heat and drains dampness from the Stomach and intestines. As a premier herb for treating dysentery, it reinforces the King herb's ability to clear heat-toxin while also drying dampness that contributes to the formation of pus in the stool."
     },
     {
+      "id": 3789,
+      "formula_id": 499,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Bitter and cold, specializes in clearing damp-heat from the lower burner, including the Large Intestine and Bladder. It assists both the King herb and Huang Lian in resolving intestinal heat-toxin, and helps quell ministerial fire that can aggravate bleeding in the lower body."
     },
     {
+      "id": 3790,
+      "formula_id": 499,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Sweet, neutral, enriches yin and nourishes blood. This is a key addition to the base Bai Tou Weng Tang, specifically addressing the blood deficiency and yin damage that results from prolonged dysentery or from the patient's pre-existing weakness (as in postpartum). It also helps stop bleeding by nourishing and stabilizing the blood."
     },
     {
+      "id": 3791,
+      "formula_id": 499,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet, neutral to cool, tonifies the middle burner Qi and harmonizes the formula. It moderates the intensely bitter and cold nature of the other herbs to protect the Stomach, while its sweet flavour helps generate fluids and supports the body's recuperation. As noted in classical commentary, Gan Cao's gentle sweetness 'clears the middle while tonifying it' without the cloying nature of stronger tonics."
     },
     {
+      "id": 3792,
+      "formula_id": 499,
       "herb_name": "Qin Pi",
       "english_name": "Ash bark",
       "role": "Envoy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Large Intestine",
+      "role_description": "Bitter, astringent, and cold, clears heat and dries dampness while its astringent quality helps bind the intestines and check the diarrhea. It directs the formula's action to the Large Intestine, complementing the heat-clearing herbs with a consolidating effect that helps stop the discharge without trapping pathogenic factors."
     }
   ],
   "research": [],

@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid spicy, hot foods (chili, pepper, ginger, lamb), fried foods, and alcohol, which can aggravate bleeding by moving Blood and generating Heat. Cold, raw foods and iced drinks should also be limited, as they can impair the Spleen's function of controlling Blood within the vessels.\nFavorable foods include those that gently nourish Blood and support the Spleen: red dates, black sesame, cooked dark leafy greens, lotus seed, Chinese yam, millet porridge, and lightly cooked lean proteins. Eating warm, easily digestible meals supports the formula's tonifying strategy.",
   "ingredients": [
     {
+      "id": 4459,
+      "formula_id": 586,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Powerfully tonifies Qi to help the Spleen govern Blood and stabilize the Chong vessel. Used in its raw (unprocessed) form to maximize its Qi-boosting and upward-lifting properties, directly addressing the root cause of bleeding from Qi deficiency."
     },
     {
+      "id": 4460,
+      "formula_id": 586,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and augments Qi to help contain Blood within the vessels. Stir-frying enhances its Spleen-strengthening action. Together with Huang Qi, it forms the core Qi-tonifying pair that restores the Spleen's ability to control Blood."
     },
     {
+      "id": 4461,
+      "formula_id": 586,
       "herb_name": "Sheng Di Huang (raw Rehmannia)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Nourishes Yin and Blood, cools the Blood, and replenishes the Chong and Ren vessels. Addresses the Yin and Blood deficiency that accompanies chronic bleeding, while its cooling nature helps prevent residual Heat from damaging the vessels."
     },
     {
+      "id": 4462,
+      "formula_id": 586,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and preserves Yin, astringes Yin to prevent further leakage, and softens the Liver to prevent Liver Qi from disrupting the Chong vessel. Supports Sheng Di in replenishing what has been lost through chronic bleeding."
     },
     {
+      "id": 4463,
+      "formula_id": 586,
       "herb_name": "Xu Duan",
       "english_name": "Teasel root",
       "role": "Deputy",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens the lower back, and stops uterine bleeding. Reinforces the Kidney's role in stabilizing the Chong and Ren vessels, complementing the Spleen-focused action of the King herbs."
     },
     {
+      "id": 4464,
+      "formula_id": 586,
       "herb_name": "Long Gu",
       "english_name": "Dragon Bone (fossilised mammal bone)",
       "role": "Assistant",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Settles and astringes to stabilize the Chong vessel and stop bleeding. Used raw (unprocessed) for its calming and settling properties, which suits the milder, chronic bleeding pattern this formula addresses."
     },
     {
+      "id": 4465,
+      "formula_id": 586,
       "herb_name": "Mu Li Ke",
       "english_name": "Oyster shell",
       "role": "Assistant",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Works alongside Long Gu to astringe and secure the lower body, preventing leakage from the Chong vessel. Its salty flavor draws the action downward toward the uterus and Chong vessel."
     },
     {
+      "id": 4466,
+      "formula_id": 586,
       "herb_name": "Hai Piao Shao",
       "english_name": "Cuttlefish bone",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Warm",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Kidneys, Liver",
+      "role_description": "Astringes to stop bleeding and secures the lower Burner. Zhang Xichun regarded the combination of Hai Piao Shao and Qian Cao as key drugs for treating uterine bleeding, referencing the classical Si Wu Zei Gu Yi Lu Ru Wan from the Nei Jing."
     },
     {
+      "id": 4467,
+      "formula_id": 586,
       "herb_name": "Qian Cao",
       "english_name": "Indian Madder root",
       "role": "Envoy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "Stops bleeding while also invigorating Blood to prevent stasis. This is a crucial balancing element: the formula uses many astringent and binding substances, and Qian Cao ensures that stopping the bleeding does not trap old Blood, which could worsen the condition."
     }
   ],
   "research": [],

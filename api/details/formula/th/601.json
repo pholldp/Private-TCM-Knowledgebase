@@ -25,34 +25,64 @@
   "dietary_advice": "หลีกเลี่ยงอาหารเย็น อาหารดิบ และมันเยิ้ม จำกัดอาหารที่ทำจากนม อาหารเข้มข้น และอาหารที่มีไขมันซึ่งทำให้เกิดเสมหะ แนะนำให้ทานอาหารมื้อเบา อุ่น และย่อยง่าย อาจเติมไวน์ข้าวอุ่นจำนวนเล็กน้อยระหว่างการต้ม เพื่อเพิ่มประสิทธิภาพในการอุ่นและคลายการปิดกั้นของสูตร",
   "ingredients": [
     {
+      "id": 4528,
+      "formula_id": 601,
       "herb_name": "Gua Lou",
       "english_name": "ผลไม้ไตรโคแซนทีส",
       "role": "ราชา (King)",
-      "dosage": "12 - 30g"
+      "dosage": "12 - 30g",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "เปิดหน้าอก ละลายเสมหะ และขับเสมหะขุ่นออกจากหน้าอก เพื่อบรรเทาอาการอุดตัน"
     },
     {
+      "id": 4529,
+      "formula_id": 601,
       "herb_name": "Xie Bai",
       "english_name": "หัวกระเทียมจีน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ปลดบล็อกหยางฉีและกระจายก้อนโดยเฉพาะที่หน้าอก เพื่อบรรเทาอาการปวดและความอึดอัด"
     },
     {
+      "id": 4530,
+      "formula_id": 601,
       "herb_name": "Zhi Shi",
       "english_name": "ผลส้มขมที่ยังไม่สุก",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "สลายชี่และขจัดอาการคัดจมูก ช่วยลดเสมหะขุ่น และบรรเทาอาการแน่นบริเวณลิ้นปี่และหน้าอก"
     },
     {
+      "id": 4531,
+      "formula_id": 601,
       "herb_name": "Hou Po",
       "english_name": "เปลือกแมกโนเลีย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด, ลำไส้ใหญ่",
+      "role_description": "เคลื่อนชี่ ขจัดความชื้น และควบคุมชี่ที่กบฏลงด้านล่าง ป้องกันไม่ให้หยินขุ่นไหลทวนกลับ"
     },
     {
+      "id": 4532,
+      "formula_id": 601,
       "herb_name": "Gui Zhi",
       "english_name": "กิ่งอบเชย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, กระเพาะปัสสาวะ",
+      "role_description": "อุ่นและปลดบล็อกหยางฉีที่หน้าอก ช่วยให้ Xie Bai กระตุ้นหยางฉีที่หน้าอก และส่งเสริมการไหลเวียนของ Qi"
     }
   ],
   "research": [

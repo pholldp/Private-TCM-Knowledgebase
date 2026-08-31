@@ -24,106 +24,208 @@
   "dietary_advice": "While taking this formula, favor foods that nourish Yin and moisten dryness: pears, lily bulb (bai he), black sesame, duck, tofu, mung beans, and congee made with millet or glutinous rice. Adequate hydration is important to support the formula's fluid-generating action.\nAvoid spicy, greasy, and deep-fried foods, which generate internal Heat and counteract the formula's cooling properties. Limit alcohol, coffee, lamb, and other strongly warming foods. Cold and raw foods should also be moderated to protect the already weakened Spleen Qi. Avoid smoking, which directly damages the Lungs and worsens the condition this formula is designed to treat.",
   "ingredients": [
     {
+      "id": 3163,
+      "formula_id": 419,
       "herb_name": "Bie Jia",
       "english_name": "Turtle shell (Chinese soft-shell turtle carapace)",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "As the primary King herb (appearing at the highest dosage), Bie Jia nourishes Yin, anchors deficiency Heat, and clears bone-steaming fever. Its salty and cold nature directly targets the deep-seated internal heat that arises from depleted Yin fluids."
     },
     {
+      "id": 3164,
+      "formula_id": 419,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "The second King herb, also at the highest dosage. Tian Men Dong deeply nourishes Lung and Kidney Yin and generates fluids, addressing the root Yin deficiency that drives the persistent fevers, dry throat, and thirst."
     },
     {
+      "id": 3165,
+      "formula_id": 419,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Qi and strengthens the exterior (Wei Qi). In the context of this formula's Qi-and-Yin dual deficiency, Huang Qi addresses the Qi-deficient component, supporting the body's defensive function and helping to contain sweating."
     },
     {
+      "id": 3166,
+      "formula_id": 419,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi and strengthens the Spleen and Lung. Works alongside Huang Qi to restore the depleted Qi that manifests as fatigue, poor appetite, and weakness."
     },
     {
+      "id": 3167,
+      "formula_id": 419,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;, Raw Rehmannia Root)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat and cools the Blood while nourishing Yin and generating fluids. Its cold nature reinforces the Yin-nourishing and Heat-clearing actions of the King herbs, specifically targeting Blood-level Heat."
     },
     {
+      "id": 3168,
+      "formula_id": 419,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Clears deficiency Heat and resolves bone-steaming fever without damaging Yin. It is a key herb for treating tidal fevers of the steaming-bone type, complementing Bie Jia in clearing deep-seated Heat."
     },
     {
+      "id": 3169,
+      "formula_id": 419,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Cools the Blood and clears deficiency Heat, specifically targeting bone-steaming fever and night sweats. Along with Qin Jiao and Chai Hu, it forms a trio that systematically clears lingering Heat from different levels of the body."
     },
     {
+      "id": 3170,
+      "formula_id": 419,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Lifts clear Yang and resolves muscle-layer Heat. It is used here specifically to clear the exterior aspect of deficiency fever and to raise depressed Yang Qi, helping to address alternating chills and fever."
     },
     {
+      "id": 3171,
+      "formula_id": 419,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat from the Lungs and Stomach while nourishing Yin. It drains Fire and generates fluids, reinforcing the Yin-nourishing and Heat-clearing strategy from the Qi level."
     },
     {
+      "id": 3172,
+      "formula_id": 419,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Clears Heat from the Blood, cools the Blood, and invigorates stagnation. It complements Sheng Di Huang in addressing Blood-level Heat and mild Blood stasis that may accompany chronic consumption."
     },
     {
+      "id": 3173,
+      "formula_id": 419,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and calms the spirit. It supports the digestive system, resolves dampness, and helps the Spleen transform and transport nutrients to support the generation of Qi and Blood."
     },
     {
+      "id": 3174,
+      "formula_id": 419,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Drains Lung Heat and calms wheezing. It targets the Lung, clearing the Heat that causes cough with thick or blood-tinged phlegm, a key symptom in this formula's presentation."
     },
     {
+      "id": 3175,
+      "formula_id": 419,
       "herb_name": "Zi Wan",
       "english_name": "Tatarian aster root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Moistens the Lungs, directs Qi downward, and resolves Phlegm. It addresses the cough with sticky phlegm that often accompanies consumptive Lung conditions."
     },
     {
+      "id": 3176,
+      "formula_id": 419,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms Phlegm, directing rebellious Qi downward. It works with Zi Wan to manage the cough and thick phlegm that accompany the consumptive pattern."
     },
     {
+      "id": 3177,
+      "formula_id": 419,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "A small amount of warming Rou Gui is included to warm Yang and guide the formula's action. It prevents the many cold and Yin-nourishing herbs from damaging the Spleen and Stomach, and helps Fire return to its source, a classical technique for managing deficiency Heat."
     },
     {
+      "id": 3178,
+      "formula_id": 419,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "5 - 9g"
+      "dosage": "5 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Opens and diffuses Lung Qi and directs other herbs upward to the Lung. It also helps expel phlegm and works with Sang Bai Pi to clear accumulated Heat from the Lung."
     },
     {
+      "id": 3179,
+      "formula_id": 419,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, tonifies the Spleen Qi, and moderates the properties of the other ingredients. It also helps generate fluids and soothes the throat."
     }
   ],
   "research": [],

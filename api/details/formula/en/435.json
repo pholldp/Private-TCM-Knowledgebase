@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid greasy, fatty, and fried foods, which directly burden the Gallbladder and worsen Dampness-Heat. Reduce alcohol intake, as alcohol generates Dampness and Heat in the Liver and Gallbladder. Avoid spicy, heavily seasoned foods that may aggravate Heat. Eat light, easily digestible meals with plenty of vegetables, especially bitter greens (which support Liver-Gallbladder clearing). Favor foods that gently drain Dampness such as barley (Yi Yi Ren), mung beans, winter melon, and lotus seed. Small, frequent meals are preferable to large heavy ones, as they reduce the burden on the Gallbladder.",
   "ingredients": [
     {
+      "id": 3286,
+      "formula_id": 435,
       "herb_name": "Jin Qian Cao",
       "english_name": "Gold Coin Grass",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys, Urinary Bladder",
+      "role_description": "The chief herb for clearing damp-heat from the liver and gallbladder, promoting bile flow, and dissolving or expelling gallstones. Its strong stone-dissolving and dampness-clearing properties make it the primary therapeutic agent in this formula."
     },
     {
+      "id": 3287,
+      "formula_id": 435,
       "herb_name": "Yin Chen",
       "english_name": "Virgate Wormwood Herb",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Liver, Gallbladder",
+      "role_description": "Strongly clears damp-heat from the liver and gallbladder and promotes bile secretion. Works in concert with Jin Qian Cao to resolve jaundice and facilitate the drainage of pathological dampness and heat from the hepatobiliary system."
     },
     {
+      "id": 3288,
+      "formula_id": 435,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat and dries dampness, especially in the upper and middle burners. Targets gallbladder fire and reduces inflammation in the biliary system, reinforcing the heat-clearing action of the King herb."
     },
     {
+      "id": 3289,
+      "formula_id": 435,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses the Liver Qi and resolves Shaoyang-level disorders. Relieves the constraint and stagnation of Liver and Gallbladder Qi that underlies the pain pattern, and guides the formula's actions to the Liver-Gallbladder organ system."
     },
     {
+      "id": 3290,
+      "formula_id": 435,
       "herb_name": "Yu Jin",
       "english_name": "Turmeric tuber",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs",
+      "role_description": "Moves Blood and Qi, resolves stasis, and benefits the gallbladder. Addresses the pain associated with Qi stagnation and Blood stasis in the flanks while also promoting bile flow."
     },
     {
+      "id": 3291,
+      "formula_id": 435,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Promotes the movement of Qi, alleviates pain, and regulates the digestive system. Addresses the abdominal distention, bloating, and pain that accompany biliary disorders by restoring smooth Qi circulation in the middle burner."
     },
     {
+      "id": 3292,
+      "formula_id": 435,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and reduces focal distention. Works with Mu Xiang to relieve the fullness and distention in the epigastric and hypochondriac regions, helping to restore normal downward movement of Qi."
     },
     {
+      "id": 3293,
+      "formula_id": 435,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges heat through the bowels, clears accumulated toxins, and promotes the downward expulsion of gallstones. By opening the bowels, it provides an exit route for damp-heat and helps to physically flush small stones through the biliary and intestinal tract."
     },
     {
+      "id": 3294,
+      "formula_id": 435,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "Assistant",
-      "dosage": "15 - 20g"
+      "dosage": "15 - 20g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "Clears heat and resolves toxicity. Addresses the infectious and inflammatory component of gallbladder disease, helping to reduce swelling and fight bacterial infection in the biliary system."
     },
     {
+      "id": 3295,
+      "formula_id": 435,
       "herb_name": "Da Qing Ye",
       "english_name": "Isatis leaf",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Stomach, Liver",
+      "role_description": "Clears heat and cools the Blood, resolves toxicity. Reinforces the anti-inflammatory and anti-infective actions of the formula, particularly useful when there is fever or signs of systemic toxicity accompanying the gallbladder condition."
     },
     {
+      "id": 3296,
+      "formula_id": 435,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates the harsh properties of the bitter cold and purgative ingredients, and protects the Stomach from damage by the strongly draining herbs."
     }
   ],
   "research": [],

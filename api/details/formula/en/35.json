@@ -24,94 +24,184 @@
   "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw seafood, cold fruit) while taking this formula, as these can compound internal Cold and Dampness and counteract the warming, dispersing action of the herbs.\nAvoid greasy, heavy, and overly rich foods that generate Dampness and impair Spleen function.\nFavor warm, easily digestible foods: soups, congee, cooked vegetables, moderate amounts of warming spices (ginger, scallion).\nLimit dairy products, which tend to produce Dampness in TCM theory.\nModerate alcohol intake is acceptable as small amounts can help move Blood, but excessive alcohol generates Damp-Heat and should be avoided.\nThe original text instructs to take the decoction warm and to keep the body warm after taking it (温身勿冷), suggesting patients should avoid cold exposure, drafts, and chilling activities after ingestion.",
   "ingredients": [
     {
+      "id": 201,
+      "formula_id": 35,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "The chief herb of the formula. Du Huo is bitter, acrid, and slightly warm, with a natural tendency to move downward. It excels at expelling deep-seated wind, cold, and dampness from the lower body, particularly the lower back, knees, and leg joints. As the King herb used at the highest dose, it directly addresses the primary pathogenic factors lodged in the sinews and bones."
     },
     {
+      "id": 202,
+      "formula_id": 35,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Enters the Kidney channel (Shaoyin) and is especially adept at searching out and dislodging wind-cold-dampness hidden deep in the channels and bones. Its warming, dispersing nature strongly relieves pain and helps drive out pathogenic cold that has penetrated to the deeper levels of the body."
     },
     {
+      "id": 203,
+      "formula_id": 35,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "A broad-spectrum wind-expelling herb that disperses wind and overcomes dampness throughout the body. It reinforces Du Huo's wind-dispersing action and helps open the channels so that pathogenic factors can be expelled."
     },
     {
+      "id": 204,
+      "formula_id": 35,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Dispels wind-dampness, relaxes the sinews, and frees the channels and collaterals to benefit the joints. It has a gentler, more moistening quality than the other wind-damp herbs and can address both cold and warm types of painful obstruction."
     },
     {
+      "id": 205,
+      "formula_id": 35,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the interior, disperses deep cold, and promotes the flow of blood through the vessels. It works with the other Deputy herbs to warm the channels and expel cold, and its warming Yang nature supports the Kidney Yang that is weakened in chronic painful obstruction."
     },
     {
+      "id": 206,
+      "formula_id": 35,
       "herb_name": "Sang Ji Sheng",
       "english_name": "Mulberry Mistletoe",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Serves a dual role: it tonifies the Liver and Kidneys to strengthen sinews and bones, while simultaneously expelling wind-dampness. This makes it a bridge between the formula's dispelling and tonifying strategies, directly addressing the root deficiency while helping to clear the pathogenic factors."
     },
     {
+      "id": 207,
+      "formula_id": 35,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens the sinews and bones, and has a particular affinity for the lower back. It reinforces the structural integrity of the musculoskeletal system that has been weakened by chronic illness."
     },
     {
+      "id": 208,
+      "formula_id": 35,
       "herb_name": "Niu Xi (&#x725B;&#x819D;, Achyranthes Root)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens the sinews and bones, and activates blood circulation in the lower limbs. It also guides the formula's actions downward to the knees, legs, and lower back where the painful obstruction is concentrated."
     },
     {
+      "id": 209,
+      "formula_id": 35,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates the Blood. As part of the formula's Blood-tonifying group (alongside Chuan Xiong, Bai Shao, and Di Huang, mirroring Si Wu Tang), it replenishes the Blood that has been consumed by chronic illness and ensures that fresh blood can nourish the sinews and joints."
     },
     {
+      "id": 210,
+      "formula_id": 35,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Activates blood circulation and moves Qi within the Blood. It helps drive stagnant blood out of the channels and collaterals, working alongside Dang Gui to both nourish and invigorate the Blood, embodying the principle that 'to treat wind, first treat the Blood; when Blood flows, wind will naturally dissipate.'"
     },
     {
+      "id": 211,
+      "formula_id": 35,
       "herb_name": "Gan Di Huang (&#x4E7E;&#x5730;&#x9EC3;, Dried Rehmannia Root)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Nourishes the Blood and Yin. The original text specifies dried Rehmannia (Gan Di Huang), which nourishes without being as heavy or cloying as the prepared form. It helps replenish the Yin-Blood of the Liver and Kidneys that has been depleted by the chronic disease process."
     },
     {
+      "id": 212,
+      "formula_id": 35,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood, softens the Liver, and relaxes the sinews. When paired with Gan Cao, it has a notable ability to relieve cramping and spasm in the muscles and sinews, directly easing the stiffness and restricted movement seen in chronic painful obstruction."
     },
     {
+      "id": 213,
+      "formula_id": 35,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi and strengthens the Spleen. As part of the Qi-tonifying group (alongside Fu Ling and Gan Cao, resembling Si Jun Zi Tang without Bai Zhu), it replenishes the Qi that has been drained by chronic illness. Strong Qi supports the body's defensive capacity and helps prevent pathogenic factors from re-entering."
     },
     {
+      "id": 214,
+      "formula_id": 35,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen, promotes healthy fluid metabolism, and gently drains dampness. This supports the Spleen's role in transforming and transporting fluids, helping to eliminate the dampness that contributes to joint swelling and heaviness."
     },
     {
+      "id": 215,
+      "formula_id": 35,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderating any harsh qualities and helping them work as a cohesive unit. It also tonifies the Spleen Qi, and when combined with Bai Shao, relaxes spasms and eases pain in the sinews."
     }
   ],
   "research": [

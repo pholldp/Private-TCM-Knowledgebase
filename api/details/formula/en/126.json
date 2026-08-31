@@ -24,28 +24,52 @@
   "dietary_advice": "While taking Ping Wei San, avoid cold and raw foods (salads, iced drinks, raw fruits in excess, sashimi), as these contribute to Dampness and Cold in the Spleen and Stomach, directly opposing the formula's purpose. Greasy, fried, and heavy foods should also be limited since they generate more Dampness. Dairy products, especially cold dairy like ice cream and yogurt, tend to be Dampness-producing and should be minimized. Excessive sweets and sugar-laden foods should be reduced, as sweetness in excess can clog the Spleen.\nFavored foods include warm, lightly cooked meals: congee (rice porridge), soups, steamed vegetables, and modest amounts of aromatic spices like ginger, cardamom, or dried tangerine peel that support digestion. Small, regular meals are preferable to large, heavy ones. The classical administration method — taking the formula on an empty stomach with ginger and jujube dates — reflects the principle of allowing the herbs to reach the Stomach without interference from food.",
   "ingredients": [
     {
+      "id": 843,
+      "formula_id": 126,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "The chief herb, heavily dosed to powerfully dry dampness and reinvigorate the Spleen's transporting function. Its bitter, acrid, and warm nature directly targets dampness that has accumulated in and obstructed the Middle Burner."
     },
     {
+      "id": 844,
+      "formula_id": 126,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, disperses fullness and distention, and assists the King herb by transforming dampness through Qi movement. Its descending nature helps restore the Stomach's downward-directing function."
     },
     {
+      "id": 845,
+      "formula_id": 126,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach, assists in transforming dampness through its aromatic and Qi-moving properties. Supports both King and Deputy herbs in restoring the Spleen and Stomach's ascending and descending functions."
     },
     {
+      "id": 846,
+      "formula_id": 126,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and harmonizes the Middle Burner, moderating the drying and moving properties of the other herbs to prevent injury to Spleen Qi. Also harmonizes the actions of all ingredients."
     }
   ],
   "research": [

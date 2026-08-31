@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid cold, raw, and icy foods and beverages while taking this formula, as these can introduce further Cold into the Stomach and directly counteract the warming action of the herbs. Greasy, heavy, and difficult-to-digest foods should also be limited, as they can obstruct Stomach Qi and worsen the stifling sensation in the chest. Favour warm, easily digested foods such as congee, cooked vegetables, soups, and mild broths. Small, frequent meals are preferable to large ones. Spicy or overly hot foods should be consumed in moderation to avoid overstimulating an already disrupted Stomach.",
   "ingredients": [
     {
+      "id": 950,
+      "formula_id": 141,
       "herb_name": "Ding Xiang",
       "english_name": "Clove",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Kidneys",
+      "role_description": "Warms the Stomach, dispels Cold, and powerfully directs Qi downward to stop hiccups and belching. As a key herb for Stomach Cold with rebellious Qi, it addresses the core pathomechanism of this formula."
     },
     {
+      "id": 951,
+      "formula_id": 141,
       "herb_name": "Shi Di",
       "english_name": "Persimmon calyx",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Stomach",
+      "role_description": "The principal herb for stopping hiccups and belching by directing rebellious Stomach Qi downward. Paired with Ding Xiang, the two form a classic combination that is considered the most effective pair for treating hiccups due to Stomach Cold."
     },
     {
+      "id": 952,
+      "formula_id": 141,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies Qi and nourishes the Stomach, addressing the underlying deficiency that allows Cold to accumulate. Without sufficient Stomach Qi, the descending function cannot be restored, so Ren Shen provides the foundation for lasting recovery."
     },
     {
+      "id": 953,
+      "formula_id": 141,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach, assists in directing rebellious Qi downward, and harmonizes the formula. Known as a premier herb for treating nausea and vomiting, it reinforces the warming and descending actions of Ding Xiang and Shi Di."
     }
   ],
   "research": [],

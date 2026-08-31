@@ -24,124 +24,244 @@
   "dietary_advice": "While using this plaster, avoid cold and raw foods, excessive alcohol, and greasy or heavily spiced dishes, as these can impair the body's ability to resolve toxins and heal wounds. Foods that support Qi and Blood circulation are beneficial, such as lightly cooked vegetables, lean proteins, and warming soups. If the plaster is being used for sores or abscesses, also avoid shellfish, lamb, and other foods traditionally considered to aggravate skin conditions (known as 发物, 'triggering foods' in Chinese dietary theory).",
   "ingredients": [
     {
+      "id": 4021,
+      "formula_id": 527,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, reduces swelling, and promotes healing of sores. As the primary Blood-moving herb in the formula, it ensures that stagnant Blood is dispersed so toxins can be resolved and new tissue can form."
     },
     {
+      "id": 4022,
+      "formula_id": 527,
       "herb_name": "Zhi Chuan Wu",
       "english_name": "Processed Sichuan Aconite Root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys, Spleen",
+      "role_description": "Powerfully expels Wind-Dampness and Cold, strongly alleviates pain. Its warming and penetrating nature helps the formula reach deep into obstructed tissues to disperse cold stagnation."
     },
     {
+      "id": 4023,
+      "formula_id": 527,
       "herb_name": "Zhi Cao Wu",
       "english_name": "Processed Wild Aconite Root",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys, Spleen",
+      "role_description": "Works synergistically with Chuan Wu to expel Wind-Dampness and relieve pain. Together they form a potent pain-relieving pair that penetrates channels and collaterals to open blockages."
     },
     {
+      "id": 4024,
+      "formula_id": 527,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Clears Heat, resolves toxins, and invigorates Blood to disperse stasis. Applied externally, it reduces swelling and helps draw out purulent matter from abscesses."
     },
     {
+      "id": 4025,
+      "formula_id": 527,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Cools the Blood and nourishes Yin, counterbalancing the hot and acrid nature of Chuan Wu and Cao Wu. Helps prevent excessive dryness and promotes tissue regeneration."
     },
     {
+      "id": 4026,
+      "formula_id": 527,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Clears Heat, cools Blood, and disperses Blood stasis. Supports the formula's ability to reduce redness, swelling, and pain at the site of sores and abscesses."
     },
     {
+      "id": 4027,
+      "formula_id": 527,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Expels Wind, reduces swelling, expels pus, and alleviates pain. A key herb for treating skin sores and abscesses, it helps draw toxins to the surface and promotes drainage."
     },
     {
+      "id": 4028,
+      "formula_id": 527,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Releases the exterior and expels Wind-Dampness, particularly in the upper body and back. Helps the formula address sores and pain in these regions."
     },
     {
+      "id": 4029,
+      "formula_id": 527,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "Expels Wind-Dampness from the lower body and deeper tissues. Paired with Qiang Huo, it ensures the formula can reach all levels and regions of the body."
     },
     {
+      "id": 4030,
+      "formula_id": 527,
       "herb_name": "Bai Lian",
       "english_name": "Japanese Ampelopsis Root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Stomach",
+      "role_description": "Clears Heat, resolves toxins, disperses swelling, and promotes tissue healing. Particularly useful for sores that are swollen, hot, and painful."
     },
     {
+      "id": 4031,
+      "formula_id": 527,
       "herb_name": "Bai Ji",
       "english_name": "Common Bletilla Tuber",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver, Stomach",
+      "role_description": "Astringes and stops bleeding, reduces swelling, and promotes tissue regeneration. Helps close wounds and generate new flesh in ulcerated sores."
     },
     {
+      "id": 4032,
+      "formula_id": 527,
       "herb_name": "Ku Shen",
       "english_name": "Flavescent Sophora Root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Urinary Bladder",
+      "role_description": "Clears Heat, dries Dampness, and kills parasites. Addresses the Damp-Heat and toxic factors that contribute to skin eruptions and deep sores."
     },
     {
+      "id": 4033,
+      "formula_id": 527,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat, cools Blood, nourishes Yin, and softens hardness. Particularly important for addressing phlegm nodules and scrofula by dissolving hardened masses."
     },
     {
+      "id": 4034,
+      "formula_id": 527,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the channels and promotes Blood circulation. Its warming nature helps the medicinal substances penetrate through the skin and into deeper tissues."
     },
     {
+      "id": 4035,
+      "formula_id": 527,
       "herb_name": "Wu Yao",
       "english_name": "Lindera root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys, Urinary Bladder",
+      "role_description": "Promotes the movement of Qi and alleviates pain. Where Qi stagnation underlies the swelling and pain, Wu Yao ensures smooth Qi flow to support Blood movement."
     },
     {
+      "id": 4036,
+      "formula_id": 527,
       "herb_name": "Chuan Shan Jia",
       "english_name": "Pangolin scales",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Powerfully invigorates Blood, disperses stasis, reduces swelling, and expels pus. Its unique penetrating quality helps break through channel obstructions and draw abscesses to a head."
     },
     {
+      "id": 4037,
+      "formula_id": 527,
       "herb_name": "Tu Mu Bie (&#x571F;&#x6728;&#x9CD6;)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat, resolves toxins, disperses swelling, and reduces masses. Particularly useful for stubborn, deep-seated swellings and toxic sores."
     },
     {
+      "id": 4038,
+      "formula_id": 527,
       "herb_name": "Xiang Pi",
       "english_name": "Elephant Skin",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Spleen, Urinary Bladder",
+      "role_description": "Promotes tissue regeneration and wound healing. Helps close chronic, non-healing sores by encouraging the growth of new flesh."
     },
     {
+      "id": 4039,
+      "formula_id": 527,
       "herb_name": "Qing Fen",
       "english_name": "Calomel",
       "role": "Assistant",
-      "dosage": "250g per 500g oil"
+      "dosage": "250g per 500g oil",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Large Intestine",
+      "role_description": "Acts as the plaster base material, providing the adhesive matrix. Also has mild toxin-resolving and tissue-drying properties that help draw moisture from damp sores."
     },
     {
+      "id": 4040,
+      "formula_id": 527,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the formula and moderates the toxicity of Chuan Wu and Cao Wu. Also clears Heat and resolves toxins in its own right."
     }
   ],
   "research": [],

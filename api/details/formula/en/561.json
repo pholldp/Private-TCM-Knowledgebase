@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and heavily rich foods, as these generate internal Dampness and directly counteract the formula's Dampness-resolving action. Cold and raw foods (ice cream, cold salads, chilled drinks) should also be minimized, as they impair Spleen function and hinder the transformation of Dampness. Alcohol and spicy-hot foods should be avoided, as they generate Damp-Heat internally.\nFavour light, easily digestible foods: plain rice congee, mung bean soup, Job's tears (yi yi ren) porridge, winter melon, and lotus seed are all traditionally recommended during Damp-Heat conditions. Adequate warm water intake supports the formula's diuretic action in clearing Dampness through the urinary tract.",
   "ingredients": [
     {
+      "id": 4294,
+      "formula_id": 561,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Damp-Heat, particularly from the Middle Jiao. As the primary herb, it directly targets the Heat component that has become entangled with Dampness, using its bitter-cold nature to drain Heat downward."
     },
     {
+      "id": 4295,
+      "formula_id": 561,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Clears Heat and promotes urination, providing a downward drainage route for Damp-Heat through the Bladder. Its bland, slippery nature gives Dampness a pathway out of the body without damaging Yin."
     },
     {
+      "id": 4296,
+      "formula_id": 561,
       "herb_name": "Zhu Ling",
       "english_name": "Polyporus mushroom",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains Dampness. Works alongside Hua Shi and Fu Ling Pi to strengthen the formula's ability to resolve Dampness through the urinary pathway."
     },
     {
+      "id": 4297,
+      "formula_id": 561,
       "herb_name": "Fu Ling Pi",
       "english_name": "Poria peel",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination and leaches out Dampness. Fu Ling Pi (the skin of Poria) is specifically chosen over the whole Fu Ling because the skin has a stronger action of draining fluid from the surface and skin level, appropriate for body heaviness and aches."
     },
     {
+      "id": 4298,
+      "formula_id": 561,
       "herb_name": "Da Fu Pi",
       "english_name": "Areca peel",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Small Intestine",
+      "role_description": "Moves Qi and resolves Dampness in the Middle Jiao. By promoting the downward flow of Qi in the digestive tract, it helps the Spleen and Stomach resume their transport function, and prevents stagnation of fluids."
     },
     {
+      "id": 4299,
+      "formula_id": 561,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Aromatically transforms Dampness and moves Qi in the Middle Jiao. Its warm, aromatic nature counterbalances the cold properties of Huang Qin and Hua Shi, preventing the bitter-cold herbs from further obstructing the Spleen's transport function."
     },
     {
+      "id": 4300,
+      "formula_id": 561,
       "herb_name": "Tong Cao",
       "english_name": "Rice paper pith",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Gently promotes urination and clears Heat through the water passages. Its bland, light nature helps guide the actions of the other herbs downward and outward through the urinary tract."
     }
   ],
   "research": [

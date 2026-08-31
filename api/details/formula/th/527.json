@@ -25,124 +25,244 @@
   "dietary_advice": "ขณะใช้พลาสเตอร์นี้ ให้หลีกเลี่ยงอาหารเย็นและดิบ เครื่องดื่มแอลกอฮอล์มากเกินไป อาหารมันๆ หรือเครื่องเทศจัดๆ เพราะสิ่งเหล่านี้อาจทำให้ความสามารถของร่างกายในการแก้ไขสารพิษและสมานแผลลดลงได้ อาหารที่ช่วยเสริมชี่และการไหลเวียนโลหิตมีประโยชน์ เช่น ผักปรุงสุกเล็กน้อย โปรตีนไร้มัน และซุปอุ่น หากใช้พลาสเตอร์รักษาแผลหรือฝี ให้หลีกเลี่ยงหอย เนื้อแกะ และอาหารอื่นๆ ที่มักคิดว่าจะทำให้สภาพผิวแย่ลง (เรียกว่า 发物 หรือ \"อาหารกระตุ้น\" ในทฤษฎีการบริโภคอาหารของจีน)",
   "ingredients": [
     {
+      "id": 4021,
+      "formula_id": 527,
       "herb_name": "Dang Gui",
       "english_name": "ราก Angelica จีน",
       "role": "ราชา (King)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, หัวใจ, ม้าม",
+      "role_description": "บำรุงและเติมพลังให้เลือด ลดอาการบวม และส่งเสริมการรักษาแผล เนื่องจากเป็นสมุนไพรหลักในการเคลื่อนย้ายเลือดในสูตร จึงช่วยให้แน่ใจว่าเลือดที่นิ่งจะกระจายออกไป จึงสามารถกำจัดสารพิษและสามารถสร้างเนื้อเยื่อใหม่ได้"
     },
     {
+      "id": 4022,
+      "formula_id": 527,
       "herb_name": "Zhi Chuan Wu",
       "english_name": "ประมวลผลรากเสฉวน Aconite",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, ไต, ม้าม",
+      "role_description": "ขับไล่ลมความชื้นและความหนาวเย็นอย่างมีประสิทธิภาพ บรรเทาอาการปวดอย่างมาก ลักษณะที่อบอุ่นและทะลุทะลวงช่วยให้สูตรเข้าถึงลึกเข้าไปในเนื้อเยื่อที่ถูกกีดขวางเพื่อกระจายความเมื่อยล้าจากความเย็น"
     },
     {
+      "id": 4023,
+      "formula_id": 527,
       "herb_name": "Zhi Cao Wu",
       "english_name": "รากอะโคไนต์ป่าแปรรูป",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, ไต, ม้าม",
+      "role_description": "ทำงานร่วมกับชวนหวู่เพื่อขับไล่ความชื้นลมและบรรเทาอาการปวด พวกเขาช่วยกันสร้างคู่บรรเทาอาการปวดที่มีศักยภาพซึ่งจะเจาะช่องและหลักประกันเพื่อเปิดการอุดตัน"
     },
     {
+      "id": 4024,
+      "formula_id": 527,
       "herb_name": "Da Huang",
       "english_name": "รากรูบาร์บและเหง้า",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่, ตับ, เยื่อหุ้มหัวใจ",
+      "role_description": "ดับความร้อน ขับสารพิษ บำรุงเลือด สลายภาวะชะงักงัน ใช้ภายนอกช่วยลดอาการบวมและช่วยขับหนองออกจากฝี"
     },
     {
+      "id": 4025,
+      "formula_id": 527,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "ทำให้เลือดเย็นลงและบำรุงหยิน ปรับสมดุลความร้อนและฉุนของชวนหวู่และโจหวู่ ช่วยป้องกันความแห้งกร้านมากเกินไปและส่งเสริมการสร้างเนื้อเยื่อใหม่"
     },
     {
+      "id": 4026,
+      "formula_id": 527,
       "herb_name": "Chi Shao",
       "english_name": "รากดอกโบตั๋นสีแดง",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "ตับ",
+      "role_description": "ดับความร้อน ทำให้เลือดเย็นลง และสลายภาวะเลือดหยุดนิ่ง รองรับความสามารถของสูตรในการลดรอยแดง บวม และปวดบริเวณที่เป็นแผลและฝี"
     },
     {
+      "id": 4027,
+      "formula_id": 527,
       "herb_name": "Bai Zhi",
       "english_name": "ราก Dahurian Angelica",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "ขับลม ลดบวม ขับหนอง บรรเทาอาการปวด สมุนไพรสำคัญในการรักษาแผลและฝีที่ผิวหนัง ช่วยดึงสารพิษลงสู่ผิวน้ำและส่งเสริมการระบายน้ำ"
     },
     {
+      "id": 4028,
+      "formula_id": 527,
       "herb_name": "Qiang Huo",
       "english_name": "รากและเหง้า Notopterygium",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "กระเพาะปัสสาวะ, ไต",
+      "role_description": "ปล่อยภายนอกและขับไล่ Wind-Dampness โดยเฉพาะในร่างกายส่วนบนและด้านหลัง ช่วยแก้ไขอาการเจ็บและปวดตามสูตรในบริเวณเหล่านี้"
     },
     {
+      "id": 4029,
+      "formula_id": 527,
       "herb_name": "Du Huo",
       "english_name": "ราก Angelica มีขน",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ไต, ตับ, กระเพาะปัสสาวะ",
+      "role_description": "ขับไล่ความชื้นจากลมออกจากร่างกายส่วนล่างและเนื้อเยื่อส่วนลึก เมื่อจับคู่กับเชียงฮั่ว จะช่วยให้สูตรสามารถเข้าถึงทุกระดับและทุกส่วนของร่างกาย"
     },
     {
+      "id": 4030,
+      "formula_id": 527,
       "herb_name": "Bai Lian",
       "english_name": "ราก Ampelopsis ญี่ปุ่น",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "หัวใจ, กระเพาะอาหาร",
+      "role_description": "ขจัดความร้อน ขับสารพิษ สลายอาการบวม และส่งเสริมการรักษาเนื้อเยื่อ มีประโยชน์อย่างยิ่งสำหรับแผลที่บวม ร้อน และเจ็บปวดโดยเฉพาะ"
     },
     {
+      "id": 4031,
+      "formula_id": 527,
       "herb_name": "Bai Ji",
       "english_name": "หัว Bletilla ทั่วไป",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "ปอด, ตับ, กระเพาะอาหาร",
+      "role_description": "ยาสมานแผลและห้ามเลือด ลดอาการบวม และส่งเสริมการสร้างเนื้อเยื่อใหม่ ช่วยปิดแผลและสร้างเนื้อใหม่ในแผลที่เป็นแผล"
     },
     {
+      "id": 4032,
+      "formula_id": 527,
       "herb_name": "Ku Shen",
       "english_name": "ราก Sophora วาววับ",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, กระเพาะอาหาร, ลำไส้ใหญ่, กระเพาะปัสสาวะ",
+      "role_description": "ขจัดความร้อน ทำให้ความชื้นแห้ง และฆ่าเชื้อปรสิต จัดการกับความชื้น-ความร้อนและปัจจัยที่เป็นพิษที่ทำให้เกิดการปะทุของผิวหนังและแผลลึก"
     },
     {
+      "id": 4033,
+      "formula_id": 527,
       "herb_name": "Xuan Shen",
       "english_name": "รากมะเดื่อ",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "หนาวเย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ปอด, กระเพาะอาหาร, ไต",
+      "role_description": "ดับความร้อน เลือดเย็น บำรุงหยิน และทำให้ความแข็งลดลง มีความสำคัญอย่างยิ่งในการแก้ปัญหาก้อนเสมหะและก้อนเนื้อ scrofula โดยการละลายก้อนที่แข็งตัว"
     },
     {
+      "id": 4034,
+      "formula_id": 527,
       "herb_name": "Rou Gui",
       "english_name": "เปลือกอบเชย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม, ไต",
+      "role_description": "อุ่นช่องและส่งเสริมการไหลเวียนโลหิต ธรรมชาติที่อบอุ่นช่วยให้สารยาซึมผ่านผิวหนังและเข้าสู่เนื้อเยื่อลึกได้"
     },
     {
+      "id": 4035,
+      "formula_id": 527,
       "herb_name": "Wu Yao",
       "english_name": "รากลินเดอรา",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ปอด, ม้าม, ไต, กระเพาะปัสสาวะ",
+      "role_description": "ส่งเสริมการเคลื่อนไหวของ Qi และบรรเทาอาการปวด ในกรณีที่ความเมื่อยล้าของชี่เป็นสาเหตุของอาการบวมและความเจ็บปวด หวู่เหยาจะทำให้การไหลเวียนของชี่ราบรื่นเพื่อรองรับการเคลื่อนไหวของเลือด"
     },
     {
+      "id": 4036,
+      "formula_id": 527,
       "herb_name": "Chuan Shan Jia",
       "english_name": "เกล็ดลิ่น",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "เย็นเล็กน้อย",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ตับ, กระเพาะอาหาร",
+      "role_description": "เติมพลังให้เลือด กระจายภาวะชะงักงัน ลดอาการบวม และขับหนอง คุณภาพการเจาะทะลุที่เป็นเอกลักษณ์ช่วยทะลุสิ่งกีดขวางของช่องและดึงฝีไปที่ศีรษะ"
     },
     {
+      "id": 4037,
+      "formula_id": 527,
       "herb_name": "Tu Mu Bie (&#x571F;&#x6728;&#x9CD6;)",
       "english_name": "",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "ขจัดความร้อน ขับสารพิษ สลายอาการบวม และลดมวล มีประโยชน์อย่างยิ่งสำหรับอาการบวมที่ฝังลึกและแผลที่เป็นพิษ"
     },
     {
+      "id": 4038,
+      "formula_id": 527,
       "herb_name": "Xiang Pi",
       "english_name": "หนังช้าง",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "อุ่น",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "ม้าม, กระเพาะปัสสาวะ",
+      "role_description": "ส่งเสริมการสร้างเนื้อเยื่อใหม่และการรักษาบาดแผล ช่วยปิดแผลเรื้อรังที่ไม่หายโดยกระตุ้นให้เกิดการสร้างเนื้อใหม่"
     },
     {
+      "id": 4039,
+      "formula_id": 527,
       "herb_name": "Qing Fen",
       "english_name": "คาโลเมล",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "250g per 500g oil"
+      "dosage": "250g per 500g oil",
+      "temperature": "หนาวเย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ตับ, ไต, ลำไส้ใหญ่",
+      "role_description": "ทำหน้าที่เป็นวัสดุฐานปูนปลาสเตอร์ โดยให้เมทริกซ์กาว ยังมีคุณสมบัติช่วยขจัดสารพิษเล็กน้อยและทำให้เนื้อเยื่อแห้ง ซึ่งช่วยดึงความชื้นจากแผลชื้น"
     },
     {
+      "id": 4040,
+      "formula_id": 527,
       "herb_name": "Gan Cao",
       "english_name": "รากชะเอมเทศ",
       "role": "ผู้ส่งสาร (Envoy)",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ, ปอด, ม้าม, กระเพาะอาหาร",
+      "role_description": "ประสานสูตรและปรับระดับความเป็นพิษของชวนวู่และเฉาหวู่ ยังช่วยล้างความร้อนและขับสารพิษได้ในตัว"
     }
   ],
   "research": [],

@@ -24,34 +24,64 @@
   "dietary_advice": "Favor warm, easy-to-digest, Spleen-supporting foods such as cooked grains (rice, millet, oats), root vegetables (sweet potato, yam, pumpkin), well-cooked soups and stews, and moderate amounts of lean protein. Small frequent meals are preferable to large ones.\nAvoid cold and raw foods (salads, ice cream, chilled drinks, raw fruit in excess), greasy or deep-fried foods, and excessive dairy, all of which can burden an already weakened Spleen. Avoid excessively spicy foods that may promote bleeding. Reduce caffeine and alcohol, as these can disturb Qi and exacerbate bleeding.\nClassical dietary prohibitions (食忌) for Qi-tonifying formulas generally caution against radish (luobo 萝卜) and strong tea, which are traditionally believed to counteract the tonifying effects of Ren Shen.",
   "ingredients": [
     {
+      "id": 690,
+      "formula_id": 98,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Heavily tonifies the Qi of the Middle Burner, raises the Yang Qi of the Spleen and Stomach, and lifts what has sunk downward. Used here in its honey-processed (炙) form to enhance its warming and tonifying effect on the Spleen."
     },
     {
+      "id": 691,
+      "formula_id": 98,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully replenishes the original Qi and rescues from collapse. Working alongside Huang Qi, it strengthens the body's fundamental vitality to hold blood within the vessels and prevent further depletion."
     },
     {
+      "id": 692,
+      "formula_id": 98,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries dampness, supporting the production of Qi and Blood. Reinforces the tonifying action of the King herbs by bolstering the Spleen's ability to generate and control Blood."
     },
     {
+      "id": 693,
+      "formula_id": 98,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen Qi and harmonizes the actions of all other herbs in the formula. Its warm, sweet nature augments the Middle Burner and helps moderate the formula's overall action."
     },
     {
+      "id": 694,
+      "formula_id": 98,
       "herb_name": "Sheng Ma",
       "english_name": "Cimicifuga rhizome",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach, Large Intestine",
+      "role_description": "Raises the clear Yang Qi upward and lifts what has sunk. Used in small dosage to guide the Qi-tonifying herbs upward and assist Huang Qi in its ascending and lifting action, without dispersing too much."
     }
   ],
   "research": [],

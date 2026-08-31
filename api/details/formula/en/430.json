@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid greasy, fried, and heavy foods that generate Phlegm and Dampness, which can compound head congestion. Avoid excessive alcohol, strong spicy foods, and stimulants that may aggravate Wind-Heat symptoms.\nFavor light, easily digestible meals. Green tea (used as the vehicle for the formula) complements its action. Fresh, cooling foods such as pears, mung beans, and celery are appropriate during acute Wind-Heat headache.\nAvoid cold, raw, or iced foods if there is a concurrent Wind-Cold component with chills and nasal congestion.",
   "ingredients": [
     {
+      "id": 3247,
+      "formula_id": 430,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "The chief pain-relieving and wind-dispersing herb. Chuan Xiong moves Qi and Blood in the head, treating headaches of multiple channel locations. It is especially effective for headaches along the Shaoyang and Jueyin channels (sides and vertex of the head). Its blood-activating action embodies the classical principle that treating Wind should address the Blood."
     },
     {
+      "id": 3248,
+      "formula_id": 430,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "The signature herb that distinguishes this formula from its parent Chuan Xiong Cha Tiao San. Ju Hua disperses Wind-Heat, clears the head and eyes, and calms a rising Liver. It specifically targets head and eye symptoms caused by Wind-Heat attacking upward, working together with Chuan Xiong to form the formula's core wind-dispersing and head-clearing strategy."
     },
     {
+      "id": 3249,
+      "formula_id": 430,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Light and ascending in nature, Jing Jie Sui disperses Wind from the head and exterior. The flower spikes (sui) are used because they are lighter and more upward-directing than the whole herb, making them especially effective at reaching the head to relieve pain and clear the sensory orifices."
     },
     {
+      "id": 3250,
+      "formula_id": 430,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Cool and acrid, Bo He disperses Wind-Heat, clears the head and eyes, and soothes the throat. Its cool nature serves as a counterbalance to the warm wind-dispersing herbs in the formula, preventing the prescription from becoming excessively warming. It assists both King herbs in clearing Wind-Heat from the head."
     },
     {
+      "id": 3251,
+      "formula_id": 430,
       "herb_name": "Jiang Can",
       "english_name": "Silkworm",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs, Stomach",
+      "role_description": "One of the three herbs added to the parent formula. Jiang Can dispels Wind, resolves Phlegm, and relieves spasm. Its ability to address Wind-Phlegm obstruction in the head makes it valuable for headaches accompanied by dizziness, and it has a specific affinity for clearing Wind from the head and face."
     },
     {
+      "id": 3252,
+      "formula_id": 430,
       "herb_name": "Chan Tui",
       "english_name": "Cicada Slough",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "The third herb added to distinguish this formula. Chan Tui is light and ascending, dispersing Wind-Heat and clearing the head and eyes. It also calms tremors and spasms. Together with Ju Hua and Jiang Can, it strengthens the formula's ability to address Wind-Heat headaches with eye symptoms."
     },
     {
+      "id": 3253,
+      "formula_id": 430,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "A powerful wind-dispersing and pain-relieving herb that targets the Taiyang channel. It treats posterior headache radiating to the neck and is one of the formula's channel-guiding herbs, ensuring coverage of occipital and upper back pain."
     },
     {
+      "id": 3254,
+      "formula_id": 430,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Targets the Yangming channel to treat frontal headache and brow-ridge pain. It also opens the nasal passages, making it useful when headache is accompanied by nasal congestion. It is the primary channel-guiding herb for frontal and supra-orbital pain."
     },
     {
+      "id": 3255,
+      "formula_id": 430,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Warm and strongly penetrating, Xi Xin disperses Cold, relieves pain, and opens the nasal passages. It guides the formula toward the Shaoyin channel, treating deep headache radiating to the teeth. Its warming nature is balanced by the cool herbs in the formula."
     },
     {
+      "id": 3256,
+      "formula_id": 430,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "A gentle and broad-spectrum wind-dispersing herb that treats Wind across all channels without being excessively drying. It reinforces the exterior-releasing action of the formula and is compatible with both warm and cool herbs, helping to harmonize the overall prescription."
     },
     {
+      "id": 3257,
+      "formula_id": 430,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes and moderates the other herbs in the formula, preventing the many acrid wind-dispersing herbs from being overly drying or dispersing. It protects the Stomach Qi and serves as a buffer to ensure the formula does not consume Qi while expelling pathogenic factors."
     }
   ],
   "research": [

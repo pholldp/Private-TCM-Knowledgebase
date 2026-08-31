@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and rich foods, as these contribute to the very stagnation and Damp-Heat the formula is trying to clear. Avoid cold and raw foods (ice cream, cold drinks, salads), which can further impair Spleen function and complicate the pattern. Spicy and stimulating foods (chili, alcohol, strong coffee) should also be limited, as they can aggravate intestinal Heat. Instead, favor light, easily digestible meals such as congee (rice porridge), steamed vegetables, and simple soups. Eat smaller portions at regular intervals rather than large meals.",
   "ingredients": [
     {
+      "id": 3324,
+      "formula_id": 440,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Moves Qi throughout the digestive system, relieves abdominal pain and distension, and specifically addresses tenesmus (the painful urge to strain during bowel movements). As a primary Qi-regulating herb, it restores the normal downward flow of gastrointestinal Qi."
     },
     {
+      "id": 3325,
+      "formula_id": 440,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "King",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Powerfully drives Qi downward through the intestines, breaks up food accumulation, and promotes the expulsion of stagnant material. Working alongside Mu Xiang, the pair forms the core strategy of moving Qi to resolve blockage and relieve the heavy, dragging abdominal sensation."
     },
     {
+      "id": 3326,
+      "formula_id": 440,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges accumulated heat and stagnant matter from the intestines through its strong purgative action. Clears heat from the blood level and removes deep-seated congestion, directly addressing the constipation and heat accumulation that underlie this pattern."
     },
     {
+      "id": 3327,
+      "formula_id": 440,
       "herb_name": "Qian Niu Zi",
       "english_name": "Morning glory seed",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Kidneys, Large Intestine",
+      "role_description": "A strong downward-draining herb that drives out food stagnation and accumulated fluids, promotes urination, and powerfully unblocks the bowels. Supports Da Huang in clearing heat and purging stagnation, and also assists in eliminating dampness through the urinary route."
     },
     {
+      "id": 3328,
+      "formula_id": 440,
       "herb_name": "Qing Pi",
       "english_name": "Green tangerine peel",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Stomach",
+      "role_description": "Spreads Liver Qi and breaks through Qi stagnation in the lower abdomen. Assists the King herbs in resolving the Qi blockage that contributes to abdominal distension and pain, specifically targeting the lower Jiao."
     },
     {
+      "id": 3329,
+      "formula_id": 440,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Soothes Liver Qi, relieves pain, and resolves Qi stagnation across the Triple Burner. Together with Mu Xiang, it opens the flow of Qi through all three levels of the body, addressing the widespread Qi blockage that characterizes this condition."
     },
     {
+      "id": 3330,
+      "formula_id": 440,
       "herb_name": "E Zhu",
       "english_name": "Zedoary rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Breaks through blood stagnation embedded within Qi stagnation, disperses hardened masses, and relieves pain. Adds a blood-moving dimension to the formula, addressing the fact that prolonged Qi stagnation inevitably involves some degree of blood stasis."
     },
     {
+      "id": 3331,
+      "formula_id": 440,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi in the middle Jiao (Stomach and Spleen), harmonizes the Stomach, dries dampness, and prevents the many strong-moving herbs from unsettling the Stomach. Provides a gentler regulatory balance to the formula's aggressive Qi-driving action."
     },
     {
+      "id": 3332,
+      "formula_id": 440,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Widens the intestines and moves Qi downward through the bowels, relieving fullness and distension in the chest and abdomen. Complements the King herbs by working more on the physical distension of the intestinal tract."
     },
     {
+      "id": 3333,
+      "formula_id": 440,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears heat and dries dampness, particularly in the Stomach and intestines. Directly addresses the damp-heat component that causes dysentery with mucus and blood, and acts as an important anti-inflammatory and detoxifying agent within the formula."
     },
     {
+      "id": 3334,
+      "formula_id": 440,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears heat and dries dampness in the lower Jiao, complementing Huang Lian's focus on the middle Jiao. Together they address damp-heat throughout the gastrointestinal tract, stopping dysentery and resolving the root heat that drives the disease."
     }
   ],
   "research": [],

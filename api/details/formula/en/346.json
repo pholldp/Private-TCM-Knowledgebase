@@ -24,82 +24,160 @@
   "dietary_advice": "Favor warm, easily digestible, nutrient-dense foods that support Spleen function and Blood production: bone broth, lean meats (especially chicken and lamb), dark leafy greens, black sesame, walnuts, goji berries, red dates, and cooked root vegetables. Avoid cold, raw foods, iced drinks, and excessive dairy, as these can impair the Spleen's digestive function and reduce the formula's effectiveness. Limit greasy, fried, and overly rich foods that can generate Dampness. During cancer treatment, maintain adequate protein intake to support blood cell recovery. Small, frequent meals are preferable to large ones if appetite is poor.",
   "ingredients": [
     {
+      "id": 2526,
+      "formula_id": 346,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Honey-processed Astragalus is the primary Qi tonic in this formula. It powerfully supplements Qi, strengthens the Spleen, and raises Yang, supporting the body's capacity to generate Blood and white blood cells. It is the chief herb driving the formula's immune-supporting function."
     },
     {
+      "id": 2527,
+      "formula_id": 346,
       "herb_name": "Tai Zi Shen",
       "english_name": "Pseudostellaria root",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Pseudostellaria root gently tonifies both Qi and Yin of the Spleen and Lungs. It works alongside Huang Qi to build the Qi foundation without being overly warming or drying, making it suitable for patients weakened by illness or cancer treatment."
     },
     {
+      "id": 2528,
+      "formula_id": 346,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Dry-fried Atractylodes strengthens the Spleen and dries Dampness, supporting the digestive system's ability to transform nutrients and generate Qi and Blood. It reinforces the Qi-tonifying action of the King herbs."
     },
     {
+      "id": 2529,
+      "formula_id": 346,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Angelica root nourishes and invigorates Blood, preventing stasis while building new Blood. It complements the Qi-tonifying herbs by providing the Blood-nourishing component essential for restoring blood cell counts."
     },
     {
+      "id": 2530,
+      "formula_id": 346,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Chinese yam tonifies the Spleen, Lungs, and Kidneys simultaneously. It bridges the Spleen-tonifying and Kidney-nourishing strategies of this formula, supporting the production of Essence (Jing) that generates marrow and Blood."
     },
     {
+      "id": 2531,
+      "formula_id": 346,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Goji berry nourishes Liver and Kidney Yin and supplements Blood. It helps replenish the Essence stored in the Kidneys that is essential for marrow production and blood cell generation."
     },
     {
+      "id": 2532,
+      "formula_id": 346,
       "herb_name": "Nu Zhen Zi",
       "english_name": "Glossy privet fruit",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Wine-processed Ligustrum fruit nourishes Liver and Kidney Yin. It works alongside Gou Qi Zi and Huang Jing to replenish the Yin and Essence foundation that supports marrow and blood production."
     },
     {
+      "id": 2533,
+      "formula_id": 346,
       "herb_name": "He Shou Wu",
       "english_name": "Fleeceflower Root",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Prepared Polygonum root tonifies the Liver and Kidneys, nourishes Blood, and supplements Essence. Its Blood-nourishing and Essence-replenishing actions support the restoration of healthy blood cell production."
     },
     {
+      "id": 2534,
+      "formula_id": 346,
       "herb_name": "Huang Jing",
       "english_name": "Siberian Solomon&#x27;s Seal rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Wine-processed Polygonatum tonifies the Spleen Qi while nourishing Kidney Yin and Essence. It strengthens the link between acquired (Spleen) and innate (Kidney) sources of nourishment for blood production."
     },
     {
+      "id": 2535,
+      "formula_id": 346,
       "herb_name": "Ji Xue Teng",
       "english_name": "Spatholobus stem",
       "role": "Assistant",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Spatholobus stem invigorates and nourishes Blood, unblocks the channels, and promotes circulation. It ensures the newly generated Blood circulates freely and addresses any Blood stasis that may impede recovery."
     },
     {
+      "id": 2536,
+      "formula_id": 346,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Anemarrhena rhizome clears Heat and nourishes Yin. It serves as a restraining assistant, preventing the many warming tonic herbs from generating Heat, and addressing the Yin deficiency often seen after chemotherapy or radiation."
     },
     {
+      "id": 2537,
+      "formula_id": 346,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Processed Pinellia dries Dampness and harmonizes the Stomach. It prevents the rich, cloying tonic herbs from overwhelming digestion, ensuring the formula can be absorbed and its nourishment properly distributed."
     },
     {
+      "id": 2538,
+      "formula_id": 346,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Dry-fried tangerine peel regulates Qi and harmonizes the Middle Burner. It prevents stagnation from the many tonifying herbs, ensuring smooth Qi movement so that the nourishment can reach the marrow and blood."
     }
   ],
   "research": [

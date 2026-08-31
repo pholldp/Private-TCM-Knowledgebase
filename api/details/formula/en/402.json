@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods while taking this formula, as these can worsen Phlegm accumulation and impair chest Yang. Rich, fatty, or deep-fried foods and dairy products should be limited. Cold drinks and iced foods are particularly counterproductive since the formula is working to warm and open the chest. Favor warm, lightly cooked foods that are easy to digest. Moderate amounts of ginger, scallion, and warming spices support the formula's Yang-unblocking action. Avoid overeating, as a full stomach worsens Qi stagnation in the chest.",
   "ingredients": [
     {
+      "id": 3044,
+      "formula_id": 402,
       "herb_name": "Gua Lou",
       "english_name": "Trichosanthes fruit",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Opens the chest, loosens Qi, expels phlegm, and dissipates nodulation. As the primary herb, it directly addresses the core pathology of phlegm obstruction in the chest by clearing phlegm and widening the chest cavity."
     },
     {
+      "id": 3045,
+      "formula_id": 402,
       "herb_name": "Xie Bai",
       "english_name": "Chinese garlic bulb",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach, Large Intestine",
+      "role_description": "Warms and unblocks chest Yang, moves Qi, and dissipates knotted obstruction to relieve pain. It complements Gua Lou by addressing the Yang deficiency aspect of chest impediment, restoring the warm, activating function of chest Yang."
     },
     {
+      "id": 3046,
+      "formula_id": 402,
       "herb_name": "Bai Jiu",
       "english_name": "Rice Wine",
       "role": "Assistant",
-      "dosage": "30 - 60ml"
+      "dosage": "30 - 60ml",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs, Stomach",
+      "role_description": "Its warm, ascending, and dispersing nature carries the other herbs upward to the chest, invigorates Qi and Blood movement, and reinforces the Yang-warming and obstruction-opening actions of Xie Bai. In antiquity, 'Bai Jiu' referred to a low-alcohol rice wine (similar to modern Huang Jiu or even rice vinegar), not modern distilled spirits."
     }
   ],
   "research": [

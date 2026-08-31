@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid greasy, fried, and heavily spiced foods, as these generate internal Heat and Phlegm, directly opposing the formula's therapeutic intent. Reduce dairy products, sweets, and alcohol, all of which promote Dampness and Phlegm production. Cold and raw foods should also be limited to protect digestive function, which supports the body's ability to resolve Phlegm. Favor light, easy-to-digest foods such as congee (rice porridge), steamed vegetables, pears, and clear soups. Coix seed (Yi Yi Ren) porridge is an excellent complementary food. Adequate warm fluids help thin and expel Phlegm.",
   "ingredients": [
     {
+      "id": 152,
+      "formula_id": 25,
       "herb_name": "Lu Gen",
       "english_name": "Reed rhizome",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears heat from the Lungs and opens the lung passages. Sweet and cold in nature, it is light and buoyant, making it ideal for reaching the upper body where the Lungs reside. It is the essential herb for treating lung abscess, clearing heat without being harsh or bitter, thereby protecting the Stomach."
     },
     {
+      "id": 153,
+      "formula_id": 25,
       "herb_name": "Dong Gua Zi",
       "english_name": "Winter melon seed",
       "role": "Deputy",
-      "dosage": "15 - 24g"
+      "dosage": "15 - 24g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Large Intestine, Stomach, Small Intestine",
+      "role_description": "Clears heat and transforms phlegm, drains dampness and expels pus. Works with Lu Gen to clear lung congestion and promote the discharge of purulent material. Its downward-directing quality helps restore the Lung's natural descending function."
     },
     {
+      "id": 154,
+      "formula_id": 25,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Clears heat from the Lungs and promotes the drainage of pus in the upper body. Also leaches out dampness through the intestines and urinary tract, providing an exit route for pathogenic dampness and heat via the urine. Its bland, slightly cool nature complements the gentle approach of this formula."
     },
     {
+      "id": 155,
+      "formula_id": 25,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Invigorates blood and disperses stasis to help break up the abscess. Blood stasis is a key component of the pathology since heat has damaged the blood vessels, causing clumping. Also moistens the intestines, working with Dong Gua Zi to help expel phlegm-heat through the stool."
     }
   ],
   "research": [

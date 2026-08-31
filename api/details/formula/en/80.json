@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid hard-to-digest, greasy, or heavy foods that may burden the Spleen and interfere with absorption of this rich, tonifying formula.\nAvoid cold and raw foods (ice water, raw salads, chilled fruit) which can impair the Spleen's digestive function and block absorption of the Yin-nourishing ingredients.\nAvoid spicy, pungent, and hot foods (chili, garlic, alcohol, lamb) which can generate Heat and counteract the formula's Yin-nourishing and Heat-clearing actions.\nFavor easily digestible, Yin-nourishing foods such as congee, steamed vegetables, pears, lily bulb, black sesame, walnuts, and mildly prepared soups.",
   "ingredients": [
     {
+      "id": 550,
+      "formula_id": 80,
       "herb_name": "Zi He Che",
       "english_name": "Human placenta",
       "role": "King",
-      "dosage": "1 placenta (approx. 30g dried)"
+      "dosage": "1 placenta (approx. 30g dried)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Powerfully tonifies Qi, Blood, and Essence. As the primary substance that bridges prenatal (Xian Tian) and postnatal constitution, it directly replenishes the depleted Kidney Essence and nourishes both Yin and Yang, addressing the root deficiency."
     },
     {
+      "id": 551,
+      "formula_id": 80,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "Deputy",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "Strongly nourishes Yin, anchors Yang, and strengthens the Kidneys and bones. Its heavy, Yin-enriching nature assists the King herb in replenishing the exhausted Kidney Yin and calming deficiency-heat rising from below."
     },
     {
+      "id": 552,
+      "formula_id": 80,
       "herb_name": "Sheng Di Huang (Raw Rehmannia)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "75g"
+      "dosage": "75g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Nourishes Yin and clears Heat, cools the Blood, and generates fluids. Works with Gui Ban to enrich the Kidney Yin foundation and cool the deficiency-fire that produces tidal fevers and night sweats."
     },
     {
+      "id": 553,
+      "formula_id": 80,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "45g"
+      "dosage": "45g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears deficiency-fire from the Kidneys, drains Damp-Heat from the Lower Burner, and solidifies Yin. Its bitter, cold nature specifically targets the ministerial fire (Xiang Huo) that flares upward when Kidney Yin is depleted."
     },
     {
+      "id": 554,
+      "formula_id": 80,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "45g"
+      "dosage": "45g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens sinews and bones, and supports the lower back. Addresses the structural weakness (sore back and knees, difficulty walking) that results from Kidney depletion."
     },
     {
+      "id": 555,
+      "formula_id": 80,
       "herb_name": "Niu Xi (Achyranthes Root)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "36g"
+      "dosage": "36g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Strengthens the sinews and bones, tonifies the Liver and Kidneys, and guides the formula's action downward to the lower body. Complements Du Zhong in addressing weak lower limbs and lower back pain."
     },
     {
+      "id": 556,
+      "formula_id": 80,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "Assistant",
-      "dosage": "36g"
+      "dosage": "36g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Nourishes Lung and Kidney Yin, clears Lung Heat, and generates fluids. Protects the Lungs from being scorched by upward-flaring deficiency-fire, addressing cough and dry throat."
     },
     {
+      "id": 557,
+      "formula_id": 80,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "Assistant",
-      "dosage": "36g"
+      "dosage": "36g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Nourishes Lung and Stomach Yin, moistens dryness, and clears Heat. Pairs with Tian Men Dong to protect the Lungs from fire, addressing the Lung-Kidney Yin deficiency axis."
     },
     {
+      "id": 558,
+      "formula_id": 80,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "36g"
+      "dosage": "36g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi and Lung Qi, generates fluids, and supports the Spleen. Prevents the heavy Yin-nourishing herbs from overwhelming digestion. With Wu Wei Zi (in some versions), it generates the pulse and tonifies Lung Qi."
     }
   ],
   "research": [],

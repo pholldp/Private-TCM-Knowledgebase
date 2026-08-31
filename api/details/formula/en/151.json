@@ -24,52 +24,100 @@
   "dietary_advice": "While taking San Ren Tang, avoid greasy, oily, and fried foods as well as dairy products, all of which generate additional Dampness and directly counteract the formula's purpose. Cold and raw foods (salads, iced drinks, raw fruit in excess) should be minimized as they impair the Spleen's already-compromised digestive capacity. Sweet, sticky, and heavy foods (glutinous rice, rich desserts, excessive sugar) should also be limited. Alcohol and beer are strongly discouraged as they are significant sources of Dampness and Heat. Favor lightly cooked, warm meals with mild flavors. Foods that gently support drainage and digestion are helpful: plain rice porridge (congee), mung beans, winter melon, lotus seed, and barley water. Small, frequent meals are preferable to large heavy ones.",
   "ingredients": [
     {
+      "id": 1010,
+      "formula_id": 151,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Opens and ventilates the Lung Qi in the upper burner. Since the Lung governs the regulation of the water passages, when Lung Qi flows freely, dampness can be transformed and moved downward. This is the principle of 'when Qi transforms, dampness also transforms.'"
     },
     {
+      "id": 1011,
+      "formula_id": 151,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Aromatically transforms dampness and moves Qi in the middle burner. Its warm, pungent nature cuts through turbid dampness obstructing the Spleen and Stomach, restoring the pivotal function of the middle burner."
     },
     {
+      "id": 1012,
+      "formula_id": 151,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "King",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Bland and slightly cold, it percolates dampness downward through the lower burner via the urine while strengthening the Spleen. This drains the dampness-heat downward and out of the body."
     },
     {
+      "id": 1013,
+      "formula_id": 151,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness and transforms phlegm with its pungent, warm nature. Works synergistically with Hou Po to open and descend the Qi of the middle burner, resolving the distension, nausea, and fullness caused by dampness obstructing the Spleen and Stomach."
     },
     {
+      "id": 1014,
+      "formula_id": 151,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Bitter and pungent, it moves Qi downward and dries dampness, relieving abdominal distension and epigastric fullness. Assists Bai Dou Kou in restoring the middle burner's transforming and transporting function."
     },
     {
+      "id": 1015,
+      "formula_id": 151,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Assistant",
-      "dosage": "18g"
+      "dosage": "18g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Sweet, bland, and cold, it clears heat and promotes urination, guiding dampness-heat out through the lower burner. Its cool nature addresses the heat component that is concealed within the dampness, and it reinforces Yi Yi Ren in draining dampness downward."
     },
     {
+      "id": 1016,
+      "formula_id": 151,
       "herb_name": "Tong Cao",
       "english_name": "Rice paper pith",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Sweet, bland, and slightly cold, it promotes urination and clears heat from the lower burner, reinforcing the downward drainage of dampness-heat through the urinary pathway."
     },
     {
+      "id": 1017,
+      "formula_id": 151,
       "herb_name": "Dan Zhu Ye",
       "english_name": "Lophatherum herb",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Stomach, Small Intestine",
+      "role_description": "Sweet, bland, and cold, it gently clears heat and promotes urination. Together with Hua Shi and Tong Cao, it forms a trio that drains dampness-heat downward through the lower burner."
     }
   ],
   "research": [],

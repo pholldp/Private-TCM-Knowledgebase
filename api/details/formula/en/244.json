@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid cold and raw foods, iced drinks, and excessive consumption of bitter or cold-natured foods (such as raw salads, bitter melon, watermelon, and mung bean soup) while taking this formula, as they can counteract its warming effects and impair its absorption.\nFoods that support the formula's action include warming, nourishing items such as lamb, venison, walnuts, chestnuts, black sesame seeds, kidney beans, and gently cooked root vegetables. Warm soups and congee are ideal. Traditional advice suggests that salt in small amounts (as in salt-water to send down the pills) helps direct the formula's action downward to the Kidneys.\nAvoid excessive alcohol consumption. While the classical preparation uses wine-steamed ingredients, heavy drinking damages Kidney Yin and can create Damp-Heat, working against the formula's intent.",
   "ingredients": [
     {
+      "id": 1674,
+      "formula_id": 244,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "King",
-      "dosage": "60g (pill form) / 12 - 20g (decoction)"
+      "dosage": "60g (pill form) / 12 - 20g (decoction)",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "The chief herb and namesake of the formula. Tu Si Zi tonifies Kidney Yang and nourishes Kidney Essence while also securing the Essence to prevent leakage. It is warm without being drying, making it the ideal lead herb for Kidney deficiency with loss of containment. Its dual capacity to both tonify and astringe the Kidneys directly targets the root cause of the pattern."
     },
     {
+      "id": 1675,
+      "formula_id": 244,
       "herb_name": "Lu Rong",
       "english_name": "Deer velvet antler",
       "role": "Deputy",
-      "dosage": "30g (pill form) / 3 - 6g (decoction)"
+      "dosage": "30g (pill form) / 3 - 6g (decoction)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Kidneys, Liver",
+      "role_description": "Powerfully tonifies Kidney Yang, supplements Essence and Blood, and strengthens the Governor Vessel. It reinforces Tu Si Zi's warming and tonifying action while also nourishing the marrow and strengthening the sinews and bones, addressing the weakness and soreness in the lower back and knees."
     },
     {
+      "id": 1676,
+      "formula_id": 244,
       "herb_name": "Rou Cong Rong",
       "english_name": "Desert Cistanche",
       "role": "Deputy",
-      "dosage": "60g (pill form) / 9 - 15g (decoction)"
+      "dosage": "60g (pill form) / 9 - 15g (decoction)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Kidneys, Large Intestine",
+      "role_description": "Warms Kidney Yang and nourishes Essence and Blood. It works alongside Tu Si Zi and Lu Rong to build the foundational Kidney Yang, and its gentle, moistening quality helps to tonify without excessive dryness, supporting the formula's goal of restoring Kidney function from the root."
     },
     {
+      "id": 1677,
+      "formula_id": 244,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "30g (pill form) / 3 - 9g (decoction)"
+      "dosage": "30g (pill form) / 3 - 9g (decoction)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "A strongly warming herb that rescues and tonifies Kidney Yang. It fires the gate of vitality (Ming Men), dispersing Cold from the lower body and reinforcing the warming power of the other deputies. Its presence addresses the deep cold and Yang deficiency that underlies the urinary and reproductive symptoms."
     },
     {
+      "id": 1678,
+      "formula_id": 244,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "30g (pill form) / 6 - 9g (decoction)"
+      "dosage": "30g (pill form) / 6 - 9g (decoction)",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes the Kidney Qi and secures the Essence. Its sour, astringent nature helps contain what the body is losing, working with the stabilizing herbs to prevent leakage of urine and seminal fluids. It also calms the spirit, addressing the anxiety and restless sleep often seen in this pattern."
     },
     {
+      "id": 1679,
+      "formula_id": 244,
       "herb_name": "Sang Piao Xiao (Ootheca Mantidis)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "30g (pill form) / 6 - 9g (decoction)"
+      "dosage": "30g (pill form) / 6 - 9g (decoction)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Tonifies the Kidneys, assists Yang, and restrains Essence while reducing urinary frequency. It directly targets the symptom of frequent or uncontrolled urination by strengthening the Kidney's holding function over the Bladder. It works synergistically with Wu Wei Zi and Mu Li to create a strong astringent layer."
     },
     {
+      "id": 1680,
+      "formula_id": 244,
       "herb_name": "Mu Li Ke",
       "english_name": "Oyster shell",
       "role": "Assistant",
-      "dosage": "60g (pill form) / 15 - 30g (decoction)"
+      "dosage": "60g (pill form) / 15 - 30g (decoction)",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "In its calcined form, Mu Li is a powerful astringent that secures Essence and stops abnormal discharge. It also anchors floating Yang and calms the spirit. Together with Sang Piao Xiao and Wu Wei Zi, it forms a stabilizing trio that locks in the body's vital substances once the Kidney Yang has been restored by the King and Deputy herbs."
     },
     {
+      "id": 1681,
+      "formula_id": 244,
       "herb_name": "Ji Nei Jin",
       "english_name": "Chicken gizzard lining",
       "role": "Assistant",
-      "dosage": "15g (pill form) / 3 - 9g (decoction)"
+      "dosage": "15g (pill form) / 3 - 9g (decoction)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Small Intestine, Urinary Bladder",
+      "role_description": "Specifically indicated for frequent urination and urinary incontinence. It addresses the primary symptom directly and complements the astringent herbs. Additionally, it supports digestion and helps transform stagnation, ensuring the rich tonifying herbs in the formula are properly absorbed."
     }
   ],
   "research": [

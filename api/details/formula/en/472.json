@@ -24,82 +24,160 @@
   "dietary_advice": "While taking this formula, avoid foods that generate Heat and toxins or aggravate inflammation. This includes greasy, fried, and rich foods, spicy and pungent foods (chili, pepper, raw garlic in excess), lamb and other heating meats, shellfish, and alcohol (beyond what may be used in the decoction itself). The classical texts specifically warn that dietary indiscretion during abscess treatment can be dangerous. Favour light, easily digestible foods such as congee, steamed vegetables, mung bean soup, and cooling fruits like pear and watermelon. Adequate hydration supports the body's ability to clear Heat and toxins.",
   "ingredients": [
     {
+      "id": 3586,
+      "formula_id": 472,
       "herb_name": "Jin Yin Hua",
       "english_name": "Honeysuckle flower",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Stomach, Large Intestine",
+      "role_description": "The primary herb in this formula. Jin Yin Hua clears Heat and resolves toxins, directly addressing the toxic Heat at the root of the abscess or sore. Its comparatively large dose reflects its lead role in combating the infection."
     },
     {
+      "id": 3587,
+      "formula_id": 472,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The tail portion of Angelica root is specifically chosen for its stronger Blood-moving action compared to the whole root. It invigorates Blood circulation and helps disperse the local Blood stasis that forms around the abscess."
     },
     {
+      "id": 3588,
+      "formula_id": 472,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Clears Heat from the Blood level and invigorates Blood circulation, working alongside Dang Gui Wei to reduce the local congestion and inflammation around the lesion."
     },
     {
+      "id": 3589,
+      "formula_id": 472,
       "herb_name": "Ru Xiang",
       "english_name": "Frankincense resin",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Invigorates Blood, promotes the movement of Qi, reduces swelling, and alleviates pain. Works as a pair with Mo Yao to powerfully address the pain and swelling of the lesion."
     },
     {
+      "id": 3590,
+      "formula_id": 472,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Invigorates Blood, disperses stasis, reduces swelling, and alleviates pain. Paired with Ru Xiang, it enhances the Blood-moving and pain-relieving effects of the formula."
     },
     {
+      "id": 3591,
+      "formula_id": 472,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and resolves stagnation. Since Qi moves Blood, regulating Qi flow enhances the Blood-moving effects of the other deputies and helps reduce swelling."
     },
     {
+      "id": 3592,
+      "formula_id": 472,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Disperses Wind, reduces swelling, expels pus, and alleviates pain. It also guides the formula outward to the skin surface where the lesion resides, helping to dissipate the swelling."
     },
     {
+      "id": 3593,
+      "formula_id": 472,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Releases the exterior and disperses Wind. Together with Bai Zhi, it vents pathogenic factors outward through the skin surface, helping the body expel the toxic Heat."
     },
     {
+      "id": 3594,
+      "formula_id": 472,
       "herb_name": "Chuan Shan Jia",
       "english_name": "Pangolin scales",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Powerfully penetrates the channels and collaterals, breaks up Blood stasis, reduces swelling, and promotes the discharge of pus. It is known for its ability to reach deep into tissues to resolve hard, stubborn accumulations."
     },
     {
+      "id": 3595,
+      "formula_id": 472,
       "herb_name": "Zao Jiao Ci",
       "english_name": "Chinese Honeylocust Spine",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Pierces through to the site of the lesion, draws out pus, and disperses swelling. Paired with Chuan Shan Jia, it strongly promotes the discharge of pus from abscesses that have already formed."
     },
     {
+      "id": 3596,
+      "formula_id": 472,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, reduces swelling, and expels pus. It supports Jin Yin Hua in clearing toxic Heat while also helping to soften and resolve hard lumps."
     },
     {
+      "id": 3597,
+      "formula_id": 472,
       "herb_name": "Zhe Bei Mu",
       "english_name": "Zhejiang Fritillary bulb",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs",
+      "role_description": "Clears Heat, transforms Phlegm, and disperses nodules. It helps to soften and break down the hardened mass of the abscess, complementing the pus-draining herbs."
     },
     {
+      "id": 3598,
+      "formula_id": 472,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Clears Heat, resolves toxins, and harmonizes all the other herbs in the formula. The nodal portion (Jie) is specifically used because of the classical association between nodes and dispersing nodules or lumps."
     }
   ],
   "research": [

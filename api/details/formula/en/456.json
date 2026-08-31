@@ -24,82 +24,160 @@
   "dietary_advice": "Avoid greasy, fried, and heavy foods that burden the Liver and impair Qi flow. Limit alcohol, as it generates Dampness-Heat and worsens Liver constraint. Reduce spicy, hot foods if there are signs of Heat (irritability, red tongue). Favor lightly cooked vegetables, especially leafy greens, which support the Liver's spreading function. Foods like celery, chrysanthemum tea, mint tea, and green citrus peel can complement the formula's Qi-moving action. Eat regular, moderate meals and avoid eating while angry or stressed, as emotional eating directly stagnates Liver Qi.",
   "ingredients": [
     {
+      "id": 3459,
+      "formula_id": 456,
       "herb_name": "Chuan Lian Zi",
       "english_name": "Sichuan Chinaberry Fruit",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Small Intestine, Urinary Bladder",
+      "role_description": "Drains Liver Qi, clears depressed Heat from the Liver channel, and relieves pain. As the chief herb, it directly addresses the core pathomechanism of Liver Qi stagnation generating constraint Heat, and guides the formula to the Liver and Stomach."
     },
     {
+      "id": 3460,
+      "formula_id": 456,
       "herb_name": "Yan Hu Suo",
       "english_name": "Corydalis rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Powerfully invigorates Blood and moves Qi to stop pain. Paired with Chuan Lian Zi, this creates the famous analgesic combination Jin Ling Zi San, which is the core pain-relieving mechanism of the formula."
     },
     {
+      "id": 3461,
+      "formula_id": 456,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver Blood, softens the Liver, and alleviates pain. Balances the many moving and dispersing herbs in the formula by preserving Liver Yin, preventing the Qi-moving herbs from consuming Liver Blood."
     },
     {
+      "id": 3462,
+      "formula_id": 456,
       "herb_name": "Jiang Huang",
       "english_name": "Turmeric rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Liver",
+      "role_description": "Moves Blood, breaks up stagnation, and alleviates pain. Reinforces the Blood-moving action of Yan Hu Suo and helps resolve Blood stasis that accompanies prolonged Qi stagnation."
     },
     {
+      "id": 3463,
+      "formula_id": 456,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Promotes the movement of Qi in the Spleen and Stomach, alleviates pain and distention in the abdomen. Addresses the secondary pattern of Stomach and Spleen Qi stagnation caused by Liver overacting."
     },
     {
+      "id": 3464,
+      "formula_id": 456,
       "herb_name": "Chen Xiang",
       "english_name": "Agarwood",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Promotes the movement of Qi and directs rebellious Qi downward. Its descending nature helps counter nausea, belching, and acid reflux by restoring the normal downward direction of Stomach Qi."
     },
     {
+      "id": 3465,
+      "formula_id": 456,
       "herb_name": "Sha Ren",
       "english_name": "Amomum fruit",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Transforms Dampness, moves Qi, and strengthens the Stomach. Addresses the Dampness and food stagnation that often accompany Liver-Spleen disharmony."
     },
     {
+      "id": 3466,
+      "formula_id": 456,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Transforms Dampness, moves Qi, and warms the middle. Works with Sha Ren to restore Stomach function and relieve bloating and nausea."
     },
     {
+      "id": 3467,
+      "formula_id": 456,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, transforms Dampness, and relieves distention and fullness. Addresses the abdominal bloating and fullness that results from Liver Qi overacting on the Spleen."
     },
     {
+      "id": 3468,
+      "formula_id": 456,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, dries Dampness, and harmonizes the Stomach. Supports the middle burner and helps prevent the many moving herbs from causing excessive dispersal."
     },
     {
+      "id": 3469,
+      "formula_id": 456,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi and reduces distention, particularly in the chest and abdomen. Helps relieve the sense of chest and rib-side fullness that is the hallmark complaint of this pattern."
     },
     {
+      "id": 3470,
+      "formula_id": 456,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness. Supports the Spleen so it can properly transform and transport, which is critical when the Liver is overacting on it. Also calms the spirit."
     },
     {
+      "id": 3471,
+      "formula_id": 456,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Envoy",
-      "dosage": "0.3 - 1g"
+      "dosage": "0.3 - 1g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Calms the Heart and settles the spirit, addressing the anxiety and restlessness that often accompany Liver Qi stagnation. Also serves to anchor the many dispersing herbs and prevent them from being overly stimulating."
     }
   ],
   "research": [

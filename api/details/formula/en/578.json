@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (such as salads, ice water, raw fruit in excess), greasy and fried foods, and dairy products, as these can generate further dampness and burden the Spleen. Alcohol should also be avoided, as it produces dampness and Heat. Favor lightly cooked, warm, and easily digestible foods such as congee, steamed vegetables, and small amounts of lean protein. Mildly aromatic foods like fresh ginger, dried tangerine peel, and Job's tears (yi yi ren) porridge can complement the formula's dampness-resolving action.",
   "ingredients": [
     {
+      "id": 4421,
+      "formula_id": 578,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The primary herb from the Xiao Chai Hu Tang component. Chai Hu enters the Liver and Gallbladder channels, resolving the Shao Yang level pathogen and restoring the smooth flow of Qi through the half-exterior, half-interior. It is the essential herb for addressing alternating chills and fever."
     },
     {
+      "id": 4422,
+      "formula_id": 578,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Pairs with Chai Hu to form the core Shao Yang harmonizing structure. While Chai Hu lifts and disperses outward, Huang Qin descends and clears Heat from the half-interior, addressing any Heat that has begun to accumulate alongside the Dampness."
     },
     {
+      "id": 4423,
+      "formula_id": 578,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "The principal herb from the Ping Wei San component. Cang Zhu is strongly aromatic and drying, serving as the main agent for resolving Dampness obstructing the middle burner. It revives the Spleen's ability to transform and transport."
     },
     {
+      "id": 4424,
+      "formula_id": 578,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Promotes the movement of Qi, resolves Dampness, and relieves distension and fullness in the abdomen. Works alongside Cang Zhu to restore Spleen function and eliminate the bloating and heaviness caused by Dampness accumulation."
     },
     {
+      "id": 4425,
+      "formula_id": 578,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Serves a dual role across both parent formulas. It dries Dampness, transforms Phlegm, and descends rebellious Stomach Qi to stop nausea and vomiting. Its downward-directing action complements the ascending nature of Chai Hu."
     },
     {
+      "id": 4426,
+      "formula_id": 578,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach, while also helping to dry Dampness and transform Phlegm. Supports Cang Zhu and Hou Po in restoring middle burner Qi circulation."
     },
     {
+      "id": 4427,
+      "formula_id": 578,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies Qi and strengthens the Spleen and Stomach. The formula addresses a condition where pre-existing weakness allows Dampness to accumulate and pathogens to enter, so Ren Shen supports the body's ability to expel the pathogen while preventing further internal transmission."
     },
     {
+      "id": 4428,
+      "formula_id": 578,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 5 slices"
+      "dosage": "3 - 5 slices",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the Stomach and assists in stopping nausea. Also helps the exterior-resolving herbs reach the surface and coordinates with Da Zao to regulate the nutritive and defensive layers."
     },
     {
+      "id": 4429,
+      "formula_id": 578,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "2 - 3 pieces"
+      "dosage": "2 - 3 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach and harmonizes the actions of the other herbs. Together with Sheng Jiang and Gan Cao, it protects the middle burner from the drying nature of the Dampness-resolving herbs."
     },
     {
+      "id": 4430,
+      "formula_id": 578,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula and protects the Stomach. Moderates the drying and dispersing properties of the other ingredients to prevent damage to the Spleen and Stomach."
     }
   ],
   "research": [],

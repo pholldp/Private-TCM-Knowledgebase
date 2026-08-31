@@ -24,46 +24,88 @@
   "dietary_advice": "Favor warm, nourishing, easily digestible foods such as bone broth, slow-cooked stews, lamb, chicken, black sesame, walnuts, dates, and warm congee with ginger. These support the formula's blood-building and warming actions.\nAvoid cold and raw foods (salads, ice water, raw fruits, sashimi), as they can counteract the warming effect and further impair the body's ability to generate warmth.\nAvoid greasy, overly rich, or hard-to-digest foods, as Shu Di Huang is already cloying by nature and the Spleen needs support to absorb the formula's tonifying effects.\nLimit cold-natured beverages such as green tea, chrysanthemum tea, and beer. Warm ginger tea is a suitable accompaniment.",
   "ingredients": [
     {
+      "id": 573,
+      "formula_id": 82,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 21g"
+      "dosage": "9 - 21g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The principal herb, used in the heaviest dose. Shu Di Huang richly nourishes Kidney Yin, replenishes essence (Jing), and fills the Blood. As a sweet, slightly warm substance entering the Kidney and Liver channels, it directly addresses the root deficiency of essence and Blood that underlies the formula's target conditions."
     },
     {
+      "id": 574,
+      "formula_id": 82,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Powerfully nourishes and activates Blood. It reinforces the King herb's blood-building action while adding a mild blood-moving quality that prevents the rich, cloying nature of Shu Di Huang from causing stagnation. Especially important for regulating menstruation."
     },
     {
+      "id": 575,
+      "formula_id": 82,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Tonifies Liver and Kidney, nourishes Blood and essence. Complements the King herb by nourishing both Liver Blood and Kidney Yin, strengthening the Liver-Kidney axis that governs the reproductive system, sinews, and bones."
     },
     {
+      "id": 576,
+      "formula_id": 82,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidney, strengthens sinews and bones, and warms Kidney Yang. Directly addresses lower back and knee pain due to Kidney deficiency, while adding a gentle Yang-warming quality that supports the warming strategy of the formula."
     },
     {
+      "id": 577,
+      "formula_id": 82,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms Kidney Yang, expels Cold from the channels, and promotes the circulation of Qi and Blood. Its hot nature disperses Cold stagnation that may be blocking the channels and causing pain, while its ability to invigorate Ming Men (Life Gate) Fire helps generate Blood from within."
     },
     {
+      "id": 578,
+      "formula_id": 82,
       "herb_name": "Niu Xi (Achyranthes Root)",
       "english_name": "",
       "role": "Envoy",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Tonifies the Liver and Kidney, strengthens the lower back and knees, and directs the formula's action downward to the lower body and reproductive organs. As an envoy herb, it guides the blood-nourishing and warming effects to the Chong and Ren vessels (the channels governing menstruation and reproduction)."
     },
     {
+      "id": 579,
+      "formula_id": 82,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi to support the production of Blood, moderates and harmonizes all the other herbs in the formula, and helps prevent the rich tonics from burdening the digestive system."
     }
   ],
   "research": [],

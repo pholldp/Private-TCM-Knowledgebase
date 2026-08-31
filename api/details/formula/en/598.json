@@ -24,46 +24,88 @@
   "dietary_advice": "Avoid cold, raw foods, dairy products, and greasy, phlegm-producing foods. Favour warm, easily digestible foods such as congee, steamed vegetables, and ginger tea. Cold drinks and ice cream should be avoided as they may aggravate Wind-Cold and Phlegm.",
   "ingredients": [
     {
+      "id": 4514,
+      "formula_id": 598,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Disperses Wind-Cold, opens the Lungs, and relieves wheezing. As the primary herb, it directly addresses the external pathogen and restores the Lung's dispersing and descending function."
     },
     {
+      "id": 4515,
+      "formula_id": 598,
       "herb_name": "Zi Su Zi",
       "english_name": "Perilla seed",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi, transforms phlegm, and stops cough. It reinforces the King's action on the Lungs while specifically targeting phlegm obstruction."
     },
     {
+      "id": 4516,
+      "formula_id": 598,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Directs Lung Qi downward, stops cough and calms wheezing. It works with Ma Huang in a classic 'one disperses, one descends' pair to restore normal Lung function."
     },
     {
+      "id": 4517,
+      "formula_id": 598,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Drains Lung heat and stops cough. It helps expel phlegm and prevents the warming herbs from generating internal heat, addressing the chest fullness and wheezing."
     },
     {
+      "id": 4518,
+      "formula_id": 598,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries Dampness to transform phlegm. Used here as the red outer peel (Ju Hong), it specifically targets phlegm in the Lungs and relieves chest tightness."
     },
     {
+      "id": 4519,
+      "formula_id": 598,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes urination and leaches out Dampness. As Chi Fu Ling (red Poria), it supports the Spleen and drains Dampness to reduce phlegm production, addressing the root of phlegm formation."
     },
     {
+      "id": 4520,
+      "formula_id": 598,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-fried to moderate the harsh dispersing nature of Ma Huang, harmonize the formula, and support the middle burner. It prevents depletion of Qi from excessive dispersion."
     }
   ],
   "research": [

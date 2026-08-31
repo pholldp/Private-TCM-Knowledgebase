@@ -24,46 +24,88 @@
   "dietary_advice": "Favor foods that support Qi and Blood: cooked whole grains, root vegetables, lean proteins, warm soups, and easily digestible meals. Foods like congee with red dates, millet porridge, and lightly cooked greens are ideal.\nAvoid cold and raw foods (salads, ice cream, cold drinks, raw fruit) as these can impair the Spleen's ability to generate Qi, working against the formula's intent. Avoid greasy, heavy, and overly rich foods that can create Dampness and Phlegm, potentially blocking the collaterals the formula is trying to open. Limit alcohol, as it generates Heat and can interact unpredictably with the blood-moving herbs. Also avoid excessively spicy or heating foods, as the patient may already have impaired circulation and inflammation in the vessels.",
   "ingredients": [
     {
+      "id": 1148,
+      "formula_id": 170,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "30 - 120g"
+      "dosage": "30 - 120g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Heavily dosed to powerfully tonify the original Qi. When Qi is abundant, it can propel Blood through the vessels and channels, addressing the root cause of blood stasis due to Qi deficiency. Raw (Sheng) Huang Qi is used specifically for its ascending and outward-moving quality."
     },
     {
+      "id": 1149,
+      "formula_id": 170,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "The tail portion of Dang Gui is specifically chosen for its stronger blood-invigorating action compared to the whole root. It activates blood circulation while also nourishing blood, achieving the effect of dispelling stasis without damaging healthy blood."
     },
     {
+      "id": 1150,
+      "formula_id": 170,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "5 - 10g"
+      "dosage": "5 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Invigorates blood and dispels stasis, reinforcing the Deputy herb's blood-moving action. Chi Shao also cools the blood slightly, helping to moderate any warming tendency from the heavy dose of Huang Qi."
     },
     {
+      "id": 1151,
+      "formula_id": 170,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "A key herb for moving both Blood and Qi. It promotes blood circulation, relieves pain, and helps drive the formula's actions upward to the head, which is especially relevant for post-stroke symptoms."
     },
     {
+      "id": 1152,
+      "formula_id": 170,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "A strong blood-moving herb that breaks up blood stasis and helps open blocked channels. Works synergistically with Hong Hua to enhance the stasis-dispelling effect."
     },
     {
+      "id": 1153,
+      "formula_id": 170,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Invigorates blood and dispels stasis. Paired with Tao Ren, this classic combination amplifies the formula's ability to remove blood stagnation from the channels and collaterals."
     },
     {
+      "id": 1154,
+      "formula_id": 170,
       "herb_name": "Di Long",
       "english_name": "Earthworm",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen, Urinary Bladder, Lungs",
+      "role_description": "Excels at unblocking the channels and collaterals. Its nature is to travel through and penetrate narrow passages, making it particularly effective for opening obstructed network vessels in the limbs. Also has a mild heat-clearing action."
     }
   ],
   "research": [

@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, iced drinks, raw fruit) as these will counteract the warming strategy and further damage the already depleted Yang. Avoid overly greasy or rich foods that generate Phlegm, since the formula is already addressing upward Phlegm rebellion. Spicy and pungent foods in excess should also be avoided, as the official drug standard notes to avoid acrid/spicy food (忌食辛辣食品). Warm, easily digested foods like congee, cooked root vegetables, and mild soups are preferred. Light salted water or ginger-date decoction were traditionally used to take the pills, as salt guides the formula into the Kidney channel and ginger warms the Stomach to aid absorption.",
   "ingredients": [
     {
+      "id": 3100,
+      "formula_id": 411,
       "herb_name": "Hei Xi",
       "english_name": "Lead",
       "role": "King",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Heavy in nature, it sinks and suppresses floating Yang, anchoring the uprising Qi and pulling it back down to the lower body. Its heaviness provides the formula's key sedating and descending action, calming wheezing by drawing rebellious Qi downward."
     },
     {
+      "id": 3101,
+      "formula_id": 411,
       "herb_name": "Liu Huang",
       "english_name": "Sulfur",
       "role": "King",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Hot",
+      "taste": "Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Kidneys, Large Intestine",
+      "role_description": "Extremely hot in nature, it powerfully warms the Ming Men (life-gate fire), replenishing Kidney Yang and dispelling deep internal cold. Paired with Hei Xi, it creates the core mineral combination: sulfur provides the warming fire, while Hei Xi provides the anchoring weight."
     },
     {
+      "id": 3102,
+      "formula_id": 411,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Strongly warms Kidney Yang and rescues depleted Yang. Works with Rou Gui to conduct fire back to its origin in the Kidneys (引火归原), ensuring that the floating Yang is drawn back down and re-rooted."
     },
     {
+      "id": 3103,
+      "formula_id": 411,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the Kidneys and assists Yang, working with Fu Zi to conduct fire back to its origin. Used at half dose relative to other herbs, reflecting its potency as a warming guide rather than a primary warmer."
     },
     {
+      "id": 3104,
+      "formula_id": 411,
       "herb_name": "Yang Qi Shi",
       "english_name": "Actinolite",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Kidneys",
+      "role_description": "A mineral that warms the Ming Men fire and strengthens Kidney Yang. Helps receive and anchor the returning Yang once it has been drawn back down by Hei Xi."
     },
     {
+      "id": 3105,
+      "formula_id": 411,
       "herb_name": "Bu Gu Zhi",
       "english_name": "Psoralea fruit",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Spleen",
+      "role_description": "Warms the Ming Men and tonifies Kidney Yang, strengthening the Kidney's ability to grasp Qi and preventing it from floating upward. Also warms the Spleen to stop diarrhea."
     },
     {
+      "id": 3106,
+      "formula_id": 411,
       "herb_name": "Hu Lu Ba",
       "english_name": "Fenugreek seed",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver",
+      "role_description": "Warms the Kidneys and disperses cold from the lower body. Particularly effective for cold pain and hernia-type symptoms associated with Kidney Yang deficiency."
     },
     {
+      "id": 3107,
+      "formula_id": 411,
       "herb_name": "Chen Xiang",
       "english_name": "Agarwood",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Powerfully directs Qi downward while warming the Kidneys, helping the Kidneys grasp and receive Qi. Its descending action complements Hei Xi in subduing rebellious Qi rising upward, and it warms the middle to resolve phlegm."
     },
     {
+      "id": 3108,
+      "formula_id": 411,
       "herb_name": "Xiao Hui Xiang",
       "english_name": "Fennel fruit",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen, Stomach",
+      "role_description": "Warms the middle and lower burners, disperses cold, and regulates Qi flow. Addresses cold pain in the abdomen and assists in warming the Kidney region."
     },
     {
+      "id": 3109,
+      "formula_id": 411,
       "herb_name": "Rou Dou Kou",
       "english_name": "Nutmeg",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Warms the middle burner, regulates Qi, and astringes the intestines to stop diarrhea. Helps address the digestive symptoms of Spleen-Kidney Yang deficiency such as loose stools and borborygmus."
     },
     {
+      "id": 3110,
+      "formula_id": 411,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Moves and regulates Qi in the middle burner, preventing Qi stagnation that could arise from the many heavy warming substances in this formula. Helps with chest and abdominal distension."
     },
     {
+      "id": 3111,
+      "formula_id": 411,
       "herb_name": "Chuan Lian Zi",
       "english_name": "Sichuan Chinaberry Fruit",
       "role": "Envoy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Small Intestine, Urinary Bladder",
+      "role_description": "The sole cold-natured ingredient in this formula. Its bitter, cold nature restrains and monitors the many warm and hot herbs, preventing them from becoming excessively drying or scorching. It also courses Liver Qi, which helps address the rushing and pain symptoms. This single cold herb among eleven warm ones is a masterful example of using a restraining assistant."
     }
   ],
   "research": [],

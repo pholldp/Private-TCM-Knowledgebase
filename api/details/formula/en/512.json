@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid spicy, fried, greasy, and heavily seasoned foods, as these generate internal Heat and directly oppose the formula's cooling action. Alcohol and tobacco should also be avoided.\nFavor cooling, mild foods such as fresh vegetables, pears, watermelon, mung bean soup, cucumber, and chrysanthemum tea. Drink plenty of warm or room-temperature water to support the body's elimination of Heat.\nAvoid excessively cold or raw foods despite the Heat pattern, as the formula itself is already very cold in nature. Adding large amounts of ice-cold food may further burden the Spleen and Stomach and cause diarrhea.",
   "ingredients": [
     {
+      "id": 3893,
+      "formula_id": 512,
       "herb_name": "Niu Huang",
       "english_name": "Cattle gallstone",
       "role": "King",
-      "dosage": "5g (in full batch of ~780g total)"
+      "dosage": "5g (in full batch of ~780g total)",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "The chief herb of the formula. Bitter in flavor and cool in nature, it enters the Heart and Liver channels. It powerfully clears Heat from the Heart, resolves toxins, and calms the spirit. As the King herb, it directly targets the core pathomechanism of Heat-toxin accumulating internally and flaring upward."
     },
     {
+      "id": 3894,
+      "formula_id": 512,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "200g (in full batch)"
+      "dosage": "200g (in full batch)",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid and very cold, it enters the Lung and Stomach channels. It powerfully clears Stomach and Lung Heat, drains Fire, and relieves thirst and irritability. As the largest ingredient by weight, it provides the main cooling force against blazing Stomach Fire that causes gum swelling and mouth sores."
     },
     {
+      "id": 3895,
+      "formula_id": 512,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "200g (in full batch)"
+      "dosage": "200g (in full batch)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Bitter and cold, it clears Heat, drains Fire downward, and purges the bowels. By promoting bowel movement, it provides an exit route for Heat-toxin to leave the body through the stool, preventing Heat from continuing to steam upward to the head and face."
     },
     {
+      "id": 3896,
+      "formula_id": 512,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "150g (in full batch)"
+      "dosage": "150g (in full batch)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, it clears Heat and dries Dampness, drains Fire, and resolves toxins. It is especially effective at clearing Heat from the Lung and upper body, complementing Shi Gao and Da Huang to address Heat at multiple levels."
     },
     {
+      "id": 3897,
+      "formula_id": 512,
       "herb_name": "Xiong Huang",
       "english_name": "Realgar",
       "role": "Assistant",
-      "dosage": "50g (in full batch)"
+      "dosage": "50g (in full batch)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach, Large Intestine",
+      "role_description": "Acrid and warm but strongly toxin-resolving, it clears Heat-toxin and reduces swelling. It specifically targets toxic swellings, sores, and abscesses. Despite its warm nature, its powerful detoxifying action reinforces the formula's ability to resolve Fire-toxin in cases of severe swelling and pain."
     },
     {
+      "id": 3898,
+      "formula_id": 512,
       "herb_name": "Bing Pian",
       "english_name": "Borneol",
       "role": "Assistant",
-      "dosage": "25g (in full batch)"
+      "dosage": "25g (in full batch)",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Spleen, Lungs",
+      "role_description": "Acrid, bitter, and slightly cold, it clears Heat, relieves pain, reduces swelling, and opens orifices. It has a strong aromatic quality that helps direct the formula's actions to the head, eyes, mouth, and throat, and enhances the pain-relieving effect on inflamed tissues."
     },
     {
+      "id": 3899,
+      "formula_id": 512,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Assistant",
-      "dosage": "100g (in full batch)"
+      "dosage": "100g (in full batch)",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Bitter and acrid with a neutral thermal nature, it opens and disperses Lung Qi and benefits the throat. It acts as a \"boat\" herb that directs the formula's medicinal actions upward to the throat and head, where the symptoms of Heat-toxin most commonly manifest."
     },
     {
+      "id": 3900,
+      "formula_id": 512,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "50g (in full batch)"
+      "dosage": "50g (in full batch)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral, it harmonizes all the other herbs in the formula, moderates the harsh cold and bitter properties of the other ingredients, and protects the Stomach from damage. It also clears Heat and resolves toxins in its own right, and soothes the throat."
     }
   ],
   "research": [

@@ -202,7 +202,8 @@ def generate_static_data():
             
             # Fetch full details
             details = dict(formula)
-            details['ingredients'] = ingredients_list
+            cursor.execute("SELECT * FROM formula_ingredients WHERE formula_id = ?", (f_id,))
+            details['ingredients'] = [dict(r) for r in cursor.fetchall()]
             
             cursor.execute("SELECT * FROM formula_research WHERE formula_id = ?", (f_id,))
             details['research'] = [dict(r) for r in cursor.fetchall()]

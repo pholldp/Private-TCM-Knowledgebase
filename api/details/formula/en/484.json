@@ -24,82 +24,160 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, ice water, cold drinks, raw fish), as these can introduce further Cold and Dampness into the body and directly counteract the formula's warming, drying action.\nAvoid greasy, fried, and overly rich foods as well as dairy products, which tend to generate Dampness and Phlegm according to TCM dietary theory, working against the formula's Dampness-resolving function.\nFavor warm, lightly cooked foods that support the Spleen's digestive function: congee (rice porridge), soups, lightly steamed vegetables, ginger tea, and warming spices like cinnamon and black pepper in moderation. Small amounts of lean protein are acceptable. Alcohol should be avoided as it generates Dampness and Heat.",
   "ingredients": [
     {
+      "id": 3679,
+      "formula_id": 484,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The chief herb and namesake of the formula. Yi Yi Ren strengthens the Spleen, leaches out Dampness, and specifically addresses painful obstruction (Bi) of the joints. It resolves Dampness from the channels and muscles while gently supporting the Spleen's ability to transform fluids, addressing both the root and the branch of Damp Bi syndrome."
     },
     {
+      "id": 3680,
+      "formula_id": 484,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Dispels Wind-Cold-Damp from the upper body and Tai Yang channel. Together with Du Huo, it ensures that Wind-Damp pathogen is expelled from both the upper and lower body. Its pungent, warm nature opens the channels and alleviates joint pain, particularly of the neck, shoulders, and upper back."
     },
     {
+      "id": 3681,
+      "formula_id": 484,
       "herb_name": "Du Huo",
       "english_name": "Pubescent angelica root",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Liver, Urinary Bladder",
+      "role_description": "Dispels Wind-Cold-Damp from the lower body and Shao Yin channel. Paired with Qiang Huo, it provides comprehensive coverage of Wind-Damp Bi throughout the entire body, particularly targeting the low back, hips, knees, and lower limbs."
     },
     {
+      "id": 3682,
+      "formula_id": 484,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "A key Wind-expelling herb that disperses Wind-Damp from muscles and channels. It reinforces the Wind-dispelling action of Qiang Huo and Du Huo, helping to unblock the channels and relieve pain without being overly drying or harsh."
     },
     {
+      "id": 3683,
+      "formula_id": 484,
       "herb_name": "Zhi Chuan Wu",
       "english_name": "Processed Sichuan Aconite Root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys, Spleen",
+      "role_description": "Powerfully disperses Cold, unblocks the channels, and stops pain. Together with Cao Wu, it addresses severe Cold-Damp obstruction with intense joint pain, providing strong analgesic action for stubborn Bi patterns where Cold is deeply lodged in the channels."
     },
     {
+      "id": 3684,
+      "formula_id": 484,
       "herb_name": "Zhi Cao Wu",
       "english_name": "Processed Wild Aconite Root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Kidneys, Spleen",
+      "role_description": "Works in tandem with Chuan Wu to intensify the Cold-dispersing and pain-stopping action. Cao Wu is particularly effective at searching out Wind-Cold-Damp lodged deep in the bones and joints. The Chuan Wu and Cao Wu pairing is a classical combination for severe cold Bi pain."
     },
     {
+      "id": 3685,
+      "formula_id": 484,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens the exterior and disperses Cold, promoting the outward expulsion of Wind-Cold-Damp pathogens through sweating. Its warming and diffusing action assists the other Wind-dispelling herbs in unblocking the channels and relieving joint stiffness and pain."
     },
     {
+      "id": 3686,
+      "formula_id": 484,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels and promotes the circulation of Yang Qi through the limbs. It assists Ma Huang in dispersing Cold while also harmonizing the nutritive and protective levels of Qi, helping to warm and unblock the joints and sinews."
     },
     {
+      "id": 3687,
+      "formula_id": 484,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Strongly dries Dampness and strengthens the Spleen's transport function. It works synergistically with Yi Yi Ren to address Dampness from two angles: Yi Yi Ren leaches Dampness downward through urination while Cang Zhu dries it through aromatic transformation. Also assists in expelling Wind-Cold-Damp from the exterior."
     },
     {
+      "id": 3688,
+      "formula_id": 484,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood. In Bi syndrome, chronic obstruction of the channels impairs Blood circulation, and the pungent, warm Wind-dispersing herbs can consume Blood. Dang Gui prevents this by nourishing Blood while also promoting circulation, embodying the classical principle that treating Wind requires first treating the Blood."
     },
     {
+      "id": 3689,
+      "formula_id": 484,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes the movement of Qi. It enhances Dang Gui's Blood-nourishing action by ensuring active circulation, and its ability to move Qi helps the other herbs reach their target locations throughout the channels and joints."
     },
     {
+      "id": 3690,
+      "formula_id": 484,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the middle, disperses Cold, and assists the stomach in receiving the formula. It supports the Cold-dispersing action of the other warm herbs and helps protect the Spleen and Stomach from any harsh effects of the formula's many pungent, drying ingredients."
     },
     {
+      "id": 3691,
+      "formula_id": 484,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the formula and moderates the toxicity and harshness of Chuan Wu and Cao Wu. It also tonifies the Spleen Qi and helps buffer the strong dispersing actions of the other herbs, preventing them from depleting the body's righteous Qi."
     }
   ],
   "research": [],

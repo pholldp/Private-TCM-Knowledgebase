@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid spicy, greasy, and fried foods, as these generate Damp-Heat in the intestines and directly counteract the formula's cooling action. Alcohol should be strictly avoided, as it produces Heat and toxin in the Blood and aggravates intestinal bleeding. Raw, cold foods and iced drinks should also be limited, as the formula is already cooling and excessive cold can injure the Spleen. Favor bland, easily digestible foods such as congee (rice porridge), steamed vegetables, and mung bean soup, which gently support intestinal health and complement the formula's actions. Light, fiber-rich foods can help regulate bowel movements without straining.",
   "ingredients": [
     {
+      "id": 3142,
+      "formula_id": 417,
       "herb_name": "Huai Hua",
       "english_name": "Japanese Pagoda Tree Flower",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Large Intestine",
+      "role_description": "The principal herb of the formula. Huai Hua is bitter and slightly cold, entering the Liver and Large Intestine channels. It excels at clearing damp-heat from the Large Intestine, cooling the Blood, and stopping bleeding. It directly addresses the core pathomechanism of heat damaging the intestinal blood vessels."
     },
     {
+      "id": 3143,
+      "formula_id": 417,
       "herb_name": "Ce Bai Ye",
       "english_name": "Arborvitae Leaf",
       "role": "Deputy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Assists the King herb by also cooling the Blood and stopping bleeding. Ce Bai Ye is bitter, astringent, and slightly cold. It enters the blood level to clear heat and dry dampness without injuring Yin, reinforcing the hemostatic and heat-clearing power of Huai Hua."
     },
     {
+      "id": 3144,
+      "formula_id": 417,
       "herb_name": "Jing Jie",
       "english_name": "Schizonepeta",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind and enters the blood level to stop bleeding. Although Jing Jie is mildly warm and acrid, when charred or used as the spike (穗), it acts on the blood level to resolve bleeding caused by Wind-Heat lodged in the intestines. It prevents the cool herbs from over-congealing the blood."
     },
     {
+      "id": 3145,
+      "formula_id": 417,
       "herb_name": "Zhi Qiao (&#x67B3;&#x58F3;, Fructus Aurantii)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Moves Qi and widens the intestines. Since Wind-Heat and damp-heat obstruct the Qi mechanism of the Large Intestine, Zhi Qiao restores proper Qi flow, embodying the principle that 'when Qi is regulated, Blood is regulated' (气调则血调). Its downward-directing action complements the upward-lifting quality of Jing Jie."
     }
   ],
   "research": [

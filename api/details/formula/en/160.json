@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, drink plenty of warm water to support its diuretic action and help flush out urinary sediment and Heat. Avoid greasy, fried, and heavily spiced foods, which can generate more Dampness and Heat. Reduce intake of alcohol, strong tea, and coffee, which irritate the urinary tract. Foods that gently support urinary health are beneficial, such as barley water (yi mi shui), watermelon, winter melon, and corn silk tea. Avoid cold and raw foods if the digestion is weak, as the formula is already cooling in nature.",
   "ingredients": [
     {
+      "id": 1062,
+      "formula_id": 160,
       "herb_name": "Shi Wei",
       "english_name": "Pyrrosia leaf",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "The chief herb that clears Damp-Heat from the Bladder, promotes urination, unblocks painful urinary dysfunction, and helps dissolve urinary stones. Its cool nature directly targets the Heat in the Bladder that drives the pattern."
     },
     {
+      "id": 1063,
+      "formula_id": 160,
       "herb_name": "Hua Shi",
       "english_name": "Talc",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Stomach, Urinary Bladder",
+      "role_description": "Strongly clears Heat and promotes urination through its slippery nature, helping to flush sand and stones from the urinary tract. Works synergistically with Shi Wei to form the primary stone-dissolving pair."
     },
     {
+      "id": 1064,
+      "formula_id": 160,
       "herb_name": "Qu Mai",
       "english_name": "Fringed pink herb",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Clears Heat from the Heart and Small Intestine, promotes urination, and unblocks painful urinary dysfunction. Reinforces the formula's ability to clear Heat from the lower urinary tract."
     },
     {
+      "id": 1065,
+      "formula_id": 160,
       "herb_name": "Dong Kui Zi",
       "english_name": "Mallow seed",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Large Intestine, Small Intestine, Urinary Bladder",
+      "role_description": "Moistens and smooths the urinary passages, promotes urination, and helps unblock obstructions in the Bladder. Its slippery quality facilitates the passage of gravel and stones."
     },
     {
+      "id": 1066,
+      "formula_id": 160,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Drains Heat from the Heart via the Small Intestine into the Bladder, promotes urination, and unblocks the water passages. Connects the upper and lower Burners to ensure complete drainage of Heat."
     },
     {
+      "id": 1067,
+      "formula_id": 160,
       "herb_name": "Che Qian Zi",
       "english_name": "Plantain Seed",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs, Small Intestine",
+      "role_description": "Clears Heat and promotes urination, helping to flush Damp-Heat from the Bladder. Also clears the Liver and brightens the eyes as a secondary benefit."
     },
     {
+      "id": 1068,
+      "formula_id": 160,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and softens the Liver, alleviates the cramping abdominal pain that accompanies urinary obstruction. Its sour-astringent quality prevents excessive drainage of Yin fluids from the many diuretic herbs."
     },
     {
+      "id": 1069,
+      "formula_id": 160,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and promotes water metabolism, ensuring the body's fluid processing remains efficient. Protects the Spleen from damage by the formula's many cold, draining herbs."
     },
     {
+      "id": 1070,
+      "formula_id": 160,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, alleviating pain from Blood stasis that may accompany prolonged urinary obstruction. Prevents the cold, draining herbs from consuming Blood."
     },
     {
+      "id": 1071,
+      "formula_id": 160,
       "herb_name": "Wang Bu Liu Xing",
       "english_name": "Cowherb seed",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "Invigorates Blood circulation and promotes urination. Its ability to 'go everywhere without staying' helps push stagnant material through the urinary passages and assists in expelling stones."
     },
     {
+      "id": 1072,
+      "formula_id": 160,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates the cold and draining properties of the other ingredients, and alleviates urinary pain. Used in its honey-prepared form (炙甘草) to protect the Stomach."
     }
   ],
   "research": [],

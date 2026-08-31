@@ -24,40 +24,76 @@
   "dietary_advice": "Favor foods that nourish Yin and moisten dryness: black sesame seeds, walnuts, goji berries, mulberries, pears, lotus seeds, yams, black beans, bone broth, and small amounts of honey. Avoid excessively spicy, hot, or drying foods (chili, strong alcohol, deep-fried foods, excessive coffee) which can further deplete Yin fluids. Cold, raw foods should be consumed in moderation since the formula already contains heavy, cloying herbs that can burden the Spleen. Greasy or overly rich foods may compound the digestive difficulty of the enriching herbs. Warm, easily digestible meals support the Spleen's ability to absorb the formula's nourishing properties.",
   "ingredients": [
     {
+      "id": 643,
+      "formula_id": 91,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The principal herb, used in large dose to deeply nourish Kidney Yin and fill the true Yin (Essence). Its sweet, slightly warm nature enriches the Kidney without generating dryness, forming the core of this formula's Yin-replenishing strategy."
     },
     {
+      "id": 644,
+      "formula_id": 91,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes the Liver and Kidney, astringes Essence, and prevents leakage of Yin fluids. Supports the King herb in securing the Kidney and addressing seminal emission and night sweats. Those sensitive to its sour taste may reduce the dose."
     },
     {
+      "id": 645,
+      "formula_id": 91,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes the Liver and Kidney, benefits Essence and Blood, and brightens the eyes. Works alongside Shan Zhu Yu to reinforce the King herb's Yin-nourishing action and extend it to the Liver system."
     },
     {
+      "id": 646,
+      "formula_id": 91,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Benefits Yin, strengthens the Spleen, and consolidates the Kidney. Supports the production of postnatal Qi and Blood to sustain Yin nourishment, and stabilizes Kidney Essence to help reduce emissions and leakage."
     },
     {
+      "id": 647,
+      "formula_id": 91,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "4.5g"
+      "dosage": "4.5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and gently promotes water metabolism. Prevents the heavy, cloying Yin-nourishing herbs from impeding digestion, ensuring the rich tonics can be properly absorbed."
     },
     {
+      "id": 648,
+      "formula_id": 91,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen Qi, harmonizes the actions of all herbs in the formula, and moderates any potential for digestive stagnation from the rich Yin-nourishing ingredients."
     }
   ],
   "research": [

@@ -24,22 +24,40 @@
   "dietary_advice": "After taking this formula and achieving emesis, diet is critically important for recovery. Classical sources advise eating only cold or cool thin rice porridge (稀粥) in small amounts to gently restore Stomach Qi. Avoid all greasy, oily, raw, cold, spicy, or hard-to-digest foods. Do not eat heavy meals. Avoid alcohol. The patient should also avoid wind exposure after vomiting, as the body's defenses are temporarily weakened. If vomiting does not stop, classical texts recommend drinking a decoction of scallion white (Cong Bai) or sucking on a piece of sugar to help settle the Stomach.",
   "ingredients": [
     {
+      "id": 1878,
+      "formula_id": 268,
       "herb_name": "Gua Di",
       "english_name": "Melon Pedicle",
       "role": "King",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "The primary emetic agent. Bitter in flavor and cold in nature, it powerfully induces vomiting to expel phlegm, retained fluids, and undigested food lodged in the chest and upper digestive tract. Its intensely bitter quality drives the upward expulsion of pathogenic substances from the upper body."
     },
     {
+      "id": 1879,
+      "formula_id": 268,
       "herb_name": "Chi Xiao Dou",
       "english_name": "Adzuki bean",
       "role": "Deputy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Small Intestine",
+      "role_description": "Sour in flavor, it works together with Gua Di following the classical principle of 'sour and bitter promote upward expulsion' (酸苦涌泄). It enhances the emetic action while also helping to clear dampness and relieve irritability and fullness in the chest. Its gentler nature also helps moderate the harshness of Gua Di."
     },
     {
+      "id": 1880,
+      "formula_id": 268,
       "herb_name": "Dan Dou Chi",
       "english_name": "Fermented soybean",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Light and rising in nature, it helps to disperse and expel pathogenic factors from the chest, carrying the medicinal action upward. It also serves to harmonize the Stomach and protect the Stomach Qi from being overly damaged by the harsh emetic action. Used as a decoction vehicle to deliver the powder."
     }
   ],
   "research": [],

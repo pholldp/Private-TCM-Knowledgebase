@@ -24,94 +24,184 @@
   "dietary_advice": "Avoid greasy, oily, and fried foods while taking this formula, as they generate further Dampness and food stagnation, directly counteracting the formula's purpose. Cold and raw foods (salads, iced drinks, raw fish) should also be avoided, as they impair the Spleen's transformative function. Alcohol should be avoided. Favor light, easily digested foods such as plain rice porridge (congee), steamed vegetables, and clear soups. Eat small, frequent meals rather than large portions to reduce the burden on an already compromised digestive system.",
   "ingredients": [
     {
+      "id": 3264,
+      "formula_id": 432,
       "herb_name": "Huo Xiang",
       "english_name": "Patchouli herb",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "The chief aromatic herb in the formula, Huo Xiang aromatically transforms Dampness, harmonizes the Middle Burner, stops vomiting, and releases mild exterior patterns. It directly addresses the core pathomechanism of Dampness obstructing the Spleen and Stomach."
     },
     {
+      "id": 3265,
+      "formula_id": 432,
       "herb_name": "Cang Zhu",
       "english_name": "Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Strongly dries Dampness and strengthens the Spleen's transportive function. Works alongside Huo Xiang to powerfully resolve Dampness from the Middle Burner."
     },
     {
+      "id": 3266,
+      "formula_id": 432,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, dries Dampness, and relieves distension in the abdomen. Its Qi-moving action helps transform stagnant food and Dampness in the Stomach and intestines."
     },
     {
+      "id": 3267,
+      "formula_id": 432,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "The largest ingredient by proportion, Fu Ling strengthens the Spleen and promotes urination to drain Dampness downward. It supports the Spleen's ability to transform and transport fluids."
     },
     {
+      "id": 3268,
+      "formula_id": 432,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Strengthens the Spleen, promotes urination, and drains Dampness. Complements Fu Ling in resolving Dampness through the urinary pathway while gently supporting digestion."
     },
     {
+      "id": 3269,
+      "formula_id": 432,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Promotes the movement of Qi in the Spleen and Stomach, relieves pain and distension. Prevents the heavy Dampness-draining herbs from causing Qi stagnation."
     },
     {
+      "id": 3270,
+      "formula_id": 432,
       "herb_name": "Ge Gen",
       "english_name": "Kudzu root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Releases the exterior, raises clear Yang Qi of the Spleen and Stomach, and generates fluids. Helps relieve diarrhea by raising the clear and addresses mild exterior symptoms that may accompany digestive upset."
     },
     {
+      "id": 3271,
+      "formula_id": 432,
       "herb_name": "Bai Zhi",
       "english_name": "Dahurian angelica root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Disperses Wind-Cold, opens the nasal passages, and reduces Dampness. Supports the formula's ability to address headache and exterior symptoms accompanying digestive complaints."
     },
     {
+      "id": 3272,
+      "formula_id": 432,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "A fermented preparation that directly reduces food stagnation, harmonizes the Stomach, and promotes digestion. Particularly effective for stagnation from starchy foods and alcohol."
     },
     {
+      "id": 3273,
+      "formula_id": 432,
       "herb_name": "Gu Ya",
       "english_name": "Rice sprout",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Germinated rice that aids digestion and reduces food stagnation, particularly from grains and starches. Works with Shen Qu to address food accumulation."
     },
     {
+      "id": 3274,
+      "formula_id": 432,
       "herb_name": "Tian Hua Fen",
       "english_name": "Trichosanthes root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Clears Heat, generates fluids, and resolves Phlegm. Provides a cooling, moistening balance to the many warm, drying herbs in the formula, and helps address thirst associated with digestive upset."
     },
     {
+      "id": 3275,
+      "formula_id": 432,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Disperses Wind-Heat, clears the head, and calms the Liver. Addresses headache, dizziness, and any Heat component in the pattern, particularly when digestive upset is accompanied by a heavy or dizzy head."
     },
     {
+      "id": 3276,
+      "formula_id": 432,
       "herb_name": "Tian Ma",
       "english_name": "Gastrodia root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Calms Liver Wind and relieves dizziness and headache. Addresses vertigo and nausea that may accompany gastrointestinal disturbance, including motion sickness."
     },
     {
+      "id": 3277,
+      "formula_id": 432,
       "herb_name": "Ju Hong",
       "english_name": "Tangerine Peel (red outer layer)",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "The red outer peel of tangerine regulates Qi, dries Dampness, and transforms Phlegm. Helps relieve nausea, belching, and abdominal bloating."
     },
     {
+      "id": 3278,
+      "formula_id": 432,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "A light, aromatic mint that disperses Wind-Heat from the head, soothes the Liver, and helps direct the formula upward to relieve headache and nausea. Its aromatic quality also aids the transformation of Dampness."
     }
   ],
   "research": [],

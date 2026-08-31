@@ -24,148 +24,292 @@
   "dietary_advice": "Avoid cold and raw foods (salads, ice water, chilled drinks, raw seafood) while taking this formula, as cold constricts the channels and impedes Blood circulation, counteracting the formula's purpose of moving Blood and opening the collaterals.\nAvoid excessively greasy and heavy foods, which can generate Dampness and obstruct Qi flow, interfering with the formula's dispersing actions.\nFavor warm, easily digested foods that mildly support Blood circulation, such as lightly cooked vegetables, bone broth, congee, and warming spices like ginger and turmeric.\nAvoid alcohol in large quantities. Historically, small amounts of warm rice wine (huang jiu) were sometimes used to enhance the Blood-moving effect of trauma formulas, but this should only be done under practitioner guidance and never with concurrent pharmaceutical medications.\nAvoid excessive intake of sour or astringent foods (vinegar, unripe fruits), which have a contracting nature that could oppose the formula's dispersing actions.",
   "ingredients": [
     {
+      "id": 3840,
+      "formula_id": 507,
       "herb_name": "San Qi",
       "english_name": "Notoginseng root",
       "role": "King",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Stomach",
+      "role_description": "The chief herb of the formula. San Qi (Notoginseng) uniquely both stops bleeding and invigorates Blood without causing further bleeding, making it ideal for traumatic injury. It disperses Blood stasis, reduces swelling, and alleviates pain, directly addressing the core pathology of traumatic Blood stasis."
     },
     {
+      "id": 3841,
+      "formula_id": 507,
       "herb_name": "Xu Duan",
       "english_name": "Teasel root",
       "role": "Deputy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens sinews and bones, and promotes the mending of damaged tissues. Its name literally means 'restore what is broken,' reflecting its classical role in fracture healing and tendon repair."
     },
     {
+      "id": 3842,
+      "formula_id": 507,
       "herb_name": "Xue Jie",
       "english_name": "Dragon&#x27;s blood resin",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Dragon's Blood resin powerfully invigorates Blood, disperses stasis, stops bleeding, and promotes tissue regeneration. It works synergistically with San Qi to address both the stasis and the tissue damage from trauma."
     },
     {
+      "id": 3843,
+      "formula_id": 507,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, ensuring that while stasis is being dispersed, healthy Blood is also being replenished. Prevents the strongly Blood-moving herbs from depleting the body's Blood reserves during healing."
     },
     {
+      "id": 3844,
+      "formula_id": 507,
       "herb_name": "Ru Xiang",
       "english_name": "Frankincense resin",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Frankincense invigorates Blood, promotes movement of Qi, relaxes the sinews, and alleviates pain. It is especially effective for pain and swelling in the muscles and joints. Paired with Mo Yao, it forms a classical synergy for trauma treatment."
     },
     {
+      "id": 3845,
+      "formula_id": 507,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Myrrh invigorates Blood, dispels stasis, reduces swelling, and relieves pain. Together with Ru Xiang, this classical pairing addresses both Qi and Blood stagnation at the site of injury."
     },
     {
+      "id": 3846,
+      "formula_id": 507,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Safflower invigorates Blood, unblocks the channels, and disperses stasis. It broadens the formula's ability to move stagnant Blood throughout the channels and collaterals, particularly in areas of bruising."
     },
     {
+      "id": 3847,
+      "formula_id": 507,
       "herb_name": "Chi Shao",
       "english_name": "Red peony root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Red Peony root clears Heat, cools the Blood, and disperses stasis. It addresses the inflammatory Heat component that accompanies acute traumatic injury, while also helping to break up stagnant Blood."
     },
     {
+      "id": 3848,
+      "formula_id": 507,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Peach kernel is a powerful Blood stasis breaker that helps dissolve deeply lodged bruising and clotted Blood within the tissues."
     },
     {
+      "id": 3849,
+      "formula_id": 507,
       "herb_name": "San Leng",
       "english_name": "Bur-Reed Rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Sparganium rhizome strongly breaks Blood stasis and promotes Qi movement, helping to resolve stubborn masses of stagnant Blood in deep tissue injuries."
     },
     {
+      "id": 3850,
+      "formula_id": 507,
       "herb_name": "Tu Bie Chong",
       "english_name": "Ground beetle",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Ground beetle (Eupolyphaga) is a powerful Blood stasis breaker especially indicated for bone fractures and connective tissue damage. It enters the Liver channel and is classically used to reconnect broken sinews and bones."
     },
     {
+      "id": 3851,
+      "formula_id": 507,
       "herb_name": "Yan Hu Suo",
       "english_name": "Corydalis rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Corydalis rhizome is one of TCM's strongest pain-relieving herbs. It invigorates Blood and moves Qi, powerfully alleviating pain from both Blood stasis and Qi stagnation."
     },
     {
+      "id": 3852,
+      "formula_id": 507,
       "herb_name": "Su Mu",
       "english_name": "Sappanwood",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Sappan wood invigorates Blood, dispels stasis, and reduces swelling. Particularly effective for traumatic injuries with prominent bruising and soft tissue swelling."
     },
     {
+      "id": 3853,
+      "formula_id": 507,
       "herb_name": "Liu Ji Nu",
       "english_name": "Diverse wormwood herb",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Spleen",
+      "role_description": "Artemisia anomala disperses Blood stasis and alleviates pain. It is especially valued in trauma formulas for its ability to unblock channels and reduce swelling from injuries."
     },
     {
+      "id": 3854,
+      "formula_id": 507,
       "herb_name": "Jiang Huang",
       "english_name": "Turmeric rhizome",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Liver",
+      "role_description": "Turmeric rhizome invigorates Blood, moves Qi, unblocks the channels, and relieves pain. It has a particular affinity for the limbs and shoulders, helping direct the formula's Blood-moving action to the extremities."
     },
     {
+      "id": 3855,
+      "formula_id": 507,
       "herb_name": "Gu Sui Bu",
       "english_name": "Drynaria rhizome",
       "role": "Assistant",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Drynaria rhizome tonifies the Kidneys, strengthens bones, and promotes the healing of fractures and damaged tendons. Its name means 'mend the broken,' and it pairs synergistically with Xu Duan for bone regeneration."
     },
     {
+      "id": 3856,
+      "formula_id": 507,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Tree Peony root bark clears Heat, cools the Blood, and invigorates Blood circulation. It helps address the inflammatory Heat that accumulates at injury sites while mildly dispersing stasis."
     },
     {
+      "id": 3857,
+      "formula_id": 507,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "White Peony root nourishes Blood, softens the Liver, and relaxes spasming sinews. It moderates the harsh Blood-breaking herbs in the formula and helps relieve muscle spasm and pain around the injury site."
     },
     {
+      "id": 3858,
+      "formula_id": 507,
       "herb_name": "Tian Gua Zi",
       "english_name": "Muskmelon seed",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Sweet melon seed clears Heat, disperses stasis, and promotes tissue healing. In trauma formulas, it assists in resolving internal Blood stasis and reducing swelling."
     },
     {
+      "id": 3859,
+      "formula_id": 507,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Siler root dispels Wind-Dampness from the channels and alleviates pain. It helps address the aching component of injuries, particularly when affected by weather changes, and guides the formula through the superficial muscle layers."
     },
     {
+      "id": 3860,
+      "formula_id": 507,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "3 - 9g"
+      "dosage": "3 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Immature bitter orange breaks up Qi stagnation, which always accompanies Blood stasis in trauma. By moving stagnant Qi, it enhances the effectiveness of the Blood-moving herbs."
     },
     {
+      "id": 3861,
+      "formula_id": 507,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Akebia stem unblocks the channels, promotes urination, and helps drain Heat and Dampness (swelling) through the urinary route. It assists in reducing edema around injury sites."
     },
     {
+      "id": 3862,
+      "formula_id": 507,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Platycodon root has an ascending nature that guides the formula's actions upward, ensuring effectiveness for injuries above the diaphragm such as shoulder, neck, and upper body trauma. It also opens the Lung Qi to support circulation."
     },
     {
+      "id": 3863,
+      "formula_id": 507,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Licorice root harmonizes all the herbs in the formula, moderates the harsh nature of the strong Blood-breaking herbs like Tu Bie Chong and San Leng, and protects the Stomach from irritation by the many acrid, Blood-moving substances."
     }
   ],
   "research": [],

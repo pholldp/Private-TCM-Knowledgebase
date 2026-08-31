@@ -24,28 +24,52 @@
   "dietary_advice": "While taking Si Wu Tang, favor warm, cooked, easily digestible foods that support Blood production: dark leafy greens, red dates, goji berries, black sesame seeds, bone broth, lean red meat, and liver. Avoid cold, raw, and icy foods and drinks, which can impair the Spleen's ability to generate Blood and hinder the formula's warming action. Reduce greasy, heavy, and overly sweet foods, as these generate dampness that can counteract the formula (particularly if Shu Di Huang is already causing digestive heaviness). Limit excessively spicy food, strong tea, and coffee, which may scatter Blood and Qi. During menstruation, also avoid sour and astringent foods that may impede the smooth flow of Blood.",
   "ingredients": [
     {
+      "id": 20,
+      "formula_id": 4,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The primary Blood-nourishing herb in this formula. Sweet in flavor and slightly warm in nature, it enters the Liver and Kidney channels to nourish Yin and replenish Blood. It provides the core substance needed to rebuild depleted Blood stores, serving as the rich, nourishing foundation of the formula."
     },
     {
+      "id": 21,
+      "formula_id": 4,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Supplements Blood while also gently moving it, entering the Liver and Heart channels to nourish, harmonize, and regulate Blood flow. It supports the King herb by both replenishing Blood and preventing the stagnation that often accompanies Blood deficiency. As a classical Blood-regulating herb, it is especially important for menstrual regulation."
     },
     {
+      "id": 22,
+      "formula_id": 4,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin through its astringent, consolidating nature. It softens the Liver, relieves cramping and abdominal pain, and works in concert with Shu Di Huang to provide the Yin-nourishing, Blood-enriching foundation of the formula. Its sour, cool quality balances the warm, moving herbs."
     },
     {
+      "id": 23,
+      "formula_id": 4,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "The only strongly moving herb in the formula, it invigorates Blood circulation and promotes the flow of Qi within the Blood. Its pungent, warm nature ensures that the nourishing but potentially stagnating qualities of the other three herbs do not produce sluggish Blood flow. It also alleviates headache and pain caused by Blood stasis."
     }
   ],
   "research": [

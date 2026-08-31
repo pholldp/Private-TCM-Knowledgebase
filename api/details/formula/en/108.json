@@ -24,34 +24,64 @@
   "dietary_advice": "While taking this formula, favor warm, nourishing foods that support Kidney function: black sesame, walnuts, black beans, lamb, shrimp, and bone broth. Avoid excessive cold or raw foods (salads, iced drinks, raw seafood) that can burden the Spleen and impair the absorption of tonifying herbs. Minimize alcohol, greasy or deep-fried foods, and excessively spicy foods, which can generate Damp-Heat in the lower Jiao and counteract the formula's action. Sexual overexertion should be moderated during the course of treatment, as it directly depletes the Kidney Essence the formula is working to replenish.",
   "ingredients": [
     {
+      "id": 756,
+      "formula_id": 108,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes Liver and Kidney Yin, replenishes Essence (Jing) and Blood. As the heaviest-dosed herb along with Tu Si Zi, it serves as the primary source of Kidney nourishment, balancing both Yin and Yang of the Kidney to address the root Essence deficiency."
     },
     {
+      "id": 757,
+      "formula_id": 108,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "King",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "Tonifies Kidney Yang and nourishes Kidney Essence, supplements the Liver, and strengthens the Spleen. Warm but not drying, supplementing but not cloying, it pairs with Gou Qi Zi to address both the Yin and Yang aspects of Kidney deficiency."
     },
     {
+      "id": 758,
+      "formula_id": 108,
       "herb_name": "Fu Pen Zi",
       "english_name": "Chinese raspberry fruit",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Urinary Bladder",
+      "role_description": "Augments the Kidneys, secures Essence, and restrains urination. Reinforces the King herbs by consolidating Kidney Essence and preventing its leakage, while also nourishing the Liver and brightening the eyes."
     },
     {
+      "id": 759,
+      "formula_id": 108,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes Kidney Essence, tonifies Kidney Qi, and nourishes the Heart. Its sour-astringent nature helps secure Essence and prevent seminal loss, complementing the tonifying actions of the King herbs by containing and consolidating what has been replenished."
     },
     {
+      "id": 760,
+      "formula_id": 108,
       "herb_name": "Che Qian Zi",
       "english_name": "Plantain Seed",
       "role": "Assistant",
-      "dosage": "3 - 10g"
+      "dosage": "3 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs, Small Intestine",
+      "role_description": "Promotes urination and clears mild Heat. Serves as the crucial counterbalancing ingredient in this formula: by draining turbidity and excess fluid through the urinary tract, it ensures the tonifying and astringent herbs do not become cloying or generate stagnation. This makes the formula 'supplement within drainage' (补中寓泻)."
     }
   ],
   "research": [

@@ -24,76 +24,148 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, cold drinks, ice cream, raw fruit), as these can further impair the already weakened Yang and Spleen function. Greasy, rich, and hard-to-digest foods should also be limited, as they obstruct Qi circulation and may hinder the formula's ability to release the exterior. Warm, easily digestible foods are ideal — congee (rice porridge), soups, lightly cooked vegetables, and warm drinks. A small amount of fresh ginger tea between doses can complement the formula's warming action. Avoid alcohol, which may interact with the Aconite (Fu Zi) in the formula and alter its metabolism.",
   "ingredients": [
     {
+      "id": 1361,
+      "formula_id": 200,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Powerfully tonifies Qi and strengthens the body's outer defensive layer (Wei Qi), providing the foundation of vital force needed to generate a proper sweat response and prevent collapse of Yang during sweating."
     },
     {
+      "id": 1362,
+      "formula_id": 200,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Greatly supplements the body's original Qi, working alongside Huang Qi to restore the depleted internal resources needed to mount a sweating response and expel cold from the surface."
     },
     {
+      "id": 1363,
+      "formula_id": 200,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms and restores Yang, reinforcing the body's internal warmth and fire. It works with the King herbs to powerfully support the weakened Yang, which is the root cause of the inability to sweat."
     },
     {
+      "id": 1364,
+      "formula_id": 200,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms the channels, releases the exterior by promoting sweating, and harmonizes the Ying (nutritive) and Wei (defensive) levels. As a key component inherited from Gui Zhi Tang, it provides a gentle and balanced method of dispersing cold."
     },
     {
+      "id": 1365,
+      "formula_id": 200,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "A pungent warm herb that penetrates deeply to disperse cold, especially from the Shao Yin level. It assists Fu Zi in warming the interior and helps drive pathogenic cold outward through the surface."
     },
     {
+      "id": 1366,
+      "formula_id": 200,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Releases the exterior and disperses Wind-Cold, particularly effective for the Tai Yang channel. It reinforces the overall exterior-releasing action, addressing headache, body aches, and neck stiffness."
     },
     {
+      "id": 1367,
+      "formula_id": 200,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Expels Wind and releases the exterior in a gentle manner. It strengthens the wind-dispersing action of the formula without being overly drying or harsh."
     },
     {
+      "id": 1368,
+      "formula_id": 200,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Moves Blood and Qi, expels Wind, and alleviates headache pain. It ensures that the Blood does not become stagnant under the influence of so many warm, moving herbs, and enhances the exterior-releasing effect."
     },
     {
+      "id": 1369,
+      "formula_id": 200,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and harmonizes the nutritive (Ying) level. Its mildly astringent and cooling nature restrains the many pungent warm herbs in the formula, preventing excessive sweating and protecting Yin. Dry-frying reduces its cold nature so it does not obstruct the warming and dispersing action."
     },
     {
+      "id": 1370,
+      "formula_id": 200,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach and supports the Spleen, helping to generate the source material for sweat from the middle burner. Roasting moderates the dispersing action and emphasizes the warming, settling effect on the digestive system."
     },
     {
+      "id": 1371,
+      "formula_id": 200,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "2 pieces"
+      "dosage": "2 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and generates fluids, providing the material basis for sweat. Together with Sheng Jiang, it harmonizes the Ying and Wei levels and moderates the harshness of the other herbs."
     },
     {
+      "id": 1372,
+      "formula_id": 200,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1.5g"
+      "dosage": "1.5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates the intensity of the pungent warm ingredients so that sweating is gentle rather than violent, and tonifies the middle burner Qi."
     }
   ],
   "research": [],

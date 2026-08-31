@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor foods that nourish Yin and moisten dryness: pears, white fungus (tremella/yin er), lily bulb (bai he), lotus seed, congee, honey, sesame, and tofu. Drink adequate warm fluids throughout the day.\nAvoid foods that are spicy, fried, greasy, or overly warming (such as chili peppers, lamb, ginger in excess, alcohol, and strong coffee), as these can further deplete Yin and generate Heat. Also minimize very cold or raw foods and iced drinks, which can impair the Stomach's digestive and fluid-generating function, undermining the formula's strategy of restoring Stomach Yin to nourish the Lungs.",
   "ingredients": [
     {
+      "id": 780,
+      "formula_id": 113,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "King",
-      "dosage": "42 - 70g"
+      "dosage": "42 - 70g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Used in a large dose as the principal herb, Mai Men Dong is sweet and cold. It nourishes Yin of both the Lung and Stomach, clears deficiency Heat, generates fluids, and moistens dryness. Its heavy dosage reflects the severity of Yin depletion that underlies this pattern."
     },
     {
+      "id": 781,
+      "formula_id": 113,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Though warm and drying by nature, Ban Xia is used in a deliberately small dose to descend rebellious Qi, resolve phlegm, and stop coughing. Paired with the large amount of Mai Men Dong, its drying properties are restrained while its descending action is preserved. This pairing exemplifies the classical principle of using opposites together for synergistic effect (相反相成)."
     },
     {
+      "id": 782,
+      "formula_id": 113,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Tonifies Qi and generates fluids. Working with the Stomach-nourishing herbs, it strengthens the Spleen and Stomach's ability to produce and transport fluids upward to moisten the Lungs, embodying the 'nourishing Earth to generate Metal' (培土生金) strategy."
     },
     {
+      "id": 783,
+      "formula_id": 113,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Nourishes the Stomach, protects Stomach Qi, and assists in the production of fluids. Supports the strategy of strengthening the digestive system as the source of moisture for the Lungs."
     },
     {
+      "id": 784,
+      "formula_id": 113,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "4 pieces (approximately 12g)"
+      "dosage": "4 pieces (approximately 12g)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Tonifies Qi, nourishes the Stomach, and generates fluids. Together with Ren Shen, Gan Cao, and Jing Mi, it supports the middle Qi so that the Stomach can produce adequate fluids to nourish the Lungs."
     },
     {
+      "id": 785,
+      "formula_id": 113,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Moistens the Lungs, soothes the throat, tonifies the middle Qi, and harmonises all the herbs in the formula. Serves both as an assistant to support the Stomach and as an envoy to harmonise the prescription."
     }
   ],
   "research": [

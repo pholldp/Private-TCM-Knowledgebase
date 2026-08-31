@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (salads, sushi, ice cream, cold beverages) and greasy or heavy foods, which can obstruct Yang Qi and impair the formula's warming, dispersing action. Favour warm, easily digestible foods such as congee, soups, and lightly cooked vegetables. Warm water or ginger tea supports the formula's diaphoretic effect. After taking the decoction, it is traditionally recommended to cover with blankets to encourage gentle sweating. Avoid alcohol, as it generates Dampness-Heat and may interact unpredictably with the formula's potent herbs. Avoid sour foods (vinegar, citrus) during treatment, as sourness has an astringent quality that may counteract the formula's dispersing action.",
   "ingredients": [
     {
+      "id": 1358,
+      "formula_id": 199,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Releases the Exterior and disperses Wind-Cold by inducing sweating and opening the pores. As the King herb, it directly addresses the external pathogen lodged at the body's surface, relieving fever, chills, and headache."
     },
     {
+      "id": 1359,
+      "formula_id": 199,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warms Kidney Yang and reinforces the body's interior warmth. Supports the King herb by preventing the sweating action of Ma Huang from depleting the already deficient Yang Qi, while simultaneously pushing the Cold pathogen outward from within."
     },
     {
+      "id": 1360,
+      "formula_id": 199,
       "herb_name": "Xi Xin",
       "english_name": "Wild Ginger",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Lungs, Kidneys",
+      "role_description": "Acts as a bridge between Ma Huang and Fu Zi, penetrating both the exterior and interior. Its pungent warmth and aromatic nature assist Ma Huang in releasing the surface while also helping Fu Zi warm the channels and dispel deep-seated Cold. Enters the Kidney channel of the Shao Yin system, focusing the formula's actions on the correct target."
     }
   ],
   "research": [

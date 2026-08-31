@@ -24,82 +24,160 @@
   "dietary_advice": "Avoid cold and raw foods (salads, iced drinks, raw fruit in excess), greasy or fried foods, and dairy products, as these burden an already weak Spleen and generate Dampness. Avoid overeating or eating late at night.\nFavor warm, cooked, easily digestible foods: rice porridge (congee), cooked root vegetables, soups, and well-cooked grains. Small, regular meals are preferable to large ones. Mildly warming spices like ginger, cardamom, and small amounts of cinnamon in cooking can complement the formula's action. Avoid strong tea and raw radish (luobo) while taking this formula, as these may reduce its effectiveness.",
   "ingredients": [
     {
+      "id": 4182,
+      "formula_id": 544,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen, dries Dampness, and restores the digestive system's transporting function. Used at the highest dosage in the formula to address the root Spleen deficiency."
     },
     {
+      "id": 4183,
+      "formula_id": 544,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains Dampness through gentle diuresis, working together with Bai Zhu to firm loose stools and eliminate the pathological Dampness that blocks digestion."
     },
     {
+      "id": 4184,
+      "formula_id": 544,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies Qi and strengthens the Spleen, reinforcing the King herbs to restore the Spleen's ability to transform and transport food."
     },
     {
+      "id": 4185,
+      "formula_id": 544,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and stops diarrhea with a gentle, nourishing quality, complementing the drying nature of the other tonifying herbs."
     },
     {
+      "id": 4186,
+      "formula_id": 544,
       "herb_name": "Rou Dou Kou",
       "english_name": "Nutmeg",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Warms the middle burner and astringently binds the intestines to stop diarrhea, addressing the Spleen's inability to consolidate the stools."
     },
     {
+      "id": 4187,
+      "formula_id": 544,
       "herb_name": "Shan Zha",
       "english_name": "Hawthorn fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Promotes digestion and resolves food stagnation, particularly effective at breaking down meat and greasy food accumulation."
     },
     {
+      "id": 4188,
+      "formula_id": 544,
       "herb_name": "Shen Qu",
       "english_name": "Medicated leaven",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Promotes digestion and harmonizes the Stomach, particularly effective at resolving stale and fermented food stagnation."
     },
     {
+      "id": 4189,
+      "formula_id": 544,
       "herb_name": "Mai Ya",
       "english_name": "Barley Sprout",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "Reduces food stagnation and promotes digestion, especially effective at breaking down starchy and grain-based foods."
     },
     {
+      "id": 4190,
+      "formula_id": 544,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Moves Qi and relieves abdominal distention and pain, preventing the tonifying herbs from causing further stagnation in the middle burner."
     },
     {
+      "id": 4191,
+      "formula_id": 544,
       "herb_name": "Sha Ren",
       "english_name": "Amomum fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Aromatically transforms Dampness, warms the middle, and promotes Qi movement to resolve bloating and restore appetite."
     },
     {
+      "id": 4192,
+      "formula_id": 544,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, dries Dampness, and harmonizes the Stomach. Helps prevent the heavy tonifying herbs from creating stagnation."
     },
     {
+      "id": 4193,
+      "formula_id": 544,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Clears Heat and dries Dampness, addressing the mild Dampness-Heat generated by prolonged food stagnation. Used in a small dose to avoid damaging the Spleen with excessive cold."
     },
     {
+      "id": 4194,
+      "formula_id": 544,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and harmonizes all the other herbs in the formula, moderating the properties of the various ingredients to work together smoothly."
     }
   ],
   "research": [

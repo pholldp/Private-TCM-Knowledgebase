@@ -24,28 +24,52 @@
   "dietary_advice": "While taking Si Sheng Wan, avoid hot, spicy, and pungent foods (such as chili peppers, garlic, ginger, fried foods, and alcohol) as these generate Heat and may counteract the formula's cooling hemostatic action. Also avoid greasy, rich foods that can impair Spleen function and hinder the formula's absorption, since Sheng Di Huang is already cloying by nature. Favor cooling, bland, and easily digestible foods such as congee, fresh vegetables, pear, watermelon, mung bean soup, and lotus root. Lotus root is particularly well-suited as it has its own mild hemostatic properties in the Chinese dietary tradition.",
   "ingredients": [
     {
+      "id": 4095,
+      "formula_id": 532,
       "herb_name": "Ce Bai Ye",
       "english_name": "Arborvitae Leaf",
       "role": "King",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Cools the Blood and stops bleeding. As the primary hemostatic herb in the formula, it directly targets bleeding from Blood-Heat, particularly in the upper body (nosebleeds, coughing blood). Used fresh to maximize its cooling properties."
     },
     {
+      "id": 4096,
+      "formula_id": 532,
       "herb_name": "Sheng Di Huang",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat and cools the Blood at a deep level while nourishing Yin and generating fluids. Addresses both the bleeding and the dryness symptoms (dry mouth and throat) caused by Heat consuming Yin fluids. Supports the King herb's cooling action."
     },
     {
+      "id": 4097,
+      "formula_id": 532,
       "herb_name": "He Ye",
       "english_name": "Lotus leaf",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach",
+      "role_description": "Cools Blood and clears Heat, with a mild ability to disperse stasis. Helps stop bleeding while preventing the formula from creating Blood stasis. Particularly effective for bleeding related to the Stomach (vomiting of blood)."
     },
     {
+      "id": 4098,
+      "formula_id": 532,
       "herb_name": "Ai Ye",
       "english_name": "Mugwort leaf",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Kidneys",
+      "role_description": "Warms channels and stops bleeding. Though warm in nature, its strong hemostatic action reinforces the formula's ability to stop bleeding. Its warmth moderates the cold nature of the other three herbs, preventing excessive coldness from congealing blood into stasis."
     }
   ],
   "research": [],

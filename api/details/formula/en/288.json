@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and spicy foods, which can aggravate intestinal Heat and worsen diarrhea. Cold and raw foods (salads, ice cream, cold drinks) should also be minimized, as they may impair Spleen transport even though the formula itself addresses Heat. Light, easily digestible foods are best: plain rice porridge (congee), steamed vegetables, and mild soups. Avoid alcohol, dairy products, and excessively sweet foods during acute diarrhea. The classical text instructs to take the decoction warm (温服), which aids absorption and gentles the formula's cold nature on the Stomach.",
   "ingredients": [
     {
+      "id": 2042,
+      "formula_id": 288,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "The chief herb, bitter and cold, directly clears Heat from the Shaoyang and intestines, stops diarrhea caused by Heat descending into the bowels, and dries Dampness."
     },
     {
+      "id": 2043,
+      "formula_id": 288,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Sour and slightly cold, nourishes Yin and Blood, softens the Liver, and relieves abdominal cramping pain. It restrains the astringent loss of fluids due to diarrhea and supports the nutritive (Ying) level to protect against damage from Heat."
     },
     {
+      "id": 2044,
+      "formula_id": 288,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral, tonifies the middle, protects the Stomach and Spleen from the bitter-cold nature of Huang Qin, and works with Bai Shao to relax spasms and ease abdominal pain."
     },
     {
+      "id": 2045,
+      "formula_id": 288,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 - 12 pieces"
+      "dosage": "4 - 12 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Sweet and warm, nourishes the Spleen and Stomach, generates fluids, and harmonizes the actions of the other herbs. Together with Zhi Gan Cao, it protects the middle Jiao from being overly drained by the cold, bitter nature of the formula."
     }
   ],
   "research": [

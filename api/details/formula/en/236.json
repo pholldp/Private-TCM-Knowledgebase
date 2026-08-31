@@ -24,88 +24,172 @@
   "dietary_advice": "Favor warm, cooked foods that support Kidney Yang and Spleen function: lamb, beef, walnuts, chestnuts, black beans, shrimp, leeks, ginger, and warming spices. Warm bone broths and congees are ideal vehicles.\nAvoid cold and raw foods (salads, iced drinks, sashimi, cold fruits like watermelon and pear) that can damage Spleen Yang and counteract the warming action of the formula.\nLimit greasy, heavy, and excessively sweet foods that generate Dampness and burden the Spleen.\nAvoid excessive alcohol consumption, which generates Damp-Heat and is particularly inadvisable given the formula contains Fu Zi (Aconite).\nReduce consumption of bitter and cold-natured foods and beverages (e.g. bitter melon, green tea, mung beans) during the course of treatment.",
   "ingredients": [
     {
+      "id": 1618,
+      "formula_id": 236,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "King",
-      "dosage": "60g (in pill form; reduce for decoction)"
+      "dosage": "60g (in pill form; reduce for decoction)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Powerfully warms Kidney Yang and rescues depleted Ming Men fire. As the most potently warm herb in the formula, it directly addresses the root cause of reproductive cold and Yang collapse."
     },
     {
+      "id": 1619,
+      "formula_id": 236,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "King",
-      "dosage": "60g (in pill form; reduce for decoction)"
+      "dosage": "60g (in pill form; reduce for decoction)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms and tonifies Kidney Yang, reinforces Ming Men fire, and promotes the circulation of Qi and Blood in the lower body. Works with Fu Zi to form the formula's warming core."
     },
     {
+      "id": 1620,
+      "formula_id": 236,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "250g (in pill form; reduce for decoction)"
+      "dosage": "250g (in pill form; reduce for decoction)",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Heavily nourishes Blood, replenishes Kidney Essence (Jing), and provides the Yin-substance foundation so that Yang has material to transform. This is the key herb embodying the 'seeking Yang within Yin' strategy."
     },
     {
+      "id": 1621,
+      "formula_id": 236,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "250g (in pill form; reduce for decoction)"
+      "dosage": "250g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and tonifies Qi, ensuring that the rich, heavy tonifying herbs can be properly digested and transformed. Supports the postnatal source of Qi and Blood production to supplement the prenatal Kidney system."
     },
     {
+      "id": 1622,
+      "formula_id": 236,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "180g (in pill form; reduce for decoction)"
+      "dosage": "180g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, working with Shu Di Huang to replenish the material basis of Essence. Also prevents Blood stasis that could result from the heavy tonification in this formula."
     },
     {
+      "id": 1623,
+      "formula_id": 236,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Deputy",
-      "dosage": "180g (in pill form; reduce for decoction)"
+      "dosage": "180g (in pill form; reduce for decoction)",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes Liver and Kidney Yin, replenishes Essence, and supports the Eyes. Complements the Yin-nourishing group to provide material support for Yang."
     },
     {
+      "id": 1624,
+      "formula_id": 236,
       "herb_name": "Du Zhong",
       "english_name": "Eucommia bark",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens the sinews and bones, and stabilizes the lower back. Addresses the structural weakness associated with Kidney Yang deficiency."
     },
     {
+      "id": 1625,
+      "formula_id": 236,
       "herb_name": "Xian Mao",
       "english_name": "Curculigo rhizome",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Kidneys, Liver, Spleen",
+      "role_description": "Warms Kidney Yang and strengthens the bones and sinews. Reinforces the warming action of the King herbs and specifically targets reproductive Yang deficiency."
     },
     {
+      "id": 1626,
+      "formula_id": 236,
       "herb_name": "Ba Ji Tian",
       "english_name": "Morinda root",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Kidneys, Liver",
+      "role_description": "Tonifies Kidney Yang and strengthens the sinews. A gentle but effective Yang-tonifying herb that supports reproductive function without being overly drying."
     },
     {
+      "id": 1627,
+      "formula_id": 236,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies and astringes the Liver and Kidneys, secures Essence and prevents its leakage. Helps retain the Essence that the other herbs are working to replenish."
     },
     {
+      "id": 1628,
+      "formula_id": 236,
       "herb_name": "Yin Yang Huo",
       "english_name": "Epimedium leaf",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies Kidney Yang and strengthens sexual function. Specifically known for its effect on male reproductive vitality and libido."
     },
     {
+      "id": 1629,
+      "formula_id": 236,
       "herb_name": "Rou Cong Rong",
       "english_name": "Desert Cistanche",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Kidneys, Large Intestine",
+      "role_description": "Warms Kidney Yang and replenishes Essence and Blood. A gentle, moist Yang tonic that strengthens reproductive function without causing excessive dryness."
     },
     {
+      "id": 1630,
+      "formula_id": 236,
       "herb_name": "Jiu Cai Zi",
       "english_name": "Chinese Chive Seed",
       "role": "Assistant",
-      "dosage": "120g (in pill form; reduce for decoction)"
+      "dosage": "120g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Warms the Kidneys, secures Essence, and assists Yang. Specifically helps with seminal emission and stabilizes reproductive fluid."
     },
     {
+      "id": 1631,
+      "formula_id": 236,
       "herb_name": "She Chuang Zi",
       "english_name": "Cnidium fruit",
       "role": "Assistant",
-      "dosage": "60g (in pill form; reduce for decoction)"
+      "dosage": "60g (in pill form; reduce for decoction)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Spleen",
+      "role_description": "Warms the Kidneys, strengthens Yang, and dries Dampness in the lower body. Supports sexual function and helps dispel Cold-Damp that may obstruct the reproductive organs."
     }
   ],
   "research": [],

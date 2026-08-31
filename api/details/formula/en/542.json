@@ -24,46 +24,88 @@
   "dietary_advice": "While taking Yang He Tang, favor warm, cooked foods that support Yang and Qi, such as soups, stews, porridge, ginger tea, lamb, and warming spices. Avoid cold and raw foods (salads, iced drinks, raw seafood, chilled fruits) as these can counteract the formula's warming action and impede its ability to dispel cold congelation. Avoid greasy, heavy, and excessively rich foods, as the formula already contains the richly nourishing Shu Di Huang and Lu Jiao Jiao, and heavy foods may cause digestive stagnation. Green tea and cooling beverages such as chrysanthemum tea should also be minimized. Alcohol should be used sparingly, as it may amplify the warming effects of the formula's herbs.",
   "ingredients": [
     {
+      "id": 4169,
+      "formula_id": 542,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Used in a large dose to richly nourish Yin and Blood, fill the essence, and provide the material foundation for Yang Qi generation. This is the principle of \"seeking Yang within Yin\" (阴中求阳), ensuring that warming herbs have substance to work with."
     },
     {
+      "id": 4170,
+      "formula_id": 542,
       "herb_name": "Lu Jiao",
       "english_name": "deer antler",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "A flesh-and-blood substance (血肉有情之品) that powerfully supplements Kidney Yang, nourishes essence, strengthens sinews and bones, and warms the channels. Together with Shu Di Huang, it addresses the root deficiency of both Yang and Blood."
     },
     {
+      "id": 4171,
+      "formula_id": 542,
       "herb_name": "Rou Gui",
       "english_name": "Cinnamon bark",
       "role": "Deputy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Spleen, Kidneys",
+      "role_description": "Warms the Kidney Yang, ignites the gate of vitality (命门之火), and powerfully opens the channels and blood vessels to dispel cold stagnation."
     },
     {
+      "id": 4172,
+      "formula_id": 542,
       "herb_name": "Pao jiang",
       "english_name": "Blast-fried Ginger",
       "role": "Deputy",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Breaks through Yin cold and harmonizes Yang. Charred ginger (姜炭) enters the Blood level to warm the channels and dispel cold from within, guiding the nourishing herbs (Shu Di Huang and Lu Jiao Jiao) directly into the affected area."
     },
     {
+      "id": 4173,
+      "formula_id": 542,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "Assistant",
-      "dosage": "2g"
+      "dosage": "2g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Used in a small dose to open the pores and interstices (腠理), unblock channels, and guide Yang Qi from the interior outward to the body surface. This disperses cold stagnation that has lodged in the superficial tissues and prevents the heavy tonifying herbs from causing congestion."
     },
     {
+      "id": 4174,
+      "formula_id": 542,
       "herb_name": "Bai Jie Zi",
       "english_name": "White mustard seed",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Resolves Phlegm that has accumulated under the skin and between the membranes (皮里膜外之痰), disperses nodules, and promotes the free flow of Qi and Blood. Together with Ma Huang, it prevents the rich, sticky nature of Shu Di Huang and Lu Jiao Jiao from causing stagnation."
     },
     {
+      "id": 4175,
+      "formula_id": 542,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Used raw (生) to clear residual toxins from the abscess, harmonize all the other herbs, and moderate the formula's overall effect."
     }
   ],
   "research": [],

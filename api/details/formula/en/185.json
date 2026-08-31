@@ -24,70 +24,136 @@
   "dietary_advice": "While taking this formula, avoid foods and drinks that generate Heat or agitate the Blood: spicy or pungent foods (chili, black pepper, raw garlic, ginger), deep-fried or greasy foods, alcohol, coffee, lamb, and other warming meats.\nFavor cooling, Yin-nourishing foods: pear, watermelon, mung beans, cucumber, celery, lotus root (particularly appropriate as it echoes the Ou Jie in the formula), black sesame, wood ear mushroom, and tofu. Light broths and congee are easier to digest alongside this cold formula.\nAvoid cold, raw, and icy foods and beverages despite the Heat condition, as these can damage the Spleen and Stomach, impairing the digestion of the formula's heavy mineral and gelatin ingredients (Gui Ban, Mu Li, E Jiao).",
   "ingredients": [
     {
+      "id": 1255,
+      "formula_id": 185,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "King",
-      "dosage": "15 - 24g"
+      "dosage": "15 - 24g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "Nourishes Kidney Yin, anchors deficiency Heat, and enriches the Yin foundation to address the root cause of the bleeding. Its heavy, settling nature also helps stabilize the Chong and Ren vessels."
     },
     {
+      "id": 1256,
+      "formula_id": 185,
       "herb_name": "Sheng Di Huang (Raw Rehmannia Root)",
       "english_name": "",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Clears Heat and cools the Blood, nourishes Yin and generates fluids. Directly addresses Blood-level Heat that is driving the reckless movement of Blood."
     },
     {
+      "id": 1257,
+      "formula_id": 185,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, particularly in the upper and middle burners. Stops bleeding by clearing the Heat that forces Blood out of the vessels. Has a long classical history as a key herb for uterine bleeding due to Heat."
     },
     {
+      "id": 1258,
+      "formula_id": 185,
       "herb_name": "Di Gu Pi",
       "english_name": "Chinese Wolfberry Root Bark",
       "role": "Deputy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Cools deficiency Heat and clears steaming bone fever. Enters the Kidney channel to clear Heat arising from Yin deficiency, and also cools the Blood to help stop bleeding."
     },
     {
+      "id": 1259,
+      "formula_id": 185,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Deputy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Nourishes Blood and stops bleeding while moistening Yin. Replenishes the Blood lost through heavy uterine bleeding and supports the Yin-nourishing strategy of the formula."
     },
     {
+      "id": 1260,
+      "formula_id": 185,
       "herb_name": "Mu Li Ke",
       "english_name": "Oyster shell",
       "role": "Assistant",
-      "dosage": "15 - 20g"
+      "dosage": "15 - 20g",
+      "temperature": "Slightly Cool",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Gallbladder, Kidneys",
+      "role_description": "Heavily settles and astringes to prevent leakage, calms the Liver, and benefits Yin. Its astringent, salty quality helps consolidate the Chong vessel and stop uterine bleeding."
     },
     {
+      "id": 1261,
+      "formula_id": 185,
       "herb_name": "Di Yu",
       "english_name": "Garden Burnet Root",
       "role": "Assistant",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Large Intestine, Stomach",
+      "role_description": "Cools Blood and stops bleeding, particularly for bleeding in the lower body. Directly addresses the uterine bleeding symptom from a cooling and astringent angle."
     },
     {
+      "id": 1262,
+      "formula_id": 185,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from all three burners and cools Blood. Dry-fried (焦) to enhance its hemostatic properties while reducing its cold, bitter nature that might harm the Stomach."
     },
     {
+      "id": 1263,
+      "formula_id": 185,
       "herb_name": "Ou Jie",
       "english_name": "Lotus rhizome node",
       "role": "Assistant",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Lungs, Stomach",
+      "role_description": "Astringes the Blood vessels to stop bleeding while also dispersing stasis, ensuring that blood stops without forming clots. Adds a gentle hemostatic action without being overly cloying."
     },
     {
+      "id": 1264,
+      "formula_id": 185,
       "herb_name": "Zong Lu",
       "english_name": "Palm fiber (Windmill palm petiole)",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Lungs, Large Intestine",
+      "role_description": "A powerful astringent hemostatic that stops bleeding through its charcoal-derived binding properties. Works purely on the symptom of bleeding by astringing leakage."
     },
     {
+      "id": 1265,
+      "formula_id": 185,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all herbs in the formula, moderates the cold and bitter properties of the Heat-clearing herbs, and protects the Stomach from damage by the many cold-natured ingredients."
     }
   ],
   "research": [],

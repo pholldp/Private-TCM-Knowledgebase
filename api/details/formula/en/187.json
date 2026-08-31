@@ -24,22 +24,40 @@
   "dietary_advice": "Favor easily digestible, nourishing foods that support Qi and fluids: congee, soups, steamed vegetables, pears, lily bulb, and lightly prepared lean meats. Stay well hydrated with warm or room-temperature water.\nAvoid cold, raw, and icy foods and drinks, which can impair the Spleen's digestive function and hinder the formula's Qi-tonifying effects.\nAvoid greasy, heavy, or excessively spicy foods. Greasy foods generate Dampness and obstruct the formula's ability to nourish Yin, while excessive spice and heat can further damage fluids.\nAvoid excessive caffeine and alcohol, which can deplete Yin and counteract the formula's fluid-generating action.\nIf taking this formula for summer-heat depletion, consuming mung bean soup or watermelon in moderation is acceptable, but avoid extremely cold preparations.",
   "ingredients": [
     {
+      "id": 1268,
+      "formula_id": 187,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi and Lung Qi, generates body fluids. As the King herb, it directly addresses the core problem of Qi depletion that underlies the weak pulse, fatigue, and shortness of breath."
     },
     {
+      "id": 1269,
+      "formula_id": 187,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin, moistens the Lungs, clears Heat, and directly generates body fluids. Complements Ren Shen by addressing the Yin and fluid depletion aspect of the pattern, while its cooling nature counterbalances any warmth from the King herb."
     },
     {
+      "id": 1270,
+      "formula_id": 187,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes the Lungs, stops excessive sweating, generates fluids, and prevents further leakage of Qi and Yin. Its sour and astringent nature seals the Lung Qi that the other two herbs are working to replenish, ensuring that the tonified Qi and fluids are retained rather than lost."
     }
   ],
   "research": [

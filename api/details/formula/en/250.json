@@ -24,118 +24,232 @@
   "dietary_advice": "While taking this formula, avoid cold, raw, and greasy foods, which can generate more Phlegm and impede recovery. Fried, oily, and rich foods should also be avoided. Both traditional sources and modern commercial instructions specifically warn against fishy, oily, and heat-inducing foods during treatment. For infants, the nursing mother should also observe these dietary restrictions, as dietary factors can affect breast milk quality. Light, easily digestible foods such as thin rice porridge (congee) are most appropriate during acute illness. Avoid dairy products and excessively sweet foods, which tend to produce Dampness and Phlegm in TCM understanding.",
   "ingredients": [
     {
+      "id": 1741,
+      "formula_id": 250,
       "herb_name": "Niu Huang",
       "english_name": "Cattle gallstone",
       "role": "King",
-      "dosage": "0.3 - 0.6g"
+      "dosage": "0.3 - 0.6g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Clears Heart Heat, resolves toxicity, opens the sensory orifices, and extinguishes Wind to control convulsions. As the primary orifice-opening and Heat-clearing agent, it directly targets the core pathomechanism of Phlegm-Heat obstructing the Heart orifices."
     },
     {
+      "id": 1742,
+      "formula_id": 250,
       "herb_name": "She Xiang",
       "english_name": "Musk",
       "role": "King",
-      "dosage": "0.03 - 0.1g"
+      "dosage": "0.03 - 0.1g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Powerfully opens the orifices and revives consciousness. Its intensely aromatic nature penetrates all channels, dispersing Phlegm obstruction and restoring awareness in cases of coma or stupor from febrile convulsions."
     },
     {
+      "id": 1743,
+      "formula_id": 250,
       "herb_name": "Tian Ma",
       "english_name": "Gastrodia root",
       "role": "Deputy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver",
+      "role_description": "Extinguishes Liver Wind and controls spasms and convulsions. A key anti-convulsant herb that directly addresses the Wind-related symptoms of tremors, spasms, and seizures in acute fright-wind."
     },
     {
+      "id": 1744,
+      "formula_id": 250,
       "herb_name": "Gou Teng",
       "english_name": "Gambir vine stems and hooks",
       "role": "Deputy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Pericardium",
+      "role_description": "Clears Heat from the Liver channel, extinguishes Wind, and relieves spasms. Works in concert with Tian Ma to calm internal Wind, and is especially suited to pediatric convulsions from Heat agitating the Liver."
     },
     {
+      "id": 1745,
+      "formula_id": 250,
       "herb_name": "Quan Xie",
       "english_name": "Scorpion",
       "role": "Deputy",
-      "dosage": "0.6 - 1.5g"
+      "dosage": "0.6 - 1.5g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver",
+      "role_description": "A potent Wind-extinguishing insect substance that unblocks the channels and stops spasms and convulsions. Its penetrating nature reaches deep into the channels to address stubborn Wind causing seizures."
     },
     {
+      "id": 1746,
+      "formula_id": 250,
       "herb_name": "Jiang Can",
       "english_name": "Silkworm",
       "role": "Deputy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Lungs, Stomach",
+      "role_description": "Extinguishes Wind, stops spasms, and transforms Phlegm. Bridges the Wind-extinguishing and Phlegm-resolving strategies of the formula, addressing both convulsions and Phlegm accumulation simultaneously."
     },
     {
+      "id": 1747,
+      "formula_id": 250,
       "herb_name": "Dan Nan Xing",
       "english_name": "Bile Arisaema",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Liver, Spleen",
+      "role_description": "Clears Heat and resolves Phlegm, particularly stubborn hot Phlegm obstructing the orifices. Bile-processed Arisaema is cooler than raw Nan Xing and is well suited for Phlegm-Heat patterns in children."
     },
     {
+      "id": 1748,
+      "formula_id": 250,
       "herb_name": "Chuan Bei Mu",
       "english_name": "Sichuan fritillary bulb",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart",
+      "role_description": "Clears Heat and transforms Phlegm, moistens the Lungs and stops coughing. Addresses the respiratory symptoms of cough and wheezing that commonly accompany pediatric febrile illness."
     },
     {
+      "id": 1749,
+      "formula_id": 250,
       "herb_name": "Tian Zhu Huang",
       "english_name": "Tabasheer",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "Clears Phlegm-Heat from the Heart and Lungs, calms fright, and controls convulsions. Especially indicated for pediatric Phlegm-Heat with restlessness and agitation."
     },
     {
+      "id": 1750,
+      "formula_id": 250,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms Phlegm, descends rebellious Qi to stop vomiting. Addresses the Phlegm obstruction in the middle burner and the gastrointestinal symptoms of nausea and vomiting."
     },
     {
+      "id": 1751,
+      "formula_id": 250,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and dries Dampness, harmonizes the middle burner. Helps the Phlegm-transforming herbs by keeping Qi flowing smoothly and preventing Dampness from regenerating Phlegm."
     },
     {
+      "id": 1752,
+      "formula_id": 250,
       "herb_name": "Mu Xiang",
       "english_name": "Costus root",
       "role": "Assistant",
-      "dosage": "0.6 - 1.5g"
+      "dosage": "0.6 - 1.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder",
+      "role_description": "Promotes the movement of Qi and alleviates abdominal pain and distention. Supports digestive function and addresses the gastrointestinal symptoms of diarrhea and abdominal discomfort in children."
     },
     {
+      "id": 1753,
+      "formula_id": 250,
       "herb_name": "Bai Dou Kou",
       "english_name": "White Cardamom",
       "role": "Assistant",
-      "dosage": "0.6 - 1.5g"
+      "dosage": "0.6 - 1.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Aromatically transforms Dampness, warms the middle burner, and moves Qi to stop vomiting. Its warming aromatic nature counterbalances the cold Phlegm-clearing herbs and helps the Spleen transport Dampness."
     },
     {
+      "id": 1754,
+      "formula_id": 250,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Regulates Qi and relieves distention in the chest and abdomen. Helps move stagnant Qi downward to support the formula's Phlegm-transforming and digestive actions."
     },
     {
+      "id": 1755,
+      "formula_id": 250,
       "herb_name": "Chen Xiang",
       "english_name": "Agarwood",
       "role": "Assistant",
-      "dosage": "0.3 - 1g"
+      "dosage": "0.3 - 1g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Warms and moves Qi, descends rebellious Qi. Its deeply penetrating aromatic nature helps direct Qi downward and assists in opening obstructed pathways."
     },
     {
+      "id": 1756,
+      "formula_id": 250,
       "herb_name": "Tan Xiang",
       "english_name": "Sandalwood",
       "role": "Assistant",
-      "dosage": "0.6 - 1.5g"
+      "dosage": "0.6 - 1.5g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Spleen, Stomach, Heart, Lungs",
+      "role_description": "Moves Qi and harmonizes the Stomach, alleviates pain. Its warm aromatic quality helps regulate the middle burner alongside the other Qi-moving herbs."
     },
     {
+      "id": 1757,
+      "formula_id": 250,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges accumulated Heat through the bowels, clearing Heat downward and out of the body. In this formula, it is used in processed form (Qing Ning) to gently drain Heat and unblock the bowels without being too harsh for pediatric use."
     },
     {
+      "id": 1758,
+      "formula_id": 250,
       "herb_name": "Zhu Sha",
       "english_name": "Cinnabar",
       "role": "Assistant",
-      "dosage": "0.3 - 1g"
+      "dosage": "0.3 - 1g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart",
+      "role_description": "Settles the Heart, calms the spirit, and clears Heart Heat. Used as the outer coating of the pills to calm fright and restlessness, which are central features of pediatric convulsions."
     },
     {
+      "id": 1759,
+      "formula_id": 250,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the other herbs in the formula, moderates the harshness of the potent aromatic and mineral substances, and mildly clears Heat and resolves toxicity."
     }
   ],
   "research": [],

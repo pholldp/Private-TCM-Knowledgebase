@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, avoid spicy, greasy, fried, and heavily seasoned foods, as these generate internal heat and counteract the formula's cooling action. Alcohol should be strictly avoided, as it is heating and particularly burdens the Liver. Rich meats, especially lamb and roasted foods, should also be minimized.\nFavour light, cooling foods such as leafy green vegetables, mung beans, celery, chrysanthemum tea, cucumber, and pear. These foods support the Liver's preference for coolness and free movement. Sour-flavoured foods like hawthorn berries can gently support the Liver. Avoid eating late at night, as this disturbs sleep and can worsen Liver fire symptoms.",
   "ingredients": [
     {
+      "id": 2035,
+      "formula_id": 287,
       "herb_name": "Long Dan Cao",
       "english_name": "Chinese gentian root",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder",
+      "role_description": "The chief Liver Fire-draining herb. Intensely bitter and cold, it enters the Liver and Gallbladder channels directly to clear excess Fire. It addresses the root cause of the pattern. Note: the original text lists 'Long Nao' (龙脑, Borneol), but later commentators and the modern standard unanimously use Long Dan Cao."
     },
     {
+      "id": 2036,
+      "formula_id": 287,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Assists in clearing Heat from the Triple Burner and draining Fire. Directs Heat downward to be eliminated through the urine, helping to resolve irritability and restlessness caused by constrained Fire."
     },
     {
+      "id": 2037,
+      "formula_id": 287,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Powerfully purges Heat downward through the bowels, providing a direct outlet for Liver Fire. Its bitter-cold descending nature complements Long Dan Cao's action, ensuring Fire is eliminated from below."
     },
     {
+      "id": 2038,
+      "formula_id": 287,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "An ascending, Wind-dispersing herb that vents constrained Liver Fire upward and outward. This embodies the classical principle of 'releasing depressed Fire' (火郁发之), restoring the Liver's natural tendency toward free-flowing movement."
     },
     {
+      "id": 2039,
+      "formula_id": 287,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Works alongside Qiang Huo to disperse Liver Wind and vent constrained Fire. Its gentle, ascending nature ensures that Liver Qi can resume its natural smooth flow rather than remaining bottled up."
     },
     {
+      "id": 2040,
+      "formula_id": 287,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes Liver Blood and moistens dryness to prevent the bitter-cold and purgative herbs from damaging the Liver's yin-blood stores. This ensures that draining Fire does not leave the Liver depleted."
     },
     {
+      "id": 2041,
+      "formula_id": 287,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Moves Blood and Qi upward to the head and eyes, directly relieving headache and eye pain caused by Liver Fire flaring upward. Also helps activate Blood circulation to complement Dang Gui's nourishing action."
     }
   ],
   "research": [],

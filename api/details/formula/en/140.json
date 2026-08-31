@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor easily digestible, warm, bland foods such as congee (rice porridge), steamed vegetables, and light soups. These support the Stomach without adding burden.\nAvoid cold and raw foods (salads, ice cream, cold drinks), greasy or fried foods, and excessively spicy dishes, as these can aggravate both the Stomach deficiency and the rebellious Qi. Avoid alcohol and strong coffee, which generate Heat and irritate the Stomach lining. Eat small, frequent meals rather than large portions. The classical advice to take the decoction warm (温服) extends to food choices as well — warmth in diet helps the weakened Stomach recover its descending function.",
   "ingredients": [
     {
+      "id": 944,
+      "formula_id": 140,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi and harmonizes the Stomach, directing rebellious Qi downward to stop hiccups and relieve nausea. As the primary herb, it restores the normal descending movement of Stomach Qi."
     },
     {
+      "id": 945,
+      "formula_id": 140,
       "herb_name": "Zhu Ru",
       "english_name": "Bamboo shavings",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Heart, Gallbladder",
+      "role_description": "Clears Stomach heat and calms the Stomach without being excessively cold, directing Qi downward to stop vomiting and hiccups. Paired with Chen Pi, the sweet-cold nature of Zhu Ru balances the warm-pungent nature of Chen Pi."
     },
     {
+      "id": 946,
+      "formula_id": 140,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Strongly tonifies the Qi of the Spleen and Stomach, addressing the root deficiency that allows Qi to rebel upward. Supports the body's ability to recover normal digestive function."
     },
     {
+      "id": 947,
+      "formula_id": 140,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Stomach and powerfully stops vomiting. Known classically as the 'sage herb for vomiting' (呕家圣药), it aids Chen Pi in descending Stomach Qi while tempering the cold nature of Zhu Ru so the formula does not overly chill the Stomach."
     },
     {
+      "id": 948,
+      "formula_id": 140,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies Spleen Qi to assist Ren Shen in strengthening the Middle Burner, and harmonizes the actions of all the other herbs in the formula."
     },
     {
+      "id": 949,
+      "formula_id": 140,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "5 - 10 pieces"
+      "dosage": "5 - 10 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, supports Ren Shen in tonifying Qi, and moderates the actions of the other herbs to protect the digestive system."
     }
   ],
   "research": [],

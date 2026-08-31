@@ -25,94 +25,184 @@
   "dietary_advice": "ในขณะที่ใช้สูตรนี้ ให้หลีกเลี่ยงอาหารที่เย็น ดิบ และมันเยิ้ม เนื่องจากอาหารเหล่านี้สามารถสร้างเสมหะและความเย็นได้มากขึ้น ซึ่งขัดแย้งกับการทำให้ร้อนและการเปลี่ยนเสมหะของสูตรโดยตรง คำแนะนำแบบคลาสสิกระบุว่าให้รับประทานในขณะท้องว่าง (空heart服之) ด้วยน้ำบาดาลหรือน้ำอุ่น หากผู้ป่วยฟื้นคืนสติและรับประทานอาหารได้ อาหารเบาๆ อุ่นๆ ย่อยง่าย เช่น โจ๊กธรรมดา หรือน้ำซุปใส จะเหมาะสมที่สุด หลีกเลี่ยงแอลกอฮอล์เว้นแต่จะระบุไว้เป็นพิเศษ แม้ว่าตำราคลาสสิกจะระบุไว้ว่าไวน์อุ่นอาจใช้ในการละลายยาก็ได้",
   "ingredients": [
     {
+      "id": 1726,
+      "formula_id": 249,
       "herb_name": "Su He Xiang",
       "english_name": "สตอแร็กซ์ เรซิน",
       "role": "ราชา (King)",
-      "dosage": "0.3 - 1g (in pill form; classical dose 15g in full batch)"
+      "dosage": "0.3 - 1g (in pill form; classical dose 15g in full batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "หัวใจ, ม้าม",
+      "role_description": "กลิ่นหอมเปิดช่อง ฟื้นจิตสำนึก ขจัดความเย็น แก้ความขุ่น และควบคุมชี่ เนื่องจากเป็นชื่อเดียวกับสูตร มันเป็นสารอะโรมาติกหลักที่แทรกซึมผ่านเสมหะเย็นและความขุ่นที่ปิดกั้นช่องหัวใจ"
     },
     {
+      "id": 1727,
+      "formula_id": 249,
       "herb_name": "She Xiang",
       "english_name": "ชะมด",
       "role": "ราชา (King)",
-      "dosage": "0.3 - 1g (in pill form; classical dose 30g in full batch)"
+      "dosage": "0.3 - 1g (in pill form; classical dose 30g in full batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "เปิดช่องจมูกอย่างทรงพลังและฟื้นคืนสติ ขจัดความขุ่น และปลดบล็อกช่องทางและหลักประกันทั่วร่างกาย สารเปิดรูอะโรมาติกที่เจาะทะลุได้มากที่สุด"
     },
     {
+      "id": 1728,
+      "formula_id": 249,
       "herb_name": "Bing Pian",
       "english_name": "บอร์นอล",
       "role": "ราชา (King)",
-      "dosage": "0.3 - 1g (in pill form; classical dose 15g in full batch)"
+      "dosage": "0.3 - 1g (in pill form; classical dose 15g in full batch)",
+      "temperature": "เย็น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ม้าม, ปอด",
+      "role_description": "เปิดช่องจมูก ทำให้ศีรษะปลอดโปร่ง และขจัดความขุ่น ทำงานร่วมกับ Su He Xiang และ She Xiang เพื่อเปิดเงื่อนไขที่ปิดอย่างทรงพลังและฟื้นฟูจิตสำนึก"
     },
     {
+      "id": 1729,
+      "formula_id": 249,
       "herb_name": "An Xi Xiang",
       "english_name": "เรซินกำยาน",
       "role": "ราชา (King)",
-      "dosage": "1 - 1.5g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 1.5g (in pill form; classical dose 30g in full batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "ซึมผ่านความขุ่นรอบๆ ช่องเปิด เปิดสภาวะปิด และฟื้นคืนสติ ยังทำหน้าที่เป็นสารยึดเกาะเมื่อนำไปแปรรูปเป็นยาพอกกับไวน์ ซึ่งช่วยสร้างเมทริกซ์เม็ดยา"
     },
     {
+      "id": 1730,
+      "formula_id": 249,
       "herb_name": "Xiang Fu",
       "english_name": "เหง้ากระชายอ่อนนุช",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ตับ, ม้าม, ซานเจียว (ซานเจียว/Triple Burner)",
+      "role_description": "ควบคุม Qi และแก้ไขภาวะซึมเศร้า ในฐานะสมุนไพรควบคุมชี่ชั้นนำ สมุนไพรคิงที่มีกลิ่นหอมโดยทำให้การไหลเวียนของชี่ราบรื่นทั่วร่างกาย และจัดการกับความเมื่อยล้าของชี่ที่ซ่อนอยู่"
     },
     {
+      "id": 1731,
+      "formula_id": 249,
       "herb_name": "Mu Xiang",
       "english_name": "รากคอสตัส",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ลำไส้ใหญ่, ซานเจียว (ซานเจียว/Triple Burner), ถุงน้ำดี",
+      "role_description": "เคลื่อนชี่และบรรเทาอาการปวด โดยเฉพาะบริเวณหน้าอกและหน้าท้อง เสริมสมุนไพรกษัตริย์โดยจัดการกับความเจ็บปวดจากความเมื่อยล้าของชี่ในเตากลางและล่าง"
     },
     {
+      "id": 1732,
+      "formula_id": 249,
       "herb_name": "Tan Xiang",
       "english_name": "ไม้จันทน์",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, หัวใจ, ปอด",
+      "role_description": "อบอุ่นและมีกลิ่นหอม ช่วยกระตุ้นชี่ ปรับสมดุลกระเพาะอาหาร และบรรเทาอาการเจ็บหน้าอกและท้อง มีประสิทธิภาพโดยเฉพาะอย่างยิ่งสำหรับสิ่งกีดขวางทรวงอก (ซงบี) ที่มีอาการเย็นเกาะแน่นในหลอดเลือดหัวใจ"
     },
     {
+      "id": 1733,
+      "formula_id": 249,
       "herb_name": "Chen Xiang",
       "english_name": "ไม้กฤษณา",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)",
+      "temperature": "อุ่นเล็กน้อย",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ไต",
+      "role_description": "เคลื่อนพลังชี่ลง ทำให้ภายในอุ่นขึ้น และควบคุมพลังชี่ที่กบฏลงด้านล่าง เพิ่มคุณภาพการยึดเกาะที่สมดุลระหว่างธรรมชาติที่กระจายตัวขึ้นไปของสมุนไพรอะโรมาติกอื่นๆ"
     },
     {
+      "id": 1734,
+      "formula_id": 249,
       "herb_name": "Ding Xiang",
       "english_name": "กานพลู",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร, ปอด, ไต",
+      "role_description": "อุ่นเตากลาง สืบทอดพลังชี่ที่กบฏ และรักษาอาการหัวใจวายและปวดท้อง ตอกย้ำการกระทำที่อบอุ่นและเคลื่อนไหว Qi ของสมุนไพรรองอื่นๆ"
     },
     {
+      "id": 1735,
+      "formula_id": 249,
       "herb_name": "Ru Xiang",
       "english_name": "เรซินกำยาน",
       "role": "ขุนนาง (Deputy)",
-      "dosage": "0.3 - 1g (in pill form; classical dose 15g in full batch; processed form)"
+      "dosage": "0.3 - 1g (in pill form; classical dose 15g in full batch; processed form)",
+      "temperature": "อุ่น",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "หัวใจ, ตับ, ม้าม",
+      "role_description": "ควบคุม Qi กระตุ้นเลือด และบรรเทาอาการปวด เพิ่มส่วนประกอบในการเคลื่อนย้ายเลือดให้กับสูตร แก้ปัญหาภาวะหยุดนิ่งของเลือดที่มาพร้อมกับความเมื่อยล้าของ Qi จากการอุดตันของความเย็น"
     },
     {
+      "id": 1736,
+      "formula_id": 249,
       "herb_name": "Bi Ba",
       "english_name": "ผลพริกยาว",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 30g in full batch)",
+      "temperature": "ร้อน",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "กระเพาะอาหาร, ลำไส้ใหญ่",
+      "role_description": "เผ็ดร้อนและเผ็ดร้อน ช่วยทำให้ภายในร่างกายอบอุ่นและกระจายความเย็น ช่วยเพิ่มฤทธิ์ในการกระจายความเย็นและบรรเทาอาการเจ็บปวดของสมุนไพรอะโรมาติก มุ่งเป้าไปที่อาการปวดเย็นในกระเพาะอาหารและช่องท้องโดยเฉพาะ"
     },
     {
+      "id": 1737,
+      "formula_id": 249,
       "herb_name": "Shui Niu Jiao",
       "english_name": "เขาควาย",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "2 - 3g concentrate (in pill form; classical dose 60g in full batch)"
+      "dosage": "2 - 3g concentrate (in pill form; classical dose 60g in full batch)",
+      "temperature": "หนาวเย็น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "หัวใจ, ตับ, กระเพาะอาหาร",
+      "role_description": "ดับความร้อนในหัวใจและขับสารพิษ แม้ว่าธรรมชาติจะเย็น แต่ก็ทำหน้าที่เป็นผู้ช่วยควบคุม โดยป้องกันไม่ให้สมุนไพรอะโรมาติกอุ่น-ร้อนกลุ่มใหญ่สร้างความร้อนมากเกินไป และปกป้องหัวใจจากสารพิษจากความร้อนที่อาจเกิดขึ้นในช่วงสภาวะปิดเฉียบพลัน"
     },
     {
+      "id": 1738,
+      "formula_id": 249,
       "herb_name": "Zhu Sha",
       "english_name": "ชาด",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 - 2g (in pill form; classical dose 60g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 60g in full batch)",
+      "temperature": "เย็น",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "หัวใจ",
+      "role_description": "ทำให้จิตใจสงบและสงบลงอย่างมาก ยึดหัวใจและทำให้ตกใจกลัว เช่นเดียวกับ Water Buffalo Horn ธรรมชาติที่เย็นจัดของมันทำหน้าที่เป็นตัวถ่วงดุลกับอะโรเมติกส์ที่อบอุ่นและกระจายตัว ขณะเดียวกันก็ช่วยสงบความปั่นป่วนที่อาจมาพร้อมกับวิกฤตเฉียบพลัน"
     },
     {
+      "id": 1739,
+      "formula_id": 249,
       "herb_name": "Bai Zhu",
       "english_name": "เหง้า Atractylodes สีขาว",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 - 2g (in pill form; classical dose 60g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 60g in full batch)",
+      "temperature": "อุ่น",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "ม้าม, กระเพาะอาหาร",
+      "role_description": "เสริมพลังชี่ เสริมสร้างม้าม ทำให้ความชื้นแห้ง และเปลี่ยนความขุ่น ผู้ช่วยเสริมแรงนี้สนับสนุน Qi ที่ถูกต้องของร่างกาย ป้องกันไม่ให้อะโรเมติกส์ที่กระจายอย่างเข้มข้นไม่ทำให้พลังชีวิตของร่างกายหมดไป ชื่อสูตรดั้งเดิม 'Chi Li Ga Wan' หมายถึงสมุนไพรชนิดนี้ ซึ่งบ่งบอกถึงความสำคัญของการปกป้อง Qi แม้ในสูตรเปิดปากฉุกเฉิน"
     },
     {
+      "id": 1740,
+      "formula_id": 249,
       "herb_name": "He Zi",
       "english_name": "ผลไม้ Chebulic myrobalan",
       "role": "ผู้ช่วย (Assistant)",
-      "dosage": "1 - 2g (in pill form; classical dose 60g in full batch)"
+      "dosage": "1 - 2g (in pill form; classical dose 60g in full batch)",
+      "temperature": "เป็นกลาง (สุขุม)",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "ปอด, ลำไส้ใหญ่",
+      "role_description": "ยาสมานแผลและยับยั้ง Qi ที่รั่วขณะเปลี่ยนเสมหะ ธรรมชาติที่ผูกพันและรวมเข้าด้วยกันจะป้องกันไม่ให้สมุนไพรอะโรมาติกที่กระจายตัวอย่างรุนแรงจากการกระจาย Qi ปกติของร่างกายมากเกินไป เมื่อจับคู่กับ Bai Zhu จะสร้างกลไกความปลอดภัย 'ปรับสภาพและบรรจุ' เสริม"
     }
   ],
   "research": [],

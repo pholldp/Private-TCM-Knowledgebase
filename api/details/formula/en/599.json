@@ -24,34 +24,64 @@
   "dietary_advice": "Avoid cold, raw, and greasy foods. Avoid sour and astringent foods such as wu mei (乌梅). Avoid alcohol and spicy foods. Favor warm, cooked, easily digestible foods to support the formula's yang-warming action.",
   "ingredients": [
     {
+      "id": 4521,
+      "formula_id": 599,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Releases the exterior, warms and unblocks Yang Qi, and directs rebellious Qi downward to relieve chest oppression. As the main herb, it addresses both the lingering exterior pathogen and the obstruction in the chest."
     },
     {
+      "id": 4522,
+      "formula_id": 599,
       "herb_name": "Zhi Fu Zi",
       "english_name": "Prepared Aconite Root",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Kidneys, Spleen",
+      "role_description": "Warmly restores the damaged Yang, especially reinforcing Heart Yang and defending against slight aversion to cold. It empowers Gui Zhi's warming action."
     },
     {
+      "id": 4523,
+      "formula_id": 599,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Assists Gui Zhi in releasing the exterior and warming the middle burner, preventing the cold nature of purgatives from damaging Stomach Qi."
     },
     {
+      "id": 4524,
+      "formula_id": 599,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "3 - 12 pieces"
+      "dosage": "3 - 12 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the blood and harmonizes the nutritive Qi, supporting the generation of Qi and Blood to replenish what was lost during the mistaken purgation."
     },
     {
+      "id": 4525,
+      "formula_id": 599,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the herbs, moderates the acrid and hot nature of Gui Zhi and Fu Zi, and supports the Spleen and Stomach."
     }
   ],
   "research": [],

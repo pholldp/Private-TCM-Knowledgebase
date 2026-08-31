@@ -24,40 +24,76 @@
   "dietary_advice": "Favor foods that moisten the intestines and promote smooth bowel movements: sesame seeds, walnuts, pine nuts, pears, figs, bananas, spinach, and other leafy greens. Drink adequate warm water throughout the day. Light, easily digestible foods like congee (rice porridge) with added oils or seeds support the formula's action.\nAvoid spicy, fried, and excessively dry or heating foods (chili peppers, deep-fried items, roasted nuts, lamb, strong alcohol) as these worsen intestinal Heat and dryness. Also limit astringent foods like unripe persimmons and strong tea, which can counteract the formula's moistening effect. Cold and raw foods in excess may impair Spleen function, so moderation is advisable even though this is not a warming formula.",
   "ingredients": [
     {
+      "id": 1053,
+      "formula_id": 158,
       "herb_name": "Huo Ma Ren",
       "english_name": "Hemp seed",
       "role": "King",
-      "dosage": "15 - 20g"
+      "dosage": "15 - 20g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "The lead herb, rich in oils. It moistens the intestines and promotes bowel movement to directly address the core problem of dry stools from intestinal fluid depletion."
     },
     {
+      "id": 1054,
+      "formula_id": 158,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi and moistens the Large Intestine. Since the Lung and Large Intestine are paired organs, directing Qi downward from the Lung helps promote bowel movement from above while also adding lubrication."
     },
     {
+      "id": 1055,
+      "formula_id": 158,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and preserves Yin fluids. It supports the Spleen and Liver to help restore the body's ability to generate and distribute fluids, addressing the underlying fluid deficiency that causes dry stools."
     },
     {
+      "id": 1056,
+      "formula_id": 158,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges accumulated heat and unblocks the bowels. As part of the Xiao Cheng Qi Tang base within this formula, it provides direct purgative action, but the pill form and smaller effective dose ensure this action is gentle rather than harsh."
     },
     {
+      "id": 1057,
+      "formula_id": 158,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up Qi stagnation and reduces distension. It works with Hou Po to move Qi downward through the digestive tract, helping push stagnant material along and relieve abdominal fullness."
     },
     {
+      "id": 1058,
+      "formula_id": 158,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Promotes the movement of Qi and relieves abdominal distension and fullness. Together with Zhi Shi and Da Huang, it forms the Xiao Cheng Qi Tang component that gently clears heat and moves stagnation."
     }
   ],
   "research": [

@@ -24,154 +24,304 @@
   "dietary_advice": "Avoid spicy, fried, greasy, and heavily seasoned foods, which can generate Heat and counteract the formula's cooling, Yin-nourishing effects. Alcohol and tobacco should be strictly avoided as they damage Yin and aggravate Liver Fire. Caffeine and strong tea should be limited as they can dry fluids and disturb the spirit.\nFoods that support the formula's action include dark leafy greens, goji berries (Gou Qi Zi), chrysanthemum tea, black sesame seeds, mulberries, and foods rich in beta-carotene such as carrots and sweet potatoes. Adequate hydration with warm or room-temperature water is important. Cold, raw foods and iced beverages should be moderated to protect the Spleen, which needs to function well to convert nutrients into the Yin and Blood being replenished.",
   "ingredients": [
     {
+      "id": 3403,
+      "formula_id": 451,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Strongly nourishes Kidney Yin and clears deficiency Heat from the Lung and Kidney. As one of the primary King herbs, it replenishes the deep Yin reserves that sustain the eyes, working at the root level to restore the vital fluids that have become depleted."
     },
     {
+      "id": 3404,
+      "formula_id": 451,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the original Qi and strengthens the Spleen, which is the source of Qi and Blood production. Without adequate Qi, the nourishing Yin substances cannot be transported upward to reach the eyes. Ren Shen ensures the body can generate and deliver essential nutrients."
     },
     {
+      "id": 3405,
+      "formula_id": 451,
       "herb_name": "Tu Si Zi",
       "english_name": "Chinese Dodder Seed",
       "role": "King",
-      "dosage": "23g"
+      "dosage": "23g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Spleen",
+      "role_description": "Tonifies both Kidney Yin and Yang in a gentle, balanced manner, and specifically benefits the eyes. It is a key Kidney-nourishing herb that fills essence (Jing) and supports visual acuity, anchoring the formula's Kidney-restoring strategy."
     },
     {
+      "id": 3406,
+      "formula_id": 451,
       "herb_name": "Wu Wei Zi",
       "english_name": "Schisandra berry",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Heart, Kidneys",
+      "role_description": "Astringes and consolidates Kidney essence, preventing the further leakage of Yin fluids. Its sour taste gathers and holds the vital substances that nourish the eyes, complementing the King herbs' tonifying action."
     },
     {
+      "id": 3407,
+      "formula_id": 451,
       "herb_name": "Tian Men Dong",
       "english_name": "Asparagus tuber",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Nourishes Yin and generates fluids, particularly for the Lung and Stomach. Pairs with Tian Men Dong to create a powerful Yin-restoring duo that moistens dryness and cools deficiency Heat from below."
     },
     {
+      "id": 3408,
+      "formula_id": 451,
       "herb_name": "Gou Qi Zi",
       "english_name": "Chinese Wolfberry Fruit",
       "role": "Deputy",
-      "dosage": "23g"
+      "dosage": "23g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Lungs",
+      "role_description": "Nourishes Liver and Kidney Yin, enriches the Blood, and specifically brightens the eyes. One of the most important herbs for eye nourishment, it directly supplements the Liver Blood and Kidney essence that sustain vision."
     },
     {
+      "id": 3409,
+      "formula_id": 451,
       "herb_name": "Sheng Di Huang (&#x751F;&#x5730;&#x9EC4;)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Cools the Blood and nourishes Yin, clearing deficiency Heat. Its cool nature counteracts the empty Fire that rises upward to disturb the eyes when Yin is depleted."
     },
     {
+      "id": 3410,
+      "formula_id": 451,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Strongly tonifies Kidney Yin and nourishes the Blood and essence. Where Sheng Di cools and clears, Shu Di warms slightly and fills, providing the deep nutritive substance the Kidneys need to send essence upward to the eyes."
     },
     {
+      "id": 3411,
+      "formula_id": 451,
       "herb_name": "Niu Xi (&#x725B;&#x819D;)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "23g"
+      "dosage": "23g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Tonifies the Liver and Kidneys, strengthens the sinews and bones, and conducts Blood downward. In this formula, it reinforces the Kidney-nourishing strategy and helps anchor the rising deficiency Fire by guiding it back downward."
     },
     {
+      "id": 3412,
+      "formula_id": 451,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and drains dampness, supporting Ren Shen in fortifying the middle burner. The Spleen is responsible for transporting nutrients, so this herb ensures the tonifying herbs are properly absorbed and distributed."
     },
     {
+      "id": 3413,
+      "formula_id": 451,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi and opens the waterways. The Lungs govern the downward movement of fluids; by regulating Lung Qi, this herb ensures proper distribution of moisture and prevents fluid stagnation that could cloud the eyes."
     },
     {
+      "id": 3414,
+      "formula_id": 451,
       "herb_name": "Shi Hu",
       "english_name": "Dendrobium stem",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Stomach, Kidneys",
+      "role_description": "Nourishes Stomach and Kidney Yin, generates fluids, and clears deficiency Heat. Although the formula is named after this herb, in the classical role assignment from the Yuan Ji Qi Wei it serves as an Assistant that supports the Yin-nourishing strategy and specifically benefits visual clarity."
     },
     {
+      "id": 3415,
+      "formula_id": 451,
       "herb_name": "Rou Cong Rong",
       "english_name": "Desert Cistanche",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Kidneys, Large Intestine",
+      "role_description": "Gently warms and tonifies Kidney Yang and essence without drying. It balances the many cool Yin-tonifying herbs, preventing the formula from becoming too cold, and supports the Kidney's function of generating essence for the eyes."
     },
     {
+      "id": 3416,
+      "formula_id": 451,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "Assistant",
-      "dosage": "23g"
+      "dosage": "23g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Clears the Liver, brightens the eyes, and disperses wind-Heat from the head and eyes. It directly addresses eye redness, dryness, and blurred vision while calming ascendant Liver Yang."
     },
     {
+      "id": 3417,
+      "formula_id": 451,
       "herb_name": "Ji Li",
       "english_name": "Tribulus fruit",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver",
+      "role_description": "Calms the Liver, subdues ascendant Yang, and dispels Wind from the eyes. It addresses eye itching, tearing, and blurred vision caused by Liver Wind rising upward, and helps remove superficial visual obstructions."
     },
     {
+      "id": 3418,
+      "formula_id": 451,
       "herb_name": "Qing Xiang Zi",
       "english_name": "Celosia seed",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver",
+      "role_description": "Clears Liver Heat and improves visual acuity. It directly treats eye conditions including cataracts and glaucoma by draining excess Heat from the Liver channel that rises to disturb the eyes."
     },
     {
+      "id": 3419,
+      "formula_id": 451,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood circulation and moves Qi, particularly in the head region. It ensures that the nourishing substances from the tonifying herbs actually reach the eyes by promoting Blood flow to the head and preventing stasis."
     },
     {
+      "id": 3420,
+      "formula_id": 451,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Regulates Qi movement and prevents stagnation. With so many rich, cloying tonifying herbs in the formula, Zhi Ke keeps the Qi flowing smoothly to prevent bloating and ensure proper absorption."
     },
     {
+      "id": 3421,
+      "formula_id": 451,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "23g"
+      "dosage": "23g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen, Lung, and Kidney simultaneously. It supports the middle burner's digestive capacity while gently nourishing the Kidneys, serving as a bridge between the Qi-tonifying and Yin-tonifying aspects of the formula."
     },
     {
+      "id": 3422,
+      "formula_id": 451,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Tonifies the Spleen and harmonizes the actions of all 25 herbs, moderating any conflicting properties and ensuring smooth cooperation among the formula's many ingredients."
     },
     {
+      "id": 3423,
+      "formula_id": 451,
       "herb_name": "Fang Feng",
       "english_name": "Siler root",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Urinary Bladder, Liver, Spleen",
+      "role_description": "Disperses external Wind from the head and eyes while guiding the formula's actions to the upper body. It addresses Wind-related eye symptoms like excessive tearing and itching, and directs the other herbs toward the eye region."
     },
     {
+      "id": 3424,
+      "formula_id": 451,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "Strongly clears Heart and Liver Fire, draining the excess Heat that has risen to disturb the eyes. Its bitter-cold nature directly counteracts the burning, inflammatory quality of deficiency Fire affecting the eyes."
     },
     {
+      "id": 3425,
+      "formula_id": 451,
       "herb_name": "Jue Ming Zi",
       "english_name": "Cassia seed",
       "role": "Envoy",
-      "dosage": "23g"
+      "dosage": "23g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Large Intestine",
+      "role_description": "Clears Liver Heat and brightens the eyes, specifically targeting visual cloudiness and elevated intraocular pressure. Its name literally means 'seed that decides brightness,' reflecting its strong eye-clarifying action."
     },
     {
+      "id": 3426,
+      "formula_id": 451,
       "herb_name": "Ling Yang Jiao",
       "english_name": "Antelope horn",
       "role": "Envoy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Heart",
+      "role_description": "Powerfully clears Liver Heat, calms Liver Wind, and brightens the eyes. It addresses the most severe manifestations of ascending Liver Fire and internal Wind, such as headache, dizziness, and acute visual disturbance."
     },
     {
+      "id": 3427,
+      "formula_id": 451,
       "herb_name": "Shui Niu Jiao",
       "english_name": "Water buffalo horn",
       "role": "Envoy",
-      "dosage": "15g (concentrated powder)"
+      "dosage": "15g (concentrated powder)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver, Stomach",
+      "role_description": "Clears Heat from the Blood level and cools the Liver, used as a modern substitute for the now-prohibited Xi Jiao (rhinoceros horn). It drains deep-level Heat from the Blood and calms internal stirring that disturbs the eyes."
     }
   ],
   "research": [

@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, it is advisable to avoid foods and drinks that can worsen Liver Qi stagnation or generate internal Heat. This includes alcohol, greasy or deep-fried foods, excessively spicy foods, and strong coffee. Emotionally-driven overeating should also be avoided. Favor light, easily digestible meals with plenty of lightly cooked vegetables. Foods traditionally considered beneficial for the Liver's smooth flow include leafy greens, celery, sprouted grains, and citrus peel (in moderation). Sour foods in small amounts (such as a little vinegar or lemon) can support the Liver, but excessive sour intake can over-contract Liver Qi and work against the formula's dispersing action. Eating at regular times and in a relaxed setting supports the Liver-Spleen harmony the formula seeks to restore.",
   "ingredients": [
     {
+      "id": 29,
+      "formula_id": 6,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The chief herb of the formula. Chai Hu excels at coursing the Liver and resolving stagnation. Used at the highest dose, it directly addresses the core problem of Liver Qi constraint by lifting and spreading the depressed Qi of the Liver channel."
     },
     {
+      "id": 30,
+      "formula_id": 6,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Deputy",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Enters the Liver channel directly to regulate Qi, relieve constraint, and stop pain. It reinforces Chai Hu's ability to free stagnant Liver Qi while adding a stronger pain-relieving action, particularly for distending pain in the chest and flanks."
     },
     {
+      "id": 31,
+      "formula_id": 6,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Known as the 'Qi herb within the Blood,' Chuan Xiong moves blood and promotes the circulation of Qi simultaneously. It assists Chai Hu in resolving Liver stagnation while addressing the blood stasis that inevitably accompanies prolonged Qi constraint, thereby relieving pain."
     },
     {
+      "id": 32,
+      "formula_id": 6,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, harmonizes the Stomach, and resolves stagnation in the Middle Burner. When Liver Qi invades the Stomach, digestive symptoms like bloating and belching arise. Chen Pi addresses this secondary mechanism and supports healthy digestion. Vinegar-processed (醋炒) to enhance its Liver-entering action."
     },
     {
+      "id": 33,
+      "formula_id": 6,
       "herb_name": "Zhi Ke",
       "english_name": "Bitter orange fruit",
       "role": "Assistant",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Lungs",
+      "role_description": "Moves Qi, widens the chest, and reduces abdominal distension. Works together with Chen Pi to regulate the Qi mechanism in the Middle Burner, alleviating the fullness and bloating caused by stagnant Liver Qi overacting on the digestive system."
     },
     {
+      "id": 34,
+      "formula_id": 6,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver blood and softens the Liver, moderating the drying and dispersing nature of the other Qi-moving herbs. Paired with Zhi Gan Cao, it relaxes spasm and eases pain (the classical Shao Yao Gan Cao Tang pairing within this formula). Provides the essential 'restraining' balance to prevent excessive Qi dispersion from injuring Liver Yin."
     },
     {
+      "id": 35,
+      "formula_id": 6,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula. Together with Bai Shao, it relaxes tension and stops pain. Used at the lowest dose, it also mildly tonifies the Spleen to support the Middle Burner and prevent the strong Qi-moving herbs from weakening digestion."
     }
   ],
   "research": [

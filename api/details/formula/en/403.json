@@ -24,28 +24,52 @@
   "dietary_advice": "While taking this formula, avoid cold and raw foods (ice, cold salads, raw seafood), greasy and fried foods, and dairy products, as these promote Phlegm production and Cold accumulation — exactly the pathological factors the formula is working to resolve. Avoid excessive alcohol beyond what the formula itself contains. Favor warm, lightly cooked foods that are easy to digest: clear soups, cooked vegetables, congee, and small amounts of mild allium-family vegetables (spring onions, chives) which share warming and Yang-promoting qualities with Xie Bai. Avoid overeating, as a burdened Stomach and Spleen will generate more Phlegm.",
   "ingredients": [
     {
+      "id": 3047,
+      "formula_id": 403,
       "herb_name": "Gua Lou",
       "english_name": "Trichosanthes fruit",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach, Large Intestine",
+      "role_description": "Opens the chest and expels phlegm, loosens chest tightness and disperses clumps. As the principal herb, it directly addresses the core problem of phlegm turbidity blocking the chest, using its sweet, cold, and slippery nature to clear and dissolve phlegm accumulation while broadening the chest."
     },
     {
+      "id": 3048,
+      "formula_id": 403,
       "herb_name": "Xie Bai",
       "english_name": "Chinese garlic bulb",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach, Large Intestine",
+      "role_description": "Warms and unblocks the chest Yang, disperses cold and stagnation. Its pungent, warm, and slippery nature penetrates through congestion to restore the free flow of Yang Qi in the upper body. It directly supports Gua Lou by warming what Gua Lou clears, ensuring both the phlegm and the underlying cold stagnation are addressed."
     },
     {
+      "id": 3049,
+      "formula_id": 403,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries dampness, transforms phlegm, descends rebellious Qi, and disperses clumps. This herb was specifically added to the parent formula (Gua Lou Xie Bai Bai Jiu Tang) to address more severe phlegm accumulation. Its downward-directing quality counteracts the upward surging of turbid Qi that prevents the patient from lying down, and it also promotes sleep."
     },
     {
+      "id": 3050,
+      "formula_id": 403,
       "herb_name": "Bai Jiu",
       "english_name": "Rice Wine",
       "role": "Envoy",
-      "dosage": "30 - 70ml"
+      "dosage": "30 - 70ml",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs, Stomach",
+      "role_description": "Acts as a warm, pungent carrier that directs the formula upward to the chest, unblocks Yang, and helps disperse stagnation. The wine also serves as a solvent that enhances the extraction of active constituents from the other herbs. In classical usage this referred to a low-alcohol rice wine (similar to modern Huang Jiu or fermented rice), not modern distilled spirits."
     }
   ],
   "research": [

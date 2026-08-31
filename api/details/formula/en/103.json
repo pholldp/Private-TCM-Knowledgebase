@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, favor warm, nourishing, easily digestible foods such as congee (rice porridge), cooked root vegetables, bone broth, warm soups, and well-cooked grains. These support the Spleen's digestive function and complement the formula's tonifying action.\nAvoid cold and raw foods (salads, ice water, cold drinks, raw fruit), greasy or deep-fried foods, and excessively spicy or stimulating foods. The large dose of Shu Di Huang is rich and hard to digest, so cold and greasy foods would further burden the Spleen and impede the formula's absorption. Also avoid excessive tea and coffee, as these can interfere with nutrient absorption and counteract the warming, tonifying nature of the herbs.",
   "ingredients": [
     {
+      "id": 719,
+      "formula_id": 103,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Yin and Blood as the primary Blood-building herb. At the heaviest dose in the formula, it replenishes the massive Blood loss and provides the material basis for recovery. Its rich, nourishing quality anchors the Yin and prevents the deficiency fire from flaring further."
     },
     {
+      "id": 720,
+      "formula_id": 103,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen to restore its ability to govern Blood and keep it within the vessels. Also serves as the source of Blood generation by fortifying the middle burner. Used at an equally heavy dose as Shu Di Huang, reflecting its critical role in rebuilding the Spleen's holding function."
     },
     {
+      "id": 721,
+      "formula_id": 103,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the original Qi and rescues collapse. In cases of severe blood loss where the patient is close to losing consciousness, the Qi is on the verge of scattering. Ren Shen urgently consolidates the Qi to prevent further collapse and creates the foundation upon which Blood can be regenerated."
     },
     {
+      "id": 722,
+      "formula_id": 103,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Tonifies Spleen Qi and raises the Yang Qi. Works with Ren Shen to strengthen the Qi's ability to hold Blood in the vessels. Its upward-lifting nature counters the downward collapse of Blood. Together with Dang Gui, it contains the pairing of Dang Gui Bu Xue Tang, which strongly generates Blood through Qi."
     },
     {
+      "id": 723,
+      "formula_id": 103,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood. Assists Shu Di Huang in replenishing the blood that has been lost, while its mild moving quality prevents the heavy tonifying herbs from creating stagnation. Paired with Huang Qi, it forms the classic Dang Gui Bu Xue Tang combination for generating Blood through Qi."
     },
     {
+      "id": 724,
+      "formula_id": 103,
       "herb_name": "Pao jiang",
       "english_name": "Blast-fried Ginger",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Spleen, Stomach, Kidneys",
+      "role_description": "Warms the channels and guides blood back to its proper pathways. Its charred form has an astringent, hemostatic quality that helps stop bleeding, while its warming nature supplements the Fire (Yang) to prevent the cold congealing that would block new Blood generation. Fulfills Fu Qingzhu's principle of 'supplementing Fire beyond supplementing Qi.'"
     }
   ],
   "research": [],

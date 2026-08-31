@@ -24,28 +24,52 @@
   "dietary_advice": "During treatment, eat only bland, easily digestible foods. After effective purging (得快下利后), immediately switch to thin rice porridge (糜粥) to nourish the Stomach and restore Qi, as Zhang Zhongjing specifically instructed. Avoid cold, raw, greasy, or heavy foods that burden the Spleen and promote further fluid accumulation. Avoid alcohol entirely. Do not consume any foods or supplements containing licorice (Gan Cao). Stay well-hydrated with warm fluids between doses to prevent excessive dehydration, but do not drink large quantities at once. Rest and avoid physical exertion during the treatment course.",
   "ingredients": [
     {
+      "id": 321,
+      "formula_id": 52,
       "herb_name": "Gan Sui",
       "english_name": "Kansui root",
       "role": "King",
-      "dosage": "0.5 - 1g (as powder)"
+      "dosage": "0.5 - 1g (as powder)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Kidneys, Large Intestine",
+      "role_description": "The primary water-expelling herb. Gan Sui penetrates the channels and collaterals (jing sui) to drive out deeply lodged fluid accumulations. It is the most powerful of the three drastic purgatives and directly addresses the core pathomechanism of water retention throughout the body."
     },
     {
+      "id": 322,
+      "formula_id": 52,
       "herb_name": "Jing Da Ji",
       "english_name": "Peking Euphorbia Root",
       "role": "Deputy",
-      "dosage": "0.5 - 1g (as powder)"
+      "dosage": "0.5 - 1g (as powder)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Kidneys",
+      "role_description": "Drains water and dampness from the organs (zang fu). Da Ji complements Gan Sui by targeting fluid accumulation within the viscera, particularly effective for abdominal fluid and water stagnation in the internal organs. It also helps reduce swellings and disperse nodules."
     },
     {
+      "id": 323,
+      "formula_id": 52,
       "herb_name": "Yuan Hua",
       "english_name": "Genkwa flower",
       "role": "Deputy",
-      "dosage": "0.5 - 1g (as powder)"
+      "dosage": "0.5 - 1g (as powder)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen, Kidneys",
+      "role_description": "Specializes in eliminating fluid and phlegm congestion from the chest and hypochondrium. Yuan Hua is acrid and warm, which helps it disperse and break up stubborn fluid accumulations in the upper body, particularly effective for suspended fluid (xuan yin) lodged beneath the ribs."
     },
     {
+      "id": 324,
+      "formula_id": 52,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "10 pieces (large, plump dates)"
+      "dosage": "10 pieces (large, plump dates)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Serves three critical purposes: moderates the harshness and toxicity of the three drastic purgatives; tonifies Qi and protects the Stomach to prevent the severe purging from damaging digestive function; and strengthens the Spleen (Earth) to help control Water, addressing both the pathogen and the body's resilience simultaneously."
     }
   ],
   "research": [

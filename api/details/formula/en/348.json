@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid greasy, fatty, and fried foods, as these directly contribute to the Phlegm-Turbidity and food stagnation that this formula is designed to address. Reduce intake of rich meats, dairy, alcohol, and heavily processed foods.\nFavor light, easily digestible meals: leafy green vegetables, whole grains, mung beans, winter melon, radish, celery, seaweed, and moderate amounts of fish. These foods support the Spleen's transformative function and help resolve Dampness.\nAvoid excessive cold or raw foods, as these can impair the Spleen's digestive function even though the formula itself is cooling in nature. Room-temperature or warm foods are preferable.\nLimit sugar and refined carbohydrates, which in TCM terms generate Dampness and Phlegm.\nModerate daily exercise is an important complement to the formula, as movement promotes the free flow of Qi and helps transform Phlegm-Dampness.",
   "ingredients": [
     {
+      "id": 2553,
+      "formula_id": 348,
       "herb_name": "Shan Zha",
       "english_name": "Hawthorn fruit",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Liver",
+      "role_description": "The chief herb of the formula. Shan Zha (Hawthorn Fruit) powerfully dissolves food stagnation, especially from greasy and fatty foods. It invigorates blood circulation, transforms accumulations, and has well-documented modern lipid-lowering effects. It directly addresses the core therapeutic target of reducing turbid lipids."
     },
     {
+      "id": 2554,
+      "formula_id": 348,
       "herb_name": "Jue Ming Zi",
       "english_name": "Cassia seed",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Large Intestine",
+      "role_description": "Clears Liver Heat, brightens the eyes, and moistens the intestines to promote bowel movement. Strongly synergizes with Shan Zha to lower lipids. Dry-frying moderates its cold nature while retaining its lipid-lowering properties."
     },
     {
+      "id": 2555,
+      "formula_id": 348,
       "herb_name": "He Shou Wu",
       "english_name": "Fleeceflower Root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies Liver and Kidney, nourishes Blood and Essence. The processed form is used to provide a nourishing and stabilizing counterbalance to the many draining herbs in this formula, preventing excessive depletion. It also has documented cholesterol-regulating properties."
     },
     {
+      "id": 2556,
+      "formula_id": 348,
       "herb_name": "Hu Zhang",
       "english_name": "Giant Knotweed Rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Invigorates blood, resolves stasis, clears heat, and resolves toxins. It addresses blood stasis, a key pathological factor in hyperlipidemia. Contains resveratrol, which has recognized anti-inflammatory and lipid-lowering properties."
     },
     {
+      "id": 2557,
+      "formula_id": 348,
       "herb_name": "Yin Chen",
       "english_name": "Virgate Wormwood Herb",
       "role": "Assistant",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Liver, Gallbladder",
+      "role_description": "Clears damp-heat, particularly from the Liver and Gallbladder. Promotes bile secretion and supports healthy hepatic metabolism of lipids. Helps the body process and excrete turbid dampness that contributes to elevated blood fats."
     },
     {
+      "id": 2558,
+      "formula_id": 348,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses Liver Qi and relieves stagnation. Liver Qi stagnation impairs the Liver's role in governing the smooth flow of Qi and the metabolism of fats. Chai Hu ensures that Qi flows freely, supporting the overall dispersing and transforming action of the formula."
     },
     {
+      "id": 2559,
+      "formula_id": 348,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Assistant",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Promotes urination and drains dampness. It leaches out turbid dampness through the urinary pathway, providing a direct route for the body to expel accumulated damp-turbidity that manifests as elevated blood lipids."
     },
     {
+      "id": 2560,
+      "formula_id": 348,
       "herb_name": "Yu Jin",
       "english_name": "Turmeric tuber",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs",
+      "role_description": "Invigorates blood and resolves stasis, moves Qi and resolves constraint. Yu Jin works on both the Qi and Blood levels to address the stagnation that accompanies turbid lipid accumulation. It also clears heat from the Liver and Gallbladder."
     },
     {
+      "id": 2561,
+      "formula_id": 348,
       "herb_name": "Yi Yi Ren",
       "english_name": "Job&#x27;s Tears seed",
       "role": "Assistant",
-      "dosage": "10 - 20g"
+      "dosage": "10 - 20g",
+      "temperature": "Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Strengthens the Spleen and leaches out dampness. Addresses the root Spleen deficiency that leads to dampness and phlegm accumulation. Also supports healthy metabolism of turbid substances."
     },
     {
+      "id": 2562,
+      "formula_id": 348,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Purges heat accumulation and drives out stasis. Used in small dose to promote bowel movement and expel turbid waste through the intestines, providing a downward-draining exit for accumulated lipid-related stagnation. Also invigorates blood."
     },
     {
+      "id": 2563,
+      "formula_id": 348,
       "herb_name": "Jin Ying Zi",
       "english_name": "Cherokee rose fruit",
       "role": "Envoy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sour (&#x9178; su&#x101;n), Sweet (&#x7518; g&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Kidneys, Urinary Bladder, Large Intestine",
+      "role_description": "Astringes and consolidates Kidney Essence. Serves as a restraining assistant and envoy to prevent the many draining and purging herbs (Ze Xie, Da Huang, Yin Chen) from excessively depleting the body's Essence and righteous Qi. This balancing role is critical in a formula heavily weighted toward elimination."
     }
   ],
   "research": [

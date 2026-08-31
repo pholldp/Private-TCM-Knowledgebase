@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, nutrient-dense, warming, and easy-to-digest foods are recommended to support the formula's Qi- and Blood-building actions. Traditional postpartum foods such as bone broths, pig's trotter soup (already included in the original recipe), chicken soup, millet porridge, and red dates are highly complementary. Avoid cold and raw foods (salads, iced drinks, raw fruits in excess) as these can impair the Spleen's digestive and transformative function, undermining the formula's effort to generate Qi and Blood. Avoid greasy, heavily fried, or overly rich foods that may generate Dampness and obstruct the breast network vessels. Excessively spicy or pungent foods should be moderated as they can scatter Qi. Malt-based foods and drinks (including barley tea and large amounts of raw malt/barley) should be strictly avoided, as raw malt (Sheng Mai Ya) is traditionally used to reduce or stop lactation.",
   "ingredients": [
     {
+      "id": 385,
+      "formula_id": 60,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the source Qi. In this formula, Fu Qingzhu emphasizes that Qi is the driving force that transforms Blood into breast milk. Without sufficient Qi, even adequate Blood cannot be converted into milk. Ren Shen serves as the primary Qi-tonifying agent to restore the mother's depleted vitality after childbirth."
     },
     {
+      "id": 386,
+      "formula_id": 60,
       "herb_name": "Huang Qi",
       "english_name": "Astragalus root",
       "role": "King",
-      "dosage": "30g"
+      "dosage": "30g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs",
+      "role_description": "Strongly supplements Qi and raises the Yang. It works alongside Ren Shen to powerfully replenish Qi, particularly the Spleen and Lung Qi. Together with Ren Shen, it forms the core strategy of the formula: building Qi to drive milk production. Huang Qi also lifts Qi upward, aiding in directing nourishment to the breast."
     },
     {
+      "id": 387,
+      "formula_id": 60,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "60g"
+      "dosage": "60g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood. Used at double the dosage of the King herbs to emphasize the importance of Blood as the material basis for breast milk. Wine-washed Dang Gui enhances its ability to circulate and activate Blood, ensuring that the newly generated Blood flows to the breast to be transformed into milk."
     },
     {
+      "id": 388,
+      "formula_id": 60,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin and generates fluids. It moistens and enriches the body's fluids, providing the liquid substrate for milk production. It also prevents the warm, Qi-tonifying herbs from drying out the mother's Yin and fluids, which are already depleted after childbirth."
     },
     {
+      "id": 389,
+      "formula_id": 60,
       "herb_name": "Mu Tong",
       "english_name": "Akebia stem",
       "role": "Assistant",
-      "dosage": "1g"
+      "dosage": "1g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Small Intestine, Urinary Bladder",
+      "role_description": "Opens the channels and promotes lactation. Used in a very small dose, it gently unblocks the breast network vessels (milk ducts) to ensure that once Qi and Blood are replenished, the milk can flow freely. It adds a mild opening and draining action to complement the heavy tonification."
     },
     {
+      "id": 390,
+      "formula_id": 60,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Envoy",
-      "dosage": "1g"
+      "dosage": "1g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Directs the formula's action upward to the chest and breast. As a classic envoy herb for the Upper Burner, Jie Geng guides the Qi and Blood-building effects of the other herbs to the breast area where they are needed. It opens and lifts Lung Qi, further supporting the upward movement of nourishment to the breast."
     }
   ],
   "research": [],

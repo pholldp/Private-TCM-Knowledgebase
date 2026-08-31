@@ -24,70 +24,136 @@
   "dietary_advice": "Avoid spicy, greasy, deep-fried, and heavily warming foods (lamb, chili, ginger, strong alcohol, coffee) that can aggravate Liver Fire and further deplete Yin. Favor cooling, moistening foods such as pears, lily bulb, chrysanthemum tea, mung beans, celery, cucumber, and tofu. Lightly prepared vegetables and congee are beneficial. Because the formula contains rich Yin-nourishing herbs that can be hard on digestion, avoid cold raw foods in excess to protect the Stomach and Spleen. Eat at regular times and avoid eating late at night.",
   "ingredients": [
     {
+      "id": 3765,
+      "formula_id": 497,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "10 - 24g"
+      "dosage": "10 - 24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "The primary herb of the formula, Shu Di Huang richly nourishes Kidney Yin and fills the essence. As the cornerstone of the Liu Wei Di Huang Wan base, it directly addresses the root deficiency of Kidney Yin (Water) that underlies the entire pattern. By replenishing the Kidney's Yin foundation, it restores the source from which the Liver draws nourishment."
     },
     {
+      "id": 3766,
+      "formula_id": 497,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes Liver Blood and astringes Kidney essence. Working on the principle that Liver and Kidney share a common source, it supplements Liver Yin from the Kidney side, reinforcing the King herb's tonifying action while preventing further leakage of depleted essence."
     },
     {
+      "id": 3767,
+      "formula_id": 497,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidney, securing essence. It supports the middle burner to ensure that the nourishing herbs are properly absorbed and transformed. Together with Shan Zhu Yu, it completes the 'three tonifying' herbs of the Liu Wei Di Huang Wan structure, addressing Kidney, Liver, and Spleen simultaneously."
     },
     {
+      "id": 3768,
+      "formula_id": 497,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood, supporting the Liver's Blood storage function. Since Liver constraint often arises when Liver Blood is insufficient, Dang Gui addresses this directly, complementing the Yin-nourishing strategy with Blood-nourishing support and ensuring smooth flow through the Liver channel."
     },
     {
+      "id": 3769,
+      "formula_id": 497,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver Blood and softens the Liver, helping to relieve pain from constrained Liver Qi. It counterbalances the ascending and dispersing nature of Chai Hu, preventing the Liver-coursing action from consuming Yin. Its sour, astringent quality helps preserve Yin fluids."
     },
     {
+      "id": 3770,
+      "formula_id": 497,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses and unblocks constrained Liver Qi. Used at a low dosage to gently spread the Liver without over-dispersing or damaging Yin. It addresses the Liver constraint component of the pattern, ensuring that Qi flows freely so that the nourishing herbs can reach their targets."
     },
     {
+      "id": 3771,
+      "formula_id": 497,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from the Liver and Heart, draining the depressive Fire that has arisen from prolonged Liver constraint and Yin deficiency. It directly targets irritability, restlessness, and bitter taste in the mouth. Together with Mu Dan Pi, it clears Heat generated by both constraint and deficiency."
     },
     {
+      "id": 3772,
+      "formula_id": 497,
       "herb_name": "Suan Zao Ren",
       "english_name": "Sour jujube seed",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Heart, Liver, Gallbladder",
+      "role_description": "Nourishes Heart Blood and calms the spirit, addressing insomnia and restless sleep that commonly accompany Yin deficiency with rising Heat. Its sour flavour astringes and preserves Yin, while its calming action helps settle the mind disturbed by deficient Heat and constrained emotions."
     },
     {
+      "id": 3773,
+      "formula_id": 497,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat from the Blood level and cools deficiency Fire, complementing Ze Xie in the 'three draining' group of Liu Wei Di Huang Wan. It specifically clears Liver Fire that has entered the Blood, addressing symptoms like night sweats, flushing, and agitation."
     },
     {
+      "id": 3774,
+      "formula_id": 497,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Drains Dampness and supports the Spleen, preventing the rich tonifying herbs (especially Shu Di Huang) from creating stagnation. It also calms the spirit, providing mild support for the emotional symptoms of the pattern."
     },
     {
+      "id": 3775,
+      "formula_id": 497,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Envoy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains Kidney turbidity and directs downward, clearing deficiency Heat from the lower burner. It prevents the cloying nature of Shu Di Huang from generating Dampness, and helps guide the formula's action to the Kidney. Together with Fu Ling and Mu Dan Pi, it forms the 'three draining' component that balances the 'three tonifying' herbs."
     }
   ],
   "research": [

@@ -24,58 +24,112 @@
   "dietary_advice": "Favour warm, easily digestible, nourishing foods that support Yin and Blood: bone broth, lamb stew (classical texts specifically recommend lamb meat with this formula for its warming and supplementing qualities), black sesame, walnuts, dark leafy greens, and kidney beans. Avoid cold and raw foods, iced drinks, and excessive greasy or fried foods, as the formula already contains cold-natured herbs that may burden the Spleen. Limit spicy, pungent, and drying foods (chili, alcohol, coffee) which can further deplete Yin fluids and counteract the formula's nourishing actions. Reduce intake of overly sweet or sugary foods that generate Dampness.",
   "ingredients": [
     {
+      "id": 4408,
+      "formula_id": 575,
       "herb_name": "Huang Bai",
       "english_name": "",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "The heaviest herb in the formula by dosage. Strongly clears deficiency Heat from the Kidney and Lower Burner, dries Dampness, and stabilizes Yin. Its bitter, cold nature directly addresses the core pathomechanism of Yin deficiency with Fire flaring upward."
     },
     {
+      "id": 4409,
+      "formula_id": 575,
       "herb_name": "Gui Ban",
       "english_name": "Tortoise plastron",
       "role": "King",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Heart, Kidneys",
+      "role_description": "The second-largest dose in the formula. Deeply nourishes Kidney Yin, anchors floating Yang, and strengthens bones. Tortoise shell is considered the most Yin-rich of all animal substances, making it ideal for replenishing depleted Yin and stabilizing the Kidney foundation."
     },
     {
+      "id": 4410,
+      "formula_id": 575,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Tonifies Kidney Yin and nourishes Blood and essence. Works alongside Gui Ban to replenish the depleted material foundation of the Liver and Kidney, filling the marrow and strengthening the bones from the inside."
     },
     {
+      "id": 4411,
+      "formula_id": 575,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears Heat and nourishes Yin. Paired with Huang Bai, it forms the classic Zhi Mu-Huang Bai duo that powerfully clears deficiency Fire while preserving Yin fluids. Its moistening quality prevents the drying effect of Huang Bai."
     },
     {
+      "id": 4412,
+      "formula_id": 575,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and softens the Liver. Supplements Liver Blood to nourish the sinews, and its sour taste helps to astringe and preserve Yin. Contributes to relieving cramping and stiffness in the limbs."
     },
     {
+      "id": 4413,
+      "formula_id": 575,
       "herb_name": "Suo Yang",
       "english_name": "Cynomorium herb",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys, Large Intestine",
+      "role_description": "Warms the Kidney Yang, supplements essence, and moistens the sinews. Provides a small warming, Yang-tonifying element within this predominantly Yin-nourishing formula, ensuring that Yang is not completely suppressed. Helps moisten dryness and nourish the sinews."
     },
     {
+      "id": 4414,
+      "formula_id": 575,
       "herb_name": "Hu Gu",
       "english_name": "Tiger bone",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Powerfully strengthens bones and sinews, dispels Wind, and relieves pain. Directly treats the symptom of skeletal weakness and difficulty walking. Note: tiger bone is now banned worldwide; modern versions use substitutes such as dog bone (Gou Gu), cattle bone, or artificial tiger bone powder."
     },
     {
+      "id": 4415,
+      "formula_id": 575,
       "herb_name": "Chen Pi",
       "english_name": "Tangerine peel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Regulates Qi, harmonizes the Stomach, and prevents the heavy, cloying Yin-tonifying herbs from causing digestive stagnation. Ensures the rich, greasy medicinals in this formula can be properly absorbed."
     },
     {
+      "id": 4416,
+      "formula_id": 575,
       "herb_name": "Gan Jiang",
       "english_name": "Dried ginger rhizome",
       "role": "Envoy",
-      "dosage": "3 - 5g"
+      "dosage": "3 - 5g",
+      "temperature": "Hot",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Spleen, Lungs, Stomach",
+      "role_description": "Warms the Middle Burner and facilitates the transformation of the many cold, Yin-nourishing herbs. Used in a small dose to balance the overall coldness of the formula, protect the Spleen and Stomach, and help Qi and Blood circulate so the formula's benefits reach the lower limbs."
     }
   ],
   "research": [],

@@ -24,58 +24,112 @@
   "dietary_advice": "Favor warm, easily digestible, nourishing foods that support Qi and Blood production: congee, soups, dates, longan fruit, cooked vegetables, and small amounts of lean protein. Avoid cold and raw foods, iced drinks, and excessive greasy or rich foods, as these can impair the Spleen's digestive function and hinder absorption of this heavily nourishing formula. Limit salty foods, as the high-dose Gan Cao already promotes sodium retention. Avoid excessive caffeine and stimulants, which can aggravate palpitations. The classical preparation includes rice wine for its warming, circulation-promoting properties; if not using wine in the decoction, a small amount of warm rice wine taken with the medicine may enhance its effects, but alcohol should be avoided by those with contraindications.",
   "ingredients": [
     {
+      "id": 2344,
+      "formula_id": 329,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "King",
-      "dosage": "12 - 15g"
+      "dosage": "12 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Used in a large dose as the chief herb that names the formula. It warms and supplements the Qi of the Middle Burner, opens the channels, moves the Blood, and calms the Heart. Its sweet and warm nature nourishes the Heart Qi and supports the generation of Qi and Blood from the Spleen."
     },
     {
+      "id": 2345,
+      "formula_id": 329,
       "herb_name": "Sheng Di Huang (Raw Rehmannia Root)",
       "english_name": "",
       "role": "King",
-      "dosage": "30 - 50g"
+      "dosage": "30 - 50g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Used in the heaviest dose in the entire formula (classically one jin, approximately 50g). It powerfully nourishes Yin and Blood, fills the blood vessels, and enriches the Heart. As the primary Yin-nourishing herb, it anchors the formula's ability to restore substance to depleted blood vessels and nourish the Heart body."
     },
     {
+      "id": 2346,
+      "formula_id": 329,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Powerfully tonifies the original Qi and strengthens the Spleen, providing the source for Qi and Blood generation. Works with Zhi Gan Cao to boost Heart Qi and calm the spirit, relieving palpitations and anxiety."
     },
     {
+      "id": 2347,
+      "formula_id": 329,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "Deputy",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Nourishes Heart Blood and Yin, enriches the blood vessels, and moistens dryness. Its rich, viscous nature helps fill depleted blood vessels and works with Sheng Di Huang to restore Heart Yin and Blood."
     },
     {
+      "id": 2348,
+      "formula_id": 329,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Deputy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Heart and Lung Yin, generates fluids, and clears deficiency irritability. Pairs with Sheng Di Huang to enrich Yin and moisten dryness throughout the upper and middle body."
     },
     {
+      "id": 2349,
+      "formula_id": 329,
       "herb_name": "Huo Ma Ren",
       "english_name": "Hemp seed",
       "role": "Deputy",
-      "dosage": "10 - 15g"
+      "dosage": "10 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Moistens and lubricates the blood vessels and intestines. Its oily nature helps nourish Yin and Blood, contributing to the overall enriching strategy. Also addresses the constipation that commonly accompanies this pattern of fluid depletion."
     },
     {
+      "id": 2350,
+      "formula_id": 329,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Warms Heart Yang and opens the blood vessels, ensuring that Qi and Blood can circulate. Paired with Zhi Gan Cao, it creates a 'sweet and acrid generating Yang' combination that revives Heart Yang. It also prevents the many rich, Yin-nourishing herbs from becoming stagnant and cloying."
     },
     {
+      "id": 2351,
+      "formula_id": 329,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9 - 10g"
+      "dosage": "9 - 10g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Warms the Middle Burner and promotes the movement of Qi through the channels. Works with Gui Zhi to warm Yang and open the vessels, ensuring the thick, nourishing herbs are properly distributed and do not cause stagnation."
     },
     {
+      "id": 2352,
+      "formula_id": 329,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "10 - 30 pieces"
+      "dosage": "10 - 30 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen, supplements Qi, and harmonizes the formula. Works with Ren Shen and Zhi Gan Cao to support the Spleen as the source of Qi and Blood production, and harmonizes the actions of the warming and nourishing ingredients."
     }
   ],
   "research": [

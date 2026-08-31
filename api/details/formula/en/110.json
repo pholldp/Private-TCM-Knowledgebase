@@ -24,52 +24,100 @@
   "dietary_advice": "Avoid spicy, fried, and greasy foods while taking this formula, as they generate internal Heat and counteract the formula's cooling, Yin-nourishing effect. Also avoid alcohol and strong coffee, which are warming and Yin-depleting. Difficult-to-digest foods (heavy meats, sticky glutinous rice) should be limited, as the formula contains rich, cloying herbs that can burden the Spleen.\nFavor moistening, Yin-nourishing foods such as pear, lily bulb (bai he), black sesame, walnuts, silver ear fungus (yin er), honey, duck, and tofu. Mildly cooling soups and congees are ideal. Stay well hydrated with room-temperature or warm water.",
   "ingredients": [
     {
+      "id": 766,
+      "formula_id": 110,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "24g"
+      "dosage": "24g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Strongly enriches Kidney Yin and nourishes the Essence and Blood. As the largest dose ingredient, it addresses the root deficiency of Kidney Yin that underlies the entire pattern."
     },
     {
+      "id": 767,
+      "formula_id": 110,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Clears deficiency Heat and nourishes Yin. Its bitter and cold nature directly drains the flaring ministerial fire (xiang huo) while moistening dryness, reinforcing the formula's ability to address both the root Yin deficiency and the branch of excess Heat."
     },
     {
+      "id": 768,
+      "formula_id": 110,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains ministerial fire and clears Damp-Heat from the Lower Burner. It strengthens and stabilizes Yin (jian yin), preventing further leakage of Yin fluids through its astringent cooling action, and works in tandem with Zhi Mu to powerfully clear deficiency fire."
     },
     {
+      "id": 769,
+      "formula_id": 110,
       "herb_name": "Shan Zhu Yu",
       "english_name": "Cornelian Cherry Fruit",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sour (&#x9178; su&#x101;n), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Nourishes the Liver and Kidneys, astringes Essence and prevents leakage. Supports the King herb Shu Di Huang in replenishing Yin while helping to secure Essence that may be depleted through nocturnal emissions or excessive sweating."
     },
     {
+      "id": 770,
+      "formula_id": 110,
       "herb_name": "Shan Yao",
       "english_name": "Chinese yam",
       "role": "Assistant",
-      "dosage": "12g"
+      "dosage": "12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Lungs, Kidneys",
+      "role_description": "Tonifies the Spleen and Kidneys, stabilizing Essence and consolidating Qi. Ensures that the Spleen can support the generation and distribution of nourishing fluids, complementing the Kidney-focused tonification."
     },
     {
+      "id": 771,
+      "formula_id": 110,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat from the Liver and Blood, cools deficiency Heat. Drains Liver fire that often accompanies Kidney Yin deficiency, preventing the upward flaring of Heat that causes flushing, headache, and irritability."
     },
     {
+      "id": 772,
+      "formula_id": 110,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Promotes water metabolism and strengthens the Spleen. Leaches out Dampness that could otherwise obstruct the nourishing herbs, and supports the Spleen's role in transforming and transporting the rich Yin-tonifying herbs in this formula."
     },
     {
+      "id": 773,
+      "formula_id": 110,
       "herb_name": "Ze Xie",
       "english_name": "Water plantain rhizome",
       "role": "Envoy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Drains turbid Dampness downward and clears Kidney fire through urination. Prevents the heavy, cloying Yin-tonifying herbs from producing stagnation, and directs the formula's action downward to the Kidneys and Lower Burner."
     }
   ],
   "research": [

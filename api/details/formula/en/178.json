@@ -24,76 +24,148 @@
   "dietary_advice": "Avoid cold and raw foods (ice water, raw salads, sashimi) as they can constrict the channels and worsen Blood stasis. Reduce intake of greasy, rich, or heavy foods that may generate Dampness and impede circulation. Avoid excessive alcohol, which can produce Damp-Heat and interfere with the formula's action. Favor warm, lightly cooked foods that support circulation, such as ginger tea, turmeric, small amounts of vinegar in cooking, dark leafy greens, and warming spices. Moderate intake of foods that gently support Blood flow, like black fungus (wood ear mushroom), hawthorn fruit, and small amounts of rice wine in cooking, may complement treatment.",
   "ingredients": [
     {
+      "id": 1197,
+      "formula_id": 178,
       "herb_name": "Tao Ren",
       "english_name": "Peach kernel",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Liver, Large Intestine",
+      "role_description": "Breaks up Blood stasis and invigorates Blood circulation throughout the body. As one of the primary Blood-moving herbs in the formula, it directly addresses the core pathomechanism of congealed Blood blocking the channels."
     },
     {
+      "id": 1198,
+      "formula_id": 178,
       "herb_name": "Hong Hua",
       "english_name": "Safflower flower",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver",
+      "role_description": "Powerfully activates Blood and dispels stasis, working synergistically with Tao Ren to form the primary Blood-moving pair in the formula. Relieves pain caused by Blood stagnation."
     },
     {
+      "id": 1199,
+      "formula_id": 178,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Invigorates Blood and promotes the movement of Qi, acting as a 'Qi herb within the Blood.' Its ability to move both Qi and Blood in the channels and collaterals makes it essential for treating pain throughout the body. Also expels Wind and alleviates pain."
     },
     {
+      "id": 1200,
+      "formula_id": 178,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and invigorates Blood simultaneously. This dual action ensures that the strongly Blood-moving herbs do not damage healthy Blood in the process of dispelling stasis. Supports the generation of new Blood after stasis is cleared."
     },
     {
+      "id": 1201,
+      "formula_id": 178,
       "herb_name": "Niu Xi",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Invigorates Blood and opens the channels, with a particular affinity for the lower body. Strengthens the sinews and bones and directs the formula's action downward to treat lower back and leg pain."
     },
     {
+      "id": 1202,
+      "formula_id": 178,
       "herb_name": "Qin Jiao",
       "english_name": "Large-leaf gentian root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Stomach, Liver, Gallbladder",
+      "role_description": "Expels Wind-Dampness from the channels and relaxes the sinews. Unlike Qiang Huo, Qin Jiao can address both Cold and Heat types of painful obstruction, giving the formula broader applicability across Bi syndrome presentations."
     },
     {
+      "id": 1203,
+      "formula_id": 178,
       "herb_name": "Qiang Huo",
       "english_name": "Notopterygium root and rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Urinary Bladder, Kidneys",
+      "role_description": "Disperses Wind-Cold-Dampness and unblocks painful obstruction, particularly in the upper body and the Tai Yang channel. Pairs with Qin Jiao to address the external pathogenic factors (Wind-Dampness) that contribute to channel obstruction alongside the Blood stasis."
     },
     {
+      "id": 1204,
+      "formula_id": 178,
       "herb_name": "Mo Yao",
       "english_name": "Myrrh resin",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Spleen",
+      "role_description": "Activates Blood, disperses stasis, and alleviates pain. Works with Wu Ling Zhi to form a potent pain-relieving pair that targets stabbing, fixed pain from Blood stasis."
     },
     {
+      "id": 1205,
+      "formula_id": 178,
       "herb_name": "Wu Ling Zhi",
       "english_name": "Flying squirrel feces",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Invigorates Blood and resolves stasis, with strong analgesic action. Pairs with Mo Yao to enhance pain relief. Dry-frying moderates its strong properties and reduces any unpleasant taste."
     },
     {
+      "id": 1206,
+      "formula_id": 178,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Moves Qi and regulates its flow. Since Qi drives Blood ('when Qi moves, Blood moves'), Xiang Fu ensures the smooth circulation of Qi to support the Blood-moving action of the formula and relieve Qi stagnation that accompanies Blood stasis."
     },
     {
+      "id": 1207,
+      "formula_id": 178,
       "herb_name": "Di Long",
       "english_name": "Earthworm",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Liver, Spleen, Urinary Bladder, Lungs",
+      "role_description": "Opens the channels and collaterals and relieves joint stiffness. Its unique ability to unblock the network vessels (Luo Mai) makes it particularly effective for reaching deep into the channels where stasis has lodged."
     },
     {
+      "id": 1208,
+      "formula_id": 178,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes and moderates all other herbs in the formula. Alleviates spasm and pain. Protects the Stomach from the potentially harsh Blood-moving and Wind-dispelling ingredients."
     }
   ],
   "research": [

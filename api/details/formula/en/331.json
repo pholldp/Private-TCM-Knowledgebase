@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid spicy, greasy, fried, and heavily seasoned foods, as these generate internal Heat and Dampness that directly counteract the formula's cooling action. Alcohol should also be avoided, as it is warming in nature and promotes Damp-Heat. Limit rich dairy products and excessively sweet foods, which can generate Phlegm-Dampness and worsen skin congestion.\nFavor light, cooling foods such as mung beans, cucumber, winter melon, pear, celery, lettuce, and barley (Job's tears). Green tea in moderate amounts is also supportive. Ensuring adequate water intake helps the body clear Heat through normal fluid metabolism.",
   "ingredients": [
     {
+      "id": 2360,
+      "formula_id": 331,
       "herb_name": "Pi Pa Ye",
       "english_name": "Loquat leaf",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The lead herb and namesake of the formula. Pi Pa Ye clears Lung Heat, descends Lung Qi, and transforms Phlegm. As the main therapeutic agent, it directly addresses the core pathomechanism of Lung Heat steaming upward to the face, helping to cool the Lungs and restore their normal descending function."
     },
     {
+      "id": 2361,
+      "formula_id": 331,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Reinforces the King herb by draining Heat specifically from the Lungs, promoting the downward movement of Lung Qi, and clearing retained fluid. The original text notes that fresh bark (鲜者更佳) is preferred for its stronger Heat-clearing action. It works alongside Pi Pa Ye to comprehensively clear Lung Heat."
     },
     {
+      "id": 2362,
+      "formula_id": 331,
       "herb_name": "Huang Lian",
       "english_name": "Coptis rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen",
+      "role_description": "A powerful cold, bitter herb that clears Heat and dries Dampness. In this formula, Huang Lian targets Stomach Heat and Fire toxins, addressing the Damp-Heat component that contributes to purulent, inflamed facial lesions. It works with Huang Bai to broadly clear Heat from multiple organ systems that contribute to facial eruptions."
     },
     {
+      "id": 2363,
+      "formula_id": 331,
       "herb_name": "Huang Bo",
       "english_name": "Phellodendron bark",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Kidneys, Urinary Bladder",
+      "role_description": "Clears Damp-Heat and drains Fire, especially from the Lower Burner. Paired with Huang Lian, the two bitter-cold herbs provide comprehensive Damp-Heat clearing action across multiple Burners. Huang Bai also resolves toxic Heat, helping to reduce inflamed, pus-filled skin lesions."
     },
     {
+      "id": 2364,
+      "formula_id": 331,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "Assistant",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Used in a small dose to tonify Qi and support the body's righteous (zheng) Qi, helping to push toxins outward and prevent the strongly bitter-cold herbs from injuring the Spleen and Stomach. This follows the classical external medicine (waike) principle that adequate Qi is needed to expel toxins from the body (益气托毒外出)."
     },
     {
+      "id": 2365,
+      "formula_id": 331,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "1 - 3g"
+      "dosage": "1 - 3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of the other herbs in the formula, moderates the harshness of the bitter-cold herbs, and protects the Stomach. Its sweet flavor also helps generate fluids to counterbalance the drying nature of the Heat-clearing herbs."
     }
   ],
   "research": [],

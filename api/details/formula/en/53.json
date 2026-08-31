@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, eat light, warm, easily digestible foods such as thin rice porridge (congee) to support sweating and protect the Stomach. Avoid cold, raw, and greasy foods, which can obstruct the Stomach and impair the formula's dispersing action. Avoid alcohol, as it generates Heat and can amplify the sweating effect to dangerous levels. After sweating, replenish fluids with warm liquids. The classical instructions call for covering up warmly after taking the formula to encourage a gentle sweat, but excessive sweating must be avoided.",
   "ingredients": [
     {
+      "id": 325,
+      "formula_id": 53,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "12 - 18g"
+      "dosage": "12 - 18g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "The chief herb, used at the highest dosage in the formula. Its acrid-warm nature powerfully opens the pores and promotes sweating to expel wind-cold from the exterior. It also disseminates Lung Qi to relieve wheezing and cough. In this formula, Ma Huang is used at a higher dose than in Ma Huang Tang to produce a stronger diaphoretic effect appropriate for the severity of the exterior obstruction."
     },
     {
+      "id": 326,
+      "formula_id": 53,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "Deputy",
-      "dosage": "18 - 30g"
+      "dosage": "18 - 30g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Acrid, sweet, and very cold, Shi Gao clears the interior heat that is generating restlessness and irritability. Its cold nature counterbalances the warm diaphoretic herbs, preventing the formula from driving heat further inward. Together with Ma Huang, it addresses both the exterior cold and the interior heat simultaneously."
     },
     {
+      "id": 327,
+      "formula_id": 53,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "Reinforces Ma Huang's ability to release the exterior and promote sweating. Gui Zhi warms the channels and unblocks yang Qi, assisting in the expulsion of wind-cold from the muscle layer. Its warm nature supports the body's defensive Qi."
     },
     {
+      "id": 328,
+      "formula_id": 53,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Directs Lung Qi downward, counterbalancing Ma Huang's strong upward-dispersing action. This pairing ensures that Lung Qi flows in both directions (up and down), relieving cough and wheezing. Its moist, oily nature also moderates the drying effect of the other acrid herbs."
     },
     {
+      "id": 329,
+      "formula_id": 53,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Assists Ma Huang and Gui Zhi in dispersing exterior cold. Also warms the Middle Burner and harmonizes the Stomach, helping to protect digestion from the harsh action of the strong diaphoretic herbs. Paired with Da Zao, it regulates the nutritive and defensive Qi."
     },
     {
+      "id": 330,
+      "formula_id": 53,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "6 - 9g (3-4 pieces)"
+      "dosage": "6 - 9g (3-4 pieces)",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Nourishes the Spleen and Stomach, protecting the body's fluids and Qi from being excessively depleted by the powerful sweating action. Paired with Sheng Jiang, it harmonizes the nutritive and defensive layers, ensuring that the diaphoresis is orderly rather than chaotic."
     },
     {
+      "id": 331,
+      "formula_id": 53,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderating the harshness of the strongly acrid and dispersing ingredients. It tonifies the Middle Burner Qi, buffering the body against excessive sweating. It also tempers the potential toxicity of Ma Huang."
     }
   ],
   "research": [],

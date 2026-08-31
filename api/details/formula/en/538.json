@@ -24,46 +24,88 @@
   "dietary_advice": "While taking this formula, favor warm, easily digestible, Blood-nourishing foods such as bone broth, dark leafy greens, red dates (da zao), goji berries, eggs, and well-cooked grains. These support the formula's Blood-tonifying action.\nAvoid cold and raw foods (salads, iced drinks, raw fruits in excess, sashimi) as they can impair Spleen function and counteract the formula's warming strategy. Also avoid greasy, heavy, or overly rich foods that may overwhelm digestion, since E Jiao and Di Huang are already cloying in nature. Spicy and hot foods should be consumed in moderation to avoid generating internal Heat. The original preparation method calls for decocting with Qing Jiu (clear rice wine), which aids the formula's Blood-moving and channel-warming action.",
   "ingredients": [
     {
+      "id": 4149,
+      "formula_id": 538,
       "herb_name": "E Jiao",
       "english_name": "Donkey-hide gelatin",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Liver, Kidneys",
+      "role_description": "Nourishes Blood, enriches Yin, and directly stops bleeding. As the formula's namesake, it replenishes the depleted Blood of the Chong and Ren vessels and has a sticky, consolidating quality that helps seal leaking blood vessels. It addresses both the root cause (Blood deficiency) and the branch symptom (bleeding)."
     },
     {
+      "id": 4150,
+      "formula_id": 538,
       "herb_name": "Ai Ye",
       "english_name": "Mugwort leaf",
       "role": "King",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Kidneys",
+      "role_description": "Warms the channels and uterus, stops bleeding, and calms the fetus. Its warm nature directly addresses the Cold that destabilizes the Chong and Ren vessels. Working together with E Jiao, it provides the warm, Yang aspect to stop bleeding and secure the womb while E Jiao provides the nourishing, Yin aspect."
     },
     {
+      "id": 4151,
+      "formula_id": 538,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies Blood and promotes Blood circulation without causing excessive movement. It reinforces the Blood-nourishing action of E Jiao while ensuring that the newly formed Blood flows smoothly through the vessels rather than becoming stagnant, an important consideration in any bleeding condition."
     },
     {
+      "id": 4152,
+      "formula_id": 538,
       "herb_name": "Gan Di Huang (Dried Rehmannia Root)",
       "english_name": "",
       "role": "Deputy",
-      "dosage": "15 - 30g"
+      "dosage": "15 - 30g",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Nourishes Yin and Blood, and cools the Blood to help contain it within the vessels. In the original formula, raw or dried Rehmannia (干地黄) is used rather than the prepared form, providing a cooling counterbalance to the warming herbs Ai Ye and Chuan Xiong, preventing the formula from becoming overly warm."
     },
     {
+      "id": 4153,
+      "formula_id": 538,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "10 - 20g"
+      "dosage": "10 - 20g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Blood and astringes Yin to help contain the Blood. It also softens the Liver and alleviates pain, addressing the abdominal cramping that often accompanies these bleeding conditions. In the original formula it carries the largest dosage (4 liang), reflecting its importance in both nourishing and constraining the Blood."
     },
     {
+      "id": 4154,
+      "formula_id": 538,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 10g"
+      "dosage": "6 - 10g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Moves Blood and Qi to prevent stasis. In a formula that otherwise focuses on nourishing and consolidating, Chuan Xiong ensures that Blood circulation remains smooth and that the nourishing, heavy herbs do not cause stagnation. It is used in a relatively small dose to move gently without aggravating bleeding."
     },
     {
+      "id": 4155,
+      "formula_id": 538,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the other herbs and tonifies the Spleen Qi. Since the Spleen governs the Blood and keeps it within the vessels, strengthening Spleen function supports the formula's overall hemostatic strategy. It also pairs with Bai Shao to relax spasms and relieve abdominal pain."
     }
   ],
   "research": [

@@ -24,34 +24,64 @@
   "dietary_advice": "Take on an empty stomach (traditionally at dawn) to maximize direct contact between the formula and the parasites. Classical instructions recommend eating a small amount of roasted pork before taking the pills, as the scent and flavor are said to lure parasites upward toward the medicine. Avoid greasy, rich, and oily foods during the treatment period, as these can create further Dampness in the digestive tract and reduce the formula's effectiveness. Also avoid raw, cold, and hard-to-digest foods that burden the already-compromised Spleen and Stomach. After the parasites have been expelled, shift to easily digestible, warm, and nourishing foods such as congee, cooked grains, soups, and lightly cooked vegetables to help restore Spleen and Stomach function.",
   "ingredients": [
     {
+      "id": 1888,
+      "formula_id": 270,
       "herb_name": "He Shi",
       "english_name": "Carpesium fruit",
       "role": "King",
-      "dosage": "30g (in pill form)"
+      "dosage": "30g (in pill form)",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "The principal parasite-killing herb in the formula. He Shi is bitter, acrid, and slightly toxic, entering the Spleen and Stomach channels. It is effective against a wide range of intestinal parasites including roundworms, pinworms, hookworms, and tapeworms, making it the broadest-spectrum antiparasitic agent in the formula."
     },
     {
+      "id": 1889,
+      "formula_id": 270,
       "herb_name": "Ku Lian Pi",
       "english_name": "Chinaberry bark",
       "role": "Deputy",
-      "dosage": "30g (in pill form)"
+      "dosage": "30g (in pill form)",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Spleen, Stomach",
+      "role_description": "Strongly kills roundworms and pinworms while also helping to relieve the abdominal pain caused by parasites. Its bitter and cold nature complements He Shi's action and specifically targets roundworms with particular potency."
     },
     {
+      "id": 1890,
+      "formula_id": 270,
       "herb_name": "Bing Lang",
       "english_name": "Areca seed (Betel nut)",
       "role": "Deputy",
-      "dosage": "30g (in pill form)"
+      "dosage": "30g (in pill form)",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Kills tapeworms, fasciolopsis, and other parasites, while also promoting Qi movement and providing a mild laxative effect that helps physically expel the paralyzed or dead worm bodies from the intestines."
     },
     {
+      "id": 1891,
+      "formula_id": 270,
       "herb_name": "Qing Fen",
       "english_name": "Calomel",
       "role": "Assistant",
-      "dosage": "30g (in pill form)"
+      "dosage": "30g (in pill form)",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Kidneys, Large Intestine",
+      "role_description": "A mineral substance with strong parasite-killing and Dampness-drying properties. It reinforces the antiparasitic action of the other herbs from a different angle (mineral rather than botanical). Note: this ingredient is toxic and is the reason the formula must not be used long-term or in excessive doses."
     },
     {
+      "id": 1892,
+      "formula_id": 270,
       "herb_name": "Ku Fan (&#x67AF;&#x77FE;, Calcined Alum)",
       "english_name": "",
       "role": "Assistant",
-      "dosage": "8g (in pill form)"
+      "dosage": "8g (in pill form)",
+      "temperature": "",
+      "taste": "",
+      "organ_affinity": "",
+      "role_description": "Dries Dampness and kills parasites. As a mineral substance it complements Qian Fen in eliminating the Damp environment that harbors parasites. The calcined (dried) form of alum is used because its Dampness-drying action is stronger than raw alum."
     }
   ],
   "research": [],

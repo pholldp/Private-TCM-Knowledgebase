@@ -24,40 +24,76 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and heavily spiced foods, which generate internal Heat and impair digestion. Cold and raw foods should also be limited, as the formula is already very cold in nature and adding further cold to the Stomach can hinder absorption. Light, easily digestible foods are best: thin rice porridge (congee), mung bean soup, fresh pear juice, watermelon, and lotus seed soup. Avoid alcohol and strong tea. Classical warm-disease texts recommend avoiding rich meats and heavily flavored foods during acute febrile illness to prevent food stagnation from complicating recovery.",
   "ingredients": [
     {
+      "id": 1567,
+      "formula_id": 229,
       "herb_name": "Shui Niu Jiao",
       "english_name": "Water buffalo horn",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Heart, Liver, Stomach",
+      "role_description": "Enters the Heart channel to powerfully clear heat, resolve toxins, and cool the Blood at the nutritive level. In the original formula, Xi Jiao (rhinoceros horn) was specified for its ability to penetrate the Pericardium, dispel foul turbidity, and restore clarity to the spirit. As Wu Jutong wrote, it 'opens the Heart Qi and replenishes Water to compensate for the Fire' (善通心气, 色黑补水). Now universally substituted with Shui Niu Jiao."
     },
     {
+      "id": 1568,
+      "formula_id": 229,
       "herb_name": "Xuan Shen",
       "english_name": "Figwort root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Bitter and salty in flavour, cold in nature, belonging to Water. Clears Heart heat, resolves toxins, and nourishes Yin to replenish the fluids damaged by febrile illness. In the original formula commentary, Wu Jutong describes it as 'supplementing the emptiness within the Fire trigram (Li)' because it enriches Kidney Water to counterbalance Heart Fire."
     },
     {
+      "id": 1569,
+      "formula_id": 229,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Clears heat and resolves toxins, particularly targeting the Heart. The use of the core (xin) of the fruit is deliberate: Wu Jutong notes that 'Lian Qiao resembles the heart, and its core can withdraw Heart heat.' It supports the King herbs by clearing heat at the Qi level of the Upper Burner and helping to push pathogenic heat outward."
     },
     {
+      "id": 1570,
+      "formula_id": 229,
       "herb_name": "Zhu Ye",
       "english_name": "Bamboo leaf",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Stomach, Gallbladder",
+      "role_description": "Clears Heart heat and promotes the downward drainage of heat through urination. Its pointed, hollow shape is said to 'open the orifices and clear the Heart.' It works alongside Lian Qiao to vent heat from the Heart and Upper Burner."
     },
     {
+      "id": 1571,
+      "formula_id": 229,
       "herb_name": "Mai Dong",
       "english_name": "Ophiopogon root",
       "role": "Assistant",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, Stomach",
+      "role_description": "Nourishes Yin, generates fluids, and moistens the Heart. The original formula specifies that the core should be kept intact (连心), unlike the common practice of removing it. Wu Jutong argues at length that the core is essential for the herb to reach and nourish the Heart's network vessels. It supports the Yin-nourishing strategy alongside Xuan Shen."
     },
     {
+      "id": 1572,
+      "formula_id": 229,
       "herb_name": "Lian Zi Xin",
       "english_name": "Lotus plumule",
       "role": "Envoy",
-      "dosage": "1.5 - 3g"
+      "dosage": "1.5 - 3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Kidneys, Pericardium",
+      "role_description": "Bitter, cold, and enters the Heart and Kidney channels. Directs Heart Fire downward to the Kidneys and draws Kidney Water upward to the Heart, restoring the crucial communication between these two organs. Wu Jutong calls it the Envoy because it 'goes from the Heart to the Kidney, then cycles back upward so that Kidney Water rises to moisten the Heart.'"
     }
   ],
   "research": [],

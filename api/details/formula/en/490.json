@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid greasy, fried, and rich foods that can worsen Qi stagnation and generate further Heat. Reduce alcohol, spicy foods, coffee, and other stimulants that aggravate irritability and internal Heat. Favour light, easily digestible foods such as congee, steamed vegetables, mung beans, and cooling fruits like pear or watermelon. Avoid overeating, as large meals compound abdominal fullness. Cold and raw foods should be consumed in moderation only, as the formula already has a cooling nature and excessive cold foods may harm the Spleen.",
   "ingredients": [
     {
+      "id": 3731,
+      "formula_id": 490,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "King",
-      "dosage": "9 - 14g"
+      "dosage": "9 - 14g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Clears Heat from the chest and diaphragm and relieves irritability. As the only cold-natured herb in the formula, it directly targets the core symptom of restless agitation caused by depressed Heat in the upper body."
     },
     {
+      "id": 3732,
+      "formula_id": 490,
       "herb_name": "Hou Po",
       "english_name": "Magnolia bark",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs, Large Intestine",
+      "role_description": "Moves Qi, dries Dampness, and relieves abdominal distention and fullness. Used at the highest dosage in the formula, it is the primary herb addressing the Qi stagnation in the middle burner that produces abdominal bloating."
     },
     {
+      "id": 3733,
+      "formula_id": 490,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks through Qi stagnation, disperses clumps, and relieves focal distention. Works together with Hou Po to powerfully drive Qi downward and eliminate fullness in the abdomen, reinforcing the formula's action on the middle burner."
     }
   ],
   "research": [

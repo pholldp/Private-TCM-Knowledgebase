@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, favor light, easily digestible foods such as congee (rice porridge), clear soups, steamed vegetables, and pears (which moisten the Lungs). Drink plenty of warm water to support the formula's fluid-generating action.\nAvoid greasy, fried, or heavy foods that can generate Dampness and Phlegm, obstructing the Lung's function. Avoid spicy, heating foods (chili, lamb, ginger in large amounts, fried snacks) that could add Heat and counteract the formula's cooling action. Also avoid cold, raw, and iced foods and drinks, which can impair the Stomach's digestive function during illness. Alcohol should be avoided as it generates Heat and Dampness.",
   "ingredients": [
     {
+      "id": 1096,
+      "formula_id": 163,
       "herb_name": "Sang Ye",
       "english_name": "Mulberry leaf",
       "role": "King",
-      "dosage": "7.5g"
+      "dosage": "7.5g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Sweet, bitter, and cool in nature, Sang Ye is the primary herb in this formula. It excels at dispersing Wind-Heat from the upper body, particularly from the Lung network vessels (肺络). It clears Lung Heat and stops coughing, directly addressing the core symptom of this pattern."
     },
     {
+      "id": 1097,
+      "formula_id": 163,
       "herb_name": "Ju Hua",
       "english_name": "Chrysanthemum flower",
       "role": "King",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Pungent, sweet, and slightly cold, Ju Hua disperses Wind-Heat from the upper burner, clears the head and eyes, and assists the Lungs in their descending function. Working together with Sang Ye, the two herbs are light, aromatic, and upward-moving, forming a synergistic pair that excels at scattering Wind-Heat from the Lungs. The yellow variety (huang ju hua) is traditionally preferred for this formula due to its stronger exterior-releasing action."
     },
     {
+      "id": 1098,
+      "formula_id": 163,
       "herb_name": "Bo He",
       "english_name": "Peppermint herb",
       "role": "Deputy",
-      "dosage": "2.5g"
+      "dosage": "2.5g",
+      "temperature": "Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)",
+      "organ_affinity": "Lungs, Liver",
+      "role_description": "Pungent and cool, Bo He reinforces the ability of the King herbs to disperse Wind-Heat from the exterior and the upper body. It also benefits the head, eyes, and throat, helping to release the pathogen outward through the skin."
     },
     {
+      "id": 1099,
+      "formula_id": 163,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Bitter and slightly warm, Xing Ren descends Lung Qi. When paired with Jie Geng, the two form a classic combination: one opens the Lungs upward while the other directs Qi downward. This restores the Lung's natural rising-and-descending rhythm, which is the key mechanism for stopping cough."
     },
     {
+      "id": 1100,
+      "formula_id": 163,
       "herb_name": "Jie Geng",
       "english_name": "Balloon flower root",
       "role": "Deputy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs",
+      "role_description": "Bitter and pungent, Jie Geng opens and lifts Lung Qi, promoting the Lung's disseminating function. Paired with Xing Ren, the one-up-one-down combination restores the Lung's normal Qi movement and relieves cough. It also guides the other herbs upward to the upper body where the pathogen resides."
     },
     {
+      "id": 1101,
+      "formula_id": 163,
       "herb_name": "Lian Qiao",
       "english_name": "Forsythia fruit",
       "role": "Assistant",
-      "dosage": "5g"
+      "dosage": "5g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Heart, Small Intestine",
+      "role_description": "Bitter and slightly cold, Lian Qiao clears Heat and resolves toxins from the upper burner. It also has a mild exterior-releasing quality that helps vent the pathogen outward, reinforcing the formula's overall Wind-Heat dispersing action."
     },
     {
+      "id": 1102,
+      "formula_id": 163,
       "herb_name": "Lu Gen",
       "english_name": "Reed rhizome",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Sweet and cold, Lu Gen clears Heat and generates body fluids. It addresses the mild thirst that accompanies this pattern, where early-stage Heat has begun to slightly damage the Lung's fluids. Its gentle moistening quality prevents the formula from being too drying."
     },
     {
+      "id": 1103,
+      "formula_id": 163,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "2.5g"
+      "dosage": "2.5g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and neutral (raw form used here), Gan Cao harmonizes all the herbs in the formula. Combined with Jie Geng, it also benefits the throat and helps relieve cough. Its mild Heat-clearing action supports the overall treatment strategy."
     }
   ],
   "research": [

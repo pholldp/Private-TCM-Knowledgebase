@@ -24,22 +24,40 @@
   "dietary_advice": "Avoid cold, raw foods, icy drinks, and excessive dairy products while taking this formula, as these can generate more Phlegm and counteract the warming, Phlegm-resolving effects. Greasy, fried, and overly rich foods should also be minimized since the formula is specifically designed to address food stagnation. Light, easily digestible meals such as congee, cooked vegetables, and warm soups are ideal. Small, frequent meals are preferable to large ones, especially for elderly patients with weakened digestion. Ginger tea between doses can support the formula's warming action, particularly in cold weather (as noted in the original text's suggestion to add fresh ginger slices in winter).",
   "ingredients": [
     {
+      "id": 287,
+      "formula_id": 46,
       "herb_name": "Bai Jie Zi",
       "english_name": "White mustard seed",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Warms the Lungs and dissolves Phlegm, particularly excelling at expelling Phlegm lodged deep in the chest and diaphragm. Addresses the core pathomechanism of Phlegm accumulation blocking the Lung's descending function."
     },
     {
+      "id": 288,
+      "formula_id": 46,
       "herb_name": "Zi Su Zi",
       "english_name": "Perilla seed",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Directs Lung Qi downward to stop coughing and wheezing, and helps transform Phlegm. Supports the King herb by restoring the normal downward movement of Lung Qi so that Phlegm no longer rises rebelliously."
     },
     {
+      "id": 289,
+      "formula_id": 46,
       "herb_name": "Lai Fu Zi",
       "english_name": "Radish seed",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Promotes digestion, reduces food stagnation, and moves Qi downward to dissolve Phlegm. Addresses the food accumulation that generates further Phlegm, breaking the cycle of stagnant food producing more turbidity."
     }
   ],
   "research": [

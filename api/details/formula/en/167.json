@@ -24,34 +24,64 @@
   "dietary_advice": "The Shang Han Lun provides explicit dietary prohibitions while taking Gui Zhi Tang: avoid raw and cold foods, sticky or slippery foods, meat and wheat noodles, the five pungent vegetables (garlic, onion, chives, scallions, cilantro), alcohol and fermented dairy, and foul-smelling foods (禁生冷、粘滑、肉面、五辛、酒酪、臭恶等物). These restrictions protect the Spleen and Stomach, which need to generate Qi from food to support the formula's sweating action. Conversely, the classical method specifically calls for sipping hot, thin rice porridge (热稀粥) immediately after taking the decoction to boost the formula's power and provide the body with grain-based Qi to produce a gentle therapeutic sweat. In modern terms: eat light, warm, easily digestible food; avoid greasy, cold, raw, or heavy foods and alcohol during treatment.",
   "ingredients": [
     {
+      "id": 1123,
+      "formula_id": 167,
       "herb_name": "Gui Zhi",
       "english_name": "Cinnamon twig",
       "role": "King",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Urinary Bladder",
+      "role_description": "The principal herb, acrid and warm, that releases the muscle layer (jiě jī), warms and supports the defensive (Wèi) Qi, and disperses Wind-Cold from the exterior. It targets the core problem of the pattern: the exterior defense is compromised by Wind, and Guì Zhī restores outward-moving Yang Qi to expel the pathogen."
     },
     {
+      "id": 1124,
+      "formula_id": 167,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Sour, cool, and astringent, it restrains the nutritive (Yíng) Qi and preserves Yin fluids to prevent excessive sweating. Paired in equal proportion with Guì Zhī, it creates the formula's signature balance: one disperses while the other consolidates, ensuring that the exterior is released without depleting the body's vital substances."
     },
     {
+      "id": 1125,
+      "formula_id": 167,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Assistant",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Acrid and warm, it assists Guì Zhī in dispersing Wind-Cold from the exterior and warms the Stomach to stop nausea and dry retching, a common accompanying symptom in this pattern. Combined with Dà Zǎo, it also supports Spleen and Stomach Qi to help generate the mild perspiration needed to resolve the condition."
     },
     {
+      "id": 1126,
+      "formula_id": 167,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Assistant",
-      "dosage": "3 - 4 pieces"
+      "dosage": "3 - 4 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Sweet and neutral, it tonifies the middle burner, nourishes the Spleen, and generates fluids to support Bái Sháo in preserving the nutritive Qi. Paired with Shēng Jiāng, it boosts Spleen and Stomach function to provide a source of fluids for the gentle sweating required to expel the pathogen."
     },
     {
+      "id": 1127,
+      "formula_id": 167,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Sweet and warming, it harmonizes all the other herbs. It serves a dual role: as an Assistant it tonifies Qi and supports the middle burner; as the Envoy it mediates between the dispersing action of Guì Zhī and the consolidating action of Bái Sháo. Combined with Guì Zhī, the acrid-sweet pairing generates Yang (xīn gān huà yáng); combined with Bái Sháo, the sour-sweet pairing preserves Yin (suān gān huà yīn)."
     }
   ],
   "research": [

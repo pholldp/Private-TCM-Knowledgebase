@@ -24,22 +24,40 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and heavily spiced foods that generate further Heat and burden the digestive system. Cold and raw foods should also be limited, as they can impair the Stomach's ability to recover after purgation. Favor easily digestible foods like congee (rice porridge), clear soups, and lightly cooked vegetables. Avoid alcohol, which adds Heat. After the formula has taken effect and the bowels have moved, transition to gentle, nourishing foods to rebuild Stomach Qi. Adequate water intake is important to prevent dehydration from the purgative effect.",
   "ingredients": [
     {
+      "id": 1155,
+      "formula_id": 171,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "King",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "The chief purgative agent. Its bitter, cold nature drains heat and drives out accumulated waste from the stomach and intestines. Wine-washing moderates its purgative intensity, allowing the formula to act more gently than raw Da Huang would."
     },
     {
+      "id": 1156,
+      "formula_id": 171,
       "herb_name": "Mang Xiao",
       "english_name": "Mirabilite",
       "role": "Deputy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)",
+      "organ_affinity": "Stomach, Large Intestine",
+      "role_description": "Assists Da Huang by softening hardened, dry stool and moistening intestinal dryness. Its salty, cold nature also helps clear heat. Together with Da Huang it addresses both the dryness and the heat congestion that define this pattern."
     },
     {
+      "id": 1157,
+      "formula_id": 171,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Moderates and slows the harsh purgative force of Da Huang and Mang Xiao, protecting the stomach from injury. Its sweet flavour harmonizes the middle and supports Stomach Qi, ensuring the formula purges heat without damaging the body's righteous Qi. This is the key herb that makes the formula 'regulate the stomach' rather than simply attack downward."
     }
   ],
   "research": [],

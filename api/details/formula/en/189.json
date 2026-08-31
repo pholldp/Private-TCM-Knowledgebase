@@ -24,52 +24,100 @@
   "dietary_advice": "While taking this formula, avoid greasy, fried, and fatty foods, as these burden the Stomach and Gallbladder and directly worsen the Heat accumulation the formula is trying to clear. Also avoid alcohol, spicy foods, and rich meats, which generate internal Heat. Cold and raw foods should be limited as they can impair the Stomach's digestive function and interfere with the formula's action. Light, easily digestible foods are preferred: congee (rice porridge), steamed vegetables, lightly cooked grains, and clear soups. If constipation is part of the presentation, mildly fibre-rich foods such as cooked leafy greens may be supportive. Avoid overeating: smaller, more frequent meals help the compromised Stomach-Gallbladder axis recover.",
   "ingredients": [
     {
+      "id": 1278,
+      "formula_id": 189,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "King",
-      "dosage": "12 - 24g"
+      "dosage": "12 - 24g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "The chief herb used in large dosage, Chai Hu resolves the Shaoyang (Lesser Yang) stage disorder by dispersing constrained Heat from the half-exterior half-interior level. It courses Liver Qi, resolves knotted Qi in the chest and flanks, and drives out pathogenic factors from the Shaoyang pivot."
     },
     {
+      "id": 1279,
+      "formula_id": 189,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Bitter and cold, Huang Qin clears Heat from the Gallbladder and Stomach, complementing Chai Hu to form the core herb pair for harmonizing the Shaoyang. While Chai Hu lifts and disperses, Huang Qin descends and purges Heat, preventing the pathogen from penetrating deeper."
     },
     {
+      "id": 1280,
+      "formula_id": 189,
       "herb_name": "Da Huang",
       "english_name": "Rhubarb root and rhizome",
       "role": "Deputy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine, Liver, Pericardium",
+      "role_description": "Used at a relatively modest dose, Da Huang purges Heat accumulation from the Yangming (Bright Yang) channel, opens the bowels, and promotes bile flow. Combined with Zhi Shi, it forms the core of the purgative action that distinguishes this formula from Xiao Chai Hu Tang. Its light dosage reflects that the interior Heat has not yet become severe."
     },
     {
+      "id": 1281,
+      "formula_id": 189,
       "herb_name": "Zhi Shi",
       "english_name": "Immature Bitter Orange Fruit",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Large Intestine",
+      "role_description": "Breaks up stagnant Qi and disperses focal distention and accumulation in the epigastrium. Together with Da Huang, it forms a small Cheng Qi Tang (Regulate the Qi Decoction) structure within the formula, addressing the Yangming Heat and fullness. With Chai Hu and Shao Yao, it echoes the Si Ni San structure for coursing Liver Qi."
     },
     {
+      "id": 1282,
+      "formula_id": 189,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Softens the Liver, nourishes Blood, and relieves cramping abdominal pain. Combined with Da Huang, it treats substantial pain in the abdomen. Combined with Zhi Shi, it regulates the interplay of Qi and Blood to resolve the hard fullness and pain below the heart. Its sour, collecting nature also moderates the strongly dispersing actions of the other herbs."
     },
     {
+      "id": 1283,
+      "formula_id": 189,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Assistant",
-      "dosage": "6 - 12g"
+      "dosage": "6 - 12g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Descends rebellious Stomach Qi, harmonizes the Stomach, and stops the persistent vomiting that is a hallmark of this pattern. Combined with the large dose of Sheng Jiang, it forms a Xiao Ban Xia Tang (Minor Pinellia Decoction) structure that powerfully controls nausea and vomiting."
     },
     {
+      "id": 1284,
+      "formula_id": 189,
       "herb_name": "Sheng Jiang",
       "english_name": "Fresh ginger rhizome",
       "role": "Envoy",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Spleen, Stomach",
+      "role_description": "Used in an unusually large dose in this formula, Sheng Jiang assists Ban Xia in descending Stomach Qi and stopping vomiting. It also disperses accumulation with its warm, acrid nature and helps harmonize the Stomach. Together with Da Zao, it regulates the Nutritive and Defensive Qi and harmonizes all the herbs."
     },
     {
+      "id": 1285,
+      "formula_id": 189,
       "herb_name": "Da Zao",
       "english_name": "Jujube fruit",
       "role": "Envoy",
-      "dosage": "4 - 6 pieces"
+      "dosage": "4 - 6 pieces",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Heart",
+      "role_description": "Strengthens the Spleen and Stomach, generates fluids, and moderates the harsh or attacking actions of the other herbs. Paired with Sheng Jiang, it harmonizes the Nutritive and Defensive Qi and ensures the formula does not damage the Stomach while purging."
     }
   ],
   "research": [

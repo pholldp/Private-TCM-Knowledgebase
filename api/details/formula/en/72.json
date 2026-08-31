@@ -24,58 +24,112 @@
   "dietary_advice": "Favor warm, easily digestible, Blood-nourishing foods such as bone broth, red dates, cooked leafy greens, black sesame, longan fruit, and well-cooked whole grains. Moderate amounts of lean red meat and liver can support Blood production.\nAvoid cold and raw foods (salads, iced drinks, raw sushi), greasy or deep-fried foods, and excessively spicy food. Cold foods can impair Spleen function and counteract the warming tonification of the formula, while greasy foods generate Dampness that obstructs Qi and Blood flow.\nAvoid strong tea and coffee close to the time of taking the formula, as tannins may interfere with absorption of the herbal constituents.",
   "ingredients": [
     {
+      "id": 491,
+      "formula_id": 72,
       "herb_name": "Yi Mu Cao",
       "english_name": "Chinese motherwort",
       "role": "King",
-      "dosage": "9 - 30g"
+      "dosage": "9 - 30g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Urinary Bladder",
+      "role_description": "The signature addition to Ba Zhen Tang. As a premier herb for activating Blood and regulating menstruation, Yi Mu Cao directly addresses the Blood stasis component that accompanies Qi and Blood deficiency, particularly in gynaecological conditions. Its slightly cold nature also gently clears any Heat arising from stagnation."
     },
     {
+      "id": 492,
+      "formula_id": 72,
       "herb_name": "Shu Di Huang",
       "english_name": "Prepared Rehmannia root",
       "role": "King",
-      "dosage": "9 - 15g"
+      "dosage": "9 - 15g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Kidneys",
+      "role_description": "Prepared Rehmannia is the primary Blood-nourishing herb in the formula. Rich, sweet, and slightly warm, it powerfully replenishes Blood and nourishes Yin, directly addressing the Blood deficiency at the root of the condition."
     },
     {
+      "id": 493,
+      "formula_id": 72,
       "herb_name": "Ren Shen",
       "english_name": "Ginseng root",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Spleen, Lungs, Heart, Kidneys",
+      "role_description": "Ginseng is the primary Qi-tonifying herb. It strongly supplements the Qi of the Spleen and Lungs, supporting the body's ability to generate Blood. Paired with Shu Di Huang, it addresses both Qi and Blood deficiency together."
     },
     {
+      "id": 494,
+      "formula_id": 72,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Nourishes and activates Blood, reinforcing Shu Di Huang's Blood-tonifying action while also gently moving Blood to prevent stagnation. As a key herb for gynaecological conditions, it works synergistically with Yi Mu Cao to regulate menstruation."
     },
     {
+      "id": 495,
+      "formula_id": 72,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes the Blood and preserves Yin, supporting Shu Di Huang. Also softens and nourishes the Liver, helping to relieve pain and regulate menstruation. Its astringent quality balances the moving nature of Yi Mu Cao and Chuan Xiong."
     },
     {
+      "id": 496,
+      "formula_id": 72,
       "herb_name": "Bai Zhu",
       "english_name": "White Atractylodes rhizome",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach",
+      "role_description": "Strengthens the Spleen and dries Dampness, assisting Ren Shen in fortifying the Spleen's ability to generate Qi and Blood. A healthy Spleen is the foundation for producing new Blood to replace what is lost."
     },
     {
+      "id": 497,
+      "formula_id": 72,
       "herb_name": "Fu Ling",
       "english_name": "Poria",
       "role": "Deputy",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Kidneys",
+      "role_description": "Strengthens the Spleen and promotes the transformation of Dampness, working alongside Bai Zhu and Ren Shen to support the Spleen. Its mild, neutral nature gently drains excess fluid without injuring Yin."
     },
     {
+      "id": 498,
+      "formula_id": 72,
       "herb_name": "Chuan Xiong",
       "english_name": "Sichuan lovage rhizome",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Gallbladder, Pericardium",
+      "role_description": "Activates Blood circulation and promotes the movement of Qi. This is critical in a formula rich in tonifying herbs: Chuan Xiong ensures that the heavy, cloying nature of Shu Di Huang and other Blood tonics does not cause further stagnation. It makes the formula supplement without stagnating."
     },
     {
+      "id": 499,
+      "formula_id": 72,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Honey-prepared Licorice tonifies Qi and harmonises the Middle Burner while moderating and harmonising all the other herbs in the formula. It acts as the Envoy that integrates the formula's diverse actions into a unified whole."
     }
   ],
   "research": [],

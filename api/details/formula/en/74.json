@@ -24,64 +24,124 @@
   "dietary_advice": "While taking this formula, it is advisable to:\n- Avoid excessively spicy, deep-fried, or greasy foods, which can generate additional Heat and worsen Liver Fire.\n- Avoid alcohol, which heats the Liver and aggravates constraint.\n- Minimize cold and raw foods (ice cream, chilled drinks, raw salads) which can impair digestion and interfere with smooth Qi flow, even though the pattern involves Heat.\n- Favor lightly cooked vegetables, leafy greens (especially those that support the Liver such as celery and chrysanthemum greens), and mildly cooling foods like mung beans and pears.\n- Reduce intake of sour foods in excess, as these can have an astringent effect that tightens the Liver rather than releasing it.",
   "ingredients": [
     {
+      "id": 506,
+      "formula_id": 74,
       "herb_name": "Bai Shao",
       "english_name": "White peony root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)",
+      "organ_affinity": "Liver, Spleen",
+      "role_description": "Nourishes Liver Blood, softens and soothes the Liver, and relieves spasmodic abdominal pain. As the highest-dose herb in the formula, it addresses the root deficiency of Liver Blood that underlies the stagnation pattern."
     },
     {
+      "id": 507,
+      "formula_id": 74,
       "herb_name": "Dang Gui",
       "english_name": "Chinese Angelica root",
       "role": "King",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Warm",
+      "taste": "Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Liver, Heart, Spleen",
+      "role_description": "Tonifies and invigorates Blood, regulates menstruation and relieves pain. Works alongside Bai Shao to nourish Liver Blood, while also activating Blood circulation to address the stagnation causing clots."
     },
     {
+      "id": 508,
+      "formula_id": 74,
       "herb_name": "Mu Dan Pi",
       "english_name": "Tree peony root bark",
       "role": "Deputy",
-      "dosage": "15g"
+      "dosage": "15g",
+      "temperature": "Slightly Cool",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Heart, Liver, Kidneys",
+      "role_description": "Clears Heat from the Blood level, cools the Blood, and activates Blood circulation to dispel stasis. Directly addresses the depressed Liver Fire that has entered the Blood, producing dark and clotted menstrual flow."
     },
     {
+      "id": 509,
+      "formula_id": 74,
       "herb_name": "Zhi Zi",
       "english_name": "Gardenia fruit",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Lungs, San Jiao (Triple Burner)",
+      "role_description": "Drains Fire and clears Heat from all three burners, particularly targeting depressed Liver and Heart Fire. Assists Mu Dan Pi in clearing the constrained Heat that is the hallmark of this pattern."
     },
     {
+      "id": 510,
+      "formula_id": 74,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears Heat and dries Dampness, particularly in the upper and middle burners. Reinforces the Heat-clearing action of Mu Dan Pi and Zhi Zi, and also has a hemostatic effect that helps control excessive menstrual bleeding."
     },
     {
+      "id": 511,
+      "formula_id": 74,
       "herb_name": "Chai Hu",
       "english_name": "Bupleurum root",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Slightly Cool",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Liver, Gallbladder, Lungs",
+      "role_description": "Courses the Liver and resolves depression, lifting and dispersing constrained Liver Qi. Used at a low dose to gently dredge the Liver without excessively raising Yang."
     },
     {
+      "id": 512,
+      "formula_id": 74,
       "herb_name": "Xiang Fu",
       "english_name": "Nutgrass Galingale Rhizome",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Liver, Spleen, San Jiao (Triple Burner)",
+      "role_description": "Moves Qi, resolves Liver depression, and regulates menstruation. Known as a primary Qi-regulating herb for gynecological conditions, it works alongside Chai Hu to ensure smooth flow of Liver Qi."
     },
     {
+      "id": 513,
+      "formula_id": 74,
       "herb_name": "Yu Jin",
       "english_name": "Turmeric tuber",
       "role": "Assistant",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Heart, Liver, Lungs",
+      "role_description": "Moves Blood and Qi simultaneously, resolves stasis, and clears Heat from the Liver and Heart. Bridges the Blood-moving and Qi-regulating strategies of the formula, helping to dispel the stagnation that causes clotted menses."
     },
     {
+      "id": 514,
+      "formula_id": 74,
       "herb_name": "Bai Jie Zi",
       "english_name": "White mustard seed",
       "role": "Assistant",
-      "dosage": "6g"
+      "dosage": "6g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "Disperses Phlegm nodules and opens the collaterals, reaching areas of the body that other herbs may not penetrate. Its unique ability to dredge the Qi of the membrane source (膜原) helps open blocked channels in the chest and diaphragm, assisting the overall Qi-moving strategy."
     },
     {
+      "id": 515,
+      "formula_id": 74,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes all the herbs in the formula, moderates their properties, and provides gentle pain relief through its antispasmodic action. Its use in raw form preserves its ability to clear mild Heat."
     }
   ],
   "research": [],

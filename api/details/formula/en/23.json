@@ -24,58 +24,112 @@
   "dietary_advice": "Avoid cold, raw foods and iced drinks, which can constrict the Lungs and worsen Phlegm accumulation. Also avoid greasy, fried, and rich foods, as these generate Dampness and Phlegm. Reduce intake of excessively spicy or hot foods, which may aggravate the internal Heat component. Dairy products and overly sweet foods should be minimized as they tend to promote Phlegm production. Suitable foods include steamed pears with rock sugar (to moisten the Lungs), white radish soup (to transform Phlegm), and light, easily digested warm meals like congee with lily bulb.",
   "ingredients": [
     {
+      "id": 140,
+      "formula_id": 23,
       "herb_name": "Bai Guo",
       "english_name": "Ginkgo seed",
       "role": "King",
-      "dosage": "9 - 12g"
+      "dosage": "9 - 12g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Astringent (&#x6DA9; s&#xE8;)",
+      "organ_affinity": "Lungs, Kidneys",
+      "role_description": "Constrains Lung Qi to arrest wheezing, transforms phlegm, and prevents Ma Huang from over-dispersing. Its astringent nature balances the dispersing action of Ma Huang, creating a 'one scattering, one collecting' dynamic that powerfully stabilizes the airways."
     },
     {
+      "id": 141,
+      "formula_id": 23,
       "herb_name": "Ma Huang",
       "english_name": "Ephedra stem",
       "role": "King",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Urinary Bladder",
+      "role_description": "Opens and disseminates Lung Qi, releases the exterior to dispel Wind-Cold, and arrests wheezing. As the other King herb, it addresses the external component of the pattern and restores the Lung's descending and dispersing functions."
     },
     {
+      "id": 142,
+      "formula_id": 23,
       "herb_name": "Zi Su Zi",
       "english_name": "Perilla seed",
       "role": "Deputy",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Directs Lung Qi downward, resolves phlegm, and stops wheezing. Reinforces the descending action needed to counter the upward rebellion of Lung Qi."
     },
     {
+      "id": 143,
+      "formula_id": 23,
       "herb_name": "Xing Ren",
       "english_name": "Bitter apricot kernel",
       "role": "Deputy",
-      "dosage": "4.5 - 9g"
+      "dosage": "4.5 - 9g",
+      "temperature": "Slightly Warm",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Large Intestine",
+      "role_description": "Descends Lung Qi and stops coughing. Works with Ma Huang in a classic pairing where Ma Huang opens and Xing Ren descends, restoring normal Lung Qi movement."
     },
     {
+      "id": 144,
+      "formula_id": 23,
       "herb_name": "Ban Xia",
       "english_name": "Pinellia rhizome",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Dries Dampness and transforms phlegm, directs rebellious Qi downward, and harmonizes the Stomach. A key herb for resolving the sticky, accumulated phlegm obstructing the airways."
     },
     {
+      "id": 145,
+      "formula_id": 23,
       "herb_name": "Kuan Dong Hua",
       "english_name": "Coltsfoot Flower",
       "role": "Deputy",
-      "dosage": "9g"
+      "dosage": "9g",
+      "temperature": "Warm",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs",
+      "role_description": "Moistens the Lungs, descends Qi, and stops coughing. Supports the phlegm-resolving and cough-suppressing actions of the other Deputy herbs."
     },
     {
+      "id": 146,
+      "formula_id": 23,
       "herb_name": "Sang Bai Pi",
       "english_name": "Mulberry root bark",
       "role": "Assistant",
-      "dosage": "6 - 9g"
+      "dosage": "6 - 9g",
+      "temperature": "Cold",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Spleen",
+      "role_description": "Drains Lung heat, descends Lung Qi, and promotes urination. Clears the interior heat that has transformed from constrained Qi, and works with Huang Qin to address the phlegm-heat component."
     },
     {
+      "id": 147,
+      "formula_id": 23,
       "herb_name": "Huang Qin",
       "english_name": "Baical skullcap root",
       "role": "Assistant",
-      "dosage": "4.5 - 6g"
+      "dosage": "4.5 - 6g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;)",
+      "organ_affinity": "Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach",
+      "role_description": "Clears heat from the Lungs, dries dampness, and stops coughing. Directly targets the phlegm-heat that produces thick yellow sputum, and prevents the warm, dispersing herbs from generating further heat."
     },
     {
+      "id": 148,
+      "formula_id": 23,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Envoy",
-      "dosage": "3g"
+      "dosage": "3g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Harmonizes the actions of all the other herbs in the formula, moderates the harshness of the dispersing and descending ingredients, and protects the Stomach."
     }
   ],
   "research": [

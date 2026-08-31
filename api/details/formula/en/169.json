@@ -24,28 +24,52 @@
   "dietary_advice": "Avoid greasy, fried, and heavily spiced foods, which generate internal heat and burden the Stomach, counteracting the formula's heat-clearing action.\nAvoid alcohol and strong stimulants (coffee, strong tea) during treatment, as these are warming and can aggravate the heat pattern.\nFavor light, easily digestible foods such as rice porridge (congee), mung bean soup, watermelon, pear, and cucumber. These are cooling and fluid-generating, supporting the formula's action.\nAvoid excessively cold or raw foods despite the heat pattern. The formula itself is already quite cold. Adding too much cold food on top can damage digestive function, especially once the heat begins to resolve.",
   "ingredients": [
     {
+      "id": 1144,
+      "formula_id": 169,
       "herb_name": "Shi Gao",
       "english_name": "Gypsum",
       "role": "King",
-      "dosage": "30 - 60g"
+      "dosage": "30 - 60g",
+      "temperature": "Cold",
+      "taste": "Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach",
+      "role_description": "The principal heat-clearing agent in this formula. Shi Gao is acrid, sweet, and very cold, entering the Lung and Stomach channels. Used in large doses, it powerfully clears blazing Heat from the Qi level (the Yangming channel in particular), vents interior Heat outward, relieves irritability, and quenches thirst. Its heavy, mineral quality gives it strong downward-clearing force."
     },
     {
+      "id": 1145,
+      "formula_id": 169,
       "herb_name": "Zhi Mu",
       "english_name": "Anemarrhena rhizome",
       "role": "Deputy",
-      "dosage": "9 - 18g"
+      "dosage": "9 - 18g",
+      "temperature": "Cold",
+      "taste": "Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Lungs, Stomach, Kidneys",
+      "role_description": "Assists the King herb Shi Gao in clearing Heat from the Lung and Stomach. Zhi Mu is bitter, cold, and has a moist quality that nourishes Yin and generates fluids, helping to counteract the drying effect of intense interior Heat. The pairing of Shi Gao and Zhi Mu is a classical synergy: together they clear Qi-level Heat far more effectively than either herb alone, while simultaneously protecting body fluids."
     },
     {
+      "id": 1146,
+      "formula_id": 169,
       "herb_name": "Gan Cao",
       "english_name": "Licorice root",
       "role": "Assistant",
-      "dosage": "3 - 6g"
+      "dosage": "3 - 6g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Heart, Lungs, Spleen, Stomach",
+      "role_description": "Protects the Stomach and harmonizes the formula. The honey-prepared form is sweet and mild, buffering the strongly cold nature of Shi Gao and Zhi Mu so they do not injure the Spleen and Stomach. Also helps generate fluids and moderates the overall formula."
     },
     {
+      "id": 1147,
+      "formula_id": 169,
       "herb_name": "Jing Mi",
       "english_name": "Non-glutinous rice",
       "role": "Envoy",
-      "dosage": "6 - 15g"
+      "dosage": "6 - 15g",
+      "temperature": "Neutral",
+      "taste": "Sweet (&#x7518; g&#x101;n)",
+      "organ_affinity": "Spleen, Stomach, Lungs",
+      "role_description": "Nourishes the Stomach and protects Stomach Qi, ensuring that the heavy, cold nature of the main herbs does not damage the middle burner. Jing Mi also helps retain the formula's therapeutic action in the middle burner rather than allowing the cold, heavy minerals to rush downward too quickly. Classical instructions specify cooking until the rice is soft, which signals that the decoction is ready."
     }
   ],
   "research": [
