@@ -24,8 +24,8 @@ A powerful emergency formula containing just two herbs, Ginseng and Aconite, use
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ren Shen** | Ginseng root | *King* | 9 - 30g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Powerfully tonifies the source Qi, rescues from collapse, and secures the body's foundational vitality. As the primary herb, it addresses the critical depletion of Qi that underlies the Yang collapse. |
-| **Zhi Fu Zi** | Prepared Aconite Root | *Deputy* | 9 - 15g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Kidneys, Spleen | Restores devastated Yang, rescues from counterflow cold, supplements the Fire of the Gate of Vitality (Ming Men), and warms all the organ systems. Works synergistically with Ren Shen to rescue both Qi and Yang simultaneously. |
+| **Ren Shen** | Ginseng root | *Main* | 9 - 30g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Powerfully tonifies the source Qi, rescues from collapse, and secures the body's foundational vitality. As the primary herb, it addresses the critical depletion of Qi that underlies the Yang collapse. |
+| **Zhi Fu Zi** | Prepared Aconite Root | *Enhancer* | 9 - 15g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Kidneys, Spleen | Restores devastated Yang, rescues from counterflow cold, supplements the Fire of the Gate of Vitality (Ming Men), and warms all the organ systems. Works synergistically with Ren Shen to rescue both Qi and Yang simultaneously. |
 
 ---
 

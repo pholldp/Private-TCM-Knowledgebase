@@ -24,12 +24,12 @@ A classical external powder used to heal chronic ulcers, wounds, and sores that 
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Qing Fen (&#x8F7B;&#x7C89;)** |  | *King* | 0.1 - 0.3g | Temp: <br>Taste: <br>Affinity:  | Strongly clears Heat and resolves toxicity, dries Dampness, expels putrid flesh and promotes healing of chronic sores |
-| **Ru Xiang** | Frankincense resin | *Deputy* | 3 - 5g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Spleen | Invigorates Blood, breaks stasis, relieves pain and reduces swelling; helps remove stagnant Blood that prevents healing |
-| **Mo Yao** | Myrrh resin | *Deputy* | 3 - 5g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver, Spleen | Moves Blood, dispels stasis, stops pain and astringes eroded tissue; complements Ru Xiang in breaking Blood stasis |
-| **Xue Jie** | Dragon&#x27;s blood resin | *Assistant* | 2 - 4g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Heart, Liver | Stops bleeding, promotes tissue regeneration, reduces swelling and accelerates granulation |
-| **Shi Gao** | Gypsum | *Assistant* | 5 - 10g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clearly heat, reduces exudation and restrains weeping sores, protecting the wound surface |
-| **Bing Pian** | Borneol | *Envoy* | 0.5 - 1g | Temp: Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Spleen, Lungs | Opens the surface, penetrates the wound site, relieves pain and reduces swelling, and carries the other herbs to the local area |
+| **Qing Fen (&#x8F7B;&#x7C89;)** |  | *Main* | 0.1 - 0.3g | Temp: <br>Taste: <br>Affinity:  | Strongly clears Heat and resolves toxicity, dries Dampness, expels putrid flesh and promotes healing of chronic sores |
+| **Ru Xiang** | Frankincense resin | *Enhancer* | 3 - 5g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Spleen | Invigorates Blood, breaks stasis, relieves pain and reduces swelling; helps remove stagnant Blood that prevents healing |
+| **Mo Yao** | Myrrh resin | *Enhancer* | 3 - 5g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver, Spleen | Moves Blood, dispels stasis, stops pain and astringes eroded tissue; complements Ru Xiang in breaking Blood stasis |
+| **Xue Jie** | Dragon&#x27;s blood resin | *Balancer* | 2 - 4g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Heart, Liver | Stops bleeding, promotes tissue regeneration, reduces swelling and accelerates granulation |
+| **Shi Gao** | Gypsum | *Balancer* | 5 - 10g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clearly heat, reduces exudation and restrains weeping sores, protecting the wound surface |
+| **Bing Pian** | Borneol | *Deliverer* | 0.5 - 1g | Temp: Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Spleen, Lungs | Opens the surface, penetrates the wound site, relieves pain and reduces swelling, and carries the other herbs to the local area |
 
 ---
 

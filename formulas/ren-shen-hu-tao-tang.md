@@ -24,10 +24,10 @@ A classical tonic formula used to strengthen the Lungs and Kidneys for people su
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ren Shen** | Ginseng root | *King* | 6 - 9g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Greatly tonifies primordial Qi and supplements Lung Qi, restoring the source of breath and alleviating exhaustion and shortness of breath. |
-| **Hu Tao Ren** | Walnut kernel | *Deputy* | 9 - 30g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Kidneys, Lungs, Large Intestine | Warms and tonifies the Kidneys, helps the Kidneys grasp Qi, and moistens the Lungs to settle wheezing and dyspnea. |
-| **Da Zao** | Jujube fruit | *Assistant* | 3 - 7 pieces | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach, Heart | Tonifies the Spleen and Stomach, augments Qi, and harmonizes the properties of the other herbs while moderating any harshness. |
-| **Sheng Jiang** | Fresh ginger rhizome | *Envoy* | 3 - 5 slices | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Warms the Middle Jiao, transforms thin mucus, and harmonizes the Stomach; also aids the absorption of the tonic herbs and directs the formula to the Lungs. |
+| **Ren Shen** | Ginseng root | *Main* | 6 - 9g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | Greatly tonifies primordial Qi and supplements Lung Qi, restoring the source of breath and alleviating exhaustion and shortness of breath. |
+| **Hu Tao Ren** | Walnut kernel | *Enhancer* | 9 - 30g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Kidneys, Lungs, Large Intestine | Warms and tonifies the Kidneys, helps the Kidneys grasp Qi, and moistens the Lungs to settle wheezing and dyspnea. |
+| **Da Zao** | Jujube fruit | *Balancer* | 3 - 7 pieces | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach, Heart | Tonifies the Spleen and Stomach, augments Qi, and harmonizes the properties of the other herbs while moderating any harshness. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Deliverer* | 3 - 5 slices | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Warms the Middle Jiao, transforms thin mucus, and harmonizes the Stomach; also aids the absorption of the tonic herbs and directs the formula to the Lungs. |
 
 ---
 

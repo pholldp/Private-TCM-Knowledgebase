@@ -24,9 +24,9 @@ A classical three-herb formula used to dissolve lumps and nodules in the neck an
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Xuan Shen** | Figwort root | *King* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Stomach, Kidneys | Nourishes Yin and clears Heat, cools the Blood and dissipates nodules. Classical texts specifically note its ability to scatter lumps below the neck. As the King herb, it addresses the root cause of Yin deficiency with Heat that drives phlegm formation. |
-| **Mu Li (calcined)** |  | *Deputy* | 9 - 30g | Temp: <br>Taste: <br>Affinity:  | Softens hardness and dissipates nodules. Its salty, cool nature directly targets hardened phlegm masses. It also anchors floating Yang and supports the Yin-nourishing action of Xuan Shen. |
-| **Zhe Bei Mu** | Zhejiang Fritillary bulb | *Deputy* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs | Clears Heat and transforms Phlegm, opens constraint and dissipates nodules. Zhe Bei Mu is particularly strong at resolving phlegm-fire knotted masses, addressing both the pathogenic Phlegm and Heat in the formula's target pattern. |
+| **Xuan Shen** | Figwort root | *Main* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Stomach, Kidneys | Nourishes Yin and clears Heat, cools the Blood and dissipates nodules. Classical texts specifically note its ability to scatter lumps below the neck. As the King herb, it addresses the root cause of Yin deficiency with Heat that drives phlegm formation. |
+| **Mu Li (calcined)** |  | *Enhancer* | 9 - 30g | Temp: <br>Taste: <br>Affinity:  | Softens hardness and dissipates nodules. Its salty, cool nature directly targets hardened phlegm masses. It also anchors floating Yang and supports the Yin-nourishing action of Xuan Shen. |
+| **Zhe Bei Mu** | Zhejiang Fritillary bulb | *Enhancer* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs | Clears Heat and transforms Phlegm, opens constraint and dissipates nodules. Zhe Bei Mu is particularly strong at resolving phlegm-fire knotted masses, addressing both the pathogenic Phlegm and Heat in the formula's target pattern. |
 
 ---
 

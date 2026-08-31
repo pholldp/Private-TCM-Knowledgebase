@@ -24,8 +24,8 @@ A classical two-herb formula used to clear Heat and dry Dampness from the lower 
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Huang Bo** | Phellodendron bark | *King* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Urinary Bladder | Clears Heat and dries Dampness from the lower body. Its bitter, cold nature directly targets the Lower Burner, making it the key herb for draining Damp-Heat from the joints, sinews, and urogenital region. |
-| **Cang Zhu** | Atractylodes rhizome | *Deputy* | 9 - 15g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Liver | Dries Dampness and strengthens the Spleen to address the root source of Dampness production. Its warm, aromatic, and drying nature complements Huang Bai by resolving Dampness from a different angle and prevents Huang Bai's cold nature from harming the Spleen. |
+| **Huang Bo** | Phellodendron bark | *Main* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Urinary Bladder | Clears Heat and dries Dampness from the lower body. Its bitter, cold nature directly targets the Lower Burner, making it the key herb for draining Damp-Heat from the joints, sinews, and urogenital region. |
+| **Cang Zhu** | Atractylodes rhizome | *Enhancer* | 9 - 15g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Liver | Dries Dampness and strengthens the Spleen to address the root source of Dampness production. Its warm, aromatic, and drying nature complements Huang Bai by resolving Dampness from a different angle and prevents Huang Bai's cold nature from harming the Spleen. |
 
 ---
 

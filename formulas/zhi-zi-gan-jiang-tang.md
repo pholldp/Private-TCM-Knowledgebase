@@ -24,8 +24,8 @@ A simple two-herb classical formula from the Shang Han Lun that clears Heat from
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Zhi Zi** | Gardenia fruit | *King* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, San Jiao (Triple Burner) | Clears Heat from the chest and diaphragm, relieves irritability. Its bitter, cold nature drains residual Heat trapped in the upper body after misuse of purgatives, addressing the key symptom of persistent body heat and mild vexation. |
-| **Gan Jiang** | Dried ginger rhizome | *Deputy* | 6 - 9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Warms the middle burner and restores Spleen Yang damaged by excessive purging. Its acrid, hot nature drives out interior Cold from the Spleen and Stomach, addressing the loose stools and abdominal cold that result from injury to the middle Qi. |
+| **Zhi Zi** | Gardenia fruit | *Main* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, San Jiao (Triple Burner) | Clears Heat from the chest and diaphragm, relieves irritability. Its bitter, cold nature drains residual Heat trapped in the upper body after misuse of purgatives, addressing the key symptom of persistent body heat and mild vexation. |
+| **Gan Jiang** | Dried ginger rhizome | *Enhancer* | 6 - 9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Warms the middle burner and restores Spleen Yang damaged by excessive purging. Its acrid, hot nature drives out interior Cold from the Spleen and Stomach, addressing the loose stools and abdominal cold that result from injury to the middle Qi. |
 
 ---
 

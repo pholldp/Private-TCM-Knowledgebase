@@ -24,7 +24,7 @@ An emergency rescue formula consisting of a single herb, Ginseng (Ren Shen), use
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ren Shen** | Ginseng root | *King* | 30 - 60g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | As the sole ingredient, Ren Shen serves as the King herb and the entire formula. It powerfully tonifies the Yuan (source) Qi, rescues from collapse, strengthens the Heart Qi, and calms the spirit. In this formula, a very large dose is used to generate maximum Qi-restoring power in critical situations. The classical teaching underlying this formula is that when blood is lost, the formless Qi must be urgently secured first, because tangible blood cannot be quickly regenerated, but intangible Qi can and must be stabilized immediately. |
+| **Ren Shen** | Ginseng root | *Main* | 30 - 60g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Lungs, Heart, Kidneys | As the sole ingredient, Ren Shen serves as the King herb and the entire formula. It powerfully tonifies the Yuan (source) Qi, rescues from collapse, strengthens the Heart Qi, and calms the spirit. In this formula, a very large dose is used to generate maximum Qi-restoring power in critical situations. The classical teaching underlying this formula is that when blood is lost, the formless Qi must be urgently secured first, because tangible blood cannot be quickly regenerated, but intangible Qi can and must be stabilized immediately. |
 
 ---
 

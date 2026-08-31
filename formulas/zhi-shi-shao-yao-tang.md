@@ -24,8 +24,8 @@ A succinct classical formula of just two herbs that works to gently but effectiv
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Zhi Shi** | Immature Bitter Orange Fruit | *King* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Vigorously breaks stagnant Qi, disperses focal distension, and directs rebellious Qi downward to relieve abdominal pain and distension caused by Qi stagnation. |
-| **Bai Shao** | White peony root | *Deputy* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes the blood, softens the liver, and relaxes spasms to alleviate pain; moderates the harsh Qi-breaking action of Zhi Shi and prevents over-dispersion that could injure the Blood. |
+| **Zhi Shi** | Immature Bitter Orange Fruit | *Main* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Vigorously breaks stagnant Qi, disperses focal distension, and directs rebellious Qi downward to relieve abdominal pain and distension caused by Qi stagnation. |
+| **Bai Shao** | White peony root | *Enhancer* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes the blood, softens the liver, and relaxes spasms to alleviate pain; moderates the harsh Qi-breaking action of Zhi Shi and prevents over-dispersion that could injure the Blood. |
 
 ---
 

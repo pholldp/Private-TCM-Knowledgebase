@@ -68,10 +68,10 @@ DICT_TCM = {
     "Plaster": "พลาสเตอร์ยา",
     
     # Roles
-    "King": "ราชา (King)",
-    "Deputy": "ขุนนาง (Deputy)",
-    "Assistant": "ผู้ช่วย (Assistant)",
-    "Envoy": "ผู้ส่งสาร (Envoy)",
+    "Main": "ตัวยาหลัก (Main)",
+    "Enhancer": "ตัวเสริมฤทธิ์ (Enhancer)",
+    "Balancer": "ตัวปรับสมดุล (Balancer)",
+    "Deliverer": "ตัวส่งยา (Deliverer)",
     "Unknown": "ไม่ระบุ",
 }
 

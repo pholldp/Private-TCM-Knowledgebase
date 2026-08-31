@@ -24,11 +24,11 @@ Qu Tao Tang is a specialized formula for expelling intestinal tapeworms. It comb
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Da Huang** | Rhubarb root and rhizome | *King* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Chief (King) herb. It strongly purges the intestines, drives out tapeworms, drains Heat, and breaks stagnation. |
-| **Hou Po** | Magnolia bark | *Deputy* | 6 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Deputy herb. Moves Qi, dries Dampness, and reduces abdominal distension, supporting parasite expulsion. |
-| **Zhi Shi** | Immature Bitter Orange Fruit | *Deputy* | 6 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Deputy herb. Breaks Qi stagnation, descends Rebellious Qi, and relieves intestinal obstruction. |
-| **Huang Lian** | Coptis rhizome | *Deputy* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Deputy herb. Clears Heat, dries Dampness, and has direct anti-parasitic properties. |
-| **Gan Cao** | Licorice root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Assistant and Envoy herb. Harmonizes the formula, moderates the harsh purgative effect, and protects the Stomach. |
+| **Da Huang** | Rhubarb root and rhizome | *Main* | 9 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Chief (King) herb. It strongly purges the intestines, drives out tapeworms, drains Heat, and breaks stagnation. |
+| **Hou Po** | Magnolia bark | *Enhancer* | 6 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Deputy herb. Moves Qi, dries Dampness, and reduces abdominal distension, supporting parasite expulsion. |
+| **Zhi Shi** | Immature Bitter Orange Fruit | *Enhancer* | 6 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Deputy herb. Breaks Qi stagnation, descends Rebellious Qi, and relieves intestinal obstruction. |
+| **Huang Lian** | Coptis rhizome | *Enhancer* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Deputy herb. Clears Heat, dries Dampness, and has direct anti-parasitic properties. |
+| **Gan Cao** | Licorice root | *Deliverer* | 3 - 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Assistant and Envoy herb. Harmonizes the formula, moderates the harsh purgative effect, and protects the Stomach. |
 
 ---
 

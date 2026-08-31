@@ -24,9 +24,9 @@ A gentle, three-herb formula made entirely from common plant seeds, originally c
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bai Jie Zi** | White mustard seed | *King* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Stomach | Warms the Lungs and dissolves Phlegm, particularly excelling at expelling Phlegm lodged deep in the chest and diaphragm. Addresses the core pathomechanism of Phlegm accumulation blocking the Lung's descending function. |
-| **Zi Su Zi** | Perilla seed | *Deputy* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Large Intestine | Directs Lung Qi downward to stop coughing and wheezing, and helps transform Phlegm. Supports the King herb by restoring the normal downward movement of Lung Qi so that Phlegm no longer rises rebelliously. |
-| **Lai Fu Zi** | Radish seed | *Assistant* | 6 - 9g | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen, Stomach | Promotes digestion, reduces food stagnation, and moves Qi downward to dissolve Phlegm. Addresses the food accumulation that generates further Phlegm, breaking the cycle of stagnant food producing more turbidity. |
+| **Bai Jie Zi** | White mustard seed | *Main* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Stomach | Warms the Lungs and dissolves Phlegm, particularly excelling at expelling Phlegm lodged deep in the chest and diaphragm. Addresses the core pathomechanism of Phlegm accumulation blocking the Lung's descending function. |
+| **Zi Su Zi** | Perilla seed | *Enhancer* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Large Intestine | Directs Lung Qi downward to stop coughing and wheezing, and helps transform Phlegm. Supports the King herb by restoring the normal downward movement of Lung Qi so that Phlegm no longer rises rebelliously. |
+| **Lai Fu Zi** | Radish seed | *Balancer* | 6 - 9g | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen, Stomach | Promotes digestion, reduces food stagnation, and moves Qi downward to dissolve Phlegm. Addresses the food accumulation that generates further Phlegm, breaking the cycle of stagnant food producing more turbidity. |
 
 ---
 

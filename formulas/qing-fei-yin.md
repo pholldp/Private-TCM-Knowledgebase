@@ -24,13 +24,13 @@ Qing Fei Yin is a classical TCM formula that clears Heat from the Lungs, relieve
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Sang Bai Pi** | Mulberry root bark | *King* | 9 - 12g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen | Clears Lung Heat and stops coughing; addresses the primary pathomechanism of Heat accumulation in the Lung. |
-| **Huang Qin** | Baical skullcap root | *Deputy* | 9 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Reinforces the clearing of Lung Heat and dries Dampness, assisting the King herb in resolving phlegm and stopping cough. |
-| **Mai Dong** | Ophiopogon root | *Deputy* | 9 - 12g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach | Nourishes Lung Yin and generates fluids, relieving the thirst caused by Heat damaging fluids. |
-| **Fu Ling** | Poria | *Assistant* | 9 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Drains Dampness and promotes urination, helping to open the water passages and guide Heat downward. |
-| **Che Qian Zi** | Plantain Seed | *Assistant* | 9 - 12g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Lungs, Small Intestine | Clears Lung Heat and promotes urination, addressing both cough and urinary difficulty. |
-| **&#x5C71;&#x6800;&#x5B50;** |  | *Assistant* | 9 - 12g | Temp: <br>Taste: <br>Affinity:  | Clears Heat and resolves Fire, eliminates irritability, and promotes urination. |
-| **Mu Tong** | Akebia stem | *Assistant* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Small Intestine, Urinary Bladder | Clears Heat and promotes urination, guiding Heat out through the urine. |
+| **Sang Bai Pi** | Mulberry root bark | *Main* | 9 - 12g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen | Clears Lung Heat and stops coughing; addresses the primary pathomechanism of Heat accumulation in the Lung. |
+| **Huang Qin** | Baical skullcap root | *Enhancer* | 9 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Reinforces the clearing of Lung Heat and dries Dampness, assisting the King herb in resolving phlegm and stopping cough. |
+| **Mai Dong** | Ophiopogon root | *Enhancer* | 9 - 12g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach | Nourishes Lung Yin and generates fluids, relieving the thirst caused by Heat damaging fluids. |
+| **Fu Ling** | Poria | *Balancer* | 9 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Drains Dampness and promotes urination, helping to open the water passages and guide Heat downward. |
+| **Che Qian Zi** | Plantain Seed | *Balancer* | 9 - 12g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Lungs, Small Intestine | Clears Lung Heat and promotes urination, addressing both cough and urinary difficulty. |
+| **&#x5C71;&#x6800;&#x5B50;** |  | *Balancer* | 9 - 12g | Temp: <br>Taste: <br>Affinity:  | Clears Heat and resolves Fire, eliminates irritability, and promotes urination. |
+| **Mu Tong** | Akebia stem | *Balancer* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Small Intestine, Urinary Bladder | Clears Heat and promotes urination, guiding Heat out through the urine. |
 
 ---
 

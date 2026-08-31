@@ -24,7 +24,7 @@ Xi Xian Powder is a traditional Chinese herbal formula made from the single herb
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Xi Xian Cao** | Siegesbeckia herb | *King* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Kidneys | The sole ingredient. Disperses Wind-Dampness, relaxes the sinews, and opens the channels. When used unprocessed, it clears Heat and dries Dampness. When processed (steamed or wine-fried), it additionally tonifies the Liver and Kidney and strengthens the sinews and bones. |
+| **Xi Xian Cao** | Siegesbeckia herb | *Main* | 3 - 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Kidneys | The sole ingredient. Disperses Wind-Dampness, relaxes the sinews, and opens the channels. When used unprocessed, it clears Heat and dries Dampness. When processed (steamed or wine-fried), it additionally tonifies the Liver and Kidney and strengthens the sinews and bones. |
 
 ---
 

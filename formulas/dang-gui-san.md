@@ -24,11 +24,11 @@ A traditional Chinese herbal formula from the Jin Gui Yao Lue (Essential Prescri
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Dang Gui** | Chinese Angelica root | *King* | 6 - 12g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Nourishes Blood, regulates menstruation, and calms the fetus. The chief herb addressing Blood Deficiency. |
-| **Huang Qin** | Baical skullcap root | *Deputy* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Clears Heat and dries Dampness, especially to calm the fetus by clearing Damp-Heat that disturbs the Uterus. |
-| **Bai Shao** | White peony root | *Assistant* | 6 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes Blood, astringes Yin, and softens the Liver to alleviate abdominal pain and support the King herb. |
-| **Chuan Xiong** | Sichuan lovage rhizome | *Assistant* | 3 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Invigorates Blood and promotes Qi circulation, preventing the cloying nature of Blood-tonifying herbs and relieving pain. |
-| **Bai Zhu** | White Atractylodes rhizome | *Envoy* | 6 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach | Strengthens the Spleen and resolves Dampness, supporting the source of Blood production and directing the formula to the middle burner. |
+| **Dang Gui** | Chinese Angelica root | *Main* | 6 - 12g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Nourishes Blood, regulates menstruation, and calms the fetus. The chief herb addressing Blood Deficiency. |
+| **Huang Qin** | Baical skullcap root | *Enhancer* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Clears Heat and dries Dampness, especially to calm the fetus by clearing Damp-Heat that disturbs the Uterus. |
+| **Bai Shao** | White peony root | *Balancer* | 6 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Nourishes Blood, astringes Yin, and softens the Liver to alleviate abdominal pain and support the King herb. |
+| **Chuan Xiong** | Sichuan lovage rhizome | *Balancer* | 3 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Gallbladder, Pericardium | Invigorates Blood and promotes Qi circulation, preventing the cloying nature of Blood-tonifying herbs and relieving pain. |
+| **Bai Zhu** | White Atractylodes rhizome | *Deliverer* | 6 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach | Strengthens the Spleen and resolves Dampness, supporting the source of Blood production and directing the formula to the middle burner. |
 
 ---
 

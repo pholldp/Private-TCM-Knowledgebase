@@ -24,18 +24,18 @@ A classical formula used to release wind-heat, clear internal toxins, and promot
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Fang Feng** | Siler root | *King* | 6-9g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Urinary Bladder, Liver, Spleen | Disperses wind and releases the exterior, alleviates itching. |
-| **Bo He** | Peppermint herb | *King* | 6-9g | Temp: Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)<br>Affinity: Lungs, Liver | Acrid-cool herb that releases the exterior, clears wind-heat, and promotes rash eruption. |
-| **Jing Jie** | Schizonepeta | *Deputy* | 6-9g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)<br>Affinity: Lungs, Liver | Assists Fang Feng in dispersing wind from the skin. |
-| **Niu Bang Zi** | Burdock fruit | *Deputy* | 6-9g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Clears heat, resolves toxin, and promotes expression of rashes. |
-| **Lian Qiao** | Forsythia fruit | *Deputy* | 6-9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Heart, Small Intestine | Clears heat, resolves toxin, and disperses wind-heat. |
-| **Shi Gao** | Gypsum | *Assistant* | 9-15g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clears intense Lung and Stomach heat, reduces fever. |
-| **Zhi Mu** | Anemarrhena rhizome | *Assistant* | 6-9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Nourishes yin and clears heat, supports Shi Gao. |
-| **Dan Zhu Ye** | Lophatherum herb | *Assistant* | 6-9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Stomach, Small Intestine | Clears heat and promotes urination to drain heat downward. |
-| **Mu Tong** | Akebia stem | *Assistant* | 6-9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Small Intestine, Urinary Bladder | Drains heat via urine and unblocks channels. |
-| **Zhi Ke** | Bitter orange fruit | *Assistant* | 6-9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Regulates qi to promote dispersion of exterior pathogens. |
-| **Jie Geng** | Balloon flower root | *Envoy* | 6-9g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Carries other herbs to the Lung and promotes rash eruption. |
-| **Gan Cao** | Licorice root | *Envoy* | 3-6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes the formula and moderates harsh properties. |
+| **Fang Feng** | Siler root | *Main* | 6-9g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Urinary Bladder, Liver, Spleen | Disperses wind and releases the exterior, alleviates itching. |
+| **Bo He** | Peppermint herb | *Main* | 6-9g | Temp: Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)<br>Affinity: Lungs, Liver | Acrid-cool herb that releases the exterior, clears wind-heat, and promotes rash eruption. |
+| **Jing Jie** | Schizonepeta | *Enhancer* | 6-9g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Aromatic (&#x82B3;&#x9999; f&#x101;ng xi&#x101;ng)<br>Affinity: Lungs, Liver | Assists Fang Feng in dispersing wind from the skin. |
+| **Niu Bang Zi** | Burdock fruit | *Enhancer* | 6-9g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Clears heat, resolves toxin, and promotes expression of rashes. |
+| **Lian Qiao** | Forsythia fruit | *Enhancer* | 6-9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Heart, Small Intestine | Clears heat, resolves toxin, and disperses wind-heat. |
+| **Shi Gao** | Gypsum | *Balancer* | 9-15g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clears intense Lung and Stomach heat, reduces fever. |
+| **Zhi Mu** | Anemarrhena rhizome | *Balancer* | 6-9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Nourishes yin and clears heat, supports Shi Gao. |
+| **Dan Zhu Ye** | Lophatherum herb | *Balancer* | 6-9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Stomach, Small Intestine | Clears heat and promotes urination to drain heat downward. |
+| **Mu Tong** | Akebia stem | *Balancer* | 6-9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Small Intestine, Urinary Bladder | Drains heat via urine and unblocks channels. |
+| **Zhi Ke** | Bitter orange fruit | *Balancer* | 6-9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Regulates qi to promote dispersion of exterior pathogens. |
+| **Jie Geng** | Balloon flower root | *Deliverer* | 6-9g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Carries other herbs to the Lung and promotes rash eruption. |
+| **Gan Cao** | Licorice root | *Deliverer* | 3-6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes the formula and moderates harsh properties. |
 
 ---
 

@@ -24,8 +24,8 @@ A classical two-herb formula used to stop nausea and vomiting caused by fluid an
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ban Xia** | Pinellia rhizome | *King* | 9 - 15g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs | The chief herb of the formula. Ban Xia is acrid and warm, entering the Spleen and Stomach channels. It powerfully dries Dampness, transforms Phlegm, and directs rebellious Stomach Qi downward to stop vomiting. It is classically known as a key anti-nausea herb. |
-| **Sheng Jiang** | Fresh ginger rhizome | *Deputy* | 9 - 15g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Sheng Jiang (fresh ginger) serves a dual role. As Deputy, it reinforces the warming of the Stomach and the descending of rebellious Qi to stop vomiting. It is classically called the 'sage herb for vomiting' (呕家圣药). It also restrains the toxicity of Ban Xia while synergistically enhancing the formula's ability to scatter cold fluids from the Stomach. |
+| **Ban Xia** | Pinellia rhizome | *Main* | 9 - 15g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs | The chief herb of the formula. Ban Xia is acrid and warm, entering the Spleen and Stomach channels. It powerfully dries Dampness, transforms Phlegm, and directs rebellious Stomach Qi downward to stop vomiting. It is classically known as a key anti-nausea herb. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Enhancer* | 9 - 15g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Sheng Jiang (fresh ginger) serves a dual role. As Deputy, it reinforces the warming of the Stomach and the descending of rebellious Qi to stop vomiting. It is classically called the 'sage herb for vomiting' (呕家圣药). It also restrains the toxicity of Ban Xia while synergistically enhancing the formula's ability to scatter cold fluids from the Stomach. |
 
 ---
 

@@ -24,8 +24,8 @@ A classical formula for damp-heat jaundice with heat predominating, used to redu
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Zhi Zi** | Gardenia fruit | *King* | 10 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, San Jiao (Triple Burner) | Clears heat from all three jiao, drains dampness by promoting urination, abates jaundice, cools blood and resolves toxins. |
-| **Huang Bo** | Phellodendron bark | *Deputy* | 6 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Urinary Bladder | Clears heat and dries dampness, drains fire and resolves toxins, especially clears damp-heat from the lower burner. |
+| **Zhi Zi** | Gardenia fruit | *Main* | 10 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, San Jiao (Triple Burner) | Clears heat from all three jiao, drains dampness by promoting urination, abates jaundice, cools blood and resolves toxins. |
+| **Huang Bo** | Phellodendron bark | *Enhancer* | 6 - 15g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Kidneys, Urinary Bladder | Clears heat and dries dampness, drains fire and resolves toxins, especially clears damp-heat from the lower burner. |
 
 ---
 

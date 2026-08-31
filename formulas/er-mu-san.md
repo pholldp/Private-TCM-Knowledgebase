@@ -24,8 +24,8 @@ A simple two-herb classical formula that clears Heat from the Lungs, dissolves s
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Chuan Bei Mu** | Sichuan fritillary bulb | *King* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Heart | Clears Heat from the Lungs, transforms Phlegm, and moistens the Lungs to stop coughing. As the primary herb, it directly addresses Phlegm-Heat in the Lungs while its sweet, moistening quality protects Lung Yin. |
-| **Zhi Mu** | Anemarrhena rhizome | *King* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears Lung Heat, nourishes Yin, and moistens Dryness. It complements Bei Mu by addressing the root cause of Yin Deficiency and clearing deficiency Heat, while its bitter-cold nature drains Fire from the Lungs and Kidneys. |
+| **Chuan Bei Mu** | Sichuan fritillary bulb | *Main* | 6 - 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Heart | Clears Heat from the Lungs, transforms Phlegm, and moistens the Lungs to stop coughing. As the primary herb, it directly addresses Phlegm-Heat in the Lungs while its sweet, moistening quality protects Lung Yin. |
+| **Zhi Mu** | Anemarrhena rhizome | *Main* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears Lung Heat, nourishes Yin, and moistens Dryness. It complements Bei Mu by addressing the root cause of Yin Deficiency and clearing deficiency Heat, while its bitter-cold nature drains Fire from the Lungs and Kidneys. |
 
 ---
 

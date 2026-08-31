@@ -24,12 +24,12 @@ A gentle purgative formula from the Warm Disease school that clears residual Hea
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Da Huang** | Rhubarb root and rhizome | *King* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges Heat and unblocks the bowels to eliminate accumulated Heat in the Stomach and Intestines. |
-| **Xuan Shen** | Figwort root | *Deputy* | 9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Stomach, Kidneys | Nourishes Yin and clears Heat, protecting Stomach Yin while supporting the purgative action. |
-| **&#x7EC6;&#x751F;&#x5730;** |  | *Deputy* | 9g | Temp: <br>Taste: <br>Affinity:  | Cools Blood and nourishes Yin, moistening dryness and protecting Stomach Yin. |
-| **Mu Dan Pi** | Tree peony root bark | *Assistant* | 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver, Kidneys | Clears Heat and cools Blood, addressing residual Heat in the Blood level and preventing further Yin damage. |
-| **Zhi Mu** | Anemarrhena rhizome | *Assistant* | 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears Heat and nourishes Yin, moistens dryness and generates fluids to protect Stomach Yin. |
-| **Mai Dong** | Ophiopogon root | *Assistant* | 9g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach | Nourishes Yin and generates fluids, especially for Stomach Yin deficiency with dry mouth and throat. |
+| **Da Huang** | Rhubarb root and rhizome | *Main* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges Heat and unblocks the bowels to eliminate accumulated Heat in the Stomach and Intestines. |
+| **Xuan Shen** | Figwort root | *Enhancer* | 9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Stomach, Kidneys | Nourishes Yin and clears Heat, protecting Stomach Yin while supporting the purgative action. |
+| **&#x7EC6;&#x751F;&#x5730;** |  | *Enhancer* | 9g | Temp: <br>Taste: <br>Affinity:  | Cools Blood and nourishes Yin, moistening dryness and protecting Stomach Yin. |
+| **Mu Dan Pi** | Tree peony root bark | *Balancer* | 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver, Kidneys | Clears Heat and cools Blood, addressing residual Heat in the Blood level and preventing further Yin damage. |
+| **Zhi Mu** | Anemarrhena rhizome | *Balancer* | 6g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears Heat and nourishes Yin, moistens dryness and generates fluids to protect Stomach Yin. |
+| **Mai Dong** | Ophiopogon root | *Balancer* | 9g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach | Nourishes Yin and generates fluids, especially for Stomach Yin deficiency with dry mouth and throat. |
 
 ---
 

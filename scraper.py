@@ -153,7 +153,10 @@ def parse_formula_details(html_content, formula_basic):
             english = english_m.group(1).strip() if english_m else ""
             
             role_m = re.search(r"formula-herb-hierarchy-marker\s+(\w+)", card_html)
-            role = role_m.group(1).strip().capitalize() if role_m else "Unknown"
+            role_raw = role_m.group(1).strip().capitalize() if role_m else "Unknown"
+            # Map traditional role names to simplified names
+            ROLE_NAME_MAP = {"King": "Main", "Deputy": "Enhancer", "Assistant": "Balancer", "Envoy": "Deliverer"}
+            role = ROLE_NAME_MAP.get(role_raw, role_raw)
             
             dosage_m = re.search(r"Dosage</span>\s*<span class=\"formula-herb-property-value\">([^<]+)</span>", card_html)
             dosage = dosage_m.group(1).strip() if dosage_m else ""

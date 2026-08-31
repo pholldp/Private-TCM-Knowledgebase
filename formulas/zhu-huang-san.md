@@ -24,8 +24,8 @@ A simple two-ingredient topical powder made from Pearl and Cattle Gallstone (Bez
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Zhen Zhu** | Pearl | *King* | 0.9g (classical); 500g per 1000g batch (modern) | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Heart, Liver | Clears Heat, resolves toxins, promotes tissue regeneration, and heals sores. As the primary ingredient, Pearl directly addresses the ulcerated and eroded mucosal tissue by encouraging new tissue growth and closing non-healing wounds. |
-| **Niu Huang** | Cattle gallstone | *Deputy* | 0.3g (classical); 500g per 1000g batch (modern) | Temp: Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver | Clears Heat, resolves toxins, cools the Blood, and reduces swelling. Niu Huang powerfully clears the Heat-toxin that causes the throat and oral inflammation, while its cooling nature reduces the redness, swelling, and pain. |
+| **Zhen Zhu** | Pearl | *Main* | 0.9g (classical); 500g per 1000g batch (modern) | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Heart, Liver | Clears Heat, resolves toxins, promotes tissue regeneration, and heals sores. As the primary ingredient, Pearl directly addresses the ulcerated and eroded mucosal tissue by encouraging new tissue growth and closing non-healing wounds. |
+| **Niu Huang** | Cattle gallstone | *Enhancer* | 0.3g (classical); 500g per 1000g batch (modern) | Temp: Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver | Clears Heat, resolves toxins, cools the Blood, and reduces swelling. Niu Huang powerfully clears the Heat-toxin that causes the throat and oral inflammation, while its cooling nature reduces the redness, swelling, and pain. |
 
 ---
 

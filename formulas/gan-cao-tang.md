@@ -24,7 +24,7 @@ An extremely simple one-herb classical formula from the Shang Han Lun, made only
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Gan Cao** | Licorice root | *King* | 6 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | As the sole ingredient of this formula, raw Gan Cao (Sheng Gan Cao) serves as the King herb. Used in its raw, unprocessed form, it has a slightly cooling quality that allows it to clear Heat-toxin from the throat. Its sweet flavour also moistens and soothes irritated throat tissue, relieving pain directly. |
+| **Gan Cao** | Licorice root | *Main* | 6 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | As the sole ingredient of this formula, raw Gan Cao (Sheng Gan Cao) serves as the King herb. Used in its raw, unprocessed form, it has a slightly cooling quality that allows it to clear Heat-toxin from the throat. Its sweet flavour also moistens and soothes irritated throat tissue, relieving pain directly. |
 
 ---
 

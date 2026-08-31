@@ -24,10 +24,10 @@ A classical formula from the Shang Han Lun used to drain heat and expel water fr
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Da Huang** | Rhubarb root and rhizome | *King* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges heat and unblocks the bowels to drain the accumulated heat and water from the chest and epigastrium. |
-| **Ting Li Zi** | Pepperweed seed | *Deputy* | 3 - 9g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Urinary Bladder | Expels water from the chest and directs downward, targeting the fluid accumulation that causes hardness and pain. |
-| **Mang Xiao** | Mirabilite | *Assistant* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Stomach, Large Intestine | Softens hardness and assists Da Huang in purging heat and breaking the chest bind. |
-| **Xing Ren** | Bitter apricot kernel | *Envoy* | 3 - 9g | Temp: Slightly Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Large Intestine | Directs Qi downward and moistens, guiding the formula to the chest and alleviating neck stiffness. |
+| **Da Huang** | Rhubarb root and rhizome | *Main* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges heat and unblocks the bowels to drain the accumulated heat and water from the chest and epigastrium. |
+| **Ting Li Zi** | Pepperweed seed | *Enhancer* | 3 - 9g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Urinary Bladder | Expels water from the chest and directs downward, targeting the fluid accumulation that causes hardness and pain. |
+| **Mang Xiao** | Mirabilite | *Balancer* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Stomach, Large Intestine | Softens hardness and assists Da Huang in purging heat and breaking the chest bind. |
+| **Xing Ren** | Bitter apricot kernel | *Deliverer* | 3 - 9g | Temp: Slightly Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Large Intestine | Directs Qi downward and moistens, guiding the formula to the chest and alleviating neck stiffness. |
 
 ---
 

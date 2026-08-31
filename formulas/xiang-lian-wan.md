@@ -24,8 +24,8 @@ A classical two-herb pill that clears Heat and Dampness from the intestines whil
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Huang Lian** | Coptis rhizome | *King* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Clears Heat and dries Dampness in the Large Intestine, targeting the root cause of dysentery and diarrhea. |
-| **Mu Xiang** | Costus root | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder | Moves Qi in the Intestines, alleviates abdominal pain and tenesmus, and prevents the cloying nature of Huang Lian. |
+| **Huang Lian** | Coptis rhizome | *Main* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Clears Heat and dries Dampness in the Large Intestine, targeting the root cause of dysentery and diarrhea. |
+| **Mu Xiang** | Costus root | *Enhancer* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder | Moves Qi in the Intestines, alleviates abdominal pain and tenesmus, and prevents the cloying nature of Huang Lian. |
 
 ---
 

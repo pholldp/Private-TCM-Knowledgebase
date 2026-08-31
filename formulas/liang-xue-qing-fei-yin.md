@@ -24,15 +24,15 @@ A modern clinical formula that cools the Blood and clears Heat from the Lungs an
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **&#x751F;&#x5730;&#x9EC4;** |  | *King* | 30g | Temp: <br>Taste: <br>Affinity:  | Cools the Blood and clears Heat, addressing the root of Blood Heat. |
-| **Mu Dan Pi** | Tree peony root bark | *Deputy* | 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver, Kidneys | Cools Blood, resolves stasis, and clears Heat, reinforcing the King herb. |
-| **Chi Shao** | Red peony root | *Deputy* | 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver | Cools Blood, moves Blood, and reduces swelling, assisting in clearing Blood Heat and stasis. |
-| **Huang Qin** | Baical skullcap root | *Assistant* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Clears Lung Heat and dries Dampness, supporting the clearing of Lung Heat. |
-| **Sang Bai Pi** | Mulberry root bark | *Assistant* | 9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen | Clears Lung Heat and directs Lung Qi downward, addressing the Lung component. |
-| **Pi Pa Ye** | Loquat leaf | *Assistant* | 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Clears Lung Heat and descends rebellious Qi, helping to clear facial eruptions. |
-| **Zhi Mu** | Anemarrhena rhizome | *Assistant* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears Stomach Heat and generates fluids, addressing the Stomach Heat component. |
-| **Shi Gao** | Gypsum | *Assistant* | 30g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clears Stomach Heat and drains Fire, strongly clearing Heat from the Stomach. |
-| **Gan Cao** | Licorice root | *Envoy* | 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Clears Heat-toxins, harmonizes the formula, and guides the actions to the affected areas. |
+| **&#x751F;&#x5730;&#x9EC4;** |  | *Main* | 30g | Temp: <br>Taste: <br>Affinity:  | Cools the Blood and clears Heat, addressing the root of Blood Heat. |
+| **Mu Dan Pi** | Tree peony root bark | *Enhancer* | 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Liver, Kidneys | Cools Blood, resolves stasis, and clears Heat, reinforcing the King herb. |
+| **Chi Shao** | Red peony root | *Enhancer* | 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver | Cools Blood, moves Blood, and reduces swelling, assisting in clearing Blood Heat and stasis. |
+| **Huang Qin** | Baical skullcap root | *Balancer* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Gallbladder, Spleen, Large Intestine, Small Intestine, Heart, Stomach | Clears Lung Heat and dries Dampness, supporting the clearing of Lung Heat. |
+| **Sang Bai Pi** | Mulberry root bark | *Balancer* | 9g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen | Clears Lung Heat and directs Lung Qi downward, addressing the Lung component. |
+| **Pi Pa Ye** | Loquat leaf | *Balancer* | 9g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Clears Lung Heat and descends rebellious Qi, helping to clear facial eruptions. |
+| **Zhi Mu** | Anemarrhena rhizome | *Balancer* | 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears Stomach Heat and generates fluids, addressing the Stomach Heat component. |
+| **Shi Gao** | Gypsum | *Balancer* | 30g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Clears Stomach Heat and drains Fire, strongly clearing Heat from the Stomach. |
+| **Gan Cao** | Licorice root | *Deliverer* | 6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Clears Heat-toxins, harmonizes the formula, and guides the actions to the affected areas. |
 
 ---
 

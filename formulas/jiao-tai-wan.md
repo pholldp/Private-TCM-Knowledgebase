@@ -24,8 +24,8 @@ A remarkably simple two-herb formula used to restore healthy communication betwe
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Huang Lian** | Coptis rhizome | *King* | 15 - 30g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Bitter and cold, Huang Lian enters the Heart channel and clears excess Heart Fire. By draining the flaring Fire above, it calms the restless spirit and allows Heart Fire to descend, restoring the downward movement necessary for Heart-Kidney communication. |
-| **Rou Gui** | Cinnamon bark | *Deputy* | 1.5 - 3g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Acrid, sweet, and hot, Rou Gui enters the Kidney channel and warms the Gate of Life (Kidney Yang). Its warming action stokes the Kidney's internal fire so that Kidney Water can be steamed upward to nourish the Heart. It also guides floating Fire back down to its source (引火归元). Used in a small dose to prevent excessive warming. |
+| **Huang Lian** | Coptis rhizome | *Main* | 15 - 30g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Bitter and cold, Huang Lian enters the Heart channel and clears excess Heart Fire. By draining the flaring Fire above, it calms the restless spirit and allows Heart Fire to descend, restoring the downward movement necessary for Heart-Kidney communication. |
+| **Rou Gui** | Cinnamon bark | *Enhancer* | 1.5 - 3g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Liver, Spleen, Kidneys | Acrid, sweet, and hot, Rou Gui enters the Kidney channel and warms the Gate of Life (Kidney Yang). Its warming action stokes the Kidney's internal fire so that Kidney Water can be steamed upward to nourish the Heart. It also guides floating Fire back down to its source (引火归元). Used in a small dose to prevent excessive warming. |
 
 ---
 

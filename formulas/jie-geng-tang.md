@@ -24,8 +24,8 @@ A simple, classical two-herb formula used to soothe sore throats and help the lu
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Jie Geng** | Balloon flower root | *King* | 3 - 6g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Opens and diffuses Lung Qi, benefits the throat, expels phlegm, and promotes the discharge of pus. As the classical commentator Xu Hong noted, Jie Geng serves as the sovereign because it floats upward to treat the Upper Burner, acting as a 'boat' to carry the formula's action to the throat and Lungs. |
-| **Gan Cao** | Licorice root | *Deputy* | 6 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Raw Gan Cao (Sheng Gan Cao) clears Heat, resolves toxins, soothes the throat, and relieves pain. Used at double the dose of Jie Geng, it is the primary Heat-clearing and detoxifying agent in this formula. It also harmonizes the formula and protects the Stomach from Jie Geng's potential to cause nausea. |
+| **Jie Geng** | Balloon flower root | *Main* | 3 - 6g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Opens and diffuses Lung Qi, benefits the throat, expels phlegm, and promotes the discharge of pus. As the classical commentator Xu Hong noted, Jie Geng serves as the sovereign because it floats upward to treat the Upper Burner, acting as a 'boat' to carry the formula's action to the throat and Lungs. |
+| **Gan Cao** | Licorice root | *Enhancer* | 6 - 12g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Raw Gan Cao (Sheng Gan Cao) clears Heat, resolves toxins, soothes the throat, and relieves pain. Used at double the dose of Jie Geng, it is the primary Heat-clearing and detoxifying agent in this formula. It also harmonizes the formula and protects the Stomach from Jie Geng's potential to cause nausea. |
 
 ---
 

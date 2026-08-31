@@ -24,8 +24,8 @@ Zhi Zhu Wan is a traditional Chinese formula used to strengthen weak digestion, 
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bai Zhu** | White Atractylodes rhizome | *King* | 6 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach | Tonifies Spleen Qi, dries Dampness, and promotes the transport and transformation of food to address the root Spleen deficiency. |
-| **Zhi Shi** | Immature Bitter Orange Fruit | *Deputy* | 3 - 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Moves Qi downward, breaks up stagnation, reduces focal distention, and eliminates accumulated food from the middle burner. |
+| **Bai Zhu** | White Atractylodes rhizome | *Main* | 6 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Stomach | Tonifies Spleen Qi, dries Dampness, and promotes the transport and transformation of food to address the root Spleen deficiency. |
+| **Zhi Shi** | Immature Bitter Orange Fruit | *Enhancer* | 3 - 6g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Moves Qi downward, breaks up stagnation, reduces focal distention, and eliminates accumulated food from the middle burner. |
 
 ---
 

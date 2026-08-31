@@ -24,9 +24,9 @@ A classical formula that warms yang and promotes urination to reduce edema, espe
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Huang Qi** | Astragalus root | *King* | 9-15g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Qi, raises the clear Yang, and promotes urination to drain edema. |
-| **Zhi Fu Zi** | Prepared Aconite Root | *Deputy* | 3-9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Kidneys, Spleen | Warms Kidney Yang, the root of all Yang, to reignite the body's water-transforming fire and dispel internal cold. |
-| **Gan Cao** | Licorice root | *Envoy* | 3-6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes the harshness of Aconite, supports the Spleen, and moderates the actions of the other herbs. |
+| **Huang Qi** | Astragalus root | *Main* | 9-15g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Qi, raises the clear Yang, and promotes urination to drain edema. |
+| **Zhi Fu Zi** | Prepared Aconite Root | *Enhancer* | 3-9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Kidneys, Spleen | Warms Kidney Yang, the root of all Yang, to reignite the body's water-transforming fire and dispel internal cold. |
+| **Gan Cao** | Licorice root | *Deliverer* | 3-6g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Harmonizes the harshness of Aconite, supports the Spleen, and moderates the actions of the other herbs. |
 
 ---
 

@@ -24,12 +24,12 @@ A classical formula that strongly moves Qi, clears heat, and unblocks the bowels
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Chen Xiang** | Agarwood | *King* | 3 - 6g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Kidneys | Descends rebellious Qi, relieves chest and abdominal distension, and warmly promotes Qi movement. |
-| **Bing Lang** | Areca seed (Betel nut) | *King* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Stomach, Large Intestine | Powerfully breaks Qi stagnation, promotes bowel movement, and drives down accumulated Qi. |
-| **Wu Yao** | Lindera root | *Deputy* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Kidneys, Urinary Bladder | Warms and disperses Qi in the middle and lower burner, relieving abdominal pain and distension. |
-| **Mu Xiang** | Costus root | *Deputy* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder | Strengthens Qi movement in the Spleen and Stomach, alleviating bloating and nausea. |
-| **Zhi Ke** | Bitter orange fruit | *Assistant* | 6 - 10g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Expands the chest and epigastrium, moves Qi downward, and supports the opening of the bowels. |
-| **Da Huang** | Rhubarb root and rhizome | *Assistant* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges heat and accumulation, unblocks the bowels, and clears stagnant heat in the intestines. |
+| **Chen Xiang** | Agarwood | *Main* | 3 - 6g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Kidneys | Descends rebellious Qi, relieves chest and abdominal distension, and warmly promotes Qi movement. |
+| **Bing Lang** | Areca seed (Betel nut) | *Main* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Stomach, Large Intestine | Powerfully breaks Qi stagnation, promotes bowel movement, and drives down accumulated Qi. |
+| **Wu Yao** | Lindera root | *Enhancer* | 6 - 10g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Kidneys, Urinary Bladder | Warms and disperses Qi in the middle and lower burner, relieving abdominal pain and distension. |
+| **Mu Xiang** | Costus root | *Enhancer* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, San Jiao (Triple Burner), Gallbladder | Strengthens Qi movement in the Spleen and Stomach, alleviating bloating and nausea. |
+| **Zhi Ke** | Bitter orange fruit | *Balancer* | 6 - 10g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine, Lungs | Expands the chest and epigastrium, moves Qi downward, and supports the opening of the bowels. |
+| **Da Huang** | Rhubarb root and rhizome | *Balancer* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Spleen, Stomach, Large Intestine, Liver, Pericardium | Purges heat and accumulation, unblocks the bowels, and clears stagnant heat in the intestines. |
 
 ---
 

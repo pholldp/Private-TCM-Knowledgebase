@@ -24,8 +24,8 @@ A classical formula for lily disease (bǎi hé bìng) after sweating, used to no
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bai He** | Lily bulb | *King* | 10 - 30g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs | Moistens Lung Yin and Heart Yin, clears deficiency heat, calms the mind and spirit, and directly treats the core lily disease mechanism of Yin deficiency with internal heat. |
-| **Zhi Mu** | Anemarrhena rhizome | *Deputy* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears heat, drains fire, nourishes Yin and generates fluids. It reinforces the heat‑clearing and Yin‑nourishing actions of the King herb, alleviates irritability and thirst, and addresses the dryness in the Lung and Stomach. |
+| **Bai He** | Lily bulb | *Main* | 10 - 30g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs | Moistens Lung Yin and Heart Yin, clears deficiency heat, calms the mind and spirit, and directly treats the core lily disease mechanism of Yin deficiency with internal heat. |
+| **Zhi Mu** | Anemarrhena rhizome | *Enhancer* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears heat, drains fire, nourishes Yin and generates fluids. It reinforces the heat‑clearing and Yin‑nourishing actions of the King herb, alleviates irritability and thirst, and addresses the dryness in the Lung and Stomach. |
 
 ---
 

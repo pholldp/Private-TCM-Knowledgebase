@@ -24,8 +24,8 @@ A classic 2-herb formula from the Jin Gui Yao Lue that quickly warms the stomach
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Chen Pi** | Tangerine peel | *King* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Spleen | Regulates Qi, harmonizes the Stomach, dries Dampness, and descends Rebellious Qi. It directly addresses the qi stagnation that underlies the hiccup and dry heaving. |
-| **Sheng Jiang** | Fresh ginger rhizome | *Deputy* | 9 - 15g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Warms the Middle Jiao, disperses Cold, and strongly directs Stomach Qi downward. It stops vomiting and, by spreading warmth, relieves the cold extremities. It also helps guide the formula specifically to the Stomach. |
+| **Chen Pi** | Tangerine peel | *Main* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Spleen | Regulates Qi, harmonizes the Stomach, dries Dampness, and descends Rebellious Qi. It directly addresses the qi stagnation that underlies the hiccup and dry heaving. |
+| **Sheng Jiang** | Fresh ginger rhizome | *Enhancer* | 9 - 15g | Temp: Slightly Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs, Spleen, Stomach | Warms the Middle Jiao, disperses Cold, and strongly directs Stomach Qi downward. It stops vomiting and, by spreading warmth, relieves the cold extremities. It also helps guide the formula specifically to the Stomach. |
 
 ---
 

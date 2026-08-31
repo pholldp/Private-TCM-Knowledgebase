@@ -24,8 +24,8 @@ A simple two-herb classical formula used to warm the stomach and move stagnant Q
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Gao Liang Jiang** | Lesser galangal rhizome | *King* | 6 - 9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach | Warms the Middle Burner, disperses Cold, and stops pain. As the primary warming herb, it directly addresses the core pathomechanism of Cold congealing in the Stomach. Wine-washing enhances its ability to disperse Cold and move through the channels. |
-| **Xiang Fu** | Nutgrass Galingale Rhizome | *Deputy* | 6 - 9g | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Spleen, San Jiao (Triple Burner) | Soothes the Liver, unblocks Qi stagnation, and stops pain. Addresses the Qi stagnation component of the pathomechanism, complementing Gao Liang Jiang's warming action. Vinegar-washing strengthens its ability to enter the Liver channel and relieve pain. |
+| **Gao Liang Jiang** | Lesser galangal rhizome | *Main* | 6 - 9g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach | Warms the Middle Burner, disperses Cold, and stops pain. As the primary warming herb, it directly addresses the core pathomechanism of Cold congealing in the Stomach. Wine-washing enhances its ability to disperse Cold and move through the channels. |
+| **Xiang Fu** | Nutgrass Galingale Rhizome | *Enhancer* | 6 - 9g | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Spleen, San Jiao (Triple Burner) | Soothes the Liver, unblocks Qi stagnation, and stops pain. Addresses the Qi stagnation component of the pathomechanism, complementing Gao Liang Jiang's warming action. Vinegar-washing strengthens its ability to enter the Liver channel and relieve pain. |
 
 ---
 

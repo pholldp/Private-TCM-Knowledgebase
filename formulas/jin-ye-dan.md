@@ -24,7 +24,7 @@ A classical single-ingredient mineral formula made from specially processed sulf
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Liu Huang** | Sulfur | *King* | Processed powder 1 liang (approx. 30g) made into pills; 30-100 pills per dose | Temp: Hot<br>Taste: Sour (&#x9178; su&#x101;n)<br>Affinity: Kidneys, Large Intestine | As the sole medicinal ingredient, specially processed sulfur serves as the formula's only active component. Sulfur is classified as extremely hot in nature, with a sour taste, entering the Kidney and Large Intestine channels. It powerfully supplements the Ming Men (Gate of Vitality) fire, rescues devastated Yang, warms the interior, and disperses deep-seated cold accumulation. Through elaborate calcination processing, its toxicity is reduced while its pure Yang-warming properties are preserved. |
+| **Liu Huang** | Sulfur | *Main* | Processed powder 1 liang (approx. 30g) made into pills; 30-100 pills per dose | Temp: Hot<br>Taste: Sour (&#x9178; su&#x101;n)<br>Affinity: Kidneys, Large Intestine | As the sole medicinal ingredient, specially processed sulfur serves as the formula's only active component. Sulfur is classified as extremely hot in nature, with a sour taste, entering the Kidney and Large Intestine channels. It powerfully supplements the Ming Men (Gate of Vitality) fire, rescues devastated Yang, warms the interior, and disperses deep-seated cold accumulation. Through elaborate calcination processing, its toxicity is reduced while its pure Yang-warming properties are preserved. |
 
 ---
 

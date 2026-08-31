@@ -24,11 +24,11 @@ A classical formula that tonifies Qi and lifts sunken Qi, used for shortness of 
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Huang Qi** | Astragalus root | *King* | 15 - 30g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Qi and raises the sunken pectoral Qi; the primary herb that directly addresses the sinking. |
-| **Chai Hu** | Bupleurum root | *Deputy* | 3 - 6g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Gallbladder, Lungs | Assists in lifting the sunken Qi from the left (Shaoyang direction), reinforcing the lifting action. |
-| **Sheng Ma** | Cimicifuga rhizome | *Deputy* | 3 - 6g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen, Stomach, Large Intestine | Assists in lifting the sunken Qi from the right (Yangming direction), synergizing with Chai Hu. |
-| **Zhi Mu** | Anemarrhena rhizome | *Assistant* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Cools and moistens to moderate Huang Qi's warm nature, preventing excessive heat while also mildly tonifying Qi. |
-| **Jie Geng** | Balloon flower root | *Envoy* | 3 - 6g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Directs the formula's actions upward to the chest, acting as a messenger to guide the other herbs. |
+| **Huang Qi** | Astragalus root | *Main* | 15 - 30g | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Qi and raises the sunken pectoral Qi; the primary herb that directly addresses the sinking. |
+| **Chai Hu** | Bupleurum root | *Enhancer* | 3 - 6g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Gallbladder, Lungs | Assists in lifting the sunken Qi from the left (Shaoyang direction), reinforcing the lifting action. |
+| **Sheng Ma** | Cimicifuga rhizome | *Enhancer* | 3 - 6g | Temp: Slightly Cool<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Spleen, Stomach, Large Intestine | Assists in lifting the sunken Qi from the right (Yangming direction), synergizing with Chai Hu. |
+| **Zhi Mu** | Anemarrhena rhizome | *Balancer* | 6 - 12g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach, Kidneys | Cools and moistens to moderate Huang Qi's warm nature, preventing excessive heat while also mildly tonifying Qi. |
+| **Jie Geng** | Balloon flower root | *Deliverer* | 3 - 6g | Temp: Neutral<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Lungs | Directs the formula's actions upward to the chest, acting as a messenger to guide the other herbs. |
 
 ---
 

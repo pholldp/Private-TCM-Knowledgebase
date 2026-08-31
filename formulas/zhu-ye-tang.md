@@ -24,11 +24,11 @@ A classic heat-clearing formula from the Tang dynasty, used for intense thirst, 
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Zhu Ye** | Bamboo leaf | *King* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Stomach, Gallbladder | Clears heat from the Heart and Stomach, relieves irritability, and generates body fluids to address heat-related thirst. |
-| **Shi Gao** | Gypsum | *Deputy* | 15 - 30g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Strongly clears Stomach heat and fire, directly targeting the excessive heat that causes intense thirst and dry mouth. |
-| **Fu Ling** | Poria | *Assistant* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Drains dampness and promotes urination to guide heat downward, while also calming the mind and spleen. |
-| **Xiao Mai** | Wheat grain | *Assistant* | 15 - 30g | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Spleen, Kidneys | Nourishes the Heart and stops sweating, helping to alleviate irritability and fluid loss. |
-| **Gua Lou** | Trichosanthes fruit | *Assistant* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach, Large Intestine | Clears heat, transforms phlegm, and generates fluids to moisten the Lungs and Stomach, reducing thirst and dry mouth. |
+| **Zhu Ye** | Bamboo leaf | *Main* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Stomach, Gallbladder | Clears heat from the Heart and Stomach, relieves irritability, and generates body fluids to address heat-related thirst. |
+| **Shi Gao** | Gypsum | *Enhancer* | 15 - 30g | Temp: Cold<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Stomach | Strongly clears Stomach heat and fire, directly targeting the excessive heat that causes intense thirst and dry mouth. |
+| **Fu Ling** | Poria | *Balancer* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n), Bland (&#x6DE1; d&#xE0;n)<br>Affinity: Heart, Lungs, Spleen, Kidneys | Drains dampness and promotes urination to guide heat downward, while also calming the mind and spleen. |
+| **Xiao Mai** | Wheat grain | *Balancer* | 15 - 30g | Temp: Cool<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Spleen, Kidneys | Nourishes the Heart and stops sweating, helping to alleviate irritability and fluid loss. |
+| **Gua Lou** | Trichosanthes fruit | *Balancer* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach, Large Intestine | Clears heat, transforms phlegm, and generates fluids to moisten the Lungs and Stomach, reducing thirst and dry mouth. |
 
 ---
 

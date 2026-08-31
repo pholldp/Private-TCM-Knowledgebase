@@ -24,11 +24,11 @@ A modern clinical formula used to strengthen the energy and fluids of the heart 
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Dang Shen** | Codonopsis root | *King* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Spleen and Lung Qi to address root Qi deficiency, strengthens the body's vital force |
-| **Bei Sha Shen** | Coastal Glehnia Root | *Deputy* | 9 - 15g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Nourishes Yin and generates fluids, clears heat to assist the King in addressing Yin deficiency and internal heat |
-| **Xuan Shen** | Figwort root | *Assistant* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears heat, cools blood, and nourishes Yin; enhances Yin-nourishing and heat-clearing power, especially for toxin-related fire |
-| **Dan Shen** | Red sage root | *Assistant* | 9 - 15g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Pericardium | Invigorates blood, cools blood, and calms the spirit; addresses blood stasis and palpitations caused by heat toxin damaging heart vessels |
-| **Ku Shen** | Flavescent Sophora Root | *Assistant* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Urinary Bladder | Clears heat, dries dampness, and resolves toxin; eliminates the pathogenic heat-dampness that invades the heart |
+| **Dang Shen** | Codonopsis root | *Main* | 9 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Spleen, Lungs | Tonifies Spleen and Lung Qi to address root Qi deficiency, strengthens the body's vital force |
+| **Bei Sha Shen** | Coastal Glehnia Root | *Enhancer* | 9 - 15g | Temp: Slightly Cool<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach | Nourishes Yin and generates fluids, clears heat to assist the King in addressing Yin deficiency and internal heat |
+| **Xuan Shen** | Figwort root | *Balancer* | 9 - 15g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;), Salty (&#x54B8; xi&#xE1;n)<br>Affinity: Lungs, Stomach, Kidneys | Clears heat, cools blood, and nourishes Yin; enhances Yin-nourishing and heat-clearing power, especially for toxin-related fire |
+| **Dan Shen** | Red sage root | *Balancer* | 9 - 15g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Pericardium | Invigorates blood, cools blood, and calms the spirit; addresses blood stasis and palpitations caused by heat toxin damaging heart vessels |
+| **Ku Shen** | Flavescent Sophora Root | *Balancer* | 3 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Urinary Bladder | Clears heat, dries dampness, and resolves toxin; eliminates the pathogenic heat-dampness that invades the heart |
 
 ---
 

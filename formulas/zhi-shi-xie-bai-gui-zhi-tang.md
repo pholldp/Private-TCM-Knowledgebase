@@ -24,11 +24,11 @@ A classical formula from the Jin Gui Yao Lue used to treat chest pain, stuffines
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Gua Lou** | Trichosanthes fruit | *King* | 12 - 30g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach, Large Intestine | Opens the chest, dissolves phlegm, and guides out turbid phlegm from the chest to relieve obstruction. |
-| **Xie Bai** | Chinese garlic bulb | *Deputy* | 9 - 12g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach, Large Intestine | Unblocks yang qi and disperses clumps, especially in the chest, to relieve pain and stuffiness. |
-| **Zhi Shi** | Immature Bitter Orange Fruit | *Assistant* | 9 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Breaks qi and eliminates stuffiness, assisting in descending turbid phlegm and relieving epigastric and chest fullness. |
-| **Hou Po** | Magnolia bark | *Assistant* | 9 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Moves qi, dries dampness, and directs rebellious qi downward, preventing upward counterflow of turbid yin. |
-| **Gui Zhi** | Cinnamon twig | *Assistant* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Urinary Bladder | Warms and unblocks yang qi in the chest, assisting Xie Bai to activate chest yang and promote qi circulation. |
+| **Gua Lou** | Trichosanthes fruit | *Main* | 12 - 30g | Temp: Cold<br>Taste: Sweet (&#x7518; g&#x101;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Lungs, Stomach, Large Intestine | Opens the chest, dissolves phlegm, and guides out turbid phlegm from the chest to relieve obstruction. |
+| **Xie Bai** | Chinese garlic bulb | *Enhancer* | 9 - 12g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Lungs, Stomach, Large Intestine | Unblocks yang qi and disperses clumps, especially in the chest, to relieve pain and stuffiness. |
+| **Zhi Shi** | Immature Bitter Orange Fruit | *Balancer* | 9 - 12g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n), Sour (&#x9178; su&#x101;n)<br>Affinity: Spleen, Stomach, Large Intestine | Breaks qi and eliminates stuffiness, assisting in descending turbid phlegm and relieving epigastric and chest fullness. |
+| **Hou Po** | Magnolia bark | *Balancer* | 9 - 12g | Temp: Warm<br>Taste: Bitter (&#x82E6; k&#x1D4;), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Spleen, Stomach, Lungs, Large Intestine | Moves qi, dries dampness, and directs rebellious qi downward, preventing upward counterflow of turbid yin. |
+| **Gui Zhi** | Cinnamon twig | *Balancer* | 6 - 9g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Urinary Bladder | Warms and unblocks yang qi in the chest, assisting Xie Bai to activate chest yang and promote qi circulation. |
 
 ---
 

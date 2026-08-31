@@ -24,10 +24,10 @@ A classic Chinese herbal pill that helps stop chronic diarrhea or dysentery with
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Huang Lian** | Coptis rhizome | *King* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Clears Heat, dries Dampness, and resolves toxin to stop dysentery; directly targets the lingering Damp-Heat in the intestines. |
-| **Gan Jiang** | Dried ginger rhizome | *Deputy* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Warms the Middle Burner and dispels Cold, protecting the Spleen and Stomach from being damaged by the cold nature of Huang Lian, while also addressing the underlying Spleen Yang Deficiency. |
-| **Dang Gui** | Chinese Angelica root | *Assistant* | 6 - 9g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Nourishes Blood, invigorates Blood, and regulates the menses to repair the Blood damage caused by chronic dysentery, and alleviates abdominal pain. |
-| **E Jiao** | Donkey-hide gelatin | *Assistant* | 6 - 9g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Liver, Kidneys | Nourishes Yin, enriches Blood, moistens Dryness, and stops bleeding; it repairs the Yin and Blood damage to the intestinal mucosa, and helps astringe bleeding. |
+| **Huang Lian** | Coptis rhizome | *Main* | 6 - 9g | Temp: Cold<br>Taste: Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Heart, Liver, Stomach, Large Intestine, Gallbladder, Spleen | Clears Heat, dries Dampness, and resolves toxin to stop dysentery; directly targets the lingering Damp-Heat in the intestines. |
+| **Gan Jiang** | Dried ginger rhizome | *Enhancer* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Warms the Middle Burner and dispels Cold, protecting the Spleen and Stomach from being damaged by the cold nature of Huang Lian, while also addressing the underlying Spleen Yang Deficiency. |
+| **Dang Gui** | Chinese Angelica root | *Balancer* | 6 - 9g | Temp: Warm<br>Taste: Sweet (&#x7518; g&#x101;n), Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Liver, Heart, Spleen | Nourishes Blood, invigorates Blood, and regulates the menses to repair the Blood damage caused by chronic dysentery, and alleviates abdominal pain. |
+| **E Jiao** | Donkey-hide gelatin | *Balancer* | 6 - 9g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Lungs, Liver, Kidneys | Nourishes Yin, enriches Blood, moistens Dryness, and stops bleeding; it repairs the Yin and Blood damage to the intestinal mucosa, and helps astringe bleeding. |
 
 ---
 

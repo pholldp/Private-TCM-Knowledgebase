@@ -24,8 +24,8 @@ A remarkably simple two-herb classical formula used to relieve muscle cramps, sp
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bai Shao** | White peony root | *King* | 12 - 30g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Sour and slightly cold, enters the Liver channel. Nourishes Blood, preserves Yin, softens the Liver, and relieves spasmodic pain. Directly addresses the root cause of sinew cramping by replenishing the Yin and Blood that nourish the sinews. |
-| **Gan Cao** | Licorice root | *Deputy* | 12 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Sweet and warm, enters the Spleen channel. Tonifies Spleen Qi, moderates urgency and spasm, and relieves pain. Pairs with Bai Shao so that the sour and sweet flavors combine to generate Yin (a principle called 'sour and sweet transform into Yin'). |
+| **Bai Shao** | White peony root | *Main* | 12 - 30g | Temp: Slightly Cool<br>Taste: Bitter (&#x82E6; k&#x1D4;), Sour (&#x9178; su&#x101;n)<br>Affinity: Liver, Spleen | Sour and slightly cold, enters the Liver channel. Nourishes Blood, preserves Yin, softens the Liver, and relieves spasmodic pain. Directly addresses the root cause of sinew cramping by replenishing the Yin and Blood that nourish the sinews. |
+| **Gan Cao** | Licorice root | *Enhancer* | 12 - 15g | Temp: Neutral<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Heart, Lungs, Spleen, Stomach | Sweet and warm, enters the Spleen channel. Tonifies Spleen Qi, moderates urgency and spasm, and relieves pain. Pairs with Bai Shao so that the sour and sweet flavors combine to generate Yin (a principle called 'sour and sweet transform into Yin'). |
 
 ---
 

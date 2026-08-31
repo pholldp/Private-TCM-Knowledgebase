@@ -24,8 +24,8 @@ A classical three-herb pill that strengthens the Liver and Kidneys, nourishes th
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Tu Si Zi** | Chinese Dodder Seed | *King* | 9 - 12g (decoction); 150g (pill batch) | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Spleen | Tonifies both the yin and the yang of the Liver and Kidneys, directly brightens the eyes, and anchors the essence. Its balanced, gentle nature makes it the central ingredient for treating visual weakness due to deficiency. |
-| **Shu Di Huang** | Prepared Rehmannia root | *Deputy* | 9 - 15g (decoction); 90g (pill batch) | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys | Richly nourishes Kidney yin and blood, fills the essence, and strengthens the foundation of the Liver and Kidneys, so that the eyes are properly moistened and nourished. |
+| **Tu Si Zi** | Chinese Dodder Seed | *Main* | 9 - 12g (decoction); 150g (pill batch) | Temp: Neutral<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys, Spleen | Tonifies both the yin and the yang of the Liver and Kidneys, directly brightens the eyes, and anchors the essence. Its balanced, gentle nature makes it the central ingredient for treating visual weakness due to deficiency. |
+| **Shu Di Huang** | Prepared Rehmannia root | *Enhancer* | 9 - 15g (decoction); 90g (pill batch) | Temp: Slightly Warm<br>Taste: Sweet (&#x7518; g&#x101;n)<br>Affinity: Liver, Kidneys | Richly nourishes Kidney yin and blood, fills the essence, and strengthens the foundation of the Liver and Kidneys, so that the eyes are properly moistened and nourished. |
 
 ---
 

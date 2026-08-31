@@ -24,9 +24,9 @@ A classical formula from the Jin Gui Yao Lue that warms the middle jiao and stop
 ## Ingredients Composition
 | Herb Name | English Name | Role | Dosage | Properties & Affinity | Role Summary |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Ce Bai Ye** |  | *King* | 10 - 15g | Temp: <br>Taste: <br>Affinity:  | Ce Bai Ye is the sovereign herb; it is cool in nature and enters the Blood level to cool the blood and stop bleeding, while also astringing the blood. Despite its cool nature, it is balanced by the warming herbs in the formula. |
-| **Gan Jiang** | Dried ginger rhizome | *Deputy* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Gan Jiang warms the middle burner, dispels interior cold, and stops bleeding arising from yang deficiency. Its pungent-warm nature counteracts the coldness of Ce Bai Ye and restores the Spleen's ability to hold blood. |
-| **Ai Ye** | Mugwort leaf | *Assistant* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Spleen, Kidneys | Ai Ye warms the channels and stops bleeding by strengthening the warming action of Gan Jiang. It also harmonizes the effects of Ce Bai Ye and Gan Jiang, ensuring the formula stays warm but not too drying. |
+| **Ce Bai Ye** |  | *Main* | 10 - 15g | Temp: <br>Taste: <br>Affinity:  | Ce Bai Ye is the sovereign herb; it is cool in nature and enters the Blood level to cool the blood and stop bleeding, while also astringing the blood. Despite its cool nature, it is balanced by the warming herbs in the formula. |
+| **Gan Jiang** | Dried ginger rhizome | *Enhancer* | 3 - 6g | Temp: Hot<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n)<br>Affinity: Heart, Spleen, Lungs, Stomach | Gan Jiang warms the middle burner, dispels interior cold, and stops bleeding arising from yang deficiency. Its pungent-warm nature counteracts the coldness of Ce Bai Ye and restores the Spleen's ability to hold blood. |
+| **Ai Ye** | Mugwort leaf | *Balancer* | 3 - 6g | Temp: Warm<br>Taste: Acrid / Pungent (&#x8F9B; x&#x12B;n), Bitter (&#x82E6; k&#x1D4;)<br>Affinity: Liver, Spleen, Kidneys | Ai Ye warms the channels and stops bleeding by strengthening the warming action of Gan Jiang. It also harmonizes the effects of Ce Bai Ye and Gan Jiang, ensuring the formula stays warm but not too drying. |
 
 ---
 
